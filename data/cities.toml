@@ -622,15 +622,6 @@ lon = 14.2681
 continent = "EU"
 # 4 edition(s)
 
-["Oxford, UK"]
-country = "GB"
-subdivision = "GB-ENG"
-display = "Oxford"
-lat = 51.752
-lon = -1.2577
-continent = "EU"
-# 4 edition(s)
-
 ["Pittsburgh, PA, USA"]
 country = "US"
 display = "Pittsburgh"
@@ -2122,7 +2113,7 @@ lon = -113.4938
 continent = "NA"
 # 1 edition(s)
 
-["Egham, United Kingdom"]
+["Egham, England"]
 country = "GB"
 subdivision = "GB-ENG"
 display = "Egham"
@@ -2695,14 +2686,6 @@ country = "AT"
 display = "Linz"
 lat = 48.3069
 lon = 14.2858
-continent = "EU"
-# 1 edition(s)
-
-["Lisbon Portugal"]
-country = "PT"
-display = "Lisbon Portugal"
-lat = 38.7223
-lon = -9.1393
 continent = "EU"
 # 1 edition(s)
 

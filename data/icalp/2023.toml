@@ -13,6 +13,7 @@ tz = "CET"
 format = "15 pages LIPIcs + ref"
 paper = [2023-02-11]
 notification = [2023-04-21]
+extensions = false
 
 [proceedings]
 publisher = "LIPIcs"

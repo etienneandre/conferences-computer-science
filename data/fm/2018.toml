@@ -6,7 +6,7 @@ url = "http://www.fm2018.org/"
 [event]
 start = 2018-07-15
 end = 2018-07-17
-city = "Oxford, UK"
+city = "Oxford, England"
 
 [submission]
 format = "Springer 15 pages (regular) / 6 pages (short / tool)"

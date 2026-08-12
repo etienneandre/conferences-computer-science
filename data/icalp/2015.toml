@@ -13,6 +13,7 @@ tz = "UTC-8"
 format = "12 pages LNCS"
 paper = [2015-02-17]
 notification = [2015-04-15]
+extensions = false
 
 [proceedings]
 publisher = "Springer ARCoSS / LNCS"

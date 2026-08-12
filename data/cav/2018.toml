@@ -6,7 +6,7 @@ url = "http://cavconference.org/2018/"
 [event]
 start = 2018-07-14
 end = 2018-07-17
-city = "Oxford, UK"
+city = "Oxford, England"
 
 [submission]
 tz = "AoE"

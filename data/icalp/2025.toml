@@ -13,6 +13,7 @@ tz = "AoE"
 format = "15 pages LIPIcs + references + appendix"
 paper = [2025-02-08]
 notification = [2025-04-14]
+extensions = false
 
 [proceedings]
 publisher = "LIPIcs"

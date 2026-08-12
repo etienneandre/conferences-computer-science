@@ -6,7 +6,7 @@ url = "https://www.cs.ox.ac.uk/conferences/csf2018/"
 [event]
 start = 2018-07-09
 end = 2018-07-12
-city = "Oxford, UK"
+city = "Oxford, England"
 
 [submission]
 tz = "AoE"

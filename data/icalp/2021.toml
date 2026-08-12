@@ -13,6 +13,7 @@ tz = "UTC"
 format = "12 pages LIPIcs + ref"
 paper = [2021-02-12]
 notification = [2021-05-07]
+extensions = false
 
 [proceedings]
 publisher = "LIPIcs"

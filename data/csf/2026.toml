@@ -6,7 +6,7 @@ url = "https://csf2026.ieee-security.org/"
 [event]
 start = 2026-07-26
 end = 2026-07-29
-city = "Lisbon Portugal"
+city = "Lisbon, Portugal"
 
 [submission]
 format = "12 pages IEEE (+ references + appendix)"

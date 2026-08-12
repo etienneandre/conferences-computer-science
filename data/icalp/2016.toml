@@ -13,6 +13,7 @@ tz = "UTC-8"
 format = "12 pages LIPIcs"
 paper = [2016-02-17]
 notification = [2016-04-15]
+extensions = false
 
 [proceedings]
 publisher = "LIPIcs"

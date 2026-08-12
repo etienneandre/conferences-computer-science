@@ -12,6 +12,7 @@ city = "Prague, Czech Republic"
 format = "12 pages LIPIcs + ref"
 paper = [2018-02-16]
 notification = [2018-04-15]
+extensions = false
 
 [proceedings]
 publisher = "LIPIcs"
