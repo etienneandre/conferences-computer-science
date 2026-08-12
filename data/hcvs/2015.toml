@@ -3,7 +3,7 @@ edition = 2
 title = "Horn Clauses for Verification and Synthesis"
 
 [event]
-dates_text = "July, 2015"
+start = 2015-07-19
 city = "San Francisco, CA, USA"
 
 [submission]

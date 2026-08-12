@@ -4,7 +4,7 @@ title = "15th International Workshop on Verification of Infinite-State Systems"
 url = "http://www.fit.vutbr.cz/~holik/INFINITY13/"
 
 [event]
-dates_text = "October 2013"
+start = 2013-10-15 # NOTE: date unsure, here = first day of ATVA
 city = "Hà Nội, Việt Nam"
 
 [submission]
@@ -17,4 +17,5 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [extra]
-notes = "A Satellite Workshop of ATVA 2013. Also accept presentations on recent or ongoing work (possibly submitted or published elsewhere) that will not appear in the proceedings. Deadline postponed by 2 weeks in 2012."
+colocated = "A Satellite Workshop of ATVA 2013"
+notes = "Also accept presentations on recent or ongoing work (possibly submitted or published elsewhere) that will not appear in the proceedings. Deadline postponed by 2 weeks in 2012."

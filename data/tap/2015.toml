@@ -1,10 +1,11 @@
 # migrated from data.php line 30889
 edition = 9
 title = "9th International Conference on Tests & Proofs"
-url = "http://tap2015.in.tum.de/"
+url = "https://tap2015.in.tum.de/"
 
 [event]
-dates_text = "July 2015"
+start = 2015-07-22
+end = 2015-07-24
 city = "L’Aquila, Italy"
 
 [submission]
@@ -18,4 +19,4 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Part of the Staf Conference Series"
+colocated = "Part of the Staf Conference Series"

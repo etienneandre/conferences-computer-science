@@ -4,7 +4,7 @@ title = "8th International Workshop on Applied Verification for Continuous and H
 url = "https://cps-vo.org/group/ARCH/submissionInstructions"
 
 [event]
-dates_text = "Early July 2021"
+start = 2021-07-09
 city = "virtual? (Brussels, Belgium)"
 
 [submission]

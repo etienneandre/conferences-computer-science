@@ -17,6 +17,7 @@ notification = [2025-12-03]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+post = true
 
 [extra]
 journal = "Post-proceedings with selected papers (based on submission and presentation) will be published in an LNCS volume"
