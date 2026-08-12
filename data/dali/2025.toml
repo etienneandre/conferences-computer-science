@@ -6,7 +6,7 @@ url = "http://dali2025.web.ua.pt"
 [event]
 start = 2025-10-20
 end = 2025-10-21
-city = "Xi’an, China"
+city = "Xi’An, China"
 
 [submission]
 format = "15 pages LNCS (regular) + bibliography / 6-8 pages (short) + 1p bibliography"

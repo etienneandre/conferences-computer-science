@@ -1572,14 +1572,6 @@ lon = 108.9398
 continent = "AS"
 # 2 edition(s)
 
-["Xi’an, China"]
-country = "CN"
-display = "Xi’an"
-lat = 34.3416
-lon = 108.9398
-continent = "AS"
-# 2 edition(s)
-
 ["Đà Nẵng, Việt Nam"]
 country = "VN"
 display = "Đà Nẵng"

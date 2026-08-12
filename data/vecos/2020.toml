@@ -6,7 +6,7 @@ url = "http://vecos-world.org/2020/"
 [event]
 start = 2020-09-24
 end = 2020-09-25
-city = "Xi’an, China"
+city = "Xi’An, China"
 
 [submission]
 tz = "AoE"
