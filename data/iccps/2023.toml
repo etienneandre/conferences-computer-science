@@ -13,7 +13,7 @@ tz = "AoE"
 format = "10 pages ACM + 2-page appendix"
 abstract = [2022-10-24]
 paper = [2022-10-31]
-notification = [2022-01-17]
+notification = [2023-01-20]
 
 [proceedings]
 publisher = "ACM"

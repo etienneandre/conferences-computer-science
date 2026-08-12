@@ -11,9 +11,9 @@ city = "Vienna, Austria"
 [submission]
 tz = "AoE"
 format = "16 pages LNCS + references (full) / 5 pages (short)"
-abstract = [2026-04-20, 2026-05-22]
-paper = [2026-04-27, 2026-05-22]
-notification = [2025-07-25]
+abstract = [2026-04-20, 2026-05-22, 2026-05-26]
+paper = [2026-04-27, 2026-05-22, 2026-05-26]
+notification = [2026-06-10, 2026-07-22]
 
 [proceedings]
 publisher = "Springer LNCS"

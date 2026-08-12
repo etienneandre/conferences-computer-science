@@ -2,6 +2,7 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "HSCC"
 name = "ACM International Conference on Hybrid Systems: Computation and Control"
+defunct = 2025
 
 [core]
 rank = "absent"  # TODO: verify

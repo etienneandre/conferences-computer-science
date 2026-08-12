@@ -4,8 +4,8 @@ title = "18th International Conference on Hybrid Systems: Computation and Contro
 url = "http://ljk.imag.fr/hscc2015/"
 
 [event]
-start = 2014-04-14
-end = 2014-04-16
+start = 2015-04-14 # NOTE: was "2014", certainly a typo
+end = 2015-04-16# NOTE: was "2014", certainly a typo
 city = "Seattle, USA"
 
 [submission]

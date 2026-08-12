@@ -4,8 +4,8 @@ title = "7th International Symposium on Games, Automata, Logics, and Formal Veri
 url = "http://gandalf2016.dmi.unict.it/"
 
 [event]
-start = 2015-09-14
-end = 2015-09-16
+start = 2016-09-14 # NOTE: was "2015", certainly a typo
+end = 2016-09-16 # NOTE: was "2015", certainly a typo
 city = "Catania, Italy"
 
 [submission]

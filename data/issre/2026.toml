@@ -4,8 +4,8 @@ title = "37th IEEE International Symposium on Software Reliability Engineering"
 url = "https://cyprusconferences.org/issre2026/"
 
 [event]
-start = 2025-10-21
-end = 2025-10-24
+start = 2026-10-23
+end = 2026-10-26
 city = "Limassol, Cyprus"
 
 [submission]
@@ -26,4 +26,4 @@ award = "ISSRE is pleased to announce the IEEE Best Research Paper Award, awarde
 
 [extra]
 journal = "Authors of accepted papers will be invited to submit an extended version of their work to a special issue of the Empirical Software Engineering (EMSE) journal (under negotiation as in previous editions of the conference)."
-notes = "Includes \"negative results\" papers. Early decisions: 15th June."
+notes = "Includes negative results papers. Early decisions: 15th June."

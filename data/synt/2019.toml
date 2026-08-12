@@ -4,7 +4,7 @@ title = "8th Workshop on Synthesis"
 url = "https://cs.nyu.edu/acsys/synt2019/"
 
 [event]
-start = 2020-07-14
+start = 2019-07-14
 city = "New York, NY, USA"
 
 [submission]
@@ -17,4 +17,4 @@ publisher = "informal"
 license = "free"
 
 [extra]
-notes = "Satellite event of CAV."
+colocated = "Satellite event of CAV."

@@ -6,7 +6,7 @@ url = "http://www.cs.york.ac.uk/sefm2015/"
 [event]
 start = 2015-09-07
 end = 2015-09-11
-city = "York, UK"
+city = "York, England"
 
 [submission]
 format = "15 pages (research / tools) / 6 pages (New ideas/Work-in-Progress) LNCS"

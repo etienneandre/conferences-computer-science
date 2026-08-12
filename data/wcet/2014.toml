@@ -10,7 +10,7 @@ city = "Madrid, Spain"
 [submission]
 format = "10 pages OASIcs"
 paper = [2014-04-25]
-notification = [2013-05-23]
+notification = [2014-05-23] # NOTE: was "2013", certainly a typo
 
 [proceedings]
 publisher = "OASIcs"

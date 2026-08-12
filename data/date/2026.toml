@@ -11,9 +11,9 @@ city = "Verona, Italy"
 [submission]
 tz = "AoE"
 format = "6 pages IEEE + 1 page references"
-abstract = [2024-09-15]
-paper = [2024-09-22]
-notification = [2024-11-19]
+abstract = [2025-09-15] # NOTE: was "2024", certainly a typo
+paper = [2025-09-22] # NOTE: was "2024", certainly a typo
+notification = [2025-11-19] # NOTE: was "2024", certainly a typo
 
 [proceedings]
 publisher = "IEEE"

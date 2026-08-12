@@ -4,14 +4,14 @@ title = "8th Junior Researcher Workshop on Real-Time Computing"
 url = "http://www.cister.isep.ipp.pt/jrwrtc2014/"
 
 [event]
-start = 2013-10-08
-end = 2013-10-10
+start = 2014-10-08
+end = 2014-10-10
 city = "Versailles, France"
 
 [submission]
 format = "4 pages IEEE"
-paper = [2014-08-11]
-notification = [2014-08-25]
+paper = [2014-08-11, 2014-08-20]
+notification = [2014-08-25, 2014-09-01]
 
 [proceedings]
 publisher = "PDF"

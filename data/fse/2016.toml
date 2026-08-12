@@ -11,7 +11,7 @@ city = "Seattle, WA, USA"
 [submission]
 format = "10+1 pages ACM SIG"
 paper = [2016-03-11]
-notification = [2015-06-01]
+notification = [2016-06-01]
 
 [proceedings]
 publisher = "ACM"

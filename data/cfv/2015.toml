@@ -4,7 +4,7 @@ title = "9th International Workshop on Constraints in Formal Verification"
 url = "http://web.engr.oregonstate.edu/~alex/cfv15.html"
 
 [event]
-start = 2013-11-05
+start = 2015-11-05 # NOTE: was "2013", certainly a typo
 city = "Austin, Texas, USA"
 
 [submission]

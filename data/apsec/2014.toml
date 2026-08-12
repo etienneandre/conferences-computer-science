@@ -4,8 +4,8 @@ title = "21st Asia-Pacific Software Engineering Conference"
 url = "http://apsec2013.eng.chula.ac.th/"
 
 [event]
-start = 2013-12-02
-end = 2013-12-05
+start = 2014-12-02 # NOTE: was "2013", probably a typo
+end = 2014-12-05 # NOTE: was "2013", probably a typo
 city = "Jeju island, South Korea"
 
 [submission]

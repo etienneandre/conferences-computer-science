@@ -11,8 +11,8 @@ city = "Milan, Italy"
 [submission]
 tz = "CET"
 format = "12 pages Springer (including appendix+ref)"
-paper = [2019-10-18]
-notification = [2019-11-25]
+paper = [2020-10-19]
+notification = [2020-11-23]
 
 [proceedings]
 publisher = "Springer LNCS"
