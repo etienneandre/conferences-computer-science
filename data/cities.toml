@@ -1,9 +1,12 @@
 # Adapted from cities-draft.toml, initially one entry per distinct place string.
+# NOTE: country code is ISO 3166-1
 
 ["Paris, France"]
+country = "FR"
 # 43 edition(s)
 
 ["Toulouse, France"]
+country = "FR"
 # 23 edition(s)
 
 ["Porto, Portugal"]
@@ -13,6 +16,7 @@
 # 15 edition(s)
 
 ["Grenoble, France"]
+country = "FR"
 # 14 edition(s)
 
 ["Lisbon, Portugal"]
@@ -34,6 +38,7 @@
 # 12 edition(s)
 
 ["Beijing, China"]
+country = "CN"
 # 11 edition(s)
 
 ["Eindhoven, The Netherlands"]
@@ -94,6 +99,7 @@
 # 6 edition(s)
 
 ["Bordeaux, France"]
+country = "FR"
 # 6 edition(s)
 
 ["Hà Nội, Việt Nam"]
@@ -103,6 +109,7 @@
 # 6 edition(s)
 
 ["Lille, France"]
+country = "FR"
 # 6 edition(s)
 
 ["London, England"]
@@ -157,6 +164,7 @@
 # 5 edition(s)
 
 ["Montpellier, France"]
+country = "FR"
 # 5 edition(s)
 
 ["Rome, Italy"]
@@ -211,18 +219,21 @@
 # 4 edition(s)
 
 ["Hong Kong, China"]
+country = "CN"
 # 4 edition(s)
 
 ["Liverpool, England"]
 # 4 edition(s)
 
 ["Lyon, France"]
+country = "FR"
 # 4 edition(s)
 
 ["Modena, Italy"]
 # 4 edition(s)
 
 ["Nanjing, China"]
+country = "CN"
 # 4 edition(s)
 
 ["Naples, Italy"]
@@ -247,6 +258,7 @@
 # 4 edition(s)
 
 ["Shanghai, China"]
+country = "CN"
 # 4 edition(s)
 
 ["Stuttgart, Germany"]
@@ -295,6 +307,9 @@
 # 3 edition(s)
 
 ["Hangzhou, China"]
+country = "CN"
+lat = 30.2490
+lon = 120.2052
 # 3 edition(s)
 
 ["Houston, Texas, USA"]
@@ -313,18 +328,21 @@
 # 3 edition(s)
 
 ["Marseille, France"]
+country = "FR"
 # 3 edition(s)
 
 ["Mumbai, India"]
 # 3 edition(s)
 
 ["Nancy, France"]
+country = "FR"
 # 3 edition(s)
 
 ["Nha Trang, Việt Nam"]
 # 3 edition(s)
 
 ["Nice, France"]
+country = "FR"
 # 3 edition(s)
 
 ["Saarbrücken, Germany"]
@@ -352,12 +370,14 @@
 # 3 edition(s)
 
 ["Vannes, France"]
+country = "FR"
 # 3 edition(s)
 
 ["Verona, Italy"]
 # 3 edition(s)
 
 ["Versailles, France"]
+country = "FR"
 # 3 edition(s)
 
 ["Ames, Iowa, USA"]
@@ -379,12 +399,14 @@
 # 2 edition(s)
 
 ["Besançon, France"]
+country = "FR"
 # 2 edition(s)
 
 ["Brasília, Brazil"]
 # 2 edition(s)
 
 ["Brest, France"]
+country = "FR"
 # 2 edition(s)
 
 ["Brisbane, Australia"]
@@ -409,6 +431,7 @@
 # 2 edition(s)
 
 ["Chongqing, China"]
+country = "CN"
 # 2 edition(s)
 
 ["Copenhagen, Denmark"]
@@ -436,9 +459,11 @@
 # 2 edition(s)
 
 ["Guangzhou, China"]
+country = "CN"
 # 2 edition(s)
 
 ["Guilin, China"]
+country = "CN"
 # 2 edition(s)
 
 ["Hoboken, NJ, USA"]
@@ -505,12 +530,14 @@
 # 2 edition(s)
 
 ["Pau, France"]
+country = "FR"
 # 2 edition(s)
 
 ["Philadelphia, Pennsylvania, United States"]
 # 2 edition(s)
 
 ["Poitiers, France"]
+country = "FR"
 # 2 edition(s)
 
 ["Québec City, Canada"]
@@ -520,9 +547,11 @@
 # 2 edition(s)
 
 ["Rennes, Bretagne, France"]
+country = "FR"
 # 2 edition(s)
 
 ["Rennes, France"]
+country = "FR"
 # 2 edition(s)
 
 ["Reykjavík, Iceland"]
@@ -532,6 +561,7 @@
 # 2 edition(s)
 
 ["Saint-Malo, Bretagne, France"]
+country = "FR"
 # 2 edition(s)
 
 ["San Diego, CA, USA"]
@@ -541,12 +571,11 @@
 # 2 edition(s)
 
 ["Shanghai, China (hybrid)"]
+country = "CN"
 # 2 edition(s)
 
 ["Shenzhen, China"]
-# 2 edition(s)
-
-["Southampton, UK"]
+country = "CN"
 # 2 edition(s)
 
 ["Stellenbosch, South Africa"]
@@ -586,9 +615,11 @@
 # 2 edition(s)
 
 ["Xi’An, China"]
+country = "CN"
 # 2 edition(s)
 
 ["Xi’an, China"]
+country = "CN"
 # 2 edition(s)
 
 ["Đà Nẵng, Việt Nam"]
@@ -607,6 +638,7 @@
 # 1 edition(s)
 
 ["Angers, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Auckland, New Zealand"]
@@ -634,6 +666,7 @@
 # 1 edition(s)
 
 ["Beijing, China (+ virtual options)"]
+country = "CN"
 # 1 edition(s)
 
 ["Beijing, China (hybrid)"]
@@ -646,6 +679,7 @@
 # 1 edition(s)
 
 ["Bensançon, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Berlin, Germany (or online)"]
@@ -694,9 +728,11 @@
 # 1 edition(s)
 
 ["CNAM, Paris, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Caen, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Cali, Colombia"]
@@ -718,6 +754,7 @@
 # 1 edition(s)
 
 ["Changsha, China"]
+country = "CN"
 # 1 edition(s)
 
 ["Charlotte, NC, USA"]
@@ -727,6 +764,7 @@
 # 1 edition(s)
 
 ["Chengdu, China"]
+country = "CN"
 # 1 edition(s)
 
 ["Chiba, Japan"]
@@ -739,6 +777,7 @@
 # 1 edition(s)
 
 ["Clermont-Ferrand, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Cluj-Napoca, Romania"]
@@ -799,6 +838,7 @@
 # 1 edition(s)
 
 ["Evry, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Firenze, Italy"]
@@ -841,6 +881,7 @@
 # 1 edition(s)
 
 ["Guiyang City, China"]
+country = "CN"
 # 1 edition(s)
 
 ["Göttingen, Germany"]
@@ -985,6 +1026,7 @@
 # 1 edition(s)
 
 ["LSV, Cachan, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Leicester, England"]
@@ -1042,6 +1084,7 @@
 # 1 edition(s)
 
 ["Marne-la-Vallée, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Marrakech, Morocco (hybrid)"]
@@ -1096,6 +1139,7 @@
 # 1 edition(s)
 
 ["Nantes, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Napoly, Italy"]
@@ -1132,6 +1176,7 @@
 # 1 edition(s)
 
 ["Oberbronn, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Online (Boston, MA, USA)"]
@@ -1144,6 +1189,7 @@
 # 1 edition(s)
 
 ["Orléans, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Padua, Italy (hybrid?)"]
@@ -1195,6 +1241,7 @@
 # 1 edition(s)
 
 ["Poitiers/Futuroscope, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Porto de Galinhas, Brazil"]
@@ -1216,6 +1263,7 @@
 # 1 edition(s)
 
 ["Qingdao, China"]
+country = "CN"
 # 1 edition(s)
 
 ["Québec City, Québec"]
@@ -1228,6 +1276,7 @@
 # 1 edition(s)
 
 ["Reims, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Reykjavík, Iceland (hybrid)"]
@@ -1243,6 +1292,7 @@
 # 1 edition(s)
 
 ["Saclay, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Sacramento, California, United States"]
@@ -1300,13 +1350,19 @@
 # 1 edition(s)
 
 ["Sophia Antipolis, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Sorrento Coast, Italy"]
 # 1 edition(s)
 
 ["Southampton, England"]
-# 1 edition(s)
+country = "GB"
+subdivision = "GB-ENG"
+display = "Southampton"
+continent = "EU"
+lat = 50.9025
+lon = -1.4042
 
 ["Spetses, Greece"]
 # 1 edition(s)
@@ -1318,6 +1374,7 @@
 # 1 edition(s)
 
 ["Strasbourg, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Sydney Australia"]
@@ -1333,6 +1390,7 @@
 # 1 edition(s)
 
 ["Tianjin, China"]
+country = "CN"
 # 1 edition(s)
 
 ["Toronto, Ontario, Canada"]
@@ -1366,6 +1424,7 @@
 # 1 edition(s)
 
 ["Valencia, France"]
+country = "FR"
 # 1 edition(s)
 
 ["Valencia, Spain"]
@@ -1402,6 +1461,7 @@
 # 1 edition(s)
 
 ["Wuhan, China"]
+country = "CN"
 # 1 edition(s)
 
 ["Yale University, Connecticut, USA (or virtual)"]
@@ -1417,6 +1477,7 @@
 # 1 edition(s)
 
 ["Zhangjiajie, China"]
+country = "CN"
 # 1 edition(s)
 
 ["none"]

@@ -6,7 +6,7 @@ url = "http://www.southampton.ac.uk/abz2018"
 [event]
 start = 2018-06-05
 end = 2018-06-08
-city = "Southampton, UK"
+city = "Southampton, England"
 
 [submission]
 format = "14 pages LNCS (research) / 4 pages (short / work in progress / tool) / 14 pages (answer to case studies) / 4 pages extended abstract (industry)"

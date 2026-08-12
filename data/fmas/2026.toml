@@ -6,7 +6,7 @@ url = "https://fmasworkshop.github.io/FMAS2026/"
 [event]
 start = 2026-11-17
 end = 2026-11-18
-city = "Southampton, UK"
+city = "Southampton, England"
 
 [submission]
 tz = "AoE"
