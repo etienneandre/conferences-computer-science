@@ -4,8 +4,9 @@ title = "40th IEEE Real-Time Systems Symposium"
 url = "http://2019.rtss.org/"
 
 [event]
-dates_text = "<span class=\"extended\">3-6 December 2019</span>18-21 February 2020"
-city = "<span class=\"extended\">Hong Kong, China</span>York, England"
+start = 2019-02-18
+end = 2019-02-21
+city = "York, England"
 
 [submission]
 tz = "AoE"
@@ -18,4 +19,4 @@ publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Postponed due to the events in Hong-Kong. Will take place in the UK in spring 2020. Firm submission deadline. Rebuttal: 15-19 July 2019."
+notes = "Postponed due to the events (demonstrations) in Hong-Kong: moved from 3-6 December 2019 to 18-21 February 2020 in York. Firm submission deadline. Rebuttal: 15-19 July 2019."

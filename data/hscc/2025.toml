@@ -2,6 +2,7 @@
 edition = 28
 title = "28th ACM International Conference on Hybrid Systems: Computation and Control"
 url = "https://hscc.acm.org/2025"
+defunct = 2025
 
 [event]
 start = 2025-05-06

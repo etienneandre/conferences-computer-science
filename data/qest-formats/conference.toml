@@ -2,6 +2,7 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "QEST+FORMATS"
 name = "Third joint event for International Conference on Quantitative Evaluation of SysTems and International Conference on Formal Modeling and Analysis of Timed Systems"
+predecessors = ["qest", "formats"]
 
 [core]
 rank = "absent"  # TODO: verify

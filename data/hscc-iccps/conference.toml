@@ -2,6 +2,7 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "HSCC/ICCPS"
 name = "ACM International Conference on Hybrid Systems: Computation and Control, and 17th ACM/IEEE International Conference on Cyber-Physical Systems"
+predecessors = ["hscc", "iccps"]
 
 [core]
 rank = "absent"  # TODO: verify

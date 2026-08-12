@@ -2,10 +2,9 @@
 edition = 25
 title = "25th IEEE Pacific Rim International Symposium on Dependable Computing"
 url = "http://prdc.dependability.org/PRDC2020/"
+status = "no-edition"
 
 [event]
-dates_text = "no conference (papers presented in 2021)"
-city = "none"
 
 [submission]
 format = "10 pages IEEE (regular) / 6 pages (practical experience reports)"

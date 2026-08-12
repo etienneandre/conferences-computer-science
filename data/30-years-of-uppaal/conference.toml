@@ -3,6 +3,7 @@
 acronym = "30 Years of UPPAAL"
 name = "30 Years of UPPAAL Workshop at AISoLA 2025"
 defunct = 2025
+one_off = true
 
 [core]
 rank = "absent"  # TODO: verify
