@@ -1,0 +1,21 @@
+# migrated from data.php line 26425
+edition = 31
+title = "The 31st Annual ACM Symposium on Applied Computing"
+url = "http://www.acm.org/conferences/sac/sac2016/"
+
+[event]
+start = 2016-04-13
+end = 2016-04-17
+city = "Pisa, Italy"
+
+[submission]
+format = "6 pages ACM SAC"
+paper = [2015-09-11, 2015-09-21, 2015-09-28]
+notification = [2015-11-13]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "37 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind reviews! SAC 2016 is sponsored by the ACM Special Interest Group on Applied Computing (SIGAPP)."

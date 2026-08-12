@@ -1,0 +1,28 @@
+# migrated from data.php line 4985
+edition = 31
+title = "31st IEEE Computer Security Foundations Symposium"
+url = "https://www.cs.ox.ac.uk/conferences/csf2018/"
+
+[event]
+start = 2018-07-09
+end = 2018-07-12
+city = "Oxford, UK"
+
+[submission]
+tz = "AoE"
+format = "12 pages IEEE (+ references + appendix)"
+abstract = [2018-01-30]
+paper = [2018-01-31]
+notification = [2018-03-31]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[stats]
+accepted = 25
+submitted = 72
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Double blind. Rebuttal phase: March 14-16, 2018"

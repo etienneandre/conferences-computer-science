@@ -1,0 +1,21 @@
+# migrated from data.php line 15233
+edition = 13
+title = "13th International Conference On Smart homes and health Telematics"
+url = "http://www.icostconference.org"
+
+[event]
+start = 2015-06-10
+end = 2015-06-12
+city = "Geneva, Switzerland"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2015-01-15]
+notification = [2015-02-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Warning: double blind submission!"

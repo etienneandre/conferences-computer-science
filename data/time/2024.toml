@@ -1,0 +1,22 @@
+# migrated from data.php line 32035
+edition = 31
+title = "31st International Symposium on Temporal Representation and Reasoning"
+url = "https://www.lirmm.fr/time2024/"
+
+[event]
+start = 2024-10-28
+end = 2024-10-30
+city = "Montpellier, France"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ references + 5 pages appendix)"
+paper = [2024-06-21]
+notification = [2024-08-02]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "The authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in Information Systems."

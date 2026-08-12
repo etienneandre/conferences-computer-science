@@ -1,0 +1,21 @@
+# migrated from data.php line 11533
+edition = 36
+title = "36th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "http://www.fsttcs.org/"
+
+[event]
+start = 2016-12-13
+end = 2016-12-15
+city = "Chennai, India"
+
+[submission]
+format = "12 pages in LIPIcs (unlimited appendix)"
+paper = [2016-07-15, 2016-07-17]
+notification = [2016-09-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Always in India. Published in CC-BY in Leibniz International Proceedings in Informatics (LIPIcs) as a free, open, electronic archive with access to all. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."

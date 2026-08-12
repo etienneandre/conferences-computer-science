@@ -1,0 +1,12 @@
+# QEST — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "QEST"
+name = "International Conference on Quantitative Evaluation of SysTems"
+defunct = 2023
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Acceptance rate (2016): 52% (21 regular + 3 tools / 46). Deadline extensions: 1 week in 2013, 1 week in 2015, 9 days in 2017, 10 days in 2018, 13 days in 2019, 27 days (2020), 15 days (2021), 10 days (2023)."

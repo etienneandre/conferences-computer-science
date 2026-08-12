@@ -1,0 +1,23 @@
+# migrated from data.php line 1544
+edition = 18
+title = "18th Asian Symposium on Programming Languages and Systems"
+url = "https://conf.researchr.org/home/aplas-2020"
+
+[event]
+start = 2020-12-01
+end = 2020-12-04
+city = "Fukuoka, Japan"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS (research) / 8+6 pages (System and tool demonstrations)"
+abstract = [2020-07-03]
+paper = [2020-07-06]
+notification = [2020-08-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Lightweight double-blind reviewing process. Rebuttal 5-7 August 2020."

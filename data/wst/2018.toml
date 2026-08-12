@@ -1,0 +1,21 @@
+# migrated from data.php line 34473
+edition = 16
+title = "16th International Workshop on Termination"
+url = "http://wst2018.webs.upv.es/"
+
+[event]
+start = 2018-07-18
+end = 2018-07-19
+city = "Oxford, England"
+
+[submission]
+format = "5 pages LIPIcs"
+paper = [2018-04-15]
+notification = [2018-05-15]
+
+[proceedings]
+publisher = "Web page"
+license = "free"
+
+[extra]
+notes = "Part of FLoC 2018. Informal proceedings (earlier / concurrent / later submission allowed). Live complexity and termination competition during the workshop. Every one or two years."

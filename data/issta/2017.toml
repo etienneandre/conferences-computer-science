@@ -1,0 +1,20 @@
+# migrated from data.php line 18148
+title = "International Symposium on Software Testing and Analysis"
+url = "http://conf.researchr.org/home/issta-2017"
+
+[event]
+start = 2017-07-10
+end = 2017-07-14
+city = "Santa Barbara, California, USA"
+
+[submission]
+format = "10 pages ACM (+ references)"
+paper = [2017-02-03]
+notification = [2017-04-29]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "ISSTA 2017 will conduct double-blind reviewing. Author Response Period (21st and 22nd March)."

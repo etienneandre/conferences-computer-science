@@ -1,0 +1,16 @@
+# RTNS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "RTNS"
+name = "International Conference on Real-Time Networks and Systems"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "rtns"
+twitter = "@2021Rtns"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "47% (29/62) in 2013, 51% (32/63) in 2014, 47% (31/66) in 2015, 45% (34/75) in 2016"  # from RTNS 2026
+extensions = "none (2014, 2015, 2016), 14 days (2018), 10 days (2021), 13 days (2022), none (2023)"  # from RTNS 2026

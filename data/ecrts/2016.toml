@@ -1,0 +1,23 @@
+# migrated from data.php line 5950
+edition = 28
+title = "28th Euromicro Conference on Real-Time Systems"
+url = "http://ecrts16.ecrts.org"
+
+[event]
+start = 2016-07-05
+end = 2016-07-08
+city = "Toulouse, France"
+
+[submission]
+format = "10 pages IEE 2 columns (+ 2 pages appendix)"
+paper = [2016-02-25]
+notification = [2016-04-22]
+
+[proceedings]
+publisher = "IEEE ?"
+license = "pay"
+
+[extra]
+notes = """
+No deadline extension for any reason. A selection of the best papers will receive outstanding paper
+awards, and will be highlighted as such in the conference proceedings. These papers will form the shortlist for a best paper award, which will be presented at the conference. ECRTS 2016 aims at being more inclusive (more papers) than past years."""

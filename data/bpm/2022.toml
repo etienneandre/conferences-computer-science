@@ -1,0 +1,23 @@
+# migrated from data.php line 3046
+edition = 20
+title = "20th International Conference on Business Process Management"
+url = "https://bpm2022.uni-muenster.de/"
+
+[event]
+start = 2022-09-13
+end = 2022-09-15
+city = "Münster, Germany"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS"
+abstract = [2022-03-16]
+paper = [2022-03-16]
+notification = [2022-05-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Pre-submission shepherding program for first-time submitters. Authors of selected papers will be invited to submit an extended version to special issues in Elsevier’s Information Systems (Tracks I and II) and in Springer’s Business & Information Systems Engineering (Track III)."

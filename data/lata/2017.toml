@@ -1,0 +1,22 @@
+# migrated from data.php line 18942
+edition = 11
+title = "11th international conference on language and automata theory and applications"
+url = "http://grammars.grlmc.com/lata2016/"
+
+[event]
+start = 2017-03-06
+end = 2017-03-09
+city = "Umeå, Sweden"
+
+[submission]
+tz = "CET"
+format = "12 pages Springer (including appendix+ref)"
+paper = [2016-10-21, 2016-10-28]
+notification = [2016-11-25, 2016-11-28]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A special issue of the Journal of Computer and System Sciences (Elsevier, 2015 JCR impact factor: 0.873) will be later published containing peer-reviewed substantially extended versions of some of the papers contributed to the conference. Submissions to it will be by invitation. WARNING: deadline CET."

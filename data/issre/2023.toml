@@ -1,0 +1,23 @@
+# migrated from data.php line 17975
+edition = 34
+title = "34th IEEE International Symposium on Software Reliability Engineering"
+url = "https://issre.net/"
+
+[event]
+start = 2023-10-09
+end = 2023-10-12
+city = "Florence, Italy"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE + 2 references (research / experience reports) / 6-10 pages (tools and artifact)"
+abstract = [2023-05-22, 2023-06-01]
+paper = [2023-06-01, 2023-06-07]
+notification = [2023-07-29]
+
+[proceedings]
+publisher = "IEEE (?)"
+license = "pay"
+
+[extra]
+notes = "Double-blind. Rebuttal: 5-7 July 2022."

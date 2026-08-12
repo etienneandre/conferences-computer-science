@@ -1,0 +1,22 @@
+# migrated from data.php line 9960
+edition = 17
+title = "17th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "https://lipn.univ-paris13.fr/formats2019/"
+
+[event]
+start = 2019-08-27
+end = 2019-08-29
+city = "Amsterdam, The Netherlands"
+
+[submission]
+format = "15 pages LNCS + references + appendix (regular) / 5 pages (tools)"
+abstract = [2019-05-09, 2019-05-20]
+paper = [2019-05-13, 2019-05-20]
+notification = [2019-06-21, 2019-06-23]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019. Co-located with CONCUR. Best paper award in the honor of Oded Maler (since 2018)."

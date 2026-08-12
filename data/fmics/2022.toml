@@ -1,0 +1,28 @@
+# migrated from data.php line 9233
+edition = 27
+title = "27th International Conference on Formal Methods for Industrial Critical Systems"
+url = "https://fmics2022.fsa.win.tue.nl/"
+
+[event]
+start = 2022-09-14
+end = 2022-09-16
+city = "Warsaw, Poland (hybrid)"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + 2p references"
+abstract = [2022-05-05]
+paper = [2022-05-12, 2022-05-26]
+notification = [2022-06-24]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 13
+submitted = 22
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Part of CONFEST with CONCUR, FORMATS and QEST. Special track papers on Formal Methods for Responsible AI"

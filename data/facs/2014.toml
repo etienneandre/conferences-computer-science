@@ -1,0 +1,22 @@
+# migrated from data.php line 7524
+edition = 11
+title = "11th International Symposium Formal Aspects of Component Software"
+url = "http://facs2014.cs.unibo.it/"
+
+[event]
+start = 2014-09-10
+end = 2014-09-12
+city = "Bertinoro, Italy"
+
+[submission]
+format = "18 pages LNCS format (research / applications / survey) / 6 (tool)"
+abstract = [2014-06-15]
+paper = [2014-06-22]
+notification = [2014-07-21]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Also a Doctoral Track, in the form of abstracts (3 pages max). Colocated with iFM. The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue in a highly-reputed journal."

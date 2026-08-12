@@ -1,0 +1,12 @@
+# HVC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "HVC"
+name = "Haifa Verification Conference"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 1 week (2015, 2016, 2017)"

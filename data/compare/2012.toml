@@ -1,0 +1,20 @@
+# migrated from data.php line 4436
+edition = 1
+title = "1st International Workshop on Comparative Empirical Evaluation of Reasoning Systems"
+url = "http://compare2012.verifythis.org/"
+
+[event]
+start = 2012-06-30
+city = "Manchester, UK"
+
+[submission]
+format = "Regular papers (6-15 pages LNCS) / discussion papers (2-4 pages)"
+paper = [2012-05-01]
+notification = [2012-05-29]
+
+[proceedings]
+publisher = "CEUR-WS"
+license = "free"
+
+[extra]
+notes = "Part of IJCAR 2012. Deadline extended by two weeks in 2012."

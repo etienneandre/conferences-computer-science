@@ -1,0 +1,20 @@
+# migrated from data.php line 12945
+edition = 9
+title = "Highlights of Logic, Games and Automata"
+url = "http://highlights-conference.org"
+
+[event]
+start = 2021-09-15
+end = 2021-09-17
+online = true
+
+[submission]
+format = "1 or 2 pages"
+paper = [2021-06-04]
+notification = [2021-06-18]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Short presentations, no formal proceedings, single author. We encourage you to attend and present your best work, be it already published or not, at the Highlights conference"

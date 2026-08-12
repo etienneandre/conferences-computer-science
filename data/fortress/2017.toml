@@ -1,0 +1,20 @@
+# migrated from data.php line 10584
+edition = 1
+title = "1st International Workshop on Formal Techniques for Real-Time Systems"
+url = "http://www.onera.fr/fr/fortress-2017"
+
+[event]
+start = 2017-08-16
+end = 2017-08-18
+city = "Hsinchu, Taiwan"
+
+[submission]
+format = "8 pages IEEE"
+paper = [2017-05-31, 2017-06-18]
+notification = [2017-06-10, 2017-07-01]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Satellite of RTCSA"

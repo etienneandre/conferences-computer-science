@@ -1,0 +1,21 @@
+# migrated from data.php line 15744
+edition = 8
+title = "8th IEEE Conference on Industrial Cyber-Physical Systems"
+url = "https://icps2025.ieee-ies.org/"
+
+[event]
+start = 2025-05-12
+end = 2025-05-15
+city = "Emden, Germany"
+
+[submission]
+format = "6 pages IEEE including references"
+paper = [2025-02-17]
+notification = [2020-03-24]
+
+[proceedings]
+publisher = "IEEE-Xplore"
+license = "pay"
+
+[extra]
+notes = "Two-round submission."

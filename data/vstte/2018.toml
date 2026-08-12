@@ -1,0 +1,27 @@
+# migrated from data.php line 33584
+edition = 10
+title = "10th Working Conference on Verified Software: Theories, Tools, and Experiments (VSTTE)"
+url = "http://vstte18.it.uu.se/"
+
+[event]
+start = 2018-07-18
+end = 2018-07-19
+city = "Oxford, England"
+
+[submission]
+format = "16 pages LNCS + references (long) / 10 pages (short)"
+abstract = [2018-04-15, 2018-04-26]
+paper = [2018-04-22, 2018-04-29]
+notification = [2018-05-15]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 19
+submitted = 24
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Co-located with FLoC 2018."

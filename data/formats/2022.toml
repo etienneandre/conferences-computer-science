@@ -1,0 +1,22 @@
+# migrated from data.php line 10066
+edition = 20
+title = "20th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "https://conferences.ncl.ac.uk/formats2022/"
+
+[event]
+start = 2022-09-12
+end = 2022-09-17
+city = "Warsaw, Poland"
+
+[submission]
+format = "15 pages LNCS + references + appendix (regular) / 7 pages (tools)"
+abstract = [2022-04-19, 2022-05-04]
+paper = [2022-04-22, 2022-05-06]
+notification = [2022-06-17]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020, 14+13 days in 2021, 14 days in 2022. Part of CONFEST with CONCUR, FMICS and QEST. Best paper award in the honor of Oded Maler (since 2018)."

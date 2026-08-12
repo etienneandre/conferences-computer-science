@@ -1,0 +1,22 @@
+# migrated from data.php line 16252
+edition = 11
+title = "11th IEEE International Conference on Software Testing, Verification and Validation"
+url = "http://www.es.mdh.se/icst2018/"
+
+[event]
+start = 2018-04-09
+end = 2018-04-13
+city = "Västerås, Sweden"
+
+[submission]
+format = "10 pages IEEE (+ 2 pages for references)"
+abstract = [2017-10-05]
+paper = [2017-10-12, 2017-10-16]
+notification = [2017-12-18]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double-blind reviewing. Also doctoral symposium, software testing contest, tool demos, industry track papers … Deadline extension: 7 days (2017), 4 days (2018)"

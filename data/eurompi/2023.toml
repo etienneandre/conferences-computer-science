@@ -1,0 +1,23 @@
+# migrated from data.php line 7405
+edition = 30
+title = "EuroMPI Conference"
+url = "https://eurompi23.github.io/"
+
+[event]
+start = 2023-09-11
+end = 2023-09-13
+city = "Bristol, UK"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM ICPS (long), 5 pages (short)"
+abstract = [2023-04-22, 2023-05-08]
+paper = [2023-04-29, 2023-05-15]
+notification = [2023-06-19]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "co-located with the 19th International Workshop on OpenMP. Warning: notification date extended after submission, and without notice (2014). The best papers of the conference will be considered for inclusion in a special issue of Elsevier’s Parallel Computing."

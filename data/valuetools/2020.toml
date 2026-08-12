@@ -1,0 +1,23 @@
+# migrated from data.php line 32492
+edition = 13
+title = "13th EAI International Conference on Performance Evaluation Methodologies and Tools"
+url = "http://www.valuetools.org/2020/"
+
+[event]
+start = 2020-05-18
+end = 2020-05-20
+city = "Tsukuba, Japan"
+
+[submission]
+tz = "AoE"
+format = "8 pages ACM (regular) / 6 pages (tool papers) / 2 pages (Fast Abstracts)"
+abstract = [2019-11-29]
+paper = [2019-11-29]
+notification = [2020-02-07]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Best papers of VALUETOOLS 2019 will be given the opportunity to submit an extended version of their work for publication in a Special Issue of the Performance Evaluation (PEVA) journal of Elsevier. Fast Abstracts will be published as a Technical Report. Note: no edition in 2018."

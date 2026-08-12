@@ -1,0 +1,26 @@
+# migrated from data.php line 29548
+edition = 33
+title = "33rd Symposium on Theoretical Aspects of Computer Science"
+url = "http://www.univ-orleans.fr/lifo/events/STACS2016/"
+
+[event]
+start = 2016-02-17
+end = 2016-02-20
+city = "Orléans, France"
+
+[submission]
+format = "12 pages LIPIcs (+ ref + appendix)"
+paper = [2015-09-18]
+notification = [2015-12-04]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[stats]
+accepted = 54
+submitted = 205
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Rebuttal period: Nov 14-16, 2015"

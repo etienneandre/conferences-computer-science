@@ -1,0 +1,28 @@
+# migrated from data.php line 16586
+edition = 15
+title = "15th International Colloquium on Theoretical Aspects of Computing"
+url = "https://www.ictac.org.za/"
+
+[event]
+start = 2018-10-16
+end = 2018-10-19
+city = "Stellenbosch, South Africa"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS (regular) + 2p bibliography / 10 pages LNCS (short / tool)"
+abstract = [2018-05-04]
+paper = [2018-05-11]
+notification = [2018-07-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 25
+submitted = 59
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Springer is sponsoring a best paper award. After the conference, authors of the best contributions are invited to submit a revised and extended version to a special issue, to be published in Elsevier’s Theoretical Computer Science."

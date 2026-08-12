@@ -1,0 +1,25 @@
+# migrated from data.php line 17471
+edition = 11
+title = "12th International Joint Conference on Automated Reasoning"
+url = "https://ijcar2024.loria.fr/"
+
+[event]
+start = 2024-07-01
+end = 2024-07-06
+city = "Nancy, France"
+
+[submission]
+format = "15 pages + references (full) / 7 pages + references (system descriptions)"
+abstract = [2024-01-29]
+paper = [2024-02-05]
+notification = [2024-03-28]
+
+[proceedings]
+publisher = "Springer LNAI/LNCS"
+license = "cc-by"
+
+[review]
+rebuttal = "Rebuttal period."
+
+[extra]
+colocated = "Merger conference of CADE, FroCoS and TABLEAUX."

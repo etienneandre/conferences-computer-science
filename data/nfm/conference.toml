@@ -1,0 +1,15 @@
+# NFM — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "NFM"
+name = "NASA Formal Methods Symposium"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "nfm"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "39% (36/93) in 2012, 31% (33/108) in 2015, 40% (23 regular + 8 short / 60 regular + 17 short) in 2017, 34% (31/92) in 2018, 39% (20 long + 8 short / 54 long + 18 short) in 2019, 35% in 2022 for long papers (33/93) and 25% for short papers"  # from NFM 2026
+extensions = "8 days (2015), 2 days (2017), 21 days (2018), 3 days (2019), 11 days (2020), 10 days (2021), 24+10+4 days (2022), 21 days (2023), 7 days (2024), 9 days (2025), 8 days (2026)"  # from NFM 2026

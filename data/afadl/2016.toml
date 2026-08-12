@@ -1,0 +1,22 @@
+# migrated from data.php line 1126
+edition = 14
+title = "14e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "http://afadl2016.conf.citi-lab.fr/"
+
+[event]
+start = 2016-06-07
+end = 2016-06-08
+city = "Besançon, France"
+
+[submission]
+format = "15 pages (longs) / 6 pages (courts) / 4 pages (outils) / 2 pages (projets) / 1 page (article déjà publié)"
+abstract = [2016-02-26, 2016-03-04]
+paper = [2016-02-26, 2016-03-11]
+notification = [2016-04-13]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "In French (?)."

@@ -1,0 +1,22 @@
+# migrated from data.php line 23555
+edition = 14
+title = "14th International Conference on Quantitative Evaluation of SysTems"
+url = "http://www.qest.org/qest2017"
+
+[event]
+start = 2017-09-05
+end = 2017-09-07
+city = "Berlin, Germany"
+
+[submission]
+format = "16 pages LNCS (Theoretical / Methodological and technical / Application / Tools); 4 pages LNCS (Tool demonstration)"
+abstract = [2017-03-24, 2017-04-03]
+paper = [2017-03-31, 2017-04-09]
+notification = [2017-05-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with CONCUR. Accepted tool descriptions will appear in the conference proceedings. Selected papers will appear in a special issue of a journal."

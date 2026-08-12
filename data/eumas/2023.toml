@@ -1,0 +1,23 @@
+# migrated from data.php line 7144
+edition = 20
+title = "20th European Conference on Multi-Agent Systems"
+url = "https://vadimmalvone.github.io/eumas2023/"
+
+[event]
+start = 2023-09-14
+end = 2023-09-15
+city = "Naples, Italy"
+
+[submission]
+tz = "AoE"
+format = "original (15 pages LNCS + references)"
+paper = [2023-05-29]
+notification = [2023-07-05]
+extensions = true  # extended, earlier date unknown
+
+[proceedings]
+publisher = "Springer LNCS/LNAI"
+license = "pay-profit"
+
+[extra]
+notes = "EUMAS welcomes both original, unpublished papers, as well as papers that have been published in a relevant conference, conference or journal. The best original papers will be invited for a special issue in the Journal of Autonomous Agents and Multiagent Systems (JAAMAS). Deadline and notification extension: 7 days (2017), 8 days (2020)"

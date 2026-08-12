@@ -1,0 +1,11 @@
+# WWW — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "WWW"
+name = "International World Wide Web Conference (The Web conference 2018)"
+
+[core]
+rank = "A*"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Acceptance rate (2015): 14.1% (131/929)."

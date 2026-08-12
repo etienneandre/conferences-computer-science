@@ -1,0 +1,5 @@
+# COMPARE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "COMPARE"
+name = "International Workshop on Comparative Empirical Evaluation of Reasoning Systems"
+defunct = "seemingly"

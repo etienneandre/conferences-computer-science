@@ -1,0 +1,22 @@
+# migrated from data.php line 11021
+edition = 9
+title = "9th Working Formal Methods Symposium"
+url = "https://fromsymposium.github.io/"
+
+[event]
+start = 2025-09-17
+end = 2025-09-19
+city = "Iași, România"
+
+[submission]
+format = "16 pages EPTCS / 8 pages (short)"
+abstract = [2025-06-07, 2025-06-22]
+paper = [2025-06-07, 2025-06-22]
+notification = [2025-07-15, 2025-07-22]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+journal = "Selected papers will be invited to submit an extended version to the journal Scientific Annals of Computer Science."

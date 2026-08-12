@@ -1,0 +1,21 @@
+# migrated from data.php line 13698
+edition = 4
+title = "4th International Conference on Advanced Aspects of Software Engineering"
+url = "https://www.univ-constantine2.dz/icaase2020/"
+
+[event]
+start = 2020-11-28
+end = 2020-11-30
+city = "Constantine, Algeria"
+
+[submission]
+format = "8 pages in an MS Word special format"
+paper = [2020-07-15]
+notification = [2020-09-30]
+
+[proceedings]
+publisher = "CEUR-WS"
+license = "free"
+
+[extra]
+notes = "Distinguished papers from ICAASE’16 will be invited to submit a revised and extended version of their paper to a special issue of the International Journal of Critical Computer-Based Systems (IJCCBS). Every two years."

@@ -1,0 +1,34 @@
+# migrated from data.php line 22298
+edition = 46
+title = "46th International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "https://petrinets25.github.io/web/"
+
+[event]
+start = 2025-06-23
+end = 2025-06-27
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "regular papers: max 20 pages + references in Springer LNCS-format; tool papers: max 10 pages + ref in Springer LNCS-format"
+abstract = [2025-01-15, 2025-01-29]
+paper = [2025-01-22, 2025-01-29]
+notification = [2025-03-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+award = "Best paper award"
+competition = "Hosts the model checking contest"
+
+[stats]
+accepted = 22
+submitted = 41
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+journal = "Some of the best papers will be invited, in an extended form, as submissions to a special issue of Fundamenta Informaticae."

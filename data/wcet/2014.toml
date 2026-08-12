@@ -1,0 +1,20 @@
+# migrated from data.php line 33992
+edition = 14
+title = "14th International Workshop on Worst-Case Execution Time Analysis"
+url = "http://www.uni-ulm.de/wcet2014"
+
+[event]
+start = 2014-07-08
+city = "Madrid, Spain"
+
+[submission]
+format = "10 pages OASIcs"
+paper = [2014-04-25]
+notification = [2013-05-23]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with ECRTS. Firm deadline."

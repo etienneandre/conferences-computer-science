@@ -1,0 +1,23 @@
+# migrated from data.php line 3116
+edition = 23
+title = "23rd Business Process Management Conference"
+url = "https://www.bpm2025seville.org/calls/research-papers/"
+
+[event]
+start = 2025-08-31
+end = 2025-09-05
+city = "Seville, Spain"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS"
+abstract = [2025-03-04]
+paper = [2025-03-11]
+notification = [2025-05-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Double-blind. Authors of selected papers will be invited to submit an extended version to a special issue of the newly founded Springer journal Process Science."

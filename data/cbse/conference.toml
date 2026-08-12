@@ -1,0 +1,12 @@
+# CBSE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CBSE"
+name = "International ACM Sigsoft Symposium on Component-Based Software Engineering"
+defunct = 2016
+
+[core]
+rank = "B"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extensions: 9 days (2013), 7 days (2014), 3 days (2016)."

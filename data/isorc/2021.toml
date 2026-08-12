@@ -1,0 +1,22 @@
+# migrated from data.php line 17616
+edition = 24
+title = "24th IEEE International Symposium on real-time computing"
+url = "https://isorc2021.github.io/"
+
+[event]
+start = 2021-06-01
+end = 2021-06-03
+online = true
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE (regular / industrial / practitioner) / 4 pages IEEE (short research)"
+paper = [2021-01-15, 2021-01-25, 2021-02-05]
+notification = [2021-03-29, 2021-04-09]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Rebuttal period: 29-31 March 2021"

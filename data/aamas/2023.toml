@@ -1,0 +1,23 @@
+# migrated from data.php line 203
+edition = 22
+title = "22nd International Conference on Autonomous Agents and Multiagent Systems"
+url = "https://aamas2023.soton.ac.uk/"
+
+[event]
+start = 2023-05-29
+end = 2023-06-02
+city = "London, England"
+
+[submission]
+tz = "AoE"
+format = "8 pages (+ references)"
+abstract = [2022-10-21]
+paper = [2022-10-28]
+notification = [2023-01-04]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. Rebuttal phase: 5-9 December 2022. All deadlines UTC-12."

@@ -1,0 +1,25 @@
+# MEMOCODE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "MEMOCODE"
+name = "ACM-IEEE International Symposium on Formal Methods and Models for System Design"
+
+[core]
+id = "2279"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2017
+rank = "absent"
+
+[[core.history]]
+from = 2022
+rank = "C"
+
+[links]
+dblp = "memocode"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "Acceptance rate: 43% (14+6/47) in 2014, 57% (21+6/47) in 2015, 27% (16+4+1/80) in 2016, 61% (9+5/ 23)"  # from MEMOCODE 2026
+extensions = "1 week (2017, 2018), 14 days (2020), 1 week (2024), 12 days+8 (2025), 14 days (2026)"  # from MEMOCODE 2026

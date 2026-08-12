@@ -1,0 +1,15 @@
+# KSE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "KSE"
+name = "IEEE International Conference on Knowledge and Systems Engineering"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "kse"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "53% (51/97) in 2014"  # from KSE 2024
+extensions = "1 week (2014), 13+7 days + 7 days to edit (2015), 30 days (2016), ?? (2017), 31 days (2019), 45 days (2024)"  # from KSE 2024

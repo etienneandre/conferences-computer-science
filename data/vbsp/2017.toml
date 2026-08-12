@@ -1,0 +1,20 @@
+# migrated from data.php line 32616
+edition = 1
+title = "First International Workshop on Verification of Business and Software Processes"
+url = "http://wbsp2017.lip6.fr"
+
+[event]
+start = 2017-07-05
+city = "Paris, France"
+
+[submission]
+format = "?? (ICSSP conference guidelines)"
+abstract = [2017-05-02]
+paper = [2017-05-05, 2017-05-15]
+notification = [2017-06-01]
+
+[proceedings]
+publisher = "None?"
+
+[extra]
+notes = "Co-located with ICSSP 2017"

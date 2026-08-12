@@ -1,0 +1,21 @@
+# migrated from data.php line 18170
+edition = 29
+title = "International Symposium on Software Testing and Analysis"
+url = "https://conf.researchr.org/home/issta-2020"
+
+[event]
+start = 2020-07-18
+end = 2020-07-22
+city = "Los Angeles, California, USA"
+
+[submission]
+format = "10 pages ACM (+ 2 pages references)"
+paper = [2020-01-27]
+notification = [2020-04-15]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double blind. Author Response Period (23-25 March 2020)."

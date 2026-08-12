@@ -1,0 +1,21 @@
+# migrated from data.php line 28468
+edition = 10
+title = "10th IEEE International Symposium on Industrial Embedded Systems"
+url = "http://www.sies2015.com"
+
+[event]
+start = 2015-06-08
+end = 2015-06-10
+city = "Siegen, Germany"
+
+[submission]
+format = "6-10 pages IEEE (regular), 4 pages (work in progress)"
+paper = [2015-03-15]
+notification = [2015-04-13]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Also features a work in progress session (Deadline: April 19th)."

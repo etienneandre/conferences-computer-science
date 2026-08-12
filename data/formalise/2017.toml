@@ -1,0 +1,20 @@
+# migrated from data.php line 9529
+edition = 5
+title = "5th FME Workshop on Formal Methods in Software Engineering"
+url = "http://www.formalise.org/"
+
+[event]
+start = 2017-05-27
+city = "Buenos Aires, Argentina"
+
+[submission]
+format = "7 pages ACM (full papers / case study papers / research ideas)"
+paper = [2017-01-20, 2017-01-27]
+notification = [2017-02-17]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "acm"
+
+[extra]
+notes = "Held in conjunction with ICSE. All ACCEPTED CONTRIBUTIONS are PUBLISHED as an ICSE 2017 Workshop Proceedings in the ACM and IEEE Digital Libraries."

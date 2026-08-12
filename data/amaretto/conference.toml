@@ -1,0 +1,8 @@
+# AMARETTO — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "AMARETTO"
+name = "Domain Specific Model-based Approaches to Verification and Validation"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

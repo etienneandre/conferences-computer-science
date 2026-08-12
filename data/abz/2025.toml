@@ -1,0 +1,23 @@
+# migrated from data.php line 474
+edition = 11
+title = "11th International Conference on Rigorous State Based Methods"
+url = "https://abz-conf.org/site/2025/"
+
+[event]
+start = 2025-06-10
+end = 2025-06-13
+city = "Düsseldorf, Germany"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (research, case study) / 6 pages (short / work in progress / tool / journal-first) / 8 pages (application in industry)"
+abstract = [2025-02-03, 2025-03-01]
+paper = [2025-02-10, 2025-03-02]
+notification = [2025-03-29]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 20 days (2014), 7 days (2018, 2021, 2023), 14 days (2024), 20 days (2025)."

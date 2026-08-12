@@ -1,0 +1,22 @@
+# migrated from data.php line 9894
+edition = 15
+title = "15th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "http://formats17.ulb.be/"
+
+[event]
+start = 2017-09-05
+end = 2017-09-07
+city = "Berlin, Germany"
+
+[submission]
+format = "15 pages LNCS + appendix"
+abstract = [2017-04-21, 2017-05-03]
+paper = [2017-04-28, 2017-05-05]
+notification = [2017-06-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017. Co-located with QEST and CONCUR."

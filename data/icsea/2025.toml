@@ -1,0 +1,22 @@
+# migrated from data.php line 16189
+edition = 20
+title = "20th International Conference on Software Engineering Advances"
+url = "https://www.iaria.org/conferences2025/ICSEA25.html"
+
+[event]
+start = 2025-09-28
+end = 2025-10-02
+city = "Lisbon, Portugal"
+
+[submission]
+format = "6 pages (regular) / 4 pages (short/work in progress) / 2 pages (ideas/poster)"
+paper = [2025-06-24]
+notification = [2025-07-27]
+
+[proceedings]
+publisher = "ThinkMind"
+license = "free-copy"
+
+[extra]
+journal = "Authors of selected papers will be invited to submit extended versions to a IARIA Journal."
+notes = "More paper categories (poster, extended abstracts, presentations, demos, doctoral forum…)."

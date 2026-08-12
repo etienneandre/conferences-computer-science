@@ -1,0 +1,12 @@
+# DUHDe — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "DUHDe"
+name = "Workshop on Design Automation for Understanding Hardware Designs"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 1 week (2015), 10 days (2016), ??? (2019)."

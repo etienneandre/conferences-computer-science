@@ -1,0 +1,20 @@
+# migrated from data.php line 30295
+edition = 8
+title = "8th Workshop on Synthesis"
+url = "https://cs.nyu.edu/acsys/synt2019/"
+
+[event]
+start = 2020-07-14
+city = "New York, NY, USA"
+
+[submission]
+format = "3 pages ACM"
+paper = [2019-05-03, 2019-05-10]
+notification = [2019-06-03]
+
+[proceedings]
+publisher = "informal"
+license = "free"
+
+[extra]
+notes = "Satellite event of CAV."

@@ -1,0 +1,20 @@
+# migrated from data.php line 29991
+edition = 5
+title = "5th International Workshop on Synthesis of Complex Parameters"
+url = "https://lipn.univ-paris13.fr/SynCoP2018/"
+
+[event]
+start = 2018-04-14
+end = 2018-04-15
+city = "Thessaloniki, Greece"
+
+[submission]
+format = "3 pages"
+paper = [2018-01-15, 2018-01-29, 2018-02-12]
+notification = [2018-01-22, 2018-02-05, 2018-02-19]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Satellite workshop of ETAPS. After three successful editions, SynCoP moved to informal presentations and invited talks only (no formal proceedings)."

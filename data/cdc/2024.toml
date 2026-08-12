@@ -1,0 +1,21 @@
+# migrated from data.php line 3667
+edition = 63
+title = "63rd IEEE Conference on Decision and Control"
+url = "https://cdc2024.ieeecss.org/"
+
+[event]
+start = 2024-12-16
+end = 2024-12-19
+city = "Milan, Italy"
+
+[submission]
+format = "6 pages IEEE (+ 2 additional for a fee)"
+paper = [2024-03-15, 2024-03-22]
+notification = [2024-07-15]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "No deadline extension (2014-2020), 1 week (2024). The new journal IEEE Control Systems Letters (L-CSS) now provides a possibility to submit and publish a paper in the Journal, but present it at CDC."

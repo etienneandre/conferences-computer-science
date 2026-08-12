@@ -1,0 +1,22 @@
+# migrated from data.php line 29748
+edition = 41
+title = "41st International Symposium on Theoretical Aspects of Computer Science"
+url = "https://www.univ-orleans.fr/lifo/stacs/"
+
+[event]
+start = 2024-03-12
+end = 2024-03-14
+city = "Clermont-Ferrand, France"
+
+[submission]
+tz = "AoE"
+format = "12-15 pages LIPIcs (+ ref + appendix)"
+paper = [2023-09-28]
+notification = [2023-12-13]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[extra]
+notes = "Lightweight double-blind. Rebuttal period: 21-23 November 2023. PC members are excluded from submitting. Track A focuses on algorithms, data structures and complexity. Track B focuses on automata, logic, semantics, and theory of programming."

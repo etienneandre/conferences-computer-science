@@ -1,0 +1,21 @@
+# migrated from data.php line 19962
+edition = 4
+title = "4th Workshop on Models for Formal Analysis of Real Systems"
+url = "http://www.mars-workshop.org/mars2020/"
+
+[event]
+start = 2020-04-26
+city = "Dublin, Ireland"
+
+[submission]
+tz = "AoE"
+format = "12 pages EPTCS + references"
+paper = [2020-01-12, 2020-01-20]
+notification = [2020-02-23]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite of ETAPS. In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."

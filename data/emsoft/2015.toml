@@ -1,0 +1,22 @@
+# migrated from data.php line 6167
+edition = 15
+title = "15th International Conference on Embedded Software"
+url = "http://www.emsoft.org/"
+
+[event]
+start = 2015-10-04
+end = 2015-10-09
+city = "Amsterdam, The Netherlands"
+
+[submission]
+format = "10 pages in ACM two-column format"
+abstract = [2015-03-23]
+paper = [2015-03-30]
+notification = [2015-06-08]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Up to 10 pages appendix. Part of ESWEEK (with CODES and CASES). Firm deadline (2015)."

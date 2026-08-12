@@ -1,0 +1,17 @@
+# migrated from data.php line 18106
+title = "International Symposium on Software Testing and Analysis"
+url = "http://issta2015.cs.uoregon.edu/"
+
+[event]
+start = 2015-07-12
+end = 2015-07-17
+city = "Baltimore, Maryland"
+
+[submission]
+format = "10 pages ACM (+ references)"
+paper = [2015-01-23]
+notification = [2015-04-01]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"

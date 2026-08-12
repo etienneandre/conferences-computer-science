@@ -1,0 +1,20 @@
+# migrated from data.php line 18509
+edition = 11
+title = "11th Junior Researcher Workshop on Real-Time Computing"
+url = "http://www.rtns17.org/#page=juniorworkshop"
+
+[event]
+start = 2017-10-04
+end = 2017-10-06
+city = "Grenoble, France"
+
+[submission]
+format = "4 pages IEEE"
+paper = [2017-08-24, 2017-08-31, 2017-09-08]
+notification = [2017-09-10, 2017-09-18]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "In conjunction with RTNS 2017. Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012, 1 week in 2015, 6 days in 2016 (including notification deadline), ???+8 days (including notification deadline) in 2017."

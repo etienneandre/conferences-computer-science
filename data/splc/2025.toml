@@ -1,0 +1,22 @@
+# migrated from data.php line 29464
+edition = 29
+title = "29th ACM International Systems and Software Product Line Conference"
+url = "https://2025.splc.net/"
+
+[event]
+start = 2025-09-01
+end = 2025-09-05
+city = "Coruña, Spain"
+
+[submission]
+format = "10 pages ACM + 2 pages references (full) / 5+2 pages (short)"
+abstract = [2025-04-03, 2025-04-17]
+paper = [2025-04-10, 2025-04-24]
+notification = [2025-05-29]
+
+[proceedings]
+publisher = "ACM digital library"
+license = "acm"
+
+[extra]
+notes = "Also journal-first, demo papers, doctoral symposium…."

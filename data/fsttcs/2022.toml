@@ -1,0 +1,22 @@
+# migrated from data.php line 11680
+edition = 42
+title = "42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "https://www.fsttcs.org.in/2022/"
+
+[event]
+start = 2022-12-18
+end = 2022-12-20
+city = "IIT Madras, India"
+
+[submission]
+tz = "AoE"
+format = "12 pages in LIPIcs (excluding bibliography) + unlimited appendix"
+paper = [2022-07-14]
+notification = [2022-09-16]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Always in India. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."

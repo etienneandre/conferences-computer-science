@@ -1,0 +1,29 @@
+# migrated from data.php line 15647
+edition = 16
+title = "16th ACM/SPEC International Conference on Performance Engineering"
+url = "https://icpe2025.spec.org/"
+
+[event]
+start = 2025-05-05
+end = 2025-05-09
+city = "Toronto, Canada"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references"
+abstract = [2024-10-18, 2024-10-25]
+paper = [2024-10-25, 2024-11-01]
+notification = [2024-12-20]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[review]
+blind = "double"
+diversity = "mixed"
+artifact = "To promote research reproducibility, the authors of the accepted research papers in this track are encouraged to submit an artifact to the conference Artifact Track."
+award = "The conference Award Committee will recognize the best submissions, judged by multiple relevant factors, with an ACM/SPEC Best Paper Award award."
+
+[extra]
+notes = "Double blind. Several other tracks such as: industry, journal-first, artifact, data challenge…"

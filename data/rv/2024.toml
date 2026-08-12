@@ -1,0 +1,23 @@
+# migrated from data.php line 26199
+edition = 24
+title = "24th International Conference on Runtime Verification"
+url = "https://bouncmpe.github.io/rv24/"
+
+[event]
+start = 2024-10-15
+end = 2024-10-18
+city = "Istanbul, Türkiye"
+
+[submission]
+tz = "AoE"
+format = "regular (16 pages LNCS + references) / short / tool demonstration / benchmarks (8 pages)"
+abstract = [2024-05-14, 2024-05-28]
+paper = [2024-05-14, 2024-05-28]
+notification = [2024-06-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The Program Committee will give a Springer-sponsored Best Paper Award to an elected regular paper. The Program Committee will invite a selection of accepted papers to submit extended versions to a special journal issue, currently planned to be in the International Journal on Software Tools for Technology Transfer (STTT)."

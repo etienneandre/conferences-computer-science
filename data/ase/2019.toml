@@ -1,0 +1,23 @@
+# migrated from data.php line 2224
+edition = 34
+title = "34th IEEE/ACM International Conference on Automated Software Engineering"
+url = "https://2019.ase-conferences.org/"
+
+[event]
+start = 2019-11-11
+end = 2019-11-15
+city = "San Diego, CA, USA"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references (technical research / experience) / 6 pages (new ideas)"
+abstract = [2019-05-06]
+paper = [2019-05-13]
+notification = [2019-08-05]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double-blind submissions. Deadlines AoE."

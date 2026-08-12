@@ -1,0 +1,22 @@
+# migrated from data.php line 17287
+edition = 28
+title = "28th International Joint Conference on Artificial Intelligence"
+url = "https://ijcai19.org/"
+
+[event]
+start = 2019-08-10
+end = 2019-08-16
+city = "Macao, China"
+
+[submission]
+tz = "AoE"
+format = "6 pages + 1 page references"
+paper = [2019-02-25]
+notification = [2019-05-09]
+
+[proceedings]
+publisher = "AAAI Press"
+license = "free-copy"
+
+[extra]
+notes = "Double-blind submission. Rebuttal period: April 13-18, 2019. Authors lose their rights, but proceedings (e.g., 2015, 2016) are freely available online. Every two years until 2016, then became yearly."

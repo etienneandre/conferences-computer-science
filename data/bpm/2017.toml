@@ -1,0 +1,23 @@
+# migrated from data.php line 3000
+edition = 15
+title = "15th International Conference on Business Process Management"
+url = "https://bpm2017.cs.upc.edu/"
+
+[event]
+start = 2017-09-10
+end = 2017-09-15
+city = "Barcelona, Catalonia"
+
+[submission]
+tz = "UTC-12"
+format = "16 pages LNCS"
+abstract = [2017-03-06]
+paper = [2017-03-13]
+notification = [2017-05-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline UTC-12. Pre-submission shepherding program for first-time submitters. Authors of selected papers will be invited to submit a paper for a special issue of Information Systems (Elsevier)."

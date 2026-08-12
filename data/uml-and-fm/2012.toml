@@ -1,0 +1,15 @@
+# migrated from data.php line 32273
+edition = 5
+title = "5th International workshop UML and Formal Methods"
+url = "http://www-public.int-evry.fr/~gibson/Workshops/UML-FM-2012.html"
+
+[submission]
+format = "Short versions will be published in the ACM Software Engineering; 8 pages in SEN Format."
+paper = [2012-03-12]
+notification = [2012-05-07]
+
+[proceedings]
+publisher = "ACM Software Engineering"
+
+[extra]
+notes = "Deadline extended (one week) in 2012."

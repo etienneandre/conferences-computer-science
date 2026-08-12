@@ -1,0 +1,22 @@
+# migrated from data.php line 24686
+edition = 29
+title = "29th IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "http://2023.rtas.org/"
+
+[event]
+start = 2023-05-09
+end = 2023-05-12
+city = "San Antonio, Texas, USA"
+
+[submission]
+tz = "UTC-12"
+format = "11 pages IEEE 2 columns (+ references)"
+paper = [2022-10-31]
+notification = [2023-01-20]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Two tracks (Systems, Architecture and Applications / Applied Methodologies and Foundations). Part of the Cyber-Physical Systems Week. Firm deadline in 2016, 2017, 2018, 2020, 2023. Double-blind. Rebuttal: 9-13 January 2023"

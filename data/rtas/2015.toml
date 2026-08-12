@@ -1,0 +1,22 @@
+# migrated from data.php line 24527
+edition = 21
+title = "The 21st IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "http://2015.rtas.org/"
+
+[event]
+start = 2015-04-13
+end = 2015-04-17
+city = "Seattle, Washington, USA"
+
+[submission]
+format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
+abstract = [2014-10-13]
+paper = [2014-10-20]
+notification = [2014-12-13]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Part of the Cyber-Physical Systems Week."

@@ -1,0 +1,27 @@
+# migrated from data.php line 7790
+edition = 20
+title = "20th International Conference Formal Aspects of Component Software"
+url = "https://facs-conference.github.io/2024/"
+
+[event]
+start = 2024-09-09
+end = 2024-09-10
+city = "Milan, Italy"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS format + references  (research / applications / survey) / 6 (tool) + ref / 4 pages (journal-first)"
+abstract = [2024-05-08, 2024-05-23]
+paper = [2024-05-15, 2024-05-30]
+notification = [2024-06-26, 2024-07-03]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+award = "FACS 2024 will recognize the most outstanding submissions with a best paper award."
+
+[extra]
+journal = "The authors of a selected subset of accepted papers will be invited to submit an extended version of their papers to a special issue of the Science of Computer Programming journal."

@@ -1,0 +1,22 @@
+# migrated from data.php line 20774
+edition = 12
+title = "Modélisation des Systèmes Réactifs"
+url = "http://msr2019.laris.univ-angers.fr/"
+
+[event]
+start = 2019-11-13
+end = 2019-11-15
+city = "Angers, France"
+
+[submission]
+format = "14 pages EasyChair"
+abstract = [2019-04-30, 2019-05-17, 2019-06-14]
+paper = [2019-05-14, 2019-05-31, 2019-06-28]
+notification = [2019-07-13]
+
+[proceedings]
+publisher = "HAL"
+license = "free"
+
+[extra]
+notes = "In French. Poster PhD session. Best paper award for young scientists."

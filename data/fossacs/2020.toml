@@ -1,0 +1,23 @@
+# migrated from data.php line 10738
+edition = 23
+title = "23rd International Conference on Foundations of Software Science and Computation Structures"
+url = "https://etaps.org/2020/fossacs"
+
+[event]
+start = 2020-04-25
+end = 2020-05-01
+city = "Dublin, Ireland"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography"
+abstract = [2019-10-24]
+paper = [2019-10-24]
+notification = [2019-12-23]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, TACAS, etc. Rebuttal phase:  9 December 00:01 AoE - 10 December  23:59 AoE."

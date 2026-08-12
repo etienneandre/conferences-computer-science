@@ -1,0 +1,22 @@
+# migrated from data.php line 24710
+edition = 30
+title = "30th IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "http://www.rtas.org/"
+
+[event]
+start = 2024-05-13
+end = 2024-05-16
+city = "Hong Kong"
+
+[submission]
+tz = "UTC-12"
+format = "11 pages IEEE 2 columns (+ references)"
+paper = [2023-10-31]
+notification = [2024-01-19]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Two tracks (Systems, Architecture and Applications / Applied Methodologies and Foundations). Part of the Cyber-Physical Systems Week. Firm deadline in 2016, 2017, 2018, 2020, 2023. Double-blind. Rebuttal: 8-12 January 2024"

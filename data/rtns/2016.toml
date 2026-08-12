@@ -1,0 +1,26 @@
+# migrated from data.php line 25206
+edition = 24
+title = "24th International Conference on Real-Time Networks and Systems"
+url = "http://rtns16.univ-brest.fr"
+
+[event]
+start = 2016-10-19
+end = 2016-10-21
+city = "Brest, France"
+
+[submission]
+format = "10 pages ACM 2 columns"
+paper = [2016-07-25]
+notification = [2016-09-08]
+
+[proceedings]
+publisher = "ACM ICPS"
+license = "acm"
+
+[stats]
+accepted = 34
+submitted = 75
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Always in France (?). No deadline extension (2014, 2015, 2016). A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems. Prizes will be awarded for best paper, best student paper, and best presentation."

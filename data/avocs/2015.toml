@@ -1,0 +1,22 @@
+# migrated from data.php line 2796
+edition = 15
+title = "15th International Workshop on Automated Verification of Critical Systems"
+url = "https://sites.google.com/site/avocs15/"
+
+[event]
+start = 2015-09-01
+end = 2015-09-04
+city = "Edinburgh, UK"
+
+[submission]
+format = "15 pages"
+abstract = [2015-06-15]
+paper = [2015-06-19]
+notification = [2015-07-14]
+
+[proceedings]
+publisher = "EASST"
+license = "free"
+
+[extra]
+notes = "Also \"Research ideas\" (2 pages, not in proceedings; submission: 7th August; notification: 14th August). Open Access Journal; best papers in a special issue of Elsevier’s journal Science of Computer Programming. Studenships for PhD in 2013."

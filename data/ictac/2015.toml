@@ -1,0 +1,22 @@
+# migrated from data.php line 16503
+edition = 12
+title = "12th International Colloquium on Theoretical Aspects of Computing"
+url = "http://www.ictac2015.co"
+
+[event]
+start = 2015-10-29
+end = 2015-10-31
+city = "Cali, Colombia"
+
+[submission]
+format = "18 pages LNCS (regular) / 10 pages LNCS (short / tool)"
+abstract = [2015-06-16]
+paper = [2015-06-19]
+notification = [2015-07-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Extended versions of selected papers from ICTAC 2015 will be invited to a special issue of Mathematical Structures in Computer Science."

@@ -1,0 +1,31 @@
+# migrated from data.php line 17311
+edition = 34
+title = "34th International Joint Conference on Artificial Intelligence"
+url = "https://2025.ijcai.org/"
+
+[event]
+start = 2025-08-16
+end = 2025-08-22
+city = "Montréal, Québec, Canada"
+
+[submission]
+tz = "AoE"
+format = "7 pages + 2 pages references"
+abstract = [2025-01-16]
+paper = [2025-01-23]
+notification = [2025-04-28]
+
+[proceedings]
+publisher = "AAAI Press"
+license = "free-copy"
+
+[review]
+blind = "double"
+rebuttal = true
+rebuttal_start = 2025-04-06
+rebuttal_end = 2025-04-09
+competition = "Competitions"
+
+[extra]
+journal = "A selection of distinguished papers submitted to IJCAI 2025 will be invited for expedited reviewing and publication in the Artificial Intelligence Journal (AIJ) or the Journal of Artificial Intelligence Research (JAIR)."
+notes = "Early rejection. Satellite event in Guangzhou."

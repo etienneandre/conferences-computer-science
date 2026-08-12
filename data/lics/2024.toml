@@ -1,0 +1,28 @@
+# migrated from data.php line 19280
+edition = 39
+title = "39th Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS)"
+url = "https://lics.siglog.org/lics24/"
+
+[event]
+start = 2024-07-08
+end = 2024-07-12
+city = "Tallinn, Estonia"
+
+[submission]
+tz = "AoE"
+format = "12 pages IEEE + references"
+abstract = [2024-01-21]
+paper = [2024-01-26]
+notification = [2024-04-15]
+
+[proceedings]
+publisher = "ACM SIGPLAN Proceedings"
+license = "acm"
+
+[stats]
+accepted = 72
+submitted = 236
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Double-blind (since 2020). Author Feedback/Rebuttal: 18-23 March 2024. Deadlines are firm. An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee. Around 10% of accepted papers will be selected as distinguished papers. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

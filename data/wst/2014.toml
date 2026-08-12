@@ -1,0 +1,21 @@
+# migrated from data.php line 34429
+edition = 14
+title = "14th International Workshop on Termination"
+url = "http://vsl2014.at/wst/"
+
+[event]
+start = 2014-07-17
+end = 2014-07-18
+city = "Vienna, Austria"
+
+[submission]
+format = "5 pages LIPIcs"
+paper = [2014-04-23]
+notification = [2014-05-07]
+
+[proceedings]
+publisher = "Web page"
+license = "free"
+
+[extra]
+notes = "Informal proceedings (earlier / concurrent / later submission allowed). Affiliated with CAV, IJCAR and RTA-TLCA at FLoC 2014"

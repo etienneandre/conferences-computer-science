@@ -1,0 +1,20 @@
+# migrated from data.php line 12968
+edition = 10
+title = "Highlights of Logic, Games and Automata"
+url = "https://highlights-conference.org/2022/"
+
+[event]
+start = 2022-06-28
+end = 2022-07-01
+city = "Paris, France"
+
+[submission]
+format = "1 or 2 pages"
+paper = [2022-03-18]
+notification = [2022-04-01]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Short presentations, no formal proceedings, single author. We encourage you to attend and present your best work, be it already published or not, at the Highlights conference"

@@ -1,0 +1,15 @@
+# FACS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FACS"
+name = "International Conference Formal Aspects of Component Software"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "facs2"
+twitter = "facs_conf"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "6 days (2014), 10+4 days (2015), 11 days (2016), 10 days (2018), 14 days (2019, 2021, 2022), 7 days (2023), 15 days (2024)"  # from FACS 2024

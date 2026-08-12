@@ -1,0 +1,7 @@
+# ACV — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ACV"
+name = "First Workshop on Abstract and Concrete Techniques in Verification"
+
+[core]
+rank = "absent"  # TODO: verify

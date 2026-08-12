@@ -1,0 +1,22 @@
+# migrated from data.php line 23533
+edition = 13
+title = "13th International Conference on Quantitative Evaluation of SysTems"
+url = "http://www.qest.org/qest2016/"
+
+[event]
+start = 2016-08-23
+end = 2016-08-25
+city = "Québec City, Canada"
+
+[submission]
+format = "16 pages LNCS (Theoretical / Methodological and technical / Application / Tools); 4 pages LNCS (Tool demonstration)"
+abstract = [2016-03-07]
+paper = [2016-03-14]
+notification = [2016-05-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with CONCUR 2016. Accepted tool descriptions will appear in the conference proceedings. Selected papers will appear in a special issue of a journal."

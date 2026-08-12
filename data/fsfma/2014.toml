@@ -1,0 +1,26 @@
+# migrated from data.php line 11450
+edition = 2
+title = "2nd French Singaporean Workshop in Formal Methods and Applications"
+url = "http://lipn.univ-paris13.fr/fsfma2014/"
+
+[event]
+start = 2014-05-12
+end = 2014-05-13
+city = "Singapore"
+
+[submission]
+format = "12 pages EPTCS (regular) / 6 pages (PhD)"
+abstract = [2014-03-23]
+paper = [2014-03-23]
+notification = [2014-04-18]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[review]
+blind = "single"
+
+[extra]
+colocated = "Colocated with FM 2014."
+notes = "No restriction on author citizenship or affiliation. Proceedings referenced by DBLP. PhD session."

@@ -1,0 +1,20 @@
+# migrated from data.php line 20938
+edition = 5
+title = "5th International Workshop on Monitoring and Testing of Cyber-Physical Systems"
+url = "https://sites.google.com/view/mt-cps2020/"
+
+[event]
+start = 2020-04-21
+online = true
+
+[submission]
+format = "2 pages"
+paper = [2020-02-16]
+notification = [2020-03-08]
+
+[proceedings]
+publisher = "PDF"
+license = "free"
+
+[extra]
+notes = "Part of CPS-IoT Week 2020"

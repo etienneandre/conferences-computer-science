@@ -1,0 +1,22 @@
+# migrated from data.php line 33212
+edition = 22
+title = "22nd International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://popl21.sigplan.org/home/VMCAI-2021"
+
+[event]
+start = 2021-01-17
+end = 2021-01-19
+online = true
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix (regular / case studies) / 12 pages + references (tool)"
+paper = [2020-10-05, 2020-10-11]
+notification = [2020-11-06, 2020-11-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with POPL. VMCAI 2021 allows authors to submit an artifact along a paper."

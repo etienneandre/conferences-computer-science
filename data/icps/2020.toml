@@ -1,0 +1,21 @@
+# migrated from data.php line 15717
+edition = 3
+title = "3rd IEEE International Conference on Industrial Cyber-Physical Systems"
+url = "https://events.tuni.fi/icps2020/"
+
+[event]
+start = 2020-06-09
+end = 2020-06-12
+city = "Tampere, Finland"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2020-02-18]
+notification = [2020-03-31]
+
+[proceedings]
+publisher = "IEEE-Xplore"
+license = "pay"
+
+[extra]
+notes = "Excellent papers may be invited to special journal issues"

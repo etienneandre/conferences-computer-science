@@ -1,0 +1,22 @@
+# migrated from data.php line 18262
+edition = 33
+title = "33rd International Symposium on Software Testing and Analysis"
+url = "https://2024.issta.org/"
+
+[event]
+start = 2024-09-16
+end = 2024-09-20
+city = "Vienna, Austria"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM (+ 2 pages references)"
+paper = [2023-12-15]
+notification = [2024-03-02]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double blind. Author Response Period (7-9 February 2024). Second round of submissions later in 2024"

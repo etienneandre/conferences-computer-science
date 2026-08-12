@@ -1,0 +1,22 @@
+# migrated from data.php line 1567
+edition = 21
+title = "21st Asian Symposium on Programming Languages and Systems"
+url = "https://conf.researchr.org/home/aplas-2023"
+
+[event]
+start = 2023-11-26
+end = 2023-11-29
+city = "Taipei, Taiwan"
+
+[submission]
+tz = "AoE"
+format = "17 pages LNCS (research) + references"
+paper = [2023-06-15, 2023-06-18]
+notification = [2023-08-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Lightweight double-blind reviewing process. Around 10% of the accepted papers of APLAS 2023 will be designated as Distinguished Papers, which highlights papers that the Program Committee recommends due to their excellent quality. Rebuttal: Mon 31 Jul 12:00 - Wed 2 Aug 12:00 2023 AoE"

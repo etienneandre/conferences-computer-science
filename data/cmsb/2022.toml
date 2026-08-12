@@ -1,0 +1,23 @@
+# migrated from data.php line 4276
+edition = 20
+title = "20th conference on Computational Methods for Systems Biology"
+url = "https://fmi.unibuc.ro/en/cmsb-2022/"
+
+[event]
+start = 2022-09-14
+end = 2022-09-16
+city = "Bucharest, Romania"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
+abstract = [2022-04-27, 2022-05-08]
+paper = [2022-05-04, 2022-05-15]
+notification = [2022-06-10]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal. Reproducibility recommended."

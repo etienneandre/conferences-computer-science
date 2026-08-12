@@ -1,0 +1,21 @@
+# migrated from data.php line 1203
+edition = 18
+title = "18e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "https://afadl2019.sciencesconf.org/"
+
+[event]
+start = 2019-06-12
+end = 2019-06-13
+city = "Toulouse, France"
+
+[submission]
+format = "8 pages (original) / 8 pages (PhD) / 4 pages (tools) / 4 pages (projects) / 4 pages (long abstract)"
+paper = [2019-03-18, 2019-03-25, 2019-04-01]
+notification = [2019-04-15, 2019-04-22, 2019-04-29]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "In French (?)."

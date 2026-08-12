@@ -1,0 +1,23 @@
+# migrated from data.php line 4335
+edition = 22
+title = "22nd Conference on Computational Methods in Systems Biology"
+url = "https://biomedinfo.di.unipi.it/cmsb2024/"
+
+[event]
+start = 2024-09-16
+end = 2024-09-18
+city = "Pisa, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
+abstract = [2024-04-14, 2024-04-28]
+paper = [2024-04-21, 2024-05-05]
+notification = [2024-06-09]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "A selection of best papers is planned to be invited after the conference to be extended and submitted to a special issue of a major international journal. Artifact evaluation."

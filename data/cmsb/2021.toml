@@ -1,0 +1,22 @@
+# migrated from data.php line 4253
+edition = 19
+title = "19th conference on Computational Methods for Systems Biology"
+url = "https://cmsb2021.labri.fr/"
+
+[event]
+start = 2021-09-22
+end = 2021-09-24
+city = "Bordeaux, France or online"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
+paper = [2021-04-12]
+notification = [2021-06-07]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal. Reproducibility recommended."

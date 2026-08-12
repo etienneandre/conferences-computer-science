@@ -1,0 +1,21 @@
+# migrated from data.php line 13813
+edition = 45
+title = "45th International Colloquium on Automata, Languages and Programming"
+url = "http://iuuk.mff.cuni.cz/~icalp2018/"
+
+[event]
+start = 2018-07-10
+end = 2018-07-13
+city = "Prague, Czech Republic"
+
+[submission]
+format = "12 pages LIPIcs + ref"
+paper = [2018-02-16]
+notification = [2018-04-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm."

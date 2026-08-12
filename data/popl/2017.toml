@@ -1,0 +1,22 @@
+# migrated from data.php line 22751
+edition = 44
+title = "44th ACM SIGPLAN Symposium on Principles of Programming Languages"
+url = "http://conf.researchr.org/home/POPL-2017"
+
+[event]
+start = 2017-01-18
+end = 2017-01-20
+city = "Paris, France"
+
+[submission]
+format = "12 pages ACM"
+abstract = [2016-07-01]
+paper = [2016-07-06]
+notification = [2016-10-03]
+
+[proceedings]
+publisher = "ACM SigPlan"
+license = "acm"
+
+[extra]
+notes = "Rebuttal: 14-16 September. Double blind submission."

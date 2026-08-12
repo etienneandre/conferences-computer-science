@@ -1,0 +1,12 @@
+# FMi — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FMi"
+name = "The 7th IEEE International Workshop on Formal Methods Integration"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 4 weeks (2015), 5 weeks (2017), 16 days (2019)."

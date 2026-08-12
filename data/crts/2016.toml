@@ -1,0 +1,20 @@
+# migrated from data.php line 4888
+edition = 9
+title = "9th International Workshop on Compositional Theory and Technology for Real-Time Embedded Systems"
+url = "http://www.mrtc.mdh.se/CRTS2016/"
+
+[event]
+start = 2016-11-29
+city = "Porto, Portugal"
+
+[submission]
+format = "8 pages ACM SIG"
+paper = [2016-09-16, 2016-09-25]
+notification = [2016-10-16]
+
+[proceedings]
+publisher = "Special issue of ACM SIGBED Review"
+license = "acm"
+
+[extra]
+notes = "Authors retain copyright. Satellite of RTSS."

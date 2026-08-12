@@ -1,0 +1,22 @@
+# migrated from data.php line 10840
+edition = 27
+title = "27th International Conference on Foundations of Software Science and Computation Structures"
+url = "https://etaps.org/2024/fossacs"
+
+[event]
+start = 2024-04-08
+end = 2024-04-11
+city = "Luxembourg City, Luxembourg"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography"
+paper = [2023-10-12]
+notification = [2023-12-21]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of ETAPS 2024. Single-blind, with a rebuttal phase. Rebuttal phase: 5-7 December 2023. Authors of best papers will be invited to submit extended versions of their papers to Logical Methods in Computer Science."

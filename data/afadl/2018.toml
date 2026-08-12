@@ -1,0 +1,21 @@
+# migrated from data.php line 1180
+edition = 16
+title = "16e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "https://afadl2018.ls2n.fr/"
+
+[event]
+start = 2018-06-13
+end = 2018-06-15
+city = "Grenoble, France"
+
+[submission]
+format = "15 pages (longs) / 6 pages (courts) / 4 pages (outils) / 2 pages (projets) / 1 page (article déjà publié)"
+paper = [2018-03-02]
+notification = [2018-04-06]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "In French (?)."

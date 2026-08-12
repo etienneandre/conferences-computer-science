@@ -1,0 +1,15 @@
+# VSTTE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "VSTTE"
+name = "International Conference on Verified Software: Theories, Tools and Experiments"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "vstte"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "79% (19/24) in 2018, 53% (9/17) in 2019, 64% (9/14) in 2020, 41% (7/17) in 2021, 46% (6/13) in 2023, 100% (6/6) in 2024, 40% (4+2 / 15) in 2025"  # from VSTTE 2026
+extensions = "1 week (2017, 2018, 2021, 2022, 2023, 2026). Firm in 2019."  # from VSTTE 2026

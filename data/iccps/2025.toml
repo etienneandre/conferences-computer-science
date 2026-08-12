@@ -1,0 +1,30 @@
+# migrated from data.php line 14228
+edition = 16
+title = "16th ACM/IEEE International Conference on Cyber-Physical Systems"
+url = "https://iccps.acm.org/2025/"
+
+[event]
+start = 2025-05-06
+end = 2025-05-09
+city = "Irvine, California, USA"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM (including references) + 2-page appendix"
+abstract = [2024-11-07]
+paper = [2024-11-14]
+notification = [2025-01-23]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[review]
+blind = "lightweight-double"
+diversity = "mixed"
+artifact = "We also encourage authors of the accepted papers to participate in Artifact Evaluation."
+award = "Best Paper Award, Best Artifact Award, Best Poster/Demo Award"
+
+[extra]
+journal = "Some nominated papers will be invited for submission of extensions of their work to a special issue of ACM Transactions on Cyber-Physical Systems."
+notes = "Three special tracks. Merged with HSCC/ICCPS in 2026."

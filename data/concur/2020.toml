@@ -1,0 +1,23 @@
+# migrated from data.php line 4554
+edition = 31
+title = "31st International Conference on Concurrency Theory"
+url = "https://concur2020.forsyte.at/"
+
+[event]
+start = 2020-09-01
+end = 2020-09-04
+online = true
+
+[submission]
+tz = "AoE"
+format = "14 pages LIPIcs (+ references + appendix)"
+abstract = [2020-04-15, 2020-04-28]
+paper = [2020-04-22, 2020-05-06]
+notification = [2020-06-14]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Part of QONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials. A special issue dedicated to selected papers from CONCUR 2020 will appear in Logical Methods in Computer Science."

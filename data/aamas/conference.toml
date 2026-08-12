@@ -1,0 +1,12 @@
+# AAMAS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "AAMAS"
+name = "International Conference on Autonomous Agents and Multiagent Systems"
+
+[core]
+id = "922"
+rank = "A*"  # TODO: verify
+
+[links]
+dblp = "ifaamas"
+twitter = "aamas2021"

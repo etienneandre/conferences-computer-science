@@ -1,0 +1,24 @@
+# migrated from data.php line 5169
+edition = 29
+title = "29th International Conference on Computer Science Logic"
+url = "https://csl2021.fmf.uni-lj.si/"
+
+[event]
+start = 2021-01-25
+end = 2021-01-28
+online = true
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ references)"
+paper = [2020-07-01, 2020-07-08]
+notification = [2020-09-25]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 34
+submitted = 82
+# TODO: verify — extracted from the cross-year acceptance string.

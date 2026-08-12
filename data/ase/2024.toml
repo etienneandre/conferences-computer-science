@@ -1,0 +1,22 @@
+# migrated from data.php line 2337
+edition = 39
+title = "39th IEEE/ACM International Conference on Automated Software Engineering"
+url = "https://conf.researchr.org/home/ase-2024"
+
+[event]
+start = 2024-10-27
+end = 2024-11-01
+city = "Sacramento, California, United States"
+
+[submission]
+format = "10 pages ACM + references (technical research / experience)"
+abstract = [2024-05-31]
+paper = [2024-06-07]
+notification = [2024-07-22]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double-blind submissions."

@@ -1,0 +1,22 @@
+# migrated from data.php line 4758
+edition = 27
+title = "27th International Conference on Coordination Models and Languages"
+url = "https://www.discotec.org/2025/coordination"
+
+[event]
+start = 2025-06-16
+end = 2025-06-20
+city = "Lille, France"
+
+[submission]
+format = "18 pages + references (regular) / 25 pages (survey) / 15 pages (tool)"
+abstract = [2025-01-31, 2025-02-14]
+paper = [2025-02-07, 2025-02-21]
+notification = [2025-03-28, 2025-04-04]
+
+[proceedings]
+publisher = "LNCS-IFIP"
+license = "pay-profit-embargo"
+
+[extra]
+notes = "Member of DisCoTec 2025. The volumes will be open access from the IFIP digital library after a 3-year embargo."

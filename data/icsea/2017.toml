@@ -1,0 +1,21 @@
+# migrated from data.php line 16080
+edition = 12
+title = "12th International Conference on Software Engineering Advances"
+url = "https://www.iaria.org/conferences2017/ICSEA17.html"
+
+[event]
+start = 2017-10-08
+end = 2017-10-12
+city = "Athens, Greece"
+
+[submission]
+format = "6 pages (regular) / 4 pages (short/work in progress) / 2 pages (ideas/poster)"
+paper = [2017-05-20]
+notification = [2017-07-20]
+
+[proceedings]
+publisher = "ThinkMind"
+license = "free-copy"
+
+[extra]
+notes = "More paper categories (poster, extended abstracts, presentations, demos, doctoral forum…). Authors of selected papers will be invited to submit extended versions to a IARIA Journal."

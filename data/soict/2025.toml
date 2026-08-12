@@ -1,0 +1,25 @@
+# migrated from data.php line 28934
+edition = 14
+title = "14th International Symposium on Information and Communication Technology"
+url = "https://soict.org/"
+
+[event]
+start = 2025-12-12
+end = 2025-12-14
+city = "Nha Trang, Việt Nam"
+
+[submission]
+format = "12 pages + references"
+abstract = [2025-09-05]
+paper = [2025-09-15]
+notification = [2025-10-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+
+[extra]
+journal = "Extended versions of the selected papers in SOICT 2024 will be invited for submission to Special issue of Multimedia Tools and Applications (Q1 Journal) and Informatica."

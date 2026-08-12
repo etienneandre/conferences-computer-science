@@ -1,0 +1,21 @@
+# migrated from data.php line 21747
+edition = 34
+title = "34th Nordic Workshop On Programming Theory"
+url = "https://conf.researchr.org/home/nwpt-2023"
+
+[event]
+start = 2023-11-22
+end = 2023-11-23
+city = "Västerås, Sweden"
+
+[submission]
+tz = "AoE"
+format = "2-3 pages Easychair"
+paper = [2023-09-22, 2023-10-13]
+notification = [2023-10-13, 2023-10-30]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. We plan to arrange a special issue of the Journal of Logical and Algebraic Methods in Programming (JLAMP) devoted to the best contributions to the workshop."

@@ -1,0 +1,16 @@
+# VMCAI — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "VMCAI"
+name = "International Conference on Verification, Model Checking, and Abstract Interpretation"
+
+[core]
+id = "1847"
+rank = "B"  # TODO: verify
+
+[links]
+dblp = "vmcai"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "45% (24/53) in 2015, 36% (24/67) in 2016, 45% (27/60) in 2017, 56% (24/43) in 2018, 50% (17/34) in 2023, 41% (30/74) in 2024, 42% (20/48) in 2025"  # from VMCAI 2026
+extensions = "5 days in 2013, 7 days in 2017, 10 days in 2019, 6 days (2020), 22 days (2025), 5 days (2026)"  # from VMCAI 2026

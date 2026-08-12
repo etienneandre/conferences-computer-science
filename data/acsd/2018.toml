@@ -1,0 +1,22 @@
+# migrated from data.php line 881
+edition = 18
+title = "18th International Conference on Application of Concurrency to System Design"
+url = "http://interes.institute/acsd2018/"
+
+[event]
+start = 2018-06-24
+end = 2018-06-29
+city = "Bratislava, Slovakia"
+
+[submission]
+format = "10 pages IEEE (regular) / 6 pages IEEE (tools)"
+abstract = [2018-01-18, 2018-01-25, 2018-02-08]
+paper = [2018-01-25, 2018-02-01, 2018-02-15]
+notification = [2018-03-15, 2018-03-22, 2018-03-29]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "Co-located with Petri Nets. Deadline extended: 9 days in 2013, 4 days in 2015, 0 in 2016, 14 in 2017, 7+15 days in 2018."

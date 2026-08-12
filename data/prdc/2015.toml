@@ -1,0 +1,26 @@
+# migrated from data.php line 23049
+edition = 21
+title = "21st IEEE Pacific Rim International Symposium on Dependable Computing"
+url = "http://prdc.dependability.org/PRDC2015/"
+
+[event]
+start = 2015-11-18
+end = 2015-11-20
+city = "Zhangjiajie, China"
+
+[submission]
+format = "10 pages IEEE (regular) / 6 pages (practical experience reports)"
+paper = [2015-05-15, 2015-05-30, 2015-06-30]
+notification = [2015-07-15, 2015-08-10, 2015-08-17]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[stats]
+accepted = 44
+submitted = 114
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."

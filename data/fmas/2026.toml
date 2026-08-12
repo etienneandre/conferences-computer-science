@@ -1,0 +1,30 @@
+# migrated from data.php line 8587
+edition = 8
+title = "8th Workshop on Formal Methods for Autonomous Systems"
+url = "https://fmasworkshop.github.io/FMAS2026/"
+
+[event]
+start = 2026-11-17
+end = 2026-11-18
+city = "Southampton, UK"
+
+[submission]
+tz = "AoE"
+format = "15 pages + references (regular / Experience report) / 6 pages + references (vision / research previews)"
+abstract = [2026-08-14]
+paper = [2026-08-17]
+notification = [2026-10-06]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[review]
+blind = "single"
+diversity = "mixed"
+environment = "Remote presentation allowed. Free online participation."
+
+[extra]
+journal = "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2026."
+colocated = "Colocated with ICFEM 2026"
+notes = "Special topic 2026: Neurosymbolic AI"

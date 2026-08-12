@@ -1,0 +1,19 @@
+# migrated from data.php line 3142
+title = "Workshop on Non-zero-sum Games for Synthesis"
+url = "http://www.cassting-project.eu/workshop-2014/"
+
+[event]
+start = 2014-04-12
+city = "Grenoble, France"
+
+[submission]
+format = "2 pages (EPTCS)"
+abstract = [2014-01-17]
+paper = [2014-01-24]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite workshop of ETAPS 2014. Authors of accepted abstracts reporting unpublished work will be given the opportunity to publish a long version of their abstract in a post-workshop EPTCS proceedings."

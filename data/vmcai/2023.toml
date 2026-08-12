@@ -1,0 +1,27 @@
+# migrated from data.php line 33267
+edition = 24
+title = "24th International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://vmcai-2023.github.io/"
+
+[event]
+start = 2023-01-15
+end = 2023-01-17
+city = "Boston, Massachusetts, United States"
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix (regular / case studies) / 12 pages + references (tool)"
+paper = [2022-09-08]
+notification = [2022-10-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 17
+submitted = 34
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Co-located with POPL. Authors are strongly encouraged to make their tools publicly available and submit an artifact."

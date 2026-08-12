@@ -1,0 +1,12 @@
+# MARS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "MARS"
+name = "Workshop on Models for Formal Analysis of Real Systems"
+frequency = "Every two years (?)"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "9 days (2018), 8 days (2020), 14 days (2022), 10 days (2024), 21 days (2026)"  # from MARS 2026

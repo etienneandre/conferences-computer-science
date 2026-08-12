@@ -1,0 +1,22 @@
+# migrated from data.php line 6063
+edition = 33
+title = "33rd Euromicro Conference on Real-Time Systems"
+url = "http://www.ecrts.org/"
+
+[event]
+start = 2021-07-07
+end = 2021-07-09
+online = true
+
+[submission]
+tz = "UTC-12"
+format = "15 pages LIPIcs (no hard limit)"
+paper = [2021-03-03]
+notification = [2021-04-22]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "No deadline extension for any reason. No hard page limit. Double blind. Artifact evaluation process."

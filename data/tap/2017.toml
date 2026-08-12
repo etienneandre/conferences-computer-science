@@ -1,0 +1,27 @@
+# migrated from data.php line 30939
+edition = 11
+title = "11th International Conference on Tests & Proofs"
+url = "http://http://www.seceng.de/tap2017"
+
+[event]
+start = 2017-07-19
+end = 2017-07-20
+city = "Marburg, Germany"
+
+[submission]
+format = "16 pages LNCS + references (research) / 8 pages + ref (tool) / 6 pages + ref (short)"
+abstract = [2017-02-17, 2017-02-27]
+paper = [2017-02-24, 2017-03-05]
+notification = [2017-04-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 9
+submitted = 16
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Part of the Staf Conference Series."

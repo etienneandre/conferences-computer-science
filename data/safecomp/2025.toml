@@ -1,0 +1,22 @@
+# migrated from data.php line 27020
+edition = 44
+title = "44th International Conference on Computer Safety, Reliability and Security"
+url = "https://safecomp2025.se/"
+
+[event]
+start = 2025-09-09
+end = 2025-09-12
+city = "Stockholm, Sweden"
+
+[submission]
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / position (4 pages)"
+abstract = [2025-02-07]
+paper = [2025-02-14]
+notification = [2025-04-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Key theme in 2025: \"Managing safety in an era of a software-defined computing continuum\"."

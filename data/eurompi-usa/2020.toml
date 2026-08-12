@@ -1,0 +1,21 @@
+# migrated from data.php line 7372
+edition = 27
+title = "27th European MPI Users’ Group Meeting"
+url = "https://eurompi.github.io/"
+
+[event]
+start = 2020-09-21
+end = 2020-09-24
+city = "Austin, TX, USA"
+
+[submission]
+format = "10 pages ACM ICPS (long), ≤ 4 pages (short)"
+paper = [2020-04-22, 2020-05-13, 2020-05-20]
+notification = [2020-07-01, 2020-07-10]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "In-cooperation status with ACM and SIGHPC. Warning: notification date extended after submission, and without notice (2014). The best papers of the conference will be considered for inclusion in a special issue of Elsevier’s Parallel Computing."

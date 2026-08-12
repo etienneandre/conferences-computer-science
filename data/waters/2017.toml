@@ -1,0 +1,20 @@
+# migrated from data.php line 33910
+edition = 8
+title = "8th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems"
+url = "https://waters2017.inria.fr/"
+
+[event]
+start = 2017-06-27
+city = "Dubrovnik, Croatia"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2017-03-31, 2017-04-14]
+notification = [2017-05-08]
+
+[proceedings]
+publisher = "No formal proceedings?"
+license = "free"
+
+[extra]
+notes = "Colocated with ECRTS. This year focus: We encourage submissions proposing novel models or combining existing models for analyzing real-time and performance properties for such heterogeneous systems. Also features the WATERS industrial challenge (formerly FMTV)."

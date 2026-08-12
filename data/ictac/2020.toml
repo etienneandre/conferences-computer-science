@@ -1,0 +1,23 @@
+# migrated from data.php line 16639
+edition = 17
+title = "17th International Colloquium on Theoretical Aspects of Computing"
+url = "https://ictac2020.github.io/"
+
+[event]
+start = 2020-11-30
+end = 2020-12-04
+city = "Macao, China"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS (regular) + 2p bibliography / 10 pages LNCS (short / tool)"
+abstract = [2020-06-22, 2020-07-10]
+paper = [2020-06-26, 2020-07-17]
+notification = [2020-09-14, 2020-09-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The ICTAC committee will evaluate and select the best paper award winner. The winner will receive a cash award."

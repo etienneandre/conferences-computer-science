@@ -1,0 +1,21 @@
+# migrated from data.php line 22843
+edition = 48
+title = "48th ACM SIGPLAN Symposium on Principles of Programming Languages"
+url = "https://popl21.sigplan.org"
+
+[event]
+start = 2021-01-17
+end = 2021-01-22
+online = true
+
+[submission]
+format = "25 pages new ACM format + references"
+paper = [2020-07-09]
+notification = [2020-10-01]
+
+[proceedings]
+publisher = "PACMPL"
+license = "cc-by"
+
+[extra]
+notes = "Rebuttal: 7-9 September 2020. Double blind submission. Authors are asked (but not required) to pay US$400 for journal open-access publication. At most 10% of the accepted papers of POPL 2021 will be designated as Distinguished Papers"

@@ -1,0 +1,22 @@
+# migrated from data.php line 809
+edition = 15
+title = "15th International Conference on Application of Concurrency to System Design"
+url = "http://www.ulb.ac.be/di/verif/pn2015acsd2015/"
+
+[event]
+start = 2014-06-24
+end = 2014-06-26
+city = "Bruxelles, Belgium"
+
+[submission]
+format = "10 pages IEEE (regular) / 6 pages IEEE (tools)"
+abstract = [2015-01-29]
+paper = [2015-01-29]
+notification = [2015-03-26]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "Co-located with Petri Nets. Deadline extended: 9 days in 2013, 4 days in 2015."

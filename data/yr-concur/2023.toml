@@ -1,0 +1,20 @@
+# migrated from data.php line 35003
+edition = 11
+title = "11th International Young Researchers Workshop on Concurrency Theory"
+url = "https://www.uantwerpen.be/en/conferences/confest-2023/workshops/yrconcur/"
+
+[event]
+start = 2023-09-23
+city = "Antwerp, Belgium"
+
+[submission]
+format = "2 pages"
+paper = [2023-07-04]
+notification = [2023-07-20]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+colocated = "Satellite of CONCUR."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Cancelled in 2014, did not happen in 2020-21."

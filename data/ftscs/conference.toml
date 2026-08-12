@@ -1,0 +1,16 @@
+# FTSCS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FTSCS"
+name = "ACM International Workshop on Formal Techniques for Safety-Critical Systems"
+defunct = 2023
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "ftscs"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "rate: 55% (18/33) in 2013, 35% (14/40) in 2014, 37% (17/46) in 2015, 36% (9/23) in 2016, 45% (10/22) in 2018, 67% (8 long + 1 short + 1 WiP / 15), 67% (7 long + 1 short + 1 tool + WiP / 15) in 2022."  # from FTSCS 2023
+extensions = "8 days in 2013, 6 days in 2014, 8 days in 2015, 7 days (2018, 2022), 9 days (2023)"  # from FTSCS 2023

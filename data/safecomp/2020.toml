@@ -1,0 +1,22 @@
+# migrated from data.php line 26886
+edition = 39
+title = "39th International Conference on Computer Safety, Reliability and Security"
+url = "http://safecomp2020.di.fc.ul.pt/"
+
+[event]
+start = 2020-09-15
+end = 2020-09-18
+city = "Lisbon, Portugal"
+
+[submission]
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / position (4 pages)"
+abstract = [2020-02-07, 2020-02-21]
+paper = [2020-02-14, 2020-03-02]
+notification = [2020-04-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Best papers invited in a special issue of a safety-related international journal."

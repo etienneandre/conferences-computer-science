@@ -1,0 +1,26 @@
+# migrated from data.php line 5079
+edition = 39
+title = "39th IEEE Computer Security Foundations Symposium"
+url = "https://csf2026.ieee-security.org/"
+
+[event]
+start = 2026-07-26
+end = 2026-07-29
+city = "Lisbon Portugal"
+
+[submission]
+format = "12 pages IEEE (+ references + appendix)"
+paper = [2025-07-24]
+notification = [2025-09-25]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+award = "Some small number of papers will be selected by the Program Committee as \"Distinguished Papers\"."
+
+[extra]
+colocated = "Colocated with FLoC 2026"
+notes = "Three submission cycles: summer, fall, winter."

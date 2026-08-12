@@ -1,0 +1,21 @@
+# migrated from data.php line 13337
+edition = 24
+title = "24th ACM International Conference on Hybrid Systems: Computation and Control"
+url = "https://hscc.acm.org/2021/"
+
+[event]
+start = 2021-05-19
+end = 2021-05-21
+online = true
+
+[submission]
+format = "10 pages ACM (long) / 6 pages (short)"
+paper = [2020-10-26]
+notification = [2020-12-31]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Part of Cyber Physical Systems (CPS) Week. Light double-blind reviewing process. Several best paper awards. Rebuttal phase: early December 2020. Regular papers and tool/case study papers can both be long or short."

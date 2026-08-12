@@ -1,0 +1,22 @@
+# migrated from data.php line 2179
+edition = 32
+title = "32nd IEEE/ACM International Conference on Automated Software Engineering"
+url = "http://www.ase2017.org/"
+
+[event]
+start = 2017-10-30
+end = 2017-11-03
+city = "Urbana-Champaign, Illinois, USA"
+
+[submission]
+format = "10 pages ACM + references (technical research / experience) / 6 pages (new ideas)"
+abstract = [2017-05-05]
+paper = [2017-05-12]
+notification = [2017-07-21]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double-blind submissions."

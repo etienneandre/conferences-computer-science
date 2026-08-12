@@ -1,0 +1,14 @@
+# SYNT — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SYNT"
+name = "International Workshop on Synthesis"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "synt"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "10 days (2014), 2 weeks (2016), 7 days (2019)"  # from SYNT 2026

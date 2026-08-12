@@ -1,0 +1,12 @@
+# FVSBS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FVSBS"
+name = "International track on Formal Verification of Service Based Systems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extensions: 10 days in 2013, 24 days in 2014, 15 days in 2015, 11+18 days in 2017, 13+7 days in 2019."

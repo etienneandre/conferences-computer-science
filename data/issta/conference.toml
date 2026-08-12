@@ -1,0 +1,11 @@
+# ISSTA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ISSTA"
+name = "International Symposium on Software Testing and Analysis"
+
+[core]
+id = "1412"
+rank = "A"  # TODO: verify
+
+[links]
+dblp = "issta"

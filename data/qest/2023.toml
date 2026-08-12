@@ -1,0 +1,23 @@
+# migrated from data.php line 23727
+edition = 20
+title = "19th International Conference on Quantitative Evaluation of SysTems"
+url = "https://www.qest.org/qest2023"
+
+[event]
+start = 2023-09-20
+end = 2023-09-22
+city = "Antwerp, Belgium"
+
+[submission]
+tz = "AoE"
+format = "14 pages LNCS + references (Theoretical / Methodological / Application / Tools); 7 pages LNCS (short)"
+abstract = [2023-04-30, 2023-05-08]
+paper = [2023-05-07, 2023-05-17]
+notification = [2023-06-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of CONFEST 2023. Accepted tool descriptions will appear in the conference proceedings. Submission of an artifact is mandatory for tool papers (both regular and short), and optional but encouraged for theoretical/methodological and application papers where it can support the results presented in the paper. A selection of the best full papers will be invited to submit an extended version of their work to a special issue in the ACM Transactions on Modelling and Computer Simulation (TOMACS)."

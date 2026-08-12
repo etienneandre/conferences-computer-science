@@ -1,0 +1,20 @@
+# migrated from data.php line 33963
+edition = 10
+title = "10th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems"
+url = "https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2019/waters/index.html"
+
+[event]
+start = 2019-07-09
+city = "Stuttgart, Germany"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2019-04-23, 2019-05-14]
+notification = [2019-05-14]
+
+[proceedings]
+publisher = "No formal proceedings?"
+license = "free"
+
+[extra]
+notes = "Colocated with ECRTS. The challenge is proposed by Arne Hamann, Dakshina Dasari, and Falk Wurst, Corporate Research Robert Bosch GmbH and Ignacio Sañudo, Nicola Capodieci, Paolo Burgio and Marko Bertogna, University of Modena and Reggio Emilia."

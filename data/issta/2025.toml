@@ -1,0 +1,28 @@
+# migrated from data.php line 18285
+edition = 34
+title = "34th International Symposium on Software Testing and Analysis"
+url = "https://conf.researchr.org/home/issta-2025"
+
+[event]
+start = 2025-06-25
+end = 2025-06-28
+city = "Trondheim, Norway"
+
+[submission]
+tz = "AoE"
+format = "18 pages ACM (+ 4 pages references)"
+paper = [2024-10-31]
+notification = [2024-12-19]
+
+[proceedings]
+publisher = "PACMSE"
+license = "acm"
+
+[review]
+blind = "double"
+diversity = "mixed"
+artifact = "Artifact evaluation, replicability studies."
+
+[extra]
+colocated = "Co-located with FSE 2025."
+notes = "Major revisions. The conference proceedings will be published in the Proceedings of the ACM on Software Engineering (PACMSE), Issue: ISSTA 2025."

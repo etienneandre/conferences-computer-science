@@ -1,0 +1,28 @@
+# migrated from data.php line 5243
+edition = 32
+title = "International Conference on Computer Science Logic"
+url = "https://csl2024.github.io/Home/"
+
+[event]
+start = 2024-02-19
+end = 2024-02-23
+city = "Naples, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ references)"
+abstract = [2023-07-24]
+paper = [2023-07-31]
+notification = [2023-10-27]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 46
+submitted = 82
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Helena Rasiowa Award for the best student paper."

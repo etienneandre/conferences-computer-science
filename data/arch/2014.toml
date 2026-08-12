@@ -1,0 +1,19 @@
+# migrated from data.php line 1957
+edition = 1
+title = "1st International Workshop on Applied Verification for Continuous and Hybrid Systems"
+url = "http://cps-vo.org/group/ARCH"
+
+[event]
+start = 2014-04-14
+city = "Berlin, Germany"
+
+[submission]
+format = "3-6 pages (Benchmark papers, tool presentations, experience reports)"
+paper = [2014-02-19]
+notification = [2014-03-05]
+
+[proceedings]
+publisher = "Web page?"
+
+[extra]
+notes = "Part of CPSWeek in Berlin"

@@ -1,0 +1,23 @@
+# migrated from data.php line 23296
+edition = 29
+title = "29th IEEE Pacific Rim International Symposium on Dependable Computing"
+url = "https://prdc.dependability.org/PRDC2024/"
+
+[event]
+start = 2024-11-13
+end = 2024-11-15
+city = "Osaka, Japan"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) / 6 pages (practical experience reports), excluding references"
+abstract = [2024-07-24]
+paper = [2024-07-31]
+notification = [2024-08-31]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."

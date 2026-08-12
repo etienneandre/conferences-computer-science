@@ -1,0 +1,21 @@
+# migrated from data.php line 24592
+edition = 24
+title = "24th IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "http://2018.rtas.org/"
+
+[event]
+start = 2018-04-11
+end = 2018-04-13
+city = "Porto, Portugal"
+
+[submission]
+format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
+paper = [2017-10-06]
+notification = [2017-12-19]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Three tracks (Applications, RTOSs, Run-Time Software and Tools / Applied Methodologies and Foundations / Embedded Systems Design for Real-Time Applications). Part of the Cyber-Physical Systems Week. Firm deadline."

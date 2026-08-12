@@ -1,0 +1,23 @@
+# migrated from data.php line 23641
+edition = 17
+title = "17th International Conference on Quantitative Evaluation of SysTems"
+url = "http://www.qest.org/qest2020/"
+
+[event]
+start = 2020-09-01
+end = 2020-09-03
+city = "Online (Vienna, Austria)"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (Theoretical / Methodological and technical / Application / Tools); 4 pages LNCS (Tool demonstration)"
+abstract = [2020-03-27, 2020-04-24]
+paper = [2020-04-03, 2020-04-30]
+notification = [2020-05-30, 2020-06-19]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Accepted tool descriptions will appear in the conference proceedings. Extended versions of the best papers will be considered for possible fast-track publication in a journal special issue."

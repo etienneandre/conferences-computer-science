@@ -1,0 +1,22 @@
+# migrated from data.php line 2421
+edition = 13
+title = "International Symposium on Automated Technology for Verification and Analysis"
+url = "http://atva2015.ios.ac.cn/"
+
+[event]
+start = 2015-10-12
+end = 2015-10-15
+city = "Shanghai, China"
+
+[submission]
+format = "16 pages in Springer’s LNCS format (regular) / 5 (tool)"
+abstract = [2015-04-29]
+paper = [2015-05-02]
+notification = [2015-06-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "4 more days to edit the paper past the deadline in 2011. A special journal issue is also being planned for selected papers."

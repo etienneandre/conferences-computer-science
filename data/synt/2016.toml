@@ -1,0 +1,22 @@
+# migrated from data.php line 30222
+edition = 5
+title = "5th Workshop on Synthesis"
+url = "http://formal.epfl.ch/synt/2016/"
+
+[event]
+start = 2016-07-17
+city = "Toronto, Canada"
+
+[submission]
+format = "15 pages EPTCS + references (long) / 7 pages + references (tool)"
+paper = [2016-04-22, 2016-05-06]
+notification = [2016-05-30]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = """
+Satellite event of CAV. Given sufficient interest, extended versions of selected papers will
+appear in a special issue of the journal Acta Informatica. Student award: travel grant for best paper."""

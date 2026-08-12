@@ -1,0 +1,28 @@
+# migrated from data.php line 27073
+edition = 17
+title = "17th Brazilian Symposium on Formal Methods"
+url = "http://www.ic.ufal.br/evento/cbsoft2014/"
+
+[event]
+start = 2014-09-29
+end = 2014-09-30
+city = "Maceio, Brazil"
+
+[submission]
+tz = "UTC-03"
+format = "16 pages LNCS"
+abstract = [2014-07-08]
+paper = [2014-07-15]
+notification = [2014-08-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 13
+submitted = 34
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "A member of CBSoft joint conference. All dates are Brasilia time, BRT:UTC-03. A special issue of a reputable journal with extended versions of selected papers from SBMF’14 is anticipated (Science of Computer Programming for SBMF 2011-2013)."

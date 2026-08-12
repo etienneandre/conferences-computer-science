@@ -1,0 +1,27 @@
+# migrated from data.php line 14713
+edition = 19
+title = "19th International Conference on Formal Engineering Methods"
+url = "http://ictt.xidian.edu.cn/icfem2017/"
+
+[event]
+start = 2017-11-13
+end = 2017-11-17
+city = "Xi’An, China"
+
+[submission]
+format = "16 pages LNCS"
+abstract = [2017-04-30, 2017-05-07]
+paper = [2017-05-07, 2017-05-14]
+notification = [2017-06-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 28
+submitted = 80
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Authors of selected papers from ICFEM 2017 will be invited to submit an extended version to a special section of IEEE Transactions on Reliability (T-Rel)."

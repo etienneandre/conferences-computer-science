@@ -1,0 +1,22 @@
+# migrated from data.php line 20452
+edition = 44
+title = "44th International Symposium on Mathematical Foundations of Computer Science"
+url = "http://tcs.rwth-aachen.de/mfcs2019"
+
+[event]
+start = 2019-08-26
+end = 2019-08-30
+city = "Aachen, Germany"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ bilbiography)"
+paper = [2019-04-22]
+notification = [2019-06-12]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Appendix allowed."

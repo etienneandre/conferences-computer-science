@@ -1,0 +1,22 @@
+# migrated from data.php line 9837
+edition = 13
+title = "13th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "http://formats2015.unifi.it"
+
+[event]
+start = 2015-09-02
+end = 2015-09-04
+city = "Madrid, Spain"
+
+[submission]
+format = "15 pages LNCS + appendix"
+abstract = [2015-04-27]
+paper = [2015-05-04]
+notification = [2015-06-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper). Co-located with QEST, SAFECOMP, EPEW and FMICS. A special issue dedicated to FORMATS will be hosted in the Journal of Real Time Systems, Springer, collecting the extensions of papers selected by quality and fitness to the Journal scope, and subject to additional revision."

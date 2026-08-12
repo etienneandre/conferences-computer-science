@@ -1,0 +1,21 @@
+# migrated from data.php line 32646
+edition = 8
+title = "8th International Workshop on Verification and Evaluation of Computer and Communication Systems"
+url = "http://vecos.ensta-paristech.fr/2014/"
+
+[event]
+start = 2014-09-29
+end = 2014-09-30
+city = "Bejaïa, Algeria"
+
+[submission]
+format = "12 pages Electronic Workshops in Computing (eWiC)"
+paper = [2014-06-01]
+notification = [2014-06-16]
+
+[proceedings]
+publisher = "eWiC"
+license = "free"
+
+[extra]
+notes = "Best papers invited to submit to a special issue of the International Journal of Critical Computer-Based Systems (IJCCBS)."

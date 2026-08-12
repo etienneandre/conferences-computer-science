@@ -1,0 +1,22 @@
+# migrated from data.php line 19438
+edition = 27
+title = "27th International Symposium on Logic-Based Program Synthesis and Transformation"
+url = "https://www.sci.unich.it/lopstr17/"
+
+[event]
+start = 2017-10-10
+end = 2017-10-12
+city = "Namur, Belgium"
+
+[submission]
+format = "15 pages Springer + Appendix"
+abstract = [2017-06-06, 2017-06-18]
+paper = [2017-06-13, 2017-06-25]
+notification = [2017-07-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "co-located with PPDP 2016 and SAS 2016. Full papers can be directly accepted for publication in the formal proceedings, or accepted only for presentation at the symposium and inclusion in informal proceedings (and then possibly accepted after another round). A best paper award will be granted, which will include a 500 EUR prize provided by Springer. A selection of the best papers will be invited for submission to a special issue of a journal."

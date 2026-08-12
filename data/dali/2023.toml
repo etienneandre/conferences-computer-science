@@ -1,0 +1,21 @@
+# migrated from data.php line 5435
+edition = 5
+title = "Dynamic Logic: new trends and applications"
+url = "https://dali2023.compute.dtu.dk/"
+
+[event]
+start = 2023-09-15
+end = 2023-09-16
+city = "Tbilisi, Georgia"
+
+[submission]
+format = "15 pages LNCS"
+paper = [2023-01-01]
+notification = [2023-01-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Workshop co-located with LATD 2023 and TbiLLC 2023. Extended versions of the DaLí contributions will be invited to a special issue in the Journal of Logic and Algebraic Methods in Programming, Elsevier. Extended abstracts with preliminarily results and work in progress (2-5 pag) are also welcomed for short presentations."

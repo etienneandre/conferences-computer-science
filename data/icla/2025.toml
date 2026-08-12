@@ -1,0 +1,30 @@
+# migrated from data.php line 15108
+edition = 11
+title = "9th Indian Conference on Logic and its Applications"
+url = "https://logicindia.org/icla/icla2025/"
+
+[event]
+start = 2025-02-03
+end = 2025-02-05
+city = "Indian Statistical Institute Kolkata, India"
+
+[submission]
+format = "12 pages + references"
+abstract = [2024-08-11, 2024-08-25, 2024-08-29]
+paper = [2024-08-15, 2024-08-29]
+notification = [2024-10-18, 2024-10-25]
+
+[proceedings]
+publisher = "FoLLI-LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2024-10-07
+rebuttal_end = 2024-10-11
+
+[extra]
+colocated = "Tutorials and workshops. Post-Conference: AWPL 2025"
+notes = "In 2011, some papers were accepted for presentation but not in proceedings. A limited number of registration waivers are available for Indian participants. Every two years."

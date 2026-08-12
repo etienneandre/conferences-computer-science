@@ -1,0 +1,22 @@
+# migrated from data.php line 26565
+edition = 36
+title = "36th Annual ACM/SIGAPP Symposium on Applied Computing"
+url = "http://www.sigapp.org/sac/sac2021/"
+
+[event]
+start = 2021-03-22
+end = 2021-03-26
+online = true
+
+[submission]
+tz = "UTC"
+format = "8+2 pages ACM SAC"
+paper = [2020-09-15, 2020-10-12]
+notification = [2020-11-10, 2020-11-24]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "44 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind."

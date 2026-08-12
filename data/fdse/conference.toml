@@ -1,0 +1,11 @@
+# FDSE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FDSE"
+name = "International Conference on Future Data and Security Engineering"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 15 days (2015)"

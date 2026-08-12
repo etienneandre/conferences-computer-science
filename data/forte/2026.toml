@@ -1,0 +1,29 @@
+# migrated from data.php line 10536
+edition = 46
+title = "46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems"
+url = "https://www.discotec.org/2026/forte"
+
+[event]
+start = 2026-06-08
+end = 2026-06-12
+city = "Urbino, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS (regular / tool) + references / 6 (short / tool demo / journal)"
+abstract = [2026-01-30, 2026-02-13]
+paper = [2026-02-06, 2026-02-20]
+notification = [2026-03-24]
+
+[proceedings]
+publisher = "Springer LNCS IFIP"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+artifact = "Artifact evaluation mandatory for tool papers, optional for regular papers"
+
+[extra]
+journal = "Selected papers will be invited to a special issue of Logical Methods in Computer Science."
+colocated = "A DisCoTec Member Conference"

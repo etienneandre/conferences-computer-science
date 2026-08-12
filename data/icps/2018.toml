@@ -1,0 +1,21 @@
+# migrated from data.php line 15695
+edition = 1
+title = "1st IEEE International Conference on Industrial Cyber-Physical Systems"
+url = "https://icps2018.net/"
+
+[event]
+start = 2018-05-15
+end = 2018-05-18
+city = "Saint Petersburg, Russia"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2017-12-22]
+notification = [2018-02-28]
+
+[proceedings]
+publisher = "IEEE-Xplore"
+license = "pay"
+
+[extra]
+notes = "Excellent papers may be invited to the IEEE Transaction on Industrial Informatics"

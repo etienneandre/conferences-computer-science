@@ -1,0 +1,32 @@
+# migrated from data.php line 33316
+edition = 26
+title = "26th International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://conf.researchr.org/home/VMCAI-2025"
+
+[event]
+start = 2025-01-20
+end = 2025-01-21
+city = "Denver, Colorado, United States"
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix (regular / case studies) / 12 pages + references (tool)"
+paper = [2024-09-09, 2024-10-01]
+notification = [2024-10-25, 2024-11-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+artifact = "Authors are strongly encouraged to make their tools publicly available and submit an artifact."
+
+[stats]
+accepted = 20
+submitted = 48
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+colocated = "Co-located with POPL."

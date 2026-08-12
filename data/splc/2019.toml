@@ -1,0 +1,22 @@
+# migrated from data.php line 29312
+edition = 23
+title = "23rd International Systems and Software Product Line Conference"
+url = "https://splc2019.net/"
+
+[event]
+start = 2019-09-09
+end = 2019-09-13
+city = "Paris, France"
+
+[submission]
+format = "12 pages ACM (full) / 7 pages (short)"
+abstract = [2019-03-12]
+paper = [2019-03-19]
+notification = [2019-05-14]
+
+[proceedings]
+publisher = "ACM digital library"
+license = "acm"
+
+[extra]
+notes = "There will be two best paper awards each endowed by 500€"

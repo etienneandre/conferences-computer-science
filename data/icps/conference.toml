@@ -1,0 +1,10 @@
+# ICPS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICPS"
+name = "IEEE Conference on Industrial Cyber-Physical Systems"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "icphys"

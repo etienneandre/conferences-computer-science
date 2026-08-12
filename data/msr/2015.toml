@@ -1,0 +1,22 @@
+# migrated from data.php line 20721
+edition = 10
+title = "Modélisation des Systèmes Réactifs"
+url = "http://msr2015.loria.fr/"
+
+[event]
+start = 2015-11-18
+end = 2015-11-20
+city = "Nancy, France"
+
+[submission]
+format = "14 pages EasyChair"
+abstract = [2015-04-10]
+paper = [2015-05-25]
+notification = [2015-07-06]
+
+[proceedings]
+publisher = "JESA Hermès (?)"
+license = "pay-profit"
+
+[extra]
+notes = "In French. Poster PhD session (deadline: 15 September, notification: 23 September). Best paper award for young scientists."

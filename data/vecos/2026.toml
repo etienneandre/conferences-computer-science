@@ -1,0 +1,26 @@
+# migrated from data.php line 33012
+edition = 19
+title = "19th International Conference on Verification and Evaluation of Computer and Communication Systems"
+url = "http://vecos-world.org/2025/"
+
+[event]
+start = 2026-11-19
+end = 2026-11-20
+city = "Amsterdam, Netherlands"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS (including bibliography)"
+paper = [2026-06-22, 2026-07-06]
+notification = [2026-07-22, 2026-08-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay"
+
+[review]
+blind = "single"
+diversity = "mixed"
+
+[extra]
+journal = "Authors of selected papers will be invited to submit extended and revised versions of their work for consideration in a special issue of an indexed international journal (ISSE:Innovations in Systems and Software Engineering, IJCCBS: International Journal of Critical Computer-Based Systems."

@@ -1,0 +1,15 @@
+# SERENE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SERENE"
+name = "International Workshop on Software Engineering for Resilient Systems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "serene"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "1 week (2019), 1 week (2022)"  # from SERENE 2022

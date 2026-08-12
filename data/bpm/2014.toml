@@ -1,0 +1,19 @@
+# migrated from data.php line 2950
+edition = 12
+title = "12th International Conference on Business Process Management"
+url = "http://bpm2014.haifa.ac.il"
+
+[event]
+start = 2014-09-07
+end = 2014-09-12
+city = "Haifa, Israel"
+
+[submission]
+format = "16 pages LNCS"
+abstract = [2014-03-14]
+paper = [2014-03-21]
+notification = [2014-05-23]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

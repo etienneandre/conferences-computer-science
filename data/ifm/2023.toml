@@ -1,0 +1,23 @@
+# migrated from data.php line 17124
+edition = 18
+title = "18th International Conference on integrated Formal Methods"
+url = "https://ifm23.liacs.nl"
+
+[event]
+start = 2023-11-13
+end = 2023-11-15
+city = "Leiden, the Netherlands"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (research / regular / case study) / 6 pages (short) / journal-first (4 pages)"
+abstract = [2023-06-10]
+paper = [2023-06-15]
+notification = [2023-08-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Optional EAPLS Artefact Badging. A special issue of the Formal Aspects of Computing journal is planned for extended versions of selected papers from iFM 2023."

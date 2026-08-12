@@ -1,0 +1,23 @@
+# migrated from data.php line 23702
+edition = 19
+title = "19th International Conference on Quantitative Evaluation of SysTems"
+url = "https://www.qest.org/qest2022"
+
+[event]
+start = 2022-09-12
+end = 2022-09-16
+city = "Warsaw, Poland"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (Theoretical / Methodological / Application / Tools); 8 pages LNCS (short)"
+abstract = [2022-04-18]
+paper = [2022-04-25]
+notification = [2022-06-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of CONFEST 2022. Accepted tool descriptions will appear in the conference proceedings. Submission of an artifact is mandatory for tool papers (both regular and short), and optional but encouraged for theoretical/methodological and application papers where it can support the results presented in the paper. A selection of the best full papers will be invited to submit an extended version of their work to a special issue in the ACM Transactions on Modelling and Computer Simulation (TOMACS)."

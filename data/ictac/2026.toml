@@ -1,0 +1,26 @@
+# migrated from data.php line 16822
+edition = 23
+title = "23rd International Colloquium on Theoretical Aspects of Computing"
+url = "https://ictac2026.github.io/"
+
+[event]
+start = 2026-11-11
+end = 2026-11-13
+city = "Bariloche, Argentina"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (original research / applications) + 2 pages bibliography / 8 pages LNCS (short / tool)"
+abstract = [2026-06-08, 2026-06-14]
+paper = [2026-06-15, 2026-06-22]
+notification = [2026-08-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+
+[extra]
+colocated = "ICTAC 2026 will be preceded by the ICTAC Postgraduate School on Formal Methods for Building Mission-Critical Systems"

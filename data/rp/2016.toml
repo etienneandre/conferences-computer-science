@@ -1,0 +1,26 @@
+# migrated from data.php line 24012
+edition = 10
+title = "10th International workshop on Reachability Problems"
+url = "http://rp16.cs.aau.dk/"
+
+[event]
+start = 2016-09-19
+end = 2016-09-21
+city = "Aalborg, Denmark"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2016-05-13, 2016-05-22, 2016-06-10]
+notification = [2016-06-30, 2016-07-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 11
+submitted = 18
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016). Informal presentations (4 pages) not to appear in the proceedings (deadline: August 1st; notification: August 8th). We plan also to publish selected papers in a special issue of a high quality journal following the regular referee procedure."

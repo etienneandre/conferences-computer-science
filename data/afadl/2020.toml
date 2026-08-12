@@ -1,0 +1,21 @@
+# migrated from data.php line 1238
+edition = 19
+title = "19e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "http://www.lirmm.fr/afadl2020/"
+
+[event]
+start = 2020-06-16
+end = 2020-06-19
+city = "Vannes, France"
+
+[submission]
+format = "8 pages (original) / 4 pages (PhD) / 4 pages (tools) / 4 pages (projects) / 4 pages (long abstract)"
+paper = [2020-03-16, 2020-03-30]
+notification = [2020-04-13, 2020-04-17]
+
+[proceedings]
+publisher = "IRIT research report"
+license = "free"
+
+[extra]
+notes = "In French (?)."

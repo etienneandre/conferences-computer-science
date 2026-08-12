@@ -1,0 +1,22 @@
+# migrated from data.php line 22006
+edition = 37
+title = "37th International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "http://pn2016.mat.umk.pl"
+
+[event]
+start = 2016-06-19
+end = 2016-06-24
+city = "Toruń, Poland"
+
+[submission]
+format = "regular papers (max 20 pages in Springer LNCS-format); tool papers (max 10 pages in Springer LNCS-format)"
+abstract = [2016-01-10, 2016-01-15]
+paper = [2016-01-15]
+notification = [2016-03-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with ACSD. The deadline for submission of papers in 2015 was STRICT. However, if you submit the title page by January 10 it is sufficient to submit the full paper by January 15. 2016: abstract can be submitted until 15th. All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited as submissions to a special issue of the Fundamenta Informaticae journal."

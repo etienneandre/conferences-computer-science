@@ -1,0 +1,22 @@
+# migrated from data.php line 6279
+edition = 20
+title = "20th International Conference on Embedded Software"
+url = "http://www.esweek.org/emsoft/about"
+
+[event]
+start = 2020-09-20
+end = 2020-09-25
+city = "Hamburg, Germany"
+
+[submission]
+format = "10 pages in ACM two-column format"
+abstract = [2020-04-03]
+paper = [2020-04-10, 2020-04-17]
+notification = [2020-07-06]
+
+[proceedings]
+publisher = "ACM/IEEE"
+license = "acm"
+
+[extra]
+notes = "Double blind process. Up to 10 pages appendix. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019). This year EMSOFT will follow a two-stage review process, in which papers passing the first stage of reviews will be asked to revise their work based on reviewer comments within a short time frame of around two weeks. ESWEEK 2017 will introduce a journal-integrated publication model where the majority of papers will be published in the ACM Transactions on Embedded Computing Systems (TECS). Originally in Shanghai, China (October 11-16, 2020), changed to Germany due to the coronavirus."

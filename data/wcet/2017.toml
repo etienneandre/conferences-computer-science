@@ -1,0 +1,20 @@
+# migrated from data.php line 34060
+edition = 17
+title = "17th International Workshop on Worst-Case Execution Time Analysis"
+url = "http://embedded.cs.uni-saarland.de/wcet2017.php"
+
+[event]
+start = 2017-06-27
+city = "Dubrovnik, Croatia"
+
+[submission]
+format = "10 pages OASIcs"
+paper = [2017-03-31, 2017-04-14]
+notification = [2017-05-08]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with ECRTS."

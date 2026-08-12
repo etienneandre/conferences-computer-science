@@ -1,0 +1,22 @@
+# migrated from data.php line 853
+edition = 17
+title = "16th International Conference on Application of Concurrency to System Design"
+url = "http://pn2017.unizar.es"
+
+[event]
+start = 2017-06-26
+end = 2017-06-30
+city = "Zaragoza, Spain"
+
+[submission]
+format = "10 pages IEEE (regular) / 6 pages IEEE (tools)"
+abstract = [2017-01-13, 2017-01-27]
+paper = [2017-01-20, 2017-02-03]
+notification = [2017-03-17]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "Co-located with Petri Nets. Deadline extended: 9 days in 2013, 4 days in 2015, 0 in 2016, 14 in 2017."

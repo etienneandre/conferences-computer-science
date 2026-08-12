@@ -1,0 +1,23 @@
+# migrated from data.php line 8784
+edition = 21
+title = "21st International Conference on Formal Methods in Computer-Aided Design"
+url = "https://fmcad.org/FMCAD21/"
+
+[event]
+start = 2021-10-19
+end = 2021-10-22
+city = "Yale University, Connecticut, USA (or virtual)"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE + references (regular) / 4 pages (short)"
+abstract = [2021-05-07]
+paper = [2021-05-14]
+notification = [2021-07-02]
+
+[proceedings]
+publisher = "TU Wien Academic Press / ACM/IEEE"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with FMCAD 2021: VSTTE 2021. Author Response: June 23-25, 2021. A small number of outstanding FMCAD submissions will be considered for inclusion in a Special Issue of the journal on Formal Methods in System Design (FMSD)."

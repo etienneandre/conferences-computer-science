@@ -1,0 +1,27 @@
+# migrated from data.php line 20315
+edition = 24
+title = "24th ACM-IEEE International Symposium on Formal Methods and Models for System Design"
+url = "https://memocode2026.github.io/"
+
+[event]
+start = 2026-10-08
+end = 2026-10-09
+city = "Barcelona, Spain"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) + bibliography / 8 pages (tool) / 4 pages (late-breaking)"
+paper = [2026-05-11, 2026-05-25]
+notification = [2026-07-10]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+diversity = "male-only"
+award = "A selection of papers will be recognized as Outstanding Papers and highlighted on the symposium website."
+
+[extra]
+colocated = "Part of ESWEEK 2026"

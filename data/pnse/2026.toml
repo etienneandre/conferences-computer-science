@@ -1,0 +1,28 @@
+# migrated from data.php line 22706
+title = "International Workshop on Petri Nets and Software Engineering"
+url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse/index.html/"
+
+[event]
+start = 2026-06-22
+city = "Hamburg, Germany"
+
+[submission]
+format = "20 pages LNCS (full) + references / 5-8 pages (short) / 3 (ongoing, poster)"
+abstract = [2026-03-23]
+paper = [2026-03-30]
+notification = [2026-04-30]
+
+[proceedings]
+publisher = "CEUR-WS"
+
+[review]
+blind = "single"
+
+[extra]
+journal = """
+The best papers from the workshop will be invited for publication in a volume of the
+journal sub-line of Lecture Notes in Computer Science entitled "Transactions on
+Petri Nets and Other Models of Concurrency" (ToPNoC). The papers are expected
+to be thoroughly revised and they will go through a totally new round of reviewing."""
+colocated = "A satellite event of Petri Nets"
+notes = "This year we celebrate the 100th birthday of Carl Adam Petri. The conference takes place in Hamburg where Petri held an honorary professorship."

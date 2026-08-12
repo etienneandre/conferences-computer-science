@@ -1,0 +1,22 @@
+# migrated from data.php line 26308
+edition = 42
+title = "42nd IEEE Symposium on Security and Privacy"
+url = "https://www.ieee-security.org/TC/SP2021/"
+
+[event]
+start = 2021-05-23
+end = 2021-05-27
+city = "San Francisco, CA, USA"
+
+[submission]
+tz = "AoE"
+format = "13 pages + 5 pages references/appendix"
+paper = [2020-09-03]
+notification = [2020-11-20]
+
+[proceedings]
+publisher = "IEEE"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. WARNING: <em>several</em> submission periods (\"quarterly submission model\"). Papers rejected from another conference must address reviews and summary of changes."

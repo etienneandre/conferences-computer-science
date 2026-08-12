@@ -1,0 +1,28 @@
+# migrated from data.php line 11062
+edition = 10
+title = "Tenth Working Formal Methods Symposium"
+url = "https://from2026.uvt.ro/"
+
+[event]
+start = 2026-09-15
+end = 2026-09-17
+city = "Timișoara, Romania"
+
+[submission]
+format = "16 pages EPTCS / 8 pages (short)"
+paper = [2026-06-30, 2026-07-06]
+notification = [2026-07-25]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[review]
+diversity = "male-only"
+
+[extra]
+journal = """
+Authors of selected papers will be invited to submit an extended version to a journal, most
+probably the Journal of Logical and Algebraic Methods in Programming"""
+colocated = "Co-located with SYNASC 2026"
+notes = "7 male out of 7 invited speakers in 2026."

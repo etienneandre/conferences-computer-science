@@ -1,0 +1,23 @@
+# migrated from data.php line 11133
+edition = 10
+title = "10th International Conference on Formal Structures for Computation and Deduction"
+url = "https://fscd2025.github.io/"
+
+[event]
+start = 2025-07-15
+end = 2025-07-18
+city = "Birmingham, UK"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs + references"
+abstract = [2025-02-10, 2025-02-17]
+paper = [2025-02-17, 2025-02-22]
+notification = [2025-04-30]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Rebuttal: 7-11 April 2025. Best paper award by junior researchers."

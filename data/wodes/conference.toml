@@ -1,0 +1,16 @@
+# WODES — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "WODES"
+name = "IFAC Workshop on Discrete Event Systems"
+frequency = "Every two years."
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "wodes"
+twitter = "@Wodes2020"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "11 days (2018), 13 days (2020), firm (2024)"  # from WODES 2024

@@ -1,0 +1,28 @@
+# migrated from data.php line 28296
+edition = 8
+title = "Symposium on Dependable Software Engineering: Theories, Tools and Applications"
+url = "https://lcs.ios.ac.cn/setta2022/"
+
+[event]
+start = 2022-10-27
+end = 2022-10-29
+city = "Beijing, China"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (regular) / 6 pages (short)"
+abstract = [2022-07-23]
+paper = [2022-07-30]
+notification = [2022-09-03]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 15
+submitted = 29
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Always in China. A selection of papers will be invited to special issues of the Elsevier Journal of Systems Architecture (JSA) and the IEEE Transactions on Reliability (TR)."

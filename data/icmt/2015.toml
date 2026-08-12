@@ -1,0 +1,22 @@
+# migrated from data.php line 15157
+edition = 8
+title = "8th International Conference on Model Transformation"
+url = "http://www.model-transformation.org"
+
+[event]
+start = 2015-07-20
+end = 2015-07-24
+city = "L’Aquila (Italy)"
+
+[submission]
+format = "15 pages LNCS (research/applications) / 10 pages (exploratory) / 7 pages (tool demo)"
+abstract = [2015-02-15]
+paper = [2015-02-22]
+notification = [2015-03-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with Software Technologies: Applications and Foundations (STAF) 2015. Mentoring scheme (deadline: December 15th)."

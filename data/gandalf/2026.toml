@@ -1,0 +1,26 @@
+# migrated from data.php line 12509
+edition = 17
+title = "17th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "https://gandalfsymposium.github.io/2026/"
+
+[event]
+start = 2026-09-15
+end = 2026-09-17
+city = "Aalborg, Denmark"
+
+[submission]
+tz = "AoE"
+format = "14 pages EPTCS + references + appendix"
+abstract = [2026-06-18, 2026-06-20]
+paper = [2026-06-22]
+notification = [2026-08-03]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[review]
+diversity = "mixed"
+
+[extra]
+journal = "Authors of selected papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science"

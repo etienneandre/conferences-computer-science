@@ -1,0 +1,21 @@
+# migrated from data.php line 4068
+edition = 8
+title = "8e Conférence en IngénieriE du Logiciel"
+url = "http://gdr-gpl-2019.enseeiht.fr/index.html"
+
+[event]
+start = 2019-06-13
+end = 2019-06-14
+city = "Toulouse, France"
+
+[submission]
+format = "15 pages Easychair (long) / 5 pages (short)"
+abstract = [2019-04-30]
+paper = [2019-05-15]
+notification = [2019-05-30]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "In French or English. Co-located with GDR-GPL. Les papiers longs auront la possibilité d’être étendus et évalués à nouveau pour paraître dans un numéro spécial de la revue TSI. Pas de date limite pour articles longs (au fil de l’eau) Deadline extension: 2 weeks (2015, 2016)"

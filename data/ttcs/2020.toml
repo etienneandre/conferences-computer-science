@@ -1,0 +1,23 @@
+# migrated from data.php line 32242
+edition = 3
+title = "3rd IFIP International Conference on Topics in Theoretical Computer Science"
+url = "http://cs.ipm.ac.ir/ttcs/2020/"
+
+[event]
+start = 2020-07-01
+end = 2020-07-03
+city = "Tehran, Iran"
+
+[submission]
+tz = "UTC"
+format = "15 pages LNCS + appendix"
+paper = [2020-02-29]
+notification = [2020-04-12]
+extensions = true  # extended, earlier date unknown
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Bi-annual conference series."

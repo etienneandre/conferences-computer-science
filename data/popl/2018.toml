@@ -1,0 +1,21 @@
+# migrated from data.php line 22773
+edition = 45
+title = "45th ACM SIGPLAN Symposium on Principles of Programming Languages"
+url = "http://popl18.sigplan.org/"
+
+[event]
+start = 2018-01-08
+end = 2018-01-13
+city = "Los Angeles, CA, USA"
+
+[submission]
+format = "26 pages new ACM format"
+paper = [2017-07-07]
+notification = [2017-09-29]
+
+[proceedings]
+publisher = "PACMPL"
+license = "cc-by"
+
+[extra]
+notes = "Rebuttal: 11-13 September. Double blind submission. Authors are asked (but not required) to pay US$400 for journal open-access publication."

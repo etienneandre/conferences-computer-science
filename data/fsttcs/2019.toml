@@ -1,0 +1,23 @@
+# migrated from data.php line 11610
+edition = 39
+title = "39th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "https://www.fsttcs.org.in/2019/"
+
+[event]
+start = 2019-12-11
+end = 2019-12-13
+city = "Mumbai, India"
+
+[submission]
+tz = "AoE"
+format = "12 pages in LIPIcs (excluding bibliography) + unlimited appendix"
+abstract = [2019-07-17]
+paper = [2019-07-17]
+notification = [2019-09-13]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Always in India. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."

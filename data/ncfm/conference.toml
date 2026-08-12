@@ -1,0 +1,8 @@
+# NCFM — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "NCFM"
+name = "National Workshop / Conference on Formal Methods"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

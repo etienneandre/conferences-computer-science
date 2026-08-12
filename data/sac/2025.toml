@@ -1,0 +1,22 @@
+# migrated from data.php line 26693
+edition = 40
+title = "40th ACM/SIGAPP Symposium On Applied Computing"
+url = "https://www.sigapp.org/sac/sac2025/"
+
+[event]
+start = 2025-03-31
+end = 2025-04-04
+city = "Catania, Sicily, Italy"
+
+[submission]
+tz = "EST"
+format = "8+2 pages ACM"
+paper = [2024-09-20, 2024-10-04, 2024-10-13]
+notification = [2024-10-30, 2024-11-20]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double-blind. 42 tracks, student abstracts, Student Research Competition, etc."

@@ -1,0 +1,22 @@
+# migrated from data.php line 17648
+edition = 25
+title = "25th IEEE International Symposium on real-time computing"
+url = "https://isorc2022.github.io/cfp.html"
+
+[event]
+start = 2022-05-17
+end = 2022-05-19
+city = "Västerås, Sweden"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE (regular / industrial / practitioner) / 4 pages IEEE (short research)"
+paper = [2022-01-23, 2022-02-12]
+notification = [2022-04-04]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind. Rebuttal period: 23-25 March 2022. Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing."

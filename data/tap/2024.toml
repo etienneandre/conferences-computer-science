@@ -1,0 +1,26 @@
+# migrated from data.php line 31146
+edition = 18
+title = "18th International Conference on Tests & Proofs"
+url = "https://tapconference.github.io/2024/"
+
+[event]
+start = 2024-09-09
+end = 2024-09-10
+city = "Milan, Italy"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (research/tool/case studies) / 6 pages + ref (short)"
+abstract = [2024-05-08, 2024-06-12]
+paper = [2024-05-15, 2024-06-14]
+notification = [2024-06-26, 2024-07-05]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+artifact = "Authors are encouraged (but not required) to make the relevant artifacts available to the reviewers (and whenever possible publicly)."
+
+[extra]
+colocated = "Part of FM 2024."

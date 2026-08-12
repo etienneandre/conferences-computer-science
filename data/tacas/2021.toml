@@ -1,0 +1,22 @@
+# migrated from data.php line 30685
+edition = 27
+title = "27th International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "https://etaps.org/2021/tacas"
+
+[event]
+start = 2021-03-27
+end = 2021-04-01
+online = true
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
+paper = [2020-10-15]
+notification = [2020-12-23]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Each individual author is limited to a maximum of three submissions as an author or co-author. ETAPS: Multi-conference including ESOP, FASE, FOSSACS, TACAS, etc. Rebuttal for selected papers: 7 December 00:01 AoE - 9 December 23:59 AoE 2021."

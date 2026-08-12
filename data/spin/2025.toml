@@ -1,0 +1,27 @@
+# migrated from data.php line 29230
+edition = 31
+title = "31st International Symposium on Model Checking Software"
+url = "https://spin-web.github.io/SPIN2025/"
+
+[event]
+start = 2025-05-07
+end = 2025-05-08
+city = "Hamilton, Canada"
+
+[submission]
+tz = "AoE"
+format = "16 pages + references (long) / 6 pages (short) + references"
+abstract = [2025-02-13]
+paper = [2025-02-13]
+notification = [2025-03-24]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+artifact = "Optional artifact evaluation, mandatory for tool papers"
+
+[extra]
+colocated = "Co-located with ETAPS 2025"

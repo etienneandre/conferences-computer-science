@@ -1,0 +1,22 @@
+# migrated from data.php line 30481
+edition = 29
+title = "29th International Conference on Automated Reasoning with Analytic Tableaux and Related Methods"
+url = "https://ijcar2020.org/"
+
+[event]
+start = 2020-07-01
+end = 2020-07-04
+city = "Paris, France"
+
+[submission]
+format = "16 pages LNCS (research) / 8 pages (short system descriptions)"
+abstract = [2020-01-16]
+paper = [2020-01-23]
+notification = [2020-03-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of IJCAR 2020 and <a href=\"https://lipn.univ-paris13.fr/summer-of-love-2020/\">Paris Nord Summer of LoVe 2020</a>. Rebuttal: March 6-10 2020."

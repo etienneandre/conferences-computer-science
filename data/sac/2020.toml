@@ -1,0 +1,21 @@
+# migrated from data.php line 26540
+edition = 35
+title = "35th Annual ACM/SIGAPP Symposium on Applied Computing"
+url = "https://sac2020.cs.nctu.edu.tw/"
+
+[event]
+start = 2020-03-30
+end = 2020-04-03
+city = "Brno, Czech Republic"
+
+[submission]
+format = "8+2 pages ACM SAC"
+paper = [2019-09-15]
+notification = [2019-11-10]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "44 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind reviews! Deadline extension: 10+7 days (2016, with notification extension by 10 days without announcement); 14 days (2017), 10 days (2018), 14 days including notification (2019)."

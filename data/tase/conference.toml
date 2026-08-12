@@ -1,0 +1,25 @@
+# TASE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "TASE"
+name = "International Symposium on Theoretical Aspects of Software Engineering"
+
+[core]
+id = "1427"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2016
+rank = "C"
+
+[[core.history]]
+from = 2020
+rank = "unranked"
+
+[links]
+dblp = "tase"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "18 long + 5 short / 69 = 33% (2016), 15 long + 1 short + 1 tool/48=35% (2017) 16 long + 4 short / 52 = 38% (2018), 34 long + 2 short / 100 = 36% (2019), 29/84 = 35% (2020), (21+5)/71=37% (2022)"  # from TASE 2026
+extensions = "14 days (2014); Strict deadline in 2016; 14 days (2017), 14+3 days (2019), 19 days (2020), 14 days (2021, 2022, 2023), 9 days (2024), 14 days (2025-2026)"  # from TASE 2026

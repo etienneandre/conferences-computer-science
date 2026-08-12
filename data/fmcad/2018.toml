@@ -1,0 +1,20 @@
+# migrated from data.php line 8729
+edition = 18
+title = "18th International Conference on Formal Methods in Computer-Aided Design"
+url = "http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/"
+
+[event]
+start = 2018-10-30
+end = 2018-11-02
+city = "Austin, Texas, USA"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE (regular) / 4 pages (short)"
+abstract = [2018-05-11, 2018-05-18]
+paper = [2018-05-18, 2018-05-25]
+notification = [2018-08-17, 2018-08-24]
+
+[proceedings]
+publisher = "ACM/IEEE (+ Web page)"
+license = "free"

@@ -1,0 +1,25 @@
+# migrated from data.php line 28063
+edition = 14
+title = "14th International Workshop on Software Engineering for Resilient Systems"
+url = "https://serene.disim.univaq.it/2022/index.html"
+
+[event]
+start = 2022-09-12
+end = 2022-09-15
+city = "Zaragoza, Spain"
+
+[submission]
+format = "11 pages + 1 page references (technical/experience/industry/) / 8 pages (PhD/project/tool/position)"
+abstract = [2022-05-30, 2022-06-13]
+paper = [2022-06-06, 2022-06-13]
+notification = [2022-06-25, 2022-07-02]
+
+[proceedings]
+publisher = "Springer CCIS"
+license = "pay-profit"
+
+[review]
+blind = "double"
+
+[extra]
+colocated = "Co-located with the 18th European Dependable Computing Conference (EDCC)"

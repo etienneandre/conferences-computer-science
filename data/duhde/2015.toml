@@ -1,0 +1,19 @@
+# migrated from data.php line 5802
+edition = 2
+title = "2nd Workshop on Design Automation for Understanding Hardware Designs"
+url = "http://www.informatik.uni-bremen.de/duhde/2015/"
+
+[event]
+start = 2015-03-13
+city = "Grenoble, France"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2014-11-14]
+notification = [2014-12-01]
+
+[proceedings]
+publisher = "informal proceedings"
+
+[extra]
+notes = "Workshop at DATE 2015."

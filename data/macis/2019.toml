@@ -1,0 +1,25 @@
+# migrated from data.php line 19877
+edition = 8
+title = "Mathematical Aspects of Computer and Information Sciences"
+url = "http://macis2019.gtu.edu.tr/"
+
+[event]
+start = 2019-11-13
+end = 2019-11-15
+city = "Gebze-Istanbul, Türkiye"
+
+[submission]
+format = "short (5 pages LNCS) / regular (15) / software and tool (4) / early stage researcher (15)"
+abstract = [2019-09-15]
+paper = [2019-09-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = """
+Tracks: * T1: Algorithms and Foundations
+* T2: Security/Cryptography
+* T3: Combinatorics/Codes/Designs/Graphs
+* T4: Data Modeling/Machine Learning"""

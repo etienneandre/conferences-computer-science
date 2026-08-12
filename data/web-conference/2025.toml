@@ -1,0 +1,29 @@
+# migrated from data.php line 34820
+edition = 34
+title = "ACM Web Conference"
+url = "https://www2025.thewebconf.org/"
+
+[event]
+start = 2025-04-28
+end = 2025-05-02
+city = "Sydney, Australia"
+
+[submission]
+tz = "AoE"
+format = "8 + references + appendix"
+abstract = [2024-10-07]
+paper = [2024-10-14]
+notification = [2025-01-27]
+
+[proceedings]
+publisher = "ACM Digital Library + conference Web site"
+license = "free-copy"
+
+[review]
+blind = "double"
+diversity = "mixed"
+rebuttal = "Author and reviewer discussion: December 1-14, 2024"
+competition = "Competition Track"
+
+[extra]
+notes = "Formerly WWW."

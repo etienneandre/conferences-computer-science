@@ -1,0 +1,27 @@
+# migrated from data.php line 19113
+edition = 32
+title = "32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS)"
+url = "http://lics.rwth-aachen.de/lics17/"
+
+[event]
+start = 2017-06-20
+end = 2017-06-23
+city = "Reykjavik, Iceland"
+
+[submission]
+format = "12 pages IEEE"
+abstract = [2017-01-03]
+paper = [2017-01-09]
+notification = [2017-03-21]
+
+[proceedings]
+publisher = "ACM SIGPLAN Proceedings"
+license = "acm"
+
+[stats]
+accepted = 89
+submitted = 224
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Author Feedback/Rebuttal Period Feb 28 - 4 March, 2017. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

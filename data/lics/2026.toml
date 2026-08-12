@@ -1,0 +1,26 @@
+# migrated from data.php line 19341
+edition = 41
+title = "41st Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS)"
+url = "https://lics.siglog.org/lics26/"
+
+[event]
+start = 2026-07-20
+end = 2026-07-23
+city = "Lisbon, Portugal"
+
+[submission]
+tz = "AoE"
+format = "12 pages IEEE + references"
+abstract = [2026-01-15]
+paper = [2026-01-22]
+notification = [2026-04-16]
+
+[proceedings]
+publisher = "ACM SIGPLAN Proceedings"
+license = "acm"
+
+[review]
+blind = "double"
+
+[extra]
+colocated = "Part of FLOC 2026"

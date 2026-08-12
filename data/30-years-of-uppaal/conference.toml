@@ -1,0 +1,8 @@
+# 30 Years of UPPAAL — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "30 Years of UPPAAL"
+name = "30 Years of UPPAAL Workshop at AISoLA 2025"
+defunct = 2025
+
+[core]
+rank = "absent"  # TODO: verify

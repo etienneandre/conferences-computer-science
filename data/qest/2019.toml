@@ -1,0 +1,23 @@
+# migrated from data.php line 23612
+edition = 16
+title = "16th International Conference on Quantitative Evaluation of SysTems"
+url = "http://www.qest.org/qest2019/"
+
+[event]
+start = 2019-09-09
+end = 2019-09-12
+city = "Glasgow, Scotland"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (Theoretical / Methodological and technical / Application / Tools); 4 pages LNCS (Tool demonstration)"
+abstract = [2019-03-29, 2019-04-15]
+paper = [2019-04-05, 2019-04-18]
+notification = [2019-06-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Accepted tool descriptions will appear in the conference proceedings. Extended versions of the best papers will be considered for possible fast-track publication in a journal special issue."

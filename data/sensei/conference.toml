@@ -1,0 +1,7 @@
+# Sensei — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "Sensei"
+name = "Fourth International Workshop on Security and Safety Interactions"
+
+[core]
+rank = "absent"  # TODO: verify

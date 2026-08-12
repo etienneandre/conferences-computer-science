@@ -1,0 +1,22 @@
+# migrated from data.php line 20839
+edition = 14
+title = "14e colloque sur la Modélisation des Systèmes Réactifs"
+url = "https://msr2023.sciencesconf.org/"
+
+[event]
+start = 2023-11-22
+end = 2023-11-24
+city = "Toulouse, France"
+
+[submission]
+format = "14 pages EasyChair"
+abstract = [2023-05-24, 2023-06-14]
+paper = [2023-06-07, 2023-06-28]
+notification = [2023-09-27]
+
+[proceedings]
+publisher = "HAL"
+license = "free"
+
+[extra]
+notes = "In French, but English papers accepted. Every 2 years. Poster PhD session. Best paper award for young scientists."

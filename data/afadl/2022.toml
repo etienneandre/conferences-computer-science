@@ -1,0 +1,22 @@
+# migrated from data.php line 1293
+edition = 21
+title = "21e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "https://afadl2022.ls2n.fr/"
+
+[event]
+start = 2022-06-08
+end = 2022-06-10
+city = "Vannes, France"
+
+[submission]
+format = "8 pages (original) / 4 pages (PhD) / 4 pages (tools) / 4 pages (projects) / 4 pages (long abstract)"
+abstract = [2022-04-08, 2022-04-22]
+paper = [2022-04-15, 2022-04-22]
+notification = [2022-05-16]
+
+[proceedings]
+publisher = "arXiv"
+license = "free"
+
+[extra]
+notes = "In French."

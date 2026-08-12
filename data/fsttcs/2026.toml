@@ -1,0 +1,30 @@
+# migrated from data.php line 11787
+edition = 46
+title = "46th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "https://www.fsttcs.org.in/2026/"
+
+[event]
+start = 2026-12-15
+end = 2026-12-20
+city = "IIT Delhi, New Delhi, India"
+
+[submission]
+tz = "AoE"
+format = "15 pages in LIPIcs (+ bibliography + appendix)"
+abstract = [2026-07-04]
+paper = [2026-07-11]
+notification = [2026-09-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "double"
+diversity = "male-only"
+rebuttal = true
+rebuttal_start = 2026-08-26
+rebuttal_end = 2026-08-28
+
+[extra]
+notes = "Always in India."

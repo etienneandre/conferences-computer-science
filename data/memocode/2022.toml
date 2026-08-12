@@ -1,0 +1,22 @@
+# migrated from data.php line 20225
+edition = 20
+title = "20th ACM/IEEE International Conference on Formal Methods and Models for System Design"
+url = "https://esweek.org/memocode/"
+
+[event]
+start = 2022-10-13
+end = 2022-10-14
+city = "Shanghai, China (hybrid)"
+
+[submission]
+format = "10 pages IEEE (regular) + bibliography / 4 pages (work in progress) / 8 pages (tool)"
+abstract = [2022-05-27]
+paper = [2022-06-03]
+notification = [2022-07-29]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Part of ESWEEK 2022. Selected papers will be invited for publication in a special issue of ACM Transactions on Embedded Computing Systems. 1-2 papers selected for the Best Paper Award."

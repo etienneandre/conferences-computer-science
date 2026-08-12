@@ -1,0 +1,22 @@
+# migrated from data.php line 34773
+edition = 28
+title = "28th International World Wide Web Conference (The Web conference 2018)"
+url = "https://www2019.thewebconf.org/"
+
+[event]
+start = 2019-05-13
+end = 2019-05-17
+city = "San Francisco, CA, USA"
+
+[submission]
+format = "6 pages (short) / 10 pages (long) + references + appendix"
+abstract = [2018-10-29]
+paper = [2018-11-05]
+notification = [2019-01-21]
+
+[proceedings]
+publisher = "ACM Digital Library + conference Web site"
+license = "free-copy"
+
+[extra]
+notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…). Deadlines all Hawaii Standard Time. Double-blind."

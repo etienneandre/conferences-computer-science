@@ -1,0 +1,21 @@
+# migrated from data.php line 7345
+edition = 25
+title = "25th European MPI Users’ Group Meeting"
+url = "https://eurompi2018.bsc.es/"
+
+[event]
+start = 2018-09-23
+end = 2018-09-26
+city = "Barcelona, Spain"
+
+[submission]
+format = "10 pages ACM ICPS (long), ≤ 4 pages (short)"
+paper = [2018-05-01, 2018-05-22]
+notification = [2018-06-26]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "In-cooperation status with ACM and SIGHPC. Warning: notification date extended after submission, and without notice (2014). The best papers of the conference will be considered for inclusion in a special issue of Elsevier’s Parallel Computing."

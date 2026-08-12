@@ -1,0 +1,20 @@
+# migrated from data.php line 22618
+title = "International Workshop on Petri Nets and Software Engineering"
+url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse/index.html/"
+
+[event]
+start = 2023-06-25
+end = 2023-06-26
+city = "Lisbon, Portugal"
+
+[submission]
+format = "20 pages LNCS (full) + references / 5-8 pages (short) / 3 (ongoing, poster)"
+abstract = [2023-03-15, 2023-04-01]
+paper = [2023-03-22, 2023-04-03]
+notification = [2023-05-05]
+
+[proceedings]
+publisher = "CEUR-WS"
+
+[extra]
+notes = "A satellite event of Petri Nets. Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."

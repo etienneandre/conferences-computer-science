@@ -1,0 +1,19 @@
+# migrated from data.php line 25643
+edition = 13
+title = "13th International Real-Time Scheduling Open Problems Seminar"
+url = "https://www.ecrts.org/workshops/rtsops-2025/"
+
+[event]
+start = 2025-07-08
+city = "Brussels, Belgium"
+
+[submission]
+format = "2 A4 pages + references"
+paper = [2025-05-08, 2025-05-15]
+notification = [2025-06-05]
+
+[proceedings]
+publisher = "none?"
+
+[extra]
+colocated = "Co-located with ECRTS."

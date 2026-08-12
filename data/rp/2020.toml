@@ -1,0 +1,22 @@
+# migrated from data.php line 24129
+edition = 14
+title = "14th International Conference on Reachability Problems"
+url = "https://www.irif.fr/~rp2020/"
+
+[event]
+start = 2020-10-19
+end = 2020-10-21
+city = "Paris, France"
+
+[submission]
+format = "12 pages LNCS"
+abstract = [2020-06-30, 2020-07-17]
+paper = [2020-07-03, 2020-07-17]
+notification = [2020-08-17]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017), 8 days (2018), 10 days (2019), 14 days (2020). A selection of up to five articles among the contributed papers will be invited to a special issue of a journal. Also a Presentation-Only Papers track, which usually attracts 6-8 high quality presentations from ICALP, CONCUR, LICS, MFCS, CAV, etc."

@@ -1,0 +1,27 @@
+# migrated from data.php line 14492
+edition = 27
+title = "27th International Conference on Engineering of Complex Computer Systems"
+url = "https://www.irit.fr/iceccs2023/"
+
+[event]
+start = 2023-06-12
+end = 2023-06-16
+city = "Toulouse, France"
+
+[submission]
+format = "IEEE 10 pages (Technical Papers and Experience Reports) / 4 pages (short)"
+abstract = [2022-12-08, 2023-01-16]
+paper = [2022-12-15, 2023-01-16]
+notification = [2023-03-15]
+
+[proceedings]
+publisher = "IEEE Conference Publishing Services"
+license = "pay"
+
+[stats]
+accepted = 22
+submitted = 52
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence (TCCI) in 2012."

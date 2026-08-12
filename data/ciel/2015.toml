@@ -1,0 +1,21 @@
+# migrated from data.php line 3973
+edition = 4
+title = "4e Conférence en IngénieriE du Logiciel"
+url = "http://share-irisa.univ-ubs.fr/ciel2015/"
+
+[event]
+start = 2015-06-09
+end = 2015-06-11
+city = "Bordeaux, France"
+
+[submission]
+format = "15 pages Easychair (long) / 6 pages (short) / 4 (tools) / 4 (abstracts) / 2 (thesis abstracts)"
+abstract = [2015-03-04]
+paper = [2015-03-27]
+notification = [2015-04-13]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "In French. Co-localisée avec les journées du GDR GPL et les conférences CAL et AFADL. Les papiers longs auront la possibilité d’être étendus et évalués à nouveau pour paraître dans un numéro spécial de la revue TSI."

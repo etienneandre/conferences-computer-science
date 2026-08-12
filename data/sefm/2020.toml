@@ -1,0 +1,23 @@
+# migrated from data.php line 27564
+edition = 18
+title = "18th International Conference on Software Engineering and Formal Methods"
+url = "https://event.cwi.nl/sefm2020/"
+
+[event]
+start = 2020-09-14
+end = 2020-09-18
+online = true
+
+[submission]
+tz = "AoE"
+format = "15 pages + bibliography (research / tools / case studies) / 6 pages (New ideas/Work-in-Progress) LNCS"
+abstract = [2020-04-27, 2020-05-24]
+paper = [2020-05-04, 2020-05-31]
+notification = [2020-06-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Appendix: 2 pages allowed (not integrated in the proceedings)."

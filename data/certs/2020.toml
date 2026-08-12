@@ -1,0 +1,19 @@
+# migrated from data.php line 3760
+edition = 5
+title = "5th Workshop on Security and Dependability of Critical Embedded Real-Time Systems"
+url = "https://www.ecrts.org/certs/"
+
+[event]
+start = 2020-07-07
+city = "Modena, Italy"
+
+[submission]
+format = "2-4 pages IEEE"
+paper = [2020-04-16]
+notification = [2020-05-13]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Satellite of ECRTS"

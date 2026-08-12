@@ -1,0 +1,29 @@
+# migrated from data.php line 6875
+edition = 29
+title = "ACM International Conference on the Foundations of Software Engineering (FSE)"
+url = "https://conf.researchr.org/home/fse-2025"
+
+[event]
+start = 2025-06-23
+end = 2025-06-27
+city = "Trondheim, Norway"
+
+[submission]
+format = "18 pages ACM (+ 4 pages references)"
+abstract = [2024-09-05]
+paper = [2024-09-12]
+notification = [2025-01-14]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[review]
+blind = "double"
+rebuttal = true
+rebuttal_start = 2024-11-22
+rebuttal_end = 2024-11-26
+
+[extra]
+colocated = "Co-located with ISSTA 2025."
+notes = "Open science policy. Non-binary answer (includes major revision). Also tutorials, doctoral symposium, tool demos and others."

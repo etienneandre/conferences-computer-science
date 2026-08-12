@@ -1,0 +1,19 @@
+# migrated from data.php line 27321
+edition = 27
+title = "27th Brazilian Symposium on Formal Methods"
+url = "http://sbmf24.ifes.edu.br/"
+
+[event]
+start = 2024-12-04
+end = 2024-12-06
+city = "Vitória - Espírito Santo, Brazil"
+
+[submission]
+tz = "AoE"
+format = "15 pages + references (regular) / 8 pages + references (short)"
+paper = [2024-07-05, 2024-08-18]
+notification = [2024-09-06, 2024-09-23]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

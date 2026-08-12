@@ -1,0 +1,23 @@
+# migrated from data.php line 29178
+edition = 29
+title = "29th International SPIN Symposium on Model Checking of Software"
+url = "https://spin-web.github.io/SPIN2023/"
+
+[event]
+start = 2023-04-26
+end = 2023-04-27
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "16 pages + references (long) / 6 pages (short) + references"
+abstract = [2023-01-09]
+paper = [2023-01-16]
+notification = [2023-02-16]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "co-located with ETAPS 2023. Single-blind."

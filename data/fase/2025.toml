@@ -1,0 +1,22 @@
+# migrated from data.php line 7983
+edition = 28
+title = "28th International Conference on Fundamental Approaches to Software Engineering"
+url = "https://etaps.org/2025/conferences/fase/"
+
+[event]
+start = 2025-05-03
+end = 2025-05-08
+city = "Hamilton, Canada"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography (research / empirical evaluation) / 8 pages (new ideas and emerging results) / 6+6 pages (tool)"
+paper = [2024-10-10]
+notification = [2024-12-20]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of ETAPS 2025. Optional artifact submission. Selected papers from the FASE 2025 proceedings will be invited to submit an extended version to the Elsevier journal Science of Computer Programming (SCP)."

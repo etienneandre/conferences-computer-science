@@ -1,0 +1,34 @@
+# migrated from data.php line 14017
+edition = 53
+title = "53rd EATCS International Colloquium on Automata, Languages, and Programming"
+url = "https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/"
+
+[event]
+start = 2026-07-07
+end = 2026-07-10
+city = "Egham, United Kingdom"
+
+[submission]
+tz = "AoE"
+format = "LIPIcs: no limit but the pages beyond the first ten pages will be read at the committee’s discretion"
+abstract = [2026-02-03]
+paper = [2026-02-06]
+notification = [2026-04-20]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "lightweight-double"
+diversity = "male-only"
+rebuttal = "21-24 March 2026 for track B"
+award = """
+EATCS award,
+Presburger award,
+EATCS distinguished dissertation award,
+best papers for Track A and Track B,
+best student papers for Track A and Track B."""
+
+[extra]
+colocated = "Co-located with PODC and SPAA"

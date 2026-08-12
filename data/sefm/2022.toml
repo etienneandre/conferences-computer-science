@@ -1,0 +1,28 @@
+# migrated from data.php line 27624
+edition = 20
+title = "20th International Conference on Software Engineering and Formal Methods"
+url = "https://sefm-conference.github.io/2022/"
+
+[event]
+start = 2022-09-28
+end = 2022-09-30
+city = "Berlin, Germany (or online)"
+
+[submission]
+tz = "AoE"
+format = "15 pages + bibliography (research / tools / case studies) / 6 pages (New ideas/Work-in-Progress) LNCS"
+abstract = [2022-06-20]
+paper = [2022-06-26]
+notification = [2022-08-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 22
+submitted = 62
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Appendix: 2 pages allowed (not integrated in the proceedings)."

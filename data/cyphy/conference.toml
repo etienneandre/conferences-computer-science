@@ -1,0 +1,5 @@
+# CyPhy — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CyPhy"
+name = "Ninth International Workshop on Model-Based Design of Cyber-Physical Systems"
+defunct = "seemingly"

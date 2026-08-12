@@ -1,0 +1,22 @@
+# migrated from data.php line 28113
+edition = 1
+title = "1st International Symposium on Dependable Software Engineering: Theories, Tools and Applications"
+url = "http://cs.nju.edu.cn/setta/"
+
+[event]
+start = 2015-11-04
+end = 2015-11-06
+city = "Nanjing, China"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short)"
+abstract = [2015-06-30]
+paper = [2015-06-30]
+notification = [2015-08-21]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue of the Formal Aspect Computing journal."

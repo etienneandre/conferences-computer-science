@@ -1,0 +1,22 @@
+# migrated from data.php line 13570
+edition = 3
+title = "3rd Workshop on Hyperproperties: Advances in Theory and Applications"
+url = "https://hyperworkshop24.cispa.io/"
+
+[event]
+start = 2024-07-23
+city = "Montréal, Québec, Canada"
+
+[submission]
+tz = "AoE"
+format = "3 pages LNCS + references"
+abstract = [2024-04-25]
+paper = [2024-04-25]
+notification = [2024-05-13]
+
+[proceedings]
+publisher = "informal"
+license = "free-copy"
+
+[extra]
+notes = "co-located with CAV 2024"

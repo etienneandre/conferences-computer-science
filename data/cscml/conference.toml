@@ -1,0 +1,11 @@
+# CSCML — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CSCML"
+name = "International Symposium for Cyber Security, Cryptology and Machine Learning"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 4+4+3 days (2022)"

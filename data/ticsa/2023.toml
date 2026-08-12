@@ -1,0 +1,22 @@
+# migrated from data.php line 31721
+edition = 1
+title = "First Workshop on Trends in Configurable Systems Analysis"
+url = "https://ticsa.edgecloud.de/"
+
+[event]
+start = 2023-04-23
+city = "Paris, France"
+
+[submission]
+format = "2 pages (+ references)"
+abstract = [2023-02-16, 2023-03-03]
+paper = [2023-02-16, 2023-03-03]
+notification = [2023-02-23, 2023-03-10]
+
+[proceedings]
+publisher = "informal"
+license = "free-copy"
+
+[extra]
+colocated = "ETAPS 2023 satellite."
+notes = "After workshop, submission of 12-page papers. To be published in EPTCS workshop series."

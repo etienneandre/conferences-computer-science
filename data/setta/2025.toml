@@ -1,0 +1,27 @@
+# migrated from data.php line 28368
+edition = 11
+title = "Symposium on Dependable Software Engineering: Theories, Tools and Applications"
+url = "https://www.setta2025.uk/"
+
+[event]
+start = 2025-12-01
+end = 2025-12-03
+city = "Oxford, England"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references"
+abstract = [2025-08-20]
+paper = [2025-08-20, 2025-08-30]
+notification = [2025-10-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "double"
+
+[extra]
+journal = "As in previous iterations of SETTA, extended versions of selected papers will be recommended to special issues of a reputable journal (TBA) after the proceedings of the conference."
+notes = "Two rounds of submissions as of 2025."

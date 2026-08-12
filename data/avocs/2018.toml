@@ -1,0 +1,26 @@
+# migrated from data.php line 2879
+edition = 18
+title = "18th International Workshop on Automated Verification of Critical Systems"
+url = "http://avocs18.irisa.fr/"
+
+[event]
+start = 2018-07-18
+end = 2018-07-19
+city = "Oxford, England"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2018-04-10]
+paper = [2018-04-15, 2018-04-20]
+notification = [2018-05-15]
+
+[proceedings]
+publisher = "EASST"
+license = "free"
+
+[extra]
+notes = """
+Colocated with iFM. Authors of a selection of the best papers presented at the workshop
+will be invited to submit extended versions of their work for
+publication in a special issue of Elsevier’s journal Science of
+Computer Programming. Studentships for PhD in 2013."""

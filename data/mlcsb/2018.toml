@@ -1,0 +1,22 @@
+# migrated from data.php line 20610
+edition = 1
+title = "International Symposium on Molecular Logic and Computational Synthetic Biology"
+url = "http://mlcsb2018.web.ua.pt/"
+
+[event]
+start = 2018-12-17
+end = 2018-12-18
+city = "Santiago, Chile"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2018-09-08, 2018-09-23]
+paper = [2018-09-15, 2018-09-25]
+notification = [2018-10-15, 2018-10-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A journal Special Issue, with extended and revised versions of selected papers, is currently under negotiation."

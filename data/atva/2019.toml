@@ -1,0 +1,26 @@
+# migrated from data.php line 2529
+edition = 17
+title = "17th International Symposium on Automated Technology for Verification and Analysis"
+url = "http://atva2019.iis.sinica.edu.tw/"
+
+[event]
+start = 2019-10-28
+end = 2019-10-31
+city = "Taipei, Taiwan"
+
+[submission]
+format = "16 pages in Springer’s LNCS format (regular) / 6 (tool)"
+abstract = [2019-04-26]
+paper = [2019-05-03]
+notification = [2019-06-16]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+rate = 42.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia. ATVA 2019 will have an artifact evaluation stage."

@@ -1,0 +1,22 @@
+# migrated from data.php line 24099
+edition = 13
+title = "13th International Conference on Reachability Problems"
+url = "https://sites.uclouvain.be/rp2019/"
+
+[event]
+start = 2019-09-11
+end = 2019-09-13
+city = "Brussels, Belgium"
+
+[submission]
+format = "12 pages LNCS"
+abstract = [2019-05-31, 2019-06-17]
+paper = [2019-06-07, 2019-06-17]
+notification = [2019-07-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017), 8 days (2018). A selection of up to five articles among the contributed papers will be invited to a special issue of a journal. Also a Presentation-Only Papers track, which usually attracts 6-8 high quality presentations from ICALP, CONCUR, LICS, MFCS, CAV, etc."

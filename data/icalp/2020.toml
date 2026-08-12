@@ -1,0 +1,22 @@
+# migrated from data.php line 13858
+edition = 47
+title = "47th International Colloquium on Automata, Languages and Programming"
+url = "http://econcs.pku.edu.cn/icalp2020/"
+
+[event]
+start = 2020-07-08
+end = 2020-07-11
+online = true
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs + ref"
+paper = [2020-02-12, 2020-02-18]
+notification = [2020-04-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm (6 days in 2020 due to relocation). Relocated from Beijing to Saarbrücken then online in 2020 due to the coronavirus."

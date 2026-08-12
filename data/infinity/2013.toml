@@ -1,0 +1,20 @@
+# migrated from data.php line 17511
+edition = 15
+title = "15th International Workshop on Verification of Infinite-State Systems"
+url = "http://www.fit.vutbr.cz/~holik/INFINITY13/"
+
+[event]
+dates_text = "October 2013"
+city = "Hà Nội, Việt Nam"
+
+[submission]
+format = "15 pages (EPTCS)"
+paper = [2013-07-12]
+notification = [2013-08-16]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "A Satellite Workshop of ATVA 2013. Also accept presentations on recent or ongoing work (possibly submitted or published elsewhere) that will not appear in the proceedings. Deadline postponed by 2 weeks in 2012."

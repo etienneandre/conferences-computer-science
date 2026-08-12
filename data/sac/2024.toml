@@ -1,0 +1,26 @@
+# migrated from data.php line 26660
+edition = 39
+title = "39th Annual ACM/SIGAPP Symposium on Applied Computing"
+url = "https://www.sigapp.org/sac/sac2024/"
+
+[event]
+start = 2024-04-08
+end = 2024-04-12
+city = "Ávila, Spain"
+
+[submission]
+format = "8+2 pages ACM"
+paper = [2023-09-15, 2023-09-29, 2023-10-13]
+notification = [2023-10-30, 2023-11-17]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[stats]
+accepted = 180
+submitted = 773
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Double-blind. 35 tracks, student abstracts, Student Research Competition, etc."

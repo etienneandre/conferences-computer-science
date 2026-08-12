@@ -1,0 +1,22 @@
+# migrated from data.php line 10215
+edition = 36
+title = "36th IFIP International Conference on Formal Techniques for Distributed Objects, Components and Systems"
+url = "http://forte2016.discotec.org"
+
+[event]
+start = 2016-06-06
+end = 2016-06-09
+city = "Heraklion, Crete, Greece"
+
+[submission]
+format = "15 pages LNCS (regular / tool) / 7 pages (short / tool demo) / 3 pages (poster)"
+abstract = [2016-02-01, 2016-02-08, 2016-02-15]
+paper = [2016-02-08, 2016-02-15, 2016-02-22]
+notification = [2016-03-21, 2016-03-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A DisCoTec Member Conference. The best papers will be invited after the conference to contribute to a special issue of a top-level journal."

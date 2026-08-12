@@ -1,0 +1,20 @@
+# migrated from data.php line 20965
+edition = 6
+title = "6th International Workshop on Monitoring and Testing of Cyber-Physical Systems"
+url = "https://sites.google.com/virginia.edu/mt-cps2021"
+
+[event]
+start = 2021-05-18
+online = true
+
+[submission]
+format = "2 pages"
+paper = [2021-03-18]
+notification = [2021-04-19]
+
+[proceedings]
+publisher = "PDF"
+license = "free"
+
+[extra]
+colocated = "Part of CPS-IoT Week 2021"

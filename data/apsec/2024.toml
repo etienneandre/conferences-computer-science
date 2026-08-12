@@ -1,0 +1,20 @@
+# migrated from data.php line 1892
+edition = 31
+title = "31st Asia-Pacific Software Engineering Conference"
+url = "https://conf.researchr.org/home/apsec-2024"
+
+[event]
+start = 2024-12-03
+end = 2024-12-06
+city = "Chongqing, China"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE"
+abstract = [2024-07-06]
+paper = [2024-07-13]
+notification = [2024-09-13]
+
+[proceedings]
+publisher = "IEEE CS"
+license = "pay"

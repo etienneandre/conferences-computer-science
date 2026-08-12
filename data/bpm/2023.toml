@@ -1,0 +1,23 @@
+# migrated from data.php line 3069
+edition = 21
+title = "21st International Conference on Business Process Management"
+url = "https://bpm2023.sites.uu.nl/"
+
+[event]
+start = 2023-09-11
+end = 2023-09-15
+city = "Utrecht, The Netherlands"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS"
+abstract = [2023-03-15]
+paper = [2023-03-22]
+notification = [2023-05-17]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Pre-submission shepherding program for first-time submitters. Authors of selected papers will be invited to submit an extended version to special issues in Elsevier’s Information Systems (Tracks I and II) and in Springer’s Business & Information Systems Engineering (Track III)."

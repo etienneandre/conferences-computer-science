@@ -1,0 +1,22 @@
+# migrated from data.php line 5361
+edition = 16
+title = "Ninth International Workshop on Model-Based Design of Cyber-Physical Systems"
+url = "http://www.cyphy.org/"
+
+[event]
+start = 2019-10-17
+end = 2019-10-18
+city = "New York City, USA"
+
+[submission]
+format = "15-25 pages LNCS"
+abstract = [2019-08-12]
+paper = [2019-08-16]
+notification = [2019-09-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of ESWEEK"

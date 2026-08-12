@@ -1,0 +1,14 @@
+# DaLí — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "DaLí"
+name = "Workshop on Dynamic Logic - New trends and applications"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "dali"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "?? (2019), 15 day (2025)"  # from DaLí 2025

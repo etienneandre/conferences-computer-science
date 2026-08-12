@@ -1,0 +1,27 @@
+# migrated from data.php line 25917
+edition = 47
+title = "47th IEEE Real-Time Systems Symposium"
+url = "https://2026.rtss.org/"
+
+[event]
+start = 2026-12-09
+end = 2026-12-11
+city = "Yokohama, Japan"
+
+[submission]
+tz = "AoE"
+format = "11 pages IEEE 2 columns (+ bibliography)"
+abstract = [2026-05-21]
+paper = [2026-05-26]
+notification = [2026-07-25]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2026-07-13
+rebuttal_end = 2026-07-17
+award = "Outstanding papers will be highlighted in the proceedings. Awards: Best Paper, Best Student Paper, Best Presentation."

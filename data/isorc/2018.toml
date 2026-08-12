@@ -1,0 +1,21 @@
+# migrated from data.php line 17538
+edition = 21
+title = "21st IEEE International Symposium on real-time computing"
+url = "https://cps-research-group.github.io/ISORC2018/"
+
+[event]
+start = 2018-05-29
+end = 2018-05-31
+city = "Singapore"
+
+[submission]
+format = "8 pages IEEE (regular / industrial / practitioner) / 4 pages IEEE (short research)"
+paper = [2018-02-02, 2018-02-09, 2018-02-14]
+notification = [2018-03-16]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Best papers from ISORC 2018 will be invited for submission to a Special Issue of an IEEE / ACM Journal."

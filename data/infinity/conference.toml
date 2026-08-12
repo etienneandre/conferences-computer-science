@@ -1,0 +1,5 @@
+# INFINITY — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "INFINITY"
+name = "International Workshop on Verification of Infinite-State Systems"
+defunct = "seemingly"

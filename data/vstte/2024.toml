@@ -1,0 +1,28 @@
+# migrated from data.php line 33717
+edition = 16
+title = "16th International Conference on Verified Software: Theories, Tools and Experiments"
+url = "https://www.soundandcomplete.org/vstte2024.html"
+
+[event]
+start = 2024-10-14
+end = 2024-10-15
+city = "Prague, Czech Republic"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (long) / 10 pages (short)"
+abstract = [2024-07-27]
+paper = [2024-07-27]
+notification = [2024-08-19]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 6
+submitted = 6
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Co-located with FMCAD 2024. Firm in 2019."

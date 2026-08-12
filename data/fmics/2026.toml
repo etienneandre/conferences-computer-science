@@ -1,0 +1,28 @@
+# migrated from data.php line 9363
+edition = 31
+title = "31st International Conference on Formal Methods for Industrial Critical Systems"
+url = "https://confest-2026.github.io/fmics/"
+
+[event]
+start = 2026-09-02
+end = 2026-09-04
+city = "Liverpool, England"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + references"
+abstract = [2026-04-10]
+paper = [2026-04-17]
+notification = [2026-06-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+artifact = "For all papers with experimental results, we strongly recommend providing reviewers with an artifact that they can use to reproduce results, e.g., via a paper website."
+award = "the paper with the best contributions to Software Science and Technology will be honoured with the EASST ERCIM award."
+
+[extra]
+colocated = "Part of CONFEST with CONCUR and QEST+FORMATS"

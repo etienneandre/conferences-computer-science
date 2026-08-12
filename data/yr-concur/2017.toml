@@ -1,0 +1,19 @@
+# migrated from data.php line 34903
+edition = 7
+title = "7th International Young Researchers Workshop on Concurrency Theory"
+url = "http://www.lsv.ens-cachan.fr/~bollig/yr-concur2017/"
+
+[event]
+start = 2017-09-04
+city = "Berlin, Germany"
+
+[submission]
+format = "4 pages LNCS"
+paper = [2017-06-25]
+notification = [2017-07-17]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."

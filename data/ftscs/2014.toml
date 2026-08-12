@@ -1,0 +1,26 @@
+# migrated from data.php line 11853
+edition = 3
+title = "3rd International Workshop on Formal Techniques for Safety-Critical Systems"
+url = "http://www.ftscs.org"
+
+[event]
+start = 2014-11-06
+end = 2014-11-07
+city = "Luxembourg"
+
+[submission]
+format = "16 pages LNCS (research / applications / surveys), 5 pages LNCS (position / tools / work in progress)"
+paper = [2014-09-12]
+notification = [2014-10-03]
+
+[proceedings]
+publisher = "Springer CCIS"
+license = "pay-profit"
+
+[stats]
+accepted = 14
+submitted = 40
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "An ICFEM 2014 Satellite Event. Work in progress will not be published in the post-proceedings. Selected subset of accepted papers will be invited to submit extended versions of their papers in a special issue of the Science of Computer Programming journal."

@@ -1,0 +1,13 @@
+# FSFMA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FSFMA"
+name = "French Singaporean Workshop in Formal Methods and Applications"
+defunct = 2014
+
+[links]
+dblp = "fsfma"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "47% (2013)"  # from FSFMA 2014
+extensions = "2 weeks (2013), 2 weeks (2014)"  # from FSFMA 2014

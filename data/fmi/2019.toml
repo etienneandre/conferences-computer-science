@@ -1,0 +1,22 @@
+# migrated from data.php line 9062
+edition = 7
+title = "The 7th IEEE International Workshop on Formal Methods Integration"
+url = "http://www.sis.pitt.edu/iri2017/workshop_fmi.html"
+
+[event]
+start = 2019-07-30
+end = 2019-08-01
+city = "Los Angeles, CA, USA"
+
+[submission]
+format = "8 pages IEEE"
+abstract = [2019-04-25, 2019-05-15]
+paper = [2019-05-02, 2019-05-18]
+notification = [2019-06-01, 2019-06-18]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Satellite of 18th IEEE IRI 2017. As for previous editions of the workshop, authors of best papers will be invited to expand and submit their papers for possible publication in a book or in a journal special issue."

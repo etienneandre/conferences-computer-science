@@ -1,0 +1,21 @@
+# migrated from data.php line 15794
+edition = 38
+title = "38th International Conference on Software Engineering"
+url = "http://2016.icse.cs.txstate.edu/"
+
+[event]
+start = 2016-05-14
+end = 2016-05-22
+city = "Austin, Texas, USA"
+
+[submission]
+format = "10 pages ACM"
+paper = [2015-08-28]
+notification = [2015-12-15]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Also a doctoral symposium, tutorials, demos, and other events. (Deadlines: November 20, 2015). Author clarification period: 1 - 5 November 2015"

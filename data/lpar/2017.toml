@@ -1,0 +1,19 @@
+# migrated from data.php line 19710
+edition = 21
+title = "21st International Conference on Logic for Programming, Artificial Intelligence and Reasoning"
+url = "http://www.lpar-21.info"
+
+[event]
+start = 2017-05-08
+end = 2017-05-12
+city = "Maun, Botswana"
+
+[submission]
+format = "regular (15 pages EasyChair + references + appendix); tool / experimental (8)"
+abstract = [2017-01-09, 2017-01-18]
+paper = [2017-01-16, 2017-01-22]
+notification = [2017-03-01]
+
+[proceedings]
+publisher = "EPiC Series in Computing"
+license = "free"

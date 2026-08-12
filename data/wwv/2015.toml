@@ -1,0 +1,21 @@
+# migrated from data.php line 34633
+edition = 11
+title = "11th International Workshop on Automated Specification and Verification of Web Systems"
+url = "http://wwv2015.isti.cnr.it/"
+
+[event]
+start = 2015-06-23
+city = "Oslo, Norway"
+
+[submission]
+format = "16 pages EPTCS (long) + appendix, 8 pages (short)"
+abstract = [2015-03-18]
+paper = [2015-03-25]
+notification = [2015-05-08]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite of FM 2015. An open call for a special issue in a highly-reputed journal on the topic of the WWV workshop is envisaged. This has been common practice for WWV since 2009."

@@ -1,0 +1,22 @@
+# migrated from data.php line 25820
+edition = 41
+title = "41th IEEE Real-Time Systems Symposium"
+url = "http://2020.rtss.org/"
+
+[event]
+start = 2020-12-01
+end = 2020-12-04
+city = "Houston, Texas, USA"
+
+[submission]
+tz = "AoE"
+format = "11 pages IEEE 2 columns (+ bibliography)"
+paper = [2020-07-02]
+notification = [2020-09-15]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Firm submission deadline. Rebuttal: 24-28 August 2020. A selection of papers will receive recognition as outstanding papers, and will be highlighted as such in the proceedings. Authors of outstanding papers will be invited to submit an extended version of their work to a special issue of a journal. Best paper and best student paper awards will be presented at the conference, along with an award for the best presentation."

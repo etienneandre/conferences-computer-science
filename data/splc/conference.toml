@@ -1,0 +1,14 @@
+# SPLC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SPLC"
+name = "ACM International Systems and Software Product Line Conference"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+twitter = "splcconf"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 14 days (2025)"

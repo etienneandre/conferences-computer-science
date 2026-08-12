@@ -1,0 +1,24 @@
+# migrated from data.php line 14586
+edition = 30
+title = "30th International Conference on Engineering of Complex Computer Systems"
+url = "https://formal-analysis.com/iceccs/2026/"
+
+[event]
+start = 2026-11-23
+end = 2026-11-24
+city = "Brisbane, Australia"
+
+[submission]
+tz = "AoE"
+format = "20 pages including references (full) / 11 pages (short)"
+abstract = [2026-06-29, 2026-07-20]
+paper = [2026-07-06, 2026-07-20]
+notification = [2026-08-17]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"

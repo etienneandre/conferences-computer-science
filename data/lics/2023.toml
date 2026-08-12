@@ -1,0 +1,28 @@
+# migrated from data.php line 19251
+edition = 38
+title = "38th Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS)"
+url = "https://lics.siglog.org/lics22/"
+
+[event]
+start = 2023-06-26
+end = 2023-06-29
+city = "Boston, USA"
+
+[submission]
+tz = "AoE"
+format = "12 pages IEEE + references"
+abstract = [2023-01-18]
+paper = [2023-01-23]
+notification = [2023-04-05]
+
+[proceedings]
+publisher = "ACM SIGPLAN Proceedings"
+license = "acm"
+
+[stats]
+accepted = 63
+submitted = 192
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Double-blind (since 2020). Author Feedback/Rebuttal: 15-19 March 2023. Deadlines are firm. An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee. Around 10% of accepted papers will be selected as distinguished papers. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

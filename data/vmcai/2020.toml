@@ -1,0 +1,23 @@
+# migrated from data.php line 33185
+edition = 21
+title = "21st International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://popl20.sigplan.org/home/VMCAI-2020"
+
+[event]
+start = 2020-01-19
+end = 2020-01-21
+city = "New Orleans, Louisiana, United States"
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix"
+abstract = [2019-10-01]
+paper = [2019-10-01, 2019-10-06]
+notification = [2019-11-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with POPL. Sponsor travel and other costs for students to attend VMCAI."

@@ -1,0 +1,22 @@
+# migrated from data.php line 15179
+edition = 10
+title = "10th International Conference on Model Transformation"
+url = "http://www.model-transformation.org/"
+
+[event]
+start = 2017-07-17
+end = 2017-07-18
+city = "Marburg, Germany"
+
+[submission]
+format = "15 pages LNCS (research/applications) / 10 pages (exploratory) / 7 pages (tool demo)"
+abstract = [2017-02-17]
+paper = [2017-02-24]
+notification = [2017-04-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with Software Technologies: Applications and Foundations (STAF) 2017. A special issue with an extended version of the best papers from the conference will be published in the journal Science of Computer Programming (Elsevier)"

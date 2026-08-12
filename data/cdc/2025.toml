@@ -1,0 +1,21 @@
+# migrated from data.php line 3695
+edition = 64
+title = "64th IEEE Conference on Decision and Control"
+url = "https://cdc2025.ieeecss.org/"
+
+[event]
+start = 2025-12-09
+end = 2025-12-12
+city = "Rio de Janeiro, Brazil"
+
+[submission]
+format = "6 pages IEEE (+ 2 additional for a fee)"
+paper = [2025-03-31]
+notification = [2025-07-15]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "The journal IEEE Control Systems Letters (L-CSS) now allows one to submit and publish a paper in the Journal, but present it at CDC."

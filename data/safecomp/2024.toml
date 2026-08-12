@@ -1,0 +1,19 @@
+# migrated from data.php line 26989
+edition = 43
+title = "43rd International Conference on Computer Safety, Reliability and Security"
+url = "https://www.safecomp2024.unifi.it/"
+
+[event]
+start = 2024-09-17
+end = 2024-09-20
+city = "Florence, Italy"
+
+[submission]
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / position (4 pages)"
+abstract = [2024-02-04, 2024-02-15]
+paper = [2024-02-11, 2024-02-18]
+notification = [2024-04-21]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

@@ -1,0 +1,8 @@
+# ICMT — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICMT"
+name = "International Conference on Model Transformation"
+defunct = "seemingly"
+
+[core]
+rank = "B"  # TODO: verify

@@ -1,0 +1,19 @@
+# migrated from data.php line 34206
+edition = 13
+title = "13th WISTP International Conference on Information Security Theory and Practice"
+url = "http://www.wistp.org/"
+
+[event]
+start = 2019-12-10
+end = 2019-12-11
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "16 pages Springer LNCS"
+paper = [2019-10-27]
+notification = [2019-11-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

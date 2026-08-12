@@ -1,0 +1,23 @@
+# migrated from data.php line 14523
+edition = 28
+title = "28th International Conference on Engineering of Complex Computer Systems"
+url = "https://cyprusconferences.org/iceccs2024/"
+
+[event]
+start = 2024-06-19
+end = 2024-06-21
+city = "St. Raphael Resort and Marina, Limassol, Cyprus"
+
+[submission]
+tz = "AoE"
+format = "IEEE 9 pages + bibliography (Technical Papers and Experience Reports) / 5 pages (short)"
+abstract = [2023-12-08, 2023-12-29]
+paper = [2023-12-15, 2024-01-05]
+notification = [2024-03-15]
+
+[proceedings]
+publisher = "IEEE Conference Publishing Services"
+license = "pay"
+
+[extra]
+notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence (TCCI) in 2012."

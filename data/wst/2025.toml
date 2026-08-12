@@ -1,0 +1,25 @@
+# migrated from data.php line 34597
+edition = 20
+title = "20th International Workshop on Termination"
+url = "https://www.imn.htwk-leipzig.de/WST2025/"
+
+[event]
+start = 2025-09-03
+end = 2025-09-04
+city = "Leipzig, Germany"
+
+[submission]
+format = "5 pages LIPIcs"
+paper = [2025-06-25]
+notification = [2025-07-16]
+
+[proceedings]
+publisher = "Web page"
+license = "free"
+
+[review]
+competition = "Live complexity and termination competition during the workshop. In 2025, the Termination Competition will run during WST."
+
+[extra]
+colocated = "Co-located with 14th Intl. Workshop on Confluence (IWC)."
+notes = "Informal proceedings (earlier / concurrent / later submission allowed). Authors of participating tools and benchmarks are invited to submit a short paper and give a presentation at the workshop."

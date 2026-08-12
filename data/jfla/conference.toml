@@ -1,0 +1,14 @@
+# JFLA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "JFLA"
+name = "37e Journées Francophones des Langages Applicatifs"
+
+[core]
+rank = "unranked"  # TODO: verify
+
+[links]
+dblp = "jfla"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "Firm in 2026"  # from JFLA 2026

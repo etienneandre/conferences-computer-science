@@ -1,0 +1,22 @@
+# migrated from data.php line 12211
+edition = 6
+title = "6th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "http://gandalf2015.dibris.unige.it"
+
+[event]
+start = 2015-09-21
+end = 2015-09-23
+city = "Genoa, Italy"
+
+[submission]
+format = "14 pages EPTCS"
+abstract = [2015-05-29]
+paper = [2015-06-05]
+notification = [2015-07-03]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Authors of the best papers will be invited to submit a revised version of their work to an special issue of Acta Informatica."

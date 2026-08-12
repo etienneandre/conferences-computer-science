@@ -1,0 +1,28 @@
+# migrated from data.php line 14891
+edition = 25
+title = "25th International Conference on Formal Engineering Methods"
+url = "https://icfem2024.info/"
+
+[event]
+start = 2024-12-02
+end = 2024-12-06
+city = "Hiroshima, Japan"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS (regular paper) + 2 pages (references/appendix) / 12 pages (short) including references"
+abstract = [2024-06-24]
+paper = [2024-06-24, 2024-06-30, 2024-07-08]
+notification = [2024-09-09]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 22
+submitted = 50
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Journal-first presentations. Doctoral symposium."

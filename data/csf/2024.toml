@@ -1,0 +1,21 @@
+# migrated from data.php line 5031
+edition = 37
+title = "37th IEEE Computer Security Foundations Symposium"
+url = "https://csf2024.ieee-security.org/"
+
+[event]
+start = 2024-07-08
+end = 2024-07-12
+city = "Enschede, The Netherlands"
+
+[submission]
+format = "12 pages IEEE (+ references + appendix)"
+paper = [2023-09-30]
+notification = [2023-12-02]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind. Two submission cycles: spring and fall."

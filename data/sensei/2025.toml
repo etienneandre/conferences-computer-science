@@ -1,0 +1,18 @@
+# migrated from data.php line 27793
+edition = 4
+title = "Fourth International Workshop on Security and Safety Interactions"
+url = "https://sites.google.com/view/sensei-2025"
+
+[event]
+start = 2025-09-09
+city = "Stockholm, Sweden"
+
+[submission]
+format = "12 pages LNCS  including references (research) / 6+ pages (short)"
+abstract = [2025-05-10]
+paper = [2025-05-10]
+notification = [2025-05-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

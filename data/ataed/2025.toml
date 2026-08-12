@@ -1,0 +1,19 @@
+# migrated from data.php line 2393
+title = "Algorithms & Theories for the Analysis of Event Data 2025"
+url = "https://www.fernuni-hagen.de/ataed/ataed2025/"
+
+[event]
+start = 2025-06-24
+city = "Paris, France"
+
+[submission]
+format = "15 pages CEUR (full) / 8 pages (short)"
+abstract = [2025-03-18]
+paper = [2025-03-28]
+notification = [2025-04-11]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Satellite of Petri Nets 2025"

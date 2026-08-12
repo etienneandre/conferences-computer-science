@@ -1,0 +1,22 @@
+# migrated from data.php line 13835
+edition = 46
+title = "46th International Colloquium on Automata, Languages and Programming"
+url = "https://icalp2019.upatras.gr/"
+
+[event]
+start = 2019-07-08
+end = 2019-07-12
+city = "Patras, Greece"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs + ref"
+paper = [2019-02-18]
+notification = [2019-04-19]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm."

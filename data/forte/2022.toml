@@ -1,0 +1,28 @@
+# migrated from data.php line 10404
+edition = 42
+title = "42nd IFIP International Conference on Formal Techniques for Distributed Objects, Components and Systems"
+url = "https://www.discotec.org/2022/forte"
+
+[event]
+start = 2022-06-13
+end = 2022-06-17
+city = "Lucca, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS (regular / tool) + 2 pages references / 6+2 pages (short / tool demo) / 4 pages (journal-first)"
+abstract = [2022-01-28, 2022-02-11]
+paper = [2022-02-04, 2022-02-18]
+notification = [2022-03-25]
+
+[proceedings]
+publisher = "Springer LNCS IFIP"
+license = "pay-profit"
+
+[stats]
+accepted = 12
+submitted = 28
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "A DisCoTec Member Conference. The best papers will be invited after the conference to contribute to a special issue of LMCS. Recent acceptance rates: 41% (20/49, 2013), 36% (18/50, 2014), 28% (15/53, 2015), 41% (18/44, 2016), 40% (13 long + 3 short + 1 tool/42) in 2017, 36% (10/28) in 2018, 43% (18/42) in 2019, 44% (11/25) in 2020, 43% (12/28) in 2022."

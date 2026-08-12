@@ -1,0 +1,27 @@
+# migrated from data.php line 28577
+edition = 14
+title = "14th International Symposium on Industrial Embedded Systems"
+url = "https://ieee-sies.org/"
+
+[event]
+start = 2024-10-23
+end = 2024-10-25
+city = "Chengdu, China"
+
+[submission]
+format = "8 pages IEEE (long), 4 pages (work in progress)"
+paper = [2024-06-11, 2024-06-30]
+notification = [2024-07-28]
+
+[proceedings]
+publisher = "IEEE eXplore"
+license = "pay"
+
+[review]
+blind = "double"
+diversity = "mixed"
+award = "3 outstanding papers"
+
+[extra]
+journal = "SIES 2024 will have two special issues: one in the Journal of Systems Architecture (JSA) and one in Leibniz Transactions on Embedded Systems (LITES)."
+notes = "Student Travel Grants. No edition from 2018 to 2023."

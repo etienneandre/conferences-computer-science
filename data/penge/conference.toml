@@ -1,0 +1,11 @@
+# PeNGE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "PeNGE"
+name = "Petri Net games, examples and quizzes for education, contest and fun"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 2 weeks (2025)."

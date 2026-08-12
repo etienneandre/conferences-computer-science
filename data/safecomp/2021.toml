@@ -1,0 +1,22 @@
+# migrated from data.php line 26914
+edition = 40
+title = "40th International Conference on Computer Safety, Reliability and Security"
+url = "https://safecomp2021.hosted.york.ac.uk/"
+
+[event]
+start = 2021-09-07
+end = 2021-09-10
+city = "York, UK / online"
+
+[submission]
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / position (4 pages)"
+abstract = [2021-02-01]
+paper = [2021-02-15]
+notification = [2021-04-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The theme for 2021 is safe human-robotic and autonomous system (RAS) interaction."

@@ -1,0 +1,18 @@
+# migrated from data.php line 28032
+edition = 11
+title = "11th International Workshop on Software Engineering for Resilient Systems"
+url = "http://serene.disim.univaq.it/2018/home"
+
+[event]
+start = 2019-09-17
+city = "Naples, Italy"
+
+[submission]
+format = "15 pages LNCS (technical) / 7 pages (experience/PhD/project/tool/position)"
+abstract = [2019-05-31, 2019-06-07]
+paper = [2019-06-07, 2019-06-14]
+notification = [2019-07-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

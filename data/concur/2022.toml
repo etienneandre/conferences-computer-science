@@ -1,0 +1,28 @@
+# migrated from data.php line 4607
+edition = 33
+title = "33rd International Conference on Concurrency Theory"
+url = "https://concur2022.mimuw.edu.pl/"
+
+[event]
+start = 2022-09-13
+end = 2022-09-16
+city = "Warsaw, Poland"
+
+[submission]
+tz = "AoE"
+format = "14 pages LIPIcs (+ references + appendix)"
+abstract = [2022-04-18]
+paper = [2022-04-25]
+notification = [2022-06-25]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 32
+submitted = 90
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Author response: June 6-8, 2022. Part of CONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials."

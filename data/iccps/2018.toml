@@ -1,0 +1,22 @@
+# migrated from data.php line 14062
+edition = 9
+title = "9th ACM/IEEE International Conference on Cyber-Physical Systems"
+url = "http://iccps.acm.org/2018/"
+
+[event]
+start = 2018-04-09
+end = 2018-04-12
+city = "Porto, Portugal"
+
+[submission]
+format = "10 pages ACM or IEEE + 2-page appendix"
+abstract = [2017-09-29]
+paper = [2017-10-06]
+notification = [2017-12-18]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Two tracks: theory and application. Part of Cyber Physical Systems (CPS) Week."

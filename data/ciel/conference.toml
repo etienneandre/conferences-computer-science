@@ -1,0 +1,12 @@
+# CIEL — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CIEL"
+name = "9e Conférence en IngénieriE du Logiciel"
+defunct = 2021
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 2 weeks (2015, 2016)"

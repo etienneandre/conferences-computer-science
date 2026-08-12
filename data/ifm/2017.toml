@@ -1,0 +1,22 @@
+# migrated from data.php line 16981
+edition = 13
+title = "13th International Conference on integrated Formal Methods"
+url = "http://ifm2017.di.unito.it/"
+
+[event]
+start = 2017-09-20
+end = 2017-09-22
+city = "Turin, Italy"
+
+[submission]
+format = "15 pages LNCS (research / regular / case study) / 8 pages (short tool)"
+abstract = [2017-03-28, 2017-04-20]
+paper = [2017-04-04, 2017-04-27]
+notification = [2017-05-26, 2017-06-02]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Page limits include bibliography and any appendices."

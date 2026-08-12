@@ -1,0 +1,11 @@
+# CERTS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CERTS"
+name = "Workshop on Security and Dependability of Critical Embedded Real-Time Systems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "ecrts"

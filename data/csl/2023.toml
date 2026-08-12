@@ -1,0 +1,28 @@
+# migrated from data.php line 5220
+edition = 31
+title = "International Conference on Computer Science Logic"
+url = "https://csl2023.mimuw.edu.pl/"
+
+[event]
+start = 2023-02-13
+end = 2023-02-16
+city = "Warsaw, Poland"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ references)"
+abstract = [2022-07-09]
+paper = [2022-07-16]
+notification = [2022-09-30]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 34
+submitted = 75
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Helena Rasiowa Award for the best student paper."

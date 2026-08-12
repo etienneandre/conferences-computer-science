@@ -1,0 +1,23 @@
+# migrated from data.php line 12380
+edition = 12
+title = "12th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "https://gandalf2021.math.unipd.it/"
+
+[event]
+start = 2021-09-20
+end = 2021-09-22
+city = "Padua, Italy (hybrid?)"
+
+[submission]
+tz = "AoE"
+format = "14 pages EPTCS + references"
+abstract = [2021-06-23]
+paper = [2021-06-30]
+notification = [2021-07-30]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science. This year, GANDALF will be organised together with the 3rd Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2021)"

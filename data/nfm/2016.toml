@@ -1,0 +1,21 @@
+# migrated from data.php line 21048
+edition = 8
+title = "8th NASA Formal Methods Symposium"
+url = "http://crisys.cs.umn.edu/nfm2016/"
+
+[event]
+start = 2016-06-07
+end = 2016-06-09
+city = "Minneapolis, MN, USA"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report)"
+paper = [2016-02-19]
+notification = [2016-04-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "No registration fees. Authors of selected best papers may be invited to submit an extended version to a special issue of the Journal of Automated Reasoning (Springer)."

@@ -1,0 +1,20 @@
+# migrated from data.php line 9450
+edition = 3
+title = "3rd Formal Methods for Timing Verification Workshop"
+url = "https://waters2016.inria.fr/challenge/"
+
+[event]
+start = 2016-07-05
+city = "Toulouse, France"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2016-04-28, 2016-05-26]
+notification = [2016-05-27, 2016-06-07]
+
+[proceedings]
+publisher = "PDF online"
+license = "free"
+
+[extra]
+notes = "Papers must describe a (possibly partial) solution to the FMTV proposed by Bosch. Held as part of WATERS’16 in conjunction with ECRTS’16. Depending on the participation, a joint publication of the challenge solutions will be considered."

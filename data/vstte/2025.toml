@@ -1,0 +1,28 @@
+# migrated from data.php line 33740
+edition = 17
+title = "17th International Conference on Verified Software: Theories, Tools and Experiments"
+url = "https://systemf.epfl.ch/etc/vstte2025/"
+
+[event]
+start = 2025-10-06
+end = 2025-10-07
+city = "Menlo Park, California, USA"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (long) / 10 pages (short)"
+abstract = [2025-07-14]
+paper = [2025-07-18]
+notification = [2025-08-31]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 6
+submitted = 15
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+colocated = "Co-located with FMCAD 2025"

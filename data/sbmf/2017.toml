@@ -1,0 +1,22 @@
+# migrated from data.php line 27153
+edition = 20
+title = "20th Brazilian Symposium on Formal Methods"
+url = "https://sbc.org.br/sbmf2017"
+
+[event]
+start = 2017-11-27
+end = 2017-12-01
+city = "Recife, Brazil"
+
+[submission]
+format = "16 pages LNCS"
+abstract = [2017-07-07, 2017-07-14, 2017-07-24]
+paper = [2017-07-21, 2017-08-02]
+notification = [2017-09-01, 2017-09-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A special issue of Science of Computer Programming (Elsevier) will publish the best papers."

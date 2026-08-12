@@ -1,0 +1,23 @@
+# migrated from data.php line 2249
+edition = 35
+title = "35th IEEE/ACM International Conference on Automated Software Engineering"
+url = "https://conf.researchr.org/home/ase-2020"
+
+[event]
+start = 2020-09-21
+end = 2020-09-25
+city = "Melbourne, Australia"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references (technical research / experience) / 6 pages (new ideas)"
+abstract = [2020-04-17, 2020-05-01]
+paper = [2020-04-24, 2020-05-08]
+notification = [2020-07-03, 2020-07-31]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double-blind submissions. Deadlines AoE."

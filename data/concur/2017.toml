@@ -1,0 +1,22 @@
+# migrated from data.php line 4485
+edition = 27
+title = "27th International Conference on Concurrency Theory"
+url = "http://www.concur2016.ulaval.ca"
+
+[event]
+start = 2016-08-23
+end = 2016-08-26
+city = "Québec City, Québec"
+
+[submission]
+format = "13 pages LIPIcs (+ appendix)"
+abstract = [2016-04-11]
+paper = [2016-04-18]
+notification = [2016-06-08]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Colocated with FORMATS and QEST. Some of the best papers accepted to CONCUR 2016 will be invited to submit a full version to a special issue of LMCS (Logical Methods in Computer Science)."

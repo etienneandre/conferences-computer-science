@@ -1,0 +1,21 @@
+# migrated from data.php line 18773
+edition = 8
+title = "8th International Conference on Knowledge and Systems Engineering"
+url = "http://fit.mta.edu.vn/kse2016/"
+
+[event]
+start = 2016-10-06
+end = 2016-10-08
+city = "Hà Nội, Việt Nam"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2016-05-16, 2016-06-15]
+notification = [2016-07-30, 2016-08-07]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Notification extension: 5+4 days in 2015 (with notification on the initial notification date…), 7 days (2016). Accepted papers with high quality will be invited to submit to a special issue of KSE 2016 in Data & Knowledge Engineering (DKE) Journal (ISI-covered journal)."

@@ -1,0 +1,22 @@
+# migrated from data.php line 6542
+edition = 21
+title = "21st European Performance Engineering Workshop"
+url = "https://epew-workshop.github.io/"
+
+[event]
+start = 2025-06-26
+city = "Catania, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS (including references) / 7-10 pages (short, unpublished)"
+abstract = [2025-04-01, 2025-04-25]
+paper = [2025-04-01, 2025-04-25]
+notification = [2025-05-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with ECMS 2025. Post-proceedings. Best paper presentation award."

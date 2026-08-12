@@ -1,0 +1,7 @@
+# ESEC/FSE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ESEC/FSE"
+name = "(?) ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021)"
+
+[core]
+rank = "A"  # TODO: verify

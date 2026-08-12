@@ -1,0 +1,22 @@
+# migrated from data.php line 17675
+edition = 26
+title = "26th IEEE International Symposium on Real-Time Distributed Computing"
+url = "https://isorc.github.io/2023/"
+
+[event]
+start = 2023-05-23
+end = 2023-05-25
+city = "Nashville, TN, USA"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) / 6 pages IEEE (short)"
+paper = [2023-01-28, 2023-02-18]
+notification = [2023-04-04]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind (?). Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing."

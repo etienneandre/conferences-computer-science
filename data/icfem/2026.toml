@@ -1,0 +1,27 @@
+# migrated from data.php line 14966
+edition = 27
+title = "27th International Conference on Formal Engineering Methods"
+url = "https://icfem2026.github.io/"
+
+[event]
+start = 2026-11-17
+end = 2026-11-20
+city = "Southampton, England"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (regular paper)"
+abstract = [2026-06-01, 2026-06-22]
+paper = [2026-06-08, 2026-06-22]
+notification = [2026-08-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+
+[extra]
+journal = "Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings."
+notes = "Also journal-first presentations. Doctoral symposium."

@@ -1,0 +1,15 @@
+# ICSEA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICSEA"
+name = "International Conference on Software Engineering Advances"
+
+[core]
+id = "1210"
+rank = "C"  # TODO: verify
+
+[links]
+dblp = "icsea"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "yes (2018)"  # from ICSEA 2025

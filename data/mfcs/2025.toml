@@ -1,0 +1,23 @@
+# migrated from data.php line 20543
+edition = 50
+title = "50th International Symposium on Mathematical Foundations of Computer Science"
+url = "https://mfcs2025.mimuw.edu.pl/"
+
+[event]
+start = 2025-08-25
+end = 2025-08-29
+city = "Warsaw, Poland"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ references)"
+abstract = [2025-04-18]
+paper = [2025-04-18]
+notification = [2025-06-20]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Rebuttal: June 3-6, 2025. Appendix allowed. Single-blind."

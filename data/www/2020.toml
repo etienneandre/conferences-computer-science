@@ -1,0 +1,22 @@
+# migrated from data.php line 34796
+edition = 29
+title = "29th International World Wide Web Conference (The Web conference 2018)"
+url = "https://www2020.thewebconf.org/"
+
+[event]
+start = 2020-04-20
+end = 2020-04-24
+city = "Taipei, Taiwan"
+
+[submission]
+format = "6 pages (short) / 10 pages (long) + references + appendix"
+abstract = [2019-10-07]
+paper = [2019-10-14]
+notification = [2020-01-10]
+
+[proceedings]
+publisher = "ACM Digital Library + conference Web site"
+license = "free-copy"
+
+[extra]
+notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…). Deadlines all Hawaii Standard Time. Double-blind."

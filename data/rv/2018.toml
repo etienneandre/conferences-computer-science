@@ -1,0 +1,19 @@
+# migrated from data.php line 26017
+edition = 18
+title = "18th International Conference on Runtime Verification"
+url = "https://rv2018.isp.uni-luebeck.de/"
+
+[event]
+start = 2018-10-10
+end = 2018-10-13
+city = "Limassol, Cyprus"
+
+[submission]
+format = "regular (15 pages LNCS + references) / short (6 pages) / tool demonstration (8 pages)"
+abstract = [2018-06-18, 2018-07-08]
+paper = [2018-06-25, 2018-07-08]
+notification = [2018-09-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

@@ -1,0 +1,22 @@
+# migrated from data.php line 33464
+edition = 8
+title = "8th International Workshop on Verification and Program Transformation"
+url = "http://refal.botik.ru/vpt/vpt2020/"
+
+[event]
+start = 2020-04-25
+end = 2020-04-26
+city = "Dublin, Ireland"
+
+[submission]
+format = "15 pages EPTCS (regular) / 3 pages (short)"
+abstract = [2020-01-13]
+paper = [2020-01-20]
+notification = [2020-03-09]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite of ETAPS 2020."

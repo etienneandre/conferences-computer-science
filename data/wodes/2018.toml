@@ -1,0 +1,21 @@
+# migrated from data.php line 34275
+edition = 14
+title = "14th Workshop on Discrete Event Systems"
+url = "http://wodes2018.unisa.it/"
+
+[event]
+start = 2018-05-30
+end = 2018-06-01
+city = "Sorrento Coast, Italy"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2017-12-04, 2017-12-15]
+notification = [2018-02-28]
+
+[proceedings]
+publisher = "ScienceDirect (Elsevier)"
+license = "pay-profit"
+
+[extra]
+notes = "Every two years."

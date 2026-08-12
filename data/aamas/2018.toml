@@ -1,0 +1,23 @@
+# migrated from data.php line 109
+edition = 17
+title = "17th International Conference on Autonomous Agents and Multiagent Systems"
+url = "http://celweb.vuse.vanderbilt.edu/aamas18/"
+
+[event]
+start = 2018-07-10
+end = 2018-07-15
+city = "Stockholm, Sweden"
+
+[submission]
+tz = "UTC-12"
+format = "8 pages (+ references)"
+abstract = [2017-11-10]
+paper = [2017-11-14]
+notification = [2018-01-24]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. Rebuttal phase: January 9-10, 2018. All deadlines UTC-12. A significant number of papers will be invited to submit extended versions to the Journal of Autonomous Agents and Multi-agent Systems (JAAMAS) for fast-track review."

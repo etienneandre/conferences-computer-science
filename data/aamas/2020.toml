@@ -1,0 +1,23 @@
+# migrated from data.php line 154
+edition = 19
+title = "19th International Conference on Autonomous Agents and Multiagent Systems"
+url = "https://aamas2020.conference.auckland.ac.nz/"
+
+[event]
+start = 2020-05-11
+end = 2020-05-13
+online = true
+
+[submission]
+tz = "UTC-12"
+format = "8 pages (+ references)"
+abstract = [2019-11-15]
+paper = [2019-11-15]
+notification = [2020-01-15]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. Rebuttal phase: 3-7 January 2020. All deadlines UTC-12."

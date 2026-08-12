@@ -1,0 +1,20 @@
+# migrated from data.php line 14801
+edition = 22
+title = "22nd International Conference on Formal Engineering Methods"
+url = "https://formal-analysis.com/icfem/2020/"
+
+[event]
+start = 2020-11-02
+end = 2020-11-06
+city = "Singapore"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS"
+abstract = [2020-05-01, 2020-05-17]
+paper = [2020-05-01, 2020-05-17]
+notification = [2020-06-19, 2020-07-05]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

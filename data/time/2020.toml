@@ -1,0 +1,21 @@
+# migrated from data.php line 31928
+edition = 27
+title = "27th International Symposium on Temporal Representation and Reasoning"
+url = "https://time2020.inf.unibz.it/"
+
+[event]
+start = 2020-09-23
+end = 2020-09-25
+city = "Bozen-Bolzano, Italy"
+
+[submission]
+format = "15 pages LIPIcs (+ references + 5 pages appendix)"
+paper = [2020-05-24]
+notification = [2020-06-21, 2020-07-05]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of a high quality journal to be yet decided."

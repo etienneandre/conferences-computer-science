@@ -1,0 +1,22 @@
+# migrated from data.php line 6495
+edition = 16
+title = "16th European Performance Engineering Workshop"
+url = "https://www.epew19.deib.polimi.it/"
+
+[event]
+start = 2019-11-28
+end = 2019-11-29
+city = "Milano, Italy"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2019-09-23]
+paper = [2019-09-26]
+notification = [2019-10-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Best papers will be invited to submit their extended work to the Special Issue “Queue and Stochastic Models for Operations Research” of the Mathematics journal."

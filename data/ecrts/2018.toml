@@ -1,0 +1,22 @@
+# migrated from data.php line 5996
+edition = 30
+title = "30th Euromicro Conference on Real-Time Systems"
+url = "http://www.ecrts.org/ecrts18"
+
+[event]
+start = 2018-07-03
+end = 2018-07-06
+city = "Barcelona, Catalonia, Spain"
+
+[submission]
+tz = "AoE"
+format = "20 pages (+ 4 pages bibliography and acknowledgements)"
+paper = [2018-02-01]
+notification = [2018-03-24]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "No deadline extension for any reason. Deadline AoE. Optional artifact evaluation process."

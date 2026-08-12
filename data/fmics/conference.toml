@@ -1,0 +1,16 @@
+# FMICS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FMICS"
+name = "International Conference on Formal Methods for Industrial Critical Systems"
+
+[core]
+id = "839"
+rank = "C"  # TODO: verify
+
+[links]
+dblp = "fmics"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "38% (16 regular + 2 tools /47) in 2006, 59% (13/22) in 2022, 58% (14/24) in 2023, 64% (14/22) in 2024"  # from FMICS 2026
+extensions = "one week in 2013, one week in 2015, 14 days in 2018, 7 days in 2019, 14 days (2020, 2022), 13 days (2023), 7 days (2024 and 2025)"  # from FMICS 2026

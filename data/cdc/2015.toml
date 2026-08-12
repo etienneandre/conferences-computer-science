@@ -1,0 +1,21 @@
+# migrated from data.php line 3574
+edition = 54
+title = "54th IEEE Conference on Decision and Control"
+url = "http://www.cdc2015.ctrl.titech.ac.jp/"
+
+[event]
+start = 2015-12-15
+end = 2015-12-18
+city = "Osaka, Japan"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2015-03-24]
+notification = [2015-07-31]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "No deadline extension. Notification: end of July. 2 more pages are allowed for US$200 each."

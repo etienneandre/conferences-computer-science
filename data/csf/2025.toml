@@ -1,0 +1,21 @@
+# migrated from data.php line 5054
+edition = 38
+title = "38th IEEE Computer Security Foundations Symposium"
+url = "https://csf2025.ieee-security.org/"
+
+[event]
+start = 2025-06-16
+end = 2025-06-20
+city = "Santa Cruz, CA, USA"
+
+[submission]
+format = "12 pages IEEE (+ references + appendix)"
+paper = [2024-10-01]
+notification = [2024-12-03]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind. Two submission cycles: spring and fall."

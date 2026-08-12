@@ -1,0 +1,22 @@
+# migrated from data.php line 13722
+edition = 6
+title = "6th International Conference on Advanced Aspects of Software Engineering"
+url = "https://www.univ-constantine2.dz/icaase2024/"
+
+[event]
+start = 2024-11-09
+end = 2024-11-10
+city = "Constantine, Algeria"
+
+[submission]
+format = "8 pages IEEE (regular) / 4 pages (short)"
+abstract = [2024-08-24]
+paper = [2024-09-22]
+notification = [2024-10-25]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Distinguished papers from ICAASE 2024 will be invited to submit a revised and extended version of their paper to a special issue of a well-indexed journal. Every two years."

@@ -1,0 +1,23 @@
+# migrated from data.php line 26167
+edition = 23
+title = "23rd International Conference on Runtime Verification"
+url = "https://rv23.csd.auth.gr/"
+
+[event]
+start = 2023-10-04
+end = 2023-10-06
+city = "Thessaloniki, Greece"
+
+[submission]
+tz = "AoE"
+format = "regular (16 pages LNCS + references) / short / tool demonstration / benchmarks (8 pages)"
+abstract = [2023-05-15, 2023-06-04]
+paper = [2023-05-15, 2023-06-04]
+notification = [2023-06-30, 2023-07-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The Program Committee of RV 2023 will give a Springer-sponsored Best Paper Award to one eligible regular paper."

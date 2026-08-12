@@ -1,0 +1,23 @@
+# migrated from data.php line 8067
+edition = 22
+title = "22nd International Symposium on Fundamentals of Computation Theory"
+url = "https://di.ku.dk/fct2019/"
+
+[event]
+start = 2019-08-11
+end = 2019-08-14
+city = "Copenhagen, Denmark"
+
+[submission]
+tz = "AoE"
+format = "12 pages LNCS + references"
+abstract = [2019-03-31]
+paper = [2019-04-07]
+notification = [2019-05-09]
+
+[proceedings]
+publisher = "Springer LNCS ARCoSS"
+license = "pay-profit"
+
+[extra]
+notes = "Biennial conference. Selected papers will be invited to a special issue of the \"Journal of Computer and System Sciences\", devoted to FCT 2019. Best paper award and best student paper award."

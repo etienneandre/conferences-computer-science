@@ -1,0 +1,31 @@
+# migrated from data.php line 24774
+edition = 32
+title = "32nd IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "https://2026.rtas.org/"
+
+[event]
+start = 2025-05-06
+end = 2025-05-09
+city = "Saint-Malo, Bretagne, France"
+
+[submission]
+tz = "UTC-12"
+format = "11 pages IEEE 2 columns (+ references)"
+paper = [2025-11-13]
+notification = [2026-01-29]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2026-01-14
+rebuttal_end = 2026-01-18
+artifact = "Optional Artifact Evaluation (AE) to assess reproducibility."
+
+[extra]
+colocated = "Part of CPS-IoT Week."
+notes = "Two tracks (Systems and Applications / Applied Methodologies and Foundations)."

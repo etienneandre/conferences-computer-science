@@ -1,0 +1,20 @@
+# migrated from data.php line 18127
+title = "International Symposium on Software Testing and Analysis"
+url = "http://issta2016.cispa.saarland/"
+
+[event]
+start = 2016-07-18
+end = 2016-07-20
+city = "Saarbrücken, Germany"
+
+[submission]
+format = "10 pages ACM (+ references)"
+paper = [2016-01-29]
+notification = [2016-04-19]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "ISSTA 2016 will conduct double-blind reviewing, the very first time in ISSTA. Also new: Author Response Period (15th and 16th March)."

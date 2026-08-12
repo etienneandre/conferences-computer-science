@@ -1,0 +1,25 @@
+# migrated from data.php line 2500
+edition = 16
+title = "16th International Symposium on Automated Technology for Verification and Analysis"
+url = "http://atva-conference.org/"
+
+[event]
+start = 2018-10-07
+end = 2018-10-10
+city = "Los Angeles, USA"
+
+[submission]
+format = "16 pages in Springer’s LNCS format (regular) / 6 (tool)"
+paper = [2018-05-04, 2018-05-11]
+notification = [2018-06-23, 2018-06-27]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+rate = 40.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia. Special issue in \"Formal Methods in System Design\" (Springer)"

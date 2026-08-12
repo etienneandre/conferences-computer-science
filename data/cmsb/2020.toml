@@ -1,0 +1,22 @@
+# migrated from data.php line 4223
+edition = 18
+title = "18th conference on Computational Methods for Systems Biology"
+url = "http://www.cmsb2020-uni.saarland.de/"
+
+[event]
+start = 2020-09-23
+end = 2020-09-25
+city = "Virtual (Konstanz, Germany)"
+
+[submission]
+format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
+abstract = [2020-04-08, 2020-04-23]
+paper = [2020-04-15, 2020-04-30]
+notification = [2020-07-15]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal. Reproducibility recommended."

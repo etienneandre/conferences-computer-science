@@ -1,0 +1,23 @@
+# migrated from data.php line 32058
+edition = 32
+title = "32nd International Symposium on Temporal Representation and Reasoning"
+url = "https://time2025conf.github.io/"
+
+[event]
+start = 2025-08-27
+end = 2025-08-29
+city = "London, England"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ references + appendix)"
+abstract = [2025-05-20]
+paper = [2025-05-22, 2025-05-26]
+notification = [2025-06-25]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in a high ranked journal"

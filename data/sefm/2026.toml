@@ -1,0 +1,25 @@
+# migrated from data.php line 27749
+edition = 24
+title = "24th International Conference on Software Engineering and Formal Methods"
+url = "https://sefm-conference.github.io/2026/"
+
+[event]
+start = 2026-11-23
+end = 2026-11-27
+city = "Malta"
+
+[submission]
+tz = "AoE"
+format = "16 pages + 2p bibliography (regular) / 8 pages (short/tool) LNCS"
+abstract = [2026-06-16, 2026-06-23]
+paper = [2026-06-23, 2026-06-30]
+notification = [2026-08-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+artifact = "Artifact evaluation (optional for regular)"

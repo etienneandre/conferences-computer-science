@@ -1,0 +1,22 @@
+# migrated from data.php line 7115
+edition = 17
+title = "17th European Conference on Multi-Agent Systems"
+url = "https://eumas2020.csd.auth.gr/eumas2020/"
+
+[event]
+start = 2020-04-22
+end = 2020-04-23
+city = "Thessaloniki, Greece"
+
+[submission]
+format = "original (12-15 pages LNCS) / short original (6-8 pages) / published (up to 15 pages)"
+abstract = [2020-01-28, 2020-02-06]
+paper = [2020-02-04, 2020-02-12]
+notification = [2020-03-04]
+
+[proceedings]
+publisher = "Springer LNCS/LNAI"
+license = "pay-profit"
+
+[extra]
+notes = "EUMAS welcomes both original, unpublished papers, as well as papers that have been published in a relevant conference, conference or journal. The best original papers will be invited for a special issue in the Journal of Autonomous Agents and Multiagent Systems (JAAMAS). Deadline and notification extension: 7 days (2017), 8 days (2020)"

@@ -1,0 +1,21 @@
+# migrated from data.php line 1440
+edition = 1
+title = "1st International Workshop on Artificial Intelligence for Health"
+url = "http://www.biostec.org/AI4Health.aspx"
+
+[event]
+start = 2018-01-19
+end = 2018-01-21
+city = "Funchal, Madeira, Portugal"
+
+[submission]
+format = "8-12 pages SCITEPRESS"
+paper = [2017-11-07]
+notification = [2017-11-21]
+
+[proceedings]
+publisher = "SCITEPRESS Digital Library"
+license = "pay-profit"
+
+[extra]
+notes = "Satellite event of HEALTHINF / BIOSTEC. a selection of the best accepted papers related to the applications of Computational Intelligence / Soft Computing / Artificial Intelligence topics, suitably revised and extended, will be eligible for fast-track publication in Applied Soft Computing journal by Elsevier (Impact Factor 3.541)."

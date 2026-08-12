@@ -1,0 +1,22 @@
+# migrated from data.php line 18970
+edition = 12
+title = "12th international conference on language and automata theory and applications"
+url = "http://grammars.grlmc.com/LATA2018/"
+
+[event]
+start = 2018-04-08
+end = 2018-04-12
+city = "Bar-Ilan, Israel"
+
+[submission]
+tz = "CET"
+format = "12 pages Springer (including appendix+ref)"
+paper = [2017-11-17]
+notification = [2017-12-24]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A special issue of the Journal of Computer and System Sciences (Elsevier, 2015 JCR impact factor: 0.873) will be later published containing peer-reviewed substantially extended versions of some of the papers contributed to the conference. Submissions to it will be by invitation. WARNING: deadline CET."

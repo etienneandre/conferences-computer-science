@@ -1,0 +1,20 @@
+# migrated from data.php line 4045
+edition = 7
+title = "7e Conférence en IngénieriE du Logiciel"
+url = "https://ciel2018.sciencesconf.org/"
+
+[event]
+start = 2018-06-12
+end = 2018-06-15
+city = "Grenoble, France"
+
+[submission]
+format = "15 pages Easychair (long) / 6 pages (short) / 4 (tools) / 4 (abstracts) / 2 (thesis abstracts)"
+paper = [2018-04-30]
+notification = [2018-05-14]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "In French. Co-located with GDR-GPL. Les papiers longs auront la possibilité d’être étendus et évalués à nouveau pour paraître dans un numéro spécial de la revue TSI. Pas de date limite pour articles longs (au fil de l’eau) Deadline extension: 2 weeks (2015, 2016)"

@@ -1,0 +1,8 @@
+# V2CPS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "V2CPS"
+name = "International Workshop on Verification and Validation of Cyber-Physical Systems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

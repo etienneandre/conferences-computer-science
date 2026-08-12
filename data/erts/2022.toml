@@ -1,0 +1,21 @@
+# migrated from data.php line 6623
+edition = 11
+title = "11th European Congress on Embedded Real-time Systems"
+url = "http://www.erts2022.org/"
+
+[event]
+start = 2022-03-30
+end = 2022-03-31
+city = "Toulouse, France"
+
+[submission]
+format = "4 pages (extended abstract / short) / 10 pages (full, if abstract accepted)"
+abstract = [2021-09-05, 2021-10-03]
+paper = [2021-09-05, 2021-10-03]
+notification = [2021-11-18]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Notification after abstract submission: September 18th 2019."

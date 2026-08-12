@@ -1,0 +1,22 @@
+# migrated from data.php line 1687
+edition = 23
+title = "23rd Asia-Pacific Software Engineering Conference"
+url = "http://apsec2016.org/"
+
+[event]
+start = 2016-12-06
+end = 2016-12-09
+city = "Hamilton, New Zealand"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE"
+paper = [2016-07-15]
+notification = [2016-09-12]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Deadline AoE. Best papers will be submitted to a special issue of Elsevier International Journal of Information and Software Technology (IST)."

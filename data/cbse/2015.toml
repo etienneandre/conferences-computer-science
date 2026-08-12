@@ -1,0 +1,22 @@
+# migrated from data.php line 3455
+edition = 18
+title = "18th International ACM Sigsoft Symposium on Component-Based Software Engineering"
+url = "http://cbse-conferences.org/2015/"
+
+[event]
+start = 2015-05-04
+end = 2015-05-08
+city = "Montréal, Québec"
+
+[submission]
+format = "10 pages ACM including appendix (regular / case studies) / 6 pages ACM (short / tools)"
+abstract = [2014-12-14]
+paper = [2014-12-21]
+notification = [2015-02-09]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Part of CompArch."

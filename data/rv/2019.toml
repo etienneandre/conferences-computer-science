@@ -1,0 +1,22 @@
+# migrated from data.php line 26046
+edition = 19
+title = "19th International Conference on Runtime Verification"
+url = "https://www.react.uni-saarland.de/rv2019/"
+
+[event]
+start = 2019-10-08
+end = 2019-10-11
+city = "Porto, Portugal"
+
+[submission]
+format = "regular (15 pages LNCS + references) / short (6 pages) / tool demonstration (8 pages)"
+abstract = [2019-04-25, 2019-05-21]
+paper = [2019-04-30, 2019-05-21]
+notification = [2019-06-14, 2019-07-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The Program Committee of RV 2019 will give a best paper award, and a selection of accepted regular papers will be invited to appear in a special journal issue."

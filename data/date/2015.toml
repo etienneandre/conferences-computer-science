@@ -1,0 +1,22 @@
+# migrated from data.php line 5502
+edition = 18
+title = "Design Automation and Test in Europe Conference"
+url = "http://www.date-conference.com/"
+
+[event]
+start = 2015-03-09
+end = 2015-03-13
+city = "Grenoble, France"
+
+[submission]
+tz = "CET"
+format = "6 pages IEEE"
+paper = [2014-09-14]
+notification = [2014-11-07]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind submissions. 4 tracks, 32 topics. No deadline extension. WARNING: deadline CET!"

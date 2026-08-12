@@ -1,0 +1,19 @@
+# migrated from data.php line 19764
+edition = 23
+title = "23rd International Conference on Logic for Programming, Artificial Intelligence and Reasoning"
+url = "https://easychair.org/smart-program/LPAR23/"
+
+[event]
+start = 2020-05-22
+end = 2020-05-27
+city = "Alicante, Spain"
+
+[submission]
+format = "regular (15 pages EasyChair + references + appendix); tool / experimental (8)"
+abstract = [2020-02-15, 2020-02-18]
+paper = [2020-02-15, 2020-02-22]
+notification = [2020-04-08]
+
+[proceedings]
+publisher = "EPiC Series in Computing"
+license = "free"

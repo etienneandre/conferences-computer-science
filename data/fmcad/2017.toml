@@ -1,0 +1,22 @@
+# migrated from data.php line 8706
+edition = 17
+title = "17th International Conference on Formal Methods in Computer-Aided Design"
+url = "http://www.fmcad.org/FMCAD17"
+
+[event]
+start = 2017-10-02
+end = 2017-10-06
+city = "Vienna, Austria"
+
+[submission]
+format = "8 pages IEEE (regular) / 4 pages (short)"
+abstract = [2017-05-01]
+paper = [2017-05-08]
+notification = [2017-07-14]
+
+[proceedings]
+publisher = "ACM/IEEE"
+license = "acm"
+
+[extra]
+notes = "Author Response Period: 19-23 June, 2017."

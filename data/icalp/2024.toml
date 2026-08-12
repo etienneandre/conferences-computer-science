@@ -1,0 +1,22 @@
+# migrated from data.php line 13953
+edition = 51
+title = "51st EATCS International Colloquium on Automata, Languages, and Programming"
+url = "https://compose.ioc.ee/icalp2024/"
+
+[event]
+start = 2024-07-08
+end = 2024-07-12
+city = "Tallinn, Estonia"
+
+[submission]
+tz = "CET"
+format = "15 pages LIPIcs + ref"
+paper = [2024-02-14]
+notification = [2024-04-14]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with LICS and FSCD. Double-blind. Rebuttal: March 26-29 2024. Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm (6 days in 2020 due to relocation)."

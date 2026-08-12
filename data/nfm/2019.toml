@@ -1,0 +1,22 @@
+# migrated from data.php line 21130
+edition = 11
+title = "11th NASA Formal Methods Symposium"
+url = "https://robonaut.jsc.nasa.gov/R2/pages/nfm2019.html"
+
+[event]
+start = 2019-05-07
+end = 2019-05-09
+city = "Rice University, Houston, Texas, USA"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report) + references"
+abstract = [2018-12-07, 2018-12-10]
+paper = [2018-12-14, 2018-12-17]
+notification = [2019-02-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "No registration fees."

@@ -1,0 +1,23 @@
+# migrated from data.php line 23783
+edition = 2
+title = "Second joint event for International Conference on Quantitative Evaluation of SysTems and International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "https://www.qest-formats.org/"
+
+[event]
+start = 2025-08-25
+end = 2025-08-30
+city = "Aarhus, Denmark"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references + appendix (regular) / 7 pages (short) / presentation only"
+abstract = [2025-04-04, 2025-04-11]
+paper = [2025-04-11, 2025-04-18]
+notification = [2025-05-24, 2025-05-31]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of CONFEST 2025. Optional artifact evaluation. A selection of the best papers will be invited to submit an extended version of their work to special issues in internationally recognized journals."

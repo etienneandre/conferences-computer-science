@@ -1,0 +1,22 @@
+# migrated from data.php line 20811
+edition = 13
+title = "Modélisation des Systèmes Réactifs"
+url = "http://msr2021.cnam.fr/"
+
+[event]
+start = 2021-11-08
+end = 2021-11-10
+city = "Paris, France"
+
+[submission]
+format = "14 pages EasyChair"
+abstract = [2021-05-17]
+paper = [2021-05-31, 2021-07-19]
+notification = [2021-09-06]
+
+[proceedings]
+publisher = "HAL"
+license = "free"
+
+[extra]
+notes = "In French, but English papers accepted. Poster PhD session. Best paper award for young scientists."

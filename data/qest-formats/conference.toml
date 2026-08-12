@@ -1,0 +1,16 @@
+# QEST+FORMATS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "QEST+FORMATS"
+name = "Third joint event for International Conference on Quantitative Evaluation of SysTems and International Conference on Formal Modeling and Analysis of Timed Systems"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "qestformats"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "58% (19/33) in 2024"  # from QEST+FORMATS 2026
+extensions = "none in 2024, 7 days (2025), 10 days (2026)"  # from QEST+FORMATS 2026
+notes = "Acceptance rate: 44% (18/41) in 2013, 44% (16/46) in 2014, 45% (19/42) in 2015, 44% (14/32) in 2016, 58% (18/31) in 2017, 48% (14/29) in 2018, 40% (17/42) in 2019, 47% (12+2/30) in 2022."

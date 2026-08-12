@@ -1,0 +1,15 @@
+# WISTP — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "WISTP"
+name = "WISTP International Conference on Information Security Theory and Practice"
+
+[core]
+id = "1867"
+rank = "C"  # TODO: verify
+
+[links]
+dblp = "wistp"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "none (2018, 2019, 2024)"  # from WISTP 2024

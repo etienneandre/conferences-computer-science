@@ -1,0 +1,19 @@
+# migrated from data.php line 19043
+edition = 15
+title = "14th and 15th International Conference on Language and Automata Theory and Applications"
+url = "https://irdta.eu/lata2020-2021/"
+
+[event]
+start = 2021-09-20
+end = 2021-09-24
+city = "Milan, Italy"
+
+[submission]
+tz = "CET"
+format = "12 pages Springer (including appendix+ref)"
+paper = [2019-10-18]
+notification = [2019-11-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

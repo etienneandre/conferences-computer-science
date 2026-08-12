@@ -1,0 +1,12 @@
+# WS-FM:FASOCC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "WS-FM:FASOCC"
+name = "International Workshop on Web Services and Formal Methods: Formal Aspects of Service-Oriented and Cloud Computing"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension (1 week) in 2013, 6 days in 2014."

@@ -1,0 +1,23 @@
+# migrated from data.php line 4306
+edition = 21
+title = "21st conference on Computational Methods for Systems Biology"
+url = "https://cmsb2023.uni.lu/"
+
+[event]
+start = 2023-09-13
+end = 2023-09-15
+city = "Luxembourg"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
+abstract = [2023-04-16, 2023-04-23]
+paper = [2023-04-23, 2023-04-30]
+notification = [2023-06-09]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "A selection of best papers is planned to be invited after the conference to be extended and submitted to a special issue of a major international journal. Artifact evaluation."

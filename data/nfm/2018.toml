@@ -1,0 +1,27 @@
+# migrated from data.php line 21097
+edition = 10
+title = "10th NASA Formal Methods Symposium"
+url = "https://shemesh.larc.nasa.gov/NFM2018/"
+
+[event]
+start = 2018-04-17
+end = 2018-04-19
+city = "Newport News, VA, USA"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report)"
+abstract = [2017-11-10, 2017-12-01]
+paper = [2017-11-20, 2017-12-11]
+notification = [2018-01-19, 2018-01-23]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 31
+submitted = 92
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "No registration fees. Authors of selected best papers may be invited to submit an extended version to a special issue of the Journal of Automated Reasoning (Springer)."

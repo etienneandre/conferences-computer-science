@@ -1,0 +1,24 @@
+# migrated from data.php line 2119
+edition = 13
+title = "13th International Workshop on Applied Verification for Continuous and Hybrid Systems"
+url = "https://cps-vo.org/group/ARCH/Call-for-Submissions"
+
+[event]
+start = 2026-06-03
+online = true
+
+[submission]
+format = "3-8 pages (Benchmark papers, tool presentations, tool executions, experience reports)"
+paper = [2026-04-01]
+notification = [2026-04-29]
+
+[proceedings]
+publisher = "EasyChair EPiC series"
+license = "free"
+
+[review]
+blind = "single"
+artifact = "Benchmark papers: A zip archive with additional data (description details, model files, sample traces, code, known results, etc.) is to be submitted together with the extended abstract. Benchmarks can be academic or industrial, of small size or extensive case studies."
+
+[extra]
+notes = "Reports on results of our friendly competition (separate call). Free of charge in 2017."

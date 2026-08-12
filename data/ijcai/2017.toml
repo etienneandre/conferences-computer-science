@@ -1,0 +1,21 @@
+# migrated from data.php line 17240
+edition = 26
+title = "26th International Joint Conference on Artificial Intelligence"
+url = "http://ijcai-17.org/"
+
+[event]
+start = 2017-08-19
+end = 2017-08-25
+city = "Melbourne, Australia"
+
+[submission]
+format = "6 pages + 1 page references"
+paper = [2017-02-19]
+notification = [2017-04-23]
+
+[proceedings]
+publisher = "AAAI Press"
+license = "free-copy"
+
+[extra]
+notes = "Double-blind submission. Rebuttal period: March 28-29, 2017 (special track on AI & autonomy only). Authors lose their rights, but proceedings (e.g., 2015, 2016) are freely available online. Every two years until 2016, then became yearly."

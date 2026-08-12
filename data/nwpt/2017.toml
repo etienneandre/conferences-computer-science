@@ -1,0 +1,21 @@
+# migrated from data.php line 21620
+edition = 29
+title = "29th Nordic Workshop On Programming Theory"
+url = "https://research.it.abo.fi/nwpt17/"
+
+[event]
+start = 2017-11-01
+end = 2017-11-03
+city = "Turku, Finland"
+
+[submission]
+tz = "UTC"
+format = "2-3 pages Easychair"
+paper = [2017-09-17, 2017-09-19, 2017-09-21]
+notification = [2017-10-04, 2017-10-06]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. Selection of best papers published in the Journal of Logic and Algebraic Programming. Warning: deadline 23h59 UTC."

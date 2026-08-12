@@ -1,0 +1,23 @@
+# migrated from data.php line 15613
+edition = 15
+title = "15th ACM/SPEC International Conference on Performance Engineering"
+url = "https://icpe2024.spec.org"
+
+[event]
+start = 2024-05-07
+end = 2024-05-11
+city = "London, England"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references"
+abstract = [2023-10-27, 2023-11-17]
+paper = [2023-11-03, 2023-11-17]
+notification = [2023-12-29, 2024-01-19]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double blind. Several other tracks such as: industry, artifact, data…"

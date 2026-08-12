@@ -1,0 +1,29 @@
+# migrated from data.php line 29835
+edition = 43
+title = "43rd International Symposium on Theoretical Aspects of Computer Science"
+url = "https://stacs2026.imag.fr/"
+
+[event]
+start = 2026-03-10
+end = 2026-03-13
+city = "Grenoble, France"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ title + ref + appendix)"
+paper = [2025-09-25]
+notification = [2025-12-12]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[review]
+blind = "lightweight-double"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2025-11-17
+rebuttal_end = 2025-11-21
+
+[extra]
+notes = "Track A focuses on algorithms, data structures and complexity. Track B focuses on automata, logic, semantics, and theory of programming."

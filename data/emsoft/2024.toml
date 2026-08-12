@@ -1,0 +1,28 @@
+# migrated from data.php line 6378
+edition = 24
+title = "24th International Conference on Embedded Software"
+url = "https://esweek.org/emsoft/"
+
+[event]
+start = 2024-09-29
+end = 2024-10-04
+city = "Raleigh, North Carolina, USA"
+
+[submission]
+tz = "AoE"
+format = "12 pages in IEEE two-column format"
+abstract = [2024-03-24]
+paper = [2024-03-31]
+notification = [2024-07-14]
+
+[proceedings]
+publisher = "ACM/IEEE"
+license = "acm"
+
+[stats]
+accepted = 28
+submitted = 129
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Double blind process. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021-2024)."

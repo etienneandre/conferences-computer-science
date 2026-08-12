@@ -1,0 +1,21 @@
+# migrated from data.php line 29047
+edition = 25
+title = "25th International SPIN Symposium on Model Checking of Software"
+url = "http://spin2018.uma.es/"
+
+[event]
+start = 2018-06-20
+end = 2018-06-22
+city = "Málaga, Spain"
+
+[submission]
+format = "16 pages (technical) / 6 pages (short)"
+paper = [2018-02-18, 2018-02-26, 2018-04-03]
+notification = [2018-04-13, 2018-04-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Collocated with ISSTA 2017. Best Paper awards will be given and announced at the conference. Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."

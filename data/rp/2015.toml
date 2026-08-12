@@ -1,0 +1,21 @@
+# migrated from data.php line 23990
+edition = 9
+title = "9th International workshop on Reachability Problems"
+url = "http://rp2015.mimuw.edu.pl"
+
+[event]
+start = 2015-09-21
+end = 2015-09-23
+city = "Warsaw, Poland"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2015-06-18]
+notification = [2015-07-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Rebuttal: 6 July 2015. Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline). Informal presentations (4 pages) not to appear in the proceedings (deadline: August 4th; notification: August 11th). Selected papers will be invited to the special issue of Information & Computation."

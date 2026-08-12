@@ -1,0 +1,25 @@
+# migrated from data.php line 25061
+edition = 32
+title = "32nd IEEE International Conference on Embedded and Real-Time Computing Systems and Applications"
+url = "https://rtcsa2026.github.io/"
+
+[event]
+start = 2026-08-11
+end = 2026-08-13
+city = "Qingdao, China"
+
+[submission]
+format = "10 pages IEEE 2 columns (full) / 6 pages (short), + 2 pages bibliography"
+abstract = [2026-03-06, 2026-03-25]
+paper = [2026-03-13, 2026-03-25]
+notification = [2026-05-04]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[review]
+blind = "single"
+
+[extra]
+journal = "Selected papers will be invited to submit an extended version to The Journal of Systems Architecture."

@@ -1,0 +1,27 @@
+# migrated from data.php line 24280
+edition = 19
+title = "19th International Conference on Reachability Problems"
+url = "https://rp25.software.imdea.org/"
+
+[event]
+start = 2025-10-01
+end = 2025-10-03
+city = "Madrid, Spain"
+
+[submission]
+tz = "AoE"
+format = "12 pages LNCS (+ ref + appendix)"
+paper = [2025-06-27, 2025-07-04]
+notification = [2025-08-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "male-only"
+artifact = "For papers reporting experimental results, authors are encouraged to make their data available with their submission."
+
+[extra]
+notes = "Also presentation-only contributions."

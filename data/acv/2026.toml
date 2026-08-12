@@ -1,0 +1,24 @@
+# migrated from data.php line 958
+edition = 1
+title = "First Workshop on Abstract and Concrete Techniques in Verification"
+url = "https://acv-ws.github.io/2026/"
+
+[event]
+start = 2026-07-24
+end = 2026-07-25
+city = "Lisbon, Portugal"
+
+[submission]
+format = "1-2 pages"
+paper = [2026-05-06, 2026-05-20]
+notification = [2026-05-31]
+
+[proceedings]
+publisher = "informal"
+
+[review]
+diversity = "mixed"
+
+[extra]
+colocated = "At FLoC 2026, affiliated with LICS 2026 and CAV 2026"
+notes = "Informal presentations, no formal proceedings"

@@ -1,0 +1,21 @@
+# migrated from data.php line 34400
+edition = 11
+title = "11th International Workshop on Web Services and Formal Methods: Formal Aspects of Service-Oriented and Cloud Computing"
+url = "http://wsfm2014.haifa.ac.il/"
+
+[event]
+start = 2014-09-11
+end = 2014-09-12
+city = "Eindhoven, The Netherlands"
+
+[submission]
+format = "15 pages LNCS"
+paper = [2014-06-15]
+notification = [2014-07-09]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Collocated with 11th International Conference on Business Process Management (BPM 2013). Authors of selected papers of WS-FM:FASOCC 2014 will be invited to submit an extended paper for a special issue in Springer’s journal on Formal Aspects of Computing. Relocated from Haifa, Israel to Eindhoven, The Netherlands."

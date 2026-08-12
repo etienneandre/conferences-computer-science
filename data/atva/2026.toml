@@ -1,0 +1,33 @@
+# migrated from data.php line 2744
+edition = 24
+title = "24th International Symposium on Automated Technology for Verification and Analysis"
+url = "https://conf.researchr.org/track/aplas-atva-2026/atva-2026"
+
+[event]
+start = 2026-12-01
+end = 2026-12-05
+city = "Hong Kong, China"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + references (regular) / 10 (tool)"
+abstract = [2026-05-19]
+paper = [2026-05-21]
+notification = [2026-07-23]
+extensions = true  # extended, earlier date unknown
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "double"
+diversity = "male-only"
+rebuttal = true
+rebuttal_start = 2026-07-02
+rebuttal_end = 2026-07-09
+artifact = "Artifact evaluation (optional for regular papers, mandatory for tool)."
+
+[extra]
+colocated = "Colocated with APLAS"
+notes = "Almost always in Asia. Early-rejection notification. Also informal presentations (\"Spotlights of Verification\")."

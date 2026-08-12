@@ -1,0 +1,27 @@
+# migrated from data.php line 11657
+edition = 41
+title = "41st IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "https://www.fsttcs.org.in/2021/"
+
+[event]
+start = 2021-12-15
+end = 2021-12-18
+online = true
+
+[submission]
+tz = "AoE"
+format = "12 pages in LIPIcs (excluding bibliography) + unlimited appendix"
+paper = [2021-07-19]
+notification = [2021-09-20]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 47
+submitted = 122
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Always in India. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016. Rebuttal: August 31st, September 1st 2021."

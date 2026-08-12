@@ -1,0 +1,20 @@
+# migrated from data.php line 18434
+edition = 8
+title = "8th Junior Researcher Workshop on Real-Time Computing"
+url = "http://www.cister.isep.ipp.pt/jrwrtc2014/"
+
+[event]
+start = 2013-10-08
+end = 2013-10-10
+city = "Versailles, France"
+
+[submission]
+format = "4 pages IEEE"
+paper = [2014-08-11]
+notification = [2014-08-25]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012."

@@ -1,0 +1,7 @@
+# BPM — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "BPM"
+name = "Business Process Management Conference"
+
+[core]
+rank = "A"  # TODO: verify

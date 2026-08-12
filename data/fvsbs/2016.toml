@@ -1,0 +1,20 @@
+# migrated from data.php line 12070
+edition = 4
+title = "4th International track on Formal Verification of Service Based Systems"
+url = "https://lipn.univ-paris13.fr/fvsbs2016"
+
+[event]
+start = 2016-06-13
+end = 2016-06-16
+city = "Paris, France"
+
+[submission]
+format = "6 pages IEEE (full) / 4 pages IEEE (short)"
+paper = [2016-02-25]
+notification = [2016-03-28]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Conference Track @ IEEE WETICE 2016."

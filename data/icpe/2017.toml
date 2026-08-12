@@ -1,0 +1,22 @@
+# migrated from data.php line 15460
+edition = 8
+title = "8th ACM/SPEC International Conference on Performance Engineering"
+url = "https://icpe2017.spec.org/"
+
+[event]
+start = 2017-04-22
+end = 2017-04-26
+city = "L’Aquila, Italy"
+
+[submission]
+format = "12 pages ACM (research / industry) / 6 pages (short)"
+abstract = [2016-09-23]
+paper = [2016-09-30]
+notification = [2016-11-18]
+
+[proceedings]
+publisher = "ACM Digital Library"
+license = "acm"
+
+[extra]
+notes = "After the conference, there will be a call for a special issue of a journal."

@@ -1,0 +1,22 @@
+# migrated from data.php line 32538
+edition = 17
+title = "17th EAI International Conference on Performance Evaluation Methodologies and Tools"
+url = "https://valuetools.eai-conferences.org/2024/"
+
+[event]
+start = 2024-12-12
+end = 2024-12-13
+city = "Milan, Italy"
+
+[submission]
+tz = "AoE"
+format = "12-20 pages + references (full) / 10 pages (WiP/tools/visio)"
+paper = [2024-09-15]
+notification = [2024-10-15]
+
+[proceedings]
+publisher = "Springer LNICST series"
+license = "pay-profit"
+
+[extra]
+notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Fast Abstracts will be published as a Technical Report. Note: no edition in 2018."

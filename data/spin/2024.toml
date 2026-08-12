@@ -1,0 +1,23 @@
+# migrated from data.php line 29202
+edition = 30
+title = "30th International SPIN Symposium on Model Checking of Software"
+url = "https://spin-web.github.io/SPIN2024/"
+
+[event]
+start = 2024-04-06
+end = 2024-04-11
+city = "Luxembourg City, Luxembourg"
+
+[submission]
+tz = "AoE"
+format = "16 pages + references (long) / 6 pages (short) + references"
+abstract = [2024-01-15]
+paper = [2024-01-15, 2024-01-22]
+notification = [2024-02-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with ETAPS 2024. Single-blind. Optional artifact evaluation. A Best Paper award will be announced and handed out at the conference. Traditionally, a selection of papers were invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT)."

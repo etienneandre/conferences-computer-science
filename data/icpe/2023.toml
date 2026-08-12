@@ -1,0 +1,23 @@
+# migrated from data.php line 15589
+edition = 14
+title = "14th ACM/SPEC International Conference on Performance Engineering"
+url = "https://icpe2023.spec.org"
+
+[event]
+start = 2023-04-15
+end = 2023-04-19
+city = "Coimbra, Portugal"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references"
+abstract = [2022-10-14]
+paper = [2022-10-21]
+notification = [2022-12-29]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double blind. Also: industry track, artifact track. The highest quality papers, judged by multiple relevant factors, will be recognized with an award. Authors of selected papers will be invited to submit an extended version of their work to a journal."

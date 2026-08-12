@@ -1,0 +1,15 @@
+# RP — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "RP"
+name = "International Conference on Reachability Problems"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "rp"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "66% (16/24 in 2011), 61% (14/23 in 2015), 61% (11/18) in 2016, 71% (12/17) in 2017, 11/21 (52%), 57% (8/14) in 2022, 76% (13/17) in 2023"  # from RP 2026
+extensions = "2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017), 8 days (2018), 10 days (2019), 14 days (2020), 7 days (2021, 2023), 16 days (2022), 28 days (2024), 7 days (2025), 9 days (2026)"  # from RP 2026

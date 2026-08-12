@@ -1,0 +1,20 @@
+# migrated from data.php line 11975
+edition = 8
+title = "8th International Workshop on Formal Techniques for Safety-Critical Systems"
+url = "https://2022.splashcon.org/home/ftscs-2022"
+
+[event]
+start = 2022-12-07
+city = "Auckland, New Zealand"
+
+[submission]
+format = "10 pages ACM (research / applications / surveys), 5 pages ACM (position / tools / work in progress)"
+paper = [2022-09-01, 2022-09-08]
+notification = [2022-10-10]
+
+[proceedings]
+publisher = "ACM Digital Library"
+license = "pay"
+
+[extra]
+notes = "An OOPSLA/SPLASH 2022 workshop. Work in progress will not be published in the post-proceedings."

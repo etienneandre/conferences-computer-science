@@ -1,0 +1,21 @@
+# migrated from data.php line 28790
+edition = 7
+title = "7th International Symposium on Information and Communication Technology"
+url = "http://acm-soict.org/"
+
+[event]
+start = 2016-12-08
+end = 2016-12-09
+city = "Hồ Chí Minh City, Việt Nam"
+
+[submission]
+format = "8 pages ACM"
+paper = [2016-08-14, 2016-08-31]
+notification = [2016-10-05]
+
+[proceedings]
+publisher = "ACM ICPS"
+license = "acm"
+
+[extra]
+notes = "Extended versions of the selected best papers in SoICT 2016 will be invited for submission to a Special Issue of the Memetic Computing (ISI indexed journal, IF 1.0), but will be reviewed again."

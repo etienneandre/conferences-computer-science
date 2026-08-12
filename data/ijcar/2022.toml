@@ -1,0 +1,22 @@
+# migrated from data.php line 17441
+edition = 11
+title = "11th International Joint Conference on Automated Reasoning"
+url = "https://easychair.org/smart-program/IJCAR2022/"
+
+[event]
+start = 2022-08-07
+end = 2022-08-12
+city = "Haifa, Israel"
+
+[submission]
+format = "16 pages + references (full) / 7 pages + references (system descriptions)"
+abstract = [2022-02-11]
+paper = [2022-02-11, 2022-02-18]
+notification = [2022-04-25, 2022-04-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of FLoC 2022. Rebuttal: 20-22 April 2022. Every two years."

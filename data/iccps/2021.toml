@@ -1,0 +1,27 @@
+# migrated from data.php line 14132
+edition = 12
+title = "12th ACM/IEEE International Conference on Cyber-Physical Systems"
+url = "http://iccps.acm.org/2021/"
+
+[event]
+start = 2021-05-19
+end = 2021-05-21
+online = true
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM or IEEE + 2-page appendix"
+paper = [2020-10-26]
+notification = [2020-12-23]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[stats]
+accepted = 20
+submitted = 77
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Light-weight double-blind. Firm deadline (2018-2021). Two tracks: theory and application. Part of Cyber Physical Systems (CPS) Week."

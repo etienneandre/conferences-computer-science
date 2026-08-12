@@ -1,0 +1,23 @@
+# migrated from data.php line 504
+edition = 12
+title = "12th International Conference on Rigorous State Based Methods"
+url = "https://abz-conf.org/site/2025/"
+
+[event]
+start = 2026-05-18
+end = 2026-05-20
+city = "Tokyo, Japan"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (research, case study) / 6 pages (short / work in progress / tool / journal-first) / 8 pages (application in industry)"
+abstract = [2026-02-09]
+paper = [2026-02-16]
+notification = [2026-03-13]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"

@@ -1,0 +1,25 @@
+# migrated from data.php line 7579
+edition = 13
+title = "13th International Conference Formal Aspects of Component Software"
+url = "http://events.femto-st.fr/facs2016/en"
+
+[event]
+start = 2016-10-19
+end = 2016-10-21
+city = "Bensançon, France"
+
+[submission]
+format = "18 pages LNCS format (research / applications / survey) / 6 (tool)"
+abstract = [2016-06-24, 2016-07-04]
+paper = [2016-07-01, 2016-07-11]
+notification = [2016-08-24]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = """
+Also a Doctoral Track, in the form of abstracts (3 pages max). The authors of a selected subset of accepted papers will be invited to
+submit extended versions of their papers to a special issue of the
+Science of Computer Programming journal."""

@@ -1,0 +1,23 @@
+# migrated from data.php line 26258
+edition = 26
+title = "26th International Conference on Runtime Verification"
+url = "https://rv2026.smithengineering.queensu.ca/"
+
+[event]
+start = 2026-10-06
+end = 2026-10-09
+city = "Kingston, Canada"
+
+[submission]
+tz = "AoE"
+format = "regular (16 pages LNCS + references) / short / tool demonstration / benchmarks (8 pages)"
+paper = [2026-05-31, 2026-06-14]
+notification = [2026-07-16, 2026-07-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+award = "Springer-sponsored Best Paper Award to one eligible regular paper and a Formal Methods Europe-sponsored Best Tool Award to one eligible tool demonstration paper."

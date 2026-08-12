@@ -1,0 +1,23 @@
+# migrated from data.php line 5592
+edition = 22
+title = "Design Automation and Test in Europe Conference"
+url = "http://www.date-conference.com/"
+
+[event]
+start = 2019-03-25
+end = 2019-03-29
+city = "Florence, Italy"
+
+[submission]
+tz = "CET"
+format = "6 pages IEEE"
+abstract = [2018-09-09]
+paper = [2018-09-16]
+notification = [2018-11-08]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind submissions. 4 tracks, 28 topics. WARNING: deadline CET!"

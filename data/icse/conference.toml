@@ -1,0 +1,16 @@
+# ICSE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICSE"
+name = "International Conference on Software Engineering"
+
+[core]
+id = "1209"
+rank = "A*"  # TODO: verify
+
+[links]
+dblp = "icse"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "18.5% (85/461) in 2013"  # from ICSE 2027
+extensions = "Firm (…-2026-2027)"  # from ICSE 2027

@@ -1,0 +1,21 @@
+# migrated from data.php line 6805
+edition = 27
+title = "27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019)"
+url = "https://esec-fse19.ut.ee/"
+
+[event]
+start = 2019-08-26
+end = 2019-08-30
+city = "Tallinn, Estonia"
+
+[submission]
+format = "10 ACM SIG (+ 2 pages references)"
+paper = [2019-02-20]
+notification = [2019-05-27]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Open science policy. Double-blind. Also tutorials, doctoral symposium, tool demos and others. Author response period: April 26 — 29, 2019."

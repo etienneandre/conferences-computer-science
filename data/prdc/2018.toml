@@ -1,0 +1,22 @@
+# migrated from data.php line 23115
+edition = 23
+title = "23rd IEEE Pacific Rim International Symposium on Dependable Computing"
+url = "http://prdc.dependability.org/PRDC2018/"
+
+[event]
+start = 2018-12-04
+end = 2018-12-07
+city = "Taipei, Taiwan"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) / 6 pages (practical experience reports)"
+paper = [2018-06-01, 2018-06-30, 2018-07-15]
+notification = [2018-08-15, 2018-08-31]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."

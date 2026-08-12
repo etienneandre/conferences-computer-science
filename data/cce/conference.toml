@@ -1,0 +1,11 @@
+# CCE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CCE"
+name = "Complex Computational Ecosystems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "cce2"

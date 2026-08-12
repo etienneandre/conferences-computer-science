@@ -1,0 +1,23 @@
+# migrated from data.php line 19601
+edition = 32
+title = "32nd International Symposium on Logic-Based Program Synthesis and Transformation"
+url = "http://lopstr2022.webs.upv.es/"
+
+[event]
+start = 2022-09-21
+end = 2022-09-23
+city = "Tbilisi, Georgia"
+
+[submission]
+tz = "AoE"
+format = "15 pages Springer + references + appendix / 8 pages + references (extended abstract)"
+abstract = [2022-05-02]
+paper = [2022-05-09]
+notification = [2022-06-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "co-located with PPDP 2022 as part of CLAS 2022. A best paper award will be granted, which will include a 1000€ prize provided by Springer. After the symposium, a selection of the best papers will be invited for submission to a special issue of the Fundamenta Informaticae journal ."

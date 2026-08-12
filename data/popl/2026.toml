@@ -1,0 +1,28 @@
+# migrated from data.php line 22934
+edition = 53
+title = "53rd ACM SIGPLAN Symposium on Principles of Programming Languages"
+url = "https://popl26.sigplan.org/"
+
+[event]
+start = 2026-01-11
+end = 2026-01-17
+city = "Rennes, Bretagne, France"
+
+[submission]
+tz = "AoE"
+format = "25 pages PACMPL + references"
+abstract = [2025-07-10]
+paper = [2025-07-10]
+notification = [2025-10-02]
+
+[proceedings]
+publisher = "PACMPL"
+license = "cc-by"
+
+[review]
+blind = "double"
+artifact = "Authors of conditionally accepted papers will be invited to formally submit supporting materials to the Artifact Evaluation process."
+award = "At most 10% of the accepted papers of POPL 2026 will be designated as Distinguished Papers."
+
+[extra]
+notes = "While PACMPL may ask authors who have funding for open-access fees to voluntarily cover the article processing charge, payment is not required for publication."

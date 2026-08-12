@@ -1,0 +1,23 @@
+# migrated from data.php line 11103
+edition = 5
+title = "5th International Conference Formal Structures for Computation and Deduction"
+url = "http://fscd2020.org/"
+
+[event]
+start = 2020-06-29
+end = 2020-07-05
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs + references"
+abstract = [2020-02-06]
+paper = [2020-02-09]
+notification = [2020-04-13]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Authors of selected papers will be invited to submit an extended version to a special issue of Logical Methods in Computer Science. Rebuttal: March 27-29, 2020. Part of <a href=\"https://lipn.univ-paris13.fr/summer-of-love-2020/\">Paris Nord Summer of LoVe 2020</a>"

@@ -1,0 +1,27 @@
+# migrated from data.php line 33101
+edition = 18
+title = "18th International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "http://conf.researchr.org/home/VMCAI-2017"
+
+[event]
+start = 2017-01-15
+end = 2017-01-17
+city = "Paris, France"
+
+[submission]
+format = "17 pages LNCS + references + appendix"
+abstract = [2016-09-18, 2016-09-25]
+paper = [2016-09-21, 2016-09-28]
+notification = [2016-11-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 27
+submitted = 60
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Sponsor travel and other costs for students to attend VMCAI"

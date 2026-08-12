@@ -1,0 +1,28 @@
+# migrated from data.php line 23320
+edition = 30
+title = "30th IEEE Pacific Rim International Symposium on Dependable Computing"
+url = "https://prdc.dependability.org/PRDC2025/"
+
+[event]
+start = 2025-11-03
+end = 2025-11-05
+city = "Seoul, Korea"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) / 6 pages (practical experience reports), excluding references"
+abstract = [2025-07-11]
+paper = [2025-07-25]
+notification = [2025-08-22]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+award = "One outstanding paper will be selected to receive the Best Paper Award, and one outstanding paper first-authored by a student will receive the Best Student Paper Award."
+
+[extra]
+journal = "A few excellent papers will be recommended to have their extended versions submitted to an international journal. The name of the Journal will be announced later."
+notes = "Also featuring: fast abstract, industry track, poster (different deadlines)."

@@ -1,0 +1,14 @@
+# FormaliSE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FormaliSE"
+name = "International Conference on Formal Methods in Software Engineering"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "icse-formalise"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "1 week (2014, 2016, 2017, 2019, 2020, 2022), 11 days (2023), 7 days (2025), 14 days (2026)"  # from FormaliSE 2026

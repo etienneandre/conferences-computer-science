@@ -1,0 +1,15 @@
+# SBMF — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SBMF"
+name = "Brazilian Symposium on Formal Methods"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "sbmf"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "48% (14/29) in 2013; 38% (13/34) in 2014; 44% (11/25) in 2015; 55% (12/22) in 2016, 57% (8/14) in 2022, 56% (7+2 / 12+4) in 2023"  # from SBMF 2026
+extensions = "15+1 days (2016), 12 days (2017), 7 days (2018), ??? (2019), 14 days (2023), 44 days (2024), 7 days (2025)"  # from SBMF 2026

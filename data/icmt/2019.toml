@@ -1,0 +1,22 @@
+# migrated from data.php line 15205
+edition = 12
+title = "12th International Conference on Model Transformation"
+url = "http://www.model-transformation.org/"
+
+[event]
+start = 2019-07-15
+end = 2019-07-19
+city = "Eindhoven, The Netherlands"
+
+[submission]
+format = "15 pages LNCS (research/applications) / 5 pages (short) / 7 pages (tool demo)"
+abstract = [2019-03-08]
+paper = [2019-03-15]
+notification = [2019-04-19]
+
+[proceedings]
+publisher = "The Journal of Object Technology"
+license = "free-copy"
+
+[extra]
+notes = "Co-located with Software Technologies: Applications and Foundations (STAF) 2019. A special issue with an extended version of the best papers from the conference will be published in the journal Science of Computer Programming (Elsevier). Merged into ECMFA from 2020 onwards."

@@ -1,0 +1,22 @@
+# migrated from data.php line 30506
+edition = 34
+title = "34th International Conference on Automated Reasoning with Analytic Tableaux and Related Methods"
+url = "https://icetcs.github.io/frocos-itp-tableaux25/tableaux/"
+
+[event]
+start = 2025-09-27
+end = 2025-10-03
+city = "Reykjavik, Iceland"
+
+[submission]
+format = "15 pages LNCS + references (research) / 9 pages + references (system descriptions, user experiences, case studies and domain models)"
+abstract = [2025-05-09]
+paper = [2025-05-14, 2025-05-18]
+notification = [2025-06-30]
+
+[proceedings]
+publisher = "Springer LNAI/LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of FroCoS/ITP/TABLEAUX’25."

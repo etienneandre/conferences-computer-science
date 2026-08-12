@@ -1,0 +1,21 @@
+# migrated from data.php line 7289
+edition = 23
+title = "23rd European MPI Users’ Group Meeting"
+url = "http://www.eurompi2016.ed.ac.uk/"
+
+[event]
+start = 2016-09-25
+end = 2016-09-28
+city = "Edinburgh, Scotland"
+
+[submission]
+format = "> 5 pages ACM ICPS (long), ≤ 4 pages (short)"
+paper = [2016-05-01, 2016-05-15]
+notification = [2016-06-22]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "In-cooperation status with ACM and SIGHPC. Warning: notification date extended after submission, and without notice (2014). The best papers of the conference will be considered for inclusion in a special issue of Parallel Computing."

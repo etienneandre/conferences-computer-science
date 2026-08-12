@@ -1,0 +1,21 @@
+# migrated from data.php line 30179
+edition = 3
+title = "3rd Workshop on Synthesis"
+url = "http://vsl2014.at/synt"
+
+[event]
+start = 2014-07-23
+end = 2014-07-24
+city = "Vienna, Austria"
+
+[submission]
+format = "15 pages EPTCS (regular) / 7 pages (tool papers)"
+paper = [2014-04-25]
+notification = [2014-06-03]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "References beyond page limit. Satellite event of CAV 2014. Given sufficient interest, extended versions of selected papers will appear in a special issue of the journal Acta Informatica."

@@ -1,0 +1,20 @@
+# migrated from data.php line 18481
+edition = 10
+title = "10th Junior Researcher Workshop on Real-Time Computing"
+url = "http://jrwrtc2016.gforge.inria.fr"
+
+[event]
+start = 2016-10-19
+end = 2016-10-21
+city = "Brest, France"
+
+[submission]
+format = "4 pages IEEE"
+paper = [2016-09-14, 2016-09-20]
+notification = [2016-09-21, 2016-09-27]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "In conjunction with RTNS 2015. Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012, 1 week in 2015, 6 days in 2016 (including notification deadline)."

@@ -1,0 +1,20 @@
+# migrated from data.php line 34013
+edition = 15
+title = "15th International Workshop on Worst-Case Execution Time Analysis"
+url = "http://www.bsc.es/caos/wcet2015"
+
+[event]
+start = 2015-07-07
+city = "Lund, Sweden"
+
+[submission]
+format = "10 pages OASIcs"
+paper = [2015-04-24]
+notification = [2015-05-22]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with ECRTS. Firm deadline."

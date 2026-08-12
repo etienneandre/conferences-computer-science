@@ -1,0 +1,22 @@
+# migrated from data.php line 34684
+edition = 24
+title = "24th International World Wide Web Conference"
+url = "http://www.www2015.it/"
+
+[event]
+start = 2015-05-18
+end = 2015-05-22
+city = "Florence, Italy"
+
+[submission]
+format = "10 pages ACM SIG 2 columns (+ references)"
+abstract = [2014-11-03]
+paper = [2014-11-10]
+notification = [2015-01-17]
+
+[proceedings]
+publisher = "ACM Digital Library + conference Web site"
+license = "free-copy"
+
+[extra]
+notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…). Deadlines all Hawaii Standard Time."

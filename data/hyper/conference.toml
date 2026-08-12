@@ -1,0 +1,7 @@
+# HYPER — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "HYPER"
+name = "Workshop on Hyperproperties: Advances in Theory and Applications"
+
+[core]
+rank = "absent"  # TODO: verify

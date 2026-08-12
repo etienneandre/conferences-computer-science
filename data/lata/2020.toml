@@ -1,0 +1,22 @@
+# migrated from data.php line 19019
+edition = 14
+title = "14th international conference on language and automata theory and applications"
+url = "http://lata2020.irdta.eu/"
+
+[event]
+start = 2020-03-02
+end = 2020-03-06
+city = "Milan, Italy"
+
+[submission]
+tz = "CET"
+format = "12 pages Springer (including appendix+ref)"
+paper = [2019-10-18]
+notification = [2019-11-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A special issue of a journal will be later published containing peer-reviewed substantially extended versions of some of the papers contributed to the conference."

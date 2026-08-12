@@ -1,0 +1,16 @@
+# CSL — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CSL"
+name = "International Conference on Computer Science Logic"
+
+[core]
+id = "1995"
+rank = "B"  # TODO: verify
+
+[links]
+dblp = "csl"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "41% (34/82) in 2021, 46% (35/75) in 2022, 45% (34/75) in 2023, 49% (46/82) in 2024, 37% (43/115) in 2026"  # from CSL 2027
+extensions = "7 days (2021), firm (2022, 2026-2027)"  # from CSL 2027

@@ -1,0 +1,22 @@
+# migrated from data.php line 30535
+edition = 21
+title = "21st International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "http://www.etaps.org/2015"
+
+[event]
+start = 2015-04-11
+end = 2015-04-18
+city = "London, UK"
+
+[submission]
+format = "15 pages LNCS (regular / regular tool / case study) / 4+6 pages (tool demo)"
+abstract = [2014-10-10]
+paper = [2014-10-17]
+notification = [2014-12-19]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc."

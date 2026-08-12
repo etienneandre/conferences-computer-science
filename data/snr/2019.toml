@@ -1,0 +1,20 @@
+# migrated from data.php line 28649
+edition = 5
+title = "5th International Workshop on Symbolic-Numeric methods for Reasoning about CPS and IoT"
+url = "http://snr19.ncl.ac.uk"
+
+[event]
+start = 2019-04-15
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "original contributions AM / short research papers (3 pages) and / work-in-progress papers (3 pages)"
+paper = [2019-01-26]
+notification = [2019-02-08]
+
+[proceedings]
+publisher = "ACM / IEEE explore"
+license = "pay"
+
+[extra]
+notes = "co-located with CPS-IoT Week."

@@ -1,0 +1,20 @@
+# migrated from data.php line 21921
+edition = 1
+title = "Petri Net games, examples and quizzes for education, contest and fun"
+url = "https://www.fernuni-hagen.de/penge/penge2025/"
+
+[event]
+start = 2025-06-24
+city = "Paris, France"
+
+[submission]
+format = "4-8 pages CEUR"
+paper = [2025-04-29, 2025-05-13]
+notification = [2025-05-13, 2025-05-19]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[extra]
+notes = "Satellite event of Petri Nets 2025. Online workshop proceedings. Very good contributions can be nominated for a volume of the journal sub-line of LNCS entitled \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."

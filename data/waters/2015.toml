@@ -1,0 +1,19 @@
+# migrated from data.php line 33861
+edition = 6
+title = "6th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems"
+url = "http://waters2015.inria.fr"
+
+[event]
+start = 2015-07-07
+city = "Lund, Sweden"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2015-04-24]
+notification = [2015-05-22]
+
+[proceedings]
+publisher = "No formal proceedings?"
+
+[extra]
+notes = "Colocated with ECRTS. Best papers will be invited in a special issue of the Elsevier Journal of Systems Architecture."

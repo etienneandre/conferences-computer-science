@@ -1,0 +1,23 @@
+# migrated from data.php line 5973
+edition = 29
+title = "29th Euromicro Conference on Real-Time Systems"
+url = "http://ecrts17.ecrts.org"
+
+[event]
+start = 2017-06-27
+end = 2017-06-30
+city = "Dubrovnik, Croatia"
+
+[submission]
+format = "20 pages (excluding bibliography and appendix)"
+paper = [2017-01-30]
+notification = [2017-03-24]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = """
+No deadline extension for any reason. A selection of the best papers will receive outstanding paper
+awards, and will be highlighted as such in the conference proceedings. These papers will form the shortlist for a best paper award, which will be presented at the conference. ECRTS 2016 aims at being more inclusive (more papers) than past years."""

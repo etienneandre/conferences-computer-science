@@ -1,0 +1,21 @@
+# migrated from data.php line 34451
+edition = 15
+title = "15th International Workshop on Termination"
+url = "http://cl-informatik.uibk.ac.at/events/wst-2016/"
+
+[event]
+start = 2016-09-05
+end = 2016-09-07
+city = "Obergurgl, Austria"
+
+[submission]
+format = "5 pages LIPIcs"
+paper = [2016-06-22]
+notification = [2016-07-12]
+
+[proceedings]
+publisher = "Web page"
+license = "free"
+
+[extra]
+notes = "Informal proceedings (earlier / concurrent / later submission allowed). Live complexity and termination competition during the workshop. Every one or two years."

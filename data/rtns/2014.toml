@@ -1,0 +1,26 @@
+# migrated from data.php line 25161
+edition = 22
+title = "22nd International Conference on Real-Time Networks and Systems"
+url = "http://www-rtns2014.cea.fr/"
+
+[event]
+start = 2014-10-08
+end = 2014-10-10
+city = "Versailles, France"
+
+[submission]
+format = "10 pages ACM 2 columns"
+paper = [2014-06-28]
+notification = [2014-08-05]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[stats]
+accepted = 32
+submitted = 63
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "The submission deadline has been set as late as possible and will not be extended."

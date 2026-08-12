@@ -1,0 +1,22 @@
+# migrated from data.php line 29412
+edition = 27
+title = "27th ACM International Systems and Software Product Line Conference"
+url = "https://2023.splc.net/"
+
+[event]
+start = 2023-08-29
+end = 2023-09-01
+city = "Tokyo, Japan"
+
+[submission]
+format = "10 pages ACM + 2 pages references (full) / 5+2 pages (short)"
+abstract = [2023-04-13]
+paper = [2023-04-20]
+notification = [2023-05-30]
+
+[proceedings]
+publisher = "ACM digital library"
+license = "acm"
+
+[extra]
+notes = "There will be two best paper awards. Optional artifact evaluation. Also journal-first, demo papers, doctoral symposium…."

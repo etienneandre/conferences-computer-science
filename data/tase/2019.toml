@@ -1,0 +1,26 @@
+# migrated from data.php line 31412
+edition = 13
+title = "13th International Symposium on Theoretical Aspects of Software Engineering"
+url = "http://www.se.gxnu.edu.cn/tase2019/"
+
+[event]
+start = 2019-07-29
+end = 2019-07-31
+city = "Guilin, China"
+
+[submission]
+format = "8 pages IEEE"
+abstract = [2019-01-04, 2019-01-18]
+paper = [2019-01-11, 2019-01-25, 2019-01-28]
+notification = [2019-03-22]
+
+[proceedings]
+publisher = "IEEE Computer Society Press"
+license = "pay"
+
+[stats]
+rate = 36.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Optional abstract submission deadline. The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Often in China."

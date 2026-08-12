@@ -1,0 +1,21 @@
+# migrated from data.php line 11558
+edition = 37
+title = "37th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "http://www.fsttcs.org/"
+
+[event]
+start = 2017-12-11
+end = 2017-12-15
+city = "Kanpur, India"
+
+[submission]
+format = "12 pages in LIPIcs (including bibliography) + unlimited appendix"
+paper = [2017-07-24, 2017-07-31]
+notification = [2017-09-18, 2017-09-22]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Always in India. Published in CC-BY in Leibniz International Proceedings in Informatics (LIPIcs) as a free, open, electronic archive with access to all. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."

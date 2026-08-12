@@ -1,0 +1,22 @@
+# migrated from data.php line 7960
+edition = 27
+title = "27th International Conference on Fundamental Approaches to Software Engineering"
+url = "https://etaps.org/2024/fase"
+
+[event]
+start = 2024-04-08
+end = 2024-04-11
+city = "Luxembourg City, Luxembourg"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography (research / empirical evaluation) / 8 pages (new ideas and emerging results) / 6+6 pages (tool)"
+paper = [2023-10-12]
+notification = [2023-12-21]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of ETAPS 2024."

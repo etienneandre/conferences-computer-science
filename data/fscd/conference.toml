@@ -1,0 +1,24 @@
+# FSCD — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FSCD"
+name = "International Conference on Formal Structures for Computation and Deduction"
+
+[core]
+id = "2290"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2020
+rank = "A"
+
+[[core.history]]
+from = 2026
+rank = "B"
+
+[links]
+dblp = "fscd"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "5 days (2025)"  # from FSCD 2026

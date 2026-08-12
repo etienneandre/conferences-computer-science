@@ -1,0 +1,21 @@
+# migrated from data.php line 18216
+edition = 31
+title = "31st International Symposium on Software Testing and Analysis"
+url = "https://conf.researchr.org/home/issta-2022"
+
+[event]
+start = 2022-07-18
+end = 2022-07-22
+city = "Daejeon, South Korea"
+
+[submission]
+format = "10 pages ACM (+ 2 pages references)"
+paper = [2022-01-28]
+notification = [2022-04-11]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double blind. Author Response Period (23-25 March 2022)."

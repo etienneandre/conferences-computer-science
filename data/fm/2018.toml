@@ -1,0 +1,27 @@
+# migrated from data.php line 8398
+edition = 22
+title = "22nd International Symposium on Formal Methods"
+url = "http://www.fm2018.org/"
+
+[event]
+start = 2018-07-15
+end = 2018-07-17
+city = "Oxford, UK"
+
+[submission]
+format = "Springer 15 pages (regular) / 6 pages (short / tool)"
+abstract = [2018-01-08]
+paper = [2018-01-22]
+notification = [2018-04-09]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 35
+submitted = 110
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Part of FLoC 2018. Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014). During the conference, the Programme Committee Chairs will present an award to the authors of the submission selected as the FM 2018 Best Paper. Extended versions of selected papers will be invited for publication in a special issue of one or more journals."

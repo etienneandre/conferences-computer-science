@@ -1,0 +1,20 @@
+# migrated from data.php line 30271
+edition = 7
+title = "7th Workshop on Synthesis"
+url = "http://synt2018.seas.ucla.edu/"
+
+[event]
+start = 2018-07-18
+city = "Oxford, England"
+
+[submission]
+format = "15 pages EPTCS + references (long) / 7 pages + references (tool)"
+paper = [2018-05-01]
+notification = [2018-05-08]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite event of FLoC. Extended versions of a selection of accepted submissions will form the basis of a special issue of Acta Informatica, to be published after the workshop."

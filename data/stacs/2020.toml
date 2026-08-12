@@ -1,0 +1,22 @@
+# migrated from data.php line 29649
+edition = 37
+title = "37th International Symposium on Theoretical Aspects of Computer Science"
+url = "https://stacs2020.sciencesconf.org/"
+
+[event]
+start = 2020-03-10
+end = 2020-03-13
+city = "Montpellier, France"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ ref + appendix)"
+paper = [2019-09-30]
+notification = [2019-12-20]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[extra]
+notes = "Rebuttal period: Nov 26-29, 2019. PC members are excluded from submitting."

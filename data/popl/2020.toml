@@ -1,0 +1,21 @@
+# migrated from data.php line 22819
+edition = 47
+title = "47th ACM SIGPLAN Symposium on Principles of Programming Languages"
+url = "https://popl20.sigplan.org"
+
+[event]
+start = 2020-01-19
+end = 2020-01-25
+city = "New Orleans, Louisiana, United States"
+
+[submission]
+format = "25 pages new ACM format + references"
+paper = [2019-07-10]
+notification = [2019-10-14]
+
+[proceedings]
+publisher = "PACMPL"
+license = "cc-by"
+
+[extra]
+notes = "Rebuttal: 16-19 September. Double blind submission. Authors are asked (but not required) to pay US$400 for journal open-access publication. At most 10% of the accepted papers of POPL 2020 will be designated as Distinguished Papers"

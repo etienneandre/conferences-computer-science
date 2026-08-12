@@ -1,0 +1,26 @@
+# migrated from data.php line 29526
+edition = 32
+title = "32nd Symposium on Theoretical Aspects of Computer Science"
+url = "http://www14.in.tum.de/STACS2015"
+
+[event]
+start = 2015-03-04
+end = 2015-03-07
+city = "Garching bei München, Germany"
+
+[submission]
+format = "12 pages LIPIcs (+ref)"
+paper = [2014-09-21]
+notification = [2014-12-05]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[stats]
+accepted = 55
+submitted = 235
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Rebuttal period: Nov 15 - 17, 2014"

@@ -1,0 +1,21 @@
+# migrated from data.php line 5929
+edition = 27
+title = "27th Euromicro Conference on Real-Time Systems"
+url = "http://ecrts15.ecrts.org"
+
+[event]
+start = 2015-07-08
+end = 2015-07-10
+city = "Lund, Sweden"
+
+[submission]
+format = "10 pages IEE 2 columns (+ 2 pages appendix)"
+paper = [2015-02-01]
+notification = [2015-03-27]
+
+[proceedings]
+publisher = "IEEE ?"
+license = "pay"
+
+[extra]
+notes = "No deadline extension for any reason. ECRTS 2015 aims at being more inclusive (more papers) than past years. Notification date not announced."

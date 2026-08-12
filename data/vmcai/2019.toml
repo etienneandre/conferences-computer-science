@@ -1,0 +1,22 @@
+# migrated from data.php line 33155
+edition = 20
+title = "20th International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://popl19.sigplan.org/track/VMCAI-2019"
+
+[event]
+start = 2019-01-13
+end = 2019-01-15
+city = "Lisbon, Portugal"
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix"
+paper = [2018-10-04, 2018-10-14]
+notification = [2018-11-15, 2018-11-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with POPL. Sponsor travel and other costs for students to attend VMCAI."

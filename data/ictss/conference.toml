@@ -1,0 +1,11 @@
+# ICTSS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICTSS"
+name = "International Conference on Testing Software and Systems"
+
+[core]
+id = "2285"
+rank = "C"  # TODO: verify
+
+[links]
+dblp = "pts"

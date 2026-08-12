@@ -1,0 +1,21 @@
+# migrated from data.php line 15306
+edition = 16
+title = "16th International Conference On Smart homes and health Telematics"
+url = "http://www.icostconference.org/"
+
+[event]
+start = 2018-07-09
+end = 2018-07-11
+city = "Singapore"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2018-03-01, 2018-03-16, 2018-03-30]
+notification = [2018-04-02, 2018-04-16]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The theme chosen for 2018 will focus on Urban Living Environment and inclusion of frail people in our societies. Warning: double blind submission! Abstract not required."

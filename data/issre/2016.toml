@@ -1,0 +1,22 @@
+# migrated from data.php line 17839
+edition = 27
+title = "27th IEEE International Symposium on Software Reliability Engineering"
+url = "http://issre.net/"
+
+[event]
+start = 2016-10-23
+end = 2016-10-27
+city = "Ottawa, Canada"
+
+[submission]
+format = "10 pages IEEE + 2 appendix/ref (research / experience reports) / 6 pages (wild and provocative ideas)"
+abstract = [2016-05-06]
+paper = [2016-05-13]
+notification = [2016-07-20]
+
+[proceedings]
+publisher = "IEEE (?)"
+license = "pay"
+
+[extra]
+notes = "Authors will have a chance to rebut the reviews within 800 words over the period of July 10th to July 12th."

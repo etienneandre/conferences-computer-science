@@ -1,0 +1,22 @@
+# migrated from data.php line 1376
+edition = 24
+title = "24e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "https://gdrgpl2025.sciencesconf.org/resource/page/id/1"
+
+[event]
+start = 2025-06-17
+end = 2025-06-18
+city = "Pau, France"
+
+[submission]
+format = "8 pages (original) / 4 pages (PhD) / 4 pages (tools) / 4 pages (projects) / 4 pages (long abstract)"
+abstract = [2025-03-31, 2025-04-14]
+paper = [2025-04-07, 2025-04-14]
+notification = [2025-05-20]
+
+[proceedings]
+publisher = "arXiv"
+license = "free"
+
+[extra]
+notes = "In French."

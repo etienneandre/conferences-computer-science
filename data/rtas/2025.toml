@@ -1,0 +1,32 @@
+# migrated from data.php line 24733
+edition = 31
+title = "31st IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "https://2025.rtas.org/"
+
+[event]
+start = 2025-05-06
+end = 2025-05-09
+city = "Irvine, USA"
+
+[submission]
+tz = "UTC-12"
+format = "11 pages IEEE 2 columns (+ references)"
+paper = [2024-11-14]
+notification = [2025-01-23]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2025-01-08
+rebuttal_end = 2025-01-12
+artifact = "There will be an optional artifact evaluation process for accepted papers that assesses the reproducibility of the work."
+award = "Best paper, best student paper, best reviewer."
+
+[extra]
+colocated = "Part of CPS-IoT Week."
+notes = "Two tracks (Systems and Applications / Applied Methodologies and Foundations)."

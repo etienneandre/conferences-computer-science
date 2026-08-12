@@ -1,0 +1,26 @@
+# migrated from data.php line 6086
+edition = 37
+title = "37th Euromicro Conference on Real-Time Systems"
+url = "https://www.ecrts.org/"
+
+[event]
+start = 2025-07-08
+end = 2025-07-11
+city = "Bruxelles, Belgium"
+
+[submission]
+tz = "AoE"
+format = "20 pages LIPIcs (+ references)"
+paper = [2025-02-28]
+notification = [2025-04-21]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "double"
+artifact = "To improve the results’ reproducibility and encourage reuse, authors of accepted papers with a computational component will be invited to submit their code and/or their data to an optional artifact evaluation process."
+
+[extra]
+notes = "Shadow TPC evaluation process."

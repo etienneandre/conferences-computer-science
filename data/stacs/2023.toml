@@ -1,0 +1,22 @@
+# migrated from data.php line 29715
+edition = 40
+title = "40th International Symposium on Theoretical Aspects of Computer Science"
+url = "https://www.univ-orleans.fr/lifo/stacs/"
+
+[event]
+start = 2023-03-07
+end = 2023-03-10
+city = "Hamburg, Germany"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ ref + appendix)"
+paper = [2022-09-25]
+notification = [2022-12-04]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[extra]
+notes = "Double-blind. Rebuttal period: 14-16 November 2022. PC members are excluded from submitting."

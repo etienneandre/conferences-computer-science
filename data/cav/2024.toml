@@ -1,0 +1,22 @@
+# migrated from data.php line 3401
+edition = 36
+title = "36th International Conference on Computer Aided Verification"
+url = "http://i-cav.org/2024/call-for-papers/"
+
+[event]
+start = 2024-07-24
+end = 2024-07-27
+city = "Montreal, Québec, Canada"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + ref + appendix (regular) / 10 pages LNCS + ref + appendix (tool/industry)"
+paper = [2024-01-19, 2024-01-26]
+notification = [2024-03-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Firm deadline but one week to edit papers. Double-blind submissions. Open access since 2018. Rebuttal period (29 Feb-3 March 2024). Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

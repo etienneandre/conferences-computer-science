@@ -1,0 +1,21 @@
+# migrated from data.php line 28743
+edition = 1
+title = "First International Conference on Advances and Trends in Software Engineering"
+url = "http://www.iaria.org/conferences2015/SOFTENG15.html"
+
+[event]
+start = 2015-04-19
+end = 2015-04-24
+city = "Barcelona, Spain"
+
+[submission]
+format = "6 pages (regular) / 4 pages (short) / 2 pages (ideas)"
+paper = [2014-12-30]
+notification = [2015-02-01]
+
+[proceedings]
+publisher = "ThinkMind"
+license = "free"
+
+[extra]
+notes = "More paper categories (poster, extended abstracts, presentations, demos, doctoral forum…). Deadline extended by 38 days."

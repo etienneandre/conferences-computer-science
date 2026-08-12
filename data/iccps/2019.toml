@@ -1,0 +1,21 @@
+# migrated from data.php line 14086
+edition = 10
+title = "10th ACM/IEEE International Conference on Cyber-Physical Systems"
+url = "http://iccps.acm.org/2019/"
+
+[event]
+start = 2019-04-16
+end = 2019-04-18
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "10 pages ACM or IEEE + 2-page appendix"
+paper = [2018-10-17]
+notification = [2018-12-28]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Firm deadline. Two tracks: theory and application. Part of Cyber Physical Systems (CPS) Week."

@@ -1,0 +1,27 @@
+# migrated from data.php line 24218
+edition = 17
+title = "17th International Conference on Reachability Problems"
+url = "https://www.lix.polytechnique.fr/RP2023"
+
+[event]
+start = 2023-10-11
+end = 2023-10-13
+city = "Nice, France"
+
+[submission]
+format = "12 pages LNCS (+ ref + appendix)"
+abstract = [2023-06-19, 2023-07-04]
+paper = [2022-06-26, 2023-07-04]
+notification = [2023-08-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 13
+submitted = 17
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017), 8 days (2018), 10 days (2019), 14 days (2020), 7 days (2021, 2023), 16 days (2022). A selection of up to five articles among the contributed papers will be invited to a special issue of a journal."

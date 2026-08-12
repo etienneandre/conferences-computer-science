@@ -1,0 +1,23 @@
+# migrated from data.php line 132
+edition = 18
+title = "18th International Conference on Autonomous Agents and Multiagent Systems"
+url = "http://aamas2019.encs.concordia.ca/"
+
+[event]
+start = 2019-05-15
+end = 2019-05-17
+city = "Montréal, Québec, Canada"
+
+[submission]
+tz = "AoE"
+format = "8 pages (+ references)"
+abstract = [2018-11-12]
+paper = [2018-11-16]
+notification = [2019-01-22]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. Rebuttal phase: January 8-9, 2019. All deadlines UTC-12."

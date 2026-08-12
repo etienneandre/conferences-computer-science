@@ -1,0 +1,21 @@
+# migrated from data.php line 33435
+edition = 5
+title = "Fifth International Workshop on Verification and Program Transformation"
+url = "http://refal.botik.ru/vpt/vpt2017"
+
+[event]
+start = 2017-04-29
+city = "Uppsala, Sweden"
+
+[submission]
+format = "15 pages EPTCS"
+abstract = [2017-01-31, 2017-02-10]
+paper = [2017-02-06, 2017-02-16]
+notification = [2017-03-08]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite of ETAPS 2017."

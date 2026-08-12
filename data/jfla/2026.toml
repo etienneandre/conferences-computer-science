@@ -1,0 +1,26 @@
+# migrated from data.php line 18392
+edition = 37
+title = "37e Journées Francophones des Langages Applicatifs"
+url = "http://jfla.inria.fr/jfla2026.html"
+
+[event]
+start = 2026-01-27
+end = 2026-01-30
+city = "Oberbronn, France"
+
+[submission]
+tz = "GMT"
+format = "18 pages LaTeX jflart (research) + references / 9 pages (short). No appendix"
+paper = [2025-10-16]
+notification = [2025-12-02]
+
+[proceedings]
+publisher = "HAL"
+license = "free"
+
+[review]
+blind = "single"
+diversity = "mixed"
+
+[extra]
+notes = "Papers can be written in English, but the presentations themselves are expected to be given in French."

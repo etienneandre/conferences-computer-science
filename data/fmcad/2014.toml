@@ -1,0 +1,22 @@
+# migrated from data.php line 8629
+edition = 14
+title = "14th International Conference on Formal Methods in Computer-Aided Design"
+url = "http://www.fmcad.org/FMCAD14"
+
+[event]
+start = 2014-10-21
+end = 2014-10-24
+city = "Lausanne, Switzerland"
+
+[submission]
+format = "8 pages IEEE (regular) / 4 pages (short)"
+abstract = [2014-05-06]
+paper = [2014-05-16]
+notification = [2014-07-25]
+
+[proceedings]
+publisher = "ACM/IEEE"
+license = "pay"
+
+[extra]
+notes = "Clarification period: 23-27 June, 2014. Student forum (deadline: 2nd June 2013)."

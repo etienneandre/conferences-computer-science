@@ -1,0 +1,19 @@
+# migrated from data.php line 4845
+edition = 7
+title = "7th International Workshop on Compositional Theory and Technology for Real-Time Embedded Systems"
+url = "http://rtcl.skku.edu/crts2014/"
+
+[event]
+start = 2014-12-02
+city = "Rome, Italy"
+
+[submission]
+format = "8 pages ACM SIG"
+paper = [2014-10-06]
+notification = [2014-10-27]
+
+[proceedings]
+publisher = "Special issue of ACM SIGBED Review"
+
+[extra]
+notes = "Satellite of RTSS."

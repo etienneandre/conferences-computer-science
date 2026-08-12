@@ -1,0 +1,21 @@
+# migrated from data.php line 12833
+edition = 3
+title = "Highlights of Logic, Games and Automata"
+url = "http://highlights-conference.org"
+
+[event]
+start = 2015-09-15
+end = 2015-09-18
+city = "Prague, Czech Republic"
+
+[submission]
+format = "1 or 2 pages"
+paper = [2015-06-12]
+notification = [2015-06-19]
+
+[proceedings]
+publisher = "informal"
+license = "free"
+
+[extra]
+notes = "Short presentations, informal proceedings, single author. We encourage you to attend and present your best work, be it already published or not, at the Highlights conference!"

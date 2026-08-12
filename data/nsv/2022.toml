@@ -1,0 +1,17 @@
+# migrated from data.php line 21511
+edition = 15
+title = "15th International Workshop on Numerical Software Verification"
+url = "https://nsv22.github.io/"
+
+[event]
+start = 2022-08-11
+city = "Haifa, Israel (or online)"
+
+[submission]
+format = "15 pages LNCS + references (regular) / 6 pages (short / tools / benchmark / case studies)"
+paper = [2022-05-10, 2022-05-24]
+notification = [2022-06-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

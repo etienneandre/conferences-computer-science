@@ -1,0 +1,19 @@
+# migrated from data.php line 19739
+edition = 22
+title = "22nd International Conference on Logic for Programming, Artificial Intelligence and Reasoning"
+url = "http://www.lpar-22.info/"
+
+[event]
+start = 2018-11-16
+end = 2018-11-21
+city = "Awassa, Ethiopia"
+
+[submission]
+format = "regular (15 pages EasyChair + references + appendix); tool / experimental (8)"
+abstract = [2018-08-06]
+paper = [2018-08-13]
+notification = [2018-09-24]
+
+[proceedings]
+publisher = "EPiC Series in Computing"
+license = "free"

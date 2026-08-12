@@ -1,0 +1,4 @@
+# Journées Annuelles GT Verif — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "Journées Annuelles GT Verif"
+name = "Premières journées annuelles du Groupe de Travail Vérification"

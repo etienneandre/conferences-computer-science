@@ -1,0 +1,26 @@
+# migrated from data.php line 23083
+edition = 22
+title = "22nd IEEE Pacific Rim International Symposium on Dependable Computing"
+url = "http://prdc.dependability.org/PRDC2017/"
+
+[event]
+start = 2017-01-22
+end = 2017-01-25
+city = "Christchurch, New Zealand"
+
+[submission]
+format = "10 pages IEEE (regular) / 6 pages (practical experience reports)"
+paper = [2016-06-30, 2016-07-15, 2016-08-07]
+notification = [2016-09-01, 2016-09-21]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[stats]
+accepted = 30
+submitted = 53
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."

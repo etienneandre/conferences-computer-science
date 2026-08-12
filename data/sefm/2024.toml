@@ -1,0 +1,28 @@
+# migrated from data.php line 27672
+edition = 22
+title = "22nd International Conference on Software Engineering and Formal Methods"
+url = "https://sefm-conference.github.io/2024/"
+
+[event]
+start = 2024-11-04
+end = 2024-11-08
+city = "Aveiro, Portugal"
+
+[submission]
+tz = "AoE"
+format = "16 pages + 2p bibliography (regular) / 8 pages (tool) LNCS"
+abstract = [2024-06-07, 2024-06-21, 2024-06-28]
+paper = [2024-06-14, 2024-06-28]
+notification = [2024-08-15, 2024-08-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 23
+submitted = 68
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Artifact evaluation (optional for regular)."

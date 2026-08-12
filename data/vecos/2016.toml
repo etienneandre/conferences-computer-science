@@ -1,0 +1,21 @@
+# migrated from data.php line 32689
+edition = 10
+title = "10th International Workshop on Verification and Evaluation of Computer and Communication Systems"
+url = "http://vecos.ensta-paristech.fr/2016/"
+
+[event]
+start = 2016-10-06
+end = 2016-10-07
+city = "Tunis, Tunisia"
+
+[submission]
+format = "15 pages Electronic Workshops in Computing (eWiC)"
+paper = [2016-04-18, 2016-05-06]
+notification = [2016-06-15]
+
+[proceedings]
+publisher = "eWiC"
+license = "free"
+
+[extra]
+notes = "Best papers invited to submit to a special issue of the International Journal of Critical Computer-Based Systems (IJCCBS)."

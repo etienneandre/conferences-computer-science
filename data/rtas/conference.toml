@@ -1,0 +1,16 @@
+# RTAS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "RTAS"
+name = "IEEE Real-Time and Embedded Technology and Applications Symposium"
+
+[core]
+id = "725"
+rank = "A"  # TODO: verify
+
+[links]
+dblp = "rtas"
+twitter = "RTAS2020"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "Firm deadline in 2016, 2017, 2018, 2020, 2023, 2025, 2026"  # from RTAS 2026

@@ -1,0 +1,21 @@
+# migrated from data.php line 27844
+edition = 14
+title = "14th International Conference on Software Engineering Research, Management and Applications"
+url = "http://www.acisinternational.org/sera2016/"
+
+[event]
+start = 2016-06-08
+end = 2016-06-10
+city = "Towson, Maryland, USA"
+
+[submission]
+format = "8 pages IEEE 2 columns"
+paper = [2016-03-01]
+notification = [2016-03-25]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "SERA 2016 Proceedings will be published by CPS and will be submitted to be indexed by EI, INSPEC, and DBLP. Conference officers will select outstanding papers for possible publication in several journals. SERA 2015 cancelled due to security concerns in Tunisia."

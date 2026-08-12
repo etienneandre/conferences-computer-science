@@ -1,0 +1,7 @@
+# EUMAS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "EUMAS"
+name = "European Conference on Multi-Agent Systems"
+
+[core]
+rank = "absent"  # TODO: verify

@@ -1,0 +1,21 @@
+# migrated from data.php line 18239
+edition = 32
+title = "32nd ACM SIGSOFT International Symposium on Software Testing and Analysis"
+url = "https://conf.researchr.org/home/issta-2023"
+
+[event]
+start = 2023-07-17
+end = 2023-07-21
+city = "Seattle, Washington, USA"
+
+[submission]
+format = "10 pages ACM (+ 2 pages references)"
+paper = [2022-11-10]
+notification = [2023-01-16]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double blind. Author Response Period (20-22 December 2022). Second round of submissions later in 2023"

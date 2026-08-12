@@ -1,0 +1,23 @@
+# migrated from data.php line 11703
+edition = 43
+title = "43rd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "https://www.fsttcs.org.in/2023/"
+
+[event]
+start = 2023-12-18
+end = 2023-12-20
+city = "IIT Hyderabad, India"
+
+[submission]
+tz = "AoE"
+format = "15 pages in LIPIcs (+ bibliography, + unlimited appendix)"
+abstract = [2023-07-12]
+paper = [2023-07-19]
+notification = [2023-09-22]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Always in India. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."

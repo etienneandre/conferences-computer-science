@@ -1,0 +1,23 @@
+# migrated from data.php line 8489
+edition = 26
+title = "26th International Symposium on Formal Methods"
+url = "https://www.fm24.polimi.it"
+
+[event]
+start = 2024-09-09
+end = 2024-09-13
+city = "Milan, Italy"
+
+[submission]
+tz = "AoE"
+format = "Springer 15 pages + references (regular / long tool / case study) / 6 pages (short / tool demo)"
+abstract = [2024-04-15]
+paper = [2024-04-19]
+notification = [2024-06-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "free"
+
+[extra]
+notes = "Single blind in 2024. Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014)."

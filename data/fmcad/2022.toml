@@ -1,0 +1,23 @@
+# migrated from data.php line 8807
+edition = 22
+title = "22nd International Conference on Formal Methods in Computer-Aided Design"
+url = "https://fmcad.forsyte.at/FMCAD22/"
+
+[event]
+start = 2022-10-19
+end = 2022-10-21
+city = "Trento, Italy"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE + references (regular) / 4 pages (short)"
+abstract = [2022-05-08]
+paper = [2022-05-15]
+notification = [2022-07-01]
+
+[proceedings]
+publisher = "TU Wien Academic Press / ACM/IEEE"
+license = "cc-by"
+
+[extra]
+notes = "Author Response: June 22-24, 2022. A small number of outstanding FMCAD submissions will be considered for inclusion in a Special Issue of the journal on Formal Methods in System Design (FMSD)."

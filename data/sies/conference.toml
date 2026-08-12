@@ -1,0 +1,15 @@
+# SIES — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SIES"
+name = "International Symposium on Industrial Embedded Systems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "sies"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "2 weeks (2013), 1 week (2014), 4 weeks (2015), 3+3 weeks (2016), 16 days (2017), 14 days (2018), 19 days (2024)"  # from SIES 2024

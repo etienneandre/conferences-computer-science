@@ -1,0 +1,25 @@
+# migrated from data.php line 18855
+edition = 16
+title = "16th IEEE International Conference on Knowledge and Systems Engineering"
+url = "https://kse2024.kse-conferences.org/"
+
+[event]
+start = 2024-11-05
+end = 2024-11-07
+city = "Kuala Lumpur, Malaysia"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2024-06-15, 2024-07-30]
+notification = [2024-09-20]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+diversity = "mixed"
+
+[extra]
+journal = "Selected papers have the potential to be invited to submit extended versions to be published in renowned journals."
+notes = "Hybrid. Notification extension: 5+4 days in 2015 (with notification on the initial notification date…), 7 days (2016)."

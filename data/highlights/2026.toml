@@ -1,0 +1,25 @@
+# migrated from data.php line 13062
+edition = 14
+title = "Highlights of Logic, Games and Automata"
+url = "https://highlights-conference.org/2026/"
+
+[event]
+start = 2026-09-07
+end = 2026-09-11
+city = "Vienna, Austria"
+
+[submission]
+format = "1 or 2 pages"
+paper = [2026-05-29]
+notification = [2026-06-19]
+
+[proceedings]
+publisher = "informal"
+
+[review]
+blind = "single"
+environment = "The Highlights Extended Stay Support Scheme (HESSS) helps participants find collaborators and organise visits in the vicinity of HIGHLIGHTS."
+
+[extra]
+colocated = "Followed by the Highlights’ Collaborative Research Week (CREW)"
+notes = "Short presentations, no formal proceedings, single author. We encourage you to attend and present your best work, be it already published or not, at the Highlights conference."

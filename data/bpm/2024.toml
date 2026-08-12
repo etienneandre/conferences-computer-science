@@ -1,0 +1,23 @@
+# migrated from data.php line 3092
+edition = 22
+title = "22nd Business Process Management Conference"
+url = "https://bpm2024.agh.edu.pl"
+
+[event]
+start = 2024-09-01
+end = 2024-09-06
+city = "Krakow, Poland"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS"
+abstract = [2024-03-01]
+paper = [2024-03-08]
+notification = [2024-05-17]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Pre-submission shepherding program for first-time submitters. Authors of selected papers will be invited to submit an extended version to a special issue of the newly founded Springer journal ‘Process Science’."

@@ -1,0 +1,22 @@
+# migrated from data.php line 6188
+edition = 16
+title = "16th International Conference on Embedded Software"
+url = "http://esweek.acm.org/"
+
+[event]
+start = 2016-10-02
+end = 2016-10-07
+city = "Pittsburgh, PA, USA"
+
+[submission]
+format = "10 pages in ACM two-column format"
+abstract = [2016-04-01]
+paper = [2016-04-08]
+notification = [2016-07-01]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Up to 10 pages appendix. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016)."

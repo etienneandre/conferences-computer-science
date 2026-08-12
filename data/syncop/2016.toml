@@ -1,0 +1,21 @@
+# migrated from data.php line 29962
+edition = 3
+title = "3rd International Workshop on Synthesis of Complex Parameters"
+url = "http://lipn.univ-paris13.fr/SynCoP2016/"
+
+[event]
+start = 2016-04-03
+city = "Eindhoven, The Netherlands"
+
+[submission]
+format = "12 pages EPTCS (regular) / 4 pages (tool)"
+abstract = [2016-01-10, 2016-02-01]
+paper = [2016-01-17, 2016-02-01]
+notification = [2016-02-22]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite workshop of ETAPS. After three successful editions, SynCoP moved to an invited speakers-only model. Everyone is welcome to attend <a href=\"https://lipn.univ-paris13.fr/SynCoPPV2017/\">SynCoP 2017</a>."

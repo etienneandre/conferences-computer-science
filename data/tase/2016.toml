@@ -1,0 +1,27 @@
+# migrated from data.php line 31338
+edition = 10
+title = "10th International Symposium on Theoretical Aspects of Software Engineering"
+url = "http://tase2016.ecnu.edu.cn"
+
+[event]
+start = 2016-07-17
+end = 2016-07-19
+city = "Shanghai, China"
+
+[submission]
+tz = "UTC"
+format = "8 pages IEEE"
+abstract = [2016-01-10]
+paper = [2016-01-17]
+notification = [2016-03-20]
+
+[proceedings]
+publisher = "IEEE Computer Society Press"
+license = "pay"
+
+[stats]
+rate = 33.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Warning: all deadlines are UTC. Strict deadline in 2016. The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Almost always in China (except once in UK and once in Taiwan)."

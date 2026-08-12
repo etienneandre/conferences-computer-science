@@ -1,0 +1,24 @@
+# migrated from data.php line 27292
+edition = 26
+title = "26th Brazilian Symposium on Formal Methods"
+url = "http://sbmf2021.computacao.ufcg.edu.br/"
+
+[event]
+start = 2023-12-04
+end = 2023-12-08
+city = "Manaus, Brazil"
+
+[submission]
+tz = "AoE"
+format = "15 pages + references (regular) / 8 pages + references (short)"
+paper = [2023-07-28, 2023-08-11]
+notification = [2023-09-08, 2023-09-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 9
+submitted = 16
+# TODO: verify — extracted from the cross-year acceptance string.

@@ -1,0 +1,23 @@
+# migrated from data.php line 1807
+edition = 28
+title = "28th Asia-Pacific Software Engineering Conference"
+url = "https://apsec2021.seat.org.tw/"
+
+[event]
+start = 2021-12-06
+end = 2021-12-09
+online = true
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (research) / 5 pages (early research) / posters (2 pages)"
+abstract = [2021-07-01, 2021-07-15]
+paper = [2021-07-08, 2021-07-22]
+notification = [2021-09-02, 2021-09-09]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Deadline AoE."

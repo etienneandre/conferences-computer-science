@@ -1,0 +1,28 @@
+# migrated from data.php line 17176
+edition = 20
+title = "20th International Conference on integrated Formal Methods"
+url = "https://ifm2025.ens.psl.eu/"
+
+[event]
+start = 2025-11-19
+end = 2025-11-21
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (research / regular / case study) / 6 pages (short)"
+abstract = [2025-05-30, 2025-06-13]
+paper = [2025-06-06, 2025-06-20]
+notification = [2025-08-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+artifact = "Optional EAPLS Artefact Badging."
+award = "Best paper award."
+
+[extra]
+journal = "A special issue of the Formal Aspects of Computing journal is planned for extended versions of selected papers from iFM 2025."

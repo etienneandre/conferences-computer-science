@@ -1,0 +1,23 @@
+# migrated from data.php line 11304
+edition = 9
+title = "9th International Conference on Fundamentals of Software Engineering - Theory and Practice"
+url = "http://fsen.ir/2021/"
+
+[event]
+start = 2021-05-19
+end = 2021-05-21
+online = true
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS (full) / 6 pages (short)"
+abstract = [2020-10-18, 2020-11-01]
+paper = [2020-11-01, 2020-11-15]
+notification = [2020-12-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Optional abstract submission. Claim from the conference that no one ever got visa problems (in Iran). Special issue of Science of Computer Programming journal devoted to FSEN’19 (to be confirmed). Every two years."

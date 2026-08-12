@@ -1,0 +1,22 @@
+# migrated from data.php line 29102
+edition = 27
+title = "27th International SPIN Symposium on Model Checking of Software"
+url = "https://spin2020ui.web.illinois.edu"
+
+[event]
+start = 2020-07-24
+end = 2020-07-25
+city = "Chicago, Illinois, USA"
+
+[submission]
+tz = "AoE"
+format = "16 pages + references (technical) / 6 pages (short) + references / 4 pages (tool demo)"
+paper = [2020-04-17]
+notification = [2020-05-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Best Paper awards will be given and announced at the conference. Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."

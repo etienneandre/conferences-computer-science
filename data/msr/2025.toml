@@ -1,0 +1,25 @@
+# migrated from data.php line 20870
+edition = 15
+title = "15e colloque sur la Modélisation des Systèmes Réactifs"
+url = "https://msr2025.sciencesconf.org/"
+
+[event]
+start = 2025-11-19
+end = 2025-11-21
+city = "Reims, France"
+
+[submission]
+format = "14 pages EasyChair"
+abstract = [2025-05-16, 2025-05-31]
+paper = [2025-06-06, 2025-07-06, 2025-07-18]
+notification = [2025-09-10]
+
+[proceedings]
+publisher = "HAL"
+license = "free"
+
+[review]
+award = "Best paper award for young scientists."
+
+[extra]
+notes = "In French, but English papers accepted. Poster PhD session."

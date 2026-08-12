@@ -1,0 +1,21 @@
+# migrated from data.php line 6828
+edition = 28
+title = "28th (?) ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021)"
+url = "https://2021.esec-fse.org/"
+
+[event]
+start = 2021-08-23
+end = 2021-08-27
+city = "Athens, Greece"
+
+[submission]
+format = "10 ACM SIG (+ 2 pages references)"
+paper = [2021-02-25]
+notification = [2021-05-21]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Open science policy. Double-blind. Also tutorials, doctoral symposium, tool demos and others. Author response period: 27-30 April 2021."

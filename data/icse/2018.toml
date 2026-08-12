@@ -1,0 +1,21 @@
+# migrated from data.php line 15838
+edition = 40
+title = "40th International Conference on Software Engineering"
+url = "https://www.icse2018.org"
+
+[event]
+start = 2018-05-27
+end = 2018-06-03
+city = "Gothenburg, Sweden"
+
+[submission]
+format = "10 pages ACM"
+paper = [2017-08-25]
+notification = [2017-12-15]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Author response: 12-15 November 2017. Also a doctoral symposium, tutorials, demos, and other events. (Deadlines: November 20, 2015)."

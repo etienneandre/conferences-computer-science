@@ -1,0 +1,25 @@
+# migrated from data.php line 27391
+edition = 29
+title = "29th Brazilian Symposium on Formal Methods"
+url = "https://sbmf2026.github.io/"
+
+[event]
+start = 2026-12-01
+end = 2026-12-04
+city = "Rio de Janeiro, Brazil"
+
+[submission]
+format = "15 pages + references (regular) / 8 pages + references (short)"
+abstract = [2026-07-31]
+paper = [2026-08-06]
+notification = [2026-09-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+
+[extra]
+journal = "A special issue of the Science of Computer Programming Journal (Elsevier) is going to be organised (to be confirmed) with selected and extended papers from the 29th Brazilian Symposium on Formal Methods (SBMF 2026)."

@@ -1,0 +1,20 @@
+# migrated from data.php line 30321
+edition = 11
+title = "11th Workshop on Synthesis"
+url = "https://www.cs.technion.ac.il/~shaull/SYNT2022/"
+
+[event]
+start = 2022-08-11
+city = "Haifa, Israelf"
+
+[submission]
+format = "15 pages ACM (full) / 3 pages ACM (abstract)"
+paper = [2022-05-10]
+notification = [2022-05-31]
+
+[proceedings]
+publisher = "informal"
+license = "free"
+
+[extra]
+notes = "Satellite event of CAV. Extended versions of selected full workshop papers will form the basis of a special issue of Acta Informatica."

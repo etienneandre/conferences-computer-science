@@ -1,0 +1,26 @@
+# ICALP — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICALP"
+name = "EATCS International Colloquium on Automata, Languages, and Programming"
+
+[core]
+id = "864"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2016
+rank = "A"
+
+[[core.history]]
+from = 2026
+rank = "A*"
+
+[links]
+dblp = "icalp"
+wikipedia = "International_Colloquium_on_Automata%2C_Languages_and_Programming"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "30% (34/115, track B) in 2015, 30% (36/121, track B) in 2016, 30% (32/108, track B) in 2017, 30% (103/346, track A) and 30% (29/97, track B) in 2023, 29% (119/404, track A) and 29% (34/115, track B) in 2024"  # from ICALP 2026
+extensions = "Deadlines are firm (6 days in 2020 due to relocation)"  # from ICALP 2026

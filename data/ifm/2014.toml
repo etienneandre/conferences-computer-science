@@ -1,0 +1,26 @@
+# migrated from data.php line 16932
+edition = 11
+title = "11th International Conference on integrated Formal Methods"
+url = "http://ifm2014.cs.unibo.it/"
+
+[event]
+start = 2014-09-09
+end = 2014-09-11
+city = "Bertinoro, Italy"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2014-04-17]
+paper = [2014-04-25]
+notification = [2014-06-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = """
+The best papers from iFM 2014 will be invited for a special issue,
+complemented by an open call for papers, and undergo a separate
+peer-review process according to the usual scientific standards of
+the journal."""

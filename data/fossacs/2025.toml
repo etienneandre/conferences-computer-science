@@ -1,0 +1,22 @@
+# migrated from data.php line 10867
+edition = 28
+title = "28th International Conference on Foundations of Software Science and Computation Structures"
+url = "https://etaps.org/2025/conferences/fossacs/"
+
+[event]
+start = 2025-05-03
+end = 2025-05-08
+city = "Hamilton, Canada"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography"
+paper = [2024-10-10]
+notification = [2024-12-20]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of ETAPS 2025. Single-blind, with a rebuttal phase. Rebuttal phase: 3-5 December 2024."

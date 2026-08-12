@@ -1,0 +1,23 @@
+# migrated from data.php line 22998
+edition = 8
+title = "8th International Conference on Principles of Security and Trust"
+url = "http://www.etaps.org/index.php/2018/post"
+
+[event]
+start = 2019-04-08
+end = 2019-04-11
+city = "Prag, Czech Republic"
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS (+ 2 pages bibliography)"
+abstract = [2018-11-09]
+paper = [2018-11-16]
+notification = [2019-01-25]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Double-blind. Rebuttal period: 11 January 00h01 to 14th January 23h59 AoE."

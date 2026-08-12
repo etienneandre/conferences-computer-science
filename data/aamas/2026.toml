@@ -1,0 +1,29 @@
+# migrated from data.php line 253
+edition = 25
+title = "25th International Conference on Autonomous Agents and Multiagent Systems"
+url = "https://cyprusconferences.org/aamas2026/"
+
+[event]
+start = 2026-05-25
+end = 2026-05-29
+city = "Paphos, Cyprus"
+
+[submission]
+tz = "AoE"
+format = "8 pages (+ references)"
+abstract = [2025-10-01]
+paper = [2025-10-08]
+notification = [2025-12-22]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[review]
+blind = "double"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2025-11-21
+rebuttal_end = 2025-11-25
+artifact = "Supplementary Material recommended."
+award = "Pragnesh Jay Modi Best Student Paper Award."

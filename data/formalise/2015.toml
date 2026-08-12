@@ -1,0 +1,20 @@
+# migrated from data.php line 9483
+edition = 3
+title = "3rd FME Workshop on Formal Methods in Software Engineering"
+url = "http://www.formalise.org/"
+
+[event]
+start = 2015-05-18
+city = "Florence, Italy"
+
+[submission]
+format = "7 pages ACM"
+paper = [2015-01-23]
+notification = [2015-02-18]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Held in conjunction with ICSE."

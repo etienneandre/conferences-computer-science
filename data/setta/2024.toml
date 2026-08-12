@@ -1,0 +1,28 @@
+# migrated from data.php line 28342
+edition = 10
+title = "Symposium on Dependable Software Engineering: Theories, Tools and Applications"
+url = "https://setta2024.cs.cityu.edu.hk/"
+
+[event]
+start = 2024-11-26
+end = 2024-11-28
+city = "Hong Kong, China"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (regular)"
+abstract = [2024-08-16]
+paper = [2024-08-19, 2024-08-28]
+notification = [2024-09-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 21
+submitted = 47
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Always in China. Extended versions of selected papers will be recommended to special issues of Journal of System Architecture (JSA) and of Software Testing, Verification and Reliability (STVR) after the proceeding of the conference."

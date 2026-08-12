@@ -1,0 +1,19 @@
+# migrated from data.php line 34374
+edition = 1
+title = "Workshop on Research and Use of Multiformalism Modeling Methods"
+url = "http://www.dem.unina2.it/wrummm"
+
+[event]
+city = "?"
+
+[submission]
+format = "7 pages IEEE"
+paper = [2014-02-13]
+notification = [2014-03-14]
+
+[proceedings]
+publisher = "IEEE (?)"
+license = "pay"
+
+[extra]
+notes = "Deadline extended by 6 weeks in 2012 (initially 15th May)."

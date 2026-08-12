@@ -1,0 +1,19 @@
+# migrated from data.php line 26960
+edition = 42
+title = "42nd International Conference on Computer Safety, Reliability and Security"
+url = "https://safecomp2023.cnrs.fr/"
+
+[event]
+start = 2023-09-20
+end = 2023-09-22
+city = "Toulouse, France"
+
+[submission]
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / position (4 pages)"
+abstract = [2023-02-06, 2023-02-13]
+paper = [2023-02-13, 2023-02-20]
+notification = [2023-04-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

@@ -1,0 +1,22 @@
+# migrated from data.php line 16328
+edition = 14
+title = "14th IEEE International Conference on Software Testing, Verification and Validation"
+url = "https://icst2021.icmc.usp.br/"
+
+[event]
+start = 2021-04-12
+end = 2021-04-16
+online = true
+
+[submission]
+format = "10 pages IEEE (+ 2 pages for references)"
+abstract = [2020-10-05]
+paper = [2020-10-12]
+notification = [2020-12-11]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double-blind reviewing. Experimental data must be replicable. Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers … Deadline extension: 7 days (2017), 4 days (2018), 2 days (2019)"

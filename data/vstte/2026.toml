@@ -1,0 +1,23 @@
+# migrated from data.php line 33773
+edition = 18
+title = "18th International Conference on Verified Software: Theories, Tools and Experiments"
+url = "https://fmcad.org/FMCAD26/vstte/"
+
+[event]
+start = 2026-09-14
+city = "Graz, Austria"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (long) / 10 pages (short)"
+abstract = [2026-07-10, 2026-07-17]
+paper = [2026-07-17, 2026-07-24]
+notification = [2026-08-22]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"
+
+[extra]
+colocated = "Co-located with FMCAD 2026"
+notes = "Post-conference proceedings"

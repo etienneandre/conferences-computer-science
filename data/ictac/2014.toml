@@ -1,0 +1,22 @@
+# migrated from data.php line 16482
+edition = 11
+title = "11th International Colloquium on Theoretical Aspects of Computing"
+url = "http://fmi.unibuc.ro/ictac2014"
+
+[event]
+start = 2014-09-17
+end = 2014-09-20
+city = "Bucharest, Romania"
+
+[submission]
+format = "18 pages LNCS (regular) / (??) 5-10 pages LNCS (short / tool)"
+abstract = [2014-03-30]
+paper = [2014-04-06]
+notification = [2014-05-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A special issue of a journal with extended version of selected papers from ICTAC 2014 is under negotiation."

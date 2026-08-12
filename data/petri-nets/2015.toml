@@ -1,0 +1,22 @@
+# migrated from data.php line 21982
+edition = 36
+title = "36th International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "http://www.ulb.ac.be/di/verif/pn2015acsd2015/"
+
+[event]
+start = 2015-06-24
+end = 2015-06-26
+city = "Brussels, Belgium"
+
+[submission]
+format = "regular papers (max 20 pages in Springer LNCS-format); tool papers (max 10 pages in Springer LNCS-format)"
+abstract = [2015-01-10]
+paper = [2015-01-15]
+notification = [2015-03-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with ACSD. The deadline for submission of papers in 2015 is STRICT. However, if you submit the title page by January 10 it is sufficient to submit the full paper by January 15. All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited as submissions to a special issue of the Fundamenta Informaticae journal."

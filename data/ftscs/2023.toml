@@ -1,0 +1,24 @@
+# migrated from data.php line 12003
+edition = 9
+title = "9th ACM International Workshop on Formal Techniques for Safety-Critical Systems"
+url = "https://2023.splashcon.org/home/ftscs-2023"
+
+[event]
+start = 2023-10-22
+city = "Cascais, Portugal"
+
+[submission]
+format = "10 pages ACM (research / applications / surveys), 5 pages ACM (position / tools / work in progress)"
+paper = [2023-07-12, 2023-07-21]
+notification = [2023-08-27]
+
+[proceedings]
+publisher = "ACM Digital Library"
+license = "pay"
+
+[review]
+blind = "single"
+
+[extra]
+colocated = "An OOPSLA/SPLASH 2023 workshop."
+notes = "Work in progress will not be published in the post-proceedings."

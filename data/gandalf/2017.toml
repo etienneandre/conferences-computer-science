@@ -1,0 +1,22 @@
+# migrated from data.php line 12261
+edition = 8
+title = "8th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "http://gandalf2017.istc.cnr.it"
+
+[event]
+start = 2017-09-20
+end = 2017-09-22
+city = "Rome, Italy"
+
+[submission]
+format = "14 pages EPTCS"
+abstract = [2017-05-19, 2017-06-13]
+paper = [2017-05-26, 2017-06-15]
+notification = [2017-07-07]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of an international leading journal."

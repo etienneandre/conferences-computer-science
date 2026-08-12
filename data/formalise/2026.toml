@@ -1,0 +1,26 @@
+# migrated from data.php line 9766
+edition = 14
+title = "14th International Conference on Formal Methods in Software Engineering"
+url = "https://conf.researchr.org/home/Formalise-2026"
+
+[event]
+start = 2026-04-12
+end = 2026-04-13
+city = "Rio de Janeiro, Brazil"
+
+[submission]
+format = "10 pages ACM + references (full papers / case study papers), 4 pages (research ideas / extended abstracts)"
+paper = [2025-10-23, 2025-11-06]
+notification = [2026-01-05]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "free"
+
+[review]
+blind = "lightweight-double"
+diversity = "mixed"
+artifact = "Submission of an artifact is optional but encouraged for all papers where it can support the results presented in the paper."
+
+[extra]
+colocated = "Co-located with ICSE 2026"

@@ -1,0 +1,20 @@
+# migrated from data.php line 10155
+edition = 2
+title = "2nd Workshop on FORmal MOdeling and VErification of Service-based systems"
+url = "http://lipn.univ-paris13.fr/for-moves15/"
+
+[event]
+start = 2015-11-16
+city = "Goa, India"
+
+[submission]
+format = "12 pages LNCS (regular) / 6 pages (short / position)"
+paper = [2015-07-30, 2015-08-14, 2015-09-14]
+notification = [2015-08-30, 2015-09-14, 2015-09-30]
+
+[proceedings]
+publisher = "No formal proceedings (PDF online)"
+license = "free"
+
+[extra]
+notes = "Co-located with ICSOC 2015. For this second edition of this workshop, we would like to put the emphasis on discussions rather than on conventional publications."

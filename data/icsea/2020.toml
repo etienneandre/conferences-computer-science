@@ -1,0 +1,21 @@
+# migrated from data.php line 16162
+edition = 15
+title = "15th International Conference on Software Engineering Advances"
+url = "http://www.iaria.org/conferences2019/ICSEA19.html"
+
+[event]
+start = 2020-10-18
+end = 2020-10-22
+city = "Porto, Portugal"
+
+[submission]
+format = "6 pages (regular) / 4 pages (short/work in progress) / 2 pages (ideas/poster)"
+paper = [2020-07-13]
+notification = [2020-08-09]
+
+[proceedings]
+publisher = "ThinkMind"
+license = "free-copy"
+
+[extra]
+notes = "More paper categories (poster, extended abstracts, presentations, demos, doctoral forum…). Authors of selected papers will be invited to submit extended versions to a IARIA Journal."

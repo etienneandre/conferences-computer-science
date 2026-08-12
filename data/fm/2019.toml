@@ -1,0 +1,23 @@
+# migrated from data.php line 8420
+edition = 23
+title = "23rd International Symposium on Formal Methods"
+url = "http://formalmethods2019.inesctec.pt/"
+
+[event]
+start = 2019-10-07
+end = 2019-10-11
+city = "Porto, Portugal"
+
+[submission]
+tz = "AoE"
+format = "Springer 15 pages (regular) / 6 pages (short / tool)"
+abstract = [2019-03-28]
+paper = [2019-04-11]
+notification = [2019-06-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014). During the conference, the Programme Committee Chairs will present an award to the authors of the submission selected as the FM 2019 Best Paper. Authors of selected papers will be invited to submit an extended version of their paper to one of the special issues in \"Formal Aspects of Computing\" and \"Formal Methods in System Design\"."

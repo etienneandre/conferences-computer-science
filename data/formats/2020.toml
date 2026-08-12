@@ -1,0 +1,22 @@
+# migrated from data.php line 9993
+edition = 18
+title = "18th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "https://formats-2020.cs.ru.nl/"
+
+[event]
+start = 2020-09-01
+end = 2020-09-03
+city = "Virtual (Vienna, Austria)"
+
+[submission]
+format = "15 pages LNCS + references + appendix (regular) / 5 pages (tools)"
+abstract = [2020-04-06, 2020-04-18, 2020-04-28]
+paper = [2020-04-13, 2020-04-27, 2020-05-07]
+notification = [2020-06-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020. Part of QONFEST with CONCUR, FMICS and QEST. Best paper award in the honor of Oded Maler (since 2018)."

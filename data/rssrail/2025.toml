@@ -1,0 +1,27 @@
+# migrated from data.php line 24481
+edition = 6
+title = "6th International Conference on Reliability, Safety, and Security of Railway Systems"
+url = "https://rssrail2025.isti.cnr.it/"
+
+[event]
+start = 2025-11-26
+end = 2025-11-28
+city = "Pisa, Italy"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (regular) + references / 8 pages (short)"
+abstract = [2025-06-06, 2025-06-20]
+paper = [2025-06-13, 2025-06-27]
+notification = [2025-07-18, 2025-08-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+award = "Best Student Paper Award."
+
+[extra]
+journal = "As for previous editions, one or more special issues are planned for extended versions of selected papers from RSSRail 2025."

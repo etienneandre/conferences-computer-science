@@ -1,0 +1,22 @@
+# migrated from data.php line 7173
+edition = 21
+title = "21st European Conference on Multi-Agent Systems"
+url = "https://euramas.github.io/eumas2024/"
+
+[event]
+start = 2024-08-26
+end = 2024-08-28
+city = "Dublin, Ireland"
+
+[submission]
+tz = "AoE"
+format = "original (15 pages LNCS + references)"
+paper = [2024-05-15, 2024-05-31, 2024-06-07]
+notification = [2024-06-30, 2024-07-15, 2024-07-29]
+
+[proceedings]
+publisher = "Springer LNCS/LNAI"
+license = "pay-profit"
+
+[extra]
+notes = "EUMAS welcomes both original, unpublished papers, as well as papers that have been published in a relevant conference, conference or journal. The best original papers will be invited for a special issue in the Journal of Autonomous Agents and Multiagent Systems (JAAMAS). Deadline and notification extension: 7 days (2017), 8 days (2020), 15+14 days (2024)"

@@ -1,0 +1,29 @@
+# migrated from data.php line 26361
+edition = 47
+title = "47th IEEE Symposium on Security and Privacy"
+url = "https://sp2026.ieee-security.org/"
+
+[event]
+start = 2026-05-18
+end = 2026-05-21
+city = "San Francisco, CA, USA"
+
+[submission]
+tz = "AoE"
+format = "13 pages + 5 pages references/appendix"
+abstract = [2025-11-06]
+paper = [2025-11-13]
+notification = [2026-03-19]
+
+[proceedings]
+publisher = "Computer Society’s Digital Library"
+license = "free-copy"
+
+[review]
+blind = "double"
+diversity = "mixed"
+rebuttal = "Rebuttal period (interactive): February 16 - February 27, 2026"
+artifact = "Optional artifact evaluation"
+
+[extra]
+notes = "Two sets of submission periods; early rejection."

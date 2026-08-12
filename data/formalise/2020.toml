@@ -1,0 +1,22 @@
+# migrated from data.php line 9606
+edition = 8
+title = "8th International Conference on Formal Methods in Software Engineering"
+url = "http://www.formalise.org/"
+
+[event]
+start = 2020-05-25
+end = 2020-05-26
+city = "Seoul, South Korea"
+
+[submission]
+format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
+abstract = [2020-01-09, 2020-01-16]
+paper = [2020-01-16, 2020-01-23]
+notification = [2020-03-01]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "acm"
+
+[extra]
+notes = "Held in conjunction with ICSE."

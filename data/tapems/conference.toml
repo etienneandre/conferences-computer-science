@@ -1,0 +1,8 @@
+# TAPEMS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "TAPEMS"
+name = "International Workshop on Theoretical Approaches to Performance Evaluation, Modeling and Simulation"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

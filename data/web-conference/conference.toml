@@ -1,0 +1,15 @@
+# Web Conference — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "Web Conference"
+name = "ACM Web Conference"
+
+[core]
+id = "1548"
+rank = "A*"  # TODO: verify
+
+[links]
+dblp = "www"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "14.1% (131/929) in 2015"  # from Web Conference 2025

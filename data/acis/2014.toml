@@ -1,0 +1,20 @@
+# migrated from data.php line 575
+edition = 3
+title = "Third Asian Conference on Information Systems (ACIS 2014)"
+url = "http://www.cse.hcmut.edu.vn/~save/ACIS2014/"
+
+[event]
+start = 2014-12-01
+end = 2014-12-03
+city = "Nha Trang, Việt Nam"
+
+[submission]
+format = "8 pages IEEJ (regular) / 4 pages (short/poster)"
+paper = [2014-07-18]
+notification = [2014-08-29]
+
+[proceedings]
+publisher = "IEEJ"
+
+[extra]
+notes = "Proceedings will be published by The Institute of Electrical Engineers of Japan (IEEJ)."

@@ -1,0 +1,22 @@
+# migrated from data.php line 369
+edition = 7
+title = "International Conference on Rigorous State Based Methods"
+url = "https://abz2020.uni-ulm.de"
+
+[event]
+start = 2020-05-27
+end = 2020-05-29
+city = "Ulm, Germany"
+
+[submission]
+format = "15 pages LNCS (research, case study) / 4 pages (short / work in progress / tool) / 14 pages (answer to case studies) / 4 pages extended abstract (industry)"
+abstract = [2020-01-13]
+paper = [2020-01-20]
+notification = [2020-03-02]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 20 days (2014), 7 days (2018). ABZ 2020 will have a main conference track, a case study track, tutorials and workshops. Every two years. Cancelled in 2020 (Covid19): papers published in 2020 and talks postponed to 2021."

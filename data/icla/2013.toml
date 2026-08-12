@@ -1,0 +1,21 @@
+# migrated from data.php line 15012
+edition = 5
+title = "5th Indian Conference on Logic and its Applications"
+url = "http://www.imsc.res.in/~icla/"
+
+[event]
+start = 2013-01-10
+end = 2013-01-12
+city = "Chennai, India"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2012-08-24]
+notification = [2012-10-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "In 2011, some papers were accepted for presentation but not in proceedings."

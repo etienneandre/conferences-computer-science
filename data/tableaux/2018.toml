@@ -1,0 +1,23 @@
+# migrated from data.php line 30455
+edition = 27
+title = "27th International Conference on Automated Reasoning with Analytic Tableaux and Related Methods"
+url = "http://ijcar2018.org/"
+
+[event]
+start = 2018-07-14
+end = 2018-07-17
+city = "Oxford, England"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (research) / 8 pages (short system descriptions)"
+abstract = [2018-01-22]
+paper = [2018-01-29, 2018-02-04]
+notification = [2018-03-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of IJCAR 2018."

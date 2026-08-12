@@ -1,0 +1,20 @@
+# migrated from data.php line 9504
+edition = 4
+title = "4th FME Workshop on Formal Methods in Software Engineering"
+url = "http://www.formalise.org/"
+
+[event]
+start = 2016-05-15
+city = "Austin, Texas, USA"
+
+[submission]
+format = "7 pages ACM"
+paper = [2016-01-22, 2016-01-29]
+notification = [2016-02-19]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "pay"
+
+[extra]
+notes = "Held in conjunction with ICSE. All ACCEPTED CONTRIBUTIONS will be PUBLISHED in the ICSE 2016 Proceedings or the ICSE 2016 Companion Proceedings and in both the ACM Digital Library and the IEEE Digital Library."

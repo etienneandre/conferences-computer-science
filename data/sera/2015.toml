@@ -1,0 +1,21 @@
+# migrated from data.php line 27820
+edition = 13
+title = "13th International Conference on Software Engineering Research, Management and Applications"
+url = "http://sera2015.redcad.org/"
+
+[event]
+start = 2015-05-13
+end = 2015-05-15
+city = "Hammamet, Tunisia"
+
+[submission]
+format = "8 pages IEEE 2 columns"
+paper = [2015-01-22]
+notification = [2015-03-01]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Proceedings will be published by IEEE Computer Society and will be submitted to be indexed by EI, INSPEC and DBLP. The best 15 to 20 papers will be invited to publish in Studies in Computational Intelligence (SCI), Springer. A special issue is dedicated to a set of best selected papers in Innovations in Systems and Software Engineering (A NASA journal), Springer. EDITION CANCELLED DUE TO SECURITY CONCERNS IN TUNISIA."

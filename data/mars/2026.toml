@@ -1,0 +1,25 @@
+# migrated from data.php line 20063
+edition = 7
+title = "7th Workshop on Models for Formal Analysis of Real Systems"
+url = "http://mars-workshop.org/mars2026/"
+
+[event]
+start = 2026-04-12
+city = "Milan, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages EPTCS + references"
+paper = [2026-01-21, 2026-02-11]
+notification = [2026-03-11]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by-nd"
+
+[review]
+diversity = "mixed"
+
+[extra]
+colocated = "Satellite of ETAPS."
+notes = "In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."

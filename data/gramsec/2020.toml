@@ -1,0 +1,20 @@
+# migrated from data.php line 12581
+edition = 7
+title = "7th International Workshop on Graphical Models for Security"
+url = "http://gramsec.uni.lu/"
+
+[event]
+start = 2020-06-22
+city = "Online (Boston, MA, USA)"
+
+[submission]
+format = "18 pages LNCS + references (regular) / 10 pages (short)"
+paper = [2020-04-01, 2020-04-24, 2020-05-04]
+notification = [2020-05-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with CSF 2020."

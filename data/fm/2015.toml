@@ -1,0 +1,22 @@
+# migrated from data.php line 8355
+edition = 20
+title = "20th International Symposium on Formal Methods"
+url = "http://fm2015.ifi.uio.no/"
+
+[event]
+start = 2015-06-22
+end = 2015-06-26
+city = "Oslo, Norway"
+
+[submission]
+format = "Springer 15 pages (regular) / 4 pages (tool) / 15 pages (industry, different deadline)"
+abstract = [2015-01-02]
+paper = [2015-01-09]
+notification = [2015-03-23]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014)."

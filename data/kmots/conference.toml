@@ -1,0 +1,8 @@
+# KMOTS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "KMOTS"
+name = "First International Workshop on Knowledge and MOdel-driven engineering in formal development of Trustworthy Systems"
+defunct = "seemingly"
+
+[core]
+rank = "unranked"  # TODO: verify

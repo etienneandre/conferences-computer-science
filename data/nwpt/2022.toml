@@ -1,0 +1,21 @@
+# migrated from data.php line 21724
+edition = 33
+title = "33rd Nordic Workshop On Programming Theory"
+url = "https://nwpt.w.uib.no/"
+
+[event]
+start = 2022-11-02
+end = 2022-11-04
+city = "Bergen, Norway"
+
+[submission]
+tz = "AoE"
+format = "2-3 pages Easychair"
+paper = [2022-10-02]
+notification = [2022-10-17]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. Selection of best papers published in the Journal of Logic and Algebraic Programming."

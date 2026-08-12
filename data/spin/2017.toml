@@ -1,0 +1,21 @@
+# migrated from data.php line 29022
+edition = 24
+title = "24th International SPIN Symposium on Model Checking of Software"
+url = "http://conf.researchr.org/home/spin-2017"
+
+[event]
+start = 2017-07-13
+end = 2017-07-14
+city = "Santa Barbara, CA, USA"
+
+[submission]
+format = "10 pages ACM (full research paper) / 4 pages (idea / tool)"
+paper = [2017-02-10, 2017-02-17]
+notification = [2017-04-15]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Collocated with ISSTA 2017. Best Paper awards will be given and announced at the conference. Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."

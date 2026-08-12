@@ -1,0 +1,14 @@
+# FROM — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FROM"
+name = "Tenth Working Formal Methods Symposium"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "from"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "10 days (2022, 2023), unknown (2024), 15 days (2025), 7 days (2026)"  # from FROM 2026

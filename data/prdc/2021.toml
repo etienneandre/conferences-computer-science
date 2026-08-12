@@ -1,0 +1,21 @@
+# migrated from data.php line 23204
+edition = 26
+title = "26th IEEE Pacific Rim International Symposium on Dependable Computing"
+url = "http://prdc.dependability.org/PRDC2021/"
+
+[event]
+start = 2021-12-01
+end = 2021-12-04
+city = "Perth, Australia"
+
+[submission]
+format = "10 pages IEEE (regular) / 6 pages (practical experience reports)"
+paper = [2021-07-18, 2021-08-01]
+notification = [2021-08-22, 2021-08-29]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."

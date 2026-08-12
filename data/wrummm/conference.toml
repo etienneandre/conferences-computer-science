@@ -1,0 +1,5 @@
+# WRUMMM — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "WRUMMM"
+name = "Workshop on Research and Use of Multiformalism Modeling Methods"
+defunct = 2014

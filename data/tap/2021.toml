@@ -1,0 +1,27 @@
+# migrated from data.php line 31054
+edition = 15
+title = "15th International Conference on Tests & Proofs"
+url = "https://www.univ-orleans.fr/lifo/events/TAP2021"
+
+[event]
+start = 2021-06-21
+end = 2021-06-25
+online = true
+
+[submission]
+format = "16 pages LNCS + references (research) / 8 pages + ref (tool) / 6 pages + ref (short) / 4 pages (journal first)"
+abstract = [2021-01-31, 2021-03-01]
+paper = [2021-01-31, 2021-03-08]
+notification = [2021-03-15, 2021-04-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 6
+submitted = 10
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Part of STAF 2021."

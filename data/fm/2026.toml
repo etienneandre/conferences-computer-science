@@ -1,0 +1,29 @@
+# migrated from data.php line 8513
+edition = 27
+title = "27th International Symposium on Formal Methods"
+url = "https://conf.researchr.org/home/fm-2026"
+
+[event]
+start = 2026-05-20
+end = 2026-05-22
+city = "Tokyo, Japan"
+
+[submission]
+format = "Springer 15 pages + references (regular / long tool / case study) / 6 pages (short / tool demo)"
+abstract = [2025-11-25]
+paper = [2025-12-02]
+notification = [2026-02-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "free"
+
+[review]
+blind = "single"
+artifact = "Artifact evaluation."
+award = "Best paper award."
+
+[extra]
+journal = "Extended versions of selected papers will be invited for publication in a special issue of a journal to be announced soon."
+colocated = "Colocated with ABZ 2026 and TAP 2026."
+notes = "Also a doctoral symposium and industry day."

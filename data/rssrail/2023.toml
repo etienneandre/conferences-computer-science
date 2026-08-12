@@ -1,0 +1,19 @@
+# migrated from data.php line 24450
+edition = 5
+title = "International Conference on Reliability, Safety and Security of Railway Systems: Modelling, Analysis, Verification and Certification"
+url = "https://rssr2023.ebuef.de/"
+
+[event]
+start = 2023-10-10
+end = 2023-10-12
+city = "Berlin, Germany"
+
+[submission]
+format = "16 pages LNCS (regular) / 10 pages (industrial report / PhD student)"
+abstract = [2023-04-28]
+paper = [2023-05-05, 2023-05-12]
+notification = [2023-06-16, 2023-06-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

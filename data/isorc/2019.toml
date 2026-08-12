@@ -1,0 +1,18 @@
+# migrated from data.php line 17567
+edition = 22
+title = "22nd IEEE International Symposium on real-time computing"
+url = "https://isorc2019.github.io/"
+
+[event]
+start = 2019-05-07
+end = 2019-05-09
+city = "Valencia, Spain"
+
+[submission]
+format = "8 pages IEEE (regular / industrial / practitioner) / 4 pages IEEE (short research)"
+paper = [2019-01-15, 2019-01-25]
+notification = [2019-03-01]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"

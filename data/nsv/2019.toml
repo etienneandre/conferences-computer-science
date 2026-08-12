@@ -1,0 +1,21 @@
+# migrated from data.php line 21466
+edition = 12
+title = "12th International Workshop on Numerical Software Verification"
+url = "http://nsv19.mpi-sws.org/"
+
+[event]
+start = 2019-07-13
+end = 2019-07-14
+city = "New York, NY, USA"
+
+[submission]
+format = "15 pages LNCS + references (regular) / 6 pages (short / tools / benchmark / case studies)"
+paper = [2019-04-24]
+notification = [2019-05-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with CAV 2019."

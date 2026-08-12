@@ -1,0 +1,20 @@
+# migrated from data.php line 1407
+edition = 6
+title = "Sixth Automated Formal Methods (AFM) workshop"
+url = "https://ti.arc.nasa.gov/events/nfm-2017/workshops/"
+
+[event]
+start = 2017-05-19
+end = 2017-05-20
+city = "Menlo Park, CA, USA"
+
+[submission]
+format = "position / research / reports on work in progress (8 pages ACM SIG)"
+paper = [2017-03-27, 2017-04-03]
+notification = [2017-04-17, 2017-04-24]
+
+[proceedings]
+publisher = "None?"
+
+[extra]
+notes = "Previous editions: AFM06, AFM07, AFM08, AFM09, and AFM10."

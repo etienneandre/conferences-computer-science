@@ -1,0 +1,28 @@
+# migrated from data.php line 5196
+edition = 30
+title = "30th International Conference on Computer Science Logic"
+url = "http://csl2022.uni-goettingen.de/"
+
+[event]
+start = 2022-02-14
+end = 2022-02-19
+city = "Göttingen, Germany (hybrid)"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ references)"
+abstract = [2021-07-05]
+paper = [2021-07-12]
+notification = [2021-09-30]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 35
+submitted = 75
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "The Helena Rasiowa Award is the best student paper award for the CSL conference series, starting from CSL 2022"

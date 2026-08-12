@@ -1,0 +1,22 @@
+# migrated from data.php line 24993
+edition = 30
+title = "30th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications"
+url = "https://rtcsa2024.github.io/"
+
+[event]
+start = 2024-08-21
+end = 2024-08-23
+city = "Sokcho, South Korea"
+
+[submission]
+format = "10 pages IEEE 2 columns (full) / 6 pages (short), including bibliography"
+abstract = [2024-03-29]
+paper = [2024-04-05]
+notification = [2024-05-22]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "Co-located with NVMSA 2024."

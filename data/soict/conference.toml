@@ -1,0 +1,14 @@
+# SoICT — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SoICT"
+name = "International Symposium on Information and Communication Technology"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "soict"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "17 days (2016), 18 days (2018)"  # from SoICT 2025

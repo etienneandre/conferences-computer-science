@@ -1,0 +1,22 @@
+# migrated from data.php line 23483
+edition = 16
+title = "16th International Workshop on Quantitative Aspects of Programming Languages and Systems"
+url = "https://conf.researchr.org/track/etaps-2019/qapl-2019-papers"
+
+[event]
+start = 2019-04-06
+end = 2019-04-07
+city = "Prague, Czech Republic"
+
+[submission]
+tz = "AoE"
+format = "12 pages EPTCS + appendix (regular) / 3 pages (ongoing)"
+paper = [2019-02-10]
+notification = [2019-02-27]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with ETAPS. Ongoing work will not be published. A special issue in a renowned international journal is planned in case of a sufficient number of high quality submissions. Cancelled in 2018."

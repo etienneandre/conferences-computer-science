@@ -1,0 +1,22 @@
+# migrated from data.php line 7636
+edition = 15
+title = "15th International Conference Formal Aspects of Component Software"
+url = "http://sevlab.postech.ac.kr/facs18"
+
+[event]
+start = 2018-10-10
+end = 2018-10-12
+city = "Pohang, South Korea"
+
+[submission]
+format = "18 pages LNCS format (research / applications / survey) / 6 (tool)"
+abstract = [2018-06-08, 2018-06-15]
+paper = [2018-06-15, 2018-06-25]
+notification = [2018-08-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Also a Doctoral Track, in the form of abstracts (3 pages max). The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to a special issue of the Science of Computer Programming journal."

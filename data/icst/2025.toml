@@ -1,0 +1,28 @@
+# migrated from data.php line 16430
+edition = 18
+title = "18th IEEE International Conference on Software Testing, Verification and Validation"
+url = "https://conf.researchr.org/home/icst-2025"
+
+[event]
+start = 2025-03-31
+end = 2025-04-04
+city = "Naples, Italy"
+
+[submission]
+format = "10 pages IEEE (+ 2 pages for references)"
+abstract = [2024-09-18, 2024-09-25]
+paper = [2024-09-25, 2024-10-02]
+notification = [2024-12-11, 2024-12-18]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+diversity = "mixed"
+artifact = "Submissions must supply all information needed to replicate the results and therefore are expected to include or point to an anonymized replication package with the necessary software, data, and instructions."
+competition = "Tool competition"
+
+[extra]
+notes = "Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers…"

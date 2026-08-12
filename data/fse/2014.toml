@@ -1,0 +1,22 @@
+# migrated from data.php line 6717
+edition = 22
+title = "22nd ACM SIGSOFT International Symposium on the Foundations of Software Engineering"
+url = "http://fse22.gatech.edu/"
+
+[event]
+start = 2014-11-16
+end = 2014-11-22
+city = "Hong Kong"
+
+[submission]
+tz = "AoE"
+format = "10+1 pages FSE format"
+paper = [2014-03-16]
+notification = [2014-06-16]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Deadline AoE. ACM SIGSOFT will make the conference proceedings in the ACM Digital Library fully open for download two weeks prior to the conference."

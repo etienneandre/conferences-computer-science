@@ -1,0 +1,23 @@
+# migrated from data.php line 11726
+edition = 44
+title = "44th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "https://www.fsttcs.org.in/2024/"
+
+[event]
+start = 2024-12-16
+end = 2024-12-18
+city = "IIT Gandhinagar, India"
+
+[submission]
+tz = "AoE"
+format = "15 pages in LIPIcs (+ bibliography + appendix)"
+abstract = [2024-07-05]
+paper = [2024-07-12]
+notification = [2024-09-16]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Always in India. Double blind. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."

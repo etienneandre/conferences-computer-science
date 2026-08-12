@@ -1,0 +1,21 @@
+# migrated from data.php line 12803
+edition = 12
+title = "12th Workshop on Horn Clauses for Verification and Synthesis"
+url = "https://www.sci.unich.it/hcvs25/"
+
+[event]
+start = 2025-07-22
+city = "Zagreb, Croatia"
+
+[submission]
+tz = "AoE"
+format = "12 pages EPTCS + biblio (regular) / 4 pages (tools) / 3 pages (extended abstract)"
+paper = [2025-05-16, 2025-05-30]
+notification = [2025-06-15]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with CAV 2025. HCVS 2025 is planning to host the 8th competition on constraint Horn clauses (CHC-COMP), which will compare state-of-the-art tools for CHC solving for performance and effectiveness on a set of publicly available benchmarks."

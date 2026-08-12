@@ -1,0 +1,21 @@
+# migrated from data.php line 18899
+edition = 9
+title = "9th international conference on language and automata theory and applications"
+url = "http://grammars.grlmc.com/lata2015/"
+
+[event]
+start = 2015-03-02
+end = 2015-03-06
+city = "Nice, France"
+
+[submission]
+format = "12 pages Springer"
+paper = [2014-10-16]
+notification = [2014-11-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A special issue of the Journal of Computer and System Sciences (Elsevier, 2013 JCR impact factor: 1.0) will be later published containing peer-reviewed substantially extended versions of some of the papers contributed to the conference. Submissions to it will be by invitation."

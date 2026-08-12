@@ -1,0 +1,22 @@
+# migrated from data.php line 17262
+edition = 27
+title = "27th International Joint Conference on Artificial Intelligence"
+url = "https://www.ijcai-18.org/"
+
+[event]
+start = 2018-07-13
+end = 2018-07-19
+city = "Stockholm, Sweden"
+
+[submission]
+format = "6 pages + 1 page references"
+abstract = [2018-01-25]
+paper = [2018-01-31, 2018-02-02]
+notification = [2018-04-16]
+
+[proceedings]
+publisher = "AAAI Press"
+license = "free-copy"
+
+[extra]
+notes = "Double-blind submission. Rebuttal period: March 19-23, 2018 (special track on AI & autonomy only). Authors lose their rights, but proceedings (e.g., 2015, 2016) are freely available online. Every two years until 2016, then became yearly."

@@ -1,0 +1,22 @@
+# migrated from data.php line 24072
+edition = 12
+title = "12th International Conference on Reachability Problems"
+url = "https://rp2018.lis-lab.fr/"
+
+[event]
+start = 2018-09-24
+end = 2018-09-26
+city = "Marseille, France"
+
+[submission]
+format = "12 pages LNCS"
+abstract = [2018-05-31]
+paper = [2018-06-07, 2018-06-15]
+notification = [2018-07-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017), 8 days (2018). A selection of up to five articles among the contributed papers will be invited to a special issue of Fundamenta Informaticae."

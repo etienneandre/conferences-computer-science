@@ -1,0 +1,23 @@
+# migrated from data.php line 16561
+edition = 14
+title = "14th International Colloquium on Theoretical Aspects of Computing"
+url = "http://fit.uet.vnu.edu.vn/ictac2017/"
+
+[event]
+start = 2017-10-23
+end = 2017-10-27
+city = "Hà Nội, Việt Nam"
+
+[submission]
+format = "18 pages LNCS (regular) / 10 pages LNCS (short / tool)"
+paper = [2017-04-12, 2017-04-22]
+notification = [2017-06-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 17
+submitted = 40
+# TODO: verify — extracted from the cross-year acceptance string.

@@ -1,0 +1,28 @@
+# migrated from data.php line 6355
+edition = 23
+title = "23rd International Conference on Embedded Software"
+url = "https://esweek.org/emsoft/"
+
+[event]
+start = 2023-09-17
+end = 2023-09-22
+city = "Hamburg, Germany"
+
+[submission]
+tz = "AoE"
+format = "20 pages in ACM one-column format"
+abstract = [2023-03-16]
+paper = [2023-03-23]
+notification = [2023-06-30]
+
+[proceedings]
+publisher = "ACM/IEEE"
+license = "acm"
+
+[stats]
+accepted = 21
+submitted = 90
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "EMSOFT 2023 has a dual publication model with two tracks. Journal track papers will be published in ACM Transactions on Embedded Computing Systems (TECS) and Work-in-Progress track papers will be published in the ESWEEK Proceedings. Double blind process. No appendix. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021, 2022, 2023)."

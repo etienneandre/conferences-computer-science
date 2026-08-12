@@ -1,0 +1,22 @@
+# migrated from data.php line 27428
+edition = 13
+title = "13th International Conference on Software Engineering and Formal Methods"
+url = "http://www.cs.york.ac.uk/sefm2015/"
+
+[event]
+start = 2015-09-07
+end = 2015-09-11
+city = "York, UK"
+
+[submission]
+format = "15 pages (research / tools) / 6 pages (New ideas/Work-in-Progress) LNCS"
+abstract = [2015-03-13]
+paper = [2015-03-20]
+notification = [2015-05-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "After the conference, authors of selected papers will be invited to submit an extended version of their work to be considered for publication in a special issue of Software and Systems Modeling, Springer. Appendix: 2 pages allowed (not integrated in the proceedings)."

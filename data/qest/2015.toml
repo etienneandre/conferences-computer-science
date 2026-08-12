@@ -1,0 +1,22 @@
+# migrated from data.php line 23511
+edition = 12
+title = "12th International Conference on Quantitative Evaluation of SysTems"
+url = "http://www.qest.org/qest2015/"
+
+[event]
+start = 2015-09-01
+end = 2015-09-03
+city = "Madrid, Spain"
+
+[submission]
+format = "16 pages LNCS (Theoretical / Methodological and technical / Application / Tools); 4 pages LNCS (Tool demonstration)"
+abstract = [2015-03-13]
+paper = [2015-03-20]
+notification = [2015-05-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with FORMATS, CONCUR and TGC. Author feedback/rebuttal period: 22-25 April 2015. Proceedings index by ISI Web of Science, Scopus, ACM Digital Library, dblp, Google Scholar. Accepted tool descriptions will appear in the conference proceedings. Selected papers will appear in a special issue of a journal."

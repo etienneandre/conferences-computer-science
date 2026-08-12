@@ -1,0 +1,22 @@
+# migrated from data.php line 4463
+edition = 26
+title = "26th International Conference on Concurrency Theory"
+url = "http://mafalda.fdi.ucm.es/concur2015/"
+
+[event]
+start = 2015-09-01
+end = 2015-09-04
+city = "Madrid, Spain"
+
+[submission]
+format = "13 pages LIPIcs (+ appendix)"
+abstract = [2015-04-13]
+paper = [2015-04-20]
+notification = [2015-06-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Colocated with FORMATS, QEST and TGC"

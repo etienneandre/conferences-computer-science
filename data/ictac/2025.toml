@@ -1,0 +1,23 @@
+# migrated from data.php line 16783
+edition = 22
+title = "22nd International Colloquium on Theoretical Aspects of Computing"
+url = "https://ictac2025.digital-hub.sh/"
+
+[event]
+start = 2025-11-24
+end = 2025-11-28
+city = "Marrakech, Morocco"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (original research / applications) + 2 pages bibliography / 8 pages LNCS (short / tool)"
+abstract = [2025-06-14, 2025-07-03]
+paper = [2025-06-21, 2025-07-09]
+notification = [2025-08-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+journal = "A special issue of selected papers in Elsevier’s journal Theoretical Computer Science is under negotiation."

@@ -1,0 +1,25 @@
+# RTSS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "RTSS"
+name = "IEEE Real-Time Systems Symposium"
+
+[core]
+id = "1701"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2015
+rank = "A*"
+
+[[core.history]]
+from = 2026
+rank = "A"
+
+[links]
+dblp = "rtss"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "21% (2011), 22% (35/257, 2012), 23% (36/160, 2013), 21% (33/154, 2014), 23% (34/151, 2015), 23% (32/137, 2016)"  # from RTSS 2026
+extensions = "Firm submission deadline (2014-2026)"  # from RTSS 2026

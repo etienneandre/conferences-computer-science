@@ -1,0 +1,30 @@
+# migrated from data.php line 11750
+edition = 45
+title = "45th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "https://www.fsttcs.org.in/2025/"
+
+[event]
+start = 2025-12-17
+end = 2025-12-19
+city = "Goa Campus, India"
+
+[submission]
+tz = "AoE"
+format = "15 pages in LIPIcs (+ bibliography + appendix)"
+abstract = [2025-07-04]
+paper = [2025-07-11]
+notification = [2025-09-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "double"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2025-08-26
+rebuttal_end = 2025-08-28
+
+[extra]
+notes = "Always in India."

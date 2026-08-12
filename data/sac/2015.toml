@@ -1,0 +1,21 @@
+# migrated from data.php line 26403
+edition = 30
+title = "The 30th Annual ACM Symposium on Applied Computing"
+url = "http://www.acm.org/conferences/sac/sac2015/"
+
+[event]
+start = 2015-04-13
+end = 2015-04-17
+city = "Salamanca, Spain"
+
+[submission]
+format = "6 pages ACM SAC"
+paper = [2014-09-12]
+notification = [2014-11-17]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "37 tracks, student abstracts, etc. WARNING: double-blind reviews!"

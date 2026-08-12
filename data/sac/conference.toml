@@ -1,0 +1,25 @@
+# SAC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SAC"
+name = "ACM/SIGAPP Symposium On Applied Computing"
+
+[core]
+id = "59"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2016
+rank = "B"
+
+[[core.history]]
+from = 2026
+rank = "unranked"
+
+[links]
+dblp = "sac"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "23% (180/773) in 2024"  # from SAC 2026
+extensions = "10+7 days (2016, with notification extension by 10 days without announcement); 14 days (2017), 10 days (2018), 14 days including notification (2019), 29 days (2020), 9+7 days (2022), 14+9 days (2023), firm but in fact 14+14 days (2024), 14+9 days (2025), 14+7 days (2026)"  # from SAC 2026

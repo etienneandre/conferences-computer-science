@@ -1,0 +1,21 @@
+# migrated from data.php line 16672
+edition = 18
+title = "18th International Colloquium on Theoretical Aspects of Computing"
+url = "https://ictac2021.github.io/"
+
+[event]
+start = 2021-09-06
+end = 2021-09-10
+online = true
+
+[submission]
+format = "16 pages LNCS (original research / applications) + bibliography / 6 pages LNCS (short / tool)"
+paper = [2021-05-07, 2021-05-14]
+notification = [2021-06-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The ICTAC committee will evaluate and select the best paper award winner. The winner will receive a cash award. Theoretical Computer Science special issue."

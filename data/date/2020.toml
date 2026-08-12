@@ -1,0 +1,23 @@
+# migrated from data.php line 5615
+edition = 23
+title = "Design Automation and Test in Europe Conference"
+url = "http://www.date-conference.com/"
+
+[event]
+start = 2020-03-09
+end = 2020-03-13
+city = "Grenoble, France"
+
+[submission]
+tz = "CET"
+format = "6 pages IEEE"
+abstract = [2019-09-08, 2019-09-22]
+paper = [2019-09-09, 2019-09-29]
+notification = [2019-11-07]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind submissions. 4 tracks, 28 topics. WARNING: deadline CET! Deadline extension: 20 days (2020)"

@@ -1,0 +1,21 @@
+# migrated from data.php line 6518
+edition = 20
+title = "20th European Performance Engineering Workshop"
+url = "https://epew-workshop.github.io/"
+
+[event]
+start = 2024-06-14
+city = "Venice, Italy"
+
+[submission]
+format = "15 pages LNCS (including references)"
+abstract = [2024-04-07]
+paper = [2024-04-07]
+notification = [2024-05-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Best paper presentation award."

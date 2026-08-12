@@ -1,0 +1,21 @@
+# migrated from data.php line 25229
+edition = 25
+title = "25th International Conference on Real-Time Networks and Systems"
+url = "http://www.rtns17.org/"
+
+[event]
+start = 2017-10-04
+end = 2017-10-06
+city = "Grenoble, France"
+
+[submission]
+format = "10 pages ACM 2 columns"
+paper = [2017-07-17]
+notification = [2017-09-01]
+
+[proceedings]
+publisher = "ACM ICPS"
+license = "acm"
+
+[extra]
+notes = "Always in France (?). No deadline extension (2014, 2015, 2016). A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems (Springer). Prizes will be awarded for best paper. RTNS 2017 will have the artifact evaluation for the accepted papers, to enable reproducible research."

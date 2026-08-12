@@ -1,0 +1,20 @@
+# migrated from data.php line 20691
+edition = 2
+title = "2nd ICAPS Workshop on Model Checking and Automated Planning (MOCHAP-14)"
+url = "http://www.cs.bgu.ac.il/~icaps15/workshops/mochap.html"
+
+[event]
+start = 2015-06-07
+city = "Jerusalem, Israel"
+
+[submission]
+format = "8 pages AAAI (full technical) / 1-2 (extended) / already published (unlimited)"
+paper = [2015-02-20, 2015-03-06]
+notification = [2015-03-20]
+
+[proceedings]
+publisher = "Web site?"
+license = "free"
+
+[extra]
+notes = "Previously accepted papers allowed in a special session (Deadline: February 20th). Accepted original papers will be published on the workshop website and printed as a hard-copy. An extended abstract for previously published papers will be published in the proceedings."

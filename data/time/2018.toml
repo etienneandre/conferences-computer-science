@@ -1,0 +1,22 @@
+# migrated from data.php line 31869
+edition = 25
+title = "25th International Symposium on Temporal Representation and Reasoning"
+url = "https://time2018.ipipan.waw.pl/"
+
+[event]
+start = 2018-10-15
+end = 2018-10-17
+city = "Warsaw, Poland"
+
+[submission]
+format = "15 pages LIPIcs (+ references + appendix)"
+abstract = [2018-05-07, 2018-05-14]
+paper = [2018-05-11, 2018-05-21]
+notification = [2018-06-26]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of the journal Theoretical Computer Science."

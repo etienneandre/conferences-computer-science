@@ -1,0 +1,26 @@
+# migrated from data.php line 24189
+edition = 16
+title = "16th International Conference on Reachability Problems"
+url = "https://rp2022.mpi-sws.org"
+
+[event]
+start = 2022-10-17
+end = 2022-10-19
+city = "Kaiserslautern, Germany"
+
+[submission]
+format = "14 pages LNCS (+ ref + appendix)"
+paper = [2022-06-28, 2022-07-14]
+notification = [2022-08-01, 2022-08-17]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 8
+submitted = 14
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017), 8 days (2018), 10 days (2019), 14 days (2020), 7 days (2021), 16 days (2022). A selection of up to five articles among the contributed papers will be invited to a special issue of a journal. Also a Presentation-Only Papers track, which usually attracts 6-8 high quality presentations from ICALP, CONCUR, LICS, MFCS, CAV, etc."

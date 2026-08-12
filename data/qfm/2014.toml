@@ -1,0 +1,21 @@
+# migrated from data.php line 23358
+edition = 2
+title = "2nd workshop on Quantitative Formal Methods"
+url = "http://web.science.mq.edu.au/conferences/qfm14/"
+
+[event]
+start = 2014-05-12
+city = "Singapore"
+
+[submission]
+tz = "UTC"
+format = "10 pages EPTCS"
+paper = [2014-03-01]
+notification = [2014-04-01]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Warning: Deadline 23h UTC"

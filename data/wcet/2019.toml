@@ -1,0 +1,21 @@
+# migrated from data.php line 34113
+edition = 19
+title = "19th International Workshop on Worst-Case Execution Time Analysis"
+url = "http://www.ecrts.org/wcet"
+
+[event]
+start = 2019-07-09
+city = "Stuttgart, Germany"
+
+[submission]
+tz = "UTC-12"
+format = "10 pages OASIcs"
+paper = [2019-04-16]
+notification = [2019-05-14]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with ECRTS."

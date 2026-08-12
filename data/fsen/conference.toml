@@ -1,0 +1,15 @@
+# FSEN — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FSEN"
+name = "Eleventh International Conference on Fundamentals of Software Engineering 2025 - Theory and Practice"
+frequency = "Every two years."
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "fsen"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "2 weeks (2015, 2021), 3 weeks (2023), 2 weeks (2025)"  # from FSEN 2027

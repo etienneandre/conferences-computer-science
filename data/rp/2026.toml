@@ -1,0 +1,28 @@
+# migrated from data.php line 24319
+edition = 20
+title = "20th International Conference on Reachability Problems"
+url = "https://math.utu.fi/rp26/"
+
+[event]
+start = 2026-10-21
+end = 2026-10-23
+city = "Turku, Finland"
+
+[submission]
+tz = "AoE"
+format = "12 pages LNCS (+ ref + appendix)"
+paper = [2026-06-21, 2026-06-30]
+notification = [2026-08-03]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+artifact = "For papers reporting experimental results, authors are encouraged to make their data available with their submission."
+award = "Best Paper Award, with a prize of EUR 500,  sponsored by Springer"
+
+[extra]
+notes = "Also presentation-only contributions."

@@ -1,0 +1,20 @@
+# migrated from data.php line 34656
+edition = 12
+title = "12th International Workshop on Automated Specification and Verification of Web Systems"
+url = "http://www.lucavigano.com/WWV2016/"
+
+[event]
+start = 2016-06-26
+city = "Porto, Portugal"
+
+[submission]
+format = "16 pages EPTCS (long) + appendix, 8 pages (short)"
+paper = [2016-04-16]
+notification = [2016-05-13]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Affiliated with Formal Structures for Computation and Deduction (FSCD) 2016. An open call for a special issue in a highly-reputed journal on the topic of the WWV workshop is envisaged (common practice for WWV since 2009)"

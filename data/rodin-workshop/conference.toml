@@ -1,0 +1,7 @@
+# Rodin Workshop — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "Rodin Workshop"
+name = "Rodin User and Developer Workshop"
+
+[core]
+rank = "absent"  # TODO: verify

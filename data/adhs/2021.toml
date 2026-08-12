@@ -1,0 +1,21 @@
+# migrated from data.php line 1032
+edition = 7
+title = "7th IFAC Conference on Analysis and Design of Hybrid Systems"
+url = "https://sites.uclouvain.be/adhs21/"
+
+[event]
+start = 2021-07-07
+end = 2021-07-09
+online = true
+
+[submission]
+format = "6 pages IFAC (8 pages for submission)"
+paper = [2020-12-23, 2021-01-08]
+notification = [2021-02-15]
+
+[proceedings]
+publisher = "Science Direct"
+license = "free-copy"
+
+[extra]
+notes = "Every 3 years. A Best Paper Award and a Best Repeatability Award (new!) will also be awarded during the conference"

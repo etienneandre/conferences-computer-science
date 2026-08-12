@@ -1,0 +1,22 @@
+# migrated from data.php line 3022
+edition = 18
+title = "18th International Conference on Business Process Management"
+url = "https://congreso.us.es/bpm2020/"
+
+[event]
+start = 2020-09-13
+end = 2020-09-18
+city = "Sevilla, Spain"
+
+[submission]
+format = "16 pages LNCS"
+abstract = [2020-03-16]
+paper = [2020-03-16]
+notification = [2020-05-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Pre-submission shepherding program for first-time submitters. Authors of selected papers will be invited to submit an extended version to special issues in Elsevier’s Information Systems (Tracks I and II) and in Springer’s Business & Information Systems Engineering (Track III)."

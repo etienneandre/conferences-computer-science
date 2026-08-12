@@ -1,0 +1,23 @@
+# migrated from data.php line 11587
+edition = 38
+title = "38th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "http://www.fsttcs.org/"
+
+[event]
+start = 2018-12-10
+end = 2018-12-14
+city = "Ahmedabad University"
+
+[submission]
+tz = "AoE"
+format = "12 pages in LIPIcs (including bibliography) + unlimited appendix"
+abstract = [2018-07-24]
+paper = [2018-07-31]
+notification = [2018-09-24]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Always in India. Published in CC-BY in Leibniz International Proceedings in Informatics (LIPIcs) as a free, open, electronic archive with access to all. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."

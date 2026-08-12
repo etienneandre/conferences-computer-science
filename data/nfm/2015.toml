@@ -1,0 +1,26 @@
+# migrated from data.php line 21026
+edition = 7
+title = "7th NASA Formal Methods Symposium"
+url = "http://www.NASAFormalMethods.org/nfm2015"
+
+[event]
+start = 2015-04-27
+end = 2015-04-29
+city = "Pasadena, California, USA"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short)"
+paper = [2014-11-18]
+notification = [2015-01-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 33
+submitted = 108
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "No registration fees."

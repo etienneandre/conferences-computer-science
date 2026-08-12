@@ -1,0 +1,21 @@
+# migrated from data.php line 13268
+edition = 21
+title = "21st ACM International Conference on Hybrid Systems: Computation and Control"
+url = "https://www.hscc2018.deib.polimi.it/"
+
+[event]
+start = 2018-04-11
+end = 2018-04-13
+city = "Porto, Portugal"
+
+[submission]
+format = "10 pages ACM (regular) / 6 pages (tools and case studies) / 2 pages (demo/posters, not published)"
+paper = [2017-10-06]
+notification = [2017-12-20]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Part of Cyber Physical Systems (CPS) Week. No deadline extension possible. Authors of distinguished papers may be invited to submit an extended version of their work for possible publication in a Special issue of a leading journal. Light double-blind reviewing process. Several best paper awards."

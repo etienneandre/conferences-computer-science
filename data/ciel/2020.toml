@@ -1,0 +1,21 @@
+# migrated from data.php line 4092
+edition = 9
+title = "9e Conférence en IngénieriE du Logiciel"
+url = "https://ciel2020.wp.imt.fr"
+
+[event]
+start = 2020-06-18
+end = 2020-06-19
+city = "Vannes, France"
+
+[submission]
+format = "? pages Easychair (long) / 5 pages (short)"
+abstract = [2020-05-01]
+paper = [2020-05-08]
+notification = [2020-05-29]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "In French or English. Co-located with GDR-GPL. Les papiers longs auront la possibilité d’être étendus et évalués à nouveau pour paraître dans un numéro spécial de la revue TSI. Pas de date limite pour articles longs (au fil de l’eau) Deadline extension: 2 weeks (2015, 2016). CANCELLED."

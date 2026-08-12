@@ -1,0 +1,8 @@
+# WWV — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "WWV"
+name = "International Workshop on Automated Specification and Verification of Web Systems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

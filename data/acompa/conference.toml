@@ -1,0 +1,15 @@
+# ACOMPA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ACOMPA"
+name = "International Conference on Advanced Computing and Analytics"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "acomp"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "33% (32/96) in 2013"  # from ACOMPA 2025
+extensions = "1 week in 2013, 20 days in 2014 (and notification extended by 10 days)"  # from ACOMPA 2025

@@ -1,0 +1,23 @@
+# migrated from data.php line 5691
+edition = 29
+title = "29th Design Automation and Test in Europe Conference"
+url = "https://www.date-conference.com/"
+
+[event]
+start = 2026-04-20
+end = 2026-04-22
+city = "Verona, Italy"
+
+[submission]
+tz = "AoE"
+format = "6 pages IEEE + 1 page references"
+abstract = [2024-09-15]
+paper = [2024-09-22]
+notification = [2024-11-19]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind. 4 tracks."

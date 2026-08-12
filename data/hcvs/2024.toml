@@ -1,0 +1,21 @@
+# migrated from data.php line 12779
+edition = 11
+title = "11th Workshop on Horn Clauses for Verification and Synthesis"
+url = "https://www.sci.unich.it/hcvs24/"
+
+[event]
+start = 2024-04-07
+city = "Luxembourg"
+
+[submission]
+tz = "AoE"
+format = "12 pages EPTCS + biblio (regular) / 4 pages (tools) / 3 pages (extended abstract)"
+paper = [2024-02-02]
+notification = [2024-03-01]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Affiliated with ETAPS 2024. Competition: HCVS 2024 is planning to host the 7th competition on constraint Horn clauses (CHC-COMP), which will compare state-of-the-art tools for CHC solving for performance and effectiveness on a set of publicly available benchmarks."

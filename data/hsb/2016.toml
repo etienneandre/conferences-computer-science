@@ -1,0 +1,18 @@
+# migrated from data.php line 13116
+edition = 5
+title = "5th International Workshop on Hybrid Systems Biology"
+url = "http://hsb2016.imag.fr/"
+
+[event]
+start = 2016-10-20
+end = 2016-10-21
+city = "Grenoble, France"
+
+[submission]
+format = "15 pages LNCS/LNBI (regular) / 6 pages (short)"
+paper = [2016-06-16, 2016-06-24]
+notification = [2016-07-16, 2016-07-24]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"

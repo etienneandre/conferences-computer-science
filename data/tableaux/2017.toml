@@ -1,0 +1,22 @@
+# migrated from data.php line 30426
+edition = 26
+title = "26th International Conference on Automated Reasoning with Analytic Tableaux and Related Methods"
+url = "http://tableaux2017.cic.unb.br/"
+
+[event]
+start = 2017-09-25
+end = 2017-09-28
+city = "Brasília, Brazil"
+
+[submission]
+format = "15 pages LNCS (research) / 9 pages (system descriptions)"
+abstract = [2017-04-18, 2017-04-28]
+paper = [2017-04-25, 2017-04-28]
+notification = [2017-06-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The TABLEAUX 2017 Best Paper Award will be presented to the best submission nominated and chosen by the Program Committee among the accepted papers."

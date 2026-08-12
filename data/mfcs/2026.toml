@@ -1,0 +1,28 @@
+# migrated from data.php line 20567
+edition = 51
+title = "51st International Symposium on Mathematical Foundations of Computer Science"
+url = "https://mfcs2026.irif.fr/"
+
+[event]
+start = 2026-08-24
+end = 2026-08-28
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ title + references + appendix)"
+abstract = [2026-04-24]
+paper = [2026-04-24]
+notification = [2026-06-19]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "single"
+award = "Papers authored only by students should be marked as such at the time of submission in order to be eligible for the best student paper award."
+environment = "NEW in 2026: Up to 10 papers will be accepted by the program committee, for which no presence onsite is required."
+
+[extra]
+colocated = "The conference will be preceded, on August 23, by the Young Research Forum Workshop intended for students and postdocs."

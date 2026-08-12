@@ -1,0 +1,22 @@
+# migrated from data.php line 416
+edition = 9
+title = "9th International Conference on Rigorous State Based Methods"
+url = "https://abz2023.loria.fr/"
+
+[event]
+start = 2023-05-30
+end = 2023-06-02
+city = "Nancy, France"
+
+[submission]
+format = "16 pages LNCS + references (research, case study) / 6 pages (short / work in progress / tool / journal-first) / 8 pages (application in industry)"
+abstract = [2023-01-16]
+paper = [2023-01-23, 2023-01-30]
+notification = [2023-03-06]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 20 days (2014), 7 days (2018, 2021, 2023)."

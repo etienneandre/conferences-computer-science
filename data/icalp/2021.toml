@@ -1,0 +1,22 @@
+# migrated from data.php line 13884
+edition = 48
+title = "48th International Colloquium on Automata, Languages and Programming"
+url = "https://easyconferences.eu/icalp2021/"
+
+[event]
+start = 2021-07-12
+end = 2021-07-16
+online = true
+
+[submission]
+tz = "UTC"
+format = "12 pages LIPIcs + ref"
+paper = [2021-02-12]
+notification = [2021-05-07]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm (6 days in 2020 due to relocation)."

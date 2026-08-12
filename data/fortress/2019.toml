@@ -1,0 +1,20 @@
+# migrated from data.php line 10614
+edition = 2
+title = "2nd International Workshop on Formal Techniques for Real-Time Systems"
+url = "http://www.etfa2019.org/ws02-workshop-on-formal-techniques-for-real-time-systems-fortress/"
+
+[event]
+start = 2019-09-10
+end = 2019-09-13
+city = "Zaragoza, Spain"
+
+[submission]
+format = "8 pages IEEE"
+paper = [2019-05-13, 2019-06-24]
+notification = [2019-06-10, 2019-07-01]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Satellite of ETFA"

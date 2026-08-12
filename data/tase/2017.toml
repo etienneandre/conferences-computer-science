@@ -1,0 +1,27 @@
+# migrated from data.php line 31360
+edition = 11
+title = "11th International Symposium on Theoretical Aspects of Software Engineering"
+url = "http://tase2017.unice.fr"
+
+[event]
+start = 2017-09-13
+end = 2017-09-15
+city = "Sophia Antipolis, France"
+
+[submission]
+tz = "UTC"
+format = "8 pages IEEE"
+abstract = [2017-03-12, 2017-03-26]
+paper = [2017-03-19, 2017-04-02]
+notification = [2017-05-21]
+
+[proceedings]
+publisher = "IEEE Computer Society Press"
+license = "pay"
+
+[stats]
+rate = 35.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Warning: all deadlines are UTC. The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Almost always in China (except once in UK and once in Taiwan)."

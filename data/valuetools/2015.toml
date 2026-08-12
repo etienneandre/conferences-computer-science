@@ -1,0 +1,21 @@
+# migrated from data.php line 32377
+edition = 9
+title = "9th International Conference on Performance Evaluation Methodologies and Tools"
+url = "http://www.valuetools.org"
+
+[event]
+start = 2015-12-14
+end = 2015-12-16
+city = "Berlin, Germany"
+
+[submission]
+format = "8 pages ACM (regular) / 6 pages (Tool papers & presentations) / 4 pages (Posters and Short Papers) / 2 pages (Fast Abstracts)"
+paper = [2015-09-14]
+notification = [2015-10-15]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Additionally, a special issue in Performance Evaluation is planned. Fast Abstracts will be published as a Technical Report. Fast Abstract Submissions: 5 October 2015."

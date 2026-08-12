@@ -1,0 +1,22 @@
+# migrated from data.php line 10787
+edition = 25
+title = "25th International Conference on Foundations of Software Science and Computation Structures"
+url = "https://etaps.org/2022/fossacs"
+
+[event]
+start = 2022-04-02
+end = 2022-04-07
+city = "Munich, Germany"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography"
+paper = [2021-10-14]
+notification = [2021-12-23]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of ETAPS 2022. Single-blind, with a rebuttal phase. Rebuttal phase: 7 December 00:01 AoE - 9 December 23:59 AoE 2021. Authors of best papers will be invited to submit extended versions of their papers to Logical Methods in Computer Science."

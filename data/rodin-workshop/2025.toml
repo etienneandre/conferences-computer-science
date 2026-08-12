@@ -1,0 +1,19 @@
+# migrated from data.php line 23942
+edition = 12
+title = "12th Rodin User and Developer Workshop"
+url = "https://wiki.event-b.org/index.php/Rodin_Workshop_2025"
+
+[event]
+start = 2025-06-10
+city = "Düsseldorf, Germany"
+
+[submission]
+format = "1-2 pages"
+paper = [2025-05-10]
+
+[proceedings]
+publisher = "informal"
+license = "free-copy"
+
+[extra]
+notes = "Collocated with ABZ 2025"

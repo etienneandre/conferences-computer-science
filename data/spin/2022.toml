@@ -1,0 +1,22 @@
+# migrated from data.php line 29155
+edition = 28
+title = "28th International SPIN Symposium on Model Checking of Software"
+url = "https://spin2022chi.web.illinois.edu"
+
+[event]
+start = 2022-05-21
+end = 2022-05-22
+city = "Chicago, Illinois, USA"
+
+[submission]
+tz = "AoE"
+format = "16 pages + references (technical) / 6 pages (short) + references / 4 pages (tool demo)"
+paper = [2022-03-25]
+notification = [2022-04-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Best Paper awards will be given and announced at the conference. Traditionally, a selection of papers were invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT)."

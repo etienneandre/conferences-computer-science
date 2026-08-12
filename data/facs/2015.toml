@@ -1,0 +1,25 @@
+# migrated from data.php line 7545
+edition = 12
+title = "12th International Symposium Formal Aspects of Component Software"
+url = "http://facs2015.ic.uff.br"
+
+[event]
+start = 2015-10-14
+end = 2015-10-16
+city = "Rio de Janeiro, Brazil"
+
+[submission]
+format = "18 pages LNCS format (research / applications / survey) / 6 (tool)"
+abstract = [2015-06-22, 2015-07-03]
+paper = [2015-06-28, 2015-07-08, 2015-07-12]
+notification = [2015-08-28]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = """
+Also a Doctoral Track, in the form of abstracts (3 pages max). The authors of a selected subset of accepted papers will be invited to
+submit extended versions of their papers to a special issue of the
+Science of Computer Programming journal."""

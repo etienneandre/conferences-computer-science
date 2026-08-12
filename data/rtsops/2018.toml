@@ -1,0 +1,19 @@
+# migrated from data.php line 25562
+edition = 9
+title = "9th International Real-Time Scheduling Open Problems Seminar"
+url = "http://rtsops2018.loria.fr/"
+
+[event]
+start = 2018-07-03
+city = "Barcelona, Spain"
+
+[submission]
+format = "2 A4 pages"
+paper = [2018-04-17, 2018-04-24]
+notification = [2018-05-15]
+
+[proceedings]
+publisher = "none?"
+
+[extra]
+notes = "Co-located with ECRTS. The authors of the paper that will present the most interesting open problem will be rewarded with an IPad sponsored by Inria."

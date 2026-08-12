@@ -1,0 +1,22 @@
+# migrated from data.php line 26831
+edition = 37
+title = "37th International Conference on Computer Safety, Reliability and Security"
+url = "http://www.es.mdh.se/safecomp2018/"
+
+[event]
+start = 2018-09-19
+end = 2018-09-21
+city = "Västerås, Sweden"
+
+[submission]
+tz = "AoE"
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / fast abstract and work in progress (2 pages)"
+paper = [2018-02-28, 2018-03-12]
+notification = [2018-05-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Best papers invited in a special issue of a safety-related international journal. 2018 SPECIAL THEME: Cross and intra domain reuse of engineering and certification artefacts: challenges and opportunities."

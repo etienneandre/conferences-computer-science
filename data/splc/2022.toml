@@ -1,0 +1,22 @@
+# migrated from data.php line 29387
+edition = 26
+title = "26th International Systems and Software Product Line Conference"
+url = "http://2022.splc.net/"
+
+[event]
+start = 2022-09-12
+end = 2022-09-16
+city = "Graz, Austria"
+
+[submission]
+format = "10 pages ACM + 2 pages references (full) / 5+2 pages (short)"
+abstract = [2022-04-08]
+paper = [2022-04-21]
+notification = [2022-06-02]
+
+[proceedings]
+publisher = "ACM digital library"
+license = "acm"
+
+[extra]
+notes = "There will be two best paper awards. Optional artifact evaluation. Negotiating a special issue with a top-tier journal."

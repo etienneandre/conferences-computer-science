@@ -1,0 +1,22 @@
+# migrated from data.php line 15255
+edition = 14
+title = "14th International Conference On Smart homes and health Telematics"
+url = "http://icost.cs.iastate.edu/"
+
+[event]
+start = 2016-05-25
+end = 2016-05-27
+city = "Wuhan, China"
+
+[submission]
+format = "12 pages LNCS"
+abstract = [2016-01-25]
+paper = [2016-02-26]
+notification = [2016-03-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Warning: double blind submission! Abstract not required."

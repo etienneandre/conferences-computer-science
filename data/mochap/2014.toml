@@ -1,0 +1,21 @@
+# migrated from data.php line 20669
+edition = 1
+title = "1st ICAPS Workshop on Model Checking and Automated Planning (MOCHAP-14)"
+url = "http://icaps14.icaps-conference.org/workshops_tutorials/mochap.html"
+
+[event]
+start = 2014-06-22
+end = 2014-06-23
+city = "Portsmouth, USA"
+
+[submission]
+format = "8+1 pages AAAI (full technical) / 4 (short)"
+paper = [2014-02-20]
+notification = [2014-03-20]
+
+[proceedings]
+publisher = "AAAI"
+license = "pay"
+
+[extra]
+notes = "Previously accepted papers allowed in a special session (Deadline: February 20th). An extended version of selected papers will be included in the MOCHAP special issue in the AI Communications journal."

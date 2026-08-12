@@ -1,0 +1,21 @@
+# migrated from data.php line 8161
+edition = 1
+title = "1st International Conference on Future Data and Security Engineering"
+url = "http://www.cse.hcmut.edu.vn/fdse2014/"
+
+[event]
+start = 2014-11-19
+end = 2014-11-21
+city = "Hồ Chí Minh City, Việt Nam"
+
+[submission]
+format = "15 pages LNCS"
+paper = [2014-06-10]
+notification = [2014-08-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Colocated with ACOMP. Selected papers, after further revision and extension will be considered for publication in a special issue of the Transactions on Large Scale Data and Knowledge Centered Systems (TLDKS), ISSN: 1869-1994, also from Springer Verlag."

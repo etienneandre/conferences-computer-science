@@ -1,0 +1,27 @@
+# migrated from data.php line 7887
+edition = 24
+title = "24th International Conference on Fundamental Approaches to Software Engineering"
+url = "https://etaps.org/2021/fase"
+
+[event]
+start = 2021-03-27
+end = 2021-04-01
+online = true
+
+[submission]
+tz = "AoE"
+format = "15-18 pages LNCS + 2 pages bibliography (research / empirical evaluation) / 6+6 pages (tool)"
+paper = [2020-10-15]
+notification = [2020-12-23]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[stats]
+accepted = 16
+submitted = 51
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, TACAS, etc. Special issues of the Springer journals Formal Aspects of Computing (FAC) and Int. J. on Software Tools for Technology Transfer (STTT) will be associated with FASE 2021. Authors of the best papers that fall into these journal’s scopes will be invited to submit significantly extended papers for journal review."

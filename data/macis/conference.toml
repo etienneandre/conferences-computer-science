@@ -1,0 +1,8 @@
+# MACIS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "MACIS"
+name = "Mathematical Aspects of Computer and Information Sciences"
+defunct = "seemingly"
+
+[core]
+rank = "C"  # TODO: verify

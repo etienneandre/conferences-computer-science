@@ -1,0 +1,22 @@
+# migrated from data.php line 8044
+edition = 21
+title = "21st International Symposium on Fundamentals of Computation Theory"
+url = "http://fct2017.labri.fr/"
+
+[event]
+start = 2017-09-11
+end = 2017-09-13
+city = "Bordeaux, France"
+
+[submission]
+format = "12 pages LNCS"
+abstract = [2017-05-01]
+paper = [2017-05-06]
+notification = [2017-06-16]
+
+[proceedings]
+publisher = "Springer LNCS ARCoSS"
+license = "pay-profit"
+
+[extra]
+notes = "Biennial conference. Selected papers will be invited to a special issue of the \"Journal of Computer and System Sciences\", devoted to FCT 2017"

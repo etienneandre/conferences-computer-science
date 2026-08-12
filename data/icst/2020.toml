@@ -1,0 +1,22 @@
+# migrated from data.php line 16304
+edition = 13
+title = "13th IEEE International Conference on Software Testing, Verification and Validation"
+url = "https://icst2020.info/"
+
+[event]
+start = 2020-03-23
+end = 2020-03-27
+city = "Porto, Portugal"
+
+[submission]
+format = "10 pages IEEE (+ 2 pages for references)"
+abstract = [2019-10-14]
+paper = [2019-10-14]
+notification = [2019-12-10]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double-blind reviewing. Experimental data must be replicable. Also doctoral symposium, software testing contest, tool demos, industry track papers … Deadline extension: 7 days (2017), 4 days (2018), 2 days (2019)"

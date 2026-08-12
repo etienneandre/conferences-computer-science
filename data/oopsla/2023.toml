@@ -1,0 +1,20 @@
+# migrated from data.php line 21822
+title = "OOPSLA issue of the Proceedings of the ACM on Programming Languages (PACMPL)"
+url = "https://2023.splashcon.org/track/splash-2023-oopsla"
+
+[event]
+start = 2023-10-23
+end = 2023-10-27
+city = "Lisbon, Portugal"
+
+[submission]
+format = "23 pages (+ references)"
+paper = [2023-04-14]
+notification = [2023-06-30]
+
+[proceedings]
+publisher = "PACMPL"
+license = "free"
+
+[extra]
+notes = "Part of SPLASH 2023. Gold open access, but payment not required (on a volunteer basis). Double blind. Papers accepted at either of the rounds will be published in the 2023 volume of PACMPL (OOPSLA) and invited to be presented at the SPLASH conference in October 2023. Two rounds of reviewing. Author response: Wed Dec 07 - Fri Dec 9 2022 / Wed Jun 14 - Fri Jun 16"

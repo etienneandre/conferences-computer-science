@@ -1,0 +1,27 @@
+# migrated from data.php line 31769
+edition = 21
+title = "21st International Symposium on Temporal Representation and Reasoning"
+url = "http://time2014.di.univr.it/"
+
+[event]
+start = 2014-09-08
+end = 2014-09-10
+city = "Verona, Italy"
+
+[submission]
+format = "10 pages IEEE"
+abstract = [2014-04-10]
+paper = [2014-04-17]
+notification = [2014-05-20]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[stats]
+accepted = 17
+submitted = 32
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "It is also our intention to organise a special issue of a respected journal, containing extended versions of selected papers from the symposium."

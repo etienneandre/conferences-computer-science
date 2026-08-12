@@ -1,0 +1,22 @@
+# migrated from data.php line 10253
+edition = 37
+title = "37th IFIP International Conference on Formal Techniques for Distributed Objects, Components and Systems"
+url = "http://2017.discotec.org/"
+
+[event]
+start = 2017-06-19
+end = 2017-06-22
+city = "Neuchâtel, Switzerland"
+
+[submission]
+format = "15 pages LNCS (regular / tool) / 7 pages (short / tool demo) / 3 pages (poster)"
+abstract = [2017-02-03, 2017-02-17]
+paper = [2017-02-10, 2017-02-24]
+notification = [2017-04-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A DisCoTec Member Conference. The best papers will be invited after the conference to contribute to a special issue of a top-level journal. Recent acceptance rates: 41% (20/49, 2013), 36% (18/50, 2014), 28% (15/53, 2015), 41% (18/44, 2016), 40% (13 long + 3 short + 1 tool/42) in 2017."

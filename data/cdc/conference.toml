@@ -1,0 +1,15 @@
+# CDC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CDC"
+name = "IEEE Conference on Decision and Control"
+
+[core]
+id = "605"
+rank = "A"  # TODO: verify
+
+[links]
+dblp = "cdc"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "No deadline extension (2014-2020), 1 week (2024)."  # from CDC 2025

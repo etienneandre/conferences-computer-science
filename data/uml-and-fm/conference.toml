@@ -1,0 +1,5 @@
+# UML & FM — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "UML & FM"
+name = "International workshop UML and Formal Methods"
+defunct = "seemingly"

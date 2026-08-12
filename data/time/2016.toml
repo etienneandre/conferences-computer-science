@@ -1,0 +1,26 @@
+# migrated from data.php line 31812
+edition = 23
+title = "23rd International Symposium on Temporal Representation and Reasoning"
+url = "http://time2016.compute.dtu.dk"
+
+[event]
+start = 2016-10-17
+end = 2016-10-19
+city = "Kongens Lyngby, Denmark"
+
+[submission]
+format = "10 pages IEEE"
+paper = [2016-06-20, 2016-06-27]
+notification = [2016-07-25]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[stats]
+accepted = 21
+submitted = 45
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "The authors of the best papers of the conference will be invited to submit an extended version of their contribution to a special issue on TIME 2015, to appear in the journal Information & Computation."

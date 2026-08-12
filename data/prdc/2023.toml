@@ -1,0 +1,23 @@
+# migrated from data.php line 23264
+edition = 28
+title = "28th IEEE Pacific Rim International Symposium on Dependable Computing"
+url = "https://prdc.dependability.org/PRDC2023/"
+
+[event]
+start = 2023-10-24
+end = 2023-10-27
+city = "Singapore (+ virtual options)"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) / 6 pages (practical experience reports), excluding references"
+abstract = [2023-04-27, 2023-07-15]
+paper = [2023-05-04, 2023-07-21]
+notification = [2023-06-30, 2023-09-05]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."

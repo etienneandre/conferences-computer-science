@@ -1,0 +1,22 @@
+# migrated from data.php line 34750
+edition = 27
+title = "27th International World Wide Web Conference (The Web conference 2018)"
+url = "https://www2018.thewebconf.org/"
+
+[event]
+start = 2018-04-23
+end = 2018-04-27
+city = "Lyon, France"
+
+[submission]
+format = "9 pages ACM SIG 2 columns (+ references)"
+abstract = [2017-10-26]
+paper = [2017-10-31]
+notification = [2017-12-22]
+
+[proceedings]
+publisher = "ACM Digital Library + conference Web site"
+license = "free-copy"
+
+[extra]
+notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…). Deadlines all Hawaii Standard Time. Double-blind."

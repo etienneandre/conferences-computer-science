@@ -1,0 +1,12 @@
+# ERTS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ERTS"
+name = "Embedded Real-Time Systems Congress"
+frequency = "Biennial European conference."
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "3 weeks (2018), 4 weeks (2022), 3 weeks (2026)"  # from ERTS 2026

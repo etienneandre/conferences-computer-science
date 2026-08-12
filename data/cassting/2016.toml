@@ -1,0 +1,20 @@
+# migrated from data.php line 3164
+title = "Workshop on Non-zero-sum Games for Synthesis"
+url = "http://www.cassting-project.eu/workshop2016/"
+
+[event]
+start = 2016-04-02
+end = 2016-04-03
+city = "Eindhoven, The Netherlands"
+
+[submission]
+format = "12 pages EPTCS"
+paper = [2016-01-15]
+notification = [2016-02-19]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite workshop of ETAPS 2016."

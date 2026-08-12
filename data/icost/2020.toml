@@ -1,0 +1,21 @@
+# migrated from data.php line 15365
+edition = 18
+title = "18th International Conference On Smart homes and health Telematics"
+url = "http://www.icost-society.org/"
+
+[event]
+start = 2020-06-24
+end = 2020-06-26
+city = "Hammamet, Tunisia"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2020-02-10, 2020-02-21]
+notification = [2020-03-23]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Double blind submission. Abstract not required."

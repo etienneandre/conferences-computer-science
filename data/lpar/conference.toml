@@ -1,0 +1,26 @@
+# LPAR — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "LPAR"
+name = "256h International Conference on Logic for Programming, Artificial Intelligence and Reasoning"
+frequency = "Every 1 or 2 years"
+
+[core]
+id = "1596"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2017
+rank = "A"
+
+[[core.history]]
+from = 2024
+rank = "B"
+
+[links]
+dblp = "lpar"
+wikipedia = "Logic_for_Programming,_Artificial_Intelligence_and_Reasoning"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "6 days (2017), 7 days (2020)"  # from LPAR 2026

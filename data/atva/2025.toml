@@ -1,0 +1,36 @@
+# migrated from data.php line 2693
+edition = 23
+title = "23rd International Symposium on Automated Technology for Verification and Analysis"
+url = "https://conf.researchr.org/home/atva-2025"
+
+[event]
+start = 2025-10-27
+end = 2025-10-30
+city = "Bangalore, India"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + references (regular) / 10 (tool)"
+abstract = [2025-04-11, 2025-04-25]
+paper = [2025-04-18, 2025-04-25]
+notification = [2025-06-25, 2025-07-04]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "double"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2025-06-17
+rebuttal_end = 2025-06-20
+artifact = "Artifact evaluation (optional for regular papers, mandatory for tool)."
+
+[stats]
+accepted = 21
+submitted = 59
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Almost always in Asia."

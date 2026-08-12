@@ -1,0 +1,26 @@
+# migrated from data.php line 11490
+edition = 34
+title = "IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "http://www.fsttcs.org/"
+
+[event]
+start = 2014-12-15
+end = 2014-12-17
+city = "New Dehli, India"
+
+[submission]
+format = "12 pages in LIPIcs"
+abstract = [2014-07-11]
+paper = [2014-07-18]
+notification = [2014-09-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+rate = 33.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Published in CC-BY in Leibniz International Proceedings in Informatics (LIPIcs) as a free, open, electronic archive with access to all. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012. Always in India."

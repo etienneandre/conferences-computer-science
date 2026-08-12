@@ -1,0 +1,21 @@
+# migrated from data.php line 27869
+edition = 15
+title = "15th International Conference on Software Engineering Research, Management and Applications"
+url = "http://www.acisinternational.org/sera2016/"
+
+[event]
+start = 2017-06-07
+end = 2017-06-09
+city = "Greenwich, London, United Kingdom"
+
+[submission]
+format = "8 pages IEEE 2 columns"
+paper = [2017-03-05]
+notification = [2017-03-26]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "SERA 2017 Proceedings will be published by CPS and will be submitted to be indexed by EI, INSPEC, and DBLP. Conference officers will select outstanding papers for possible publication in several journals. SERA 2015 cancelled due to security concerns in Tunisia."

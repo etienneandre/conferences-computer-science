@@ -1,0 +1,22 @@
+# migrated from data.php line 11258
+edition = 7
+title = "7th IPM International Conference on Fundamentals of Software Engineering"
+url = "http://fsen.ir/2017/"
+
+[event]
+start = 2017-04-26
+end = 2017-04-28
+city = "Tehran, Iran"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2016-10-22]
+paper = [2016-10-29]
+notification = [2016-12-17]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Claim from the conference that no one ever got visa problems (in Iran). Special issue of Science of Computer Programming journal devoted to FSEN’17 (to be confirmed). Every two years."

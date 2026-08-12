@@ -1,0 +1,23 @@
+# migrated from data.php line 6401
+edition = 25
+title = "25th International Conference on Embedded Software"
+url = "https://esweek.org/emsoft/"
+
+[event]
+start = 2025-09-28
+end = 2025-10-03
+city = "Taipei, Taiwan"
+
+[submission]
+tz = "AoE"
+format = "20 pages in ACM Transactions format (25 pages after 1st round acceptance)"
+abstract = [2025-03-23]
+paper = [2025-03-30]
+notification = [2025-07-13]
+
+[proceedings]
+publisher = "ACM/IEEE"
+license = "acm"
+
+[extra]
+notes = "Double blind process. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021-2025)."

@@ -1,0 +1,22 @@
+# migrated from data.php line 19070
+edition = 30
+title = "30th Annual ACM/IEEE Symposium on LOGIC IN COMPUTER SCIENCE (LiCS)"
+url = "http://lics.rwth-aachen.de/lics15/"
+
+[event]
+start = 2015-07-06
+end = 2015-07-10
+city = "Kyoto, Japan"
+
+[submission]
+format = "10 pages IEEE"
+abstract = [2015-01-12]
+paper = [2015-01-19]
+notification = [2015-03-30]
+
+[proceedings]
+publisher = "IEEE (?)"
+license = "pay"
+
+[extra]
+notes = "Author Feedback/Rebuttal Period March 12-16, 2015. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

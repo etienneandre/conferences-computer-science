@@ -1,0 +1,29 @@
+# VECoS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "VECoS"
+name = "International Conference on Verification and Evaluation of Computer and Communication Systems"
+
+[core]
+id = "2213"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2015
+rank = "absent"
+
+[[core.history]]
+from = 2018
+rank = "unranked"
+
+[[core.history]]
+from = 2022
+rank = "C"
+
+[links]
+dblp = "vecos"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "33% (19+1/60) in 2020, 42% (5+1/12) in 2021, 33% (12/36) in 2023."  # from VECoS 2026
+extensions = "1 month (2014), 16+7 days (2015), 16 days (2016), 14 days (2017), 8 days (2018), 11 days (2019), 21+48 days (2020), 30 days (2021), 44 days (2022), 14 days (2023), 28+14 days (2024), 7+7+18 days (2025), 14 days (2026)"  # from VECoS 2026

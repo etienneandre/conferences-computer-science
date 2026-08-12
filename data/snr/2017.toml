@@ -1,0 +1,21 @@
+# migrated from data.php line 28623
+edition = 3
+title = "3rd International Workshop on Symbolic and Numerical Methods for Reachability Analysis"
+url = "http://snr2017.pages.ist.ac.at/"
+
+[event]
+start = 2017-04-22
+city = "Uppsala, Sweden"
+
+[submission]
+format = "long research papers (15 pages excluding references) / short research papers (6 pages + references) and / work-in-progress papers (6 pages + references)"
+abstract = [2017-01-27]
+paper = [2017-02-03, 2017-02-17]
+notification = [2017-03-10]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Affiliated with ETAPS 2017."

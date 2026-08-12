@@ -1,0 +1,24 @@
+# migrated from data.php line 14742
+edition = 20
+title = "20th International Conference on Formal Engineering Methods"
+url = "http://formal-analysis.com/icfem/2018/"
+
+[event]
+start = 2018-11-12
+end = 2018-11-16
+city = "Gold Coast, Australia"
+
+[submission]
+format = "16 pages LNCS"
+abstract = [2018-05-07, 2018-05-21]
+paper = [2018-05-14, 2018-05-21]
+notification = [2018-06-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 22
+submitted = 66
+# TODO: verify — extracted from the cross-year acceptance string.

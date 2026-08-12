@@ -1,0 +1,21 @@
+# migrated from data.php line 10931
+edition = 6
+title = "6th Working Formal Methods Symposium"
+url = "https://project.inria.fr/from22/"
+
+[event]
+start = 2022-09-19
+end = 2022-09-20
+city = "Iasi, Romania"
+
+[submission]
+format = "?"
+abstract = [2022-07-08, 2022-07-18]
+paper = [2022-07-15, 2022-07-25]
+notification = [2022-08-25]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "In conjunction with WOLLIC 2022."

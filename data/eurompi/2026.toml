@@ -1,0 +1,28 @@
+# migrated from data.php line 7477
+edition = 33
+title = "EuroMPI Conference"
+url = "https://eurompi.org/"
+
+[event]
+start = 2026-10-07
+end = 2026-10-09
+city = "Vienna, Austria"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (full) / 5 pages (short)"
+abstract = [2026-04-20, 2026-05-22]
+paper = [2026-04-27, 2026-05-22]
+notification = [2025-07-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "male-only"
+
+[extra]
+colocated = "co-located with IWOMP 2026"
+notes = "Papers not accepted for presentation may be recommended for poster presentations."

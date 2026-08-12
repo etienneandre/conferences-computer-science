@@ -1,0 +1,22 @@
+# migrated from data.php line 9658
+edition = 10
+title = "10th International Conference on Formal Methods in Software Engineering"
+url = "http://www.formalise.org/"
+
+[event]
+start = 2022-05-22
+end = 2022-05-23
+city = "Pittsburgh, PA, USA"
+
+[submission]
+format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
+abstract = [2022-01-13]
+paper = [2022-01-20, 2022-01-27]
+notification = [2022-03-04]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "acm"
+
+[extra]
+notes = "Light-weight rebuttal scheme in 2022. Held in conjunction with ICSE."

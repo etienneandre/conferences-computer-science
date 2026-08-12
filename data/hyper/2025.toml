@@ -1,0 +1,21 @@
+# migrated from data.php line 13596
+edition = 4
+title = "4th Workshop on Hyperproperties: Advances in Theory and Applications"
+url = "https://hyperworkshop25.cispa.io/"
+
+[event]
+start = 2025-07-21
+city = "Zagreb, Croatia"
+
+[submission]
+tz = "AoE"
+format = "3 pages LNCS + references"
+abstract = [2025-05-30]
+paper = [2025-05-30]
+
+[proceedings]
+publisher = "informal"
+license = "free-copy"
+
+[extra]
+notes = "Co-located with CAV 2025. Submissions can overlap with previously published work and will be judged based on their relevance to the topic of the workshop."

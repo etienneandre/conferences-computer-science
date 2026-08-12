@@ -1,0 +1,17 @@
+# migrated from data.php line 18368
+edition = 1
+title = "Premières journées annuelles du Groupe de Travail Vérification"
+url = "http://gt-verif.loria.fr/2013"
+
+[event]
+start = 2013-06-17
+end = 2013-06-18
+city = "LSV, Cachan, France"
+
+[submission]
+format = "1 page abstract"
+paper = [2013-05-03]
+notification = [2013-05-17]
+
+[proceedings]
+publisher = "(No formal proceedings)"

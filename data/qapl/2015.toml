@@ -1,0 +1,22 @@
+# migrated from data.php line 23387
+edition = 13
+title = "13th International Workshop on Quantitative Aspects of Programming Languages and Systems"
+url = "http://qapl15.inria.fr"
+
+[event]
+start = 2015-04-11
+end = 2015-04-12
+city = "London, UK"
+
+[submission]
+format = "15 pages EPTCS + appendix (regular) / 4 pages (ongoing)"
+abstract = [2014-12-14]
+paper = [2014-12-14]
+notification = [2015-02-02]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with ETAPS. Ongoing work will not be published. Publication of a selection of the papers in a special issue of a journal is under consideration."

@@ -1,0 +1,21 @@
+# migrated from data.php line 31289
+edition = 3
+title = "3rd International Workshop on Theoretical Approaches to Performance Evaluation, Modeling and Simulation"
+url = "https://tapems.unex.es/tapems2019/"
+
+[event]
+start = 2019-05-14
+city = "Larnaca, Cyprus"
+
+[submission]
+format = "10 pages IEEE"
+paper = [2019-03-06]
+notification = [2019-03-18]
+extensions = true  # extended, earlier date unknown
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "Satellite of CCGrid 2019"

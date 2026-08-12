@@ -1,0 +1,26 @@
+# migrated from data.php line 33688
+edition = 15
+title = "15th Working Conference on Verified Software: Theories, Tools, and Experiments (VSTTE)"
+url = "https://homepage.cs.uiowa.edu/~ajreynol/VSTTE2023/"
+
+[event]
+start = 2023-10-23
+city = "Ames, Iowa, USA"
+
+[submission]
+format = "16 pages LNCS + references (long) / 10 pages (short)"
+abstract = [2023-07-21, 2023-07-28]
+paper = [2023-07-28, 2023-08-04]
+notification = [2023-09-04]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 6
+submitted = 13
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Co-located with FMCAD 2023. Firm in 2019."

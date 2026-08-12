@@ -1,0 +1,11 @@
+# FMICS-AVoCS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FMICS-AVoCS"
+name = "International Workshop on Formal Methods for Industrial Critical Systems (FMICS) and 17th International Workshop on Automated Verification of Critical Systems (AVoCS)"
+
+[core]
+rank = "C"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Acceptance rate: 60% (12/20) in 2015 for FMICS only, 63% (11+24/24) in 2016 for FMICS+AVoCS, 10+4/22+8 (including special track) in 2017. Deadline extension: 1 week (2014 and 2015), 2 weeks (2016), 1 week (2017)."

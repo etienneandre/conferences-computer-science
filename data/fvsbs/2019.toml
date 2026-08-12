@@ -1,0 +1,20 @@
+# migrated from data.php line 12151
+edition = 7
+title = "7th International track on Formal Verification of Service Based Systems"
+url = "https://lipn.univ-paris13.fr/fvsbs19/"
+
+[event]
+start = 2019-06-12
+end = 2019-06-14
+city = "Napoly, Italy"
+
+[submission]
+format = "6 pages IEEE (full) / 4 pages IEEE (short)"
+paper = [2019-02-20, 2019-03-05, 2019-03-12]
+notification = [2019-03-15, 2019-03-20, 2019-03-22]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Conference Track @ IEEE WETICE 2019."

@@ -1,0 +1,12 @@
+# TiCSA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "TiCSA"
+name = "First Workshop on Trends in Configurable Systems Analysis"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "14 days (2023)"  # from TiCSA 2023

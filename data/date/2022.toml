@@ -1,0 +1,23 @@
+# migrated from data.php line 5645
+edition = 25
+title = "Design Automation and Test in Europe Conference"
+url = "http://www.date-conference.com/"
+
+[event]
+start = 2022-03-14
+end = 2022-03-23
+city = "Antwerp, Belgium"
+
+[submission]
+tz = "AoE"
+format = "6 pages IEEE"
+abstract = [2021-09-12]
+paper = [2021-09-19]
+notification = [2021-11-11]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind submissions. 4 tracks, 28 topics."

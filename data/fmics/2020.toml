@@ -1,0 +1,22 @@
+# migrated from data.php line 9181
+edition = 25
+title = "25th International Conference on Formal Methods for Industrial Critical Systems"
+url = "https://fmics20.ait.ac.at/"
+
+[event]
+start = 2020-09-02
+end = 2020-09-03
+city = "Virtual (Vienna, Austria)"
+
+[submission]
+format = "15 pages LNCS + 2p references"
+abstract = [2020-05-08, 2020-05-22]
+paper = [2020-05-15, 2020-05-29]
+notification = [2020-07-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of QONFEST with CONCUR, FORMATS and QEST. Special track on \"Formal Methods for Security in IoT\" and special issue in STTT in 2020"

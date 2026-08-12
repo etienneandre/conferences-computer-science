@@ -1,0 +1,22 @@
+# migrated from data.php line 32300
+edition = 6
+title = "6th International Symposium on Unifying Theories of Programming"
+url = "http://utp2016.ecnu.edu.cn"
+
+[event]
+start = 2016-06-04
+end = 2016-06-05
+city = "Reykjavík, Iceland"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2016-02-19]
+paper = [2016-03-04]
+notification = [2016-04-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with iFM 2016. Every two years."

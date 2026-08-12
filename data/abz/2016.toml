@@ -1,0 +1,22 @@
+# migrated from data.php line 318
+edition = 5
+title = "5th International ABZ (ASM, Alloy, B, TLA, VDM, Z) 2016 Conference"
+url = "http://www.cdcc.faw.jku.at/ABZ2016/"
+
+[event]
+start = 2016-05-23
+end = 2016-05-27
+city = "Linz, Austria"
+
+[submission]
+format = "14 pages LNCS (research) / 4 pages (short / work in progress / tool) / 14 pages (answer to case studies) / 4 pages extended abstract (industry)"
+abstract = [2016-01-15]
+paper = [2016-01-22]
+notification = [2016-02-22]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 20 days (2014). Every two years."

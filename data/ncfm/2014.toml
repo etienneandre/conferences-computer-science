@@ -1,0 +1,20 @@
+# migrated from data.php line 21000
+title = "National Workshop / Conference on Formal Methods"
+url = "http://www.csibc.org/index.php/about-csi/national-workshop-conference-on-formal-methods-ncfm"
+
+[event]
+start = 2014-10-15
+end = 2014-10-17
+city = "Bengaluru, India"
+
+[submission]
+format = "500 words abstract"
+abstract = [2014-09-20]
+paper = [2014-10-01]
+notification = [2014-10-12]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Delegates are requested to submit abstract based on their own ongoing / completed and unpublished research."

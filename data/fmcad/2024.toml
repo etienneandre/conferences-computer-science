@@ -1,0 +1,23 @@
+# migrated from data.php line 8862
+edition = 24
+title = "24th International Conference on Formal Methods in Computer-Aided Design"
+url = "https://fmcad.org/FMCAD24/"
+
+[event]
+start = 2024-10-15
+end = 2024-10-18
+city = "Prague, Czech Republic"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE + references (regular) / 4 pages (short)"
+abstract = [2024-04-28, 2024-05-05]
+paper = [2024-05-05, 2024-05-12]
+notification = [2024-07-08]
+
+[proceedings]
+publisher = "TU Wien Academic Press / ACM/IEEE"
+license = "cc-by"
+
+[extra]
+notes = "Author Response: 25-27 June 2024."

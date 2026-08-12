@@ -1,0 +1,21 @@
+# migrated from data.php line 25135
+edition = 17
+title = "17th International Workshop on Real-Time Networks"
+url = "https://www.ecrts.org/rtn"
+
+[event]
+start = 2019-07-09
+city = "Stuttgart, Germany"
+
+[submission]
+format = "6 pages"
+abstract = [2019-04-16]
+paper = [2019-04-16]
+notification = [2019-05-14]
+
+[proceedings]
+publisher = "ACM SIGBED Review"
+license = "acm"
+
+[extra]
+notes = "In conjunction with ECRTS."

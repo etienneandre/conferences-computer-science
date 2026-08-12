@@ -1,0 +1,20 @@
+# migrated from data.php line 6924
+edition = 4
+title = "4th International Workshop on Engineering Safety and Security Systems"
+url = "http://pat.sce.ntu.edu.sg/esss15/index.html"
+
+[event]
+start = 2015-06-22
+city = "Oslo, Norway"
+
+[submission]
+format = "15 pages EPTCS (long), 6 pages (short)"
+paper = [2015-03-16, 2015-03-27]
+notification = [2015-04-27]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite of FM 2015. Authors of a selection of the accepted papers will be invited to submit an extended version of their articles to a special issue of a high-quality journal."

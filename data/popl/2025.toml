@@ -1,0 +1,23 @@
+# migrated from data.php line 22910
+edition = 52
+title = "52nd ACM SIGPLAN Symposium on Principles of Programming Languages"
+url = "https://popl25.sigplan.org/"
+
+[event]
+start = 2025-01-19
+end = 2025-01-25
+city = "Denver, Colorado, United States"
+
+[submission]
+tz = "AoE"
+format = "25 pages PACMPL + references"
+abstract = [2024-07-11]
+paper = [2024-07-11]
+notification = [2024-11-07]
+
+[proceedings]
+publisher = "PACMPL"
+license = "cc-by"
+
+[extra]
+notes = "Double blind submission. Artifact evaluation. Authors are asked (but not required) to pay US$400 for journal open-access publication. At most 10% of the accepted papers of POPL 2024 will be designated as Distinguished Papers"

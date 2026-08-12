@@ -1,0 +1,23 @@
+# migrated from data.php line 12403
+edition = 13
+title = "13th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "https://gandalf2022.software.imdea.org/"
+
+[event]
+start = 2022-09-21
+end = 2022-09-23
+city = "Madrid, Spain"
+
+[submission]
+tz = "AoE"
+format = "14 pages EPTCS + references + appendix"
+abstract = [2022-05-27, 2022-06-03]
+paper = [2022-06-03, 2022-06-10]
+notification = [2022-07-24]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science."

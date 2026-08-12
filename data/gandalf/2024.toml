@@ -1,0 +1,28 @@
+# migrated from data.php line 12457
+edition = 15
+title = "15th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "https://scool24.github.io/GandALF/"
+
+[event]
+start = 2024-06-19
+end = 2024-06-21
+city = "Reykjavik, Iceland"
+
+[submission]
+tz = "AoE"
+format = "14 pages EPTCS + references + appendix"
+abstract = [2024-04-07]
+paper = [2024-04-10]
+notification = [2024-05-10]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[stats]
+accepted = 10
+submitted = 20
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science."

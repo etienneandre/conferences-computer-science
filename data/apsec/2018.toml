@@ -1,0 +1,23 @@
+# migrated from data.php line 1732
+edition = 25
+title = "25th Asia-Pacific Software Engineering Conference"
+url = "http://www.apsec2018.org/"
+
+[event]
+start = 2018-12-04
+end = 2018-12-07
+city = "Nara, Japan"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (research) / 6 pages (short) / posters (2 pages)"
+abstract = [2018-06-29]
+paper = [2018-07-06]
+notification = [2018-09-03]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Deadline AoE. A selective set of accepted papers will be invited by the Program Committee to submit an extended version for publication in the special issue of Elsevier’s Journal of Systems and Software (10 in 2014, 6 in 2016)."

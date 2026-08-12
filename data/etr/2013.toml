@@ -1,0 +1,19 @@
+# migrated from data.php line 6977
+title = "École d’été temps réel"
+url = "http://irit.fr/ETR13"
+
+[event]
+start = 2013-08-26
+end = 2013-08-30
+city = "Toulouse, France"
+
+[submission]
+format = "4 pages IEEE 2 columns"
+paper = [2013-05-24]
+notification = [2013-06-14]
+
+[proceedings]
+publisher = "No official proceedings"
+
+[extra]
+notes = "Mainly for PhD students. Might be in French."

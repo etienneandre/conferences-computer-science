@@ -1,0 +1,25 @@
+# migrated from data.php line 7433
+edition = 32
+title = "EuroMPI Conference"
+url = "https://eurompi.org/"
+
+[event]
+start = 2025-10-01
+end = 2025-10-03
+city = "Charlotte, NC, USA"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (full) / 5 pages (short)"
+abstract = [2025-05-16, 2025-06-05]
+paper = [2025-05-23, 2025-06-06]
+notification = [2025-07-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+journal = "Among the papers selected for presentation, a few of the best papers will, as has been the tradition in past years, be selected by the program committee and recommended for publication in a EuroMPI/USA 2025 Special Issue of a Journal."
+colocated = "co-located with the 21th International Workshop on OpenMP (IWOMP 2025)"
+notes = "Warning: notification date extended after submission, and without notice (2014)."

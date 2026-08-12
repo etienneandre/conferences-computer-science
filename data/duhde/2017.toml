@@ -1,0 +1,19 @@
+# migrated from data.php line 5850
+edition = 4
+title = "4th Workshop on Design Automation for Understanding Hardware Designs"
+url = "https://www.ics.uci.edu/~duhde17/"
+
+[event]
+start = 2017-03-31
+city = "Lausanne, Switzerland"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2016-11-10]
+notification = [2016-11-24]
+
+[proceedings]
+publisher = "informal proceedings"
+
+[extra]
+notes = "Workshop at DATE 2017. The proceedings of DUHDe are only available for participants of the workshop. The authors retain the copyright of their work and are free to submit extended versions to a conference or journal."

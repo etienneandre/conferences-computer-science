@@ -1,0 +1,22 @@
+# migrated from data.php line 24159
+edition = 15
+title = "15th International Conference on Reachability Problems"
+url = "http://rp2021.csc.liv.ac.uk/"
+
+[event]
+start = 2021-10-25
+end = 2021-10-27
+city = "Liverpool, England (hybrid or virtual)"
+
+[submission]
+format = "12 pages LNCS (+ ref + appendix)"
+abstract = [2021-06-30, 2021-07-15]
+paper = [2021-07-08, 2021-07-15]
+notification = [2021-08-19]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017), 8 days (2018), 10 days (2019), 14 days (2020), 7 days (2021). A selection of up to five articles among the contributed papers will be invited to a special issue of a journal. Also a Presentation-Only Papers track, which usually attracts 6-8 high quality presentations from ICALP, CONCUR, LICS, MFCS, CAV, etc."

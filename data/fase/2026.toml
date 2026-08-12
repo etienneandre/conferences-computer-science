@@ -1,0 +1,28 @@
+# migrated from data.php line 8007
+edition = 29
+title = "29th International Conference on Fundamental Approaches to Software Engineering"
+url = "https://etaps.org/2026/conferences/fase/"
+
+[event]
+start = 2026-04-11
+end = 2026-04-16
+city = "Turin, Italy"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography (research / empirical evaluation) / 8 pages (new ideas and emerging results) / 8+6 pages (tool demo / data showcase)"
+paper = [2025-10-16]
+notification = [2025-12-22]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[review]
+blind = "double"
+artifact = "Optional artifact submission."
+competition = "FASE 2026 hosts the 8th edition of the Competition on Software Testing (Test-Comp 2026)."
+
+[extra]
+journal = "Selected papers from the FASE 2026 proceedings will be invited to submit an extended version to the open access Elsevier journal Science of Computer Programming (SCP)."
+colocated = "Part of ETAPS 2026."

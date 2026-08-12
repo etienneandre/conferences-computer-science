@@ -1,0 +1,20 @@
+# migrated from data.php line 12661
+edition = 4
+title = "4th Workshop on Horn Clauses for Verification and Synthesis"
+url = "http://software.imdea.org/Conferences/hcvs17"
+
+[event]
+start = 2017-08-07
+city = "Gothenburg, Sweden"
+
+[submission]
+format = "12 pages EPTCS + biblio (regular) / 1-3 pages (work in progress)"
+paper = [2017-06-11, 2017-06-18]
+notification = [2017-07-03]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Affiliated with CADE 2017."

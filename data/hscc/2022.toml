@@ -1,0 +1,22 @@
+# migrated from data.php line 13361
+edition = 25
+title = "25th ACM International Conference on Hybrid Systems: Computation and Control"
+url = "https://hscc.acm.org/2022/"
+
+[event]
+start = 2022-05-04
+end = 2022-05-06
+city = "Milan, Italy"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references (long) / 6 pages (short)"
+paper = [2021-10-29]
+notification = [2022-01-17]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Firm deadline. Part of CPS-IoT Week. Double-blind reviewing process. Several best paper awards. Rebuttal phase: 15-17 December 2021. Regular papers and tool/case study papers can both be long or short."

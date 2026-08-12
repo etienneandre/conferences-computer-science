@@ -1,0 +1,15 @@
+# ICLA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICLA"
+name = "Indian Conference on Logic and its Applications"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "icla"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "38% (13/34) in 2019"  # from ICLA 2025
+extensions = "7 days (2015), 14 days (2024)"  # from ICLA 2025

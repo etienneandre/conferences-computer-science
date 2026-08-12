@@ -1,0 +1,16 @@
+# ADHS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ADHS"
+name = "IFAC Conference on Analysis and Design of Hybrid Systems"
+frequency = "Every 3 years."
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "adhs"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "69% (50/72) in 2018"  # from ADHS 2024
+extensions = "14 days (2018), 16 days (2021)"  # from ADHS 2024

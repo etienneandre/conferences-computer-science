@@ -1,0 +1,24 @@
+# migrated from data.php line 27116
+edition = 19
+title = "19th Brazilian Symposium on Formal Methods"
+url = "http://sbmf2016.imd.ufrn.br/"
+
+[event]
+start = 2016-11-21
+end = 2016-11-25
+city = "Natal, Rio Grande do Norte, Brazil"
+
+[submission]
+format = "16 pages LNCS"
+abstract = [2016-07-15, 2016-07-25, 2016-08-01]
+paper = [2016-07-23, 2016-08-10, 2016-08-11]
+notification = [2016-09-09, 2016-09-16]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 12
+submitted = 22
+# TODO: verify — extracted from the cross-year acceptance string.

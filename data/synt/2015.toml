@@ -1,0 +1,20 @@
+# migrated from data.php line 30200
+edition = 4
+title = "4th Workshop on Synthesis"
+url = "http://formal.epfl.ch/synt/2015/"
+
+[event]
+start = 2015-07-18
+city = "San Francisco, CA, USA"
+
+[submission]
+format = "4-16 pages EPTCS + references"
+paper = [2015-04-24]
+notification = [2015-06-02]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite event of CAV. Extended versions of selected papers are expected to appear in a special issue of the journal Acta Informatica."

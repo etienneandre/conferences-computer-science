@@ -1,0 +1,22 @@
+# migrated from data.php line 9028
+edition = 5
+title = "The 5th IEEE International Workshop on Formal Methods Integration"
+url = "http://www.sis.pitt.edu/iri2017/workshop_fmi.html"
+
+[event]
+start = 2017-08-04
+end = 2017-08-06
+city = "San Diego, CA, USA"
+
+[submission]
+format = "8 pages IEEE"
+abstract = [2017-03-15, 2017-04-20]
+paper = [2017-03-25, 2017-05-01]
+notification = [2017-04-25, 2017-06-01]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Satellite of 18th IEEE IRI 2017. Papers will also be invited to be expanded and submitted for possible publication in a special issue of the Information Systems Frontiers journal published by Springer (confirmed)."

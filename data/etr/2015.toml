@@ -1,0 +1,21 @@
+# migrated from data.php line 6997
+edition = 9
+title = "École d’été temps réel (session doctorants)"
+url = "http://etr2015.irisa.fr/"
+
+[event]
+start = 2015-08-24
+end = 2015-08-28
+city = "Rennes, France"
+
+[submission]
+format = "4 pages IEEE 2 columns"
+paper = [2015-05-15, 2015-05-25]
+notification = [2015-06-12]
+
+[proceedings]
+publisher = "Given to participants"
+license = "free"
+
+[extra]
+notes = "Mainly for PhD students. Might be in French. Every two years."

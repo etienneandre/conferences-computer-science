@@ -1,0 +1,22 @@
+# migrated from data.php line 9860
+edition = 14
+title = "14th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "http://formats2016.lsv.fr"
+
+[event]
+start = 2016-08-24
+end = 2016-08-26
+city = "Québec City, Canada"
+
+[submission]
+format = "15 pages LNCS + appendix"
+abstract = [2016-04-15, 2016-04-26]
+paper = [2016-04-22, 2016-04-29]
+notification = [2016-06-04, 2016-06-05, 2016-06-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016. Co-located with QEST and CONCUR. A special issue dedicated to FORMATS will be hosted in the Journal of Real Time Systems, Springer, collecting the extensions of papers selected by quality and fitness to the Journal scope, and subject to additional revision. WARNING: notification date extended by 1 day in 2015 without notification (creating a conflict with RP), and then again 36h of delay; In 2016, notification extended by 9 days on the original notification date and without information to authors."

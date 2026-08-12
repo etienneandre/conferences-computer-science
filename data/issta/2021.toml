@@ -1,0 +1,21 @@
+# migrated from data.php line 18193
+edition = 30
+title = "30th International Symposium on Software Testing and Analysis"
+url = "https://conf.researchr.org/home/issta-2021"
+
+[event]
+start = 2021-07-18
+end = 2021-07-22
+online = true
+
+[submission]
+format = "10 pages ACM (+ 2 pages references)"
+paper = [2021-01-29]
+notification = [2021-04-19]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double blind. Author Response Period (8-9 April 2021)."

@@ -1,0 +1,21 @@
+# migrated from data.php line 6738
+edition = 23
+title = "10th joint meeting of the European Software Engineering Conference and the 23rd ACM SIGSOFT Symposium on the Foundations of Software Engineering"
+url = "http://esec-fse15.dei.polimi.it/"
+
+[event]
+start = 2015-08-31
+end = 2015-09-04
+city = "Bergamo, Italy"
+
+[submission]
+format = "10+1 pages ACM SIG"
+paper = [2015-03-16]
+notification = [2015-06-01]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Also tutorials (deadline: April 15th), doctoral symposium (June 1st), tool demos (June 7th) and others."

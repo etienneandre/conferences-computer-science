@@ -1,0 +1,22 @@
+# migrated from data.php line 24403
+edition = 4
+title = "4th International Conference on Reliability, Safety and Security of Railway Systems: Modelling, Analysis, Verification and Certification"
+url = "https://rssrail2021.univ-gustave-eiffel.fr/"
+
+[event]
+start = 2021-11-15
+end = 2021-11-16
+city = "Paris, France"
+
+[submission]
+format = "16 pages LNCS (regular) / 10 pages (industrial report / PhD student)"
+abstract = [2021-05-16]
+paper = [2021-05-23]
+notification = [2021-07-02]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Postponed to 2022 (but proceedings replaced by a special issue)."

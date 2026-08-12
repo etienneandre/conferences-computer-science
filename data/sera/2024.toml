@@ -1,0 +1,21 @@
+# migrated from data.php line 27947
+edition = 22
+title = "22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications"
+url = "http://acisinternational.org/conferences/sera-2024/"
+
+[event]
+start = 2024-05-30
+end = 2024-06-01
+city = "Honolulu, USA"
+
+[submission]
+format = "6 pages IEEE (full) / 2 pages (poster)"
+paper = [2024-02-26, 2024-03-22]
+notification = [2024-03-26, 2024-04-08]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Double blind. SERA 2015 cancelled due to security concerns in Tunisia. SERA 2020 postponed due to the coronavirus outbreak. Conference officers will select outstanding papers for publication in some journals."

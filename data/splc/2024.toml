@@ -1,0 +1,22 @@
+# migrated from data.php line 29437
+edition = 28
+title = "28th ACM International Systems and Software Product Line Conference"
+url = "https://2024.splc.net/"
+
+[event]
+start = 2024-09-02
+end = 2024-09-06
+city = "Parc Alvisse Hotel, Luxembourg"
+
+[submission]
+format = "10 pages ACM + 2 pages references (full) / 5+2 pages (short)"
+abstract = [2024-04-11]
+paper = [2024-04-18]
+notification = [2024-05-30]
+
+[proceedings]
+publisher = "ACM digital library"
+license = "acm"
+
+[extra]
+notes = "Optional artifact evaluation. Also journal-first, demo papers, doctoral symposium…."

@@ -1,0 +1,21 @@
+# migrated from data.php line 33814
+edition = 9
+title = "9th Workshop on Applications for Multi-Core Architectures"
+url = "http://www.cri.ensmp.fr/conf/wamca2018/"
+
+[event]
+start = 2018-09-24
+end = 2018-09-27
+city = "Lyon, France"
+
+[submission]
+format = "8 pages IEEE"
+paper = [2018-06-15]
+notification = [2018-07-10]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "In conjunction with SBAC-PAD 2018. Selected papers will be considered for a publication in the International Journal of High Performance Computing and Networking (IJHPCN)."

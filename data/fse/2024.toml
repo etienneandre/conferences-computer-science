@@ -1,0 +1,22 @@
+# migrated from data.php line 6851
+edition = 28
+title = "ACM International Conference on the Foundations of Software Engineering (FSE)"
+url = "https://conf.researchr.org/home/fse-2024"
+
+[event]
+start = 2024-07-15
+end = 2024-07-19
+city = "Porto de Galinhas, Brazil"
+
+[submission]
+format = "18 pages ACM (+ 4 pages references)"
+abstract = [2023-09-21]
+paper = [2023-09-23]
+notification = [2024-01-23]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Open science policy. Double-blind. Also tutorials, doctoral symposium, tool demos and others. Author response period: 11-13 December 2023."

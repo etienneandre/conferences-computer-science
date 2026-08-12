@@ -1,0 +1,21 @@
+# migrated from data.php line 6782
+edition = 25
+title = "12th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering"
+url = "http://2018.fseconference.org"
+
+[event]
+start = 2018-11-04
+end = 2018-11-09
+city = "Orlando, Florida, United States"
+
+[submission]
+format = "10 ACM SIG (+ 2 pages references)"
+paper = [2018-03-09]
+notification = [2018-06-11]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Lightweight double-blind review process. Also tutorials, doctoral symposium, tool demos and others. Author response period: May 7 — May 10, 2018."

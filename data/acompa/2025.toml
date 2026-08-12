@@ -1,0 +1,25 @@
+# migrated from data.php line 770
+edition = 19
+title = "19th International Conference on Advanced Computing and Analytics"
+url = "https://acompa.live/"
+
+[event]
+start = 2025-11-27
+end = 2025-11-29
+city = "Hồ-Chí-Minh City, Việt Nam"
+
+[submission]
+format = "8 pages IEEE (regular, industry) / 4-5 pages (short)"
+paper = [2025-08-08]
+notification = [2025-09-15]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[review]
+blind = "double"
+diversity = "male-only"
+
+[extra]
+notes = "Named ACOMP until 2021."

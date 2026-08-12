@@ -1,0 +1,22 @@
+# migrated from data.php line 21071
+edition = 9
+title = "9th NASA Formal Methods Symposium"
+url = "http://ti.arc.nasa.gov/events/nfm-2017/"
+
+[event]
+start = 2017-05-16
+end = 2017-05-18
+city = "Moffett Field, CA, USA"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report)"
+abstract = [2016-11-28]
+paper = [2016-12-05, 2016-12-07]
+notification = [2017-02-03]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "No registration fees. Authors of selected best papers may be invited to submit an extended version to a special issue of the Journal of Automated Reasoning (Springer)."

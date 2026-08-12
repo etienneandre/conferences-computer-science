@@ -1,0 +1,22 @@
+# migrated from data.php line 1778
+edition = 27
+title = "27th Asia-Pacific Software Engineering Conference"
+url = "https://formal-analysis.com/apsec/2020/"
+
+[event]
+start = 2020-12-01
+end = 2020-12-04
+online = true
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (research) / 5 pages (early research) / posters (2 pages)"
+paper = [2020-07-10, 2020-07-24]
+notification = [2020-09-04, 2020-09-18]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Deadline AoE. A selective set of accepted papers will be invited by the Program Committee to submit an extended version for publication in the special issue of Elsevier’s Journal of Systems and Software (10 in 2014, 6 in 2016)."

@@ -1,0 +1,21 @@
+# migrated from data.php line 34495
+edition = 17
+title = "17th International Workshop on Termination"
+url = "http://costa.fdi.ucm.es/wst2020/"
+
+[event]
+start = 2020-06-29
+end = 2020-06-30
+city = "Paris, France"
+
+[submission]
+format = "5 pages LIPIcs"
+paper = [2020-04-12]
+notification = [2020-05-10]
+
+[proceedings]
+publisher = "Web page"
+license = "free"
+
+[extra]
+notes = "Co-located with IJCAR and FSCD, and part of <a href=\"https://lipn.univ-paris13.fr/summer-of-love-2020/\">Paris Nord Summer of LoVe 2020</a>. Informal proceedings (earlier / concurrent / later submission allowed). Live complexity and termination competition during the workshop. Every one or two years. CANCELLED."

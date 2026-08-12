@@ -1,0 +1,21 @@
+# migrated from data.php line 30384
+edition = 15
+title = "15th International Workshop on Synthesis"
+url = "https://synt2025.github.io/"
+
+[event]
+start = 2026-07-25
+city = "Lisbon, Portugal"
+
+[submission]
+tz = "AoE"
+format = "3 pages LNCS (extended abstract) + references"
+paper = [2026-05-01]
+notification = [2026-05-14]
+
+[proceedings]
+publisher = "informal"
+license = "free"
+
+[extra]
+colocated = "Co-located with FLoC 2026"

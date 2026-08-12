@@ -1,0 +1,22 @@
+# migrated from data.php line 831
+edition = 16
+title = "16th International Conference on Application of Concurrency to System Design"
+url = "http://pn2016.mat.umk.pl/"
+
+[event]
+start = 2016-06-22
+end = 2016-06-24
+city = "Toruń, Poland"
+
+[submission]
+format = "10 pages IEEE (regular) / 6 pages IEEE (tools)"
+abstract = [2016-01-12]
+paper = [2016-01-25]
+notification = [2016-03-15]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "Co-located with Petri Nets. Deadline extended: 9 days in 2013, 4 days in 2015, 0 in 2016."

@@ -1,0 +1,28 @@
+# migrated from data.php line 4630
+edition = 34
+title = "34th International Conference on Concurrency Theory"
+url = "http://www.uantwerpen.be/en/conferences/confest-2023/concur/"
+
+[event]
+start = 2023-09-17
+end = 2023-09-22
+city = "Antwerp, Belgium"
+
+[submission]
+tz = "AoE"
+format = "14 pages LIPIcs (+ references + appendix)"
+abstract = [2023-04-24]
+paper = [2023-05-02]
+notification = [2023-06-28]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 37
+submitted = 98
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Rebuttal Response: 5-9 June, 2023. Part of CONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials."

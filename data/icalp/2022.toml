@@ -1,0 +1,22 @@
+# migrated from data.php line 13907
+edition = 49
+title = "49th International Colloquium on Automata, Languages and Programming"
+url = "https://easyconferences.eu/icalp2021/"
+
+[event]
+start = 2022-07-04
+end = 2022-07-08
+city = "Paris, France (hybrid)"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs + ref"
+paper = [2022-02-10]
+notification = [2022-04-11]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Rebuttal: March 21-23 2022. Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm (6 days in 2020 due to relocation)."

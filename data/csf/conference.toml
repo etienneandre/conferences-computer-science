@@ -1,0 +1,15 @@
+# CSF — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CSF"
+name = "IEEE Computer Security Foundations Symposium"
+
+[core]
+id = "599"
+rank = "A"  # TODO: verify
+
+[links]
+dblp = "csfw"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "34% (32/94) in 2017, 35% (25/72) in 2018"  # from CSF 2026

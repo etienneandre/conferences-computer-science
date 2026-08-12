@@ -1,0 +1,20 @@
+# migrated from data.php line 3824
+edition = 8
+title = "Eighth International Workshop on Constraints in Formal Verification"
+url = "http://www.miroslav-velev.com/cfv13.html"
+
+[event]
+start = 2013-11-21
+city = "San Jose, California, USA"
+
+[submission]
+format = "6 pages IEEE (regular) / 4 pages (short: industrial experience)"
+abstract = [2013-09-30]
+paper = [2013-10-07]
+notification = [2013-10-15]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Satellite of IEEE/ACM ICCAD"

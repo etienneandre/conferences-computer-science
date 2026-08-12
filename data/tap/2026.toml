@@ -1,0 +1,28 @@
+# migrated from data.php line 31196
+edition = 19
+title = "Special Track on TAP (Tests and Proofs) of the 27th International Symposium on Formal Methods (FM 2026)"
+url = "https://conf.researchr.org/track/fm-2026/fm-2026-tap"
+
+[event]
+start = 2026-05-18
+end = 2026-05-22
+city = "Tokyo, Japan"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + references (regular/long tool/case studies) / 6 pages + ref (short)"
+abstract = [2025-11-25]
+paper = [2025-12-02]
+notification = [2026-02-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "cc-by"
+
+[review]
+blind = "single"
+diversity = "mixed"
+artifact = "Optional artifact evaluation with FM 2026"
+
+[extra]
+colocated = "Special track of FM 2026."

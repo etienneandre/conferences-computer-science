@@ -1,0 +1,21 @@
+# migrated from data.php line 21415
+edition = 10
+title = "10th International Workshop on Numerical Software Verification"
+url = "http://www.cs.ox.ac.uk/conferences/NSV17"
+
+[event]
+start = 2017-07-22
+end = 2017-07-23
+city = "Heidelberg, Germany"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short / tools / benchmark / case studies)"
+paper = [2017-04-22, 2017-05-01]
+notification = [2017-05-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A workshop of CAV 2017."

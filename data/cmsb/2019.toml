@@ -1,0 +1,21 @@
+# migrated from data.php line 4197
+edition = 17
+title = "17th conference on Computational Methods for Systems Biology"
+url = "https://cmsb2019.units.it/"
+
+[event]
+start = 2019-09-18
+end = 2019-09-20
+city = "Trieste, Italy"
+
+[submission]
+format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
+paper = [2019-04-10, 2019-04-24]
+notification = [2019-06-05]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal."

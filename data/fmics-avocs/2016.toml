@@ -1,0 +1,22 @@
+# migrated from data.php line 2817
+edition = 16
+title = "16th International Workshop on Automated Verification of Critical Systems"
+url = "http://fmics-avocs.isti.cnr.it/"
+
+[event]
+start = 2016-09-26
+end = 2016-09-29
+city = "Pisa, Italy"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2016-04-18, 2016-05-02]
+paper = [2016-04-25, 2016-05-09]
+notification = [2016-06-19, 2016-06-26]
+
+[proceedings]
+publisher = "EASST"
+license = "free-copy"
+
+[extra]
+notes = "Open Access Journal; best papers in a special issue of Elsevier’s journal Science of Computer Programming. Studenships for PhD in 2013."

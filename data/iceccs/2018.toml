@@ -1,0 +1,22 @@
+# migrated from data.php line 14385
+edition = 23
+title = "23rd International Conference on Engineering of Complex Computer Systems"
+url = "http://formal-analysis.com/iceccs/2018/"
+
+[event]
+start = 2018-12-12
+end = 2018-12-14
+city = "Melbourne, Australia"
+
+[submission]
+format = "IEEE 10 pages (Technical Papers and Experience Reports) / 4 pages (short)"
+abstract = [2018-06-15, 2018-06-22]
+paper = [2018-06-22, 2018-06-29, 2018-07-01]
+notification = [2018-08-22]
+
+[proceedings]
+publisher = "IEEE Conference Publishing Services"
+license = "pay"
+
+[extra]
+notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence (TCCI) in 2012."

@@ -1,0 +1,21 @@
+# migrated from data.php line 15860
+edition = 41
+title = "41st International Conference on Software Engineering"
+url = "https://conf.researchr.org/home/icse-2019"
+
+[event]
+start = 2019-05-25
+end = 2019-05-31
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "10 pages ACM"
+paper = [2018-08-24]
+notification = [2018-12-12]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Author response: 12-14 November 2018. Also a doctoral symposium, tutorials, demos, and other events."

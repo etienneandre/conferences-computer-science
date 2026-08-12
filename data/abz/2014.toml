@@ -1,0 +1,20 @@
+# migrated from data.php line 298
+title = "4th International ABZ (ASM, Alloy, B, TLA, VDM, Z) 2014 Conference"
+url = "http://www.irit.fr/ABZ2014/"
+
+[event]
+start = 2014-06-02
+end = 2014-06-06
+city = "Toulouse, France"
+
+[submission]
+format = "14 pages LNCS (research) / 4 pages (short / work in progress / tool) / 14 pages (answer to case studies) / 4 pages extended abstract (industry)"
+paper = [2014-02-03]
+notification = [2014-03-01]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 20 days (2014). Every two years (?)"

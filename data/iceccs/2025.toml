@@ -1,0 +1,23 @@
+# migrated from data.php line 14554
+edition = 29
+title = "29th International Conference on Engineering of Complex Computer Systems"
+url = "https://iceccs2025-hangzhou.github.io/"
+
+[event]
+start = 2025-07-02
+end = 2025-07-04
+city = "Hangzhou, China"
+
+[submission]
+tz = "AoE"
+format = "20 pages including references (full) / 11 pages (short)"
+abstract = [2025-01-28]
+paper = [2025-02-04, 2025-02-11]
+notification = [2025-04-04]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence (TCCI) in 2012."

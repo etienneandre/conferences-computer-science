@@ -1,0 +1,21 @@
+# migrated from data.php line 548
+edition = 1
+title = "International Congress on Advances in Citizen, Cyberspace & Environment Safety and Security"
+url = "http://www.accesscongress.org/"
+
+[event]
+start = 2013-06-05
+end = 2013-06-07
+city = "Singapore"
+
+[submission]
+format = "6 pages Word (special template)"
+paper = [2013-01-31]
+notification = [2013-03-01]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Selected papers from the congress submissions (after peer review) will be included in a monograph. WARNING: some PC members were never contacted during reviewing process."

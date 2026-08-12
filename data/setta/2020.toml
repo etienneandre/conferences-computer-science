@@ -1,0 +1,23 @@
+# migrated from data.php line 28271
+edition = 6
+title = "6th Symposium on Dependable Software Engineering: Theories, Tools and Applications"
+url = "http://lcs.ios.ac.cn/setta2020/"
+
+[event]
+start = 2020-11-24
+end = 2020-11-27
+city = "Guangzhou, China"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (regular) / 6 pages (short)"
+abstract = [2020-07-04]
+paper = [2020-07-04]
+notification = [2020-08-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Always in China. Colocated with LICS 2020 and ICALP 2020 In 2020, special session on Artificial Intelligence Meets Formal Methods (AI+FM). Also a journal-first papers track (different deadlines)."

@@ -1,0 +1,20 @@
+# migrated from data.php line 27240
+edition = 23
+title = "23rd Brazilian Symposium on Formal Methods"
+url = "http://sbmf2020.ufop.br/"
+
+[event]
+start = 2020-11-25
+end = 2020-11-27
+online = true
+
+[submission]
+tz = "AoE"
+format = "16 pages (regular) / 4 pages (journal-first)"
+abstract = [2020-07-10]
+paper = [2020-07-17]
+notification = [2020-08-31]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

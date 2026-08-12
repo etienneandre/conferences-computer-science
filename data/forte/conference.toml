@@ -1,0 +1,34 @@
+# FORTE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FORTE"
+name = "International Conference on Formal Techniques for Distributed Objects, Components, and Systems"
+
+[core]
+id = "805"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2016
+rank = "A"
+
+[[core.history]]
+from = 2019
+rank = "B"
+
+[[core.history]]
+from = 2021
+rank = "absent"
+
+[[core.history]]
+from = 2024
+rank = "C"
+
+[links]
+dblp = "forte"
+mastodon = "https://lipn.info/@DisCoTecConf"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "41% (20/49, 2013), 36% (18/50, 2014), 28% (15/53, 2015), 41% (18/44, 2016), 40% (13 long + 3 short + 1 tool/42) in 2017, 36% (10/28) in 2018, 43% (18/42) in 2019, 44% (11/25) in 2020, 43% (12/28) in 2022, 52% (8+5/23) in 2025"  # from FORTE 2026
+extensions = "4 weeks (2015), 2 weeks (2016-2026)"  # from FORTE 2026

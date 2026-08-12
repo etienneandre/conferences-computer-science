@@ -1,0 +1,28 @@
+# migrated from data.php line 2660
+edition = 22
+title = "22nd International Symposium on Automated Technology for Verification and Analysis"
+url = "https://atva-conference.org/2024/"
+
+[event]
+start = 2024-10-21
+end = 2024-10-24
+city = "Kyoto, Japan"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + references (regular) / 10 (tool)"
+abstract = [2024-04-19]
+paper = [2024-04-19, 2024-04-25]
+notification = [2024-06-19, 2024-06-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 24
+submitted = 73
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Double-blind. Co-located with APLAS 2024. Artifact evaluation (optional for regular papers, mandatory for tool). Rebuttal: 11-14 June 2024. 4 more days to edit the paper past the deadline in 2011. Almost always in Asia."

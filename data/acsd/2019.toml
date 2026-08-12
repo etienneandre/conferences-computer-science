@@ -1,0 +1,23 @@
+# migrated from data.php line 923
+edition = 19
+title = "19th International Conference on Application of Concurrency to System Design"
+url = "http://www.petrinets2019.de/call-for-papers-acsd-2019/"
+
+[event]
+start = 2019-06-23
+end = 2019-06-28
+city = "Aachen, Germany"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE"
+abstract = [2019-01-16, 2019-01-25]
+paper = [2019-01-22, 2019-02-01, 2019-02-10]
+notification = [2019-03-08]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "Co-located with Petri Nets. Deadline extended: 9 days in 2013, 4 days in 2015, 0 in 2016, 14 in 2017, 7+15 days in 2018, 10+9 days in 2019."

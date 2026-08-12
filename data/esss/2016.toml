@@ -1,0 +1,20 @@
+# migrated from data.php line 6950
+edition = 5
+title = "5th International Workshop on Engineering Safety and Security Systems"
+url = "http://pat.scse.ntu.edu.sg/esss16/"
+
+[event]
+start = 2016-11-07
+city = "Limassol, Cyprus"
+
+[submission]
+format = "15 pages EPTCS (long), 6 pages (short)"
+paper = [2016-08-12]
+notification = [2016-09-23]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite of FM 2016. Authors of a selection of the accepted papers will be invited to submit an extended version of their articles to a special issue of a high-quality journal."

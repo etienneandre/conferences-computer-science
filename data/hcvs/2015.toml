@@ -1,0 +1,16 @@
+# migrated from data.php line 12614
+edition = 2
+title = "Horn Clauses for Verification and Synthesis"
+
+[event]
+dates_text = "July, 2015"
+city = "San Francisco, CA, USA"
+
+[submission]
+format = "12 pages EPTCS + biblio (regular) / 1-3 pages (work in progress)"
+paper = [2015-05-22]
+notification = [2015-06-19]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"

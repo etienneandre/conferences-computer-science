@@ -1,0 +1,19 @@
+# migrated from data.php line 33882
+edition = 7
+title = "7th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems"
+url = "https://waters2016.inria.fr/"
+
+[event]
+start = 2016-07-05
+city = "Toulouse, France"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2016-04-28, 2016-05-26]
+notification = [2016-05-27, 2016-06-07]
+
+[proceedings]
+publisher = "No formal proceedings?"
+
+[extra]
+notes = "Colocated with ECRTS. This year: focus on tool comparison and modeling methodologies."

@@ -1,0 +1,21 @@
+# migrated from data.php line 8291
+edition = 14
+title = "14th International Workshop on Formal Engineering approaches to Software Components and Architectures"
+url = "http://d3s.mff.cuni.cz/conferences/fesca/pmwiki.php?n=Main.2017"
+
+[event]
+start = 2017-04-22
+city = "Uppsala, Sweden"
+
+[submission]
+format = "regular (15 pages EPTCS), position (5), presentation abstract (1)"
+abstract = [2017-01-18, 2017-01-28]
+paper = [2017-01-25, 2017-02-03]
+notification = [2017-02-27, 2017-03-01]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite event of ETAPS."

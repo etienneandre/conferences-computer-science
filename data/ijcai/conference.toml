@@ -1,0 +1,12 @@
+# IJCAI — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "IJCAI"
+name = "International Joint Conference on Artificial Intelligence"
+frequency = "Every two years until 2016, then became yearly."
+
+[core]
+id = "1313"
+rank = "A*"  # TODO: verify
+
+[links]
+dblp = "ijcai"

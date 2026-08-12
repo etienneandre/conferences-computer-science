@@ -1,0 +1,20 @@
+# migrated from data.php line 4023
+edition = 6
+title = "6e Conférence en IngénieriE du Logiciel"
+url = "http://ciel2017.sciencesconf.org/"
+
+[event]
+start = 2017-06-15
+end = 2017-06-16
+city = "Montpellier, France"
+
+[submission]
+format = "15 pages Easychair (long) / 6 pages (short) / 4 (tools) / 4 (abstracts) / 2 (thesis abstracts)"
+paper = [2017-04-14]
+notification = [2017-05-12]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "In French. Co-located with GDR-GPL. Les papiers longs auront la possibilité d’être étendus et évalués à nouveau pour paraître dans un numéro spécial de la revue TSI. Pas de date limite pour articles longs (au fil de l’eau) Deadline extension: 2 weeks (2015, 2016)"

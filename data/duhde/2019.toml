@@ -1,0 +1,20 @@
+# migrated from data.php line 5872
+edition = 6
+title = "6th Workshop on Design Automation for Understanding Hardware Designs"
+url = "https://duhde2019.ict.tuwien.ac.at/"
+
+[event]
+start = 2019-03-29
+city = "Florence, Italy"
+
+[submission]
+format = "6 pages IEEE or ACM"
+paper = [2018-12-17]
+notification = [2019-01-21]
+extensions = true  # extended, earlier date unknown
+
+[proceedings]
+publisher = "informal proceedings"
+
+[extra]
+notes = "Workshop at DATE 2019. The proceedings of DUHDe are only available for participants of the workshop. The authors retain the copyright of their work and are free to submit extended versions to a conference or journal."

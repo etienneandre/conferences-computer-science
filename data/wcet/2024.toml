@@ -1,0 +1,24 @@
+# migrated from data.php line 34137
+edition = 22
+title = "22nd International Workshop on Worst-Case Execution Time Analysis"
+url = "https://www.ecrts.org/wcet-2024/"
+
+[event]
+start = 2024-07-09
+city = "Lille, France"
+
+[submission]
+tz = "UTC-12"
+format = "10 pages OASIcs + references"
+paper = [2024-05-09, 2024-05-16]
+notification = [2024-06-06]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[review]
+diversity = "mixed"
+
+[extra]
+colocated = "Co-located with ECRTS."

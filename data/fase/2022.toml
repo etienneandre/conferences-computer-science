@@ -1,0 +1,22 @@
+# migrated from data.php line 7911
+edition = 25
+title = "25th International Conference on Fundamental Approaches to Software Engineering"
+url = "https://etaps.org/2022/fase"
+
+[event]
+start = 2022-04-02
+end = 2022-04-07
+city = "Munich, Germany"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography (research / empirical evaluation) / 6+6 pages (tool)"
+paper = [2021-10-14, 2021-10-24]
+notification = [2021-12-23]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of ETAPS 2022. Special issues of the Springer journal Formal Methods in System Design (FMSD) and Int. J. on Software Tools for Technology Transfer (STTT) are planned for FASE 2022. Authors of the best papers that fall within the scope of the journal will be invited to submit significantly extended papers for journal review.Acceptance rate (2021): 31% (16/51) Grace period: 10 days (2022)"

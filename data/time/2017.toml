@@ -1,0 +1,22 @@
+# migrated from data.php line 31837
+edition = 24
+title = "24th International Symposium on Temporal Representation and Reasoning"
+url = "http://informatique.umons.ac.be/time2017/"
+
+[event]
+start = 2017-10-16
+end = 2017-10-18
+city = "Mons, Belgium"
+
+[submission]
+format = "15 pages LIPIcs"
+abstract = [2017-05-08, 2017-05-15]
+paper = [2017-05-12, 2017-05-21]
+notification = [2017-06-27, 2017-07-03]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of the journal Theoretical Computer Science."

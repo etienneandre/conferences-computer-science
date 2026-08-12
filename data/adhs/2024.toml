@@ -1,0 +1,21 @@
+# migrated from data.php line 1061
+edition = 8
+title = "8th IFAC Conference on Analysis and Design of Hybrid Systems"
+url = "https://www.colorado.edu/conference/adhs2024"
+
+[event]
+start = 2024-07-01
+end = 2024-07-03
+city = "Boulder, USA"
+
+[submission]
+format = "6 pages IFAC (8 pages for submission)"
+paper = [2023-12-22]
+notification = [2024-02-28]
+
+[proceedings]
+publisher = "Science Direct"
+license = "cc-by"
+
+[review]
+award = "A Best Paper Award and a Best Repeatability Award (new!) will also be awarded during the conference"

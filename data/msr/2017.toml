@@ -1,0 +1,22 @@
+# migrated from data.php line 20744
+edition = 11
+title = "Modélisation des Systèmes Réactifs"
+url = "http://www.lsis.org/msr2017/"
+
+[event]
+start = 2017-11-15
+end = 2017-11-17
+city = "Marseille, France"
+
+[submission]
+format = "14 pages EasyChair"
+abstract = [2017-04-30, 2017-05-15]
+paper = [2017-05-14, 2017-05-29]
+notification = [2017-07-13]
+
+[proceedings]
+publisher = "HAL"
+license = "free"
+
+[extra]
+notes = "In French. Poster PhD session. Best paper award for young scientists."

@@ -1,0 +1,23 @@
+# migrated from data.php line 7696
+edition = 17
+title = "17th International Conference Formal Aspects of Component Software"
+url = "https://facs2021.inria.fr/"
+
+[event]
+start = 2021-10-28
+end = 2021-10-29
+online = true
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS format + references  (research / applications / survey) / 6 (tool) + ref / 2 pages (journal-first)"
+abstract = [2021-06-25, 2021-07-09]
+paper = [2021-07-02, 2021-07-16]
+notification = [2021-08-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Also a Doctoral Track, in the form of abstracts (3 pages max). The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to a special issue of the Science of Computer Programming journal."

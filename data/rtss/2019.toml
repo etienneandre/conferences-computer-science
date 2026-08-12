@@ -1,0 +1,21 @@
+# migrated from data.php line 25797
+edition = 40
+title = "40th IEEE Real-Time Systems Symposium"
+url = "http://2019.rtss.org/"
+
+[event]
+dates_text = "<span class=\"extended\">3-6 December 2019</span>18-21 February 2020"
+city = "<span class=\"extended\">Hong Kong, China</span>York, England"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
+paper = [2019-05-30]
+notification = [2019-08-09]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Postponed due to the events in Hong-Kong. Will take place in the UK in spring 2020. Firm submission deadline. Rebuttal: 15-19 July 2019."

@@ -1,0 +1,20 @@
+# migrated from data.php line 1466
+edition = 3
+title = "Domain Specific Model-based Approaches to Verification and Validation"
+url = "http://www.modelsward.org/AMARETTO.aspx"
+
+[event]
+start = 2018-01-22
+end = 2018-01-24
+city = "Funchal, Madeira"
+
+[submission]
+format = "around 8-10 pages"
+paper = [2017-11-07]
+notification = [2017-11-21]
+
+[proceedings]
+publisher = "SCITEPRESS Digital Library"
+
+[extra]
+notes = "Double-blind. Satellite of MODELSWARD."

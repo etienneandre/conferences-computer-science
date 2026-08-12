@@ -1,0 +1,29 @@
+# migrated from data.php line 8930
+edition = 26
+title = "26th International Conference on Formal Methods in Computer-Aided Design"
+url = "https://fmcad.org/FMCAD26/"
+
+[event]
+start = 2026-09-14
+end = 2026-09-18
+city = "Graz, Austria"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE + references (regular) / 4 pages (short)"
+abstract = [2026-04-26]
+paper = [2026-05-03]
+notification = [2026-06-28]
+
+[proceedings]
+publisher = "TU Wien Academic Press / ACM/IEEE"
+license = "cc-by"
+
+[review]
+blind = "single"
+diversity = "mixed"
+rebuttal = "Yes"
+artifact = "FMCAD 2025 introduced optional artifact evaluation to enhance transparency and the usability of research outcomes, which will again be featured at FMCAD 2026"
+
+[extra]
+colocated = "co-located with VSTTE 2026, with shared tutorial and joint program elements"

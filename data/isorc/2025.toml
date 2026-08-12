@@ -1,0 +1,22 @@
+# migrated from data.php line 17730
+edition = 28
+title = "28th IEEE International Symposium on Real-Time Distributed Computing"
+url = "http://isorc.github.io/2025/"
+
+[event]
+start = 2025-05-26
+end = 2025-05-28
+city = "Toulouse, France"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) / 6 pages IEEE (short)"
+paper = [2025-01-08, 2025-01-26, 2025-02-02]
+notification = [2025-03-05]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Best Paper and Student Paper Awards will be delivered during the conference. Authors of selected papers from ISORC 2025 will be invited to submit an extended version of their work for the Special Issue on AI-Driven Real-Time Distributed Computing for the Edge-Cloud Continuum review and possible publication in the Elsevier Journal of Systems Architecture: Embedded Software Design (JSA)."

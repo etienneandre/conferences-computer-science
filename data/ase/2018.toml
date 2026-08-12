@@ -1,0 +1,23 @@
+# migrated from data.php line 2202
+edition = 33
+title = "33rd IEEE/ACM International Conference on Automated Software Engineering"
+url = "http://www.ase2018.com"
+
+[event]
+start = 2018-09-03
+end = 2018-09-07
+city = "Montpellier, France"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references (technical research / experience) / 6 pages (new ideas)"
+abstract = [2018-04-19]
+paper = [2018-04-26]
+notification = [2018-07-03]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double-blind submissions. Deadlines AoE."

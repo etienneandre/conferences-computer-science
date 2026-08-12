@@ -1,0 +1,22 @@
+# migrated from data.php line 25426
+edition = 32
+title = "32nd International Conference on Real-Time Networks and Systems"
+url = "https://cister-labs.pt/rtns24/"
+
+[event]
+start = 2024-11-07
+end = 2024-11-08
+city = "Porto, Portugal"
+
+[submission]
+format = "10 pages ACM 2 columns (+ references)"
+abstract = [2024-08-14]
+paper = [2024-08-16]
+notification = [2024-10-07]
+
+[proceedings]
+publisher = "ACM ICPS"
+license = "acm"
+
+[extra]
+notes = "3 rounds of submissions in 2024. Two rounds in 2022 (September 2022 and January 2023). Authors of outstanding papers will be invited to submit an extended version of their work for a special issue of Springer Real-Time Systems journal. Prizes will be awarded for best paper."

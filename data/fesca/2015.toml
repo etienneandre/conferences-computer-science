@@ -1,0 +1,21 @@
+# migrated from data.php line 8238
+edition = 12
+title = "12th International Workshop on Formal Engineering approaches to Software Components and Architectures"
+url = "http://fesca.ipd.kit.edu/fesca2015/"
+
+[event]
+start = 2015-04-12
+city = "London, UK"
+
+[submission]
+format = "regular (15 pages EPTCS), position (10), tool (8)"
+abstract = [2014-12-17]
+paper = [2014-12-21]
+notification = [2015-01-26]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite event of ETAPS."

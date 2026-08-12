@@ -1,0 +1,16 @@
+# iFM — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "iFM"
+name = "International Conference on integrated Formal Methods"
+
+[core]
+id = "842"
+rank = "B"  # TODO: verify
+
+[links]
+dblp = "ifm"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "37% (2012), 25% (2013), 33% (12/7 / 45+13) in 2024."  # from iFM 2025
+extensions = "10 days in 2013, 7 days in 2016, 23 days in 2017, 12 days in 2018, 7 days in 2019, 7+14 days in 2022, 7 days in 2024, 2 weeks (2025)"  # from iFM 2025

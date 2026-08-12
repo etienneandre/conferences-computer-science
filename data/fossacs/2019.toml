@@ -1,0 +1,22 @@
+# migrated from data.php line 10715
+edition = 22
+title = "22nd International Conference on Foundations of Software Science and Computation Structures"
+url = "https://conf.researchr.org/track/etaps-2019/fossacs-2019-papers"
+
+[event]
+start = 2019-04-08
+end = 2019-04-11
+city = "Prag, Czech Republic"
+
+[submission]
+format = "15 pages LNCS + 2 pages bibliography"
+abstract = [2018-11-09]
+paper = [2018-11-16]
+notification = [2019-01-25]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc. Rebuttal phase: 11-14 January 2019."

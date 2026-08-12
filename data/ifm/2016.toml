@@ -1,0 +1,26 @@
+# migrated from data.php line 16956
+edition = 12
+title = "12th International Conference on integrated Formal Methods"
+url = "http://en.ru.is/ifm/"
+
+[event]
+start = 2016-06-01
+end = 2016-06-04
+city = "Reykjavík, Iceland"
+
+[submission]
+format = "15 pages LNCS (research / regular / case study) / 8 pages (short tool)"
+abstract = [2016-01-06]
+paper = [2016-01-13]
+notification = [2016-02-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = """
+The best papers from iFM 2014 will be invited for a special issue,
+complemented by an open call for papers, and undergo a separate
+peer-review process according to the usual scientific standards of
+the journal."""

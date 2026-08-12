@@ -1,0 +1,23 @@
+# migrated from data.php line 8466
+edition = 24
+title = "24th International Symposium on Formal Methods"
+url = "https://fm2023.isp.uni-luebeck.de/"
+
+[event]
+start = 2023-03-06
+end = 2023-03-10
+city = "Lübeck, Germany"
+
+[submission]
+tz = "AoE"
+format = "Springer 15 pages + references (regular / long tool / case study) / 6 pages (short / tool demo)"
+abstract = [2022-09-04]
+paper = [2022-09-11]
+notification = [2022-11-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Double-blind. Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014). During the conference, the Programme Committee Chairs will present an award to the authors of the submission selected as the FM 2023 Best Paper. Extended versions of selected papers will be invited for publication in a special issue of one or more journals."

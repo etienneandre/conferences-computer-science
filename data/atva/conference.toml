@@ -1,0 +1,25 @@
+# ATVA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ATVA"
+name = "International Symposium on Automated Technology for Verification and Analysis"
+
+[core]
+id = "1357"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2015
+rank = "A"
+
+[[core.history]]
+from = 2021
+rank = "B"
+
+[links]
+dblp = "atva"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "32% (2008), 36 / 75 = 48% (2011); (27+12+3)/(73+23) = 44% (2013?), 29/70+6 = 38% (2014), 22+9/78 = 37% (2017), 27+6/82=40% (2018), 24+3/65=42% (2019), 19+4/75=31% in 2021, 21+5/81=31% in 2022, 32% (30+7 / 115) in 2023, 33% (24/73) in 2024, 36% (21/59) in 2025"  # from ATVA 2026
+extensions = "4 more days to edit the paper past the deadline in 2011. Deadline extension: 2 weeks (2013), 12 days (2014), 7 days (2015), 7 days (2017), 7 days (2018), 9 days (2020), 7 days (2021, 2023), 6 days (2024), 7 days (2025), unknown (2026)"  # from ATVA 2026

@@ -1,0 +1,21 @@
+# migrated from data.php line 26455
+edition = 32
+title = "The 32nd Annual ACM Symposium on Applied Computing"
+url = "http://www.sigapp.org/sac/sac2017/"
+
+[event]
+start = 2017-04-03
+end = 2017-04-07
+city = "Marrakech, Morocco"
+
+[submission]
+format = "6 pages ACM SAC"
+paper = [2016-09-13, 2016-09-29]
+notification = [2016-11-10]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "37 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind reviews! Deadline extension: 10+7 days (2016, with notification extension by 10 days without announcement); 14 days (2017.)"

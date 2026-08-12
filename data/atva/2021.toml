@@ -1,0 +1,26 @@
+# migrated from data.php line 2582
+edition = 19
+title = "19th International Symposium on Automated Technology for Verification and Analysis"
+url = "https://formal-analysis.com/atva/2021/"
+
+[event]
+start = 2021-10-18
+end = 2021-10-22
+city = "Gold Coast, Australia (or virtual)"
+
+[submission]
+tz = "AoE"
+format = "16 pages in Springer’s LNCS format (regular) / 6 (tool)"
+paper = [2021-04-09, 2021-04-23]
+notification = [2021-06-04]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+rate = 31.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia."

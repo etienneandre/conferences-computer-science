@@ -1,0 +1,18 @@
+# migrated from data.php line 5145
+edition = 28
+title = "28th International Conference on Computer Science Logic"
+url = "http://www.cs.upc.edu/csl2020/"
+
+[event]
+start = 2020-01-13
+end = 2020-01-16
+city = "Barcelona, Catalonia, Spain"
+
+[submission]
+format = "15 pages LIPIcs (+ references)"
+paper = [2019-07-04]
+notification = [2019-09-30]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"

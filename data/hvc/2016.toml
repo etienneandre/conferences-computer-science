@@ -1,0 +1,22 @@
+# migrated from data.php line 13515
+edition = 12
+title = "12th Haifa Verification Conference"
+url = "https://www.research.ibm.com/haifa/conferences/hvc2016"
+
+[event]
+start = 2016-11-14
+end = 2016-11-17
+city = "Haifa, Israel"
+
+[submission]
+tz = "GMT"
+format = "16 pages LNCS (regular) / 6 pages (tool / experience)"
+paper = [2016-07-14, 2016-07-21]
+notification = [2016-09-05]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline GMT. Organized by IBM Research - Haifa. Always in Haifa. Student grants available."

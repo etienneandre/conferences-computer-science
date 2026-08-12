@@ -1,0 +1,22 @@
+# migrated from data.php line 20018
+edition = 6
+title = "6th Workshop on Models for Formal Analysis of Real Systems"
+url = "http://mars-workshop.org/mars2024/"
+
+[event]
+start = 2024-04-06
+city = "Luxembourg City, Luxembourg"
+
+[submission]
+tz = "AoE"
+format = "12 pages EPTCS + references"
+paper = [2024-01-15, 2024-01-25]
+notification = [2024-02-24, 2024-02-28]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by-nd"
+
+[extra]
+colocated = "Satellite of ETAPS."
+notes = "In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."

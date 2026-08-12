@@ -1,0 +1,28 @@
+# migrated from data.php line 18327
+edition = 35
+title = "35th International Symposium on Software Testing and Analysis"
+url = "https://conf.researchr.org/home/issta-2026"
+
+[event]
+start = 2026-10-03
+end = 2026-10-09
+city = "Oakland, California, United States"
+
+[submission]
+tz = "AoE"
+format = "18 pages ACM + references (no appendix)"
+paper = [2026-01-29]
+notification = [2026-04-16]
+
+[proceedings]
+publisher = "PACMSE"
+license = "cc-by"
+
+[review]
+blind = "double"
+diversity = "mixed"
+artifact = "Artifact evaluation, replicability studies."
+
+[extra]
+colocated = "Co-located with FSE 2025."
+notes = "Major revisions. The conference proceedings will be published in the Proceedings of the ACM on Software Engineering (PACMSE), Issue: ISSTA 2026."

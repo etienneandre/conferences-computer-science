@@ -1,0 +1,27 @@
+# migrated from data.php line 31955
+edition = 28
+title = "28th International Symposium on Temporal Representation and Reasoning"
+url = "https://time2021.aau.at/"
+
+[event]
+start = 2021-09-27
+end = 2021-09-29
+city = "Klagenfurt, Austria"
+
+[submission]
+format = "12 pages LIPIcs (+ references + 5 pages appendix)"
+abstract = [2021-04-23]
+paper = [2021-04-30]
+notification = [2021-06-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 13
+submitted = 28
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of a high quality journal to be yet decided."

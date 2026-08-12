@@ -1,0 +1,18 @@
+# migrated from data.php line 6652
+edition = 12
+title = "12th European Congress on Embedded Real-time Systems"
+url = "https://www.erts2024.org/"
+
+[event]
+start = 2024-06-11
+end = 2024-06-12
+city = "Toulouse, France"
+
+[submission]
+format = "4 pages (extended abstract / short) / 10 pages (full, if abstract accepted)"
+abstract = [2023-10-15]
+paper = [2023-10-15]
+notification = [2024-02-08]
+
+[proceedings]
+publisher = "?"

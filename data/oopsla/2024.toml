@@ -1,0 +1,20 @@
+# migrated from data.php line 21851
+title = "OOPSLA issue of the Proceedings of the ACM on Programming Languages (PACMPL)"
+url = "https://2024.splashcon.org/track/splash-2024-oopsla"
+
+[event]
+start = 2024-10-20
+end = 2024-10-25
+city = "Pasadena, California, United States"
+
+[submission]
+format = "23 pages (+ references)"
+paper = [2024-04-05]
+notification = [2024-06-21]
+
+[proceedings]
+publisher = "PACMPL"
+license = "free"
+
+[extra]
+notes = "Part of SPLASH 2024. Gold open access, but payment not required (on a volunteer basis). Double blind. Two rounds of reviewing. Author response: 3-5 June 2024 (round 2)"

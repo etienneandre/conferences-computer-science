@@ -1,0 +1,22 @@
+# migrated from data.php line 2157
+edition = 31
+title = "31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016)"
+url = "http://ase2016.org/"
+
+[event]
+start = 2016-09-03
+end = 2016-09-07
+city = "Singapore"
+
+[submission]
+format = "10 pages ACM + references (technical research / experience) / 6 pages (new ideas)"
+abstract = [2016-04-22]
+paper = [2016-04-29]
+notification = [2016-07-08]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double-blind submissions."

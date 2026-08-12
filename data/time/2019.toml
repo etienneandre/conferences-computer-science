@@ -1,0 +1,21 @@
+# migrated from data.php line 31898
+edition = 26
+title = "26th International Symposium on Temporal Representation and Reasoning"
+url = "https://sites.google.com/unife.it/time-2019"
+
+[event]
+start = 2019-10-16
+end = 2019-10-19
+city = "Málaga, Spain"
+
+[submission]
+format = "15 pages LIPIcs (+ references + 5 pages appendix)"
+paper = [2019-06-07, 2019-06-16, 2019-06-23]
+notification = [2019-07-21]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of a high quality journal to be yet decided."

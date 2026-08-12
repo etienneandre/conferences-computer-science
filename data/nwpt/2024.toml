@@ -1,0 +1,24 @@
+# migrated from data.php line 21777
+edition = 35
+title = "35th Nordic Workshop On Programming Theory"
+url = "https://nwpt24.github.io/"
+
+[event]
+start = 2024-11-06
+end = 2024-11-08
+city = "Copenhagen, Denmark"
+
+[submission]
+tz = "AoE"
+format = "2-3 pages Easychair"
+paper = [2024-09-24, 2024-10-01]
+notification = [2024-10-15]
+
+[proceedings]
+publisher = "PDF"
+
+[review]
+blind = "single"
+
+[extra]
+notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed."

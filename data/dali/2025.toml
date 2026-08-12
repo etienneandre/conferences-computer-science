@@ -1,0 +1,22 @@
+# migrated from data.php line 5459
+edition = 6
+title = "6th Workshop on Dynamic Logic - New trends and applications"
+url = "http://dali2025.web.ua.pt"
+
+[event]
+start = 2025-10-20
+end = 2025-10-21
+city = "Xi’an, China"
+
+[submission]
+format = "15 pages LNCS (regular) + bibliography / 6-8 pages (short) + 1p bibliography"
+abstract = [2025-06-01, 2025-06-15]
+paper = [2025-06-05, 2025-06-20]
+notification = [2025-07-15, 2025-07-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+journal = "A special issue of the event with extended papers will be published in Journal of Logical and Algebraic Methods in Programming (Elsevier)."

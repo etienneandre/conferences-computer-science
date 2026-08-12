@@ -1,0 +1,21 @@
+# migrated from data.php line 25730
+edition = 37
+title = "The 37th IEEE Real-Time Systems Symposium"
+url = "http://2016.rtss.org"
+
+[event]
+start = 2016-11-29
+end = 2016-12-02
+city = "Porto, Portugal"
+
+[submission]
+format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
+paper = [2016-05-04]
+notification = [2016-07-15]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Firm submission deadline. Rebuttal: 19-21 June 2016."

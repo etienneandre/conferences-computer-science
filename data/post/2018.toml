@@ -1,0 +1,22 @@
+# migrated from data.php line 22975
+edition = 7
+title = "7th International Conference on Principles of Security and Trust"
+url = "http://www.etaps.org/index.php/2018/post"
+
+[event]
+start = 2018-04-14
+end = 2018-04-21
+city = "Thessaloniki, Greece"
+
+[submission]
+format = "20 pages LNCS (+ 2 pages bibliography)"
+abstract = [2017-11-22]
+paper = [2017-11-24]
+notification = [2018-01-25]
+
+[proceedings]
+publisher = "Springer LNCS / ARCoSS"
+license = "cc-by"
+
+[extra]
+notes = "Double-blind"

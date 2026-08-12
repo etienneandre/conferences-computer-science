@@ -1,0 +1,21 @@
+# migrated from data.php line 30051
+edition = 8
+title = "8th International Workshop on Synthesis of Complex Parameters"
+url = "https://project.inria.fr/syncop23/"
+
+[event]
+start = 2023-04-22
+end = 2023-04-23
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "3 pages"
+paper = [2023-02-24]
+notification = [2023-03-03]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Satellite workshop of ETAPS. Since 2017, SynCoP moved to informal presentations and invited talks only (no formal proceedings)."

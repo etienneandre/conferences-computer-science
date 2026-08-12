@@ -1,0 +1,22 @@
+# migrated from data.php line 16405
+edition = 17
+title = "17th IEEE International Conference on Software Testing, Verification and Validation"
+url = "https://conf.researchr.org/home/icst-2024"
+
+[event]
+start = 2024-05-27
+end = 2024-05-31
+city = "Toronto, Canada"
+
+[submission]
+format = "10 pages IEEE (+ 2 pages for references)"
+abstract = [2023-10-18]
+paper = [2023-10-25]
+notification = [2023-12-06]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double-blind reviewing. Experimental data must be replicable. Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers … Deadline extension: 7 days (2017), 4 days (2018), 2 days (2019), 7 days (2022)"

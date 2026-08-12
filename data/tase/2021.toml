@@ -1,0 +1,23 @@
+# migrated from data.php line 31476
+edition = 15
+title = "15th International Symposium on Theoretical Aspects of Software Engineering"
+url = "https://tase2021.github.io/"
+
+[event]
+start = 2021-08-25
+end = 2021-08-27
+online = true
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE"
+abstract = [2021-02-28, 2021-03-07, 2021-03-21]
+paper = [2021-03-07, 2021-03-21]
+notification = [2021-05-07]
+
+[proceedings]
+publisher = "IEEE Computer Society Press"
+license = "pay"
+
+[extra]
+notes = "The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Often in China."

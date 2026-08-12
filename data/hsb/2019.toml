@@ -1,0 +1,21 @@
+# migrated from data.php line 13145
+edition = 6
+title = "6th International Workshop on Hybrid Systems Biology"
+url = "https://hsb2019.fit.vutbr.cz/"
+
+[event]
+start = 2019-04-06
+end = 2019-04-07
+city = "Prague, Czech Republic"
+
+[submission]
+format = "15 pages + 2 pages references LNCS/LNBI (regular) / 6 pages + 2 pages references (short)"
+paper = [2018-12-16, 2019-01-04]
+notification = [2019-02-15, 2019-02-24]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "ETAPS workshop. Tool papers require the submission of an executable artifact that contains clear instructions for the reviewer on how to run the tool."

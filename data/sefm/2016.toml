@@ -1,0 +1,27 @@
+# migrated from data.php line 27449
+edition = 14
+title = "14th International Conference on Software Engineering and Formal Methods"
+url = "http://staf2016.conf.tuwien.ac.at/sefm/"
+
+[event]
+start = 2016-07-04
+end = 2016-07-08
+city = "Vienna, Austria"
+
+[submission]
+format = "15 pages (research / tools / case studies) / 6 pages (New ideas/Work-in-Progress) LNCS"
+abstract = [2016-02-22]
+paper = [2016-02-29]
+notification = [2016-04-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 25
+submitted = 88
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Appendix: 2 pages allowed (not integrated in the proceedings). Thanks to a grant by Springer a monetary prize will accompany the best paper award certificate. A special issue of the Elsevier Journal on Logical and Algebraic Methods in Computer Science with a selection of the accepted papers is planned."

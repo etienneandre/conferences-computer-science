@@ -1,0 +1,21 @@
+# migrated from data.php line 33408
+edition = 8
+title = "8th Workshop on Verification and Monitoring at Runtime Execution"
+url = "https://2025.ecoop.org/home/vortex-2025"
+
+[event]
+start = 2025-07-04
+city = "Bergen, Norway"
+
+[submission]
+format = "12 pages in jot style (long) / 6 pages (short)"
+abstract = [2025-04-25]
+paper = [2025-05-02]
+notification = [2025-05-16]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Authors of selected papers will be invited to contribute with extended versions to be included in a special issue of the Journal of Object Technology - JOT."

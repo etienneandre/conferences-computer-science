@@ -1,0 +1,24 @@
+# migrated from data.php line 19833
+edition = 26
+title = "256h International Conference on Logic for Programming, Artificial Intelligence and Reasoning"
+url = "https://lpar-26.info"
+
+[event]
+start = 2026-10-25
+end = 2026-10-30
+city = "Spetses, Greece"
+
+[submission]
+format = "regular (15 pages EasyChair + references + appendix); tool / experimental (8)"
+abstract = [2026-06-03]
+paper = [2026-06-17]
+notification = [2026-08-03]
+
+[proceedings]
+publisher = "EPiC Series in Computing"
+license = "free"
+
+[review]
+blind = "single"
+diversity = "mixed"
+artifact = "Experimental and tool papers should be supported by a link to the artifact/experimental evaluation available to the reviewers."

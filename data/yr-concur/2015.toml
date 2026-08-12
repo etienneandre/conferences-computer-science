@@ -1,0 +1,19 @@
+# migrated from data.php line 34882
+edition = 6
+title = "6th International Young Researchers Workshop on Concurrency Theory"
+url = "http://cimini.info/yr-concur2015/"
+
+[event]
+start = 2015-09-05
+city = "Madrid, Spain"
+
+[submission]
+format = "4 pages LNCS"
+paper = [2015-07-13]
+notification = [2015-07-18]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."

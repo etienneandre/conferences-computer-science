@@ -1,0 +1,23 @@
+# migrated from data.php line 177
+edition = 20
+title = "20th International Conference on Autonomous Agents and Multiagent Systems"
+url = "https://aamas2021.soton.ac.uk/"
+
+[event]
+start = 2021-05-03
+end = 2021-05-07
+online = true
+
+[submission]
+tz = "UTC-12"
+format = "8 pages (+ references)"
+abstract = [2020-10-02]
+paper = [2020-10-09]
+notification = [2020-12-18]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. Rebuttal phase: 23-25 November 2020. All deadlines UTC-12."

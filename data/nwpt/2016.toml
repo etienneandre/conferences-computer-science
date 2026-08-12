@@ -1,0 +1,21 @@
+# migrated from data.php line 21598
+edition = 28
+title = "28th Nordic Workshop On Programming Theory"
+url = "http://nwpt2016.cs.aau.dk/"
+
+[event]
+start = 2016-10-31
+end = 2016-11-02
+city = "Rold Storkro, Skoerping (Aalborg), Denmark"
+
+[submission]
+tz = "UTC"
+format = "2-3 pages Easychair"
+paper = [2016-08-26]
+notification = [2016-09-20]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. Selection of best papers published in the Journal of Logic and Algebraic Programming. Warning: deadline 23h UTC."

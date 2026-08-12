@@ -1,0 +1,22 @@
+# migrated from data.php line 22132
+edition = 41
+title = "41st International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "https://lipn.univ-paris13.fr/petrinets2020/"
+
+[event]
+start = 2020-06-24
+end = 2020-06-25
+online = true
+
+[submission]
+format = "regular papers (max 20 pages in Springer LNCS-format); tool papers (max 10 pages in Springer LNCS-format)"
+abstract = [2020-01-15, 2020-01-22]
+paper = [2020-01-21, 2020-01-28]
+notification = [2020-03-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of <a href=\"https://lipn.univ-paris13.fr/summer-of-love-2020/\">Paris Nord Summer of LoVe 2020</a>. Includes an ACSD special track. All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited, in an extended form, as submissions to a special issue of a well-established computer science journal."

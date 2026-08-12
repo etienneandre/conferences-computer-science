@@ -1,0 +1,5 @@
+# MajecSTIC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "MajecSTIC"
+name = "9ème MAnifestation des JEunes Chercheurs en Sciences et Technologies de l’Information et de la Communication"
+defunct = "seemingly"

@@ -1,0 +1,19 @@
+# migrated from data.php line 32180
+edition = 4
+title = "4th International workshop on the TIming Performance in Safety Engineering"
+url = "http://www.es.ele.tue.nl/tips19/"
+
+[event]
+start = 2019-08-31
+city = "Amsterdam, The Netherlands"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short) / 2 pages (abstract, position)"
+paper = [2019-05-10, 2019-05-26]
+notification = [2019-06-12]
+
+[proceedings]
+publisher = "None (?)"
+
+[extra]
+notes = "Co-located with CONCUR and FORMATS."

@@ -1,0 +1,19 @@
+# migrated from data.php line 25989
+edition = 17
+title = "17th International Conference on Runtime Verification"
+url = "http://rv2017.cs.manchester.ac.uk"
+
+[event]
+start = 2017-09-13
+end = 2017-09-16
+city = "Seattle, WA, USA"
+
+[submission]
+format = "regular (15 pages LNCS) / short (6 pages) / tool demonstration (8 pages)"
+abstract = [2017-04-24, 2017-05-08]
+paper = [2017-05-01, 2017-05-08]
+notification = [2017-06-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

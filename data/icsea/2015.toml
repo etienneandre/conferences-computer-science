@@ -1,0 +1,21 @@
+# migrated from data.php line 16058
+edition = 10
+title = "10th International Conference on Software Engineering Advances"
+url = "http://www.iaria.org/conferences2015/ICSEA15.html"
+
+[event]
+start = 2015-11-15
+end = 2015-11-20
+city = "Barcelona, Spain"
+
+[submission]
+format = "6 pages (regular) / 4 pages (short/work in progress) / 2 pages (ideas/poster)"
+paper = [2015-06-16]
+notification = [2015-08-16]
+
+[proceedings]
+publisher = "ThinkMind"
+license = "free-copy"
+
+[extra]
+notes = "More paper categories (poster, extended abstracts, presentations, demos, doctoral forum…)."

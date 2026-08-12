@@ -1,0 +1,19 @@
+# migrated from data.php line 28978
+edition = 22
+title = "22nd International Symposium on Model Checking of Software"
+url = "http://spin2015.org/"
+
+[event]
+start = 2015-08-24
+end = 2015-08-26
+city = "Stellenbosch, South Africa"
+
+[submission]
+format = "18 pages LNCS (research / survey / history) / 6 pages (idea / tool)"
+abstract = [2015-04-17]
+paper = [2015-05-04]
+notification = [2015-06-15]
+
+[proceedings]
+publisher = "ACM Digital Library"
+license = "pay"

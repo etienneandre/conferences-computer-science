@@ -1,0 +1,23 @@
+# migrated from data.php line 27214
+edition = 22
+title = "22nd Brazilian Symposium on Formal Methods"
+url = "http://www.sbmf2018.ufba.br/"
+
+[event]
+start = 2019-11-26
+end = 2019-11-28
+city = "São Paulo, Brazil"
+
+[submission]
+tz = "AoE"
+format = "No page limit (30 pages is sufficient)"
+paper = [2019-08-02]
+notification = [2019-10-03]
+extensions = true  # extended, earlier date unknown
+
+[proceedings]
+publisher = "Science of Computer Programming, Elsevier"
+license = "pay-profit"
+
+[extra]
+notes = "A special issue of Science of Computer Programming (Elsevier) will publish the best papers."

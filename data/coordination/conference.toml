@@ -1,0 +1,16 @@
+# COORDINATION — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "COORDINATION"
+name = "International Conference on Coordination Models and Languages"
+
+[core]
+id = "980"
+rank = "C"  # TODO: verify
+
+[links]
+dblp = "coordination"
+mastodon = "https://lipn.info/@DisCoTecConf"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "14 days (2025-2026)"  # from COORDINATION 2026

@@ -1,0 +1,22 @@
+# migrated from data.php line 26078
+edition = 20
+title = "20th International Conference on Runtime Verification"
+url = "https://rv20.ait.ac.at"
+
+[event]
+start = 2020-10-06
+end = 2020-10-09
+city = "Los Angeles, CA, USA"
+
+[submission]
+format = "regular (16 pages LNCS + references) / short (8 pages) / tool demonstration (8 pages)"
+abstract = [2020-05-18, 2020-06-08]
+paper = [2020-05-25, 2020-06-15]
+notification = [2020-07-24]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The Program Committee of RV 2019 will give a best paper award, and a selection of accepted regular papers will be invited to appear in a special journal issue."

@@ -1,0 +1,8 @@
+# SSV — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SSV"
+name = "Conference on Systems Software Verification"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

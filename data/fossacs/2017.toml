@@ -1,0 +1,27 @@
+# migrated from data.php line 10671
+edition = 20
+title = "20th International Conference on Foundations of Software Science and Computation Structures"
+url = "http://www.etaps.org/index.php/2017/fossacs"
+
+[event]
+start = 2017-04-22
+end = 2017-04-29
+city = "Uppsala, Sweden"
+
+[submission]
+format = "15 pages LNCS + 2 pages bibliography"
+abstract = [2016-10-14]
+paper = [2016-10-21]
+notification = [2016-12-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 32
+submitted = 101
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc. Rebuttal phase: 7-9 December 2016."

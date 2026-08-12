@@ -1,0 +1,21 @@
+# migrated from data.php line 1154
+edition = 15
+title = "15e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "http://afadl2017.imag.fr"
+
+[event]
+start = 2017-06-13
+end = 2017-06-14
+city = "Montpellier, France"
+
+[submission]
+format = "15 pages (longs) / 6 pages (courts) / 4 pages (outils) / 2 pages (projets) / 1 page (article déjà publié)"
+paper = [2017-03-03, 2017-03-13]
+notification = [2017-04-07]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "In French (?)."

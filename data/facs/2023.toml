@@ -1,0 +1,23 @@
+# migrated from data.php line 7757
+edition = 19
+title = "19th International Conference Formal Aspects of Component Software"
+url = "https://facs-conference.github.io"
+
+[event]
+start = 2023-10-19
+end = 2023-10-20
+online = true
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS format + references  (research / applications / survey) / 6 (tool) + ref / 4 pages (journal-first)"
+abstract = [2023-07-03, 2023-07-17]
+paper = [2023-07-10, 2023-07-17]
+notification = [2023-09-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Fully virtual conference. Free registration. Special issue in Science of Computer Programming. Special track: “Formal Methods at Large” in 2023."

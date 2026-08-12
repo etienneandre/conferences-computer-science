@@ -1,0 +1,14 @@
+# ASE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ASE"
+name = "IEEE/ACM International Conference on Automated Software Engineering"
+
+[core]
+rank = "A"  # TODO: verify
+
+[links]
+twitter = "https://twitter.com/ASE_conf"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Acceptance rate: 22% (80/362) in 2018. Deadline extension: 14 days (2020)"

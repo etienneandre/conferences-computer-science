@@ -1,0 +1,18 @@
+# migrated from data.php line 15391
+edition = 19
+title = "19th International Conference On Smart homes and health Telematics"
+url = "http://www.icost-society.org/"
+
+[event]
+start = 2022-06-27
+end = 2022-06-30
+city = "Paris, France"
+
+[submission]
+format = "12 pages LNCS (full) / 4 pages (extended abstract)"
+paper = [2022-02-22, 2022-03-11]
+notification = [2022-03-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

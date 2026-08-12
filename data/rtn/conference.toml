@@ -1,0 +1,12 @@
+# RTN — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "RTN"
+name = "International Workshop on Real-Time Networks"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 7 days (2018)"

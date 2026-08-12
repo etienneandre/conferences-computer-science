@@ -1,0 +1,23 @@
+# migrated from data.php line 11633
+edition = 40
+title = "40th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
+url = "https://www.fsttcs.org.in/2020/"
+
+[event]
+start = 2020-12-15
+end = 2020-12-17
+city = "Goa, India"
+
+[submission]
+tz = "AoE"
+format = "12 pages in LIPIcs (excluding bibliography) + unlimited appendix"
+abstract = [2020-07-17]
+paper = [2020-07-17]
+notification = [2020-09-14]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Always in India. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."

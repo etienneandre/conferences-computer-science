@@ -1,0 +1,22 @@
+# migrated from data.php line 34232
+edition = 14
+title = "14th WISTP International Conference on Information Security Theory and Practice"
+url = "https://wistp2024.roc.cnam.fr/"
+
+[event]
+start = 2024-02-29
+end = 2024-03-01
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "16 pages Springer LNCS"
+paper = [2024-01-30]
+notification = [2024-02-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"

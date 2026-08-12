@@ -1,0 +1,21 @@
+# migrated from data.php line 3874
+edition = 22
+title = "22nd International Conference Implementation and Application of Automata"
+url = "http://ciaa17.univ-mlv.fr/"
+
+[event]
+start = 2017-06-27
+end = 2017-06-30
+city = "Marne-la-Vallée, France"
+
+[submission]
+format = "12 pages LNCS + appendix"
+paper = [2017-03-01]
+notification = [2017-04-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Selected papers from the conference will be invited for consideration in a journal special issue, currently planned to be published in Theoretical Computer Science (TCS)."

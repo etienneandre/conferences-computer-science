@@ -1,0 +1,22 @@
+# migrated from data.php line 30911
+edition = 10
+title = "10th International Conference on Tests & Proofs"
+url = "http://tap2016.ist.tugraz.at/"
+
+[event]
+start = 2016-07-05
+end = 2016-07-07
+city = "Vienna, Austria"
+
+[submission]
+format = "16 pages LNCS (research) / 6 pages (short) / 3 pages (tutorial)"
+abstract = [2016-01-29, 2016-02-15]
+paper = [2016-01-29, 2016-02-15]
+notification = [2016-04-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of the Staf Conference Series."

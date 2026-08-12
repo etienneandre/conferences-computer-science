@@ -1,0 +1,19 @@
+# migrated from data.php line 32156
+edition = 3
+title = "3rd International workshop on the TIming Performance in Safety Engineering"
+url = "http://www.es.ele.tue.nl/tips18/"
+
+[event]
+start = 2018-09-08
+city = "Beijing, China"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short) / 2 pages (abstract, position)"
+paper = [2018-05-11]
+notification = [2018-06-08]
+
+[proceedings]
+publisher = "None (?)"
+
+[extra]
+notes = "Co-located with CONFESTA"

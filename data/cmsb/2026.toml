@@ -1,0 +1,27 @@
+# migrated from data.php line 4388
+edition = 24
+title = "24th Conference on Computational Methods in Systems Biology"
+url = "https://arsr.inesc-id.pt/cmsb2026/"
+
+[event]
+start = 2026-07-24
+end = 2026-07-25
+city = "Lisbon, Portugal"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
+abstract = [2026-03-27, 2026-04-03]
+paper = [2026-04-03, 2026-04-10]
+notification = [2026-05-02]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+award = "best paper award and best student paper award"
+
+[extra]
+colocated = "Co-located with the Federated Logic Conference (FLoC 2026)"

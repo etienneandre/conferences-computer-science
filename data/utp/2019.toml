@@ -1,0 +1,20 @@
+# migrated from data.php line 32323
+edition = 7
+title = "7th International Symposium on Unifying Theories of Programming"
+url = "https://www.cs.york.ac.uk/circus/utp2019/"
+
+[event]
+start = 2019-10-08
+city = "Porto, Portugal"
+
+[submission]
+format = "Springer"
+abstract = [2019-10-08]
+paper = [2019-10-08]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with FM 2019. Every two years. Submissions in 2019 by invitation only."

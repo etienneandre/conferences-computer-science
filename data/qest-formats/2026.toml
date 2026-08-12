@@ -1,0 +1,30 @@
+# migrated from data.php line 23816
+edition = 3
+title = "Third joint event for International Conference on Quantitative Evaluation of SysTems and International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "https://www.qest-formats.org/"
+
+[event]
+start = 2026-09-02
+end = 2026-09-04
+city = "Liverpool, England"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references + appendix (regular) / 7 pages (short) / presentation only"
+abstract = [2026-04-03, 2026-04-13]
+paper = [2026-04-10, 2026-04-20]
+notification = [2026-05-24, 2026-06-03]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+artifact = "Mandatory for tool papers, optional otherwise."
+award = "We are considering awards for best papers and best artifacts."
+
+[extra]
+journal = "We are working on a special issue in a Q1 journal. A selection of the best papers will be invited to submit an extended version of their work to a special issue in an internationally recognized journal."
+colocated = "Part of CONFEST 2026"

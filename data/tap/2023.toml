@@ -1,0 +1,23 @@
+# migrated from data.php line 31117
+edition = 17
+title = "17th International Conference on Tests & Proofs"
+url = "https://conf.researchr.org/home/tap-2023"
+
+[event]
+start = 2023-07-18
+end = 2023-07-19
+city = "Leicester, England"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (research) / 8 pages + ref (tool) / 6 pages + ref (short) / journal-first (4 pages)"
+abstract = [2023-03-03, 2023-03-24]
+paper = [2023-03-17, 2023-03-24]
+notification = [2023-04-21]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of STAF 2023."

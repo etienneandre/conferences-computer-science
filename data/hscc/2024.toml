@@ -1,0 +1,27 @@
+# migrated from data.php line 13386
+edition = 27
+title = "27th ACM International Conference on Hybrid Systems: Computation and Control"
+url = "https://hscc.acm.org/2024/"
+
+[event]
+start = 2024-05-13
+end = 2024-05-16
+city = "Hong Kong, China"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references (long) / 6 pages (short)"
+paper = [2023-10-31]
+notification = [2024-01-20]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[stats]
+accepted = 26
+submitted = 58
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Firm deadline. Part of CPS-IoT Week. Double-blind reviewing process. Several best paper awards. Rebuttal phase: 18-22 December 2023. Regular papers and tool/case study papers can both be long or short."

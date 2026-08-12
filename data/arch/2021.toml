@@ -1,0 +1,20 @@
+# migrated from data.php line 2096
+edition = 8
+title = "8th International Workshop on Applied Verification for Continuous and Hybrid Systems"
+url = "https://cps-vo.org/group/ARCH/submissionInstructions"
+
+[event]
+dates_text = "Early July 2021"
+city = "virtual? (Brussels, Belgium)"
+
+[submission]
+format = "3-8 pages (Benchmark papers, tool presentations, tool executions, experience reports)"
+paper = [2021-04-30]
+notification = [2021-05-31]
+
+[proceedings]
+publisher = "EasyChair EPiC series"
+license = "free"
+
+[extra]
+notes = "Co-located with ADHS 2021. The paper with the most promising benchmark results receives a prize of 500€ sponsored by Robert Bosch GmbH, Germany. The winner is preselected by the program committee and determined by an audience voting. Free of charge in 2017."

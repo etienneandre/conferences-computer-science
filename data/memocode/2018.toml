@@ -1,0 +1,22 @@
+# migrated from data.php line 20138
+edition = 16
+title = "16th ACM/IEEE International Conference on Formal Methods and Models for System Design"
+url = "http://memocode.irisa.fr/2018"
+
+[event]
+start = 2018-10-15
+end = 2018-10-18
+city = "Beijing, China"
+
+[submission]
+format = "10 pages IEEE (regular) / 4 pages (work in progress) / 8 pages (tool)"
+abstract = [2018-05-25, 2018-06-01]
+paper = [2018-06-01, 2018-06-08]
+notification = [2018-07-23]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Co-located with FMCAD. Selected papers will be invited for publication in a special issue of ACM Transactions on Embedded Computing Systems."

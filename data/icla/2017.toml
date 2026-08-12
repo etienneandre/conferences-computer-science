@@ -1,0 +1,21 @@
+# migrated from data.php line 15060
+edition = 7
+title = "7th Indian Conference on Logic and its Applications"
+url = "http://www.cse.iitk.ac.in/users/icla/"
+
+[event]
+start = 2017-01-05
+end = 2017-01-07
+city = "IIT Kanpur, India"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2016-09-02]
+notification = [2016-10-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "In 2011, some papers were accepted for presentation but not in proceedings. A limited number of registration waivers are available for Indian participants. Every two years."

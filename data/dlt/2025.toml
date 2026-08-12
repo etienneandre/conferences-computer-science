@@ -1,0 +1,18 @@
+# migrated from data.php line 5761
+edition = 29
+title = "29th International Conference on Developments in Language Theory"
+url = "https://cida.uos.ac.kr/dlt2025/"
+
+[event]
+start = 2025-08-19
+end = 2025-08-22
+city = "Seoul, South Korea"
+
+[submission]
+format = "12 pages LNCS + bibliography"
+paper = [2025-03-31, 2025-04-14]
+notification = [2025-05-20]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"

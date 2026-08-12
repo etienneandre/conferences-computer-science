@@ -1,0 +1,23 @@
+# migrated from data.php line 14203
+edition = 15
+title = "15th ACM/IEEE International Conference on Cyber-Physical Systems"
+url = "https://iccps.acm.org/2024/"
+
+[event]
+start = 2024-05-13
+end = 2024-05-16
+city = "Hong Kong"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + 2-page appendix"
+abstract = [2023-10-24]
+paper = [2023-10-31]
+notification = [2024-01-20]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Light-weight double-blind. Firm deadline (2018-2022). Two tracks: theory and application. Part of Cyber Physical Systems (CPS) Week. A distinguished paper award will be presented. A subset of accepted papers will be solicited for a Special issue of a related journal. One paper will be nominated for a Research Highlight in the Communications of the ACM. Firm deadlines in (at least) 2019-2022."

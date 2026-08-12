@@ -1,0 +1,24 @@
+# migrated from data.php line 21488
+edition = 13
+title = "13th International Workshop on Numerical Software Verification"
+url = "https://nsv2020.github.io/"
+
+[event]
+start = 2020-07-19
+city = "Los Angeles, CA, USA"
+
+[submission]
+format = "15 pages LNCS + references (regular) / 6 pages (short / tools / benchmark / case studies)"
+paper = [2020-04-20]
+notification = [2020-05-23]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+rate = 57.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Co-located with CAV 2020."

@@ -1,0 +1,21 @@
+# migrated from data.php line 13175
+edition = 7
+title = "7th International Workshop on Hybrid Systems Biology"
+url = "http://hsb2020.conf.tuwien.ac.at/"
+
+[event]
+start = 2020-04-15
+end = 2020-04-16
+city = "Vienna, Austria"
+
+[submission]
+format = "15 pages + 2 pages references LNCS/LNBI (regular) / 6 pages + 2 pages references (short)"
+paper = [2019-12-13]
+notification = [2020-03-06]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "Tool papers require the submission of an executable artifact that contains clear instructions for the reviewer on how to run the tool."

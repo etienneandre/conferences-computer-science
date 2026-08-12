@@ -1,0 +1,21 @@
+# migrated from data.php line 3597
+edition = 56
+title = "56th IEEE Conference on Decision and Control"
+url = "http://cdc2017.ieeecss.org/"
+
+[event]
+start = 2017-12-12
+end = 2017-12-15
+city = "Melbourne, Australia"
+
+[submission]
+format = "6 pages IEEE (+ 2 additional for a fee)"
+paper = [2017-03-20]
+notification = [2017-07-15]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "No deadline extension."

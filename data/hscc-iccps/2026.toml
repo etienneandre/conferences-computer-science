@@ -1,0 +1,34 @@
+# migrated from data.php line 13450
+edition = 29
+title = "29th ACM International Conference on Hybrid Systems: Computation and Control, and 17th ACM/IEEE International Conference on Cyber-Physical Systems"
+url = "https://hscc.acm.org/2026/"
+
+[event]
+start = 2026-05-11
+end = 2026-05-14
+city = "Saint-Malo, Bretagne, France"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + references (long) / 6 pages (short)"
+abstract = [2025-11-06]
+paper = [2025-11-13]
+notification = [2026-01-29]
+
+[proceedings]
+publisher = "ACM"
+license = "free"
+
+[review]
+blind = "double"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2026-01-07
+rebuttal_end = 2026-01-11
+artifact = "Authors of accepted papers are encouraged to participate in artifact evaluation."
+award = "Best paper awards for HSCC and ICCPS, Best Student Paper Award, Best Tool Paper Award"
+
+[extra]
+journal = "Selected papers will be invited to submit extended versions to: ACM Transactions on Cyber-Physical Systems and to Non-Linear Analysis: Hybrid Systems"
+colocated = "Part of CPS-IoT Week."
+notes = "Regular papers and tool/case study papers can both be long or short. The conference itself will consist of parallel tracks and a semi-plenary speaker, continuing traditions established in past HSCC/ICCPS conferences.This “pre-merger” transitional structure will apply to the 2026 version of these conferences (unified submission, review process and multi-track conferences but distinct proceedings) before a planned “full merge” in 2027. The full merge structure will be a combined conference with a single name and proceedings while retaining the three distinct tracks."

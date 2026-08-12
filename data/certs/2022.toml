@@ -1,0 +1,20 @@
+# migrated from data.php line 3784
+edition = 5
+title = "5th Workshop on Security and Dependability of Critical Embedded Real-Time Systems"
+url = "https://certs2022.di.fc.ul.pt/"
+
+[event]
+start = 2022-12-05
+city = "Houston, USA"
+
+[submission]
+format = "2 pages IEEE"
+paper = [2022-10-03]
+notification = [2022-10-10]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+colocated = "Satellite of RTSS 2022"
+notes = "Authors of accepted papers will be requested to prepare a poster for the workshop."

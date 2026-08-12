@@ -1,0 +1,16 @@
+# EMSOFT — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "EMSOFT"
+name = "International Conference on Embedded Software"
+
+[core]
+id = "16"
+rank = "A"  # TODO: verify
+
+[links]
+dblp = "emsoft"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "24% (27/111) in 2018, 23% (21/90) in 2023, 22% (28/129) in 2024"  # from EMSOFT 2026
+extensions = "One week (2013, 2014, 2020). Firm deadline (2015, 2016, 2018, 2019, 2021-2026)"  # from EMSOFT 2026

@@ -1,0 +1,22 @@
+# migrated from data.php line 33659
+edition = 14
+title = "14th Working Conference on Verified Software: Theories, Tools, and Experiments (VSTTE)"
+url = "https://vstte22.fbk.eu/"
+
+[event]
+start = 2022-10-17
+end = 2022-10-18
+city = "Trento, Italy"
+
+[submission]
+format = "16 pages LNCS + references (long) / 10 pages (short)"
+abstract = [2022-07-15, 2022-07-22]
+paper = [2022-07-22, 2022-07-29]
+notification = [2022-09-05]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with Formal Methods in Computer-Aided Design 2022 (FMCAD 2022). Firm in 2019."

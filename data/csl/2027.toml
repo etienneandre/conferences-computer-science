@@ -1,0 +1,25 @@
+# migrated from data.php line 5324
+edition = 35
+title = "International Conference on Computer Science Logic"
+url = "https://csl2027.github.io/"
+
+[event]
+start = 2027-01-25
+end = 2027-01-29
+city = "Brighton, UK"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ references + appendix)"
+abstract = [2026-07-08]
+paper = [2026-07-15]
+notification = [2026-10-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "lightweight-double"
+diversity = "mixed"
+award = "Papers authored solely by students or for which students are the main contributors will be considered for the Helena Rasiova award."

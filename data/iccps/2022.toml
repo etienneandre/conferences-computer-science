@@ -1,0 +1,23 @@
+# migrated from data.php line 14156
+edition = 13
+title = "13th ACM/IEEE International Conference on Cyber-Physical Systems"
+url = "https://iccps.acm.org/2022/"
+
+[event]
+start = 2022-05-04
+end = 2022-05-06
+city = "Milan, Italy"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM + 2-page appendix"
+abstract = [2021-10-22]
+paper = [2021-10-29]
+notification = [2022-01-17]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Light-weight double-blind. Firm deadline (2018-2022). Two tracks: theory and application. Part of Cyber Physical Systems (CPS) Week. A distinguished paper award will be presented. A subset of accepted papers will be solicited for a Special issue of a related journal. One paper will be nominated for a Research Highlight in the Communications of the ACM. Firm deadlines in (at least) 2019-2022."

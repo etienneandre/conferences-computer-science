@@ -1,0 +1,25 @@
+# ICTAC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICTAC"
+name = "International Colloquium on Theoretical Aspects of Computing"
+
+[core]
+id = "867"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2016
+rank = "B"
+
+[[core.history]]
+from = 2024
+rank = "C"
+
+[links]
+dblp = "ictac"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "38% (23/60) in 2016, 43% (17/40) in 2017, 42% (25/59) in 2018, 48% (23+2 / 44+8) in 2022, 56% (22/39) in 2023."  # from ICTAC 2026
+extensions = "2 weeks (2014, 2015, 2016, 2018), 10 days (2017), 14 days (2019), 21 days (2020), 7 days (2021), 16 days (2023), 9 days (2024), 18 days (2025), 7 days (2026)."  # from ICTAC 2026

@@ -1,0 +1,23 @@
+# migrated from data.php line 31540
+edition = 17
+title = "17th International Symposium on Theoretical Aspects of Software Engineering"
+url = "https://bristolpl.github.io/tase2023/"
+
+[event]
+start = 2023-07-04
+end = 2023-07-06
+city = "Bristol, England"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (long) / 6 pages (short)"
+abstract = [2023-02-03, 2023-02-10]
+paper = [2023-02-10, 2023-02-24]
+notification = [2023-04-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Ranked \"national Chinese conference\" by CORE (since 2020). The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Often in China."

@@ -1,0 +1,21 @@
+# migrated from data.php line 24942
+edition = 26
+title = "26th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications"
+url = "https://rtcsa2020.github.io/index/"
+
+[event]
+start = 2020-08-19
+end = 2020-08-21
+city = "Gangneung, South Korea"
+
+[submission]
+format = "10 pages IEEE 2 columns"
+paper = [2020-03-31, 2020-04-14]
+notification = [2020-05-20]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "3 tracks: embedded systems, real-time systems, and IoT, CPS, AND EMERGING APPLICATIONS."

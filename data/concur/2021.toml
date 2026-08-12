@@ -1,0 +1,28 @@
+# migrated from data.php line 4584
+edition = 32
+title = "32nd International Conference on Concurrency Theory"
+url = "https://qonfest2021.lacl.fr/concur21.php"
+
+[event]
+start = 2021-08-23
+end = 2021-08-27
+online = true
+
+[submission]
+tz = "AoE"
+format = "14 pages LIPIcs (+ references + appendix)"
+abstract = [2021-04-23]
+paper = [2021-04-30]
+notification = [2021-06-23]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 35
+submitted = 96
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Part of QONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials."

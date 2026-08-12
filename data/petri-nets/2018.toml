@@ -1,0 +1,22 @@
+# migrated from data.php line 22065
+edition = 39
+title = "39th International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "http://interes.institute/petrinets2018/"
+
+[event]
+start = 2018-06-24
+end = 2018-06-29
+city = "Bratislava, Slovakia"
+
+[submission]
+format = "regular papers (max 20 pages in Springer LNCS-format); tool papers (max 10 pages in Springer LNCS-format)"
+abstract = [2018-01-10, 2018-01-17]
+paper = [2018-01-15, 2018-01-22]
+notification = [2018-03-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with ACSD. The deadline for submission of papers in 2015 was strict. All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited as submissions to a special issue of the Fundamenta Informaticae journal."

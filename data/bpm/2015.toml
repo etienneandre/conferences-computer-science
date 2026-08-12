@@ -1,0 +1,23 @@
+# migrated from data.php line 2971
+edition = 13
+title = "13th International Conference on Business Process Management"
+url = "http://bpm2015.q-e.at/"
+
+[event]
+start = 2015-08-31
+end = 2015-09-03
+city = "Innsbruck, Austria"
+
+[submission]
+tz = "UTC-12"
+format = "16 pages LNCS"
+abstract = [2015-03-08, 2015-03-15]
+paper = [2015-03-15, 2015-03-22]
+notification = [2015-05-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline UTC-12. Authors of selected papers will be invited to submit a paper for a special issue of Information Systems (Elsevier)."

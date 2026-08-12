@@ -1,0 +1,8 @@
+# UTP — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "UTP"
+name = "International Symposium on Unifying Theories of Programming"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

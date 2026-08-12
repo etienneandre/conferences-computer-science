@@ -1,0 +1,23 @@
+# migrated from data.php line 20279
+edition = 23
+title = "23rd ACM/IEEE International Conference on Formal Methods and Models for System Design"
+url = "https://memocode2025.github.io/"
+
+[event]
+start = 2025-10-02
+end = 2025-10-03
+city = "Taipei, Taiwan"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) + bibliography / 4 pages (work in progress) / 8 pages (tool)"
+abstract = [2025-04-28, 2025-05-08, 2025-05-23]
+paper = [2025-05-03, 2025-05-15, 2025-05-23]
+notification = [2025-07-08]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Part of ESWEEK 2025. Selected accepted papers will be invited to extend their accepted papers (at least 30% extension over the accepted version) for a special edition in a journal such as the ACM Transactions on Embedded Computing Systems (ACM TECS)."

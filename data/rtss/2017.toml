@@ -1,0 +1,21 @@
+# migrated from data.php line 25752
+edition = 38
+title = "38th IEEE Real-Time Systems Symposium"
+url = "http://2017.rtss.org"
+
+[event]
+start = 2017-12-05
+end = 2017-12-08
+city = "Paris, France"
+
+[submission]
+format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
+paper = [2017-05-01]
+notification = [2017-07-10]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Firm submission deadline. Rebuttal: 12-15 June 2017."

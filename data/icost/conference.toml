@@ -1,0 +1,15 @@
+# ICOST — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICOST"
+name = "International Conference On Smart homes and health Telematics"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "icost"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "18+19 days (2017), 15+14 days (2018), 14 days (2019), 11 days (2020), 17 days (2022, 2023)"  # from ICOST 2023

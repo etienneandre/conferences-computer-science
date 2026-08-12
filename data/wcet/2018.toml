@@ -1,0 +1,20 @@
+# migrated from data.php line 34086
+edition = 18
+title = "18th International Workshop on Worst-Case Execution Time Analysis"
+url = "https://wcet2018.wp.imt.fr/"
+
+[event]
+start = 2018-07-03
+city = "Barcelona, Spain"
+
+[submission]
+format = "10 pages OASIcs"
+paper = [2018-04-17, 2018-04-24]
+notification = [2018-05-15]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with ECRTS."

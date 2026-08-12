@@ -1,0 +1,20 @@
+# migrated from data.php line 21555
+edition = 26
+title = "26th Nordic Workshop On Programming Theory"
+url = "http://ceres.hh.se/mediawiki/index.php/NWPT_2014"
+
+[event]
+start = 2014-10-29
+end = 2014-10-31
+city = "Halmstad, Sweden"
+
+[submission]
+format = "2-3 pages Easychair"
+paper = [2014-09-20]
+notification = [2014-09-28]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. Selection of best papers published in the Journal of Logic and Algebraic Programming."

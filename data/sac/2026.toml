@@ -1,0 +1,25 @@
+# migrated from data.php line 26727
+edition = 41
+title = "41st ACM/SIGAPP Symposium On Applied Computing"
+url = "https://www.sigapp.org/sac/sac2026/"
+
+[event]
+start = 2026-03-23
+end = 2026-03-27
+city = "Thessaloniki, Greece"
+
+[submission]
+tz = "EST"
+format = "8+2 pages ACM"
+paper = [2025-09-26, 2025-10-10, 2025-10-17]
+notification = [2025-10-31, 2025-11-21]
+
+[proceedings]
+publisher = "ACM"
+license = "free"
+
+[review]
+blind = "double"
+
+[extra]
+notes = "39 tracks, student abstracts, Student Research Competition, etc."

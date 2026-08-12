@@ -1,0 +1,22 @@
+# migrated from data.php line 9684
+edition = 11
+title = "11th International Conference on Formal Methods in Software Engineering"
+url = "https://formalise2023.github.io/"
+
+[event]
+start = 2023-05-14
+end = 2023-05-15
+city = "Pittsburgh, PA, USA"
+
+[submission]
+format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
+abstract = [2023-01-09, 2023-01-16]
+paper = [2023-01-16, 2023-01-27]
+notification = [2023-02-21]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "acm"
+
+[extra]
+notes = "Light-weight rebuttal scheme. Artifact evaluation. Held in conjunction with ICSE."

@@ -1,0 +1,22 @@
+# migrated from data.php line 10029
+edition = 19
+title = "19th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "https://qonfest2021.lacl.fr/formats21.php"
+
+[event]
+start = 2021-08-23
+end = 2021-08-27
+online = true
+
+[submission]
+format = "15 pages LNCS + references + appendix (regular) / 5 pages (tools)"
+abstract = [2021-04-06, 2021-04-23, 2021-05-10]
+paper = [2021-04-13, 2021-04-27, 2021-05-10]
+notification = [2021-06-21]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020, 14+13 days in 2021. Part of QONFEST with CONCUR, FMICS and QEST. Best paper award in the honor of Oded Maler (since 2018)."

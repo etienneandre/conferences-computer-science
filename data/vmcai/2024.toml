@@ -1,0 +1,27 @@
+# migrated from data.php line 33291
+edition = 25
+title = "25th International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://popl24.sigplan.org/home/VMCAI-2024"
+
+[event]
+start = 2024-01-15
+end = 2024-01-16
+city = "London, England"
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix (regular / case studies) / 12 pages + references (tool)"
+paper = [2023-08-31]
+notification = [2023-10-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 30
+submitted = 74
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Co-located with POPL. Authors are strongly encouraged to make their tools publicly available and submit an artifact."

@@ -1,0 +1,15 @@
+# HSCC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "HSCC"
+name = "ACM International Conference on Hybrid Systems: Computation and Control"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "hybrid"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "45% (22+4 / 58) in 2024"  # from HSCC 2025
+extensions = "Firm in 2025"  # from HSCC 2025

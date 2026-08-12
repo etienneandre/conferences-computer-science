@@ -1,0 +1,21 @@
+# migrated from data.php line 32427
+edition = 11
+title = "11th EAI International Conference on Performance Evaluation Methodologies and Tools"
+url = "http://www.valuetools.org/2017/"
+
+[event]
+start = 2017-12-05
+end = 2017-12-07
+city = "Taormina, Italy"
+
+[submission]
+format = "8 pages ACM (regular) / 6 pages (tool papers) / 2 pages (Fast Abstracts)"
+paper = [2017-07-17, 2017-07-31]
+notification = [2017-09-01]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Additionally, a special issue in Performance Evaluation is planned. Fast Abstracts will be published as a Technical Report. Fast Abstract Submissions: 22nd July 2016."

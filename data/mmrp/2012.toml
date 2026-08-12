@@ -1,0 +1,17 @@
+# migrated from data.php line 20645
+edition = 1
+title = "First International Workshop on Models and Methods for Reliability and Performance of computer networks"
+url = "http://mmrp12.wp.it-sudparis.eu/"
+
+[event]
+start = 2012-08-27
+end = 2012-08-31
+city = "CNAM, Paris, France"
+
+[submission]
+format = "15 pages LNCS (long) / 4 pages LNCS (short, non published)"
+paper = [2012-04-05]
+notification = [2012-05-07]
+
+[extra]
+notes = "Satellite of FM 2012"

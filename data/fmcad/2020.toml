@@ -1,0 +1,23 @@
+# migrated from data.php line 8761
+edition = 20
+title = "20th International Conference on Formal Methods in Computer-Aided Design"
+url = "https://fmcad.forsyte.at/FMCAD20/"
+
+[event]
+start = 2020-09-21
+end = 2020-09-24
+online = true
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE (regular) / 4 pages (short)"
+abstract = [2020-04-09]
+paper = [2020-04-16]
+notification = [2020-06-02]
+
+[proceedings]
+publisher = "ACM/IEEE (+ Web page)"
+license = "free"
+
+[extra]
+notes = "Rebuttal: 24-27 May 2020"

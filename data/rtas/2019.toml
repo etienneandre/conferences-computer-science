@@ -1,0 +1,21 @@
+# migrated from data.php line 24615
+edition = 25
+title = "25th IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "http://2019.rtas.org/"
+
+[event]
+start = 2019-04-16
+end = 2019-04-18
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
+paper = [2018-10-17]
+notification = [2018-12-21]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Three tracks (Applications, RTOSs, Run-Time Software and Tools / Applied Methodologies and Foundations / Embedded Systems Design for Real-Time Applications). Part of the Cyber-Physical Systems Week. Firm deadline in 2016, 2017, 2018. Double-blind. Rebuttal: 3-7 December 2018"

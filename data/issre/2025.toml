@@ -1,0 +1,23 @@
+# migrated from data.php line 18033
+edition = 36
+title = "36th IEEE International Symposium on Software Reliability Engineering"
+url = "https://issre.net/"
+
+[event]
+start = 2025-10-21
+end = 2025-10-24
+city = "São Paulo, Brazil"
+
+[submission]
+tz = "AoE"
+format = "12 pages IEEE including references (research / experience reports) / 6-10 pages (tools and artifact)"
+abstract = [2025-04-28, 2025-05-05]
+paper = [2025-05-05, 2025-05-12]
+notification = [2025-07-18]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double-blind. Rebuttal: 30th June-5 July 2025. Early decisions: 30th June."

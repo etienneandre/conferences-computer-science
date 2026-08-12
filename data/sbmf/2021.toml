@@ -1,0 +1,20 @@
+# migrated from data.php line 27263
+edition = 24
+title = "24th Brazilian Symposium on Formal Methods"
+url = "http://sbmf2021.computacao.ufcg.edu.br/"
+
+[event]
+start = 2021-12-06
+end = 2021-12-10
+online = true
+
+[submission]
+tz = "AoE"
+format = "16 pages (regular) / 4 pages (journal-first)"
+abstract = [2021-07-23, 2021-07-30]
+paper = [2021-07-30, 2021-08-06]
+notification = [2021-09-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

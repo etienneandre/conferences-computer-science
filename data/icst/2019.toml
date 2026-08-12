@@ -1,0 +1,23 @@
+# migrated from data.php line 16278
+edition = 12
+title = "12th IEEE International Conference on Software Testing, Verification and Validation"
+url = "http://icst2019.xjtu.edu.cn/"
+
+[event]
+start = 2019-04-24
+end = 2019-04-26
+city = "Xi’An, China"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (+ 2 pages for references)"
+abstract = [2018-10-05]
+paper = [2018-10-12, 2018-10-14]
+notification = [2018-12-18]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double-blind reviewing. Also doctoral symposium, software testing contest, tool demos, industry track papers … Deadline extension: 7 days (2017), 4 days (2018), 2 days (2019)"

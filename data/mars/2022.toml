@@ -1,0 +1,22 @@
+# migrated from data.php line 19989
+edition = 5
+title = "5th Workshop on Models for Formal Analysis of Real Systems"
+url = "http://mars-workshop.org/mars2022/"
+
+[event]
+start = 2022-04-02
+end = 2022-04-03
+city = "Munich, Germany"
+
+[submission]
+tz = "AoE"
+format = "12 pages EPTCS + references"
+paper = [2022-01-10, 2022-01-24]
+notification = [2022-02-14, 2022-02-19]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by-nd"
+
+[extra]
+notes = "Satellite of ETAPS. In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."

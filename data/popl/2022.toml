@@ -1,0 +1,22 @@
+# migrated from data.php line 22865
+edition = 49
+title = "49th ACM SIGPLAN Symposium on Principles of Programming Languages"
+url = "https://popl22.sigplan.org/"
+
+[event]
+start = 2022-01-16
+end = 2022-01-22
+city = "Philadelphia, Pennsylvania, United States"
+
+[submission]
+format = "25 pages new ACM format + references"
+abstract = [2021-07-08]
+paper = [2021-09-22]
+notification = [2020-10-01]
+
+[proceedings]
+publisher = "PACMPL"
+license = "cc-by"
+
+[extra]
+notes = "Rebuttal: 4-8 September 2021. Double blind submission. Authors are asked (but not required) to pay US$400 for journal open-access publication. At most 10% of the accepted papers of POPL 2022 will be designated as Distinguished Papers"

@@ -1,0 +1,20 @@
+# migrated from data.php line 11952
+edition = 7
+title = "7th International Workshop on Formal Techniques for Safety-Critical Systems"
+url = "http://www.ftscs.org"
+
+[event]
+start = 2019-11-11
+city = "Shenzhen, China"
+
+[submission]
+format = "16 pages LNCS (research / applications / surveys), 5 pages LNCS (position / tools / work in progress)"
+paper = [2019-09-03]
+notification = [2019-10-04]
+
+[proceedings]
+publisher = "Springer CCIS"
+license = "pay-profit"
+
+[extra]
+notes = "An ICFEM 2019 Satellite Event. Work in progress will not be published in the post-proceedings."

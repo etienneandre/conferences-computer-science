@@ -1,0 +1,22 @@
+# migrated from data.php line 12348
+edition = 11
+title = "11th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "https://gametheorynetwork.com/"
+
+[event]
+start = 2020-09-23
+end = 2020-09-24
+online = true
+
+[submission]
+format = "14 pages EPTCS"
+abstract = [2020-06-13, 2020-06-30]
+paper = [2020-06-15, 2020-07-05]
+notification = [2020-07-20, 2020-08-03]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of Information and Computation. This year (2020), GANDALF will be organised together with a workshop on Stochastic Games organised by the GAMENET network"

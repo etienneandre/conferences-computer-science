@@ -1,0 +1,22 @@
+# migrated from data.php line 30600
+edition = 24
+title = "24th International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "http://www.etaps.org/index.php/2018/tacas"
+
+[event]
+start = 2018-04-14
+end = 2018-04-21
+city = "Thessaloniki, Greece"
+
+[submission]
+format = "15 pages LNCS + 2 pages bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
+abstract = [2017-10-13]
+paper = [2017-10-20]
+notification = [2017-12-22]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Each individual author is limited to a maximum of three submissions as an author or co-author. ETAPS: Multi-conference including ESOP, FASE, FOSSACS, POST, TACAS, etc."

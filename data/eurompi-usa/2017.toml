@@ -1,0 +1,21 @@
+# migrated from data.php line 7315
+edition = 24
+title = "24th European MPI Users’ Group Meeting"
+url = "https://www.mcs.anl.gov/eurompi2017/"
+
+[event]
+start = 2017-09-25
+end = 2017-09-28
+city = "Chicago, IL, USA"
+
+[submission]
+format = "10 pages ACM ICPS (long), ≤ 4 pages (short)"
+paper = [2017-05-01, 2017-05-29]
+notification = [2017-06-26, 2017-07-13]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "In-cooperation status with ACM and SIGHPC. Warning: notification date extended after submission, and without notice (2014). The best papers of the conference will be considered for inclusion in a special issue of Elsevier’s Parallel Computing."

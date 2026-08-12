@@ -1,0 +1,22 @@
+# migrated from data.php line 13769
+edition = 43
+title = "43rd International Colloquium on Automata, Languages and Programming"
+url = "http://www.easyconferences.eu/icalp2016/"
+
+[event]
+start = 2016-07-11
+end = 2016-07-15
+city = "Rome, Italy"
+
+[submission]
+tz = "UTC-8"
+format = "12 pages LIPIcs"
+paper = [2016-02-17]
+notification = [2016-04-15]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Best paper and best student paper awards for each track (3) of the conference. Deadline PST (Pacific Standard Time, UTC-8). Deadlines are firm; late submissions will not be considered."

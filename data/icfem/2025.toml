@@ -1,0 +1,27 @@
+# migrated from data.php line 14921
+edition = 26
+title = "26th International Conference on Formal Engineering Methods"
+url = "https://icfem2025.github.io/"
+
+[event]
+start = 2025-11-10
+end = 2025-11-13
+city = "Hangzhou, China"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (regular paper)"
+abstract = [2025-05-25, 2025-06-11]
+paper = [2025-06-01, 2025-06-15]
+notification = [2025-08-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+
+[extra]
+journal = "Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings. The best software linked to a paper will be recommended to a special issue of the Software track of Elsevier’s Science of Computer Programming journal."
+notes = "Also journal-first presentations. Doctoral symposium."

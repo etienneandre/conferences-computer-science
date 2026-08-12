@@ -1,0 +1,21 @@
+# migrated from data.php line 26626
+edition = 38
+title = "38th Annual ACM/SIGAPP Symposium on Applied Computing"
+url = "https://embs-sac.github.io/sac2023/"
+
+[event]
+start = 2023-03-27
+end = 2023-03-31
+city = "Tallinn, Estonia"
+
+[submission]
+format = "8+2 pages ACM SAC (?)"
+paper = [2022-10-01, 2022-10-15, 2022-10-24]
+notification = [2022-11-19, 2022-12-05]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "39 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind."

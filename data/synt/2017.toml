@@ -1,0 +1,20 @@
+# migrated from data.php line 30248
+edition = 6
+title = "6th Workshop on Synthesis"
+url = "https://www.react.uni-saarland.de/synt2017/"
+
+[event]
+start = 2017-07-22
+city = "Heidelberg, Germany"
+
+[submission]
+format = "15 pages EPTCS + references (long) / 7 pages + references (tool)"
+paper = [2017-05-01]
+notification = [2017-05-29]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite event of CAV. Given sufficient interest, extended versions of selected papers will appear in a special issue of the journal Acta Informatica."

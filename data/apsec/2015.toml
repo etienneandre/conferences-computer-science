@@ -1,0 +1,22 @@
+# migrated from data.php line 1665
+edition = 22
+title = "22nd Asia-Pacific Software Engineering Conference"
+url = "http://www.apsec2015.org/"
+
+[event]
+start = 2015-12-01
+end = 2015-12-04
+city = "New Delhi, India"
+
+[submission]
+tz = "UTC+7"
+format = "8 pages IEEE"
+paper = [2015-07-06]
+notification = [2015-09-12]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Warning: Deadline UTC+7 (?). Best papers will be submitted to a special issue of Elsevier International Journal of Information and Software Technology (IST)."

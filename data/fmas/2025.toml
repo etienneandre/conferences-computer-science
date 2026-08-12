@@ -1,0 +1,27 @@
+# migrated from data.php line 8550
+edition = 7
+title = "7th Workshop on Formal Methods for Autonomous Systems"
+url = "https://fmasworkshop.github.io/FMAS2025/"
+
+[event]
+start = 2025-11-17
+end = 2025-11-19
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "15 pages + references (regular / Experience report) / 6 pages + references (vision / research previews)"
+paper = [2025-08-22]
+notification = [2025-10-06]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[review]
+award = "FMAS 2025 will honour the best paper selected with respect to reviews, programme committee discussions, and conference presentations with an award."
+
+[extra]
+journal = "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2025."
+colocated = "Colocated with iFM 2025"
+notes = "Hybrid conference (in presence + remotely)."

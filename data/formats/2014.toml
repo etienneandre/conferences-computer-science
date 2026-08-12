@@ -1,0 +1,22 @@
+# migrated from data.php line 9816
+edition = 12
+title = "12th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "http://www.florence2014.org/"
+
+[event]
+start = 2014-09-08
+end = 2014-09-10
+city = "Florence, Italy"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2014-04-21]
+paper = [2014-04-28]
+notification = [2014-06-09]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014. Co-located with QEST, SAFECOMP, EPEW and FMICS."

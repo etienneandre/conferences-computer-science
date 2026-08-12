@@ -1,0 +1,24 @@
+# migrated from data.php line 33057
+edition = 16
+title = "16th International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "http://research.microsoft.com/vmcai2015"
+
+[event]
+start = 2015-01-12
+end = 2015-01-14
+city = "Mumbai, India"
+
+[submission]
+format = "18 pages LNCS + Appendix"
+abstract = [2014-09-05]
+paper = [2014-09-12]
+notification = [2014-10-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 24
+submitted = 53
+# TODO: verify — extracted from the cross-year acceptance string.

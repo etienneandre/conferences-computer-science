@@ -1,0 +1,22 @@
+# migrated from data.php line 9736
+edition = 13
+title = "13th International Conference on Formal Methods in Software Engineering"
+url = "https://conf.researchr.org/home/Formalise-2025"
+
+[event]
+start = 2025-04-27
+end = 2025-04-28
+city = "Ottawa, Ontario, Canada"
+
+[submission]
+format = "10 pages ACM + references (full papers / case study papers), 4 pages (research ideas)"
+abstract = [2024-11-11, 2024-11-18]
+paper = [2024-11-18, 2024-11-25]
+notification = [2025-01-13]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "acm"
+
+[extra]
+notes = "Co-located with ICSE 2025. Light-weight double blind scheme. Artifact evaluation."

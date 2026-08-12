@@ -1,0 +1,22 @@
+# migrated from data.php line 9098
+edition = 20
+title = "20th International Workshop on Formal Methods for Industrial Critical Systems"
+url = "http://fmics2015.org/"
+
+[event]
+start = 2015-06-22
+end = 2015-06-23
+city = "Oslo, Norway"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2015-01-19]
+paper = [2015-01-26]
+notification = [2015-03-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Colocated with FM 2015. Selected participants will be invited to submit an extended version of their papers in a special issue of the journal of either SCP or STTT after the workshop."

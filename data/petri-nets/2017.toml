@@ -1,0 +1,22 @@
+# migrated from data.php line 22034
+edition = 38
+title = "38th International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "http://pn2017.unizar.es"
+
+[event]
+start = 2017-06-25
+end = 2017-06-30
+city = "Zaragoza, Spain"
+
+[submission]
+format = "regular papers (max 20 pages in Springer LNCS-format); tool papers (max 10 pages in Springer LNCS-format)"
+abstract = [2017-01-10, 2017-01-17]
+paper = [2017-01-15, 2017-01-22]
+notification = [2017-03-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with ACSD. The deadline for submission of papers in 2015 was STRICT. All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited as submissions to a special issue of the Fundamenta Informaticae journal."

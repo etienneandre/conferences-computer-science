@@ -1,0 +1,22 @@
+# migrated from data.php line 10761
+edition = 24
+title = "24th International Conference on Foundations of Software Science and Computation Structures"
+url = "https://etaps.org/2021/fossacs"
+
+[event]
+start = 2021-03-27
+end = 2021-04-01
+online = true
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography"
+paper = [2020-10-15]
+notification = [2020-12-23]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, TACAS, etc. Single-blind, with a rebuttal phase. Rebuttal phase: 7 December 00:01 AoE - 9 December 23:59 AoE 2021. A selection of the best papers at FoSSaCS 2021 will be considered for submission to a special issue of Logical Methods in Computer Science (LMCS)."

@@ -1,0 +1,20 @@
+# migrated from data.php line 596
+edition = 4
+title = "Fourth Asian Conference on Information Systems"
+url = "http://www2.iee.or.jp/~cis/acis2015/"
+
+[event]
+start = 2015-10-15
+end = 2015-10-17
+city = "Penang, Malaysia"
+
+[submission]
+format = "8 pages IEEJ (regular) / 4 pages (short/poster)"
+paper = [2015-05-01, 2015-05-14]
+notification = [2015-06-15, 2015-07-05]
+
+[proceedings]
+publisher = "IEEJ"
+
+[extra]
+notes = "Proceedings will be published by The Institute of Electrical Engineers of Japan (IEEJ)."

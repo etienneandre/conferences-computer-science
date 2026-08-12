@@ -1,0 +1,20 @@
+# migrated from data.php line 3737
+edition = 2
+title = "2nd Workshop on Security and Dependability of Critical Embedded Real-Time Systems"
+url = "http://certs2017.uni.lu"
+
+[event]
+start = 2018-01-22
+end = 2018-01-24
+city = "Funchal, Madeira"
+
+[submission]
+format = "2 pages IEEE (short) / 6 pages IEEE (long)"
+paper = [2017-10-01]
+notification = [2017-10-17]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Firm deadline. Satellite of the IEEE Real-Time Systems Symposium"

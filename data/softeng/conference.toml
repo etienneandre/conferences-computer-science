@@ -1,0 +1,4 @@
+# SOFTENG — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SOFTENG"
+name = "First International Conference on Advances and Trends in Software Engineering"

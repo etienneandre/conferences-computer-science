@@ -1,0 +1,21 @@
+# migrated from data.php line 15773
+edition = 37
+title = "37th International Conference on Software Engineering"
+url = "http://2015.icse-conferences.org/"
+
+[event]
+start = 2015-05-16
+end = 2015-05-24
+city = "Firenze, Italy"
+
+[submission]
+format = "10 pages IEEE"
+paper = [2014-09-05]
+notification = [2014-12-20]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Early phase rejection notice by November 15, 2014 (only for non-PC and non-RC members). Also a doctoral symposium, tutorials, demos, and other events. (Deadlines: November 21, 2014)."

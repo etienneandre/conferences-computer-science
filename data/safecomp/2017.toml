@@ -1,0 +1,21 @@
+# migrated from data.php line 26806
+edition = 36
+title = "36th International Conference on Computer Safety, Reliability and Security"
+url = "http://www.safecomp.org"
+
+[event]
+start = 2017-09-13
+end = 2017-09-15
+city = "Trento, Italy"
+
+[submission]
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / fast abstract and work in progress (2 pages)"
+paper = [2017-02-28, 2017-03-10]
+notification = [2017-05-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Best papers invited in a special issue of a safety-related international journal. 2017 SPECIAL THEME: Design, verification, and assurance of space systems."

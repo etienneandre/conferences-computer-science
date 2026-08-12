@@ -1,0 +1,23 @@
+# migrated from data.php line 32770
+edition = 13
+title = "13th International Conference on Verification and Evaluation of Computer and Communication Systems"
+url = "http://vecos-world.org/2019/"
+
+[event]
+start = 2019-10-07
+end = 2019-10-09
+city = "Porto, Portugal"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS"
+abstract = [2019-04-23, 2019-05-19]
+paper = [2019-05-08, 2019-05-19]
+notification = [2019-06-11, 2019-06-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay"
+
+[extra]
+notes = "Co-located with 23rd International Symposium on Formal Methods (FM 2019) - 3rd World Congress on Formal Methods. Authors of selected papers will be invited to submit extended article versions to a special issue of Innovations in Systems and Software Engineering: A NASA Journal or of International Journal of Critical Computer-Based Systems."

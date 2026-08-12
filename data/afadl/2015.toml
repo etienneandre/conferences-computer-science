@@ -1,0 +1,22 @@
+# migrated from data.php line 1103
+edition = 13
+title = "Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "http://events.femto-st.fr/afadl-2015"
+
+[event]
+start = 2015-06-11
+end = 2015-06-12
+city = "Paris, France"
+
+[submission]
+format = "15 pages (longs) / 6 pages (courts) / 4 pages (outils) / 2 pages (projets) / 1 page (article déjà publié)"
+abstract = [2015-03-04]
+paper = [2015-03-11]
+notification = [2015-04-13]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "In French (?)."

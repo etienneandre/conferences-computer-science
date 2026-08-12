@@ -1,0 +1,22 @@
+# migrated from data.php line 10963
+edition = 7
+title = "7th Working Formal Methods Symposium"
+url = "https://from2023.cs.unibuc.ro/"
+
+[event]
+start = 2023-09-21
+end = 2023-09-22
+city = "Bucharest, Romania"
+
+[submission]
+format = "16 pages EPTCS / 8 pages (short)"
+abstract = [2023-07-25, 2023-08-04]
+paper = [2023-07-25, 2023-08-04]
+notification = [2023-08-25]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "In conjunction with ILDS Coq and Lean Autumn School 2023."

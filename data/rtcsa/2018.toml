@@ -1,0 +1,22 @@
+# migrated from data.php line 24917
+edition = 24
+title = "24th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications"
+url = "http://rtcsa2018.ht.sfc.keio.ac.jp"
+
+[event]
+start = 2018-08-28
+end = 2018-08-31
+city = "Hokkaido, Japan"
+
+[submission]
+tz = "UTC-12"
+format = "10 pages IEEE 2 columns"
+paper = [2018-04-20]
+notification = [2018-06-01]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "Deadline UTC-12. 3 tracks: embedded systems, real-time systems, and SYSTEM DESIGN PRACTICE AND EMERGING APPLICATIONS TRACK. Also a work-in-Progress Session. Selected papers will be recommended for submission of extended versions to the special issues of journals, such as the ACM Transactions on Cyber Physical Systems (application in progress)."

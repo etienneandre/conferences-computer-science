@@ -1,0 +1,28 @@
+# migrated from data.php line 16723
+edition = 20
+title = "20th International Colloquium on Theoretical Aspects of Computing"
+url = "https://ictac2023.compsust.utec.edu.pe/"
+
+[event]
+start = 2023-12-04
+end = 2023-12-08
+city = "Lima, Peru"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (original research / applications) + bibliography / 6 pages LNCS (short / tool)"
+abstract = [2023-06-16, 2023-06-25]
+paper = [2023-06-16, 2023-07-02]
+notification = [2023-09-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 22
+submitted = 39
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "A special journal issue is planned for extended versions of selected papers from ICTAC 2023."

@@ -1,0 +1,22 @@
+# migrated from data.php line 29682
+edition = 39
+title = "39th International Symposium on Theoretical Aspects of Computer Science"
+url = "https://stacs2022.sciencesconf.org"
+
+[event]
+start = 2022-03-15
+end = 2022-03-18
+city = "Marseille, France"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ ref + appendix)"
+paper = [2021-10-01]
+notification = [2021-12-20]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[extra]
+notes = "Rebuttal period: 23-26 November 2021. PC members are excluded from submitting."

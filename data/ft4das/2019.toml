@@ -1,0 +1,21 @@
+# migrated from data.php line 11823
+edition = 1
+title = "1st International Workshop on Formal Techniques for Dependable Autonomous Systems"
+url = "https://ft4das.github.io/"
+
+[event]
+start = 2019-09-10
+city = "Turku, Finland"
+
+[submission]
+format = "Regular (12 pages LNCS), short papers/experience reports, tools or work in progress (6 pages) / idea papers (4 pages)"
+abstract = [2019-05-13]
+paper = [2019-05-13]
+notification = [2019-06-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located and affiliated with SAFECOMP 2019"

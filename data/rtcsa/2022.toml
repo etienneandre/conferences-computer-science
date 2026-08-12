@@ -1,0 +1,22 @@
+# migrated from data.php line 24969
+edition = 28
+title = "28th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications"
+url = "https://rtcsa2022.github.io/"
+
+[event]
+start = 2022-08-23
+end = 2022-08-25
+city = "Taipei, Taiwan (hybrid)"
+
+[submission]
+format = "10 pages IEEE 2 columns (full) / 6 pages (short), including bibliography"
+abstract = [2022-04-08]
+paper = [2022-04-15]
+notification = [2022-05-31]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "Co-located with NVMSA 2022. 3 tracks: embedded systems, real-time systems, and IoT, CPS, AND EMERGING APPLICATIONS."

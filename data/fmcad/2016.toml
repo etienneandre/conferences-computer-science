@@ -1,0 +1,22 @@
+# migrated from data.php line 8678
+edition = 16
+title = "16th International Conference on Formal Methods in Computer-Aided Design"
+url = "http://www.fmcad.org/FMCAD16"
+
+[event]
+start = 2016-10-03
+end = 2016-10-06
+city = "Mountain View, CA, USA"
+
+[submission]
+format = "8 pages IEEE (regular) / 4 pages (short)"
+abstract = [2016-05-02, 2016-05-09]
+paper = [2016-05-09, 2016-05-16]
+notification = [2016-07-09]
+
+[proceedings]
+publisher = "ACM/IEEE"
+license = "acm"
+
+[extra]
+notes = "Author Response Period: 17-21 June, 2016."

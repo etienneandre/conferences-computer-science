@@ -1,0 +1,22 @@
+# migrated from data.php line 20429
+edition = 43
+title = "43rd International Symposium on Mathematical Foundations of Computer Science"
+url = "http://mfcs2018.csc.liv.ac.uk"
+
+[event]
+start = 2018-08-27
+end = 2018-08-31
+city = "Liverpool, UK"
+
+[submission]
+format = "12 pages LIPIcs (including bilbiography)"
+abstract = [2018-04-20]
+paper = [2018-04-24]
+notification = [2018-06-12]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Appendix allowed."

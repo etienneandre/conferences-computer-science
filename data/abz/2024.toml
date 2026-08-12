@@ -1,0 +1,22 @@
+# migrated from data.php line 445
+edition = 10
+title = "10th International Conference on Rigorous State Based Methods"
+url = "https://abz-conf.org/site/2024/"
+
+[event]
+start = 2024-06-25
+end = 2024-06-28
+city = "Bergamo, Italy"
+
+[submission]
+format = "16 pages LNCS + references (research, case study) / 6 pages (short / work in progress / tool / journal-first) / 8 pages (application in industry)"
+abstract = [2024-02-03, 2024-02-10]
+paper = [2024-02-10, 2024-02-24]
+notification = [2024-04-06]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Firm extended abstract deadline. Deadline extended by 20 days (2014), 7 days (2018, 2021, 2023), 14 days (2024)."

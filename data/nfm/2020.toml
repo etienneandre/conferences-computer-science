@@ -1,0 +1,22 @@
+# migrated from data.php line 21160
+edition = 12
+title = "12th NASA Formal Methods Symposium"
+url = "https://ti.arc.nasa.gov/events/nfm-2020/"
+
+[event]
+start = 2020-05-11
+end = 2020-05-15
+city = "Moffett Field, CA, USA"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report) + references"
+abstract = [2019-12-12, 2019-12-24]
+paper = [2019-12-19, 2019-12-30]
+notification = [2020-02-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "No registration fees."

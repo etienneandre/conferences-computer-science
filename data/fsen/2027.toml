@@ -1,0 +1,27 @@
+# migrated from data.php line 11408
+edition = 12
+title = "Eleventh International Conference on Fundamentals of Software Engineering 2025 - Theory and Practice"
+url = "https://conf.researchr.org/home/fsen-2027"
+
+[event]
+start = 2027-05-24
+end = 2027-05-25
+city = "University of Twente, Enschede, the Netherlands"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + ref (full) / 6 pages + ref (short) / 4 pages + ref (posters)"
+abstract = [2026-10-19]
+paper = [2026-10-28]
+notification = [2026-12-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+environment = "Upon request, up to five papers can be accepted by the PC for which no presence on site is required."
+
+[extra]
+journal = "Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN 2027."

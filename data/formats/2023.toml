@@ -1,0 +1,22 @@
+# migrated from data.php line 10098
+edition = 21
+title = "21st International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "https://conferences.ncl.ac.uk/formats2022/"
+
+[event]
+start = 2023-09-19
+end = 2023-09-21
+city = "Antwerp, Belgium"
+
+[submission]
+format = "15 pages LNCS + references + appendix (regular) / 7 pages (tools)"
+abstract = [2023-04-21, 2023-05-04]
+paper = [2023-04-28, 2023-05-08]
+notification = [2023-06-16]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "2023: special track on Monitoring of cyber-physical systems. Co-located with CONCUR, FMICS and QEST as part of CONFEST 2023. One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020, 14+13 days in 2021, 14 days in 2022, 10 days in 2023. Part of CONFEST with CONCUR, FMICS and QEST. The best paper of the conference will be awarded the Oded Maler Award in Timed Systems."

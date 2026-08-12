@@ -1,0 +1,22 @@
+# migrated from data.php line 29616
+edition = 36
+title = "36th International Symposium on Theoretical Aspects of Computer Science"
+url = "https://stacs2019.akt.tu-berlin.de/"
+
+[event]
+start = 2019-03-13
+end = 2019-03-16
+city = "Berlin, Germany"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ ref + appendix)"
+paper = [2018-10-01]
+notification = [2018-12-20]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[extra]
+notes = "Rebuttal period: Nov 26-29, 2018. PC members are excluded from submitting."

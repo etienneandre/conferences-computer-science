@@ -1,0 +1,22 @@
+# migrated from data.php line 14109
+edition = 11
+title = "11th ACM/IEEE International Conference on Cyber-Physical Systems"
+url = "http://iccps.acm.org/2020/"
+
+[event]
+start = 2020-04-22
+end = 2020-04-24
+city = "Sydney, Australia"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM or IEEE + 2-page appendix"
+paper = [2019-10-23]
+notification = [2019-12-23]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Firm deadline. Two tracks: theory and application. Part of Cyber Physical Systems (CPS) Week."

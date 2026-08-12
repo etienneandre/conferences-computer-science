@@ -1,0 +1,25 @@
+# PRDC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "PRDC"
+name = "IEEE Pacific Rim International Symposium on Dependable Computing"
+
+[core]
+id = "1662"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2015
+rank = "B"
+
+[[core.history]]
+from = 2025
+rank = "C"
+
+[links]
+dblp = "prdc"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "48% (24+1+5+1/64) in 2014, 38.6% (44/114) in 2015, 57% (30/53) in 2017, 38% (21/54) in 20xx, unspecified (2023-2024)f."  # from PRDC 2025
+extensions = "2 weeks in 2014, 4+2 weeks in 2015, 15+23 days in 2016, 29+15 days in 2018, 13 days in 2020, 14 days in 2021 and 2022, 78 days (2023)"  # from PRDC 2025

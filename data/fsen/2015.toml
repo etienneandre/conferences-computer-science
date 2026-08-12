@@ -1,0 +1,22 @@
+# migrated from data.php line 11235
+edition = 6
+title = "6th IPM International Conference on Fundamentals of Software Engineering"
+url = "http://fsen.ir/2015/"
+
+[event]
+start = 2015-04-22
+end = 2015-04-24
+city = "Tehran, Iran"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2014-11-07]
+paper = [2014-11-14]
+notification = [2014-12-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Claim from the conference that no one ever got visa problems (in Iran). Special issue of Science of Computer Programming journal devoted to FSEN’15 (to be confirmed)."

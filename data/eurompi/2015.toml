@@ -1,0 +1,21 @@
+# migrated from data.php line 7266
+edition = 22
+title = "22nd European MPI Users’ Group Meeting"
+url = "https://eurompi2015.bordeaux.inria.fr"
+
+[event]
+start = 2015-09-21
+end = 2015-09-24
+city = "Bordeaux, France"
+
+[submission]
+format = "10 pages ACM ICPS"
+paper = [2015-05-12]
+notification = [2015-06-12]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "In-cooperation status with ACM and SIGHPC. New work that is not yet mature for a full paper is invited for the poster session (two page abstract). Warning: notification date extended after submission, and without notice (2014). The best papers will be considered for inclusion in a special issue of International Journal of High Performance Computing Applications (IJHPCA)."

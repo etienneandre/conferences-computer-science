@@ -1,0 +1,27 @@
+# migrated from data.php line 10311
+edition = 39
+title = "39th IFIP International Conference on Formal Techniques for Distributed Objects, Components and Systems"
+url = "https://www.discotec.org/2019/forte"
+
+[event]
+start = 2019-06-18
+end = 2019-06-21
+city = "Lyngby, Denmark"
+
+[submission]
+format = "15 pages LNCS (regular / tool) / 7 pages (short / tool demo) / 3 pages (poster)"
+abstract = [2019-02-01, 2019-02-15]
+paper = [2019-02-08, 2019-02-22]
+notification = [2019-04-12]
+
+[proceedings]
+publisher = "Springer LNCS IFIP"
+license = "pay-profit"
+
+[stats]
+accepted = 18
+submitted = 42
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "A DisCoTec Member Conference. The best papers will be invited after the conference to contribute to a special issue of LMCS. Recent acceptance rates: 41% (20/49, 2013), 36% (18/50, 2014), 28% (15/53, 2015), 41% (18/44, 2016), 40% (13 long + 3 short + 1 tool/42) in 2017, 36% (10/28) in 2018."

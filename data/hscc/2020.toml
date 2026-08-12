@@ -1,0 +1,21 @@
+# migrated from data.php line 13314
+edition = 23
+title = "23rd ACM International Conference on Hybrid Systems: Computation and Control"
+url = "https://berkeleylearnverify.github.io/HSCC_2020/"
+
+[event]
+start = 2020-04-21
+end = 2020-04-24
+city = "Sydney Australia"
+
+[submission]
+format = "10 pages ACM (regular) / 6 pages (tools and case studies) / 2 pages (demo/posters, not published)"
+paper = [2019-10-23]
+notification = [2019-12-23]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Part of Cyber Physical Systems (CPS) Week. No deadline extension possible. Authors of distinguished papers may be invited to submit an extended version of their work for possible publication in a Special issue of a leading journal. Light double-blind reviewing process. Several best paper awards. Rebuttal phase: 4 to 6th December 2019"

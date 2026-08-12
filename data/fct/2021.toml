@@ -1,0 +1,23 @@
+# migrated from data.php line 8090
+edition = 23
+title = "23rd International Symposium on Fundamentals of Computation Theory"
+url = "https://www.corelab.ntua.gr/fct2021"
+
+[event]
+start = 2021-09-12
+end = 2021-09-15
+city = "Athens, Greece"
+
+[submission]
+tz = "AoE"
+format = "12 pages LNCS + references"
+abstract = [2021-05-09, 2021-05-16]
+paper = [2021-05-16, 2021-05-23]
+notification = [2021-06-28]
+
+[proceedings]
+publisher = "Springer LNCS ARCoSS"
+license = "pay-profit"
+
+[extra]
+notes = "Biennial conference. Selected papers will be invited to a special issue of the \"Journal of Computer and System Sciences\", devoted to FCT 2021. Best paper award and best student paper award."

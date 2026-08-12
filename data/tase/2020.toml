@@ -1,0 +1,26 @@
+# migrated from data.php line 31444
+edition = 14
+title = "14th International Symposium on Theoretical Aspects of Software Engineering"
+url = "http://sei.ecnu.edu.cn/tase2020/"
+
+[event]
+start = 2020-07-15
+end = 2020-07-17
+city = "Hangzhou, China"
+
+[submission]
+format = "8 pages IEEE"
+abstract = [2020-01-05, 2020-01-24]
+paper = [2020-01-12, 2020-01-31]
+notification = [2020-03-13, 2020-03-16]
+
+[proceedings]
+publisher = "IEEE Computer Society Press"
+license = "pay"
+
+[stats]
+rate = 35.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Optional abstract submission deadline. The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Often in China."

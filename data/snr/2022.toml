@@ -1,0 +1,20 @@
+# migrated from data.php line 28703
+edition = 8
+title = "8th International Workshop on Symbolic-Numeric methods for Reachability Analysis"
+url = "https://plv.colorado.edu/snr22/"
+
+[event]
+start = 2022-09-12
+city = "Warsaw, Poland"
+
+[submission]
+format = "15 pages EPTCS + references (long) / 6 pages (short, work-in-progress)"
+paper = [2022-07-22]
+notification = [2022-08-12]
+
+[proceedings]
+publisher = "EPTCS"
+license = "free"
+
+[extra]
+colocated = "co-located with CONFEST"

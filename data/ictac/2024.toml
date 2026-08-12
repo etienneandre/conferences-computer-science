@@ -1,0 +1,23 @@
+# migrated from data.php line 16753
+edition = 21
+title = "21st International Colloquium on Theoretical Aspects of Computing"
+url = "https://ictac2024.cs.ait.ac.th/"
+
+[event]
+start = 2024-11-25
+end = 2024-11-29
+city = "Bangkok - Thailand"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (original research / applications) + 2 pages bibliography / 8 pages LNCS (short / tool)"
+abstract = [2024-06-14, 2024-06-23]
+paper = [2024-06-21, 2024-06-30]
+notification = [2024-09-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "We plan to have a special issue for selected accepted papers from ICTAC 2024."

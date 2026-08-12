@@ -1,0 +1,27 @@
+# migrated from data.php line 31389
+edition = 12
+title = "12th International Symposium on Theoretical Aspects of Software Engineering"
+url = "http://tase2018.jnu.edu.cn"
+
+[event]
+start = 2018-08-29
+end = 2018-08-31
+city = "Guangzhou, China"
+
+[submission]
+tz = "UTC"
+format = "8 pages IEEE"
+abstract = [2018-02-23]
+paper = [2018-03-02]
+notification = [2018-05-06]
+
+[proceedings]
+publisher = "IEEE Computer Society Press"
+license = "pay"
+
+[stats]
+rate = 38.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Warning: all deadlines are UTC. The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Almost always in China (except once in UK and once in Taiwan)."

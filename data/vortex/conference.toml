@@ -1,0 +1,7 @@
+# VORTEX — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "VORTEX"
+name = "Workshop on Verification and Monitoring at Runtime Execution"
+
+[core]
+rank = "absent"  # TODO: verify

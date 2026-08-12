@@ -1,0 +1,20 @@
+# migrated from data.php line 30025
+edition = 6
+title = "6th International Workshop on Synthesis of Complex Parameters"
+url = "https://lipn.univ-paris13.fr/SynCoP2019/"
+
+[event]
+start = 2019-04-06
+end = 2019-04-07
+city = "Prague, Czech Republic"
+
+[submission]
+format = "3 pages"
+paper = [2019-01-14, 2019-02-15]
+notification = [2019-02-22]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Satellite workshop of ETAPS. Since 2017, SynCoP moved to informal presentations and invited talks only (no formal proceedings)."

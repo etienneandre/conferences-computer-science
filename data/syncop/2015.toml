@@ -1,0 +1,21 @@
+# migrated from data.php line 29941
+edition = 2
+title = "2nd International Workshop on Synthesis of Complex Parameters"
+url = "http://lipn.univ-paris13.fr/SynCoP2015/"
+
+[event]
+start = 2015-04-11
+city = "London, UK"
+
+[submission]
+format = "12 pages OASIcs (regular) / 4 pages (tool)"
+abstract = [2015-02-02]
+paper = [2015-02-02]
+notification = [2015-02-27]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with ETAPS. 2015 edition extended to both continuous and discrete parameters."

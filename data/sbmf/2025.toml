@@ -1,0 +1,22 @@
+# migrated from data.php line 27350
+edition = 28
+title = "28th Brazilian Symposium on Formal Methods"
+url = "http://sbmf2025.ufrpe.br/"
+
+[event]
+start = 2025-12-03
+end = 2025-12-05
+city = "Recife - Pernambuco, Brazil"
+
+[submission]
+format = "15 pages + references (regular) / 8 pages + references (short)"
+abstract = [2025-08-01, 2025-08-15]
+paper = [2025-08-08, 2025-08-15]
+notification = [2025-09-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+journal = "We plan to follow on last years’ tradition of organizing a special issue of the Science of Computer Programming Journal (Elsevier) with selected and extended papers from the 28th Brazilian Symposium on Formal Methods (SBMF 2025)"

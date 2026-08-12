@@ -1,0 +1,22 @@
+# migrated from data.php line 30749
+edition = 29
+title = "29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "https://etaps.org/2023/tacas"
+
+[event]
+start = 2023-04-22
+end = 2023-04-27
+city = "Paris, France"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
+paper = [2022-10-13]
+notification = [2022-12-22]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of ETAPS 2023, colocated with SPIN 2023. Rebuttal for selected papers: 6-8 December 2022."

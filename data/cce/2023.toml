@@ -1,0 +1,22 @@
+# migrated from data.php line 3511
+edition = 1
+title = "Complex Computational Ecosystems"
+url = "https://cce-2023.ufaz.az/"
+
+[event]
+start = 2023-04-24
+end = 2023-04-27
+city = "Baku, Azerbaijan"
+
+[submission]
+format = "12 pages LNCS (full) / 6 pages (short) / 3 pages (posters)"
+abstract = [2023-02-12]
+paper = [2023-02-12]
+notification = [2023-03-12]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Collaborative submission and reviewing procedure"

@@ -1,0 +1,22 @@
+# migrated from data.php line 26334
+edition = 46
+title = "46th IEEE Symposium on Security and Privacy"
+url = "https://sp2025.ieee-security.org/"
+
+[event]
+start = 2025-05-12
+end = 2025-05-14
+city = "San Francisco, CA, USA"
+
+[submission]
+tz = "AoE"
+format = "13 pages + 5 pages references/appendix"
+paper = [2024-11-14]
+notification = [2025-03-10]
+
+[proceedings]
+publisher = "Computer Society’s Digital Library"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. WARNING: <em>several</em> submission periods."

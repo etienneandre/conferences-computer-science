@@ -1,0 +1,26 @@
+# migrated from data.php line 31790
+edition = 22
+title = "22nd International Symposium on Temporal Representation and Reasoning"
+url = "http://time2015.uni-kassel.de"
+
+[event]
+start = 2015-09-23
+end = 2015-09-25
+city = "Kassel, Germany"
+
+[submission]
+format = "10 pages IEEE"
+paper = [2015-04-30]
+notification = [2015-06-30]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[stats]
+accepted = 17
+submitted = 23
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "The authors of the best papers of the conference will be invited to submit an extended version of their contribution to a special issue on TIME 2015, to appear in the journal Information & Computation."

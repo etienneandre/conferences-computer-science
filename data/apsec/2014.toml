@@ -1,0 +1,22 @@
+# migrated from data.php line 1643
+edition = 21
+title = "21st Asia-Pacific Software Engineering Conference"
+url = "http://apsec2013.eng.chula.ac.th/"
+
+[event]
+start = 2013-12-02
+end = 2013-12-05
+city = "Jeju island, South Korea"
+
+[submission]
+tz = "UTC+7"
+format = "8 pages IEEE"
+paper = [2014-06-18]
+notification = [2014-08-30]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Warning: Deadline UTC+7. Best papers will be submitted to a special issue of Elsevier International Journal of Information and Software Technology (IST)."

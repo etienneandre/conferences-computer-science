@@ -1,0 +1,19 @@
+# migrated from data.php line 25590
+edition = 11
+title = "11th International Real-Time Scheduling Open Problems Seminar"
+url = "https://www.ecrts.org/workshops/rtsops-2020/"
+
+[event]
+start = 2020-07-07
+city = "Modena, Italy"
+
+[submission]
+format = "2 A4 pages"
+paper = [2020-04-16]
+notification = [2020-05-15]
+
+[proceedings]
+publisher = "none?"
+
+[extra]
+notes = "Co-located with ECRTS. Cancelled due to COVID19."

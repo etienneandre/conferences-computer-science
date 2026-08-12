@@ -1,0 +1,22 @@
+# migrated from data.php line 30814
+edition = 31
+title = "31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "https://etaps.org/2025/conferences/tacas/"
+
+[event]
+start = 2025-05-03
+end = 2025-05-08
+city = "Hamilton, Canada"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
+paper = [2024-10-10]
+notification = [2024-12-20]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Part of ETAPS 2025. Double-blind. Rebuttal for selected papers: 3-5 December 2024. Artifact evaluation."

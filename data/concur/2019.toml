@@ -1,0 +1,23 @@
+# migrated from data.php line 4530
+edition = 30
+title = "30th International Conference on Concurrency Theory"
+url = "https://event.cwi.nl/concur2019/"
+
+[event]
+start = 2019-08-27
+end = 2019-08-30
+city = "Amsterdam, The Netherlands"
+
+[submission]
+tz = "AoE"
+format = "14 pages LIPIcs (+ references + appendix)"
+abstract = [2019-04-15]
+paper = [2019-04-22]
+notification = [2019-06-14]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Colocated with FORMATS 2019 and FMICS 2019, and several workshops and tutorials. A special issue dedicated to selected papers from CONCUR 2019 will appear in Logical Methods in Computer Science."

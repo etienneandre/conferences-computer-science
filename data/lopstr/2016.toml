@@ -1,0 +1,22 @@
+# migrated from data.php line 19407
+edition = 26
+title = "26th International Symposium on Logic-Based Program Synthesis and Transformation"
+url = "http://cliplab.org/Conferences/LOPSTR16/"
+
+[event]
+start = 2016-09-06
+end = 2016-09-08
+city = "Edinburgh, UK"
+
+[submission]
+format = "15 pages Springer + Appendix"
+abstract = [2016-06-07, 2016-06-14, 2016-06-20]
+paper = [2016-06-14, 2016-06-27]
+notification = [2016-08-03]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "co-located with PPDP 2016 and SAS 2016. Full papers can be directly accepted for publication in the formal proceedings, or accepted only for presentation at the symposium and inclusion in informal proceedings (and then possibly accepted after another round)."

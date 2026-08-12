@@ -1,0 +1,20 @@
+# migrated from data.php line 18541
+edition = 12
+title = "12th Junior Researcher Workshop on Real-Time Computing"
+url = "https://rtns2018.ensma.fr/workshop.html"
+
+[event]
+start = 2018-10-10
+end = 2018-10-12
+city = "Poitiers/Futuroscope, France"
+
+[submission]
+format = "4 pages IEEE"
+paper = [2018-08-27, 2018-09-10]
+notification = [2018-09-10, 2018-09-23]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "In conjunction with RTNS. Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012, 1 week in 2015, 6 days in 2016 (including notification deadline), ???+8 days (including notification deadline) in 2017, firm in 2018 but eventually postponed by 14 days."

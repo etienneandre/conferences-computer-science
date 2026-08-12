@@ -1,0 +1,22 @@
+# migrated from data.php line 22098
+edition = 40
+title = "40th International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "http://www.petrinets2019.de/"
+
+[event]
+start = 2019-06-26
+end = 2019-06-28
+city = "Aachen, Germany"
+
+[submission]
+format = "regular papers (max 20 pages in Springer LNCS-format); tool papers (max 10 pages in Springer LNCS-format)"
+abstract = [2019-01-16, 2019-01-25]
+paper = [2019-01-22, 2019-02-01]
+notification = [2019-03-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with ACSD. All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited, in an extended form, as submissions to a special issue of a well-established computer science journal."

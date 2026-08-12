@@ -1,0 +1,21 @@
+# migrated from data.php line 28887
+edition = 11
+title = "11th International Symposium on Information and Communication Technology"
+url = "http://soict.org/"
+
+[event]
+start = 2022-12-01
+end = 2022-12-02
+city = "Hà Nội, Việt Nam"
+
+[submission]
+format = "8 pages ACM"
+paper = [2022-08-15]
+notification = [2022-10-05]
+
+[proceedings]
+publisher = "ACM ICPS"
+license = "acm"
+
+[extra]
+notes = "Extended versions of the selected best papers in SoICT 2017 will be invited for submission to Journal of Heuristics (IF: 1.34), but will be reviewed again."

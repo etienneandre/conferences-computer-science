@@ -1,0 +1,28 @@
+# migrated from data.php line 4653
+edition = 35
+title = "35th International Conference on Concurrency Theory"
+url = "https://confest2024.github.io/"
+
+[event]
+start = 2024-09-09
+end = 2024-09-13
+city = "Calgary, Canada"
+
+[submission]
+tz = "AoE"
+format = "14 pages LIPIcs (+ references + appendix)"
+abstract = [2024-04-26]
+paper = [2024-04-26]
+notification = [2024-06-21]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 37
+submitted = 80
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Rebuttal Response: 4-6 uJne 2024. Part of CONFEST with QEST+FORMATS, FMICS, and several workshops and tutorials. In 2024, CONCUR Test-of-Time and best paper awards will be given for the fourth time."

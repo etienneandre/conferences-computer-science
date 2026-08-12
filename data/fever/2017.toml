@@ -1,0 +1,19 @@
+# migrated from data.php line 8326
+edition = 1
+title = "Workshop on Formal approaches to Explainable VERiﬁcation"
+url = "http://fever.nilsjansen.org"
+
+[event]
+start = 2017-07-23
+city = "Heidelberg, Germany"
+
+[submission]
+format = "2 pages LNCS"
+paper = [2017-05-22, 2017-05-29]
+notification = [2017-05-30]
+
+[proceedings]
+publisher = "No proceedings"
+
+[extra]
+notes = "Papers can be ongoing or already accepted elsewhere."

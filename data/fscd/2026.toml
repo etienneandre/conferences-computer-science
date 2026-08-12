@@ -1,0 +1,31 @@
+# migrated from data.php line 11166
+edition = 10
+title = "10th International Conference on Formal Structures for Computation and Deduction"
+url = "https://fscd2026.github.io/"
+
+[event]
+start = 2026-07-20
+end = 2026-07-23
+city = "Lisbon, Portugal"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs + references"
+abstract = [2026-01-23]
+paper = [2026-01-30]
+notification = [2026-04-16]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2026-03-23
+rebuttal_end = 2026-03-27
+award = "Best paper award by junior researchers. FSCD test-of-time award 2026."
+
+[extra]
+journal = "Special issue of Logical Methods in Computer Science of selected papers."
+colocated = "Part of the Ninth Federated Logic Conference (FLoC 2026)"

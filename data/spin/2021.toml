@@ -1,0 +1,22 @@
+# migrated from data.php line 29126
+edition = 27
+title = "27th International SPIN Symposium on Model Checking of Software"
+url = "https://conf.researchr.org/home/spin-2021"
+
+[event]
+start = 2021-07-12
+end = 2021-07-13
+online = true
+
+[submission]
+tz = "AoE"
+format = "16 pages + references (technical) / 6 pages (short) + references / 4 pages (tool demo)"
+paper = [2021-03-01, 2021-04-20]
+notification = [2021-05-14, 2021-05-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."

@@ -1,0 +1,22 @@
+# migrated from data.php line 27503
+edition = 16
+title = "16th International Conference on Software Engineering and Formal Methods"
+url = "https://www.isf.cs.tu-bs.de/cms/events/sefm2018/"
+
+[event]
+start = 2018-06-27
+end = 2018-06-29
+city = "Toulouse, France"
+
+[submission]
+format = "15 pages (research / tools / case studies) / 6 pages (New ideas/Work-in-Progress) LNCS"
+abstract = [2018-02-23, 2018-03-02]
+paper = [2018-03-02, 2018-03-09]
+notification = [2018-04-09]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of STAF 2018. Appendix: 2 pages allowed (not integrated in the proceedings)."

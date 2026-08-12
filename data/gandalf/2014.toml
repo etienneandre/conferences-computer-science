@@ -1,0 +1,19 @@
+# migrated from data.php line 12190
+edition = 5
+title = "5th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "http://gandalf2014.di.univr.it"
+
+[event]
+start = 2014-09-10
+end = 2014-09-12
+city = "Verona, Italy"
+
+[submission]
+format = "14 pages EPTCS"
+abstract = [2014-05-27]
+paper = [2014-06-01]
+notification = [2014-07-03]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"

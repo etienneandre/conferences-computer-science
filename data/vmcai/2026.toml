@@ -1,0 +1,27 @@
+# migrated from data.php line 33363
+edition = 27
+title = "27th International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://conf.researchr.org/home/VMCAI-2026"
+
+[event]
+start = 2026-01-12
+end = 2026-01-13
+city = "Rennes, Bretagne, France"
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix (regular / case studies) / 12 pages + references (tool)"
+paper = [2025-09-10, 2025-09-15]
+notification = [2025-11-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "male-only"
+artifact = "VMCAI 2026 makes available the option to submit an artifact along with a paper."
+
+[extra]
+colocated = "Co-located with POPL."

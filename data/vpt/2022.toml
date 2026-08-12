@@ -1,0 +1,21 @@
+# migrated from data.php line 33510
+edition = 10
+title = "10th International Workshop on Verification and Program Transformation"
+url = "http://refal.botik.ru/vpt/vpt2022"
+
+[event]
+start = 2022-04-02
+city = "Munich, Germany"
+
+[submission]
+format = "15 pages EPTCS (regular) / 3 pages (short)"
+abstract = [2022-01-10]
+paper = [2022-01-17, 2022-01-31]
+notification = [2022-02-14]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+colocated = "Satellite of ETAPS 2022."

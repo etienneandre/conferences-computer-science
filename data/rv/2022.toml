@@ -1,0 +1,23 @@
+# migrated from data.php line 26139
+edition = 22
+title = "22nd International Conference on Runtime Verification"
+url = "https://rv22.gitlab.io/"
+
+[event]
+start = 2022-09-28
+end = 2022-09-30
+city = "Tbilisi, Georgia (hybrid)"
+
+[submission]
+tz = "AoE"
+format = "regular (16 pages LNCS + references) / short (8 pages) / tool demonstration (8 pages)"
+abstract = [2022-05-05, 2022-05-16]
+paper = [2022-05-05, 2022-05-19]
+notification = [2022-06-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The Program Committee of RV 2022 will give a Springer-sponsored Best Paper Award to one eligible regular paper."

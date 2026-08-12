@@ -1,0 +1,22 @@
+# migrated from data.php line 2553
+edition = 18
+title = "18th International Symposium on Automated Technology for Verification and Analysis"
+url = "http://fit.uet.vnu.edu.vn/atva2020/"
+
+[event]
+start = 2020-10-19
+end = 2020-10-23
+online = true
+
+[submission]
+format = "16 pages in Springer’s LNCS format (regular) / 6 (tool)"
+abstract = [2020-04-26, 2020-05-06]
+paper = [2020-05-03, 2020-05-12]
+notification = [2020-06-05]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia."

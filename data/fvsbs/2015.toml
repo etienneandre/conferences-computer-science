@@ -1,0 +1,21 @@
+# migrated from data.php line 12049
+edition = 3
+title = "3rd International track on Formal Verification of Service Based Systems"
+url = "http://www-inf.it-sudparis.eu/WETICE/FVSBS/"
+
+[event]
+start = 2015-06-15
+end = 2015-06-17
+city = "Larnaca, Cyprus"
+
+[submission]
+format = "6 pages IEEE (full) / 4 pages IEEE (short)"
+paper = [2015-02-28]
+notification = [2015-03-27]
+
+[proceedings]
+publisher = "?"
+license = "pay"
+
+[extra]
+notes = "Conference Track @ IEEE WETICE 2015."

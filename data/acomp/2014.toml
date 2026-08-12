@@ -1,0 +1,21 @@
+# migrated from data.php line 658
+edition = 8
+title = "International Conference on Advanced Computing and Applications"
+url = "http://www.cse.hcmut.edu.vn/acomp2014/"
+
+[event]
+start = 2014-11-19
+end = 2014-11-21
+city = "Hồ Chí Minh City, Việt Nam"
+
+[submission]
+format = "10 pages Microsoft Word (special template)"
+abstract = [2014-07-15]
+paper = [2014-07-15]
+notification = [2014-08-25]
+
+[proceedings]
+publisher = "Journal of Science and Technology (Vietnam Academy of Science and Technology)"
+
+[extra]
+notes = "in conjunction with FDSE 2014. Selected papers (at least 50% new material) consider for publication in special issues of LNCS Transactions on Large Scale Data and Knowledge Centered Systems / International Journal of Pervasive Computing and Communications (Emerald Publisher)."

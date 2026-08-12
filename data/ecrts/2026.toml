@@ -1,0 +1,26 @@
+# migrated from data.php line 6125
+edition = 38
+title = "38th Euromicro Conference on Real-Time Systems"
+url = "https://www.ecrts.org/"
+
+[event]
+start = 2026-07-07
+end = 2026-07-10
+city = "Lund, Sweden"
+
+[submission]
+tz = "AoE"
+format = "20 pages LIPIcs (+ references)"
+paper = [2026-02-26]
+notification = [2026-04-20]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "double"
+artifact = "To improve the results’ reproducibility and encourage reuse, authors of accepted papers with a computational component will be invited to submit their code and/or their data to an optional artifact evaluation process."
+
+[extra]
+notes = "Shadow TPC evaluation process."

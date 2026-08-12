@@ -1,0 +1,21 @@
+# migrated from data.php line 12711
+edition = 7
+title = "7th Workshop on Horn Clauses for Verification and Synthesis"
+url = "https://www.sci.unich.it/hcvs20/"
+
+[event]
+start = 2020-04-26
+online = true
+
+[submission]
+tz = "AoE"
+format = "12 pages EPTCS + biblio (regular) / 1-3 pages (work in progress)"
+paper = [2020-02-26]
+notification = [2020-03-25]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Affiliated with ETAPS 2020."

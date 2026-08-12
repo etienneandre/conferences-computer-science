@@ -1,0 +1,27 @@
+# migrated from data.php line 14679
+edition = 18
+title = "18th International Conference on Formal Engineering Methods"
+url = "http://icfem2016.xyz/"
+
+[event]
+start = 2016-11-14
+end = 2016-11-18
+city = "Tōkyō, Japan"
+
+[submission]
+format = "16 pages LNCS"
+abstract = [2016-04-22, 2016-05-07]
+paper = [2016-04-30, 2016-05-07]
+notification = [2016-06-18, 2016-06-25, 2016-06-29]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 27
+submitted = 64
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Early abstract submission: 1st April 2016."

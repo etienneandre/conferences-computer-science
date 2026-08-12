@@ -1,0 +1,26 @@
+# CONCUR — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CONCUR"
+name = "International Conference on Concurrency Theory"
+
+[core]
+id = "973"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2015
+rank = "A"
+
+[[core.history]]
+from = 2026
+rank = "B"
+
+[links]
+dblp = "concur"
+wikipedia = "International_Conference_on_Concurrency_Theory"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "34% (34/100) in 2016, 36% (35/96) in 2021, 36% (32/90) in 2022, 38% (37/98) in 2023, 46% (37/80) in 2024, 43% (36/83) in 2025"  # from CONCUR 2026
+extensions = "2 weeks (2020, amid COVID-19), none (2021-2025)"  # from CONCUR 2026

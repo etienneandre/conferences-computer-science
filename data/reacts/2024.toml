@@ -1,0 +1,21 @@
+# migrated from data.php line 23867
+edition = 1
+title = "International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications"
+url = "https://reacts2024.github.io/"
+
+[event]
+start = 2024-11-05
+city = "Aveiro, Portugal"
+
+[submission]
+format = "12 pages LNCS (+ references) / 4 pages (short)"
+abstract = [2024-08-20]
+paper = [2024-08-20, 2024-08-27]
+notification = [2024-09-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Satellite event of SEFM 2024. Extended versions of selected contributions will be published in a special issue of the Journal of Applied Logics"

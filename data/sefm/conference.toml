@@ -1,0 +1,17 @@
+# SEFM — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SEFM"
+name = "International Conference on Software Engineering and Formal Methods"
+
+[core]
+id = "1211"
+rank = "B"  # TODO: verify
+
+[links]
+dblp = "sefm"
+twitter = "SEFM_conf"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "28% (20+5/88) in 2016, 35% (19+3/62) in 2022, 46% (19+1/41) in 2023, 34% (23/68) in 2024."  # from SEFM 2026
+extensions = "one week (2013), one week (2014), one week (2016), 14 days (2017), 7 days (2018), 10 days (2019), 27 days (2020), 14 days (2024), 3 days (2025), 7 days (2026)"  # from SEFM 2026

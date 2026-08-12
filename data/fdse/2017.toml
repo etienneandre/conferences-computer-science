@@ -1,0 +1,21 @@
+# migrated from data.php line 8209
+edition = 4
+title = "4th International Conference on Future Data and Security Engineering"
+url = "http://www.cse.hcmut.edu.vn/fdse2017/"
+
+[event]
+start = 2017-11-29
+end = 2017-12-01
+city = "Hồ-Chí-Minh-City, Việt Nam"
+
+[submission]
+format = "20 pages LNCS"
+paper = [2017-06-20]
+notification = [2017-08-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with ACOMP2017 and RCCIE2017. Selected papers, after further revision and extension will be considered for publication in a special issue of the Transactions on Large Scale Data and Knowledge Centered Systems (TLDKS), ISSN: 1869-1994, also from Springer Verlag."

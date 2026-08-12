@@ -1,0 +1,8 @@
+# AI4Health — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "AI4Health"
+name = "International Workshop on Artificial Intelligence for Health"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

@@ -1,0 +1,20 @@
+# migrated from data.php line 4914
+edition = 10
+title = "10th International Workshop on Compositional Theory and Technology for Real-Time Embedded Systems"
+url = "http://rtg.cis.upenn.edu/crts2017/"
+
+[event]
+start = 2017-12-05
+city = "Paris, France"
+
+[submission]
+format = "8 pages ACM SIG"
+paper = [2017-09-17, 2017-10-15]
+notification = [2017-10-17, 2017-10-31]
+
+[proceedings]
+publisher = "Special issue of ACM SIGBED Review"
+license = "acm"
+
+[extra]
+notes = "Authors retain copyright. Satellite of RTSS."

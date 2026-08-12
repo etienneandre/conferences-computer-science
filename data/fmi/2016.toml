@@ -1,0 +1,22 @@
+# migrated from data.php line 9005
+edition = 4
+title = "The 4th IEEE International Workshop on Formal Methods Integration"
+url = "http://www.sis.pitt.edu/iri2016/workshop_fmi.html"
+
+[event]
+start = 2016-07-28
+end = 2016-07-30
+city = "Pittsburgh, USA"
+
+[submission]
+format = "8 pages IEEE"
+abstract = [2016-03-15]
+paper = [2016-03-25]
+notification = [2016-04-25]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "In conjunction with the 17th IEEE IRI 2016. Presented papers will be invited to be extended and considered for publication in a special issue of Advances in Intelligent Systems and Computing, edited by Springer. Besides, best papers will be invited to be expanded and considered for publication in a special issue of a journal published by Springer (pending)."

@@ -1,0 +1,21 @@
+# migrated from data.php line 13649
+edition = 2
+title = "2nd International Conference on Advanced Aspects of Software Engineering"
+url = "http://www.univ-constantine2.dz/icaase2016/"
+
+[event]
+start = 2016-10-29
+end = 2016-10-30
+city = "Constantine, Algeria"
+
+[submission]
+format = "8 pages in an MS Word special format"
+paper = [2016-07-15, 2016-07-30]
+notification = [2016-09-15]
+
+[proceedings]
+publisher = "CEUR-WS"
+license = "free"
+
+[extra]
+notes = "Distinguished papers from ICAASE’16 will be invited to submit a revised and extended version of their paper to a special issue of the International Journal of Critical Computer-Based Systems (IJCCBS). Every two years (?)"

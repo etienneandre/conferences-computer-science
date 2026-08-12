@@ -1,0 +1,22 @@
+# migrated from data.php line 24891
+edition = 23
+title = "23rd IEEE International Conference on Embedded and Real-Time Computing Systems and Applications"
+url = "http://rtcsa2017.cs.nctu.edu.tw/"
+
+[event]
+start = 2017-08-16
+end = 2017-08-18
+city = "Hsinchu, Taiwan"
+
+[submission]
+tz = "UTC-12"
+format = "10 pages IEEE 2 columns"
+paper = [2017-04-14, 2017-04-23]
+notification = [2017-06-02]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "Deadline UTC-12. 3 tracks: embedded systems, real-time systems, and SYSTEM DESIGN PRACTICE AND EMERGING APPLICATIONS TRACK. Also a work-in-Progress Session. Selected papers will be recommended for submission of extended versions to the special issues of journals, such as the ACM Transactions on Cyber Physical Systems (application in progress)."

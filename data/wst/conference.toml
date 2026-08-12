@@ -1,0 +1,8 @@
+# WST — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "WST"
+name = "International Workshop on Termination"
+frequency = "Every one or two years."
+
+[core]
+rank = "absent"  # TODO: verify

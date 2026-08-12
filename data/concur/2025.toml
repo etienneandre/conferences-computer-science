@@ -1,0 +1,35 @@
+# migrated from data.php line 4676
+edition = 36
+title = "36th International Conference on Concurrency Theory"
+url = "https://conferences.au.dk/confest2025/concur"
+
+[event]
+start = 2025-08-26
+end = 2025-08-29
+city = "Aarhus, Denmark"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ references + appendix)"
+abstract = [2025-04-03]
+paper = [2025-04-09]
+notification = [2025-05-27]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "single"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2025-05-09
+rebuttal_end = 2025-05-12
+
+[stats]
+accepted = 36
+submitted = 83
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+colocated = "Part of CONFEST with QEST+FORMATS, FMICS, and several workshops and tutorials"

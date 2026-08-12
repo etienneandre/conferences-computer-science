@@ -1,0 +1,11 @@
+# SERA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SERA"
+name = "IEEE/ACIS International Conference on Software Engineering Research, Management and Applications"
+
+[core]
+rank = "C"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension (15 days, and 8 days for notification) in 2013, 14 days in 2022. Acceptance rate (2013): 41% (14/34). Deadline extension: 1 week (2015), 28 days (2024)."

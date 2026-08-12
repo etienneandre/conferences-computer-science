@@ -1,0 +1,7 @@
+# WAMCA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "WAMCA"
+name = "Workshop on Applications for Multi-Core Architectures"
+
+[core]
+rank = "absent"  # TODO: verify

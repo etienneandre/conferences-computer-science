@@ -1,0 +1,24 @@
+# migrated from data.php line 30344
+edition = 14
+title = "14th Workshop on Synthesis"
+url = "https://synt2025.github.io/"
+
+[event]
+start = 2025-07-22
+city = "Zagreb, Croatia"
+
+[submission]
+tz = "AoE"
+format = "3 pages LNCS (extended abstract)"
+paper = [2025-05-18]
+notification = [2025-06-03]
+
+[proceedings]
+publisher = "informal"
+license = "free"
+
+[review]
+competition = "SYNT 2025 will host the Reactive Synthesis competition (SYNTCOMP 2025) whose results will be presented at this workshop."
+
+[extra]
+colocated = "Satellite event of CAV."

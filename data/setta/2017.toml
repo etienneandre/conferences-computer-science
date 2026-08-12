@@ -1,0 +1,22 @@
+# migrated from data.php line 28166
+edition = 3
+title = "3rd Symposium on Dependable Software Engineering: Theories, Tools and Applications"
+url = "http://lcs.ios.ac.cn/setta2017/"
+
+[event]
+start = 2017-10-23
+end = 2017-10-25
+city = "Changsha, China"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (short)"
+abstract = [2017-04-21, 2017-06-21, 2017-06-25]
+paper = [2017-04-28, 2017-06-21, 2017-06-25]
+notification = [2017-07-03, 2017-07-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Always in China. The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue of the Formal Aspect Computing journal. Springer will support Best Paper Award of SETTA 2017."

@@ -1,0 +1,26 @@
+# migrated from data.php line 18729
+edition = 6
+title = "6th International Conference on Knowledge and Systems Engineering"
+url = "http://www.uet.vnu.edu.vn/kse2014"
+
+[event]
+start = 2014-10-09
+end = 2014-10-11
+city = "Hà Nội, Việt Nam"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2014-05-26]
+notification = [2014-07-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 51
+submitted = 97
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Several journal special issues related to KSE 2014 will be announced in due course."

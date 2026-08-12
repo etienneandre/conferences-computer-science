@@ -1,0 +1,12 @@
+# AVoCS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "AVoCS"
+name = "International Workshop on Automated Verification of Critical Systems"
+defunct = 2019
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Acceptance rate: 60% (12/20) in 2015 for FMICS only, 63% (11+24/24) in 2016 for FMICS+AVoCS, 10+4/22+8 (including special track) in 2017. Deadline extension: 1 week (2014 and 2015), 2 weeks (2016), 1 week (2017), 5 days (2018), 14 days (2019)."

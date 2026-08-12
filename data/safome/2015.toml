@@ -1,0 +1,19 @@
+# migrated from data.php line 27046
+edition = 2
+title = "2nd International Workshop on Safety and Formal Methods"
+url = "https://es-static.fbk.eu/events/safome15"
+
+[event]
+start = 2015-06-22
+city = "Oslo, Norway"
+
+[submission]
+format = "14 pages LNCS"
+paper = [2015-04-07]
+notification = [2015-04-30]
+
+[proceedings]
+publisher = "informal proceedings"
+
+[extra]
+notes = "Satellite of FM. Extended versions of selected papers will be invited to submit to a Special Issue in Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability (SAGE, print ISSN: 1748-006X)."

@@ -1,0 +1,19 @@
+# migrated from data.php line 25961
+edition = 16
+title = "16th International Conference on Runtime Verification"
+url = "http://rv2016.imag.fr"
+
+[event]
+start = 2016-09-28
+end = 2016-09-30
+city = "Madrid, Spain"
+
+[submission]
+format = "regular (15 pages LNCS) / short (6 pages) / regular tool (8 pages) / tool exhibition (4 pages)"
+abstract = [2016-05-08, 2016-05-20]
+paper = [2016-05-15, 2016-05-27]
+notification = [2016-07-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

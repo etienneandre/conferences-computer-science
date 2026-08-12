@@ -1,0 +1,8 @@
+# MT-CPS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "MT-CPS"
+name = "International Workshop on Monitoring and Testing of Cyber-Physical Systems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

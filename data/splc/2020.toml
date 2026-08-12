@@ -1,0 +1,22 @@
+# migrated from data.php line 29337
+edition = 24
+title = "24th International Systems and Software Product Line Conference"
+url = "http://splc2020.net/"
+
+[event]
+start = 2020-10-19
+end = 2020-10-23
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "12 pages ACM + references (full) / 7 pages (short)"
+abstract = [2020-04-09]
+paper = [2020-04-16]
+notification = [2020-06-01]
+
+[proceedings]
+publisher = "ACM digital library"
+license = "acm"
+
+[extra]
+notes = "There will be two best paper awards. Optional artifact evaluation."

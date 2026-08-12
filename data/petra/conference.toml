@@ -1,0 +1,7 @@
+# PETRA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "PETRA"
+name = "International Conference on PErvasive Technologies Related to Assistive Environments"
+
+[core]
+rank = "absent"  # TODO: verify

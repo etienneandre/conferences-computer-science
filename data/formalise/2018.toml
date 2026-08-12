@@ -1,0 +1,21 @@
+# migrated from data.php line 9554
+edition = 6
+title = "6th FME Workshop on Formal Methods in Software Engineering"
+url = "http://www.formalise.org/"
+
+[event]
+start = 2018-06-02
+city = "Gothenburg, Sweden"
+
+[submission]
+format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
+abstract = [2018-01-24]
+paper = [2018-01-29]
+notification = [2018-03-04]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "acm"
+
+[extra]
+notes = "Held in conjunction with ICSE."

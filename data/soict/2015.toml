@@ -1,0 +1,21 @@
+# migrated from data.php line 28768
+edition = 6
+title = "Sixth International Symposium on Information and Communication Technology"
+url = "http://acm-soict.org/"
+
+[event]
+start = 2015-12-03
+end = 2015-12-04
+city = "Hanoi, Vietnam"
+
+[submission]
+format = "8 pages ACM"
+paper = [2015-08-19]
+notification = [2015-09-27]
+
+[proceedings]
+publisher = "ACM ICPS"
+license = "acm"
+
+[extra]
+notes = "The proceedings of SoICT 2015 will be published as a volume in ACM ICPS (ISBN:978-1-4503-3843-1) and indexed by ACM Digital Library and DBLP. Extended versions of the very best papers submitted to SoICT will be invited for publication in a special issue of the Informatica journal, but will be reviewed again."

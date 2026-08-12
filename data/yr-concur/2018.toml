@@ -1,0 +1,19 @@
+# migrated from data.php line 34925
+edition = 8
+title = "8th International Young Researchers Workshop on Concurrency Theory"
+url = "https://www.irif.fr/~cenea/yr-concur2018/"
+
+[event]
+start = 2018-09-03
+city = "Beijing, China"
+
+[submission]
+format = "4 pages"
+paper = [2018-06-08, 2018-06-17]
+notification = [2018-07-06, 2018-07-15]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR. Cancelled in 2014."

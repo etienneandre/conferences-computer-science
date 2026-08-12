@@ -1,0 +1,27 @@
+# migrated from data.php line 16524
+edition = 13
+title = "13th International Colloquium on Theoretical Aspects of Computing"
+url = "http://cc.ee.ntu.edu.tw/~ictac2016"
+
+[event]
+start = 2016-10-24
+end = 2016-10-31
+city = "Taipei, Taiwan"
+
+[submission]
+format = "18 pages LNCS (regular) / 10 pages LNCS (short / tool)"
+abstract = [2016-04-23, 2016-05-09, 2016-05-16]
+paper = [2016-05-01, 2016-05-09, 2016-05-16]
+notification = [2016-06-28, 2016-07-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 23
+submitted = 60
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Extended versions of selected papers from ICTAC 2016 will be invited to a special issue in a journal to be announced."

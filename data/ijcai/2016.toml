@@ -1,0 +1,22 @@
+# migrated from data.php line 17218
+edition = 25
+title = "25th International Joint Conference on Artificial Intelligence"
+url = "http://ijcai-16.org/"
+
+[event]
+start = 2016-07-09
+end = 2016-07-15
+city = "New York City, USA"
+
+[submission]
+format = "6 pages + 1 page references"
+abstract = [2016-01-27]
+paper = [2016-02-02]
+notification = [2016-04-04]
+
+[proceedings]
+publisher = "AAAI Press"
+license = "free-copy"
+
+[extra]
+notes = "Double-blind submission. Rebuttal period: March 10-11, 2016. Authors lose their rights, but proceedings (2015) are freely available. Every two years until 2016, then became yearly."

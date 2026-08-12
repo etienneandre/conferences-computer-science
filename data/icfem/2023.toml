@@ -1,0 +1,25 @@
+# migrated from data.php line 14862
+edition = 24
+title = "24th International Conference on Formal Engineering Methods"
+url = "https://formal-analysis.com/icfem/2023/"
+
+[event]
+start = 2023-11-22
+end = 2023-11-24
+city = "Brisbane, Australia"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS"
+abstract = [2023-05-14, 2023-05-21]
+paper = [2023-05-21, 2023-05-28]
+notification = [2023-07-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 13
+submitted = 34
+# TODO: verify — extracted from the cross-year acceptance string.

@@ -1,0 +1,22 @@
+# migrated from data.php line 15930
+edition = 44
+title = "44th International Conference on Software Engineering"
+url = "https://conf.researchr.org/home/icse-2022"
+
+[event]
+start = 2022-05-21
+end = 2022-05-29
+city = "Pittsburgh, USA"
+
+[submission]
+format = "10 pages ACM"
+abstract = [2021-08-27]
+paper = [2021-09-03]
+notification = [2021-12-03]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Also a doctoral symposium, tutorials, demos, and other events. Author response period: 10-13 November 2021."

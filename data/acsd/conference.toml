@@ -1,0 +1,12 @@
+# ACSD — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ACSD"
+name = "International Conference on Application of Concurrency to System Design"
+defunct = 2019
+
+[core]
+rank = "B"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Acceptance rate: 47% (14/30) in 2016, not public (15/??) in 2017, 52% (13/25) in 2018."

@@ -1,0 +1,22 @@
+# migrated from data.php line 24817
+edition = 20
+title = "20th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications"
+url = "http://www.rtcsa.org/"
+
+[event]
+start = 2014-08-20
+end = 2014-08-22
+city = "Chongqing, China"
+
+[submission]
+tz = "GMT"
+format = "10 pages IEEE 2 columns"
+paper = [2014-03-31]
+notification = [2014-05-19]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "Warning: deadline at noon GMT+8. 3 tracks: embedded systems, real-time systems, and ubiquitous computing. Also a work-in-Progress Session (deadline: June 18th). Selected papers will be invited to submit an extended version to the special issues of several SCI(E)-indexed journals including JSPS."

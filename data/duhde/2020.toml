@@ -1,0 +1,19 @@
+# migrated from data.php line 5898
+edition = 7
+title = "7th Workshop on Design Automation for Understanding Hardware Designs"
+url = "http://duhde.org/"
+
+[event]
+start = 2020-03-13
+city = "Grenoble, France"
+
+[submission]
+format = "6 pages IEEE or ACM"
+paper = [2020-01-12]
+notification = [2020-01-19]
+
+[proceedings]
+publisher = "informal proceedings"
+
+[extra]
+notes = "Workshop at DATE 2019. Cancelled in 2020. The proceedings of DUHDe are only available for participants of the workshop. The authors retain the copyright of their work and are free to submit extended versions to a conference or journal."

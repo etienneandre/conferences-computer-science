@@ -1,0 +1,8 @@
+# FORTRESS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FORTRESS"
+name = "International Workshop on Formal Techniques for Real-Time Systems"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

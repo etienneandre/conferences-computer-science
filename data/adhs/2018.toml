@@ -1,0 +1,28 @@
+# migrated from data.php line 1003
+edition = 6
+title = "6th IFAC Conference on Analysis and Design of Hybrid Systems"
+url = "http://www.cs.ox.ac.uk/conferences/ADHS18/"
+
+[event]
+start = 2018-07-11
+end = 2018-07-13
+city = "Oxford, England"
+
+[submission]
+tz = "AoE"
+format = "6 pages IFAC (8 pages for submission)"
+abstract = [2017-12-01]
+paper = [2017-12-08, 2017-12-22, 2018-01-06]
+notification = [2018-02-28]
+
+[proceedings]
+publisher = "Science Direct"
+license = "free-copy"
+
+[stats]
+accepted = 50
+submitted = 72
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Every 3 years."

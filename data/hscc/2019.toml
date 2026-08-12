@@ -1,0 +1,22 @@
+# migrated from data.php line 13291
+edition = 22
+title = "22nd ACM International Conference on Hybrid Systems: Computation and Control"
+url = "http://hscc2019.eecs.umich.edu/"
+
+[event]
+start = 2019-04-16
+end = 2019-04-19
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "10 pages ACM (regular) / 6 pages (tools and case studies) / 2 pages (demo/posters, not published)"
+abstract = [2018-10-10]
+paper = [2018-10-17]
+notification = [2018-12-21]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Part of Cyber Physical Systems (CPS) Week. No deadline extension possible. Authors of distinguished papers may be invited to submit an extended version of their work for possible publication in a Special issue of a leading journal. Light double-blind reviewing process. Several best paper awards. Rebuttal phase: 3 to 5th December 2018"

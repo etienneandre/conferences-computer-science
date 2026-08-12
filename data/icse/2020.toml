@@ -1,0 +1,21 @@
+# migrated from data.php line 15883
+edition = 42
+title = "42nd International Conference on Software Engineering"
+url = "https://conf.researchr.org/home/icse-2020"
+
+[event]
+start = 2020-05-23
+end = 2020-05-29
+city = "Seoul, South Korea"
+
+[submission]
+format = "10 pages ACM"
+paper = [2019-08-23]
+notification = [2019-12-09]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Author response: 15-19 November 2019. Also a doctoral symposium, tutorials, demos, and other events."

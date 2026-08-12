@@ -1,0 +1,20 @@
+# migrated from data.php line 19936
+edition = 3
+title = "3rd Workshop on Models for Formal Analysis of Real Systems"
+url = "http://www.mars-workshop.org/mars2018/"
+
+[event]
+start = 2018-04-20
+city = "Thessaloniki, Greece"
+
+[submission]
+format = "12 pages EPTCS"
+paper = [2018-01-12, 2018-01-21]
+notification = [2018-02-19]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite of ETAPS. The models related to the submission, if in machine readable form, will be archived in a repository."

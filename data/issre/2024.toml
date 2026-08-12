@@ -1,0 +1,23 @@
+# migrated from data.php line 18004
+edition = 35
+title = "35th IEEE International Symposium on Software Reliability Engineering"
+url = "https://issre.net/"
+
+[event]
+start = 2024-10-28
+end = 2024-10-31
+city = "Tsukuba, Japan"
+
+[submission]
+tz = "AoE"
+format = "12 pages IEEE including references (research / experience reports) / 6-10 pages (tools and artifact)"
+abstract = [2024-05-03, 2024-05-15]
+paper = [2024-05-10, 2024-05-15]
+notification = [2024-07-26]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double-blind. Rebuttal: 5-8 July 2024."

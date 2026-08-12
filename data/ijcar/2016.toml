@@ -1,0 +1,22 @@
+# migrated from data.php line 17373
+edition = 8
+title = "8th International Joint Conference on Automated Reasoning"
+url = "http://www.uc.pt/en/congressos/ijcar2016"
+
+[event]
+start = 2016-06-27
+end = 2016-07-02
+city = "Coimbra, Portugal"
+
+[submission]
+format = "15 pages (full) / 7 pages (system descriptions)"
+abstract = [2016-01-18]
+paper = [2016-01-25]
+notification = [2016-03-21]
+
+[proceedings]
+publisher = "Springer LNAI/LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "IJCAR 2014 offered a best paper award to recognize the most outstanding paper appearing at the conference. Travel awards were available in 2014 to enable selected students to attend the conference. Every two years."

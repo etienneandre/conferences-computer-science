@@ -1,0 +1,23 @@
+# migrated from data.php line 87
+edition = 16
+title = "16th International Conference on Autonomous Agents and Multiagent Systems"
+url = "http://www.aamas2017.org/"
+
+[event]
+start = 2017-05-08
+end = 2017-05-12
+city = "São Paulo, Brazil"
+
+[submission]
+tz = "UTC-12"
+format = "8 pages (+ references)"
+abstract = [2016-11-11]
+paper = [2016-11-15]
+notification = [2017-01-24]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. Rebuttal phase: January 9-10, 2017 (23:59 UTC-12)"

@@ -1,0 +1,20 @@
+# migrated from data.php line 9429
+edition = 2
+title = "2nd Formal Methods for Timing Verification Workshop"
+url = "http://waters2015.inria.fr/challenge"
+
+[event]
+start = 2015-07-07
+city = "Lund, Sweden"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2015-04-24]
+notification = [2015-05-22]
+
+[proceedings]
+publisher = "PDF online"
+license = "free"
+
+[extra]
+notes = "Papers must describe a (possibly partial) solution to the FMTV challenge presented in 2014. Held as part of WATERS’15 in conjunction with ECRTS’15. Depending on the participation, a joint publication of the challenge solutions will be considered."

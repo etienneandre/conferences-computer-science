@@ -1,0 +1,28 @@
+# migrated from data.php line 12433
+edition = 14
+title = "14th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "https://gandalf23.uniud.it"
+
+[event]
+start = 2023-09-18
+end = 2023-09-20
+city = "Udine, Italy"
+
+[submission]
+tz = "AoE"
+format = "14 pages EPTCS + references + appendix"
+abstract = [2023-06-23]
+paper = [2023-06-30]
+notification = [2023-08-07]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[stats]
+accepted = 15
+submitted = 26
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science."

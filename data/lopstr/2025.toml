@@ -1,0 +1,23 @@
+# migrated from data.php line 19684
+edition = 35
+title = "35th International Symposium on Logic-Based Program Synthesis and Transformation"
+url = "https://lopstr.github.io/2025/"
+
+[event]
+start = 2025-09-09
+end = 2025-09-10
+city = "University of Calabria, Rende, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages Springer + references + appendix / 8 pages + references (short)"
+abstract = [2025-05-09]
+paper = [2025-05-16]
+notification = [2025-06-27]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of ICLP 2025 and co-located with PPDP 2025. After the symposium, a selection of a few best papers will be invited for submission to rapid publication in the Journal of Theory and Practice of Logic Programming (TPLP). Authors of selected papers will be invited to revise and/or extend their submissions to be considered for publication."

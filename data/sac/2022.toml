@@ -1,0 +1,21 @@
+# migrated from data.php line 26596
+edition = 37
+title = "37th Annual ACM/SIGAPP Symposium on Applied Computing"
+url = "https://www.sigapp.org/sac/sac2022/"
+
+[event]
+start = 2022-04-25
+end = 2022-04-29
+city = "Brno, Czech Republic"
+
+[submission]
+format = "8+2 pages ACM SAC (?)"
+paper = [2021-10-15, 2021-10-24, 2021-10-31]
+notification = [2021-12-10]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "39 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind."

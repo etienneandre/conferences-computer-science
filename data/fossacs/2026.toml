@@ -1,0 +1,29 @@
+# migrated from data.php line 10895
+edition = 29
+title = "29th International Conference on Foundations of Software Science and Computation Structures"
+url = "https://etaps.org/2026/conferences/fossacs/"
+
+[event]
+start = 2026-04-11
+end = 2026-04-16
+city = "Turin, Italy"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography"
+paper = [2025-10-16]
+notification = [2025-12-22]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[review]
+blind = "double"
+rebuttal = true
+rebuttal_start = 2025-12-08
+rebuttal_end = 2025-12-10
+artifact = "Artifact evaluation."
+
+[extra]
+colocated = "Part of ETAPS 2026."

@@ -1,0 +1,23 @@
+# migrated from data.php line 23673
+edition = 18
+title = "18th International Conference on Quantitative Evaluation of SysTems"
+url = "https://www.qest.org/qest2021/"
+
+[event]
+start = 2021-08-23
+end = 2021-08-27
+online = true
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (Theoretical / Methodological / Application / Tools); 8 pages LNCS (short)"
+abstract = [2021-04-08, 2021-04-23]
+paper = [2021-04-15, 2021-04-30]
+notification = [2021-06-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of QONFEST 2021. Accepted tool descriptions will appear in the conference proceedings. A selection of the best full papers will be invited to submit an extended version of their work to a special issue in the ACM Transactions on Modelling and Computer Simulation (TOMACS). Repeatability/Artifact Evaluation."

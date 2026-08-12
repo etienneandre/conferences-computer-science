@@ -1,0 +1,23 @@
+# migrated from data.php line 19654
+edition = 34
+title = "34th International Symposium on Logic-Based Program Synthesis and Transformation"
+url = "https://lopstr.github.io/2023/"
+
+[event]
+start = 2024-09-09
+end = 2024-09-11
+city = "Milan, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages Springer + references + appendix / 8 pages + references (short)"
+abstract = [2024-05-06, 2024-05-15]
+paper = [2024-05-10, 2024-05-19]
+notification = [2024-06-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of FM 2024 and co-located with PPDP 2024, FACS 2024, FMICS 2024, and TAP 2024. A best paper award will be granted, which will include a 500€ prize provided by Springer. After the symposium, a selection of a few best papers will be invited for submission to rapid publication in the Journal of Theory and Practice of Logic Programming (TPLP)."

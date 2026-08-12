@@ -1,0 +1,21 @@
+# migrated from data.php line 15906
+edition = 43
+title = "43rd International Conference on Software Engineering"
+url = "https://conf.researchr.org/home/icse-2021"
+
+[event]
+start = 2021-05-23
+end = 2021-05-29
+city = "Madrid, Spain"
+
+[submission]
+format = "10 pages ACM"
+paper = [2020-08-28]
+notification = [2020-12-17]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Also a doctoral symposium, tutorials, demos, and other events."

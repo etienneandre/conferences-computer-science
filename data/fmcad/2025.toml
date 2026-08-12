@@ -1,0 +1,28 @@
+# migrated from data.php line 8891
+edition = 25
+title = "25th International Conference on Formal Methods in Computer-Aided Design"
+url = "https://fmcad.org/FMCAD25/"
+
+[event]
+start = 2025-10-06
+end = 2025-10-10
+city = "Menlo Park, California, US"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE + references (regular) / 4 pages (short)"
+abstract = [2025-04-20, 2025-04-28]
+paper = [2025-04-27, 2025-05-05]
+notification = [2025-07-01]
+
+[proceedings]
+publisher = "TU Wien Academic Press / ACM/IEEE"
+license = "cc-by"
+
+[review]
+rebuttal = true
+rebuttal_start = 2024-06-25
+rebuttal_end = 2024-06-27
+
+[extra]
+colocated = "Co-located with VSTTE 2025"

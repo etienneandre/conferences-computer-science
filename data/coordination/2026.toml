@@ -1,0 +1,29 @@
+# migrated from data.php line 4794
+edition = 28
+title = "28th International Conference on Coordination Models and Languages"
+url = "https://www.discotec.org/2026/coordination"
+
+[event]
+start = 2026-06-08
+end = 2026-06-12
+city = "Urbino, Italy"
+
+[submission]
+tz = "AoE"
+format = "18 pages + references (regular) / 25 pages (survey) / 15 pages (tool)"
+abstract = [2026-01-30, 2026-02-13]
+paper = [2026-02-06, 2026-02-20]
+notification = [2026-03-27]
+
+[proceedings]
+publisher = "LNCS-IFIP"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+artifact = "Artifact evaluation mandatory for tool papers, optional for regular/survey"
+
+[extra]
+journal = "A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP)"
+colocated = "Member of DisCoTec"

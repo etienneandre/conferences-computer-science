@@ -1,0 +1,15 @@
+# VPT — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "VPT"
+name = "International Workshop on Verification and Program Transformation"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "vpt"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "10 days (2017), 2 weeks (2022)"  # from VPT 2022

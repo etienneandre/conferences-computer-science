@@ -1,0 +1,22 @@
+# migrated from data.php line 391
+edition = 8
+title = "International Conference on Rigorous State Based Methods"
+url = "https://abz2021.uni-ulm.de/"
+
+[event]
+start = 2021-06-07
+end = 2021-06-11
+online = true
+
+[submission]
+format = "14 pages LNCS (research, case study) / 4 pages (short / work in progress / tool) / 14 pages (answer to case studies) / 4 pages extended abstract (industry)"
+abstract = [2021-02-15]
+paper = [2021-02-22, 2021-03-01]
+notification = [2021-03-29]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 20 days (2014), 7 days (2018, 2021). ABZ 2021 will have a main conference track, a case study track, a doctoral symposium, tutorials and workshops. It is planned to continue the cooperation with the journals SCP and STTT. Every two years."

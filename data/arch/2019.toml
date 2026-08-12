@@ -1,0 +1,20 @@
+# migrated from data.php line 2050
+edition = 6
+title = "6th International Workshop on Applied Verification for Continuous and Hybrid Systems"
+url = "http://cps-vo.org/group/ARCH"
+
+[event]
+start = 2019-04-15
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "3-8 pages (Benchmark papers, tool presentations, tool executions, experience reports)"
+paper = [2019-02-24]
+notification = [2019-03-17]
+
+[proceedings]
+publisher = "EasyChair EPiC series"
+license = "free"
+
+[extra]
+notes = "Part of CPSWeek. The paper with the most promising benchmark results receives a prize of 500 Euros sponsored by Robert Bosch GmbH, Germany. The winner is preselected by the program committee and determined by an audience voting. Free of charge in 2017."

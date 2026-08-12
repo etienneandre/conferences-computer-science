@@ -1,0 +1,22 @@
+# migrated from data.php line 12233
+edition = 7
+title = "7th International Symposium on Games, Automata, Logics, and Formal Verification"
+url = "http://gandalf2016.dmi.unict.it/"
+
+[event]
+start = 2015-09-14
+end = 2015-09-16
+city = "Catania, Italy"
+
+[submission]
+format = "14 pages EPTCS"
+abstract = [2016-05-20, 2016-06-06]
+paper = [2016-05-27, 2016-06-06]
+notification = [2016-07-01]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of an international leading journal."

@@ -1,0 +1,22 @@
+# migrated from data.php line 15953
+edition = 47
+title = "47th International Conference on Software Engineering"
+url = "https://conf.researchr.org/track/icse-2025/icse-2025-research-track"
+
+[event]
+start = 2025-04-26
+end = 2025-05-04
+city = "Ottawa, Ontario, Canada"
+
+[submission]
+format = "10 pages ACM + 2p references"
+abstract = [2024-03-15]
+paper = [2024-03-22]
+notification = [2024-07-05]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "ICSE 2025 will follow a dual deadline structure introduced in 2024. Also a doctoral symposium, tutorials, demos, and other events. Author response period: 11-13 June 2024."

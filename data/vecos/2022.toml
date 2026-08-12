@@ -1,0 +1,23 @@
+# migrated from data.php line 32867
+edition = 16
+title = "16th International Conference on Verification and Evaluation of Computer and Communication Systems"
+url = "http://vecos-world.org/2022/"
+
+[event]
+start = 2022-09-28
+end = 2022-09-30
+city = "Tbilisi, Georgia"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS"
+abstract = [2022-04-30, 2022-05-31]
+paper = [2022-04-30, 2022-06-13]
+notification = [2022-06-13, 2022-07-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay"
+
+[extra]
+notes = "Part of the Computational Logic Autumn Summit (CLAS 2022). Authors of selected papers will be invited to submit extended article versions to a special issue of an index journal (ISSE or IJCCBS)."

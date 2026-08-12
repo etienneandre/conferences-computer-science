@@ -1,0 +1,21 @@
+# migrated from data.php line 7022
+edition = 10
+title = "École d’été temps réel (session doctorants)"
+url = "https://etr2017.sciencesconf.org/"
+
+[event]
+start = 2017-08-28
+end = 2017-09-01
+city = "Paris, France"
+
+[submission]
+format = "4 pages IEEE 2 columns"
+paper = [2017-06-13, 2017-06-18, 2017-07-03]
+notification = [2017-07-07]
+
+[proceedings]
+publisher = "Given to participants"
+license = "free"
+
+[extra]
+notes = "Mainly for PhD students. Most presentations in French. Every two years."

@@ -1,0 +1,21 @@
+# migrated from data.php line 15816
+edition = 39
+title = "39th International Conference on Software Engineering"
+url = "http://icse2017.gatech.edu/"
+
+[event]
+start = 2017-05-20
+end = 2017-05-28
+city = "Buenos Aires, Argentina"
+
+[submission]
+format = "10 pages ACM"
+paper = [2016-08-26]
+notification = [2016-12-12]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+[extra]
+notes = "Also a doctoral symposium, tutorials, demos, and other events. (Deadlines: November 20, 2015). Clarification Period: October 22, 2016 to October 26, 2016 (tentative)"

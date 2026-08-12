@@ -1,0 +1,22 @@
+# migrated from data.php line 1593
+edition = 22
+title = "22nd Asian Symposium on Programming Languages and Systems"
+url = "https://conf.researchr.org/home/aplas-2024/"
+
+[event]
+start = 2024-10-22
+end = 2024-10-25
+city = "Kyoto, Japan"
+
+[submission]
+tz = "AoE"
+format = "17 pages LNCS (research) + references"
+paper = [2024-05-17]
+notification = [2024-08-02]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Lightweight double-blind reviewing process. APLAS 2024 continues the tradition of the best paper award. Rebuttal phase."

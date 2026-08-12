@@ -1,0 +1,22 @@
+# migrated from data.php line 1617
+edition = 23
+title = "23rd Asian Symposium on Programming Languages and Systems"
+url = "https://conf.researchr.org/track/aplas-2025/aplas-2025-aplas-2025"
+
+[event]
+start = 2025-10-27
+end = 2025-10-30
+city = "Bangalore, India"
+
+[submission]
+tz = "AoE"
+format = "17 pages LNCS (research) + references"
+paper = [2025-05-31]
+notification = [2025-07-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Light double-blind reviewing process. Best paper award. Rebuttal: 7-9 July 2025."

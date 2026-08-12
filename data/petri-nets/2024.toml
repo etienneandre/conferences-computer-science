@@ -1,0 +1,28 @@
+# migrated from data.php line 22263
+edition = 45
+title = "45th International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "http://conf-2024.petrinet.net"
+
+[event]
+start = 2024-06-26
+end = 2024-06-28
+city = "Geneva, Switzerland"
+
+[submission]
+tz = "AoE"
+format = "regular papers: max 20 pages + references in Springer LNCS-format; tool papers: max 10 pages + ref in Springer LNCS-format"
+abstract = [2024-01-15, 2024-01-22]
+paper = [2024-01-22, 2024-01-29]
+notification = [2024-03-08, 2024-03-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 19
+submitted = 42
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited, in an extended form, as submissions to a special issue of Fundamenta Informaticae."

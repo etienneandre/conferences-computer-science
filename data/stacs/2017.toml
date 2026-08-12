@@ -1,0 +1,26 @@
+# migrated from data.php line 29570
+edition = 34
+title = "34th Symposium on Theoretical Aspects of Computer Science"
+url = "https://stacs2017.thi.uni-hannover.de"
+
+[event]
+start = 2017-03-08
+end = 2017-03-11
+city = "Hannover, Germany"
+
+[submission]
+format = "12 pages LIPIcs (+ ref + appendix)"
+paper = [2016-09-25]
+notification = [2016-12-12]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[stats]
+accepted = 54
+submitted = 212
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Rebuttal period: Nov 21-24, 2016"

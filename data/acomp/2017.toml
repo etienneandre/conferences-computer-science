@@ -1,0 +1,18 @@
+# migrated from data.php line 724
+edition = 11
+title = "11th International Conference on Advanced Computing and Applications"
+url = "http://www.cse.hcmut.edu.vn/acomp2017/"
+
+[event]
+start = 2017-11-29
+end = 2017-12-01
+city = "Hồ Chí Minh City, Việt Nam"
+
+[submission]
+format = "8 pages IEEE"
+paper = [2017-06-30]
+notification = [2017-09-02]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"

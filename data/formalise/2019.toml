@@ -1,0 +1,21 @@
+# migrated from data.php line 9577
+edition = 7
+title = "7th International Conference on Formal Methods in Software Engineering"
+url = "http://www.formalise.org/"
+
+[event]
+start = 2019-05-27
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
+abstract = [2019-01-11, 2019-01-18]
+paper = [2019-01-18, 2019-01-25]
+notification = [2019-03-01]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "acm"
+
+[extra]
+notes = "Held in conjunction with ICSE."

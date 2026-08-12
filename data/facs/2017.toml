@@ -1,0 +1,25 @@
+# migrated from data.php line 7610
+edition = 14
+title = "14th International Conference Formal Aspects of Component Software"
+url = "http://facs2017.di.uminho.pt"
+
+[event]
+start = 2017-10-10
+end = 2017-10-13
+city = "Braga, Portugal"
+
+[submission]
+format = "18 pages LNCS format (research / applications / survey) / 6 (tool)"
+abstract = [2017-05-19]
+paper = [2017-05-26]
+notification = [2017-07-17]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = """
+Also a Doctoral Track, in the form of abstracts (3 pages max). The authors of a selected subset of accepted papers will be invited to
+submit extended versions of their papers to a special issue of the
+Science of Computer Programming journal."""

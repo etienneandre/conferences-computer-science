@@ -1,0 +1,22 @@
+# migrated from data.php line 4144
+edition = 15
+title = "15th conference on Computational Methods for Systems Biology"
+url = "http://www.cmsb2017.tu-darmstadt.de"
+
+[event]
+start = 2017-09-27
+end = 2017-09-29
+city = "Darmstadt, Germany"
+
+[submission]
+format = "15 pages LNCS (regular) / 6 pages (tool)"
+abstract = [2017-04-07, 2017-04-21]
+paper = [2017-04-14, 2017-04-28]
+notification = [2017-06-15]
+
+[proceedings]
+publisher = "Springer LNCS/LNBI"
+license = "pay-profit"
+
+[extra]
+notes = "A selection of papers will be invited to be extended an submitted to a special issue of the journal IEEE/ACM Transactions on Computational Biology and Bioinformatics."

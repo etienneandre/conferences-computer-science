@@ -1,0 +1,22 @@
+# migrated from data.php line 17701
+edition = 27
+title = "27th IEEE International Symposium on Real-Time Distributed Computing"
+url = "http://isorc.github.io/2024/"
+
+[event]
+start = 2024-05-22
+end = 2024-05-25
+city = "Carthage, Tunis, Tunisia"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) / 6 pages IEEE (short)"
+paper = [2024-01-07, 2024-01-28, 2024-02-04]
+notification = [2024-03-05]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind (?). Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing."

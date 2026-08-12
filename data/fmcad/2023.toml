@@ -1,0 +1,23 @@
+# migrated from data.php line 8830
+edition = 23
+title = "23rd International Conference on Formal Methods in Computer-Aided Design"
+url = "https://fmcad.org/FMCAD23/"
+
+[event]
+start = 2023-10-23
+end = 2023-10-27
+city = "Ames, Iowa, USA"
+
+[submission]
+tz = "AoE"
+format = "8 pages IEEE + references (regular) / 4 pages (short)"
+abstract = [2023-05-08, 2023-05-15]
+paper = [2023-05-15, 2023-05-22]
+notification = [2023-07-01, 2023-07-08]
+
+[proceedings]
+publisher = "TU Wien Academic Press / ACM/IEEE"
+license = "cc-by"
+
+[extra]
+notes = "Author Response: June 29 - July 2, 2023. A small number of outstanding FMCAD submissions will be considered for inclusion in a Special Issue of the journal on Formal Methods in System Design (FMSD)."

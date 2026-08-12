@@ -1,0 +1,21 @@
+# migrated from data.php line 26509
+edition = 34
+title = "34th Annual ACM/SIGAPP Symposium on Applied Computing"
+url = "https://www.sigapp.org/sac/sac2019"
+
+[event]
+start = 2019-04-08
+end = 2019-04-12
+city = "Limassol, Cyprus"
+
+[submission]
+format = "8+2 pages ACM SAC"
+paper = [2018-09-10, 2018-09-24]
+notification = [2018-11-10, 2018-11-24]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "44 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind reviews! Deadline extension: 10+7 days (2016, with notification extension by 10 days without announcement); 14 days (2017), 10 days (2018), 14 days including notification (2019)."

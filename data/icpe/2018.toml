@@ -1,0 +1,22 @@
+# migrated from data.php line 15482
+edition = 9
+title = "9th ACM/SPEC International Conference on Performance Engineering"
+url = "https://icpe2018.spec.org/"
+
+[event]
+start = 2018-04-09
+end = 2018-04-13
+city = "Berlin, Germany"
+
+[submission]
+format = "12 pages ACM (research / industry) / 6 pages (short)"
+abstract = [2017-10-16, 2017-10-25]
+paper = [2017-10-18, 2017-10-25]
+notification = [2017-12-08]
+
+[proceedings]
+publisher = "ACM Digital Library"
+license = "acm"
+
+[extra]
+notes = "After the conference, there will be a call for a special issue of a journal."

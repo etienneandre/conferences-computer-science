@@ -1,0 +1,23 @@
+# migrated from data.php line 23408
+edition = 14
+title = "14th International Workshop on Quantitative Aspects of Programming Languages and Systems"
+url = "http://qapl16.doc.ic.ac.uk/"
+
+[event]
+start = 2016-04-02
+end = 2016-04-03
+city = "Eindhoven, The Netherlands"
+
+[submission]
+format = "12 pages EPTCS + appendix (regular) / 4 pages (ongoing)"
+paper = [2016-01-18]
+notification = [2016-02-18]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = """
+Co-located with ETAPS. Ongoing work will not be published. Following previous issues of QAPL, a special journal issue will be
+considered."""

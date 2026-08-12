@@ -1,0 +1,8 @@
+# CFV — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CFV"
+name = "International Workshop on Constraints in Formal Verification"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify

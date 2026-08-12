@@ -1,0 +1,21 @@
+# migrated from data.php line 23458
+edition = 16
+title = "16th International Workshop on Quantitative Aspects of Programming Languages and Systems"
+url = "http://www1.isti.cnr.it/~Massink/EVENTS/QAPL2018/"
+
+[event]
+start = 2018-07-14
+city = "Oxford, England"
+
+[submission]
+format = "12 pages EPTCS + appendix (regular) / 4 pages (ongoing)"
+abstract = [2018-04-10]
+paper = [2018-04-15]
+notification = [2018-05-15]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Co-located with FLoC. Ongoing work will not be published. A special issue in a renowned international journal is planned in case of a sufficient number of high quality submissions. Abstract submission is optional. Cancelled."

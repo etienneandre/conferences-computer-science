@@ -1,0 +1,22 @@
+# migrated from data.php line 26229
+edition = 25
+title = "25th International Conference on Runtime Verification"
+url = "https://rv25.isec.tugraz.at"
+
+[event]
+start = 2025-09-15
+end = 2025-09-19
+city = "Graz, Austria"
+
+[submission]
+tz = "AoE"
+format = "regular (16 pages LNCS + references) / short / tool demonstration / benchmarks (8 pages)"
+paper = [2025-05-30, 2025-06-06]
+notification = [2025-07-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Also a call for tutorials. The Program Committee of RV 2025 will give a sponsored Best Paper Award to one eligible regular paper."

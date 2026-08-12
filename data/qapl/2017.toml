@@ -1,0 +1,22 @@
+# migrated from data.php line 23431
+edition = 15
+title = "15th International Workshop on Quantitative Aspects of Programming Languages and Systems"
+url = "http://qapl17.doc.ic.ac.uk"
+
+[event]
+start = 2017-04-23
+city = "Uppsala, Sweden"
+
+[submission]
+format = "12 pages EPTCS + appendix (regular) / 4 pages (ongoing)"
+paper = [2017-02-05, 2017-02-12]
+notification = [2017-03-10]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = """
+Co-located with ETAPS. Ongoing work will not be published. Following previous issues of QAPL, a special journal issue will be
+considered."""

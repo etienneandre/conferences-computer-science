@@ -1,0 +1,23 @@
+# migrated from data.php line 1755
+edition = 26
+title = "26th Asia-Pacific Software Engineering Conference"
+url = "https://seminar.utmspace.edu.my/apsec2019/"
+
+[event]
+start = 2019-12-02
+end = 2019-12-05
+city = "Putrajaya, Malaysia"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (research) / 6 pages (short) / posters (2 pages)"
+abstract = [2019-07-12]
+paper = [2019-07-12]
+notification = [2019-09-12]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Deadline AoE. A selective set of accepted papers will be invited by the Program Committee to submit an extended version for publication in the special issue of Elsevier’s Journal of Systems and Software (10 in 2014, 6 in 2016)."

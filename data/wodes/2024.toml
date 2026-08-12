@@ -1,0 +1,21 @@
+# migrated from data.php line 34332
+edition = 17
+title = "17th IFAC Workshop on Discrete Event Systems"
+url = "https://wodes2024.eventos.ufrj.br/"
+
+[event]
+start = 2024-04-29
+end = 2024-05-01
+city = "Rio de Janeiro, Brazil"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2024-01-07]
+notification = [2024-02-11]
+
+[proceedings]
+publisher = "ScienceDirect (Elsevier)"
+license = "pay-profit"
+
+[review]
+award = "Best student paper award."

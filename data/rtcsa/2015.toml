@@ -1,0 +1,22 @@
+# migrated from data.php line 24838
+edition = 21
+title = "21st IEEE International Conference on Embedded and Real-Time Computing Systems and Applications"
+url = "http://www.comp.hkbu.edu.hk/~rtcsa2015/"
+
+[event]
+start = 2015-08-19
+end = 2015-08-21
+city = "Hong Kong, China"
+
+[submission]
+tz = "UTC-12"
+format = "10 pages IEEE 2 columns"
+paper = [2015-04-14]
+notification = [2015-05-22]
+
+[proceedings]
+publisher = "IEEE Xplore"
+license = "pay"
+
+[extra]
+notes = "Deadline UTC-12. 3 tracks: embedded systems, real-time systems, and SYSTEM DESIGN PRACTICE AND EMERGING APPLICATIONS TRACK. Also a work-in-Progress Session (deadline: June 25th)."

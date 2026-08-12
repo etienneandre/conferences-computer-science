@@ -1,0 +1,22 @@
+# migrated from data.php line 30556
+edition = 22
+title = "22nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "http://www.etaps.org/index.php/2016/tacas"
+
+[event]
+start = 2016-04-02
+end = 2016-04-08
+city = "Eindhoven, The Netherlands"
+
+[submission]
+format = "15 pages LNCS + 2 pages bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
+abstract = [2015-10-09]
+paper = [2015-10-16]
+notification = [2015-12-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc."

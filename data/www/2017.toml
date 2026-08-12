@@ -1,0 +1,22 @@
+# migrated from data.php line 34727
+edition = 26
+title = "26th International World Wide Web Conference"
+url = "http://www.www2017.com.au/"
+
+[event]
+start = 2017-04-03
+end = 2017-04-07
+city = "Perth, Western Australia"
+
+[submission]
+format = "8 pages ACM SIG 2 columns (+ references)"
+abstract = [2016-10-19]
+paper = [2016-10-24]
+notification = [2016-12-21]
+
+[proceedings]
+publisher = "ACM Digital Library + conference Web site"
+license = "free-copy"
+
+[extra]
+notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…). Deadlines all Hawaii Standard Time."

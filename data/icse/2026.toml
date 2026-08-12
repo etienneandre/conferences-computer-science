@@ -1,0 +1,25 @@
+# migrated from data.php line 15976
+edition = 48
+title = "48th International Conference on Software Engineering"
+url = "https://conf.researchr.org/home/icse-2026"
+
+[event]
+start = 2025-04-12
+end = 2025-04-18
+city = "Rio de Janeiro, Brazil"
+
+[submission]
+format = "10 pages ACM + 2p references"
+abstract = [2025-07-18]
+paper = [2025-07-18]
+notification = [2025-12-19]
+
+[proceedings]
+publisher = "ACM open"
+license = "free"
+
+[review]
+blind = "double"
+
+[extra]
+notes = "ICSE 2026 will follow a dual deadline structure introduced in 2024. Revisions, rebuttal. Also a doctoral symposium, tutorials, demos, and other events."

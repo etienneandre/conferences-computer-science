@@ -1,0 +1,23 @@
+# migrated from data.php line 30656
+edition = 26
+title = "26th International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "https://etaps.org/2020/tacas"
+
+[event]
+start = 2020-04-25
+end = 2020-05-01
+city = "Dublin, Ireland"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
+abstract = [2019-10-24]
+paper = [2019-10-24]
+notification = [2019-12-23]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Each individual author is limited to a maximum of three submissions as an author or co-author. ETAPS: Multi-conference including ESOP, FASE, FOSSACS, TACAS, etc. Rebuttal for selected papers: 9 December 00:01 AoE - 10 December 23:59 AoE."

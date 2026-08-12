@@ -1,0 +1,22 @@
+# migrated from data.php line 1351
+edition = 23
+title = "23e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "https://gdrgpl2024.sciencesconf.org/"
+
+[event]
+start = 2024-06-03
+end = 2024-06-06
+city = "Strasbourg, France"
+
+[submission]
+format = "8 pages (original) / 4 pages (PhD) / 4 pages (tools) / 4 pages (projects) / 4 pages (long abstract)"
+abstract = [2024-04-05]
+paper = [2024-04-19]
+notification = [2024-05-21]
+
+[proceedings]
+publisher = "arXiv"
+license = "free"
+
+[extra]
+notes = "In French."

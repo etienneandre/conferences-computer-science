@@ -1,0 +1,19 @@
+# migrated from data.php line 1978
+edition = 2
+title = "2nd International Workshop on Applied Verification for Continuous and Hybrid Systems"
+url = "http://cps-vo.org/group/ARCH/"
+
+[event]
+start = 2015-04-13
+city = "Seattle, WA, USA"
+
+[submission]
+format = "3-8 pages (Benchmark papers, tool presentations, tool executions, experience reports)"
+paper = [2015-03-14]
+notification = [2015-03-24]
+
+[proceedings]
+publisher = "Web page?"
+
+[extra]
+notes = "Part of CPSWeek in Seattle. The paper with the most promising benchmark results receives a prize of 500€ sponsored by Robert Bosch GmbH, Germany. The winner is preselected by the program committee and determined by an audience voting."

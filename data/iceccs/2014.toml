@@ -1,0 +1,26 @@
+# migrated from data.php line 14272
+edition = 19
+title = "19th International Conference on Engineering of Complex Computer Systems"
+url = "http://cs.tju.edu.cn/iceccs/2014/"
+
+[event]
+start = 2014-08-04
+end = 2014-08-07
+city = "Tianjin, China"
+
+[submission]
+format = "IEEE 10 pages (Technical Papers and Experience Reports) / 2 pages (posters)"
+abstract = [2014-03-07]
+paper = [2014-03-14]
+notification = [2014-04-22]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[stats]
+rate = 46.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence:TCCI in 2012."

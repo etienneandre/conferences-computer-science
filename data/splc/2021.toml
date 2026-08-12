@@ -1,0 +1,22 @@
+# migrated from data.php line 29362
+edition = 25
+title = "25th International Systems and Software Product Line Conference"
+url = "http://splc2021.net/"
+
+[event]
+start = 2021-09-06
+end = 2021-09-11
+online = true
+
+[submission]
+format = "12 pages ACM + references (full) / 7 pages (short)"
+abstract = [2021-04-16]
+paper = [2021-04-23]
+notification = [2021-06-04]
+
+[proceedings]
+publisher = "ACM digital library"
+license = "acm"
+
+[extra]
+notes = "There will be two best paper awards. Optional artifact evaluation."

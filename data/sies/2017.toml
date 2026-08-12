@@ -1,0 +1,21 @@
+# migrated from data.php line 28523
+edition = 12
+title = "12th IEEE International Symposium on Industrial Embedded Systems"
+url = "http://sies2017.onera.fr"
+
+[event]
+start = 2017-06-07
+end = 2017-06-09
+city = "Toulouse, France"
+
+[submission]
+format = "6 to 10 pages IEEE (long), 4 pages (work in progress)"
+paper = [2017-03-03, 2017-03-19]
+notification = [2017-04-20]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Also features a work in progress session (Deadline: April 24th)."

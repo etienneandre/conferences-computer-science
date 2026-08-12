@@ -1,0 +1,21 @@
+# migrated from data.php line 30889
+edition = 9
+title = "9th International Conference on Tests & Proofs"
+url = "http://tap2015.in.tum.de/"
+
+[event]
+dates_text = "July 2015"
+city = "L’Aquila, Italy"
+
+[submission]
+format = "16 pages LNCS (research) / 6 pages (short) / 3 pages (tutorial)"
+abstract = [2015-02-13]
+paper = [2015-02-20]
+notification = [2015-04-13]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Part of the Staf Conference Series"

@@ -1,0 +1,22 @@
+# migrated from data.php line 33242
+edition = 23
+title = "23rd International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://popl22.sigplan.org/home/VMCAI-2022"
+
+[event]
+start = 2022-01-16
+end = 2022-01-18
+city = "Philadelphia, Pennsylvania, United States"
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix (regular / case studies) / 12 pages + references (tool)"
+paper = [2021-09-02]
+notification = [2021-10-07]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with POPL. Authors are strongly encouraged to make their tools publicly available and submit an artifact."

@@ -1,0 +1,22 @@
+# migrated from data.php line 20385
+edition = 41
+title = "41st International Symposium on Mathematical Foundations of Computer Science"
+url = "http://mfcs.ki.agh.edu.pl"
+
+[event]
+start = 2016-08-22
+end = 2016-08-26
+city = "Krakow, Poland"
+
+[submission]
+format = "12 pages LIPIcs (including bilbiography)"
+abstract = [2016-04-21]
+paper = [2016-04-25]
+notification = [2016-06-05]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Appendix allowed. Firm deadline. EATCS sponsors a best paper award and a best student paper award."

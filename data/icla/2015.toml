@@ -1,0 +1,21 @@
+# migrated from data.php line 15034
+edition = 6
+title = "6th Indian Conference on Logic and its Applications"
+url = "http://www.cse.iitb.ac.in/~icla15/"
+
+[event]
+start = 2015-01-08
+end = 2015-01-10
+city = "Bombay, India"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2014-08-05, 2014-08-12]
+notification = [2014-09-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "In 2011, some papers were accepted for presentation but not in proceedings. A limited number of registration waivers are available for Indian participants. Every two years."

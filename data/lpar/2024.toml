@@ -1,0 +1,22 @@
+# migrated from data.php line 19794
+edition = 25
+title = "25th International Conference on Logic for Programming, Artificial Intelligence and Reasoning"
+url = "https://easychair.org/smart-program/LPAR2024/"
+
+[event]
+start = 2024-05-26
+end = 2024-05-31
+city = "Mauritius"
+
+[submission]
+format = "regular (15 pages EasyChair + references + appendix); tool / experimental (8)"
+abstract = [2024-02-16]
+paper = [2024-02-23]
+notification = [2024-04-01]
+
+[proceedings]
+publisher = "EPiC Series in Computing"
+license = "free"
+
+[review]
+blind = "single"

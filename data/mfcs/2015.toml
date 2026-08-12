@@ -1,0 +1,21 @@
+# migrated from data.php line 20363
+edition = 40
+title = "40th International Symposium on Mathematical Foundations of Computer Science"
+url = "http://mfcs2015.di.unimi.it/"
+
+[event]
+start = 2015-08-24
+end = 2015-08-28
+city = "Milano, Italy"
+
+[submission]
+format = "12 pages LNCS (including bilbiography)"
+paper = [2015-04-22]
+notification = [2015-06-03]
+
+[proceedings]
+publisher = "Springer LNCS ARCoSS"
+license = "pay-profit"
+
+[extra]
+notes = "Appendix allowed. Firm deadline."

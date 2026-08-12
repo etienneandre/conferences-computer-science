@@ -1,0 +1,22 @@
+# migrated from data.php line 8121
+edition = 25
+title = "25th International Symposium on Fundamentals of Computation Theory"
+url = "https://fct2025.cs.uni.wroc.pl/"
+
+[event]
+start = 2025-09-15
+end = 2025-09-17
+city = "Wrocław, Poland"
+
+[submission]
+tz = "AoE"
+format = "12 pages LNCS + references"
+paper = [2025-05-06]
+notification = [2025-06-30]
+
+[proceedings]
+publisher = "Springer LNCS ARCoSS"
+license = "pay-profit"
+
+[extra]
+notes = "Every two days."

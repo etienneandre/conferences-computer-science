@@ -1,0 +1,25 @@
+# APSEC — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "APSEC"
+name = "Asia-Pacific Software Engineering Conference"
+
+[core]
+id = "186"
+
+# TODO: verify — derived from per-edition values, which recorded
+# the rank known at data-entry time, not the rank then in force.
+[[core.history]]
+from = 2015
+rank = "B"
+
+[[core.history]]
+from = 2025
+rank = "C"
+
+[links]
+dblp = "apsec"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "30% (55 research + 12 industry / 226) / 31% (55+12+4 / 226 including short papers) in 2014; 29% (42/144 long papers in research track) / 26% (9/34 in industry track) in 2015; 21.4% (42/196 long papers) / 29.6% (24+16 / 196, including poster papers) in 2016"  # from APSEC 2025
+extensions = "one week (2013), firm (2017), 14 days (2020, 2021), 1 week (2023)"  # from APSEC 2025

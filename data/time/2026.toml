@@ -1,0 +1,28 @@
+# migrated from data.php line 32085
+edition = 33
+title = "33rd International Symposium on Temporal Representation and Reasoning"
+url = "https://time26.cnr.it/"
+
+[event]
+start = 2026-09-01
+end = 2026-09-03
+city = "Cork, Ireland"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ references + appendix) for original/survey, 4 pages for extended abstracts"
+abstract = [2026-05-06, 2026-05-18]
+paper = [2026-05-11, 2026-05-22]
+notification = [2026-06-22]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[review]
+blind = "single"
+diversity = "mixed"
+
+[extra]
+journal = "The authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in a high ranked journal; more details will be provided in due time."
+colocated = "Co-located with the 37th International Conference on Principles of Diagnosis and Resilient Systems (DX’26)"

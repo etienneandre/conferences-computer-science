@@ -1,0 +1,22 @@
+# migrated from data.php line 25253
+edition = 26
+title = "26th International Conference on Real-Time Networks and Systems"
+url = "https://rtns2018.ensma.fr"
+
+[event]
+start = 2018-10-10
+end = 2018-10-12
+city = "Poitiers, France"
+
+[submission]
+tz = "UTC-12"
+format = "10 pages ACM 2 columns"
+paper = [2018-06-26, 2018-07-10]
+notification = [2018-08-03, 2018-08-17]
+
+[proceedings]
+publisher = "ACM ICPS"
+license = "acm"
+
+[extra]
+notes = "Always in France (?). A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems (Springer). Prizes will be awarded for best paper. RTNS 2018 will have the artifact evaluation for the accepted papers, to enable reproducible research."

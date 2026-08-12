@@ -1,0 +1,26 @@
+# migrated from data.php line 25183
+edition = 23
+title = "23rd International Conference on Real-Time Networks and Systems"
+url = "http://rtns2015.lifl.fr/"
+
+[event]
+start = 2015-11-04
+end = 2015-11-06
+city = "Lille, France"
+
+[submission]
+format = "10 pages ACM 2 columns"
+paper = [2015-07-24]
+notification = [2015-09-01]
+
+[proceedings]
+publisher = "ACM ICPS"
+license = "acm"
+
+[stats]
+accepted = 31
+submitted = 66
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "No deadline extension (2014, 2015). A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems. Prizes will be awarded for best paper, best student paper, and best presentation."

@@ -1,0 +1,17 @@
+# migrated from data.php line 10133
+edition = 1
+title = "FORmal MOdeling and VErification of Service-based systems"
+url = "http://lipn.univ-paris13.fr/for-moves/"
+
+[event]
+start = 2014-11-03
+city = "Paris, France"
+
+[submission]
+format = "8-12 pages LNCS"
+paper = [2014-08-25]
+notification = [2014-09-15]
+
+[proceedings]
+publisher = "No formal proceedings (PDF online)"
+license = "free"

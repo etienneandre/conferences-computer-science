@@ -1,0 +1,22 @@
+# migrated from data.php line 26107
+edition = 21
+title = "21st International Conference on Runtime Verification"
+url = "https://www.cs.bgu.ac.il/~rv21/"
+
+[event]
+start = 2021-10-11
+end = 2021-10-14
+online = true
+
+[submission]
+format = "regular (16 pages LNCS + references) / short (8 pages) / tool demonstration (8 pages)"
+abstract = [2021-05-13, 2021-05-24]
+paper = [2021-05-20, 2021-05-31]
+notification = [2021-07-12, 2021-07-19]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The Program Committee of RV 2021 will give a Springer-sponsored Best Paper Award to one eligible regular paper. The Program Committee of RV 2021 will invite a selection of accepted papers to submit extended versions to a special issue of the International Journal on Software Tools for Technology Transfer (STTT)."

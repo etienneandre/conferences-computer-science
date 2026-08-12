@@ -1,0 +1,20 @@
+# migrated from data.php line 5412
+edition = 2
+title = "Dynamic Logic: new trends and applications"
+url = "https://workshop.dali.di.uminho.pt/"
+
+[event]
+start = 2019-10-09
+city = "Porto, Portugal"
+
+[submission]
+format = "15 pages LNCS"
+paper = [2019-06-28]
+notification = [2019-07-19]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Workshop co-located with FM-Week. Extended versions of the DaLí contributions will be invited to a special issue in the Journal of Logic and Algebraic Methods in Programming, Elsevier. Extended abstracts with preliminarily results and work in progress (2-5 pag) are also welcomed for short presentations."

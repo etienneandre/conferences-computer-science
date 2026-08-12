@@ -1,0 +1,23 @@
+# migrated from data.php line 14457
+edition = 25
+title = "25th International Conference on Engineering of Complex Computer Systems"
+url = "https://formal-analysis.com/iceccs/2020/"
+
+[event]
+start = 2020-10-28
+end = 2020-10-31
+online = true
+
+[submission]
+tz = "AoE"
+format = "IEEE 10 pages (Technical Papers and Experience Reports) / 4 pages (short)"
+abstract = [2020-05-22, 2020-06-03]
+paper = [2020-05-29, 2020-06-10]
+notification = [2020-07-25, 2020-08-01]
+
+[proceedings]
+publisher = "IEEE Conference Publishing Services"
+license = "pay"
+
+[extra]
+notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence (TCCI) in 2012."

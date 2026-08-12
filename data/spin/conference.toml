@@ -1,0 +1,14 @@
+# SPIN — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "SPIN"
+name = "International Symposium on Model Checking Software"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "spin"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "1 week in 2013, none in 2014, 11 days in 2015, 7 days in 2017, 8+34 days in 2018, 51 days in 2021, 7 days (2024)"  # from SPIN 2026

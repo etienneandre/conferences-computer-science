@@ -1,0 +1,28 @@
+# migrated from data.php line 20520
+edition = 49
+title = "49th International Symposium on Mathematical Foundations of Computer Science"
+url = "http://www.mfcs.sk/"
+
+[event]
+start = 2024-08-26
+end = 2024-08-30
+city = "Bratislava, Slovakia"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ references)"
+abstract = [2024-04-26]
+paper = [2024-04-26]
+notification = [2024-06-24]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 80
+submitted = 239
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Appendix allowed. Selected articles will be invited to a special issue of Information and Computation."

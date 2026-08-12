@@ -1,0 +1,26 @@
+# migrated from data.php line 25460
+edition = 33
+title = "33rd International Conference on Real-Time Networks and Systems"
+url = "https://rtns2025.retis.santannapisa.it/"
+
+[event]
+start = 2025-11-05
+end = 2025-11-07
+city = "Pisa, Italy"
+
+[submission]
+format = "20 pages LNCS"
+abstract = [2025-05-29]
+paper = [2025-05-29]
+notification = [2025-07-24]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+award = "Best papers and best student papers awards will be presented at the conference, along with an award for the best presentation"
+
+[extra]
+journal = "Authors of outstanding papers will be invited to submit an extended version of their work for a special issue of Springer Real-Time Systems journal"
+notes = "3 rounds of submissions in 2024 and 2025 (January, May, and August). Two rounds in 2022 (September 2022 and January 2023)."

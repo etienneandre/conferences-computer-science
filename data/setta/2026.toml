@@ -1,0 +1,25 @@
+# migrated from data.php line 28421
+edition = 12
+title = "12th International Symposium on Dependable Software Engineering: Theories, Tools and Applications"
+
+[event]
+start = 2026-12-02
+end = 2026-12-04
+city = "Singapore"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references"
+paper = [2026-05-10, 2026-05-24]
+notification = [2026-06-30, 2026-07-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "double"
+
+[extra]
+journal = "Selected papers will be invited for extended versions in a reputable journal special issue."
+notes = "Two rounds of submissions."

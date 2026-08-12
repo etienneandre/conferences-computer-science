@@ -1,0 +1,22 @@
+# migrated from data.php line 6760
+edition = 24
+title = "European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering"
+url = "http://esec-fse17.uni-paderborn.de/"
+
+[event]
+start = 2017-09-06
+end = 2017-09-08
+city = "Paderborn, Germany"
+
+[submission]
+format = "10+1 pages ACM SIG"
+abstract = [2017-02-17]
+paper = [2017-02-27]
+notification = [2017-06-02]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Lightweight double-blind review process. Also tutorials, doctoral symposium, tool demos and others. Author response period: May 1 — May 4, 2017."

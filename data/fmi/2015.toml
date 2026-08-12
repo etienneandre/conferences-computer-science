@@ -1,0 +1,22 @@
+# migrated from data.php line 8974
+edition = 3
+title = "The 3rd IEEE International Workshop on Formal Methods Integration"
+url = "http://www.ieee-iri.org"
+
+[event]
+start = 2015-08-12
+end = 2015-08-14
+city = "San Francisco, USA"
+
+[submission]
+format = "8 pages IEEE"
+abstract = [2015-04-07, 2015-05-12]
+paper = [2015-04-15, 2015-05-12]
+notification = [2015-05-20, 2015-06-15]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "In conjunction with the 16th IEEE IRI 2015."

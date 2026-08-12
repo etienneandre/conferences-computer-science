@@ -1,0 +1,5 @@
+# ACCESS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ACCESS"
+name = "International Congress on Advances in Citizen, Cyberspace & Environment Safety and Security"
+defunct = "seemingly"

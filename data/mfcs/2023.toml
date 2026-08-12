@@ -1,0 +1,28 @@
+# migrated from data.php line 20497
+edition = 48
+title = "48th International Symposium on Mathematical Foundations of Computer Science"
+url = "https://mfcs2023.labri.fr/"
+
+[event]
+start = 2023-08-28
+end = 2023-09-01
+city = "Bordeaux, France"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ bibliography)"
+abstract = [2023-04-24]
+paper = [2023-04-28]
+notification = [2023-06-27]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 84
+submitted = 209
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Appendix allowed."

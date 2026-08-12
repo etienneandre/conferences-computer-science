@@ -1,0 +1,17 @@
+# migrated from data.php line 627
+edition = 6
+title = "Sixth Asian Conference on Information Systems"
+url = "http://www.rupp.edu.kh/acis2017/"
+
+[event]
+start = 2017-12-12
+end = 2017-12-14
+city = "Phnom Penh, Cambodia"
+
+[submission]
+format = "8 pages IEEJ (regular) / 4 pages (short/poster)"
+paper = [2017-06-10, 2017-07-10]
+notification = [2017-08-15]
+
+[proceedings]
+publisher = "IEEJ"

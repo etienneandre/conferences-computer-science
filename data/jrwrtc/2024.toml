@@ -1,0 +1,27 @@
+# migrated from data.php line 18619
+edition = 17
+title = "17th Junior Researcher Workshop on Real-Time Computing"
+url = "https://cister-labs.pt/rtns24/jrwrtc"
+
+[event]
+start = 2024-11-06
+end = 2024-11-08
+city = "Porto, Portugal"
+
+[submission]
+format = "4 pages IEEE + references"
+abstract = [2024-10-03]
+paper = [2024-10-08]
+notification = [2024-10-18]
+
+[proceedings]
+publisher = "PDF"
+license = "free"
+
+[review]
+diversity = "mixed"
+award = "JRWRTC 2024 Best Paper Award."
+
+[extra]
+colocated = "In conjunction with RTNS 2024."
+notes = "Must be co-authored by at least one junior (PhD student or post-doc) researcher."

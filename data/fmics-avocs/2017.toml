@@ -1,0 +1,22 @@
+# migrated from data.php line 2848
+edition = 17
+title = "International Workshop on Formal Methods for Industrial Critical Systems (FMICS) and 17th International Workshop on Automated Verification of Critical Systems (AVoCS)"
+url = "http://www.es.mdh.se/conferences/fmics-avocs-2017/"
+
+[event]
+start = 2017-09-18
+end = 2017-09-20
+city = "Torino, Italy"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2017-05-14, 2017-05-21]
+paper = [2017-05-21, 2017-05-28]
+notification = [2017-06-26, 2017-06-28]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Colocated with iFM. Authors of the best full papers will be invited to submit extended versions to a special issue of the International Journal on Software Tools for Technology Transfer. Studentships for PhD in 2013."

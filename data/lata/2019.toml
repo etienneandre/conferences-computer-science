@@ -1,0 +1,22 @@
+# migrated from data.php line 18993
+edition = 13
+title = "13th international conference on language and automata theory and applications"
+url = "http://lata2019.irdta.eu/"
+
+[event]
+start = 2019-03-25
+end = 2019-03-29
+city = "Saint Petersburg, Russia"
+
+[submission]
+tz = "AoE"
+format = "12 pages Springer (including appendix+ref)"
+paper = [2018-11-11, 2018-11-18]
+notification = [2018-12-16]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A special issue of a journal will be later published containing peer-reviewed substantially extended versions of some of the papers contributed to the conference."

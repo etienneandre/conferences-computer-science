@@ -1,0 +1,23 @@
+# migrated from data.php line 31570
+edition = 18
+title = "18th International Symposium on Theoretical Aspects of Software Engineering"
+url = "https://tase2024.github.io/"
+
+[event]
+start = 2024-07-29
+end = 2024-08-01
+city = "Guiyang City, China"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (long) / 6 pages (short)"
+abstract = [2024-02-17, 2024-02-27]
+paper = [2024-02-24, 2024-03-05]
+notification = [2024-04-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Ranked \"national Chinese conference\" by CORE (since 2020). The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Often in China."

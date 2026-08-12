@@ -1,0 +1,22 @@
+# migrated from data.php line 19385
+edition = 25
+title = "25th International Symposium on Logic-Based Program Synthesis and Transformation"
+url = "http://alpha.diism.unisi.it/lopstr15/"
+
+[event]
+start = 2015-07-13
+end = 2015-07-15
+city = "Siena, Italy"
+
+[submission]
+format = "15 pages Springer + Appendix"
+abstract = [2015-04-26]
+paper = [2015-05-02]
+notification = [2015-06-02]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Full papers can be directly accepted for publication in the formal proceedings, or accepted only for presentation at the symposium and inclusion in informal proceedings (and then possibly accepted after another round)."

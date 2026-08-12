@@ -1,0 +1,27 @@
+# migrated from data.php line 32803
+edition = 14
+title = "14th International Conference on Verification and Evaluation of Computer and Communication Systems"
+url = "http://vecos-world.org/2020/"
+
+[event]
+start = 2020-09-24
+end = 2020-09-25
+city = "Xi’an, China"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS"
+paper = [2020-05-18, 2020-06-08, 2020-07-26]
+notification = [2020-06-12, 2020-06-29, 2020-08-24]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay"
+
+[stats]
+accepted = 20
+submitted = 60
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Authors of selected papers will be invited to submit extended article versions to a special issue of an index journal (ISSE or IJCCBS)."

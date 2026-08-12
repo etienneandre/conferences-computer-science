@@ -1,0 +1,23 @@
+# migrated from data.php line 17946
+edition = 33
+title = "33rd IEEE International Symposium on Software Reliability Engineering"
+url = "https://issre.net/"
+
+[event]
+start = 2022-10-24
+end = 2022-10-27
+city = "Charlotte, NC, USA (hybrid)"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE + 2 references (research / experience reports) / 6-10 pages (tools and artifact)"
+abstract = [2022-05-13]
+paper = [2022-05-20]
+notification = [2022-07-29]
+
+[proceedings]
+publisher = "IEEE (?)"
+license = "pay"
+
+[extra]
+notes = "Double-blind. Rebuttal: 7-9 July 2022. Moved from Wuhan (China) to Coimbra, Portugal in 2020 due to coronavirus."

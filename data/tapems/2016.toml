@@ -1,0 +1,21 @@
+# migrated from data.php line 31239
+edition = 1
+title = "1st International Workshop on Theoretical Approaches to Performance Evaluation, Modeling and Simulation"
+url = "http://tapems.unex.es/tapems2016"
+
+[event]
+start = 2016-12-14
+end = 2016-12-16
+city = "Granada, Spain"
+
+[submission]
+format = "14 pages"
+paper = [2016-06-15]
+notification = [2016-09-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Special Issue in an International Journal with extended versions of a selection of received and presented quality papers."

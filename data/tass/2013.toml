@@ -1,0 +1,18 @@
+# migrated from data.php line 31695
+title = "Workshop on Timing Analysis and Synthesis for Synchronous Models"
+url = "http://www.cyphy.ece.mcgill.ca/TASS2013"
+
+[event]
+start = 2013-12-03
+city = "Vancouver, Canada"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2013-10-11]
+notification = [2013-10-31]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Satellite of RTSS. Must be original, but non necessarily fully developed. Position papers acceptable."

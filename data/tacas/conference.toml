@@ -1,0 +1,22 @@
+# TACAS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "TACAS"
+name = "International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+
+[core]
+id = "1818"
+rank = "A"  # TODO: verify
+
+[links]
+dblp = "tacas"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = """
+In 2003: 25% (35/140) for research papers, 30% (6/20) for tool demos, 27% for all full papers.
+	In 2004: 26% (37/145) for research papers, 35% (6/17) for tool demos, 27% for all full papers.
+	In 2014: 22% (26/117) for research papers, 27% (3/11) for case studies, 33% (6/18) for tools, 47% (7/15) for tool demos, 24% for all full papers.
+	In 2015: 27% (45/164), 26% for research papers (27/105).
+In 2019: 30% (50/164): 29 research papers, 2 case study papers, 11 regular tool papers, and 8 tool demo papers.
+In 2021: 33% (41 research+6 tool/141)."""  # from TACAS 2026
+extensions = "Firm deadline (2026)"  # from TACAS 2026

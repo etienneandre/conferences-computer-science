@@ -1,0 +1,19 @@
+# migrated from data.php line 22517
+title = "International Workshop on Petri Nets and Software Engineering"
+url = "http://www.informatik.uni-hamburg.de/TGI/events/pnse19/"
+
+[event]
+start = 2019-06-24
+end = 2019-06-25
+city = "Aachen, Germany"
+
+[submission]
+format = "LNCS 20 pages (full) although 15 pages preferred / 5 pages (short) / 2 (ongoing, poster)"
+paper = [2019-03-30]
+notification = [2019-04-25]
+
+[proceedings]
+publisher = "CEUR-WS"
+
+[extra]
+notes = "A satellite event of Petri Nets and ACSD. Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."

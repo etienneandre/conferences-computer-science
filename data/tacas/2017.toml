@@ -1,0 +1,22 @@
+# migrated from data.php line 30578
+edition = 23
+title = "23rd International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "http://www.etaps.org/index.php/2017/tacas"
+
+[event]
+start = 2017-04-22
+end = 2017-04-29
+city = "Uppsala, Sweden"
+
+[submission]
+format = "15 pages LNCS + 2 pages bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
+abstract = [2016-10-14]
+paper = [2016-10-21]
+notification = [2016-12-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "ETAPS: Multi-conference including ESOP, FASE, FOSSACS, POST, TACAS, etc."

@@ -1,0 +1,21 @@
+# migrated from data.php line 34542
+edition = 18
+title = "18th International Workshop on Termination"
+url = "https://sws.cs.ru.nl/WST2022"
+
+[event]
+start = 2022-08-11
+end = 2022-08-12
+city = "Haifa, Israel"
+
+[submission]
+format = "5 pages LIPIcs"
+paper = [2022-05-03, 2022-05-10]
+notification = [2022-06-08, 2022-06-15]
+
+[proceedings]
+publisher = "Web page"
+license = "free"
+
+[extra]
+notes = "Co-located with IJCAR-11 at FLoC 2022. Informal proceedings (earlier / concurrent / later submission allowed). Live complexity and termination competition during the workshop. Every one or two years. Cancelled in 2020."

@@ -1,0 +1,21 @@
+# migrated from data.php line 28549
+edition = 13
+title = "13th IEEE International Symposium on Industrial Embedded Systems"
+url = "http://sies2018.tugraz.at"
+
+[event]
+start = 2018-06-06
+end = 2018-06-08
+city = "Graz, Austria"
+
+[submission]
+format = "6 to 10 pages IEEE (long), 4 pages (work in progress)"
+paper = [2018-02-25, 2018-03-11]
+notification = [2018-04-04]
+
+[proceedings]
+publisher = "IEEE eXplore"
+license = "pay"
+
+[extra]
+notes = "Also features a work in progress session (Deadline: April 24th). A special section in IEEE Transaction on Industrial Informatics (IF of 4.708) will be organized based on selected papers from the SIES 2018 symposium."

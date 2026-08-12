@@ -1,0 +1,19 @@
+# migrated from data.php line 10995
+edition = 8
+title = "8th Working Formal Methods Symposium"
+url = "https://from2024.uvt.ro/from2024/"
+
+[event]
+start = 2024-09-16
+end = 2024-09-18
+city = "Timișoara, Romania"
+
+[submission]
+format = "16 pages EPTCS / 8 pages (short)"
+abstract = [2024-06-30]
+paper = [2024-06-30]
+notification = [2024-07-19]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"

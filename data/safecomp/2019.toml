@@ -1,0 +1,22 @@
+# migrated from data.php line 26857
+edition = 38
+title = "38th International Conference on Computer Safety, Reliability and Security"
+url = "https://conferences.ncl.ac.uk/safecomp2019/"
+
+[event]
+start = 2019-09-10
+end = 2019-09-13
+city = "Turku, Finland"
+
+[submission]
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / fast abstract and work in progress (2 pages)"
+abstract = [2019-02-14, 2019-02-17]
+paper = [2019-02-17, 2019-02-27]
+notification = [2019-04-30]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Best papers invited in a special issue of a safety-related international journal. 2018 SPECIAL THEME: Cross and intra domain reuse of engineering and certification artefacts: challenges and opportunities."

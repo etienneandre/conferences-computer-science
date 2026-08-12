@@ -1,0 +1,10 @@
+# CIBB — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "CIBB"
+name = "International Conference on Autonomous Agents and Multiagent Systems"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+wikipedia = "International_Conference_on_Computational_Intelligence_Methods_for_Bioinformatics_and_Biostatistics"

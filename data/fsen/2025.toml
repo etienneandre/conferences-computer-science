@@ -1,0 +1,26 @@
+# migrated from data.php line 11361
+edition = 11
+title = "Eleventh International Conference on Fundamentals of Software Engineering 2025 - Theory and Practice"
+url = "https://conf.researchr.org/home/fsen-2025"
+
+[event]
+start = 2025-04-07
+end = 2025-04-08
+city = "Västerås, Sweden"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS including ref (full) / 6 pages (short)"
+abstract = [2024-10-07, 2024-10-21]
+paper = [2024-10-14, 2024-10-28]
+notification = [2024-12-02]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+diversity = "mixed"
+
+[extra]
+journal = "Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN 2025 (to be confirmed)."

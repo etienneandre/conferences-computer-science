@@ -1,0 +1,21 @@
+# migrated from data.php line 18827
+edition = 11
+title = "11th International Conference on Knowledge and Systems Engineering"
+url = "http://kse2019.ued.udn.vn/"
+
+[event]
+start = 2019-10-24
+end = 2019-10-26
+city = "Đà Nẵng, Việt Nam"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2019-05-15, 2019-06-15]
+notification = [2019-07-30]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Notification extension: 5+4 days in 2015 (with notification on the initial notification date…), 7 days (2016). Accepted papers with high quality will be invited to submit to a special issue of KSE 2016 in high quality scientific journals."

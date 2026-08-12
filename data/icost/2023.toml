@@ -1,0 +1,21 @@
+# migrated from data.php line 15419
+edition = 20
+title = "20th International Conference On Smart homes and health Telematics"
+url = "http://www.icost-society.org/"
+
+[event]
+start = 2023-07-07
+end = 2023-07-08
+city = "Wonju, South Korea"
+
+[submission]
+format = "12 pages LNCS (full)"
+paper = [2023-03-24, 2023-04-10]
+notification = [2023-05-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+journal = "Best papers will be nominated for publication in a special issue of MDPI’s Sensors Journal."

@@ -1,0 +1,27 @@
+# migrated from data.php line 18659
+edition = 18
+title = "18th Junior Researcher Workshop on Real-Time Computing"
+url = "https://rtns2025.retis.santannapisa.it/?page_id=1793"
+
+[event]
+start = 2025-11-05
+end = 2025-11-07
+city = "Pisa, Italy"
+
+[submission]
+format = "4 pages IEEE + references"
+abstract = [2054-10-03]
+paper = [2025-10-10]
+notification = [2025-10-20]
+
+[proceedings]
+publisher = "Booklet"
+license = "free"
+
+[review]
+diversity = "mixed"
+award = "The best JRWRTC paper will be awarded during the conference."
+
+[extra]
+colocated = "In conjunction with RTNS 2025."
+notes = "Must be co-authored by at least one junior (i.e., PhD student) researcher."

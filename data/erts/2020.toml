@@ -1,0 +1,21 @@
+# migrated from data.php line 6601
+edition = 10
+title = "10th European Congress on Embedded Real-time Systems"
+url = "https://www.erts2020.org/"
+
+[event]
+start = 2020-01-29
+end = 2020-01-31
+city = "Toulouse, France"
+
+[submission]
+format = "4 pages (extended abstract / short) / 10 pages (full, if abstract accepted)"
+abstract = [2019-06-09]
+paper = [2019-10-15]
+notification = [2019-11-10]
+
+[proceedings]
+publisher = "?"
+
+[extra]
+notes = "Notification after abstract submission: September 18th 2019."

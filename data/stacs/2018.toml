@@ -1,0 +1,21 @@
+# migrated from data.php line 29593
+edition = 35
+title = "35th International Symposium on Theoretical Aspects of Computer Science"
+url = "https://stacs2018.sciencesconf.org"
+
+[event]
+start = 2018-02-28
+end = 2018-03-03
+city = "Caen, France"
+
+[submission]
+format = "12 pages LIPIcs (+ ref + appendix)"
+paper = [2017-09-25]
+notification = [2017-12-11]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[extra]
+notes = "Rebuttal period: Nov 21-24, 2017. PC members are excluded from submitting."

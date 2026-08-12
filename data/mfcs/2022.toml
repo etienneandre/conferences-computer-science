@@ -1,0 +1,28 @@
+# migrated from data.php line 20474
+edition = 47
+title = "47th International Symposium on Mathematical Foundations of Computer Science"
+url = "https://ac.tuwien.ac.at/mfcs2022/"
+
+[event]
+start = 2022-08-22
+end = 2022-08-26
+city = "Vienne, Austria"
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ bilbiography)"
+abstract = [2022-04-22]
+paper = [2022-04-27]
+notification = [2022-06-21]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 78
+submitted = 221
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Appendix allowed."

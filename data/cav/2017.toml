@@ -1,0 +1,22 @@
+# migrated from data.php line 3236
+edition = 29
+title = "29th International Conference on Computer Aided Verification"
+url = "http://cavconference.org/2017/"
+
+[event]
+start = 2017-07-24
+end = 2017-07-28
+city = "Heidelberg Germany"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + ref + appendix (regular) / 6 pages LNCS + ref + appendix (tool)"
+paper = [2017-01-24]
+notification = [2017-04-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Deadlines are AoE. WARNING: Double-blind submissions (\"lightweight\"). Rebuttal phase (20-22nd March). Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers will be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

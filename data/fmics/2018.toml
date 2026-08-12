@@ -1,0 +1,22 @@
+# migrated from data.php line 9123
+edition = 23
+title = "23rd International Conference on Formal Methods for Industrial Critical Systems"
+url = "http://fmics2018.fi.muni.cz/"
+
+[event]
+start = 2018-09-03
+end = 2018-09-04
+city = "Maynooth University, Ireland"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2018-04-20, 2018-05-07]
+paper = [2018-04-27, 2018-05-11]
+notification = [2018-06-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with iFM. Selected participants will be invited to submit an extended version of their papers in a special issue of the journal of STTT after the workshop."

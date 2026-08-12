@@ -1,0 +1,22 @@
+# migrated from data.php line 29079
+edition = 26
+title = "26th International SPIN Symposium on Model Checking of Software"
+url = "https://conf.researchr.org/home/spin-2019"
+
+[event]
+start = 2019-07-15
+end = 2019-07-19
+city = "Beijing, China"
+
+[submission]
+tz = "AoE"
+format = "16 pages + references (technical) / 6 pages (short) + references / 4 pages (tool demo)"
+paper = [2019-04-05]
+notification = [2019-04-27]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Collocated with ISSTA 2019. Best Paper awards will be given and announced at the conference. Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."

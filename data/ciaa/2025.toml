@@ -1,0 +1,18 @@
+# migrated from data.php line 3898
+edition = 29
+title = "29th International Conference Implementation and Application of Automata"
+url = "https://ciaa2025.unipa.it/"
+
+[event]
+start = 2025-09-22
+end = 2025-09-25
+city = "Palermo, Italy"
+
+[submission]
+format = "12 pages LNCS + references + appendix"
+paper = [2025-05-03, 2025-05-16]
+notification = [2025-06-20, 2025-06-23]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

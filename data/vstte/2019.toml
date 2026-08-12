@@ -1,0 +1,27 @@
+# migrated from data.php line 33613
+edition = 11
+title = "11th Working Conference on Verified Software: Theories, Tools, and Experiments (VSTTE)"
+url = "https://sri-csl.github.io/VSTTE19/"
+
+[event]
+start = 2019-07-18
+end = 2019-07-19
+city = "New York City, USA"
+
+[submission]
+format = "16 pages LNCS + references (long) / 10 pages (short)"
+abstract = [2019-04-23]
+paper = [2019-04-29]
+notification = [2019-06-03]
+
+[proceedings]
+publisher = "LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 9
+submitted = 17
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Co-located with CAV 2019. Firm in 2019."

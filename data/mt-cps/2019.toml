@@ -1,0 +1,20 @@
+# migrated from data.php line 20913
+edition = 4
+title = "4th International Workshop on Monitoring and Testing of Cyber-Physical Systems"
+url = "https://sites.google.com/berkeley.edu/mt-cps2019/"
+
+[event]
+start = 2019-04-15
+city = "Montréal, Québec, Canada"
+
+[submission]
+format = "2 pages"
+paper = [2019-02-24]
+notification = [2019-03-17]
+
+[proceedings]
+publisher = "PDF"
+license = "free"
+
+[extra]
+notes = "Satellite of CPS-IoT Week 2019"

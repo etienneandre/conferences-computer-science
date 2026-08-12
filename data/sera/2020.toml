@@ -1,0 +1,21 @@
+# migrated from data.php line 27894
+edition = 18
+title = "18th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications"
+url = "http://acisinternational.org/conferences/sera-2020/"
+
+[event]
+start = 2020-11-30
+end = 2020-12-02
+city = "Kanazawa, Japan"
+
+[submission]
+format = "6-10 pages IEEE 2 columns"
+paper = [2020-08-21]
+notification = [2020-09-07]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Double blind. SERA 2015 cancelled due to security concerns in Tunisia. SERA 2020 postponed due to the coronavirus outbreak."

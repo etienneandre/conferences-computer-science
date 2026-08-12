@@ -1,0 +1,21 @@
+# migrated from data.php line 13624
+edition = 1
+title = "1st International Conference on Advanced Aspects of Software Engineering"
+url = "http://www.univ-constantine2.dz/icaase/"
+
+[event]
+start = 2014-11-02
+end = 2014-11-04
+city = "Constantine, Algeria"
+
+[submission]
+format = "8 pages in an MS Word special format"
+paper = [2014-05-15]
+notification = [2014-07-15, 2014-09-05]
+
+[proceedings]
+publisher = "CEUR-WS"
+license = "free"
+
+[extra]
+notes = "Distinguished papers from ICAASE’14 will be invited to submit a revised and extended version of their paper to a special issue of an International Journal of good repute."

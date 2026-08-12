@@ -1,0 +1,22 @@
+# migrated from data.php line 30716
+edition = 28
+title = "28th International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "https://etaps.org/2022/tacas"
+
+[event]
+start = 2022-04-02
+end = 2022-04-07
+city = "Munich, Germany"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
+paper = [2021-10-14]
+notification = [2021-12-23]
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Each individual author is limited to a maximum of four submissions as an author or co-author. Part of ETAPS 2022. Rebuttal for selected papers: 7 December 00:01 AoE - 9 December 23:59 AoE 2021. TACAS 2022 will host the next, 11th instance of the Competition on Software Verification, SV-COMP."

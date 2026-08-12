@@ -1,0 +1,21 @@
+# migrated from data.php line 17593
+edition = 23
+title = "23rd IEEE International Symposium on real-time computing"
+url = "https://isorc.github.io/2020/"
+
+[event]
+start = 2020-05-19
+end = 2020-05-21
+city = "Nashville, Tennessee, USA"
+
+[submission]
+format = "8 pages IEEE (regular / industrial / practitioner) / 4 pages IEEE (short research)"
+paper = [2020-01-17]
+notification = [2020-03-20]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Rebuttal period: March 9-11, 2020"

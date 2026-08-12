@@ -1,0 +1,16 @@
+# EuroMPI — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "EuroMPI"
+name = "EuroMPI Conference"
+
+[core]
+id = "505"
+rank = "C"  # TODO: verify
+
+[links]
+dblp = "pvm"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "48% (18/39) in 2014"  # from EuroMPI 2026
+extensions = "1 week (2014), 8 days (2015), 2 weeks (2016), 28 days (2017), 3 weeks (2018), 3+1 weeks (2020), 17 days (2023), 14 days (2025), 25 days (2026)"  # from EuroMPI 2026

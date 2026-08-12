@@ -1,0 +1,23 @@
+# migrated from data.php line 17915
+edition = 31
+title = "31st IEEE International Symposium on Software Reliability Engineering"
+url = "http://2020.issre.net/"
+
+[event]
+start = 2020-10-12
+end = 2020-10-15
+city = "Coimbra, Portugal"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE + 2 appendix/ref (research / experience reports) / 6-10 pages (tools and artifact)"
+abstract = [2020-05-18, 2020-05-26]
+paper = [2020-05-25, 2020-06-02]
+notification = [2020-07-28]
+
+[proceedings]
+publisher = "IEEE (?)"
+license = "pay"
+
+[extra]
+notes = "Double-blind. Rebuttal: 16-18 July 2020. Moved from Wuhan (China) to Coimbra, Portugal in 2020 due to coronavirus."

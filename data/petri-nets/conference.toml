@@ -1,0 +1,16 @@
+# Petri Nets — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "Petri Nets"
+name = "International Conference on Application and Theory of Petri Nets and Concurrency"
+
+[core]
+id = "1237"
+rank = "B"  # TODO: verify
+
+[links]
+dblp = "apn"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "31% (15+5+4 / 75) in 2008, 65% (15/23) for regular papers and 80% (8/10) for tool papers in 2018, 45% (17+4/38+9) in 2023, 45% (17+2 / 39+3) in 2024, 54% (22/41) in 2025"  # from Petri Nets 2026 (ICATPN)
+extensions = "7 days (2013, 2017, 2018), 0 in 2015, 10 days in 2019, 7 days in 2020, 14 days in 2021, 7 days in 2022, 2023, 2024, 2025, 9 days in 2026"  # from Petri Nets 2026 (ICATPN)

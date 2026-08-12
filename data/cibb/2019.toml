@@ -1,0 +1,21 @@
+# migrated from data.php line 3934
+edition = 16
+title = "16th International Conference on Autonomous Agents and Multiagent Systems"
+url = "http://www.cibb2019.it/"
+
+[event]
+start = 2019-09-04
+end = 2019-09-06
+city = "Bergamo, Italy"
+
+[submission]
+format = "4-6 pages"
+paper = [2019-05-01, 2019-05-15, 2019-06-09]
+notification = [2019-06-01, 2019-06-30, 2019-07-04]
+
+[proceedings]
+publisher = "PDF"
+license = "free"
+
+[extra]
+notes = "Authors of accepted papers will be invited to submit an extended version of their work to a post-conference monograph. We plan to invite all papers for a volume in the Springer series of Lecture Notes in Bioinformatics (LNBI). Continuing the tradition of CIBB, we also plan to invite the best papers, as an alternative to the publication on LNBI, to a special issue of an international scientific journal (such as BMC Bioinformatics, as in the latest editions)."

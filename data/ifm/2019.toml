@@ -1,0 +1,23 @@
+# migrated from data.php line 17040
+edition = 15
+title = "15th International Conference on integrated Formal Methods"
+url = "http://ifm2019.hvl.no/"
+
+[event]
+start = 2019-12-04
+end = 2019-12-06
+city = "Bergen, Norway"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS (research / regular / case study) / 8 pages (short tool)"
+abstract = [2019-06-24, 2019-07-01]
+paper = [2019-06-28, 2019-07-05]
+notification = [2019-09-16]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Page limits include bibliography and any appendices. A special journal issue is planned for extended versions of selected papers from iFM 2019 (to be confirmed)."

@@ -1,0 +1,21 @@
+# migrated from data.php line 8259
+edition = 13
+title = "13th International Workshop on Formal Engineering approaches to Software Components and Architectures"
+url = "http://d3s.mff.cuni.cz/conferences/fesca/pmwiki.php?n=Main.2016"
+
+[event]
+start = 2016-04-03
+city = "Eindhoven, The Netherlands"
+
+[submission]
+format = "regular (15 pages EPTCS), position (10), tool (8)"
+abstract = [2015-12-10, 2015-12-20]
+paper = [2015-12-13, 2015-12-30]
+notification = [2016-01-25, 2016-02-08]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+
+[extra]
+notes = "Satellite event of ETAPS."

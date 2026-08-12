@@ -1,0 +1,23 @@
+# migrated from data.php line 35040
+edition = 12
+title = "12th International Young Researchers Workshop on Concurrency Theory"
+url = "https://confest-2026.github.io/workshops/yr-concur/"
+
+[event]
+start = 2026-09-05
+city = "Liverpool, England"
+
+[submission]
+format = "2 pages + references"
+paper = [2026-06-22, 2026-06-29]
+notification = [2026-07-15]
+
+[proceedings]
+publisher = "informal"
+
+[review]
+blind = "single"
+
+[extra]
+colocated = "Satellite of CONCUR."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Cancelled in 2014, did not happen in 2020-21, 2024-25."

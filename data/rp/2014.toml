@@ -1,0 +1,21 @@
+# migrated from data.php line 23969
+edition = 8
+title = "8th International workshop on Reachability Problems"
+url = "http://www.cs.ox.ac.uk/RP2014/"
+
+[event]
+start = 2014-09-22
+end = 2014-09-24
+city = "Oxford, UK"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2014-06-11]
+notification = [2014-07-04]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014. Informal presentations (4 pages) not to appear in the proceedings (deadline: August 4th). We plan also to publish selected papers in a special issue of a high quality journal following the regular referee procedure."

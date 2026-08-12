@@ -1,0 +1,27 @@
+# migrated from data.php line 31508
+edition = 16
+title = "16th International Symposium on Theoretical Aspects of Software Engineering"
+url = "https://www.cs.ubbcluj.ro/tase2022/"
+
+[event]
+start = 2022-07-08
+end = 2022-07-10
+city = "Cluj-Napoca, Romania"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (long) / 6 pages (short)"
+abstract = [2022-01-31, 2022-02-14]
+paper = [2022-02-13, 2022-02-27]
+notification = [2022-04-10, 2022-04-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+rate = 37.0
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Ranked \"national Chinese conference\" by CORE (since 2020). The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Often in China."

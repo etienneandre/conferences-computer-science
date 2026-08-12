@@ -1,0 +1,21 @@
+# migrated from data.php line 18750
+edition = 7
+title = "7th International Conference on Knowledge and Systems Engineering"
+url = "http://kse2015.uit.edu.vn/"
+
+[event]
+start = 2015-10-08
+end = 2015-10-10
+city = "Hồ Chí Minh City, Việt Nam"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2015-05-21]
+notification = [2015-07-01]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Several journal special issues related to KSE 2015 will be announced in due course. Notification extension: 5+4 days in 2015 (with notification on the initial notification date…)."

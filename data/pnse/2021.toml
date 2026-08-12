@@ -1,0 +1,19 @@
+# migrated from data.php line 22568
+title = "International Workshop on Petri Nets and Software Engineering"
+url = "http://www.informatik.uni-hamburg.de/TGI/events/pnse/"
+
+[event]
+start = 2021-06-21
+online = true
+
+[submission]
+format = "LNCS 15-20 pages (full) / 5-8 pages (short) / 2 (ongoing, poster)"
+abstract = [2021-03-15, 2021-03-29]
+paper = [2021-03-15, 2021-03-29]
+notification = [2021-04-25]
+
+[proceedings]
+publisher = "CEUR-WS"
+
+[extra]
+notes = "A satellite event of Petri Nets. Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."

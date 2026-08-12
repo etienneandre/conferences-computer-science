@@ -1,0 +1,22 @@
+# migrated from data.php line 3429
+edition = 37
+title = "37th International Conference on Computer Aided Verification"
+url = "https://conferences.i-cav.org/2025/"
+
+[event]
+start = 2025-07-21
+end = 2025-07-25
+city = "Zagreb, Croatia"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + ref + appendix (regular) / 10 pages LNCS + ref + appendix (tool/industry)"
+paper = [2025-01-31]
+notification = [2054-04-02]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "cc-by"
+
+[extra]
+notes = "Double-blind submissions. Open access since 2018. Author Response Period: March 11 - 14, 2025. Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

@@ -1,0 +1,20 @@
+# migrated from data.php line 1267
+edition = 20
+title = "20e journées des Approches Formelles dans l’Assistance au Développement de Logiciels"
+url = "http://www.lirmm.fr/afadl2021/"
+
+[event]
+dates_text = "June 2021"
+online = true
+
+[submission]
+format = "8 pages (original) / 4 pages (PhD) / 4 pages (tools) / 4 pages (projects) / 4 pages (long abstract)"
+paper = [2021-04-12, 2021-04-19]
+notification = [2021-05-10]
+
+[proceedings]
+publisher = "IRIT research report"
+license = "free"
+
+[extra]
+notes = "In French (?)."

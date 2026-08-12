@@ -1,0 +1,23 @@
+# migrated from data.php line 27534
+edition = 17
+title = "17th International Conference on Software Engineering and Formal Methods"
+url = "http://sefm2019.inria.fr"
+
+[event]
+start = 2019-09-16
+end = 2019-09-20
+city = "Oslo, Norway"
+
+[submission]
+tz = "AoE"
+format = "15 pages + bibliography (research / tools / case studies) / 6 pages (New ideas/Work-in-Progress) LNCS"
+abstract = [2019-05-03, 2019-05-13]
+paper = [2019-05-10, 2019-05-20]
+notification = [2019-06-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Appendix: 2 pages allowed (not integrated in the proceedings)."

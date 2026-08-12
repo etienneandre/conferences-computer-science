@@ -1,0 +1,26 @@
+# migrated from data.php line 13977
+edition = 52
+title = "52nd EATCS International Colloquium on Automata, Languages, and Programming"
+url = "https://conferences.au.dk/icalp2025"
+
+[event]
+start = 2025-07-08
+end = 2025-07-11
+city = "Aarhus, Denmark"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs + references + appendix"
+paper = [2025-02-08]
+notification = [2025-04-14]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "lightweight-double"
+rebuttal = true
+rebuttal_start = 2025-03-21
+rebuttal_end = 2025-03-24
+award = "Best paper and best student paper awards for each track (2) of the conference"

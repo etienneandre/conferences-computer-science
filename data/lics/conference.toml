@@ -1,0 +1,17 @@
+# LiCS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "LiCS"
+name = "Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS)"
+
+[core]
+id = "748"
+rank = "A*"  # TODO: verify
+
+[links]
+dblp = "lics"
+wikipedia = "Symposium_on_Logic_in_Computer_Science"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "40% (89/224) in 2017, 33% (63/192) in 2023, 31% (72/236) in 2024"  # from LiCS 2026
+extensions = "Firm deadline (2024-2026)"  # from LiCS 2026

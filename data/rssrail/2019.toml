@@ -1,0 +1,19 @@
+# migrated from data.php line 24380
+edition = 3
+title = "3rd International Conference on Reliability, Safety and Security of Railway Systems: Modelling, Analysis, Verification and Certification"
+url = "https://conferences.ncl.ac.uk/rssrail2019/"
+
+[event]
+start = 2019-06-04
+end = 2019-06-06
+city = "Lille, France"
+
+[submission]
+format = "16 pages LNCS (regular) / 10 pages (industrial report / PhD student)"
+abstract = [2019-01-05]
+paper = [2019-01-11]
+notification = [2019-02-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

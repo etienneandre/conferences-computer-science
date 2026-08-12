@@ -1,0 +1,22 @@
+# migrated from data.php line 26937
+edition = 41
+title = "41st International Conference on Computer Safety, Reliability and Security"
+url = "https://safecomp2022.org/"
+
+[event]
+start = 2022-09-06
+end = 2022-09-09
+city = "Munich, Germany"
+
+[submission]
+format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / position (4 pages)"
+abstract = [2022-02-07]
+paper = [2022-02-14]
+notification = [2022-04-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "The theme for 2022 is New Frontiers of Safety Assurance."

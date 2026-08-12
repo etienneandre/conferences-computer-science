@@ -1,0 +1,23 @@
+# migrated from data.php line 11332
+edition = 10
+title = "Tenth International Conference on Fundamentals of Software Engineering - Theory and Practice"
+url = "http://fsen.ir/2023"
+
+[event]
+start = 2023-05-03
+end = 2023-05-05
+city = "Hybrid (Tehran, Iran)"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS including ref (full) / 6 pages (short)"
+abstract = [2022-10-07]
+paper = [2022-10-14, 2022-11-04]
+notification = [2022-12-02]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Optional abstract submission. Claim from the conference that no one ever got visa problems (in Iran). Special issue of Science of Computer Programming journal devoted to FSEN’23 (to be confirmed). Every two years."

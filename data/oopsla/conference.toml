@@ -1,0 +1,12 @@
+# OOPSLA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "OOPSLA"
+name = "OOPSLA issue of the Proceedings of the ACM on Programming Languages (PACMPL)"
+
+[core]
+id = "18"
+rank = "A"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "No extension (2025)"  # from OOPSLA 2025

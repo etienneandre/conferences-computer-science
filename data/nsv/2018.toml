@@ -1,0 +1,20 @@
+# migrated from data.php line 21440
+edition = 11
+title = "11th International Workshop on Numerical Software Verification"
+url = "https://nsv-2018.github.io/nsv2018/"
+
+[event]
+start = 2018-07-19
+city = "Oxford, England"
+
+[submission]
+format = "15 pages ENTCS (regular) / 6 pages (short / tools / benchmark / case studies)"
+paper = [2018-04-15, 2018-05-11]
+notification = [2018-05-15]
+
+[proceedings]
+publisher = "Elsevier ENTCS"
+license = "pay-profit"
+
+[extra]
+notes = "A workshop of FLoC 2018."

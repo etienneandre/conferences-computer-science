@@ -1,0 +1,34 @@
+# migrated from data.php line 29784
+edition = 42
+title = "42nd International Symposium on Theoretical Aspects of Computer Science"
+url = "https://www.stacs2025.de"
+
+[event]
+start = 2025-03-04
+end = 2025-03-07
+city = "Jena, Germany"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs (+ ref + 5-page appendix)"
+paper = [2024-09-26]
+notification = [2024-12-16]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by-nd"
+
+[review]
+blind = "lightweight-double"
+diversity = "mixed"
+rebuttal = true
+rebuttal_start = 2024-11-15
+rebuttal_end = 2024-11-21
+
+[stats]
+accepted = 72
+submitted = 259
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Track A focuses on algorithms, data structures and complexity. Track B focuses on automata, logic, semantics, and theory of programming."

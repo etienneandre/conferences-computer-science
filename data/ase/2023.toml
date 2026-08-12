@@ -1,0 +1,22 @@
+# migrated from data.php line 2311
+edition = 38
+title = "38th IEEE/ACM International Conference on Automated Software Engineering"
+url = "https://conf.researchr.org/home/ase-2023"
+
+[event]
+start = 2023-09-11
+end = 2023-09-15
+city = "Kirchberg, Luxembourg"
+
+[submission]
+format = "10 pages ACM + references (technical research / experience)"
+abstract = [2023-04-28]
+paper = [2023-05-05]
+notification = [2023-07-17]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Double-blind submissions."

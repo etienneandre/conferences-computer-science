@@ -1,0 +1,29 @@
+# migrated from data.php line 6426
+edition = 26
+title = "26th International Conference on Embedded Software"
+url = "https://esweek.org/emsoft/"
+
+[event]
+start = 2026-10-04
+end = 2026-10-09
+city = "Barcelona, Spain"
+
+[submission]
+tz = "AoE"
+format = "20 pages in ACM Transactions format (25 pages after 1st round acceptance)"
+abstract = [2026-03-23]
+paper = [2026-03-30]
+notification = [2026-07-17]
+
+[proceedings]
+publisher = "IEEE TCAD"
+license = "pay"
+
+[review]
+blind = "double"
+rebuttal = "Authors of papers that pass the first review stage will revise their work based on the received comments, within a short time frame (around two weeks)."
+artifact = "Call for artifacts TBA."
+
+[extra]
+journal = "Journal-Integrated Publication Model: All full papers accepted in EMSOFT’25 will be published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)."
+colocated = "Part of ESWEEK (with CODES and CASES + MEMOCODE)"

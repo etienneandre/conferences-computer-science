@@ -1,0 +1,23 @@
+# migrated from data.php line 5008
+edition = 32
+title = "32nd IEEE Computer Security Foundations Symposium"
+url = "https://web.stevens.edu/csf2019/"
+
+[event]
+start = 2019-06-25
+end = 2019-06-28
+city = "Hoboken, NJ, USA"
+
+[submission]
+tz = "UTC-12"
+format = "12 pages IEEE (+ references + appendix)"
+abstract = [2019-02-22]
+paper = [2019-02-26]
+notification = [2019-04-19]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Double blind."

@@ -1,0 +1,20 @@
+# migrated from data.php line 21677
+edition = 31
+title = "31st Nordic Workshop On Programming Theory"
+url = "http://cs.ttu.ee/events/nwpt2019"
+
+[event]
+start = 2019-11-13
+end = 2019-11-15
+city = "Tallinn, Estonia"
+
+[submission]
+format = "2-3 pages Easychair"
+paper = [2019-09-16]
+notification = [2019-10-04]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. Selection of best papers published in the Journal of Logic and Algebraic Programming."

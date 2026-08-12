@@ -1,0 +1,29 @@
+# migrated from data.php line 18063
+edition = 37
+title = "37th IEEE International Symposium on Software Reliability Engineering"
+url = "https://cyprusconferences.org/issre2026/"
+
+[event]
+start = 2025-10-21
+end = 2025-10-24
+city = "Limassol, Cyprus"
+
+[submission]
+tz = "AoE"
+format = "12 pages IEEE including references (research / experience reports) / 6-10 pages (tools and artifact)"
+abstract = [2026-04-10]
+paper = [2026-04-17]
+notification = [2026-07-08]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[review]
+blind = "double"
+rebuttal = "Author Revision Period: June 16 - July 3, 2026"
+award = "ISSRE is pleased to announce the IEEE Best Research Paper Award, awarded every year to the best paper in the Research Track."
+
+[extra]
+journal = "Authors of accepted papers will be invited to submit an extended version of their work to a special issue of the Empirical Software Engineering (EMSE) journal (under negotiation as in previous editions of the conference)."
+notes = "Includes \"negative results\" papers. Early decisions: 15th June."

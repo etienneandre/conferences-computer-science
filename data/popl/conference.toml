@@ -1,0 +1,11 @@
+# POPL — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "POPL"
+name = "ACM SIGPLAN Symposium on Principles of Programming Languages"
+
+[core]
+id = "82"
+rank = "A*"  # TODO: verify
+
+[links]
+dblp = "popl"

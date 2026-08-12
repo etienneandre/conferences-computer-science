@@ -1,0 +1,7 @@
+# ATAED — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ATAED"
+name = "Algorithms & Theories for the Analysis of Event Data 2025"
+
+[core]
+rank = "absent"  # TODO: verify

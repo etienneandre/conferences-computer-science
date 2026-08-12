@@ -1,0 +1,20 @@
+# migrated from data.php line 21953
+edition = 15
+title = "15th International Conference on PErvasive Technologies Related to Assistive Environments"
+url = "http://www.petrae.org/"
+
+[event]
+start = 2022-06-29
+end = 2022-07-01
+city = "Corfu, Greece"
+
+[submission]
+format = "10 pages ACM (incl. references)"
+paper = [2022-01-17]
+
+[proceedings]
+publisher = "ACM Digital Library"
+license = "pay"
+
+[extra]
+notes = "MDPI special issue"

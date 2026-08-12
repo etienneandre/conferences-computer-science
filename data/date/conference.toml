@@ -1,0 +1,15 @@
+# DATE — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "DATE"
+name = "Design Automation and Test in Europe Conference"
+
+[core]
+id = "421"
+rank = "B"  # TODO: verify
+
+[links]
+dblp = "date"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "20 days (2020), strict (2022)"  # from DATE 2026

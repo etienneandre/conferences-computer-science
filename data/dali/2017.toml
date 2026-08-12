@@ -1,0 +1,21 @@
+# migrated from data.php line 5390
+edition = 1
+title = "Dynamic Logic: new trends and applications"
+url = "http://workshop.dali.di.uminho.pt/"
+
+[event]
+start = 2017-09-24
+city = "Brasília, Brazil"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2017-05-26]
+paper = [2017-06-02]
+notification = [2017-07-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Workshop co-located with TABLEAUX, FROCOS and ITP 2017. Extended versions of the DaLí contributions will be invited to a special issue in the Journal of Logic and Algebraic Methods in Programming, Elsevier. Extended abstracts with preliminarily results and work in progress (2-5 pag) are also welcomed for short presentations."

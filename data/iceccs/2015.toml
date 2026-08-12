@@ -1,0 +1,22 @@
+# migrated from data.php line 14295
+edition = 20
+title = "20th International Conference on Engineering of Complex Computer Systems"
+url = "http://iceccs2015.monash.edu.au/"
+
+[event]
+start = 2015-12-09
+end = 2015-12-12
+city = "Gold Coast, Australia"
+
+[submission]
+format = "IEEE 10 pages (Technical Papers and Experience Reports) / 4 pages (short)"
+abstract = [2015-06-07, 2015-06-28]
+paper = [2015-06-21, 2015-07-05]
+notification = [2015-09-06]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence (TCCI) in 2012."

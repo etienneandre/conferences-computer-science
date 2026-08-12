@@ -1,0 +1,12 @@
+# FESCA — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FESCA"
+name = "International Workshop on Formal Engineering approaches to Software Components and Architectures"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+notes = "Deadline extension: 4 days (2015), 13 days (2016), 9 days (2017)."

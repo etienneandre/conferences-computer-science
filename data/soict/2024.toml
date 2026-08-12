@@ -1,0 +1,19 @@
+# migrated from data.php line 28910
+edition = 13
+title = "13th International Symposium on Information and Communication Technology"
+url = "https://soict.org/"
+
+[event]
+start = 2024-12-13
+end = 2024-12-15
+city = "Đà Nẵng, Việt Nam"
+
+[submission]
+format = "12 pages + references"
+abstract = [2024-09-13]
+paper = [2024-09-18]
+notification = [2024-10-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"

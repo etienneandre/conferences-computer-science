@@ -1,0 +1,16 @@
+# ICCPS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "ICCPS"
+name = "ACM/IEEE International Conference on Cyber-Physical Systems"
+defunct = 2025
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "iccps"
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+acceptance = "26% (20/77) in 2021"  # from ICCPS 2025
+extensions = "Firm deadlines in (at least) 2019-2022,2024-2025."  # from ICCPS 2025

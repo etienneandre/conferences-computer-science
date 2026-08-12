@@ -1,0 +1,22 @@
+# migrated from data.php line 17069
+edition = 16
+title = "16th International Conference on integrated Formal Methods"
+
+[event]
+start = 2020-11-16
+end = 2020-11-20
+city = "Virtual (Lugano, Switzerland)"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS (research / regular / case study) / 8 pages (short tool)"
+abstract = [2020-06-15]
+paper = [2020-06-22]
+notification = [2020-08-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Page limits include bibliography and any appendices. A special journal issue is planned for extended versions of selected papers from iFM 2019 (to be confirmed)."

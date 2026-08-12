@@ -1,0 +1,12 @@
+# FMAS — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "FMAS"
+name = "Workshop on Formal Methods for Autonomous Systems"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[links]
+dblp = "fmas"
+mastodon = "https://mastodon.acm.org/@FMASWorkshop"
+bluesky = "fmasworkshop.bsky.social"

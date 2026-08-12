@@ -1,0 +1,28 @@
+# migrated from data.php line 31979
+edition = 29
+title = "29th International Symposium on Temporal Representation and Reasoning"
+url = "https://time2022.time-symposium.org"
+
+[event]
+start = 2022-11-07
+end = 2022-11-09
+online = true
+
+[submission]
+tz = "AoE"
+format = "12 pages LIPIcs (+ references + 5 pages appendix)"
+abstract = [2022-06-19, 2022-06-26]
+paper = [2022-06-26, 2022-07-03]
+notification = [2022-08-01]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[stats]
+accepted = 12
+submitted = 29
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "The authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in Information Systems."

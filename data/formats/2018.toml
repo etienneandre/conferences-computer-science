@@ -1,0 +1,22 @@
+# migrated from data.php line 9923
+edition = 16
+title = "16th International Conference on Formal Modeling and Analysis of Timed Systems"
+url = "http://lcs.ios.ac.cn/formats2018/"
+
+[event]
+start = 2018-09-04
+end = 2018-09-06
+city = "Beijing, China"
+
+[submission]
+format = "15 pages LNCS + appendix"
+abstract = [2018-03-23, 2018-04-06, 2018-04-18]
+paper = [2018-03-30, 2018-04-11, 2018-04-18]
+notification = [2018-05-18, 2018-05-25]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018. Co-located with QEST and CONCUR as CONFESTA. New this year: Best paper award."

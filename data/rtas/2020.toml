@@ -1,0 +1,21 @@
+# migrated from data.php line 24637
+edition = 26
+title = "26th IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "http://2020.rtas.org/"
+
+[event]
+start = 2020-04-21
+end = 2020-04-24
+city = "Sydney, Australia"
+
+[submission]
+format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
+paper = [2019-10-23]
+notification = [2019-12-11]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Two tracks (Real-Time/Embedded Systems / Real-Time Applied Methodologies and Foundations). Part of the Cyber-Physical Systems Week. Firm deadline in 2016, 2017, 2018. Double-blind. Rebuttal: 27-29 November 2019"

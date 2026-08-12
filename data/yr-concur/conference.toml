@@ -1,0 +1,12 @@
+# YR-CONCUR — migrated from the legacy data file
+# Review: complete_since is unset, meaning coverage is unknown.
+acronym = "YR-CONCUR"
+name = "International Young Researchers Workshop on Concurrency Theory"
+defunct = "seemingly"
+
+[core]
+rank = "absent"  # TODO: verify
+
+[legacy]
+# TODO: extract — cross-year prose kept once, verbatim.
+extensions = "1 week (2013), 10 days (2015), 9 days (2018), 7 days (2019), 7 days (2026)"  # from YR-CONCUR 2026

@@ -1,0 +1,20 @@
+# migrated from data.php line 28673
+edition = 6
+title = "6th International Workshop on Symbolic-Numeric methods for Reasoning about CPS and IoT"
+url = "http://www.cs.cas.cz/snr2020/"
+
+[event]
+start = 2020-08-31
+online = true
+
+[submission]
+format = "15 pages EPTCS + references (long) / 6 pages (short, work-in-progress)"
+paper = [2020-06-15, 2020-06-28]
+notification = [2020-07-15, 2020-07-31]
+
+[proceedings]
+publisher = "EPTCS"
+license = "free"
+
+[extra]
+notes = "co-located with CPS-IoT Week."

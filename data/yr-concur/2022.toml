@@ -1,0 +1,19 @@
+# migrated from data.php line 34978
+edition = 10
+title = "10th International Young Researchers Workshop on Concurrency Theory"
+url = "https://yrconcur2022.mimuw.edu.pl/"
+
+[event]
+start = 2022-09-12
+city = "Warsaw, Poland"
+
+[submission]
+format = "2 pages"
+paper = [2022-07-01, 2022-07-06]
+notification = [2022-07-12]
+
+[proceedings]
+publisher = "informal"
+
+[extra]
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR. Cancelled in 2014, did not happen in 2020-21."

@@ -1,0 +1,22 @@
+# migrated from data.php line 3478
+edition = 19
+title = "19th International ACM Sigsoft Symposium on Component-Based Software Engineering"
+url = "http://cbse-conferences.org/2016/"
+
+[event]
+start = 2016-04-05
+end = 2016-04-08
+city = "Venice, Italy"
+
+[submission]
+format = "10 pages ACM including appendix (regular / case studies) / 6 pages ACM (short / tools)"
+abstract = [2016-01-11, 2016-01-18]
+paper = [2016-01-18, 2016-01-21]
+notification = [2016-02-15]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Part of CompArch. Deadlines Samoa time."

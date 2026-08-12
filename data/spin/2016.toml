@@ -1,0 +1,21 @@
+# migrated from data.php line 28999
+edition = 23
+title = "23rd International SPIN Symposium on Model Checking of Software"
+url = "http://www.spin2016.info"
+
+[event]
+start = 2016-04-07
+end = 2016-04-08
+city = "Eindhoven, The Netherlands"
+
+[submission]
+format = "18 pages LNCS (technical) / 6 pages (idea / tool)"
+paper = [2016-01-08]
+notification = [2016-02-12]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Colocated with ETAPS 2016. Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."

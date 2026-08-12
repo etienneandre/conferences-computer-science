@@ -1,0 +1,21 @@
+# migrated from data.php line 15339
+edition = 17
+title = "17th International Conference On Smart homes and health Telematics"
+url = "http://www.icost-society.org/"
+
+[event]
+start = 2019-10-14
+end = 2019-10-16
+city = "New York, USA"
+
+[submission]
+format = "12 pages LNCS"
+paper = [2019-06-03, 2019-06-17]
+notification = [2019-07-15]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Double blind submission. Abstract not required."

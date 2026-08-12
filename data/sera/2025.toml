@@ -1,0 +1,21 @@
+# migrated from data.php line 27978
+edition = 23
+title = "23rd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications"
+url = "https://acisinternational.org/conferences/sera-2025/"
+
+[event]
+start = 2025-05-29
+end = 2025-05-31
+city = "Las Vegas, USA"
+
+[submission]
+format = "8 pages IEEE (full) / 4 pages (short)"
+paper = [2025-02-21]
+notification = [2025-03-21]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[extra]
+notes = "Best Paper Award and Best Student Paper Awards. Conference officers will select outstanding papers for publication in three journals."

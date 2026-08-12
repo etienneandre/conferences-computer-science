@@ -1,0 +1,20 @@
+# migrated from data.php line 33936
+edition = 9
+title = "9th International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems"
+url = "http://w3.onera.fr/waters2018/"
+
+[event]
+start = 2017-06-27
+city = "Dubrovnik, Croatia"
+
+[submission]
+format = "6 pages IEEE"
+paper = [2018-04-17, 2018-04-24]
+notification = [2018-05-15]
+
+[proceedings]
+publisher = "No formal proceedings?"
+license = "free"
+
+[extra]
+notes = "Colocated with ECRTS. This year focus: We encourage submissions proposing novel models or combining existing models for analyzing real-time and performance properties for such heterogeneous systems. Also features the WATERS industrial challenge (formerly FMTV), this year by Dassault Aviation."

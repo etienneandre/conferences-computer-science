@@ -1,0 +1,22 @@
+# migrated from data.php line 13791
+edition = 44
+title = "44th International Colloquium on Automata, Languages and Programming"
+url = "http://icalp17.mimuw.edu.pl"
+
+[event]
+start = 2017-07-10
+end = 2017-07-14
+city = "Warsaw, Poland"
+
+[submission]
+tz = "UTC-8"
+format = "12 pages LIPIcs"
+paper = [2017-02-17]
+notification = [2017-04-14]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[extra]
+notes = "Best paper and best student paper awards for each track (3) of the conference. Deadline PST (Pacific Standard Time, UTC-8). Deadlines are firm; late submissions will not be considered."

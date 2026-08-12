@@ -1,0 +1,23 @@
+# migrated from data.php line 227
+edition = 24
+title = "24th International Conference on Autonomous Agents and Multiagent Systems"
+url = "https://aamas2025.org/"
+
+[event]
+start = 2025-05-19
+end = 2025-05-23
+city = "Detroit, Michigan, USA"
+
+[submission]
+tz = "AoE"
+format = "8 pages (+ references)"
+abstract = [2024-10-09]
+paper = [2024-10-16]
+notification = [2024-12-23]
+
+[proceedings]
+publisher = "ACM"
+license = "free-copy"
+
+[extra]
+notes = "Double blind. Rebuttal phase: 5-9 December 2022. All deadlines UTC-12."

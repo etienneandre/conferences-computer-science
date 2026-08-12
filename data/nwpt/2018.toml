@@ -1,0 +1,20 @@
+# migrated from data.php line 21651
+edition = 30
+title = "30th Nordic Workshop On Programming Theory"
+url = "http://nwpt2018.ifi.uio.no/"
+
+[event]
+start = 2018-10-24
+end = 2018-10-26
+city = "Oslo, Norway"
+
+[submission]
+format = "2-3 pages Easychair"
+paper = [2018-09-01, 2018-09-10]
+notification = [2018-09-25]
+
+[proceedings]
+publisher = "PDF"
+
+[extra]
+notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. Selection of best papers published in the Journal of Logic and Algebraic Programming."

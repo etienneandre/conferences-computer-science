@@ -1,0 +1,26 @@
+# migrated from data.php line 2910
+edition = 19
+title = "19th International Workshop on Automated Verification of Critical Systems"
+url = "http://avocs19.imag.fr/"
+
+[event]
+start = 2019-09-30
+end = 2019-10-01
+city = "Grenoble, France"
+
+[submission]
+format = "15 pages LNCS"
+abstract = [2019-05-26, 2019-06-09]
+paper = [2019-06-02, 2019-06-16]
+notification = [2019-06-23, 2019-07-07]
+
+[proceedings]
+publisher = "EASST"
+license = "free"
+
+[extra]
+notes = """
+Colocated with iFM. Authors of a selection of the best papers presented at the workshop
+will be invited to submit extended versions of their work for
+publication in a special issue of Elsevier’s journal Science of
+Computer Programming. Studentships for PhD in 2013."""

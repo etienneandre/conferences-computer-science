@@ -1,0 +1,22 @@
+# migrated from data.php line 9152
+edition = 24
+title = "24th International Conference on Formal Methods for Industrial Critical Systems"
+url = "https://fmics2019.fsa.win.tue.nl/"
+
+[event]
+start = 2019-08-30
+end = 2019-08-31
+city = "Amsterdam, The Netherlands"
+
+[submission]
+format = "15 pages LNCS + 2p references"
+abstract = [2019-04-19, 2019-05-01]
+paper = [2019-04-26, 2019-05-03]
+notification = [2019-06-05]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "Co-located with CONCUR and FORMATS."

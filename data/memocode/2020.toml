@@ -1,0 +1,22 @@
+# migrated from data.php line 20196
+edition = 18
+title = "18th ACM/IEEE International Conference on Formal Methods and Models for System Design"
+url = "https://iitjammu.ac.in/conferences/memocode2020/"
+
+[event]
+start = 2020-12-02
+end = 2020-12-04
+city = "Jaipur, India"
+
+[submission]
+format = "10 pages IEEE (regular) + bibliography / 4 pages (work in progress) / 8 pages (tool)"
+abstract = [2020-07-03, 2020-07-17]
+paper = [2020-07-10, 2020-07-24]
+notification = [2020-09-04]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[extra]
+notes = "Co-located with FMCAD. Selected papers will be invited for publication in a special issue of ACM Transactions on Embedded Computing Systems."

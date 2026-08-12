@@ -1,0 +1,28 @@
+# migrated from data.php line 21326
+edition = 17
+title = "17th NASA Formal Methods Symposium"
+url = "https://shemesh.larc.nasa.gov/nfm2025/"
+
+[event]
+start = 2025-06-11
+end = 2025-06-13
+city = "Hampton Roads, VA, USA"
+
+[submission]
+format = "15 pages LNCS + references (regular) / 6 pages (short/tool/experience report)"
+abstract = [2024-12-13]
+paper = [2024-12-13, 2024-12-22]
+notification = [2025-02-14]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "mixed"
+award = "Best Paper Award, sponsored by Springer"
+
+[extra]
+journal = "A selection of papers will be invited to submit extended versions to an special issue on Springer’s Innovations in Systems and Software Engineering: A NASA Journal."
+notes = "No registration fees."

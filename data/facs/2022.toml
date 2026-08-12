@@ -1,0 +1,23 @@
+# migrated from data.php line 7727
+edition = 18
+title = "18th International Conference Formal Aspects of Component Software"
+url = "https://facs-conference.github.io/2022"
+
+[event]
+start = 2022-11-10
+end = 2022-11-11
+online = true
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS format + references  (research / applications / survey) / 6 (tool) + ref / 2 pages (journal-first)"
+abstract = [2022-06-24, 2022-07-18]
+paper = [2022-07-04, 2022-07-18]
+notification = [2022-09-05]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[extra]
+notes = "A special journal issue is planned for extended versions of selected papers."

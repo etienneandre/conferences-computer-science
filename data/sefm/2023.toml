@@ -1,0 +1,28 @@
+# migrated from data.php line 27648
+edition = 21
+title = "21st International Conference on Software Engineering and Formal Methods"
+url = "https://sefm-conference.github.io/2023/"
+
+[event]
+start = 2023-11-08
+end = 2023-11-10
+city = "Eindhoven, The Netherlands"
+
+[submission]
+tz = "AoE"
+format = "15 pages + bibliography (research / tools / case studies) / 6 pages (New ideas/Work-in-Progress) LNCS"
+abstract = [2023-06-02]
+paper = [2023-06-09]
+notification = [2023-08-18]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[stats]
+accepted = 20
+submitted = 41
+# TODO: verify — extracted from the cross-year acceptance string.
+
+[extra]
+notes = "Artifact evaluation."

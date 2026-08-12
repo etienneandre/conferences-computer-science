@@ -1,0 +1,26 @@
+# migrated from data.php line 21370
+edition = 18
+title = "18th NASA Formal Methods Symposium"
+url = "https://nfm2026.github.io/"
+
+[event]
+start = 2026-05-05
+end = 2026-05-07
+city = "Los Angeles, CA, USA"
+
+[submission]
+format = "18 pages LNCS + references (regular) / 6 pages (short/tool/experience report)"
+paper = [2026-01-10, 2026-01-18]
+notification = [2026-03-10]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+diversity = "male-only"
+artifact = "Courageous authors, who want to delve in open source software being applied in real NASA missions, and find possible connections to, and applications of Formal Methods, are invited to visit the open source repositories for two frameworks for programming flight software."
+
+[extra]
+notes = "No registration fees. Gen AI mostly allowed. Remote participation allowed."

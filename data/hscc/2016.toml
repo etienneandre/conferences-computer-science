@@ -1,0 +1,22 @@
+# migrated from data.php line 13224
+edition = 19
+title = "19th International Conference on Hybrid Systems: Computation and Control"
+url = "https://www.cs.ox.ac.uk/conferences/hscc2016/"
+
+[event]
+start = 2016-04-12
+end = 2016-04-14
+city = "Vienna, Austria"
+
+[submission]
+format = "10 pages ACM (regular) / 6 pages (tools and case studies) / 2 pages (demo/posters, not published)"
+abstract = [2015-10-08]
+paper = [2015-10-23]
+notification = [2015-12-18]
+
+[proceedings]
+publisher = "ACM"
+license = "acm"
+
+[extra]
+notes = "Rebuttal phase (November 27th to December 4th). Part of Cyber Physical Systems (CPS) Week. No deadline extension possible."
