@@ -1,1490 +1,3841 @@
-# Adapted from cities-draft.toml, initially one entry per distinct place string.
-# NOTE: country code is ISO 3166-1
+# cities.toml — gazetteer for conferences-computer.science
+#
+# Store ISO codes, never the flag emoji: the emoji is derived from the code
+# at build time, and storing it would be invisible in an editor and easy to
+# break on a copy-paste. `subdivision` is only needed where a country has
+# its own recognised flags — England, Scotland and Wales all sit under GB.
+#
+# Coordinates are city-centre points, to four decimals. That is what a map
+# marker needs; more digits would be false precision.
+
 
 ["Paris, France"]
 country = "FR"
+display = "Paris"
+lat = 48.8566
+lon = 2.3522
+continent = "EU"
 # 43 edition(s)
 
 ["Toulouse, France"]
 country = "FR"
+display = "Toulouse"
+lat = 43.6047
+lon = 1.4442
+continent = "EU"
 # 23 edition(s)
 
 ["Porto, Portugal"]
+country = "PT"
+display = "Porto"
+lat = 41.1579
+lon = -8.6291
+continent = "EU"
 # 17 edition(s)
 
 ["Vienna, Austria"]
+country = "AT"
+display = "Vienna"
+lat = 48.2082
+lon = 16.3738
+continent = "EU"
 # 15 edition(s)
 
 ["Grenoble, France"]
 country = "FR"
+display = "Grenoble"
+lat = 45.1885
+lon = 5.7245
+continent = "EU"
 # 14 edition(s)
 
 ["Lisbon, Portugal"]
+country = "PT"
+display = "Lisbon"
+lat = 38.7223
+lon = -9.1393
+continent = "EU"
 # 13 edition(s)
 
 ["Madrid, Spain"]
+country = "ES"
+display = "Madrid"
+lat = 40.4168
+lon = -3.7038
+continent = "EU"
 # 13 edition(s)
 
 ["Montréal, Québec, Canada"]
+country = "CA"
+display = "Montréal"
+lat = 45.5019
+lon = -73.5674
+continent = "NA"
 # 13 edition(s)
 
 ["Singapore"]
+country = "SG"
+display = "Singapore"
+lat = 1.3521
+lon = 103.8198
+continent = "AS"
 # 13 edition(s)
 
 ["Milan, Italy"]
+country = "IT"
+display = "Milan"
+lat = 45.4642
+lon = 9.19
+continent = "EU"
 # 12 edition(s)
 
 ["Oxford, England"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Oxford"
+lat = 51.752
+lon = -1.2577
+continent = "EU"
 # 12 edition(s)
 
 ["Beijing, China"]
 country = "CN"
+display = "Beijing"
+lat = 39.9042
+lon = 116.4074
+continent = "AS"
 # 11 edition(s)
 
 ["Eindhoven, The Netherlands"]
+country = "NL"
+display = "Eindhoven"
+lat = 51.4416
+lon = 5.4697
+continent = "EU"
 # 11 edition(s)
 
 ["Warsaw, Poland"]
+country = "PL"
+display = "Warsaw"
+lat = 52.2297
+lon = 21.0122
+continent = "EU"
 # 11 edition(s)
 
 ["Berlin, Germany"]
+country = "DE"
+display = "Berlin"
+lat = 52.52
+lon = 13.405
+continent = "EU"
 # 10 edition(s)
 
 ["Dublin, Ireland"]
+country = "IE"
+display = "Dublin"
+lat = 53.3498
+lon = -6.2603
+continent = "EU"
 # 9 edition(s)
 
 ["Haifa, Israel"]
+country = "IL"
+display = "Haifa"
+lat = 32.794
+lon = 34.9896
+continent = "AS"
 # 8 edition(s)
 
 ["Hồ Chí Minh City, Việt Nam"]
+country = "VN"
+display = "Hồ Chí Minh City"
+lat = 10.8231
+lon = 106.6297
+continent = "AS"
 # 8 edition(s)
 
 ["Prague, Czech Republic"]
+country = "CZ"
+display = "Prague"
+lat = 50.0755
+lon = 14.4378
+continent = "EU"
 # 8 edition(s)
 
 ["Thessaloniki, Greece"]
+country = "GR"
+display = "Thessaloniki"
+lat = 40.6401
+lon = 22.9444
+continent = "EU"
 # 8 edition(s)
 
 ["Amsterdam, The Netherlands"]
+country = "NL"
+display = "Amsterdam"
+lat = 52.3676
+lon = 4.9041
+continent = "EU"
 # 7 edition(s)
 
 ["Barcelona, Spain"]
+country = "ES"
+display = "Barcelona"
+lat = 41.3851
+lon = 2.1734
+continent = "EU"
 # 7 edition(s)
 
 ["Florence, Italy"]
+country = "IT"
+display = "Florence"
+lat = 43.7696
+lon = 11.2558
+continent = "EU"
 # 7 edition(s)
 
 ["Limassol, Cyprus"]
+country = "CY"
+display = "Limassol"
+lat = 34.7071
+lon = 33.0226
+continent = "EU"
 # 7 edition(s)
 
 ["Los Angeles, CA, USA"]
+country = "US"
+display = "Los Angeles"
+lat = 34.0522
+lon = -118.2437
+continent = "NA"
 # 7 edition(s)
 
 ["Oslo, Norway"]
+country = "NO"
+display = "Oslo"
+lat = 59.9139
+lon = 10.7522
+continent = "EU"
 # 7 edition(s)
 
 ["Rio de Janeiro, Brazil"]
+country = "BR"
+display = "Rio de Janeiro"
+lat = -22.9068
+lon = -43.1729
+continent = "SA"
 # 7 edition(s)
 
 ["San Francisco, CA, USA"]
+country = "US"
+display = "San Francisco"
+lat = 37.7749
+lon = -122.4194
+continent = "NA"
 # 7 edition(s)
 
 ["Taipei, Taiwan"]
+country = "TW"
+display = "Taipei"
+lat = 25.033
+lon = 121.5654
+continent = "AS"
 # 7 edition(s)
 
 ["Antwerp, Belgium"]
+country = "BE"
+display = "Antwerp"
+lat = 51.2194
+lon = 4.4025
+continent = "EU"
 # 6 edition(s)
 
 ["Bergen, Norway"]
+country = "NO"
+display = "Bergen"
+lat = 60.3913
+lon = 5.3221
+continent = "EU"
 # 6 edition(s)
 
 ["Bordeaux, France"]
 country = "FR"
+display = "Bordeaux"
+lat = 44.8378
+lon = -0.5792
+continent = "EU"
 # 6 edition(s)
 
 ["Hà Nội, Việt Nam"]
+country = "VN"
+display = "Hà Nội"
+lat = 21.0285
+lon = 105.8542
+continent = "AS"
 # 6 edition(s)
 
 ["Kyoto, Japan"]
+country = "JP"
+display = "Kyoto"
+lat = 35.0116
+lon = 135.7681
+continent = "AS"
 # 6 edition(s)
 
 ["Lille, France"]
 country = "FR"
+display = "Lille"
+lat = 50.6292
+lon = 3.0573
+continent = "EU"
 # 6 edition(s)
 
 ["London, England"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "London"
+lat = 51.5074
+lon = -0.1278
+continent = "EU"
 # 6 edition(s)
 
 ["Munich, Germany"]
+country = "DE"
+display = "Munich"
+lat = 48.1351
+lon = 11.582
+continent = "EU"
 # 6 edition(s)
 
 ["New York City, USA"]
+country = "US"
+display = "New York City"
+lat = 40.7128
+lon = -74.006
+continent = "NA"
 # 6 edition(s)
 
 ["Pisa, Italy"]
+country = "IT"
+display = "Pisa"
+lat = 43.7228
+lon = 10.4017
+continent = "EU"
 # 6 edition(s)
 
 ["Seoul, South Korea"]
+country = "KR"
+display = "Seoul"
+lat = 37.5665
+lon = 126.978
+continent = "AS"
 # 6 edition(s)
 
 ["Uppsala, Sweden"]
+country = "SE"
+display = "Uppsala"
+lat = 59.8586
+lon = 17.6389
+continent = "EU"
 # 6 edition(s)
 
 ["Aarhus, Denmark"]
+country = "DK"
+display = "Aarhus"
+lat = 56.1629
+lon = 10.2039
+continent = "EU"
 # 5 edition(s)
 
 ["Austin, Texas, USA"]
+country = "US"
+display = "Austin"
+lat = 30.2672
+lon = -97.7431
+continent = "NA"
 # 5 edition(s)
 
 ["Bucharest, Romania"]
+country = "RO"
+display = "Bucharest"
+lat = 44.4268
+lon = 26.1025
+continent = "EU"
 # 5 edition(s)
 
 ["Constantine, Algeria"]
+country = "DZ"
+display = "Constantine"
+lat = 36.365
+lon = 6.6147
+continent = "AF"
 # 5 edition(s)
 
 ["Graz, Austria"]
+country = "AT"
+display = "Graz"
+lat = 47.0707
+lon = 15.4395
+continent = "EU"
 # 5 edition(s)
 
 ["Hamburg, Germany"]
+country = "DE"
+display = "Hamburg"
+lat = 53.5511
+lon = 9.9937
+continent = "EU"
 # 5 edition(s)
 
 ["London, UK"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "London"
+lat = 51.5074
+lon = -0.1278
+continent = "EU"
 # 5 edition(s)
 
 ["Lund, Sweden"]
+country = "SE"
+display = "Lund"
+lat = 55.7047
+lon = 13.191
+continent = "EU"
 # 5 edition(s)
 
 ["Luxembourg"]
+country = "LU"
+display = "Luxembourg"
+lat = 49.6116
+lon = 6.1319
+continent = "EU"
 # 5 edition(s)
 
 ["Luxembourg City, Luxembourg"]
+country = "LU"
+display = "Luxembourg City"
+lat = 49.6116
+lon = 6.1319
+continent = "EU"
 # 5 edition(s)
 
 ["Melbourne, Australia"]
+country = "AU"
+display = "Melbourne"
+lat = -37.8136
+lon = 144.9631
+continent = "OC"
 # 5 edition(s)
 
 ["Montpellier, France"]
 country = "FR"
+display = "Montpellier"
+lat = 43.6108
+lon = 3.8767
+continent = "EU"
 # 5 edition(s)
 
 ["Rome, Italy"]
+country = "IT"
+display = "Rome"
+lat = 41.9028
+lon = 12.4964
+continent = "EU"
 # 5 edition(s)
 
 ["Stockholm, Sweden"]
+country = "SE"
+display = "Stockholm"
+lat = 59.3293
+lon = 18.0686
+continent = "EU"
 # 5 edition(s)
 
 ["Tallinn, Estonia"]
+country = "EE"
+display = "Tallinn"
+lat = 59.437
+lon = 24.7536
+continent = "EU"
 # 5 edition(s)
 
 ["Tehran, Iran"]
+country = "IR"
+display = "Tehran"
+lat = 35.6892
+lon = 51.389
+continent = "AS"
 # 5 edition(s)
 
 ["Tokyo, Japan"]
+country = "JP"
+display = "Tokyo"
+lat = 35.6762
+lon = 139.6503
+continent = "AS"
 # 5 edition(s)
 
 ["Torino, Italy"]
+country = "IT"
+display = "Torino"
+lat = 45.0703
+lon = 7.6869
+continent = "EU"
 # 5 edition(s)
 
 ["Västerås, Sweden"]
+country = "SE"
+display = "Västerås"
+lat = 59.6099
+lon = 16.5448
+continent = "EU"
 # 5 edition(s)
 
 ["Zaragoza, Spain"]
+country = "ES"
+display = "Zaragoza"
+lat = 41.6488
+lon = -0.8891
+continent = "EU"
 # 5 edition(s)
 
 ["Aachen, Germany"]
+country = "DE"
+display = "Aachen"
+lat = 50.7753
+lon = 6.0839
+continent = "EU"
 # 4 edition(s)
 
 ["Athens, Greece"]
+country = "GR"
+display = "Athens"
+lat = 37.9838
+lon = 23.7275
+continent = "EU"
 # 4 edition(s)
 
 ["Bratislava, Slovakia"]
+country = "SK"
+display = "Bratislava"
+lat = 48.1486
+lon = 17.1077
+continent = "EU"
 # 4 edition(s)
 
 ["Brussels, Belgium"]
+country = "BE"
+display = "Brussels"
+lat = 50.8476
+lon = 4.3572
+continent = "EU"
 # 4 edition(s)
 
 ["Dubrovnik, Croatia"]
+country = "HR"
+display = "Dubrovnik"
+lat = 42.6507
+lon = 18.0944
+continent = "EU"
 # 4 edition(s)
 
 ["Gold Coast, Australia"]
+country = "AU"
+display = "Gold Coast"
+lat = -28.0167
+lon = 153.4
+continent = "OC"
 # 4 edition(s)
 
 ["Hamilton, Canada"]
+country = "CA"
+display = "Hamilton"
+lat = 43.2557
+lon = -79.8711
+continent = "NA"
 # 4 edition(s)
 
 ["Heidelberg, Germany"]
+country = "DE"
+display = "Heidelberg"
+lat = 49.3988
+lon = 8.6724
+continent = "EU"
 # 4 edition(s)
 
 ["Hong Kong"]
+country = "HK"
+display = "Hong Kong"
+lat = 22.3193
+lon = 114.1694
+continent = "AS"
+# WARNING: listed both with and without China
 # 4 edition(s)
 
 ["Hong Kong, China"]
-country = "CN"
+country = "HK"
+display = "Hong Kong"
+lat = 22.3193
+lon = 114.1694
+continent = "AS"
 # 4 edition(s)
 
 ["Liverpool, England"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Liverpool"
+lat = 53.4084
+lon = -2.9916
+continent = "EU"
 # 4 edition(s)
 
 ["Lyon, France"]
 country = "FR"
+display = "Lyon"
+lat = 45.764
+lon = 4.8357
+continent = "EU"
 # 4 edition(s)
 
 ["Modena, Italy"]
+country = "IT"
+display = "Modena"
+lat = 44.6471
+lon = 10.9252
+continent = "EU"
 # 4 edition(s)
 
 ["Nanjing, China"]
 country = "CN"
+display = "Nanjing"
+lat = 32.0603
+lon = 118.7969
+continent = "AS"
 # 4 edition(s)
 
 ["Naples, Italy"]
+country = "IT"
+display = "Naples"
+lat = 40.8518
+lon = 14.2681
+continent = "EU"
 # 4 edition(s)
 
 ["Oxford, UK"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Oxford"
+lat = 51.752
+lon = -1.2577
+continent = "EU"
 # 4 edition(s)
 
 ["Pittsburgh, PA, USA"]
+country = "US"
+display = "Pittsburgh"
+lat = 40.4406
+lon = -79.9959
+continent = "NA"
 # 4 edition(s)
 
 ["Pittsburgh, USA"]
+country = "US"
+display = "Pittsburgh"
+lat = 40.4406
+lon = -79.9959
+continent = "NA"
 # 4 edition(s)
 
 ["Prag, Czech Republic"]
+country = "CZ"
+display = "Prag"
+lat = 50.0755
+lon = 14.4378
+continent = "EU"
+# WARNING: German spelling of Prague
 # 4 edition(s)
 
 ["Reykjavik, Iceland"]
+country = "IS"
+display = "Reykjavik"
+lat = 64.1466
+lon = -21.9426
+continent = "EU"
 # 4 edition(s)
 
 ["San Antonio, Texas, USA"]
+country = "US"
+display = "San Antonio"
+lat = 29.4241
+lon = -98.4936
+continent = "NA"
 # 4 edition(s)
 
 ["Shanghai, China"]
 country = "CN"
+display = "Shanghai"
+lat = 31.2304
+lon = 121.4737
+continent = "AS"
 # 4 edition(s)
 
 ["Stuttgart, Germany"]
+country = "DE"
+display = "Stuttgart"
+lat = 48.7758
+lon = 9.1829
+continent = "EU"
 # 4 edition(s)
 
 ["Trento, Italy"]
+country = "IT"
+display = "Trento"
+lat = 46.0748
+lon = 11.1217
+continent = "EU"
 # 4 edition(s)
 
 ["Trondheim, Norway"]
+country = "NO"
+display = "Trondheim"
+lat = 63.4305
+lon = 10.3951
+continent = "EU"
 # 4 edition(s)
 
 ["Turin, Italy"]
+country = "IT"
+display = "Turin"
+lat = 45.0703
+lon = 7.6869
+continent = "EU"
 # 4 edition(s)
 
 ["Turku, Finland"]
+country = "FI"
+display = "Turku"
+lat = 60.4518
+lon = 22.2666
+continent = "EU"
 # 4 edition(s)
 
 ["Zagreb, Croatia"]
+country = "HR"
+display = "Zagreb"
+lat = 45.815
+lon = 15.9819
+continent = "EU"
 # 4 edition(s)
 
 ["Aalborg, Denmark"]
+country = "DK"
+display = "Aalborg"
+lat = 57.0488
+lon = 9.9217
+continent = "EU"
 # 3 edition(s)
 
 ["Bangalore, India"]
+country = "IN"
+display = "Bangalore"
+lat = 12.9716
+lon = 77.5946
+continent = "AS"
 # 3 edition(s)
 
 ["Bergamo, Italy"]
+country = "IT"
+display = "Bergamo"
+lat = 45.6983
+lon = 9.6773
+continent = "EU"
 # 3 edition(s)
 
 ["Bruxelles, Belgium"]
+country = "BE"
+display = "Bruxelles"
+lat = 50.8476
+lon = 4.3572
+continent = "EU"
 # 3 edition(s)
 
 ["Coimbra, Portugal"]
+country = "PT"
+display = "Coimbra"
+lat = 40.2033
+lon = -8.4103
+continent = "EU"
 # 3 edition(s)
 
 ["Dresden, Germany"]
+country = "DE"
+display = "Dresden"
+lat = 51.0504
+lon = 13.7373
+continent = "EU"
 # 3 edition(s)
 
 ["Geneva, Switzerland"]
+country = "CH"
+display = "Geneva"
+lat = 46.2044
+lon = 6.1432
+continent = "EU"
 # 3 edition(s)
 
 ["Gothenburg, Sweden"]
+country = "SE"
+display = "Gothenburg"
+lat = 57.7089
+lon = 11.9746
+continent = "EU"
 # 3 edition(s)
 
 ["Hammamet, Tunisia"]
+country = "TN"
+display = "Hammamet"
+lat = 36.4
+lon = 10.6167
+continent = "AF"
 # 3 edition(s)
 
 ["Hangzhou, China"]
 country = "CN"
-lat = 30.2490
-lon = 120.2052
+display = "Hangzhou"
+lat = 30.2741
+lon = 120.1551
+continent = "AS"
 # 3 edition(s)
 
 ["Houston, Texas, USA"]
+country = "US"
+display = "Houston"
+lat = 29.7604
+lon = -95.3698
+continent = "NA"
 # 3 edition(s)
 
 ["Krakow, Poland"]
+country = "PL"
+display = "Krakow"
+lat = 50.0647
+lon = 19.945
+continent = "EU"
 # 3 edition(s)
 
 ["Lausanne, Switzerland"]
+country = "CH"
+display = "Lausanne"
+lat = 46.5197
+lon = 6.6323
+continent = "EU"
 # 3 edition(s)
 
 ["Los Angeles, USA"]
+country = "US"
+display = "Los Angeles"
+lat = 34.0522
+lon = -118.2437
+continent = "NA"
 # 3 edition(s)
 
 ["Macao, China"]
+country = "MO"
+display = "Macao"
+lat = 22.1987
+lon = 113.5439
+continent = "AS"
 # 3 edition(s)
 
 ["Marseille, France"]
 country = "FR"
+display = "Marseille"
+lat = 43.2965
+lon = 5.3698
+continent = "EU"
 # 3 edition(s)
 
 ["Mumbai, India"]
+country = "IN"
+display = "Mumbai"
+lat = 19.076
+lon = 72.8777
+continent = "AS"
 # 3 edition(s)
 
 ["Nancy, France"]
 country = "FR"
+display = "Nancy"
+lat = 48.6921
+lon = 6.1844
+continent = "EU"
 # 3 edition(s)
 
 ["Nha Trang, Việt Nam"]
+country = "VN"
+display = "Nha Trang"
+lat = 12.2388
+lon = 109.1967
+continent = "AS"
 # 3 edition(s)
 
 ["Nice, France"]
 country = "FR"
+display = "Nice"
+lat = 43.7102
+lon = 7.262
+continent = "EU"
 # 3 edition(s)
 
 ["Saarbrücken, Germany"]
+country = "DE"
+display = "Saarbrücken"
+lat = 49.2402
+lon = 6.9969
+continent = "EU"
 # 3 edition(s)
 
 ["Seattle, WA, USA"]
+country = "US"
+display = "Seattle"
+lat = 47.6062
+lon = -122.3321
+continent = "NA"
 # 3 edition(s)
 
 ["Sydney, Australia"]
+country = "AU"
+display = "Sydney"
+lat = -33.8688
+lon = 151.2093
+continent = "OC"
 # 3 edition(s)
 
 ["São Paulo, Brazil"]
+country = "BR"
+display = "São Paulo"
+lat = -23.5505
+lon = -46.6333
+continent = "SA"
 # 3 edition(s)
 
 ["Tbilisi, Georgia"]
+country = "GE"
+display = "Tbilisi"
+lat = 41.7151
+lon = 44.8271
+continent = "AS"
 # 3 edition(s)
 
 ["Toronto, Canada"]
+country = "CA"
+display = "Toronto"
+lat = 43.6532
+lon = -79.3832
+continent = "NA"
 # 3 edition(s)
 
 ["Toruń, Poland"]
+country = "PL"
+display = "Toruń"
+lat = 53.0138
+lon = 18.5984
+continent = "EU"
 # 3 edition(s)
 
 ["Valletta, Malta"]
+country = "MT"
+display = "Valletta"
+lat = 35.8989
+lon = 14.5146
+continent = "EU"
 # 3 edition(s)
 
 ["Vannes, France"]
 country = "FR"
+display = "Vannes"
+lat = 47.6587
+lon = -2.7603
+continent = "EU"
 # 3 edition(s)
 
 ["Verona, Italy"]
+country = "IT"
+display = "Verona"
+lat = 45.4384
+lon = 10.9916
+continent = "EU"
 # 3 edition(s)
 
 ["Versailles, France"]
 country = "FR"
+display = "Versailles"
+lat = 48.8014
+lon = 2.1301
+continent = "EU"
 # 3 edition(s)
 
 ["Ames, Iowa, USA"]
+country = "US"
+display = "Ames"
+lat = 42.0308
+lon = -93.6319
+continent = "NA"
 # 2 edition(s)
 
 ["Amsterdam, Netherlands"]
+country = "NL"
+display = "Amsterdam"
+lat = 52.3676
+lon = 4.9041
+continent = "EU"
 # 2 edition(s)
 
 ["Aveiro, Portugal"]
+country = "PT"
+display = "Aveiro"
+lat = 40.6405
+lon = -8.6538
+continent = "EU"
 # 2 edition(s)
 
 ["Barcelona, Catalonia"]
+country = "ES"
+display = "Barcelona"
+lat = 41.3851
+lon = 2.1734
+continent = "EU"
+# WARNING: no country given
 # 2 edition(s)
 
 ["Barcelona, Catalonia, Spain"]
+country = "ES"
+display = "Barcelona"
+lat = 41.3851
+lon = 2.1734
+continent = "EU"
 # 2 edition(s)
 
 ["Bertinoro, Italy"]
+country = "IT"
+display = "Bertinoro"
+lat = 44.1467
+lon = 12.135
+continent = "EU"
 # 2 edition(s)
 
 ["Besançon, France"]
 country = "FR"
+display = "Besançon"
+lat = 47.2378
+lon = 6.0241
+continent = "EU"
 # 2 edition(s)
 
 ["Brasília, Brazil"]
+country = "BR"
+display = "Brasília"
+lat = -15.7939
+lon = -47.8828
+continent = "SA"
 # 2 edition(s)
 
 ["Brest, France"]
 country = "FR"
+display = "Brest"
+lat = 48.3904
+lon = -4.4861
+continent = "EU"
 # 2 edition(s)
 
 ["Brisbane, Australia"]
+country = "AU"
+display = "Brisbane"
+lat = -27.4698
+lon = 153.0251
+continent = "OC"
 # 2 edition(s)
 
 ["Brno, Czech Republic"]
+country = "CZ"
+display = "Brno"
+lat = 49.1951
+lon = 16.6068
+continent = "EU"
 # 2 edition(s)
 
 ["Buenos Aires, Argentina"]
+country = "AR"
+display = "Buenos Aires"
+lat = -34.6037
+lon = -58.3816
+continent = "SA"
 # 2 edition(s)
 
 ["Calgary, Canada"]
+country = "CA"
+display = "Calgary"
+lat = 51.0447
+lon = -114.0719
+continent = "NA"
 # 2 edition(s)
 
 ["Catania, Italy"]
+country = "IT"
+display = "Catania"
+lat = 37.5079
+lon = 15.083
+continent = "EU"
 # 2 edition(s)
 
 ["Chennai, India"]
+country = "IN"
+display = "Chennai"
+lat = 13.0827
+lon = 80.2707
+continent = "AS"
 # 2 edition(s)
 
 ["Chicago, Illinois, USA"]
+country = "US"
+display = "Chicago"
+lat = 41.8781
+lon = -87.6298
+continent = "NA"
 # 2 edition(s)
 
 ["Chongqing, China"]
 country = "CN"
+display = "Chongqing"
+lat = 29.563
+lon = 106.5516
+continent = "AS"
 # 2 edition(s)
 
 ["Copenhagen, Denmark"]
+country = "DK"
+display = "Copenhagen"
+lat = 55.6761
+lon = 12.5683
+continent = "EU"
 # 2 edition(s)
 
 ["Denver, Colorado, United States"]
+country = "US"
+display = "Denver"
+lat = 39.7392
+lon = -104.9903
+continent = "NA"
 # 2 edition(s)
 
 ["Düsseldorf, Germany"]
+country = "DE"
+display = "Düsseldorf"
+lat = 51.2277
+lon = 6.7735
+continent = "EU"
 # 2 edition(s)
 
 ["Edinburgh, UK"]
+country = "GB"
+subdivision = "GB-SCT"
+display = "Edinburgh"
+lat = 55.9533
+lon = -3.1883
+continent = "EU"
 # 2 edition(s)
 
 ["Fukuoka, Japan"]
+country = "JP"
+display = "Fukuoka"
+lat = 33.5904
+lon = 130.4017
+continent = "AS"
 # 2 edition(s)
 
 ["Funchal, Madeira"]
+country = "PT"
+display = "Funchal"
+lat = 32.6669
+lon = -16.9241
+continent = "EU"
 # 2 edition(s)
 
 ["Glasgow, Scotland"]
+country = "GB"
+subdivision = "GB-SCT"
+display = "Glasgow"
+lat = 55.8642
+lon = -4.2518
+continent = "EU"
 # 2 edition(s)
 
 ["Goa, India"]
+country = "IN"
+display = "Goa"
+lat = 15.2993
+lon = 74.124
+continent = "AS"
+# WARNING: a state; coordinates are Panaji
 # 2 edition(s)
 
 ["Guangzhou, China"]
 country = "CN"
+display = "Guangzhou"
+lat = 23.1291
+lon = 113.2644
+continent = "AS"
 # 2 edition(s)
 
 ["Guilin, China"]
 country = "CN"
+display = "Guilin"
+lat = 25.2736
+lon = 110.29
+continent = "AS"
 # 2 edition(s)
 
 ["Hoboken, NJ, USA"]
+country = "US"
+display = "Hoboken"
+lat = 40.744
+lon = -74.0324
+continent = "NA"
 # 2 edition(s)
 
 ["Hsinchu, Taiwan"]
+country = "TW"
+display = "Hsinchu"
+lat = 24.8138
+lon = 120.9675
+continent = "AS"
 # 2 edition(s)
 
 ["Kassel, Germany"]
+country = "DE"
+display = "Kassel"
+lat = 51.3127
+lon = 9.4797
+continent = "EU"
 # 2 edition(s)
 
 ["Larnaca, Cyprus"]
+country = "CY"
+display = "Larnaca"
+lat = 34.9182
+lon = 33.6201
+continent = "EU"
 # 2 edition(s)
 
 ["Las Vegas, USA"]
+country = "US"
+display = "Las Vegas"
+lat = 36.1699
+lon = -115.1398
+continent = "NA"
 # 2 edition(s)
 
 ["L’Aquila, Italy"]
+country = "IT"
+display = "L’Aquila"
+lat = 42.3498
+lon = 13.3995
+continent = "EU"
 # 2 edition(s)
 
 ["Maceio, Brazil"]
+country = "BR"
+display = "Maceio"
+lat = -9.6658
+lon = -35.7353
+continent = "SA"
 # 2 edition(s)
 
 ["Marburg, Germany"]
+country = "DE"
+display = "Marburg"
+lat = 50.8021
+lon = 8.7667
+continent = "EU"
 # 2 edition(s)
 
 ["Marrakech, Morocco"]
+country = "MA"
+display = "Marrakech"
+lat = 31.6295
+lon = -7.9811
+continent = "AF"
 # 2 edition(s)
 
 ["Milano, Italy"]
+country = "IT"
+display = "Milano"
+lat = 45.4642
+lon = 9.19
+continent = "EU"
 # 2 edition(s)
 
 ["Moffett Field, CA, USA"]
+country = "US"
+display = "Moffett Field"
+lat = 37.4144
+lon = -122.048
+continent = "NA"
 # 2 edition(s)
 
 ["Montréal, Québec"]
+country = "CA"
+display = "Montréal"
+lat = 45.5019
+lon = -73.5674
+continent = "NA"
+# WARNING: no country given
 # 2 edition(s)
 
 ["Málaga, Spain"]
+country = "ES"
+display = "Málaga"
+lat = 36.7213
+lon = -4.4214
+continent = "EU"
 # 2 edition(s)
 
 ["Nashville, Tennessee, USA"]
+country = "US"
+display = "Nashville"
+lat = 36.1627
+lon = -86.7816
+continent = "NA"
 # 2 edition(s)
 
 ["New Orleans, Louisiana, United States"]
+country = "US"
+display = "New Orleans"
+lat = 29.9511
+lon = -90.0715
+continent = "NA"
 # 2 edition(s)
 
 ["New York, NY, USA"]
+country = "US"
+display = "New York"
+lat = 40.7128
+lon = -74.006
+continent = "NA"
 # 2 edition(s)
 
 ["Obergurgl, Austria"]
+country = "AT"
+display = "Obergurgl"
+lat = 46.8703
+lon = 11.0272
+continent = "EU"
 # 2 edition(s)
 
 ["Osaka, Japan"]
+country = "JP"
+display = "Osaka"
+lat = 34.6937
+lon = 135.5023
+continent = "AS"
 # 2 edition(s)
 
 ["Ottawa, Canada"]
+country = "CA"
+display = "Ottawa"
+lat = 45.4215
+lon = -75.6972
+continent = "NA"
 # 2 edition(s)
 
 ["Ottawa, Ontario, Canada"]
+country = "CA"
+display = "Ottawa"
+lat = 45.4215
+lon = -75.6972
+continent = "NA"
 # 2 edition(s)
 
 ["Paderborn, Germany"]
+country = "DE"
+display = "Paderborn"
+lat = 51.7189
+lon = 8.7575
+continent = "EU"
 # 2 edition(s)
 
 ["Pau, France"]
 country = "FR"
+display = "Pau"
+lat = 43.2951
+lon = -0.3708
+continent = "EU"
 # 2 edition(s)
 
 ["Philadelphia, Pennsylvania, United States"]
+country = "US"
+display = "Philadelphia"
+lat = 39.9526
+lon = -75.1652
+continent = "NA"
 # 2 edition(s)
 
 ["Poitiers, France"]
 country = "FR"
+display = "Poitiers"
+lat = 46.5802
+lon = 0.3404
+continent = "EU"
 # 2 edition(s)
 
 ["Québec City, Canada"]
+country = "CA"
+display = "Québec City"
+lat = 46.8139
+lon = -71.208
+continent = "NA"
 # 2 edition(s)
 
 ["Raleigh, North Carolina, USA"]
+country = "US"
+display = "Raleigh"
+lat = 35.7796
+lon = -78.6382
+continent = "NA"
 # 2 edition(s)
 
 ["Rennes, Bretagne, France"]
 country = "FR"
+display = "Rennes"
+lat = 48.1173
+lon = -1.6778
+continent = "EU"
 # 2 edition(s)
 
 ["Rennes, France"]
 country = "FR"
+display = "Rennes"
+lat = 48.1173
+lon = -1.6778
+continent = "EU"
 # 2 edition(s)
 
 ["Reykjavík, Iceland"]
+country = "IS"
+display = "Reykjavík"
+lat = 64.1466
+lon = -21.9426
+continent = "EU"
 # 2 edition(s)
 
 ["Saint Petersburg, Russia"]
+country = "RU"
+display = "Saint Petersburg"
+lat = 59.9311
+lon = 30.3609
+continent = "EU"
 # 2 edition(s)
 
 ["Saint-Malo, Bretagne, France"]
 country = "FR"
+display = "Saint-Malo"
+lat = 48.6493
+lon = -2.0257
+continent = "EU"
 # 2 edition(s)
 
 ["San Diego, CA, USA"]
+country = "US"
+display = "San Diego"
+lat = 32.7157
+lon = -117.1611
+continent = "NA"
 # 2 edition(s)
 
 ["Seattle, Washington, USA"]
+country = "US"
+display = "Seattle"
+lat = 47.6062
+lon = -122.3321
+continent = "NA"
 # 2 edition(s)
 
 ["Shanghai, China (hybrid)"]
 country = "CN"
+display = "Shanghai"
+lat = 31.2304
+lon = 121.4737
+continent = "AS"
 # 2 edition(s)
 
 ["Shenzhen, China"]
 country = "CN"
+display = "Shenzhen"
+lat = 22.5431
+lon = 114.0579
+continent = "AS"
 # 2 edition(s)
 
 ["Stellenbosch, South Africa"]
+country = "ZA"
+display = "Stellenbosch"
+lat = -33.9321
+lon = 18.8602
+continent = "AF"
 # 2 edition(s)
 
 ["Taormina, Italy"]
+country = "IT"
+display = "Taormina"
+lat = 37.8516
+lon = 15.2853
+continent = "EU"
 # 2 edition(s)
 
 ["Tbilisi, Georgia (hybrid)"]
+country = "GE"
+display = "Tbilisi"
+lat = 41.7151
+lon = 44.8271
+continent = "AS"
 # 2 edition(s)
 
 ["Timișoara, Romania"]
+country = "RO"
+display = "Timișoara"
+lat = 45.7489
+lon = 21.2087
+continent = "EU"
 # 2 edition(s)
 
 ["Toledo, Spain"]
+country = "ES"
+display = "Toledo"
+lat = 39.8628
+lon = -4.0273
+continent = "EU"
 # 2 edition(s)
 
 ["Tsukuba, Japan"]
+country = "JP"
+display = "Tsukuba"
+lat = 36.0835
+lon = 140.0764
+continent = "AS"
 # 2 edition(s)
 
 ["Tunis, Tunisia"]
+country = "TN"
+display = "Tunis"
+lat = 36.8065
+lon = 10.1815
+continent = "AF"
 # 2 edition(s)
 
 ["Tōkyō, Japan"]
+country = "JP"
+display = "Tōkyō"
+lat = 35.6762
+lon = 139.6503
+continent = "AS"
 # 2 edition(s)
 
 ["Urbino, Italy"]
+country = "IT"
+display = "Urbino"
+lat = 43.7262
+lon = 12.6365
+continent = "EU"
 # 2 edition(s)
 
 ["Vancouver, Canada"]
+country = "CA"
+display = "Vancouver"
+lat = 49.2827
+lon = -123.1207
+continent = "NA"
 # 2 edition(s)
 
 ["Venice, Italy"]
+country = "IT"
+display = "Venice"
+lat = 45.4408
+lon = 12.3155
+continent = "EU"
 # 2 edition(s)
 
 ["Virtual (Vienna, Austria)"]
+country = "AT"
+display = "Virtual (Vienna"
+lat = 48.2082
+lon = 16.3738
+continent = "EU"
 # 2 edition(s)
 
 ["Xi’An, China"]
 country = "CN"
+display = "Xi’An"
+lat = 34.3416
+lon = 108.9398
+continent = "AS"
 # 2 edition(s)
 
 ["Xi’an, China"]
 country = "CN"
+display = "Xi’an"
+lat = 34.3416
+lon = 108.9398
+continent = "AS"
 # 2 edition(s)
 
 ["Đà Nẵng, Việt Nam"]
+country = "VN"
+display = "Đà Nẵng"
+lat = 16.0544
+lon = 108.2022
+continent = "AS"
 # 2 edition(s)
 
 ["?"]
+# WARNING: no place recorded; the edition files need fixing
 # 1 edition(s)
 
 ["Ahmedabad University"]
+country = "IN"
+display = "Ahmedabad University"
+lat = 23.0225
+lon = 72.5714
+continent = "AS"
 # 1 edition(s)
 
 ["Alicante, Spain"]
+country = "ES"
+display = "Alicante"
+lat = 38.3452
+lon = -0.481
+continent = "EU"
 # 1 edition(s)
 
 ["Almería, Spain"]
+country = "ES"
+display = "Almería"
+lat = 36.834
+lon = -2.4637
+continent = "EU"
 # 1 edition(s)
 
 ["Angers, France"]
 country = "FR"
+display = "Angers"
+lat = 47.4784
+lon = -0.5632
+continent = "EU"
 # 1 edition(s)
 
 ["Auckland, New Zealand"]
+country = "NZ"
+display = "Auckland"
+lat = -36.8485
+lon = 174.7633
+continent = "OC"
 # 1 edition(s)
 
 ["Austin, TX, USA"]
+country = "US"
+display = "Austin"
+lat = 30.2672
+lon = -97.7431
+continent = "NA"
 # 1 edition(s)
 
 ["Awassa, Ethiopia"]
+country = "ET"
+display = "Awassa"
+lat = 7.0621
+lon = 38.4764
+continent = "AF"
 # 1 edition(s)
 
 ["Baku, Azerbaijan"]
+country = "AZ"
+display = "Baku"
+lat = 40.4093
+lon = 49.8671
+continent = "AS"
 # 1 edition(s)
 
 ["Baltimore, Maryland"]
+country = "US"
+display = "Baltimore"
+lat = 39.2904
+lon = -76.6122
+continent = "NA"
+# WARNING: no country given
 # 1 edition(s)
 
 ["Bangkok - Thailand"]
+country = "TH"
+display = "Bangkok - Thailand"
+lat = 13.7563
+lon = 100.5018
+continent = "AS"
 # 1 edition(s)
 
 ["Bar-Ilan, Israel"]
+country = "IL"
+display = "Bar-Ilan"
+lat = 32.07
+lon = 34.8433
+continent = "AS"
 # 1 edition(s)
 
 ["Bariloche, Argentina"]
+country = "AR"
+display = "Bariloche"
+lat = -41.1335
+lon = -71.3103
+continent = "SA"
 # 1 edition(s)
 
 ["Beijing, China (+ virtual options)"]
 country = "CN"
+display = "Beijing"
+lat = 39.9042
+lon = 116.4074
+continent = "AS"
 # 1 edition(s)
 
 ["Beijing, China (hybrid)"]
+country = "CN"
+display = "Beijing"
+lat = 39.9042
+lon = 116.4074
+continent = "AS"
 # 1 edition(s)
 
 ["Bejaïa, Algeria"]
+country = "DZ"
+display = "Bejaïa"
+lat = 36.7509
+lon = 5.0567
+continent = "AF"
 # 1 edition(s)
 
 ["Bengaluru, India"]
+country = "IN"
+display = "Bengaluru"
+lat = 12.9716
+lon = 77.5946
+continent = "AS"
 # 1 edition(s)
 
 ["Bensançon, France"]
 country = "FR"
+display = "Bensançon"
+lat = 47.2378
+lon = 6.0241
+continent = "EU"
+# WARNING: misspelling of Besançon
 # 1 edition(s)
 
 ["Berlin, Germany (or online)"]
+country = "DE"
+display = "Berlin"
+lat = 52.52
+lon = 13.405
+continent = "EU"
 # 1 edition(s)
 
 ["Birmingham, UK"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Birmingham"
+lat = 52.4862
+lon = -1.8904
+continent = "EU"
 # 1 edition(s)
 
 ["Bombay, India"]
+country = "IN"
+display = "Bombay"
+lat = 19.076
+lon = 72.8777
+continent = "AS"
+# WARNING: former name of Mumbai
 # 1 edition(s)
 
 ["Bordeaux, France or online"]
+country = "FR"
+display = "Bordeaux"
+lat = 44.8378
+lon = -0.5792
+continent = "EU"
 # 1 edition(s)
 
 ["Boston, MA, USA"]
+country = "US"
+display = "Boston"
+lat = 42.3601
+lon = -71.0589
+continent = "NA"
 # 1 edition(s)
 
 ["Boston, Massachusetts, United States"]
+country = "US"
+display = "Boston"
+lat = 42.3601
+lon = -71.0589
+continent = "NA"
 # 1 edition(s)
 
 ["Boston, USA"]
+country = "US"
+display = "Boston"
+lat = 42.3601
+lon = -71.0589
+continent = "NA"
 # 1 edition(s)
 
 ["Boulder, USA"]
+country = "US"
+display = "Boulder"
+lat = 40.015
+lon = -105.2705
+continent = "NA"
 # 1 edition(s)
 
 ["Bozen-Bolzano, Italy"]
+country = "IT"
+display = "Bozen-Bolzano"
+lat = 46.4983
+lon = 11.3548
+continent = "EU"
 # 1 edition(s)
 
 ["Braga, Portugal"]
+country = "PT"
+display = "Braga"
+lat = 41.5454
+lon = -8.4265
+continent = "EU"
 # 1 edition(s)
 
 ["Brighton, UK"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Brighton"
+lat = 50.8225
+lon = -0.1372
+continent = "EU"
 # 1 edition(s)
 
 ["Bristol, England"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Bristol"
+lat = 51.4545
+lon = -2.5879
+continent = "EU"
 # 1 edition(s)
 
 ["Bristol, UK"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Bristol"
+lat = 51.4545
+lon = -2.5879
+continent = "EU"
 # 1 edition(s)
 
 ["Brno (Czech Republic)"]
+country = "CZ"
+display = "Brno (Czech Republic)"
+lat = 49.1951
+lon = 16.6068
+continent = "EU"
 # 1 edition(s)
 
 ["Bruxelles, Belgique"]
+country = "BE"
+display = "Bruxelles"
+lat = 50.8476
+lon = 4.3572
+continent = "EU"
 # 1 edition(s)
 
 ["CNAM, Paris, France"]
 country = "FR"
+display = "CNAM"
+lat = 48.8566
+lon = 2.3522
+continent = "EU"
 # 1 edition(s)
 
 ["Caen, France"]
 country = "FR"
+display = "Caen"
+lat = 49.1829
+lon = -0.3707
+continent = "EU"
 # 1 edition(s)
 
 ["Cali, Colombia"]
+country = "CO"
+display = "Cali"
+lat = 3.4516
+lon = -76.532
+continent = "SA"
 # 1 edition(s)
 
 ["Carthage, Tunis, Tunisia"]
+country = "TN"
+display = "Carthage"
+lat = 36.8065
+lon = 10.1815
+continent = "AF"
 # 1 edition(s)
 
 ["Cascais, Lisbon, Portugal"]
+country = "PT"
+display = "Cascais"
+lat = 38.6979
+lon = -9.4215
+continent = "EU"
 # 1 edition(s)
 
 ["Cascais, Portugal"]
+country = "PT"
+display = "Cascais"
+lat = 38.6979
+lon = -9.4215
+continent = "EU"
 # 1 edition(s)
 
 ["Cascais/Lisbon, Portugal"]
+country = "PT"
+display = "Cascais/Lisbon"
+lat = 38.6979
+lon = -9.4215
+continent = "EU"
 # 1 edition(s)
 
 ["Catania, Sicily, Italy"]
+country = "IT"
+display = "Catania"
+lat = 37.5079
+lon = 15.083
+continent = "EU"
 # 1 edition(s)
 
 ["Changsha, China"]
 country = "CN"
+display = "Changsha"
+lat = 28.2282
+lon = 112.9388
+continent = "AS"
 # 1 edition(s)
 
 ["Charlotte, NC, USA"]
+country = "US"
+display = "Charlotte"
+lat = 35.2271
+lon = -80.8431
+continent = "NA"
 # 1 edition(s)
 
 ["Charlotte, NC, USA (hybrid)"]
+country = "US"
+display = "Charlotte"
+lat = 35.2271
+lon = -80.8431
+continent = "NA"
 # 1 edition(s)
 
 ["Chengdu, China"]
 country = "CN"
+display = "Chengdu"
+lat = 30.5728
+lon = 104.0668
+continent = "AS"
 # 1 edition(s)
 
 ["Chiba, Japan"]
+country = "JP"
+display = "Chiba"
+lat = 35.6074
+lon = 140.1065
+continent = "AS"
 # 1 edition(s)
 
 ["Chicago, IL, USA"]
+country = "US"
+display = "Chicago"
+lat = 41.8781
+lon = -87.6298
+continent = "NA"
 # 1 edition(s)
 
 ["Christchurch, New Zealand"]
+country = "NZ"
+display = "Christchurch"
+lat = -43.5321
+lon = 172.6362
+continent = "OC"
 # 1 edition(s)
 
 ["Clermont-Ferrand, France"]
 country = "FR"
+display = "Clermont-Ferrand"
+lat = 45.7772
+lon = 3.087
+continent = "EU"
 # 1 edition(s)
 
 ["Cluj-Napoca, Romania"]
+country = "RO"
+display = "Cluj-Napoca"
+lat = 46.7712
+lon = 23.6236
+continent = "EU"
 # 1 edition(s)
 
 ["Corfu, Greece"]
+country = "GR"
+display = "Corfu"
+lat = 39.6243
+lon = 19.9217
+continent = "EU"
 # 1 edition(s)
 
 ["Cork, Ireland"]
+country = "IE"
+display = "Cork"
+lat = 51.8985
+lon = -8.4756
+continent = "EU"
 # 1 edition(s)
 
 ["Coruña, Spain"]
+country = "ES"
+display = "Coruña"
+lat = 43.3623
+lon = -8.4115
+continent = "EU"
 # 1 edition(s)
 
 ["Crete, Greece"]
+country = "GR"
+display = "Crete"
+lat = 35.2401
+lon = 24.8093
+continent = "EU"
+# WARNING: an island, not a town; coordinates are its centre
 # 1 edition(s)
 
 ["Cần Thơ, Việt Nam"]
+country = "VN"
+display = "Cần Thơ"
+lat = 10.0452
+lon = 105.7469
+continent = "AS"
 # 1 edition(s)
 
 ["Daegu, Korea"]
+country = "KR"
+display = "Daegu"
+lat = 35.8714
+lon = 128.6014
+continent = "AS"
 # 1 edition(s)
 
 ["Daejeon, South Korea"]
+country = "KR"
+display = "Daejeon"
+lat = 36.3504
+lon = 127.3845
+continent = "AS"
 # 1 edition(s)
 
 ["Danang, Việt Nam"]
+country = "VN"
+display = "Danang"
+lat = 16.0544
+lon = 108.2022
+continent = "AS"
 # 1 edition(s)
 
 ["Darmstadt, Germany"]
+country = "DE"
+display = "Darmstadt"
+lat = 49.8728
+lon = 8.6512
+continent = "EU"
 # 1 edition(s)
 
 ["Detroit, Michigan, USA"]
+country = "US"
+display = "Detroit"
+lat = 42.3314
+lon = -83.0458
+continent = "NA"
 # 1 edition(s)
 
 ["Djerba, Tunisia"]
+country = "TN"
+display = "Djerba"
+lat = 33.8076
+lon = 10.8451
+continent = "AF"
 # 1 edition(s)
 
 ["Dortmund, Germany"]
+country = "DE"
+display = "Dortmund"
+lat = 51.5136
+lon = 7.4653
+continent = "EU"
 # 1 edition(s)
 
 ["Dubai, United Arab Emirates"]
+country = "AE"
+display = "Dubai"
+lat = 25.2048
+lon = 55.2708
+continent = "AS"
 # 1 edition(s)
 
 ["Edinburgh, Scotland"]
+country = "GB"
+subdivision = "GB-SCT"
+display = "Edinburgh"
+lat = 55.9533
+lon = -3.1883
+continent = "EU"
 # 1 edition(s)
 
 ["Edmonton, Canada"]
+country = "CA"
+display = "Edmonton"
+lat = 53.5461
+lon = -113.4938
+continent = "NA"
 # 1 edition(s)
 
 ["Egham, United Kingdom"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Egham"
+lat = 51.43
+lon = -0.55
+continent = "EU"
 # 1 edition(s)
 
 ["Emden, Germany"]
+country = "DE"
+display = "Emden"
+lat = 53.367
+lon = 7.2061
+continent = "EU"
 # 1 edition(s)
 
 ["Enschede, The Netherlands"]
+country = "NL"
+display = "Enschede"
+lat = 52.2215
+lon = 6.8937
+continent = "EU"
 # 1 edition(s)
 
 ["Evry, France"]
 country = "FR"
+display = "Evry"
+lat = 48.6296
+lon = 2.4411
+continent = "EU"
 # 1 edition(s)
 
 ["Firenze, Italy"]
+country = "IT"
+display = "Firenze"
+lat = 43.7696
+lon = 11.2558
+continent = "EU"
 # 1 edition(s)
 
 ["Frankfurt, Germany"]
+country = "DE"
+display = "Frankfurt"
+lat = 50.1109
+lon = 8.6821
+continent = "EU"
 # 1 edition(s)
 
 ["Funchal, Madeira, Portugal"]
+country = "PT"
+display = "Funchal"
+lat = 32.6669
+lon = -16.9241
+continent = "EU"
 # 1 edition(s)
 
 ["Gaithersburg, MD, USA"]
+country = "US"
+display = "Gaithersburg"
+lat = 39.1434
+lon = -77.2014
+continent = "NA"
 # 1 edition(s)
 
 ["Gangneung, South Korea"]
+country = "KR"
+display = "Gangneung"
+lat = 37.7519
+lon = 128.8761
+continent = "AS"
 # 1 edition(s)
 
 ["Garching bei München, Germany"]
+country = "DE"
+display = "Garching bei München"
+lat = 48.2489
+lon = 11.6511
+continent = "EU"
 # 1 edition(s)
 
 ["Gebze-Istanbul, Türkiye"]
+country = "TR"
+display = "Gebze-Istanbul"
+lat = 40.8028
+lon = 29.4307
+continent = "AS"
 # 1 edition(s)
 
 ["Genoa, Italy"]
+country = "IT"
+display = "Genoa"
+lat = 44.4056
+lon = 8.9463
+continent = "EU"
 # 1 edition(s)
 
 ["Goa Campus, India"]
+country = "IN"
+display = "Goa Campus"
+lat = 15.2993
+lon = 74.124
+continent = "AS"
+# WARNING: campus of BITS Pilani, in Goa
 # 1 edition(s)
 
 ["Gold Coast, Australia (or virtual)"]
+country = "AU"
+display = "Gold Coast"
+lat = -28.0167
+lon = 153.4
+continent = "OC"
 # 1 edition(s)
 
 ["Granada, Spain"]
+country = "ES"
+display = "Granada"
+lat = 37.1773
+lon = -3.5986
+continent = "EU"
 # 1 edition(s)
 
 ["Greenwich, London, United Kingdom"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Greenwich"
+lat = 51.4834
+lon = 0.0098
+continent = "EU"
 # 1 edition(s)
 
 ["Groningen, The Netherlands"]
+country = "NL"
+display = "Groningen"
+lat = 53.2194
+lon = 6.5665
+continent = "EU"
 # 1 edition(s)
 
 ["Guiyang City, China"]
 country = "CN"
+display = "Guiyang City"
+lat = 26.647
+lon = 106.6302
+continent = "AS"
 # 1 edition(s)
 
 ["Göttingen, Germany"]
+country = "DE"
+display = "Göttingen"
+lat = 51.5413
+lon = 9.9158
+continent = "EU"
 # 1 edition(s)
 
 ["Göttingen, Germany (hybrid)"]
+country = "DE"
+display = "Göttingen"
+lat = 51.5413
+lon = 9.9158
+continent = "EU"
 # 1 edition(s)
 
 ["Haifa, Israel (or online)"]
+country = "IL"
+display = "Haifa"
+lat = 32.794
+lon = 34.9896
+continent = "AS"
 # 1 edition(s)
 
 ["Haifa, Israelf"]
+country = "IL"
+display = "Haifa"
+lat = 32.794
+lon = 34.9896
+continent = "AS"
+# WARNING: misspelling of Israel
 # 1 edition(s)
 
 ["Halmstad, Sweden"]
+country = "SE"
+display = "Halmstad"
+lat = 56.6745
+lon = 12.8568
+continent = "EU"
 # 1 edition(s)
 
 ["Hamilton, New Zealand"]
+country = "NZ"
+display = "Hamilton"
+lat = -37.787
+lon = 175.2793
+continent = "OC"
 # 1 edition(s)
 
 ["Hamilton, Ontario, Canada"]
+country = "CA"
+display = "Hamilton"
+lat = 43.2557
+lon = -79.8711
+continent = "NA"
 # 1 edition(s)
 
 ["Hampton Roads, VA, USA"]
+country = "US"
+display = "Hampton Roads"
+lat = 36.9312
+lon = -76.3452
+continent = "NA"
+# WARNING: a metropolitan area; coordinates are Norfolk
 # 1 edition(s)
 
 ["Hannover, Germany"]
+country = "DE"
+display = "Hannover"
+lat = 52.3759
+lon = 9.732
+continent = "EU"
 # 1 edition(s)
 
 ["Hanoi, Vietnam"]
+country = "VN"
+display = "Hanoi"
+lat = 21.0285
+lon = 105.8542
+continent = "AS"
 # 1 edition(s)
 
 ["Heidelberg Germany"]
+country = "DE"
+display = "Heidelberg Germany"
+lat = 49.3988
+lon = 8.6724
+continent = "EU"
 # 1 edition(s)
 
 ["Heraklion, Crete, Greece"]
+country = "GR"
+display = "Heraklion"
+lat = 35.3387
+lon = 25.1442
+continent = "EU"
 # 1 edition(s)
 
 ["Hiroshima, Japan"]
+country = "JP"
+display = "Hiroshima"
+lat = 34.3853
+lon = 132.4553
+continent = "AS"
 # 1 edition(s)
 
 ["Hokkaido, Japan"]
+country = "JP"
+display = "Hokkaido"
+lat = 43.0642
+lon = 141.3469
+continent = "AS"
+# WARNING: a prefecture; coordinates are Sapporo
 # 1 edition(s)
 
 ["Honolulu, USA"]
+country = "US"
+display = "Honolulu"
+lat = 21.3069
+lon = -157.8583
+continent = "NA"
 # 1 edition(s)
 
 ["Houston, USA"]
+country = "US"
+display = "Houston"
+lat = 29.7604
+lon = -95.3698
+continent = "NA"
 # 1 edition(s)
 
 ["Huế, Việt Nam"]
+country = "VN"
+display = "Huế"
+lat = 16.4637
+lon = 107.5909
+continent = "AS"
 # 1 edition(s)
 
 ["Hybrid (Tehran, Iran)"]
+country = "IR"
+display = "Hybrid (Tehran"
+lat = 35.6892
+lon = 51.389
+continent = "AS"
 # 1 edition(s)
 
 ["Hồ-Chí-Minh City, Việt Nam"]
+country = "VN"
+display = "Hồ-Chí-Minh City"
+lat = 10.8231
+lon = 106.6297
+continent = "AS"
 # 1 edition(s)
 
 ["Hồ-Chí-Minh-City, Việt Nam"]
+country = "VN"
+display = "Hồ-Chí-Minh-City"
+lat = 10.8231
+lon = 106.6297
+continent = "AS"
 # 1 edition(s)
 
 ["IIT Delhi, New Delhi, India"]
+country = "IN"
+display = "IIT Delhi"
+lat = 28.6139
+lon = 77.209
+continent = "AS"
 # 1 edition(s)
 
 ["IIT Gandhinagar, India"]
+country = "IN"
+display = "IIT Gandhinagar"
+lat = 23.2156
+lon = 72.6369
+continent = "AS"
 # 1 edition(s)
 
 ["IIT Hyderabad, India"]
+country = "IN"
+display = "IIT Hyderabad"
+lat = 17.385
+lon = 78.4867
+continent = "AS"
 # 1 edition(s)
 
 ["IIT Kanpur, India"]
+country = "IN"
+display = "IIT Kanpur"
+lat = 26.4499
+lon = 80.3319
+continent = "AS"
 # 1 edition(s)
 
 ["IIT Madras, India"]
+country = "IN"
+display = "IIT Madras"
+lat = 13.0827
+lon = 80.2707
+continent = "AS"
 # 1 edition(s)
 
 ["Iasi, Romania"]
+country = "RO"
+display = "Iasi"
+lat = 47.1585
+lon = 27.6014
+continent = "EU"
 # 1 edition(s)
 
 ["Iași, Romania"]
+country = "RO"
+display = "Iași"
+lat = 47.1585
+lon = 27.6014
+continent = "EU"
 # 1 edition(s)
 
 ["Iași, România"]
+country = "RO"
+display = "Iași"
+lat = 47.1585
+lon = 27.6014
+continent = "EU"
 # 1 edition(s)
 
 ["Indian Statistical Institute Kolkata, India"]
+country = "IN"
+display = "Indian Statistical Institute Kolkata"
+lat = 22.5726
+lon = 88.3639
+continent = "AS"
 # 1 edition(s)
 
 ["Innsbruck, Austria"]
+country = "AT"
+display = "Innsbruck"
+lat = 47.2692
+lon = 11.4041
+continent = "EU"
 # 1 edition(s)
 
 ["Irvine, California"]
+country = "US"
+display = "Irvine"
+lat = 33.6846
+lon = -117.8265
+continent = "NA"
+# WARNING: no country given
 # 1 edition(s)
 
 ["Irvine, California, USA"]
+country = "US"
+display = "Irvine"
+lat = 33.6846
+lon = -117.8265
+continent = "NA"
 # 1 edition(s)
 
 ["Irvine, USA"]
+country = "US"
+display = "Irvine"
+lat = 33.6846
+lon = -117.8265
+continent = "NA"
 # 1 edition(s)
 
 ["Istanbul, Türkiye"]
+country = "TR"
+display = "Istanbul"
+lat = 41.0082
+lon = 28.9784
+continent = "AS"
 # 1 edition(s)
 
 ["Jaipur, India"]
+country = "IN"
+display = "Jaipur"
+lat = 26.9124
+lon = 75.7873
+continent = "AS"
 # 1 edition(s)
 
 ["Jeju Island, Korea"]
+country = "KR"
+display = "Jeju Island"
+lat = 33.4996
+lon = 126.5312
+continent = "AS"
 # 1 edition(s)
 
 ["Jeju island, South Korea"]
+country = "KR"
+display = "Jeju island"
+lat = 33.4996
+lon = 126.5312
+continent = "AS"
 # 1 edition(s)
 
 ["Jena, Germany"]
+country = "DE"
+display = "Jena"
+lat = 50.9271
+lon = 11.5892
+continent = "EU"
 # 1 edition(s)
 
 ["Jerusalem, Israel"]
+country = "IL"
+display = "Jerusalem"
+lat = 31.7683
+lon = 35.2137
+continent = "AS"
 # 1 edition(s)
 
 ["Kaiserslautern, Germany"]
+country = "DE"
+display = "Kaiserslautern"
+lat = 49.4401
+lon = 7.7491
+continent = "EU"
 # 1 edition(s)
 
 ["Kanazawa, Japan"]
+country = "JP"
+display = "Kanazawa"
+lat = 36.5613
+lon = 136.6562
+continent = "AS"
 # 1 edition(s)
 
 ["Kanpur, India"]
+country = "IN"
+display = "Kanpur"
+lat = 26.4499
+lon = 80.3319
+continent = "AS"
 # 1 edition(s)
 
 ["Kingston, Canada"]
+country = "CA"
+display = "Kingston"
+lat = 44.2312
+lon = -76.486
+continent = "NA"
 # 1 edition(s)
 
 ["Kirchberg, Luxembourg"]
+country = "LU"
+display = "Kirchberg"
+lat = 49.6294
+lon = 6.1611
+continent = "EU"
 # 1 edition(s)
 
 ["Klagenfurt, Austria"]
+country = "AT"
+display = "Klagenfurt"
+lat = 46.6247
+lon = 14.305
+continent = "EU"
 # 1 edition(s)
 
 ["Kongens Lyngby, Denmark"]
+country = "DK"
+display = "Kongens Lyngby"
+lat = 55.7704
+lon = 12.503
+continent = "EU"
 # 1 edition(s)
 
 ["Kuala Lumpur, Malaysia"]
+country = "MY"
+display = "Kuala Lumpur"
+lat = 3.139
+lon = 101.6869
+continent = "AS"
 # 1 edition(s)
 
 ["LSV, Cachan, France"]
 country = "FR"
+display = "LSV"
+lat = 48.7919
+lon = 2.3311
+continent = "EU"
 # 1 edition(s)
 
 ["Leicester, England"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Leicester"
+lat = 52.6369
+lon = -1.1398
+continent = "EU"
 # 1 edition(s)
 
 ["Leiden, the Netherlands"]
+country = "NL"
+display = "Leiden"
+lat = 52.1601
+lon = 4.497
+continent = "EU"
 # 1 edition(s)
 
 ["Leipzig, Germany"]
+country = "DE"
+display = "Leipzig"
+lat = 51.3397
+lon = 12.3731
+continent = "EU"
 # 1 edition(s)
 
 ["Lima, Peru"]
+country = "PE"
+display = "Lima"
+lat = -12.0464
+lon = -77.0428
+continent = "SA"
 # 1 edition(s)
 
 ["Linz, Austria"]
+country = "AT"
+display = "Linz"
+lat = 48.3069
+lon = 14.2858
+continent = "EU"
 # 1 edition(s)
 
 ["Lisbon Portugal"]
+country = "PT"
+display = "Lisbon Portugal"
+lat = 38.7223
+lon = -9.1393
+continent = "EU"
 # 1 edition(s)
 
 ["Liverpool, England (hybrid or virtual)"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Liverpool"
+lat = 53.4084
+lon = -2.9916
+continent = "EU"
 # 1 edition(s)
 
 ["Liverpool, UK"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Liverpool"
+lat = 53.4084
+lon = -2.9916
+continent = "EU"
 # 1 edition(s)
 
 ["Los Angeles, California, USA"]
+country = "US"
+display = "Los Angeles"
+lat = 34.0522
+lon = -118.2437
+continent = "NA"
 # 1 edition(s)
 
 ["Lucca, Italy"]
+country = "IT"
+display = "Lucca"
+lat = 43.843
+lon = 10.5079
+continent = "EU"
 # 1 edition(s)
 
 ["Lugano, Switzerland"]
+country = "CH"
+display = "Lugano"
+lat = 46.0037
+lon = 8.9511
+continent = "EU"
 # 1 edition(s)
 
 ["Lyngby, Denmark"]
+country = "DK"
+display = "Lyngby"
+lat = 55.7704
+lon = 12.503
+continent = "EU"
 # 1 edition(s)
 
 ["Lübeck, Germany"]
+country = "DE"
+display = "Lübeck"
+lat = 53.8655
+lon = 10.6866
+continent = "EU"
 # 1 edition(s)
 
 ["L’Aquila (Italy)"]
+country = "IT"
+display = "L’Aquila (Italy)"
+lat = 42.3498
+lon = 13.3995
+continent = "EU"
 # 1 edition(s)
 
 ["Malta"]
+country = "MT"
+display = "Malta"
+lat = 35.8989
+lon = 14.5146
+continent = "EU"
 # 1 edition(s)
 
 ["Manaus, Brazil"]
+country = "BR"
+display = "Manaus"
+lat = -3.119
+lon = -60.0217
+continent = "SA"
 # 1 edition(s)
 
 ["Manchester, England"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Manchester"
+lat = 53.4808
+lon = -2.2426
+continent = "EU"
 # 1 edition(s)
 
 ["Manchester, UK"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "Manchester"
+lat = 53.4808
+lon = -2.2426
+continent = "EU"
 # 1 edition(s)
 
 ["Marne-la-Vallée, France"]
 country = "FR"
+display = "Marne-la-Vallée"
+lat = 48.84
+lon = 2.5872
+continent = "EU"
 # 1 edition(s)
 
 ["Marrakech, Morocco (hybrid)"]
+country = "MA"
+display = "Marrakech"
+lat = 31.6295
+lon = -7.9811
+continent = "AF"
 # 1 edition(s)
 
 ["Maun, Botswana"]
+country = "BW"
+display = "Maun"
+lat = -19.9953
+lon = 23.4181
+continent = "AF"
 # 1 edition(s)
 
 ["Mauritius"]
+country = "MU"
+display = "Mauritius"
+lat = -20.1609
+lon = 57.5012
+continent = "AF"
 # 1 edition(s)
 
 ["Maynooth University, Ireland"]
+country = "IE"
+display = "Maynooth University"
+lat = 53.3811
+lon = -6.5911
+continent = "EU"
 # 1 edition(s)
 
 ["Maynooth, Ireland"]
+country = "IE"
+display = "Maynooth"
+lat = 53.3811
+lon = -6.5911
+continent = "EU"
 # 1 edition(s)
 
 ["Memphis, TN, USA"]
+country = "US"
+display = "Memphis"
+lat = 35.1495
+lon = -90.049
+continent = "NA"
 # 1 edition(s)
 
 ["Menlo Park, CA, USA"]
+country = "US"
+display = "Menlo Park"
+lat = 37.453
+lon = -122.1817
+continent = "NA"
 # 1 edition(s)
 
 ["Menlo Park, California, US"]
+country = "US"
+display = "Menlo Park"
+lat = 37.453
+lon = -122.1817
+continent = "NA"
 # 1 edition(s)
 
 ["Menlo Park, California, USA"]
+country = "US"
+display = "Menlo Park"
+lat = 37.453
+lon = -122.1817
+continent = "NA"
 # 1 edition(s)
 
 ["Miami Beach, FL, USA"]
+country = "US"
+display = "Miami Beach"
+lat = 25.7907
+lon = -80.13
+continent = "NA"
 # 1 edition(s)
 
 ["Minneapolis, MN, USA"]
+country = "US"
+display = "Minneapolis"
+lat = 44.9778
+lon = -93.265
+continent = "NA"
 # 1 edition(s)
 
 ["Moffett Field, California"]
+country = "US"
+display = "Moffett Field"
+lat = 37.4144
+lon = -122.048
+continent = "NA"
+# WARNING: no country given
 # 1 edition(s)
 
 ["Mons, Belgium"]
+country = "BE"
+display = "Mons"
+lat = 50.4542
+lon = 3.9564
+continent = "EU"
 # 1 edition(s)
 
 ["Montreal, Québec, Canada"]
+country = "CA"
+display = "Montreal"
+lat = 45.5019
+lon = -73.5674
+continent = "NA"
 # 1 edition(s)
 
 ["Mountain View, CA, USA"]
+country = "US"
+display = "Mountain View"
+lat = 37.3861
+lon = -122.0839
+continent = "NA"
 # 1 edition(s)
 
 ["Münster, Germany"]
+country = "DE"
+display = "Münster"
+lat = 51.9607
+lon = 7.6261
+continent = "EU"
 # 1 edition(s)
 
 ["Namur, Belgium"]
+country = "BE"
+display = "Namur"
+lat = 50.4674
+lon = 4.872
+continent = "EU"
 # 1 edition(s)
 
 ["Nantes, France"]
 country = "FR"
+display = "Nantes"
+lat = 47.2184
+lon = -1.5536
+continent = "EU"
 # 1 edition(s)
 
 ["Napoly, Italy"]
+country = "IT"
+display = "Napoly"
+lat = 40.8518
+lon = 14.2681
+continent = "EU"
+# WARNING: misspelling of Napoli / Naples
 # 1 edition(s)
 
 ["Nara, Japan"]
+country = "JP"
+display = "Nara"
+lat = 34.6851
+lon = 135.8048
+continent = "AS"
 # 1 edition(s)
 
 ["Nashville, TN, USA"]
+country = "US"
+display = "Nashville"
+lat = 36.1627
+lon = -86.7816
+continent = "NA"
 # 1 edition(s)
 
 ["Natal, Rio Grande do Norte, Brazil"]
+country = "BR"
+display = "Natal"
+lat = -5.7945
+lon = -35.211
+continent = "SA"
 # 1 edition(s)
 
 ["Neuchâtel, Switzerland"]
+country = "CH"
+display = "Neuchâtel"
+lat = 46.99
+lon = 6.9293
+continent = "EU"
 # 1 edition(s)
 
 ["New Dehli, India"]
+country = "IN"
+display = "New Dehli"
+lat = 28.6139
+lon = 77.209
+continent = "AS"
+# WARNING: misspelling of New Delhi
 # 1 edition(s)
 
 ["New Delhi, India"]
+country = "IN"
+display = "New Delhi"
+lat = 28.6139
+lon = 77.209
+continent = "AS"
 # 1 edition(s)
 
 ["New York, USA"]
+country = "US"
+display = "New York"
+lat = 40.7128
+lon = -74.006
+continent = "NA"
 # 1 edition(s)
 
 ["Newport News, VA, USA"]
+country = "US"
+display = "Newport News"
+lat = 37.0871
+lon = -76.473
+continent = "NA"
 # 1 edition(s)
 
 ["Nusa Dua, Bali, Indonesia"]
+country = "ID"
+display = "Nusa Dua"
+lat = -8.7955
+lon = 115.227
+continent = "AS"
 # 1 edition(s)
 
 ["Oakland, California, United States"]
+country = "US"
+display = "Oakland"
+lat = 37.8044
+lon = -122.2712
+continent = "NA"
 # 1 edition(s)
 
 ["Oberbronn, France"]
 country = "FR"
+display = "Oberbronn"
+lat = 48.9333
+lon = 7.6167
+continent = "EU"
 # 1 edition(s)
 
 ["Online (Boston, MA, USA)"]
+country = "US"
+display = "Online (Boston"
+lat = 42.3601
+lon = -71.0589
+continent = "NA"
 # 1 edition(s)
 
 ["Online (Vienna, Austria)"]
+country = "AT"
+display = "Online (Vienna"
+lat = 48.2082
+lon = 16.3738
+continent = "EU"
 # 1 edition(s)
 
 ["Orlando, Florida, United States"]
+country = "US"
+display = "Orlando"
+lat = 28.5383
+lon = -81.3792
+continent = "NA"
 # 1 edition(s)
 
 ["Orléans, France"]
 country = "FR"
+display = "Orléans"
+lat = 47.9029
+lon = 1.9093
+continent = "EU"
 # 1 edition(s)
 
 ["Padua, Italy (hybrid?)"]
+country = "IT"
+display = "Padua"
+lat = 45.4064
+lon = 11.8768
+continent = "EU"
 # 1 edition(s)
 
 ["Palermo, Italy"]
+country = "IT"
+display = "Palermo"
+lat = 38.1157
+lon = 13.3615
+continent = "EU"
 # 1 edition(s)
 
 ["Palma de Mallorca, Spain"]
+country = "ES"
+display = "Palma de Mallorca"
+lat = 39.5696
+lon = 2.6502
+continent = "EU"
 # 1 edition(s)
 
 ["Paphos, Cyprus"]
+country = "CY"
+display = "Paphos"
+lat = 34.7754
+lon = 32.4218
+continent = "EU"
 # 1 edition(s)
 
 ["Parc Alvisse Hotel, Luxembourg"]
+country = "LU"
+display = "Parc Alvisse Hotel"
+lat = 49.6116
+lon = 6.1319
+continent = "EU"
 # 1 edition(s)
 
 ["Paris, France (hybrid)"]
+country = "FR"
+display = "Paris"
+lat = 48.8566
+lon = 2.3522
+continent = "EU"
 # 1 edition(s)
 
 ["Pasadena, California, USA"]
+country = "US"
+display = "Pasadena"
+lat = 34.1478
+lon = -118.1445
+continent = "NA"
 # 1 edition(s)
 
 ["Pasadena, California, USA (hybrid)"]
+country = "US"
+display = "Pasadena"
+lat = 34.1478
+lon = -118.1445
+continent = "NA"
 # 1 edition(s)
 
 ["Pasadena, California, United States"]
+country = "US"
+display = "Pasadena"
+lat = 34.1478
+lon = -118.1445
+continent = "NA"
 # 1 edition(s)
 
 ["Patras, Greece"]
+country = "GR"
+display = "Patras"
+lat = 38.2466
+lon = 21.7346
+continent = "EU"
 # 1 edition(s)
 
 ["Penang, Malaysia"]
+country = "MY"
+display = "Penang"
+lat = 5.4141
+lon = 100.3288
+continent = "AS"
 # 1 edition(s)
 
 ["Perth, Australia"]
+country = "AU"
+display = "Perth"
+lat = -31.9505
+lon = 115.8605
+continent = "OC"
 # 1 edition(s)
 
 ["Perth, Western Australia"]
+country = "AU"
+display = "Perth"
+lat = -31.9505
+lon = 115.8605
+continent = "OC"
+# WARNING: no country given
 # 1 edition(s)
 
 ["Phnom Penh, Cambodia"]
+country = "KH"
+display = "Phnom Penh"
+lat = 11.5564
+lon = 104.9282
+continent = "AS"
 # 1 edition(s)
 
 ["Pistoia, Italy"]
+country = "IT"
+display = "Pistoia"
+lat = 43.9331
+lon = 10.9177
+continent = "EU"
 # 1 edition(s)
 
 ["Pohang, South Korea"]
+country = "KR"
+display = "Pohang"
+lat = 36.019
+lon = 129.3435
+continent = "AS"
 # 1 edition(s)
 
 ["Poitiers/Futuroscope, France"]
 country = "FR"
+display = "Poitiers/Futuroscope"
+lat = 46.5802
+lon = 0.3404
+continent = "EU"
 # 1 edition(s)
 
 ["Porto de Galinhas, Brazil"]
+country = "BR"
+display = "Porto de Galinhas"
+lat = -8.5083
+lon = -35.0053
+continent = "SA"
 # 1 edition(s)
 
 ["Porto, Portugal (hybrid?)"]
+country = "PT"
+display = "Porto"
+lat = 41.1579
+lon = -8.6291
+continent = "EU"
 # 1 edition(s)
 
 ["Portsmouth, USA"]
+country = "US"
+display = "Portsmouth"
+lat = 43.0718
+lon = -70.7626
+continent = "NA"
 # 1 edition(s)
 
 ["Poznań, Poland"]
+country = "PL"
+display = "Poznań"
+lat = 52.4064
+lon = 16.9252
+continent = "EU"
 # 1 edition(s)
 
 ["Pune, India"]
+country = "IN"
+display = "Pune"
+lat = 18.5204
+lon = 73.8567
+continent = "AS"
 # 1 edition(s)
 
 ["Putrajaya, Malaysia"]
+country = "MY"
+display = "Putrajaya"
+lat = 2.9264
+lon = 101.6964
+continent = "AS"
 # 1 edition(s)
 
 ["Qingdao, China"]
 country = "CN"
+display = "Qingdao"
+lat = 36.0671
+lon = 120.3826
+continent = "AS"
 # 1 edition(s)
 
 ["Québec City, Québec"]
+country = "CA"
+display = "Québec City"
+lat = 46.8139
+lon = -71.208
+continent = "NA"
+# WARNING: no country given
 # 1 edition(s)
 
 ["Recife - Pernambuco, Brazil"]
+country = "BR"
+display = "Recife - Pernambuco"
+lat = -8.0476
+lon = -34.877
+continent = "SA"
 # 1 edition(s)
 
 ["Recife, Brazil"]
+country = "BR"
+display = "Recife"
+lat = -8.0476
+lon = -34.877
+continent = "SA"
 # 1 edition(s)
 
 ["Reims, France"]
 country = "FR"
+display = "Reims"
+lat = 49.2583
+lon = 4.0317
+continent = "EU"
 # 1 edition(s)
 
 ["Reykjavík, Iceland (hybrid)"]
+country = "IS"
+display = "Reykjavík"
+lat = 64.1466
+lon = -21.9426
+continent = "EU"
 # 1 edition(s)
 
 ["Rhodes, Greece"]
+country = "GR"
+display = "Rhodes"
+lat = 36.4341
+lon = 28.2176
+continent = "EU"
 # 1 edition(s)
 
 ["Rice University, Houston, Texas, USA"]
+country = "US"
+display = "Rice University"
+lat = 29.7604
+lon = -95.3698
+continent = "NA"
 # 1 edition(s)
 
 ["Rold Storkro, Skoerping (Aalborg), Denmark"]
+country = "DK"
+display = "Rold Storkro"
+lat = 57.0488
+lon = 9.9217
+continent = "EU"
 # 1 edition(s)
 
 ["Saclay, France"]
 country = "FR"
+display = "Saclay"
+lat = 48.7311
+lon = 2.17
+continent = "EU"
 # 1 edition(s)
 
 ["Sacramento, California, United States"]
+country = "US"
+display = "Sacramento"
+lat = 38.5816
+lon = -121.4944
+continent = "NA"
 # 1 edition(s)
 
 ["Salamanca, Spain"]
+country = "ES"
+display = "Salamanca"
+lat = 40.9701
+lon = -5.6635
+continent = "EU"
 # 1 edition(s)
 
 ["Salvador-BA, Brazil"]
+country = "BR"
+display = "Salvador-BA"
+lat = -12.9777
+lon = -38.5016
+continent = "SA"
 # 1 edition(s)
 
 ["San Diego, USA"]
+country = "US"
+display = "San Diego"
+lat = 32.7157
+lon = -117.1611
+continent = "NA"
 # 1 edition(s)
 
 ["San Francisco, USA"]
+country = "US"
+display = "San Francisco"
+lat = 37.7749
+lon = -122.4194
+continent = "NA"
 # 1 edition(s)
 
 ["San Jose, California, USA"]
+country = "US"
+display = "San Jose"
+lat = 37.3382
+lon = -121.8863
+continent = "NA"
 # 1 edition(s)
 
 ["Santa Barbara, CA, USA"]
+country = "US"
+display = "Santa Barbara"
+lat = 34.4208
+lon = -119.6982
+continent = "NA"
 # 1 edition(s)
 
 ["Santa Barbara, California, USA"]
+country = "US"
+display = "Santa Barbara"
+lat = 34.4208
+lon = -119.6982
+continent = "NA"
 # 1 edition(s)
 
 ["Santa Cruz, CA, USA"]
+country = "US"
+display = "Santa Cruz"
+lat = 36.9741
+lon = -122.0308
+continent = "NA"
 # 1 edition(s)
 
 ["Santiago, Chile"]
+country = "CL"
+display = "Santiago"
+lat = -33.4489
+lon = -70.6693
+continent = "SA"
 # 1 edition(s)
 
 ["Seattle, USA"]
+country = "US"
+display = "Seattle"
+lat = 47.6062
+lon = -122.3321
+continent = "NA"
 # 1 edition(s)
 
 ["Seoul, Korea"]
+country = "KR"
+display = "Seoul"
+lat = 37.5665
+lon = 126.978
+continent = "AS"
 # 1 edition(s)
 
 ["Sevilla, Spain"]
+country = "ES"
+display = "Sevilla"
+lat = 37.3891
+lon = -5.9845
+continent = "EU"
 # 1 edition(s)
 
 ["Seville, Spain"]
+country = "ES"
+display = "Seville"
+lat = 37.3891
+lon = -5.9845
+continent = "EU"
 # 1 edition(s)
 
 ["Siegen, Germany"]
+country = "DE"
+display = "Siegen"
+lat = 50.8748
+lon = 8.0243
+continent = "EU"
 # 1 edition(s)
 
 ["Siena, Italy"]
+country = "IT"
+display = "Siena"
+lat = 43.3188
+lon = 11.3308
+continent = "EU"
 # 1 edition(s)
 
 ["Singapore (+ virtual options)"]
+country = "SG"
+display = "Singapore (+ virtual options)"
+lat = 1.3521
+lon = 103.8198
+continent = "AS"
 # 1 edition(s)
 
 ["Sokcho, South Korea"]
+country = "KR"
+display = "Sokcho"
+lat = 38.207
+lon = 128.5918
+continent = "AS"
 # 1 edition(s)
 
 ["Sophia Antipolis, France"]
 country = "FR"
+display = "Sophia Antipolis"
+lat = 43.6167
+lon = 7.05
+continent = "EU"
 # 1 edition(s)
 
 ["Sorrento Coast, Italy"]
+country = "IT"
+display = "Sorrento Coast"
+lat = 40.6263
+lon = 14.3757
+continent = "EU"
+# WARNING: coordinates are Sorrento itself
 # 1 edition(s)
 
 ["Southampton, England"]
 country = "GB"
 subdivision = "GB-ENG"
 display = "Southampton"
+lat = 50.9097
+lon = -1.4044
 continent = "EU"
-lat = 50.9025
-lon = -1.4042
 
 ["Spetses, Greece"]
+country = "GR"
+display = "Spetses"
+lat = 37.2667
+lon = 23.15
+continent = "EU"
 # 1 edition(s)
 
 ["St. Petersburg, Florida, USA"]
+country = "US"
+display = "St. Petersburg"
+lat = 27.7676
+lon = -82.6403
+continent = "NA"
 # 1 edition(s)
 
 ["St. Raphael Resort and Marina, Limassol, Cyprus"]
+country = "CY"
+display = "St. Raphael Resort and Marina"
+lat = 34.7071
+lon = 33.0226
+continent = "EU"
 # 1 edition(s)
 
 ["Strasbourg, France"]
 country = "FR"
+display = "Strasbourg"
+lat = 48.5734
+lon = 7.7521
+continent = "EU"
 # 1 edition(s)
 
 ["Sydney Australia"]
+country = "AU"
+display = "Sydney Australia"
+lat = -33.8688
+lon = 151.2093
+continent = "OC"
 # 1 edition(s)
 
 ["Taipei, Taiwan (hybrid)"]
+country = "TW"
+display = "Taipei"
+lat = 25.033
+lon = 121.5654
+continent = "AS"
 # 1 edition(s)
 
 ["Tallinn, Estonia (hybrid)"]
+country = "EE"
+display = "Tallinn"
+lat = 59.437
+lon = 24.7536
+continent = "EU"
 # 1 edition(s)
 
 ["Tampere, Finland"]
+country = "FI"
+display = "Tampere"
+lat = 61.4978
+lon = 23.761
+continent = "EU"
 # 1 edition(s)
 
 ["Tianjin, China"]
 country = "CN"
+display = "Tianjin"
+lat = 39.3434
+lon = 117.3616
+continent = "AS"
 # 1 edition(s)
 
 ["Toronto, Ontario, Canada"]
+country = "CA"
+display = "Toronto"
+lat = 43.6532
+lon = -79.3832
+continent = "NA"
 # 1 edition(s)
 
 ["Towson, Maryland, USA"]
+country = "US"
+display = "Towson"
+lat = 39.4015
+lon = -76.6019
+continent = "NA"
 # 1 edition(s)
 
 ["Trieste, Italy"]
+country = "IT"
+display = "Trieste"
+lat = 45.6495
+lon = 13.7768
+continent = "EU"
 # 1 edition(s)
 
 ["Udine, Italy"]
+country = "IT"
+display = "Udine"
+lat = 46.0711
+lon = 13.2346
+continent = "EU"
 # 1 edition(s)
 
 ["Ulm, Germany"]
+country = "DE"
+display = "Ulm"
+lat = 48.4011
+lon = 9.9876
+continent = "EU"
 # 1 edition(s)
 
 ["Umeå, Sweden"]
+country = "SE"
+display = "Umeå"
+lat = 63.8258
+lon = 20.263
+continent = "EU"
 # 1 edition(s)
 
 ["University of Calabria, Rende, Italy"]
+country = "IT"
+display = "University of Calabria"
+lat = 39.3333
+lon = 16.1833
+continent = "EU"
 # 1 edition(s)
 
 ["University of Twente, Enschede, the Netherlands"]
+country = "NL"
+display = "University of Twente"
+lat = 52.2215
+lon = 6.8937
+continent = "EU"
 # 1 edition(s)
 
 ["Urbana-Champaign, Illinois, USA"]
+country = "US"
+display = "Urbana-Champaign"
+lat = 40.1106
+lon = -88.2073
+continent = "NA"
 # 1 edition(s)
 
 ["Utrecht, The Netherlands"]
+country = "NL"
+display = "Utrecht"
+lat = 52.0907
+lon = 5.1214
+continent = "EU"
 # 1 edition(s)
 
 ["Valencia, France"]
 country = "FR"
+display = "Valencia"
+lat = 44.9333
+lon = 4.8917
+continent = "EU"
+# WARNING: probably Valence, France — Valencia is in Spain. CHECK
 # 1 edition(s)
 
 ["Valencia, Spain"]
+country = "ES"
+display = "Valencia"
+lat = 39.4699
+lon = -0.3763
+continent = "EU"
 # 1 edition(s)
 
 ["Vienne, Austria"]
+country = "AT"
+display = "Vienne"
+lat = 48.2082
+lon = 16.3738
+continent = "EU"
+# WARNING: French spelling of Vienna; Vienne is also a French town
 # 1 edition(s)
 
 ["Virtual"]
+# WARNING: online event: use event.online = true instead of a city
 # 1 edition(s)
 
 ["Virtual (Konstanz, Germany)"]
+country = "DE"
+display = "Virtual (Konstanz"
+lat = 47.6603
+lon = 9.1758
+continent = "EU"
 # 1 edition(s)
 
 ["Virtual (Lugano, Switzerland)"]
+country = "CH"
+display = "Virtual (Lugano"
+lat = 46.0037
+lon = 8.9511
+continent = "EU"
 # 1 edition(s)
 
 ["Virtual (Paris, France)"]
+country = "FR"
+display = "Virtual (Paris"
+lat = 48.8566
+lon = 2.3522
+continent = "EU"
 # 1 edition(s)
 
 ["Vitória - Espírito Santo, Brazil"]
+country = "BR"
+display = "Vitória - Espírito Santo"
+lat = -20.3155
+lon = -40.3128
+continent = "SA"
 # 1 edition(s)
 
 ["Warsaw, Poland (hybrid)"]
+country = "PL"
+display = "Warsaw"
+lat = 52.2297
+lon = 21.0122
+continent = "EU"
 # 1 edition(s)
 
 ["Wellington, New Zealand"]
+country = "NZ"
+display = "Wellington"
+lat = -41.2866
+lon = 174.7756
+continent = "OC"
 # 1 edition(s)
 
 ["Wonju, South Korea"]
+country = "KR"
+display = "Wonju"
+lat = 37.3422
+lon = 127.9202
+continent = "AS"
 # 1 edition(s)
 
 ["Wrocław, Poland"]
+country = "PL"
+display = "Wrocław"
+lat = 51.1079
+lon = 17.0385
+continent = "EU"
 # 1 edition(s)
 
 ["Wuhan, China"]
 country = "CN"
+display = "Wuhan"
+lat = 30.5928
+lon = 114.3055
+continent = "AS"
 # 1 edition(s)
 
 ["Yale University, Connecticut, USA (or virtual)"]
+country = "US"
+display = "Yale University"
+lat = 41.3083
+lon = -72.9279
+continent = "NA"
 # 1 edition(s)
 
 ["Yokohama, Japan"]
+country = "JP"
+display = "Yokohama"
+lat = 35.4437
+lon = 139.638
+continent = "AS"
 # 1 edition(s)
 
 ["York, England"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "York"
+lat = 53.96
+lon = -1.0873
+continent = "EU"
 # 1 edition(s)
 
 ["York, UK / online"]
+country = "GB"
+subdivision = "GB-ENG"
+display = "York"
+lat = 53.96
+lon = -1.0873
+continent = "EU"
 # 1 edition(s)
 
 ["Zhangjiajie, China"]
 country = "CN"
+display = "Zhangjiajie"
+lat = 29.117
+lon = 110.4794
+continent = "AS"
 # 1 edition(s)
 
 ["none"]
+# WARNING: no place recorded; the edition files need fixing
 # 1 edition(s)
 
 ["virtual? (Brussels, Belgium)"]
+country = "BE"
+display = "virtual? (Brussels"
+lat = 50.8476
+lon = 4.3572
+continent = "EU"
 # 1 edition(s)
 
 ["Ávila, Spain"]
+country = "ES"
+display = "Ávila"
+lat = 40.6566
+lon = -4.6818
+continent = "EU"
 # 1 edition(s)
