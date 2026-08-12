@@ -1,0 +1,1435 @@
+# Adapted from cities-draft.toml, initially one entry per distinct place string.
+
+["Paris, France"]
+# 43 edition(s)
+
+["Toulouse, France"]
+# 23 edition(s)
+
+["Porto, Portugal"]
+# 17 edition(s)
+
+["Vienna, Austria"]
+# 15 edition(s)
+
+["Grenoble, France"]
+# 14 edition(s)
+
+["Lisbon, Portugal"]
+# 13 edition(s)
+
+["Madrid, Spain"]
+# 13 edition(s)
+
+["Montréal, Québec, Canada"]
+# 13 edition(s)
+
+["Singapore"]
+# 13 edition(s)
+
+["Milan, Italy"]
+# 12 edition(s)
+
+["Oxford, England"]
+# 12 edition(s)
+
+["Beijing, China"]
+# 11 edition(s)
+
+["Eindhoven, The Netherlands"]
+# 11 edition(s)
+
+["Warsaw, Poland"]
+# 11 edition(s)
+
+["Berlin, Germany"]
+# 10 edition(s)
+
+["Dublin, Ireland"]
+# 9 edition(s)
+
+["Haifa, Israel"]
+# 8 edition(s)
+
+["Hồ Chí Minh City, Việt Nam"]
+# 8 edition(s)
+
+["Prague, Czech Republic"]
+# 8 edition(s)
+
+["Thessaloniki, Greece"]
+# 8 edition(s)
+
+["Amsterdam, The Netherlands"]
+# 7 edition(s)
+
+["Barcelona, Spain"]
+# 7 edition(s)
+
+["Florence, Italy"]
+# 7 edition(s)
+
+["Limassol, Cyprus"]
+# 7 edition(s)
+
+["Los Angeles, CA, USA"]
+# 7 edition(s)
+
+["Oslo, Norway"]
+# 7 edition(s)
+
+["Rio de Janeiro, Brazil"]
+# 7 edition(s)
+
+["San Francisco, CA, USA"]
+# 7 edition(s)
+
+["Taipei, Taiwan"]
+# 7 edition(s)
+
+["Antwerp, Belgium"]
+# 6 edition(s)
+
+["Bergen, Norway"]
+# 6 edition(s)
+
+["Bordeaux, France"]
+# 6 edition(s)
+
+["Hà Nội, Việt Nam"]
+# 6 edition(s)
+
+["Kyoto, Japan"]
+# 6 edition(s)
+
+["Lille, France"]
+# 6 edition(s)
+
+["London, England"]
+# 6 edition(s)
+
+["Munich, Germany"]
+# 6 edition(s)
+
+["New York City, USA"]
+# 6 edition(s)
+
+["Pisa, Italy"]
+# 6 edition(s)
+
+["Seoul, South Korea"]
+# 6 edition(s)
+
+["Uppsala, Sweden"]
+# 6 edition(s)
+
+["Aarhus, Denmark"]
+# 5 edition(s)
+
+["Austin, Texas, USA"]
+# 5 edition(s)
+
+["Bucharest, Romania"]
+# 5 edition(s)
+
+["Constantine, Algeria"]
+# 5 edition(s)
+
+["Graz, Austria"]
+# 5 edition(s)
+
+["Hamburg, Germany"]
+# 5 edition(s)
+
+["London, UK"]
+# 5 edition(s)
+
+["Lund, Sweden"]
+# 5 edition(s)
+
+["Luxembourg"]
+# 5 edition(s)
+
+["Luxembourg City, Luxembourg"]
+# 5 edition(s)
+
+["Melbourne, Australia"]
+# 5 edition(s)
+
+["Montpellier, France"]
+# 5 edition(s)
+
+["Rome, Italy"]
+# 5 edition(s)
+
+["Stockholm, Sweden"]
+# 5 edition(s)
+
+["Tallinn, Estonia"]
+# 5 edition(s)
+
+["Tehran, Iran"]
+# 5 edition(s)
+
+["Tokyo, Japan"]
+# 5 edition(s)
+
+["Torino, Italy"]
+# 5 edition(s)
+
+["Västerås, Sweden"]
+# 5 edition(s)
+
+["Zaragoza, Spain"]
+# 5 edition(s)
+
+["Aachen, Germany"]
+# 4 edition(s)
+
+["Athens, Greece"]
+# 4 edition(s)
+
+["Bratislava, Slovakia"]
+# 4 edition(s)
+
+["Brussels, Belgium"]
+# 4 edition(s)
+
+["Dubrovnik, Croatia"]
+# 4 edition(s)
+
+["Gold Coast, Australia"]
+# 4 edition(s)
+
+["Hamilton, Canada"]
+# 4 edition(s)
+
+["Heidelberg, Germany"]
+# 4 edition(s)
+
+["Hong Kong"]
+# 4 edition(s)
+
+["Hong Kong, China"]
+# 4 edition(s)
+
+["Liverpool, England"]
+# 4 edition(s)
+
+["Lyon, France"]
+# 4 edition(s)
+
+["Modena, Italy"]
+# 4 edition(s)
+
+["Nanjing, China"]
+# 4 edition(s)
+
+["Naples, Italy"]
+# 4 edition(s)
+
+["Oxford, UK"]
+# 4 edition(s)
+
+["Pittsburgh, PA, USA"]
+# 4 edition(s)
+
+["Pittsburgh, USA"]
+# 4 edition(s)
+
+["Prag, Czech Republic"]
+# 4 edition(s)
+
+["Reykjavik, Iceland"]
+# 4 edition(s)
+
+["San Antonio, Texas, USA"]
+# 4 edition(s)
+
+["Shanghai, China"]
+# 4 edition(s)
+
+["Stuttgart, Germany"]
+# 4 edition(s)
+
+["Trento, Italy"]
+# 4 edition(s)
+
+["Trondheim, Norway"]
+# 4 edition(s)
+
+["Turin, Italy"]
+# 4 edition(s)
+
+["Turku, Finland"]
+# 4 edition(s)
+
+["Zagreb, Croatia"]
+# 4 edition(s)
+
+["Aalborg, Denmark"]
+# 3 edition(s)
+
+["Bangalore, India"]
+# 3 edition(s)
+
+["Bergamo, Italy"]
+# 3 edition(s)
+
+["Bruxelles, Belgium"]
+# 3 edition(s)
+
+["Coimbra, Portugal"]
+# 3 edition(s)
+
+["Dresden, Germany"]
+# 3 edition(s)
+
+["Geneva, Switzerland"]
+# 3 edition(s)
+
+["Gothenburg, Sweden"]
+# 3 edition(s)
+
+["Hammamet, Tunisia"]
+# 3 edition(s)
+
+["Hangzhou, China"]
+# 3 edition(s)
+
+["Houston, Texas, USA"]
+# 3 edition(s)
+
+["Krakow, Poland"]
+# 3 edition(s)
+
+["Lausanne, Switzerland"]
+# 3 edition(s)
+
+["Los Angeles, USA"]
+# 3 edition(s)
+
+["Macao, China"]
+# 3 edition(s)
+
+["Marseille, France"]
+# 3 edition(s)
+
+["Mumbai, India"]
+# 3 edition(s)
+
+["Nancy, France"]
+# 3 edition(s)
+
+["Nha Trang, Việt Nam"]
+# 3 edition(s)
+
+["Nice, France"]
+# 3 edition(s)
+
+["Saarbrücken, Germany"]
+# 3 edition(s)
+
+["Seattle, WA, USA"]
+# 3 edition(s)
+
+["Sydney, Australia"]
+# 3 edition(s)
+
+["São Paulo, Brazil"]
+# 3 edition(s)
+
+["Tbilisi, Georgia"]
+# 3 edition(s)
+
+["Toronto, Canada"]
+# 3 edition(s)
+
+["Toruń, Poland"]
+# 3 edition(s)
+
+["Valletta, Malta"]
+# 3 edition(s)
+
+["Vannes, France"]
+# 3 edition(s)
+
+["Verona, Italy"]
+# 3 edition(s)
+
+["Versailles, France"]
+# 3 edition(s)
+
+["Ames, Iowa, USA"]
+# 2 edition(s)
+
+["Amsterdam, Netherlands"]
+# 2 edition(s)
+
+["Aveiro, Portugal"]
+# 2 edition(s)
+
+["Barcelona, Catalonia"]
+# 2 edition(s)
+
+["Barcelona, Catalonia, Spain"]
+# 2 edition(s)
+
+["Bertinoro, Italy"]
+# 2 edition(s)
+
+["Besançon, France"]
+# 2 edition(s)
+
+["Brasília, Brazil"]
+# 2 edition(s)
+
+["Brest, France"]
+# 2 edition(s)
+
+["Brisbane, Australia"]
+# 2 edition(s)
+
+["Brno, Czech Republic"]
+# 2 edition(s)
+
+["Buenos Aires, Argentina"]
+# 2 edition(s)
+
+["Calgary, Canada"]
+# 2 edition(s)
+
+["Catania, Italy"]
+# 2 edition(s)
+
+["Chennai, India"]
+# 2 edition(s)
+
+["Chicago, Illinois, USA"]
+# 2 edition(s)
+
+["Chongqing, China"]
+# 2 edition(s)
+
+["Copenhagen, Denmark"]
+# 2 edition(s)
+
+["Denver, Colorado, United States"]
+# 2 edition(s)
+
+["Düsseldorf, Germany"]
+# 2 edition(s)
+
+["Edinburgh, UK"]
+# 2 edition(s)
+
+["Fukuoka, Japan"]
+# 2 edition(s)
+
+["Funchal, Madeira"]
+# 2 edition(s)
+
+["Glasgow, Scotland"]
+# 2 edition(s)
+
+["Goa, India"]
+# 2 edition(s)
+
+["Guangzhou, China"]
+# 2 edition(s)
+
+["Guilin, China"]
+# 2 edition(s)
+
+["Hoboken, NJ, USA"]
+# 2 edition(s)
+
+["Hsinchu, Taiwan"]
+# 2 edition(s)
+
+["Kassel, Germany"]
+# 2 edition(s)
+
+["Larnaca, Cyprus"]
+# 2 edition(s)
+
+["Las Vegas, USA"]
+# 2 edition(s)
+
+["L’Aquila, Italy"]
+# 2 edition(s)
+
+["Maceio, Brazil"]
+# 2 edition(s)
+
+["Marburg, Germany"]
+# 2 edition(s)
+
+["Marrakech, Morocco"]
+# 2 edition(s)
+
+["Milano, Italy"]
+# 2 edition(s)
+
+["Moffett Field, CA, USA"]
+# 2 edition(s)
+
+["Montréal, Québec"]
+# 2 edition(s)
+
+["Málaga, Spain"]
+# 2 edition(s)
+
+["Nashville, Tennessee, USA"]
+# 2 edition(s)
+
+["New Orleans, Louisiana, United States"]
+# 2 edition(s)
+
+["New York, NY, USA"]
+# 2 edition(s)
+
+["Obergurgl, Austria"]
+# 2 edition(s)
+
+["Osaka, Japan"]
+# 2 edition(s)
+
+["Ottawa, Canada"]
+# 2 edition(s)
+
+["Ottawa, Ontario, Canada"]
+# 2 edition(s)
+
+["Paderborn, Germany"]
+# 2 edition(s)
+
+["Pau, France"]
+# 2 edition(s)
+
+["Philadelphia, Pennsylvania, United States"]
+# 2 edition(s)
+
+["Poitiers, France"]
+# 2 edition(s)
+
+["Québec City, Canada"]
+# 2 edition(s)
+
+["Raleigh, North Carolina, USA"]
+# 2 edition(s)
+
+["Rennes, Bretagne, France"]
+# 2 edition(s)
+
+["Rennes, France"]
+# 2 edition(s)
+
+["Reykjavík, Iceland"]
+# 2 edition(s)
+
+["Saint Petersburg, Russia"]
+# 2 edition(s)
+
+["Saint-Malo, Bretagne, France"]
+# 2 edition(s)
+
+["San Diego, CA, USA"]
+# 2 edition(s)
+
+["Seattle, Washington, USA"]
+# 2 edition(s)
+
+["Shanghai, China (hybrid)"]
+# 2 edition(s)
+
+["Shenzhen, China"]
+# 2 edition(s)
+
+["Southampton, UK"]
+# 2 edition(s)
+
+["Stellenbosch, South Africa"]
+# 2 edition(s)
+
+["Taormina, Italy"]
+# 2 edition(s)
+
+["Tbilisi, Georgia (hybrid)"]
+# 2 edition(s)
+
+["Timișoara, Romania"]
+# 2 edition(s)
+
+["Toledo, Spain"]
+# 2 edition(s)
+
+["Tsukuba, Japan"]
+# 2 edition(s)
+
+["Tunis, Tunisia"]
+# 2 edition(s)
+
+["Tōkyō, Japan"]
+# 2 edition(s)
+
+["Urbino, Italy"]
+# 2 edition(s)
+
+["Vancouver, Canada"]
+# 2 edition(s)
+
+["Venice, Italy"]
+# 2 edition(s)
+
+["Virtual (Vienna, Austria)"]
+# 2 edition(s)
+
+["Xi’An, China"]
+# 2 edition(s)
+
+["Xi’an, China"]
+# 2 edition(s)
+
+["Đà Nẵng, Việt Nam"]
+# 2 edition(s)
+
+["<span class=\"extended\">Hong Kong, China</span>York, England"]
+# 1 edition(s)
+
+["?"]
+# 1 edition(s)
+
+["Ahmedabad University"]
+# 1 edition(s)
+
+["Alicante, Spain"]
+# 1 edition(s)
+
+["Almería, Spain"]
+# 1 edition(s)
+
+["Angers, France"]
+# 1 edition(s)
+
+["Auckland, New Zealand"]
+# 1 edition(s)
+
+["Austin, TX, USA"]
+# 1 edition(s)
+
+["Awassa, Ethiopia"]
+# 1 edition(s)
+
+["Baku, Azerbaijan"]
+# 1 edition(s)
+
+["Baltimore, Maryland"]
+# 1 edition(s)
+
+["Bangkok - Thailand"]
+# 1 edition(s)
+
+["Bar-Ilan, Israel"]
+# 1 edition(s)
+
+["Bariloche, Argentina"]
+# 1 edition(s)
+
+["Beijing, China (+ virtual options)"]
+# 1 edition(s)
+
+["Beijing, China (hybrid)"]
+# 1 edition(s)
+
+["Bejaïa, Algeria"]
+# 1 edition(s)
+
+["Bengaluru, India"]
+# 1 edition(s)
+
+["Bensançon, France"]
+# 1 edition(s)
+
+["Berlin, Germany (or online)"]
+# 1 edition(s)
+
+["Birmingham, UK"]
+# 1 edition(s)
+
+["Bombay, India"]
+# 1 edition(s)
+
+["Bordeaux, France or online"]
+# 1 edition(s)
+
+["Boston, MA, USA"]
+# 1 edition(s)
+
+["Boston, Massachusetts, United States"]
+# 1 edition(s)
+
+["Boston, USA"]
+# 1 edition(s)
+
+["Boulder, USA"]
+# 1 edition(s)
+
+["Bozen-Bolzano, Italy"]
+# 1 edition(s)
+
+["Braga, Portugal"]
+# 1 edition(s)
+
+["Brighton, UK"]
+# 1 edition(s)
+
+["Bristol, England"]
+# 1 edition(s)
+
+["Bristol, UK"]
+# 1 edition(s)
+
+["Brno (Czech Republic)"]
+# 1 edition(s)
+
+["Bruxelles, Belgique"]
+# 1 edition(s)
+
+["CNAM, Paris, France"]
+# 1 edition(s)
+
+["Caen, France"]
+# 1 edition(s)
+
+["Cali, Colombia"]
+# 1 edition(s)
+
+["Carthage, Tunis, Tunisia"]
+# 1 edition(s)
+
+["Cascais, Lisbon, Portugal"]
+# 1 edition(s)
+
+["Cascais, Portugal"]
+# 1 edition(s)
+
+["Cascais/Lisbon, Portugal"]
+# 1 edition(s)
+
+["Catania, Sicily, Italy"]
+# 1 edition(s)
+
+["Changsha, China"]
+# 1 edition(s)
+
+["Charlotte, NC, USA"]
+# 1 edition(s)
+
+["Charlotte, NC, USA (hybrid)"]
+# 1 edition(s)
+
+["Chengdu, China"]
+# 1 edition(s)
+
+["Chiba, Japan"]
+# 1 edition(s)
+
+["Chicago, IL, USA"]
+# 1 edition(s)
+
+["Christchurch, New Zealand"]
+# 1 edition(s)
+
+["Clermont-Ferrand, France"]
+# 1 edition(s)
+
+["Cluj-Napoca, Romania"]
+# 1 edition(s)
+
+["Corfu, Greece"]
+# 1 edition(s)
+
+["Cork, Ireland"]
+# 1 edition(s)
+
+["Coruña, Spain"]
+# 1 edition(s)
+
+["Crete, Greece"]
+# 1 edition(s)
+
+["Cần Thơ, Việt Nam"]
+# 1 edition(s)
+
+["Daegu, Korea"]
+# 1 edition(s)
+
+["Daejeon, South Korea"]
+# 1 edition(s)
+
+["Danang, Việt Nam"]
+# 1 edition(s)
+
+["Darmstadt, Germany"]
+# 1 edition(s)
+
+["Detroit, Michigan, USA"]
+# 1 edition(s)
+
+["Djerba, Tunisia"]
+# 1 edition(s)
+
+["Dortmund, Germany"]
+# 1 edition(s)
+
+["Dubai, United Arab Emirates"]
+# 1 edition(s)
+
+["Edinburgh, Scotland"]
+# 1 edition(s)
+
+["Edmonton, Canada"]
+# 1 edition(s)
+
+["Egham, United Kingdom"]
+# 1 edition(s)
+
+["Emden, Germany"]
+# 1 edition(s)
+
+["Enschede, The Netherlands"]
+# 1 edition(s)
+
+["Evry, France"]
+# 1 edition(s)
+
+["Firenze, Italy"]
+# 1 edition(s)
+
+["Frankfurt, Germany"]
+# 1 edition(s)
+
+["Funchal, Madeira, Portugal"]
+# 1 edition(s)
+
+["Gaithersburg, MD, USA"]
+# 1 edition(s)
+
+["Gangneung, South Korea"]
+# 1 edition(s)
+
+["Garching bei München, Germany"]
+# 1 edition(s)
+
+["Gebze-Istanbul, Türkiye"]
+# 1 edition(s)
+
+["Genoa, Italy"]
+# 1 edition(s)
+
+["Goa Campus, India"]
+# 1 edition(s)
+
+["Gold Coast, Australia (or virtual)"]
+# 1 edition(s)
+
+["Granada, Spain"]
+# 1 edition(s)
+
+["Greenwich, London, United Kingdom"]
+# 1 edition(s)
+
+["Groningen, The Netherlands"]
+# 1 edition(s)
+
+["Guiyang City, China"]
+# 1 edition(s)
+
+["Göttingen, Germany"]
+# 1 edition(s)
+
+["Göttingen, Germany (hybrid)"]
+# 1 edition(s)
+
+["Haifa, Israel (or online)"]
+# 1 edition(s)
+
+["Haifa, Israelf"]
+# 1 edition(s)
+
+["Halmstad, Sweden"]
+# 1 edition(s)
+
+["Hamilton, New Zealand"]
+# 1 edition(s)
+
+["Hamilton, Ontario, Canada"]
+# 1 edition(s)
+
+["Hampton Roads, VA, USA"]
+# 1 edition(s)
+
+["Hannover, Germany"]
+# 1 edition(s)
+
+["Hanoi, Vietnam"]
+# 1 edition(s)
+
+["Heidelberg Germany"]
+# 1 edition(s)
+
+["Heraklion, Crete, Greece"]
+# 1 edition(s)
+
+["Hiroshima, Japan"]
+# 1 edition(s)
+
+["Hokkaido, Japan"]
+# 1 edition(s)
+
+["Honolulu, USA"]
+# 1 edition(s)
+
+["Houston, USA"]
+# 1 edition(s)
+
+["Huế, Việt Nam"]
+# 1 edition(s)
+
+["Hybrid (Tehran, Iran)"]
+# 1 edition(s)
+
+["Hồ-Chí-Minh City, Việt Nam"]
+# 1 edition(s)
+
+["Hồ-Chí-Minh-City, Việt Nam"]
+# 1 edition(s)
+
+["IIT Delhi, New Delhi, India"]
+# 1 edition(s)
+
+["IIT Gandhinagar, India"]
+# 1 edition(s)
+
+["IIT Hyderabad, India"]
+# 1 edition(s)
+
+["IIT Kanpur, India"]
+# 1 edition(s)
+
+["IIT Madras, India"]
+# 1 edition(s)
+
+["Iasi, Romania"]
+# 1 edition(s)
+
+["Iași, Romania"]
+# 1 edition(s)
+
+["Iași, România"]
+# 1 edition(s)
+
+["Indian Statistical Institute Kolkata, India"]
+# 1 edition(s)
+
+["Innsbruck, Austria"]
+# 1 edition(s)
+
+["Irvine, California"]
+# 1 edition(s)
+
+["Irvine, California, USA"]
+# 1 edition(s)
+
+["Irvine, USA"]
+# 1 edition(s)
+
+["Istanbul, Türkiye"]
+# 1 edition(s)
+
+["Jaipur, India"]
+# 1 edition(s)
+
+["Jeju Island, Korea"]
+# 1 edition(s)
+
+["Jeju island, South Korea"]
+# 1 edition(s)
+
+["Jena, Germany"]
+# 1 edition(s)
+
+["Jerusalem, Israel"]
+# 1 edition(s)
+
+["Kaiserslautern, Germany"]
+# 1 edition(s)
+
+["Kanazawa, Japan"]
+# 1 edition(s)
+
+["Kanpur, India"]
+# 1 edition(s)
+
+["Kingston, Canada"]
+# 1 edition(s)
+
+["Kirchberg, Luxembourg"]
+# 1 edition(s)
+
+["Klagenfurt, Austria"]
+# 1 edition(s)
+
+["Kongens Lyngby, Denmark"]
+# 1 edition(s)
+
+["Kuala Lumpur, Malaysia"]
+# 1 edition(s)
+
+["LSV, Cachan, France"]
+# 1 edition(s)
+
+["Leicester, England"]
+# 1 edition(s)
+
+["Leiden, the Netherlands"]
+# 1 edition(s)
+
+["Leipzig, Germany"]
+# 1 edition(s)
+
+["Lima, Peru"]
+# 1 edition(s)
+
+["Linz, Austria"]
+# 1 edition(s)
+
+["Lisbon Portugal"]
+# 1 edition(s)
+
+["Liverpool, England (hybrid or virtual)"]
+# 1 edition(s)
+
+["Liverpool, UK"]
+# 1 edition(s)
+
+["Los Angeles, California, USA"]
+# 1 edition(s)
+
+["Lucca, Italy"]
+# 1 edition(s)
+
+["Lugano, Switzerland"]
+# 1 edition(s)
+
+["Lyngby, Denmark"]
+# 1 edition(s)
+
+["Lübeck, Germany"]
+# 1 edition(s)
+
+["L’Aquila (Italy)"]
+# 1 edition(s)
+
+["Malta"]
+# 1 edition(s)
+
+["Manaus, Brazil"]
+# 1 edition(s)
+
+["Manchester, England"]
+# 1 edition(s)
+
+["Manchester, UK"]
+# 1 edition(s)
+
+["Marne-la-Vallée, France"]
+# 1 edition(s)
+
+["Marrakech, Morocco (hybrid)"]
+# 1 edition(s)
+
+["Maun, Botswana"]
+# 1 edition(s)
+
+["Mauritius"]
+# 1 edition(s)
+
+["Maynooth University, Ireland"]
+# 1 edition(s)
+
+["Maynooth, Ireland"]
+# 1 edition(s)
+
+["Memphis, TN, USA"]
+# 1 edition(s)
+
+["Menlo Park, CA, USA"]
+# 1 edition(s)
+
+["Menlo Park, California, US"]
+# 1 edition(s)
+
+["Menlo Park, California, USA"]
+# 1 edition(s)
+
+["Miami Beach, FL, USA"]
+# 1 edition(s)
+
+["Minneapolis, MN, USA"]
+# 1 edition(s)
+
+["Moffett Field, California"]
+# 1 edition(s)
+
+["Mons, Belgium"]
+# 1 edition(s)
+
+["Montreal, Québec, Canada"]
+# 1 edition(s)
+
+["Mountain View, CA, USA"]
+# 1 edition(s)
+
+["Münster, Germany"]
+# 1 edition(s)
+
+["Namur, Belgium"]
+# 1 edition(s)
+
+["Nantes, France"]
+# 1 edition(s)
+
+["Napoly, Italy"]
+# 1 edition(s)
+
+["Nara, Japan"]
+# 1 edition(s)
+
+["Nashville, TN, USA"]
+# 1 edition(s)
+
+["Natal, Rio Grande do Norte, Brazil"]
+# 1 edition(s)
+
+["Neuchâtel, Switzerland"]
+# 1 edition(s)
+
+["New Dehli, India"]
+# 1 edition(s)
+
+["New Delhi, India"]
+# 1 edition(s)
+
+["New York, USA"]
+# 1 edition(s)
+
+["Newport News, VA, USA"]
+# 1 edition(s)
+
+["Nusa Dua, Bali, Indonesia"]
+# 1 edition(s)
+
+["Oakland, California, United States"]
+# 1 edition(s)
+
+["Oberbronn, France"]
+# 1 edition(s)
+
+["Online (Boston, MA, USA)"]
+# 1 edition(s)
+
+["Online (Vienna, Austria)"]
+# 1 edition(s)
+
+["Orlando, Florida, United States"]
+# 1 edition(s)
+
+["Orléans, France"]
+# 1 edition(s)
+
+["Padua, Italy (hybrid?)"]
+# 1 edition(s)
+
+["Palermo, Italy"]
+# 1 edition(s)
+
+["Palma de Mallorca, Spain"]
+# 1 edition(s)
+
+["Paphos, Cyprus"]
+# 1 edition(s)
+
+["Parc Alvisse Hotel, Luxembourg"]
+# 1 edition(s)
+
+["Paris, France (hybrid)"]
+# 1 edition(s)
+
+["Pasadena, California, USA"]
+# 1 edition(s)
+
+["Pasadena, California, USA (hybrid)"]
+# 1 edition(s)
+
+["Pasadena, California, United States"]
+# 1 edition(s)
+
+["Patras, Greece"]
+# 1 edition(s)
+
+["Penang, Malaysia"]
+# 1 edition(s)
+
+["Perth, Australia"]
+# 1 edition(s)
+
+["Perth, Western Australia"]
+# 1 edition(s)
+
+["Phnom Penh, Cambodia"]
+# 1 edition(s)
+
+["Pistoia, Italy"]
+# 1 edition(s)
+
+["Pohang, South Korea"]
+# 1 edition(s)
+
+["Poitiers/Futuroscope, France"]
+# 1 edition(s)
+
+["Porto de Galinhas, Brazil"]
+# 1 edition(s)
+
+["Porto, Portugal (hybrid?)"]
+# 1 edition(s)
+
+["Portsmouth, USA"]
+# 1 edition(s)
+
+["Poznań, Poland"]
+# 1 edition(s)
+
+["Pune, India"]
+# 1 edition(s)
+
+["Putrajaya, Malaysia"]
+# 1 edition(s)
+
+["Qingdao, China"]
+# 1 edition(s)
+
+["Québec City, Québec"]
+# 1 edition(s)
+
+["Recife - Pernambuco, Brazil"]
+# 1 edition(s)
+
+["Recife, Brazil"]
+# 1 edition(s)
+
+["Reims, France"]
+# 1 edition(s)
+
+["Reykjavík, Iceland (hybrid)"]
+# 1 edition(s)
+
+["Rhodes, Greece"]
+# 1 edition(s)
+
+["Rice University, Houston, Texas, USA"]
+# 1 edition(s)
+
+["Rold Storkro, Skoerping (Aalborg), Denmark"]
+# 1 edition(s)
+
+["Saclay, France"]
+# 1 edition(s)
+
+["Sacramento, California, United States"]
+# 1 edition(s)
+
+["Salamanca, Spain"]
+# 1 edition(s)
+
+["Salvador-BA, Brazil"]
+# 1 edition(s)
+
+["San Diego, USA"]
+# 1 edition(s)
+
+["San Francisco, USA"]
+# 1 edition(s)
+
+["San Jose, California, USA"]
+# 1 edition(s)
+
+["Santa Barbara, CA, USA"]
+# 1 edition(s)
+
+["Santa Barbara, California, USA"]
+# 1 edition(s)
+
+["Santa Cruz, CA, USA"]
+# 1 edition(s)
+
+["Santiago, Chile"]
+# 1 edition(s)
+
+["Seattle, USA"]
+# 1 edition(s)
+
+["Seoul, Korea"]
+# 1 edition(s)
+
+["Sevilla, Spain"]
+# 1 edition(s)
+
+["Seville, Spain"]
+# 1 edition(s)
+
+["Siegen, Germany"]
+# 1 edition(s)
+
+["Siena, Italy"]
+# 1 edition(s)
+
+["Singapore (+ virtual options)"]
+# 1 edition(s)
+
+["Sokcho, South Korea"]
+# 1 edition(s)
+
+["Sophia Antipolis, France"]
+# 1 edition(s)
+
+["Sorrento Coast, Italy"]
+# 1 edition(s)
+
+["Southampton, England"]
+# 1 edition(s)
+
+["Spetses, Greece"]
+# 1 edition(s)
+
+["St. Petersburg, Florida, USA"]
+# 1 edition(s)
+
+["St. Raphael Resort and Marina, Limassol, Cyprus"]
+# 1 edition(s)
+
+["Strasbourg, France"]
+# 1 edition(s)
+
+["Sydney Australia"]
+# 1 edition(s)
+
+["Taipei, Taiwan (hybrid)"]
+# 1 edition(s)
+
+["Tallinn, Estonia (hybrid)"]
+# 1 edition(s)
+
+["Tampere, Finland"]
+# 1 edition(s)
+
+["Tianjin, China"]
+# 1 edition(s)
+
+["Toronto, Ontario, Canada"]
+# 1 edition(s)
+
+["Towson, Maryland, USA"]
+# 1 edition(s)
+
+["Trieste, Italy"]
+# 1 edition(s)
+
+["Udine, Italy"]
+# 1 edition(s)
+
+["Ulm, Germany"]
+# 1 edition(s)
+
+["Umeå, Sweden"]
+# 1 edition(s)
+
+["University of Calabria, Rende, Italy"]
+# 1 edition(s)
+
+["University of Twente, Enschede, the Netherlands"]
+# 1 edition(s)
+
+["Urbana-Champaign, Illinois, USA"]
+# 1 edition(s)
+
+["Utrecht, The Netherlands"]
+# 1 edition(s)
+
+["Valencia, France"]
+# 1 edition(s)
+
+["Valencia, Spain"]
+# 1 edition(s)
+
+["Vienne, Austria"]
+# 1 edition(s)
+
+["Virtual"]
+# 1 edition(s)
+
+["Virtual (Konstanz, Germany)"]
+# 1 edition(s)
+
+["Virtual (Lugano, Switzerland)"]
+# 1 edition(s)
+
+["Virtual (Paris, France)"]
+# 1 edition(s)
+
+["Vitória - Espírito Santo, Brazil"]
+# 1 edition(s)
+
+["Warsaw, Poland (hybrid)"]
+# 1 edition(s)
+
+["Wellington, New Zealand"]
+# 1 edition(s)
+
+["Wonju, South Korea"]
+# 1 edition(s)
+
+["Wrocław, Poland"]
+# 1 edition(s)
+
+["Wuhan, China"]
+# 1 edition(s)
+
+["Yale University, Connecticut, USA (or virtual)"]
+# 1 edition(s)
+
+["Yokohama, Japan"]
+# 1 edition(s)
+
+["York, UK"]
+# 1 edition(s)
+
+["York, UK / online"]
+# 1 edition(s)
+
+["York, United Kingdom"]
+# 1 edition(s)
+
+["Zhangjiajie, China"]
+# 1 edition(s)
+
+["none"]
+# 1 edition(s)
+
+["virtual? (Brussels, Belgium)"]
+# 1 edition(s)
+
+["Ávila, Spain"]
+# 1 edition(s)

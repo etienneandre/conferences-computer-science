@@ -1,0 +1,301 @@
+# Adapted from publishers-draft.toml
+#
+# Grouped by case-insensitive name only. Variants that mean the same
+# publisher are NOT merged automatically.
+#
+# NOTE: default_license only affects entries we will create by hand from now on (migrated editions all carry an explicit licence).
+
+["Springer LNCS"]
+default_license = "pay-profit"
+# TODO: 369 editions, mixed licences: pay-profit ×349, pay ×10, cc-by ×8, free ×2
+
+["IEEE"]
+default_license = "pay"
+# TODO: 99 editions, mixed licences: pay ×98, free-copy ×1
+
+["ACM"]
+default_license = "acm"
+# TODO: 97 editions, mixed licences: acm ×72, pay ×14, free-copy ×9, free ×2
+
+["LIPIcs"]
+default_license = "cc-by"
+# TODO: 84 editions, mixed licences: cc-by ×72, cc-by-nd ×12
+
+["EPTCS"]
+default_license = "cc-by"
+# TODO: 65 editions, mixed licences: cc-by ×60, cc-by-nd ×3, free ×2
+
+["informal"]
+# TODO: no licence recorded for this publisher.
+# TODO: 33 editions, mixed licences: ? ×24, free ×5, free-copy ×4
+
+["?"]
+# TODO: no licence recorded for this publisher.
+# TODO: 29 editions, mixed licences: ? ×28, pay ×1
+
+["Springer ARCoSS LNCS"]
+default_license = "cc-by"
+
+["IEEE CPS"]
+default_license = "pay"
+
+["PDF"]
+# TODO: no licence recorded for this publisher.
+# TODO: 22 editions, mixed licences: ? ×17, free ×5
+
+["CEUR-WS"]
+default_license = "free"
+# TODO: 18 editions, mixed licences: free ×9, ? ×9
+
+["ACM Digital Library"]
+default_license = "acm"
+aliases = ["ACM digital library"]
+# TODO: 16 editions, mixed licences: acm ×12, pay ×4
+
+["ACM ICPS"]
+default_license = "acm"
+
+["Springer"]
+default_license = "pay-profit"
+
+["Springer LNCS/LNBI"]
+default_license = "pay-profit"
+
+["ACM/IEEE"]
+default_license = "acm"
+# TODO: 13 editions, mixed licences: acm ×12, pay ×1
+
+["IEEE Xplore"]
+default_license = "pay"
+
+["LNCS"]
+default_license = "pay-profit"
+
+["IEEE/ACM"]
+default_license = "acm"
+# TODO: 11 editions, mixed licences: acm ×9, pay ×1, free ×1
+
+["PACMPL"]
+default_license = "cc-by"
+# TODO: 11 editions, mixed licences: cc-by ×8, free ×3
+
+["IEEE Xplore Digital Library"]
+default_license = "pay"
+
+["IEEE (?)"]
+default_license = "pay"
+
+["OASIcs"]
+default_license = "cc-by"
+
+["Springer LNCS IFIP"]
+default_license = "pay-profit"
+# TODO: 8 editions, mixed licences: pay-profit ×7, pay-profit-embargo ×1
+
+["ACM SIGPLAN Proceedings"]
+default_license = "acm"
+
+["Web page"]
+default_license = "free"
+
+["IEEE Conference Publishing Services"]
+default_license = "pay"
+
+["ThinkMind"]
+default_license = "free-copy"
+# TODO: 7 editions, mixed licences: free-copy ×6, free ×1
+
+["IEEE Computer Society Press"]
+default_license = "pay"
+
+["ACM Digital Library + conference Web site"]
+default_license = "free-copy"
+
+["none?"]
+# TODO: no licence recorded for this publisher.
+aliases = ["None?"]
+
+["EasyChair EPiC series"]
+default_license = "free"
+
+["informal proceedings"]
+# TODO: no licence recorded for this publisher.
+
+["TU Wien Academic Press / ACM/IEEE"]
+default_license = "cc-by"
+
+["Springer CCIS"]
+default_license = "pay-profit"
+
+["Springer LNAI/LNCS"]
+default_license = "pay-profit"
+# TODO: 6 editions, mixed licences: pay-profit ×4, cc-by ×2
+
+["HAL"]
+default_license = "free"
+
+["No formal proceedings?"]
+# TODO: no licence recorded for this publisher.
+# TODO: 6 editions, mixed licences: ? ×3, free ×3
+
+["Springer LNCS/LNAI"]
+default_license = "pay-profit"
+
+["Springer LNCS ARCoSS"]
+default_license = "pay-profit"
+
+["AAAI Press"]
+default_license = "free-copy"
+
+["EPiC Series in Computing"]
+default_license = "free"
+
+["arXiv"]
+default_license = "free"
+
+["EASST"]
+default_license = "free"
+# TODO: 4 editions, mixed licences: free ×3, free-copy ×1
+
+["Special issue of ACM SIGBED Review"]
+default_license = "acm"
+# TODO: 4 editions, mixed licences: acm ×3, ? ×1
+
+["IEEJ"]
+# TODO: no licence recorded for this publisher.
+
+["Science Direct"]
+default_license = "free-copy"
+# TODO: 3 editions, mixed licences: free-copy ×2, cc-by ×1
+
+["Given to participants"]
+default_license = "free"
+
+["PDF online"]
+default_license = "free"
+
+["IEEE-Xplore"]
+default_license = "pay"
+
+["ACM SIGPLAN Proceedings (?)"]
+default_license = "acm"
+
+["None (?)"]
+# TODO: no licence recorded for this publisher.
+
+["eWiC"]
+default_license = "free"
+
+["ScienceDirect (Elsevier)"]
+default_license = "pay-profit"
+
+["IRIT research report"]
+default_license = "free"
+
+["SCITEPRESS Digital Library"]
+default_license = "pay-profit"
+# TODO: 2 editions, mixed licences: pay-profit ×1, ? ×1
+
+["IEEE CS"]
+default_license = "pay"
+
+["Web page?"]
+# TODO: no licence recorded for this publisher.
+
+["LNCS-IFIP"]
+default_license = "pay-profit-embargo"
+# TODO: 2 editions, mixed licences: pay-profit-embargo ×1, pay-profit ×1
+
+["IEEE ?"]
+default_license = "pay"
+
+["ACM/IEEE (+ Web page)"]
+default_license = "free"
+
+["No formal proceedings (PDF online)"]
+default_license = "free"
+
+["ACM open"]
+default_license = "free"
+
+["PACMSE"]
+default_license = "acm"
+# TODO: 2 editions, mixed licences: acm ×1, cc-by ×1
+
+["Computer Society’s Digital Library"]
+default_license = "free-copy"
+
+["IEEE eXplore"]
+default_license = "pay"
+
+["Springer LNICST series"]
+default_license = "pay-profit"
+
+["Journal of Science and Technology (Vietnam Academy of Science and Technology)"]
+# TODO: no licence recorded for this publisher.
+
+["IEEE TCAD"]
+default_license = "pay"
+
+["No official proceedings"]
+# TODO: no licence recorded for this publisher.
+
+["Springer LNCS 9446"]
+default_license = "pay-profit"
+
+["No proceedings"]
+# TODO: no licence recorded for this publisher.
+
+["Springer ARCoSS / LNCS"]
+default_license = "pay-profit"
+
+["FoLLI-LNCS"]
+default_license = "pay-profit"
+
+["The Journal of Object Technology"]
+default_license = "free-copy"
+
+["(No formal proceedings)"]
+# TODO: no licence recorded for this publisher.
+
+["Booklet"]
+default_license = "free"
+
+["Website"]
+default_license = "free"
+
+["AAAI"]
+default_license = "pay"
+
+["Web site?"]
+default_license = "free"
+
+["JESA Hermès (?)"]
+default_license = "pay-profit"
+
+["Elsevier ENTCS"]
+default_license = "pay-profit"
+
+["ACM SigPlan"]
+default_license = "acm"
+
+["Springer LNCS / ARCoSS"]
+default_license = "cc-by"
+
+["SIGBED Review"]
+default_license = "acm"
+
+["ACM SIGBED Review"]
+default_license = "acm"
+
+["Science of Computer Programming, Elsevier"]
+default_license = "pay-profit"
+
+["ACM / IEEE explore"]
+default_license = "pay"
+
+["ACM Software Engineering"]
+# TODO: no licence recorded for this publisher.
+
+["none"]
+# TODO: no licence recorded for this publisher.
