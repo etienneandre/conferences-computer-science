@@ -1,0 +1,230 @@
+# enums.toml — closed vocabularies for conferences-computer.science
+#
+# Every enum value used anywhere in data/ must appear here, or the build fails.
+# That rule is the safeguard against a typo silently creating a phantom
+# category.
+#
+# Values carry *attributes*, not just labels. Front-end filters are derived
+# from the attributes, never from a hard-coded list of keys: "show open access
+# only" means `open_license = true`, so adding a new licence never requires
+# touching the filter code.
+
+
+################################################################################
+# Proceedings licences
+################################################################################
+#
+# Three independent axes, deliberately kept separate:
+#
+#   free_to_read         can a reader get the paper without paying?
+#   open_license         is it under a proper open licence (Creative Commons)?
+#   authors_keep_rights  do the authors retain their copyright?
+#
+# "Free but not open" is a real and common case (a publisher hosting free PDFs
+# while holding the copyright), and conflating it with Creative Commons would
+# misrepresent it.
+#
+# Note: whether the publisher is for-profit is NOT a licence attribute. It
+# belongs to the publisher, and lives in publishers.toml.
+
+[license.cc-by]
+label = "CC BY"
+description = "open access, authors keep their rights"
+css = "proccc"
+free_to_read = true
+open_license = true
+authors_keep_rights = true
+image = "by.png"
+url = "https://creativecommons.org/licenses/by/3.0/"
+
+[license.cc-by-nd]
+label = "CC BY-ND"
+description = "open access, authors keep their rights"
+css = "proccc"
+free_to_read = true
+open_license = true
+authors_keep_rights = true
+image = "by-nd.png"
+url = "https://creativecommons.org/licenses/by-nd/3.0/"
+
+[license.cc-by-nc-nd]
+label = "CC BY-NC-ND"
+description = "open access, authors keep their rights"
+css = "proccc"
+free_to_read = true
+open_license = true
+authors_keep_rights = true
+image = "by-nc-nd.png"
+url = "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+
+[license.free]
+label = "Free access"
+description = "free access, authors keep their rights"
+css = "procfree"
+free_to_read = true
+open_license = false
+authors_keep_rights = true
+
+[license.free-copy]
+label = "Free access, copyright transferred"
+description = "free access, but authors lose their rights"
+css = "procfreecopyright"
+free_to_read = true
+open_license = false
+authors_keep_rights = false
+
+[license.acm]
+label = "ACM Digital Library"
+description = "🔒️ paid access, forcing conferences to move to gold “open” access"
+css = "procacm"
+free_to_read = false
+open_license = false
+authors_keep_rights = false
+
+[license.pay]
+label = "Paywalled"
+description = "🔒️ no access unless payment"
+css = "procpay"
+free_to_read = false
+open_license = false
+authors_keep_rights = false
+
+[license.pay-profit]
+label = "Paywalled, for-profit"
+description = "🔒️ for-profit publishing, no access unless payment"
+css = "procpayforprofit"
+free_to_read = false
+open_license = false
+authors_keep_rights = false
+
+[license.pay-profit-embargo]
+label = "Paywalled, for-profit, embargoed"
+description = "🔒️ for-profit publishing, no access unless payment, with an embargo until open access"
+css = "procpayforprofitembargo"
+free_to_read = false
+open_license = false
+authors_keep_rights = false
+embargo = true
+
+
+################################################################################
+# CORE ranks
+################################################################################
+#
+# `unranked` and `absent` are NOT the same thing, and neither means "unknown":
+# an absent key means unknown (see SCHEMA.md § 1.2).
+
+[core.A-star]
+key = "A*"
+label = "A*"
+css = "coreAstar"
+order = 1
+
+[core.A]
+key = "A"
+label = "A"
+css = "coreA"
+order = 2
+
+[core.B]
+key = "B"
+label = "B"
+css = "coreB"
+order = 3
+
+[core.C]
+key = "C"
+label = "C"
+css = "coreC"
+order = 4
+
+[core.unranked]
+key = "unranked"
+label = "CORE: unranked"
+description = "listed in the CORE portal, but not ranked"
+css = "coreunranked"
+order = 5
+
+[core.absent]
+key = "absent"
+label = "CORE: absent"
+description = "not listed in the CORE portal at all"
+css = "coreabsent"
+order = 6
+
+
+################################################################################
+# Reviewing model
+################################################################################
+
+[blind.single]
+label = "Single blind"
+icon = "👁"
+
+[blind.double]
+label = "Double blind"
+icon = "🧑‍🦯"
+
+[blind.lightweight-double]
+label = "Lightweight double blind"
+icon = "🧑‍🦯"
+
+
+################################################################################
+# Committee composition
+################################################################################
+#
+# Only `male-only` is currently surfaced prominently; the others are recorded
+# so the claim can be made from evidence rather than from silence.
+
+[diversity.male-only]
+label = "Male-only edition"
+description = "apparently no woman invited as scientific chair nor keynote speaker this year"
+css = "diversity-male-only"
+highlight = true
+
+[diversity.mixed]
+label = "Mixed"
+
+[diversity.women-only]
+label = "Women-only"
+
+
+################################################################################
+# Edition status
+################################################################################
+
+[status.announced]
+label = "Announced"
+description = "announced, dates not yet published"
+listed = true
+
+[status.cancelled]
+label = "Cancelled"
+listed = false
+
+[status.postponed]
+label = "Postponed"
+listed = false
+
+[status.joint]
+label = "Held jointly"
+description = "held jointly with another series; the data lives there"
+listed = false
+
+[status.no-edition]
+label = "No edition"
+description = "explicitly: no edition took place that year"
+listed = false
+
+
+################################################################################
+# Series lifecycle
+################################################################################
+#
+# Used by `defunct` in conference.toml, which takes either a year or the
+# string "seemingly".
+
+[defunct.seemingly]
+label = "Seemingly discontinued"
+css = "dead"
