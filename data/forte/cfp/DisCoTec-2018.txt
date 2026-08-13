@@ -1,0 +1,242 @@
+************************************************************************
+
+  Call for Papers
+
+  DisCoTec 2018
+
+  13th International Federated Conference on
+  Distributed Computing Techniques
+
+  http://2018.discotec.org
+
+  Madrid, Spain, 18-21 June 2018
+
+************************************************************************
+
+The DisCoTec series of federated conferences is one of the major events
+sponsored by the International Federation for Information Processing
+(IFIP). The main conferences are:
+
+* COORDINATION
+* DAIS
+* FORTE
+
+* Important Dates *
+
+COORDINATION, DAIS & FORTE (LNCS publication)
+
+- February 2, 2018: Submission of abstract
+- February 9, 2018: Submission of papers
+- March 30, 2018: Notification of accepted papers
+- June 18-20, 2018: Conferences in Madrid
+
+Collocated workshops:
+
+- January 12, 2018: Deadline for workshop proposals
+- January 26, 2018: Notification of accepted workshops
+- Mid April, 2018: Submission of papers (workshops)
+- Mid May, 2018: Notification of accepted papers (workshops)
+- June 20-21, 2018 Workshops in Madrid
+
+* General Chair *
+
+Manuel Núñez (Universidad Complutense de Madrid, Spain)
+
+* Organisation Chairs *
+
+Jesús Correas (Universidad Complutense de Madrid, Spain)
+Sonia Estévez (Universidad Complutense de Madrid, Spain)
+
+* Publicity Chair *
+
+Ivan Lanese, University of Bologna/INRIA, Italy
+
+* Workshops Chairs *
+
+Luis Llana (Universidad Complutense de Madrid, Spain)
+Ngoc-Thanh Nguyen (Wroclaw University of Science and Technology, Poland)
+
+* Steering Board *
+
+Rocco De Nicola (IMT Lucca, Italy)
+Kurt Geihs (University of Kasel, Germany)
+Alain Girault (INRIA Grenoble, France)
+Kostas Magoutis (ICS-FORTH, Greece)
+Elie Najm (Telecom Paris Tech, France — Chair)
+Uwe Nestmann (TU Berlin, Germany)
+Rui Oliveira (University of Minho, Portugal)
+Jean-Bernard Stefani (INRIA Grenoble, France)
+Gianluigi Zavattaro (University of Bologna, Italy)
+
+* Publication *
+
+Each paper will undergo a thorough process of review and the conference
+proceedings will be published by Springer-Verlag in the LNCS series.
+
+************************************************************************
+
+  COORDINATION 2018
+
+  20th IFIP International Conference on
+  Coordination Models and Languages
+
+************************************************************************
+
+* Scope *
+
+Modern information systems rely increasingly on combining concurrent,
+distributed, mobile, adaptive, reconfigurable and heterogeneous
+components. New models, architectures, languages and verification
+techniques are necessary to cope with the complexity induced by the
+demands of today's software development. Coordination languages have
+emerged as a successful approach, in that they provide abstractions that
+cleanly separate behaviour from communication, therefore increasing
+modularity, simplifying reasoning, and ultimately enhancing software
+development.
+
+Building on the success of the previous editions, this conference
+provides a well-established forum for the growing community of
+researchers interested in models, languages, architectures, and
+implementation techniques for coordination.
+
+Topics of interest encompass all areas of coordination, including (but
+not limited to) coordination related aspects of:
+- Theoretical models and foundations for coordination: component
+  composition, concurrency, mobility, dynamic, spatial and probabilistic
+  aspects of coordination, emergent behaviour, types, semantics;
+- Specification, refinement, and analysis of architectures: patterns and
+  styles, verification of functional and non-functional properties,
+  including performance aspects;
+- Coordination, architectural, and interface definition languages:
+  implementation, interoperability, heterogeneity;
+- Middlewares and coordination;
+- Dynamic software architectures: distributed mobile code,
+  configuration, reconfiguration, networked computing, parallel,
+  high-performance and cloud computing;
+- Nature- and bio-inspired approaches to coordination;
+- Coordination of multiagent and collective systems: models, languages,
+  infrastructures, self-adaptation, self-organisation, distributed
+  solving, collective intelligence and emerging behaviour;
+- Coordination and modern distributed computing: Web services,
+  peer-to-peer networks, grid computing, context-awareness, ubiquitous
+  computing, mobile computing;
+- Programming languages, middleware, tools, and environments for the
+  development of coordinated applications;
+- Programming methodologies and verification of coordinated
+  applications;
+- Industrial relevance of coordination and software architectures:
+  programming in the large, domain-specific software architectures and
+  coordination models, case studies;
+- Interdisciplinary aspects of coordination.
+
+* Program Committee Chairs *
+
+- Michele Loreti, Università degli Studi di Firenze, Italy
+- Giovanna di Marzo Serugendo, Université de Genève, Switzerland
+
+************************************************************************
+
+  DAIS 2018
+  18th IFIP International Conference on
+  Distributed Applications and Interoperable Systems
+
+************************************************************************
+
+* Scope *
+
+The DAIS conference series addresses all aspects of distributed
+applications, including their design, implementation and operation, the
+supporting middleware, appropriate software engineering methodologies
+and tools, as well as experimental studies and practice reports. This
+time we welcome particularly contributions on architectures, models,
+technologies and platforms for large scale and complex distributed
+applications and services that are related to the latest trends towards
+bridging the physical/virtual worlds based on flexible and versatile
+service architectures and platforms. Submissions will be judged on their
+originality, significance, clarity, relevance, and technical
+correctness.
+
+The topics of interest to the conference include, but are not limited
+to:
+- Novel and innovative distributed applications and systems,
+  particularly in areas of middleware, data store, cloud computing, edge
+  and fog computing, big data systems, data center and internet-scale
+  systems, social networking, cyber-physical systems, mobile computing,
+  software-defined network (SDN), service-oriented computing, and
+  peer-to-peer systems;
+- Novel architectures and mechanisms, particularly in areas of pub/sub
+  systems, language-based approaches, overlay protocols, virtualization,
+  resource allocation, blockchains, parallelization, and bio-inspired
+  distributed computing;
+- System issues and design goals, including self-management, security
+  and practical applications of cryptography, trust and privacy,
+  cooperation incentives and fairness, fault-tolerance and
+  dependability, scalability and elasticity, and tail-performance and
+  energy-efficiency;
+- Engineering and tools, including model-driven engineering,
+  domain-specific languages, design patterns and methods, profiling and
+  learning, testing and validation, and distributed debugging.
+
+* Program Committee Chairs *
+
+- Silvia Bonomi, Università degli Studi di Firenze, Italy
+- Etienne Riviere, Université catholique de Louvain, Belgium
+
+************************************************************************
+
+  FORTE 2018
+  38th IFIP International Conference on
+  Formal Techniques for Distributed Objects, Components and Systems
+
+************************************************************************
+
+* Scope *
+
+FORTE 2018 is a forum for fundamental research on theory, models, tools,
+and applications for distributed systems. The conference solicits
+original contributions that advance the science and technologies for
+distributed systems, with special interest in the areas of:
+- Component- and model-based design
+- Object technology, modularity, software adaptation
+- Service-oriented, ubiquitous, pervasive, grid, cloud, and mobile
+  computing systems
+- Software quality, reliability, availability, and safety;
+- Security, privacy, and trust in distributed systems;
+- Adaptive distributed systems, self-stabilization;
+- Self-healing/organizing;
+- Verification, validation, formal analysis, and testing of the above.
+
+Contributions that combine theory and practice and that exploit formal
+methods and theoretical foundations to present novel solutions to
+problems arising from the development of distributed systems are
+encouraged. FORTE covers distributed computing models and formal
+specification, testing and verification methods. The application domains
+include all kinds of application-level distributed systems,
+telecommunication services, Internet, embedded and real-time systems, as
+well as networking and communication security and reliability.
+
+Topics of interest include but are not limited to:
+- Languages and semantic foundations: new modeling and language concepts
+  for distribution and concurrency, semantics for different types of
+  languages, including programming languages, modeling languages, and
+  domain-specific languages; real-time and probability aspects;
+- Formal methods and techniques: design, specification, analysis,
+  verification, validation, testing and runtime verification of various
+  types of distributed systems including communications and network
+  protocols, service-oriented systems, adaptive distributed systems,
+  cyber-physical systems and sensor networks;
+- Foundations of security: new principles for qualitative and
+  quantitative security analysis of distributed systems, including
+  formal models based on probabilistic concepts;
+- Applications of formal methods: applying formal methods and techniques
+  for studying quality, reliability, availability, and safety of
+  distributed systems;
+- Practical experience with formal methods: industrial applications,
+  case studies and software tools for applying formal methods and
+  description techniques to the development and analysis of real
+  distributed systems.
+
+* Program Committee Chairs *
+
+- Luis Caires, Universidade de Lisboa, Portugal
+- Christel Baier, Universität Dresden, Germany

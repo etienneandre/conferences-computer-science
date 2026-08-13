@@ -5,11 +5,20 @@ name = "Design Automation and Test in Europe Conference"
 
 [core]
 id = "421"
-rank = "B"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "A"
+
+[[core.history]]
+from = 2010
+rank = "B"
+
+[[core.history]]
+from = 2026
+rank = "A"
 
 [links]
 dblp = "date"
 
 [legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-extensions = "20 days (2020), strict (2022)"  # from DATE 2026

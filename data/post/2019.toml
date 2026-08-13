@@ -7,6 +7,7 @@ url = "http://www.etaps.org/index.php/2018/post"
 start = 2019-04-08
 end = 2019-04-11
 city = "Prag, Czech Republic"
+colocated_with = ["fase/2019", "fossacs/2019", "tacas/2019"]
 
 [submission]
 tz = "AoE"
@@ -21,3 +22,7 @@ license = "cc-by"
 
 [extra]
 notes = "Double-blind. Rebuttal period: 11 January 00h01 to 14th January 23h59 AoE."
+
+[[cfp]]
+file = "cfp/ETAPS-2019.txt"
+stage = "initial"

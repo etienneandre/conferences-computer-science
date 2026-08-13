@@ -1,0 +1,236 @@
+******************************************************************
+
+                      JOINT CALL FOR PAPERS
+
+26th European Joint Conferences on Theory and Practice of Software
+                           ETAPS 2023
+
+                 Paris, France, 22-27 April 2023
+
+                      https://etaps.org/2023
+
+******************************************************************
+
+-- ABOUT ETAPS --
+
+ETAPS is the primary European forum for academic and industrial
+researchers working on topics relating to software science. ETAPS,
+established in 1998, is a confederation of four annual conferences
+accompanied by satellite workshops. ETAPS 2023 is the twenty-sixth
+event in the series.
+
+
+-- Why choose ETAPS? --
+
+  * ETAPS is one of the world's leading fora for research on software
+    science, with a history of more than 25 years.
+  * The proceedings of ETAPS appear in gold open access, with no article
+    processing charge for the authors specifically.
+  * ETAPS has low participation fees for all and students in particular.
+
+
+-- What is new in 2023? --
+
+  * ESOP, FASE, and newly also FoSSaCS welcome voluntary submissions 
+    of artefacts for evaluation after paper acceptance; the outcome will 
+    not change the paper acceptance decision.
+  
+  * Presentations of the test-of-time-award and the doctoral-
+    dissertation-award winners will take place.
+  
+  * A plenary session for TOOLympics will be organised.
+
+
+
+-- MAIN CONFERENCES (24-27 April 2023) --
+
+   * ESOP: European Symposium on Programming
+       (PC chair: Thomas Wies, New York University)
+   * FASE: Fundamental Approaches to Software Engineering
+       (PC chairs: Leen Lambers, BTU Cottbus-Senftenberg,
+       and Sebastián Uchitel, University of Buenos Aires)
+   * FoSSaCS: Foundations of Software Science
+       and Computation Structures
+       (PC chairs: Pawel Sobocinski, Tallinn University of Technology,
+       and Orna Kupferman, Hebrew University of Jerusalem)
+   * TACAS: Tools and Algorithms for the Construction and Analysis of Systems
+       (PC chairs: Sriram Sankaranarayanan, University of Colorado, 
+       Boulder, CO,
+       and Natasha Sharygina, University of Lugano)
+       
+
+ETAPS'23 will also host another edition of TOOLympics, organised by 
+Dirk Beyer, Fabrice Kordon, and Arnd Hartmanns.
+
+
+-- INVITED SPEAKERS --
+
+   * Unifying speakers:
+     Thomas A. Henzinger (IST, Austria)     
+     Véronique Cortier (Loria, France)
+
+   * ESOP: Mooly Shagiv (Tel Aviv University, Israel)
+   * FASE: Sven Apel (Saarland University, Germany)
+
+   * Tutorial speakers:
+     TBA
+     
+
+-- IMPORTANT DATES --
+
+   * Paper submission: October 13, 2022, 23:59 AoE
+   * TACAS artefact submission deadline: November 10, 2022
+   * Rebuttal (ESOP, FoSSaCS, partially TACAS): 
+        Tuesday 6 December - Thursday 8 December, 2022
+   * Paper notification: December 22, 2022
+   * ESOP, FASE, FoSSaCS artefact submission deadline: 
+        January 5, 2023
+   * Artefact notification TACAS: January 19, 2023
+   * Paper final version: January 26, 2023
+   * Artefact notification ESOP, FASE, FoSSaCS: February 9, 2023
+   
+
+-- SUBMISSION INSTRUCTIONS --
+
+The four main conferences of ETAPS 2023 solicit contributions of the
+following types. All page limits are given **excluding the bibliography**.
+
+  * ESOP: regular research papers of max 25 pp
+  * FASE: regular research papers and empirical evaluation papers of
+    max 18 pp,
+    new ideas and emerging results (NIER) papers of max 8 pp,
+    tool demonstration papers of max 6 pp (+ mandatory appendix of max
+    6 pp),
+  * FoSSaCS: regular research papers of max 18 pp 
+  * TACAS: regular research papers, case study papers and regular tool
+    papers of max 16 pp,
+    tool demonstration papers of max 16 pp
+
+For definitions of the different paper types and specific instructions, 
+where they are present, see the webpages of the individual conferences.
+
+All accepted papers will appear in the proceedings and have
+presentations during the conference. A condition of submission is
+that, if the submission is accepted, one of the authors attends the
+conference to give the presentation. We plan ETAPS 2023 as an on-site
+conference; nonetheless, remote attendance and presentation will be 
+made possible.
+
+Submitted papers must be in English, presenting original research. They
+must be unpublished and not submitted for publication elsewhere. In
+particular, simultaneous submission of the same contribution to
+multiple ETAPS conferences is forbidden.
+
+Submissions must follow the formatting guidelines of Springer's LNCS
+(use the llncs.cls class) and be submitted electronically in pdf through 
+the Easychair author interface of the respective conference. Submissions
+not adhering to the specified format and length may be rejected immediately.
+
+ESOP and FASE will use **double-blind reviewing**. Authors are asked
+to omit their names and institutions; refer to prior work in the third
+person, just as prior work by others; not to include acknowledgements
+that might identify them.
+
+ESOP and FoSSaCS will use an **author rebuttal phase**. TACAS will use
+rebuttal for selected submissions (those in the grey zone).
+
+
+Artefact submission and evaluation
+
+Regular tool paper and tool demonstration paper submissions to TACAS
+must be accompanied by an artefact submitted shortly after the
+paper. The artefact will be evaluated, and the outcome will be considered
+in the paper's acceptance decision.
+
+For research paper and case study paper submissions, pre-paper-acceptance
+submission of an artefact is optional; if an artefact is submitted at
+this point, it will be handled as described above.
+
+Alternatively, authors of papers of these categories may submit an
+artefact for evaluation after the paper has been accepted. The outcome
+of the artefact evaluation will then not change the paper acceptance
+decision.
+
+ESOP, FASE, and FoSSaCS will accept artefact submissions; however, 
+participation in it is voluntary; the artefact submission deadline is 
+after the paper notification deadline. The outcome will not alter the
+paper acceptance decision.
+
+For specific instructions regarding artefacts, see the web pages of the
+individual conferences.
+
+
+-- PUBLICATION
+
+The proceedings will be published in the Advanced Research in Computing and 
+Software Science (ARCoSS) subline of Springer's LNCS series. The proceedings
+volumes will appear in gold open access, so the published versions of all
+papers will be available for everyone to download from the publisher's 
+website freely, from the date of online publication, perpetually. The 
+copyright of the papers will remain with the authors.
+
+
+-- AWARDS
+
+The strongest papers from the four conferences will be nominated for the
+ETAPS best paper awards of EAPLS, EASST and EATCS, and the SCP best tool
+paper award.
+
+The ETAPS test-of-time award will be granted, recognising outstanding 
+papers published at ETAPS more than ten years in the past.
+
+The Doctoral Dissertation Award will be granted to promote and recognise
+an outstanding dissertation in the research areas covered by the four main
+ETAPS conferences.
+
+
+-- SATELLITE EVENTS (22-23 April 2023) --
+
+A number of satellite workshops and other events will take place during
+the weekend before the main conferences.
+
+In particular, there will be a PhD student mentoring workshop organised 
+by Caterina Urban.
+
+
+-- CITY AND HOST INSTITUTION --
+
+ETAPS 2023 will take place in Paris, France. The conferences and satellite 
+events will be hosted at Sorbonne Université and IHP (Institut Henri Poincaré),
+respectively. They are located in the very centre of the city, in the famous 
+historic district of Quartier Latin. The new museum of mathematical sciences
+of IHP and the historical mathematics library are also in the same buildings as
+the satellite events. Several museums, churches and historical buildings can be
+visited in this area. The convenient location allows for accessing most places
+in Paris by public transport. ETAPS is organised by the MeFoSyLoMa community,
+which gathers all researchers on formal methods for software and hardware
+systems in the Île-de-France region.
+
+
+-- ORGANISERS --
+
+
+General co-chairs:
+* Fabrice Kordon (Sorbonne Université)
+* Laure Petrucci (Université Sorbonne Paris Nord)
+
+Workshop co-chairs:
+* Benedikt Bollig (CNRS)
+* Stefan Haar (Inria)
+
+Tutorial chair:
+* Étienne André (Université Sorbonne Paris Nord)
+
+Web co-chairs:
+* Denis Poitrenaud (Université Paris Cité)
+* Stefan Schwoon (ENS Paris-Saclay)
+
+Publicity co-chairs
+* Benoît Barbot (Université Paris-Est Créteil)
+* Nathalie Sznajder (Sorbonne Université)
+
+Sponsor chair
+* Céline Ghibaudo (Sorbonne Université)
+
+Communication chair
+* Anna-Marie Reytier (Sorbonne Université)

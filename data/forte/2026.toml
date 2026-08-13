@@ -27,3 +27,11 @@ artifact = "Artifact evaluation mandatory for tool papers, optional for regular 
 [extra]
 journal = "Selected papers will be invited to a special issue of Logical Methods in Computer Science."
 colocated = "A DisCoTec Member Conference"
+
+[[cfp]]
+file = "cfp/DisCoTec-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/DisCoTec-2026-extended.txt"
+stage = "extended"

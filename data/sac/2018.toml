@@ -19,3 +19,9 @@ license = "acm"
 
 [extra]
 notes = "44 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind reviews! Deadline extension: 10+7 days (2016, with notification extension by 10 days without announcement); 14 days (2017), 10 days (2018)."
+
+[[cfp]]
+file = "cfp/SAC-EMBS-2018.txt"
+stage = "initial"
+note = "Track EMBS"
+

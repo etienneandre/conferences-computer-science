@@ -13,10 +13,11 @@ tz = "CET"
 format = "6 pages IEEE"
 paper = [2014-09-14]
 notification = [2014-11-07]
+extensions=false
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Double blind submissions. 4 tracks, 32 topics. No deadline extension. WARNING: deadline CET!"
+notes = "Double blind submissions. 4 tracks, 32 topics."

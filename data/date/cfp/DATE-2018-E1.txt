@@ -1,0 +1,56 @@
+CALL FOR PAPERS
+
+ *********************************************************
+Topic E1: Real-time, Networked, and Dependable Systems
+*********************************************************
+
+at DATE 2018,
+Dresden, GE
+March 19 - 23, 2018
+https://www.date-conference.com/call-for-papers#The-Conference
+https://www.date-conference.com/group/tpc/members/2018/E1
+
+DATE 2018, will take place from 19 to 23 March, 2018, at the International Congress Center in Dresden, Germany.
+
+The conference addresses all aspects of research into technologies for electronic and embedded systems engineering. An important part of the conference  is devoted to Embedded and Cyber-physical Systems (Track E).
+
+We invite you to submit papers to this track and particularly to topic E1: 
+
+Main themes of interest of E1 topic:
+------------------------------------------------------
+
+    Real-time programming languages and software; 
+    Real-time (software) performance analysis, e.g., network calculus, worst case execution time analysis, scheduling and software timing estimation, simulation and measurement-based analysis techniques; 
+    Real-time system optimization; 
+    Software for real-time, networked and dependable systems; 
+    Adaptive real-time systems; 
+    Dependable systems including safety and mixed-criticality; 
+    Software for safety critical systems; 
+    Network control and QoS for embedded applications; 
+    Software for sensor networks and networked applications.
+
+
+Topic Chair: Kai Lampka, Elektrobit Automotive GmbH, GER
+Topic Co-Chair: Dionisio de Niz, Carnegie Mellon University, USA
+
+Topic Subcommittee Members:
+
+Sebastian Altmeyer, University of Amsterdam, NL       
+Marc Broyer, ONERA, FRA
+Leandro Soares Indrusiak, University of York, GB
+Rolf Ernst, Technical University   Braunschweig, GER
+Gerhard Fohler, Technical University of   Kaiserslautern, GER
+
+Hyoseung Kim, University of California at Riverside, USA
+
+Dorin Maxim, University of Lorraine, FRA
+
+Florian Pölzlbauer, Virtual Vehicle, AT   
+Frank Slomka, University Ulm, GER    
+
+
+Please note:
+----------------------
+SUBMISSION DEADLINE: Sunday, 10 September, 2017.
+All papers have to be submitted electronically via the conference web page (see www.date-conference.com/submission-instructions).
+

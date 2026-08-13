@@ -7,6 +7,7 @@ url = "https://etaps.org/2020/tacas"
 start = 2020-04-25
 end = 2020-05-01
 city = "Dublin, Ireland"
+colocated_with = ["fase/2020", "fossacs/2020", "post/2020"]
 
 [submission]
 tz = "AoE"
@@ -21,3 +22,7 @@ license = "cc-by"
 
 [extra]
 notes = "Each individual author is limited to a maximum of three submissions as an author or co-author. ETAPS: Multi-conference including ESOP, FASE, FOSSACS, TACAS, etc. Rebuttal for selected papers: 9 December 00:01 AoE - 10 December 23:59 AoE."
+
+[[cfp]]
+file = "cfp/ETAPS-2020.txt"
+stage = "initial"

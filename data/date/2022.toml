@@ -14,6 +14,7 @@ format = "6 pages IEEE"
 abstract = [2021-09-12]
 paper = [2021-09-19]
 notification = [2021-11-11]
+extensions=false
 
 [proceedings]
 publisher = "IEEE"

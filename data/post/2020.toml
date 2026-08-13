@@ -8,6 +8,7 @@ status = "cancelled"
 start = 2020-04-25
 end = 2020-05-01
 city = "Dublin, Ireland"
+colocated_with = ["fase/2020", "fossacs/2020", "tacas/2020"]
 
 [submission]
 tz = "AoE"
@@ -25,3 +26,7 @@ blind = "double"
 
 [extra]
 notes = "Rebuttal period: 11 January 00h01 to 14th January 23h59 AoE."
+
+[[cfp]]
+file = "cfp/ETAPS-2020.txt"
+stage = "initial"

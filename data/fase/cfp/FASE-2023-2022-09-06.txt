@@ -18,7 +18,7 @@ Part of 26th European Joint Conferences on Theory and Practice of Software
 22-27 April 2023, Paris, France
 
 ********************************************************************************
-* Abstract submissio n: April 27, 2020
+* Abstract submission: April 27, 2020
 * Paper submission: October 13, 2022, 23:59 AoE
 * Notification: December 22, 2022
 After notification, authors of accepted papers may optionally submit an artefact.

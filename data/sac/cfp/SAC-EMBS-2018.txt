@@ -1,0 +1,111 @@
+33rd ACM/SIGAPP SAC Symposium on Applied Computing
+            April 9-13, 2018. Pau, France.
+
+                    T r a c k    EMBS 
+                    
+*------------------------------------------------*
+                EMBEDDED SYSTEMS
+                New Perspectives 
+ for Hardware, System Software, and Applications
+
+          http://retis.sssup.it/sac2018
+
+Submission page: 
+
+https://www.softconf.com/h/sac2018
+
+Conference (main) page
+
+http://www.sigapp.org/sac/sac2018/
+
+*------------------------------------------------*
+IMPORTANT DATES
+
+Full paper submission:    September 15, 2017
+Author notification:      November  20, 2017.
+Camera ready paper:       November  25, 2017.
+________________________________________________________
+
+High performance embedded computing has recently become more and more present in devices used in everyday life. A wide variety of applications, from consumer electronics to biomedical systems, require building up powerful yet cheap embedded devices. In this context, embedded software has turned out to be more and more complex, posing new challenging issues. The adoption of further flexible programming paradigms/architectures is becoming almost mandatory. Nonetheless, even nowadays the development of embedded systems must rely on a tight coupling of hardware and software components. Moreover, the market pressure calls for the employment of new methodologies for shortening the development time, and for driving the evolution of existing products. New efficient solutions to problems emerging in this setting can be put into action by means of a joint effort of academia and industry.
+
+Design of embedded systems must take into account a wide variety of constraints: performance, code size, power consumption, presence of real-time tasks, robustness, maintainability, security, and possibly scalability. The more convenient trade-off has to be found, often operating on a large number of different parameters. In this scenario, solutions can be proposed at different levels of abstraction, making use of an assortment of tools and methodologies: researchers and practitioners have a chance to propose new ideas and to compare experimentations.
+
+The focus of this conference track is on the application of both novel and well-known techniques to the embedded systems development. Particular attention is paid to solutions that require expertise in different fields (e.g. computer architecture, OS, compilers, security, software engineering, simulation). The track will benefit also from direct experiences in the employment of embedded devices in "unconventional" application areas, so to show up new challenges in the system design/development process. In this setting, researchers and practitioners from academia and industry will get a chance to keep in touch with problems, open issues and future directions in the field of development of dedicated applications for embedded systems.
+
+*-----------------------------------------------*
+               Topics of Interest
+*-----------------------------------------------*
+
+ * Methodologies and tools for design-space exploration 
+ * System-level design and simulation techniques for Embedded Systems 
+ * OS & Real-Time support for Embedded Systems 
+ * Verification, validation, testing, debugging, and performance analysis of Embedded Systems 
+ * Cyber physical systems and networked sensor devices
+ * Multicore, SoC-based, and heterogeneous Embedded Systems and applications 
+ * Time-predictable computer architecture
+ * GPU computing in Embedded Systems applications
+ * Memory/storage management for Embedded Systems
+ * Power-aware design and computing 
+ * Runtime adaptability in Embedded Systems
+ * Middleware and virtual machines in Embedded Systems 
+ * Multithreading in Embedded Systems design and development
+ * Compilation strategies, code transformation and parallelization for Embedded Systems
+ * Java embedded computing 
+ * Software architectures and SOA for Embedded Systems 
+ * Data management in Embedded Systems
+ * Embedded Systems as components in Information Systems 
+ * Multimedia in Embedded Systems 
+ * Reliability in Embedded Computing and Systems 
+ * Security within Embedded Systems and Embedded Systems for security 
+ * Safety-critical Embedded Systems
+ * Special-purpose appliances and applications 
+ * Case studies 
+
+*-----------------------------------------------*
+    Important dates   (PAPERS & SRC ABSTRACTS)
+*-----------------------------------------------*
+
+Full paper submission:    September 15, 2017
+Author notification:      November  20, 2017.
+Camera ready paper:       November  25, 2017.
+
+*-----------------------------------------------*
+               Paper Submissions
+*-----------------------------------------------*
+
+Only papers based on original, unpublished work and addressing the listed topics of interest will be considered. 
+
+Each submitted paper will be fully refereed and undergo a blind review process. In order to facilitate blind review, the author(s) name(s) and address(es) must NOT appear in the body of the paper, and self-reference should be in the third person. Only the title should be shown at the first page without the author's information.
+Please note that submission of the same paper to multiple tracks is not allowed.
+
+Upon acceptance, paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings. An author or a proxy attending SAC MUST present the paper. This is a requirement for the paper/poster to be included in the ACM/IEEE digital library. No-show of scheduled papers and posters will result in excluding them from the ACM/IEEE digital library.
+
+Submissions are accepted only in electronic form, through the SAC web submission system.
+Submissions must follow the template on the SAC 2017 main web site.
+Camera-ready papers can be up to 6 pages long according to the conference template; up to 2 extra pages are allowed, at an additional fee of 80 USD per extra page (this last figure will be confirmed later).
+
+SAC also hosts a poster session; authors of relevant papers that are positively evaluated, but cannot be included in the conference because of space limits, can be invited to provide their contribution in the form of a poster. A poster contribution is given a two-page space in the official SAC proceedings, and possibly an extra page is allowed (with the same rules used for regular papers).
+
+*-----------------------------------------------*
+     Student Research Competition at ACM SAC
+*-----------------------------------------------*
+
+Graduate students seeking feedback from the scientific community on their research ideas are invited to submit abstracts of their original unpublished and in-progress research work in areas of experimental computing and application development related to SAC 2016 Tracks. The Student Research Competition (SRC) program is designed to provide graduate students the opportunity to meet and exchange ideas with researcher and practitioners in their areas of interest.
+
+All research abstract submissions will be reviewed by researchers and practitioners with expertise in the track focus area to which they are submitted. Authors of selected abstracts will have the opportunity to give poster presentations of their work and compete for three top winning places. The SRC committee will evaluate and select First, Second, and Third place winners. The winners will receive cash awards and SIGAPP recognition certificates during the conference banquet dinner. Authors of selected abstracts are eligible to apply to the SIGAPP Student Travel Award program for support.
+
+Submission - Graduate students are invited to submit abstracts (minimum of two pages; maximum of four pages) of their original unpublished and in-progress research work following the instructions published at SAC 2016 web-site. The submissions must address research work related to a SAC track, with emphasis on the innovation behind the research idea, including the problem being investigated, the proposed approach and research methodology, and sample preliminary results of the work. In addition, the abstract should reflect on the originality of the work, innovation of the approach, and applicability of anticipated results to real-world problems. All abstracts must be submitted thought the START Submission system, at
+
+http://www.acm.org/conferences/sac/sac2018/SRC-SubmissionUploadPage.htm
+
+Please note SRCs and regular papers must be submitted at different pages of the START web system.
+Submitting the same abstract to multiple tracks is not allowed.
+
+*------------------------------------------*
+      Track Chairs & Program Committee
+*------------------------------------------*
+
+Chairs:
+
+Marco Di Natale - Scuola Superiore S. Anna - Italy
+Li-Pin Chang - National Chiao-Tung University - Taiwan

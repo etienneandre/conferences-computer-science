@@ -7,6 +7,7 @@ url = "https://etaps.org/2025/conferences/fossacs/"
 start = 2025-05-03
 end = 2025-05-08
 city = "Hamilton, Canada"
+colocated_with = ["fase/2025", "tacas/2025"]
 
 [submission]
 tz = "AoE"
@@ -24,3 +25,4 @@ notes = "Part of ETAPS 2025. Single-blind, with a rebuttal phase. Rebuttal phase
 [[cfp]]
 file = "cfp/FoSSaCS-2025.txt"
 stage = "initial"
+

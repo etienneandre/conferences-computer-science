@@ -7,6 +7,7 @@ url = "https://www.etaps.org/2020/fase"
 start = 2020-04-25
 end = 2020-05-01
 city = "Dublin, Ireland"
+colocated_with = ["fossacs/2020", "post/2020", "tacas/2020"]
 
 [submission]
 tz = "AoE"

@@ -7,6 +7,7 @@ url = "https://etaps.org/2021/fossacs"
 start = 2021-03-27
 end = 2021-04-01
 online = true
+colocated_with = ["fase/2021", "tacas/2021"]
 
 [submission]
 tz = "AoE"
@@ -20,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, TACAS, etc. Single-blind, with a rebuttal phase. Rebuttal phase: 7 December 00:01 AoE - 9 December 23:59 AoE 2021. A selection of the best papers at FoSSaCS 2021 will be considered for submission to a special issue of Logical Methods in Computer Science (LMCS)."
+
+[[cfp]]
+file = "cfp/ETAPS-2021.txt"
+stage = "initial"

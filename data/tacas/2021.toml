@@ -7,6 +7,7 @@ url = "https://etaps.org/2021/tacas"
 start = 2021-03-27
 end = 2021-04-01
 online = true
+colocated_with = ["fase/2021", "fossacs/2021"]
 
 [submission]
 tz = "AoE"
@@ -20,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Each individual author is limited to a maximum of three submissions as an author or co-author. ETAPS: Multi-conference including ESOP, FASE, FOSSACS, TACAS, etc. Rebuttal for selected papers: 7 December 00:01 AoE - 9 December 23:59 AoE 2021."
+
+[[cfp]]
+file = "cfp/ETAPS-2021.txt"
+stage = "initial"

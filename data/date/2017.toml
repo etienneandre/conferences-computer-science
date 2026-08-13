@@ -14,10 +14,11 @@ format = "6 pages IEEE"
 abstract = [2016-09-11, 2016-09-13]
 paper = [2016-09-18]
 notification = [2016-11-11]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Double blind submissions. 4 tracks, 28 topics. No deadline extension. WARNING: deadline CET!"
+notes = "Double blind submissions. 4 tracks, 28 topics."

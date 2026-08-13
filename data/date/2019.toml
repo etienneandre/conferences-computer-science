@@ -20,7 +20,7 @@ publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Double blind submissions. 4 tracks, 28 topics. WARNING: deadline CET!"
+notes = "Double blind submissions. 4 tracks, 28 topics."
 
 [[cfp]]
 file = "cfp/DATE-2019.txt"

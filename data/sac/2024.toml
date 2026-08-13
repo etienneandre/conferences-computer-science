@@ -26,5 +26,11 @@ submitted = 773
 notes = "Double-blind. 35 tracks, student abstracts, Student Research Competition, etc."
 
 [[cfp]]
+file = "cfp/SAC-SVT-2024.txt"
+stage = "initial"
+note = "Track SVT"
+
+
+[[cfp]]
 file = "cfp/SAC-2024-extended.txt"
 stage = "extended"

@@ -7,6 +7,8 @@ url = "https://conf.researchr.org/track/etaps-2019/tacas-2019-papers"
 start = 2019-04-08
 end = 2019-04-11
 city = "Prag, Czech Republic"
+colocated_with = ["fase/2019", "fossacs/2019", "post/2019"]
+
 
 [submission]
 format = "15 pages LNCS + 2 pages bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"

@@ -7,6 +7,7 @@ url = "https://etaps.org/2025/conferences/tacas/"
 start = 2025-05-03
 end = 2025-05-08
 city = "Hamilton, Canada"
+colocated_with = ["fase/2025", "fossacs/2025"]
 
 [submission]
 tz = "AoE"
@@ -20,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Part of ETAPS 2025. Double-blind. Rebuttal for selected papers: 3-5 December 2024. Artifact evaluation."
+
+[[cfp]]
+file = "cfp/ETAPS-2025.txt"
+stage = "initial"

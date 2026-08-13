@@ -1,0 +1,218 @@
+***************************************************************************
+
+                          JOINT CALL FOR PAPERS
+
+                29th ETAPS International Joint Conferences
+                    On Theory and Practice of Software
+                                ETAPS 2026
+
+                     Torino, Italy, April 11-16, 2026
+
+                          https://etaps.org/2026
+
+***************************************************************************
+
+-- ABOUT ETAPS --
+
+ETAPS is a primary forum for academic and industrial researchers working
+on topics relating to software science. ETAPS, established in 1998, is a
+confederation of four annual conferences accompanied by satellite workshops.
+ETAPS 2026 is the twenty-nineth event in the series.
+
+
+-- Why choose ETAPS? --
+
+* ETAPS is one of the world's leading fora for research on software science,
+  with a history of more than 25 years.
+* The proceedings of ETAPS appear in gold open access, with no article
+  processing charge for the authors specifically.
+* All constituent conferences provide artifact evaluation (AE).
+* In addition to the conference, ETAPS also unites the software science
+  community with activities such as a blog on software science, a PhD
+  workshop, sessions on diversity and inclusion and an ask-me-anything session.
+* Poster and Tool demo sessions are organized over the week.
+* Spin Symposium and Rust Verification Workshop are colocated with ETAPS again.
+
+
+-- What is new in 2026? --
+
+* Submission deadlines are strict and firm, no exceptions will be granted.
+
+* FoSSaCS 2026 will adopt a double-blind reviewing process, in line with the
+  other ETAPS conferences.
+
+* Program Committee (PC) members of FoSSaCS will be allowed to submit up to one
+  paper to FoSSaCS. These submissions will be held to a higher acceptance
+  threshold - for example, PC submissions will not be part of the final vote.
+
+
+-- MAIN CONFERENCES (April 13-16, 2026) --
+
+* ESOP: European Symposium on Programming
+    (PC chair: Robbert Krebbers, Radboud University;
+     AE chair: Michael Sammler, ISTA)
+* FASE: Fundamental Approaches to Software Engineering
+    (PC chairs: Elvira Albert, Complutense University of Madrid,
+                Corina Pasareanu, NASA Ames;
+     AE chair: TBD)
+* FoSSaCS: Foundations of Software Science and Computation Structures
+    (PC chairs: Nathalie Bertrand, Rennes University,
+                Stefan Milius, Friedrich-Alexander Universitaet;
+     AE chair: Guillermo Alberto Perez, University of Antwerp)
+* TACAS: Tools and Algorithms for the Construction and Analysis of Systems
+    (PC chairs: Sebastian Junges, Radboud University,
+                Guy Katz, Hebrew University;
+     AE chairs: Guy Amir, Cornell University,
+                Matthias Volk, Eindhoven University of Technology)
+
+-- IMPORTANT DATES --
+
+* Submission deadline ESOP round 1: June 3, 2025
+* Rebuttal ESOP round 1: July 21-23, 2025
+* Notification ESOP round 1: August 1, 2025
+* Submission deadline for ESOP round 2: October 16, 2025
+* Submission deadline for TACAS, FoSSaCS, FASE: October 16, 2025
+* TACAS mandatory artifact submission deadline (for tools): October 30, 2025
+* Rebuttal (ESOP, FoSSaCS, TACAS): December 8-10, 2025
+* Paper notification and TACAS mandatory artifact notification:
+    December 22, 2025
+* Artifact submission deadline for accepted deadline (except for TACAS tools):
+    January 8, 2026
+* Paper final version:
+    January 22, 2026
+* Artifact notification ESOP, FASE, FoSSaCS, TACAS (voluntary artifacts):
+    February 12, 2026
+
+* Main Conference: April 13-16, 2026
+
+
+-- PUBLICATION --
+
+The proceedings will be published in the Advanced Research in Computing and
+Software Science (ARCoSS) subline of Springer's LNCS series. The proceedings
+volumes will appear in gold open access, so the published versions of all
+papers will be available for everyone to download from the publisher's website
+freely from the date of online publication, perpetually. The copyright of the
+papers will remain with the authors.
+
+
+-- AWARDS --
+
+The strongest papers from the four conferences will be marked as distinguished
+papers and highlighted in the conference program. From these distinguished
+papers, the EAPLS, EASST, and EATCS, and the Best Tool Paper Award committees
+will select the best ETAPS papers.
+
+The ETAPS Test-of-Time Award will be granted, recognizing outstanding papers
+published at ETAPS more than ten years in the past.
+
+The ETAPS Rance Cleaveland Test-of-Time Tool Award acknowledges the importance
+of reliable and well-maintained research tools and the significant effort that
+their creation and maintenance entails.
+
+The Doctoral Dissertation Award will be granted to promote and recognize
+an outstanding dissertation in the research areas covered by the four main
+ETAPS conferences.
+
+
+-- SUBMISSION INSTRUCTIONS --
+
+The four main conferences of ETAPS 2026 solicit contributions of the
+following types. All page limits are given *excluding the bibliography*.
+
+* ESOP: regular research papers of max 25 pp, experience reports of max
+  15 pp, and fresh perspectives providing new insights on programming
+  languages and systems of max 15 pp.
+  For the sake of flexibility, submitted research papers may be formatted in
+  other formats. There is no page limit at the submission time. Please refer to
+  https://etaps.org/2026/esop for more details.
+* FASE: regular research papers and empirical evaluation papers of max 18 pp;
+  new ideas and emerging results (NIER) papers of max 8 pp;
+  tool demonstration papers and data showcase papers of max 8 pp
+  (+ optional appendix of max 6 pp).
+* FoSSaCS: regular research papers of max 18 pp.
+* TACAS: regular research papers, case study papers, and regular tool papers of
+  max 16 pp, tool demonstration papers of max 6 pp.
+
+For definitions of the different paper types and specific instructions,
+where they are present, see the web pages of the individual conferences.
+
+All accepted papers will appear in Springer proceedings and have presentations
+during the conference. A condition of submission is that, if the submission is
+accepted, one of the authors attends the conference to give the presentation.
+We plan ETAPS 2026 as an on-site conference.
+
+Submitted papers must be in English, presenting original research. They must be
+unpublished and not submitted for publication elsewhere. In particular,
+simultaneous submission of the same contribution to multiple ETAPS conferences
+is forbidden.
+
+Submissions must follow the formatting guidelines of Springer's LNCS (use the
+llncs.cls class) - except for ESOP, see above - and be submitted electronically
+in pdf through the Easychair author interface of the respective conference.
+Submissions not adhering to the specified format and length may be rejected
+immediately.
+
+ETAPS conferences will use double-blind reviewing (in the case of TACAS, only
+for regular research papers). Authors are asked to omit their names and
+institutions; refer to prior work in the third person, just as prior work by
+others; not to include acknowledgments that might identify them.
+
+ESOP, TACAS and FoSSaCS will use an **author rebuttal phase**.
+
+-- ARTIFACT SUBMISSION AND EVALUATION --
+
+Regular tool paper and tool demonstration paper submissions to TACAS must be
+accompanied by an artifact submitted shortly after the paper. The artifact will
+be evaluated, and the outcome will be considered in the paper's acceptance
+decision.
+
+For research paper and case study paper submissions at TACAS, participation in
+artifact evaluation is voluntary. Authors of papers of these categories may
+submit an artifact for evaluation after the paper has been accepted. The outcome
+of the artifact evaluation will not change the paper acceptance decision.
+
+ESOP, FASE, and FoSSaCS will accept artifact submissions; however, participation
+in it is voluntary; the artifact submission deadline is after the paper
+notification deadline. The outcome will not alter the paper acceptance decision.
+
+For ESOP, artifacts may be submitted with an accompanying short 5-page
+experience report (including a 1-page bibliography) that will appear in the
+conference proceedings.
+
+For specific instructions regarding artifacts, see the web pages of the
+individual conferences.
+
+
+-- SATELLITE EVENTS (April 11-12, 2026) --
+
+Several satellite workshops and other events will take place during the weekend
+before the main conferences.
+
+
+-- CITY AND HOST INSTITUTION --
+
+ETAPS 2026 will take place in Turin, Italy and is organized by the University
+of Turin. The Department of Computer Science at the University of Turin is the
+centre coordinating research, teaching, dissemination and technological
+transfer in Computer Science. The Department covers both methodological and
+application oriented aspects of computer science, and performs research in
+several interdisciplinary areas. This reflects in the collaborations with other
+research centres and companies in many scientific areas and in its
+participation in national and European projects. With a fascinating history and
+a beautiful historic center, Turin is a delightful city for a visit. It is a
+city in constant evolution: from Augusta Taurinorum (after 27 a.C.) to the
+capital of the Savoy Dukedom (1563) until becoming Italy's first capital
+(1861), the queen of the automobile industry (1899) and the star of the 2006
+Winter Olympics. The city is now better known for excellent regional food,
+beautiful squares & architecture, and as a technology hub with a strong
+start-up community.  The long list of world-class monuments, galleries and
+museums includes: the Egyptian Museum, the Museum of Oriental Art, the
+Automobile Museum and the National Cinema Museum, located at the stunning Mole
+Antonelliana. For further information, please refer to the tourism website
+[https://turismotorino.org/en].
+
+
+-- ORGANISERS --
+Feruccio Damiani and Maurice ter Beek
+Enrico Beraldo and Barbara Boni

@@ -7,6 +7,7 @@ url = "https://etaps.org/2026/conferences/tacas/"
 start = 2026-04-11
 end = 2026-04-16
 city = "Turin, Italy"
+colocated_with = ["fase/2026", "fossacs/2026"]
 
 [submission]
 tz = "AoE"
@@ -25,3 +26,7 @@ artifact = "Artifact evaluation"
 
 [extra]
 colocated = "Part of ETAPS 2026."
+
+[[cfp]]
+file = "cfp/ETAPS-2026.txt"
+stage = "initial"

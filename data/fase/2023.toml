@@ -7,6 +7,7 @@ url = "https://etaps.org/2023/fase"
 start = 2023-04-22
 end = 2023-04-27
 city = "Paris, France"
+colocated_with = ["fossacs/2023", "tacas/2023"]
 
 [submission]
 tz = "AoE"
@@ -22,5 +23,5 @@ license = "cc-by"
 notes = "Part of ETAPS 2023, colocated with SPIN 2023. Special issues of the Springer journal Formal Methods in System Design (FMSD) and Int. J. on Software Tools for Technology Transfer (STTT) are planned for FASE 2022. Authors of the best papers that fall within the scope of the journal will be invited to submit significantly extended papers for journal review.Acceptance rate (2021): 31% (16/51) Grace period: 10 days (2022)"
 
 [[cfp]]
-file = "cfp/FASE-2023.txt"
-stage = "initial"
+file = "cfp/FASE-2023-2022-09-06.txt"
+retrieved = 2022-09-06

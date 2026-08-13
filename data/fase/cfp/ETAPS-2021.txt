@@ -1,0 +1,143 @@
+******************************************************************
+
+                      JOINT CALL FOR PAPERS
+
+24th European Joint Conferences on Theory and Practice of Software
+                           ETAPS 2021
+
+         Luxembourg, Luxembourg, 27 March-1 April 2021
+
+                    http://www.etaps.org/2021
+
+******************************************************************
+
+-- ABOUT ETAPS --
+
+ETAPS is the primary European forum for academic and industrial
+researchers working on topics relating to software science. ETAPS,
+established in 1998, is a confederation of four annual conferences,
+accompanied by satellite workshops. ETAPS 2021 is the twenty-fourth
+event in the series.
+
+
+-- MAIN CONFERENCES (29 March-1 April) --
+
+   * ESOP: European Symposium on Programming
+       (PC chair: Nobuko Yoshida, Imperial College London, UK)
+   * FASE: Fundamental Approaches to Software Engineering
+       (PC chairs: Esther Guerra, Univ. Autónoma de Madrid, Spain,
+       and Mariëlle Stoelinga, Univ. Twente, The Netherlands)
+   * FoSSaCS: Foundations of Software Science
+       and Computation Structures
+       (PC chairs: Stefan Kiefer, Univ. of Oxford, UK, and
+       Christine Tasson, IRIF, Univ. Paris Diderot, France)
+   * TACAS: Tools and Algorithms for
+       the Construction and Analysis of Systems
+       (PC chairs: Jan Friso Groote, Techn. Univ. Eindhoven,
+       The Netherlands, and Kim G. Larsen, Aalborg Univ., Denmark)
+       
+TACAS '21 will host the 10th Competition on Software Verification
+(SV-COMP).
+
+
+-- IMPORTANT DATES
+
+   * Papers due: 15 October 2020 23:59 AoE (=GMT-12)
+   * Rebuttal (ESOP, FoSSaCS and, for selected papers, TACAS):
+        7 December 00:01 AoE - 9 December  23:59 AoE
+   * Notification: 23 December 2020
+   * Camera-ready versions due: 22 January 2021
+
+
+-- SUBMISSION INSTRUCTIONS --
+
+The four main conferences of ETAPS 2021 solicit contributions of the
+following types. All page limits are given **excluding bibliography**. 
+
+  * ESOP: regular research papers of max 25 pp
+  * FASE: regular research papers and empirical evaluation papers of
+    max 18 pp,
+    tool demonstration papers of max 6 pp + mandatory appendix of max 6
+    pp,
+  * FoSSaCS: regular research papers of max 18 pp 
+  * TACAS: regular research papers, case study papers and regular tool
+    papers of max 16 pp,
+    tool demonstration papers of max 6 pp
+
+For definitions of the different paper types and specific
+instructions, where they are present, see the webpages of the
+individual conferences.
+
+All accepted papers will appear in the conference proceedings and have
+presentations during the conference. A condition of submission is
+that, if the submission is accepted, one of the authors attends the
+conference to give the presentation.
+
+Submitted papers must be in English presenting original research. They
+must be unpublished and not submitted for publication elsewhere. In
+particular, simultaneous submission of the same contribution to
+multiple ETAPS conferences is forbidden.
+
+Submissions must follow the formatting guidelines of Springer's LNCS
+and be submitted electronically in pdf through the Easychair author
+interface of the respective conference. Submissions not adhering to
+the specified format and length may be rejected immediately.
+
+FASE will use double-blind reviewing. Authors are asked to omit their
+names and institutions; refer to own prior work in the third person;
+not to include acknowledgements that might identify them.
+
+Regular tool paper and tool demonstration paper submissions to TACAS
+must be accompanied by an artifact. The artifact will be evaluated and
+the outcome will be taken into account in the acceptance decision of
+the paper. 
+
+ESOP and FoSSaCS will use an author rebuttal phase. TACAS will have
+rebuttal for selected papers. 
+
+
+-- PUBLICATION
+
+The proceedings will be published in the Advanced Research in
+Computing and Software Science (ARCoSS) subline of Springer's LNCS
+series. The proceedings volumes will appear in gold open access, so
+the published versions of all papers will be available for everyone to
+download from the publisher's website freely, from the date of online
+publication, perpetually. The copyright of the papers will remain with
+the authors.
+
+
+-- SATELLITE EVENTS (27-28 March) --
+
+A number of satellite workshops will take place before the main
+conferences.
+
+
+-- CITY AND HOST INSTITUTION --
+
+Luxembourg is the capital of the small European nation of the same
+name. Built amid deep gorges cut by the Alzette and Pétrusse rivers,
+it is famed for its ruins of medieval fortifications. The vast Bock
+Casemates tunnel network encompasses a dungeon, prison and the
+Archaeological Crypt, considered the city's birthplace. Along ramparts
+above, the Chemin de la Corniche promenade offers dramatic viewpoints.
+
+ETAPS 2021 is organised by the Interdisciplinary Centre for Security,
+Reliability and Trust (SnT), Université du Luxembourg.
+
+
+-- ORGANIZERS --
+
+General chair: Peter Y. A. Ryan (SnT & Université du Luxembourg)
+
+Workshops chair: Joaquin Garcia-Alfaro (Telecom SudParis, France)
+
+Organization chair: Peter Roenne (SnT Luxembourg)
+
+Event manager: Magali Martin (SnT Luxembourg)
+
+
+-- FURTHER INFORMATION --
+
+Please do not hesitate to contact the organizers at
+etaps2021 at uni.lu .

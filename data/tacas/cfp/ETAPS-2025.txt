@@ -1,0 +1,226 @@
+***************************************************************************
+
+                         JOINT CALL  FOR PAPERS
+
+               28th ETAPS International Joint Conferences
+                   On Theory and Practice of Software
+                               ETAPS 2025
+
+                    Hamilton, Canada,  May 3-8, 2025
+
+                         https://etaps.org/2025
+
+***************************************************************************
+
+-- ABOUT ETAPS --
+
+ETAPS is a primary forum for academic and industrial researchers working
+on topics relating to software science. ETAPS, established in 1998, is a
+confederation of four annual conferences accompanied by satellite workshops.
+ETAPS 2025 is the twenty-eighth event in the series.
+
+
+-- Why choose ETAPS? --
+
+ * ETAPS is one of the world's leading fora for research on software
+   science, with a history of more than 25 years.
+ * The proceedings of ETAPS appear in gold open access, with no article
+   processing charge for the authors specifically.
+ * All constituent conferences provide artifact evaluation.
+ * In addition to the conference, ETAPS also unites the software science
+   community with activities such as a blog on software science, a PhD
+   workshop, sessions on diversity and inclusion and an ask-me-anything
+   session.
+ * Poster and Tool demo sessions are organized over the week.
+
+
+-- What is new in 2025? --
+
+ * Two submission rounds for ESOP – see https://etaps.org/2025/esop/
+ * ETAPS is organized in North America for the first time!
+
+
+
+-- MAIN CONFERENCES (May 5–8, 2025) --
+
+  * ESOP: European Symposium on Programming
+      (PC chair:  Viktor Vafeiadis, MPI-SWS)
+  * FASE: Fundamental Approaches to Software Engineering
+      (PC chairs: Artur Boronat, University of Leicester,
+                  Gordon Fraser, University of Passau)
+  * FoSSaCS: Foundations of Software Science and Computation Structures
+      (PC chairs: Delia Kesner, Université Paris Cité,
+                  Parosh Abdulla, Uppsala University)
+  * TACAS: Tools and Algorithms for the Construction and Analysis of Systems
+      (PC chairs: Arie Gurfinkel, University of Waterloo,
+                  Marijn Heule, Carnegie Mellon University)
+
+
+-- INVITED SPEAKERS --
+
+  * Amal Ahmed, Northeastern University
+  * Matt Dwyer, University of Virginia
+  * José Meseguer, University of Illinois, Urbana-Champaign
+  * Ina Schaefer, Karslruhe Institute of Technology
+  * In addition, two more invited tutorial speakers will be announced later.
+
+
+
+-- IMPORTANT DATES --
+
+  * Submission deadline for ESOP, round 1: May 30, 2024, 23:59 AoE
+  * Rebuttal for ESOP, round 1: July 23–25, 2024
+  * Notification for ESOP, round 1: August 8, 2024
+  * Submission deadline for ESOP round 2: October 10, 2024, 23:59 AoE
+  * Submission deadline for TACAS, FoSSaCS, FASE: October 10, 2024, 23:59 AoE
+  * TACAS mandatory artifact submission deadline: October 24, 2024
+  * Rebuttal (ESOP, FoSSaCS, partially TACAS): December 3–5, 2024
+  * Paper notification and TACAS mandatory artifact notification:
+      December 20, 2024
+  * ESOP, FASE, FoSSaCS artifact, TACAS voluntary artifact submission deadline:
+      January 9, 2025
+  * Artifact notification ESOP, FASE, FoSSaCS, TACAS (voluntary artifacts):
+      February 13, 2025
+
+  * Main Conference: May 5–8, 2025
+
+
+-- PUBLICATION --
+
+The proceedings will be published in the Advanced Research in Computing and
+Software Science (ARCoSS) subline of Springer's LNCS series. The proceedings
+volumes will appear in gold open access, so the published versions of all
+papers will be available for everyone to download from the publisher's
+website freely from the date of online publication, perpetually. The
+copyright of the papers will remain with the authors.
+
+
+-- AWARDS --
+
+The strongest papers from the four conferences will be marked as distinguished
+papers and highlighted in the conference program. From these distinguished
+papers, the EAPLS, EASST, and EATCS, and the Best Tool Paper Award committees
+will select the best ETAPS papers.
+
+The ETAPS Test-of-Time Award will be granted, recognizing outstanding papers
+published at ETAPS more than ten years in the past.
+
+The ETAPS Rance Cleaveland Test-of-Time Tool Award acknowledges the importance
+of reliable and well-maintained research tools and the significant effort that
+their creation and maintenance entails.
+
+The Doctoral Dissertation Award will be granted to promote and recognize
+an outstanding dissertation in the research areas covered by the four main
+ETAPS conferences.
+
+All distinguished papers will be highlighted in the program.
+
+
+-- SUBMISSION INSTRUCTIONS --
+
+The four main conferences of ETAPS 2025 solicit contributions of the
+following types. All page limits are given **excluding the bibliography**.
+
+ * ESOP: regular research papers of max 25 pp, experience reports of max
+   15 pp, and fresh perspectives providing new insights on programming
+   languages and systems of max 15 pp. For the sake of flexibility, submitted
+   research papers may be formatted in other formats. There is no page limit
+   at the submission time. Please refer to https://etaps.org/2025/esop for
+   more details.
+ * FASE: regular research papers and empirical evaluation papers of
+   max 18 pp; new ideas and emerging results (NIER) papers of max 8 pp;
+   tool demonstration papers and data showcase papers of max 8 pp
+   (+ optional appendix of max 6 pp),
+ * FoSSaCS: regular research papers of max 18 pp
+ * TACAS: regular research papers, case study papers, and regular tool
+   papers of max 16 pp,
+   tool demonstration papers of max 6 pp
+
+For definitions of the different paper types and specific instructions,
+where they are present, see the web pages of the individual conferences.
+
+All accepted papers will appear in Springer proceedings and have
+presentations during the conference. A condition of submission is
+that, if the submission is accepted, one of the authors attends the
+conference to give the presentation. We plan ETAPS 2025 as an on-site
+conference.
+
+Submitted papers must be in English, presenting original research. They
+must be unpublished and not submitted for publication elsewhere. In
+particular, simultaneous submission of the same contribution to
+multiple ETAPS conferences is forbidden.
+
+Submissions must follow the formatting guidelines of Springer's LNCS
+(use the llncs.cls class) and be submitted electronically in pdf through
+the Easychair author interface of the respective conference. Submissions
+not adhering to the specified format and length may be rejected immediately.
+
+ESOP, FASE, and TACAS will use double-blind reviewing (in the case of TACAS,
+only for regular research papers). Authors are asked to omit their names and
+institutions; refer to prior work in the third person, just as prior work by
+others; not to include acknowledgments that might identify them.
+
+ESOP and FoSSaCS will use an **author rebuttal phase**. TACAS will use
+rebuttal for selected submissions (those in the gray zone).
+
+
+Artifact submission and evaluation
+
+Regular tool paper and tool demonstration paper submissions to TACAS
+must be accompanied by an artifact submitted shortly after the paper. The
+artifact will be evaluated, and the outcome will be considered in the
+paper's acceptance decision.
+
+For research paper and case study paper submissions, pre-paper-acceptance
+submission of an artifact is optional; if an artifact is submitted at this
+point, it will be handled as described above.
+
+Alternatively, authors of papers of these categories may submit an artifact
+for evaluation after the paper has been accepted. The outcome of the
+artifact evaluation will then not change the paper acceptance decision.
+
+ESOP, FASE, and FoSSaCS will accept artifact submissions; however,
+participation in it is voluntary; the artifact submission deadline is
+after the paper notification deadline. The outcome will not alter the
+paper acceptance decision.
+
+For ESOP, artifacts may be submitted with an accompanying short 5-page
+experience report (including a 1-page bibliography) that will appear in
+the conference proceedings.
+
+For specific instructions regarding artifacts, see the web pages of the
+individual conferences.
+
+
+
+-- SATELLITE EVENTS (May 3–4, 2025) --
+
+Several satellite workshops and other events will take place during the
+weekend before the main conferences.
+
+
+-- CITY AND HOST INSTITUTION --
+
+ETAPS 2025 will take place in Hamilton, Canada and is organized by McMaster
+University. The Faculty of Engineering at McMaster University has a reputation
+for innovative programs, cutting-edge research, leading faculty, and aspiring
+students. It has earned a strong reputation as a center for academic excellence
+and innovation. The Faculty has approximately 180 faculty members, along with
+close to 4,500 undergraduate and 1,000 graduate students. The Faculty of
+Engineering promotes a nurturing and inclusive environment where opportunities
+are made available for personal growth and professional development. McMaster
+University beautiful campus is at the north-west end of Hamilton on the western
+end of Lake Ontario, between the Niagara Escarpment, conservation lands, and
+the Royal Botanical Gardens. Hamilton, with a population of over 500,000, is
+a vibrant community with easy access to Toronto and the Niagara region. It is
+located at the northern tip of an ecological zone commonly called the Carolinian
+Forest that encompasses the southernmost portion of Ontario but occurs nowhere
+else in Canada. As a result, Hamilton is home to many unique species of plants
+and animals that only occur here because the summer climate approaches that of
+North and South Carolina in the United States. For further information, please
+refer to https://tourismhamilton.com/
+
+-- ORGANISERS --
+
+Claudio Menghi – University of Bergamo, Italy, and McMaster University, Canada
+Mark Lawford – McMaster University, Canada

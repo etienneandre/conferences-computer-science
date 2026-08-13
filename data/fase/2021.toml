@@ -7,6 +7,7 @@ url = "https://etaps.org/2021/fase"
 start = 2021-03-27
 end = 2021-04-01
 online = true
+colocated_with = ["fossacs/2021", "tacas/2021"]
 
 [submission]
 tz = "AoE"
@@ -25,3 +26,7 @@ submitted = 51
 
 [extra]
 notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, TACAS, etc. Special issues of the Springer journals Formal Aspects of Computing (FAC) and Int. J. on Software Tools for Technology Transfer (STTT) will be associated with FASE 2021. Authors of the best papers that fall into these journal’s scopes will be invited to submit significantly extended papers for journal review."
+
+[[cfp]]
+file = "cfp/ETAPS-2021.txt"
+stage = "initial"

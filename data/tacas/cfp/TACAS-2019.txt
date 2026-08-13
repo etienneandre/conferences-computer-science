@@ -1,19 +1,19 @@
 *******************************************************************************
 
-Â Â Â Â Â Â Â Â Â Â Â  25th International Conference on Tools and Algorithms
-Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  for the Construction and Analysis of Systems
+            25th International Conference on Tools and Algorithms
+                 for the Construction and Analysis of Systems
 
-Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  TACAS 2019
+                                  TACAS 2019
 
-Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  organized within
+                               organized within
 
-Â Â Â Â  22nd European Joint Conferences on Theory And Practice of Software
+     22nd European Joint Conferences on Theory And Practice of Software
 
-Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  ETAPS 2019
+                                ETAPS 2019
 
-Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Prague, Czech Republic, 6-11 April 2019
+                  Prague, Czech Republic, 6-11 April 2019
 
-Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  http://www.etaps.org/2019
+                        http://www.etaps.org/2019
 
 *******************************************************************************
 

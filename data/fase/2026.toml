@@ -7,6 +7,7 @@ url = "https://etaps.org/2026/conferences/fase/"
 start = 2026-04-11
 end = 2026-04-16
 city = "Turin, Italy"
+colocated_with = ["fossacs/2026", "tacas/2026"]
 
 [submission]
 tz = "AoE"
@@ -26,3 +27,7 @@ competition = "FASE 2026 hosts the 8th edition of the Competition on Software Te
 [extra]
 journal = "Selected papers from the FASE 2026 proceedings will be invited to submit an extended version to the open access Elsevier journal Science of Computer Programming (SCP)."
 colocated = "Part of ETAPS 2026."
+
+[[cfp]]
+file = "cfp/ETAPS-2026.txt"
+stage = "initial"
