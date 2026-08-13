@@ -12,10 +12,10 @@ city = "Rome, Italy"
 format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
 paper = [2014-05-15]
 notification = [2014-07-26]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Firm submission deadline."

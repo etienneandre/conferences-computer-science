@@ -13,10 +13,11 @@ tz = "AoE"
 format = "11 pages IEEE 2 columns (+ bibliography)"
 paper = [2025-05-22]
 notification = [2025-07-25]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Double blind. Firm submission deadline. Author response period: 14-17 July 2025. A selection of papers will receive recognition as outstanding papers and will be highlighted as such in the proceedings. Best paper and best student paper awards will be presented at the conference, along with an award for the best presentation."
+notes = "Double blind. Author response period: 14-17 July 2025. A selection of papers will receive recognition as outstanding papers and will be highlighted as such in the proceedings. Best paper and best student paper awards will be presented at the conference, along with an award for the best presentation."

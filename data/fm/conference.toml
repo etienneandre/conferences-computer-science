@@ -9,7 +9,7 @@ id = "540"
 # TODO: verify — derived from per-edition values, which recorded
 # the rank known at data-entry time, not the rank then in force.
 [[core.history]]
-from = 2016
+from = 2008
 rank = "A"
 
 [[core.history]]
@@ -21,5 +21,5 @@ dblp = "fm"
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.
-acceptance = "26% (35/132) in 2012, 32% (35/110) in 2018, 29% ((18+5+3+1+1)/(75+8)) in 2024."  # from FM 2026
+acceptance = "29% ((18+5+3+1+1)/(75+8)) in 2024."  # from FM 2026
 extensions = "one week (2012), 48 hours (2014)"  # from FM 2026

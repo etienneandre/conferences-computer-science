@@ -13,10 +13,11 @@ tz = "AoE"
 format = "11 pages IEEE 2 columns (+ bibliography)"
 paper = [2024-05-23]
 notification = [2024-07-31]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Double blind. Firm submission deadline. Rebuttal: 12-18 July 2024. All accepted papers will appear in the main program and proceedings. A selection of papers will receive recognition as outstanding papers and will be highlighted as such in the proceedings. Best paper and best student paper awards will be presented at the conference, along with an award for the best presentation."
+notes = "Double blind. Rebuttal: 12-18 July 2024. All accepted papers will appear in the main program and proceedings. A selection of papers will receive recognition as outstanding papers and will be highlighted as such in the proceedings. Best paper and best student paper awards will be presented at the conference, along with an award for the best presentation."
