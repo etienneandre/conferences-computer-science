@@ -19,7 +19,7 @@ publisher = "PDF"
 license = "free"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 award = "JRWRTC 2024 Best Paper Award."
 
 [extra]

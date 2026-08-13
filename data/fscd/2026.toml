@@ -20,7 +20,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 rebuttal = true
 rebuttal_start = 2026-03-23
 rebuttal_end = 2026-03-27

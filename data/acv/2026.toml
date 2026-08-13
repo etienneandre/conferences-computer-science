@@ -17,7 +17,7 @@ notification = [2026-05-31]
 publisher = "informal"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 colocated = "At FLoC 2026, affiliated with LICS 2026 and CAV 2026"

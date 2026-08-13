@@ -21,7 +21,7 @@ license = "acm"
 
 [review]
 blind = "lightweight-double"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "We also encourage authors of the accepted papers to participate in Artifact Evaluation."
 award = "Best Paper Award, Best Artifact Award, Best Poster/Demo Award"
 

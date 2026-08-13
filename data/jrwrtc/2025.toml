@@ -19,7 +19,7 @@ publisher = "Booklet"
 license = "free"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 award = "The best JRWRTC paper will be awarded during the conference."
 
 [extra]

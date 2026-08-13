@@ -20,7 +20,7 @@ publisher = "IEEE"
 license = "pay"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 rebuttal = true
 rebuttal_start = 2026-07-13
 rebuttal_end = 2026-07-17

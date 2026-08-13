@@ -19,7 +19,7 @@ license = "pay-profit"
 
 [review]
 blind = "single"
-diversity = "male-only"
+gender_balance = "male-only"
 artifact = "Courageous authors, who want to delve in open source software being applied in real NASA missions, and find possible connections to, and applications of Formal Methods, are invited to visit the open source repositories for two frameworks for programming flight software."
 
 [extra]

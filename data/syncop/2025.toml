@@ -17,7 +17,7 @@ notification = [2025-07-07, 2025-07-14]
 publisher = "informal"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 colocated = "Satellite workshop of CONFEST 2025."

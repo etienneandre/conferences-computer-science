@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 award = "A monetary award sponsored by Springer will be given to the authors of the submission selected by the Program Committee as the best paper of FMICS 2025"
 
 [extra]

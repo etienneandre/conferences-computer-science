@@ -19,5 +19,5 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 award = "Springer-sponsored Best Paper Award to one eligible regular paper and a Formal Methods Europe-sponsored Best Tool Award to one eligible tool demonstration paper."

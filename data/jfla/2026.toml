@@ -20,7 +20,7 @@ license = "free"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 notes = "Papers can be written in English, but the presentations themselves are expected to be given in French."

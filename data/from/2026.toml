@@ -18,7 +18,7 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [review]
-diversity = "male-only"
+gender_balance = "male-only"
 
 [extra]
 journal = """

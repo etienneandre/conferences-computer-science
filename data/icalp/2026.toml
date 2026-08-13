@@ -22,7 +22,7 @@ license = "cc-by"
 
 [review]
 blind = "lightweight-double"
-diversity = "mixed"
+gender_balance = "mixed"
 rebuttal = "21-24 March 2026 for track B"
 award = """
 EATCS award,

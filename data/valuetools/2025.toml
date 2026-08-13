@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 journal = "Additional publication opportunities: EAI Transactions series (Open Access) and EAI/Springer Innovations in Communications and Computing Book Series"

@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 award = "FACS 2024 will recognize the most outstanding submissions with a best paper award."
 
 [extra]

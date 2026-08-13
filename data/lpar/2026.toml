@@ -20,5 +20,5 @@ license = "free"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "Experimental and tool papers should be supported by a link to the artifact/experimental evaluation available to the reviewers."

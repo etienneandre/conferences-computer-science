@@ -21,7 +21,7 @@ license = "free-copy"
 
 [review]
 blind = "double"
-diversity = "mixed"
+gender_balance = "mixed"
 rebuttal = "Rebuttal period (interactive): February 16 - February 27, 2026"
 artifact = "Optional artifact evaluation"
 

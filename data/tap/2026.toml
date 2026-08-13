@@ -21,7 +21,7 @@ license = "cc-by"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "Optional artifact evaluation with FM 2026"
 
 [extra]

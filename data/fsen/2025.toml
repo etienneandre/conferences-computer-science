@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 journal = "Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN 2025 (to be confirmed)."

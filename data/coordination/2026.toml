@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "Artifact evaluation mandatory for tool papers, optional for regular/survey"
 
 [extra]

@@ -20,7 +20,7 @@ license = "pay-profit"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "For papers reporting experimental results, authors are encouraged to make their data available with their submission."
 award = "Best Paper Award, with a prize of EUR 500,  sponsored by Springer"
 

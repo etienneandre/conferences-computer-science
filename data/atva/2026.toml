@@ -22,7 +22,7 @@ license = "pay-profit"
 
 [review]
 blind = "double"
-diversity = "male-only"
+gender_balance = "male-only"
 rebuttal = true
 rebuttal_start = 2026-07-02
 rebuttal_end = 2026-07-09

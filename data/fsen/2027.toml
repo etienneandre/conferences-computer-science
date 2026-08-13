@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 environment = "Upon request, up to five papers can be accepted by the PC for which no presence on site is required."
 
 [extra]

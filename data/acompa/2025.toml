@@ -19,7 +19,7 @@ license = "pay"
 
 [review]
 blind = "double"
-diversity = "male-only"
+gender_balance = "male-only"
 
 [extra]
 notes = "Named ACOMP until 2021."

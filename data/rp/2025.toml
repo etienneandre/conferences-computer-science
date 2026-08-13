@@ -20,7 +20,7 @@ license = "pay-profit"
 
 [review]
 blind = "single"
-diversity = "male-only"
+gender_balance = "male-only"
 artifact = "For papers reporting experimental results, authors are encouraged to make their data available with their submission."
 
 [extra]

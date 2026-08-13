@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 award = "Best paper award"
 competition = "Hosts the model checking contest"
 

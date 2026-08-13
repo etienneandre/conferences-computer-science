@@ -20,7 +20,7 @@ license = "pay-profit"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 award = "Best Paper Award, sponsored by Springer"
 
 [extra]

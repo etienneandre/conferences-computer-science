@@ -20,7 +20,7 @@ license = "pay"
 
 [review]
 blind = "double"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "Submissions must supply all information needed to replicate the results and therefore are expected to include or point to an anonymized replication package with the necessary software, data, and instructions."
 competition = "Tool competition"
 

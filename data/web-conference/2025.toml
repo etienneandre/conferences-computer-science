@@ -21,7 +21,7 @@ license = "free-copy"
 
 [review]
 blind = "double"
-diversity = "mixed"
+gender_balance = "mixed"
 rebuttal = "Author and reviewer discussion: December 1-14, 2024"
 competition = "Competition Track"
 

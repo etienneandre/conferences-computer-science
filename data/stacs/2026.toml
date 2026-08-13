@@ -20,7 +20,7 @@ license = "cc-by-nd"
 
 [review]
 blind = "lightweight-double"
-diversity = "mixed"
+gender_balance = "mixed"
 rebuttal = true
 rebuttal_start = 2025-11-17
 rebuttal_end = 2025-11-21

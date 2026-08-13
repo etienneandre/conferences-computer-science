@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-diversity = "male-only"
+gender_balance = "male-only"
 
 [extra]
 journal = "The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP)"

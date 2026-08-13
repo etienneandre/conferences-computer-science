@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 journal = "A special issue of the Science of Computer Programming Journal (Elsevier) is going to be organised (to be confirmed) with selected and extended papers from the 29th Brazilian Symposium on Formal Methods (SBMF 2026)."

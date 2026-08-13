@@ -18,7 +18,7 @@ publisher = "IEEE"
 license = "pay"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 journal = "Selected papers have the potential to be invited to submit extended versions to be published in renowned journals."

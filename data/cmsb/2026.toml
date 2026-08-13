@@ -20,7 +20,7 @@ publisher = "Springer LNCS/LNBI"
 license = "pay-profit"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 award = "best paper award and best student paper award"
 
 [extra]

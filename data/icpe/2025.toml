@@ -21,7 +21,7 @@ license = "acm"
 
 [review]
 blind = "double"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "To promote research reproducibility, the authors of the accepted research papers in this track are encouraged to submit an artifact to the conference Artifact Track."
 award = "The conference Award Committee will recognize the best submissions, judged by multiple relevant factors, with an ACM/SPEC Best Paper Award award."
 

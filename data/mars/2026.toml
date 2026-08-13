@@ -18,7 +18,7 @@ publisher = "EPTCS"
 license = "cc-by-nd"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 colocated = "Satellite of ETAPS."

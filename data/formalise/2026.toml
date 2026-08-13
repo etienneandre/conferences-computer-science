@@ -19,7 +19,7 @@ license = "free"
 
 [review]
 blind = "lightweight-double"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "Submission of an artifact is optional but encouraged for all papers where it can support the results presented in the paper."
 
 [extra]

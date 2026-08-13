@@ -17,7 +17,7 @@ notification = [2026-03-06]
 publisher = "informal"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 colocated = "Satellite workshop of ETAPS 2026."

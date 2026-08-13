@@ -20,7 +20,7 @@ license = "cc-by"
 
 [review]
 blind = "double"
-diversity = "mixed"
+gender_balance = "mixed"
 artifact = "Artifact evaluation, replicability studies."
 
 [extra]

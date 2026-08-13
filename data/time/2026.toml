@@ -21,7 +21,7 @@ license = "cc-by"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 journal = "The authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in a high ranked journal; more details will be provided in due time."

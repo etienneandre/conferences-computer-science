@@ -20,7 +20,7 @@ license = "pay"
 
 [review]
 blind = "single"
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 journal = "Selected papers will be invited to submit an extended version to the Springer Real-Time Systems journal."

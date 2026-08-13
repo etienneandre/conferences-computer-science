@@ -20,7 +20,7 @@ license = "pay"
 
 [review]
 blind = "double"
-diversity = "male-only"
+gender_balance = "male-only"
 award = "A selection of papers will be recognized as Outstanding Papers and highlighted on the symposium website."
 
 [extra]

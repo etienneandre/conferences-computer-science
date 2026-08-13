@@ -19,7 +19,7 @@ publisher = "PACMPL"
 license = "cc-by"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 notes = "Rebuttal: 4-8 September 2021. Double blind submission. Authors are asked (but not required) to pay US$400 for journal open-access publication. At most 10% of the accepted papers of POPL 2022 will be designated as Distinguished Papers"

@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-diversity = "mixed"
+gender_balance = "mixed"
 
 [extra]
 journal = "Extended versions of the selected papers in SOICT 2024 will be invited for submission to Special issue of Multimedia Tools and Applications (Q1 Journal) and Informatica."

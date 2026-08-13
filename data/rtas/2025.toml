@@ -20,7 +20,7 @@ license = "pay"
 
 [review]
 blind = "double"
-diversity = "mixed"
+gender_balance = "mixed"
 rebuttal = true
 rebuttal_start = 2025-01-08
 rebuttal_end = 2025-01-12

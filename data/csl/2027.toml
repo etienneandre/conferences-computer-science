@@ -21,5 +21,5 @@ license = "cc-by"
 
 [review]
 blind = "lightweight-double"
-diversity = "mixed"
+gender_balance = "mixed"
 award = "Papers authored solely by students or for which students are the main contributors will be considered for the Helena Rasiova award."

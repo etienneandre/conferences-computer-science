@@ -21,4 +21,4 @@ license = "pay"
 
 [review]
 blind = "double"
-diversity = "mixed"
+gender_balance = "mixed"
