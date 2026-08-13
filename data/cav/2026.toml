@@ -1,0 +1,38 @@
+edition = 38
+title = "38th International Conference on Computer Aided Verification"
+url = "https://conferences.i-cav.org/2026/"
+
+[event]
+start = 2026-07-26
+end = 2026-07-29
+city = "Lisbon, Portugal"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + ref + appendix (regular) / 10 pages LNCS + ref + appendix (Short Tool Papers/Short Application Papers/Industrial Experience Reports & Case Studies)"
+paper = [2026-01-28]
+notification = [2026-04-17]
+extensions = false
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "cc-by"
+
+[review]
+blind = "double"
+rebuttal_start = 2026-03-30
+rebuttal_end = 2026-04-02
+artifact = "Authors of accepted papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN’s Empirical Evaluation Guidelines when reporting on empirical results."
+award = "The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification."
+
+[review.gender.chairs]
+women = 1
+men = 2
+
+[review.gender.speakers]
+women = 1
+men = 1
+
+[extra]
+journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+notes = "Owing to the increasing number of submissions, CAV has decided to implement a two-stage reviewing process. In the first stage, each paper will get two reviews. Papers with sufficient support by the reviewers will proceed to the next stage, where they will receive two additional reviews; other papers will be rejected early"

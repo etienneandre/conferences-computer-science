@@ -18,5 +18,12 @@ notification = [2025-04-02]
 publisher = "Springer LNCS"
 license = "cc-by"
 
+[review]
+blind = "double"
+rebuttal_start = 2025-03-11
+rebuttal_end = 2025-03-14
+artifact = "Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions."
+
+
 [extra]
-notes = "Double-blind submissions. Open access since 2018. Author Response Period: March 11 - 14, 2025. Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

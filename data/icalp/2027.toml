@@ -1,0 +1,43 @@
+edition = 54
+title = "54th EATCS International Colloquium on Automata, Languages, and Programming"
+url = "https://icalp.uj.edu.pl/track-b/"
+
+[event]
+start = 2027-07-05
+end = 2027-07-09
+city = "Krakow, Poland"
+
+[submission]
+tz = "AoE"
+format = "LIPIcs: no limit but the pages beyond the first ten pages will be read at the committee’s discretion"
+extensions = false
+
+
+[[submission.round]]
+name = "Round 1"
+paper = [2026-09-15]
+notification = [2026-12-08]
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
+[review]
+blind = "double"
+rebuttal_start = 2026-11-05
+rebuttal_end = 2026-11-09
+
+award = """
+EATCS award,
+Presburger award,
+EATCS distinguished dissertation award,
+best papers for Track A and Track B,
+best student papers for Track A and Track B."""
+
+[review.gender.chairs]
+women = 0
+men = 2
+
+[extra]
+# colocated = "Co-located with PODC and SPAA"
+notes = "Rebuttal for Track B only."
