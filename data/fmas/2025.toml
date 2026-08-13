@@ -7,6 +7,8 @@ url = "https://fmasworkshop.github.io/FMAS2025/"
 start = 2025-11-17
 end = 2025-11-19
 city = "Paris, France"
+hybrid = true
+colocated_with = ["ifm/2025"]
 
 [submission]
 tz = "AoE"
@@ -23,5 +25,3 @@ award = "FMAS 2025 will honour the best paper selected with respect to reviews, 
 
 [extra]
 journal = "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2025."
-colocated = "Colocated with iFM 2025"
-notes = "Hybrid conference (in presence + remotely)."

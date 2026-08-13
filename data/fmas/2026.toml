@@ -7,6 +7,7 @@ url = "https://fmasworkshop.github.io/FMAS2026/"
 start = 2026-11-17
 end = 2026-11-18
 city = "Southampton, England"
+colocated_with = ["icfem/2026"]
 
 [submission]
 tz = "AoE"
@@ -26,5 +27,4 @@ environment = "Remote presentation allowed. Free online participation."
 
 [extra]
 journal = "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2026."
-colocated = "Colocated with ICFEM 2026"
 notes = "Special topic 2026: Neurosymbolic AI"

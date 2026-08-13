@@ -7,7 +7,6 @@ url = "https://icfem2026.github.io/"
 start = 2026-11-17
 end = 2026-11-20
 city = "Southampton, England"
-colocated_with = ["fmas/2026"]
 
 [submission]
 tz = "AoE"
