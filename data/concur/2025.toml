@@ -7,12 +7,15 @@ url = "https://conferences.au.dk/confest2025/concur"
 start = 2025-08-26
 end = 2025-08-29
 city = "Aarhus, Denmark"
+colocated_with = ["qest-formats/2025", "fmics/2025"]
 
 [submission]
 tz = "AoE"
 format = "15 pages LIPIcs (+ references + appendix)"
 abstract = [2025-04-03]
 paper = [2025-04-09]
+rebuttal_start = 2025-05-09
+rebuttal_end = 2025-05-12
 notification = [2025-05-27]
 
 [proceedings]
@@ -22,9 +25,6 @@ license = "cc-by"
 [review]
 blind = "single"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2025-05-09
-rebuttal_end = 2025-05-12
 
 [stats]
 accepted = 36

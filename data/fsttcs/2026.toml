@@ -13,6 +13,8 @@ tz = "AoE"
 format = "15 pages in LIPIcs (+ bibliography + appendix)"
 abstract = [2026-07-04]
 paper = [2026-07-11]
+rebuttal_start = 2026-08-26
+rebuttal_end = 2026-08-28
 notification = [2026-09-15]
 
 [proceedings]
@@ -22,9 +24,6 @@ license = "cc-by"
 [review]
 blind = "double"
 gender_balance = "male-only"
-rebuttal = true
-rebuttal_start = 2026-08-26
-rebuttal_end = 2026-08-28
 
 [extra]
 notes = "Always in India."

@@ -12,6 +12,8 @@ city = "Irvine, California"
 tz = "AoE"
 format = "10 pages ACM + references (long) / 6 pages (short)"
 paper = [2024-11-14]
+rebuttal_start = 2025-01-06
+rebuttal_end = 2025-01-10
 notification = [2025-01-23]
 
 [proceedings]
@@ -21,9 +23,6 @@ license = "acm"
 [review]
 blind = "double"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2025-01-06
-rebuttal_end = 2025-01-10
 artifact = "Compulsory for tools and case studies, optional for regular papers."
 award = "Best paper award, Test-Of-Time Award, best RE award"
 

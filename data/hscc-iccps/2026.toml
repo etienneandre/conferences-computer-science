@@ -13,6 +13,8 @@ tz = "AoE"
 format = "10 pages ACM + references (long) / 6 pages (short)"
 abstract = [2025-11-06]
 paper = [2025-11-13]
+rebuttal_start = 2026-01-07
+rebuttal_end = 2026-01-11
 notification = [2026-01-29]
 
 [proceedings]
@@ -22,9 +24,6 @@ license = "free"
 [review]
 blind = "double"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2026-01-07
-rebuttal_end = 2026-01-11
 artifact = "Authors of accepted papers are encouraged to participate in artifact evaluation."
 award = "Best paper awards for HSCC and ICCPS, Best Student Paper Award, Best Tool Paper Award"
 

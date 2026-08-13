@@ -15,6 +15,8 @@ abstract = [2026-05-19]
 paper = [2026-05-21]
 notification = [2026-07-23]
 extensions = true  # extended, earlier date unknown
+rebuttal_start = 2026-07-02
+rebuttal_end = 2026-07-09
 
 [proceedings]
 publisher = "Springer LNCS"
@@ -23,9 +25,6 @@ license = "pay-profit"
 [review]
 blind = "double"
 gender_balance = "male-only"
-rebuttal = true
-rebuttal_start = 2026-07-02
-rebuttal_end = 2026-07-09
 artifact = "Artifact evaluation (optional for regular papers, mandatory for tool)."
 
 [extra]

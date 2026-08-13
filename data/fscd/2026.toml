@@ -13,6 +13,8 @@ tz = "AoE"
 format = "15 pages LIPIcs + references"
 abstract = [2026-01-23]
 paper = [2026-01-30]
+rebuttal_start = 2026-03-23
+rebuttal_end = 2026-03-27
 notification = [2026-04-16]
 
 [proceedings]
@@ -22,8 +24,6 @@ license = "cc-by"
 [review]
 gender_balance = "mixed"
 rebuttal = true
-rebuttal_start = 2026-03-23
-rebuttal_end = 2026-03-27
 award = "Best paper award by junior researchers. FSCD test-of-time award 2026."
 
 [extra]

@@ -12,6 +12,8 @@ city = "Irvine, USA"
 tz = "UTC-12"
 format = "11 pages IEEE 2 columns (+ references)"
 paper = [2024-11-14]
+rebuttal_start = 2025-01-08
+rebuttal_end = 2025-01-12
 notification = [2025-01-23]
 
 [proceedings]
@@ -21,9 +23,6 @@ license = "pay"
 [review]
 blind = "double"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2025-01-08
-rebuttal_end = 2025-01-12
 artifact = "There will be an optional artifact evaluation process for accepted papers that assesses the reproducibility of the work."
 award = "Best paper, best student paper, best reviewer."
 

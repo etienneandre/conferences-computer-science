@@ -12,6 +12,8 @@ city = "Jena, Germany"
 tz = "AoE"
 format = "15 pages LIPIcs (+ ref + 5-page appendix)"
 paper = [2024-09-26]
+rebuttal_start = 2024-11-15
+rebuttal_end = 2024-11-21
 notification = [2024-12-16]
 
 [proceedings]
@@ -21,9 +23,6 @@ license = "cc-by-nd"
 [review]
 blind = "lightweight-double"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2024-11-15
-rebuttal_end = 2024-11-21
 
 [stats]
 accepted = 72

@@ -13,6 +13,8 @@ tz = "AoE"
 format = "7 pages + 2 pages references"
 abstract = [2025-01-16]
 paper = [2025-01-23]
+rebuttal_start = 2025-04-06
+rebuttal_end = 2025-04-09
 notification = [2025-04-28]
 
 [proceedings]
@@ -21,9 +23,6 @@ license = "free-copy"
 
 [review]
 blind = "double"
-rebuttal = true
-rebuttal_start = 2025-04-06
-rebuttal_end = 2025-04-09
 competition = "Competitions"
 
 [extra]

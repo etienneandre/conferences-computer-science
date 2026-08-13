@@ -7,12 +7,15 @@ url = "https://confest-2026.github.io/concur/"
 start = 2026-09-01
 end = 2026-09-04
 city = "Liverpool, England"
+colocated_with = ["qest-formats/2026", "fmics/2026"]
 
 [submission]
 tz = "AoE"
 format = "15 pages LIPIcs (+ references + appendix)"
 abstract = [2026-04-20]
 paper = [2026-04-27]
+rebuttal_start = 2026-06-01
+rebuttal_end = 2026-06-03
 notification = [2026-06-15]
 
 [proceedings]
@@ -22,9 +25,6 @@ license = "cc-by"
 [review]
 blind = "single"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2026-06-01
-rebuttal_end = 2026-06-03
 award = "CONCUR Test-of-Time award, Best Paper award, and Best Student Paper award in 2026."
 
 [extra]

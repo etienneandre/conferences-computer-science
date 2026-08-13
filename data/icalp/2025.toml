@@ -12,6 +12,8 @@ city = "Aarhus, Denmark"
 tz = "AoE"
 format = "15 pages LIPIcs + references + appendix"
 paper = [2025-02-08]
+rebuttal_start = 2025-03-21
+rebuttal_end = 2025-03-24
 notification = [2025-04-14]
 extensions = false
 
@@ -21,7 +23,4 @@ license = "cc-by"
 
 [review]
 blind = "lightweight-double"
-rebuttal = true
-rebuttal_start = 2025-03-21
-rebuttal_end = 2025-03-24
 award = "Best paper and best student paper awards for each track (2) of the conference"

@@ -13,6 +13,8 @@ tz = "AoE"
 format = "8 pages IEEE + references (regular) / 4 pages (short)"
 abstract = [2025-04-20, 2025-04-28]
 paper = [2025-04-27, 2025-05-05]
+rebuttal_start = 2024-06-25
+rebuttal_end = 2024-06-27
 notification = [2025-07-01]
 
 [proceedings]
@@ -20,9 +22,6 @@ publisher = "TU Wien Academic Press / ACM/IEEE"
 license = "cc-by"
 
 [review]
-rebuttal = true
-rebuttal_start = 2024-06-25
-rebuttal_end = 2024-06-27
 
 [extra]
 colocated = "Co-located with VSTTE 2025"

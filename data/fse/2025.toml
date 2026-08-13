@@ -12,6 +12,8 @@ city = "Trondheim, Norway"
 format = "18 pages ACM (+ 4 pages references)"
 abstract = [2024-09-05]
 paper = [2024-09-12]
+rebuttal_start = 2024-11-22
+rebuttal_end = 2024-11-26
 notification = [2025-01-14]
 
 [proceedings]
@@ -20,9 +22,6 @@ license = "acm"
 
 [review]
 blind = "double"
-rebuttal = true
-rebuttal_start = 2024-11-22
-rebuttal_end = 2024-11-26
 
 [extra]
 colocated = "Co-located with ISSTA 2025."

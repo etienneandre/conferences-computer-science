@@ -14,6 +14,8 @@ format = "8 pages (+ references)"
 abstract = [2025-10-01]
 paper = [2025-10-08]
 notification = [2025-12-22]
+rebuttal_start = 2025-11-21
+rebuttal_end = 2025-11-25
 
 [proceedings]
 publisher = "ACM"
@@ -22,8 +24,5 @@ license = "free-copy"
 [review]
 blind = "double"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2025-11-21
-rebuttal_end = 2025-11-25
 artifact = "Supplementary Material recommended."
 award = "Pragnesh Jay Modi Best Student Paper Award."

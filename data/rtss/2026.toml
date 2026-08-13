@@ -13,6 +13,8 @@ tz = "AoE"
 format = "11 pages IEEE 2 columns (+ bibliography)"
 abstract = [2026-05-21]
 paper = [2026-05-26]
+rebuttal_start = 2026-07-13
+rebuttal_end = 2026-07-17
 notification = [2026-07-25]
 
 [proceedings]
@@ -21,7 +23,4 @@ license = "pay"
 
 [review]
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2026-07-13
-rebuttal_end = 2026-07-17
 award = "Outstanding papers will be highlighted in the proceedings. Awards: Best Paper, Best Student Paper, Best Presentation."

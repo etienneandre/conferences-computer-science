@@ -12,6 +12,8 @@ city = "Saint-Malo, Bretagne, France"
 tz = "UTC-12"
 format = "11 pages IEEE 2 columns (+ references)"
 paper = [2025-11-13]
+rebuttal_start = 2026-01-14
+rebuttal_end = 2026-01-18
 notification = [2026-01-29]
 
 [proceedings]
@@ -21,9 +23,6 @@ license = "pay"
 [review]
 blind = "double"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2026-01-14
-rebuttal_end = 2026-01-18
 artifact = "Optional Artifact Evaluation (AE) to assess reproducibility."
 
 [extra]

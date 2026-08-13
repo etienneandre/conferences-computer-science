@@ -7,11 +7,14 @@ url = "https://etaps.org/2026/conferences/fossacs/"
 start = 2026-04-11
 end = 2026-04-16
 city = "Turin, Italy"
+colocated_with = ["fase/2026", "tacas/2026"]
 
 [submission]
 tz = "AoE"
 format = "18 pages LNCS + bibliography"
 paper = [2025-10-16]
+rebuttal_start = 2025-12-08
+rebuttal_end = 2025-12-10
 notification = [2025-12-22]
 
 [proceedings]
@@ -20,9 +23,6 @@ license = "cc-by"
 
 [review]
 blind = "double"
-rebuttal = true
-rebuttal_start = 2025-12-08
-rebuttal_end = 2025-12-10
 artifact = "Artifact evaluation."
 
 [extra]

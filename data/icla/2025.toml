@@ -12,6 +12,8 @@ city = "Indian Statistical Institute Kolkata, India"
 format = "12 pages + references"
 abstract = [2024-08-11, 2024-08-25, 2024-08-29]
 paper = [2024-08-15, 2024-08-29]
+rebuttal_start = 2024-10-07
+rebuttal_end = 2024-10-11
 notification = [2024-10-18, 2024-10-25]
 
 [proceedings]
@@ -21,9 +23,6 @@ license = "pay-profit"
 [review]
 blind = "single"
 gender_balance = "mixed"
-rebuttal = true
-rebuttal_start = 2024-10-07
-rebuttal_end = 2024-10-11
 
 [extra]
 colocated = "Tutorials and workshops. Post-Conference: AWPL 2025"

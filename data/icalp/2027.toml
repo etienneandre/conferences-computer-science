@@ -16,6 +16,8 @@ extensions = false
 [[submission.round]]
 name = "Round 1"
 paper = [2026-09-15]
+rebuttal_start = 2026-11-05
+rebuttal_end = 2026-11-09
 notification = [2026-12-08]
 
 [proceedings]
@@ -24,8 +26,6 @@ license = "cc-by"
 
 [review]
 blind = "double"
-rebuttal_start = 2026-11-05
-rebuttal_end = 2026-11-09
 
 award = """
 EATCS award,
