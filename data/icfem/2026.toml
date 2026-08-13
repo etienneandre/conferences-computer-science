@@ -20,7 +20,17 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-gender_balance = "mixed"
+[review.gender.chairs]
+women = 0
+men = 3
+
+[review.gender.speakers]
+women = 2
+men = 2
+
+# [review.gender.committee] # TODO
+# women = 12
+# men = 30
 
 [extra]
 journal = "Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings."
