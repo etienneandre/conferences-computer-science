@@ -26,3 +26,12 @@
 
 # NOTE: might be enabled or disabled depending on the context
 # *.pdf
+
+# Specific to this Website
+.env
+public/
+build/
+__pycache__/
+*.pyc
+.DS_Store
+
