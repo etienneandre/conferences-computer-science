@@ -1,0 +1,33 @@
+edition = 38
+title = "38e Journées Francophones des Langages Applicatifs"
+url = "http://jfla.eu/jfla2027.html"
+
+[event]
+start = 2027-01-26
+end = 2027-01-29
+city = "Dinard, Bretagne, France"
+
+[submission]
+tz = "GMT+2"
+format = "18 pages LaTeX jflart (research) + references / 9 pages (short). No appendix"
+paper = [2026-10-16]
+notification = [2026-12-02]
+extensions = false
+
+[proceedings]
+publisher = "HAL"
+license = "free"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+women = 1
+men = 1
+
+# [review.gender.speakers]
+# women = 2
+# men = 2
+
+[extra]
+notes = "Presentations preferably given in French."

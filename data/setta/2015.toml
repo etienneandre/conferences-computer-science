@@ -18,5 +18,10 @@ notification = [2015-08-21]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+
+[stats]
+submitted = 60
+accepted = 20
+
 [extra]
-notes = "The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue of the Formal Aspect Computing journal."
+journal = "The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue of the Formal Aspect Computing journal."

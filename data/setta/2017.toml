@@ -18,5 +18,8 @@ notification = [2017-07-03, 2017-07-25]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+award = "Springer will support Best Paper Award of SETTA 2017."
+
 [extra]
-notes = "Always in China. The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue of the Formal Aspect Computing journal. Springer will support Best Paper Award of SETTA 2017."
+journal = "The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue of the Formal Aspect Computing journal."

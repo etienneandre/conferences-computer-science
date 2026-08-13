@@ -13,6 +13,7 @@ tz = "GMT"
 format = "18 pages LaTeX jflart (research) + references / 9 pages (short). No appendix"
 paper = [2025-10-16]
 notification = [2025-12-02]
+extensions = false
 
 [proceedings]
 publisher = "HAL"

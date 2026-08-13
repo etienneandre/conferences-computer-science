@@ -1,0 +1,116 @@
+This message is intentionally written in French. It is a call for papers for the
+“Francophone Days on Functional Languages” to be held at the end of January 2027
+in Britany. Papers can be written in English, but the presentations
+themselves are expected to be given in French.
+
+Merci de faire circuler : premier appel à communications
+
+JFLA 2027 : Journées Francophones des Langages Applicatifs
+http://jfla.eu/jfla2027.html
+
+26 janvier au 29 janvier 2027
+
+Maison Saint-François
+
+Les 38èmes Journées Francophones des Langages Applicatifs (JFLA) se tiendront
+en Bretagne, à Dinard (Ille-et-Vilaine), du mardi 26 janvier 2027 au
+vendredi 29 janvier 2027.
+
+Les JFLA réunissent concepteur·rices, utilisateur·rices et théoricien·nes ;
+elles ont pour ambition de couvrir les domaines des langages applicatifs, de la
+preuve formelle, de la vérification de programmes, et des objets mathématiques
+qui sous-tendent ces outils. Ces domaines doivent être pris au sens large : nous
+souhaitons promouvoir les ponts entre les différentes thématiques.
+
+- Langages fonctionnels et applicatifs : sémantique, compilation, optimisation,
+typage, extensions à d'autres paradigmes.
+
+- Assistants de preuve : implémentation, nouvelles tactiques, développements
+présentant un intérêt théorique, technique ou méthodologique.
+
+- Logique, correspondance preuve-programme, réalisabilité, extraction de
+programmes, modèles.
+
+- Spécification, prototypage, développements formels d'algorithmes.
+
+- Vérification de programmes ou de modèles, vérification déductive,
+interprétation abstraite, raffinement.
+
+- Utilisation industrielle des langages fonctionnels et applicatifs,
+ou des méthodes issues de la communauté scientifique. Outils et
+plateformes pour le web.
+
+- Enseignement ou diffusion des langages fonctionnels et
+applicatifs. Environnements et méthodes de développement, retours
+d'expérience.
+
+Les articles soumis aux JFLA sont relus par au moins deux personnes s'ils sont
+acceptés, et au moins trois personnes s'ils sont rejetés.  Les critiques du
+comité de programme sont toujours bienveillantes et la plupart du temps
+encourageantes et constructives, même en cas de rejet.
+
+Il n'y a donc pas de raison de ne pas soumettre aux JFLA !
+
+DATES IMPORTANTES
+
+/!\ Attention : les dates limites sont fermes et définitives.
+  Il n'y aura pas d'extension. /!\
+
+- Soumission des résumés et articles : 16 octobre 2026, GMT+2
+- Notification aux auteurs et autrices : 2 décembre 2026, GMT+2
+- Version finale des articles : 16 décembre 2026, GMT+2
+
+SOUMISSIONS
+
+Nous acceptons deux types de soumissions :
+
+- Article de recherche (18 pages max.) portant sur des travaux originaux. Nous
+acceptons des travaux en cours, pour lesquels l'aspect recherche n'est pas
+entièrement finalisé. Nous encourageons aussi la soumission d'articles
+présentant avec élégance un résultat connu sous un angle nouveau.
+
+- Article court (9 pages max.) décrivant un problème particulier, les pistes en
+cours d'investigation, et visant à rechercher de l'aide de la part de la
+communauté. Les articles courts peuvent également présenter de manière
+synthétique et cohérente des résultats déjà publiés. Enfin, ils peuvent
+présenter un outil logiciel dont l'exposé constituera une démonstration.
+
+CONSIGNES AUX AUTEURS ET AUTRICES
+
+Les articles peuvent être rédigés en français ou en anglais.
+
+La forme de l'article doit être soignée, et le contenu rédigé de manière
+structurée et claire.
+
+Le style LaTeX jflart doit impérativement être utilisé sans modification de la
+mise en page. Le style LaTeX et sa documentation sont disponibles depuis le site
+web de la conférence.
+
+Les limites de pages sont strictes. Les références bibliographiques ne sont pas
+comptabilisées dans la limite de pages. Les annexes aux articles ne sont pas
+autorisées.
+
+Les auteurs et autrices peuvent soumettre du matériel supplémentaire, séparé de
+l'article soumis, sous forme de texte (version longue, sans limite de pages)
+et/ou de développement logiciel. L'évaluation de ce matériel supplémentaire est
+à la discrétion du comité de programme. Les articles soumis doivent donc être
+auto-contenus et évaluables sans ce matériel supplémentaire.
+
+Les soumissions parallèles dans d'autres conférences, journaux ou workshops avec
+actes ne sont pas autorisées.
+
+Les membres du comité de programme sont autorisés à soumettre un article. Les
+présidentes du comité ne le sont pas.
+
+Les articles doivent être soumis via le site :
+https://types-hotcrp.paris.inria.fr/jfla27
+
+L'évaluation des articles suit un processus en simple-aveugle : les rapports
+des articles sont anonymes, mais pas les auteurs et autrices.
+
+Les articles acceptés seront publiés dans les actes de la conférence, sur HAL,
+et les auteurs et autrices en donneront une présentation lors des journées. Les
+présentations seront, de préférence, données en français.
+
+Yannick ZAKOWSKI et Stefania DUMBRAVA
+JFLA 2027

@@ -6,20 +6,17 @@ name = "International Symposium on Dependable Software Engineering: Theories, To
 [core]
 id = "2284"
 
-# TODO: verify — derived from per-edition values, which recorded
-# the rank known at data-entry time, not the rank then in force.
 [[core.history]]
 from = 2015
 rank = "absent"
 
 [[core.history]]
-from = 2025
-rank = "unranked"
+from = 2021
+rank = "unranked" # TODO: in fact "national China"
 
 [links]
 dblp = "setta"
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.
-acceptance = "33% (20/60 in 2015), 44% (17 long + 3 short /45 in 2016), 41% (16/39) in 2021, 48% (11+4/29) in 2022, 30% (24/80) in 2023, 45% (21/47) in 2024"  # from SETTA 2026
 extensions = "11 days (2015), 30 days (2016), 55+4 days (2017), 31+7 days (2018), 14 days (2019), several months due to coronavirus (2020), 9 days (2024), 10 days for round 2 (2025)"  # from SETTA 2026

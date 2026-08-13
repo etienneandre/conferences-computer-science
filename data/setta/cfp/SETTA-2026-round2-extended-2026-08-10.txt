@@ -1,0 +1,109 @@
+Dear colleagues,
+
+In response to several requests, we are pleased to announce that the SETTA 2026 Round 2 submission deadline has been extended by two weeks:
+
+New deadline: 24 August 2026 (AoE)
+(previously 10 August)
+
+
+**************************************************************************************************************************************
+
+12th International Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2026), to be held in Singapore, December 2–4, 2026.
+**************************************************************************************************************************************
+
+SETTA aims to bring together researchers and practitioners to advance the state of the art in formal methods and dependable software engineering, with a particular focus on bridging the gap between theory and real-world software systems.
+
+Topics of interest include (but are not limited to):
+
+    Requirements specification and analysis
+
+    Formalisms for modeling, design and implementation
+
+    Model checking, theorem proving, and decision procedures
+
+    Scalable approaches to formal system analysis
+
+    Formal approaches to simulation, run-time verification, and testing
+
+    Integration of formal methods into software engineering practice
+
+    Contract-based engineering of components, systems, and systems of systems
+
+    Formal and engineering aspects of software evolution and maintenance
+
+    Parallel and multicore programming
+
+    Embedded, real-time, hybrid, probabilistic, and cyber-physical systems
+
+    Mixed-critical applications and systems
+
+    Formal aspects of service-oriented and cloud computing
+
+    Safety, reliability, robustness, and fault-tolerance
+
+    Dependability of smart software and systems
+
+    Empirical analysis techniques and integration with formal methods
+
+    Applications and industrial experience reports
+
+    Software tools to assist the construction or analysis of software systems
+
+    Trustworthy and explainable AI
+
+
+We welcome:
+
+    Original research papers
+
+    Industrial application papers
+
+    Position papers on emerging challenges
+
+
+Submission guidelines:
+
+    Peer-reviewed research papers will be published in the SETTA 2026 proceedings (Springer LNCS)
+
+    Submissions must not exceed 16 pages (excluding references) and must follow LNCS formatting guidelines
+
+    Papers must be written in English and submitted in PDF format via EasyChair
+
+    Submissions must be original and not under review elsewhere
+
+    SETTA 2026 employs double-blind reviewing; submissions must not contain author names or identifying information
+
+    Each paper will be reviewed by at least two program committee members
+
+    Accepted papers must be presented at the conference
+
+Selected papers will be invited for extended versions in a reputable journal special issue.
+
+Important Dates (AoE, 23:59):
+
+    Round 1
+
+        Paper Submission:  May 24, 2026
+
+        Notification:  July 14, 2026
+
+    Round 2
+
+        Paper Submission: August 10, 2026, August 24, 2026
+
+        Notification: September 30, 2026
+
+    Conference Dates: December 2–4, 2026
+
+
+Submission link:
+https://easychair.org/my2/conference?conf=setta2026
+
+We especially encourage participation from young researchers and students.
+
+We look forward to your submissions and to welcoming you in Singapore!
+
+Tali Sznajder
+Maître de conférences au LIP6 - Équipe MoVe
+4 place Jussieu
+75005 Paris

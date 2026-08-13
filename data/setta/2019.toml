@@ -20,7 +20,6 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Always in China."
 
 [[cfp]]
 file = "cfp/SETTA-2019.pdf"

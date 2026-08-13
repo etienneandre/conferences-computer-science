@@ -22,10 +22,10 @@ license = "pay-profit"
 [stats]
 accepted = 15
 submitted = 29
-# TODO: verify — extracted from the cross-year acceptance string.
+# TODO: 11 + 4
 
 [extra]
-notes = "Always in China. A selection of papers will be invited to special issues of the Elsevier Journal of Systems Architecture (JSA) and the IEEE Transactions on Reliability (TR)."
+journal = "A selection of papers will be invited to special issues of the Elsevier Journal of Systems Architecture (JSA) and the IEEE Transactions on Reliability (TR)."
 
 [[cfp]]
 file = "cfp/SETTA-2022.txt"

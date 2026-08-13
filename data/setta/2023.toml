@@ -22,10 +22,9 @@ license = "pay-profit"
 [stats]
 accepted = 24
 submitted = 80
-# TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Always in China. Extended versions of selected papers will be recommended to special issues of Journal of System Architecture (JSA) and of Software Testing, Verification and Reliability (STVR) after the proceeding of the conference."
+journal = "Extended versions of selected papers will be recommended to special issues of Journal of System Architecture (JSA) and of Software Testing, Verification and Reliability (STVR) after the proceeding of the conference."
 
 [[cfp]]
 file = "cfp/SETTA-2023.txt"

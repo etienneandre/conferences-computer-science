@@ -6,7 +6,7 @@ url = "https://gdrgpl2023.sciencesconf.org/"
 [event]
 start = 2023-06-05
 end = 2023-06-08
-city = "Rennes, France"
+city = "Rennes, Bretagne, France"
 
 [submission]
 format = "8 pages (original) / 4 pages (PhD) / 4 pages (tools) / 4 pages (projects) / 4 pages (long abstract)"

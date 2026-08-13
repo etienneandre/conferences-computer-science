@@ -1398,19 +1398,18 @@ continent = "NA"
 
 ["Rennes, Bretagne, France"]
 country = "FR"
-display = "Rennes"
+display = "Rennes, Bretagne"
 lat = 48.1173
 lon = -1.6778
 continent = "EU"
 # 2 edition(s)
 
-["Rennes, France"]
+["Dinard, Bretagne, France"]
 country = "FR"
-display = "Rennes"
-lat = 48.1173
-lon = -1.6778
+display = "Dinard, Bretagne"
+lat = 48.6325
+lon = -2.0617
 continent = "EU"
-# 2 edition(s)
 
 ["Reykjavík, Iceland"]
 country = "IS"
@@ -1430,7 +1429,7 @@ continent = "EU"
 
 ["Saint-Malo, Bretagne, France"]
 country = "FR"
-display = "Saint-Malo"
+display = "Saint-Malo, Bretagne"
 lat = 48.6493
 lon = -2.0257
 continent = "EU"

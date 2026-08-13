@@ -6,7 +6,7 @@ url = "http://etr2015.irisa.fr/"
 [event]
 start = 2015-08-24
 end = 2015-08-28
-city = "Rennes, France"
+city = "Rennes, Bretagne, France"
 
 [submission]
 format = "4 pages IEEE 2 columns"
