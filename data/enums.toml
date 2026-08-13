@@ -228,3 +228,31 @@ listed = false
 [defunct.seemingly]
 label = "Seemingly discontinued"
 css = "dead"
+
+
+################################################################################
+# Calls for papers
+################################################################################
+#
+# `stage` says which version of the call this is; several `extended` entries
+# are normal, and their order in the edition file is the order they appeared.
+
+[cfp_stage.initial]
+label = "As first published"
+
+[cfp_stage.extended]
+label = "After a deadline extension"
+
+# `kind` is only set when the file is not a call for papers.
+
+[cfp_kind.participation]
+label = "Call for participation"
+render = false
+
+[cfp_kind.poster]
+label = "Poster or flyer"
+render = false
+
+[cfp_kind.image]
+label = "Image"
+render = false
