@@ -29,7 +29,7 @@ artifact = "Artifact evaluation (optional for regular papers, mandatory for tool
 
 [extra]
 colocated = "Colocated with APLAS"
-notes = "Almost always in Asia. Early-rejection notification. Also informal presentations (\"Spotlights of Verification\")."
+notes = "Early-rejection notification. Also informal presentations (Spotlights of Verification)."
 
 [[cfp]]
 file = "cfp/ATVA-2026-extended.txt"

@@ -6,7 +6,7 @@ url = "https://conf.researchr.org/home/fsen-2027"
 [event]
 start = 2027-05-24
 end = 2027-05-25
-city = "University of Twente, Enschede, the Netherlands"
+city = "Enschede, The Netherlands"
 
 [submission]
 tz = "AoE"
@@ -20,8 +20,15 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [review]
-gender_balance = "mixed"
 environment = "Upon request, up to five papers can be accepted by the PC for which no presence on site is required."
+
+[review.gender.chairs]
+women = 1
+men = 1
+
+[review.gender.speakers]
+women = 1
+men = 1
 
 [extra]
 journal = "Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN 2027."

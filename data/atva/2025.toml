@@ -20,6 +20,7 @@ rebuttal_end = 2025-06-20
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-032-08707-2"
 
 [review]
 blind = "double"
@@ -32,7 +33,6 @@ submitted = 59
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Almost always in Asia."
 
 [[cfp]]
 file = "cfp/ATVA-2025.txt"

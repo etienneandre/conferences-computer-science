@@ -18,14 +18,25 @@ notification = [2023-06-30]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = ["10.1007/978-3-031-45329-8", "10.1007/978-3-031-45332-8"]
 
 [stats]
 accepted = 37
 submitted = 115
 # TODO: verify — extracted from the cross-year acceptance string.
 
+[review]
+[review.gender.chairs]
+women = 0
+men = 2
+
+# NOTE: includes tutorials
+[review.gender.speakers]
+women = 1
+men = 4
+
 [extra]
-notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia."
+notes = "4 more days to edit the paper past the deadline in 2011."
 
 [[cfp]]
 file = "cfp/ATVA-2023.pdf"

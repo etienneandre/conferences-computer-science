@@ -2127,7 +2127,6 @@ display = "Enschede"
 lat = 52.2215
 lon = 6.8937
 continent = "EU"
-# 1 edition(s)
 
 ["Evry, France"]
 country = "FR"
@@ -3623,14 +3622,6 @@ country = "IT"
 display = "University of Calabria"
 lat = 39.3333
 lon = 16.1833
-continent = "EU"
-# 1 edition(s)
-
-["University of Twente, Enschede, the Netherlands"]
-country = "NL"
-display = "University of Twente"
-lat = 52.2215
-lon = 6.8937
 continent = "EU"
 # 1 edition(s)
 

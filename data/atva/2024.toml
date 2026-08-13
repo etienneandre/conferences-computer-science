@@ -25,7 +25,7 @@ submitted = 73
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Double-blind. Co-located with APLAS 2024. Artifact evaluation (optional for regular papers, mandatory for tool). Rebuttal: 11-14 June 2024. 4 more days to edit the paper past the deadline in 2011. Almost always in Asia."
+notes = "Double-blind. Co-located with APLAS 2024. Artifact evaluation (optional for regular papers, mandatory for tool). Rebuttal: 11-14 June 2024. 4 more days to edit the paper past the deadline in 2011."
 
 [[cfp]]
 file = "cfp/ATVA-2024.txt"
