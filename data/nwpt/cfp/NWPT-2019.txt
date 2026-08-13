@@ -1,0 +1,111 @@
+                       CALL FOR CONTRIBUTIONS
+
+        31st Nordic Workshop on Programming Theory, NWPT 2019
+
+                Tallinn, Estonia, 13-15 November 2019
+
+                  http://cs.ttu.ee/events/nwpt2019
+
+Important Dates
+
+    Submission of abstracts	16 September 2019
+    Notification  		4 October 2019
+    Final versions		15 October 2019
+    Registration		15 October 2019
+    
+
+Background
+
+The NWPT series of annual workshops is a forum bringing together
+programming theorists from the Nordic and Baltic countries, but also
+from elsewhere.
+
+List of Topics
+
+    Semantics of programming languages
+    Programming language design and programming methodology
+    Programming logics
+    Formal specification of programs
+    Program verification
+    Program construction
+    Tools for program verification and construction
+    Program transformation and refinement
+    Real-time and hybrid systems
+    Models of concurrency and distributed computing
+    Model-based testing
+    Language-based security
+
+Invited Speakers
+
+    Mohamed Bettaz, Philadelphia University, Amman, Jordan
+    Ando Saabas, Bolt, Estonia
+    Pawel Sobocinski, Tallinn University of Technology, Estonia
+
+Submission Guidelines
+
+Authors wishing to give a talk at the workshop are requested to submit
+abstracts of 2-3 pages (pdf, printable on A4 paper, using
+easychair.cls) through EasyChair
+(https://easychair.org/conferences/?conf=nwpt2019) by 16 September,
+2019. Work in progress as well as abstracts of manuscripts submitted
+for formal publication elsewhere are permitted.
+
+The abstracts of the accepted contributions will be available
+electronically before the workshop. By submitting to EasyChair you
+agree that your abstract will be publicly available. Moreover, you as
+an author are responsible for the content.
+
+Post-workshop Publication
+
+We have arranged a special issue of the Journal of Logical and
+Algebraic Methods in Programming (JLAMP) devoted to the best
+contributions to the workshop. The contributions will be selected by
+the PC. They will be invited after the workshop and will undergo a
+rigorous, journal-strength review process according to the standards
+of JLAMP.
+
+Program Committee
+
+    Antonis Achilleos, Reykjavík University, Iceland
+    Johannes Borgström, Uppsala University, Sweden
+    Martin Elsman, University of Copenhagen, Denmark
+    Daniel Fava, University of Oslo, Norway
+    John Gallagher, RUC, Denmark
+    Michael R. Hansen, DTU, Denmark
+    Magne Haveraaen, University of Bergen, Norway
+    Keijo Heljanko, University of Helsinki, Finland
+    Thomas T. Hildebrandt, ITU Copenhagen, Denmark
+    Einar Broch Johnsen, University of Oslo, Norway
+    Jaakko Järvi, University of Bergen, Norway
+    Yngve Lamo, Western Norway Univ. of Applied Sciences, Norway
+    Kim G. Larsen, Aalborg University, Denmark
+    Alberto Lluch Lafuente, DTU, Denmark
+    Fabrizio Montesi, University of Southern Denmark, Denmark
+    Wojciech Mostowski, Halmstad University, Sweden
+    Olaf Owe, University of Oslo, Norway
+    Philipp Rümmer, Uppsala University, Sweden
+    Gerardo Schneider, University of Gothenburg, Sweden
+    Cristina Seceleanu, Mälardalen University, Sweden
+    Jiri Srba, Aalborg University, Denmark
+    Tarmo Uustalu, Reykjavík University, Iceland
+    Jüri Vain, Tallinn University of Techn., Estonia
+    Antti Valmari, University of Jyväskylä, Finland
+    Marina Waldén, Åbo Akademi University, Finland
+
+Organizing Committee
+
+    Jüri Vain (chair)
+    Tarmo Uustalu
+    Leonidas Tsiopoulos
+    Juhan Ernits
+    Marko Kääramees
+
+Venue
+
+The 31st Nordic Workshop on Programming Theory 2019 will take place in
+the campus of Tallinn University of Technology.
+
+Contact
+
+Further information can be obtained by mailing the organizers at
+nwpt2019@ttu.ee.

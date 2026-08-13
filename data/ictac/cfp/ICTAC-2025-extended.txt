@@ -1,0 +1,122 @@
+*Call for Papers - ICTAC 2025*
+https://ictac2025.digital-hub.sh/ <https://ictac2025.digital-hub.sh/>
+*International Colloquium on Theoretical Aspects of Computing*
+Marrakech, Morocco, November 24th to 28th, 2025
+
+*About ICTAC:*
+
+The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry, and government to present research and exchange ideas and experiences within theoretical aspects of computing through (formal) methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.
+
+
+*Topics of Interest:*
+
+The conference concerns all aspects of theoretical computer science, including, but not limited to:
+
+ * Formal languages and automata
+ * Semantics of programming languages
+ * Logic in computer science
+ * Lambda calculus, type theory, and category theory
+ * Domain-specific languages
+ * Theories of concurrency and mobility
+ * Theories of distributed computing
+ * Models of objects and components
+ * Coordination models
+ * Security and privacy
+ * Static analysis
+ * Software verification
+ * Timed, hybrid, and cyber-physical systems
+ * Verification, analysis and control synthesis
+ * Software testing
+ * Program generation and transformation
+ * Model checking and theorem-proving
+ * Quantum computing
+ * Trustworthy AI
+ * Machine learning algorithms
+ * Applications and experience
+
+*Invited Speakers*
+*
+*
+
+ *
+   Antoine Girard, University Paris-Saclay, CNRS, France
+ *
+   Klaus Havelund, NASA’s Jet Propulsion Laboratory, California
+   Institute of Technology, USA
+ *
+   Joost-Pieter Katoen, RWTH Aachen University, Germany
+ *
+   Kim Guldstrand Larsen, Aalborg University, Denmark
+
+*Publication:*
+
+ * All accepted papers will be published in Springer's Lecture Notes in
+   Computer Science.
+ * Springer sponsors the ICTAC 2025 Best Paper Award with a cash prize
+   of 1.000 Euro.
+ * There will be a special issue for selected papers from ICTAC 2025 in
+   the Elsevier’s journal Theoretical Computer Science.
+
+
+*Deadlines:*
+
+ * July, 03rd: Abstracts (extended)
+ * July, 09th: Full papers (extended)
+ * August, 30th: Notification
+ * September, 15th: Camera-ready papers
+
+*General Co-Chairs
+*
+
+ * Ahmed Bouajjani    Université de Paris, France
+ * Mohammed Erradi    ENSIAS, UM5R, Morocco
+
+*Program Co-Chairs
+*
+
+ * Zhiming Liu    Southwest University, China
+ * Adnane Saoud    UM6P, Morocco
+ * Heike Wehrheim    University of Oldenburg, Germany
+
+*Program Committee
+*
+
+ * Jorge A. Pérez    University of Groningen, Netherlands
+ * Laurent Fribourg    ENS Paris-Saclay, LMF, France
+ * Lina Ye    CentraleSupélec, LRI, University Paris–Saclay, France
+ * Abderrahim Ait Wakrime    UM5R, Morocco
+ * Maike Schwammberger    Karlsruhe Institute of Technology, Germany
+ * Kirstin Peters    Universität Augsburg, Germany
+ * Emil Sekerinski    McMaster University, Canada
+ * Ichiro Hasuo    National Institute of Informatics, Japan
+ * Kim Guldstrand Larsen    Computer Science, Aalborg University, Denmark
+ * Yuxin Deng    East China Normal University, China
+ * Zhilin Wu    Institute of Software, Chinese Academy of Sciences, China
+ * Jan Kretinsky    Masaryk University, Czech Republic
+ * Sadegh Soudjani    Max Planck Institute, Germany
+ * Annabelle McIver    Macquarie University, Australia
+ * Rosemary Monahan    Maynooth University, Ireland
+ * Marcello Bonsangue    Leiden University, Netherlands
+ * Ana Sokolova    University of Salzburg, Austria
+ * Pushpak Jagtap    Indian Institute of Science, Bangalore, India
+ * Silvia Lizeth Tapia Tarifa    University of Oslo, Norway
+ * Jim Woodcock    University of York, United Kingdom
+ * Augusto Sampaio    Federal University of Pernambuco, Brazil
+ * Marjan Sirjani    Mälardalen University, Sweden
+ * Cong Tian    Xidian University, China
+ * Maurice ter Beek    CNR, Italy
+ * Tarmo Uustalu    Reykjavik University, Iceland
+ * Miaomiao Zhang    Tongji University, China
+ * Sarah Winkler    Free University of Bozen-Bolzano, Italy
+ * Hussein Sibai    Washington University in St. Louis, USA
+ * Tomás Vojnar    Brno University of Technology, Czech Republic
+ * Peter Habermehl    IRIF, Université Paris Cité, France
+ * Julien Signoles    CEA LIST, France
+ * Chelsea Edmonds    University of Sheffield, United Kingdom
+ * Inigo Incer    University of Michigan, USA
+ * Organizing Committee
+ * Abderrahim Ait Wakrime    UM5R, Morocco
+ * Sadek Belamfedel Alaoui    UM6P, Morocco
+ * Khaoula Boukir    Ibn Tofail University, Morocco
+ * Karam Kharraz    University of Lübeck, Germany
+ * Adnane Saoud    UM6P, Morocco

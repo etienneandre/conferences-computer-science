@@ -21,3 +21,7 @@ license = "free-copy"
 
 [extra]
 notes = "Double blind. Rebuttal phase: 5-9 December 2022. All deadlines UTC-12."
+
+[[cfp]]
+file = "cfp/AAMAS-2023.txt"
+stage = "initial"

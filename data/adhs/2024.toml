@@ -19,3 +19,7 @@ license = "cc-by"
 
 [review]
 award = "A Best Paper Award and a Best Repeatability Award (new!) will also be awarded during the conference"
+
+[[cfp]]
+file = "cfp/ADHS-2024.txt"
+stage = "initial"

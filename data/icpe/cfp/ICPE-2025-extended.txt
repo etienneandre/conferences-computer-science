@@ -1,0 +1,66 @@
+
+
+=====================================================
+Call for Contributions
+=====================================================
+ICPE 2025
+16th ACM/SPEC International Conference on Performance Engineering
+Sponsored by ACM SIGMETRICS, SIGSOFT, and SPEC RG
+May 5 - 9, 2025
+Toronto, Canada
+Web: https://icpe2025.spec.org
+Twitter: https://twitter.com/ICPEconf
+HotCRP: https://icpe2025.hotcrp.com/
+
+-----------------------------------------------------
+IMPORTANT DATES
+-----------------------------------------------------
+Research track abstracts: Oct 25, 2024 (AoE) (extended)
+Research track papers: Nov 01, 2024 (AoE) (extended)
+Research track notification: Dec 20, 2024 (AoE)
+
+Industry track abstracts: Oct 25, 2024 (AoE) (extended)
+Industry track papers: Nov 01, 2024 (AoE) (extended)
+Industry track notification: Dec 20, 2024 (AoE)
+
+Workshop proposals submission: Oct 11, 2024 (AoE)
+
+Artifact track submission: Jan 15, 2025 (AoE)
+Emerging research track submission: Jan 8, 2025 (AoE)
+Poster and demo submission: Jan 15, 2025 (AoE)
+Tutorial proposals submission: Jan 15, 2025 (AoE)
+Data challenge submission: Jan 15, 2025 (AoE)
+
+-----------------------------------------------------
+SCOPE AND TOPICS
+-----------------------------------------------------
+The ACM/SPEC International Conference on Performance Engineering (ICPE) is the leading international forum for presenting and discussing novel ideas, innovations, trends, and experiences in the field of performance engineering.
+
+Today's systems are complex, rely increasingly on dynamic distributed architectures, and raise continuously important challenges related to end-to-end performance management. This applies equally to emerging domains, such as systems of systems, interconnected and embedded systems, distributed data and intelligence, machine learning environments, human-centered computing, non-von Neumann architectures, cloud/edge/fog infrastructures, data streaming, and social networks, and also to traditional domains, such as web-based, data centers, mobile and wireless systems, and real-time systems. As a result, our systems have become more complex and, therefore, more difficult to engineer and understand. We need to manage this complexity so that our systems remain reliable, trustworthy, and performant.
+
+ICPE brings together researchers and practitioners to report state-of-the-art and in-progress research on performance engineering of software, networks, and systems, including but not limited to performance modeling, analysis, measurement, benchmark design, and run-time performance management. The focus is both on classical metrics such as response time, throughput, resource utilization, and (energy) efficiency and on the relationship of such metrics to other system properties, including but not limited to scalability, elasticity, availability, reliability, cost, sustainability, security, and privacy.
+
+ICPE deals with performance and associated quality attributes across all application domains. We encourage contributions that help extend the state-of-the-art in particular, but not exclusively, in the following areas:
+
+        - Performance Measurement and Empirical Evaluation
+        - Performance Benchmarking
+        - Performance Modeling of Software and Systems
+        - Design and Development Processes
+        - Run-time performance management and adaptation
+        - Platform-Related Optimizations
+
+ICPE caters to a wide range of submission types with eight distinct submission tracks:
+
+        - Research track for regular research papers on the conference topics
+        - Industry track for contributions connecting to the industry
+        - Journal-first track for contributions from recent journal publications
+        - Artifact track for sharing software and data artifacts
+        - Emerging research track for discussing preliminary or vision contributions
+        - Poster and demo track for short interactive contributions
+        - Tutorials track for presentations by leading scientists and practitioners
+        - Workshops track for specific aspects of performance engineering
+        - Data challenge track for addressing the challenges presented by a performance dataset
+
+The conference proceedings are published in ACM Digital Library.
+For more information, including the submission guidelines, visit: https://icpe2025.spec.org/call-for-contributions
+

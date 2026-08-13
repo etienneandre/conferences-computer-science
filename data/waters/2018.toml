@@ -18,3 +18,11 @@ license = "free"
 
 [extra]
 notes = "Colocated with ECRTS. This year focus: We encourage submissions proposing novel models or combining existing models for analyzing real-time and performance properties for such heterogeneous systems. Also features the WATERS industrial challenge (formerly FMTV), this year by Dassault Aviation."
+
+[[cfp]]
+file = "cfp/WATERS-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/WATERS-2018-extended.txt"
+stage = "extended"

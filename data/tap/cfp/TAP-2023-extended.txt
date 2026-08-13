@@ -1,0 +1,127 @@
+due to various requests, deadlines for both abstract and full
+paper submission are extended to March 24th, 2023 (AoE)
+
+TAP 2023 – Call for Papers
+
+***********************************************************************
+
+The 17th International Conference on Tests and Proofs (TAP 2023)
+https://conf.researchr.org/home/tap-2023
+co-located within STAF 2023 (Software Technologies: Applications and
+Foundations)(https://conf.researchr.org/home/staf-2023)
+
+***********************************************************************
+
+Aim and Scope
+--------------------
+
+The TAP conference promotes research in verification and formal methods
+that targets the interplay of proofs and testing: the advancement of
+techniques of each kind and their combination, with the ultimate goal of
+improving software and system dependability.
+
+Research in verification has seen a steady convergence of heterogeneous
+techniques and a synergy between the traditionally distinct areas of
+testing (and dynamic analysis) and of proving (and static analysis).
+Formal techniques for counter-example generation based on, for example,
+symbolic execution, SAT/SMT-solving or model checking, furnish evidence
+for the potential of a combination of test and proof. The combination of
+predicate abstraction with testing-like techniques based on exhaustive
+enumeration opens the perspective for novel techniques of proving
+correctness. On the practical side, testing offers cost-effective
+debugging techniques of specifications or crucial parts of program
+proofs (such as invariants). Last but not least, testing is
+indispensable when it comes to the validation of the underlying
+assumptions of complex system models involving hardware and/or system
+environments. Over the years, there is growing acceptance in research
+communities that testing and proving are complementary rather than
+mutually exclusive techniques.
+
+TAP's scope encompasses many aspects of verification technology,
+including foundational work, tool development, and empirical research.
+Its topics of interest center around the connection between proofs (and
+other static techniques) and testing (and other dynamic techniques).
+Papers are solicited on, but not limited to, the following topics:
+
+-   Verification and analysis techniques combining proofs and tests,
+-   Program proving with the aid of testing techniques,
+-   Formal techniques supporting the automated generation of test
+    vectors and oracles (theorem proving, model checking, symbolic
+    execution, SAT/SMT solving, constraint logic programming, etc.),
+-   Formal techniques supporting novel definitions of coverage criteria,
+-   Specification inference by deductive and dynamic methods,
+-   Testing and runtime analysis of formal specifications,
+-   Search-based technics for proving and testing,
+-   Verification of verification tools and environments,
+-   Applications of test and proof techniques in new domains,
+-   Combined approaches of test and proof in the context of formal
+     certifications (Common Criteria, CENELEC, ...), and
+-   Case studies, tool and framework descriptions, and experience
+
+ Authors are encouraged (but not required) to make available to the
+reviewers
+ (and whenever possible publicly) the relevant artifacts. While the
+artifacts will
+not be formally reviewed, their availability and
+-   consistency with and replicability of results in the paper,
+-   completeness,
+-   documentation, and
+-   ease of use,
+will be weighted for the acceptance decision.
+
+ *Important Dates*:
+-----------------------
+
+- *March 24th, 2023* (extended): deadline for abstract submission
+- *March 24th, 2023* (extended): deadline for full-text submission
+- April 21st, 2023: Acceptance notification
+- May 15th, 2023: Deadline for final papers
+
+Submission Instructions
+-------------------------------
+
+TAP 2023 accepts papers of four kinds:
+
+ - *Regular research papers*: full submissions describing original
+    research, of up to 16 pages (excluding references).
+
+ - *Tool demonstration papers*: submissions describing the design and
+    implementation of an analysis/verification tool or framework, of up
+    to 8 pages (excluding references). The tool/framework described in a
+    tool demonstration paper should be available for public use.
+
+ - *Short papers*: submissions describing preliminary findings, proofs
+of
+    concepts, and exploratory studies, of up to 6 pages (excluding
+    references).
+
+ - *Journal-first extended abstracts*, of up to 4 pages, summarizing
+    recently published articles in high-quality journals. The aim of
+    journal-first papers is to further enrich the program of TAP, as
+    well as to provide an more flexible path to dissemination of results
+    in the field. The summarized journal article should have been
+    published (or accepted) by 1 July 2020 or later, and report new
+    results (as opposed as simply extending prior conference work with
+    'appendix' material, or minor enhancements). Journal-first
+    submissions must be marked as such in the submission’s title, and
+    must explicitly include full bibliographic details (including a DOI)
+    of the journal publication they are based on.
+
+Accepted submissions will be published in Springer's LNCS series.
+Papers have to adhere to [Springer's LNCS]
+(ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf
+) format and must be
+submitted in PDF format via the EasyChair submission site:
+https://easychair.org/conferences/?conf=tap23
+
+Program Committee Chairs
+----------------------------------------
+Cristina Seceleanu, Mälardalen University, Sweden
+cristina.seceleanu@mdu.se
+Virgile Prevosto, LISTInstitute of CEA Tech,
+Francevirgile.prevosto@cea.fr
+
+Program Committee
+---------------------------
+see
+https://conf.researchr.org/committee/tap-2023/tap-2023-papers-program-committee

@@ -21,3 +21,7 @@ license = "free"
 
 [extra]
 notes = "Single blind in 2024. Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014)."
+
+[[cfp]]
+file = "cfp/FM-2024.txt"
+stage = "initial"

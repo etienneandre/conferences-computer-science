@@ -1,0 +1,77 @@
+
+VECoS 2017
+Call for Papers
+11th International Conference on Verification and Evaluation
+of Computer and Communication Systems
+August 24-25, 2017 Montréal, Canada
+https://vecos.ensta-paristech.fr/2017/
+
+ 
+The VECoS conference series is interested in the analysis of computer and communication systems in which functional and extra-functional properties are inter-related. VECoS encourages the cross-fertilization between the various formal verification and evaluation approaches, methods and techniques, and especially those developed for concurrent and distributed hardware/software systems.
+
+Topics of interest to the conference include, but are not limited to:
+-Abstraction techniques
+-Certification standards for real-time systems
+-Compositional verification
+-Correct-by-construction design
+-Dependability assessment techniques
+-Equivalence checking
+-Model-checking
+-Parameterized verification
+-Performance and robustness evaluation
+-Probabilistic verification
+-QoS evaluation, planning and deployment
+-RAMS (Reliability Availability Maintainability Safety) assessment
+-Rigorous system design
+-Security protocols verification
+-Simulation techniques of discrete-event and hybrid systems
+-Supervisory control
+-Verification & validation of IoT
+-Verification & validation of safety-critical systems
+-Worst-case execution time analysis
+
+Application areas of VECoS include: adaptive systems, communication protocols, computer-supported collaborative work systems, cloud computing, cyber-physical systems, high performance computing, internet of things, logistics systems, manufactory of the future, mixed criticality systems, mobile and wireless networking, operations research, programming languages, real-time and embedded operating systems, service oriented systems, telecommunication systems, ubiquitous systems, web services, wireless sensor networks and workflow systems.
+
+An overview of previous VECoS conferences can be found at: https://vecos.ensta-paristech.fr/
+VECoS 2017 will be held August 24-25 in Montréal, Canada
+
+Important Dates
+
+-Papers deadline:  May 8, 2017 (Anywhere on Earth) - Firm Deadline
+-Paper notification: May 29, 2017
+-Camera-ready deadline: June 12, 2017
+-Conference:  August 24-252, 2017
+
+Invited Speakers
+We are very pleased to confirm the following invited speakers for VECoS 2017:
+
+-Moura Debbabi, Concordia University, Montreal, Canada
+-Michel Dagenais, Polytechnique Montreal, Canada
+-Zhiwu Li, Systems Control & Automation Laboratory, Xidian University, Xian, China
+ 
+
+General Information on Submissions
+The conference proceedings will be published in the Springer-Verlag Lecture Notes in Computer Science series. Papers must be original work and not be submitted for publication elsewhere. Papers must be submitted electronically in PDF format using easychair system and should not exceed 15 pages using the Lecture Notes in Computer Science (LNCS) format.
+
+At least one author of each accepted paper must attend VECoS 2017 to present.
+
+Authors of selected papers will be invited to submit extended article versions in a special issue of Innovations in Systems and Software Engineering : A NASA Journal or of International Journal of Critical Computer-Based Systems
+
+Organization
+General Chairs
+Ali Mili, New Jersey Institute of Technology, Newark, NJ, USA
+Sofiene Tahar, Concordia University, Montreal, Quebec, Canada
+
+Program Chairs
+Kamel Barkaoui, CNAM, Paris, France
+Hanifa Boucheneb, Polytechnique Montreal, Canada
+
+Organizing Committee Chair
+Otmane Ait Mohamed, Concordia University, Montreal, Quebec, Canada
+
+Publicity Chairs
+Belgacem Ben Hedia, CEA-LIST, Saclay, France
+Vladimir-Alexandru Paun, ENSTA ParisTech, Palaiseau, France
+
+For more information, visit the conference website: https://vecos.ensta-paristech.fr/2017/
+========================================================================

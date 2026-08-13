@@ -1,0 +1,95 @@
+######################################################################
+FIRST CALL FOR PAPERS
+
+Eighth International Conference on
+Fundamentals of Software Engineering 2019 -
+Theory and Practice (FSEN '19)
+http://fsen.ir/2019
+Tehran, Iran
+May 1-3, 2019
+######################################################################
+
+-- About FSEN --
+
+Fundamentals of Software Engineering (FSEN) is an international conference that aims to bring together researchers, engineers, developers, and practitioners from academia and industry to present and discuss their research work in the area of formal methods for software engineering. Additionally, this conference seeks to facilitate the transfer of experience, adaptation of methods, and where possible, foster collaboration among different groups. The topics of interest cover all aspects of formal methods, especially those related to advancing the application of formal methods in the software industry and promoting their integration with practical engineering techniques. Following the success of the previous FSEN editions, the next edition of the FSEN conference will take place in Tehran, Iran, May 1-3, 2019.
+
+-- Important Dates --
+
+Abstract Submission (optional): October 19, 2018 (AoE)
+Paper Submission: October 28, 2018 (AoE)
+Notification: December 18, 2018
+Final pre-Conference Version: January 20, 2019 (AoE)
+Conference: May 1-3, 2019
+
+-- Keynote Speakers --
+
+SOON TO APPEAR ON THE WEBSITE
+
+-- Topics of Interest --
+
+The topics of this conference include, but are not restricted to, the following:
+
+* Models of programs and software systems
+* Software specification, validation, and verification
+* Software testing
+* Software architectures and their description languages
+* Object, actor and multi-agent systems
+* Coordination, feature interaction and software product lines
+* Integration of formal and informal methods
+* Integration of different formal methods
+* Component-based and Service-oriented software systems
+* Collective, self-adaptive and cyber-physical software systems
+* Model checking and theorem proving
+* Quantitative formal methods
+* Software and hardware verification
+* CASE tools and tool integration
+* Industrial Applications
+
+-- Paper Submission --
+
+Authors are invited to submit full papers (up to 15 pages including references) describing original research, applications and tools; or short papers (up to 6 pages including references) describing ongoing research or new ideas that have not yet been fully validated.
+Both categories of papers must be submitted electronically in Postscript or PDF using the online submission process via the Easychair conference system at the following link: https://www.easychair.org/conferences/?conf=fsen2019.
+
+Contributions must be written in English, should be formatted according to the Springer LNCS style (LaTeX2e Proceedings Templates) that can be found at the following link (http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and not exceed the page limit for the category (including figures and references).
+
+Each submission will be thoroughly reviewed by at least three reviewers considering scientific originality, significance, relevance to the FSEN conference, technical soundness, clarity, self-containedness and discussion of appropriate related work.
+
+The reviewers will be asked to rate the submissions and evaluate whether they can be accepted as:
+1) Full paper for the LNCS post-proceedings and conference pre-proceedings
+2) Short paper for the LNCS post-proceedings and conference pre-proceedings
+3) Poster included only in the pre-proceedings
+Papers accepted in the first 2 categories will be invited for presentation at the conference. Posters will be illustrated by the authors in separate poster sessions.
+
+Submissions are required to report on original, unpublished work and should not be submitted simultaneously for publication elsewhere (cf. IFIP's Author Code of Conduct, see http://www.ifip.org/ under Publications/Links).
+
+-- Proceedings and Special Issue --
+
+The post-proceedings of FSEN'19 will be published by Springer Verlag in the LNCS series (to be confirmed). Pre-proceedings, printed locally by IPM, will be available at the conference. Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN'19 (to be confirmed). After the conference a selection of papers will be invited for this special issue. The invited papers should be revised and extended and will undergo a new round of review by an international program committee. Please see the websites of previous editions of FSEN for more information on post-proceedings and special issues related to those editions.
+
+-- General Chairs --
+
+Farhad Arbab - CWI, Netherlands; Leiden University, Netherlands
+Hamid Sarbazi-azad - IPM, Iran; Sharif University of Technology, Iran
+
+-- Program Chairs --
+
+Hossein Hojjat - Rochester Institute of Technology, USA
+Mieke Massink - CNR-ISTI Pisa, Italy
+
+-- Publicity Chair --
+
+Maurice ter Beek - CNR-ISTI Pisa, Italy
+
+-- Steering Committee --
+
+Farhad Arbab - CWI, Netherlands; Leiden University, Netherlands
+Christel Baier - University of Dresden, Germany
+Frank de Boer - CWI, Netherlands; Leiden University, Netherlands
+Ali Movaghar - IPM, Iran; Sharif University of Technology, Iran
+Hamid Sarbazi-azad - IPM, Iran; Sharif University of Technology, Iran
+Marjan Sirjani - Malardalen University, Sweden; Reykjavik University, Iceland (Chair)
+Jan Rutten - CWI, Netherlands; Vrije University Amsterdam, Netherlands
+
+-- Program Committee --
+
+SOON TO APPEAR ON THE WEBSITE

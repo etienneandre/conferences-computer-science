@@ -1,0 +1,78 @@
+CALL FOR PAPERS:
+
+The 23rd Asian Symposium on Programing Languages and Systems (APLAS 2025)
+27-30 October 2025,
+Bangalore, India
+APLAS 2025 - The 23rd Asian Symposium on Programming Languages and Systems - APLAS 2025
+
+
+AIM AND SCOPE:
+
+
+APLAS 2025 is the 23rd in a series of symposia that solicits submissions in the form of regular research papers describing original scientific research results, including system development and case studies. Among others, solicited topics include:
+
+
+Programming paradigms and styles: functional, object-oriented, probabilistic, logic, constraint programming; extensible programming languages; programming languages for systems code; novel programming paradigms;
+Methods and tools to specify and reason about programs and languages: programming techniques; meta-programming; domain-specific languages; proof assistants; type systems; dependent types; program logics, static and dynamic program analysis; language-based security; model checking; testing;
+Programming language foundations: formal semantics; type theory; logical foundations; category theory; automata; effects; monads and comonads; recursion and corecursion; continuations and effect handlers; program verification; memory models; abstract interpretation;
+Methods and tools for implementation: compilers; program transformations; rewriting systems; partial evaluation; virtual machines; refactoring; intermediate languages; run-time environments; garbage collection and memory management; tracing; profiling; build systems; program synthesis;
+Concurrency and distribution: process algebras; concurrency theory; session types; parallel programming; service-oriented computing; distributed and mobile computing; actor-based languages; verification and testing of concurrent and distributed systems;
+Applications and emerging topics: programming languages and PL methods in education, security, privacy, database systems, computational biology, signal processing, graphics, human-computer interaction, computer-aided design, artificial intelligence and machine learning; case studies in program analysis and verification.
+
+
+
+IMPORTANT DATES (all deadlines in AoE):
+
+ Paper submission deadline: May 31, 2025
+Tutorials and Workshops: October 27, 2025
+Conference: October 28 – October 30, 2025
+
+
+SUBMISSIONS:
+
+APLAS welcomes submissions that should not exceed 17 pages, excluding bibliography, in the Springer LNCS format.
+Additional material intended for reviewers but not for publication in the final version -– for example, details of proofs -– may be placed in a clearly marked appendix that is not included in the page limit. However, the paper must be understandable without the appendix. Reviewers are not obligated to review it.
+Papers should be submitted via HotCRP:https://aplas25.hotcrp.com/
+
+
+GENERAL CHAIR:
+
+
+Pritam Gharat, Microsoft Reasearch, India,pritamgharat@microsoft.com<mailto:pritamgharat@microsoft.com>
+
+
+LOCAL ORGANIZATION CHAIR:
+
+Sujit Kumar Chakrabarti, IIIT-Bangalore, India,sujitkc@iiitb.ac.in<mailto:sujitkc@iiitb.ac.in>
+
+
+PROGRAM CHAIRS:
+
+Alex Potanin, Australian National University,Alex.Potanin@anu.edu.au<mailto:Alex.Potanin@anu.edu.au>
+
+
+PROGRAM COMMITTEE:
+Alex Potanin, Australian National University
+Alexander Bakst, Certora
+Swarnendu Biswas, IIT Kanpur
+Andreea Costea, TU Delft
+Meenakshi D'Souza, IIITB - International Institute of Information Technology Bangalore
+Jeffrey S. Foster, Tufts University
+Kihong Heo, KAIST
+Zhenjiang Hu, Peking University
+Atsushi Igarashi, Kyoto University
+Stephen Kell, King's College London
+Oleg Kiselyov, Tohoku University
+V Krishna Nandivada, IIT Madras
+Liyi Li, Iowa State University
+Umang Mathur, National University of Singapore
+Kartik Nagar, IIT Madras
+Liam O'Connor, Australian National University
+Lionel Parreaux, HKUST (The Hong Kong University of Science and Technology)
+Sanjiva Prasad, Indian Institute of Technology Delhi
+G. Ramalingam, Microsoft
+Ina Schaefer, KIT
+KC Sivaramakrishnan, IIT Madras and Tarides
+Tachio Terauchi, Waseda University
+Manas Thakur, IIT Bombay
+Pascal Weisenburger, University of St. Gallen

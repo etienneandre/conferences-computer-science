@@ -1,0 +1,139 @@
+-----------------------------------------------------------------------------------------------------------------
+  26th International Conference on Real-Time Networks and Systems
+                Poitiers, France, October 10-12, 2018
+
+                         RTNS2018
+
+               https://rtns2018.ensma.fr
+-----------------------------------------------------------------------------------------------------------------
+                          CALL FOR PAPERS
+-----------------------------------------------------------------------------------------------------------------
+
+RTNS (Real-Time Networks and Systems) is a friendly and inclusive
+conference with a great sense of community that presents excellent
+opportunities for collaboration. Original unpublished papers on all
+aspects of real-time systems and networks are welcome. RTNS covers a
+wide-spectrum of topics in real-time and embedded systems, including,
+but not limited to:
+
+- Real-time applications design and evaluation: automotive, avionics,
+  space, railways, telecommunications, process control, multimedia.
+
+- Real-time aspects of emerging smart systems: cyber-physical systems
+  and emerging applications, real-time big data, real-time edge/fog
+  and cloud computing.
+
+- Real-time system design and analysis: real-time tasks modeling
+  task/message scheduling, evaluation, mixed-criticality systems,
+  Worst-Case Execution Time (WCET) analysis, quality of service,
+  security.
+
+- Software technologies for real-time systems: model-driven
+  engineering, programming languages, compilers, WCET-aware
+  compilation and parallelization strategies, middleware, Real-time
+  Operating Systems (RTOS), hypervisors.
+
+- Formal specification and verification: application of formal models,
+  such as model checking, satisfiability modulo theories or constraint
+  programming, to solve real-time problems.
+
+- Real-time distributed systems: fault tolerance, time
+  synchronization, task/messages allocation, adaptability and
+  reconfiguration, publisher/subscriber protocols, distributed real
+  time database.
+
+- Real-time networks: Networks on Chip (NoC), Time-Sensitive Networks
+  (TSN), end-to-end latency analysis, wired and wireless communication
+  networks, fieldbuses, networked control systems, sensor networks.
+
+- Hardware support for real-time systems: hardware/software co-design,
+  power/temperature-aware techniques, design of predictable hardware,
+  multi-core and many-core platforms, hardware accelerators, cache
+  related issues, interconnect and memory.
+
+-----------------------------------------------------------------------------------------------------------------
+SUBMISSION OF PAPERS
+
+Authors are invited to submit English-language research and
+application papers representing original, previously unpublished
+work. Duplicate submissions are not allowed. Papers must be submitted
+as a single PDF document. Submissions are limited to maximum 10 pages
+for technical content and up to two for bibliography and
+acknowledgments in a font no smaller than 10 points and must conform
+to ACM Latex style. Submitted papers will be carefully evaluated based
+on originality, significance, technical soundness, and clarity of
+exposition. All accepted papers will be published in ACM ICPS. Each
+accepted paper must be presented at the conference by one of the
+authors. A selection of the best papers will be identified as
+outstanding papers; it is planned that the authors of these papers
+will be invited to submit extended versions to a special issue of the
+Springer Real-Time Systems journal.
+
+The submission website is:
+
+https://easychair.org/conferences/?conf=rtns2018
+
+RTNS 2018 will have the *artifact evaluation* for the accepted papers,
+to enable reproducible research.
+
+-----------------------------------------------------------------------------------------------------------------
+IMPORTANT DATES
+
+Paper submission deadline: June 26 2018
+Notification of acceptance: August 3 2018
+Submission of camera-ready papers: September 7 2018
+Conference: October 10-12 October 2018
+
+-----------------------------------------------------------------------------------------------------------------
+PROGRAM CO-CHAIRS
+
+Mathieu Jan (CEA LIST, France)
+Moris Behnam (Mälardalen University, Sweden)
+
+PROGRAM COMMITTEE
+
+Frank Singhoff (University of Brest, France)
+Claire Pagetti (ONERA / IRIT-ENSEEIHT, Toulouse, France)
+Joël Goossens (Université Libre de Bruxelles (ULB), Belgium)
+Antoine Bertout (Université de Poitiers, France)
+Mikaël Briday (University of Nantes, France)
+Julien Forget (University of Lille 1, France)
+Alessandro Vittorio Papadopoulos (Mälardalen University, Sweden)
+Sebastien Faucou (University of Nantes, France)
+Chokri Mraidha (CEA LIST, France)
+Luis Almeida (University of Porto, Portugal)
+Luis Miguel Pinho (CISTER Research Centre/ISEP, Portugal)
+Reinder J. Bril (Eindhoven University of Technology, The Nederlands)
+Paul Pop (Technical University of Denmark, Denmark)
+Sebastian Altmeyer (University of Amsterdam, The Nederlands)
+Isabelle Puaut (University of Rennes / IRISA, France)
+Sanjoy Baruah (University of North Carolina at Chapel Hill, USA)
+Luca Santinelli (ONERA Toulouse, France)
+Marius Bozga (CNRS/Verimag, France)
+Marko Bertogna (Univerity of Modena, Italy)
+Enrico Bini (University of Turin, Italy)
+Jean-Luc Scharbarg (University of Toulouse, France)
+Hakan Aydin (George Mason University, USA)
+Ahlem Mifdaoui (University of Toulouse/ ISAE, France)
+Liliana Cucu-Grosjean (INRIA Paris, France)
+Laurent George (Université Paris-Est - LIGM, France)
+Florian Brandner (Telecom ParisTech, France)
+Ye-Qiong Song (LORIA - University of Lorraine, France)
+Hugues Cassé (IRIT - University of Toulouse, France)
+Sophie Quinton (INRIA Grenoble Rhône-Alpes, France)
+Oleg Sokolsky University of Pennsylvania, USA)
+Mehdi Kargahi (University of Tehran, Iran)
+James Anderson (University of North Carolina at Chapel Hill, USA)
+Rolf Ernst (Technical University Braunschweig, Germany)
+Robert Davis (University of York and Inria, Paris, France)
+Arvind Easwaran (Nanyang Technological University, Singapore)
+Benoît De Dinechin (Kalray, Grenoble, France)
+Luca Abeni (Sant'Anna School of Advanced Studies, Pisa, Italy)
+Lucia Lo Bello (University of Catania, Italy)
+Marc Boyer (ONERA, Toulouse, France)
+
+GENERAL CO-CHAIRS
+
+Emmanuel Grolleau (LIAS, ISAE-ENSMA, France)
+Yassine Ouhammou (LIAS, ISAE-ENSMA, France)
+Frédéric Ridouard (LIAS, Université de Poitiers, France)

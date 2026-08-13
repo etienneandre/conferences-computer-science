@@ -1,0 +1,33 @@
+CALL FOR PAPERS
+
+Thirty-Ninth Annual ACM/IEEE Symposium on
+LOGIC IN COMPUTER SCIENCE (LICS)
+Tallinn, July 2024
+https://lics.siglog.org/lics24/
+
+SCOPE
+
+The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly construed. We invite submissions on topics that fit under that rubric. Suggested, but not exclusive, topics of interest include: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and
+ temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification.
+
+
+IMPORTANT DATES FOR PAPERS
+
+Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the extended abstract of the paper. The exact deadline time on these dates is anywhere on earth (AoE).
+
+Titles and Short Abstracts Due: 21 January 2024
+Full Papers Due: 26 January 2024
+Author Feedback/Rebuttal Period: 18-23 March 2024
+Author Notification: 15 April 2024
+Conference: 8-12 July 2024.
+
+Submission deadlines are firm; late submissions will not be considered. All submissions will be electronic via easychair.
+
+
+PAPER SUBMISSION INSTRUCTIONS
+
+Submissions should use ACM SIGCONF Proceedings 2-column 10pt format and may be at most 12 pages, excluding references. Latex style files and further submission information is at https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flics.siglog.org%2Flics24%2Fcfp.php&data=05%7C01%7C%7C4c307553afa344e9076008dbb8604272%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C638306495784063699%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6xWzE7cw1Kqf4%2B4s36r2W2u4dosRgyGX32vuOmL9QTQ%3D&reserved=0.
+
+LICS 2024 will use a lightweight double-blind reviewing process. Please see the website for further details and requirements from the double-blind process.
+
+The official publication date may differ from the first day of the conference. The official publication date may affect the deadline for any patent filings related to published work. We will clarify the official publication date in due course.

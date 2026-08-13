@@ -1,0 +1,191 @@
+=========================================================================
+FINAL ﻿CALL FOR PAPERS WITH ***DEADLINE EXTENSIONS***
+
+=> GENERAL INFORMATION
+
+26th Brazilian Symposium on Formal Methods
+Manaus, Brazil, 4th to 8th of December, 2023
+
+Conference web page: https://sbmf23.ufam.edu.br/
+Supported by the Brazilian Computer Society (SBC)
+
+=> IMPORTANT DATES (WITH ***DEADLINES EXTENSION***)
+
+Paper submission deadline: Aug 11, 2023 (extended from Jul 28)
+
+Authors notification: Sep 15, 2023 (postponed from Sep 8)
+
+Camera-ready version: Oct 9, 2023
+
+=> INTRODUCTION
+
+SBMF 2023 is the twenty-sixth of a series of events devoted to the
+development, dissemination, and use of formal methods for the construction
+of high-quality computational systems. It is now a well-established event
+with an international reputation. It regularly receives submissions and
+participants from all over the world.
+
+=> KEYNOTE SPEAKERS
+Artur d'Avila Garcez (City, University of London)
+Chantal Keller (Université Paris-Saclay)
+TBD
+
+=> SCOPE AND TOPICS
+
+The aim of SBMF is to provide a venue for the presentation and discussion
+of high-quality work in formal methods. The topics include, but are not
+limited to, the following:
+
+:: Applications of formal methods to
+* Software or/and hardware design
+* Software or/and hardware development
+* Software or/and hardware code generation
+* Software or/and hardware testing
+* Software maintenance, evolution or/and reuse
+* Intelligent systems
+
+:: Specification and modeling languages
+* Logic and semantics for specification or/and programming languages
+* Formal methods for timed, real-time, hybrid, or/and safety-critical
+systems
+* Formal methods for service-oriented, cloud-based, or/and cyber-physical
+systems
+
+:: Theoretical foundations
+* Domain theory
+* Term rewriting
+* Computational models
+* Type systems and category systems
+* Computation complexity of methods and models
+* Models of time, concurrency, security or/and mobility
+
+:: Verification and validation
+* Abstraction, modularization or/and refinement techniques
+* Static analysis
+* Model checking
+* Theorem proving
+* Software certification
+* Correctness by construction
+
+:: Experience reports
+* Reports on teaching formal methods
+* Reports on industrial application of formal methods
+
+=> SUBMISSION GUIDELINES
+
+We invite submissions of papers with a strong emphasis on formal methods,
+whether practical or theoretical, in the following categories:
+
+- Regular papers (limit of 15 pages). Proofs of theoretical results that do
+not fit the page limit may be provided in an appendix.
+- Short papers (limit of 8 pages). Short papers include system
+descriptions, user experiences, and case studies. We encourage authors to
+make the data needed to reproduce their experiments available.
+
+The page limits exclude references and appendices.
+
+Contributions should not be simultaneously submitted for publication
+elsewhere. They should be written in English, and prepared using Springer's
+Lecture Notes in Computer Science (LNCS) format. Springer's proceedings
+LaTeX templates are available in Overleaf. More information is available at
+the following link:
+
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+
+Papers should present unpublished and original work that has a clear
+contribution to the state-of-the-art on the theory and practice of formal
+methods. Papers will be judged by at least three reviewers on the basis of
+originality, relevance, technical soundness and presentation quality and
+should contain sound theoretical or practical results. Industry papers
+should emphasize the practical application of formal methods or report on
+open challenges.
+
+Submissions should be made via the following link:
+
+https://easychair.org/conferences/?conf=sbmf2023
+
+=> PUBLICATION
+
+Accepted papers will be published, after the conference, in a volume of
+LNCS. The authors will be requested to complete and sign a
+consent-to-publish form. Every accepted paper MUST have at least one author
+registered in the symposium by the time the camera-ready copy is submitted.
+The registered author is also expected to attend the symposium and present
+the paper.
+
+A special issue of the Science of Computer Programming Journal (Elsevier)
+is going to be organised (to be confirmed) with selected and extended
+papers from the 26th Brazilian Symposium on Formal Methods (SBMF 2023).
+
+=> CONTACT
+
+All questions about submissions should be sent to sbmf2023@easychair.org
+
+=> CO-LOCATED EVENTS
+
+- ETMF 2023
+  - 8th School of Theoretical Computer Science and Formal Methods
+    4th of December
+
+- AFRITS 2023
+  - Workshop on Automated Formal Reasoning for Trustworthy AI Systems
+    5th of December, https://www.afrits.ufam.edu.br/
+
+=> COMMITTEES
+
+:: Organising committee
+
+Edjard Mota (Universidade Federal do Amazonas, Brazil) -- General Chair
+
+Haniel Barbosa (Universidade Federal de Minas Gerais, Brazil) -- PC co-chair
+Yoni Zohar (Bar-Ilan University, Israel) -- PC co-chair
+
+:: Program committee
+
+
+Yoni Zohar (Bar-Ilan University)
+Haniel Barbosa (Universidade Federal de Minas Gerais)
+Katalin Fazekas (TU Wien)
+Mathias Preiner (Stanford University)
+Daniela Kaufmann (TU Wien)
+Edjard Mota (Institute of Computing/Federal University of Amazonas)
+Maurice ter Beek (ISTI-CNR, Pisa)
+Vince Molnár (Budapest University of Technology and Economics)
+Mathias Fleury (University of Freiburg)
+Leila Ribeiro (Universidade Federal do Rio Grande do Sul)
+Luís Soares Barbosa (University of Minho)
+Volker Stolz (Høgskulen på Vestlandet)
+Nils Timm (University of Pretoria)
+Thierry Lecomte (CLEARSY)
+Lucas Lima (Universidade Federal Rural de Pernambuco)
+Marcel Vinicius Medeiros Oliveira (Universidade Federal do Rio Grande do
+Norte)
+Gustavo Carvalho (Universidade Federal de Pernambuco)
+Márcio Cornélio (Centro de Informática - UFPE)
+Clark Barrett (Stanford University)
+Juliano Iyoda (Centro de Informática, Universidade Federal de Pernambuco)
+Sergio Campos (Universidade Federal de Minas Gerais)
+Adenilso Simao (ICMC/USP)
+Ahmed Irfan (SRI International)
+Leopoldo Teixeira (Informatics Center, Federal University of Pernambuco)
+David Deharbe (ClearSy System Engineering)
+Michael Leuschel (University of Düsseldorf)
+Giselle Reis (Carnegie Mellon University)
+Rohit Gheyi (Department of Computing Systems - UFCG)
+Augusto Sampaio (Federal university of Pernambuco)
+Armin Biere (Freiburg)
+Sophie Tourret (INRIA and MPI for Informatics)
+Natarajan Shankar (SRI International)
+Sidney C. Nogueira (DC - UFRPE)
+Cesare Tinelli (The University of Iowa)
+Lucas Cordeiro (The University of Manchester)
+Clare Dixon (The University of Manchester)
+
+:: Steering committee
+
+Gustavo Carvalho (Universidade Federal de Pernambuco, Brazil)
+Volker Stolz (Western Norway University of Applied Sciences, Norway)
+Sérgio Campos (Universidade Federal de Minas Gerais, Brazil)
+Marius Minea (University of Massachusetts Amherst, USA)
+Vince Molnár (Budapest University of Technology and Economics)
+Lucas Lima (Universidade Federal Rural de Pernambuco)

@@ -1,0 +1,196 @@
+﻿                   TASE 2020 - CALL FOR PAPERS
+
+******************************************************************
+                The 14th International Symposium on
+           Theoretical Aspects of Software Engineering
+                           (TASE 2020)
+                July 15-17, Hangzhou City, China
+                  http://sei.ecnu.edu.cn/tase2020/
+       
+******************************************************************
+* Abstract submission (preferred):  24 January 2020 (extended)
+* Paper Submission:                31 January 2020 (extended)
+
+The extension is due to many requests and also takes into account both Christmas holidays 
+that have just gone by and Chinese New Year festival period that is forthcoming shortly.
+
+--------
+OVERVIEW
+--------
+The 14th Theoretical Aspects of Software Engineering Conference (TASE
+2020) will be held in Hangzhou City, China on 15-17 July 2020. Modern
+society is increasingly dependent on software systems that are becoming
+larger and more complex. This poses new challenges to the various aspects
+of software engineering, for instance, software dependability in trusted
+computing, interaction with physical components in cyber physical systems,
+quality assurance in AI systems, distribution in cloud computing
+applications, security and privacy in general. Hence, new concepts and
+methodologies are required to enhance the development of software
+engineering from theoretical aspects. TASE 2020 aims to provide a forum
+for people from academia and industry to communicate their latest results
+on innovative advances in software engineering. TASE 2020 is the 14th in
+the TASE series. The past TASE symposia were successfully held in Shanghai
+('07), Nanjing ('08), Tianjin ('09), Taipei ('10), Xi'an ('11), Beijing
+('12), Birmingham ('13), Changsha('14), Nanjing('15), Shanghai('16),
+Nice('17), Guangzhou('18), Guilin('19). The proceedings of the TASE 2020
+symposium are planned to be published by the IEEE Computer Society Press.
+The authors of a selected subset of accepted papers will be invited to
+submit extended versions of their papers to a special issue of the Science
+of Computer Programs journal.
+
+------
+TOPICS
+------
+The symposium is devoted to theoretical aspects of software engineering.
+Topics of interest include, but are not limited to:
+* Abstract interpretation
+* Algebraic and co-algebraic specifications
+* AI for formal methods
+* Component-based software engineering
+* Cyber-physical systems
+* Deductive verification
+* Distributed and concurrent systems
+* Domain Engineering
+* Embedded and real-time systems
+* Feature-oriented software
+* Formal methods, verification and testing for AI systems
+* Formal verification and program semantics
+* Fundamental theories and techniques for trustworthy AI systems
+* Integration of formal methods
+* Language design
+* Model checking and theorem proving
+* Model-driven engineering
+* Object-oriented systems
+* Probability in software engineering
+* Program analysis
+* Program logics and calculi
+* Requirements engineering
+* Reverse engineering and software maintenance
+* Run-time verification and monitoring
+* Semantic web and web services
+* Service-oriented and cloud computing
+* Software processes and workflows
+* Software architectures and design
+* Software testing and quality assurance
+* Software safety, security and reliability
+* Specification and verification
+* Type systems and behavioural typing
+* Tools exploiting theoretical results
+
+
+----------
+SUBMISSION
+----------
+Submission should be done through the TASE 2020 submission page, handled
+by the EasyChair conference system:
+https://www.easychair.org/conferences/?conf=tase2020
+As in previous years, the proceedings of the conference are planned to
+be published by the IEEE Computer Society Press. Papers must be written
+in English and not exceed 8 pages in Two-Column IEEE format. 
+Selected papers will be invited after the symposium to submit an extended version 
+to a special issue at Science of Computer Programming.
+
+---------------
+IMPORTANT DATES
+---------------
+Abstract submission (preferred) :  24 January 2020 (extended)
+Paper Submission:                31 January 2020 (extended)
+Author Notification:             16 March 2020 (extended)
+Camera Ready:                    17 April 2020
+TASE2020 Conference:          15-17 July  2020
+
+-------------
+GENERAL CHAIR
+-------------
+Zuohua DING (Zhejiang SCI-Tech University, China)
+Jifeng HE (Shanghai Academy of Artificial Intelligence Industrial Technology, China) 
+
+-----------------
+PROGRAM CO-CHAIRS
+-----------------
+Toshiaki Aoki      (JAIST, Japan)
+Qin LI                 (East China Normal University, China)
+
+-----------------
+STEERING COMMITTEE
+-----------------
+Keijiro Araki      (National Institute of Technology, Kumamoto College, Japan)
+Jifeng He          (Shanghai Academy of Artificial Intelligence Industrial Technology, China)
+Michael Hinchey    (Lero, Ireland)
+Shengchao Qin      (Teesside University, UK)
+Huibiao Zhu        (East China Normal University, China)
+
+------------------
+PROGRAM COMMITTEE
+------------------
+Erika Abraham (RWTH Aachen University, DE)
+Yamine Ait-Ameur (IRIT, University of Toulouse, FR)
+Étienne André (Université de Lorraine, FR)
+Toshiaki Aoki (JAIST, JP)
+Kyungmin Bae (Pohang University of Science and Technology, KR)
+Guangdong Bai (University of Queensland, AU)
+Richard Banach (University of Manchester, UK)
+Luis Barbosa (University of Minho, PT)
+Nikolaj Bjorner (Microsoft Research, US)
+Marcello Bonsangue (Leiden University, NL)
+Michael Butler (University of Southampton, UK)
+Bihuan Chen (Fudan University, CN)
+Liqian Chen (National University of Defence Technology, CN)
+Yunja Choi (Kyungpook National University, KR)
+Florin Craciun (Babes-Bolyai University, RO)
+Zuohua Ding (Zhejiang Sci-Tech University, CN)
+Yliès Falcone (Univ. Grenoble Alpes & Inria, FR)
+Rob van Glabbeek (Data61, CSIRO, AU)
+Klaus Havelund (Jet Propulsion Laboratory, US)
+Thai-Son Hoang (University of Southampton, UK)
+Takashi Kitamura (AIST, JP)
+Quang Loc Le (Teesside University, UK)
+Guoqiang Li (Shanghai Jiaotong University, CN)
+Jianwen Li (Iowa State University, US)
+Qin Li (East China Normal University, CN)
+Xiaoshan Li (University of Macau, MO)
+Zhi Li (Guangxi Normal University, CN)
+Wang Lin (Zhejiang Sci-Tech University, CN)
+Yang Liu (Nanyang Technological University, SG)
+Yepang Liu (Southern University of Science and Technology, CN)
+Lei Ma (Kyushu University, JP)
+Dominique Mery (LORIA &University of Lorraine, FR)
+Mohame Mosbah (LABRI - University of Bordeaux, FR)
+Mohammad Reza Mousavi (University of Leicester, UK)
+Chunyan Mu (Teesside University, UK)
+Shin Nakajima (National Institute of Informatics, JP)
+Rocco de Nicola (Institute for Advanced Studies Lucca, IT)
+Kazuhiro Ogata (JAIST, JP)
+Jun Pang (University of Luxembourg, LU)
+Yu Pei (Hong Kong Polytechnic University, CN)
+Shengchao Qin (Teesside University, UK)
+S. Ramesh (General Motors R&D, US)
+Ting Su (ETH Zurich, CH)
+Wen Su (Shanghai University, CN)
+Jing Sun (University of Auckland, NZ)
+Meng Sun (Peking University, CN)
+Bow-Yaw Wang (Academia Sinica, TW)
+Keming Wang (Southwest Jiaotong University, CN)
+Meng Wang (Bristol University, UK)
+Zhiwu Xu (Shenzhen University, CN)
+Akihisa Yamada (National Institute of Informatics, JP)
+Hongji Yang (Leicester University, UK)
+Haibo Yu (Kyushu Sangyo University, JP)
+Naijun Zhan (Chinese Academy of Sciences, CN)
+Chenyi Zhang (Jinan University, CN)
+Lijun Zhang (Chinese Academy of Sciences, CN)
+Hengjun Zhao (Southwest University, CN)
+Yongxin Zhao (East China Normal University, CN)
+Huibiao Zhu (East China Normal University, CN)
+
+
+----------------
+PUBLICITY CHAIR
+----------------
+Étienne André (Université de Lorraine, France)
+Huibiao Zhu (East China Normal University, China)
+
+----------------
+LOCAL ORGANIZING CHAIR
+----------------
+Wang Lin (Zhejiang Sci-Tech University, China)

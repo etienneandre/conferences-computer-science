@@ -1,0 +1,57 @@
+23rd ACM International Conference on Hybrid Systems: Computation and Control
+April 21-24, 2020
+Sydney Australia
+https://berkeleylearnverify.github.io/HSCC_2020/
+
+Hybrid Systems: Computation and Control (HSCC) 2020 is the 23rd in a series of conferences focusing on original research on concepts, tools, and techniques from computer science, control theory, and applied mathematics for the analysis and control of hybrid dynamical systems with an emphasis on computational aspects. By drawing on strategies from computation and control, the hybrid systems field offers techniques that are applicable to both man-made cyber-physical systems (ranging from small robots to global infrastructure networks) and natural systems (ranging from biochemical networks to physiological models). Papers in the conference are expected to range over a wide spectrum of topics from theoretical results to practical considerations, and from academic research to industrial adoption.
+
+Topics of interest include, but are not limited to
+
+- Mathematical foundations
+- Computability and complexity analysis
+- Verification, validation, and testing 
+- Modeling paradigms and techniques 
+- Design, synthesis, planning, and control 
+- Nonlinear and safety-critical control 
+- Programming and specification languages 
+- Network science and network-based control 
+- Security, privacy, and resilience for cyber-physical systems with focus on computation and control 
+- Autonomy, artificial intelligence and machine learning in CPS 
+- Design automation for CPS, including design formalisms, techniques and tools for the above topics 
+- Applications and industrial case studies in: automotive, transportation, autonomous systems, avionics, energy and power, robotics, medical devices, manufacturing, systems and synthetic biology, models for the life sciences, and other related areas.
+
+SPECIAL TRACKS
+
+This year, HSCC will have three special tracks on interdisciplinary topics of increasing interest and importance to CPS: 
+
+(1) Artificial Intelligence and Machine Learning in CPS (autonomous and semi-autonomous CPS, learning-based CPS, deep learning, intersection of robotics/AI and CPS, etc.), and 
+
+(2) Design Automation for CPS (modeling, specification, verification, synthesis, composition, hierarchy, languages, etc. for CPS design). 
+
+(3) Autonomy and Robotics. The submission requirements and review process for special track papers will be the same as regular papers. The main reason to have a special track is to broaden the HSCC pool of papers in the direction of these topics.
+
+PAPER SUBMISSION INFORMATION
+
+HSCC invites submissions in the categories of regular papers including special track papers (max 10 pages), and case study and tool papers (max 6 pages). We will employ a double blind reviewing process and will have a rebuttal phase to provide authors the opportunity to reply to reviewer concerns.
+
+AWARDS
+
+HSCC will have an ACM SIGBED Best Paper Award, all regular papers will be automatically eligible for this award. HSCC will also award an "HSCC Test-Of-Time Award". The rules for eligibility, nomination and selection of the paper for this award can be found here. Repeatability evaluation: Papers that pass repeatability evaluation process will receive the "artifact evaluated" badge and there will be a Best RE Award. Best Demo/Poster: All demos and posters accepted for presentation at HSCC’20 will be eligible for the best demo/poster award.
+
+IMPORTANT DATES
+
+Paper submission deadline: October 23, 2019 (AOE)
+
+Tool paper repeatability package submission deadline: October 28, 2019 (AOE)
+
+Rebuttal phase: December 4-6, 2019
+
+Acceptance/rejection notifications: December 23, 2019 (tentative)
+
+Poster/demo session submission: Typically mid-january (after notification)
+
+Camera-ready: February 14, 2020
+
+Conference dates: April 21-24, 2020
+
+HSCC 2020 will be part of the thirteenth Cyber Physical Systems Week (CPS Week), and co-located with the International Conference on Cyber-Physical Systems (ICCPS), Information Processing in Sensor Networks (IPSN), the Real-Time and Embedded Technology and Applications Symposium (RTAS), Conference on Internet-of-Things Design and Implementation (IOTDI), and related workshops.

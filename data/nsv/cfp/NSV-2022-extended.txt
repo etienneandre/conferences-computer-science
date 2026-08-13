@@ -1,0 +1,67 @@
+Submission deadline has now been extended to May 24, 2022.
+================================================================
+CALL FOR CONTRIBUTIONS
+================================================================
+15th International Workshop on Numerical Software Verification 2022 (NSV 2022)
+11th August, Haifa, Israel
+https://nsv22.github.io/
+Numerical computations are ubiquitous in digital systems: supervision, prediction, simulation and signal processing rely heavily on numerical calculus to achieve desired goals. Design and verification of numerical algorithms has a unique set of challenges, which set it apart from the rest of software verification. To achieve the verification and validation of global properties, numerical techniques need to precisely represent local behaviors of each component. The implementation of numerical techniques on modern hardware adds another layer of approximation because of the use of finite representations of infinite precision numbers that usually lack basic arithmetic properties such as commutativity and associativity. Finally, the development and analysis of cyber-physical systems (CPS) which involve the interaction of continuous and discrete components poses a further challenge. It is hence essential to develop logical and mathematical techniques for reasoning about programmability and reliability. The NSV workshop is dedicated to the development of such techniques.
+Because of the COVID-19 pandemic,  NSV 2022 will be organised as a hybrid event online (for sure) and in Haifa, Israel (maybe).
+================================================================
+TOPICS OF INTEREST
+================================================================
+The scope of the workshop includes, but is not restricted to, the following topics:
+– Hybrid systems and control software verification
+– Validation and verification of machine learning algorithms
+– Validation and verification in scientific computing and simulations
+– Quality of finite precision numerics
+================================================================
+PAPER SUBMISSION 
+================================================================
+Authors are invited to submit regular and short papers.
+Regular papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are under submission. Submitted papers will be judged on the basis of significance, relevance, correctness, originality, and clarity. They should clearly identify what has been accomplished and why it is significant.
+Regular paper submissions should not exceed 15 pages, plus possibly bibliography and appendices. However, program committee members are not required to read the appendices, thus papers must be intelligible without them.
+Short papers are also welcome: they should present tools, benchmarks, case-studies, or be extended abstracts of ongoing research. Short papers should not exceed 6 pages, excluding extra material as above.
+Paper submission is done via EasyChair: https://easychair.org/conferences/?conf=nsv2022
+ 
+Papers must be formatted according to the guidelines for Springer LNCS papers: https://www.springer.com/gb/computer-science/lncs/conference-proceedings-guidelines
+================================================================
+PUBLICATION
+================================================================
+All accepted papers will be published as Lecture Notes in Computer Science (LNCS) with Springer Verlag http://www.springer.com/lncs.
+================================================================
+IMPORTANT DATES 
+================================================================
+Paper submission: 24 May 2022 (AOE)
+Author notification:  15 June 2022
+================================================================
+PC CHAIRS
+================================================================
+Laura Nenzi, University of Trieste, Italy
+Radoslav Ivanov, Rensselaer Polytechnic Institute, USA
+================================================================
+STEERING COMMITTEE
+================================================================
+Sergiy Bogomolov, Newcastle University, UK
+Radu Grosu, TU Vienna, Austria
+Matthieu Martel, Université de Perpignan, France
+Pavithra Prabhakar, Kansas State University, USA
+Sriram Sankaranarayanan, UC Boulder, USA
+================================================================
+PROGRAM COMMITTEE
+================================================================
+Xin Chen, University of Dayton
+Souradeep Dutta, University of Pennsylvania
+Ylies Falcone, Univ. Grenoble Alpes, CNRS, Inria, Grenoble, France
+Taylor T Johnson, Vanderbilt University
+Michele Loreti, University of Camerino
+Anna Lukina, TU Delft
+Nicola Paoletti, Royal Holloway, University of London
+Tatjana Petrov, University of Konstanz
+Yasser Shoukry, University of California, Irvine
+Miriam Garcia Soto, IST Austria
+Sadegh Soudjani, Newcastle University
+Hoang-Dung Tran, Vanderbilt University
+Tichakorn (Nok) Wongpiromsarn, Iowa State University
+Huafeng Yu, TOYOTA InfoTechnology Center USA
+Paolo Zuliani, Newcastle University

@@ -1,0 +1,89 @@
+[Apologies if you receive multiple copies of this message]
+*****************************************************************
+VECoS 2019 - **Deadline Extended to May 19**
+
+ Last Call for Papers
+
+13th International Conference on
+Verification and Evaluation of Computer and Communication Systems
+
+October 7-9, 2019, Porto, Portugal
+Co-located with 23rd International Symposium on Formal Methods (FM 2019) – 3rd World Congress on Formal Methods
+http://vecos-world.org/2019/
+*****************************************************************
+
+-- INVITED SPEAKERS --
+
+ * Ahmed Bouajjani, Université Paris Diderot (Paris VII), IRIF Laboratory, France
+ * Ali Mili, New Jersey Institute of Technology, Newark, USA
+
+ 
+-- IMPORTANT DATES --
+
+ All the deadlines are AoE (Anywhere on Earth)
+
+ * Papers deadline:             19 May   2019
+ * Paper notification:         11 June  2019
+ * Camera-ready deadline:      28 June  2019
+ * Conference:                 7–9 October 2019
+
+ 
+-- ABOUT VECoS --
+
+ The VECoS conference series focuses on the analysis of computer and communication systems, where functional and extra-functional properties are inter-related.  VECoS encourages the cross-fertilization between the various formal verification and evaluation approaches, methods and techniques, especially those developed for concurrent and distributed hardware/software systems.
+
+ Topics of interest include, but are not limited to:
+
+ * Abstraction techniques
+ * Compositional verification
+ * Correct-by-construction design
+ * Rigorous system design
+ * Equivalence checking
+ * Model-checking
+ * Parameterized verification
+ * Performance and robustness evaluation
+ * Probabilistic verification
+ * QoS evaluation, planning and deployment
+ * Dependability assessment techniques
+ * RAMS (Reliability-Availability-Maintainability-Safety)
+   assessment
+ * Model-based Security assessment
+ * Security protocols verification
+ * Discrete-event and hybrid systems Modeling and Simulation
+ * Supervisory control
+ * Verification & validation of IoT
+ * Verification & validation of safety-critical systems
+ * Assessment for real-time systems
+ * Worst-case execution time analysis
+
+ Application areas of interest to VECoS include: adaptive systems, communication protocols, computer-supported collaborative work systems, cloud computing, cyber-physical systems, high-performance computing, internet of things, logistics systems, manufacturing of the future, mixed criticality systems, mobile and wireless networking, operations research, programming languages, real-time and embedded operating systems, service-oriented systems,
+telecommunication systems, ubiquitous systems, web services, wireless sensor networks and workflow systems.
+
+ An overview of previous VECoS conferences can be found at:
+http://vecos-world.org/
+
+VECoS 2019 will be held in October 7-9 in Porto, Portugal and will be co-located with the International Symposium on Formal Methods, FM 2019.
+
+
+-- GENERAL INFORMATION ON SUBMISSIONS --
+
+ Submitted papers must be no longer than 15 pages
+(including bibliography), written in English, presenting original work and not be submitted
+for publication elsewhere.  Papers must be submitted electronically in PDF format through EasyChair (https://easychair.org/conferences/?conf=vecos2019), using the LNCS format (version 2.20 or above).  Accepted papers will appear in the conference proceedings.  At least one author of each accepted paper must attend the conference and present the paper.
+
+The conference proceedings will be published in the Springer-Verlag Lecture Notes in Computer Science (LNCS) series.
+
+ Authors of selected papers will be invited to submit extended versions for a special issue of the Selected papers from the Conference will be considered for publication in extended and revised form in a special issue of an indexed international journal (ISSE:Innovations in Systems and Software Engineering or IJCCBS: International Journal of Critical Computer-Based Systems)
+
+ 
+-- ORGANIZATION --
+
+ Program Chairs
+ * Pierre Ganty, IMDEA Software Institute, Madrid, Spain
+ * Mohamed Kaaniche, LAAS-CNRS, Toulouse, France
+
+ Publicity Chairs
+ * Belgacem Ben Hedia, CEA-LIST, Saclay, France
+ * Vladimir-Alexandru Paun, ENSTA ParisTech, Palaiseau, France
+
+ For additional information, visit the conference website:http://vecos-world.org/2019/

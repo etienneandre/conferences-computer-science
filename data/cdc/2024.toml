@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "No deadline extension (2014-2020), 1 week (2024). The new journal IEEE Control Systems Letters (L-CSS) now provides a possibility to submit and publish a paper in the Journal, but present it at CDC."
+
+[[cfp]]
+file = "cfp/CDC-2024.pdf"
+stage = "initial"

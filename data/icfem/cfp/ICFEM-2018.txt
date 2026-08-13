@@ -1,0 +1,52 @@
+CALL FOR PAPERS
+
+Conference website:
+
+http://formal-analysis.com/icfem/2018/
+
+Scope and Topics
+
+Submissions related to the following principal themes are encouraged, but
+any topics relevant to the field of formal engineering methods and their
+practical applications will also be considered:
+
+Abstraction, refinement and evolution, Formal specification and modelling,
+Program analysis, Formal verification, Model checking, Formal approaches to
+software testing and inspection, Formal methods for self-adaptive systems,
+Formal methods for object-oriented systems, Formal methods for
+component-based systems, Formal methods for concurrent and real-time
+systems, Formal methods for cloud computing, Formal methods for
+cyber-physical systems, Formal methods for software safety, security,
+reliability and dependability, Tool development, integration and
+experiments involving verified systems, Formal methods used in certifying
+products under international standards, Formal model-based development and
+code generation.
+
+Important Dates
+
+Abstract Submissions Due: 7 May 2018
+Full Paper Submissions Due: 14 May 2018
+Workshop/Tutorial Proposals Due: 25 March 2018
+Acceptance/Rejection Notification: 29 June 2018
+Camera-ready Due: 29 July 2018
+
+
+Submission and Publication
+
+Submissions to the conference must not have been published or be
+concurrently considered for publication elsewhere. All submissions will be
+judged on the basis of originality, contribution to the field, technical
+and presentation quality, and relevance to the conference. The proceedings
+will be published in the Springer Lecture Notes in Computer Science series.
+
+Papers should be written in English and should not exceed 16 pages in LNCS
+format (more details here). Submissions should be made through the ICFEM
+2018 submission page, handled by the EasyChair conference management system.
+
+
+https://easychair.org/conferences/?conf=icfem2018
+
+Workshop or tutorial proposals should be directly sent to the
+Workshop/Tutorial Chair via email. Each proposal should include (1) title,
+scope, and aims, (2) brief bio of the organizer or lecturer, and (3) postal
+and email addresses.

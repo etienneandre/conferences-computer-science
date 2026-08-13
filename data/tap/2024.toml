@@ -24,3 +24,11 @@ artifact = "Authors are encouraged (but not required) to make the relevant artif
 
 [extra]
 colocated = "Part of FM 2024."
+
+[[cfp]]
+file = "cfp/TAP-2024.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TAP-2024-extended.txt"
+stage = "extended"

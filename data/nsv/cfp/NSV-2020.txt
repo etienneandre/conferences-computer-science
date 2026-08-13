@@ -1,0 +1,106 @@
+CALL FOR PAPERS - NSV 2020
+==========================
+
+13th International Workshop on Numerical Software Verification, July 19, 2020
+
+A workshop affiliated with CAV 2020 - Los Angeles, USA
+
+Web Page: https://nsv2020.github.io/
+
+
+Description of the Workshop
+===========================
+
+Numerical computations are ubiquitous in digital systems: supervision, prediction, simulation and signal processing rely heavily on numerical calculus to achieve desired goals. Design and verification of numerical algorithms has a unique set of challenges, which set it apart from rest of software verification.
+
+The implementation of numerical techniques on modern hardware adds another layer of approximation because of the use of finite representations of infinite precision numbers that usually lack basic arithmetic properties such as commutativity and associativity.
+
+Finally, the development and analysis of cyber-physical systems (CPS) which involve the interacting continuous and discrete components pose a further challenge. It is hence imperative to develop logical and mathematical techniques for the reasoning about programmability and reliability.
+
+The NSV workshop is dedicated to the development of such techniques.
+
+This year, the NSV workshop is hosting a *special session on numerical computations in machine learning*. This includes, but is not limited to, performance vs accuracy trade-offs, reliability, robustness, co-design of hardware and software for numerical computations in machine learning frameworks.
+
+
+Topics
+======
+
+The scope of the workshop includes, but is not restricted to, the following topics:
+
+Quality of finite precision numerics
+- Representations of real numbers such as dfloat, finite precision, logarithmic number systems, etc
+
+Validation and verification of machine learning algorithms
+- Performance-accuracy trade-offs in floating point representations in machine learning
+- Robustness, reliability, and hardware software co-design for numerical computations in machine learning
+
+Validation and verification in scientific computing and simulations
+- Specifications of correctness of numerical algorithms
+- Numerical optimization methods
+
+Hybrid systems and control software verification
+- Quantitative and qualitative analysis of hybrid systems
+- Optimal control and synthesis of dynamical systems
+- Applications in space, avionics, automotive, systems biology, etc
+
+
+Important Dates
+===============
+
+Submissions deadline:    April 20, 2020
+Notification:            May 23, 2020
+Final version:           June 2, 2020
+Workshop:                July 19, 2020
+
+
+Submission information
+======================
+
+We solicit regular and short papers. Paper submission must be performed via EasyChair.
+
+Regular papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are under submission. Submitted papers will be judged on the basis of significance, relevance, correctness, originality, and clarity. They should clearly identify what has been accomplished and why it is significant.
+
+Regular paper submissions should not exceed 15 pages in LNCS style, plus possibly bibliography and appendices. However, program committee members are not required to read the appendices, thus papers must be intelligible without them. 
+
+Short papers are also welcome: they should present tools, benchmarks, case-studies or be extended abstracts of ongoing research. Short papers should not exceed 6 pages, excluding extra material as above. 
+
+All accepted papers will be published as Lecture Notes in Computer Science (LNCS) with Springer Verlag. 
+
+http://www.springer.com/lncs
+
+
+Chairs
+======
+
+Parasara Sridhar Duggirala, University of North Carolina at Chapel Hill, USA
+Peter Schrammel, University of Sussex, and Diffblue Ltd, UK
+
+
+Program Committee
+=================
+
+Assale Adje, University of Perpignan Via Domitia, France
+Stanley Bak, Safe Sky Analytics, USA
+Sylvie Boldo, Inria, France
+Lucas Cordeiro, University of Manchester, UK
+Aaron Dutle, NASA, USA
+Ashutosh Gupta,	IIT Bombay, India
+Ichiro Hasuo, National Institute of Informatics, Japan
+Xiaowei Huang, University of Liverpool, UK
+Manuel Mazo, Delft University of Technology, The Netherlands
+Martin Nyx Brain, City University of London, UK
+Tatjana Petrov, University of Konstanz, Germany
+Pierre Roux, ONERA, France
+Laura Titolo, National Institute of Aerospace, USA
+Jana Tumova, KTH Royal Institute of Technology, Sweden
+Xiang Yin, Shanghai Jiao Tong University, China
+
+
+Steering Committee
+==================
+
+Sergiy Bogomolov (Newcastle University, UK)
+Radu Grosu (TU Vienna, Austria)
+Matthieu Martel (Université de Perpignan, France)
+Pavithra Prabhakar (Kansas State University, USA)
+Sriram Sankaranarayanan (UC Boulder, USA)

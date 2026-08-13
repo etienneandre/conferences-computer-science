@@ -1,0 +1,75 @@
+========================================================================
+                         CALL FOR PAPERS, SHORT PAPERS AND POSTERS
+
+
+EuroMPI 2023, co-located with the 19th International Workshop on OpenMP
+https://eurompi23.github.io
+Sept 11-13, 2023, University of Bristol, Bristol, UK
+
+
+Deadline for abstract submission: April 22, 2023 AoE
+Deadline for papers: April 29, 2023 AoE
+Deadline for short papers and posters: 1st July 2023 AoE
+
+========================================================================
+
+
+The EuroMPI conference is the preeminent meeting for users, developers and researchers to interact and discuss new developments and applications of the Message Passing Interface (MPI). This includes new proposed concepts and extensions to the MPI standard, libraries and languages built in top of MPI, interfaces to other standards in parallel programming, applications and optimizations to new architectures and networks, novel algorithms, and tools, with particular focus on quality, portability, performance, and scalability. The annual meeting has a long, rich tradition, and has been held since 1994.
+
+EuroMPI will be held at the University of Bristol in Bristol, UK from September 11th to 13th, 2023. It will be co-scheduled with the MPI Forum meeting and all participants are invited to extend their participation to join the meeting.
+
+
+Topics
+
+
+EuroMPI 2023 will have a renewed focus on new developments and applications of the Message Passing Interface (MPI). This includes new proposed concepts and extensions to the MPI standard, libraries and languages built on top of MPI, interfaces to other standards in parallel programming, applications and optimizations to new architectures and networks, novel algorithms, and tools, with particular focus on quality, portability, performance, and scalability.
+
+We invite high-quality, full and short paper submissions on all topics related to MPI. Topics of interest include, but are not limited to:
+
+    Implementation Issues and Algorithms: Efficient and scalable implementations of message-passing constructs.
+    Architectures and systems: Towards exascale computing, efficient use of accelerators and other features of modern, large-scale systems, hardware-software interaction.
+    Programming models and paradigms for large-scale, parallel, distributed memory systems, hierarchical and hybrid models, partitioned global address space (PGAS) models.
+    Extensions to and shortcomings of MPI, alternative interfaces and solutions.
+    New, parallel (MPI-)I/O mechanisms optimizations.
+    Hybrid and heterogeneous programming with MPI and other interfaces.
+    Message passing interface support for data-intensive parallel applications.
+    Fault tolerance in message-passing implementations and systems.
+    MPI parallel programming in clouds and non-dedicated systems.
+    Applications and Performance.
+    Performance evaluation for MPI and MPI-based applications.
+    Automatic performance tuning of applications and implementations.
+    Verification of message-passing applications and protocols.
+    Applications using message passing, in particular in computational science and scientific computing.
+    Parallel algorithms in the message-passing paradigm.
+    Interactions between the message-passing library and runtime systems.
+
+Papers will be reviewed for quality, originality, clarity, correctness, technical strength, and relevance to the topics of the meeting. Reviews are blind (but not double-blind), the names of the authors will be seen by the program committee.
+
+
+Submission Guidelines
+
+
+To be considered, papers must be formatted according to the “sigconf” style in the ACM 2017 Template and
+
+    up to 10 pages in length (full paper) or
+    up to 5 pages in length (short papers) or
+    up to 3 pages in length (poster) in PDF format.
+
+The page limit includes figures, tables, and appendices, but does not include references, for which there is no page limit. Margins and font sizes should not be modified. Submissions will be handled via EasyChair at: https://easychair.org/conferences/?conf=eurompi23
+
+
+Important Deadlines (AOE)
+
+
+Abstract deadline: 22th April 2023
+Paper submission deadline: 29th April 2023
+Paper notification: 19th June 2023
+Short papers and posters submission deadline: 1st July 2023
+Short papers and posters notification: 10th July 2023
+Event schedule: September 11-13, 2023
+
+EuroMPI 2023 Committee: https://eurompi23.github.io/organization
+Publicity Chairs
+Julien Jaeger, CEA, France
+Emmanuelle Saillard, Inria, France
+

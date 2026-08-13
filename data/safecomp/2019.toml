@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Best papers invited in a special issue of a safety-related international journal. 2018 SPECIAL THEME: Cross and intra domain reuse of engineering and certification artefacts: challenges and opportunities."
+
+[[cfp]]
+file = "cfp/SAFECOMP-2019.txt"
+stage = "initial"

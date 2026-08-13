@@ -26,3 +26,7 @@ environment = "For authors who cannot present their paper in person, a possibili
 
 [extra]
 notes = "Track A focuses on algorithms, data structures and complexity. Track B focuses on automata, logic, semantics, and theory of programming."
+
+[[cfp]]
+file = "cfp/STACS-2027.txt"
+stage = "initial"

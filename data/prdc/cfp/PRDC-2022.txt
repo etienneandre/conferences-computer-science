@@ -1,0 +1,107 @@
+CALL FOR PAPERS –  PRDC 2022
+
+*****************************************************************************
+
+The 27th Pacific Rim International Symposium on Dependable Computing
+                                  (PRDC 2022)
+
+                   November 28  - December 1, 2022
+                                Beijing, China
+             https://prdc.dependability.org/PRDC2022
+
+*****************************************************************************
+PRDC 2022 is the twenty-seventh event in a series of symposia started in
+1989 devoted to dependable and fault-tolerant computing. PRDC is recognized
+as the main event in the Pacific area that covers many dimensions of
+dependability
+and fault tolerance, encompassing fundamental theoretical approaches,
+practical
+experimental projects, and commercial components and systems.  As
+applications
+of computing systems have permeated into all aspects of daily life, the
+dependability
+of computing systems has become increasingly critical. This symposium
+provides
+a forum for countries around the Pacific Rim and other areas of the world
+to
+exchange ideas for improving the dependability of computing systems.
+
+Topics of interest include (but not limited to):
+• Software and hardware reliability, resilience, safety, security, testing,
+verification, and validation
+• Dependability measurement, modeling, evaluation, and tools
+• Self-healing, self-protecting, and fault-tolerant systems
+• Architecture and system design for dependability
+• Prognostics in Complex Systems
+• Reliability analysis of Complex Systems
+• Fault-tolerant algorithms and protocols
+• Cloud computing resiliency, security and privacy
+• Software defined networks architectures and protocols
+• Dependability issues in computing systems (e.g. computer networks
+and communications, high performance computing, real-time systems, storage
+and databases systems, cyber-physical systems, socio-technical systems, and
+blockchain and smart contracts).
+• Emerging technologies (autonomous systems including autonomous vehicles,
+human machine teaming, smart devices/Internet of Things)
+
+
+*****************************************************************************
+Submission and Publication Information
+
+Manuscripts may be submitted in IEEE double-column format to one of the
+following two categories: (i) Regular Papers and (ii) Practical Experience
+Reports.
+Regular Papers (10 pages, excluding references and appendices) should
+describe
+original research (not submitted or published elsewhere).
+Practical Experience Reports (6 pages, excluding references and appendices)
+should describe an experience or a case study, such as the design and
+deployment of a system or actual failure and recovery field data.
+
+All submissions must be made electronically (in PDF format) on the
+submission
+website
+      https://easychair.org/account/signin?l=XDVt4Ata85TEA3Lyw3g1m5
+
+Please note that all submissions will undergo a double-blind review. Please
+ensure
+that you have removed any references that could lead to the disclosure of
+the
+authors' identities. Failing to do so may result in rejection of the paper
+regardless
+of the paper contributions. Papers will be reviewed internationally and
+selected
+based on their originality, significance, relevance, and clarity of
+presentation. All
+accepted papers will be published by the IEEE Computer Society Press (EI
+Indexed).
+Submission of a contribution to the track indicates agreement to have one
+author
+present the work, if accepted, at the conference.
+
+
+*****************************************************************************
+Paper Award
+
+One outstanding paper will be selected to receive the Best Paper Award, and
+one
+outstanding paper first-authored by a student will receive the Best Student
+Paper
+Award.
+
+
+*****************************************************************************
+Important Dates
+
+Regular Papers and Practical Experience Reports
+Submission: 18 July 2022
+Notification of Acceptance: 22 August 2022
+
+
+*****************************************************************************
+Program Committee Co-Chairs
+
+Lance Fiondella, University of Massachusetts Dartmouth, USA
+Ting Su, East China Normal University, China
+
+*****************************************************************************

@@ -17,3 +17,7 @@ publisher = "informal proceedings"
 
 [extra]
 notes = "Workshop at DATE 2019. Cancelled in 2020. The proceedings of DUHDe are only available for participants of the workshop. The authors retain the copyright of their work and are free to submit extended versions to a conference or journal."
+
+[[cfp]]
+file = "cfp/DUHDE-2020.pdf"
+stage = "initial"

@@ -1,0 +1,130 @@
+**********************************************************************
+
+                    CALL FOR PAPERS - PRDC 2021
+
+ The 26th Pacific Rim International Symposium on Dependable Computing
+
+                Virtual Conference 1 - 4 December, 2021
+
+                   Face-to-face in Perth, Australia
+
+                Paper Submission Deadline: 18 July 2021
+
+                http://prdc.dependability.org/PRDC2021/
+
+**********************************************************************
+
+PRDC 2021 is the twenty-sixth event in the series of symposia started 
+in 1989 that are devoted to dependable and fault-tolerant computing. 
+PRDC is recognized as the main event in the Pacific area that covers 
+many dimensions of dependability and fault tolerance, encompassing 
+fundamental theoretical approaches, practical experimental projects, 
+and commercial components and systems. As applications of computing 
+systems have permeated into all aspects of daily life, the dependabil-
+ity of computing systems has become increasingly critical. This sympo-
+sium provides a forum for countries around the Pacific Rim and other 
+areas of the world to exchange ideas for improving the dependability 
+of computing systems.
+
+Topics of interest include (but are not limited to):
+-Software and hardware reliability, testing, verification, and 
+ validation
+-Dependability measurement, modeling, evaluation, and tools
+-Self-healing, self-protecting, and fault-tolerant systems
+-Software aging and rejuvenation
+-Safety-critical and mixed-criticality systems and software
+-Architecture and system design for dependability
+-Fault-tolerant algorithms and protocols
+-Dependability and security in web and mobile applications
+-Cloud computing resiliency, security and privacy
+-(Industrial) Internet of things dependability, security and privacy
+-Dependability issues in computer networks and communications
+-Dependability issues in high performance computing
+-Dependability issues in real-time systems 
+-Dependability issues in storage and databases systems
+-Dependability issues in cyber-physical systems and Industry 4.0
+-Dependability issues in socio-technical systems
+-Dependability and security in AI and machine learning systems
+-Blockchain and smart contracts
+
+----------------------------------------------------------------------
+
+Submission and Publication Information
+
+Manuscripts should be submitted in the following two categories: 
+Regular Papers and Practical Experience Reports. 
+Regular Papers should describe original research (not submitted or 
+published elsewhere) and be not more than 10 pages using IEEE Computer
+Society conference format. Practical Experience Reports (max 6 pages 
+using IEEE format guidelines) should describe an experience or a case 
+study, such as the design and deployment of a system or actual failure 
+and recovery field data.
+
+All submissions must be made electronically (in PDF format) on the 
+submission website:
+
+       https://www.easychair.org/conferences/?conf=prdc2021
+
+
+Please note that all submissions will undergo a double-blind review. 
+Please ensure that you have removed any references that could lead to
+identifying the authors of the paper. Failure to do so may result in
+rejection of the paper regardless of the paper contributions. Papers 
+will be reviewed internationally and selected based on their original-
+ity, significance, relevance, and clarity of presentation. 
+
+All accepted papers will be published by IEEE Computer Society Press 
+(EI Indexed). One outstanding paper will be selected to receive the 
+Best Paper Award, and one outstanding paper first authored by a stude-
+nt will receive the Best Student Paper Award.
+
+----------------------------------------------------------------------
+
+Important Dates
+
+Paper Submission Deadline  : 18 July 2021
+Notification of Acceptance : 22 August 2021
+
+----------------------------------------------------------------------
+
+Organizing Committee
+
+General Chair: 
+  Jin B. Hong, University of Western Australia, Australia
+
+Program Co-Chair: 
+  Jin-Hee Cho, Virginia Tech, USA
+  Marcello Cinque, Federico II University of Naples, Italy
+
+Local Arrangement Co-Chair:
+  Naveed Akhtar, University of Western Australia, Australia
+  Zeyi Wen, University of Western Australia, Australia
+
+Publicity Co-Chair: 
+  Gregory Blanc, Telecom SudParis, France
+  Simon Yusuf-Enoch, University of Queensland, Australia
+
+Finance Chair: 
+  Susan Marie, University of Westner Australia, Australia
+
+Steering Committee
+  Yennun Huang, Academia Sinica (Chair)
+  Leon Alkalai, California Institute of Technology
+  Takashi Nanya, University of Tokyo
+  Nobuyasu Kanekawa, Hitachi Research Lab
+  Jin Song Dong, National University of Singapore
+  Karthik Pattabiraman, University of British Columbia
+  Gernot Heiser, University of New South Wales
+  Sy-Yen Kuo, National Taiwan University
+  Michael Lyu, Chinese University of Hong Kong
+  Zhi Jin, Peking University
+  DongSeong Kim, University of Queensland
+
+----------------------------------------------------------------------
+
+Sponsors
+
+IEEE Computer Society
+University of Western Australia
+Business Events Perth
+Tourism Western Australia

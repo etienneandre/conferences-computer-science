@@ -18,3 +18,7 @@ publisher = "PDF"
 
 [extra]
 notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. Selection of best papers published in the Journal of Logic and Algebraic Programming."
+
+[[cfp]]
+file = "cfp/NWPT-2018-extended.txt"
+stage = "extended"

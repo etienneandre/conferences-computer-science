@@ -17,3 +17,7 @@ notification = [2018-09-24]
 [proceedings]
 publisher = "EPiC Series in Computing"
 license = "free"
+
+[[cfp]]
+file = "cfp/LPAR-2018.txt"
+stage = "initial"

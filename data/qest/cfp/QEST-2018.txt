@@ -1,0 +1,135 @@
+------------------------------------------------------------------------
+Call for Papers of QEST 2018
+
+15th International Conference on Quantitative Evaluation of SysTems
+http://www.qest.org/qest2018/
+
+QEST 2018 will be held in Beijing, China
+September 4-7, 2018
+
+QEST 2018 as part of CONFESTA
+http://confesta2018.csp.escience.cn/dct/page/1
+is co-located with
+CONCUR (Int. Conf. on Concurrency Theory),
+FORMATS (Int. Conf. on Formal Modeling and Analysis of Timed Systems) and
+SETTA (Symposium on Dependable Software Engineering).
+
+Scope and Topics
+
+The International Conference on Quantitative Evaluation of
+SysTems (QEST) is the leading forum on quantitative evaluation
+and verification of computer systems and networks. Areas of
+interest include quantitative specification methods, stochastic
+and non-deterministic models and metrics for performance,
+reliability, safety, correctness, and security. QEST is
+interested in both theoretical and experimental research. QEST
+welcomes a diversity of modelling formalisms, programming
+languages and methodologies that incorporate quantitative aspects
+such as probabilities, temporal properties and other forms of
+non-determinism.  Papers may advance empirical, simulation and
+analytic methods. Of particular interest are case studies that
+highlight the role of quantitative specification, modelling and
+evaluation in the design of systems. Systems of interest include
+computer hardware and software architectures, communication
+systems, cyber-physical systems, infrastructural systems, and
+biological systems. Papers that describe novel tools to support
+the practical application of research results in all of the above
+areas are also welcome.
+
+Special Sessions
+
+To encourage submissions of papers in frontier topics,
+submissions in selected areas are encouraged. Paper submitted to
+special sessions will be treated as regular submitted papers,
+they will be peer reviewed, and subject to the same quality
+requirements. A special session with accepted papers on the
+selected topics will be organised during the conference. This
+year selected topics are:
+
+== Quantitative aspects of system security
+
+Security of computer systems relies critically on the control of
+confidential information. In recent years there has been great
+interest in measuring various aspects of system behaviour that
+can impact untoward release of secret information. There is a
+general recognition that it is not possible to avoid all
+information leaks and therefore it has become important to
+determine whether a particular leak constitutes a serious breach.
+
+We solicit papers on the topic of measurement of quantitative
+aspects of system security. We are interested in new theoretical
+perspectives on this problem as well as practicalities of
+implementation and case studies show casing new techniques.
+
+== Industrial strength techniques
+
+We call for contributions on quantitative techniques focussing on
+industrial applications. We are particularly interested in
+techniques that have the potential to scale up or address
+important safety, security, performance or reliability aspects of
+industrial strength systems. We are interested both in new
+techniques and experience reports of applying quantitative
+analysis in an industrial setting.
+
+Special Issue
+
+A selection of the best papers presented at QEST 2018 will be
+invited to submit an extended version of their paper for a
+Special Issue.
+
+Important Dates
+
+Abstract submission:  18 March 2018
+Paper and tool submission:  25 March 2018
+Author notification:  30 May 2018
+Final version due: 22 June 2018
+Conference: 4-7 September 2018
+
+Submissions
+
+All accepted papers (including tool demonstrations) must be
+presented at the conference by one of the authors. The QEST 2018
+proceedings will be published in the Springer LNCS series and
+indexed by ISI Web of Science, Scopus, ACM Digital Library, dblp,
+Google Scholar. All submitted papers will be evaluated by at
+least three reviewers on the basis of their originality,
+technical quality, scientific or practical contribution to the
+state of the art, methodology, clarity, and adequacy of
+references.  QEST considers five types of papers:
+
+    Theoretical: advance our understanding, apply to non-trivial
+    problems and be mathematically rigorous.
+
+    Methodological and technical: describe situations that
+    require the development and proposal of new analysis
+    processes and techniques.
+
+    Application: describes a novel application, and compares with
+    previous results.
+
+    Tools: should motivate the development of the new tools and
+    the formalisms they support, with a focus on the software
+    architecture and practical capabilities.
+
+    Tool demonstration: describe a relevant tool, as well as its
+    features, evaluation, or any other information that may
+    demonstrate the merits of the tool.
+
+Submissions must be prepared in LaTeX, following Springer's LNCS
+guidelines. Submitted papers should not exceed 16 pages (4 pages
+for tool demonstrations). Papers must be unpublished and not be
+submitted for publication elsewhere. Authors of tool papers (both
+regular and demonstration) must make their tools and input data
+available to reviewers; reproducibility of results will be taken
+into account during the evaluation process, and the conference
+will include a demo session. Authors should present use cases,
+distinctive features, and computational/memory requirements
+through motivating examples. Theoretical background need not be
+presented in tool demonstration papers; substantial improvements
+are required for existing tools.
+
+Papers should be submitted electronically using the EasyChair
+online submission system.
+
+All accepted papers (including tool demonstrations) must be
+presented at the conference by one of the authors.

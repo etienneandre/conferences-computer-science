@@ -1,0 +1,108 @@
+==== CALL FOR PAPERS ====
+
+41th Annual ACM/SIGAPP Symposium on Applied Computing
+          Programming Languages Track
+                    Thessaloniki, Greece
+                    March 23-27, 2026
+
+==> Submission deadline: October, 10 <==
+
+SAC 2026 website:
+https://www.sigapp.org/sac/sac2026/
+
+SAC-PL 2026 website:
+https://acmsac.wp.txstate.edu/
+
+==== IMPORTANT DATES ====
+
+− Full paper submission: 10 October 2025
+− Author notification: 21 November 2025
+− Camera ready copy: 5 December 2025
+− Author Registration: 12 December 2025
+− STAP Application: 9 January 2026
+− STAP Notification: 31 January 2026
+
+==== ACM Symposium on Applied Computing ====
+
+Over the past 40 years, the ACM Symposium on Applied
+Computing has become a primary forum for applied computer
+scientists, computer engineers, software engineers, and
+application developers from around the world to interact and
+present their work. SAC 2026 is sponsored by the ACM
+Special Interest Group on Applied Computing (SIGAPP). For
+additional information, please check the SAC web page:
+https://www.sigapp.org/sac/sac2026.
+
+====  PROGRAMMING LANGUAGES TRACK ====
+
+For the 33nd year, the SAC 2025 Programming Languages will
+be a forum for engineers, researchers and practitioners
+throughout the world to share technical ideas and experiences
+relating to implementation and application of programming
+languages. Major topics of interest include but are not limited
+to the following:
+· AI-Driven Development Techniques,
+· Compiling Techniques,
+· Domain-Specific Languages,
+· Formal Semantics and Syntax,
+· Garbage Collection,
+· Language Design and Implementation,
+· Languages for Modeling,
+· Model-Driven Development and Model Transformation,
+· New Programming Language Ideas and Concepts,
+· New Programming Paradigms,
+· Practical Experiences with Programming Languages,
+· Program Analysis and Verification,
+· Program Generation and Transformation,
+· Programming Languages from All Paradigms (Agent-
+Oriented, Aspect-Oriented, Functional, Logic, Object-
+Oriented, etc.),
+· Visual Programming Languages.
+
+SUBMISSION GUIDELINES
+Paper submissions must be original, unpublished work.
+Submissions should be in electronic format, via the link
+provided at https://www.sigapp.org/sac/sac2026.
+
+Author(s) name(s) and address(es) must not appear in the
+body of the paper, and self-reference should be avoided and
+made in the third person. Submitted papers will undergo a
+blind review process. For accepted papers the paper
+registration is required, allowing the inclusion of the
+paper/poster in the conference proceedings.
+
+An author or a proxy attending SAC MUST present the paper. This is a
+requirement for the paper/poster to be included in the
+ACM/IEEE digital library. No-show of scheduled papers and
+posters will result in excluding them from the ACM/IEEE
+digital library. A set of selected papers, which did not get
+accepted as full papers, will be accepted as poster papers and
+will be published as extended abstracts in the symposium
+proceedings.
+
+After the conference, selected accepted papers
+will be invited to a special issue of the Computer Languages,
+Systems and Structures journal.
+
+Student authors and co- authors are eligible to receive a travel award from
+the SIGAPP Student Travel Award Program (STAP). SAC
+2026 will also hold a Student Research Competition (SRC).
+To enter this in the area of programming languages, please
+submit via the link at the SAC web page.
+
+==== PROGRAM COMMITTEE ====
+
+Cinzia Di Giusto, Université Côte d'Azur (France)
+Pedro Henriques, University of Minho (Portugal)
+Zoltán Horváth, Eötvös Loránd University (Hungary)
+Jaakko Järvi, University of Turku (Finland)
+Geylani Kardas, Ege University (Turkey)
+Jihyeok Park, Korea University (S. Korea)
+Rosario Pugliese, Università di Firenze (Italy)
+Ilias Sakellariou, University of Macedonia (Greece)
+
+==== TRACK CHAIRS ====
+
+Barrett R. Bryant, Texas State University (USA)
+Rajeev Raje, Indiana University Indianapolis (USA)
+Marco Giunti, University of Algarve (Portugal)

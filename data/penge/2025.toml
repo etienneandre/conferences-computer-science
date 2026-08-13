@@ -18,3 +18,15 @@ license = "free-copy"
 
 [extra]
 notes = "Satellite event of Petri Nets 2025. Online workshop proceedings. Very good contributions can be nominated for a volume of the journal sub-line of LNCS entitled \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."
+
+[[cfp]]
+file = "cfp/PeNGE-2025.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PeNGE-2025-extended.pdf"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/PeNGE-2025-extended.txt"
+stage = "extended"

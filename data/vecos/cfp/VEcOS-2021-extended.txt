@@ -1,0 +1,131 @@
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+
+VECoS 2021 - Virtual Conference -  Extended Deadline CfP
+
+*** Due to the Covid-19 outbreak, the VECoS 2021 conference will happen as a virtual conference, with pre-recorded video talks, and live audio Q&A sessions ***
+
+               
+
+The 15th International Conference on Verification and Evaluation of Computer and Communication Systems initially planned to take place on November 20-26, 2021, at the Institute of Software, Chinese Academy of Sciences in Beijing, China will take place virtually
+
+November 22-23, 2021, Beijing, China (virtual conference)
+
+http://vecos-world.org/2021/
+
+Co-located with FM’21
+
+*****************************************************************
+
+-- INVITED SPEAKERS --
+
+- Lei Ma, University of Alberta, Canada: An Orchestrated Reflection of Quality Assurance in the era of Data-Driven Intelligent Systems
+
+- Ylies Falcone, Univ. Grenoble Alpes: On Decentralized System Monitoring
+
+-- IMPORTANT DATES --
+
+All the deadlines are AoE (Anywhere on Earth)
+
+* Papers deadline:        20 July   2021
+
+* Paper notification:     4 October  2021
+
+* Camera-ready deadline:  18 October  2021
+
+* Conference:             22–23 November 2021
+
+
+-- ABOUT VECoS --
+
+The VECoS conference series focuses on the analysis of computer and communication systems, where functional and extra-functional properties are inter-related.  VECoS encourages the cross-fertilization between the various formal verification and evaluation approaches, methods and techniques, especially those developed for concurrent and distributed hardware/software systems.
+
+Topics of interest include, but are not limited to:
+
+* Abstraction techniques
+
+* Compositional verification
+
+* Correct-by-construction design
+
+* Rigorous system design
+
+* Equivalence checking
+
+* Model-checking
+
+* Parameterized verification
+
+* Performance and robustness evaluation
+
+* Probabilistic verification
+
+* QoS evaluation, planning and deployment
+
+* Dependability assessment techniques
+
+* RAMS (Reliability-Availability-Maintainability-Safety) assessment
+
+* Model-based Security assessment
+
+* Security protocols verification
+
+* Discrete-event and hybrid systems Modeling and Simulation
+
+* Supervisory control
+
+* Verification & validation of IoT
+
+* Verification & validation of safety-critical systems
+
+* Assessment for real-time systems
+
+* Worst-case execution time analysis
+
+* Verification and testing of data-driven and learning-enabled systems
+
+Application areas of interest to VECoS include: adaptive systems, communication protocols, computer-supported collaborative work systems, cloud computing, cyber-physical systems, high-performance computing, internet of things, logistics systems, manufacturing of the future, mixed criticality systems, mobile and wireless networking, operations research, programming languages, real-time and embedded operating systems, service-oriented systems,telecommunication systems, ubiquitous systems, web services, wireless sensor networks and workflow systems.
+
+An overview of previous VECoS conferences can be found at :
+
+http://vecos-world.org/
+
+VECoS 2021 will be held in October 22-23 as a virtual conference
+
+-- GENERAL INFORMATION ON SUBMISSIONS --
+
+Submitted papers must be no longer than 15 pages (including bibliography), written in English, presenting original work and not be submitted for publication elsewhere.  Papers must be submitted electronically in PDF format through EasyChair (https://easychair.org/conferences/?conf=vecos2021), using the LNCS format (version 2.20 or above).  Accepted papers will appear in the conference proceedings.  At least one author of each accepted paper must attend the conference and present the paper.
+
+The conference proceedings will be published in the Springer-Verlag Lecture Notes in Computer Science (LNCS) series.
+
+Authors of selected papers will be invited to submit extended versions for a special issue of selected papers from the Conference will be considered for publication in extended and revised form in a special issue of an indexed international journal (ISSE:Innovations in Systems and Software Engineering or IJCCBS: International Journal of Critical Computer-Based Systems).
+
+
+-- ORGANIZATION --
+
+General Chairs
+
+* Kamel Barkaoui,Cedric Cnam Paris, France
+
+* Zhiwu Li, Macau University of Science and Technology, China 
+
+Program Chairs
+
+* Ayoub Nouri, Huawei France, Grenoble, France
+
+* Weimin Wu, Zhejiang University, Hangzhou, China
+
+Publicity Chairs
+
+* Belgacem BEN HEDIA, CEA LIST, Saclay, France
+
+* Vladimir-Alexandru Paun, Five Rescue, Paris, France
+
+* Gaiyun Liu, Xidian University, Xian, China
+
+
+For additional information, visit the conference website:
+
+http://vecos-world.org/2021/
+

@@ -1,0 +1,108 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Subject: CfP: Petri Nets 2021 in Paris + special track on ACSD (ICATPN 2021, June 20-25, 2021)
+
+
+
+====================================================================
+
+** A PDF version of this call is available at: https://lipn.univ-paris13.fr/petrinets2021/CfP-Petri-Nets-2021.pdf **
+
+Call for Papers and Announcement Petri Nets 2021
+https://lipn.univ-paris13.fr/petrinets2021/
+
+PETRI NETS 2021
+42nd International Conference on Application and Theory of Petri Nets and Concurrency
+& special track on Application of Concurrency to System Design (ACSD)
+
+Paris, France, June 20-25, 2021
+
+*** NEW! Submission deadlines extended to 3rd February 2021 (both abstract and full paper) ***
+
+Contact e-mail:
+pn2021@petrinet.net
+
+====================================================================
+
+** The organizers are carefully monitoring the development of the COVID-19 pandemic to determine whether PN 2021 will be held physically in Paris, virtually or in a hybrid manner. **
+
+Two kinds of papers can be submitted:
+
+* Regular papers (max 20 pages) describing original results pertaining to the development of the theory of Petri Nets and distributed and concurrent systems in general, new results extending the applicability of Petri Nets, or case studies, application and experience reports pertinent to the practical use of Petri Nets and concurrency.
+
+* Tool papers (max 10 pages) describing a computer tool based on Petri Nets (not an application of the tool or the theory behind the tool). The tool should be available for use by other groups (but not necessarily for free). The submission should indicate how the reviewers can get access to the tool (this must be for free). The tool will be demonstrated in the Tool Exhibition, in addition to being presented in a conference talk.
+
+Submitted papers must:
+* be contributions that have not been published or submitted to other conferences/journals before or in parallel with this conference.
+* clearly state the problem being addressed, the goal of the work, the results achieved, and the relation to other work.
+* be in English and in the Springer LNCS-format: http://www.springer.de/comp/lncs/authors.html.
+* adhere to the page limit for the relevant category (see above).
+* be sent electronically (as a PDF file) using the website
+http://easychair.org/conferences/?conf=petrinets2021 before the deadline.
+
+The title page must:
+* contain a short abstract and a classification of the topics covered, preferably using the list of topics above.
+* clearly indicate whether the paper is submitted as a regular paper or tool paper.
+
+Submissions violating the above requirements may be immediately rejected by the PC Chairs.
+
+Important Dates:
+-----------------------------------------------------------
+Abstract submission:   January 13, 2021 => February 3rd, 2021 (EXTENDED)
+Paper submission:      January 20, 2021 => February 3rd, 2021 (EXTENDED)
+Notification:          March 5, 2021
+Final version due:     March 19, 2021
+Workshops & tutorials: June 21-22, 2021
+Main conference:       June 23-25, 2021
+
+Best papers accepted for the conference will be invited as submissions to a special issue of
+the Fundamenta Informaticae journal.
+
+General topics related to concurrency
+
+- Model checking and verification of distributed systems
+- Verification of infinite-state or parametric systems
+- Causality/partial order theory of concurrency
+- Educational issues related to concurrency
+- New issues and developments in the theory of concurrency
+- Modelling of hardware and biological systems
+
+Topics specific to Petri nets
+
+- Analysis and synthesis, structure and behaviour of nets
+- System design and model-driven development using nets
+- Relationships between Petri Nets and other approaches
+- Net-based semantical, logical and algebraic calculi
+- Higher-level net models (coloured nets, timed nets, etc.)
+- Stochastic net models
+- Verification and model checking using nets
+- Process discovery and conformance checking
+- Computer tools for nets
+- Standardisation of nets
+- Computer tools for nets
+- Experience reports describing applications of nets to different kinds of systems and application fields, e.g.:
+    flexible manufacturing systems, real-time systems, embedded systems, biological systems, health and medical systems, environmental systems, hardware, telecommunications, railway networks, components based development, office automation, workflows, process mining, supervisory control, protocols and networks, Internet and web services, e-commerce and trading, programming languages, performance evaluation, operations research.
+
+Special track on ACSD (Application of Concurrency to System Design)
+
+- Both theoretical and applied research about formal approaches (in a broad sense) to designing computer systems that exhibit concurrent behaviour.
+The formal models of computation and concurrency for the above systems and problems are not limited by Petri nets, but also include models like dataflow models, communicating automata, process algebras, graph rewriting systems, state charts, MSCs, modal and temporal logics.
+
+====================================================================
+
+Tool Exhibition:
+The tools presented in the accepted tool papers will be demonstrated in the Tool Exhibition,
+in addition to being presented in a conference talk.
+
+In case of any comments or questions, please contact the organisers:
+  via email: pn2021@petrinet.net
+  via https://lipn.univ-paris13.fr/petrinets2021/
+
+General Chairs:
+  Laure Petrucci (LIPN, CNRS, Université Sorbonne Paris Nord, France)
+  Étienne André (Université de Lorraine, France)
+
+PC-Chairs:
+  Didier Buchs (University of Geneva, Switzerland)
+  Josep Carmona (Universitat Politècnica de Catalunya, Spain)
+  Jörg Desel - ACSD track (FernUniversität in Hagen, Germany)
+  Alex Yakovlev - ACSD track (University of Newcastle-upon-Tyne, UK)

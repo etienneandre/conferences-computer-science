@@ -19,3 +19,7 @@ license = "cc-by"
 
 [extra]
 notes = "Co-located with FLoC. Ongoing work will not be published. A special issue in a renowned international journal is planned in case of a sufficient number of high quality submissions. Abstract submission is optional. Cancelled."
+
+[[cfp]]
+file = "cfp/QAPL-2018.txt"
+stage = "initial"

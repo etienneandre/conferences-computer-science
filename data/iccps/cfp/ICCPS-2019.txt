@@ -1,0 +1,39 @@
+ACM/IEEE ICCPS 2019 CALL FOR PAPERS
+The 10th ACM/IEEE International Conference on Cyber-Physical Systems
+April 16-18, 2019 in Montreal, Canada, part of CPSWeek 2019
+http://iccps.acm.org/2019
+
+
+Overview: As digital computing and communication become faster, cheaper, and available in packages that are smaller and use less power, these capabilities are increasingly embedded in many objects and structures in the physical environment. Cyber-physical systems (CPS) are physical and engineered systems whose operations are monitored, coordinated, controlled, and integrated by computing and communication. Broad CPS deployment is transforming how we interact with the physical world as profoundly as the world wide web transformed how we interact with one another, and further harnessing their capabilities holds the possibility of enormous societal and economic impact. 
+
+ACM/IEEE ICCPS is the premier single-track conference for reporting advances in all CPS aspects, including theory, tools, applications, systems, test-beds and field deployments. The conferences focuses on the core science to develop fundamental principles that underpin the integration of cyber and physical elements, as well as on the development of technologies, tools, architectures  and infrastructure for building CPS systems, highlighting the design, implementation, and investigation of CPS applications. Application domains include (but are not limited to): transportation, energy, water, agriculture, medical and assistive technology, sensor and social networks, robotics, smart cities, ecology, and supply-chains. Among the relevant research areas are security, control, optimization, machine learning, game theory, mechanism design, mobile and cloud computing, model-based design, verification, data mining / analytics, signal processing, and human-in-the-loop shared or supervisory control. 
+
+
+All submissions must be in English. Only original papers that are not submitted or published in other conferences or journals will be considered. Manuscripts should have a main body with no more than 10 pages. Up to 2 additional pages of appendices may follow the main body of the paper, within the same submitted .pdf file. The submissions must be in the ACM two-column conference style, US Letter (8.5 inch x 11 inch) paper size, and 10pt text font size.
+
+
+Important Dates: 
+Full paper submission deadline: October 17, AoE, 2018 (FIRM deadline, see CPSWeek deadline policy),
+Author notification: December 28, 2018,
+Camera-ready paper due: February 15, 2019.
+
+
+General Co-Chairs: 
+Xue Liu, McGill University, Canada 
+Paulo Tabuada, UCLA, USA 
+
+Program Co-Chairs: 
+Linda Bushnell, University of Washington, USA
+Miroslav Pajic, Duke University, USA
+
+Steering Committee: 
+Insup Lee, University of Pennsylvania, USA 
+Jack Stankovic, University of Virginia, USA 
+Eric M. Feron, Georgia Institute of Technology, USA 
+Karl H. Johansson, Royal Institute of Technology (KTH), Sweden 
+Xenofon Koutsoukos, Vanderbilt University, USA
+Raj Rajkumar, Carnegie Mellon University, USA 
+Chris Gill (Ex Officio), Washington University in St. Louis, USA 
+Bruno Sinopoli (Ex Officio), Carnegie Mellon University, USA 
+
+

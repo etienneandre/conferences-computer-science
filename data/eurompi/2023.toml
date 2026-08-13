@@ -21,3 +21,11 @@ license = "acm"
 
 [extra]
 notes = "co-located with the 19th International Workshop on OpenMP. Warning: notification date extended after submission, and without notice (2014). The best papers of the conference will be considered for inclusion in a special issue of Elsevier’s Parallel Computing."
+
+[[cfp]]
+file = "cfp/EuroMPI-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/EuroMPI-2023-extended.txt"
+stage = "extended"

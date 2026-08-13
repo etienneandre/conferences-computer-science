@@ -22,3 +22,11 @@ license = "pay-profit"
 accepted = 9
 submitted = 16
 # TODO: verify — extracted from the cross-year acceptance string.
+
+[[cfp]]
+file = "cfp/SBMF-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SBMF-2023-extended.txt"
+stage = "extended"

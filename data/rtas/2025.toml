@@ -29,3 +29,11 @@ award = "Best paper, best student paper, best reviewer."
 [extra]
 colocated = "Part of CPS-IoT Week."
 notes = "Two tracks (Systems and Applications / Applied Methodologies and Foundations)."
+
+[[cfp]]
+file = "cfp/RTAS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RTAS-2025-extended.txt"
+stage = "extended"

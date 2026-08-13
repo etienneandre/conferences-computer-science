@@ -1,0 +1,165 @@
+TASE 2023 - CALL FOR PAPERS
+
+******************************************************************
+               The 17th International Symposium on
+          Theoretical Aspects of Software Engineering
+                          (TASE 2023)
+                    July 4-6, Bristol, UK
+                 https://bristolpl.github.io/tase2023/
+
+******************************************************************
+* Abstract submission (not mandatory, but preferred):  February 3, 2023
+*   Paper Submission:                                                     February 10, 2023
+*   Author Notification:                                                     April 10, 2023
+*   Camera-ready versions:                                             May 1, 2023
+*   Conference date:                                                        July 4-6, 2023
+
+--------
+OVERVIEW
+--------
+The 17th International Symposium on Theoretical Aspects of Software Engineering (TASE 2023) will be held in Bristol, UK on July 4-6, 2023. Modern society is increasingly dependent on software systems that are becoming larger and more complex. This poses new challenges to the various aspects of software engineering, for instance, software dependability in trusted computing, interaction with physical components in cyber physical systems, quality assurance in AI systems, distribution in cloud computing applications, security and privacy in general. Hence, new concepts and methodologies are required to enhance the development of software engineering from theoretical aspects.
+
+TASE 2023 aims to provide a forum for people from academia and industry to communicate their latest results on innovative advances in software engineering. TASE 2023 is the 17th in the TASE series. The past TASE symposia were successfully held in Shanghai ('07), Nanjing ('08), Tianjin ('09), Taipei ('10), Xi'an ('11), Beijing ('12), Birmingham ('13), Changsha ('14), Nanjing ('15), Shanghai (’16), Nice ('17), Guangzhou ('18), Guilin (’19), Hangzhou (’20), Shanghai (’21), Cluj (’22).
+
+------
+TOPICS
+------
+Authors are invited to submit high quality technical papers describing original and unpublished work in all theoretical aspects of software engineering. Topics of interest include, but are not limited to:
+* Abstract interpretation
+* Algebraic and co-algebraic specifications
+* AI for formal methods
+* Component-based software engineering
+* Cyber-physical systems
+* Deductive verification
+* Distributed and concurrent systems
+* Domain Engineering
+* Embedded and real-time systems
+* Feature-oriented software
+* Formal methods, verification and testing for AI systems
+* Formal verification and program semantics
+* Fundamental theories and techniques for trustworthy AI systems
+* Integration of formal methods
+* Language design
+* Model checking and theorem proving
+* Model-driven engineering
+* Object-oriented systems
+* Probability in software engineering
+* Program analysis
+* Program logics and calculi
+* Requirements engineering
+* Reverse engineering and software maintenance
+* Run-time verification and monitoring
+* Semantic web and web services
+* Service-oriented and cloud computing
+* Software processes and workflows
+* Software architectures and design
+* Software testing and quality assurance
+* Software safety, security and reliability
+* Specification and verification
+* Type systems and behavioral typing
+* Tools exploiting theoretical results
+
+----------
+SUBMISSION
+----------
+Submissions to the conference must not have been published or be concurrently considered for publication elsewhere. All submissions will be judged on the basis of originality, contribution to the field, technical and presentation quality, and relevance to the conference. The proceedings will be published in the Springer Lecture Notes in Computer Science series. Papers should be written in English and should not exceed 16 pages (excluding bibliography) for long papers and 6 pages (excluding bibliography) for short papers in LNCS format. Submissions should be made through the TASE 2023 submission page, handled by the EasyChair conference management system.
+
+Submission link: https://easychair.org/conferences/?conf=tase23
+
+Selected papers will be invited after the symposium to submit an extended version
+to a special issue at Science of Computer Programming.
+
+---------------
+IMPORTANT DATES
+---------------
+* Abstract submission (not mandatory, but preferred):  February 3, 2023
+*   Paper Submission:                                                     February 10, 2023
+*   Author Notification:                                                     April 10, 2023
+*   Camera-ready versions:                                             May 1, 2023
+*   Conference date:                                                        July 4-6, 2023
+
+
+
+-------------
+HONORARY CHAIR
+ Ian Nabney – University of Bristol, UK
+-------------
+GENERAL CHAIR
+Meng Wang – Univeristy of Bristol, UK
+-----------------
+PROGRAM CO-CHAIRS
+Cristina David – University of Bristol, UK
+Meng Sun – Peking University, China
+----------------
+PUBLICITY CO-CHAIRS
+Guoqiang Li -- Shanghai Jiaotong University, China
+Guillaume Dupont -- Toulouse INP – ENSEEIHT, France
+----------------
+LOCAL ORGANIZING CHAIR
+Samantha Frohlich – University of Bristol, UK
+------------------
+WEB CHAIR
+Roly Perera – University of Bristol, UK
+------------------
+WORKSHOP CO-CHAIRS
+Ileana Ober -- Université Paul Sabatier, France
+Min Zhang -- East China Normal University, China
+------------------
+PUBLICATION CHAIR
+Neeraj Singh -- Toulouse INP – ENSEEIHT, France
+------------------
+PROGRAM COMMITTEE
+Bernhard K. Aichernig, Graz University of Technology
+Yamine Ait Ameur, IRIT/INPT-ENSEEIHT
+Toshiaki Aoki, JAIST
+Guangdong Bai, The University of Queensland
+Richard Banach, University of Manchester
+Luís Soares Barbosa, University of Minho
+Marcello Bonsangue, Leiden University
+Martin Brain, City, University of London
+Liqian Chen, National University of Defense Technology
+Zhenbang Chen, National University of Defense Technology
+Wei-Ngan Chin, National University of Singapore
+Lucas Cordeiro, University of Manchester
+Andreeea Costea, National University of Singapore
+Florin Craciun, Cluj University
+Cristina David, University of Bristol (PC Co-chair)
+Flavio Ferrarotti, Software Competence Centre Hagenberg
+Simon Foster, University of York
+Marc Frappier, Université de Sherbrooke
+Robvan Glabbeek, Data61 - CSIRO
+Matthias Güdemann, University of Applied Sciences, Munich
+Fei He, Tsinghua University
+Thai Son Hoang, University of Southampton
+Zoltán Horváth, Eotvos Lorand University, Budapest
+Zhe Hou, Griffith University
+Xiaowei Huang, University of Liverpool
+Fuyuki Ishikawa, National Institute of Informatics
+Andreas Katis, KBR Inc. at NASA Ames Research Center
+Olga Kouchnarenko, University of Franche-Comté
+Pascal Kesseli, Diffblue, UK
+Regine Laleau, Paris Est Creteil University
+Kim Guldstrand Larsen, Aalborg University
+Dorel Lucanu, Alexandru Ioan Cuza University
+Frederic Mallet, Universite Nice Sophia-Antipolis
+Kazutaka Matsuda, Tohoku University
+Diego Marmsoler, University of Exeter
+Dominique Mery, Université de Lorraine, LORIA
+Kazuhiro Ogata, JAIST
+Peter Ölveczky, University of Oslo
+Dominic Orchard, University of Kent
+Jun Pang, University of Luxembourg
+Geguang Pu, East China Normal University
+Adrian Riesco, Universidad Complutense de Madrid
+Shengchao Qin, Teesside University
+Quang Loc Le, University College London
+Cristina Seceleanu, Mälardalen University
+Meng Sun, Peking University (PC Co-chair)
+Cong Tian, Xidian University
+Jaco van de Pol, University of Twente
+Xiaofei Xie, Singapore Management University
+Naijun Zhan, Institute of Software, Chinese Academy of Sciences
+Xiyue Zhang, xiyue.zhang@cs.ox.ac.uk, University of Oxford
+Yongwang Zhao, zhaoyw@zju.edu.cn, Zhejiang University
+Huibiao Zhu, East China Normal University
+Xue-Yang Zhu, Institute of Software, Chinese Academy of Sciences

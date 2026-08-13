@@ -1,0 +1,35 @@
+Last Call for Papers
+
+Deadline 8 July 2024
+
+The 25th International Conference on Formal Engineering Methods (ICFEM 2024)
+
+Hiroshima, Japan 2 ~ 6 December 2024 Conference
+
+ HP: https://icfem2024.info
+
+Background and Objectives:
+
+Since it was started in Hiroshima, Japan in 1997, ICFEM has provided a forum for both researchers and practitioners to discuss and exchange their experience and results in research on theories, methods, languages, and supporting tools for integrating formal methods into conventional software engineering technologies to provide more effective and efficient approaches to large-scale software engineering. The goal of this conference is to bring together industrial, academic, and government experts in both formal methods and software engineering to help advance the state of the art.
+At its first return to Hiroshima since 1997, ICFEM 2024 will celebrate the 25th anniversary of the ICFEM conference series. Researchers, practitioners, tool developers, and users are all welcome to submit papers and participate in the conference. We look forward to your contributions and participation.
+
+Scope and Topics：
+
+Formal specification and modeling
+Formal approaches to fault prevention and detection Abstraction, refinement, and evolution
+Formal verification and validation Integration of formal methods and testing Integration of formal methods and review
+SAT/SMT solvers for software analysis and testing Practical formal methods
+Applications of formal methods
+Formal approaches to software maintenance
+Formal approaches to safety-critical system development Formal approaches to security-critical system development Supporting tools for formal methods
+Formal methods for agile development
+Formal methods for human-machine pair programming Formal methods for AI Systems
+Formal methods for Cyber-physical systems and IoT Formal certification of products
+Industrial case studies
+
+Submission and Publication
+
+Submission should be done through the ICFEM 2024 submission page, handled by the EasyChair conference system. As in previous years, the proceedings will be published in the Springer Lecture Notes in Computer Science series. Submissions to the conference must not have been published or be concurrently considered for publication elsewhere. Papers should be written in English. Regular papers should not exceed 18 pages (20 pages including references and appendix) and short papers should not exceed 12 pages (including references and appendix) in Springer LNCS format. In addition to paper submissions, we will also organize several tracks, including Doctoral Symposium, Industrial Applications, and Journal-First Presentations. The accepted submissions for both Doctoral Symposium and Industrial Applications Tracks will be included in the proceedings of ICFEM 2024. Formatting style files and further guidelines for formatting can be found at the Springer website.
+
+
+Important Dates: Full Paper Submissions: 8 July 2024; Acceptance / Rejection Notification: 9 September 2024

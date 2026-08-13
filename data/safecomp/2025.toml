@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Key theme in 2025: \"Managing safety in an era of a software-defined computing continuum\"."
+
+[[cfp]]
+file = "cfp/SAFECOMP-2025.txt"
+stage = "initial"

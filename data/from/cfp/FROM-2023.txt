@@ -1,0 +1,146 @@
+                        FROM 2023
+           Seventh Working Formal Methods Symposium
+
+          September 21-22, 2023, Bucharest, Romania
+               https://from2023.cs.unibuc.ro
+        co-located with the ILDS Coq and Lean Summer School
+           https://events.ilds.ro/autumnschool2023/
+
+
+DESCRIPTION
+-----------
+
+The Working Formal Methods Symposium (FROM) aims to bring together
+researchers and practitioners who work on formal methods by contributing
+new theoretical results, methods, techniques, and frameworks, and/or by
+creating or using software tools that apply theoretical contributions.
+
+The program of the symposium includes invited lectures and regular
+contributions.
+Submissions on the general topics of formal methods, theoretical computer
+science, logic and applications are welcome.
+
+This event is co-located with the ILDS Coq and Lean Autumn School 2023
+(see https://events.ilds.ro/autumnschool2023/), for which there is a special
+discounted fee for FROM 2023 participants.
+
+ORGANIZERS
+----------
+
+Faculty of Mathematics and Computer Science of the University of Bucharest (
+https://fmi.unibuc.ro/)
+Institute for Logic and Data Science (ILDS, https://ilds.ro/)
+
+IMPORTANT DATES
+---------------
+
+Deadline for paper/abstract submission: 25 July 2023
+Deadline for author notification: 25 August 2023
+Deadline for revised paper/abstract submission: 1 September 2023
+Deadline for registration: 7 September 2023
+Symposium: 21-22 September 2023
+
+INVITED SPEAKERS
+----------------
+
+Radu Iosif (CNRS-VERIMAG)
+Ulrich Kohlenbach (Technische Universität Darmstadt)
+Eugenio Omodeo (Università degli Studi di Trieste)
+Alicia Villanueva (Universitat Politècnica de València)
+
+SUBMISSIONS
+-----------
+
+Papers of up to 16 pages prepared according to the EPTCS template
+(see http://style.eptcs.org/) must be submitted electronically
+using the EasyChair submission system at:
+https://easychair.org/my/conference?conf=from2023
+
+Research papers must contain original research results not submitted and
+not
+published elsewhere. They will be considered for inclusion in the EPTCS
+proceedings
+of the symposium. Authors who want to present work in progress or discuss
+new aspects or a survey of their older research results at the workshop are
+welcome
+to submit an extended abstract (up to 8 pages). Papers will be refereed and
+accepted
+on the basis of their scientific merit and relevance to the workshop topics.
+
+TOPICS OF INTEREST
+------------------
+
+The topics of interest for FROM 2023 include, but are not limited to:
+
+Areas and formalisms:
++ Category theory in computer science
++ Distributed systems and concurrency
++ Domain science and engineering
++ Formal languages and automata theory
++ Formal modelling, verification and testing
++ Logic in computer science
++ Logical frameworks
++ Mathematical structures in computer science
++ Models of computation
++ Semantics of programming languages
++ Type systems
+
+Methods:
++ Automated reasoning and model generation
++ Automated induction
++ Certified programs
++ Data-flow and control-flow analysis
++ Deductive verification
++ Mechanized proofs
++ Model checking
++ Proof mining
++ Symbolic computation
++ Term rewriting
+
+Applications:
++ Computational logic
++ Computer mathematics
++ Knowledge representation, ontology reasoning, deductive databases
++ Program analysis
++ Verification and synthesis of software and hardware
++ Uncertainty reasoning and soft computing
+
+Submissions on any other related topics are welcome.
+
+PROGRAMME COMMITTEE
+-------------------
+
+Florin Crăciun (Babeș-Bolyai University of Cluj-Napoca)
+Temur Kutsia (Johannes Kepler University Linz)
+Laurențiu Leuștean (University of Bucharest & ILDS & IMAR) (co-chair)
+Dorel Lucanu (Alexandru Ioan Cuza University of Iași)
+Mircea Marin (West University of Timișoara)
+David Nowak (CNRS & University of Lille)
+Peter Csaba Ölveczky (University of Oslo)
+Corina Păsăreanu (NASA & Carnegie Mellon University)
+Andrei Popescu (University of Sheffield)
+Thomas Powell (University of Bath)
+Grigore Roșu (University of Illinois at Urbana-Champaign)
+Vlad Rusu (INRIA Lille)
+Andrei Sipoș (University of Bucharest & ILDS & IMAR) (co-chair)
+Viorica Sofronie-Stokkermans (University of Koblenz and Landau)
+
+REGISTRATION
+------------
+
+The registration fee is 100 EUR for the general public and
+50 EUR for students. It covers the symposium kit, lunch, coffee breaks,
+and the symposium dinner.
+
+To register, please use the common registration form
+(https://forms.gle/aZ7zqK3UNwLeGaRL6) for FROM 2023 and the
+ILDS Coq and Lean Autumn School 2023
+(https://events.ilds.ro/autumnschool2023/), for which there is
+a special discounted fee for FROM 2023 participants. Note that
+one can still register later, separately, for the autumn school
+and still benefit from the discount.
+
+***************
+
+Further information is available on our website,
+https://from2023.cs.unibuc.ro/

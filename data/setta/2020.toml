@@ -21,3 +21,8 @@ license = "pay-profit"
 
 [extra]
 notes = "Always in China. Colocated with LICS 2020 and ICALP 2020 In 2020, special session on Artificial Intelligence Meets Formal Methods (AI+FM). Also a journal-first papers track (different deadlines)."
+
+[[cfp]]
+file = "cfp/SETTA-2020-moved.txt"
+stage = "initial"
+note = "after the event moved"

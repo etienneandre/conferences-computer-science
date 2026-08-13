@@ -1,0 +1,76 @@
+2024 Formal Methods in Computer-Aided Design (FMCAD): Call for Papers
+
+FMCAD 2024 is the twenty-fourth in a series of conferences on the theory and applications of formal methods in hardware and system verification. FMCAD provides a leading forum to researchers in academia and industry for presenting and discussing groundbreaking methods, technologies, theoretical results, and tools for reasoning formally about computing systems. FMCAD covers formal aspects of computer-aided system design including verification, specification, synthesis, and testing. FMCAD 2024 includes the FMCAD Student Forum and is co-located with VSTTE 2024.
+
+IMPORTANT DATES
+
+    Conference Website:   https://fmcad.org/FMCAD24/
+    Conference Location:  Prague, Czech Republic
+    Conference Dates:     October 15 - Octob er 18, 2024
+
+    Abstract Submission:  April 28, 2024
+    Paper Submission:     May 5, 2024
+    Author Response:      June 25 - June 27, 2024
+    Author Notification:  July 8, 2024
+
+(All dates are anywhere-on-earth)
+
+Submissions must be made electronically in PDF format via Easychair:
+
+https://easychair.org/conferences/?conf=fmcad2024
+
+Regular papers and Tool & Case Study papers are invited. Regular papers are expected to offer novel foundational ideas, theoretical results, or algorithmic improvements to existing methods, along with experimental impact validation where applicable. Tool & Case Study papers are expected to report on the design, implementation or use of verification (or related) technology in a practically relevant context (which need not be industrial), and its im pact on design processes. Both Regular and Tool & Case study papers must use the IEEE Transactions format on letter-size paper with a 10-point font size. Papers in both categories can be either 8 pages (long) or 4 pages (short) in length not including references.
+
+PROGRAM COMMITTEE
+
+Guy Amir, The Hebrew University of Jerusalem
+Mohamed Faouzi Atig, Uppsala University
+Jaroslav Bendik, Certora
+Armin Biere, Freiburg University
+Per Bjesse, Synopsys Inc.
+Nikolaj Bjorner, Microsoft
+Roderick Bloem, Graz University of Technology
+Shaowei Cai, Institute of Software, Chinese Academy of Sciences
+Ivana Cerna, Masaryk University
+Rayna Dimitrova, CISPA Helmholtz Center for Information Security
+Rohit Dureja, Advanced Micro Devices, Inc.
+Gabriel Ebner, Microsoft Research
+Grigory Fedyukovich, Florida State University
+Alberto Griggio, Fondazione Bruno Kessler
+Arie Gurfinkel, University of Waterloo
+Liana Hadarean, A mazon Web Services
+William Harrison, Cyber Security Group, Oak Ridge National Laboratory
+Bo-Yuan Huang, Intel Corporation
+William Hung, Cadence
+Warren Hunt, The University of Texas at Austin
+Ahmed Irfan, SRI International
+Mikolas Janota, Czech Technical University in Prague (local chair)
+Daniela Kaufmann, Vienna University of Technology
+Tim King, Google
+Anna Lukina, TU Delft
+Andreas Loow, Chalmers University of Technology
+Ravi Mangal, Carnegie Mellon University
+Ken McMillan, UT Austin
+Baoluo Meng, GE Global Research
+David Monniaux, Verimag
+Alexander Nadel, The Technion and Intel
+Nina Narodytska, VMware Research by Broadcom (co-chair)
+Ruzica Piskac, Yale University
+Mathias Preiner, Stanford University
+Mohammad Rahmani Fadiheh, Stanford University
+Andrew Reynolds, University of Iowa
+Kristin Yvonne Rozier, Iowa State University
+Philipp Rummer, University of Regensburg and Uppsa la University (co-chair)
+Natasha Sharygina, University of Lugano
+Aditya A. Shrotri, Rice University
+Carsten Sinz, Karlsruhe University of Applied Sciences
+Christoph Sticksel, The MathWorks
+Martin Suda, Czech Technical University in Prague
+Tachio Terauchi, Waseda University
+Yakir Vizel, Technion
+Tomas Vojnar, Brno University of Technology
+Mike Whalen, Amazon Web Services
+Thomas Wies, New York University
+Hongce Zhang, Hong Kong University of Science and Technology (Guangzhou)
+Shufang Zhu, University of Oxford
+Florian Zuleger, Vienna University of Technology

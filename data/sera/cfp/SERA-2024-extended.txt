@@ -1,0 +1,36 @@
+CALL FOR PAPERS
+
+22nd IEEE/ACIS International Conference on Software Engineering
+Research, Management and Applications (SERA 2024)
+May 30-June 1, 2024
+Honalulu, USA
+http://acisinternational.org/conferences/sera-2024/
+Sponsored by ACIS International and IEEE Computer Society
+Paper Submission Deadline: February 26, 2024 Extended: March 22, 2024
+
+<Overview>
+The 22nd IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA2024) brings together researchers, practitioners, and advanced graduate students to exchange and share their experiences, new ideas, and research results and research-in- progress about all aspects (theory, applications and tools) of Software Engineering Research, Management and Applications, and discuss the practical challenges encountered and the solutions adopted. The conference will cover a broad set of research topics as:
+
+Software Agent Technology, Case Studies, Component-Based Software Engineering, Communication Systems and Networks, Data Mining and Knowledge Recovery, Artificial Intelligence, Design Patterns and Frameworks, Software Architecture, Economic and Financial Systems, Requirements Engineering, Middleware Design Techniques, Modeling with UML, Mobile/Wireless Computing, Parallel and Distributed Computing, Safety and Security Critical Software, Reengineering, Reverse Engineering, Software Evolution and Understanding, Software Testing Techniques, Software Reuse and Metrics, Object-Oriented Technology, Reliability Modeling and Analysis, Cost Modeling and Analysis, Computer & Software Engineering, Technology Transfer, Business Process Reengineering & Science, Design & Process Engineering & Science, Process Management & Improvement, Software Engineering Education, Healthcare Engineering, Software Process Models.
+
+<Publications>
+SERA 2024 Proceedings will be published by IEEE Conference Publishing Services and will be submitted to be indexed by SCI, EI, INSPEC, and DBLP.
+
+Selected papers will be recommended to publish in the following journals (www.acisinternational.org ):
+•           International Journal of Networked and Distributed Computing (IJNDC), Springer, Germany
+•           International Journal of Software Innovation (IJSI), IGI Global, U.S.A.
+•           International Journal of Big Data Intelligence and Applications (IJBDIA), IGI Global, U.S.A.
+•           Studies in Computational Intelligence (SCI), Springer, Germany
+
+<Venue and Travel>
+Hilton Waikiki Beach, Honolulu
+
+<Paper submission>
+Regular Papers (6 pages)
+Poster Papers (2 pages)
+https://easychair.org/conferences/?conf=sera2024
+
+
+<Contact>
+Questions and inquiries should be sent to:
+ acis@acisinternational.org

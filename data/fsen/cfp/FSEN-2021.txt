@@ -1,0 +1,103 @@
+FIRST CALL FOR PAPERS
+
+Ninth International Conference on
+Fundamentals of Software Engineering 2021 -
+Theory and Practice (FSEN '21)
+https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Ffsen.ir%2F2021&amp;data=02%7C01%7C%7C1d5aa8fa14ef42349c0708d812336b11%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637279359328733250&amp;sdata=rqUDitAA7CMjmX5svAEBlER07iTkjTOI%2BducaUuuhAE%3D&amp;reserved=0
+Tehran, Iran
+May 19-21, 2021
+
+IMPORTANT INFORMATION:
+
+The FSEN Steering and Organizing Committees are monitoring the situation surrounding COVID-19, and are aware of the restrictions and uncertainty that people are facing this period, complying with local and international rules on travel restrictions. Therefore FSEN 2021 will be held as a mixed event, offering virtual presentation as option to participants. All accepted papers will be published in the conference proceedings, regardless of whether a physical or virtual presentation is given. More details will follow in the course of time via the FSEN 2021 website.
+
+
+######################################################################
+
+-- About FSEN --
+
+Fundamentals of Software Engineering (FSEN) is an international conference that aims to bring together researchers, engineers, developers, and practitioners from academia and industry to present and discuss their research work in the area of formal methods for software engineering. Additionally, this conference seeks to facilitate the transfer of experience, adaptation of methods, and where possible, foster collaboration among different groups. The topics of interest cover all aspects of formal methods, especially those related to advancing the application of formal methods in the software industry and promoting their integration with practical engineering techniques. Following the success of the previous FSEN editions, the next edition of the FSEN conference will take place in Tehran, Iran, May 19-21, 2021.
+
+-- Important Dates --
+
+Abstract Submission (optional): October 18, 2020 (AoE)
+Paper Submission: October 30, 2020 (AoE)
+Notification: December 18, 2020
+Final pre-Conference Version: January 21, 2021 (AoE)
+Conference: May 19-21, 2021
+
+-- Keynote Speakers --
+
+SOON TO APPEAR ON THE WEBSITE
+
+-- Topics of Interest --
+
+The topics of this conference include, but are not restricted to, the following:
+
+* Models of programs and software systems
+* Software specification, validation, and verification
+* Software testing
+* Software architectures and their description languages
+* Object, actor and multi-agent systems
+* Coordination, feature interaction and software product lines
+* Integration of formal and informal methods
+* Integration of different formal methods
+* Component-based and Service-oriented software systems
+* Collective, self-adaptive and cyber-physical software systems
+* Model checking and theorem proving
+* Quantitative formal methods
+* Software and hardware verification
+* CASE tools and tool integration
+* Industrial Applications
+
+-- Paper Submission --
+
+Authors are invited to submit full papers (up to 15 pages including references) describing original research, applications and tools; or short papers (up to 6 pages including references) describing ongoing research or new ideas that have not yet been fully validated.
+Both categories of papers must be submitted electronically in Postscript or PDF using the online submission process via the Easychair conference system at the following link: https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.easychair.org%2Fconferences%2F%3Fconf%3Dfsen2021&amp;data=02%7C01%7C%7C1d5aa8fa14ef42349c0708d812336b11%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637279359328733250&amp;sdata=1KVlB%2Ftj62lNhAYJ%2BwiVHjRNcgAPkjDtVmH2mdB%2F6Aw%3D&amp;reserved=0.
+
+Contributions must be written in English, should be formatted according to the Springer LNCS style (LaTeX2e Proceedings Templates) that can be found at the following link (https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.springer.com%2Fgp%2Fcomputer-science%2Flncs%2Fconference-proceedings-guidelines&amp;data=02%7C01%7C%7C1d5aa8fa14ef42349c0708d812336b11%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637279359328733250&amp;sdata=1qlVYG%2Fk%2B5mYp%2BqWXaSUgDFYf4epEz7HTC1mX4lRH1E%3D&amp;reserved=0) and not exceed the page limit for the category (including figures and references).
+
+Each submission will be thoroughly reviewed by at least three reviewers considering scientific originality, significance, relevance to the FSEN conference, technical soundness, clarity, self-containedness and discussion of appropriate related work.
+
+The reviewers will be asked to rate the submissions and evaluate whether they can be accepted as:
+1) Full paper for the LNCS post-proceedings and conference pre-proceedings
+2) Short paper for the LNCS post-proceedings and conference pre-proceedings
+3) Poster included only in the pre-proceedings
+Papers accepted in the first 2 categories will be invited for presentation at the conference. Posters will be illustrated by the authors in separate poster sessions.
+
+Submissions are required to report on original, unpublished work and should not be submitted simultaneously for publication elsewhere (cf. IFIP's Author Code of Conduct, see https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ifip.org%2F&amp;data=02%7C01%7C%7C1d5aa8fa14ef42349c0708d812336b11%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637279359328733250&amp;sdata=AvBboSByeldWvXlBx4eRjgLxsSR%2FHyDCojn2is1y6wc%3D&amp;reserved=0 under Publications/Links).
+
+
+-- Proceedings and Special Issue --
+
+The post-proceedings of FSEN'21 will be published by Springer Verlag in the LNCS series (to be confirmed). Pre-proceedings, printed locally by IPM, will be available at the conference. Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN'21 (to be confirmed). After the conference a selection of papers will be invited for this special issue. The invited papers should be revised and extended and will undergo a new round of review by an international program committee. Please see the websites of previous editions of FSEN for more information on post-proceedings and special issues related to those editions.
+
+-- General Chairs --
+
+Farhad Arbab - CWI, Netherlands; Leiden University, Netherlands
+Pejman Lotfi-Kamran - IPM, Iran
+Hamid Sarbazi-azad - IPM, Iran; Sharif University of Technology, Iran
+
+-- Program Chairs --
+
+Hossein Hojjat - Tehran Institute for Advanced Studies, University of Tehran, Iran
+Mieke Massink - CNR-ISTI Pisa, Italy
+
+-- Publicity Chair --
+
+Maurice ter Beek - CNR-ISTI Pisa, Italy
+
+-- Steering Committee --
+
+Farhad Arbab - CWI, Netherlands; Leiden University, Netherlands
+Christel Baier - University of Dresden, Germany
+Frank de Boer - CWI, Netherlands; Leiden University, Netherlands
+Ali Movaghar - IPM, Iran; Sharif University of Technology, Iran
+Hamid Sarbazi-azad - IPM, Iran; Sharif University of Technology, Iran
+Marjan Sirjani - Malardalen University, Sweden; Reykjavik University, Iceland (Chair)
+Carolyn Talcott - SRI International, USA
+Martin Wirsing - LMU Munich, Germany
+
+-- Program Committee --
+
+SOON TO APPEAR ON THE WEBSITE

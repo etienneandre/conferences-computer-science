@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "EUMAS welcomes both original, unpublished papers, as well as papers that have been published in a relevant conference, conference or journal. The best original papers will be invited for a special issue in the Journal of Autonomous Agents and Multiagent Systems (JAAMAS). Deadline and notification extension: 7 days (2017), 8 days (2020)"
+
+[[cfp]]
+file = "cfp/EUMAS-2023.txt"
+stage = "initial"

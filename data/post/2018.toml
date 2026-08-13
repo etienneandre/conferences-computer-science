@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Double-blind"
+
+[[cfp]]
+file = "cfp/POST-2018.txt"
+stage = "initial"

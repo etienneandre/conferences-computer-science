@@ -1,0 +1,87 @@
+Due to multiple request the deadline of ISORC’21 has been extended again.
+
+ 
+
+24th IEEE INTERNATIONAL SYMPOSIUM ON REAL-TIME DISTRIBUTED COMPUTING
+
+                https://isorc2021.github.io/cfp.html
+
+ 
+
+New Extended deadline: 05.02.2021 (any time in the world)
+
+ 
+
+ 
+
+Important Dates
+
+Main Track:
+
+·  Submission deadline: February 5, 2021 (anywhere on earth)
+
+·  Rebuttal period: March 29-31, 2021
+
+·  Acceptance notification: April 9, 2021
+
+·  Camera-ready papers: April 23, 2021
+
+·  Conference: June 1-3, 2021
+
+Poster/Demo Session:
+
+·  Submission deadline: April 5, 2021
+
+·  Acceptance notification: April 12, 2021
+
+·  Camera-ready papers: April 16, 2021
+
+·  Conference: June 1-3, 2021
+
+Topics
+
+IEEE ISORC 2021 invites high-quality papers on all aspects of ORC technology, including, but not limited to:
+
+·  Real-Time Distributed Computing
+
+·  Cloud/Edge/Fog Computing
+
+·  Internet of Things (IoT)
+
+·  Real-Time Scheduling Theory
+
+·  Real-Time Networks
+
+·  Resilient Cyber-Physical Systems
+
+·  Self-Aware Computing Systems
+
+·  Energy-Efficient Systems
+
+·  Autonomous Systems (e.g., Autonomous Driving)
+
+·  Machine Learning for Embedded and Cyber-Physical Systems
+
+·  Real-Time Deep Learning Inference
+
+·  Optimization of Time-Sensitive Applications
+
+·  Operating Systems and Middleware for ORC technology
+
+·  Security and Privacy for ORC technology
+
+·  Applications based on ORC technology, for example, medical devices, intelligent transportation systems, industrial automation systems and industry 4.0, smart grids, multimedia processing, and web/mobile applications
+
+ 
+
+ 
+
+Acceptance Criteria
+
+The review process is double-blinded. Authors’ identifiers, including name, affiliation and contact details, must not be revealed in the submission. The title page may list the authors as “anonymous” and any reference to the prior works of the authors must be in the third person, i.e., references to your own prior work still include full author names. Similarly, if you use your own software, state that a copy of this software was obtained from the authors of the software, preferably with a reference. Omit acknowledgements and funding sources in the submission. The camera-ready submission for an accepted paper can restore these details. (Any further questions about double-blind submissions should be directed to the PC chairs.)
+
+ 
+
+best regards,
+
+Raimund Kirner

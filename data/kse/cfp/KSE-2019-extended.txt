@@ -1,0 +1,90 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 11th International Conference on
+
+Knowledge and Systems Engineering (KSE 2019)
+
+October 24-26, 2019   |   Da Nang, Vietnam   |   kse-conf.org and kse2019.ued.udn.vn
+
+Call for Papers
+
+The 11th KSE is an international forum for presentation, discussion, and exchange of the state-of-the-art research, development, and applications in the field of knowledge and systems engineering. The main objective of the KSE is to bring together researchers, practitioners and students not only to share research results and practical applications but also to foster collaboration in the field. The KSE this year will be held in Da Nang, a coastal and tourism city with beautiful beaches and a lot of exciting experiences. The conference will be co-organized by The University of Da Nang - University of Science and Education (UD-USE) and VNU University of Engineering and Technology (VNU-UET).
+
+General Co-Chairs
+
+‣    Nguyen Le Minh, JAIST, Japan
+
+‣    Nguyen Thanh Thuy, VNU, Vietnam
+
+‣    Luu Trang, UD, Vietnam
+
+Program Co-Chairs
+
+‣    Josiane Mothe, Univ. de Toulouse, IRIT, France
+
+‣    Le Hoang Son, VNU, Vietnam
+
+‣    Nguyen Tran Quoc Vinh, UD, Vietnam
+
+Important Dates
+
+‣    Submission: May June 15, 2019
+
+‣    Notification: July 30, 2019
+
+‣    Camera-ready: August 20, 2019
+
+‣    Registration: August 30, 2019
+
+‣    Conference: October 24-26, 2019
+
+Submission Page: https://edas.info/N25876.
+
+
+KSE-2019 invites both theoretical and application submissions on the following topics, but not limited to:
+
+•    Knowledge management, representation, and reasoning
+
+•    Machine learning theory and applications
+
+•    Data science and knowledge engineering
+
+•    Natural language processing and text mining
+
+•    Image processing and pattern recognition
+
+•    Data and information fusion
+
+•    Bioinformatics and computational biology
+
+•    Human machine interaction
+
+•    System engineering
+
+•    Software engineering
+
+•    Knowledge and Systems Engineering in Education
+
+•    Internet of things, Cloud computing
+
+•    Information security
+    •    Knowledge models for Big Data  
+
+Special Sessions: 
+‣ SS1: Operational Research (OR) 
+‣ SS2: Advanced Fuzzy Systems and Computational Intelligence (AFS-CI) 
+‣ SS3: Intelligent Software and Knowledge Representation (IS-KR) 
+‣ SS4: Social Media Analysis (SMA) 
+‣ SS5: Bioinformatics and Computational Biology (BCB) 
+‣ SS6: Information Retrieval (IR) 
+‣ SS7: Knowledge Engineering and IoT (KEI) 
+‣ SS8: Deep Learning and Applications for Intelligent Systems 
+‣ SS9: Cyber Security Threats and Countermeasures 
+‣ SS10: Asian Natural Language Processing 
+
+The submissions will be peer-reviewed by at least three reviewers based on the originality, scientific and technical quality. The proceedings will be submitted to IEEE, DBLP and other online digital libraries. Accepted papers will be selected to publish on high-ranked journals in ISI/SCOPUS (http://kse2019.ued.udn.vn/journals). The paper submission link: https://edas.info/N25876.
+
+Thank you and best regards,
+
+On behalf of the 11st KSE TPC
+TPC Co-chairs

@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Colocated with FORMATS 2019 and FMICS 2019, and several workshops and tutorials. A special issue dedicated to selected papers from CONCUR 2019 will appear in Logical Methods in Computer Science."
+
+[[cfp]]
+file = "cfp/CONCUR-2019.txt"
+stage = "initial"

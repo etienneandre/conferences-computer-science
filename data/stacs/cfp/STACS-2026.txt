@@ -1,0 +1,80 @@
+The 43nd International Symposium on Theoretical Aspects of Computer Science is planned to take place from March 10th to March 13th in Grenoble, France (https://stacs2026.imag.fr/).
+
+STACS 2026 will consist of two tracks, A and B. Track A focuses on algorithms, data structures, and complexity, while track B focuses on automata, logic, semantics, and theory of programming.
+
+Authors are invited to submit papers presenting original and unpublished research on theoretical aspects of computer science. Topics covered by the tracks include, but are not limited to, the following:
+
+Track A. Algorithms, Data Structures, and Complexity
+
+Design of algorithms
+Approximation algorithms
+Online algorithms
+Distributed/parallel algorithms
+Parameterized algorithms
+Randomized algorithms
+Analysis of algorithms
+Combinatorics of data structures
+Computational geometry
+Cryptography
+Algorithms for machine learning
+Algorithmic game theory
+Quantum algorithms
+Computational and structural complexity theory
+Parameterized complexity
+Randomness in computation
+
+Track B. Automata, Logic, Semantics and Theory of Programming
+
+Automata theory
+Games and multi-agent systems
+Algebraic and categorical methods
+Models of computation
+Concurrency
+Timed systems
+Finite model theory
+Database theory
+Semantics
+Type systems
+Program analysis
+Specification and verification
+Rewriting and deduction
+Learning theory
+Logical aspects of computability and complexity
+
+
+Important Dates
+
+Submission deadline:	25 September 2025, 23:59 AoE
+Rebuttal:				17-21 November 2025
+Notification:			12 December 2025
+Conference:			10-13 March 2026
+
+
+Submissions
+
+Format of submissions
+
+Submissions should be made through EasyChair at https://easychair.org/conferences/?conf=stacs2026
+
+Authors are invited to submit an extended abstract or a full paper with at most 15 pages; this page limit excludes the title page, the references section, and a possible appendix. The title page should contain the title of the paper and the abstract, but no author information. The first section of the paper should start on the next page, and the appendix, if any, should also start on the next page after the bibliography.
+
+In preparation of submissions, the usage of the LIPIcs style file is mandatory; no changes to font size, page geometry, etc. are permitted. Please refer to LIPIcs author instructions. Submissions submitted after the deadline will not be considered, and submissions not adhering to the expected format risk rejection without consideration of the content.
+Submissions should be made to appropriate tracks. The PCs reserve the right to reassign a paper to a different track, if deemed necessary.
+The extended abstract should contain a succinct statement of the considered issues and of their motivation, a summary of the main results, and a brief explanation of their significance, accessible to non-specialist readers. This should be followed by a rigorous derivation of the claimed results. Proofs omitted due to space constraints should be put into an appendix, to be read by the program committee members at their discretion. It is allowed and encouraged to provide the anonymized full version of the paper as the appendix.
+
+Simultaneous submission to other conferences with published proceedings or to journals is not allowed. PC members are allowed to submit their works as well, except for PC chairs.
+
+Double-blind reviewing
+
+As in the previous years, STACS 2025 will employ a lightweight double-blind reviewing process: submissions should not reveal the identity of the authors in any way. The purpose of the double-blind reviewing is to help PC members and external reviewers come to an initial judgment about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted or anonymized. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For example, authors may post drafts of their papers on the web, submit them to arXiv, and give talks on their research ideas.
+
+
+Rebuttal
+
+There will be a rebuttal period for authors. Authors will receive the reviews of their submissions and have a few days to prepare and submit rebuttals. These rebuttals become part of the PC discussions, but entail no specific responses. Rebuttals will be handled through EasyChair.
+
+
+Conference
+
+At least one author of each accepted paper is expected to register at the conference. For authors who cannot present their paper in person, a possibility for remote presentation will be offered.
+

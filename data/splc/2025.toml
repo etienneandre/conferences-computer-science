@@ -20,3 +20,11 @@ license = "acm"
 
 [extra]
 notes = "Also journal-first, demo papers, doctoral symposium…."
+
+[[cfp]]
+file = "cfp/SPLC-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SPLC-2025-extended.txt"
+stage = "extended"

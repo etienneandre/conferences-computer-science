@@ -25,3 +25,11 @@ award = "Best Student Paper Award."
 
 [extra]
 journal = "As for previous editions, one or more special issues are planned for extended versions of selected papers from RSSRail 2025."
+
+[[cfp]]
+file = "cfp/RSSRail-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RSSRail-2025-extended.txt"
+stage = "extended"

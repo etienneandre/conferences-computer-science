@@ -18,3 +18,15 @@ license = "pay"
 
 [extra]
 notes = "An OOPSLA/SPLASH 2022 workshop. Work in progress will not be published in the post-proceedings."
+
+[[cfp]]
+file = "cfp/FTSCS-2022.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FTSCS-2022.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FTSCS-2022-extended.txt"
+stage = "extended"

@@ -22,3 +22,11 @@ gender_balance = "mixed"
 [extra]
 colocated = "At FLoC 2026, affiliated with LICS 2026 and CAV 2026"
 notes = "Informal presentations, no formal proceedings"
+
+[[cfp]]
+file = "cfp/ACV-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ACV-2026-extended.txt"
+stage = "extended"

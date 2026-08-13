@@ -1,0 +1,36 @@
++++++++++++++++++++++++++++++++++++++++++++++
+# Call for papers: PeNGE 2025
+=============================================
+*** Deadline extended until: May 13, 2025 ***
+=============================================
+
+PENGE 2025
+Petri Net games, examples and quizzes for education, contest and fun
+
+Paris, France, June 24, 2025
+
+https://www.fernuni-hagen.de/penge/penge2025
+
+====================================================================
+
+The workshop "Petri Net games, examples and quizzes for education, contest and fun" is a satellite event of the 46th International Conference on Application and Theory of Petri Nets and Concurrency (Petri Nets 2025). It aims to attract short papers that present examples for the use of Petri nets for elegant modeling, analysis or problem solving. The examples should be comprehensible, self-contained and ideally demonstrate advantages of Petri Net techniques compared to other approaches. A particular objective of the workshop is the collection of examples that can be used for exemplary modeling or application of analysis concepts in education.
+
+The program committee invites submission of papers (4 to 8 pages). It is obligatory that each paper contains at least one nice Petri net. Papers should be submitted in electronic form (PDF) using the CEUR latex style: http://ceur-ws.org/Vol-XXX/CEURART.zip
+
+Submissions should include title, authors’ addresses and E-mail addresses. Papers must be submitted as a pdf file using EasyChair: https://easychair.org/conferences/?conf=petrinets2025.
+
+We will provide online workshop proceedings. Very good contributions can be nominated for a volume of the journal sub-line of Lecture Notes in Computer Science entitled "Transactions on Petri Nets and Other Models of Concurrency" (ToPNoC).
+
+
+Important Dates
+-----------------------------------
+May 13, 2025:    Extended deadline
+May 19, 2025:    Notification of paper acceptance
+June 2, 2025:    Final version due
+June 24, 2025:   Workshop
+
+
+Program Committee Chairs
+-----------------------------------
+Jörg Desel, Joerg.Desel@fernuni-hagen.de
+Laure Petrucci, Laure.Petrucci@lipn.univ-paris13.fr

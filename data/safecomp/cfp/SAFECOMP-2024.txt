@@ -1,0 +1,174 @@
+===========================================================
+Call for Papers - SafeComp 2024
+43rd International Conference on Computer Safety, Reliability and Security
+17-20 September 2024
+Florence, Italy
+https://www.safecomp2024.unifi.it/
+===========================================================
+
+SUBMISSION URL
+https://easychair.org/conferences/?conf=safecomp2024
+
+IMPORTANT DATES:
+Workshop proposal submission: February 4, 2024
+Abstract submission: February 4, 2024
+Full paper submission: February 11, 2024
+Notification of acceptance: April 21, 2024
+Camera-ready Submission: June 1, 2024
+Workshops: September 17, 2024
+Main conference: September 18-20, 2024
+
+ABOUT SAFECOMP
+Established in 1979 by the European Workshop on Industrial Computer Systems, Technical Committee 7 on Reliability, Safety and Security (EWICS TC7), SafeComp has contributed to the progress of the state-of-the-art in dependable application of computers in safety-related and safety-critical systems.
+SafeComp is an annual event covering the state-of-the-art, experience and new trends in the areas of safety, security and reliability of critical computer applications. SafeComp provides ample opportunity to exchange insights and experience on emerging methods, approaches, and practical solutions. It is a single-track conference allowing easy networking.
+
+TOPICS
+The conference covers all aspects related to the development, assessment, operation, and maintenance of safety-related and safety-critical computer systems. Major topics include, but are not limited to:
+
+• Distributed and real-time monitoring and control
+• Fault-tolerant and resilient hardware and software architectures
+• Fault detection and recovery mechanisms
+• Security and privacy protection mechanisms for safety applications
+• Safety guidelines and standards
+• Safety/security co-engineering and tradeoffs
+• Safety and security qualification, quantification, assurance and certification
+• Threats and vulnerability analysis
+• Risk assessment in safe and secure systems
+• Dependability analysis using simulation and experimental measurement
+• Model-based analysis, design, and assessment
+• Formal methods for verification, validation, and fault tolerance
+• Testing, verification, and validation methodologies and tools
+• Multi-concern dependability assurance and standardization
+
+Domains of application are (but not limited to):
+
+• Railways, automotive, space, avionics & process industries
+• Highly automated and autonomous systems
+• Telecommunication and networks
+• Safety-related applications of smart systems and IoT
+• Critical infrastructures, smart grids, SCADA
+• Medical devices and healthcare
+• Surveillance, defense, emergency & rescue
+• Logistics, industrial automation, off-shore technology
+• Education & training
+
+SAFECOMP 2024 KEY THEME: "Safety in a cyber-physical interconnected world"
+The seamless and pervasive interaction of the cyber and physical domains is an irrevocable trend, which poses new challenges to the validation of safety and security. In addition to the increasing architectural complexity, the range of human intervention during operation tends to decrease.
+By its key theme "safety in a cyber-physical interconnected world", SafeComp 2024 aims to raise the focus on the following topics:
+
+• Development and licensing of safety-relevant cyber-physical systems
+• Safety of the human-in-the-loop and in socio-technical systems
+• Cooperative autonomous system design and evaluation
+• Interdependence of safety, security and performance
+• Security aspects of safety-relevant applications
+
+WORKSHOPS AT SAFECOMP
+It is planned to have workshops on the day preceding the conference. Workshop proposals should be sent by email to the SafeComp 2024 Workshop Chairs (https://www.safecomp2024.unifi.it/vp-12-committees.html) including scope and contents, Programme Committee, and length (half or full day).
+
+PAPER SUBMISSION DETAILS
+The tradition of SafeComp is to act as a platform for bringing academic research and industrial needs together. Therefore, industrial contributions and real-world experience reports are explicitly invited. We solicit two types of paper submission (in both cases, up to 14 pages incl. bibliography):
+
+• Research papers address a research gap and illustrate how the contribution submitted can help improve the state-of-the-art by advancing current knowledge;
+• Practical experience reports / tool descriptions provide new insights and valuable support to practitioners.
+
+Papers exceeding the page limit will be excluded from the review process. All papers will be reviewed by at least three members of the International Programme Committee. Papers must not have been previously published or concurrently submitted elsewhere. All paper submissions must be formatted according to the LNCS templates provided by Springer. Abstracts and papers should be submitted in pdf through Easychair.
+
+CONFERENCE AND WORKSHOP PROCEEDINGS
+All accepted research papers,  practical experience reports, and tool descriptions will be published by Springer in the LNCS series (Lecture Notes on Computer Science) in the SafeComp and the SafeComp Workshop volumes.
+
+COMMITTEES
+
+EWICS TC7 Chair
+Mario Trapp (Technical University of Munich, DE)
+
+EWICS TC7 Vice-Chair
+Francesca Saglietti (University of Erlangen-Nuremberg, DE)
+
+General Chairs
+Andrea Bondavalli (University of Florence, IT)
+Andrea Ceccarelli (University of Florence, IT)
+
+Programme Co-Chairs
+Andrea Ceccarelli (University of Florence, IT)
+Mario Trapp (Technical University of Munich, DE)
+
+Workshop and Special Session Chairs
+Barbara Gallina (Mälardalen University, SE)
+Erwin Schoitsch (AIT, AT)
+Elena Troubitsyna (KTH, SE)
+
+Industrial Contacts and Publicity Chairs
+Antonio Casimiro (University of Lisbon, PT)
+Ilir Gashi (City University, UK)
+Wilfried Steiner (TTTech, AT)
+
+Publication Chair
+Friedemann Bitsch (Thales, DE)
+
+Local Organization Chairs
+Paolo Lollini (University of Florence, IT)
+Emanuele Bellini (University of Roma Tre, IT)
+
+Web Chair
+Francesco Mariotti (University of Florence, IT)
+
+Local Organizing Committee
+Muhammad Atif (University of Florence, IT)
+Francesco Mariotti (University of Florence, IT)
+Tommaso Puccetti (University of Florence, IT)
+Marzieh Kordi (University of Florence, IT)
+
+International Program Committee
+Magnus Albert (SICK AG, DE)
+Uwe Becker (Draegerwerk AG & Co KGaA, DE)
+Alessandro Biondi (Scuola Superiore Sant'Anna, IT)
+Peter G. Bishop (Adelard, UK)
+Friedemann Bitsch  (GTS Deutschland GmbH, DE)
+Andrea Bondavalli (University of Florence, IT)
+Jeroen Boydens (Katholieke Universiteit Leuven, BE)
+Simon Burton (Fraunhofer Institute for Cognitive Systems, DE)
+António Casimiro (Universidade de Lisboa, PT)
+Marsha Chechik (University of Toronto, CA)
+Peter Daniel (EWICS TC7, UK)
+Ewen Denney (NASA, US)
+Felicita Di Giandomenico (ISTI-CNR, IT)
+Wolfgang Ehrenberger (University of Applied Science, DE)
+John Favaro (Intecs, IT)
+Francesco Flammini (Linnaeus University, Sweden, SE)
+Barbara Gallina (Mälardalen University, SE)
+Janusz Gorski (Gdansk University of Technology, FETI, DSE, PL)
+Lars Grunske (Humboldt University Berlin, DE)
+Jérémie Guiochet (LAAS-CNRS, FR)
+Ibrahim Habli (University of York, UK)
+Andreas Heyl (Bosch, DE)
+Maritta Heisel (University of Duisburg-Essen, DE)
+Yan Jia (University of York, UK)
+Phil Koopman (Carnegie Mellon University, US)
+Francesca Lonetti (ISTI-CNR, IT)
+John McDermid (University of York, UK)
+Zoltan Micskei (BME - Budapest University of Technology and Economics, HU)
+Leonardo Montecchi (NTNU - Norwegian University of Science and Technology, NO)
+Ganesh Pai (KBR / NASA Ames Research Center, US)
+Philippe Palanque (ICS-IRIT, University Toulouse 3, FR)
+Yiannis Papadopoulos (University of Hull, UK)
+Peter Popov (City University, UK)
+Andrew Rae (Griffith University, AU)
+Alexander Romanovsky (Newcastle University, UK)
+Matteo Rossi (Politecnico di Milano, IT)
+Martin Rothfelder (Siemens AG, DE)
+Juan Carlos Ruiz Garcia (Universitat Politécnica de València, ES)
+John Rushby (SRI International, US)
+Francesca Saglietti (University of Erlangen-Nuremberg, DE)
+Behrooz Sangchoolie (RISE Research Institutes of Sweden, SE)
+Erwin Schoitsch (AIT Austrian Institute of Technology, AT)
+Christel Seguin (ONERA, FR)
+Evgenia Smirni (College of William and Mary, US)
+Wilfried Steiner (TTTech Computertechnik AG, AT)
+Mark-Alexander Sujan (The University of Warwick, UK)
+Kenji Taguchi (National Institute of Informatics, JP)
+Stefano Tonetta (FBK, IT)
+Martin Törngren (KTH - Royal Institute of Technology, SE)
+Elena Troubitsyna (KTH - Royal Institute of Technology, SE)
+Marcus Völp (University of Luxemburg, LU)
+Helene Waeselynck (LAAS-CNRS, FR)
+Tommaso Zoppi (University of Trento, IT)

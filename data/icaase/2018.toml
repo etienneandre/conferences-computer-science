@@ -19,3 +19,7 @@ license = "free"
 
 [extra]
 notes = "Distinguished papers from ICAASE’16 will be invited to submit a revised and extended version of their paper to a special issue of the International Journal of Critical Computer-Based Systems (IJCCBS). Every two years (?)"
+
+[[cfp]]
+file = "cfp/ICAASE-2018.txt"
+stage = "initial"

@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "Author Feedback/Rebuttal Period 4-8 March, 2019. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science. An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee."
+
+[[cfp]]
+file = "cfp/LICS-2019.txt"
+stage = "initial"

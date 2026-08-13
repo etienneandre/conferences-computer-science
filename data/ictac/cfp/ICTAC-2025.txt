@@ -1,0 +1,63 @@
+2nd Call for Papers - ICTAC 2025
+https://ictac2025.digital-hub.sh/
+International Colloquium on Theoretical Aspects of Computing
+Marrakech, Morocco, November 24th to 28th, 2025
+
+*NEW*: Keynote Speakers
+
+·         Kim Larsen (Aalborg University, Denmark)
+
+·         Joost-Pieter Katoen (RWTH Aachen, Germany)
+
+·         Antoine Girard (University Paris-Saclay, France)
+
+·         Klaus Havelund (NASA’s Jet Propulsion Laboratory, USA)
+
+About ICTAC:
+
+The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry, and government to present research and exchange ideas and experiences within theoretical aspects of computing through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.
+
+Topics of Interest:
+
+The conference concerns all aspects of theoretical computer science, including, but not limited to:
+
+    Formal languages and automata
+    Semantics of programming languages
+    Logic in computer science
+    Lambda calculus, type theory, and category theory
+    Domain-specific languages
+    Theories of concurrency and mobility
+    Theories of distributed computing
+    Models of objects and components
+    Coordination models
+    Security and privacy
+    Static analysis
+    Software verification
+    Timed, hybrid, and cyber-physical systems
+    Verification, analysis and control synthesis
+    Software testing
+    Program generation and transformation
+    Model checking and theorem-proving
+    Quantum computing
+    Trustworthy AI
+    Machine learning algorithms
+    Applications and experiences
+
+More information see CFP https://ictac2025.digital-hub.sh/call-for-papers/
+
+Publication:
+
+All accepted papers will be published in Springer's Lecture Notes in Computer Science. A special issue of selected papers in Elsevier's journal Theoretical Computer Science is under negotiation.
+
+Deadlines:
+
+    June, 14th: Abstracts
+    June, 21st: Full papers
+    August, 30th: Notification
+    September, 15th: Camera-ready papers
+
+Program Committee chairs:
+
+    Zhiming Liu, Southwest University, China
+    Adnane Saoud, University Mohammed VI Polytechnic, Morocco
+    Heike Wehrheim, University of Oldenburg, Germany

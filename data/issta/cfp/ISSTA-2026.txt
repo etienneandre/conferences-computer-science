@@ -1,0 +1,62 @@
+The 35th International Symposium on Software Testing and Analysis (ISSTA 2026).
+
+Sat 3 - Fri 9 October 2026 Oakland, California, United States
+
+https://conf.researchr.org/home/issta-2026
+
+Submission Deadline: January 29th, 2026
+
+
+The International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.
+
+## IMPORTANT DETAILS
+
+ISSTA 2026 invites three kinds of submissions: research papers (expected for majority of submissions), experience papers and replicability studies. A good Experience Paper will include lessons learned or other wisdom synthesised for the community from the reported experience. Replicability Studies shall clearly describe their purpose and value beyond the original result. Amongst other policies, paper submissions must follow the ACM Policy on Authorship [1], which includes a policy with respect to the use of generative AI tools and technologies such as ChatGPT (https://www.acm.org/publications/policies/new-acm-policy-on-authorship). Submissions undergo double-blind review and shall not reveal the authors' identity.
+
+Each submission will be reviewed by at least three members of the program committee. Submissions will be evaluated on the basis of originality, importance of contribution, soundness, evaluation, quality of presentation, appropriate comparison to related work, and verifiability/transparency of the work. There will be an opportunity for authors to respond to reviewer questions. Papers can be accepted, rejected or undergo major revisions.
+
+
+## ACM OPEN
+
+Starting 2026, all articles published by ACM will be made Open Access. This is greatly beneficial to the advancement of computer science and leads to increased usage and citation of research.
+
+* Most authors will be covered by ACM OPEN agreements by that point and will not have to pay Article Processing Charges (APC). Check if your institution participates in ACM OPEN:
+https://libraries.acm.org/acmopen/open-participants
+
+* Authors not covered by ACM OPEN agreements may have to pay APC; however, ACM is offering several automated and discretionary APC Waivers and Discounts:
+https://www.acm.org/publications/policies/policy-on-open-access-apc-waivers-and-discounts
+
+* Costs for 2026 for full papers will be $250 (US) for ACM members, $350 for non-members, paid when the camera-ready version of the accepted paper is uploaded.
+
+
+## IMPORTANT DATES
+
+* Submission Deadline: January 29, 2026, AoE
+* Author response: March 24-26, 2026, AoE
+* Initial Notification: April 16, 2026, AoE
+* Major Revision Deadline: May 21, 2026, AoE
+* Final Notification: June 25th, 2026, AoE
+
+
+## AUTHOR INSTRUCTIONS
+
+https://conf.researchr.org/track/issta-2026/issta-2026-research-papers#submission-guidelines
+
+
+## SUBMISSION SITE
+
+http://issta2026.hotcrp.com/
+
+
+## PROGRAM COMMITTEE
+
+https://conf.researchr.org/committee/issta-2026/issta-2026-research-papers-research-papers
+
+
+Sincerely,
+
+Willem Visser
+ISSTA 2026 General Chair
+
+Cindy Rubio-González & Marcel Böhme
+ISSTA 2026 Program Committee Chairs

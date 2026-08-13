@@ -18,3 +18,7 @@ license = "cc-by"
 
 [extra]
 notes = "Affiliated with FLoC 2018."
+
+[[cfp]]
+file = "cfp/HCVS-2018.txt"
+stage = "initial"

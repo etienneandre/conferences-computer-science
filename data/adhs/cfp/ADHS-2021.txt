@@ -1,0 +1,175 @@
+-------------------------------------------------------------------------------------------
+
+ADHS 2021 Second Call for Papers
+The 7th IFAC Conference on Analysis and Design of Hybrid Systems
+Brussels, Belgium, July 7-9, 2021.
+Website: https://sites.uclouvain.be/adhs21/
+
+-------------------------------------------------------------------------------------------
+
+* Invited Session Proposals due: December 16, 2020
+* Paper Submissions due: December 23, 2020
+* Author notification: mid-February, 2021
+
+The Organising Committee has the pleasure of inviting you to participate in the 7th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 21) to be held in Brussels, Belgium, July 7-9, 2021.
+
+ADHS 2021 will take place at the University Foundation, Brussels and is organized by the department of Applied Mathematics of UCLouvain. Virtual attendance will be possible, and the extent of this possibility will be adapted to the situation of the pandemia.
+The conference happens under the auspices of IFAC and is sponsored by the IFAC Technical Committee on Discrete Event and Hybrid Systems.
+
+Contributions are invited in all areas pertaining to the engineering of hybrid systems including: modelling, specification, verification, analysis, control synthesis, simulation, validation, and implementation. We solicit papers and invited session proposals describing theoretical or applied research in the area. We also welcome papers describing tools, reporting case studies or connecting the cognate fields of control theory and formal verification.
+
+Contributions are encouraged on applications of hybrid methods in various fields, such as automotive, avionics, energy and power, mobile and autonomous robotics, the process and manufacture industry, transportation and infrastructure networks, communication networks and networked control systems, cyber-physical systems, safety-critical systems, systems and synthetic biology.
+
+An interactive session with scientists from the industry will be organized. A poster session will be organized and IFAC Young Author, Best Paper, Best Repeatability and Best Poster Prizes will be awarded.
+
+The Program Chairs are planning to edit a special issue of NAHS: the authors of selected papers will be invited to contribute with significantly revised and extended versions of their manuscripts, containing new results.
+
+New this year: ADHS'21 will feature a repeatability evaluation (RE). In other words, all accepted papers which include computational artifacts will be invited to submit these for evaluation to be conducted by a RE program committee. In this way, we aim to improve the reproducibility of computational results in the papers accepted for publication. Note that it is optional to submit an RE package, i.e., availability of a RE package will not affect the final publication of the corresponding paper. Papers whose RE packages pass the repeatability evaluation will be listed online and in the final proceedings. At the same time, papers whose RE package does not pass the repeatability evaluation criteria will be treated the same as papers which do not submit RE packages.
+
+-------------------------------------------------------------------------------------------
+Author Guidelines
+
+* Regular papers: Regular papers can have a length of up to 8 pages at submission. Accepted papers are limited to 6 pages in the conference preprints and on-line proceedings. For papers describing tools, please tick the keyword "Computational tools" upon submission.
+
+* Invited session proposals: Invited sessions consist of 4 to 6 papers related to a common theme that fits within the scope of ADHS. An invited session proposal should contain a short description of the common theme as well as the list of papers in the session and their abstracts.
+The invited session organiser first has to submit the pdf file of the session proposal (without participating papers). The IFAC Conference Manuscript Management System then returns an acknowledgment that contains an alpha-numeric code for the proposed session. Subsequently, the organiser has to notify the contributing authors of their invited session code. The corresponding author of each paper then submits the paper on-line as an invited paper.
+
+* Invited session papers: Invited session papers can have a length of up to 8 pages at submission. Invited session papers go through the same review process as regular papers. Accepted papers are limited to 6 pages in the conference preprints and on-line proceedings. Submission as an invited session paper requires the invited session code, which can be obtained from the session organiser.
+
+-------------------------------------------------------------------------------------------
+Submission Instructions
+
+* The website for submission is: https://ifac.papercept.net/conferences/scripts/start.pl
+
+* All papers submitted to ADHS 21 must be written in English and formatted in the standard IFAC 2-column format, provided on the IFAC Conference Management System website.
+
+* For initial submissions, all regular and invited session papers are limited to eight (8) pages. The submission website will not permit longer papers to be uploaded.
+
+* For the final upload, all accepted and invited papers are limited to six (6) pages.
+
+* For each accepted paper, at least one of the authors should have a full registration in order to have the paper included in the preprints and the post-conference on-line proceedings at IFAC-PapersOnLine.
+
+* Author's kits with style (.cls) files for LaTeX are available from the submission website. Go to http://ifac.papercept.net and select "Support" for these files and example files, or directly go to the support page. Please do not change the formatting in any way.
+
+-------------------------------------------------------------------------------------------
+Important Dates
+
+Invited Session Proposals due: December 16, 2020
+Paper Submissions due: December 23, 2020
+Author notification: mid-February, 2021
+Final papers due: TBA
+Early registration: TBA
+Conference: July 7-9, 2021
+
+The reference timezone is Central European Summer Time.
+
+-------------------------------------------------------------------------------------------
+Invited Speakers
+
+* Paulo Tabuada (University of California, Los Angeles, USA)
+* Verena Wolf (Saarland University, Germany)
+* Claire Tomlin (University of California, Berkeley, USA)
+
+-------------------------------------------------------------------------------------------
+Committees
+
+General Chair
+* Raphaël Jungers (UCLouvain, Belgium)
+
+Vice-Chair from Industry
+* Damien Ernst (ULiège, Belgium)
+
+Program Chairs
+* Alessandro Abate (University of Oxford, UK)
+* Necmiye Ozay (University of Michigan, USA)
+
+Repeatability Chair
+* Sergiy Bogomolov (Newcastle University, UK)
+* Aditya Zutshi (Galois, Portland, USA)
+
+Award Chair
+* Maurice Heemels (Eindhoven University of Technology, The Netherlands)
+
+Program Committee
+* Erika Abraham (RWTH Aachen University)
+* Matthias Althoff (Technische Universität München)
+* Duarte Antunes (Eindhoven University of Technology)
+* Nikolaos Athanasopoulos (Queen's University Belfast)
+* Ebru Aydin Gol (Middle East Technical University)
+* Shun-ichi Azuma (Nagoya University)
+* Laurent Bako (Ecole Centrale de Lyon)
+* Ezio Bartocci (TU Wien)
+* Sergiy Bogomolov (Newcastle University)
+* Luca Bortolussi (University of Trieste)
+* Bernard Brogliato (UR Rhône-Alpes)
+* Christos G. Cassandras (Boston Univ.)
+* Patrizio Colaneri (Politecnico di Milano)
+* Samuel Coogan (Georgia Tech)
+* Alessandro D'Innocenzo (Università degli Studi di L'Aquila)
+* Jamal Daafouz (Université de Lorraine, CRAN, CNRS)
+* Thao Dang (VERIMAG)
+* Bart De Schutter (Delft University of Technology)
+* Jyotirmoy Deshmukh (University of Southern California)
+* Dimos V. Dimarogonas (KTH Royal Institute of Technology)
+* Uli Fahrenberg (Ecole Polytechnique)
+* Georgios Fainekos (Arizona State University)
+* Goran Frehse (ENSTA ParisTech, U2IS)
+* Martin Fränzle (Carl von Ossietzky Universität, Oldenburg)
+* Sicun Gao (University of California, San Diego)
+* Antoine Girard (CNRS)
+* Alessandro Giua (University of Cagliari, Italy)
+* Kim Guldstrand Larsen (Aalborg University, Denmark)
+* Sofie Haesaert (TU Eindhoven)
+* Maurice Heemels (Eindhoven University of Technology)
+* Holger Hermanns (Saarland University)
+* Joao Hespanha (University of California, Santa Barbara)
+* Laurentiu Hetel (CNRS)
+* Jianghai Hu (Purdue Univ)
+* Nils Jansen (Raadboud U.)
+* Qing-Shan Jia (Tsinghua University)
+* Karl H. Johansson (Royal Institute Of Technology)
+* Taylor T Johnson (Vanderbilt University)
+* Agung Julius (Rensselaer Polytechnic Institute)
+* Marc Jungers (CNRS - Université de Lorraine)
+* Joost-Pieter Katoen (Univ of Twente/RWTH Aachen University)
+* Françoise Lamnabhi-Lagarrigue (CNRS-EECI)
+* Fabien Lauer (Université de Lorraine)
+* Mircea Lazar (Eindhoven Univ. of Technology)
+* Daniel Liberzon (Univ. of Illinois at Urbana-Champaign)
+* Hai Lin (University of Notre Dame)
+* Jun Liu (University of Waterloo)
+* Paolo Mason (L2S CentraleSupélec, CNRS)
+* Manuel Mazo Jr (TU Delft)
+* Ian M. Mitchell (University of British Columbia)
+* Irinel Constantin Morarescu (Universite de Lorraine)
+* George J. Pappas (Univ of Pennsylvania)
+* Mihaly Petreczky (CNRS)
+* Romain Postoyan (CRAN, CNRS, Université de Lorraine)
+* Pavithra Prabhakar (Kansas State University)
+* Maria Prandini (Politecnico di Milano)
+* Christophe Prieur (CNRS)
+* Joerg Raisch (Technische Universität Berlin)
+* Spyros A. Reveliotis (Georgia Institute of Technology)
+* David Safranek (Masaryk University Brno)
+* Ricardo Sanfelice (University of California Santa Cruz)
+* Sriram Sankaranarayanan (University of Colorado)
+* Oleg Sokolsky (Univ of Pennsylvania)
+* Sadegh Soudjani (Newcastle University)
+* Paulo Tabuada (Univ of California at Los Angeles)
+* Bert Tanner (University of Delaware)
+* Andrew R. Teel (Univ. of California at Santa Barbara)
+* Ashish Tiwari (SRI International)
+* Ufuk Topcu (University of Pennsylvania)
+* Stavros Tripakis (Aalto University)
+* Jana Tumova (Royal Institute of Technology)
+* Yorai Wardi (Georgia Institute of Technology)
+* Rafal Wisniewski (Aalborg University)
+* Verena Wolf (University of Saarbrücken)
+* Xiang Yin (Shanghai Jiao Tong University)
+* Luca Zaccarian (LAAS-CNRS and University of Trento)
+* Majid Zamani (University of Colorado Boulder)
+* Naijun Zhan (Institute of Software, Chinese Academy of Science)
+* Paolo Zuliani (Newcastle University)
+
+"All publication material submitted for presentation at an IFAC-sponsored meeting (Congress, Symposium, Conference, Workshop) must be original and hence cannot be already published, nor can it be under review elsewhere. The authors take responsibility for the material that has been submitted. IFAC-sponsored conferences will abide by the highest standard of ethical behavior in the review process as explained on the Elsevier webpage (https://www.elsevier.com/authors/journal-authors/policies-and-ethics), and the authors will abide by the IFAC publication ethics guidelines (https://www.ifac-control.org/events/organizers-guide/PublicationEthicsGuidelines.pdf/view).
+Accepted papers that have been presented at an IFAC meeting will be published in the proceedings of the event using the open-access IFAC-PapersOnLine series hosted on ScienceDirect (https://sciencedirect.com/). To this end, the author(s) must grant exclusive publishing rights to IFAC under a Creative Commons license when they submit the final version of the paper. The copyright belongs to the authors, who have the right to share the paper in the same terms allowed by the end user license, and retain all patent, trademark and other intellectual property rights (including research data)."

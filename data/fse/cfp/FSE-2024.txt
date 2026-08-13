@@ -1,0 +1,372 @@
+---------------
+CALL FOR PAPERS
+---------------
+
+ACM International Conference on the Foundations of Software Engineering (FSE)
+July 15-19, 2024
+Porto de Galinhas, Brazil
+https://conf.researchr.org/home/fse-2024
+
+Registration deadline: Thursday, September 21, 2023
+Submission deadline: Thursday, September 28, 2023
+
+We invite high-quality submissions, from both industry and academia,
+describing original and unpublished results of theoretical, empirical,
+conceptual, and experimental software engineering research.
+
+Contributions should describe innovative and significant original
+research. Papers describing groundbreaking approaches to emerging
+problems are also welcome, as well as replication papers. Submissions
+that facilitate reproducibility by using available datasets or making
+the described tools and datasets publicly available are especially
+encouraged. For a list of specific topics of interest, please see the
+end of this call.
+
+NEW THIS YEAR #1: Papers accepted by the technical track of FSE 2024
+will be published in the inaugural journal issue of the Proceedings of
+the ACM on Software Engineering (PACMSE). Approval has been granted by
+ACM in late July.
+
+NEW THIS YEAR #2: The steering committee has decided that the
+conference name will be changed to ACM International Conference on the
+Foundations of Software Engineering (FSE). In this transition year, we
+may still use the old and new names interchangeably on the conference
+webpage.
+
+NEW THIS YEAR #3: Based on the coordination among FSE, ICSE, and ASE
+steering committees, the FSE conference and submission dates have been
+moved a few months early. The intention is for this schedule to remain
+stable in the years ahead and the conference and submission deadlines
+of the three large general software engineering conferences to be
+spread out throughout the year. This change however means that the
+submission deadline of FSE 2024 (late September 2023) will be before
+the days ESEC/FSE 2023 will be held (December 2023).
+
+NEW THIS YEAR #4: Submissions must follow the "ACM Policy on
+Authorship" (https://www.acm.org/publications/policies/new-acm-policy-on-authorship)
+released April 20, 2023, which contains policy regarding the use of
+Generative AI tools and technologies, such as ChatGPT. Please also
+check the ACM FAQ
+(https://www.acm.org/publications/policies/frequently-asked-questions)
+which describes in what situations generative AI tools can be used
+(with or without acknowledgement).
+
+# TRACKS
+--------
+
+This CFP refers to the Research Track of FSE. For the remaining
+tracks, please check the specific calls on the website:
+
+- Industry: https://conf.researchr.org/track/fse-2024/fse-2024-industry
+- Ideas, visions, and reflections:
+https://conf.researchr.org/track/fse-2024/fse-2024-ideas--visions-and-reflections
+- Journal First:
+https://conf.researchr.org/track/fse-2024/fse-2024-journal-first
+- Student Research Competition:
+https://conf.researchr.org/track/fse-2024/fse-2024-student-research-competition
+- Demonstrations:
+https://conf.researchr.org/track/fse-2024/fse-2024-demonstrations
+- Artifacts: https://conf.researchr.org/track/fse-2024/fse-2024-artifacts
+
+# HOW TO SUBMIT
+---------------
+
+At the time of submission, each paper should have no more than 18
+pages for all text and figures, plus 4 pages for references, using the
+following templates: Latex
+(https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip)
+or Word (Mac) (https://dl.acm.org/pb-assets/templates/ACM_Small_v5_MAC-1614009250.docx)
+or Word (Windows)
+(https://dl.acm.org/pb-assets/templates/ACM_Small_v5_Windows-1614009250.docx).
+Authors using LaTeX should use the sample-acmsmall-conf.tex file
+(found in the samples folder of the acmart package) with the acmsmall
+option. We also strongly encourage the use of the review and screen
+options as well. Papers may be submitted using numeric citations, but
+final versions of accepted papers must use the author-year format for
+citations. It is a single-column page layout. Submissions that do not
+comply with the above instructions will be desk rejected without
+review. Papers must be submitted electronically through the FSE 2024
+submission site:
+
+https://fse2024.hotcrp.com
+
+Each submission will be reviewed by at least three members of the
+program committee. The review process is that the initial output can
+be accept, reject or major revision. When the initial output of the
+three reviews is major revision, authors will have an opportunity to
+address the reviewers' requests during a 6 week major revision period.
+Such requests may include additional experiments or new analyses of
+existing results; major rewriting of algorithms and explanations;
+clarifications, better scoping, and improved motivations. The revised
+submission must be accompanied by a response letter, where the authors
+explain how they addressed each concern expressed by the reviewers.
+The same reviewers who requested major revisions will then assess
+whether the revised submission satisfies their requests adequately.
+
+Submissions will be evaluated on the basis of originality, importance
+of contribution, soundness, evaluation (if relevant), quality of
+presentation, and appropriate comparison to related work. Some papers
+may have more than three reviews, as PC chairs may solicit additional
+reviews based on factors such as reviewer expertise and strong
+disagreement between reviewers. The program committee as a whole will
+make final decisions about which submissions to accept for
+presentation at the conference.
+
+In addition to declaring the topics which are relevant for their
+submissions, authors will be asked to declare the research methods
+employed in their submissions. This will enable us to ensure reviewer
+expertise both for research methods and topics. For full definitions
+of the research methods, see the SIGSOFT Empirical Standards
+(https://acmsigsoft.github.io/EmpiricalStandards/docs/).
+
+# DOUBLE-ANONYMOUS REVIEW PROCESS
+---------------------------------
+
+In order to ensure the fairness of the reviewing process, the FSE 2024
+Research Papers Track will employ a double-anonymous review process,
+where external reviewers do not know the identity of authors, and
+authors do not know the identity of external reviewers. The papers
+submitted must not reveal the authors' identities in any way:
+
+- Authors should leave out author names and affiliations from the body
+of their submission.
+- Authors should ensure that any citation to related work by
+themselves is written in third person, that is, "the prior work of
+XYZ" as opposed to "our prior work".
+- Authors should not include URLs to author-revealing sites (tools,
+datasets). Authors are still encouraged to follow open science
+principles and submit replication packages, see more details on the
+open science policy below.
+- Authors should anonymize author-revealing company names but instead
+provide general characteristics of the organizations involved needed
+to understand the context of the paper.
+- Authors should ensure that paper acknowledgements do not reveal the
+origin of their work.
+- While authors have the right to upload preprints on ArXiV or similar
+sites, they should avoid specifying that the manuscript was submitted
+to FSE 2024.
+- During review, authors should not publicly use the submission title.
+
+The double-anonymous process used this year is "heavy", i.e., the
+paper anonymity will be maintained during all reviewing and discussion
+periods. In case of major revision, authors must therefore maintain
+anonymity in their response letter and must provide no additional
+information that could be author-revealing.
+
+To facilitate double-anonymous reviewing, we recommend the authors to
+postpone publishing their submitted work on arXiv or similar sites
+until after the notification. If the authors have uploaded to arXiv or
+similar, they should avoid specifying that the manuscript was
+submitted to FSE 2024.
+
+Authors with further questions on double-anonymous reviewing are
+encouraged to contact the program chairs by email. Papers that do not
+comply with the double-anonymous review process will be desk-rejected.
+
+# SUBMISSION POLICIES
+---------------------
+
+The authors must follow the "ACM Policy on Authorship"
+(https://www.acm.org/publications/policies/new-acm-policy-on-authorship)
+released April 20, 2023 and its accompanying FAQ
+(https://www.acm.org/publications/policies/frequently-asked-questions)
+including the following points:
+
+- "Generative AI tools and technologies, such as ChatGPT, may not be
+listed as authors of an ACM published Work. The use of generative AI
+tools and technologies to create content is permitted but must be
+fully disclosed in the Work. For example, the authors could include
+the following statement in the Acknowledgements section of the Work:
+ChatGPT was utilized to generate sections of this Work, including
+text, tables, graphs, code, data, citations, etc.). If you are
+uncertain about the need to disclose the use of a particular tool, err
+on the side of caution, and include a disclosure in the
+acknowledgements section of the Work."
+
+- "If you are using generative AI software tools to edit and improve
+the quality of your existing text in much the same way you would use a
+typing assistant like Grammarly to improve spelling, grammar,
+punctuation, clarity, engagement or to use a basic word processing
+system to correct spelling or grammar, it is not necessary to disclose
+such usage of these tools in your Work."
+
+Please read the full policy and FAQ.
+
+Papers submitted for consideration to FSE should not have been already
+published elsewhere and should not be under review or submitted for
+review elsewhere during the reviewing period. Specifically, authors
+are required to adhere to the ACM Policy and Procedures on Plagiarism
+(http://www.acm.org/publications/policies/plagiarism_policy) and the
+ACM Policy on Prior Publication and Simultaneous Submissions
+(http://www.acm.org/publications/policies/simultaneous-submissions).
+
+To prevent double submissions, the chairs might compare the
+submissions with related conferences that have overlapping review
+periods. The double submission restriction applies only to refereed
+journals and conferences, not to unrefereed forums (e.g. arXiv.org).
+To check for plagiarism issues, the chairs might use external
+plagiarism detection software.
+
+All publications are subject to the ACM Author Representations policy
+(https://www.acm.org/publications/policies/roles-and-responsibilities).
+
+By submitting your article to an ACM Publication, you are hereby
+acknowledging that you and your co-authors are subject to all ACM
+Publications Policies (https://www.acm.org/publications/policies/toc),
+including ACM's new Publications Policy on Research Involving Human
+Participants and Subjects
+(https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
+
+Alleged violations to any of the above policies will be reported to
+ACM for further investigation and may result in a full retraction of
+your paper, in addition to other potential penalties, as per the ACM
+Publications Policies.
+
+Please ensure that you and your co-authors obtain an ORCID ID, so you
+can complete the publishing process if your paper is accepted. ACM has
+been involved in ORCID from the start and they have recently made a
+commitment to collect ORCID IDs from all published authors. ACM is
+committed to improve author discoverability, ensure proper attribution
+and contribute to ongoing community efforts around name normalization;
+your ORCID ID will help in these efforts.
+
+The authors of accepted papers are invited and strongly encouraged to
+attend the conference to present their work. Attendance at the event
+is not mandatory for publication. Authors also have the option of not
+presenting their work at the conference, in which case they do not
+need to register.
+
+# IMPORTANT DATES
+-----------------
+
+All dates are 23:59:59 AoE (UTC-12h)
+
+- Paper registration: Thursday, September 21, 2023 (to register a
+paper, paper title, abstract, author list, and some additional
+metadata are required; title and abstract must contain sufficient
+information for effective bidding; registrations containing empty or
+generic title and abstract may be dropped)
+- Full paper submission: Thursday, September 28, 2023
+- Author response: December 11-13, 2023 (3-day period)
+- Initial notification: Tuesday, January 23, 2024 (long discussion
+period due to year-end holidays)
+- Revised manuscript submissions (major revisions only): Tuesday, March 5, 2024
+- Final notification for major revisions: Tuesday, April 16, 2024
+- Camera ready: Wednesday, May 14, 2024
+
+# OPEN SCIENCE POLICY
+---------------------
+
+The research track of FSE has introduced an open science policy.
+Openness in science is key to fostering scientific progress via
+transparency, reproducibility, and replicability. The steering
+principle is that all research results should be accessible to the
+public, if possible, and that empirical studies should be
+reproducible. In particular, we actively support the adoption of open
+data and open source principles and encourage all contributing authors
+to disclose (anonymized and curated) data to increase reproducibility
+and replicability.
+
+Upon submission to the research track, authors are asked to make a
+replication package available to the program committee (via upload of
+supplemental material or a link to a private or public repository) or
+to comment on why this is not possible or desirable. Furthermore,
+authors are asked to indicate whether they intend to make their data
+publicly available upon acceptance. We ask authors to provide a
+supporting statement on the availability of a replication package (or
+lack thereof) in their submitted papers in a section named Data
+Availability after the Conclusion section. Be careful that such
+statements continue to maintain author anonymity. For more details,
+see the FSE open science policy
+(https://conf.researchr.org/track/fse-2024/fse-2024-open-science-policy).
+
+Authors of accepted papers will be given an opportunity (and
+encouragement) to submit their data and tools to the separate FSE'24
+artifact evaluation committee.
+
+# TOPICS OF INTEREST
+--------------------
+
+Topics of interest include, but are not limited to:
+
+- Artificial intelligence and machine learning for software engineering
+- Autonomic computing
+- Debugging and fault localization
+- Dependability, safety, and reliability
+- Distributed and collaborative software engineering
+- Embedded software, safety-critical systems, and cyber-physical systems
+- Empirical software engineering
+- Human and social aspects of software engineering
+- Human-computer interaction
+- Mining software repositories
+- Mobile development
+- Model checking
+- Model-driven engineering
+- Parallel, distributed, and concurrent systems
+- Performance engineering
+- Program analysis
+- Program comprehension
+- Program repair
+- Program synthesis
+- Programming languages
+- Recommendation systems
+- Requirements engineering
+- Search-based software engineering
+- Services, components, and cloud
+- Software architectures
+- Software engineering education
+- Software engineering for machine learning and artificial intelligence
+- Software evolution
+- Software processes
+- Software security
+- Software testing
+- Software traceability
+- Symbolic execution
+- Tools and environments
+
+# ORGANIZING COMMITTEE
+----------------------
+
+- Marcelo d'Amorim (General Chair), North Carolina State University
+- Leopoldo Teixeira (Conference and Local Organization Chair), Federal
+University of Pernambuco
+- David Lo (Program Co-Chair), Singapore Management University
+- Lin Tan (Program Co-Chair), Purdue University
+- Breno Miranda (Finance Chair), Federal University of Pernambuco
+- Chris Brown (Web Co-Chair), Virginia Tech
+- John-Paul Ore (Web Co-Chair), North Carolina State University
+- Dalal Alrajeh (Artifact Evaluation Co-Chair), Imperial College London
+- Maria Teresa Baldassarre (Doctoral Symposium Co-Chair), University of Bari
+- Antonia Bertolino (Journal First Co-Chair), National Research Council, Italy
+- Jan Bosch (Industry Co-Chair), Chalmers University of Technology
+- Joanna C. S. Santos (Tutorials Co-Chair), University of Notre Dame
+- Satish Chandra (Industry Mentoring Co-Chair), Meta Platforms
+- Marsha Chechik (New Ideas and Visions Co-Chair), University of Toronto
+- Jürgen Cito (Tutorials Co-Chair), TU Wien
+- Tayana Conte (Diversity and Inclusion Co-Chair), Universidade
+Federal do Amazonas
+- Cristina David (Workshops Co-Chair), University of Bristol
+- Alessandra Gorla (Demonstration Co-Chair), IMDEA Software Institute
+- Jin L.C. Guo (Demonstration Co-Chair), McGill University
+- Dan Hao (New Faculty Mentoring Co-Chair), Peking University
+- Rashina Hoda (Diversity and Inclusion Co-Chair), Monash University
+- Sandeep Kuttal (Artifact Evaluation Co-Chair), North Carolina State University
+- Wing Lam (Doctoral Symposium Co-Chair), George Mason University
+- Qingwei Lin (New Ideas and Visions Co-Chair), Microsoft
+- Yang Liu (Student Research Competition Co-Chair), Nanyang
+Technological University
+- Tim Menzies (Journal First Co-Chair), North Carolina State University
+- Leonardo Murta (Social Media Co-Chair), Universidade Federal Fluminense
+- Liliana Pasquale (Student Volunteer Co-Chair), University College
+Dublin & Lero
+- Márcio Ribeiro (Sponsorship Co-Chair), Federal University of Alagoas
+- Julia Rubin (Student Volunteer Co-Chair), University of British Columbia
+- Bonita Sharif (Demonstration Co-Chair), University of Nebraska-Lincoln
+- Andrea Stocco (Social Media Co-Chair), Technical University of
+Munich & fortiss
+- Kathryn Stolee (New Faculty Mentoring Co-Chair), North Carolina
+State University
+- Christoph Treude (Sponsorship Co-Chair), University of Melbourne
+- Eran Yahav (Industry Mentoring Co-Chair), Technion
+- Tianyi Zhang (Student Research Competition Co-Chair), Purdue University
+- Roshanak Zilouchian Moghaddam (Industry Co-Chair), Microsoft

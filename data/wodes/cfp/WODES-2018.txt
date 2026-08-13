@@ -1,0 +1,90 @@
+CONFERENCE SCOPE
+The interdisciplinary field of Discrete Event Systems (DES) combines different formalisms, methodologies and tools from control, computer science
+and operations research. The research activity in this field is driven by the needs of many different applications domains: manufacturing, process control,
+supervisory systems, software engineering, transportation, etc.
+
+The 14th Workshop on Discrete Event Systems (WODES’18) aims at providing researchers from different fields
+(control theoreticians and control engineers, software engineers and computer scientists, operations research specialists) with an opportunity
+to exchange information and new ideas, and to discuss new developments in the field of DES theory and applications.
+The workshop will cover all topics in DES theory and applications, including (but not limited to) the following:
+
+* Formalisms and modeling methodologies: Petri nets, automata, state-charts, process algebras, max-plus algebra, queuing network
+* Control of discrete-event systems with emphasis on supervisory control and on real time control;
+* Performance evaluation, optimization and scheduling;
+* Diagnosis, fault detection, test, identification;
+* Discrete approaches for hybrid systems;
+* Event-driven methods in systems and control;
+* Applications including manufacturing systems, transportation systems, power production, distributed systems, software engineering, home automation, workflow, telecommunication systems, biological systems;
+* Automation methods and software tools enabling efficient handling of industrial-sized systems.
+
+Conference web-site: http://wodes2018.unisa.it/
+
+SPONSOR
+Sponsored by IFAC TC on Discrete Event and Hybrid Systems.
+Co-Sponsored by IFAC TC Computers for Control, TC on Manufacturing Plant Control and TC on Fault Detection,Supervision & Safety of Techn.Processes-SAFEPROCESS
+Co-Sponsored by IEEE Control System Society, IEEE Italy Section, Italian Chapter IEEE Robotics and Automation, Italian Chapter IEEE Control Systems
+
+VENUE
+WODES 2018 will be held at Towers Hotel Stabiae Sorrento Coast, a modern four-star hotel located
+between the magnificent Gulf of Naples and the famous rocks of the Sorrento Peninsula. Its strategic location
+places the hotel in the center of the most enchanting touristic itineraries of the Campania region
+including the Amalfi Coast, Sorrento, Capri, Pompeii and Herculaneum.
+
+Hotel web-site: https://www.towershotelsorrento.com/en/
+
+IMPORTANT DATES
+Special Session Proposals - November 15, 2017
+Paper submission - December 4, 2017
+Acceptance Notification - February 28, 2018
+Final Submission - March 15, 2018
+
+ORGANIZING COMMITEE MEMBERS
+Francesco Basile (General Chair), University of Salerno, Italy
+Chris Hadjicostis, University of Cyprus, Cyprus
+Jan Komenda, Czech Ac. of Sciences, Czech Rep
+
+WODES STEERING COMMITEE
+Francesco Basile, Italy
+Xiren Cao, China
+Christos G. Cassandras, USA
+Stephane Lafortune, USA
+Maria Pia Fanti, Italy
+Jean-Jacques Lesage, France
+Jörg Raisch  Germany (Chair)
+Antonio Ramírez Treviño, Mexico
+Zhiwu Li, China
+
+NATIONAL PROGRAM COMMITEE
+Francesco Basile (NOC Chair), University of Salerno, Italy
+Pasquale Chiacchio, University of Salerno, Italy
+Alessandro Marino, University of Salerno, Italy
+Enrico Ferrentino, University of Salerno, Italy
+Emiliano di Marino, University of Salerno, Italy
+
+EDITOR
+Gianmaria De Tommasi,  University of Napoli, Italy
+
+Paper Submission and Publication
+Prospective participants are invited to electronically submit regular papers following the instructions on the Submission page.
+The presented papers will be further screened for possible publications in international journals.
+Submission site: http://ifac.papercept.net/conferences/scripts/start.pl following the link "Submit a contribution to WODES 2018".
+
+Special Session
+The format of special sessions consists of 4 to 6 presentations and allows a panel discussion led by the session chair(s),
+to motivate the exchange of opinions among presenters and participants. Special sessions papers will follow the reviewing process of regular papers.
+
+Demonstrator paper
+Among the innovative features of the 14th Workshop on Discrete Event Systems (WODES2018), contributions are most welcome
+to the special demonstrator paper category associated to an exhibition of demonstrators.
+The goal of these papers’ category is to promote research or educational-oriented devices, innovative prototypes and attractive transfer
+of technologies towards high-tech enterprise.
+
+Demonstrator papers are regular papers that will be selected on the same high peer-review standards as other regular papers and are intended
+to promote the excellence of colleagues involved in practical implementation of state-of-the-art control concepts in Discrete Event Systems.
+The exhibition will highlight the future applicative trends in the DES area.
+Demonstrator papers will be presented either at interactive sessions (for video or software demonstrators) or during one day within
+the demonstrators’ exhibition. Interactive sessions will take place during 2 hour session slots.
+
+Note: Please accept our apologies if you receive multiple copies of this call for papers.
+
+IFAC Copyright Conditions: https://www.ifac-control.org/publications/copyright-conditions

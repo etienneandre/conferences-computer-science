@@ -1,0 +1,121 @@
+December 18-20, 2023 at IIIT Hyderabad, India
+Website: https://www.fsttcs.org.in/2023/
+
+FSTTCS 2023 is the 43rd conference on Foundations of Software Technology and Theoretical Computer Science. It is organised by IARCS, the Indian Association for Research in Computing Science, in association with ACM India. It is a forum for presenting original results in foundational aspects of Computer Science and Software Technology.
+
+
+IMPORTANT DATES (all dates are AoE)
+
+Abstract Submission:    July 12, 2023
+
+Paper Submission:        July 19, 2023
+
+Notification:                 September 22, 2023
+
+Camera Ready:            October 5, 2023
+
+Conference:                 December 18-20, 2023
+
+Workshops:                  TBA
+
+
+PAPER SUBMISSION
+
+Submissions must be in electronic form via EasyChair using the LIPIcs LaTeX style file available here. Submissions must not exceed 15 pages (excluding bibliography), but may include a clearly marked appendix containing technical details. The appendix will be read only at the discretion of the program committee. Simultaneous submissions to journals or other conferences with published proceedings are disallowed.
+
+Accepted papers will be published as proceedings of the conference in the ​Leibniz International Proceedings in Informatics (LIPIcs)​ as a free, open, electronic archive with access to all. Authors will retain full rights over their work. The accepted papers will be published under a ​CC-BY license​.
+
+For an accepted paper to be included in the proceedings, one of the authors must commit to presenting the paper in person at the conference.
+
+
+TOPICS
+Track A
+
+    Algebraic Complexity
+    Algorithms and Data Structures
+    Algorithmic Graph Theory and Combinatorics
+    Approximation Algorithms
+    Combinatorial Optimization
+    Communication Complexity
+    Computational Biology
+    Computational Geometry
+    Computational Learning Theory
+    Cryptography and Security
+    Data Streaming and Sublinear algorithms
+    Economics and Computation
+    Parallel, Distributed and Online Algorithms
+    Parameterized Complexity
+    Proof Complexity
+    Quantum Computing
+    Randomness in Computing
+    Theoretical Aspects of Mobile and High-Performance Computing
+
+Track B
+
+    Automata, Games and Formal Languages
+    Logic in Computer Science
+    Modal and Temporal Logics
+    Models of Concurrent, Distributed and Mobile Systems
+    Models of Timed, Reactive, Hybrid and Stochastic and Quantum Systems
+    Model Theory
+    Principles and Semantics of Programming Languages
+    Program Analysis and Transformation
+    Security protocols
+    Specification, Verification and Synthesis
+    Theorem Proving and Decision Procedures
+
+
+PROGRAM COMMITTEE
+Track A
+
+    Siddharth Barman (The Indian Institute of Science, Bengaluru, India)
+    Arnab Bhattacharyya (National University of Singapore, Singapore)
+    Parinya Chalermsook (Aalto University, Finland)
+    Sivakanth Gopi (Microsoft Research Redmond, USA)
+    Karthik C.S. (Rutgers University, USA)
+    Venkata Koppula (IIT Delhi, India)
+    Rucha Kulkarni (University of Illinois, Urbana-Champaign, USA)
+    Mrinal Kumar (TIFR, Mumbai, India)
+    Paloma Lima (IT University of Copenhagen, Denmark)
+    Meena Mahajan (The Institute of Mathematical Sciences, Chennai, India)
+    Nikhil Mande (University of Liverpool, UK)
+    Neeldhara Misra (IIT Gandhinagar, India)
+    Sagnik Mukhopadhyay (University of Sheffield, UK)
+    Meghana Nasre (IIT Madras, India)
+    Noga Ron-Zewi (University of Haifa, Israel)
+    Chris Schwiegelshohn (University of Aarhus, Denmark)
+    Srikanth Srinivasan (University of Aarhus, Denmark) – Track A chair
+
+Track B
+
+    Aiswarya C. (Chennai Mathematical Institute, India)
+    Guy Avni (University of Haifa, Israel)
+    Francesco Belardinelli (Imperial College, UK)
+    Dietmar Berwanger (CNRS, LMF, France)
+    Patricia Bouyer (CNRS, LMF France) – Track B chair
+    Arnaud Carayol (Université Gustave Eiffel, LIGM, France)
+    Supratik Chakraborty (IIT Bombay, India)
+    Lorenzo Clemente (University of Warsaw, Poland)
+    Ugo Dal Lago (Università di Bologna, Italy)
+    P. Madhusudan (University of Illinois, Urbana-Champaign, USA)
+    Pavithra Prabhakar (Kansas State University, USA)
+    Prakash Saivasan (The Institute of Mathematical Science, Chennai, India)
+    Abhisekh Sankaran (Tata Consultancy Services Research, Pune, India)
+    B. Srivathsan (Chennai Mathematical Institute, India)
+    Nathalie Sznajder (Sorbonne Université, LIP6, France)
+    Tony Tan (National Taiwan University)
+
+
+STEERING COMMITTEE
+
+    Paul Gastin (LSV, ENS Paris-Saclay)
+
+    Amit Kumar (Indian Institute of Technology, Delhi)
+
+    S Krishna (Indian Institute of Technology, Bombay)
+
+    G Ramalingam (Microsoft Research, Bangalore)
+
+    Venkatesh Raman (The Institute of Mathematical Sciences, Chennai)
+
+    Kavitha Telikepalli (Tata Institute of Fundamental Research, Mumbai)

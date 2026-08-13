@@ -27,3 +27,7 @@ award = "Helena Rasiowa Award for the best student paper."
 accepted = 43
 submitted = 115
 # TODO: verify — extracted from the cross-year acceptance string.
+
+[[cfp]]
+file = "cfp/CSL-2026.txt"
+stage = "initial"

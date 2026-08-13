@@ -26,3 +26,11 @@ award = "Best paper award."
 
 [extra]
 journal = "A special issue of the Formal Aspects of Computing journal is planned for extended versions of selected papers from iFM 2025."
+
+[[cfp]]
+file = "cfp/iFM-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/iFM-2025-extended.txt"
+stage = "extended"

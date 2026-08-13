@@ -1,0 +1,302 @@
+SUBJECT: ACM/SPEC ICPE 2018: Call for Contributions
+
+
+
+------------------------------------------------------------------------
+                          Call for Contributions
+------------------------------------------------------------------------
+                                ICPE 2018
+    9th ACM/SPEC International Conference on Performance Engineering
+
+            Sponsored by ACM SIGMETRICS, SIGSOFT, and SPEC RG
+
+                            Berlin, Germany
+                           April 9-13, 2018
+
+                     Web: https://icpe2018.spec.org/
+                 Twitter: https://twitter.com/ICPEconf/
+
+------------------------------------------------------------------------
+
+
+IMPORTANT DATES
+
+ Research and industrial/experience abstracts: [EXTENDED] Oct 25, 2017
+ Research and industrial/experience papers:    [EXTENDED] Oct 25, 2017
+ Research and industrial/experience paper notification:    Dec 8, 2017
+
+ Artifact registration: Dec 15, 2017
+ Artifact submission:   Dec 22, 2017
+ Artifact notification: Feb 07, 2018
+
+ Work-in-progress/vision papers: Jan 10, 2018
+ Work-in-progress/vision paper notification: Feb 8, 2018
+
+ Poster/demo submission:   Jan 03, 2018
+ Poster/demo notification: Jan 26, 2018
+
+ Workshop Proposals submission:   PASSED
+ Workshop Proposals Notification: PASSED
+
+ Tutorial proposals submission:   Oct 18, 2017
+ Tutorial proposals notification: Nov 18, 2017
+
+Dates for doctoral symposium will be announced (see also https://icpe2018.spec.org/important-dates/).
+
+------------------------------------------------------------------------
+
+SCOPE AND TOPICS
+
+The goal of the International Conference on Performance Engineering
+(ICPE) is to integrate theory and practice in the field of performance
+engineering by providing a forum for sharing ideas and experiences
+between industry and academia. Nowadays, complex systems of all types,
+like Web-based systems, data centers and cloud infrastructures, social
+networks, peer-to-peer, mobile and wireless systems, cyber-physical
+systems, the Internet of Things, real-time and embedded systems, have
+increasingly distributed and dynamic system architectures that provide
+high flexibility, however, also increase the complexity of managing
+end-to-end application performance.
+
+ICPE brings together researchers and industry practitioners to share and
+present their experiences, discuss challenges, and report
+state-of-the-art and in-progress research on performance engineering of
+software and systems, including performance measurement, modeling,
+benchmark design, and run-time performance management. The focus is both
+on classical metrics such as response time, throughput, resource
+utilization, and (energy) efficiency, as well as on the relationship of
+such metrics to other system properties including but not limited to
+scalability, elasticity, availability, reliability, and security.
+
+This year's main theme is “continuous performance assurance in agile
+delivery”.
+
+Topics of interest include, but are not limited to:
+
+Performance modeling of software
+* Languages and ontologies
+* Methods and tools
+* Relationship/integration/tradeoffs with other QoS attributes
+* Analytical, simulation and statistical modeling methodologies
+* Model validation and calibration techniques
+* Automatic model extraction
+* Performance modeling and analysis tools
+
+Performance and software development processes/paradigms
+* Software performance patterns and anti-patterns
+* Software/performance tool interoperability (models and data
+  interchange formats)
+* Performance-oriented design, implementation and configuration
+  management
+* Software Performance Engineering and Model-Driven Development
+* Gathering, interpreting and exploiting software performance
+  annotations and data
+* System sizing and capacity planning techniques
+* (Model-driven) Performance requirements engineering
+* Relationship between performance and architecture
+* Collaboration of development and operation (DevOps) for performance
+* Performance and agile methods
+* Performance in Service-Oriented Architectures (SOA)
+* Performance of microservice architectures and containers
+
+Performance measurement, monitoring and analysis
+* Performance measurement and monitoring techniques
+* Analysis of measured application performance data
+* Application tracing and profiling
+* Workload characterization techniques
+* Experimental design
+* Tools for performance testing, measurement, profiling and tuning
+
+Benchmarking
+* Performance metrics and benchmark suites
+* Benchmarking methodologies
+* Development of parameterizable, flexible benchmarks
+* Benchmark workloads and scenarios
+* Use of benchmarks in industry and academia
+
+Run-time performance management
+* Use of models at run-time
+* Online performance prediction
+* Autonomic resource management
+* Utility-based optimization
+* Capacity management
+
+Power and performance, energy efficiency
+* Power consumption models and management techniques
+* Tradeoffs between performance and energy efficiency
+* Performance-driven resource and power management
+
+Performance modeling and evaluation in different environments and
+application domains
+* Web-based systems, e-business, Web services
+* Big data systems, deep-learning systems, and other data analytics
+  systems
+* Internet of Things
+* Social networks
+* Cyber-physical systems
+* Industrial Internet (Industry 4.0)
+* Virtualization and cloud computing
+* Autonomous/adaptive systems
+* Transaction-oriented systems
+* Communication networks
+* Parallel and distributed systems
+* Embedded systems
+* Multi-core systems
+* Cluster and grid computing environments
+* High performance computing
+* Event-based systems
+* Real-time and multimedia systems
+* Low-latency systems
+* Peer-to-peer, mobile and wireless systems
+
+All other topics related to performance of software and systems.
+
+------------------------------------------------------------------------
+
+SUBMISSION GUIDELINES
+
+Authors are invited to submit original, unpublished papers that are not
+being considered in another forum. A variety of contribution styles for
+papers is solicited including: basic and applied research papers for
+novel scientific insights, industrial and experience papers reporting on
+applying performance engineering or benchmarks in practice, and
+work-in-progress/vision papers for ongoing innovative work. Different
+acceptance criteria apply based on the expected content of the
+individual contribution types.
+
+Authors will be requested to self-classify their papers according to
+the provided topic areas when submitting their papers.
+
+Submissions to all tracks need to be uploaded to ICPE's submission
+system and conform to the ACM submission format. For detailed submission
+instructions, please visit: https://icpe2018.spec.org/submissions.html.
+
+At least one author of each accepted paper is required to register at
+the full rate, attend the conference and present the paper. Presented
+papers will be published in the ICPE 2018 conference proceedings that
+will be published by ACM and included in the ACM Digital Library.
+
+Authors of accepted research papers are invited to submit an artifact to
+the ACM/SPEC ICPE 2018 Artifact Track.
+
+The highest quality papers, judged by multiple relevant factors, will be
+recognized with an award. Authors of selected papers will be invited to
+submit an extended version of their work to a journal.
+
+AUTHORS TAKE NOTE: The official publication date is the date the
+proceedings are made available in the ACM Digital Library. This date may
+be up to two weeks prior to the first day of your conference. The
+official publication date affects the deadline for any patent filings
+related to published work. (For those rare conferences whose proceedings
+are published in the ACM Digital Library after the conference is over,
+the official publication date remains the first day of the conference.)
+
+------------------------------------------------------------------------
+
+PROGRAM COMMITTEE (RESEARCH PAPERS)
+
+J. Nelson Amaral, University of Alberta, Canada
+Varsha Apte, IIT Bombay, India
+Alberto Avritzer, independent, USA
+Steffen Becker, University of Stuttgart, Germany
+Umesh Bellur, IIT Bombay, India
+Cor-Paul Bezemer, Queen’s University, Canada
+Andre B. Bondi, Software Performance and Scalability Consulting LLC, USA
+Giuliano Casale, Imperial College London, UK
+Lucy Cherkasova, HyTrust, USA
+Vittorio Cortellessa, Universita' dell'Aquila, Italy
+Vittoria de Nitto Personè, Università di Roma Tor Vergata, Italy
+Tadashi Dohi, Hiroshima University, Japan
+Wilhelm Hasselbring, Kiel University, Germany
+Evangelia Kalyvianaki, City University London, UK
+Samuel Kounev, University of Wuerzburg, Germany
+Anne Koziolek, Karlsruhe Institute of Technology, Germany
+Patrick Lee, The Chinese University of Hong Kong, Hong Kong
+Marin Litoiu, York University, Canada
+Catalina M. Lladó, Universitat Illes Balears, Spain
+Philipp Leitner, University of Zurich, Switzerland
+Paulo R. M. Maciel, Federal University of Pernambuco, Brazil
+Martina Maggio, Lund University, Sweden
+Andrea Marin, University of Venice, Italy
+Daniel Menasce, George Mason University, USA
+José Merseguer, Universidad de Zaragoza, Spain
+Ningfang Mi, Northeastern University, USA
+Raffaela Mirandola, Politecnico di Milano, Italy
+Juan F. Perez, Universidad del Rosario, Colombia
+Dorina Petriu, Carleton University, Canada
+Alma Riska, Network Appliances, USA
+Evgenia Smirni, College of William and Mary, USA
+Nigel Thomas, Newcastle University, UK
+Mirco Tribastone, IMT Institute for Advanced Studies, Italy
+Catia Trubiani, Gran Sasso Science Institute, Italy
+Petr Tuma, Charles University, Czech Republic
+Ana Lucia Varbanescu, University of Amsterdam, the Netherlands
+Enrico Vicario, University of Florence, Italy
+Murray Woodside, Carleton University, Canada
+Huaming Wu, Tianjin University, China
+Feng Yan, University of Nevada-Reno, USA
+Xiaoyun Zhu, Futurewei Technologies Inc., USA
+
+
+PROGRAM COMMITTEE (INDUSTRY/EXPERIENCE PAPERS)
+
+Klaus-Dieter Lange, HPE, USA
+Meikel Poess, Oracle, USA
+Tilmann Rabl, TU Berlin, Germany
+Matthias Scholze, QMethods, USA
+Rekha Singhal, TCS, India
+Cloyce Spradling, Oracle, USA
+Alexander Wert, NovaTec, Germany
+Boris Zibitsker, BEZNext, USA
+
+------------------------------------------------------------------------
+
+ORGANIZING COMMITTEE
+
+General Chairs
+* Will Knottenbelt, Imperial College, UK
+* Katinka Wolter, FU Berlin, Germany
+
+Research Program Chairs
+* André van Hoorn, University of Stuttgart, Germany
+* Manoj Nambiar, Tata Consultancy Services, India
+
+Industry Program Chair
+* Heiko Koziolek, ABB, Germany
+
+Artifact Evaluation Chairs
+* Wilhelm Hasselbring, Kiel University, Germany
+* Petr Tuma, Charles University, Czech Republic
+
+Tutorials Chairs
+* Alma Dimnaku (Riska), Network Appliances, USA
+* Andrea Marin, University of Venice, Italy
+
+Workshops Chairs
+* Eva Kalyvianaki, City University London, UK
+* Yao-Min Chen, Oracle, USA
+
+Posters and Demos Chair
+* Marco Paolieri, University of Southern California, USA
+
+Awards Chairs
+* Lydia Chen, IBM Zurich, Switzerland
+* John Murphy, UC Dublin, Ireland
+
+Publicity Chairs
+* Juan F. Perez, Universidad del Rosario, Colombia
+* Huaming Wu, Tianjin University, China
+
+Finance Chair
+* Matt Forshaw, Newcastle University, UK
+
+Proceedings Chair
+* Vladimir Stankovic, City University London, UK
+
+Registration Chair
+* Zhihao Shang, FU Berlin, Germany
+
+Web Site Chair
+* Thomas F. Düllmann, University of Stuttgart, Germany
+
+

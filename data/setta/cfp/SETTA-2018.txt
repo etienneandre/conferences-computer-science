@@ -1,0 +1,80 @@
+
+
+********************************************************************************
+CALL FOR PAPERS: SETTA 2018
+Symposium on Dependable Software Engineering:
+                                Theories, Tools and Applications
+Beijing, China, Sep. 4-6, 2018
+(Co-Located with CONCUR, FORMATS, and QEST as Part of CONFESTA)
+********************************************************************************
+SETTA aims to bring together international researchers and practitioners in the field of software technology. Its focus is on formal methods and advanced software technologies, especially for engineering complex, large-scale artifacts like cyber-physical systems, networks of things, enterprise systems, or cloud-based services. Contributions relating to formal methods or integrating them with software engineering, as well as papers advancing scalability or widening the scope of rigorous methods to new design goals are especially welcome. Authors are invited to submit papers on original research, industrial applications, or position papers proposing challenges in fundamental research and technology. The latter two types of submissions are expected to contribute to the development of formal methods either by substantiating the advantages of integrating formal methods into the development cycle or through delineating need for research by demonstrating weaknesses of existing technologies, especially when addressing new application domains. Submissions can take the form of either regular or short papers. Short papers can discuss ongoing research at an early stage, including PhD projects. Papers should be written in English. Regular Papers should not exceed 16 pages and Short Papers should not exceed 6 pages in LNCS format.
+Topics of interest include, but are not limited to:
+* Requirements specification and analysis
+* Formalisms for modeling, design and implementation
+* Model checking, theorem proving, and decision procedures
+* Scalable approaches to formal system analysis
+* Formal approaches to simulation and testing
+* Integration of formal methods into software engineering practice
+* Contract-based engineering of components, systems, and systems of systems
+* Formal and engineering aspects of software evolution and maintenance
+* Parallel and multicore programming
+* Embedded, real-time, hybrid, and cyber-physical systems
+* Mixed-critical applications and systems
+* Formal aspects of service-oriented and cloud computing
+* Safety, reliability, robustness, and fault-tolerance
+* Dependability of smart software and systems
+* Empirical analysis techniques and integration with formal methods
+* Applications and industrial experience reports
+* Tool integration
+IMPORTANT DATES
+* Abstract submission:March 23, 2018(AoE)
+* Paper submission:March 30, 2018(AoE)
+* Author notification:May 18, 2018(AoE)
+* Camera-ready version:June 8, 2018(AoE)
+* Symposium date:September 4-6, 2018
+KEYNOTES
+* Moshe VARDI:Rice University, USA(Joint speaker for CONFESTA 2018)
+* Tao XIE:University of Illinois Urbana-Champaign, USA
+* Hongseok YANG:KAIST, Korea
+General Chair
+* Chaochen ZHOU:Inst. of Software, CAS, China
+PROGRAM Co-chairs
+* Xinyu FENG:USTC, China
+* Markus MÜLLER-OLM:University of Münster, Germany
+* Zijiang YANG:Western Michigan University, USA
+PROGRAM COMMITTEE
+* Farhad ARBIB:CWI Amsterdam, Netherlands
+* Lei BU:Nanjing University, China
+* Michael BUTLER:University of Southampton, UK
+* Yan CAI:Institute of Software, CAS, China
+* Taolue CHEN:Birkbeck, University of London, UK
+* Yuxin DENG :East China Normal University, China
+* Yuan FENG:University of Technology Sydney, Australia
+* Ernst Moritz HAHN:Institute of Software, CAS, China
+* Dan HAO:Peking University, China
+* Maritta HEISEL:University Duisburg-Essen, Germany
+* Raymond HU:Imperial College London, UK
+* He JIANG:Dalian Univerisyt of Technology, China
+* Yu JIANG:Tsinghua University, China
+* Einar Broch JOHNSEN:University of Oslo, Norway
+* Guoqiang LI:Shanghai Jiao Tong University, China
+* Ting LIU:Xi'an Jiaotong University, China
+* Yang LIU:Nanyang Technological University, Singapore
+* Tongping LIU:University of Texas at San Antonio, USA
+* Xiapu LUO:Hong Kong Polytechnic University, Hong Kong
+* Stephan MERZ:INRIA Nancy and LORIA, France
+* Jun PANG:University of Luxembourg, Luxembourg
+* Davide SANGIORGI:University of Bologna, Italy
+* Oleg SOKOLSKY:University of Pennsylvania, USA
+* Fu SONG:ShanghaiTech University, China
+* Zhendong SU:University of California, Davis, USA
+* Jun SUN:Singapore University of Technology and Design, Singapore
+* Walid Mohamed TAHA:Halmstad University, Sweden
+* Sofiene TAHAR:Concordia University, Canada
+* Cong TIAN:Xidian Univeristy, China
+* Xin XIA:Monash University, Australia
+* Ji WANG:NUDT, China
+* Bow-Yaw WANG:Academia Sinica, Taiwan
+* Chao WANG:University of Southern California, USA
+* Heike WEHRHEIM:University of Paderborn, Germany
+* Shin YOO:KAIST, Korea

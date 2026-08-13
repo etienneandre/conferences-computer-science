@@ -1,0 +1,190 @@
+[ The Types Forum (announcements only),
+    http://lists.seas.upenn.edu/mailman/listinfo/types-announce ]
+
+======================================================================
+    Updated information on: invited speakers, affiliated workshops
+======================================================================
+                           SECOND CALL FOR PAPERS
+                    Eleventh International Conference on
+         Formal Structures for Computation and Deduction (FSCD 2026)
+                       July 20-23, Lisbon, Portugal
+                     https://fscd2026.github.io/
+                     Part of the Ninth Federated Logic Conference (FLoC 2026)
+
+
+IMPORTANT DATES
+---------------
+All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered.
+
+       Abstract:          January 23, 2026
+       Submission:       January 30, 2026
+       Author Response: March 23-27, 2026
+       Notification:     April 16, 2026
+       Final version:     April 30, 2026
+
+
+INVITED SPEAKERS
+----------------
+Andrej Bauer           University of Ljubljana (FSCD Invited Speaker)
+Laura Kovács           Vienna University of Technology - TU Wien (FSCD Invited Speaker)
+
+Alessandra Russo       Imperial College London (FLoC Keynote Speaker)
+Giuseppe De Giacomo    University of Oxford (FLoC Plenary Speaker)
+
+
+AFFILIATED WORKSHOPS
+--------------------
+IFIP-WG1.6: Annual Meeting of the IFIP Working Group 1.6 on Rewriting (July 18, Invited talks only)
+ITRS: 12th Workshop on Intersection Types and Related Systems (July 18)
+MSFP: 11th Workshop on Mathematically Structured Functional Programming (July 18)
+TGD: Tribute to Gilles Dowek (July 18)
+GALOP: 17th Workshop on Games for Logic and Programming Languages (July 18-19)
+LSFA: 21st International Symposium on Logical and Semantic Frameworks with Applications (July 18-19)
+TLLA: 10th International Workshop on Trends in Linear Logic and Applications (July 18-19)
+TERMGRAPH: 14th International Workshop on Computing with Terms and Graphs (July 19)
+WPTE: 12th International Workshop on Rewriting Techniques for Program Transformations and Evaluation (July 19)
+IWC: 15th International Workshop on Confluence (July 24)
+LFMTP: Logical frameworks and meta-languages: Theory and Practice (July 24)
+UNIF: 40th International Workshop on Unification (July 24)
+
+
+OVERVIEW
+--------
+FSCD (https://urldefense.com/v3/__https://fscd-conference.org/__;!!IBzWLUs!QwwoWpNjpMlNJGhUETZbfw7vYhbK7ANni9kQpBBHkfCle5Sb4Vi5rUQNJXYL_G9N8IFmYRsQKms6GWard0-KT3VAP1VcYcc$ ) covers all aspects of formal structures for computation and deduction, from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas.
+
+The suggested, but not exclusive, list of topics for submission is:
+
+1. Calculi:
+- Rewriting systems (string, term, higher-order, nominal, graph, conditional, modulo, infinitary, etc.);
+- Lambda calculus;
+- Logics (first-order, higher-order, equational, modal, linear, classical, constructive, etc.);
+- Proof theory (natural deduction, sequent calculus, proof nets, etc.);
+- Type theory and logical frameworks;
+- Homotopy type theory;
+- Process algebras (synchronous, asynchronous, static and dynamic semantics with and without time, etc.);
+- Quantum calculi.
+
+2. Methods in Computation and Deduction:
+- Type systems (polymorphism, dependent, recursive, intersection, session, etc.);
+- Induction, coinduction;
+- Matching, unification, completion, orderings;
+- Strategies (normalisation, completeness, etc.);
+- Tree automata;
+- Model building and model checking;
+- Proof search and theorem proving;
+- Constraint solving and decision procedures.
+
+3. Semantics:
+- Operational semantics and abstract machines;
+- Game Semantics and applications;
+- Domain theory and categorical models;
+- Quantitative models (timing, probabilities, etc.);
+- Quantum computation and emerging models of computation.
+
+4. Algorithmic Analysis and Transformations of Formal Systems:
+- Type inference and type checking;
+- Abstract Interpretation;
+- Complexity analysis and implicit computational complexity;
+- Checking termination, confluence, derivational complexity and related properties;
+- Symbolic computation.
+
+5. Tools and Applications:
+- Programming and proof environments;
+- Verification tools;
+- Proof assistants and interactive theorem provers;
+- Applications in industry;
+- Applications of formal systems in other sciences;
+- Applications of formal systems in education.
+
+6. Formal Systems for Modelling and Verification in new challenging areas:
+- Certification;
+- Security;
+- Blockchain;
+- Databases;
+- Deep learning and machine learning algorithms;
+- Planning.
+
+PUBLICATION
+-----------
+The proceedings will be published as an electronic volume in the Leibniz International Proceedings in Informatics (LIPIcs) of Schloss Dagstuhl. All LIPIcs proceedings are open access.
+
+SPECIAL ISSUE
+-------------
+There will be a special issue of Logical Methods in Computer Science of selected papers. More details will be provided later.
+
+SUBMISSION GUIDELINES
+---------------------
+The submission site is:
+
+    https://urldefense.com/v3/__https://submissions.floc26.org/fscd/__;!!IBzWLUs!QwwoWpNjpMlNJGhUETZbfw7vYhbK7ANni9kQpBBHkfCle5Sb4Vi5rUQNJXYL_G9N8IFmYRsQKms6GWard0-KT3VAO2fRg1U$
+Submissions must be formatted using the LIPIcs style files (https://urldefense.com/v3/__https://submission.dagstuhl.de/series/details/5*author__;Iw!!IBzWLUs!QwwoWpNjpMlNJGhUETZbfw7vYhbK7ANni9kQpBBHkfCle5Sb4Vi5rUQNJXYL_G9N8IFmYRsQKms6GWard0-KT3VA9NPNs2M$ ).
+
+Submissions can be made in two categories: regular research papers and system descriptions. Please indicate in the submission page in HotCRP and in the first page of the paper in which category you are submitting. Regular research papers are limited to 15 pages, excluding references and appendices. They must present original research which is unpublished and not submitted elsewhere. System descriptions are limited to 15 pages, excluding references. Shorter papers are welcome and will be given equal consideration. A system description must present new software tools, or significantly new versions of such tools, in which FSCD topics play an important role. An archive of the code with instructions on how to install and run the tool must be submitted. In addition, a webpage where the system can be experimented with should be provided.
+
+One author of each accepted paper is expected to register and present the work in person at the conference. In case that this is not possible, online presentation will be arranged, but in person registration will still be required.
+
+BEST PAPER AWARD BY JUNIOR RESEARCHERS
+--------------------------------------
+The programme committee will select a paper in which at least one author is a junior researcher, i.e., either a student or someone whose PhD award date is less than three years from the first day of the meeting. When submitting the paper, other authors should declare to the PC Chair that at least 50% of contribution is made by the junior researcher(s).
+
+CODE OF CONDUCT
+-----------------
+FSCD 2026 stands by the FLoC 2026 Code of conduct (https://urldefense.com/v3/__https://www.floc26.org/policies__;!!IBzWLUs!QwwoWpNjpMlNJGhUETZbfw7vYhbK7ANni9kQpBBHkfCle5Sb4Vi5rUQNJXYL_G9N8IFmYRsQKms6GWard0-KT3VAChmU2nw$ ).
+
+PROGRAM COMMITTEE CHAIR
+-----------------------
+Frank Pfenning         Carnegie Mellon University
+
+PROGRAM COMMITTEE
+-----------------
+Alejandro Díaz-Caro    INRIA (LORIA) & UNQuilmes, France & Argentina
+Alexis Saurin          CNRS & University Paris Cité, France
+Alwen Tiu              Australian National University, Australia
+Andreas Abel           Chalmers University of Technology & University of Gothenburg, Sweden
+Andreia Mordido        University of Lisbon, Portugal
+Cynthia Kop            Radboud University Nijmegen, The Netherlands
+Daniel Gratzer         Aarhus University, Denmark
+Dominic Orchard        University of Kent & University of Cambridge, UK
+Elaine Pimentel        University College London, UK
+Kristina Sojakova      Free University of Amsterdam, The Netherlands
+Kwangkeun Yi           Seoul National University, Korea
+Liron Cohen            Ben-Gurion University, Israel
+Małgorzata Biernacka   University of Wrocław, Poland
+Nao Hirokawa           JAIST, Japan
+Natarajan Shankar      SRI International, USA
+Niki Vazou             IMDEA Madrid, Spain
+Paul Downen            UMass Lowell, USA
+Peter Selinger         Dalhousie University, Canada
+Salvador Lucas         Technical University of Valencia, Spain
+Sarah Winkler          Free University of Bozen-Bolzano, Italy
+Ugo Dal Lago           University of Bologna, Italy
+
+CONFERENCE CHAIR
+----------------
+Sandra Alves           University of Porto
+
+WORKSHOPS CHAIR
+---------------
+Cynthia Kop            Radboud University Nijmegen
+
+FSCD STEERING COMMITTEE
+-----------------------
+
+Chair:
+  Patrick Baillot      CNRS, University of Lille
+Past Chair:
+  Herman Geuvers       Radboud University Nijmegen
+Workshop Chair:
+  Cynthia Kop          Radboud University Nijmegen
+Publicity Chair:
+  Carsten Fuhs         Birkbeck University of London
+Past PC Chairs:
+  Marco Gaboardi       Boston University
+  Femke van Raamsdonk  VU Amsterdam
+  Jakob Rehof          TU Dortmund
+  Maribel Fernández    King's College London
+Elected Members:
+  Guilio Manzonetto    Université Paris Cité
+  Ugo Dal Lago         University of Bologna
+  Sandra Alves         University of Porto
+  Jürgen Giesl         RWTH Aachen

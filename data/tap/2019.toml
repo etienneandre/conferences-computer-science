@@ -25,3 +25,7 @@ submitted = 19
 
 [extra]
 notes = "Part of the 3rd World Congress on Formal Methods."
+
+[[cfp]]
+file = "cfp/TAP-2019.txt"
+stage = "initial"

@@ -19,3 +19,7 @@ license = "free"
 
 [extra]
 notes = "Co-located with 12th International Workshop on Confluence (IWC 2023). Informal proceedings (earlier / concurrent / later submission allowed). Live complexity and termination competition during the workshop. Every one or two years."
+
+[[cfp]]
+file = "cfp/WST-2023.txt"
+stage = "initial"

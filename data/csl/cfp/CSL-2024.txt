@@ -1,0 +1,109 @@
+=====================================
+ First call for papers (CSL'24)
+ https://csl2024.github.io/Home/
+ Abstract submission deadline: July 24th, 2023 (AoE)
+=====================================
+
+Computer Science Logic (CSL) is the annual conference of the European Association for Computer Science Logic (EACSL), see https://www.eacsl.org/.
+
+It is an interdisciplinary conference, spanning across both basic and application oriented research in mathematical logic and computer science.
+
+CSL'24 will be held on February 19-23, 2024, in Naples, Italy. It is planned as an on-site event, with support for remote presentations.
+
+
+Submission guidelines:
+----------------------
+Submitted papers must be in English and must provide sufficient detail to allow the Programme Committee to assess the merits of the paper. Full proofs may appear in a clearly marked technical appendix which will be read at the reviewers' discretion. Authors are strongly encouraged to include a well written introduction which is directed at all members of the PC.
+
+The paper should be submitted via Easychair: https://easychair.org/conferences/?conf=csl2024
+
+The CSL 2024 conference proceedings will be published in Leibniz International Proceedings in Informatics (LIPIcs), see https://submission.dagstuhl.de/documentation/authors.
+
+Authors are invited to submit contributed papers of no more than 15 pages in LIPIcs style (not including appendices or references), presenting unpublished work fitting the scope of the conference. Papers may not be submitted concurrently to another conference with refereed proceedings. The PC chairs should be informed of closely related work submitted to a conference or a journal.
+
+At least one of the authors of each accepted paper is expected to register for the conference in order to present their papers.
+
+Important dates:
+----------------
+Abstract submission: July 24th, 2023 AoE,
+Paper submission: July 31st, 2023 AoE,
+Notification: October 27th, 2023 AoE
+
+Conference: February 19th-23rd, 2024
+
+List of topics:
+---------------
+The following list is not exhaustive but indicates the scope of interest for CSL'23:
+ - automated deduction and interactive theorem proving
+ - concurrency and distributed computation
+ - constructive mathematics and type theory
+ - equational logic and term rewriting
+ - automata and games, game semantics
+ - formal methods
+ - modal and temporal logic
+ - description logics
+ - logical aspects of AI
+ - model checking
+ - decision procedures
+ - logical aspects of computational complexity
+ - knowledge representation and reasoning
+ - finite model theory
+ - computability
+ - computational proof theory
+ - logic programming and constraints
+ - lambda calculus and combinatory logic
+ - domain theory
+ - categorical logic and topological semantics
+ - database theory
+ - specification, extraction and transformation of programs
+ - logical aspects of quantum computing
+
+
+Committee Chairs
+------------------
+
+- Aniello Murano (University of Naples Federico II)
+- Alexandra Silva (Cornell University)
+
+Program Committee
+------------------
+
+- James Brotherston (University College London)
+- Valentina Castiglioni (Reykjavik University)
+- Taolue Chen (Birkbeck, University of London)
+- Diana Costa (Universidade de Lisboa)
+- Silvia Ghilezan (University of Novi Sad)
+- Nina Gierasimczuk (Technical University of Denmark)
+- Wojtek Jamroga (Polish Academy of Sciences)
+- Benjamin Lucien Kaminski (Saarland University, Saarland Informatics Campus)
+- Tobias Kappé (ILLC, University of Amsterdam)
+- Shin-Ya Katsumata (National Institute of Informatics)
+- Marie Kerjean (CNRS, LIPN, Université Sorbonne Paris Nord)
+- Juha Kontinen (University of Helsinki)
+- Clemens Kupke (University of Strathclyde)
+- Martin Lange (University of Kassel)
+- Carsten Lutz (Universität Bremen)
+- Nicolas Markey (IRISA, CNRS & INRIA & Univ. Rennes 1)
+- Larry Moss (Indiana University Bloomington)
+- Pierre Ohlmann (University of Warsaw)
+- Guillermo Perez (University of Antwerp)
+- Nir Piterman (Chalmers University of Technology)
+- Jurriaan Rot (Radboud University)
+- Lutz Schröder (Friedrich-Alexander-Universität Erlangen-Nürnberg)
+- Sonja Smets (University of Amsterdam)
+- Pawel Sobocinski (Tallinn University of Technology)
+- Luca Spada (Università di Salerno)
+- Sam Staton (University of Oxford)
+- Christine Tasson (LIP6 - Sorbonne Université)
+- Andrea Turrini (Institute of Software, Chinese Academy of Sciences)
+- Sam van Gool (Université de Paris)
+- Martin Zimmermann (Aalborg University)
+
+
+Organisation committee:
+-----------------
+- Munyque Mittelmann (University of Naples Federico II)
+- Aniello Murano (University of Naples Federico II)
+- Vadim Malvone (Télécom Paris)
+- Francesco Chiariello (La Sapienza University of Rome)
+- Davide Catta (Télécom Paris)

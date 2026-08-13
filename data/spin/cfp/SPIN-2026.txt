@@ -1,0 +1,40 @@
+
+
+SPIN 2026: The 32nd International Symposium on Model Checking Software
+April 15–16, 2026, co-located with ETAPS 2026 in Torino, Italy
+
+First Call for Papers
+https://spin-web.github.io/SPIN2026/cfp
+
+The SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. SPIN is a broadly-scoped symposium for software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution. Submissions are solicited on theoretical results, novel algorithms, tool development, and empirical evaluation.
+
+Important Dates
+January 15, 2026: Abstract submission deadline
+January 22, 2026: Paper submission deadline
+January 29, 2026: Artifact submission deadline for tool-related papers (mandatory)
+March 05, 2026: Notification of acceptance (all papers & tool-related artifacts)
+March 16, 2026: Artifact submission deadline for accepted non-tool papers (voluntary)
+April 09, 2026: Notification of acceptance for additional artifacts
+
+Papers should be submitted via the EasyChair SPIN 2026 submission website at
+https://easychair.org/conferences/?conf=spin2026
+Submissions should adhere to Springer's LNCS format.
+
+With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere.
+
+We are soliciting three categories of papers:
+* Full Research Papers (16 pages, excluding bibliography and appendices);
+* Full Tool Papers (16 pages, excluding bibliography and appendices), accompanied by a mandatory artifact, with acceptance conditional on the accompanying artifact receiving at least the "Functional" badge in the artifact evaluation; and
+* Short Papers (6 pages, excluding bibliography and appendices).
+
+At least one author of each accepted paper must attend the symposium and present the paper. A Best Paper award will be announced and handed out at the conference.
+
+For more details, see the SPIN 2026 website at
+https://spin-web.github.io/SPIN2026/
+or contact the SPIN 2026 PC chairs:
+
+Vincenzo Ciancia <vincenzo.ciancia@isti.cnr.it>
+Arnd Hartmanns <a.hartmanns@utwente.nl>
+
+To unsubscribe from this group and stop receiving emails from it, send an email to qest-announce-group+unsubscribe@unifi.it.
+

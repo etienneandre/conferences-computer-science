@@ -20,3 +20,19 @@ license = "pay-profit"
 
 [extra]
 notes = "co-located with PPDP 2018 and WFLP 2018. In 2018, second round of papers: 26 June/30 June/30 July 2018. Full papers can be directly accepted for publication in the formal proceedings, or accepted only for presentation at the symposium and inclusion in informal proceedings (and then possibly accepted after another round). A best paper award will be granted, which will include a 500 EUR prize provided by Springer. A selection of the best papers will be invited for submission to a special issue of a journal."
+
+[[cfp]]
+file = "cfp/LOPSTR-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/LOPSTR-2018-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/LOPSTR-2018-extended2.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/LOPSTR-2018-extended3.txt"
+stage = "extended"

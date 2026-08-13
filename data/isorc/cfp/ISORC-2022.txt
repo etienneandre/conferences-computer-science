@@ -1,0 +1,107 @@
+================================== CALL FOR PAPERS ===================================
+
+IEEE ISORC 2022
+
+2022 IEEE 25th International Symposium On Real-Time Distributed Computing (ISORC)
+
+Västerås, Sweden, May 17-19, 2022
+
+https://isorc2022.github.io/cfp.html
+
+ 
+
+                                                      Submission deadline extended to: February 12, 2022
+
+ 
+
+ISORC has become established as the leading event devoted to state-of-the-art research in the field of object/component/service-oriented real-time distributed computing (ORC) technology. Celebrating the 25th anniversary since its foundation in 1998, ISORC continues the trend of providing an international forum for researchers and industry experts to exchange and share their experiences, ideas, latest research results on all aspects of ORC technology. Following the previous years’ experience, ISORC will continue to employ the double-blind review process and a rebuttal phase this year.
+
+ 
+
+Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing.
+
+ 
+
+Topics: IEEE ISORC 2022 invites high-quality papers on all aspects of ORC technology, including, but not limited to:
+
+    Distributed Computing
+    Cloud/Edge/Fog Computing
+    Internet of Things (IoT)
+    Real-Time Scheduling Theory
+    Real-Time Networks
+    Resilient Cyber-Physical Systems
+    Self-Aware Computing Systems
+    Energy-Efficient Systems
+    Autonomous Systems (e.g., Autonomous Driving)
+    Machine Learning for Embedded and Cyber-Physical Systems
+    Real-Time Deep Learning Inference
+    Optimization of Time-Sensitive Applications
+    Operating Systems and Middleware for ORC technology
+    Security and Privacy for ORC technology
+    Applications based on ORC technology, for example, medical devices, intelligent transportation systems, industrial automation systems and industry 4.0, smart grids, multimedia processing, and web/mobile applications
+
+ 
+
+Author’s schedule:          
+
+Deadline for submission of regular papers                        January 23, 2022, February 12, 2022
+
+Rebuttal period:                                                                       March 23-25, 2022
+
+Notification of acceptance                                                    April 04, 2022
+
+Deadline for submission of final papers                             April 20, 2022
+
+Conference:                                                                              May 17-19, 2022
+
+ 
+
+Organizing Committee
+
+General Chairs
+
+    Saad Mubeen Mälardalen University, Sweden
+    Song Han University of Connecticut, USA
+    Jong-Chan Kim Kookmin University, South Korea
+
+Program Chairs
+
+    Mohammad Ashjaei Mälardalen University, Sweden
+    Julie S Fant George Mason University, Virginia, USA
+    Nan Guan City University of Hong Kong
+
+Local Chair
+
+    Anna Friebe Mälardalen University, Sweden
+
+Publication Chair
+
+    Matthias Becker Royal Institute of Technology, KTH, Sweden
+
+Web Chair
+
+    Leo Hatvani Mälardalen University, Sweden
+
+Publicity Chairs
+
+    Renato Mancuso Boston University, USA
+    Yue Tang Northeastern University, China
+
+Steering Committee Chairs
+
+    Uwe Brinkschulte Goethe University of Frankfurt, Germany
+    Rob Pettit The Aerospace Corp., USA
+
+Finance Chair
+
+    Leo Hatvani Mälardalen University, Sweden
+
+Journal Special Issue Chairs
+
+    Saad Mubeen Mälardalen University, Sweden
+    Mohammad Ashjaei Mälardalen University, Sweden
+    Matthias Becker KTH Royal Institute of Technology, Sweden
+
+ 
+
+All the instructions for paper submission are included in the conference website: https://isorc2022.github.io/cfp.html

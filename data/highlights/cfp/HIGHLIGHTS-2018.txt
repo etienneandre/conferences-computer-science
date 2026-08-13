@@ -1,0 +1,43 @@
+HIGHLIGHTS 2018: 6th annual conference on Highlights of LOGIC, GAMES, and AUTOMATA
+
+18-21 September 2018, TU Berlin
+
+http://highlights-conference.org
+
+IMPORTANT DATES:
++ Submission deadline: 13 JUNE, 5pm GMT
++ Notification: 22 JUNE
+
+SATELLITE EVENTS:
++ ErichFest: Symposium to Celebrate Erich Grädel’s 60th Birthday, 17 September
++ Workshop on the Theory of Regular Cost Functions and Beyond, 21 September (afternoon)
+
+================================================
+
+HIGHLIGHTS 2018 is the 6th conference on Highlights of Logic, Games, and Automata that aims to integrate the diverse research community working in the areas of Logic and Finite Model Theory, Automata Theory, and Games for Logic and Verification.  Individual papers are dispersed across many conferences, which makes them challenging to follow. A visit to the annual Highlights conference offers a wide picture of the latest research in the field and a chance to meet and interact with most of the members of the research community.  We encourage you to present your best recent work at Highlights, whether already published elsewhere or not.
+
+The conference is short (from 19 September to the mid-day on 21 September) and it is preceded by the Highlights Tutorial Day (18 September).  The participation costs are modest and Berlin is easy to reach.
+
+
+The Contributed Presentations will be around ten minutes long.  All speakers will be also invited to contribute to a Poster Session, which will open new ways of interaction at the conference for the whole Highlights community.
+
+KEYNOTE PRESENTATIONS
++ Andrei Bulatov, The Complexity of Constraints: Dichotomies and Beyond
++ Nicole Schweikardt, Constant Delay Enumeration of Query Results
++ James Worrell, Algebraic Invariants for Affine Programs
+
+TUTORIALS
++ Amir Abboud, Fine-Grained Complexity and Hardness in P
++ Christoph Berkholz, Interactions Between Proof Complexity and Finite Model Theory
++ Joost-Pieter Katoen, Principles of Probabilistic Programming
+
+INVITED SESSIONS
++ Chair: Christel Baier, Multi-Objective Reasoning in Probabilistic Models
++ Chair: Martin Grohe, Logic and Learning
+
+SPOTLIGHT TALKS
++ Stéphane Gaubert, Nonarchimedean Convex Programming and Its Relation to Mean-Payoff Games
++ Laura Kovács, Symbol Elimination for Program Analysis
++ Jan Křetínský, A Journey from LTL to Your Favourite Automaton
++ Amaury Pouly, Continuous Models of Computation: Computability, Complexity, Universality
++ Jeffrey Shallit, Finite Automata and Additive Number Theory

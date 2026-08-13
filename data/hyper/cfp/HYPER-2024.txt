@@ -1,0 +1,39 @@
+CALL FOR PRESENTATIONS
+
+==================
+HYPER 2024
+3rd Workshop on Hyperproperties: Advances in Theory and Applications
+https://hyperworkshop24.cispa.io/
+co-located with CAV 2024
+==================
+
+The goal of HYPER 2024 is to foster the exchange of ideas on topics related to hyperproperties between researchers from the formal methods, security, machine learning, and cyber-physical systems communities and to present and discuss recent advances in theory and applications for specifying and analyzing hyperproperties. The workshop will comprise invited talks and selected presentations. For more details and a list of invited speakers, see https://hyperworkshop24.cispa.io/.
+
+HYPER 2024 is co-located with CAV 2024, and will take place in Montreal, Canada, on July 23, 2024.
+
+IMPORTANT DATES
+
+Submission deadline: April 25, 2024 AoE
+Notification date: May 13, 2024
+Workshop: July 23, 2024
+
+SUBMISSION GUIDELINES
+
+Submission link: https://easychair.org/conferences/?conf=hyper24
+
+The HYPER workshop aims to bring together researchers interested in the broad area of hyperproperties and working in the areas of formal methods and control, cybersecurity, and machine learning. Topics of interest include, but are not limited to:
+Specification formalisms for hyperproperties
+Algorithms for verification, synthesis, and runtime verification for hyperproperties
+Information-flow control
+Privacy
+Fairness
+Causality
+Robustness
+Explainability
+
+Presentation proposals shall be submitted in the form of an *extended abstract of up to three pages* in LNCS format (not including references) via easychair. Submissions can overlap with previously published work and will be judged based on their relevance to the topic of the workshop. The workshop will have no formal proceedings.
+
+We look forward to seeing you at HYPER 2024 in Montreal!
+
+Hadar Frenkel, Niklas Metzger, and Hazem Torfah
+HYPER 2024 co-chairs

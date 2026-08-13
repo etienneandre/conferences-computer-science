@@ -16,3 +16,7 @@ notification = [2024-02-08]
 
 [proceedings]
 publisher = "?"
+
+[[cfp]]
+file = "cfp/ERTS-2024.txt"
+stage = "initial"

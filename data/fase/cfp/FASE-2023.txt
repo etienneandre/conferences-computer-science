@@ -1,0 +1,141 @@
+[EAPLS] FASE 2023 - Call for papers
+EAPLS: European Association for Programming Languages and Systems
+FASE 2023 - Call for papers
+by leen on September 6 |  View on site
+
+FASE is concerned wit h the foundations on which software engineering is built. Submissions should make novel contributions to making software engineering a more mature and soundly-based discipline. Contributions should be supported by appropriate arguments and validation. Contributions that combine the development of conceptual and methodological advances with their formal foundations and tool support are particularly encouraged.
+
+Paper submission: October 13, 2022, 23:59 AoE
+
+FASE 2023 - CALL FOR PAPERS
+https://etaps.org/2023/fase
+
+********************************************************************************
+
+26th International Conference on Fundamental Approaches to Software Engineering
+
+Part of 26th European Joint Conferences on Theory and Practice of Software
+22-27 April 2023, Paris, France
+
+********************************************************************************
+* Abstract submissio n: April 27, 2020
+* Paper submission: October 13, 2022, 23:59 AoE
+* Notification: December 22, 2022
+After notification, authors of accepted papers may optionally submit an artefact.
+* Artefact submission: January 5, 2023
+* Artefact notification: February 9, 2023
+
+OVERVIEW
+=========================================
+
+FASE is concerned with the foundations on which software engineering is built. Submissions should make novel contributions to making software engineering a more mature and soundly-based discipline. Contributions should be supported by appropriate arguments and validation. Contributions that combine the development of conceptual and methodological advances with their formal foundations and tool support are particularly encouraged. We welcome contributions to all such fundamental approaches, including:
+- software engineering as an engineering discipline, including its interaction with and impact on society and economics;
+- re quirements engineering: capture, consistency, and change management of software requirements;
+- software architectures: description and analysis of the architecture, e.g., SOA, microservice architectures, model-driven architectures, or software product lines;
+- specification, design, and implementation of particular classes of systems: (self-)adaptive, autonomous, collaborative, intelligent, embedded, distributed, mobile, pervasive, cyber-physical, data-centric, or service-oriented applications;
+- applications of AI to software engineering, including search-based and learning-based approaches;
+- software engineering foundations for AI-based systems;
+- software quality: (static or run-time) validation and verification of functional and non-functional software properties (including security and data privacy) using techniques such as theorem proving, model checking, testing, analysis, simulation, refinement methods, metrics or visualization techniques;
+- m odel-driven engineering: model transformation, meta-modelling, design and semantics of domain-specific languages, consistency and synchronization of models, generative architectures;
+- software processes: support for iterative, agile, and open source development;
+- software evolution: refactoring, reverse and re-engineering, configuration management and architectural change.
+
+We are pleased to announce Sven Apel (Saarland University, Germany) as keynote speaker.
+
+FASE 2023 hosts the 5th edition of the Competition on Software Testing (Test-Comp 2023).
+
+After notification, authors of accepted papers may optionally submit an artefact for evaluation by the artefact evaluation committee (AEC).
+
+Selected regular papers as well as software artefacts will be invited to submit to a special issue of FASE 23 in Science of Computer Programming.
+
+CATEGORIES OF SUBMISSION
+=========================================
+
+Four categories of submissions are co nsidered:
+- regular research papers and empirical evaluation papers of max 18 pp,
+- new ideas and emerging results (NIER) papers of max 8 pp,
+- tool demonstration papers of max 6 pp (+ mandatory appendix of max 6 pp).
+
+All page limits are given excluding the bibliography. Submissions must follow the formatting guidelines of Springer's LNCS and be submitted electronically in pdf through the Easychair author interface:
+https://easychair.org/conferences/?conf=fase23
+
+Please find detailed information on the four categories here:
+https://etaps.org/2023/fase
+
+All accepted papers will appear in the proceedings and have presentations during the conference. A condition of submission is that, if the submission is accepted, one of the authors attends the conference to give the presentation. ETAPS 2023 is planned as an on-site conference; nonetheless, remote attendance and presentation will be made possible.
+
+Submitted papers must be in English, pr esenting original research. They must be unpublished and not submitted for publication elsewhere. In particular, simultaneous submission of the same contribution to multiple ETAPS conferences is forbidden.
+
+Please find detailed submission instructions here:
+https://etaps.org/2023/call-for-papers
+
+PROGRAMME CHAIRS
+=========================================
+
+Leen Lambers (BTU Cottbus-Senftenberg)
+Sebastián Uchitel (University of Buenos Aires)
+
+PROGRAMME COMMITTEE
+=========================================
+
+Erika Abraham (RWTH Aachen)
+Rui Abreu (University of Porto)
+Domenico Bianculli (University of Luxembourg)
+Einar Broch Johnsen (University of Oslo)
+Ana Cavalcanti (University of York)
+
+Sigrid Eldh (Mälardalen University)
+Carlo Furia (USI Università della Svizzera italiana)
+Alessandra Gorla (IMDEA)
+Stijn de Gouw (Open Universiteit)
+Gerti Kappel (TU Vienna)
+
+Maria Kechagia (University Coll ege London)
+Axel Legay (Ecole Polytechnique de Louvain)
+Antinisca di Marco (University of l'Aquila)
+Lina Marsso (University of Toronto)
+Marjan Mernik (University of Maribor)
+
+Fabrizio Pastore (University of Luxembourg)
+Leila Ribeiro (Universidade Federal do Rio Grande do Sul)
+Barbara Russo (Free University of Bozen-Bolzano)
+Gwen Salaun (Université Grenoble Alpes)
+Paola Spoletini (Kennesaw State Univervisty)
+
+Daniel Strüber (Chalmers University of Technology, University of Gothenburg)
+Silvia Lizeth Tapia Tarifa (University of Oslo)
+Rachel Tzoref (IBM Research)
+Dániel Varró (McGill University)
+Anna Maria Vollmer (Fraunhofer)
+Manuel Wimmer (JKU Linz)
+
+ARTEFACT EVALUATION COMMITTEE CHAIRS
+=========================================
+
+Marie-Christine Jakobs (Technische Universität Darmstadt)
+Carlos Diego Nascimento Damasceno (Radboud University)
+
+COMPETITION CHAIR
+================== =======================
+
+Dirk Beyer (Ludwig-Maximilians-Universität München, Germany)
+
+STEERING COMMITTEE CHAIR
+=========================================
+
+Andrzej Wasowski (IT University of Copenhagen)
+
+STEERING COMMITTEE
+=========================================
+
+Einar Broch Johnsen (University of Oslo)
+Reiner Hähnle (Technische Universität Darmstadt)
+Reiko Heckel (University of Leicester)
+Leen Lambers (BTU Cottbus-Senftenberg)
+Tiziana Margaria (University of Limerick)
+Perdita Stevens (University of Edinburgh)
+Gabriele Taentzer (Philipps-Universität Marburg)
+Sebastián Uchitel (University of Buenos Aires)
+Heike Wehrheim (Carl von Ossietzky Universität Oldenburg)
+Manuel Wimmer (JKU Linz)
+=========================================

@@ -23,3 +23,11 @@ license = "pay-profit"
 accepted = 13
 submitted = 34
 # TODO: verify — extracted from the cross-year acceptance string.
+
+[[cfp]]
+file = "cfp/ICFEM-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICFEM-2023-extended.txt"
+stage = "extended"

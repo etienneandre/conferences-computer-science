@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Colocated at CONFESTA with QEST 2018, SETTA 2018 and several workshops and tutorials. Extended selected papers will appear in Journal of Computer and System Sciences."
+
+[[cfp]]
+file = "cfp/CONCUR-2018.txt"
+stage = "initial"

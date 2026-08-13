@@ -21,3 +21,11 @@ license = "cc-by"
 
 [extra]
 notes = "Author Response: June 29 - July 2, 2023. A small number of outstanding FMCAD submissions will be considered for inclusion in a Special Issue of the journal on Formal Methods in System Design (FMSD)."
+
+[[cfp]]
+file = "cfp/FMCAD-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FMCAD-2023-extended.txt"
+stage = "extended"

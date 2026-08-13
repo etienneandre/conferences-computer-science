@@ -1,0 +1,40 @@
+The 19th International Conference on Reachability Problems (RP’2025) is being organized by the IMDEA Software Institute in Madrid, Spain. The conference will take place from 1 to 3 October 2025.
+
+Webpage: https://rp25.software.imdea.org/
+
+Invited Speakers:
+
+ - Albert Atserias (Universitat Politècnica de Catalunya, Spain)
+ - Alastair F. Donaldson (Imperial College London, UK)
+ - Zak Kincaid (Princeton University, USA)
+ - Anthony W. Lin (University of Kaiserslautern, Germany)
+ - Mickael Randour (Université de Mons, Belgium)
+
+Important Dates:
+
+ - Submission deadline for regular research papers: June 27 Extended to July 4
+ - Notification of acceptance: August 13
+
+ - Submission deadline for presentation-only abstracts: August 1
+ - Notification of acceptance: August 13
+
+[All dates are AoE.]
+
+Scope of the conference: RP is specifically aimed at gathering together scholars from diverse disciplines and backgrounds interested in reachability problems that appear in
+
+ - Algebraic structures
+ - Automata theory and formal languages
+ - Computational game theory
+ - Concurrency and distributed computation
+ - Decision procedures in computational models
+ - Hybrid systems
+ - Logic and model checking
+ - Verification of finite and infinite-state systems
+
+Submission and publication: There are two types of submissions: regular research papers and presentation-only contributions.
+
+Regular research papers should be unpublished and contain original research. They should not exceed 12 pages (excluding references and appendices) and be prepared using the Springer LNCS guidelines. For papers reporting experimental results, authors are encouraged to make their data available with their submission. Accepted regular research papers will be published in the Springer LNCS proceedings of RP’25.
+
+Presentation-only contributions require a short abstract, and should have a clear relevance with the scope of the conference. We invite abstracts on recent or upcoming conference papers, or unpublished work. Neither the paper nor the abstract will be published in the proceedings.
+
+For instructions on how to submit, see https://rp25.software.imdea.org/submission.html

@@ -1,0 +1,56 @@
+Call for Contributions – Sensei‘25
+Fourth International Workshop on Security and Safety Interactions (9 September 2025)
+co-located with SAFECOMP, Stockholm, Sweden
+https://sites.google.com/view/sensei-2025
+
+=======
+
+Sensei’25 will be held Sept. 9 2025 at SAFECOMP 2025 (https://safecomp2025.se/, Stockholm, Sweden). Safety-security interaction is an important factor in engineering of high-tech systems, as safety and security are often heavily intertwined. This workshop aims to further our understanding of this interaction. Two important topics are the co-engineering of safety and security, and integrated safety-security risk assessment. To foster the exchange of concepts, experiences, research ideas, and novel results, we bring together a wide range of researchers in safety and security, from theoretical to practical research.
+
+===Papers===
+
+We invite the submission of papers with high quality research contributions, work in progress, experimental and ongoing projects results. Therefore, the following types of submission are accepted:
+* Abstracts: 1-2 pages, describing a work in progress or position statement. Abstracts will be presented as short presentations; they will not be published.
+* Short papers: 6+ pages, including references. These can be on new and emerging results, describing challenging problems, tool demonstrations, work in progress or industrial experiences.
+* Research papers: max. 12 pages, including references. Reporting substantial, completed, and previously unpublished research.
+
+===Publication===
+
+All accepted short and research papers will be published in a Springer LNCS Proceedings volume for the SAFECOMP workshops (https://www.springer.com/gp/computer-science/lncs/new-latex-templates-available/15634678, single column, LaTeX or Word). Authors will need to specify the type of submission in the title at the time of submission.
+Topics include, but are not limited to:
+* Co-engineering of safety and security
+* Integrated safety and security risk assessment and management
+* Security of safety-critical systems
+* Integrated safety and security testing, verification, and validation
+* Safety and security interdependencies
+* Integrated safety and security requirements and policies
+* Cyber-physical threats and vulnerabilities
+* Formalization of security and safety properties
+* Case studies and experience reports
+* Tools supporting safety-security interactions
+
+===Important deadlines===
+
+* Abstract/paper submission: 10 May 2025
+* Notification of acceptance: 30 May 2025
+* Camera-ready submission: 10 June 2025
+* Workshop: 9 September 2025
+Submissions are to be submitted at http://easychair.org/conferences/?conf=sensei2025.
+
+=========
+
+Workshop organizers:
+Christina Kolb
+Industrial Engineering and Business Information Systems
+University of Twente
+c.kolb [location] utwente [full stop] nl
+
+Milan Lopuhaä-Zwakenberg
+Formal Methods & Tools
+University of Twente
+m.a.lopuhaa [location] utwente [full stop] nl
+
+Elena Troubitsyna
+Theoretical Computer Science
+KTH Royal Institute of Technology
+elenatro [location] kth [full stop] se

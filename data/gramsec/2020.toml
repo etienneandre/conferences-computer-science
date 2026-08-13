@@ -18,3 +18,15 @@ license = "pay-profit"
 
 [extra]
 notes = "Co-located with CSF 2020."
+
+[[cfp]]
+file = "cfp/GraMSec-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/GraMSec-2020-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/GraMSec-2020-extended2.txt"
+stage = "extended"

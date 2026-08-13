@@ -1,0 +1,179 @@
+ICTAC 2026
+The 23rd International Colloquium on Theoretical Aspects of Computing
+9-15 of November, 2026
+Bariloche, Argentina
+
+https://ictac2026.github.io/
+
+
+IMPORTANT DATES (DEADLINES EXTENDED)
+
+ Abstract deadline (EXTENDED): 14-Jun-2026 (AoE)
+ Submission deadline (EXTENDED): 22-Jun-2026 (AoE)
+ Notification: 10-Aug-2026 (AoE)
+ Camera ready: 31-Aug-2026 (AoE)
+
+ Postgraduate School: 9 and 10 Nov-2026
+ Conference: 11 to 13 Nov-2026
+ Satellite Workshops: 14 and 15 Nov-2026
+
+SCOPE
+
+ The ICTAC conference series aims at bringing together researchers and
+ practitioners from academia, industry, and government to present
+ research and exchange ideas and experiences within theoretical
+ aspects of computing through methods and tools for system
+ development.  ICTAC also aims to promote research cooperation between
+ developing and industrial countries.
+
+COLLOCATED EVENTS
+
+ ICTAC 2026 will be preceded by the ICTAC Postgraduate School on
+ Formal Methods for Building Mission-Critical Systems, a two days
+ event targeted to master’s and Ph.D. students, early-stage
+ researchers, and lecturers in computer science and mathematics.
+
+ The conference will be followed by satellite workshops, including
+
+ - the Industry Day
+ - Workshop on Verification & Validation & Runtime Analysis around the
+   Hardware/Software Boundary
+
+
+INVITED SPEAKERS
+
+ Erika Ábrahám (RWTH Aachen University, DE)
+ Pablo Barceló (Pontifical Catholic University of Chile - IMFD - CENIA, CL)
+ Nazareno Aguirre (National University of Rio Cuarto, AR)
+
+TOPICS
+
+ The conference concerns all aspects of theoretical computer science,
+ including, but not limited to:
+
+ - Languages and automata
+ - Semantics of programming languages
+ - Logic in computer science
+ - Lambda calculus, type theory, and category theory
+ - Domain-specific languages
+ - Theories of concurrency and mobility
+ - Theories of distributed computing
+ - Models of objects and components
+ - Coordination models, timed, hybrid, embedded, and cyber-physical systems
+ - Security and privacy
+ - Static analysis
+ - Software verification
+ - Software testing
+ - Program generation and transformation
+ - Model checking and theorem proving
+ - Theory and methods of trustworthy AI
+ - Applications and experiences.
+
+VENUE
+
+ ICTAC 2026 will be held in San Carlos de Bariloche, located in the
+ Patagonian Andes of Argentina, one of the most beautiful destinations
+ in South America. Surrounded by mountains, forests, and lakes,
+ Bariloche offers stunning landscapes, outdoor activities, and a
+ vibrant cultural life.
+
+ The conference will take place at the NH Bariloche Edelweiss Hotel, a
+ modern facility located near the city center with easy access to
+ restaurants, and public transport.
+
+SUBMISSIONS
+
+ We solicit submissions, related to the topics of ICTAC, in the
+ following categories:
+
+ A. original research contributions;
+ B. short papers, with original work in progress or with proposals of
+    new ideas and emerging challenges; and
+ C. tool papers on tools that support formal techniques for software
+    modeling, system design, and verification.
+
+ Submissions of regular papers must not exceed 16 pages and short and
+ tool papers should not exceed 8 pages, in both cases excluding
+ bibliography of 2 pages maximum.
+
+ Submissions must not have been published or be under consideration
+ for publication elsewhere. All submissions will be judged on the
+ basis of originality, contribution to the field, technical and
+ presentation quality, and relevance to the conference’s topics.
+
+ All contributions to ICTAC 2026 have to be submitted electronically
+ in PDF format via Easy Chair
+
+ https://easychair.org/conferences/?conf=ictac2026
+
+ Papers must be formatted according to the guidelines for Springer
+ LNCS papers (see https://www.springer.com/gp/computer-science/lncs),
+ without modifications of margins and other space-saving
+ measures. Authors should therefore consult Springer’s authors’
+ instructions and use their proceedings templates, either for LaTeX or
+ for Word, for the preparation of their papers. Springer encourages
+ authors to include their ORCIDs in their papers.
+
+PUBLICATION
+
+ All accepted papers in categories A-C will appear in the proceedings
+ of the conference that will be published as a volume in Springer’s
+ Lecture Notes in Computer Science (LNCS) series.
+
+ All accepted papers must be presented at the conference. Their
+ authors must be prepared to sign a copyright transfer statement. At
+ least one author of each accepted paper must register for the
+ conference by the early registration date, and present the paper.
+
+GENERAL CHAIRS
+
+ Carlos Lopez Pombo (National University of Río Negro - CONICET, AR)
+ Pablo Francisco Castro (National University of Río Cuarto - CONICET, AR)
+
+PROGRAM COMMITTEE CHAIRS
+
+ Pedro R. D'Argenio (National University of Córdoba - CONICET, AR)
+ Ana Sokolova (University of Salzburg, AT)
+
+PROGRAM COMMITTEE
+
+ Giovanni Bacci (Aalborg University, DK)
+ Christel Baier (TU Dresden, DE)
+ Gilles Barthe (MPI Institute for Security and Privacy, DE)
+ Ezio Bartocci (TU Wien, AT)
+ Maurice ter Beek (CNR-ISTI, IT)
+ Roberto Bruni (University of Pisa, IT)
+ Carlos E. Budde (Technical University of Denmark, DK)
+ Alessandro Cimatti (Fondazione Bruno Kessler, IT)
+ Clemens Dubslaff (Eindhoven University of Technology, NL)
+ Uli Fahrenberg (LMF, Paris-Saclay University, FR)
+ Martin Fränzle (Carl von Ossietzky Universität Oldenburg, DE)
+ Diego Garbervetsky (University of Buenos Aires, AR)
+ Rob van Glabbeek (University of Edinburgh, UK)
+ Arnd Hartmanns (University of Twente, NL)
+ Peter Höfner (Australian National University, AU)
+ Justin Hsu (Cornell University, US)
+ David N. Jansen (Institute of Software, Chinese Academy of Sciences, CN)
+ Sebastian Junges (Radboud University, NL)
+ Violet Ka I Pun (Western Norway University of Applied Sciences, NO)
+ Mayuko Kori (RIMS, Kyoto University, JP)
+ Martin Leucker (University of Lübeck, DE)
+ Mieke Massink (CNR-ISTI, IT)
+ Jorge A. Pérez (University of Groningen, NL)
+ Elaine Pimentel (University College London, UK)
+ Anne Remke (University of Münster, DE)
+ Tamara Rezk (INRIA Côte d'Azur, Université Côte d'Azur, FR)
+ César Sánchez (IMDEA Software Institute, ES)
+ Gerardo Schneider (University of Gothenburg, SE)
+ B Srivathsan (Chennai Mathematical Institute, IN)
+ Mahsa Varshosaz (IT University of Copenhagen, DK)
+ Thorsten Wißmann (Friedrich-Alexander-Universität Erlangen-Nürnberg, DE)
+
+STEERING COMMITTEE
+
+ Martin Leucker (Chair) (University of Lübeck, DE)
+ Zhiming Liu (Southwest University, CN)
+ Tobias Nipkow (Technische Universität München, DE)
+ Augusto Sampaio (Universidade Federal de Pernambuco, BR)
+ Natarajan Shankar (SRI, US)
+ Tarmo Uustalu (Reykjavik University, IS)

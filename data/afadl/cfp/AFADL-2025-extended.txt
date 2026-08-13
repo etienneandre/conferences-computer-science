@@ -1,0 +1,35 @@
+Les journées AFADL 2025 auront lieu les 16, 17 et 18 juin à Pau, conjointement avec les journées du GDR GPL à Pau du 16 au 19 juin 2025.
+
+Les journées AFADL - Approches Formelles pour l'Assistance au Développement de Logiciels - ont pour objectif de rassembler des acteurs académiques et industriels intéressés par la mise en œuvre des techniques formelles aux divers stades du développement des logiciels et/ou des systèmes.
+
+    Les techniques et outils formels contribuant à assurer un bon niveau de confiance dans la construction de logiciels et de systèmes ;
+    Les méthodes et processus permettant d’exploiter efficacement les techniques et outils formels disponibles ou conçus ;
+    Les méthodes et processus de développement mettant en œuvre des techniques formelles ;
+    Les leçons tirées de la mise en œuvre de ces outils ou principes sur des études de cas ou des applications industrielles.
+
+Contributions attendues
+Six types de contributions sont attendus qui seront toutes publiées dans les actes AFADL :
+https://gdrgpl2025.sciencesconf.org/resource/page/id/8
+
+    Recherche originale (4-8 pages)
+    Session doctorants (2-4 pages)
+    Présentations de projets (2-4 pages)
+    Résumés longs (2-4 pages)
+    Démonstrations d’outils (2-4 pages)
+    Posters (2-4 pages)
+
+Dates
+Soumission des résumés        Lundi 31 mars 2025 Lundi 14 avril 2025
+Date limite de soumission     Lundi 7 avril 2025 Lundi 14 avril 2025
+Notification aux auteurs        Mardi 20 mai 2025
+Version finale des articles      Mardi 27 mai 2025
+Journées AFADL                   Les  16, 17 et 18 juin 2025
+
+Soumission
+Les soumissions des catégories : recherche originale, session doctorant, résumé long et présentation de projet se font par la plate-forme suivante :
+https://hotcrp-afadl25.diverse-team.fr/
+
+Les soumissions de démonstration d'outils et de posters se font par la plate-forme suivante (en commun avec les journées GDR GPL) :
+https://easychair.org/conferences?conf=gdrgpl25postersdemos
+
+Pour plus d'information sur les journées : https://gdrgpl2025.sciencesconf.org/resource/page/id/1

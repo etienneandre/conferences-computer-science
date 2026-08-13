@@ -1,0 +1,134 @@
+Appel à communications: 31st International Symposium on Temporal Representation and Reasoning, 28--30 October 2024, Montpellier, France
+
+https://www.lirmm.fr/time2024/
+
+31st International Symposium on Temporal Representation and Reasoning 2024
+TIME has been for more than twenty years the only yearly multidisciplinary international event dedicated to the topic of time in computer science. The purpose of the symposium is to bring together active researchers in different research areas involving temporal representation and reasoning. The symposium also welcomes research papers on the related topics of spatial and spatio-temporal representation and reasoning.
+www.lirmm.fr
+
+
+Introduction
+
+TIME has been for more than twenty years the only yearly multidisciplinary international event dedicated to the topic of time in computer science. The purpose of the symposium is to bring together active researchers in different research areas involving temporal representation and reasoning. The symposium also welcomes research papers on the related topics of spatial and spatio-temporal representation and reasoning. In the early years, most contributions came from the Artificial Intelligence community, but the number of contributions from other areas such as Temporal Logic and Verification and partly from Temporal Databases has been increasing in the last years.
+
+More details about TIME and the previous editions of this symposium can be found via the following link: https://time-symposium.org/.
+
+
+Topics
+
+In this symposium, in addition to theoretical and practical work in Artificial Intelligence, Databases, and Logic, we invite submissions focusing on the development, deployment, and evaluation of Machine Learning Systems that fall under the scope of the symposium. Such systems papers will be evaluated primarily on the quality of the empirical evaluation and reusability. Topics for TIME 2024 include (but are not limited to):
+
+ - Time in Artificial Intelligence
+
+ - Time in Data Science
+
+ - Temporal Logic and Reasoning
+
+ - Spatial and temporal reasoning
+
+ - Time in natural language processing
+
+ - Reasoning about action and change
+
+ - Complex event recognition and forecasting
+
+ - Planning and planning languages
+
+ - Ontologies of time and space-time
+
+ - Belief and uncertainty in temporal knowledge
+
+ - Temporal learning and discovery
+
+ - Temporal data models and query languages
+
+ - Temporal query processing and indexing
+
+ - Temporal data mining
+
+ - Stream data management
+
+ - Spatio-temporal data management, including moving objects
+
+ - Data currency and expiration
+
+ - Indeterminate and imprecise temporal data
+
+ - Temporal constraints
+
+ - Specification and verification of systems
+
+ - Verification of software and web applications
+
+ - Synthesis and execution
+
+ - Model checking algorithms and implementations
+
+ - Temporal logics for infinite-state systems
+
+ - Runtime verification of temporal properties
+
+ - Temporal aspects of agent- and policy-based systems
+
+ - Temporal Networks
+
+ - Temporal argumentation frameworks
+
+ - Automata-theoretic techniques for temporal reasoning
+
+ - Temporal knowledge graphs
+
+ - Time-series data management
+
+ - Events and Time Series Explanations in Healthcare
+
+The list above is by no means exhaustive, as the aim is to foster the debate around all aspects of the suggested topics.
+
+Finally, the authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in the journal of Information and Computation.
+
+
+Submission
+Guidelines
+
+TIME 2024 accepts submissions in PDF format, no longer than 12 pages excluding references and appendix. The appendix is limited to 5 pages, and the reviewers may or may not take it into account for their recommendation. Submissions must be formatted following the LIPIcs instructions (https://submission.dagstuhl.de/series/details/LIPIcs#author) and preferably redacted in LaTeX.
+
+TIME policy is single blind, so the names of the authors need not be hidden in the submitted draft. Members of the program committee are allowed to submit papers. Submitted papers will be refereed for quality, correctness, originality, and relevance to the symposium.
+
+Submissions to TIME 2024 must be original; parallel submissions of the same material to other conferences or journals are not allowed. At least one author of each accepted paper must register at the symposium and present the paper.
+
+The submission link is available at: https://cmt3.research.microsoft.com/TIME2024/
+
+All questions about submissions should be emailed to the organizers.
+
+Important Dates
+
+Be mindful of the following dates:
+
+ - 21 June 2024: Symposium paper submission deadline
+
+ - 2 August 2024: Paper acceptance/rejection notification date
+
+ - 13 August 2024: Camera-ready submission deadline
+
+ - 28–30 October 2024: Symposium Date
+
+Note: all deadlines are AoE (Anywhere on Earth).
+
+
+Proceedings
+
+Accepted papers will be presented at the symposium and included in the proceedings, which will be published by LIPIcs-Leibniz International Proceedings in Informatics (https://www.dagstuhl.de/en/publications/lipics/). This is a series of high-quality peer-reviewed conference proceedings, and published according to the principle of OpenAccess.
+
+
+Organizing Committee
+
+Prof. Michael Sioutis, University of Montpellier, France
+
+Prof. Pietro Sala, University of Verona, Italy
+
+Prof. Fusheng Wang, Stony Brook University, US
+
+
+Contact
+
+All questions about the symposium and submissions in particular should be emailed to the organizers.

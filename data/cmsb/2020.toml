@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal. Reproducibility recommended."
+
+[[cfp]]
+file = "cfp/CMSB-2020-extended.txt"
+stage = "extended"

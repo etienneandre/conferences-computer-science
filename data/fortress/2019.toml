@@ -18,3 +18,11 @@ publisher = "?"
 
 [extra]
 notes = "Satellite of ETFA"
+
+[[cfp]]
+file = "cfp/FORTRESS-2019.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORTRESS-2019.txt"
+stage = "initial"

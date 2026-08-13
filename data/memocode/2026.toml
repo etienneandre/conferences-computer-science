@@ -25,3 +25,7 @@ award = "A selection of papers will be recognized as Outstanding Papers and high
 
 [extra]
 colocated = "Part of ESWEEK 2026"
+
+[[cfp]]
+file = "cfp/MEMOCODE-2026-extended.txt"
+stage = "extended"

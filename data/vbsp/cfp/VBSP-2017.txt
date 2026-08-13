@@ -1,0 +1,67 @@
+=================================================================
+
+					     Call for Papers
+First International Workshop on Verification of Business and Software Processes.
+							VBSP 2017
+
+				 Co-located with ICSSP 2017
+
+					  Date: July 5, 2017
+
+ 					Location: Paris, France
+
+				    more info at : http://wbsp2017.lip6.fr
+============================ =====================================
+
+ABSTRACT 
+
+Processes, whatever the field (e.g. software, military or healthcare), are everywhere. They represent the 
+building block of any information system nowadays. Business processes are used to represent the enterprise’s 
+business and services it delivers. They are also used as a mean to enforce customer’s satisfaction and to 
+create an added value to the company. Software processes are critical as well since they represent the guaranty 
+to respect development process’s deadlines and to ensure a certain quality of the delivered software, which in some 
+cases will end up being the company’s information system itself. It is then more than critical to seriously consider 
+the design of such processes and to make sure that they are free of any kind of inconsistencies. One possible way 
+to unsure that the developed processes are safe is to apply formal verification. Hence, we propose this workshop 
+t o investigate the novelties and advances concerning the application of formal methods in Business/Software (BS) 
+processes design and execution.
+
+TOPICS 
+•  Formal specification of BS processes modeling languages.
+•  Formal approaches in the development of BS processes.
+•  Ability of formal methods to handle real-world problems
+•  Formal Tools and technologies for BS process verification
+•  Impact of formal methods on BS process based applications
+•  Integration of Formal methods in the BS process&nbs p;life cycle
+•  Case studies
+•  Experimental validation 
+
+
+PC MEMBERS
+
+• Pascal Poizat, University of Paris Nanterre, France
+• Gwen Salaun, University of Grenoble, France
+• Farouk Toumani, University of Blaise Pascal, France
+• Marco Kuhrmann, The M. M. Moller Institute, Denmark
+• H.M.W. Verbeek, University of Eindhoven, Netherland
+• Maximilen Colange, Epita, France
+• Walid Gaaloul, TELECOM SudParis, France
+• Ekka rt Kindler, University of Denmark, Denmark
+• Dominique Rieu, University of Grenoble, France
+• Tewfik Ziadi, University of P. & M. Curie, France.
+• Lom Hillah, University of of Paris Nanterre, France.
+
+IMPORTANT DATES 
+
+    Intent of submission with abstract: 2 May, 2017 
+    Paper submission: 5 May 2017 
+    Notification: 1 June, 2017 
+    Camera-ready paper: 16 June, 2017
+
+
+ 
+
+WORKSHOP CHAIRS
+Souheib Baarir (LIP6/LRDE, Paris, France)
+
+Kais Klai (LIPN, Paris, France)

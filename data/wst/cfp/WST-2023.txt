@@ -1,0 +1,94 @@
+======================================================================
+                      WST 2023 - Call for Papers
+              19th International Workshop on Termination
+              https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftermination-portal.org%2Fwiki%2FWST2023&data=05%7C01%7C%7C86499b7eb1d74491b2de08db40b03648%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C638174897783282801%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FzB37RjXYrbwud1c0CSFCGWk1TL8%2BCdRQ%2F23m%2BKh%2FNg%3D&reserved=0
+
+                  August 24-25, 2023, Obergurgl, Austria
+ Co-located with 12th International Workshop on Confluence (IWC 2023)
+======================================================================
+
+The Workshop on Termination (WST) traditionally brings together, in an
+informal   setting,  researchers   interested   in   all  aspects   of
+termination,  whether  this  interest  be  practical  or  theoretical,
+primary  or  derived.   The  workshop   also  provides  a  ground  for
+cross-fertilization of ideas from the different communities interested
+in termination (e.g., working on computational mechanisms, programming
+languages,  software  engineering,   constraint  solving,  etc.).  The
+friendly  atmosphere  enables  fruitful  exchanges  leading  to  joint
+research and subsequent publications.
+
+
+IMPORTANT DATES:
+
+  * submission deadline:  June 1, 2023
+  * notification:         June 15, 2023
+  * final version due:    July 27, 2023
+  * workshop:             August 24-25, 2023
+
+
+INVITED SPEAKERS:
+
+  TBA
+
+
+TOPICS:
+
+The 19th International Workshop  on Termination welcomes contributions
+on  all aspects  of termination.  In particular,  papers investigating
+applications  of  termination  (for example  in  complexity  analysis,
+program   analysis  and   transformation,  theorem   proving,  program
+correctness, modeling computational systems, etc.) are very welcome.
+
+Topics of interest include (but are not limited to):
+
+  * termination  and complexity  analysis in  any domain  (declarative
+    programming, lambda calculus,  procedural programming,  rewriting,
+    transition systems, etc.)
+  * probabilistic  termination,  termination probability  and expected
+    complexity analysis
+  * abstraction methods in termination analysis
+  * certification of termination and complexity proofs
+  * challenging termination problems
+  * comparison and classification of termination methods
+  * implementation of termination analysis methods
+  * non-termination analysis and loop detection
+  * normalization and infinitary normalization
+  * operational termination of logic-based systems
+  * ordinal notation and subrecursive hierarchies
+  * SAT, SMT, and constraint solving for (non-)termination analysis
+  * scalability and modularity of termination methods
+  * well-founded relations and well-quasi-orders
+
+
+SUBMISSION GUIDELINES:
+
+Submissions  are  short  papers/extended abstracts  which  should  not
+exceed 5 pages.  There will be no formal reviewing.  In particular, we
+welcome  short  versions of  recently  published  articles and  papers
+submitted  elsewhere.  The  program  committee  checks  relevance  and
+provides additional feedback for  each submission. The accepted papers
+will be made available electronically before the workshop.
+
+Papers should be submitted electronically via the submission page:
+
+       https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Feasychair.org%2Fconferences%2F%3Fconf%3Dwst2023&data=05%7C01%7C%7C86499b7eb1d74491b2de08db40b03648%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C638174897783282801%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Qu5YP7Tpum4MpU3BZiE48ayzRbOUYL7HcyfBO4JZ8wI%3D&reserved=0
+
+Please, use LaTeX and the LIPIcs style file
+
+     https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dagstuhl.de%2Fen%2Fpublishing%2Fseries%2Fdetails%2FLIPIcs&data=05%7C01%7C%7C86499b7eb1d74491b2de08db40b03648%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C638174897783282801%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=k69j2FxTN2XED5A5fL2L2pFPVfH02ULf6yxEn7wvyhA%3D&reserved=0
+
+to prepare your submission.
+
+
+PROGRAM COMMITTEE:
+
+* Martin Avanzini, INRIA Sophia Antipolis
+* Florian Frohn, RWTH Aachen
+* Carsten Fuhs, Birkbeck, U. London
+* Raúl Gutiérrez, U. Politécnica de Madrid
+* Étienne Payet, U. La Réunion
+* Albert Rubio, Complutense U. Madrid
+* René Thiemann, U. Innsbruck
+* Deivid Vale, Radboud U. Nijmegen
+* Johannes Waldmann, HTWK Leipzig
+* Akihisa Yamada, AIST Tokyo Waterfront (chair)

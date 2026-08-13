@@ -1,0 +1,113 @@
+
+The 11th International Workshop on Reachability Problems (RP'17)
+7 - 9 September 2017 | Royal Holloway, University of London, UK
+http://rp17.cs.rhul.ac.uk
+
+The 11th Workshop on Reachability Problems will be hosted at
+Royal Holloway, University of London. The Reachability Workshop is 
+specifically aimed at gathering together scholars from diverse disciplines 
+interested in reachability problems that appear in algebraic structures, 
+computational models, hybrid systems, logic and verification.
+
+Invited Speakers:
+
+    Hana Chockler, King's College London
+    Laurent Doyen, LSV - ENS Cachan
+    Raphaël Jungers, Université catholique de Louvain
+    Andreas Podelski, University of Freiburg
+
+Submissions:
+
+Authors are invited to submit a draft of a full paper with at most 12 pages (in
+LaTeX, formatted according to LNCS guidelines) via Easychair.  Proofs omitted
+due to space constraints must be put into an appendix to be read by the program
+committee members at their discretion. Submissions deviating from these
+guidelines risk rejection. Electronic submissions should be formatted in pdf.
+Simultaneous submission to other conferences or workshops with published
+proceedings is not allowed.
+
+Submission link: https://easychair.org/conferences/?conf=rp2017
+
+Topics of interest include (but are not limited to): reachability problems in
+infinite state systems, rewriting systems, dynamical and hybrid systems;
+reachability problems in logic and verification; reachability analysis in
+different computational models, counter timed/cellular/communicating automata;
+Petri nets; computational aspects of algebraic structures (semigroups, groups
+and rings); frontiers between decidable and undecidable reachability problems;
+predictability in iterative maps and new computational paradigms.
+
+Important Dates
+
+    Submission deadline: 10 May 2017 (AoE)
+    Notification to authors: 21 June 2017
+    Final version: 30 June 2017
+    Workshop: 7 - 9 September 2017
+
+Presentation-Only Track
+
+In addition to regular papers that will appear in our LNCS proceedings, we
+invite researchers to apply to give a presentation at RP'17 without an
+accompanying paper. Such presentations can be based on work that has appeared
+(or which is going to appear) in the proceedings of another conference, or which
+has not yet been submitted. These contributions will be judged solely on the
+basis of their attractiveness to the workshop.
+
+To apply to give such a presentation please submit a PDF file containing a short
+abstract (up to two pages) by e-mail [ rp2017@easychair.org ] by August 2st
+2017, with subject "RP2017 Informal Presentations". This abstract will not be
+published in the conference proceedings. Notification for the presentation-only
+track will be August 9th 2016.
+
+Proceedings
+
+The Conference Proceedings will be published as the volume of the Springer
+Verlag LNCS (Lecture Notes in Computer Science) series and distributed at the
+Conference. We plan also to publish selected papers in a special issue of a high
+quality journal following the regular referee procedure.
+
+RP'16 Program Committee:
+
+    Igor Potapov, University of Liverpool (co-chair)
+    Matthew Hague, Royal Holloway, University of London (co-chair)
+
+    Paul Bell, Liverpool John Moores University
+    Patricia Bouyer-Decitre, LSV, CNRS & ENS de Cachan
+    Aiswarya Cyriac, Chennai Mathematical Institute
+    Giorgio Delzanno, Universita Degli Studi Di Genova
+    Piotrek Hofman, University of Warsaw
+    Peter Lammich, Institut fuer Informatik, TU Munich
+    Martin Lange, University of Kassel
+    Salvatore La Torre, Università degli Studi di Salerno
+    Ranko Lazic, University of Warwick
+    Ondřej Lengál, Brno University of Technology
+    Jerome Leroux, Laboratoire Bordelais de Recherche en Informatique
+    Rupak Majumdar, Max Planck Institute for Software Systems
+    Ahmed Rezine, Linköping University
+    Tachio Terauchi, Japan Advanced Institute of Science and Technology
+    Hsu-Chun Yen, National Taiwan University
+
+Previous Workshops :
+
+    2016: RP'16 in Aalborg, Denmark
+    LNCS proceedings, Volume 9899/2016, Springer Verlag
+    2015: RP'15 in Warsaw, Poland
+    LNCS proceedings, Volume 9328/2015, Springer Verlag
+    2014: RP'14 in Oxford, UK
+    LNCS proceedings, Volume 8762/2014, Springer Verlag
+    2013: RP'13 in Uppsala, Sweden
+    LNCS proceedings, Volume 8169/2013, Springer Verlag
+    2012: RP'12 in Bordeaux, France
+    LNCS proceedings, Volume 7550/2012, Springer Verlag
+    2011: RP'11 in Genova, Italy
+    LNCS proceedings, Volume 6945/2011, Springer Verlag
+    2010: RP'10 in Brno, Czech Republic
+    LNCS proceedings, Volume 6227/2010, Springer Verlag
+    2009: RP'09 in Palaiseau, France
+    LNCS proceedings, Volume 5797/2009, Springer Verlag
+    2008: RP'08 in Liverpool, UK
+    ENTCS proceedings, Volume 223, Elsevier
+    2007: RP'07 in Turku, Finland
+    TUCS General Publication Series, Volume 45,
+    Turku Centre for Computer Science
+
+    DBLP Reachability Problems:  http://dblp.uni-trier.de/db/conf/rp/

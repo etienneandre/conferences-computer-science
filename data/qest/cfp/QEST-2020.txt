@@ -1,0 +1,68 @@
+------------------------------------------------------------------------
+
+Call for Papers for: QEST 2020
+
+17th International Conference on Quantitative Evaluation of SysTems
+http://www.qest.org/qest2020/
+
+QEST 2020 will be held in Vienna, Austria
+August 31 - September 3, 2020
+
+Co-located with CONCUR, FORMATS, and FMICS, QEST will be part of QONFEST 2020
+http://qonfest2020.conf.tuwien.ac.at/
+
+------------------------------------------------------------------------
+
+Important Dates
+
+Abstract submission: March 27
+Paper submission: April 3
+Poster submission: May 15
+Author notification: May 30
+Final version due: June 23
+Tutorials: August 31
+Conference: September 1-3
+
+All deadlines are in 2020, Anywhere on Earth
+
+------------------------------------------------------------------------
+
+Scope and Topics
+
+The International Conference on Quantitative Evaluation of SysTems (QEST) is the leading forum on quantitative evaluation and verification of computer systems and networks. Areas of interest include quantitative specification methods, stochastic and non-deterministic models and metrics for performance, reliability, safety, correctness, and security. QEST is interested in both theoretical and experimental research. QEST welcomes a diversity of modelling formalisms, programming languages and methodologies that incorporate quantitative aspects such as probabilities, temporal properties and other forms of non-determinism. This includes work on the combination of quantitative evaluation and verification with machine learning techniques. Papers may advance empirical, simulation and analytic methods. Of particular interest are case studies that highlight the role of quantitative specification, modelling and evaluation in the design of systems. Systems of interest include computer hardware and software architectures, communication systems, cyber-physical systems, infrastructural systems, security systems and biological systems. Papers that describe novel tools to support the practical application of research results in all of the above areas are also welcome.
+
+QEST 2020 will organize a special session under the topic "Predictive performance by machine learning." Submissions that address the combination of machine learning and performance prediction are particularly welcomed. Ph.D. students whose work is not yet finished are encouraged to register for the Ongoing Work session. This session offers opportunity to discuss, not to publish formally.
+
+------------------------------------------------------------------------
+
+Submissions
+
+QEST 2020 considers six types of papers:
+ - THEORETICAL: advance our understanding, apply to non-trivial problems and be mathematically rigorous.
+ - METHODOLOGICAL AND TECHNICAL: describe situations that require the development and proposal of new analysis processes and techniques.
+ - APPLICATION: describes a novel application, and compares with previous results.
+ - TOOLS: should motivate the development of the new tools and the formalisms they support, with a focus on the software architecture and practical capabilities.
+ - TOOL DEMONSTRATION: describe a relevant tool, as well as its features, evaluation, or any other information that may demonstrate the merits of the tool.
+ - POSTERS: provide a short abstract of work that you want to present in an elevator pitch.
+
+All accepted papers must be presented at the conference by one of the authors. The QEST 2020 proceedings will be published in the Springer LNCS series and indexed by ISI Web of Science, Scopus, ACM Digital Library, dblp, Google Scholar. All submitted papers will be evaluated by at least three reviewers on the basis of their originality, technical quality, scientific or practical contribution to the state of the art, methodology, clarity, and adequacy of references.
+
+Authors should consult Springer's authors' guidelines [0] and use Springer's LaTeX templates [1] for the preparation of their papers. Submitted full papers must not exceed 16 pages excluding references. Short papers (i.e. tool demonstrations and extended poster abstracts) must not exceed 4 pages, also excluding references. Papers must be unpublished and not be submitted for publication elsewhere.
+Papers should be submitted electronically using EasyChair [2]. Springer encourages authors to include their ORCIDs in their papers.
+
+Authors of tool papers (both regular and demonstration) must make their tools and input data available to reviewers; reproducibility of results will be taken into account during the evaluation process, and the conference will include a demo session. Authors should present use cases, distinctive features, and computational/memory requirements through motivating examples. Theoretical background need not be presented in tool demonstration papers; substantial improvements are required for existing tools. If accepted after peer-review, the authors may choose to have the extended poster abstract (4 pages long) included in the proceedings.
+
+Full papers will participate in the competence for the best paper award, elected by the programme committee. A best poster award will be elected by the QEST 2020 participants among the posters presented in the venue. Accepted tool demonstrations are invited to join the poster competition. We thank Springer for support with these awards. A selection of the best full papers will be invited to submit an extended version of their paper to a special issue in the Performance Evaluation journal [3].
+
+[0] ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf
+[1] ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip
+[2] https://easychair.org/my/conference?conf=qest2020
+[3] https://www.journals.elsevier.com/performance-evaluation/
+
+------------------------------------------------------------------------
+
+Contact & links
+
+Submissions: https://easychair.org/my/conference?conf=qest2020
+Call for Papers as PDF: http://www.qest.org/qest2020/publicity/QEST_2020_CfP.pdf
+Publicity chair: Carlos E. Budde (c dot e dot budde <at> utwente dot nl)

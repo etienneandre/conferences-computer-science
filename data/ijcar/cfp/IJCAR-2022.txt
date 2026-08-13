@@ -1,0 +1,152 @@
+IJCAR 2022 - Call for Papers
+https://easychair.org/smart-program/IJCAR2022/.
+
+***Important Dates***
+Submission deadline	February 11, 2022
+Start of authors response period	April 16, 2022
+End of authors response period	April 18, 2022
+Authors notification	April 25, 2022
+************
+
+
+****Overview*****
+IJCAR is the premier international joint conference on all aspects of automated 
+reasoning. IJCAR 2022 is the 11th edition of IJCAR. It will be held in Haifa 
+(Israel), during August 7-12, 2022, as part of FLoC 2022.
+
+IJCAR 2022 is the merger conference of the following leading events in 
+automated reasoning: 
+    CADE (Conference on Automated Deduction)
+    FroCoS (Symposium on Frontiers of Combining Systems)
+    TABLEAUX (Conference on Analytic Tableaux and Related Methods)
+
+
+****Submission Guidelines****
+IJCAR 2022 invites submissions related to all aspects of automated or
+interactive reasoning, including foundations, implementations, and 
+applications. All papers must be original and not simultaneously submitted to 
+another journal or conference. The following paper categories are welcome:
+
+- Regular papers describing solid new research results. They can be up to 16 
+pages long, including figures but excluding references and appendices. Where 
+applicable, regular papers  are supported by experimental validation. 
+Submissions reporting on case studies in an industrial context are strongly 
+invited as regular papers, and should describe details, weaknesses and strength 
+in sufficient depth.
+
+- System description papers describing implementations of systems, reporting on 
+novel features and experiments with implemented systems. System description 
+papers can be up to 7 pages long, including figures but excluding references 
+and appendices. System description papers should also be supported by a link to 
+the artifact/experimental evaluation available to the reviewers. Each of these 
+papers should mention the phrase ``(system description)" beneath the title. 
+Papers describing tools that have already been presented in other conferences 
+before will be accepted only if significant and clear enhancements to the tool 
+are reported and implemented.
+
+Both types of papers must be formatted using the Springer LNCS styles and 
+submitted in PDF via EasyChair:
+    https://easychair.org/conferences/?conf=ijcar2022
+
+Authors of accepted papers are required to ensure that at least one of them 
+will present the paper at the conference.
+
+****List of Topics****
+IJCAR 2022 topics include the following ones:
+
+* Logics of interest include: propositional, first-order, classical, equational,
+higher-order, non-classical, constructive, modal, temporal, many-valued, 
+substructural, description, type theory.
+
+* Methods of interest include: tableaux, sequent calculi, resolution, model-
+elimination, inverse method, paramodulation, term rewriting, induction, 
+unification, constraint solving, decision procedures,model generation, model 
+checking, semantic guidance, interactive theorem proving, logical frameworks, 
+AI-related methods for deductive systems, proof presentation, automated theorem 
+proving, combination of decision or proof procedures, SAT and SMT solving,   
+integration of proof assistants with automated provers and other symbolic 
+tools, etc.
+
+* Applications of interest include: verification, formal methods, program 
+analysis and synthesis, computer mathematics, declarative programming, 
+deductive databases, knowledge representation, education, formalization of 
+mathematics etc.
+
+****Publication****
+IJCAR 2022 proceedings will be published in the Springer LNCS series. Springer 
+encourages authors to include their ORCIDs in their papers.
+
+****Conference Chair****
+Arnon Avron (Tel-Aviv University)
+
+****Program Committee Chairs****
+Jasmin Blanchette (Vrije Universiteit Amsterdam) - chair
+Laura Kovacs (Vienna University of Technology) - chair
+Dirk Pattinson (The Australian National University) - chair
+
+****Workshop Chairs****
+Simon Robillard (Université de Montpellier)
+Sophie Tourret (Max Planck Institute for Informatics))
+
+****Tutorials and Competition Chair****
+Yoni Zohar (Stanford University)
+
+****Publicity Chair****
+Geoff Sutcliffe (University of Miami)
+
+****Program Commitee****
+Erika Abraham (RWTH Aachen University)
+Carlos Areces (FaMAF - Universidad Nacional de Córdoba)
+Bernhard Beckert (Karlsruhe Institute of Technology)
+Alexander Bentkamp (Vrije Universiteit Amsterdam)
+Armin Biere (Albert-Ludwigs-Universität Freiburg)
+Nikolaj Bjørner (Microsoft)
+Jasmin Blanchette (Vrije Universiteit Amsterdam) 
+Frédéric Blanqui (INRIA)
+Maria Paola Bonacina (Università degli Studi di Verona)
+Kaustuv Chaudhuri (INRIA)
+Agata Ciabattoni (Vienna University of Technology)
+Stéphane Demri (CNRS, LMF, ENS Paris-Saclay)
+Clare Dixon (University of Manchester)
+Huimin Dong (Sun Yat-Sen University)
+Katalin Fazekas (TU Wien)
+Mathias Fleury (University of Freiburg)
+Pascal Fontaine (Université de Liège, Belgium)
+Nathan Fulton  (IBM Corporation)
+Silvio Ghilardi (Dipartimento di Matematica, Università degli Studi di Milano)
+Jürgen Giesl (RWTH Aachen University)
+Rajeev Gore (The Australian National University)
+Marijn Heule (Carnegie Mellon University)
+Radu Iosif (Verimag, CNRS, University of Grenoble Alpes)
+Mikolas Janota (Czech Technical University in Prague)
+Moa Johansson (Chalmers University of Technology)
+Cezary Kaliszyk (University of Innsbruck)
+Laura Kovacs (Vienna University of Technology) 
+Orna Kupferman (Hebrew University)
+Cláudia Nalon (University of Brasília)
+Vivek Nigam (Huawei ERC)
+Tobias Nipkow (Technical University of Munich)
+Jens Otten (University of Oslo)
+Dirk Pattinson (The Australian National University)
+Nicolas Peltier (CNRS - LIG)
+Brigitte Pientka (McGill University)
+Elaine Pimentel (UFRN)
+André Platzer (Carnegie Mellon University)
+Giles Reger (Amazon Web Services and The University of Manchester)
+Andrew Reynolds (University of Iowa)
+Simon Robillard (Université de Montpellier)
+Albert Rubio (Universidad Complutense de Madrid)
+Philipp Ruemmer (Uppsala University)
+Renate A. Schmidt (The University of Manchester)
+Stephan Schulz (DHBW Stuttgart)
+Roberto Sebastiani (University of Trento)
+Martina Seidl (Johannes Kepler University Linz)
+Viorica Sofronie-Stokkermans (University Koblenz-Landau)
+Lutz Straßburger (INRIA Saclay --- Ile-de-France)
+Martin Suda (Czech Technical University in Prague)
+Tanel Tammet (Tallinn University of Technology)
+Sophie Tourret (Max Planck Institute for Informatics)
+Uwe Waldmann (MPI for Informatics)
+Christoph Weidenbach (Max Planck Institute for Informatics)
+Sarah Winkler (Free University of Bozen-Bolzano)
+Yoni Zohar (Stanford University)

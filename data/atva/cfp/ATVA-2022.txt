@@ -1,0 +1,112 @@
+-----------------------------------------------------------
+CALL FOR PAPERS - ATVA 2022
+-----------------------------------------------------------
+(apologies for multiple copies)
+
+The 20th International Symposium on Automated Technology for Verification and Analysis (ATVA 2022), 25 - 28 Oct 2022, Beijing, China.
+ATVA 2022 will be hybrid in the sense that the authors can choose to attend physically or virtually, depending on their specific situations, including visas, flights, etc.
+
+https://atva-conference.org/2022/
+
+ATVA 2022 is the 20th in a series of symposia aimed at bringing together academics, industrial researchers and practitioners in the area of theoretical and practical aspects of automated analysis, synthesis, and verification of hardware, software, and machine learning (ML) systems.
+------------------------------------
+Important Dates (updated)
+------------------------------------
+Abstract submission: May 1 (AOE), 2022
+Paper submission: May 8 (AOE), 2022
+Notification: June 24, 2022
+Camera-ready: July 22, 2022
+Conference: October 25 - 28, 2022
+
+------------------------------
+Scope
+------------------------------
+ATVA solicits high-quality submissions in the following suggestive list of topics:
+* Formalisms for modeling hardware, software and cyber-physical systems
+* Specifications and correctness criteria for programs and systems
+* Decision procedures and solvers for verification and synthesis
+* Deductive, algorithmic, compositional, and abstraction/refinement techniques for analysis and verification
+* Program analysis and software verification
+* Analysis and verification of hardware circuits and systems-on-chip * Analysis and verification of parallel and concurrent systems
+* Analysis of probabilistic and cyber-physical systems
+* Analysis and verification of machine learning algorithms and systems
+* Formal models and methods for security and privacy
+* Formal models and methods for biological systems
+* Testing and runtime analysis based on verification technology
+* Synthesis for hardware and software systems
+* Applications and case studies
+* Verification in industrial practice
+
+------------------------------
+Submission and Publication
+------------------------------
+ATVA welcomes submissions in the following two categories:
+1) Regular research papers (16 pages, including references)
+2) Tool papers (6 pages, including references)
+
+Submissions must be in Springer's LNCS format. Additional material may be placed in an appendix, to be read at the discretion of the reviewers and to be omitted in the final version. Formatting style files and further guidelines for formatting can be found at the Springer website. Tool papers must include information about a URL from where the tool can be downloaded or accessed online for evaluation. The URL must also contain a set of examples and a user manual that describes the usage of the tool through the examples. In case the tool needs to be downloaded and installed, the URL must contain instructions for installation of the tool on Linux/Windows/macOS.
+
+Accepted papers in both categories will be published in Springer's Lecture Notes in Computer Science series. At least one author of each accepted paper is expected to register and present the paper at the conference.
+
+Authors should consult Springer's authors' guidelines,
+http://www.icdht.org/wp-content/uploads/2018/05/Springer_Guidelines_for_Authors_of_Proceedings.pdf,
+and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+
+Papers must be submitted through EasyChair.
+https://easychair.org/conferences/?conf=atva2022
+
+------------------------------
+Organising Committee
+------------------------------
+General Chair:
+Huimin Lin, Institute of Software, Chinese Academy of Sciences, China
+
+Program Co-Chairs:
+Ahmed Bouajjani, IRIF, Paris-Diderot University, France
+Lukáš Holík, Brno University of Technology, Czech Republic
+Zhilin Wu, Institute of Software, Chinese Academy of Sciences, China
+
+Local Organization Chair:
+Rongjie Yan, Institute of Software, Chinese Academy of Sciences, China
+
+Program committee members (in alphabetic order):
+- Eugene Asarin, IRIF, University Paris Diderot, France
+- Christel Baier, TU Dresden, Germany
+- Supratik Chakraborty, IIT Bombay, India
+- Yu-Fang Chen, Academia Sinica, Taiwan
+- Taolue Chen, Birkbeck, University of London, United Kingdom
+- Yunja Choi, Kyungpook National University, South Korea
+- Alessandro Cimatti, Fondazione Bruno Kessler, Italy
+- Hung Dang Van, UET, Vietnam National University, Vietnam
+- Cezara Dragoi, Inria Paris, ENS, France
+- Michael Emmi, Amazon Web Services, United States
+- Bernd Finkbeiner, CISPA Helmholtz Center for Information Security, Germany
+- Hongfei Fu, Shanghai Jiao Tong University, China
+- Vijay Ganesh, University of Waterloo, Canada
+- Ichiro Hasuo, National Institute of Informatics, Japan
+- Fei He, Tsinghua University, China
+- Zhe Hou, Griffith University, Australia
+- Jie-Hong Roland Jiang, National Taiwan University, Taiwan
+- Orna Kupferman, Hebrew University, Israel
+- Anthony Widjaja Lin, TU Kaiserslautern, Germany
+- Roland Meyer, TU Braunschweig, Germany
+- Kedar Namjoshi, Bell Lab, United States
+- K. Narayan Kumar, Chennai Mathematical Institute, India
+- Mizuhito Ogawa, Japan Advanced Institute of Science and Technology, Japan
+- Doron Peled, Bar Ilan University, Israel
+- Andreas Podelski, University of Freiburg, Germany
+- Pavithra Prabhakar, Kansas State University, United States
+- Andrew Reynolds, University of Iowa, United States
+- Adam Rogalewicz, Brno University of Technology, Czech Republic
+- Philipp Ruemmer, Uppsala University, Sweden
+- Cesar Sanchez, IMDEA Software Institute, Spain
+- Arnaud Sangnier, IRIF, Univ Paris Diderot, CNRS, France
+- Sven Schewe, University of Liverpool, United Kingdom
+- Mihaela Sighireanu, LMF, ENS Paris-Saclay, Université Paris-Saclay and CNRS, France
+- Fu Song, School of Information Science and Technology, ShanghaiTech University, China
+- Jiri Srba, Aalborg University, Denmark
+- B Srivathsan, Chennai Mathematical Institute, India
+- Jun Sun, Singapore Management University, Singapore
+- Margus Veanes, Microsoft, United States
+- Chao Wang, University of Southern California, United States
+- Bow-Yaw Wang, Academia Sinica, Taiwan

@@ -28,3 +28,7 @@ artifact = "Optional Artifact Evaluation (AE) to assess reproducibility."
 [extra]
 colocated = "Part of CPS-IoT Week."
 notes = "Two tracks (Systems and Applications / Applied Methodologies and Foundations)."
+
+[[cfp]]
+file = "cfp/RTAS-2026.txt"
+stage = "initial"

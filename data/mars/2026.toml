@@ -23,3 +23,11 @@ gender_balance = "mixed"
 [extra]
 colocated = "Satellite of ETAPS."
 notes = "In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
+
+[[cfp]]
+file = "cfp/MARS-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/MARS-2026-extended.txt"
+stage = "extended"

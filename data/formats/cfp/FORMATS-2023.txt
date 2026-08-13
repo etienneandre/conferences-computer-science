@@ -1,0 +1,116 @@
+FORMATS 2023: call for papers
+
+21st International Conference on Formal Modeling and Analysis of Timed Systems
+
+https://www.uantwerpen.be/en/conferences/confest-2023/formats/
+
+19-21 September 2023, Antwerp, Belgium
+co-located with CONCUR, FMICS and QEST as part of CONFEST 2023
+
+SCOPE & TOPICS
+
+FORMATS (International Conference on Formal Modeling and Analysis of Timed Systems) is an annual conference which aims to promote the study of fundamental and practical aspects of timed systems, and to bring together researchers from different disciplines that share interests in the modelling, design and analysis of timed computational systems. The conference aims to attract researchers interested in real-time issues in hardware design, performance analysis, real-time software, scheduling, semantics and verification of real-timed, hybrid and probabilistic systems.
+
+Typical topics include (but are not limited to):
+
+- Foundations and Semantics: Theoretical foundations of timed systems, languages and models (e.g., timed automata, timed Petri nets, hybrid automata, timed process algebra, max-plus algebra, probabilistic models).
+
+- Methods and Tools: Techniques, algorithms, data structures, and software tools for analyzing timed systems and resolving temporal constraints (e.g., scheduling, worst-case execution time analysis, optimization, model checking, testing, constraint solving).
+
+- Applications: Adaptation and specialization of timing technology in application domains in which timing plays an important role (e.g., real-time software, hardware circuits, scheduling in manufacturing and telecommunication, robotics).
+
+This year, FORMATS will incorporate a special track on:
+- Monitoring of cyber-physical systems. We encourage the submission of papers on all approaches related to the monitoring of cyber-physical systems, including monitoring methods, monitoring applications (such as robustness-guided falsification), and related techniques (such as validation of a formal specification for monitoring).
+
+INVITED SPEAKERS
+
+FORMATS 2023 will feature the following invited speakers:
+
+- Joost-Pieter Katoen, RWTH Aachen University, Germany (joint with all CONFEST conferences)
+- Nicolas Markey, CNRS & University of Rennes, France (joint with CONCUR)
+- David Parker, Oxford University, UK (joint with QEST, CONCUR)
+- Jaco van de Pol, Aarhus University, Denmark (joint with CONCUR, FMICS)
+
+PAPER SUBMISSION
+
+FORMATS 2023 solicits high-quality papers describing research results, experience reports and/or tools related to the topics mentioned above. Submitted papers must contain original, unpublished contributions, not submitted for publication elsewhere. The papers should be submitted electronically in PDF, following the Springer LNCS style guidelines. FORMATS 2023 has two categories of papers:
+
+- Regular papers, which should not exceed 15 pages in length
+
+- Short papers, which should not exceed 7 pages in length
+
+Both page limits exclude references, which are not limited in length. If necessary, the paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee. Each paper will undergo a thorough review process. Papers should be submitted electronically via the EasyChair online submission system: https://easychair.org/conferences/?conf=formats2023
+
+ARTIFACT EVALUATION
+
+FORMATS encourages authors to submit artifacts where appropriate, for example to demonstrate how to reproduce experimental data in a research paper or to examine the usability and applicability of a software tool. Artifacts will be evaluated by the Artifact Evaluation Committee and those that are accepted will receive a repeatability badge to be displayed on the first page of the published paper.
+
+PUBLICATION AND BEST PAPER AWARD
+
+The proceedings of FORMATS 2023 will be published by Springer in the Lecture Notes in Computer Science series. The best paper of the conference will be awarded the Oded Maler Award in Timed Systems.
+
+IMPORTANT DATES
+
+- Abstract submission: 21 April 2023
+- Paper submission: 28 April 2023
+- Acceptance notification: 16 June 2023
+- Camera-ready deadline: 14 July 2023
+- Conference: 19-21 September 2023
+
+​​For any questions, feel free to contact the program chairs Laure Petrucci (Laure.Petrucci@lipn.univ-paris13.fr) and Jeremy Sproston (sproston@di.unito.it).
+
+ORGANISATION
+
+Program Chairs
+- Laure Petrucci (France)
+- Jeremy Sproston (Italy)
+
+Artifact Evaluation Chairs
+- Arnd Hartmanns (The Netherlands)
+- Paolo Zuliani (UK)
+
+Special Track Chair
+- Masaki Waga (Japan)
+
+Program Committee
+- Parosh Aziz Abdulla, Uppsala University, Sweden
+- Marcello M. Bersani, Politecnico di Milano, Italy
+- Patricia Bouyer-Decitre, CNRS & ENS Paris-Saclay, France
+- Pedro R. D'Argenio, National University of Córdoba, Argentina
+- Jyotirmoy Deshmukh, University of Southern California, USA
+- Catalin Dima, University Paris-Est Créteil, France
+- Miriam García Soto, Complutense University of Madrid, Spain
+- Gilles Geeraerts, Université Libre de Bruxelles, Belgium
+- Taylor T. Johnson, Vanderbilt University, USA
+- Jan Křetínský, Technical University of Munich, Germany
+- Engel Lefaucheux, INRIA Nancy & LORIA, Université de Lorraine, France
+- Jun Liu, University of Waterloo, Canada
+- Manuel Mazo Jr, Delft University of Technology, The Netherlands
+- Benjamin Monmege, Aix-Marseille Université, France
+- Dejan Ničković, Austrian Institute of Technology, Austria
+- Nicola Paoletti, King's College London, UK
+- Laure Petrucci, University Sorbonne Paris Nord & CNRS, France (chair)
+- Krishna S., IIT Bombay, India
+- Ocan Sankur, CNRS & Rennes University, France
+- Sadegh Soudjani, Newcastle University, UK
+- Jeremy Sproston, University of Turin, Italy (chair)
+- Jiri Srba, Aalborg University, Denmark
+- B. Srivathsan, Chennai Mathematical Institute, India
+- Natalie Sznajder, Sorbonne Université & CNRS, France
+- Patrick Totzke, University of Liverpool, UK
+- Stavros Tripakis, Northeastern University, USA
+- Enrico Vicario, University of Florence, Italy
+- Masaki Waga, Kyoto University, Japan
+- Naijun Zhan, Chinese Academy of Sciences, China
+
+Steering Committee
+- Rajeev Alur (USA)
+- Eugene Asarin (France)
+- Martin Fränzle (chair, Germany)
+- Thomas A. Henzinger (Austria)
+- Joost-Pieter Katoen (Germany)
+- Kim G. Larsen (Denmark)
+- Oded Maler (founding chair, France) (1957-2018)
+- Pavithra Prabhakar (USA)
+- Mariëlle Stoelinga (The Netherlands)
+- Wang Yi (Sweden)

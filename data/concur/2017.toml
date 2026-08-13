@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Colocated with FORMATS and QEST. Some of the best papers accepted to CONCUR 2016 will be invited to submit a full version to a special issue of LMCS (Logical Methods in Computer Science)."
+
+[[cfp]]
+file = "cfp/CONCUR-2017.txt"
+stage = "initial"

@@ -1,0 +1,33 @@
+Dear Colleagues,
+
+Please find below the short CFP for FCT 2019, to be held in Copenhagen in August.
+_______________________________________________
+
+22nd Symposium on Fundamentals of Computation Theory
+
+Time: August 11-14, 2019
+Place: University of Copenhagen, Denmark
+Symposium website: https://di.ku.dk/fct2019/
+
+Authors are invited to submit original research papers in all areas
+related to the foundations of computer science (algorithms,
+complexity, and formal methods).
+
+Important dates
+
+* Abstract registration: March 31, 2019 (AoE)
+* Full-paper submission: April 7, 2019 (AoE)
+* Notification to authors: May 19, 2019
+* Camera-ready submission: June 2, 2019
+* Symposium: August 11-14, 2019
+
+About the symposium
+
+The Symposium on Fundamentals of Computation Theory (FCT) was
+established in 1977 for researchers interested in all aspects of
+theoretical computer science, in particular, in algorithms,
+complexity, formal and logical methods. FCT is a biennial conference
+that circulates on a regular basis in Eastern Europe, Western Europe,
+and the Nordic countries.
+
+For an extended version of the CFP: http://hjemmesider.diku.dk/~jyrki/Event/fct-cfp.pdf

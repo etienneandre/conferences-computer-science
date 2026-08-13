@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Authors of selected papers will be invited to submit extended article versions to a special issue of Innovations in Systems and Software Engineering: A NASA Journal or of International Journal of Critical Computer-Based Systems.."
+
+[[cfp]]
+file = "cfp/VECOS-2017-extended.txt"
+stage = "extended"

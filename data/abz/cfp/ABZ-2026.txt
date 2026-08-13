@@ -1,0 +1,87 @@
+----------------------------------------
+ABZ 2026: 12th International Conference on Rigorous State Based Methods
+Tokyo, Japan, May 18-20, 2026
+https://abz-conf.org/site/2026/
+(co-located with FM 2026)
+----------------------------------------
+
+The ABZ conference is dedicated to the cross-fertilization of
+state-based and machine-based formal methods, like Abstract State
+Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common
+conceptual foundation and are widely used in both academia and
+industry for the design and analysis of hardware and software systems.
+The conference aims for a vital exchange of knowledge and experience
+among the research communities around different formal methods.
+
+The 12th instalment of the ABZ conference will be held in Tokyo,
+Japan, co-located with FM 2026 (The 27th International Symposium on
+Formal Methods).
+
+--------------------
+Research Track (Main Track)
+--------------------
+
+Contributions are solicited on all aspects of the theory and
+applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based
+rigour approaches in software/hardware engineering, including the
+development of tools and industrial applications. The program spans
+from theoretical and methodological foundations to practical
+applications, emphasizing system engineering methods and tools that
+are distinguished by mathematical rigor and have proved to be
+industrially viable. The main goal of the conference is to contribute
+to the integration of accurate state- and machine-based system
+development methods, clarifying their commonalities and differences to
+better understand how to combine different approaches for
+accomplishing the various tasks in modeling, experimental validation,
+mathematical verification of reliable high-quality hardware/software
+systems. Although organized to host several formal methods in a single
+event, editorial control of the joint conference is vested in one
+integrated program committee.
+
+Paper Category
+- Full research papers
+- Short papers
+- Application in industry papers
+- Journal-First papers
+
+See more details on the web site:
+https://abz-conf.org/site/2026/maintrack/
+
+--------------------
+Case Study Track:
+Planetary Rover
+--------------------
+
+The objective of this track is to enrich the set of case studies (
+https://abz-conf.org/case-studies/) developed with Rigorous State
+Based Methods with a practical and real-life case study. Its goal is
+also cross-fertilisation, enabling practitioners of the individual
+formal methods to better understand each other.
+
+The case study is about an autonomous planetary rover.
+
+See more details on the web site:
+https://abz-conf.org/site/2026/casestudy/
+
+-------------------
+Important Dates for both Main/Case Study Tracks
+-------------------
+
+Abstract submission: February 9, 2026 AOE
+Paper submission: February 16, 2026 AOE
+Notification: March 13, 2026
+Final version: March 23, 2026
+
+-------------------
+Workshops, Tutorials, and Doctoral Symposium
+-------------------
+
+These sub-events are organized as part of FM 2026.
+Please refer to the calls on the FM 2026 web site.
+https://conf.researchr.org/home/fm-2026
+
+
+-------------------------
+Fuyuki Ishikawa
+
+

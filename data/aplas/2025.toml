@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Light double-blind reviewing process. Best paper award. Rebuttal: 7-9 July 2025."
+
+[[cfp]]
+file = "cfp/APLAS-2025.txt"
+stage = "initial"

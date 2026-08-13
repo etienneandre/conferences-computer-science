@@ -26,3 +26,7 @@ submitted = 75
 
 [extra]
 notes = "Helena Rasiowa Award for the best student paper."
+
+[[cfp]]
+file = "cfp/CSL-2023.txt"
+stage = "initial"

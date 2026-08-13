@@ -17,3 +17,7 @@ publisher = "None (?)"
 
 [extra]
 notes = "Co-located with CONFESTA"
+
+[[cfp]]
+file = "cfp/TIPS-2018.pdf"
+stage = "initial"

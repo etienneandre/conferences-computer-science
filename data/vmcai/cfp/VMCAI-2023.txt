@@ -1,0 +1,26 @@
+VMCAI 2023 Call for Papers 
+
+VMCAI 2023 is the 24th International Conference on Verification, Model Checking, and Abstract Interpretation. The conference will be held during January 15-17, 2023 (colocated with POPL 2023). VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas.
+
+
+Important Dates
+All deadlines are AoE (Anywhere on Earth).
+* Paper submission: September 8th, 2022
+* Artifact submission: September 15th, 2022
+* Notification: October 13th, 2022 
+* Camera-ready version due: November 10th, 2022 
+
+Paper Submission
+All paper submissions will undergo a single-blind review process and will be judged on the basis of significance, relevance, correctness, originality, and clarity. Submission link: https://easychair.org/my/conference?conf=vmcai2023 
+
+
+Regular papers (20 pages max.) 
+Tool papers (12 pages max.) 
+Case study (20 pages max.
+
+All submissions will be in Springer LNCS style. 
+
+Artifacts
+As in previous years, we encourage authors to submit a virtual machine image containing any artifacts and evaluations presented in the paper. Artifact submission is optional. Artifact evaluation will be concurrent with paper review.  
+
+The full CFP at https://vmcai-2023.github.io/call-for-papers has additional details. 

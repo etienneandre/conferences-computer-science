@@ -1,0 +1,134 @@
+---------------------------------------------------------------------------
+                           Call for Contributions
+---------------------------------------------------------------------------
+                              ICPE 2023
+   14th ACM/SPEC International Conference on Performance Engineering
+		Sponsored by ACM SIGMETRICS, SIGSOFT, and SPEC RG
+
+                          April 15 - 19, 2023
+			  Coimbra, Portugal
+
+                 Web:     https://icpe2023.spec.org
+                 Twitter: https://twitter.com/ICPEconf
+
+---------------------------------------------------------------------------
+
+IMPORTANT DATES
+---------------
+
+Research track abstracts:                                Oct 14, 2022 (AoE)
+Research track papers:                                   Oct 21, 2022 (AoE)
+Research track notification:                             Dec 29, 2022 (AoE)
+
+Industry track papers:                                   Oct 21, 2022 (AoE)
+Industry track notification:                             Dec 29, 2022 (AoE)
+
+Workshop proposals submission:                           TBA
+
+Artifact track submission:                               Jan 7, 2023    (AoE)
+Data challenge submission:                               TBA
+Poster and demo submission:                              TBA
+Tutorial proposals submission:                           TBA
+Emerging research track submission:                      TBA
+
+
+
+SCOPE AND TOPICS
+----------------
+
+The ACM/SPEC International Conference on Performance Engineering (ICPE) is
+the leading international forum for presenting and discussing novel ideas,
+innovations, trends, and experiences in the field of performance engineering.
+
+Performance, energy efficiency, and reliability are becoming central to the
+acceptance and sustainability of modern computing systems. Digitalization
+brings computing technology closer to people and manages most aspects of
+their life. In turn, human interaction increasingly shapes the behavior of
+computing systems. As a result, our systems become more complex and, therefore,
+more difficult to engineer and understand. We need to be able to manage this
+complexity so that our systems remain reliable, trustable, and performant.
+
+ICPE brings together researchers and practitioners to report on open problems,
+state-of-the-art solutions, and in-progress research in performance engineering
+of software and systems - targeting performance and associated quality attributes
+such as efficiency and reliability in all phases of the computing system
+lifecycle, from specification and development to run time and maintenance.
+
+ICPE deals with performance and associated quality attributes across all
+application domains. We encourage contributions that help extend the
+state-of-the-art in particular, but not exclusively, in the following areas:
+
+    • Measurement and Empirical Evaluation
+    • Modeling
+    • Design and Development Processes
+    • Managing Systems at Runtime
+    • Platform-Related Optimizations
+    • Benchmarking
+
+ICPE caters to a wide range of submission types with five distinct submission
+tracks:
+
+    • Research track for regular research papers on the conference topics
+    • Industry track for contributions connecting to the industry
+    • Artifact track for sharing software and data artifacts
+    • Emerging research track for discussing novel topics
+    • Poster and demo track for short interactive contributions
+
+The conference proceedings are published in ACM Digital Library.
+For more information, including the submission guidelines, visit:
+https://icpe2023.spec.org/call-for-contributions
+
+
+ORGANIZING COMMITTEE
+--------------------
+
+General Chairs
+	- Marco Vieira, University of Coimbra, Portugal
+	- Valeria Cardellini, University of Rome Tor Vergata, Italy
+
+Local Chair
+	- Nuno Antunes, University of Coimbra, Portugal
+
+Research Program Chairs
+	- Antinisca Di Marco, University of L'Aquila, Italy
+	- Petr Tůma, Charles University, Czech Republic
+
+Industry Track Chair
+	- David Daly, MongoDB, USA
+
+Artifact Evaluation Chairs
+	- Diego Perez-Palacin, Linnaeus University, Sweden
+	- Katinka Wolter, Freie Universitaet zu Berlin, Germany
+
+Workshops Chairs
+	- Stefano Iannucci, Roma Tre University, Italy
+	- Ana Lucia Varbanescu, University of Twente and University of
+	    Amsterdam, The Netherlands
+
+Tutorials Chairs
+	- Alberto Avritzer, EsulabSolutions Inc., USA
+
+Posters and Demos Chairs
+	- João Barreto, Universidade Tecnica de Lisboa, Portugal
+	- Daniele Di Pompeo, University of L'Aquila, Italy
+
+Data Challenge Chairs
+	- Diego Costa, Concordia University, Canada
+	- Michele Tucci, Charles University, Czech Republic
+
+Awards Chairs
+	- Ivona Brandic, TU Wien, Austria
+	- Raffaela Mirandola, Politecnico di Milano, Italy
+
+Publicity & Social-Media Chairs
+	- Naghmeh Ivaki, University of Coimbra, Portugal
+	- Gabriele Russo Russo, University of Rome Tor Vergata, Italy
+
+Finance Chair
+	- Nuno Laranjeiro, University of Coimbra, Portugal
+
+Publications Chairs
+	- Daniel Sadoc Menasche, Federal University of Rio de Janeiro, Brazil
+
+Web Chair
+	- José D’Abruzzo Pereira, University of Coimbra, Portugal

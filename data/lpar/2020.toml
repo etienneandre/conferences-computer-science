@@ -17,3 +17,7 @@ notification = [2020-04-08]
 [proceedings]
 publisher = "EPiC Series in Computing"
 license = "free"
+
+[[cfp]]
+file = "cfp/LPAR-2020-extended.txt"
+stage = "extended"

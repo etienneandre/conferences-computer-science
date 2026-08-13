@@ -1,0 +1,120 @@
+**********************************************************************
+
+   LPAR-23: 23rd International Conference on Logic for Programming,
+             Artificial Intelligence and Reasoning
+
+
+Abstract submission:  18 February, 2020
+Paper submission:     22 February, 2020
+Author notification:   8 April, 2020
+Conference dates:     22-27 May, 2020
+Location:             Alicante, Spain
+
+**********************************************************************
+
+The  series of  International  Conferences on  Logic for  Programming,
+Artificial Intelligence  and Reasoning (LPAR)  is a forum  where, year
+after year,  some of  the most  renowned researchers  in the  areas of
+logic, automated reasoning, computational logic, programming languages
+and  their  applications  come  to present  cutting-edge  results,  to
+discuss  advances  in  these  fields,  and  to  exchange  ideas  in  a
+scientifically emerging part of the world.
+
+The 23rd LPAR will be held will  be held in Alicante, Spain, 22-27 May
+2020. The proceedings will be  published by EasyChair Publications, in
+the EPiC Series  in Computing. The volume will be  open access and the
+authors will retain copyright.
+
+Submission Guidelines
+=====================
+
+All  papers  must be  original  and  not simultaneously  submitted  to
+another  journal or  conference.  The following  paper categories  are
+welcome:
+
+Regular papers describing  solid new research results. They  can be up
+to 15 pages  long in EasyChair style, including  figures but excluding
+references  and  appendices  (that   reviewers  are  not  required  to
+read). Where applicable, regular  papers are supported by experimental
+validation. Experimental and tool papers describing implementations of
+systems,  report  experiments  with implemented  systems,  or  compare
+implemented systems. Experimental and  tool papers should be supported
+by a  link to  the artifact/experimental  evaluation available  to the
+reviewers.
+
+The length of  regular papers is limited to 15  pages in the EasyChair
+style  (excluding the  blibliography  and appendices).  The length  of
+experimental and  tool papers is limited  to 8 pages in  the EasyChair
+style (excluding the bibliography and appendices).
+
+Both  types of  papers must  be  electronically submitted  in PDF  via
+EasyChair:
+
+https://easychair.org/conferences/?conf=lpar23
+
+Authors of accepted papers are required to ensure that at least one of
+them will be present at the conference.
+
+List of Topics
+==============
+
+New results in the fields  of computational logic and applications are
+welcome. Also  welcome are  more exploratory presentations,  which may
+examine open  questions and raise fundamental  concerns about existing
+theories  and  practices. Topics  of  interest  include, but  are  not
+limited to:
+
+    Abduction and interpolation methods
+    Answer set programming
+    Automated reasoning
+    Constraint programming
+    Contextual reasoning
+    Decision procedures
+    Description logics
+    Foundations of security
+    Hardware verification
+    Implementations of logic
+    Inconsistency- and exception tolerant reasoning
+    Interactive theorem proving
+    Knowledge representation and reasoning
+    Logic and computational complexity
+    Logic and databases
+    Logic and games
+    Logic and machine learning
+    Logic and the web
+    Logic and types
+    Logic in artificial intelligence
+    Logic of distributed systems
+    Logic of knowledge and belief
+    Logic programming
+    Logical aspects of concurrency
+    Logical foundations of programming
+    Modal and temporal logics
+    Model checking
+    Non-monotonic reasoning
+    Ontologies and large knowledge bases
+    Paraconsistent logics
+    Probabilistic and fuzzy reasoning
+    Program analysis
+    Rewriting
+    Satisfiability checking
+    Satisfiability modulo theories
+    Software verification
+    Specification using logic
+    Unification theory
+
+Program Committee Chairs
+========================
+    Elvira Albert, Complutense University of Madrid
+    Laura Kovacs, TU Wien
+
+Publication
+===========
+The LPAR-23 proceedings will be published  by EasyChair Publication, in the
+EasyChair EPiC Series in Computing.
+
+Contact
+=======
+For more details about the conference, venue and organization, see the
+conference webpage
+    https://easychair.org/smart-program/LPAR23/index.html

@@ -1,0 +1,61 @@
+CALL FOR PAPERS
+
+Thirty-Seventh Annual ACM/IEEE Symposium on
+LOGIC IN COMPUTER SCIENCE (LICS)
+August 2022
+Part of Federated Logic Conference 2022 (Haifa)
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flics.siglog.org%2Flics22&amp;data=04%7C01%7C%7Cff51a459ee1147f25fa108d995590c98%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637705031968457091%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=qvEB1cFrph0raQnQ7ks83aolwdLeh9elotvE%2Fhq89IM%3D&amp;reserved=0
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffloc2022.org%2F&amp;data=04%7C01%7C%7Cff51a459ee1147f25fa108d995590c98%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637705031968457091%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=xTwx42swVvGojVzwA9CV%2FXtJ2fl%2F%2B4PlMFvMO%2FCIICc%3D&amp;reserved=0
+
+
+SCOPE
+
+The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly construed. We invite submissions on topics that fit under that rubric. 
+
+Suggested, but not exclusive, topics of interest include: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification.
+
+
+COVID-19 etc..
+
+For people who cannot travel to Israel, the possibility of remote participation will be ensured.
+
+
+IMPORTANT DATES
+
+Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the extended abstract of the paper. The exact deadline time on these dates is given by anywhere on earth (AoE).
+
+Titles and Short Abstracts Due: 17 January 2022
+Full Papers Due: 21 January 2022
+Author Feedback/Rebuttal Period: 10-13 March 2022
+Author Notification: 14 April 2022
+Conference: 2-5 August 2022 (tentative)
+FLOC: 31 July - 12 August 2022. 
+
+Submission deadlines are firm; late submissions will not be considered. All submissions will be electronic via https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.easychair.org%2Fconferences%2F%3Fconf%3Dlics2022&amp;data=04%7C01%7C%7Cff51a459ee1147f25fa108d995590c98%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637705031968457091%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=2gdRzs3lNWqg%2BD8q8aVnu1MvOp6O8uAzAxfZ4U52eX0%3D&amp;reserved=0.
+
+
+SUBMISSION INSTRUCTIONS
+
+Every full paper must be submitted in the ACM SIGPLAN Proceedings 2-column 10pt format and may be at most 12 pages, excluding references. Latex style files and further submission information is at https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flics.siglog.org%2Flics22%2Fcfp.php&amp;data=04%7C01%7C%7Cff51a459ee1147f25fa108d995590c98%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637705031968457091%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=4WcN6stm6L6rxN19bVIPEgPNyCf%2FnpAFemlEsuZe60Q%3D&amp;reserved=0. 
+
+LICS 2022 will use a lightweight double-blind reviewing process. Following this process means that reviewers will not see the authors’ names or affiliations as they initially review a paper. The authors’ names will then be revealed to the reviewers only once their reviews have been submitted. Please see the website for further details and requirements from the double-blind process.
+
+
+LICS DISTINGUISHED PAPERS (NEW)
+
+Around 10% of accepted LICS papers will be selected as distinguished papers. These are papers that, in the view of the LICS programme committee, make exceptionally strong contribution to the field and should be read by a broad audience due their relevance, originality, significance and clarity.
+
+
+KLEENE AWARD FOR BEST STUDENT PAPER
+
+An award in honour of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee.
+
+
+SPECIAL ISSUES
+
+Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science.
+
+
+PUBLICATION
+
+The official publication date may differ from the first day of the conference. The official publication date may affect the deadline for any patent filings related to published work. We will clarify the official publication date in due course.

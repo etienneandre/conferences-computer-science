@@ -26,3 +26,7 @@ submitted = 98
 
 [extra]
 notes = "Rebuttal Response: 5-9 June, 2023. Part of CONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials."
+
+[[cfp]]
+file = "cfp/CONCUR-2023.txt"
+stage = "initial"

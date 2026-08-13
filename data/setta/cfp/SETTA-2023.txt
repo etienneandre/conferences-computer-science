@@ -1,0 +1,105 @@
+CALL FOR PAPERS
+
+BACKGROUND AND OBJECTIVES
+
+The Symposium on Dependable Software Engineering: Theories, Tools and
+Applications (SETTA) 2023 will be held in Nanjing on November 27-29, 2023.
+
+Formal methods emerged as an important area in computer science and
+software engineering about half a century ago. An international community
+has formed researching, developing and teaching formal theories, techniques
+and tools for software modeling, specification, design and verification.
+However, the impact of formal methods on the quality and improvement of
+software systems is, in practice, lagging behind. This is for instance
+reflected by the challenges in applying formal techniques and tools to
+engineering large-scale systems such as Cyber-Physical Systems (CPS),
+Internet-of-Things (IoT), Enterprise Systems, Cloud-Based Systems, and so
+forth.
+
+The purpose of the SETTA symposium is to bring international researchers
+together to exchange research results and ideas on bridging the gap between
+formal methods and software engineering. SETTA will show research interests
+and results from different groups so as to initiate interest-driven
+research collaboration. It is aiming at academic excellence and its
+objective is to become a flagship conference on formal software engineering
+in China.
+
+To achieve these goals and contribute to the sustainability of the formal
+methods research, it is important for the symposium to attract young
+researchers into the community. Thus, this symposium particularly
+encourages the participation of young researchers and students.
+
+Authors are invited to submit papers on original research, industrial
+applications, or position papers proposing challenges in fundamental
+research and technology. The latter two types of submissions are expected
+to contribute to the development of formal methods and applications thereof
+in software engineering. This is done by either substantiating the
+advantages of integrating formal methods into the development cycle or
+through delineating the need for research by demonstrating weaknesses of
+existing technologies, especially when addressing new application domains.
+
+TOPICS
+
+Topics of interest include, but are not limited to:
+
+   - Requirements specification and analysis
+   - Formalisms for modeling, design and implementation
+   - Model checking, theorem proving, and decision procedures
+   - Scalable approaches to formal system analysis
+   - Formal approaches to simulation, run-time verification, and testing
+   - Integration of formal methods into software engineering practice
+   - Contract-based engineering of components, systems, and systems of
+   systems
+   - Formal and engineering aspects of software evolution and maintenance
+   - Parallel and multicore programming
+   - Embedded, real-time, hybrid, probabilistic, and cyber-physical systems
+   - Mixed-critical applications and systems
+   - Formal aspects of service-oriented and cloud computing
+   - Safety, reliability, robustness, and fault-tolerance
+   - Dependability of smart software and systems
+   - Empirical analysis techniques and integration with formal methods
+   - Applications and industrial experience reports
+   - Software tools to assist the construction or analysis of software
+   systems
+
+RESEARCH PAPERS
+
+Research papers will be published in the SETTA 2023 proceedings as a volume
+in Springer's LNCS series. Papers should be submitted electronically
+through the EasyChair submission website
+<https://easychair.org/conferences/?conf=setta2023>. A selection of papers
+will be invited to special issues of the Elsevier Journal of Systems
+Architecture (JSA) and Software Testing, Verification & Reliability (STVR).
+Important dates (AoE)
+Abstract submission:
+Aug 17, 2023
+Paper submission:
+Aug 24, 2023
+Notification to authors:
+Oct 5, 2023
+Camera-ready version:
+Oct 19, 2023
+Submission Guidelines
+
+All submissions must be in PDF format and should be written in English.
+Submissions can take the form of either regular or short papers. Regular
+papers should not exceed 16 pages (excluding references) in LNCS format.
+Short papers can discuss ongoing research at an early design stage,
+including PhD projects. Short papers should not exceed 6 pages (excluding
+references) in LNCS format. All submitted papers should be unpublished and
+not submitted for publication elsewhere. All accepted papers will have to
+be presented at the conference by one of their authors. Extended versions
+of selected papers will be recommended to special issues of Journal of
+System Architecture (JSA) and of Software Testing, Verification &
+Reliability (STVR) after the proceeding of the conference.
+
+Springer's author instructions for LNCS series' articles can be found on
+overleaf
+<https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg>.
+Finally, the attention of contributing authors is drawn on the code of
+conduct of the publisher
+<https://www.springernature.com/gp/authors/book-authors-code-of-conduct>.
+
+--
+yours,
+Sun Jun

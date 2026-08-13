@@ -1,0 +1,80 @@
+CALL FOR PAPERS
+
+
+===============================================================
+  12th Junior Researcher Workshop on Real-Time Computing
+JRWRTC – October 10, 2018
+===============================================================
+In conjunction with the
+26th International Conference on Real-Time Networks and Systems (RTNS 2018)
+Poitiers, France, 10-12 October, 2018
+https://rtns2018.ensma.fr/workshop.html
+
+
+
+Important Dates
+===================================
+**Submission deadline: September 10, 2018 (extended)**
+
+
+Notification of acceptance: September 23, 2018
+Final manuscript due: September 30, 2018
+Workshop date: October 10, 2018
+ 
+One co-authoring student of each accepted JRWRTC paper
+may register with the early registration fee
+for students shortly after the notification of acceptance.
+
+
+Scope
+=====
+
+
+The purpose of the 12th Junior Researcher Workshop on Real-Time Computing is to bring together junior researchers working on real-time systems (PhD students, postdocs, etc). The workshop provides a relaxed forum to present and discuss new ideas, to explore new research directions, and to review current trends in the real-time systems area. It is based on both short presentations and a poster session to encourage stimulating discussions.
+The scope of the JRWRTC 2018 includes (but is not limited to) the following areas:
+·         Real-time system design and analysis: task and message scheduling, modeling, verification, evaluation, model-driven development, worst-case execution time estimation, distributed systems, fault tolerance, quality of service, security, real-time system benchmarking
+·         Infrastructure and hardware for real-time systems: wired and wireless communication networks, fieldbuses, networked control systems, sensor networks, power-aware scheduling
+·         Software technologies for real-time systems: compilers, programming languages, middleware and component-based technologies, operating systems, tools and benchmarks
+·         Real-time applications: automotive, avionics, telecommunications, process control, multimedia
+ 
+ 
+ 
+ 
+Submissions guidelines
+=======================
+Authors can submit up to 4 pages in double column format, in a font no smaller than 9 points font.
+ 
+Every submission should be co-authored by at least one junior researcher. One author of every accepted paper should be registered to the conference to present the paper in a talk and during the poster session.
+ 
+The submission website is now open through EasyChair:
+https://easychair.org/conferences/?conf=jrwrtc2018
+ 
+
+
+
+Workshop Co-Chairs
+=======================
+Adriana Gogonel, Inria Paris, France
+Georg von der Brüggen, TU Dortmund University, Germany
+ 
+ 
+ 
+Workshop Committee
+=======================
+Andreas Abel, Saarland University, Germany
+Matthias Becker, KTH, Stockholm, Sweden
+Khaoula Boukir, LS2N, France
+Anh Toan Bui Long, LIAS, France
+Daniel Casini, Scuola Superiore Sant'Anna, Italy
+José Fonseca, CISTER/ISEP, Portugal
+Florian Greff, IRT SystemX, Palaiseau, France
+Morteza Mohaqeqi, Uppsala University, Sweden
+Catherine E. Nemitz, UNC, USA
+Antonio Paolillo, ULB, Belgium
+Valentin Touzeau, Inria Grenoble, France
+Maolin Yang, UESTC, China
+Houssam-Eddine Zahaf, CRIStAL, France
+ 
+ 
+For any questions, concerns or comments, please contact the chair
+ jw-rtns2018@ensma.fr

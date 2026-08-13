@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Satellite of ETAPS 2021."
+
+[[cfp]]
+file = "cfp/VPT-2021.txt"
+stage = "initial"

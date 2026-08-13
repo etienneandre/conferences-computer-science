@@ -1,0 +1,68 @@
+Dear All
+
+FSTTCS 2025 is the 45th conference on Foundations of Software Technology and Theoretical Computer Science. It is organized by IARCS, the Indian Association for Research in Computing Science, in association with ACM India. It is a forum for presenting original results in foundational aspects of Computer Science and Software Technology.
+
+FSTTCS 2025 will be held in BITS Pilani, K K Birla Goa Campus during December 17–19, 2025. The conference is being organized as an in-person event.
+
+Important Dates
+
+    Abstract submission deadline: July 4, 2025 AoE
+    Paper submission deadline: July 11, 2025 AoE
+    Rebuttal: August 26–28, 2025
+    Notification to authors: September 15, 2025
+    Deadline for camera-ready papers: TBA
+    Pre-conference workshop(s): December 15 – 16, 2025
+    FSTTCS 2025: December 17 – 19, 2025
+    Post-conference workshop(s): December 20, 2025
+
+Submission link: https://easychair.org/my/conference?conf=fsttcs2025
+
+Submission Guidelines
+
+Submissions must be in electronic form via EasyChair using the LIPIcs LaTeX style file available here. Submissions must not exceed 15 pages (excluding bibliography), but may include a clearly marked appendix containing technical details. The appendix will be read only at the discretion of the program committee. Simultaneous submissions to journals or other conferences with published proceedings are disallowed.
+
+Reviewing for FSTTCS 2025 is double-blind. Hence, authors must make a reasonable effort to ensure that their identity is not easily revealed from the submission itself. Specifically, kindly replace your name and affiliation on the first page with the submission number and do not include any acknowledgements in your submission. Also, authors should cite their prior work in a neutral manner (i.e., instead of saying “We showed”, please write “XYZ et al. showed”). Submitting a paper that is available at a public preprint server (such as, arXiv) is admissible. In that case, please do not cite that version of your work in the submission itself. Submissions violating the page limit or the double-blind policy may face desk rejection.
+
+Accepted papers will be published as proceedings of the conference in the Leibniz International Proceedings in Informatics (LIPIcs) as a free, open, electronic archive with access to all. Authors will retain full rights over their work. The accepted papers will be published under a CC-BY license. For an accepted paper to be included in the proceedings, one of the authors must commit to presenting the paper in person at the conference.
+List of Topics
+Track A
+
+    Algebraic Complexity
+    Algorithms and Data Structures
+    Algorithmic Graph Theory and Combinatorics
+    Approximation Algorithms
+    Combinatorial Optimization
+    Communication Complexity
+    Computational Geometry
+    Computational Learning Theory
+    Cryptography and Security
+    Data Streaming and Sublinear algorithms
+    Economics and Computation
+    Foundations of Machine Learning
+    Parallel, Distributed and Online Algorithms
+    Parameterized Complexity
+    Proof Complexity
+    Quantum Computing
+    Randomness in Computing
+    Theoretical Aspects of Computational Biology
+    Theoretical Aspects of Mobile and High-Performance Computing
+
+Track B
+
+    Automata, Games and Formal Languages
+    Formal Methods
+    Logic in Computer Science
+    Modal and Temporal Logics
+    Models of Concurrent, Distributed and Mobile Systems
+    Models of Timed, Reactive, Hybrid and Stochastic and Quantum Systems
+    Model Theory
+    Principles and Semantics of Programming Languages
+    Program Analysis and Transformation
+    SAT and SMT solving
+    Security protocols
+    Specification, Verification and Synthesis
+    Theorem Proving and Decision Procedures
+
+We particularly welcome papers in Programming Languages and Formal Methods for Track B.
+
+If you have any questions, please feel free to contact us at: fsttcs2025.chairs@gmail.com

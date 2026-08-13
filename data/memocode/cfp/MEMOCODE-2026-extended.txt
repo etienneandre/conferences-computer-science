@@ -1,0 +1,122 @@
+*********************** MEMOCODE 2026 -- Paper submission deadline extended to May 25, 2026 *****************************
+
+
+=====================================================================
+                   Call for Papers - MEMOCODE 2026
+=====================================================================
+24th ACM-IEEE International Symposium on Formal Methods and Models for System Design
+                      IEEE/ACM EMBEDDED SYSTEMS WEEK
+    Barcelona, Spain October 8-9, 2026
+https://memocode2026.github.io/index.html
+
+
+=======================
+Important Dates (after deadline extension)
+=======================
+Paper & Abstract Submission     May 25, 2026 (23:59 AoE)
+Notification of Acceptance      July 10, 2026
+Final Version of Papers         August 17, 2026
+Symposium                       October 8-9, 2026
+=======================
+
+
+
+On its 24th edition, MEMOCODE, originally a forum on methods and models for hardware-software codesign, has become a privileged forum to discuss formal methods and models for the design of cyber-physical systems and the verification of their safety and security requirements.
+
+Dates: October 8-9, 2026 Location: Barcelona, Spain Part of: ESWEEK 2026
+
+
+MEMOCODE brings together researchers and practitioners interested in formal methods for system design and development, to exchange ideas, research results, and lessons learned. The symposium focuses on the foundations and applications of formal methods in the development of hardware, firmware, middleware, and application software for systems, ranging from single embedded devices to highly networked cyber-physical systems and the Internet of Things.
+Topics of Interest
+
+MEMOCODE solicits research papers on formal methods in system design that address the foundations, engineering methods, tools, or experimental case studies. Research areas of interest include, but are not limited to, the following:
+  • Modeling Languages, Methods, and Tools Programming languages and models; software and system modeling languages; architecture and high-level hardware description languages; synchronous languages; timing models; logical execution time (LET); model synthesis methods; model transformation methods; compilation methods.
+  • Formal Methods and Tools Correct-by-construction methods; compilers and synthesis tools; contract-based design and verification; static, dynamic, and type theoretic analysis; verification; validation; probabilistic model checking; test generation; refinement-based and compositional approaches to design and verification.
+  • Models and Methods for Developing Critical Systems Fault-tolerant systems; security-critical and safety-critical systems; cyber-physical systems; hybrid systems; autonomous systems; self-adapting systems; systems that merge humans, artificial intelligence, and cyber-physical systems; societal-scale cyber-physical systems, such as connected vehicles and smart grids.
+  • Quantitative/Qualitative Reasoning Power/performance/cost/latency estimation methods; system models for quantitative design space exploration.
+  • Formal Methods and Models in Practice Design case studies; empirical case studies.
+  • AI for Critical Systems AI modelling; AI-assisted reasoning; AI-guided verification; AI-assisted testing; verification of AI systems; combining AI with classical methods.
+
+
+MEMOCODE 2026 is a part of ESWEEK 2026, which will take place in Barcelona, Spain. Registrations can be bundled to include access to sessions in any of the events, including the conferences (CASES, CODES, EMSOFT), symposia, tutorials, workshops, and education classes.
+
+=======================
+Important Dates (after deadline extension)
+=======================
+Paper & Abstract Submission     May 25, 2026 (23:59 AoE)
+Notification of Acceptance      July 10, 2026
+Final Version of Papers         August 17, 2026
+Symposium                       October 8-9, 2026
+=======================
+
+
+=======================
+Submissions
+=======================
+MEMOCODE 2026 calls for three kinds of submissions: Regular Papers, Late-Breaking Results, and Tool Presentations. All papers must be written in English and formatted according to the IEEE Computer Society guidelines. A double-blind review process will be enforced, and authors must not reveal their identity directly or indirectly. Submission of papers is handled via HotCRP.
+Please be aware of IEEE's submission policies, particularly around multiple submissions and the usage of AI. Submission of work that has previously been published, accepted, or is under review at another publication, is not allowed. The usage of AI should be disclosed as part of the acknowledgments section, in accordance with the guidelines.
+All accepted papers (regular papers, tool papers, and late-breaking papers) will be submitted for inclusion in IEEE Xplore subject to meeting IEEE Xplore's scope and quality requirements. Publication in the proceedings is contingent on one author registering for and presenting the paper at the symposium.
+
+Regular Papers
+---------------
+Regular papers are no longer than ten (10) pages, excluding bibliography and appendices. They should describe original work that does not overlap with another publication or a submission under review or accepted for publication by any other conference or journal. Reviewers will check regular papers for the soundness and novelty of the proposed solutions.
+
+Tool Papers
+-----------
+Tool papers are no longer than eight (8) pages, excluding bibliography and appendices. They should describe an existing and publicly available tool that implements relevant methods. The methods might have been published before, but the tool should not have been described in a tool paper previously. In addition to reviewing the paper, reviewers will assess the tool itself using inputs and a user's manual provided by the authors on the tool's web page.
+
+Late-Breaking (LB) Papers
+-------------------------
+Late-breaking papers are no longer than four (4) pages, excluding bibliography and appendices. They should describe a promising and novel idea with a potential to get breakthrough in the field. Reviewers will judge the novelty of the idea, but do not yet expect proofs for the envisioned results.
+
+Journal-First Track
+-------------------
+MEMOCODE regularly produces a special issue of ACM Transactions on Embedded Computing Systems (ACM TECS) which selects the best papers presented at the symposium along with other outstanding contributions within its scope. This year, MEMOCODE will select and invite the best soon to-be-published articles from its 2025 special issue for presentation at the symposium.
+
+Outstanding Paper Award
+-----------------------
+A selection of papers will be recognized as Outstanding Papers and highlighted on the symposium website.
+
+
+
+=======================
+Contact
+=======================
+
+For questions regarding technical submissions, feel free to contact one of the program committee co-chairs:
+    •    Yamine Ait Ameur (yamine.aitameur@toulouse-inp.fr <mailto:yamine.aitameur@toulouse-inp.fr>)
+    •    Nathan Allen (nathan.allen@aut.ac.nz <mailto:nathan.allen@aut.ac.nz>)
+
+
+
+
+=======================
+Organization
+=======================
+
+General Co-Chairs
+-----------------
+    • Nan Guan, City University of Hong Kong
+    • Dumitru Potop-Butucaru, Inria, France
+
+Program Committee Co-Chairs
+----------------------------
+    • Yamine Ait Ameur, University of Toulouse, France
+    • Nathan Allen, Auckland University of Technology,New Zealand
+
+Steering Committee Chair
+-------------------------
+    • Jean-Pierre Talpin, Inria, France
+
+Steering Committee
+-------------------
+    • Partha Roop, University of Auckland, New Zealand
+    • Naijun Zhan, Peking University, China
+    • Pierluigi Nuzzo, UC Berkeley, US
+    • Srinivas Pinisetty, IIT Bhubaneswar, India
+    • Klaus Schneider, University of Kaiserslautern, Germany
+
+Programme Committee
+--------------------
+    - TBD
+=====================================================================

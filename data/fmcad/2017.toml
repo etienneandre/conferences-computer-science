@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "Author Response Period: 19-23 June, 2017."
+
+[[cfp]]
+file = "cfp/FMCAD-2017.txt"
+stage = "initial"

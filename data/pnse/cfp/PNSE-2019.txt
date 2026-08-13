@@ -1,0 +1,59 @@
+                                  PNSE'19
+
+                        http://www.pnse.de/pnse19
+
+       International Workshop on Petri Nets and Software Engineering
+
+                   Aachen, Germany, June 24-25, 2019
+		
+    a satellite event of Petri Nets 2019, ACSD 2016 and Process Mining 2019
+	
+               More information: http://www.petrinets2019.de/
+
+	      http://www.informatik.uni-hamburg.de/TGI/events/pnse19/
+             Contact e-mail: pnse19@informatik.uni-hamburg.de
+
+                             Important Dates:
+              Deadline for full papers:          March 30th, 2019
+              Deadline for short papers:         March 30th, 2019
+              Notification of paper acceptance:  April 25th, 2019
+              Deadline for posters:              April 27th, 2019
+              Notification of poster acceptance: April 28th, 2019
+              Deadline for final revisions:      April 30th, 2019
+
+                              Invited Speakers
+
+                           Jan Mendling (Austria)
+                     Quotients for Behaviour Comparisons:
+           Monotone Precision and Recall Measures for Process Mining
+
+                          Hans Vangheluwe (Belgium)
+                                    TBA
+
+	                           Topics
+
+We welcome contributions describing original research in topics from
+theory, applications and tools on Petri nets, software engineering or modeling.
+
+                                 Submissions
+
+The program committee invites submissions of
+full contributions (15 (up to 20) pages) or
+short contributions (5 (up to 8) pages).
+Ongoing work (up to 2 pages) can also be presented in a special poster session.
+
+For your submission in PDF format please use the online conference management system at
+
+           https://www.easychair.org/conferences/?conf=pnse19
+
+Some of the best papers from the workshop will be invited for
+publication in a volume of the journal sub-line of Lecture Notes in
+Computer Science entitled "Transactions on Petri Nets and Other Models
+of Concurrency" (ToPNoC). The papers are expected to be thoroughly
+revised and they will go through a totally new round of reviewing as is
+standard practice for journal papers.
+                                    Chairs
+
+                     Ekkart Kindler (Denmark) (Co-Chair)
+                     Daniel Moldt (Germany) (Co-Chair)
+                     Manuel Wimmer (Austria) (Co-Chair)

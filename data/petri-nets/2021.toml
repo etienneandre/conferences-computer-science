@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Includes an ACSD special track. All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited, in an extended form, as submissions to a special issue of a well-established computer science journal."
+
+[[cfp]]
+file = "cfp/PetriNets-2021.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PetriNets-2021-extended.txt"
+stage = "extended"

@@ -1,0 +1,137 @@
+=======================================================================
+                               WCET 2018
+-----------------------------------------------------------------------
+
+                     18th International Workshop on
+                   Worst-Case Execution Time Analysis
+
+                           Barcelona, Spain
+                             July 3, 2018
+
+                     https://wcet2018.wp.imt.fr
+
+
+                      Keynote by Reinhard Wilhelm
+                "Mixed Feelings about Mixed Criticality"
+
+-----------------------------------------------------------------------
+
+                            CALL FOR PAPERS
+
+-----------------------------------------------------------------------
+
+The International Workshop on Worst-Case Execution Time Analysis (WCET
+2018) focuses on the analysis and design of real-time systems in a
+broad sense, with a particular emphasis on techniques to analyze the
+worst-case execution time (WCET) of real-time software. The workshop
+covers topics related to hard and soft real-time systems, program
+analysis, timing analysis, as well as (timing-predictable) hardware
+designs and operating systems. As in previous years, the 18th edition
+of the WCET workshop will be co-located with the Euromicro Conference
+on Real-Time Systems (ECRTS 2018) in Barcelona, Spain, from July 3-6,
+2018.
+
+-----------------------------------------------------------------------
+IMPORTANT DATES
+
+ Paper submission deadline:           April 24, 2018 (23:59 GMT-12)
+ Notification of acceptance:          May 15, 2018
+ Early registration deadline:         May 22, 2018
+ Workshop:                            July 3, 2018
+ Camera-ready version deadline:       August 5, 2018 (after the workshop)
+
+-----------------------------------------------------------------------
+GOALS AND TOPICS
+
+A large class of embedded systems is distinguished from general-purpose
+computing systems by the need to satisfy timing requirements, often
+under resources constraints. The analysis of such real-time systems is
+often challenging due to the interaction of the physical environment
+with the system's software, which in turn interacts with the underlying
+hardware as well as other software components. All these interactions
+make it difficult in practice to guarantee that a system meets all its
+timing requirements. Designers and engineers thus strive for their
+systems to be timing-predictable and analyzable, i.e., facilitate the
+verification of the system's timing behavior.
+
+The WCET workshop covers all aspects related to timing analysis and
+the design of timing-predictable systems, with a particular emphasis on
+worst-case execution time (WCET) analysis. Topics of interest include,
+but are not limited to:
+
+ - Integration of WCET analysis in development processes
+ - Integration of WCET and schedulability analysis
+ - Experimental analysis of the timing behavior of processors
+ - Processor and hardware design for timing predictability
+ - Timing-predictable, resource-aware operating systems
+ - Program design for timing predictability
+ - Flow analysis for WCET, loop bounds, infeasible paths
+ - Low-level timing analysis, modeling and analysis of processor features
+ - WCET analysis for multi-threaded and multi-core systems
+ - Measurement-based WCET analysis
+ - Tools for WCET analysis
+ - Strategies to reduce the complexity of WCET analysis
+ - Compiler-based optimization of worst-case timing
+ - Methods and benchmarks for WCET analysis evaluation
+ - Case studies and industrial experiences of WCET analysis
+ - WCET analysis in the academic curriculum
+
+Statements which are innovative, controversial, or that present new
+approaches are specially sought.
+
+-----------------------------------------------------------------------
+SUBMISSION INSTRUCTIONS
+
+Research papers should present original research results not published
+or submitted for publication in other forums. Accepted papers will be
+published via Schloss Dagstuhl's OASIcs online proceedings series. By
+submitting a paper, the authors agree and confirm that: 1. Neither this
+paper, nor a version close to it, is under submission or will be
+submitted elsewhere before notification by WCET 2018. 2. If accepted, at
+least one author will register for WCET 2018, and present the paper at
+the workshop in person.
+
+Papers submitted for the WCET workshop must be written in English, must
+not exceed 10 pages, should conform with the OASIcs typesetting
+requirements
+(http://www.dagstuhl.de/publikationen/oasics/anleitung-fuer-autoren/),
+and must be submitted in PDF format using the WCET workshop paper
+submission website. Author names, affiliations and self-references
+should not be anonymized.
+
+-----------------------------------------------------------------------
+SUBMISSION PORTAL
+
+Papers should be submitted via EasyChair following this link:
+   https://easychair.org/conferences/?conf=wcet2018
+
+-----------------------------------------------------------------------
+PROGRAM CHAIR
+
+  Florian Brandner, Télécom ParisTech, Université Paris-Saclay
+
+PROGRAM COMMITTEE
+- Armelle Bonenfant, Université Toulouse III - Paul Sabatier, France
+- Björn Lisper, Mälardalen University, Sweden
+- Claire Maiza, Grenoble INP/Verimag, France
+- Clément Ballabriga, Lille 1 University, France
+- Jan Reineke, Saarland University, Germany
+- Jakob Zwirchmayr, TTTech Computertechnik AG - Automotive, Austria
+- Jaume Abella, Barcelona Supercomputing Center, Spain
+- Jörg Mische, Augsburg University, Germany
+- Kartik Nagar, Purdue University, United States
+- Luca Santinelli, ONERA, France
+- Martin Schoeberl, Technical University of Denmark, Denmark
+- Peter Ulbrich, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+- Simon Wegener, AbsInt Angewandte Informatik GmbH, Germany
+- Tullio Vardanega, University of Padua, Italy
+- Xenofon Koutsoukos, Vanderbilt University, USA
+
+
+STEERING COMMITTEE 
+
+- Björn Lisper, Mälardalen University, Sweden
+- Isabelle Puaut, University of Rennes I/IRISA, France
+- Jan Reineke, Saarland University, Germany
+
+=======================================================================

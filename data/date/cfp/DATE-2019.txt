@@ -1,0 +1,32 @@
+Dear Ladies and Gentlemen,
+
+We would like to announce the conference DATE 2019, which will take place from 25 to 29 March 2019 at Firenze Fiera, Fortezza da Basso, in Florence, Italy, and will be chaired by Professor Jürgen Teich, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.
+
+Join us in celebrating another exciting edition of the DATE conference – the top scientific event in Design, Automation, and Test of microelectronics and embedded systems for the academic and industrial research communities worldwide!
+
+The Organizing Committee will prepare an exciting and profound conference programme, focusing on areas that are bringing new challenges to the system design community. The DATE conference covers the design process, test, and automation tools for electronics, ranging from integrated circuits to distributed embedded systems. The conference scope includes both hardware and embedded software design issues. It also includes the elaboration of design requirements and new architectures for challenging application fields such as internet of things, multimedia, healthcare, smart energy, and automotive systems.
+
+Topics are arranged according to four tracks:
+D – Design Methods & Tools
+A – Application Design
+T – Test and Dependability
+E – Embedded and Cyber-Physical Systems
+ 
+Two Special Days in the programme will focus on two areas bringing new challenges to the system design community: "Embedded meets Hyperscale and HPC" and "Model-Based Design of Intelligent Systems".
+
+The vivid accompanying exhibition provides a unique networking opportunity for vendors of tools and services for hardware and embedded software for the design, development and test of Systems-on-Chip, IPs, Embedded Systems, ASICs, FPGAs and PCBs. Furthermore, it is a great venue for industry representatives to meet university professors to foster their university programmes and especially for PhD students to meet their future employers. A full programme in the Exhibition Theatre will again combine presentations by exhibiting companies, best-practice reports by industry leaders on their latest design projects and selected conference special sessions. Additional hot-spots in the exhibition are the University Booth, where the leading universities and research institutes will present their latest research results with hardware and software demonstrators, as well as the dedicated European Projects Booth and the Exhibition Campus.
+
+The whole DATE Executive Committee cordially invites you to join us at this occasion and welcomes all paper submissions for standard oral presentation or for interactive presentation. Furthermore, it encourages proposals for Special Sessions, Monday Tutorials, Friday Workshops, European Projects, the University Booth, PhD Forum, and Exhibition Theatre.
+
+Please click HERE to review the official Call for Papers
+
+For any questions concerning the technical programme, please contact the Programme Chair Franco Fummi, University of Verona, IT:
+Email: papers@date-conference.com
+
+Please kindly note:
+All papers have to be submitted electronically via the conference web page https://www.date-conference.com/submission-instructions by Sunday, 9 September 2018.
+
+It is mandatory that each paper shall be accompanied by at least one different full conference registration at the speaker rate (i.e., two speaker registrations are needed for two accepted papers, e.g. from the main author or a co-author of the paper). Furthermore, at least one author of each accepted paper shall attend the conference in person to present the work. In case of no attendance/presentation in person on-site, the paper will be deleted from the proceedings afterwards (despite of full payment at the speaker rate).
+
+
+Updated information about the conference is always available online at: https://www.date-conference.com/  

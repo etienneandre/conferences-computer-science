@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "A selection of best papers is planned to be invited after the conference to be extended and submitted to a special issue of a major international journal. Artifact evaluation."
+
+[[cfp]]
+file = "cfp/CMSB-2023.txt"
+stage = "initial"

@@ -1,0 +1,57 @@
+************************************************************
+
+VECoS 2025 - 4-6 November 2025, Paris (CEA LIST), France
+
+http://vecos-world.org/2025/
+
+The 18th International Conference on Verification and Evaluation of Computer and Communication Systems will take place on 4-6 November 2025 at Paris (CEA LIST), France
+
+*****************************************************************
+
+-- IMPORTANT DATES --
+
+All the deadlines are AoE (Anywhere on Earth)
+
+* Submission deadline :    		23th June 2025
+
+* Acceptance notification:			1st September 2025
+
+* Camera-ready deadline:			22th September 2025
+
+* Conference:     	    			4-6th November 2025
+
+-- ABOUT VECoS --
+
+The VECoS conference series focuses on the analysis of computer and communication systems, where functional and extra-functional properties are inter-related. VECoS encourages the cross-fertilization between the various formal verification and evaluation approaches, methods and techniques, especially those developed for concurrent and distributed hardware/software systems. VECoS is referenced by https://conferences-computer.science/ and ranked in category C by CORE
+
+Topics and more details can be found at http://vecos-world.org/2025/
+
+An overview of previous VECoS conferences can be found at :
+
+http://vecos-world.org/
+
+
+-- GENERAL INFORMATION ON SUBMISSIONS --
+
+Submitted papers must be no longer than 15 pages (including bibliography), written in English, presenting original work and not be submitted for publication elsewhere.  Papers must be submitted electronically in PDF format through EasyChair (https://easychair.org/conferences/?conf=vecos2025), using the LNCS format (version 2.20 or above).  Accepted papers will appear in the conference proceedings.  At least one author of each accepted paper must attend the conference and present the paper.
+
+The conference proceedings will be published in the Springer-Verlag Lecture Notes in Computer Science (LNCS) series.
+
+Authors of selected papers will be invited to submit extended versions for a special issue of selected papers from the Conference will be considered for publication in extended and revised form in a special issue of an indexed international journal (ISSE:Innovations in Systems and Software Engineering, IJCCBS: International Journal of Critical Computer-Based Systems or Arima journal).
+
+
+-- ORGANIZATION --
+
+Program Co-Chairs
+
+* Sébastien Bardin, CEA LIST, Saclay, France
+
+* Riadh Robbana, INSAT UTC, Tunis, Tunisie
+
+Publicity Chair
+
+* Belgacem Ben Hedia, CEA LIST, Saclay, France
+
+For additional information, visit the conference website:
+
+http://vecos-world.org/2025/

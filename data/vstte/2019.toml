@@ -25,3 +25,7 @@ submitted = 17
 
 [extra]
 notes = "Co-located with CAV 2019. Firm in 2019."
+
+[[cfp]]
+file = "cfp/VSTTE-2019.txt"
+stage = "initial"

@@ -20,3 +20,12 @@ license = "cc-by"
 
 [extra]
 notes = "Co-located with ETAPS. Ongoing work will not be published. A special issue in a renowned international journal is planned in case of a sufficient number of high quality submissions. Cancelled in 2018."
+
+[[cfp]]
+file = "cfp/QAPL-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/QAPL-2019-2.txt"
+stage = "initial"
+note = "revised"

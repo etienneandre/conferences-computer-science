@@ -1,0 +1,151 @@
+==================================
+ICALP 2019 - First Call for Papers
+==================================
+
+https://icalp2019.upatras.gr/
+
+The 46th International Colloquium on Automata, Languages, and Programming (ICALP) 
+will take place in Patras, Greece, on 8-12 July 2019.
+
+ICALP is the main conference and annual meeting of the European Association for 
+Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series 
+of workshops, which will take place on 8 July 2019.
+
+=============== Important dates =======================
+
+Submission deadline: Monday 18 February 2019, 23:59 AoE
+Notification: Friday 19 April 2019
+Early registration deadline: Thursday 30 May 2019
+
+Deadlines are firm; late submissions will not be considered.
+
+===========================
+Submissions and Proceedings
+===========================
+
+ICALP proceedings are published in the Leibniz International Proceedings in 
+Informatics (LIPIcs) series. This is a series of high-quality conference 
+proceedings across all fields in informatics established in cooperation with 
+Schloss Dagstuhl - Leibniz Center for Informatics. LIPIcs volumes are published 
+according to the principle of Open Access, i.e., they are available online and 
+free of charge.
+
+Submission Guidelines
+---------------------
+Authors are invited to submit an extended abstract of no more than 12 pages, 
+excluding references presenting original research on the theory of computer 
+science. All submissions must be formatted in the LIPIcs style 
+https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/) 
+and submitted via Easychair to the appropriate track of the conference. The use 
+of pdflatex and the LIPIcs style are mandatory: papers that deviate significantly 
+from the required format may be rejected without consideration of merit.
+
+No prior publication and no simultaneous submission to other publication outlets 
+(either a conference or a journal) is allowed. 
+
+Technical details necessary for a proper scientific evaluation of a submission 
+must be included in the 12-page submission or in a clearly labelled appendix, to 
+be consulted at the discretion of program committee members. Authors are strongly encouraged 
+to also make full versions of their submissions freely accessible in an on-line 
+repository such as ArXiv, HAL, ECCC.
+
+Best Paper Awards
+-----------------
+As in previous editions of ICALP, there will be best paper and best student paper 
+awards for each track of the conference. In order to be eligible for a best student 
+paper award, a paper should be authored only by students and should be marked as 
+such upon submission.
+
+Topics
+======
+Papers presenting original research on all aspects of theoretical computer science 
+are sought. Typical but not exclusive topics of interest are:
+
+Track A: Algorithms, Complexity and Games
+-----------------------------------------
+* Approximation Algorithms
+* Combinatorial Optimization
+* Combinatorics in Computer Science
+* Computational Biology
+* Computational Complexity
+* Computational Geometry
+* Cryptography
+* Data Structures
+* Design and Analysis of Algorithms
+* Foundations of Algorithmic Game Theory
+* Machine Learning
+* Parallel, Distributed and External Memory Computing
+* Quantum Computing
+* Randomness in Computation
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+-------------------------------------------------------------
+* Algebraic and Categorical Models
+* Automata, Games, and Formal Languages
+* Emerging and Non-standard Models of Computation
+* Databases, Semi-Structured Data and Finite Model Theory
+* Logic in Computer Science, Theorem Proving and Model Checking
+* Models of Concurrent, Distributed, and Mobile Systems
+* Models of Reactive, Hybrid and Stochastic Systems
+* Principles and Semantics of Programming Languages
+* Program Analysis and Transformation
+* Specification, Refinement, Verification and Synthesis
+* Type Systems and Theory, Typed Calculi
+
+Track C: Foundations of Networks and Multi-Agent Systems:
+		 Models, Algorithms and Information Management
+---------------------------------------------------------
+* Algorithmic Aspects of Networks and Networking
+* Algorithmic Game Theory
+* Formal Methods for Network Information Management
+* Foundations of Privacy, Trust and Reputation in Networks
+* Foundations of Complex Networks
+* Message-Passing Models of Distributed Computing
+* Mobile and Wireless Networks and Communication
+* Network Economics and Incentive-Based Computing Related to Networks
+* Networks of Low Capability Devices
+* Network Mining and Analysis
+* Overlay Networks and P2P Systems
+* Specification, Semantics, Synchronization of Networked Systems
+* Theory of Security in Networks
+
+Focus of track C: 
+The aim for Track C is to be the leading venue for theory papers motivated 
+by networking applications, and/or proposing theoretical results relevant 
+to networking, certified analytically.
+
+
+=====================================
+ICALP 2019 Programme Committee Chairs
+=====================================
+
+Track A: Track A: Algorithms, Complexity and Games
+---------------------------------------------------
+* Stefano Leonardi (Sapienza University of Rome, Italy)
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+---------------------------------------------------------------
+* Christel Baier (TU Dresden, Germany)
+
+Track C: Foundations of Networks and Multi-Agent Systems:
+		 Models, Algorithms and Information Management
+---------------------------------------------------------
+* Paola Flocchini (University of Ottawa, Canada)
+
+
+============================
+ICALP 2019 Proceedings Chairs
+============================
+Emanuela Merelli (University of Camerino, Italy) 
+Ioannis Chatzigiannakis (Sapienza University of Rome, Italy)
+
+
+===============================
+ICALP 2019 Organizing Committee
+===============================
+
+Efstratios Gallopoulos
+John Garofalakis
+Christos Kaklamanis
+Sotiris Nikoletseas (Conference Co-Chair)
+Christos Zaroliagis (Conference Co-Chair) 

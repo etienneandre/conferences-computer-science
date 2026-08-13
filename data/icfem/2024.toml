@@ -26,3 +26,15 @@ submitted = 50
 
 [extra]
 notes = "Journal-first presentations. Doctoral symposium."
+
+[[cfp]]
+file = "cfp/ICFEM-2024.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICFEM-2024-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/ICFEM-2024-extended2.txt"
+stage = "extended"

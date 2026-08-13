@@ -25,3 +25,7 @@ award = "FMAS 2025 will honour the best paper selected with respect to reviews, 
 
 [extra]
 journal = "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2025."
+
+[[cfp]]
+file = "cfp/FMAS-2025.txt"
+stage = "initial"

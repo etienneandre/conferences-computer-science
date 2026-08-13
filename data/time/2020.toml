@@ -19,3 +19,7 @@ license = "cc-by"
 
 [extra]
 notes = "Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of a high quality journal to be yet decided."
+
+[[cfp]]
+file = "cfp/TIME-2020.txt"
+stage = "initial"

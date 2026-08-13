@@ -26,3 +26,7 @@ submitted = 96
 
 [extra]
 notes = "Part of QONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials."
+
+[[cfp]]
+file = "cfp/CONCUR-2021.txt"
+stage = "initial"

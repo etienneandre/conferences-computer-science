@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Author Response: June 22-24, 2022. A small number of outstanding FMCAD submissions will be considered for inclusion in a Special Issue of the journal on Formal Methods in System Design (FMSD)."
+
+[[cfp]]
+file = "cfp/FMCAD-2022.txt"
+stage = "initial"

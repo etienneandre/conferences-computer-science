@@ -1,0 +1,238 @@
+Call for papers
+---------------------------------------------------------------
+FSTTCS 2020:
+Foundations of Software Technology and Theoretical Computer Science
+December 14 - 18, 2020
+BITS Pilani, Goa Campus, Goa, India
+https://www.fsttcs.org.in/2020/ <https://www.fsttcs.org.in/2020/>
+Submission deadline: July 17, 2020 AoE (firm).
+Notification to authors: September 14, 2020.
+---------------------------------------------------------------
+
+
+COVID UPDATE
+
+
+Given the unprecedented global situation due to the novel coronavirus
+pandemic, we are making backup plans for an online conference. We will keep
+open the possibility of an in-person meeting as long as possible, and will
+decide on the exact form of the conference later.
+
+
+To address the concerns of authors who may not want to travel this year,
+we guarantee that the option of presenting their  paper remotely will be
+made available to them no matter which form the conference takes (physical or
+online).
+---------------------------------------------------------------
+
+
+FSTTCS 2020 is the 40th conference on Foundations of Software Technology
+and Theoretical Computer Science. It is organised by IARCS, the Indian
+Association for Research in Computing Science. It is a forum for
+presenting original results in foundational aspects of Computer Science
+and Software Technology.
+
+
+List of Topics
+==============
+
+
+Track A
+
+
+ - Algebraic Complexity
+ - Algorithms and Data Structures
+ - Algorithmic Graph Theory and Combinatorics
+ - Approximation Algorithms
+ - Combinatorial Optimization
+ - Communication Complexity
+ - Computational Biology
+ - Computational Complexity
+ - Computational Geometry
+ - Computational Learning Theory
+ - Cryptography and Security
+ - Data Streaming and Sublinear algorithms
+ - Game Theory and Mechanism Design
+ - Parallel, Distributed and Online Algorithms
+ - Parameterized Complexity
+ - Proof Complexity
+ - Quantum Computing
+ - Randomness in Computing
+ - Theoretical Aspects of Mobile and High-Performance Computing
+
+
+Track B
+
+
+ - Automata, Games and Formal Languages
+ - Logic in Computer Science
+ - Modal and Temporal Logics
+ - Models of Concurrent, Distributed and Mobile Systems
+ - Models of Timed, Reactive, Hybrid and Stochastic Systems
+ - Model Theory
+ - Principles and Semantics of Programming Languages
+ - Program Analysis and Transformation
+ - Security Protocols
+ - Specification, Verification and Synthesis
+ - Theorem Proving and Decision Procedures
+
+
+Specification, Verification, and Synthesis
+
+
+This year, in track B, with a view to having sufficient representation in the
+program from "Foundations of Software Technology" we particularly solicit
+submissions in the areas of programming languages and practical verification,
+including but not limited to,
+
+
+* Hardware and software verification
+* Practical verification including case-studies
+* Static analysis and type systems
+* Verification of intelligent, autonomous, and cyber-physical systems
+* Security verification
+
+
+We also encourage proposals for workshops in this area.
+
+
+Invited Speakers
+================
+
+
+* Sanjeev Arora, Princeton University.
+* Albert Atserias, Universitat Politècnica de Catalunya.
+* Yin Tat Lee, University of Washington.
+* Joël Ouaknine, MPI for Software Systems, Saarbrücken and University of Oxford.
+* Sanjit Seshia, University of California, Berkeley.
+* Amir Shpilka, Tel Aviv University.
+
+
+Workshops and co-located events
+===============================
+
+
+Co-located events
+-----------------
+
+
+Workshop on Research Highlights in Programming Languages
+
+
+The workshop will take place over two days concurrent with the main FSTTCS 2020 conference. The focus of the workshop will be on all areas of Programming Languages, including but not limited to program analysis and verification, applied formal methods, and compilers.
+
+
+- Organizers: 
+
+
+Deepak D’Souza (Indian Institute of Science, Bangalore)
+Uday P. Khedkar (Indian Institute of Technology – Bombay)
+K. Narayan Kumar (Chennai Mathematical Institute)
+K.V. Raghavan (Indian Institute of Science, Bangalore)
+Aseem Rastogi (Microsoft Research, India)
+
+
+Submission Guidelines
+=====================
+
+
+Submissions must be in electronic form via EasyChair
+https://easychair.org/conferences/?conf=fsttcs2020 <https://easychair.org/conferences/?conf=fsttcs2020>
+using the LIPIcs LaTeX style file
+http://drops.dagstuhl.de/styles/lipics-v2019/lipics-v2019-authors.zip <http://drops.dagstuhl.de/styles/lipics-v2019/lipics-v2019-authors.zip>
+
+
+Submissions must not exceed 12 pages (excluding bibliography), but may
+include a clearly marked appendix containing technical details.  The
+appendix will be read only at the discretion of the program committee.
+Simultaneous submissions to journals or other conferences with published
+proceedings are disallowed.
+
+
+Publication
+===========
+
+
+Accepted papers will be published as proceedings of the conference in
+the Leibniz International Proceedings in Informatics (LIPIcs) as a free,
+open, electronic archive with access to all.  Authors will retain full
+rights over their work.  The accepted papers will be published under a
+CC-BY license.  For an accepted paper to be included in the proceedings,
+one of the authors must commit to presenting the paper at the conference.
+
+
+Important Dates
+===============              
+* Submission deadline: July 17, 2020 AoE (firm).
+* Notification to authors: September 14, 2020.
+* Deadline for camera-ready papers: October 1, 2020 AoE.
+* Pre-conference workshops: December 14, 2020.
+* FSTTCS 2019: December 15–17, 2020.
+* Post-conference workshops: December 18, 2020.
+
+
+Committees
+==========
+
+
+Program Committee
+-----------------
+
+
+Track A
+
+- Siddharth Barman (Indian Institute of Science, Bangalore) 
+- Markus Blaeser (Saarland University, Saarbruecken)
+- Chandra Chekuri  (University of Illinois, Urbana-Champaign) 
+- Zeev Dvir    (Princeton University) 
+- Ankit Garg  (Microsoft Research India)
+- Rohit Gurjar (Indian Institute of Technology, Bombay)
+- Rahul Jain (National University of Singapore)
+- Ravindran Kannan  (Microsoft Research India)
+- Soumen Maity  (IISER, Pune) 
+- Denis Pankratov   (Concordia University, Montreal)
+- Rahul Santhanam  (University of Oxford)
+- Nitin Saxena    (Indian Institute of Technology, Kanpur), co-Chair
+- C. Seshadhri      (University of California, Santa Cruz)
+- Jiri Sgall      (Charles University, Prague)
+- Raghunath Tewari (Indian Institute of Technology, Kanpur)  
+- Ramarathnam Venkatesan  (Microsoft Research India) 
+- Ronald de Wolf  (CWI & University of Amsterdam)   
+
+Track B
+
+
+- Dietmar Berwanger (LSV, CNRS and ENS Paris-Saclay)
+- Mikołaj Bojanczyk (University of Warsaw)
+- Benedikt Bollig (LSV, CNRS and ENS Paris-Saclay)
+- Rohit Chadha (University of Missouri)
+- Supratik Chakraborty (IIT Bombay)
+- Ranko Lazic (University of Warwick)
+- Amaldev Manuel (IIT Goa)
+- Roland Meyer (TU - Braunschweig)
+- Angelo Montanari (University of Udine)
+- Andrzej Murawski (University of Oxford)
+- Anca Muscholl (LaBRI, Université Bordeaux)
+- Daniel Neider (MPI for Software Systems, Kaiserslautern)
+- Komondoor  V. Raghavan (IISc Bangalore)
+- Aseem Rastogi (Microsoft Research India)
+- Sunil Simon (IIT Kanpur), co-chair
+- S P Suresh (CMI, Chennai)
+- Aditya Thakur (University of California, Davis)
+
+
+Organizing committee
+--------------------
+
+A Baskar (BITS Pilani, K K Birla Goa Campus)
+Amaldev Manuel (IIT Goa)
+Anup Basil Mathew (BITS Pilani, K K Birla Goa Campus)
+A V Sreejith (IIT Goa)
+
+
+Contact
+=======
+
+
+All questions about submissions should be emailed to the PC chairs of
+Track A or Track B.

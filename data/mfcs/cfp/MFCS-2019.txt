@@ -1,0 +1,155 @@
+                      First Call for Papers
+               The 44th International Symposium on
+           Mathematical Foundations of Computer Science
+
+               August 26-30, 2019, Aachen, Germany
+
+               http://tcs.rwth-aachen.de/mfcs2019
+
+The MFCS conference series has been organized since 1972. Traditionally,
+the conference moved between the Czech Republic, Slovakia, and Poland,
+while since 2013, the conference travels around Europe. In 2019 it will
+take place in Germany.
+
+MFCS is a high-quality venue for original research in all branches of
+theoretical computer science. The broad scope of the conference
+encourages interactions between researchers who might not meet at more
+specialized venues. MFCS 2019 consists of invited lectures and
+contributed talks, selected by an international program committee of
+researchers focusing on diverse areas of theoretical computer science.
+The conference will be accompanied by workshops.
+
+Invited Speakers
+
+    Jérôme Leroux (LaBRI, Talence)
+    Daniel Lokshtanov (University of California at Santa Barbara (UCSB))
+    Kurt Mehlhorn (Max-Planck-Institut für Informatik, Saarbrücken)
+    Alexandra Silva (University College London)
+    Kavitah Telikepalli (Tata Institute of Fundamental Research, Mumbai)
+
+Important Dates
+
+Submission Deadline: Monday, April 22nd, 2019 (AoE)
+Notification:        Wednesday, June 12th, 2019
+Conference:          Monday, August 26th, to Friday, August 30th, 2019
+Workshops:           Friday, August 30th, to Saturday, August 31st, 2019
+
+Submission Guidelines
+
+Papers should be submitted electronically through EasyChair at
+https://easychair.org/conferences/?conf=mfcs2019
+
+Submissions should be prepared according to the following instructions:
+Papers should be formatted using the LIPIcs style. Length: up to 12
+pages (excluding references and an optional appendix). References and an
+optional appendix can go beyond the 12 pages (the appendix will be
+consulted at the discretion of the program committee). It is mandatory
+to use pdflatex.
+
+No prior publication or simultaneous submission to other conferences or
+journals are allowed (except preprint repositories such as arXiv or
+workshops without formal published proceedings).
+
+Publication
+
+MFCS 2019 proceedings will be published in LIPIcs (Leibniz International
+Proceedings in Informatics) under an open source license (as in previous
+years).
+
+List of Topics
+
+We encourage submission of original research papers in all areas of
+theoretical computer science, including (but not limited to) the following:
+
+    algebraic and co-algebraic methods in computer science
+    algorithms and data structures
+    automata and formal languages
+    bioinformatics
+    combinatorics on words, trees, and other structures
+    computational complexity (structural and model-related)
+    computational geometry
+    computer-aided verification
+    computer-assisted reasoning
+    concurrency theory
+    cryptography and security
+    databases and knowledge-based systems
+    formal specifications and program development
+    foundations of computing
+    logics in computer science
+    mobile computing
+    models of computation
+    networks (incl. wireless, sensor, ad-hoc networks)
+    parallel and distributed computing
+    quantum computing
+    semantics and verification of programs
+    theoretical issues in artificial intelligence
+    types in computer science
+
+Committees
+
+Program Committee
+
+    Peter Rossmanith (RWTH Aachen University, chair)
+    Pinar Heggernes (University of Bergen, co-chair)
+    Joost-Pieter Katoen (RWTH Aachen University, co-chair)
+    Nathalie Bertrand (INRIA)
+    Benedikt Bollig (LSV, ENS Cachan, CNRS)
+    Marthe Bonamy (CNRS, LaBRI, Bordeaux)
+    Flavia Bonomo (Universidad de Buenos Aires)
+    Franck van Breugel (University of York)
+    Véronique Bruyère (University of Mons)
+    Tiziana Calamoneri (Sapienza University of Rome)
+    Supratik Chakraborty (IIT Bombay)
+    Christophe Crespelle (Université Claude Bernard Lyon 1)
+    Pedro R. D'Argenio (Universidad Nacional de Córdoba)
+    Khaled Elbassioni (Masdar Institute)
+    Edith Elkind (University of Oxford)
+    Leah Epstein (University of Haifa)
+    Henning Fernau (Univ. Trier)
+    Dana Fisman (University of Pennsylvania)
+    Fedor Fomin (Department of Informatics, University of Bergen)
+    Serge Gaspers (UNSW Sydney and Data61, CSIRO)
+    Archontia Giannopoulou (TU Berlin)
+    Konrad Kazimierz Dabrowski (Durham University)
+    Eun Jung Kim (CNRS - Paris Dauphine)
+    Erik Jan van Leeuwen (Utrecht University)
+    Radu Mardare (Aalborg University)
+    Arnaud Mary (LBBE)
+    Roland Meyer (TU Braunschweig)
+    Martin Milanič (UP IAM and UP FAMNIT, University of Primorska)
+    Neeldhara Misra (Indian Institute of Science)
+    Andrzej Murawski (University of Oxford)
+    Michał Pilipczuk (University of Warsaw)
+    Sridharan Ramanujan (Vienna University of Technology)
+    Dieter Rautenbach (University of Ulm)
+    Felix Reidl (University of London)
+    Davide Sangiorgi (University of Bologna)
+    Ignasi Sau (CNRS, LIRMM, Montpellier)
+    Lutz Schröder (Friedrich-Alexander-Universität Erlangen-Nürnberg)
+    Hadas Shachnai (Technion)
+    Mahsa Shirmohammadi (CNRS & LIS)
+    Pawel Sobocinski (University of Southampton)
+    B Srivathsan (Chennai Mathematical Institute)
+    Ryuhei Uehara (Japan Advanced Institute of Science and Technology)
+    Tarmo Uustalu (Reykjavik University)
+    Igor Walukiewicz (CNRS, LaBRI)
+    Mingsheng Ying (University of Technology, Sydney)
+    Meirav Zehavi (Ben-Gurion University)
+
+Organizing committee
+
+    Birgit Willms (chair)
+    Jan Dreier
+    Phillip Kuinke
+    Jip Spel
+    Matthias Volk
+
+Venue
+
+The conference will be held in the SuperC Building of RWTH Aachen
+University near the city center of Aachen, Germany.
+
+Contact
+
+All questions about submissions should be emailed to
+mfcs2019@cs.rwth-aachen.de

@@ -1,0 +1,105 @@
+The 47th IEEE Real-Time Systems Symposium (RTSS 2026) will be held on December 9-11, 2026 in Yokohama, Japan.
+============================================================
+  Important Dates
+------------------------------------------------------------
+  - Abstract Submission Deadline: May 21, 2026 (firm)
+  - Paper Submission Deadline: May 26, 2026 (firm)
+  - Hot Topic Day: December 8, 2026
+  - Conference: December 9-11, 2026
+------------------------------------------------------------
+  Scope of the Conference
+------------------------------------------------------------
+RTSS is the premier conference in the field of real-time systems, covering theory, design, analysis, implementation, verification, evaluation, and practical experience.
+The 47th edition (RTSS'26) will be held in Yokohama, Japan, and embraces both well-established topics and bold, emerging directions in real-time systems research.
+
+[Timing Requirements]
+All submissions must explicitly address some form of real-time requirement / constraint. Examples include deadlines, response-time bounds, tail-latency thresholds in SLAs, and statistical/stochastic notions of timeliness.
+Other forms may be in scope if the submission justifies that the problem requires nontrivial resource allocation, programming, scheduling, or design to satisfy timing-predictability requirements.
+Improving average-case performance alone is NOT in scope.
+Improving average-case performance while ensuring that worst-case latency or execution-time variability is not made worse IS in scope.
+
+Emerging topics especially welcome:
+  - ML techniques for design/analysis of real-time systems
+  - System design for real-time machine learning
+  - Resource management in autonomous systems
+  - Real-time use of domain-specific accelerators
+------------------------------------------------------------
+  Submission Policies
+------------------------------------------------------------
+- Use of Generative AI: follow the IEEE TCRTS Transparency   policy ("Responsible Use of Generative-AI").
+- Double-blind review: RTSS follows the IEEE TCRTS Double-Anonymous Submission Requirements (since 2019).
+- Empirical survey-based research is welcome (surveys, questionnaires, interviews, use cases). Pure literature surveys are NOT in scope.
+------------------------------------------------------------
+  Proceedings and Awards
+------------------------------------------------------------
+- All accepted papers appear in the proceedings, provided they are presented live at the conference.
+- Outstanding papers will be highlighted in the proceedings.
+- Awards: Best Paper, Best Student Paper, Best Presentation.
+- Best Student Paper eligibility: first author must be a student at the submission deadline.
+============================================================
+  Tracks
+============================================================
+
+------------------------------------------------------------
+  Track 1: Real-Time Systems and Foundations
+------------------------------------------------------------
+Focus: practical and theoretical foundations enabling predictable timing in computing systems.
+[Practical and Theoretical Foundations]
+  - RTOS components (kernels, hypervisors, middleware, runtime environments)
+  - Schedulability analysis and scheduling algorithms
+  - Theoretical foundations and verification methods
+  - Timing analysis (WCET, MBTA)
+  - Real-time and time-sensitive networking
+  - Timing-predictable hardware (general principles; domain-specific solutions belong to Track 2)
+  - Stochastic real-time systems modeling and analysis
+  - Statistical/empirical approaches to predictability
+  - Fault tolerance and security w.r.t. timing guarantees (e.g., timing side-channels, secure TSN)
+  - Cross-layer timing predictability (HW/OS/application)
+  - Compiler techniques, system synthesis, model-driven engineering, applied formal methods (model checking, proof-based verification)
+  - Experimental designs, case studies, experience reports
+
+[AI for Real-Time Systems Foundations]
+Use of ML/AI to advance real-time scheduling, timing analysis, resource management, and system optimization under timing constraints.
+NOTE: Track 1 covers "AI for real-time systems."
+The converse, "real-time systems for AI," is in Track 2.
+
+------------------------------------------------------------
+  Track 2: Design and Applications
+------------------------------------------------------------
+Focus: real-time requirements as an integral part of a larger system or objective; how foundational tools are adapted, extended, and applied to specific domains.
+[Cyber-Physical Systems]
+  - Theoretical foundations of CPS
+  - Design methodologies, simulation/emulation, tool chains
+  - CPS architectures
+  - Secure CPS and CPS for security
+  - Performance analysis and robustness
+  - Safety and certification
+  - Hardware/software co-design
+
+[Real-Time System Design for AI]
+  - Deployment of perception/planning/decision-making under latency and resource constraints
+  - System design, frameworks, resource management
+  - Hardware acceleration
+  - Case studies of real-time AI in safety-critical apps
+  - AI safety in CPS: V&V of learning-enabled components, runtime monitoring, safe exploration, explainability, robustness under uncertainty
+
+[HW-SW Integration and System-Level Design]
+  - Architecture description languages and tools
+  - Hardware architectures, DSE, synthesis, optimization
+  - SoC design for real-time workloads (special-purpose units, custom memory hierarchies, multicore, NoC)
+  - FPGA-based simulation and prototyping
+  - SW simulation/compilation for emerging architectures
+  - Power, thermal, timing, and predictability analysis
+  - Emerging: RISC-V platforms, AI/ML accelerators, chiplet-based design
+
+[Internet of Things]
+  - Real-time capabilities under extreme resource limits
+  - Distributed sensing and control
+  - Reliable communication, low-latency processing
+  - Edge / fog computing, AI-at-the-edge
+  - Smart cities, industrial IoT, smart healthcare, mission-critical deployments
+  - 5G/6G for URLLC, in-network computing/offloading under timing constraints
+
+============================================================
+Yours sincerely,
+RTSS 2026 organizing committee

@@ -1,0 +1,73 @@
+Call for Papers
+
+Recent years have witnessed the emergence of domain specific model-based approaches for verification and validation in software development. These approaches are tailored to specific needs of the domain and leverage domain knowledge to adapt and customize well-known model-based approaches for verification and validation. Specifically, in the last decades software development is driven by emerging trends such as the widespread diffusion of mobile technology, cloud infrastructures adoption as well as big data analysis and software as a service paradigm that point out new constraints and challenges for the verification and validation activity.
+
+The workshop is held at MODELSWARD 2018 and continues the successful tradition of the last two editions of AMARETTO in the investigation of different aspects and domain specific solutions for model-based verification and validation. This workshop provides a forum for academia, industry, and research and development communities to share their knowledge, exchange experiences and ideas, and discuss challenges and future research directions.
+
+The topics of interest to the workshop include, but are not limited to:
+·         V&V solutions for specific domain
+·         Domain specific testing strategies
+·         Safety and Security V&V
+·         Model-based security assessment
+·         Requirements elicitation and modeling
+·         Methodological approaches for V&V
+·         Generation of domain-specific V&V frameworks
+·         Model-driven test suite generation
+·         Domain specific V&V tools
+·         Customization of V&V methodologies to specific domain
+·         V&V approaches at design level
+·         Simulation and monitoring for specific application domain
+·         Business process modeling and assessment
+·         Testing of large scale systems
+·         Certification and assessment of software products
+·         In-house vs. third party V&V solutions
+·         Empirical studies and industrial experiences
+·         Identification of problems and visions of the future
+
+Welcome domains of application are (but may not limited to):
+·         Healthcare
+·         Telecommunication, Networks and Media
+·         Cloud Computing and Web Services
+·         Mobile Devices
+·         Big Data
+·         Automotive and Transportation
+·         Security and Privacy
+·         Cyber-Physical Systems
+·         Future Internet
+·         Internet of Things
+·         Finance & Business
+·         Social Networks
+
+Important dates                          
+Submission November 7, 2017
+Authors Notification November 21, 2017
+Camera Ready and Registration November 29, 2017
+
+Workshop Co-Chairs
+Antonello Calabrò, ISTI-CNR, Italy
+Francesca Lonetti, ISTI-CNR, Italy
+Eda Marchetti, ISTI-CNR, Italy
+
+Program Committee
+Cesare Bartolini, Université du Luxembourg, Luxembourg
+Ana Cristina Ramada Paiva, Faculty of Engineering of University of Porto, Portugal
+Guglielmo De Angelis, IASI-CNR, Italy
+Felicita Di Giandomenico, Consiglio Nazionale delle Ricerche, Italy
+Boni García, Universidad Rey Juan Carlos, Spain
+Maria Jose Escalona, University of Seville, Spain
+Yves Le Traon, University of Luxembourg, Luxembourg
+Leonardo Mariani, University of Milano Bicocca, Italy
+Lom Messan Hillah, Université Paris Nanterre, France
+Ioannis Parissis, Grenoble INP LCIS, F-26902 Valence, France
+Antonino Sabetta, SAP Labs, France
+Jacopo Soldani, Università di Pisa, Italy
+Maurice H. ter Beek, ISTI-CNR, Pisa, Italy
+ 
+Paper Submission
+ 
+Prospective authors are invited to submit papers in any of the topics listed above. Instructions for preparing the manuscript (in Word and Latex formats) are available at: http://www.modelsward.org/Templates.aspx. Please also check the guidelines at: http://www.modelsward.org/Guidelines.aspx. Papers must be submitted electronically via the web-based submission system using the appropriated button on this page.
+ 
+Publications
+ 
+After through reviewing by the workshop program committee complemented by members of the main conference program committee, all accepted papers will be published in a special section of the conference proceedings book - under an ISBN reference and on CD-ROM support.
+All papers presented at the conference venue will be available at the SCITEPRESS Digital Library  ( http://www.scitepress.org/DigitalLibrary/ ). SCITEPRESS is a member of CrossRef ( http://www.crossref.org/ ) and every paper is given a DOI (Digital Object Identifier).

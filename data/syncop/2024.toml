@@ -19,3 +19,7 @@ publisher = "informal"
 
 [extra]
 notes = "Satellite workshop of ETAPS. Since 2017, SynCoP moved to informal presentations and invited talks only (no formal proceedings)."
+
+[[cfp]]
+file = "cfp/SynCoP-2024-extended.txt"
+stage = "extended"

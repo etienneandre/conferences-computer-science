@@ -1,0 +1,92 @@
+QEST 2021 Early CfP
+https://www.qest.org/qest2021/
+
+Co-located at QONFEST with CONCUR, FORMATS, FMICS
+
+**************************************
+Important Dates
+
+Abstract Submission:  April  8th, 2021
+Paper Submission:     April 15th, 2021
+Notification:          June  7th, 2021
+Conference:     August 23rd-27th, 2021
+**************************************
+
+
+================
+Scope and Topics
+================
+
+The International Conference on Quantitative Evaluation of SysTems (QEST) is the leading forum on quantitative evaluation and verification of computer systems and networks. QEST 2021 is the 18th conference in the series.
+
+Scientific areas of interest include:
+- quantitative specification methods.
+- stochastic and non-deterministic models and metrics for performance, reliability, safety, correctness, and security.
+- new algorithms for the analysis or simulation of stochastic, probabilistic and non-deterministic models.
+- (as a recent emphasis) application of data-driven, machine learning techniques for the quantitative evaluation and verification of systems, in particular for safety-critical applications (learning for safety, as well as safe learning).
+- case studies that highlight the role of quantitative specification, modelling and evaluation in the design of systems. Systems of interest include computer hardware and software architectures, communication systems, cyber-physical systems, infrastructural systems, security systems and biological systems.
+- papers that describe novel tools to support the practical application of research results in all of the above areas are also welcome. QEST will set up a repeatability evaluation process (details below).
+
+QEST is open to both theoretical, experimental and applicative research. The conference welcomes a diversity of modelling formalisms, programming languages and methodologies that incorporate quantitative aspects such as probabilities, temporal properties, rewards and forms of non-determinism. Papers may advance empirical, simulation and analytic methods, and industrially-relevant case studies.
+
+In QEST21, we plan to organize a special session under the topic "modelling and analysis in biology", comprising topics such as epidemiological systems, systems biology, biological networks, and computational biology. Contributions in this area are particularly welcome.
+
+
+===========
+Submissions
+===========
+
+QEST 2021 considers three types of papers (authors will be able to specify the type of the contribution at the submission):
+ - THEORETICAL/METHODOLOGICAL: to advance the understanding on a topic or issue, or to describe the development and proposal of new analysis processes and techniques.
+ - APPLICATION: to describe a novel application and compare it with previous results.
+ - TOOL: to develop new tools and the formalisms they support, with a focus on the software architecture and practical implementation and use. Tools will be made available to the reviewers.
+
+Paper submission can be REGULAR and SHORT: regular papers must not exceed 16 pages, excluding references, plus 4 pages for the appendix containing supporting material. Short papers should preferably be limited to 8 pages, also excluding references.
+
+All submitted papers must be unpublished and not be submitted for publication elsewhere. Papers should be submitted electronically using EasyChair [2]. Springer encourages authors to include their ORCIDs in their papers. Authors should consult Springer's authors' guidelines [0] and use Springer's LaTeX templates [1] for the preparation of their papers.
+
+
+===========
+Publication
+===========
+
+All accepted papers will be presented and discussed at the conference by one of the authors. The QEST 2021 proceedings will be published in the Springer LNCS series and indexed by ISI Web of Science, Scopus, ACM Digital Library, dblp, Google Scholar. All submitted papers will be evaluated by at least three reviewers on the basis of their originality, technical quality, scientific or practical contribution to the state of the art, methodology, clarity, and adequacy of references.
+
+
+========================
+Repeatability Evaluation
+========================
+
+Authors of tool papers (both regular and short) are encouraged to make their tools (source code) and input data available to reviewers; reproducibility of results will be taken into account during the evaluation process, and the conference will include the possibility of a demo session for  interaction with the authors. Authors should present use cases, distinctive features, and computational/memory requirements through motivating examples. We expect authors of tool papers (regular and short) to provide instructions detailing the steps which need to be taken to reproduce the results presented in the tool papers to ensure reproducibility.
+RE is optional (but recommended) also for other submissions (theoretical/methodological or application submissions). Successfully evaluated papers will receive a specific tag in the proceedings.
+
+
+=============
+Special Issue
+=============
+
+A selection of the best full papers will be invited to submit an extended version of their work to a special issue in the ACM Transactions on Modelling and Computer Simulation (TOMACS) [3].
+(Further details will be provided on the website.)
+
+[0] ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf
+[1] ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip
+[2] https://easychair.org/my/conference?conf=qest2021
+[3] https://dl.acm.org/journal/tomacs
+
+
+====================
+Organising committee
+====================
+
+General Chair (QONFEST):
+Benoit Barbot (Université Paris-Est Créteil, FR)
+
+Program Chairs:
+Alessandro Abate (Oxford University, UK)
+Andrea Marin (Università Ca’ Foscari Venezia, IT)
+
+Repeatability Evaluation Chair:
+David Safranek (Masaryk University, CZ)
+
+Publicity Chair:
+Marco Paolieri (University of Southern California, USA)

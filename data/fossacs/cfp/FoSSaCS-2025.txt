@@ -1,0 +1,100 @@
+29TH INTERNATIONAL CONFERENCE ON FOUNDATIONS OF SOFTWARE SCIENCE AND COMPUTATION STRUCTURES (FoSSaCS 2026)
+Part of the International Joint Conferences On Theory and Practice of Software (ETAPS 2026)
+https://etaps.org/2026/conferences/fossacs/
+
+April 11-16, 2026
+Turin, Italy
+
+* GENERAL
+FoSSaCS seeks original papers on foundational research with a clear significance
+for software science. The conference invites submissions on theories and methods
+to support the analysis, integration, synthesis, transformation, and
+verification of programs and software systems.
+
+* TOPICS
+The specific topics covered by the conference include, but are not limited to,
+the following:
+
+- categorical models and logics;
+- language theory, automata, and games;
+- modal, spatial, and temporal logics;
+- type theory and proof theory;
+- concurrency theory and process calculi;
+- rewriting theory;
+- semantics of programming languages;
+- program analysis, correctness, transformation, and verification;
+- logics of programming;
+- software specification and refinement;
+- models of concurrent, reactive, stochastic, distributed, hybrid, and mobile systems;
+- emerging models of computation;
+- logical aspects of computational complexity;
+- models of software security;
+- logical foundations of data bases
+
+* PROCEEDINGS
+The FoSSaCS 2026 proceedings will be published in Springer LNCS as gold open access.
+
+* SUBMISSIONS
+FoSSaCS solicits just a single paper category: research papers. The page limit
+is 18 pp excluding references, respecting Springer’s LNCS format at the
+submission time. Additional material (no page limit) can be placed in a clearly
+marked appendix, at the end of the paper.  The papers can be submitted at
+https://easychair.org/conferences/?conf=fossacs2026
+
+FoSSaCS 2026 will adopt a double-blind reviewing process, in line with the other
+ETAPS conferences. PC members will be allowed to submit up to one paper. These
+submissions will be held to a higher standard - for example, PC submissions will
+not be part of the final vote.
+
+* ARTIFACT EVALUATION
+FoSSaCS 2026 will have a post-paper-acceptance voluntary artifact evaluation.
+Authors will be encouraged to submit artifacts for evaluation after paper
+notification. The outcome will not alter the paper’s acceptance decision.
+Guillermo Alberto Perez (University of Antwerp) will act as the FoSSaCS artifact
+evaluation chair. Detailed information will shortly appear at
+https://etaps.org/2026/conferences/ae-esop-fase-fossacs
+
+* IMPORTANT DATES
+Submission deadline: October 16, 2025
+Rebuttal: December 8–10, 2025
+Paper notification: December 22, 2025
+Voluntary artifact submission deadline: January 8, 2026
+Paper final version: January 22, 2026
+Artifact notification: February 12, 2026
+Main Conference: April 13–16, 2026
+
+* PC CHAIRS
+Nathalie Bertrand (Inria Rennes, France)
+Stefan Milius (Friedrich-Alexander Universität Erlangen-Nürnberg, Germany)
+
+* PC MEMBERS
+Franz Baader (TU Dresden, Germany)
+Tegan Brennan (Stevens Institute of Technology, USA)
+Yijia Chen (Shanghai Jiao Tong University, China)
+Pierre Clairambault (CNRS, France)
+Pedro D’Argenio (Universidad Nacional de Córdoba, Argentina)
+Ugo Dal Lago (University of Bologna, Italy)
+Laure Daviaud (University of East Anglia, UK)
+Stephane Demri, (CNRS, France)
+Josee Desharnais (Université Laval, Canada)
+Jérémy Dubut (École Polytechnique, France)
+Maribel Fernandez (King’s College London, UK)
+Bernd Finkbeiner (CISPA Helmholtz Center for Information Security, Germany)
+Wan Fokkink (Vrije Universiteit Amsterdam, The Netherlands)
+Jean Goubault-Larrecq (ENS Paris Saclay, France)
+Bart Jacobs (Radboud University Nijmegen, The Netherlands)
+Shin-ya Katsumata (National Institute of Informatics, Japan)
+Sławek Lasota (University of Warsaw, Poland)
+Alessio Mansutti (IMDEA Software Institute, Spain)
+Anca Muscholl (Université de Bordeaux, France)
+Elaine Pimentel (University College London, UK)
+Alexandra Silva (Cornell University, USA)
+Rui Soares Barbosa (International Iberian Nanotechnology Laboratory, Portugal)
+Pawel Sobocinski (Tallinn University of Technology, Estonia)
+Srivathsan (Chennai Mathematical Institute, India)
+Christine Tasson (ISAE Supaero, France)
+Rob van Glabbeek (University of Edinburgh, UK)
+Frits Vandraager (Radboud University, The Netherlands)
+Martin Zimmermann (Aalborg University, Denmark)
+
+

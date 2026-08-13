@@ -25,3 +25,11 @@ award = "best paper award and best student paper award"
 
 [extra]
 colocated = "Co-located with the Federated Logic Conference (FLoC 2026)"
+
+[[cfp]]
+file = "cfp/CMSB-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/CMSB-2026-extended.txt"
+stage = "extended"

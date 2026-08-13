@@ -1,0 +1,76 @@
+*******************************************************************************
+    14th Junior Researcher Workshop on Real-Time Computing (JRWRTC 2020)
+      https://rtns2020.inria.fr/jrwrtc-2020/
+
+In conjunction with the
+28th International Conference on Real-Time and Network Systems (RTNS 2020)
+June 9-10, 2020
+https://rtns2020.inria.fr/
+********************************************************************************
+
+Call for papers
+*****************
+
+The purpose of the 14th Junior Researcher Workshop on Real-Time Computing is to bring together junior researchers working on real-time systems (PhD students, postdocs, etc). The workshop provides a relaxed forum to present and discuss new ideas, to explore new research directions, and to review current trends in the real-time systems area. It is based on both short presentations and a poster session to encourage stimulating discussions.
+
+The scope of the JRWRTC2020 includes (but is not limited to) the following areas:
+
+ * Real-time system design and analysis:
+   * Task and message scheduling
+   * Modeling, verification and evaluation
+   * Model-driven development
+   * Worst-case execution time estimation
+   * Distributed systems
+   * Fault tolerance
+   * Quality of service and security
+
+ * Infrastructure and hardware for real-time systems:
+   * Wired and wireless communication
+   * Field buses
+   * Power-aware scheduling
+   * Networked control systems
+   * Sensor networks
+
+ * Software technologies for real-time systems:
+   * Compilers and programming languages
+   * Middleware and component-based technologies
+   * Operating systems
+   * Tools and benchmarks
+
+ * Real-time applications:
+   * Automotive and Avionics applications
+   * Process control
+   * Telecommunications and Multimedia
+
+Important dates
+*****************
+
+  * Submission deadline: April 9, 2020
+  * Notification of acceptance: May 4, 2020
+  * RTNS early registration (tentative): May 15, 2020
+  * Final manuscript due: May 27, 2020
+
+Submission guidelines
+*****************
+Up to 4 pages, double column format, font no smaller than 10 points. Every submission should be co-authored by at least one junior researcher. One author of every accepted paper should be registered to the conference to present the paper. A booklet containing the proceedings will be available on the website of the workshop.
+
+Please consult the website of the 28th International Conference on Real-Time and Network Systems (https://rtns2020.inria.fr/) for further information on the available template and registration.
+
+Submission website: https://easychair.org/my/conference?conf=jrwrtc2020
+
+Workshop chairs
+*****************
+
+Catherine Nemitz, University of North Carolina at Chapel Hill, USA
+Roberto Medina, INRIA, France
+
+Workshop committee
+*****************
+
+TBA
+
+COVID-19 information
+*****************
+The conference is scheduled to be held remotely. The safety and well-being of all conference participants is our priority.
+
+Talks from the main conference will be streamed. We will make remote presentation arrangements with authors.

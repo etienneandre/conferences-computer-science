@@ -26,3 +26,7 @@ Petri Nets and Other Models of Concurrency" (ToPNoC). The papers are expected
 to be thoroughly revised and they will go through a totally new round of reviewing."""
 colocated = "A satellite event of Petri Nets"
 notes = "This year we celebrate the 100th birthday of Carl Adam Petri. The conference takes place in Hamburg where Petri held an honorary professorship."
+
+[[cfp]]
+file = "cfp/PNSE-2026.txt"
+stage = "initial"

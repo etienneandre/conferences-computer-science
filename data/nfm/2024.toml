@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "No registration fees."
+
+[[cfp]]
+file = "cfp/NFM-2024.txt"
+stage = "initial"

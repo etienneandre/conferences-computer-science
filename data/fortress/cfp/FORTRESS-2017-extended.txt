@@ -1,0 +1,101 @@
+
+                              CALL FOR PAPERS
+
+        1st Workshop on FORmal Techniques for REal-time SystemS 
+                               (FORTRESS)
+
+                            August 16, 2017
+                            Hsinchu, Taiwan
+
+                   http://www.onera.fr/fr/fortress-2017
+                
+
+
+                    Satellite workshop of RTCSA 2017
+	                 https://www.rtcsa.org
+
+
+            Paper submission deadline:       June 18, 2017 (extended)
+            Notification of acceptance:      July 1, 2017
+            Final papers due:                July 7, 2017
+
+
+CALL FOR PAPERS
+
+Many are the works proposed on timing and schedulability analysis
+for guaranteeing the predictability of single- and multi-core
+systems. The increasing complexity of embedded and real-time
+systems requires a continuous development in design and
+verification.
+
+Formal methods are mathematics-based techniques for
+the specification, development and verification of software and
+hardware systems. In a certification context, industrials are
+more and more encouraged to apply formal methods such as model
+checking, abstract interpretation, etc. to guarantee the
+fulfillment of system requirements.
+
+Applied to real-time, formal methods can be used to model
+real-time task behaviors, model task interactions and encode
+real-time requirements/properties such as timing
+constraints. They bring formal verification to timing and
+schedulability analysis of embedded and real-time systems.
+            
+The Formal Techniques for Real-Time Systems (FORTRESS) workshop
+provides a venue for bringing together researchers and developers
+from academia and industry to promote cross-fertilization and
+discuss advances dealing with the application of formal methods
+to embedded and real-time systems. Of particular interest are
+ideas and contributions that present significant paradigm shifts,
+explore unique and unconventional approaches to important
+problems, or investigate fundamental departures from conventional
+wisdom in adopted solutions.
+
+
+SCOPE
+
+Suggested topics of interest include (but are not restricted to):
+
+- formal methods (SAT-/SMT-based techniques, model checking,
+  static analysis, etc.) for timing and schedulability analysis
+- formal techniques for the design of embedded and real-time
+  systems
+- development of correct real-time systems
+- verification and validation of embedded and real-time systems
+- simulation-based validation and verification
+- runtime verification of real-time systems     
+
+
+SUBMISSIONS
+
+
+Both research and industry papers are solicited. The submitted
+manuscript must describe original work not previously published
+and not concurrently submitted elsewhere. Submissions should be
+no more than 8 pages in the IEEE conference proceedings
+format (two-column, single-space, 10pt). The prospective authors
+should submit their papers through the submission link at
+http://www.onera.fr/fr/fortress-2017 .
+
+Authors of accepted papers agree to attend the workshop and to
+present their work during the workshop.
+
+
+WORKSHOP CO-CHAIRS
+            
+Julien Brunel, ONERA Toulouse, France            
+Luca Santinelli, ONERA Toulouse, France
+
+PROGRAM COMMITTEE
+            
+Julien Brunel, ONERA Toulouse, France            
+Luca Santinelli, ONERA Toulouse, France            
+Wang Yi, UPPSALA University, Sweden            
+Giuseppe Lipari, University of Lille, France            
+Laura Carnevali, University of Florence, Italy            
+Laurent Rioux, Thales Research & Technology, France            
+Didier Lime, LS2N, France            
+Sebastien Faucou IRCYNN Nantes, France            
+René Krenz-Bååth, University of applied Sciences Hamm-Lippstadt, Germany            
+Wilfried Steiner, TTTECH Austria            
+Martina Maggio, LUND University, Sweden

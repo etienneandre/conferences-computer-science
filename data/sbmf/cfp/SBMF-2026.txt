@@ -1,0 +1,172 @@
+# CALL FOR PAPERS
+SBMF 2026: 29th Brazilian Symposium on Formal Methods
+Rio de Janeiro, Brazil, December 1-4, 2026
+Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
+
+Conference website: https://sbmf2026.github.io/
+Submission link: https://easychair.org/my/conference?conf=sbmf2026
+
+Dates:
+- Paper registration deadline: July 31, 2026
+- Paper submission deadline: August 07, 2026
+- Acceptance notification: September 25, 2026
+- Camera-ready: October 23, 2026
+
+# About SBMF
+SBMF 2026 is the twenty-ninth of a series of events devoted to the
+development, dissemination, and use of formal methods for the construction
+of high-quality computational systems. It is now a well-established event
+with an international reputation. It regularly receives submissions and
+participants from all over the world.
+
+# Submission Guidelines
+We invite submissions of papers with a strong emphasis on formal methods,
+whether practical or theoretical, in the following categories:
+   - Regular papers (limit of 15 pages). Proofs of theoretical results that
+do not fit the page limit may be provided in an appendix.
+   - Short papers (limit of 8 pages). Short papers include system
+descriptions, user experiences, and case studies. We encourage authors to
+make the data needed to reproduce their experiments available.
+
+The page limits exclude references and appendices.
+
+Contributions should not be simultaneously submitted for publication
+elsewhere. They should be written in English and prepared using Springer’s
+Lecture Notes in Computer Science (LNCS) format. Springer’s proceedings
+LaTeX templates are available in Overleaf. More information is available at
+the following link:
+*https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines*
+<https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines>
+
+
+Papers should present unpublished and original work that has a clear
+contribution to the state-of-the-art on the theory and practice of formal
+methods. Papers will be judged by at least three reviewers based on
+originality, relevance, technical soundness, and presentation quality and
+should contain sound theoretical or practical results. Industry papers
+should emphasize the practical application of formal methods or report on
+open challenges.
+
+Submissions should be made via the following link:
+https://easychair.org/my/conference?conf=sbmf2026
+
+# Scope and Topics
+SBMF aims to provide a venue for the presentation and discussion
+of high-quality work in formal methods. The topics include, but are not
+limited to, the following:
+
+   *  Applications of formal methods to
+      - Software and/or hardware design
+      - Software and/or hardware development
+      - Software and/or hardware code generation
+      - Software and/or hardware testing
+      - Software maintenance, evolution and/or reuse
+      - Intelligent systems
+
+   * Specification and modelling languages
+     - Logic and semantics for specification and/or programming languages
+     - Formal methods for timed, real-time, hybrid, or/and safety-critical
+systems
+     - Formal methods for service-oriented, cloud-based, or/and
+cyber-physical systems
+
+   * Theoretical foundations
+     - Domain theory
+     - Term rewriting
+     - Computational models
+     - Type systems and category systems
+     - Computation complexity of methods and models
+     - Models of time, concurrency, security and/or mobility
+
+   * Verification and validation
+     - Abstraction, modularization and/or refinement techniques
+     - Static analysis
+     - Model checking
+     - Theorem proving
+     - Software certification
+     - Correctness by construction
+
+   * Experience reports
+     - Reports on teaching formal methods
+     - Reports on the industrial application of formal methods
+
+# Committees
+General Chair
+     * Edward Haeusler(PUC-Rio)
+Program Chairs
+* Genaína Nunes Rodrigues (University of Brasilia, Brazil)
+* Pedro Ribeiro (University of York, UK)
+Steering Committee
+* Ciprian Teodorov (ENSTA Bretagne, France)
+* Haniel Barbosa (Universidade Federal de Minas Gerais, Brazil)
+* Sidney Nogueira (Universidade Federal Rural de Pernambuco, Brazil)
+* Leopoldo Teixeira (Universidade Federal de Pernambuco, Brazil)
+* Maurice ter Beek (CNR-ISTI, Italy)
+* Yoni Zohar (Bar-Ilan University, Israel)
+
+Program Committee
+
+* Jefferson O. Andrade (Instituto Federal do Espírito Santo, Brazil)
+* Haniel Barbosa (Universidade Federal de Minas Gerais, Brazil)
+* Luís Soares Barbosa (Universidade do Minho; INESC TEC; UNU-EGOV,
+Portugal)
+* Davide Basile (Formal Methods & Tools; ISTI-CNR, Italy)
+* Armin Biere (University of Freiburg, Germany)
+* Silvia Bonfanti (University of Bergamo, Italy)
+* Gustavo Carvalho (Universidade Federal de Pernambuco, Brazil)
+* Valentina Castiglioni (Eindhoven University of Technology, Netherlands)
+* Márcio Cornélio (Universidade Federal de Pernambuco, Brazil)
+* Chelsea Edmonds (University of Western Australia, Australia)
+* Katalin Fazekas (TU Wien, Austria)
+* Ahmed Irfan (SRI International, USA)
+* Juliano Iyoda (Universidade Federal de Pernambuco, Brazil)
+* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
+* Thierry Lecomte (CLEARSY, France)
+* Livia Lestingi (Politecnico di Milano, Italy)
+* Michael Leuschel (University of Düsseldorf, Germany)
+* Nianyu Li (ZGC National Laboratory, China)
+* Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)
+* Carlos Luna (Facultad de Ingeniería, Udelar, Uruguay)
+* Claudio Mandrioli (University of Luxembourg, Luxembourg)
+* Alexandra Mendes (University of Porto, Portugal)
+* Alvaro Miyazawa (University of York, United Kingdom)
+* Vince Molnár (Budapest University of Technology and Economics, Hungary)
+* Rosemary Monahan (National University of Ireland, Ireland)
+* Alexandre Mota (Universidade Federal de Pernambuco, Brazil)
+* Sidney Nogueira (Universidade Federal Rural de Pernambuco, Brazil)
+* Marcel Oliveira (Universidade Federal do Rio Grande do Norte, Brazil)
+* Luigia Petre (Åbo Akademi University, Finland)
+* Luciana Rebelo (Gran Sasso Science Institute, Italy)
+* Philipp Rümmer (University of Regensburg; Uppsala University,
+Germany/Sweden)
+* Augusto Sampaio (Universidade Federal de Pernambuco, Brazil)
+* Hans-Jörg Schurr (The University of Iowa, USA)
+* Maike Schwammberger (KIT, Germany)
+* Paola Spoletini (Kennesaw State University, USA)
+* Volker Stolz (Western Norway University of Applied Sciences, Norway)
+* Ciprian Teodorov (Ensta Bretagne - Lab-STICC MOCS, France)
+* Nils Timm (University of Pretoria, South Africa)
+* Jim Woodcock (University of York, United Kingdom)
+* Yoni Zohar (Bar-Ilan University, Israel)
+
+# Publication
+Accepted papers will be published, after the conference, in a volume of
+LNCS. The authors will be requested to complete and sign a consent-to
+publish form. Every accepted paper MUST have at least one author registered
+in the symposium by the time the camera-ready copy is submitted. The
+registered author is also expected to attend the symposium and present the
+paper.
+A special issue of the Science of Computer Programming Journal (Elsevier)
+is going to be organised (to be confirmed) with selected and extended
+papers from the 29th Brazilian Symposium on Formal Methods (SBMF 2026).
+
+# Contact
+All questions about submissions should be emailed to sbmf2026@easychair.org
+Genaína Nunes Rodrigues and Pedro Ribeiro
+Program Chairs, SBMF 2026
+
+--
+Dr. Pedro Ribeiro | Lecturer in Computer Science, RoboStar Centre
+<https://robostar.cs.york.ac.uk/>
+University of York, UK.
+Disclaimer: http://www.york.ac.uk/docs/disclaimer/email.htm

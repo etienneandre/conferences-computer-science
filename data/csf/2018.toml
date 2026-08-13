@@ -26,3 +26,7 @@ submitted = 72
 
 [extra]
 notes = "Double blind. Rebuttal phase: March 14-16, 2018"
+
+[[cfp]]
+file = "cfp/CSF-2018.txt"
+stage = "initial"

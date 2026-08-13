@@ -1,0 +1,179 @@
+# ============================================================================
+# WHAT NEEDS FIXING IN THE EDITION FILES
+#
+# These are naming problems, so they cannot be fixed here: the key must keep
+# matching what the edition files say. Pick one spelling, change it in the
+# TOML files that use the others, then delete the losing keys below.
+#
+# 39 groups of duplicates, covering 90 of the 475 keys.
+# ============================================================================
+#
+#   KEEP  'Paris, France'  (43 editions)
+#   drop  'Paris, France (hybrid)'  (1)
+#
+#   KEEP  'Porto, Portugal'  (17 editions)
+#   drop  'Porto, Portugal (hybrid?)'  (1)
+#
+#   KEEP  'Oxford, England'  (12 editions)
+#   drop  'Oxford, UK'  (4)
+#
+#   KEEP  'Lisbon, Portugal'  (13 editions)
+#   drop  'Lisbon Portugal'  (1)
+#
+#   KEEP  'Montréal, Québec, Canada'  (13 editions)
+#   drop  'Montreal, Québec, Canada'  (1)
+#
+#   KEEP  'Singapore'  (13 editions)
+#   drop  'Singapore (+ virtual options)'  (1)
+#
+#   KEEP  'Beijing, China'  (11 editions)
+#   drop  'Beijing, China (+ virtual options)'  (1)
+#   drop  'Beijing, China (hybrid)'  (1)
+#
+#   KEEP  'Warsaw, Poland'  (11 editions)
+#   drop  'Warsaw, Poland (hybrid)'  (1)
+#
+#   KEEP  'Berlin, Germany'  (10 editions)
+#   drop  'Berlin, Germany (or online)'  (1)
+#
+#   KEEP  'London, England'  (6 editions)
+#   drop  'London, UK'  (5)
+#
+#   KEEP  'Hồ Chí Minh City, Việt Nam'  (8 editions)
+#   drop  'Hồ-Chí-Minh City, Việt Nam'  (1)
+#   drop  'Hồ-Chí-Minh-City, Việt Nam'  (1)
+#
+#   KEEP  'Haifa, Israel'  (8 editions)
+#   drop  'Haifa, Israel (or online)'  (1)
+#
+#   KEEP  'Amsterdam, The Netherlands'  (7 editions)
+#   drop  'Amsterdam, Netherlands'  (2)
+#
+#   KEEP  'Virtual (Vienna, Austria)'  (2 editions)
+#   drop  '?'  (1)
+#   drop  'Hybrid (Tehran, Iran)'  (1)
+#   drop  'Virtual'  (1)
+#   drop  'Virtual (Konstanz, Germany)'  (1)
+#   drop  'Virtual (Lugano, Switzerland)'  (1)
+#   drop  'Virtual (Paris, France)'  (1)
+#   drop  'virtual? (Brussels, Belgium)'  (1)
+#
+#   KEEP  'Taipei, Taiwan'  (7 editions)
+#   drop  'Taipei, Taiwan (hybrid)'  (1)
+#
+#   KEEP  'Bordeaux, France'  (6 editions)
+#   drop  'Bordeaux, France or online'  (1)
+#
+#   KEEP  'Seoul, South Korea'  (6 editions)
+#   drop  'Seoul, Korea'  (1)
+#
+#   KEEP  'Tokyo, Japan'  (5 editions)
+#   drop  'Tōkyō, Japan'  (2)
+#
+#   KEEP  'Reykjavik, Iceland'  (4 editions)
+#   drop  'Reykjavík, Iceland'  (2)
+#   drop  'Reykjavík, Iceland (hybrid)'  (1)
+#
+#   KEEP  'Tallinn, Estonia'  (5 editions)
+#   drop  'Tallinn, Estonia (hybrid)'  (1)
+#
+#   KEEP  'Liverpool, England'  (4 editions)
+#   drop  'Liverpool, England (hybrid or virtual)'  (1)
+#   drop  'Liverpool, UK'  (1)
+#
+#   KEEP  'Shanghai, China'  (4 editions)
+#   drop  'Shanghai, China (hybrid)'  (2)
+#
+#   KEEP  'Gold Coast, Australia'  (4 editions)
+#   drop  'Gold Coast, Australia (or virtual)'  (1)
+#
+#   KEEP  'Heidelberg, Germany'  (4 editions)
+#   drop  'Heidelberg Germany'  (1)
+#
+#   KEEP  'Tbilisi, Georgia'  (3 editions)
+#   drop  'Tbilisi, Georgia (hybrid)'  (2)
+#
+#   KEEP  'Sydney, Australia'  (3 editions)
+#   drop  'Sydney Australia'  (1)
+#
+#   KEEP  'Xi’An, China'  (2 editions)
+#   drop  'Xi’an, China'  (2)
+#
+#   KEEP  'Edinburgh, UK'  (2 editions)
+#   drop  'Edinburgh, Scotland'  (1)
+#
+#   KEEP  'Marrakech, Morocco'  (2 editions)
+#   drop  'Marrakech, Morocco (hybrid)'  (1)
+#
+#   KEEP  'Iasi, Romania'  (1 editions)
+#   drop  'Iași, Romania'  (1)
+#   drop  'Iași, România'  (1)
+#
+#   KEEP  'Pasadena, California, USA'  (1 editions)
+#   drop  'Pasadena, California, USA (hybrid)'  (1)
+#   drop  'Pasadena, California, United States'  (1)
+#
+#   KEEP  'Bristol, England'  (1 editions)
+#   drop  'Bristol, UK'  (1)
+#
+#   KEEP  'Charlotte, NC, USA'  (1 editions)
+#   drop  'Charlotte, NC, USA (hybrid)'  (1)
+#
+#   KEEP  'Göttingen, Germany'  (1 editions)
+#   drop  'Göttingen, Germany (hybrid)'  (1)
+#
+#   KEEP  'Jeju Island, Korea'  (1 editions)
+#   drop  'Jeju island, South Korea'  (1)
+#
+#   KEEP  'Manchester, England'  (1 editions)
+#   drop  'Manchester, UK'  (1)
+#
+#   KEEP  'Menlo Park, California, US'  (1 editions)
+#   drop  'Menlo Park, California, USA'  (1)
+#
+#   KEEP  'Online (Boston, MA, USA)'  (1 editions)
+#   drop  'Online (Vienna, Austria)'  (1)
+#
+#   KEEP  'York, England'  (1 editions)
+#   drop  'York, UK / online'  (1)
+#
+# ----------------------------------------------------------------------------
+# Delivery mode encoded in the place name
+#
+# 'hybrid', 'online', '(or virtual)' and the like belong in the edition file
+# as event.online / event.hybrid, not in the city string.
+# ----------------------------------------------------------------------------
+#
+#   'Beijing, China (+ virtual options)'
+#   'Beijing, China (hybrid)'
+#   'Berlin, Germany (or online)'
+#   'Bordeaux, France or online'
+#   'Charlotte, NC, USA (hybrid)'
+#   'Gold Coast, Australia (or virtual)'
+#   'Göttingen, Germany (hybrid)'
+#   'Haifa, Israel (or online)'
+#   'Hybrid (Tehran, Iran)'
+#   'Liverpool, England (hybrid or virtual)'
+#   'Marrakech, Morocco (hybrid)'
+#   'Online (Boston, MA, USA)'
+#   'Online (Vienna, Austria)'
+#   'Padua, Italy (hybrid?)'
+#   'Paris, France (hybrid)'
+#   'Pasadena, California, USA (hybrid)'
+#   'Porto, Portugal (hybrid?)'
+#   'Reykjavík, Iceland (hybrid)'
+#   'Shanghai, China (hybrid)'
+#   'Singapore (+ virtual options)'
+#   'Taipei, Taiwan (hybrid)'
+#   'Tallinn, Estonia (hybrid)'
+#   'Tbilisi, Georgia (hybrid)'
+#   'Virtual'
+#   'Virtual (Konstanz, Germany)'
+#   'Virtual (Lugano, Switzerland)'
+#   'Virtual (Paris, France)'
+#   'Virtual (Vienna, Austria)'
+#   'Warsaw, Poland (hybrid)'
+#   'Yale University, Connecticut, USA (or virtual)'
+#   'York, UK / online'
+#   'virtual? (Brussels, Belgium)'
+#

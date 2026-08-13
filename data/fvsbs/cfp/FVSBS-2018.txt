@@ -1,0 +1,160 @@
+
+
+=================================================================
+
+Call for Papers
+
+Sixth International track on Formal Verification of Service Based Sy stems
+
+FVSBS 2018
+
+Conference Track @ IEEE WETICE 2018
+
+Date: June 27-29, 2018
+
+Location: Paris, France
+
+more info at FVSBS2018 and www.wetice.org
+
+============================ ======================================
+ 
+
+The goal of this track is to bring together researchers and developers from industry and the academic world to report on the latest scientific and technical advances of formal verification of software architecture and to address adaptation and reconfiguration issues. Different investigation topics are involved, such as: Service Oriented Architecture (SOA); Service Component Architecture (SCA); Business Process Management (BPM); Software analysis and model checking, Software process and workflow; Software validation and verification; Software testing and testing tools; Dynamic composition.
+ 
+
+From technology foundation perspective, formal verification of software architecture has become the default discipline in the modern software development. FVSBS’2018 will provide an opportunity for the community to exchange ideas and to present emerging new papers reporting s ubstantive new work in various aspects of formal verification of service based systems.
+
+
+TOPICS 
+ 
+
+Service oriented architecture, SOA migration and governance checking
+
+Service-oriented and component-based software applications and architectures modeling verification
+
+SCA based software applications checking
+
+Formal Web services composition checking
+
+Formal Tools and technologies for Web Services development, deployment and management
+
+Impact of formal methods on Web Services and SOA and SCA base applications
+
+Formal verification of service and component based system approaches for dynamic composition
+
+Model-Driven Eng ineering (MDE) and SOA
+
+Modeling and Meta-modeling and SOA based applications
+ 
+
+IMPORTANT DATES
+ 
+
+Paper Submission: February 28, 2018
+
+Decision Notification: March 30, 2018
+
+Camera-Ready Submission : April 15, 2018
+ 
+
+TRACK CHAIRS
+ 
+
+Mohamed Graiet (ISIM, Monastir, Tunisia)
+
+Kais Klai (LIPN, Paris, France)
+ 
+
+PAPER SUBMISSION
+
+Authors are invited to submit full papers (about 6 pages) or short papers (about 4 pages) of doismauble column text using single spaced 10 point size on 8.5 x 11 inch pages, as per IEEE 8.5 x 11 manuscript guidelines (http://www.computer.org/portal/web/cscps/formatting). 
+
+Authors must upload their paper as PDF file using the EasyChair Submission System.
+ 
+
+PROGRAM COMMITTEE 
+
+Abedelhak-Djamel Seriai, LIRMM, Montplier University, France
+
+Abedelhak-Djamel Seriai, LIRMM, Montplier University, France
+
+Adnene Guabtni, NICTA, Australia
+
+Aladin Ben Salem, ISIMM, Monastir University, Tunisia
+
+Amel Mammar, TELECOM SudParis, France
+
+Antoine Beugnard, TELECOM Bretagne, France
+
+Armin Haller, Australian National University, Australia
+
+Chihab Hanachi, Toulouse 1 University, IRIT Laboratory, France
+
+Claude Godart, University Henri Poincaré Nancy 1 - LORIA, France
+
+Christelle Urtado, LGI2P, Ecole des Mines d'Alès, France
+
+Eric Cariou, LIUPPA, Pau University, France
+
+Eric Pardede, La Trobe University, Australia
+
+François Charoy, University Henri Poincaré Nancy 1 - LORIA, France
+
+Hanen Ochi, LIPN, Paris13 University, France
+
+Inge Lucassen, ITNO, Netherlands
+
+Jean-Claude Royer,  Mines de Nantes – INRIA, France
+
+Jörg Desel, University of mathematic and computer science of Hagen, Germany
+
+Jun Sun, ISTD, Singapore University of Technology and Design (SUTD), Singapore
+
+Kais Klai, LIPN, Paris13 University, France
+
+Laure Petrucci, LIPN, Paris13 University, France
+
+Lazhar Hamel, ISIMM, Monastir University, Tunisia
+
+Lionel Seinturier, University of Lille 1, France
+
+Liu Yang, School of Computer Engineering, Nanyang Technological University, Singapore
+
+Maciej Zaremba, National University of Ireland, Galway, Ireland
+
+Mohamed Graiet, ISIMM, Monastir University, Tunisia
+
+Mohamed Tahar Bhiri, FSS, Sfax University, Tunisia
+
+Mourad Chabane Oussalah, University of Nantes, France
+
+Mourad Kmimech, ISIMM, Monastir University, Tunisia
+
+Nguyen Ngoc Chan,TELECOM SudParis, France
+
+Olivier Barais, IRISA, France
+
+Pascal ANDRE, LINA, Nantes University, France
+
+Philippe Aniorté, LIUPPA, Pau University, France
+
+Raoudha Maraoui, ISG, Kairouan University, Tunisia
+
+Regine LALEAU, LACL, Paris-Est Creteil University, France
+
+Sami Bhiri, ISIMM, Monastir University, Tunisia
+
+Sami Evangelista, LIPN, Paris13 University, France
+
+Samir Tata, Institut Telecom, Telecom SudParis, France
+
+Tayssir Touili, LIPN, Paris13 University , France
+
+Walid Gaaloul, Institut Telecom, Telecom SudParis, France
+
+Yamine Ait Ameur, LISI, ENSMA, France
+
+Yves Ledru, LIG, Grenoble University, France
+
+Zhangbing Zhou, University of Geosciences, China
+

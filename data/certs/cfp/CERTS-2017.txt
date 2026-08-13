@@ -1,0 +1,119 @@
+
+2nd Workshop on
+Security and Dependability of Critical Embedded Real-Time Systems
+
+at the IEEE Real-Time Systems Symposium
+Paris, France, 5th December, 2017
+
+http://certs2017.uni.lu
+** Firm deadline: October 1st, 2017**
+
+CALL FOR PAPERS
+
+At their heart, many critical systems and system infrastructures are
+composed of real-time and embedded systems (RTES). For example, RTES
+control our power grids, maintain our smart homes, steer our vehicles
+or they host the software in road-side units that allow our vehicles
+to drive more safely and more efficiently. For sure, they will open
+the way to even more challenging applications, such as in autonomous
+and cooperating vehicles, terrestrial or aerial.
+
+However, most of these RTES are distributed or networked, which makes
+them vulnerable both to accidental faults and targeted attacks and
+advanced and persistent threats. Worse, compromise of a few nodes may
+bring down the entire system, in particular if attacks persist.
+
+The grand challenges brought in by these scenarios include ensuring
+continuous unmaintained operation under faults and attacks. Systems
+may possibly utilize easier to upgrade computation resources in mobile
+phones or road side units whose trustworthiness needs to be
+established while the RTES approaches these units. And while attackers
+may try to compromise the RTES’ functionality or timing, we seek to
+protect the integrity and timeliness of systems and the privacy of
+their users. Mastering these challenges requires the expertise of
+several research areas, and so, the goal of this workshop is to bring
+together researchers and engineers from the security and
+dependability, distributed systems and real-time communities, in order
+to discuss and promote new and exciting research ideas and
+initiatives, and to identify and discuss the challenges that lie ahead
+for such critical applications.
+
+CERTS’17 strives for an inclusive and diverse program and solicits
+short and long technical papers on open problems, experiments, case
+studies, new ideas, or future challenges. See
+http://certs2017.uni.lu for a detailed description of contribution
+formats.
+
+SCOPE AND TOPICS OF INTEREST
+
+CERTS’17 is open to all topics at the intersection of security and
+dependability of embedded and real-time systems, with an emphasis on
+criticality and distribution. As such, areas of interest include but
+are not limited to the following topics:
+
+* Security and dependability of cyber-physical and other real-time and
+embedded systems,
+* Vulnerabilities and protective measures of CPS infrastructure,
+* Fault and intrusion tolerant distributed real-time systems,
+* Confidentiality and privacy in real-time and embedded systems, and
+* System architectures encompassing combinations of distribution,
+security, dependability and timeliness.
+
+Contribution formats include technical presentations of systems,
+system models and architectures, methods, tools, protocols and
+infrastructures to improve the dependability and security of real-time
+systems but also open problems and future challenges papers and
+experimental papers including experience reports and negative results.
+
+SUBMISSION FORMATS
+
+* Short Work-in-Progress Paper: up to two pages, standard IEEE format
+* Full Paper: up to six pages, standard IEEE format
+
+Adherence to the format is strict, but we tolerate moderately
+exceeding the page limit (by up to two pages) if the content so
+justifies. Visit http://certs2017.uni.lu for further details.
+
+IMPORTANT DATES
+
+Submission deadline: 1st October 2017 (firm deadline!)
+Notification of acceptance: 17th October 2017
+Final version of papers due: 20th October 2017
+Workshop: 5th December 2017
+RTSS conference: 6th December –
+8th December 2017
+
+WORKSHOP ORGANIZATION
+
+Organizers
+~~~~~~~~~~
+
+Sibin Mohan (University of Illinois),
+Marisol Garcia Valls (Universidad Carlos III de Madrid)
+
+Steering Committee
+~~~~~~~~~~~~~~~~~~
+Marcus Völp (SnT – University of Luxembourg),
+Paulo Veríssimo (SnT – University of Luxembourg),
+Antonio Casimiro (University of Lisboa),
+Rodolfo Pellizzoni (University of Waterloo)
+
+Program Committee
+~~~~~~~~~~~~~~~~~
+
+Lui Sha, University of Illinois
+Christian Esposito, University of Naples Federico II
+Hans Reiser, Universität Passau
+Danny Dolev, The Hebrew University of Jerusalem
+Antônio Augusto Fröhlich, Federal University of Santa Catarina
+Zbigniew Kalbarczyk, University of Illinois
+Miroslav Pajic, Duke University
+Ravi Prakash, University of Dallas
+Sasikumar Punnekat, Maelardalen University
+Guillermo Rodriguez-Navas, Maelardalen University
+José Rufino, Faculdade de Ciencias da Universidade de Lisboa
+Elad Schiller, Chalmers University of Technology
+Bryan Ward, MIT Lincoln Laboratory
+Heechul Yun, Kansas University
+Saman Zonouz, Rutgers University
+

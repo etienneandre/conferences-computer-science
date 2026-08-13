@@ -1,0 +1,28 @@
+
+/****************************************************************************/
+The WATERS 2018 industrial challenge is based on the RESSAC use case, μXAV: A Collaborative Development Assurance Lab.
+https://www.ecrts.org/forum/viewtopic.php?f=39&t=111&sid=42989986f6dbb5ff20d6f35e91488f0c
+deadline : 17th April 2018
+workshop : 3rd July 2018
+location: Barcelone, an ECRTS 2018 workshop
+/****************************************************************************/
+
+
+The challenge is composed of 3 independent questions:
+1. Refining the Cyber part of the Architecture. The objective is to select a set of concrete hardware resources to host the three systems and to perform a fully instantiated end-to-end timing analysis multi-system wide.
+
+2. End-to-end Timing Analysis. The objective is to refine the tasks sets, the tasks attributes, the communication messages and validate via schedulability or any other analysis the respect of the end-to-end channels.
+
+3. Simulation or other test / analysis means. Two models are available, in Matlab/Simulink and in SCADE Architect. The objective is to propose a simulation / test framework to validate choices made in question 1 and 2. Note that ANSYS RESSAC partner will propose free licence to SCADE Architect for the challenge.
+
+A solution of the challenge is an answer to one or several questions.
+
+A session will be devoted to the presentation of the solutions to the industrial challenges. Solutions to the 2018, 2017 and 2015 challenges are welcome. Authors of accepted submissions will have the opportunity to give a short talk during that session and present their solution to the ECRTS audience during the interactive demo session. Depending on the participation, a joint publication of the challenge solutions will be considered. Please note that we aim at a collaborative reviewing process: your submission implies that you agree to participate as a reviewer to the (light-weight) evaluation of contributions submitted by others.
+
+Detailed on the still active previous challenges.
+http://w3.onera.fr/waters2018/node/13
+
+
+Contact:
+Emmanuel Ledinot Emmanuel.Ledinot@dassault-aviation.com
+Claire Pagetti claire.pagetti@onera.fr

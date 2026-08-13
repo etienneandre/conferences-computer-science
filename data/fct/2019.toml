@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Biennial conference. Selected papers will be invited to a special issue of the \"Journal of Computer and System Sciences\", devoted to FCT 2019. Best paper award and best student paper award."
+
+[[cfp]]
+file = "cfp/FCT-2019.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FCT-2019.txt"
+stage = "initial"

@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Co-located with FMCAD 2021: VSTTE 2021. Author Response: June 23-25, 2021. A small number of outstanding FMCAD submissions will be considered for inclusion in a Special Issue of the journal on Formal Methods in System Design (FMSD)."
+
+[[cfp]]
+file = "cfp/FMCAD-2021.txt"
+stage = "initial"

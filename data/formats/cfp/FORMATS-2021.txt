@@ -1,0 +1,95 @@
+================================================================
+Call for Papers
+
+FORMATS 2021
+19th International Conference on 
+        Formal Modeling and Analysis of Timed Systems
+August 23rd-27th
+Université Paris-Est Créteil, France
+co-located with CONCUR, FMICS and QEST as part of QONFEST 2021
+                       qonfest2021.lacl.fr
+================================================================
+
+FORMATS is an annual conference aimed at promoting the study of fundamental and practical aspects of timed systems, and bringing together researchers from different disciplines that share interests in modelling, design, and analysis of timed computational systems. The conference aims to attract researchers interested in real-time issues in hardware design, performance analysis, real-time software, scheduling, semantics and verification of real-timed, hybrid and probabilistic systems. We particularly encourage submissions concerning applications of real-time systems and on relevant topics in interdisciplinary areas, such as robot motion planning.
+
+Typical topics include (but are not limited to):
+
+(1) Foundations and Semantics
+Theoretical foundations of timed systems and languages; comparison between different models (timed automata, timed Petri nets, hybrid automata, timed process algebra, max-plus algebra, probabilistic models). 
+
+(2) Methods and Tools
+Techniques, algorithms, data structures, and software tools for analyzing timed systems and resolving temporal constraints (scheduling, worst-case execution time analysis, optimization, model checking, testing, constraint solving, etc.).
+
+(3) Applications
+Adaptation and specialization of timing technology in application domains such as real-time software, hardware circuits, and problems of scheduling in manufacturing and telecommunication.
+
+
+Special Sessions: Control Synthesis and Motion Planning for Cyber-physical and Control Systems
+There will be a special session on control synthesis and motion planning for cyber-physical and control systems in FORMATS this year. Real-world systems often include physical components, which impose constraints on the time and space evolution of the system, e.g., robots, smart cities, and medical devices. In this session, we are interested in all approaches, including both model-based and data-driven, to analysis and control design for such systems with logical and temporal specifications. We welcome submissions on this topic and in relevant areas.
+
+Paper Submission:
+FORMATS 2021 solicits high-quality papers reporting research results and/or experience reports related to the topics mentioned above. Submitted papers must contain original, unpublished contributions, not submitted for publication elsewhere. The papers should be submitted electronically in PDF, following the Springer LNCS style guidelines. Regular papers should not exceed 15 pages in length (excluding references, that are therefore not limited), and short papers (for instance describing case studies, or implementations) are limited to 5 pages.  Each paper will undergo a thorough review process. If necessary, the paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee. Papers will be submitted electronically via the EasyChair online submission system:
+https://easychair.org/conferences/?conf=formats2021
+
+The proceedings of FORMATS 2021 will be published by Springer in the Lecture Notes in Computer Science series. The best paper of the conference will be awarded the Oded Maler Award in Timed Systems.
+
+
+Important Note Concerning the COVID-19 Pandemic:
+The current situation makes it unclear whether FORMATS 2021 can be held physically. We hope to come to a clear view on this by early April 2021. Should it need to be held as a virtual conference, we would do our best to maintain the usual quality of the program, and moreover to have a scheduling that accommodate attendance from different time zones. 
+
+Important dates:
+   Abstract submission: April 6, 2021
+   Paper submission: April 13, 2021
+   Notification of acceptance: June 21, 2021 
+   Final version due: July 02, 2021 
+   Conference: August 23rd-27th, 2021
+
+For any questions, feel free to contact the co-chairs Catalin Dima (dima@u-pec.fr) and Mahsa Shirmohammadi (mahsa@irif.fr)
+
+Committees 
+
+Program Chairs
+Catalin Dima (France)
+Mahsa Shirmohammadi (France)
+
+QONFEST 2021 General Chair  
+Benoît Barbot (France)
+
+Steering Committee
+Rajeev Alur (USA)
+Eugene Asarin (France)
+Martin Fränzle (chair, Germany)
+Thomas A. Henzinger (Austria)
+Joost-Pieter Katoen (Germany)
+Kim G. Larsen (Denmark)
+Oded Maler (founding chair, France) (1957-2018)
+Pavithra Prabhakar (USA)
+Mariëlle Stoelinga (The Netherlands)
+Wang Yi (Sweden)
+
+Special-Session Chair
+Morteza Lahijanian (USA)
+
+Program Committee
+Parosh Aziz Abdulla (Sweden)
+Damien Busatto (Belgium)
+Thomas Chatain (France)
+Lorenzo Clemente (Poland)
+Liliana Cucu-Grosjean (France)
+Hugo Gimbert (France)
+Arnd Hartmanns (The Netherlands)
+Hsi-Ming Ho (UK)
+Sophia Knight (USA)
+Moez Krichen (Saudi Arabia)
+Engel Lefaucheux (Germany)
+Martina Maggio (Saarland University, Germany)
+Angelo Montanari (Italy)
+Igor Potapov (UK)
+Mickael Randour (Belgium)
+Mikhail Raskin (Germany)
+Cristian Riveros (Chile)
+Matteo Rossi (Italy)
+Kristin Yvonne Rozier (USA)
+Krishna S (India)
+Sadegh Soudjani (UK)
+Naijun Zhan (China)

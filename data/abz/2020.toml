@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Deadline extended by 20 days (2014), 7 days (2018). ABZ 2020 will have a main conference track, a case study track, tutorials and workshops. Every two years. Cancelled in 2020 (Covid19): papers published in 2020 and talks postponed to 2021."
+
+[[cfp]]
+file = "cfp/ABZ-2020.txt"
+stage = "initial"

@@ -23,3 +23,7 @@ environment = "The Highlights Extended Stay Support Scheme (HESSS) helps partici
 [extra]
 colocated = "Followed by the Highlights’ Collaborative Research Week (CREW)"
 notes = "Short presentations, no formal proceedings, single author. We encourage you to attend and present your best work, be it already published or not, at the Highlights conference."
+
+[[cfp]]
+file = "cfp/HIGHLIGHTS-2026.txt"
+stage = "initial"

@@ -19,3 +19,7 @@ license = "cc-by"
 
 [extra]
 notes = "Affiliated with ETAPS 2024. Competition: HCVS 2024 is planning to host the 7th competition on constraint Horn clauses (CHC-COMP), which will compare state-of-the-art tools for CHC solving for performance and effectiveness on a set of publicly available benchmarks."
+
+[[cfp]]
+file = "cfp/HCVS-2024.txt"
+stage = "initial"

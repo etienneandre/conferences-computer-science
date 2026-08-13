@@ -20,3 +20,24 @@ license = "pay-profit"
 
 [extra]
 notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017), 8 days (2018). A selection of up to five articles among the contributed papers will be invited to a special issue of a journal. Also a Presentation-Only Papers track, which usually attracts 6-8 high quality presentations from ICALP, CONCUR, LICS, MFCS, CAV, etc."
+
+[[cfp]]
+file = "cfp/RP-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RP-2019-authors.txt"
+stage = "initial"
+note = "information for authors"
+
+[[cfp]]
+file = "cfp/RP-2019-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/RP-2019-flyer.pdf"
+kind = "poster"
+
+[[cfp]]
+file = "cfp/RP-2019-poster.pdf"
+kind = "poster"

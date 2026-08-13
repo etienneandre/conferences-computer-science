@@ -1,0 +1,146 @@
+CMSB 2021 - CALL FOR PAPERS
+===
+
+The 19th conference on Computational Methods in Systems Biology (CMSB 2021,https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcmsb2021.labri.fr%2F&amp;data=04%7C01%7C%7Cf3fadf4332af44cfd4a008d8d1b1a905%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C637489908262916254%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=KPPLiPB%2Fgf5nXfTCoDUdtVqeJZiwGVCqTQmausCoNKM%3D&amp;reserved=0) will take place on September 22-24, either in person in Bordeaux (France), or online, depending on the evolution of the Covid-19 pandemic. CMSB is a well established conference series. It brings together researchers from across biological, mathematical, computational, and physical sciences who are interested in the modelling, simulation, analysis, inference, design, and control of biological systems.
+
+Co-chairs:
+- Eugenio Cinquemani (Inria Grenoble-Rhône-Alpes, France, https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteam.inria.fr%2Fibis%2Feugenio-cinquemani&amp;data=04%7C01%7C%7Cf3fadf4332af44cfd4a008d8d1b1a905%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C637489908262926213%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=3neIqGnwdh1jLqAgqi57xizBkHfylrfaQG3imPjBqlc%3D&amp;reserved=0)
+- Loïc Paulevé (CNRS, LaBRI, France, https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Floicpauleve.name%2F&amp;data=04%7C01%7C%7Cf3fadf4332af44cfd4a008d8d1b1a905%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C637489908262926213%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=wnOqxUoNKSloq0JosiVJSp9W5yyVdJfhUUHt3sVzBf8%3D&amp;reserved=0)
+
+Invited speakers:
+
+- Diego di Bernardo (TIGEM, Italy)
+- Laurence Calzone (Institut Curie, France)
+- Giulia Giordano (University of Trento, Italy)
+- Yang-Yu Liu (Harvard Medical School, US)
+- Ion Petre (University of Turku, Finland)
+
+
+CALL FOR CONTRIBUTIONS
+
+CMSB 2021 solicits contributions on the following or related topics:
+
+- formalisms for modelling biological processes
+- methods and tools for biological system analysis, modelling and simulation
+- frameworks for model verification, validation, analysis, and simulation of biological systems
+- high-performance methods for computational systems biology
+- identification of biological systems
+- applications of machine learning
+- network modelling, analysis, inference
+- automated parameter and model synthesis
+- model integration and biological databases
+- multi-scale modelling and analysis methods
+- design, analysis, and verification methods for synthetic biology
+- methods for biomolecular computing and engineered molecular devices
+- data-based approaches for systems and synthetic biology
+- optimality and control of biological systems
+- modelling, analysis and control of microbial communities
+
+The conference welcomes new theoretical results with potential applications to systems and synthetic biology, as well as novel applications and case studies of existing methods, tools, or frameworks. Contributions should be submitted to one of the following categories:
+
+A) REGULAR PAPERS: Regular papers should describe original work that has not been previously published and is not under review for publication elsewhere. Accepted regular papers will be published as part of the conference proceedings in the Springer LNCS/LNBI series and indexed by ISI Web of Science, Scopus, ACM Digital Library, DBLP, and Google Scholar. Papers in this category should not exceed 15 pages in the LNCS format (including main figures and tables, excluding references and appendix).
+
+B) TOOL PAPERS: Tool papers should present new tools or public websites, new tool components or novel extensions to existing tools or websites supporting biological system modelling, analysis, simulation, or similar. Submissions must include information on methods, tool availability, and selected application results. They should be original and not previously published in a similar form. Accepted tool papers will be published as part of the conference proceedings in the Springer LNCS series. Papers in this category should not exceed 6 pages in the LNCS format (including main figures and tables, excluding references and appendix). For the tool evaluation, authors shall either submit an artifact along with the paper by the submission deadline, or provide clear indications how to locate it on the web. If none of this is applicable, authors shall contact the program chairs before submission deadline to agree on alternative means of evaluation. Tool papers will undergo a dedicated reviewing process that includes the testing of the tools, with specific feedback returned to the authors. Authors of accepted tool papers will be encouraged to showcase their tool in a tool session at the conference.
+
+C) POSTERS: Extended abstracts should be submitted to propose poster presentation of original unpublished work, or of major results published or accepted in the last year in a high-quality journal or conference. The abstracts should be submitted in Springer LNCS style and should not exceed 4 pages all included. Authors of accepted abstracts will be invited for presentation in a poster sessions and/or for flash presentations.
+
+D) HIGHLIGHT TALKS: Highlight talk proposals should be submitted in the form of an extended abstract, for possible oral presentation without publication of related material in the conference proceedings. We particularly welcome submission of recently published work. Submitted abstracts summarizing the results and their relevance should not exceed 2 pages including references.
+
+Each contribution will be reviewed by at least three members of the program committee (reported below).
+
+* A selection of best papers will be invited for extension and submission to a special issue of BMC Bioinformatics at a discounted Author Processing Charge (1282 GBP).
+
+
+IMPORTANT DATES:
+
+Regular and tool papers:
+- submission: April 12, 2021
+- notification: June 7, 2021
+- final version: June 21, 2021
+Highlight talks (presentation only):
+- extended abstract submission: May 31, 2021
+- notification: June 7, 2021
+Posters:
+- extended abstract submission: June 14, 2021
+- notification: June 21, 2021
+
+All of the deadlines are AoE (Anywhere on Earth).
+
+
+ORGANIZATION
+
+Program committee and organization co-chairs:
+- Eugenio Cinquemani – Inria Grenoble-Rhône-Alpes (France)
+- Loïc Paulevé – CNRS, LaBRI (France)
+
+Organization Committee:
+- Auriane Dantès – CNRS, LaBRI (France)
+- Clémence Frioux – Inria Bordeaux (France)
+- Isabelle Garcia –  CNRS, LaBRI (France)
+- Misbah Razzaq – Inserm BPH, Bordeaux (France)
+
+Program Committee:
+- Alessandro Abate – University of Oxford (UK)
+- Claudio Altafini – Linköping University (Sweden)
+- Paolo Ballarini – CentraleSupélec (France)
+- Ezio Bartocci – Vienna University of Technology (Austria)
+- Luca Bortolussi – University of Trieste (Italy)
+- Luca Cardelli – University of Oxford (UK)
+- Milan Češka – Brno University of Technology (Czech Republic)
+- Eugenio Cinquemani – Inria Grenoble-Rhône-Alpes (France)
+- Neil Dalchau – Microsoft Research Cambridge (UK)
+- François Fages – Inria Saclay Île-de-France (France)
+- Karoline Faust –REGA Institute, KU Leuven (Belgium)
+- Jerome Feret – Inria Paris (France)
+- Christoph Flamm – University of Vienna (Austria)
+- Clémence Frioux – Inria Bordeaux (France)
+- Ashutosh Gupta – IIT Bombay (India)
+- Jan Hasenauer – Universität Bonn (Germany)
+- Monika Heiner – Brandenburg Technical University Cottbus-Senftenberg (Germany)
+- Jane Hillston – University of Edinburgh (UK)
+- Ina Koch – Goethe University Frankfurt am Main (Germany)
+- Jan Křetínský – Technical University of Munich (Germany)
+- Jean Krivine – CNRS, IRIF (France)
+- Pedro T. Monteiro – INESC-ID/IST – Universidade de Lisboa (Portugal)
+- Laura Nenzi – University of Trieste (Italy)
+- Jun Pang – University of Luxembourg (Luxembourg)
+- Nicola Paoletti – University of London (UK)
+- Loïc Paulevé – CNRS, LaBRI (France)
+- Ion Petre – University of Turku (Finland)
+- Tatjana Petrov – University of Konstanz (Germany)
+- Carla Piazza – University of Udine (Italy)
+- Ovidiu Radulescu – University of Montpellier France)
+- Andre Ribeiro – Tampere University (Finland)
+- Maria Rodriguez Martinez – IBM Zürich Research Laboratory (Switzerland)
+- Olivier Roux – École Centrale de Nantes (France)
+- David Šafránek – Masaryk University (Czech Republic)
+- Guido Sanguinetti – University of Edinburgh (UK)
+- Heike Siebert – Freie Universität Berlin (Germany)
+- Abhyudai Singh – University of Delaware (USA)
+- Scott Smolka – Stony Brook University (USA)
+- Carolyn Talcott – SRI International (USA)
+- Adelinde Uhrmacher – University of Rostock (Germany)
+- Andrea Vandin – Technical University of Denmark (Denmark)
+- Verena Wolf – Saarland University (Germany)
+- Christoph Zechner – Max Planck Institute of Molecular Cell Biology and Genetics (Germany)
+
+Steering Committee:
+- Alessandro Abate – University of Oxford (UK) – guest member
+- Luca Bortolussi – University of Trieste (Italy) – guest member
+- Luca Cardelli – University of Oxford (UK)
+- Eugenio Cinquemani – Inria Grenoble-Rhône-Alpes (France) – guest member
+- Finn Drablos – NTNU (Norway)
+- François Fages – Inria Saclay Île-de-France (France)
+- David Harel – Weizmann Institute of Science (Israel)
+- Monika Heiner – Brandenburg Technical University Cottbus-Senftenberg (Germany)
+- Tommaso Mazza – IRCCS Casa Sollievo della Sofferenza – Mendel (Italy)
+- Satoru Miyano – University of Tokyo (Japan)
+- Loïc Paulevé – CNRS, LaBRI (France) – guest member
+- Ion Petre – University of Turku (Finland)
+- Tatjana Petrov – University of Konstanz (Germany) – guest member
+- Gordon Plotkin – University of Edinburgh (UK)
+- Corrado Priami – CoSBi / Microsoft Research, University of Trento (Italy)
+- Guido Sanguinetti – The University of Edinburgh (UK) – guest member
+- Carolyn Talcott – SRI International (USA)
+- Adelinde Uhrmacher – University of Rostock (Germany)
+- Verena Wolf – Saarland University (Germany)

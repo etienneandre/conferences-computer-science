@@ -1,0 +1,128 @@
+ReacTS: Call for Papers
+
+===================================================================================
+International Workshop on
+Reconfigurable Transition Systems:
+Semantics, Logics and Applications
+===================================================================================
+
+https://reacts2024.github.io/
+
+Tuesday, 5 November 2024, Aveiro, Portugal
+
+Satellite event of SEFM 2024 (https://sefm-conference.github.io/sefm2024)
+
+-----------------------------------------------------------------------------------
+OVERVIEW
+-----------------------------------------------------------------------------------
+
+Reconfigurable Transition Systems (RTS) are dynamic relational structures (graphs) that evolve along its execution, in the sense that their accessibility relation, their set of nodes or their labelling change when their edges are crossed. These structures have proven to be suitable to compactly represent complex reactive and reconfigurable behaviours. Namely, the ability of reacting or readapting under the influence of certain events is a very distinctive feature of many diverse situations and objects. An autonomous vehicle that changes its route due to a new strike occurring, the behaviour of a software component after a memory disposal, or a DNA mutation as the result of a viral infection, are different examples that witness the importance of modelling about changes in a determined situation. Practical user cases have aroused the interest of the logic community in the study of variants of RTS, by developing formal methods to properly reason about such situations.
+This workshop aims to bring together the whole community of researchers working on different ways to model reconfigurable and reactive systems from a formal perspective. This includes theoretical approaches (like hybrid logics, reactive frames, model-update logics), or formalisms designed for specific purposes (like separation logic in software verification, dynamic epistemic logic in AI planning, and others). Also, our goal is to devise novel approaches and potential applications, and share a common perspective on the discipline.
+
+-----------------------------------------------------------------------------------
+SUBMISSION GUIDELINES
+-----------------------------------------------------------------------------------
+
+Authors are invited to submit, via EasyChair research contributions or experience
+reports (https://easychair.org/my/conference?conf=reacts2024).
+
+All papers should be written in English and prepared using the specific LNCS
+templates available at http://www.springer.de/comp/lncs/authors.html.
+
+There are two categories of submissions
+
+FULL PAPERS up to 12 pages excluding reference,
+– to present original research and the analysis, interpretation and validation of the research findings.
+
+SHORT PRESENTATIONS up to 4 pages,
+– to present work in progress and preliminary results.
+
+Both kinds of submissions allow system descriptions,  to present a new tool, a new tool component or novel extensions to an existing tool aiming at supporting open community approaches, or the use/customisation of an existing tool in the context of RTS.
+
+Accepted Full Papers will be included in the workshop programme and will appear in the workshop pre-proceedings as well as in the LNCS post-proceedings.
+
+Accepted Short presentations  will be included in the pre-proceeding but not published in the post-proceedings.
+
+Pre-proceedings will be available online before the Workshop.
+
+-----------------------------------------------------------------------------------
+LIST OF TOPICS
+-----------------------------------------------------------------------------------
+The scope of the workshop includes (but it is not limited to):
+
+Reconfigurable transitions systems
+Models for the analysis of reconfigurable systems
+Dynamic Logics, Separation Logics, Dynamic Epistemic Logics for RTS
+Applications of formal models for reconfigurable systems
+Computational tools to animate and analyze RTS
+Generalizations of RTS: Fuzzy RTS, Paraconsistent RTS, Weighted RTS
+Featured Transition System
+Bisimulations and general algebraic constructions
+Model Checking and Tools
+Reactive systems and Process Algebra
+Applications of AI for RTS
+
+-----------------------------------------------------------------------------------
+PROGRAM CO-CHAIRS
+-----------------------------------------------------------------------------------
+
+Raul Fervari (University of Córdoba, Argentina)
+Manuel Martins (University of Aveiro, Portugal)
+
+-----------------------------------------------------------------------------------
+KEYNOTE SPEAKER
+-----------------------------------------------------------------------------------
+
+TBA
+
+-----------------------------------------------------------------------------------
+PROGRAM COMMITTEE
+-----------------------------------------------------------------------------------
+
+Carlos Areces, Universidad Nacional de Córdoba and CONICET (Argentina)
+Luis Soares Barbosa, Universidade Do Minho (Portugal)
+Mario Benevides, Universidade Federal do Rio de Janeiro (Brazil)
+Johan van Benthem, ILLC, University of Amsterdam (The Netherlands) & Stanford University (USA)
+Patrick Blackburn, University of Roskilde (Denmark)
+Valentin Cassano, Universidad Nacional de Río Cuarto and CONICET (Argentina)
+Madalena Chaves, Centre Inria d'Université Côte d'Azur (France)
+Diana Costa, Universidade de Lisboa (Portugal)
+Stéphane Demri, CNRS, Université Paris-Saclay (France)
+Hans van Ditmarsch, CNRS, University of Toulouse (France)
+Daniel Figueiredo, University of Aveiro (Portugal)
+Sabine Frittella, Université d'Orleans (France)
+Sujata Gosh, Indian Statistical Institute, Chennai (India)
+Andreas Herzig, CNRS, Université Paul Sabatier (France)
+Juha Kontinen, University of Helsinki (Finland)
+Sergio Marcelino, Universidade de Lisboa (Portugal)
+Regivan Santiago, Universidade Federal do Rio Grande do Norte (Brazil)
+François Schwarzentruber, ENS Rennes (France)
+Igor Sedlár, Czech Academy of Sciences (Czech Republic)
+Sonja Smets, ILLC, University of Amsterdam (The Netherlands)
+Ionuț Țuțu, Simion Stoilow Institute of Mathematics of the Romanian Academy (Romania)
+Fernando R. Velázquez-Quesada, University of Bergen (Norway)
+Fan Yang, Utrecht University (The Netherlands)
+
+-----------------------------------------------------------------------------------
+PUBLICATION
+-----------------------------------------------------------------------------------
+
+Accepted regular papers will be published after the Workshop by Springer
+in a volume of Lecture Notes in Computer Science (http://www.springer.com/lncs),
+which will collect contributions to some workshops co-located with SEFM 2024.
+Condition for inclusion in the post-proceedings is that at least one of
+the co-authors has presented the paper at the Workshop.
+
+-----------------------------------------------------------------------------------
+IMPORTANT DATES
+-----------------------------------------------------------------------------------
+
+Paper submission:  20 august 2024 (AoE)
+Author notification: 20 September 2024
+Workshop: 5 November 2024
+
+-----------------------------------------------------------------------------------
+CONTACT
+-----------------------------------------------------------------------------------
+If you have any problems or questions, please contact us via e-mail at:
+rfervari@unc.edu.ar / martins@ua.pt

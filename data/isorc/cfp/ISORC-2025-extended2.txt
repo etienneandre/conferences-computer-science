@@ -1,0 +1,80 @@
+                                                                                      =================================================
+
+28th IEEE International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing
+
+Toulouse, France.
+
+May 26-28, 2025
+
+isorc.github.io/2025/
+
+ISORC has been established as the leading event devoted to state-of-the-art research and state-of-the-practice applications in the field of real-time distributed computing. Celebrating the 28th anniversary since its foundation in 1998, ISORC continues the trend of providing an international forum for researchers and industry experts to exchange and share their experiences, ideas, latest research results on all aspects of IEEE Conference Proceeding templates technology.
+
+Topics and Scope
+
+IEEE ISORC 2025 invites high-quality papers on all aspects of IEEE Conference Proceeding templates technology, including, but not limited to:
+
+    Software Architectures for Distributed and/or Real-Time Computing.
+    Distributed and/or Real-Time Image, Video, and Stream Processing.
+    Distributed and/or Real-Time Communication for Emerging and Future Networks.
+    Blockchain and Distributed Ledger for Distributed and/or Real-time Computing.
+     DevOps and CI/CD for Distributed and/or Real Time Computing
+    AI/ML, LLM, ML on the Edge, Federated Learning for Distributed and/or Real-time Computing.
+    Digital Twin for Distributed and/or Real-time Computing
+    Cybersecurity, and Trust for Distributed and/or Real-Time IoT Systems.
+    Optimization Approaches for Distributed and Real-Time Computing.
+    Sustainable and Green Computing Transformation for Distributed and Real-Time Computing.
+    Formal Verification and Model Checking for Distributed and Real-Time Computing.
+    Ontology-Based Knowledge Modelling for Distributed and Real-Time Computing.
+    Dependability, Fault Tolerance, and Resilience.
+    Big Data, Algorithms, Models, and Techniques for Real-Time Analytics.
+    Operating Systems, Middleware, and System Software.
+    Distributed Management, Monitoring, Performance Evaluation.
+    Distributed and/or Real-time Computing Applications in IoT, CPS, Edge-Cloud, etc.
+
+Important Dates
+
+    Submission extended deadline (FIRM): January 26, 2025  February 2, 2025 (AoE)
+    Acceptance notification: March 05, 2025 (AoE)
+    Author registration deadline: March 16, 2025  (AoE)
+    Camera-ready papers: March 20, 2025  (AoE)
+
+
+
+Guidelines for Manuscripts
+
+IEEE ISORC 2025 invites papers in the following categories:
+
+    Regular Research Papers: Papers should describe original work and should be 10 pages maximum, plus two extra purchased pages for appendix and references.
+    Industrial Papers and Practitioner Reports: Papers should be of 10 pages, plus 2 extra purchased pages for appendix and references. Papers describing experiences of using ORC technology in application or tool development projects, are an integral part of the technical program of ISORC.
+    Short Papers: Short research papers, maximum 6 pages are also invited, and should contain enough information for the program committee to understand the scope of the project and evaluate the novelty of the problem or approach.
+
+
+
+All papers should be formatted in the standard IEEE double-column format using the published IEEE Conference Proceeding templates, and submitted through the HotCRP system: https://isorc25.hotcrp.com/
+
+
+
+For more information
+
+More information about IEEE ISORC 2025, including submission guidelines, can be found at: isorc.github.io/2025/
+
+
+
+Journal Publication Opportunity
+
+The authors of selected papers from this symposium will be invited to submit an extended version of their work for the Special Issue on AI-Driven Real-Time Distributed Computing for the Edge-Cloud Continuum review and possible publication in the Elsevier Journal of Systems Architecture: Embedded Software Design (JSA).
+
+
+
+
+
+FURTHER INFORMATION:
+
+If you have questions or encounter any problems, please notify the PC co-chairs:
+
+·       Daniel Casini, Scuola Superiore Sant'Anna - Pisa, Italy
+
+·       Pascal Berthou, University of Toulouse III, UPS, CNRS-LAAS, France
+
+·       Mustafa Al Lail, Texas A&M International University, USA

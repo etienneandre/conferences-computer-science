@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 journal = "A special issue of the event with extended papers will be published in Journal of Logical and Algebraic Methods in Programming (Elsevier)."
+
+[[cfp]]
+file = "cfp/DaLi-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/DaLi-2025-extended.txt"
+stage = "extended"

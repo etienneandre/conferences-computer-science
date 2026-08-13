@@ -1,0 +1,137 @@
+CALL FOR PAPERS 
+
+21st Brazilian Symposium On Formal Methods (SBMF) 
+Supported by the Brazilian Computer Society (SBC) 
+Salvador-BA, Brazil
+26 to 30 of November 2018
+
+IMPORTANT DATES 
+
+Abstract Submission Deadline:  July 2nd, 2018 
+Paper Submission Deadline: July 13th, 2018 
+Paper Acceptance Notification: August 28th, 2018 
+Paper Camera-ready Version: September 4th, 2018 
+
+INTRODUCTION 
+
+SBMF 2018 is the twenty-first of a series of events devoted to the development, dissemination, and use of formal methods for the construction of high-quality computational systems. It is now a well-established event, with an international reputation. 
+
+In 2018, SBMF will take place in Salvador, the capital of the Bahia state, northeast of Brazil. It is the 3rd city by population in Brazil, with over 2.9 million inhabitants, and it is the second most popular destination in Brazil for tourists. 
+
+SCOPE AND TOPICS 
+
+The aim of SBMF is to provide a venue for the presentation and discussion of high-quality work in formal methods. The topics include (not limited to): 
+
+* techniques and methodologies, such as method integration; software and hardware co-design; model-driven engineering; formal aspects of popular methodologies; formal design; development methodologies with formal foundations; software evolution based on formal methods; 
+
+* specification and modeling languages, such as well-founded specification and design languages; formal aspects of popular languages; logic and semantics for programming and specification languages; code generation; formal methods of programming paradigms (such as objects, aspects, and component), formal methods for real-time, hybrid, and safety-critical systems, formal models of service-oriented, cloud-based, and cyber-physical systems;
+
+* theoretical foundations, such as domain theory; type systems and category theory; computational complexity of methods and models; computational models; term rewriting; models of concurrency, security and mobility; 
+
+* verification and validation, such as abstraction, modularization and refinement techniques; program and test synthesis; correctness by construction; model checking; theorem proving; static analysis; formal techniques for software testing; software certification; formal techniques for software inspection; 
+
+* Experience reports regarding teaching formal methods;
+
+* applications, such as experience reports on the use of formal methods; industrial case studies; tool support. 
+
+PAPER SUBMISSION 
+
+Papers should present unpublished and original work that has a clear contribution to the state of the art on the theory and practice of formal methods. They should not be simultaneously submitted elsewhere. 
+
+Papers will be judged by at least three reviewers on the basis of originality, relevance, technical soundness and presentation quality, and should contain sound theoretical or practical results. Industry papers should emphasize practical application of formal methods or report on open challenges. 
+
+Contributions should be written in English and be prepared using Springer’s Lecture Notes in Computer Science (LNCS) format. Papers may not exceed 16 pages (including figures, references, and appendix). Accepted papers will be published, after the conference, in a volume of LNCS. Also, a special issue of Science of Computer Programming (Elsevier) is going to be published for the very best papers. 
+
+Every accepted paper MUST have at least one author registered in the symposium by the time the camera-ready copy is submitted; the registered author is also expected to attend the symposium and present the paper. 
+
+Papers can be submitted via the following link: https://easychair.org/conferences/?conf=sbmf2018
+
+ABOUT SALVADOR
+
+Salvador's importance dates back to Brazilian colonization, as it was established as the country's first capital (founded in 1549). Its center is a living museum of 17th- and 18th-century architecture and gold-laden churches. Aside from the many attractions within Salvador (Pelourinho, Modelo Public Market, Lacerda elevator, Church of Nosso Senhor do Bonfim), gorgeous coastline lies right outside the city – a suitable introduction to the tropical splendor of the state of Bahia.
+
+Salvador presents a vibrant musical scene and popular Carnival celebrations, being considered one of the birthplaces of Brazilian culture.
+
+KEYNOTE SPEAKERS 
+
+Prof. Jose Meseguer (University of Illinois at Urbana-Champaign, USA)
+
+Prof. Alexandre Mota (Federal University of Pernambuco, Brazil)
+
+PROGRAM COMMITTEE CHAIRS 
+
+Mohammad Mousavi (University of Leicester, UK) 
+Tiago Massoni (UFCG, Brazil) 
+
+PROGRAM COMMITTEE (Yet to be confirmed)
+Adenilso Simão (ICMC/USP, Brazil)
+Alexandre Mota (UFPE, Brazil)
+Aline Andrade (UFBA. Brazil)
+Álvaro Moreira (UFRGS, Brazil)
+Ana Cavalcanti (University of York, UK)
+Ana de Melo (USP, Brazil)
+Ana Sokolova, Salzburg, AT 
+Anamaria Moreira (UFRJ, Brazil)
+Andrea Corradini (Universita’ di Pisa, Italy)
+Arend Rensink, (University of Twente, Netherlands)
+Arnaldo Moura (UNICAMP, Brazil)
+Augusto Sampaio (UFPE, Brazil)
+Christiano Braga (UFF, Brazil)
+Clare Dixon (University of Liverpool, UK)
+Daltro Nunes (UFRGS, Brazil)
+David Deharbe (ClearSy, France)
+David Naumann (Stevens Institute of Technology, USA)
+Ewen Denney (RIACS/NASA, USA)
+Fernando Orejas (UPC, Spain)
+Harsh Beohar (University of Duisburg, DE)
+Hossein Hojjat (RIT, USA) 
+Ilaria Castellani (INRIA, FR) 
+Jan Friso Groote (TU Eindhoven, NL) 
+Jan Oliver Ringert (University of Leicester, UK)
+Jim Davies (University of Oxford, UK)
+Jim Woodcock (University of York, UK)
+José Fiadeiro (Royal Holloway, University of London, UK)
+José Oliveira (Universidade do Minho, Portugal)
+Juliano Iyoda (UFPE, Brazil)
+Leila Ribeiro (UFRGS, Brazil)
+Leila Silva (UFS, Brazil)
+Luciana Foss (UFPel, Brazil)
+Luis Barbosa (Universidade do Minho, Portugal)
+Marcel Oliveira (UFRN, Brazil)
+Marcelo Maia (UFU, Brazil)
+Márcio Cornélio (UFPE, Brazil)
+Matteo Cimini (UMass, USA)
+Michael Butler (University of Southampton, UK)
+Michael Leuschel (Universität Düsseldorf, Germany)
+Mohammad Mousavi (University of Leicester, UK) - PC co-chair
+Narciso Marti-Olliet (Universidad Complutense de Madrid, Spain)
+Neeraj Singh (McMaster University, Canada)
+Patrícia Machado (UFCG, Brazil)
+Pedro D'Argenio (University of Cordoba, AR)
+Rachid Echahed (CNRS at University of Grenoble, France)
+Reiko Heckel (University of Leicester, UK)
+Robert Hierons (Brunel University London,UK)
+Rodrigo Machado (UFRGS, Brazil)
+Rohit Gheyi (UFCG, Brazil)
+Rolf Hennicker (Ludwig-Maximilians-Universität München, Germany)
+Sérgio Campos (UFMG, Brazil)
+Simone Cavalheiro (UFPel, Brazil) - PC co-chair
+Sofiene Tahar (Concordia University, Canada)
+Stephan Hallerstade (Aarhus University, Denmark)
+Thierry Lecomte (ClearSy, France)
+Tiago Massoni (UFCG, Brazil) - PC co-chair
+
+
+STEERING COMMITTEE 
+
+Márcio Cornélio (UFPE,Brazil)
+Bill Roscoe (University of Oxford, UK) 
+Leila Ribeiro (UFRGS, Brazil) 
+Márcio Cornélio (UFPE, Brazil) 
+Simone A. da Costa Cavalheiro, (UFPel, Brazil)
+José Fiadeiro (University of London, England)
+Tiago Massoni, (UFCG, Brazil)
+Mohammad Mousavi (University of Leicester, UK)
+---
+Prof., Tiago Massoni
+massoni.computacao.ufcg.edu.br

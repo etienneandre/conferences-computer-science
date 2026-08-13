@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "co-located with ETAPS 2023. Single-blind."
+
+[[cfp]]
+file = "cfp/SPIN-2023.txt"
+stage = "initial"

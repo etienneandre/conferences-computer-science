@@ -1,0 +1,107 @@
+***********************************************************************
+
+ABZ 2020: International Conference on Rigorous State Based Methods
+
+Ulm University, Ulm, Germany
+
+May 27-29, 2020
+
+https://abz2020.uni-ulm.de
+
+***********************************************************************
+
+----------------
+Important dates
+----------------
+
+Workshops/Tutorials
+------------------------
+Workshop proposal submission: November 1, 2019
+Workshop notification: November 15, 2019
+Tutorial proposal submission: February 16, 2020
+
+Case Study Track
+------------------------
+Abstract submission: November 29, 2019
+Paper submission: December 6, 2019
+Notification: January 13, 2020
+Final version: March 2, 2020
+
+Main Track
+------------------------
+Abstract submission: January 13, 2020
+Paper submission: January 20, 2020 (including research/short/industry papers)
+Notification: March 2, 2020
+Final version: March 16, 2020
+
+ABZ 2020 conference: May 27-29, 2020
+
+
+----------
+About ABZ
+----------
+
+The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.
+
+The name ABZ goes back to the first conference in London in 2008, where the ASM, B and Z conference series were merged into a joint event. In the following years other formal methods were added, e.g. Alloy in 2010 (Orford, Canada), VDM in 2012 (Pisa, Italy), and TLA + in 2014 (Toulouse, France). After the also successful 2016 conferences in Linz, Austria and 2018 in Southampton, UK, it was decided to name the conference "ABZ: International Conference on Rigorous State Based Methods", to stress the openness for further state-based formal methods. We hope to continue many fruitful discussions between representatives of the individual methods in the past, which will bring us closer to the common goal of this research community: the creation of reliable and safe software.
+
+ABZ 2020 will have a main conference track, a case study track, tutorials and workshops.
+
+
+---------------
+Main ABZ Track
+---------------
+Contributions are solicited on all aspects of the theory and applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based rigour approaches in software/hardware engineering, including the development of tools and industrial applications. The program spans from theoretical and methodological foundations to practical applications, emphasizing system engineering methods and tools that are distinguished by mathematical rigor and have proved to be industrially viable. The main goal of the conference is to contribute to the integration of accurate state- and machine-based system development methods, clarifying their commonalities and differences to better understand how to combine different approaches for accomplishing the various tasks in modeling, experimental validation, mathematical verification of reliable high-quality hardware/software systems. Although organized to host several formal methods in a single event, editorial control of the joint conference is vested in one integrated program committee.
+
+
+-----------------
+Case Study Track
+-----------------
+As successfully practiced since ABZ 2014, the 7th edition of ABZ will again include special sessions dedicated to an industrial case study. Due to the proximity of Ulm to Stuttgart, where the headquarters of some automotive manufacturers and suppliers are located, it is obvious to provide a case study from the automotive industry.
+
+We explicitly invite you to also submit contributions to case studies from previous conferences, which substantially extend the solutions presented there in one aspect or another. Possible enhancements could be new proof techniques, more elegant modeling, generation, verification, or validation of executable code, etc.
+
+See https://abz2020.uni-ulm.de/case-study for a detailed description of the new case study and links to the previous ones.
+
+
+--------------------------------
+Workshop and Tutorial Proposals
+--------------------------------
+Workshops and tutorials will be associated with the main event ABZ. Proposals are solicited in areas related to the conference topics.
+
+A workshop proposal should contain the title of the workshop, a short description of the scientific content, the names and brief CVs of the workshop organizers, the intended PC for the workshop, the duration of the workshop, and the expected number of participants.
+
+A tutorial proposal should contain the title of the tutorial, a short description of the scientific content, the names and brief CVs of the tutorial presenters and the duration.
+
+Please submit your proposals to abz2020@uni-ulm.de.
+
+
+------------
+Submissions
+------------
+Four kinds of contributions are invited:
+
+•    Full Research papers: full papers of not more than 15 pages in LNCS format, which have to be original, unpublished and not submitted elsewhere.
+•    Short presentations of work in progress, and tool demonstrations: This is an excellent opportunity for Ph.D. students to present and validate their work in progress. An extended abstract of not more than 4 pages is expected and will be reviewed.
+•    Application in industry papers: reporting on work or experiences on the application of state based formal methods in industry. An extended abstract of not more than 4 pages is expected and will be reviewed. It is also an interesting option for industrial practitioners who sometimes face too many constraints to prepare a full paper.
+•    Answers to case study papers: full papers of not more than 15 pages in LNCS format reporting on the experiments conducted with any of the state based techniques in the scope of ABZ 2020. We also expect a link to a webpage, where the produced models can be downloaded.
+
+Accepted papers will appear in the Springer LNCS proceedings.  The deadlines for the different kinds of contributions see above.
+
+
+-------------------
+Organization
+-------------------
+Conference Chairs:
+Alexander Raschke, Ulm University, Ulm, Germany
+Dominique Méry, LORIA-Université de Lorraine, Nancy, France
+
+Case Study Chair:
+Frank Houdek, Daimler AG, Stuttgart, Germany
+
+Publicity Chair
+Jakob Pietron, Ulm University, Ulm, Germany
+
+
+
+For further questions concerning ABZ 2020, please contact us at abz2020@uni-ulm.de

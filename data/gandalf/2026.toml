@@ -24,3 +24,11 @@ gender_balance = "mixed"
 
 [extra]
 journal = "Authors of selected papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science"
+
+[[cfp]]
+file = "cfp/GandALF-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/GandALF-2026-extended.txt"
+stage = "extended"

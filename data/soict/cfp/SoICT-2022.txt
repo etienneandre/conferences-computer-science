@@ -1,0 +1,39 @@
+SoICT 2022: The 11th International Symposium on Information and Communication Technology
+
+Hanoi, Vietnam, 
+1, 2 December 2022.
+http://soict.org/ 
+https://www.facebook.com/SoICT/
+
+SoICT 2022 is an international symposium covering significant research areas that include AI Foundations and Big Data, Network Communication and Security, Image and Natural Language Processing, Software Engineering and Digital Technology, Blockchain and Financial Technology trends. Following the past successful symposium SoICT 2019, which received submissions from 28 countries, the 11th International Symposium on Information and Communication Technology (SoICT 2022) will be held in Hanoi, Vietnam. The symposium aims to provide an academic forum for researchers and graduate students to share their latest research findings and identify future computer science challenges . The symposium will include tutorials and keynotes given by world-class speakers.
+ 
+SoICT 2022 proceedings will be published and archived in the ACM Digital Library as part of the ACM International Conference Proceedings Series (ICPS). SoICT 2022, ISBN: 978-1-4503-9725-4, will be indexed by DBLP, Ei Compendex, Scopus and Clarivate Analytics Web of Science (ISI Web of Science).
+
+Important Dates
+===============
+
+- SUBMISSION DEADLINE: 15 August 2022 
+- AUTHOR NOTIFICATION: 5 October 2022
+- CAMERA-READY SUBMISSION: 15 October 2022
+- CONFERENCE DATES: 1, 2 December 2022
+ 
+
+General Chairs
+=============== 
+Joao Gama, University of Porto, Portugal
+Ho Tu Bao, Vietnam Institute for Advanced Study in Mathematics, Vietnam
+Ta Hai Tung, Hanoi University of Science and Technology, Vietnam
+
+
+Program Chairs 
+===============
+Ichiro IDE, Nagoya, Japan
+Abdelhamid Mellouk, University of Paris-Est, France
+Shui Yu, University of Technology Sydney, Australia
+Huynh Thi Thanh Binh, Hanoi University of Science and Technology, Vietnam
+
+Contact Us 
+==========
+If you have any further questions on SoICT 2022, please feel free to contact us.
+E-mail: contact@soict.hust.edu.vn 
+

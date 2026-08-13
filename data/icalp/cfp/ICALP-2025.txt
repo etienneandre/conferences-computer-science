@@ -1,0 +1,338 @@
+ICALP 2025 - Call for Papers
+=======================================================
+
+The 52nd EATCS International Colloquium on Automata, Languages, and Programming
+(ICALP) will take place in:
+
+* Aarhus, Denmark, July 8-11, 2025
+* Conference website: https://conferences.au.dk/icalp2025
+
+ICALP is the main conference and annual meeting of the European
+Association for Theoretical Computer Science (EATCS). As usual, ICALP will
+be preceded by a series of workshops, which will take place on July 7.
+
+The 2025 edition has the following features:
+
+- Submissions are anonymous and there is a rebuttal phase.
+- The conference is planned as a physical, in-person event.
+
+Important dates and information
+===============================
+
+* Submissions: February 8, 2025 (anywhere on Earth)
+* Rebuttal: March 21-24, 2025
+* Author notification: April 14, 2025
+* Camera-ready version: April 28, 2025
+* Early registration: To be announced
+* Conference: July 8-11, 2025 (Workshops on July 7)
+
+Deadlines are firm; late submissions will not be considered.
+
+Invited Speakers
+=============
+
+* Anupam Gupta - NYU, USA
+* Mary Wootters - Stanford University, USA
+* Hongseok Yang - KAIST, Korea
+* One or two more speakers TBC
+
+Workshops
+=========
+
+On Monday 7 July, the following workshops will take place:
+
+* Fair Allocations
+* Loop Invariants and Algebraic Reasoning
+* Theory and Applications of Algorithms with Predictions
+* Algorithmic Aspects of Temporal Graphs
+* Graph Width Parameters
+
+Awards
+=======
+
+During the conference, the following awards will be delivered:
+
+* the EATCS award,
+* the Presburger award,
+* the EATCS distinguished dissertation award,
+* the best papers for Track A and Track B,
+* the best student papers for Track A and Track B.
+
+Submission guidelines
+=====================
+
+Submissions to ICALP 2025 use HotCRP system:
+
+* Submission server Track A: https://icalp25-a.hotcrp.com
+* Submission server Track B: https://icalp25-b.hotcrp.com
+
+Guidelines:
+
+1. Papers must present original research on the theory of computer science. No
+   prior publication and no simultaneous submission to other publication outlets
+   (either a conference or a journal) is allowed. Authors are encouraged to also
+   make full versions of their submissions freely accessible in an on-line
+   repository such as ArXiv, HAL, ECCC.
+
+2. Submissions take the form of an extended abstract of no more than 15 pages,
+   excluding references and a clearly labelled appendix. The appendix may consist
+   either of omitted proofs or of a full version of the submission, and it will be
+   read at the discretion of program committee members. The use of the LIPIcs
+   document class is an option, but not required. The extended abstract has to
+   present the merits of the paper and its main contributions clearly, and
+   describe the key concepts and technical ideas used to obtain the results.
+   Submissions must provide the proofs which can enable the main mathematical
+   claims of the paper to be verified.
+
+3. Submissions are anonymous. The conference will employ a lightweight
+   double-blind reviewing process. Submissions should not reveal the identity of
+   the authors in any way. Authors should ensure that any references to their own
+   related work are in the third person (e.g., not “We build on our previous work
+   …” but rather “We build on the work of …”).
+
+    The purpose of this double-blind process is to help PC members and external
+    reviewers come to an initial judgment about the paper without bias, and not to
+    make it impossible for them to discover who the authors are if they were to
+    try. Nothing should be done in the name of anonymity that weakens the
+    submission or makes the job of reviewing the paper more difficult. In
+    particular, important references should not be omitted. In addition, authors
+    should feel free to disseminate their ideas or draft versions of their paper as
+    they normally would. For example, authors may post drafts of their papers on
+    the web, submit them to arXiv, and give talks on their research ideas.
+
+4. Submissions authored or co-authored by members of the program committee are allowed.
+
+5. The submissions are done via HotCRP to the appropriate track of the
+   conference. The use of pdflatex or similar pdf generating tools is mandatory
+   and the page limit is strict (see point 2.) Papers that deviate significantly
+   from these requirements risk rejection without consideration of merit.
+
+6. During the rebuttal phase, authors will have from March 21-24, 2025 the
+   opportunity to view and respond to initial reviews. Further instructions will
+   be sent to authors of submitted papers before that time.
+
+7. At least one author of each accepted paper is expected to register for the
+   conference, and all talks are in-person. In exceptional cases, there may be
+   support for remotely presenting a talk.
+
+8. Papers authored only by students should be marked as such upon submission in
+   order to be eligible for the best student paper awards of the track.
+
+Proceedings
+===========
+
+ICALP proceedings are published in the Leibniz International Proceedings in
+Informatics (LIPIcs) series. This is a series of high-quality conference
+proceedings across all fields in informatics established in cooperation with
+Schloss Dagstuhl – Leibniz Center for Informatics.  LIPIcs volumes are
+published according to the principle of Open Access, i.e., they are available
+online and free of charge. The accepted papers will need to comply with the
+LIPIcs style.
+
+
+Topics
+======
+
+Papers presenting original research on all aspects of theoretical computer
+science are sought. Typical, but not exclusive, topics of interest are:
+
+Track A: Algorithms, Complexity and Games
+-----------------------------------------
+
+* Algorithmic and computational complexity aspects of biological and social networks
+* Algorithmic Aspects of Security and Privacy
+* Algorithmic Game Theory and Mechanism Design
+* Approximation algorithms
+* Combinatorial Optimization
+* Combinatorics in Computer Science
+* Computational Complexity
+* Computational Geometry
+* Computational Learning Theory
+* Cryptography
+* Data Structures
+* Design and Analysis of Algorithms
+* Distributed and Mobile Computing
+* Dynamic Algorithms
+* Foundations of Machine Learning
+* Graph Mining and Network Analysis
+* Online Algorithms
+* Parallel and External Memory Computing
+* Parameterized Complexity
+* Quantum Computing
+* Randomness in Computation
+* Sublinear Time and Streaming Algorithms
+* Theoretical Foundations of Algorithmic Fairness
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+--------------------------------------------------------------
+
+* Algebraic and Categorical Models of Computation
+* Automata, Logic, and Games
+* Database Theory, Constraint Satisfaction Problems, and Finite Model Theory
+* Formal and Logical Aspects of Learning
+* Formal and Logical Aspects of Security and Privacy
+* Logic in Computer Science and Theorem Proving
+* Models of Computation: Complexity and Computability
+* Models of Concurrent, Distributed, and Mobile Systems
+* Models of Reactive, Hybrid, and Stochastic Systems
+* Principles and Semantics of Programming Languages
+* Program Analysis, Verification, and Synthesis
+* Type Systems and Typed Calculi
+
+ICALP 2025 Programme Committees
+===============================
+
+Track A: Algorithms, Complexity and Games
+-----------------------------------------
+
+* Keren Censor-Hillel, Technion, Israel, (Co-chair)
+* Fabrizio Grandoni, IDSIA, Switzerland, (Co-chair)
+* Pankaj K. Agarwal, Duke University, US
+* Sepehr Assadi, University of Waterloo, Canada
+* Yossi Azar, Tel-Aviv University, Israel
+* Sayan Bhattacharya, University of Warwick, UK
+* Jaroslaw Byrka, University of Wroclaw, Poland
+* Deeparnab Chakrabarty, Dartmouth College, USA
+* Parinya Chalermsook, Aalto University, Finland
+* Shiri Chechik, Tel-Aviv University, Israel
+* Lijie Chen, UC Berekely, US
+* Ilan Reuven Cohen, Bar Ilan Universitity, Israel
+* Artur Czumaj, University of Warwick, UK
+* Debarati Das, Pennsylvania State University, US
+* Peter Davies , Durham University, UK
+* Nico Döttling, CISPA, Germany
+* Andreas E. Feldmann, University of Sheffield, UK
+* Sebastian Forster, Salzburg University, Austria
+* Fedor Fomin , University of Bergen, Norway
+* Pierre Fraigniaud, Université Paris Cité and CNRS, France
+* Federico Fusco, Sapienza Rome, Italy
+* Paweł Gawrychowski, University of Wrocław, Poland
+* Ran Gelles, Bar-Ilan University, Israel
+* George Giakkoupis, INRIA Rennes, France
+* Gramoz Goranci, University of Vienna, Austria
+* Danny Hermelin, Ben Gurion U., Israel
+* Bart Jansen, Eindhoven U., Netherland
+* Petteri Kaski , Aalto University, Finland
+* Valerie King, University of Victoria, Canada
+* Gillat Kol, Princeton, US
+* Robert Krauthgamer, Weizmann Institute, Israel
+* Marvin Kunnemann, Karlsruhe Institute of Technology, Germany
+* Jakub Lacki, Google Research
+* Silvio Lattanzi, Google Research, Spain
+* Francois Le Gall, Nagoya University, Japan
+* Shi Li, Nanjiing University, China
+* Yuri Makarychev, TTIC, USA
+* Slobodan Mitrović, UC Davis, US
+* Sagnik Mukhopadhyay, University of Birmingham
+* Cameron Musco, University of Massachusetts Amherst, US
+* Yasamin Nazari, VU Amsterdam, Netherlands
+* Neil Olver, LSE, UK
+* Adam Polak, Bocconi University, Italy
+* Ely Porat, Bar-Ilan University, Israel
+* Aviad Rubinstein, Stanford, US
+* Barna Saha, U. of California San Diego, US
+* Laura Sanità, Bocconi University, Italy
+* Thomas Sauerwald, Cambridge, UK
+* Saket Saurabh, Institute of Mathematical Sciences, India
+* Chris Schwiegelshohn, Aarhus University, Denmark
+* Hadas Shachnai, Technion, Israel
+* Mohit Singh, Georgia Institue of Technology, US
+* Jukka Suomela, Aalto University, Finland
+* Seeun William Umboh, University of Melbourne, Australia
+* Virginia Vassilevska Williams, MIT, US
+* Laszlo Vegh, University of Bonn, Germany
+* José Verschae, Pontificia Unniversidad Catolica, Chile
+* Emanuele Viola, Northeastern University, US
+* Yitong Yin, Nanjing University, China
+* Hang Zhou, Ecole Polytechnique, France
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+--------------------------------------------------------------
+
+* Joël Ouaknine, Max Planck Institute for Software Systems, Germany, (Chair)
+* C. Aiswarya, Chennai Mathematical Institute, India
+* S. Akshay, IIT Bombay, India
+* Giorgio Bacci, Aalborg University, Denmark
+* David Baelde, ENS Rennes, France
+* Nikhil Balaji, IIT Delhi, India
+* Pablo Barcelo, Universidad Católica de Chile, Chile
+* Michael Benedikt, Oxford University, UK
+* Nick Benton, Facebook, UK
+* Udi Boker, Reichman University, Israel
+* Véronique Bruyère, University of Mons, Belgium
+* Andrei Bulatov, Simon Fraser University, Canada
+* Olivier Carton, Université Paris Cité, France
+* Giuseppe Castagna, CNRS, Université Paris Cité, France
+* Dmitry Chistikov, University of Warwick, UK
+* Laure Daviaud, University of East Anglia, UK
+* Nathanaël Fijalkow, CNRS, LaBRI, Université de Bordeaux, France
+* Cameron Freer, MIT, USA
+* Rob van Glabbeek, University of Edinburgh, UK
+* Ichiro Hasuo, National Institute of Informatics, Japan
+* Justin Hsu, Cornell University, USA
+* Jan Křetínský, Masaryk University Brno, Czech Republic & TU Munich, Germany
+* Stephan Kreutzer, TU Berlin, Germany
+* Alessio Mansutti, IMDEA Software Institute, Spain
+* Andreas Pieris, University of Cyprus, Cyprus & University of Edinburgh, UK
+* Igor Potapov, University of Liverpool, UK
+* Cecilia Pradic, Swansea University, UK
+* Sasha Rubin , University of Sydney, Australia
+* Anne-Kathrin Schmuck, MPI-SWS, Germany
+* Michał Skrzypczak, University of Warsaw, Poland
+* Mariëlle Stoelinga, University of Twente, Netherlands & Radboud University, Netherlands
+* Szymon Toruńczyk, University of Warsaw, Poland
+* Henning Urbat, Friedrich-Alexander-Universität, Germany
+* Di Wang, Peking University, China
+* Nobuko Yoshida, Oxford University, UK
+* Lijun Zhang, Institute of Software Chinese Academy of Sciences, Chinaj
+
+
+Workshops Organisers
+--------------------
+
+ICALP 2025 Workshop chair: Chris Schwiegelshohn (Aarhus University)
+
+### Fair Allocations
+
+* Georgios Amanatidis
+* Aris Filos-Ratsikas
+* Alexandros A. Voudouris
+
+### Loop Invariants and Algebraic Reasoning
+
+* George Kenison
+* Mahsa Shirmohammadi
+
+### Theory and Applications of Algorithms with Predictions
+
+* Spryos Angelopoulos
+* Antonios Antoniadis
+* Marek Elias
+* Lene Monrad Favrholdt
+* Nicole Megow
+
+### Algorithmic Aspects of Temporal Graphs
+
+* George B Mertzios
+* Paul G. Spirakis
+* Eleni C. Akrida
+* Viktor Zamaraev
+
+### Graph Width Parameters
+
+* Flavia Bonomo
+* Nick Brettell
+* Andrea Munaro
+* Daniel Paulusma
+
+
+Proceedings Chair
+-----------------
+
+Gabriele Puppis (University of Udine, Italy)
+
+ICALP 2025 Organizing Committee
+===============================
+
+* Ioannis Caragiannis (Aarhus University)
+* Kasper Green Larsen (Aarhus University)

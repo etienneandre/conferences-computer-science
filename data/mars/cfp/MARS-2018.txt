@@ -1,0 +1,111 @@
+
+                           Call for Papers
+
+                             Workshop on
+              Models for Formal Analysis of Real Systems
+                             (MARS 2018)
+
+                           April 20, 2018
+                     Affiliated With ETAPS 2018
+                        Thessaloniki, Greece
+
+		   http://mars-workshop.org/mars2018/
+
+AIM: 
+
+Logics and techniques for automated reasoning have often been
+developed with formal analysis and formal verification in mind.
+To show applicability, toy examples or tiny case studies are
+typically presented in research papers. Since the theory needs to
+be developed first, this approach is reasonable. However, to show
+that a developed approach actually scales to real systems, large
+case studies are essential.
+   The development of formal models of real systems usually
+requires a perfect understanding of informal descriptions of the
+system - sometimes found in RFCs or other standard documents -
+which are usually just written in English. Based on the type of
+system, an adequate specification formalism needs to be chosen,
+and the informal specification translated into it. Examples for
+such formalisms include process and program algebra, Petri nets,
+variations of automata, as well as timed, stochastic and
+probabilistic extensions of these formalisms. Abstraction from
+unimportant details then yields an accurate, formal model of the
+real system. The process of developing a detailed and accurate model
+usually takes a large amount of time, often months or years;
+without even starting a formal analysis. 
+   When publishing the results on a formal analysis in a
+scientific paper, details of the model have to be skipped due to
+lack of space, and often the lessons learnt from modelling are
+not discussed since they are not the main focus of the paper.
+
+   The workshop aims at discussing exactly these unmentioned lessons.
+Examples are:
+  * Which formalism is chosen, and why?
+  * Which abstractions have to be made and why?
+  * How are important characteristics of the system modelled?
+  * Were there any complications while modelling the system?
+  * Which measures were taken to guarantee the accuracy of the model?
+
+   The workshop emphasises modelling over verification. In particular,
+we invite papers that present full Models of Real Systems, which may
+lay the basis for future formal analysis. The models related to the
+submission, if in machine readable form, will be archived in a
+repository (http://mars-workshop.org/repository.html).
+
+   The workshop will bring together researchers from different
+communities that all aim at verifying real systems and are
+developing formal models for such systems. Areas where large models
+often occur are within networks, (trustworthy) systems and software
+verification (from byte code up to programming- and specification
+languages). An aim of the workshop is to present different
+modelling approaches, to discuss pros and cons for each of them,
+and to start a collection of interesting benchmarks for diverse
+formal methods.
+
+SUBMISSION:
+
+Submissions must be unpublished and not be submitted for publication
+elsewhere. Contributions are limited to 12 pages EPTCS style (not counting
+references and the appendices), but shorter extended abstracts are
+welcome. Appendices (of arbitrary length) can be used to present all
+details of a formalised model; the appendices will be part of the
+proceedings. In case a formal model is presented in some formalism or
+tool, such as timed automata for Uppaal or formal proofs for
+Isabelle/HOL, these models have to be submitted in totality as well,
+in the appendices and/or as an TAR or ZIP file, the contents of which,
+for accepted papers, will be made available in our Repository of
+Models for Formal Analysis of Real Systems
+(http://mars-workshop.org/repository.html).
+   Submissions must be in English and submitted in PDF format via
+EasyChair (https://easychair.org/conferences/?conf=mars2018). The TAR
+or ZIP file with the model should be send as an email attachment to
+mars2018@mars-workshop.org.
+   All submissions will be peer reviewed by at least three referees
+based on their novelty, relevance and technical merit. The proceedings
+(including the electronic models) will be published as part of the
+open access series Electronic Proceedings in Theoretical Computer
+Science (EPTCS).
+
+IMPORTANT DATES (AoE):
+
+ * Submission: Friday January 12, 2018      Extended to Sunday January 21, 2018
+ * Notification: Monday February 19, 2018
+ * Final version: Monday March 12, 2018
+ * Workshop: Friday April 20, 2018
+
+PROGRAMME COMMITTEE:
+
+Marsha Chechik 		(University of Toronto, Canada)
+Ansgar Fehnker 		(University of Twente, The Netherlands)
+Rob van Glabbeek (co-chair)	(Data61, CSIRO, Australia)
+Jan Friso Groote 	(Eindhoven University of Technology, The Netherlands)
+Keijo Heljanko 		(Aalto University, Finland)
+Holger Hermanns 	(Saarland University, Germany)
+Eric Jenn 		(IRT Saint Exupéry, France)
+Marjan Sirjani 		(Reykjavik University, Iceland)
+Wendelin Serwe	 (co-chair)	(INRIA, France)
+Pamela Zave 		(AT&T Laboratories, New Jersey, USA)
+
+CONTACT:
+
+mars2018@mars-workshop.org

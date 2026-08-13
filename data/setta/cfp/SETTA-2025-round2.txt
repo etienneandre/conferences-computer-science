@@ -1,0 +1,164 @@
+The 11th International Symposium on Dependable Software Engineering:
+Theories, Tools and Applications (SETTA 2025), will be held in Oxford,
+United Kingdom, on 1-3 December 2025. The event will be hosted at St
+Catherine's College, University of Oxford.
+
+
+**Conference Webpage and Submission Link**
+
+https://www.setta2025.uk/
+https://setta2025.hotcrp.com/
+
+
+**Important Dates (AoE)**
+
+SETTA 2025 will accept submissions in two rounds.  All deadlines are at
+23:59 AOE.
+
+* Paper Submission (Round 2): August 20, 2025
+* Notification (Round 2): October 8, 2025
+
+
+**Call for Papers**
+
+Formal methods emerged as an important area in computer science and
+software engineering about half a century ago. An international community
+has formed researching, developing, and teaching formal theories, techniques
+and tools for software modeling, specification, design, and verification.
+However, the impact of formal methods on the quality and improvement of
+software systems is, in practice, lagging behind. This is, for instance,
+reflected by the challenges in applying formal techniques and tools to
+engineering large-scale systems such as Cyber-Physical Systems (CPS),
+Internet-of-Things (IoT), Enterprise Systems, Cloud-Based Systems, and so
+forth.
+
+The purpose of the SETTA symposium is to bring international researchers
+together to exchange research results and ideas on bridging the gap between
+formal methods and software engineering. It aims at academic excellence and
+its objective is to become a flagship conference on formal software
+engineering in Asia. All previous instances of SETTA have taken place in
+Asia, and 2025 is the first time the conference is being held outside its
+traditional home region.
+
+To achieve these goals and contribute to the sustainability of the formal
+methods research, it is important for the symposium to attract young
+researchers into the community. Thus, this symposium particularly
+encourages the participation of young researchers and students.
+
+Authors are invited to submit papers on original research, industrial
+applications, or position papers proposing challenges in fundamental
+research and technology. The latter two types of submissions are expected
+to contribute to the development of formal methods and applications thereof
+in software engineering. This is done by either substantiating the
+advantages of integrating formal methods into the development cycle or
+through delineating the need for research by demonstrating weaknesses of
+existing technologies, especially when addressing new application domains.
+
+All submissions must be in pdf format. Papers should be written in English.
+Submitted papers must be unpublished and not submitted for publication
+elsewhere. The review process is double-blind and each submission will be
+reviewed by at least two members of the technical program committee. All
+accepted papers will have to be presented at the conference by one of their
+authors. As in previous iterations of SETTA, extended versions of selected
+papers will be recommended to special issues of a reputable journal (TBA)
+after the proceedings of the conference.
+
+
+**Topics and Scope**
+
+Topics of interest include, but are not limited to:
+
+Requirements specification and analysis
+Formalisms for modeling, design, and implementation
+Model checking, theorem proving, and decision procedures
+Scalable approaches to formal system analysis
+Formal approaches to simulation, run-time verification, and testing
+Integration of formal methods into software engineering practice
+Contract-based engineering of components, systems, and systems of systems
+Formal and engineering aspects of software evolution and maintenance
+Parallel and multicore programming
+Embedded, real-time, hybrid, probabilistic, and cyber-physical systems
+Mixed-critical applications and systems
+Formal aspects of service-oriented and cloud computing
+Safety, reliability, robustness, and fault-tolerance
+Dependability of smart software and systems
+Empirical analysis techniques and integration with formal methods
+Applications and industrial experience reports
+Software tools to assist in the construction or analysis of software systems
+Trustworthy and explainable AI
+
+
+**Committees**
+
+*Technical Program Committee Chairs*
+Amir Goharshady, University of Oxford
+Christoph Haase, University of Oxford
+
+*Technical Program Committee*
+S Akshay, IIT Bombay
+Guy Amir, Cornell University
+Jie An, ISCAS
+Luca Arnaboldi, University of Birmingham
+Martin Berger, University of Sussex
+Dariusz Biernacki, University of Wrocław
+Michael Blondin, Université de Sherbrooke
+Benedikt Bollig, ENS Paris-Saclay / CNRS
+Timothy Bourke, INRIA / ENS
+Qinxiang Cao, Shanghai Jiao Tong University
+Supratik Chakraborty, IIT Bombay
+Liqian Chen, National University of Defense Technology
+Guillaume Dupont, IRIT
+Pascal Fontaine, Université de Liège
+Hongfei Fu, Shanghai Jiao Tong University
+Luca Geatti, University of Udine
+Mirco Giacobbe, University of Birmingham
+R Govind, Uppsala University
+Ashutosh Gupta, IIT Bombay
+Hossein Hojjat, Tehran Institute for Advanced Studies
+Lukáš Holík, Brno University of Technology
+Minghao Liu, University of Oxford
+Andreas Lööw, Imperial College London
+Kaushik Mallik, IMDEA Software Institute
+Alessio Mansutti, IMDEA Software Institute
+Umang Mathur, National University of Singapore
+Harshit Motwani, MPI-SWS
+Muhammad Syifa'ul Mufid, Institut Teknologi Sepuluh Nopember
+Amy Nejati, Newcastle University
+Andreas Pavlogiannis, Aarhus University
+Guillermo Perez, University of Antwerp
+Basile Pesin, ENAC
+Rajarshi Roy, University of Oxford
+Andrew Ryzhikov, University of Warsaw
+Christian Schilling, Aalborg University
+Taro Sekiyama, National Institute of Informatics
+Mikhail Starchak, St Petersburg University
+Chenglin Wang, HKUST
+Guannan Wei, INRIA / ENS
+Georg Weissenbacher, TU Wien
+Nisansala Yatapanage, Australian National University
+Bohua Zhan, ISCAS
+Đorđe Žikelić, Singapore Management University
+
+*General Chair*
+Naijun Zhan, Peking University
+
+*Publicity Chair*
+Jonathan Bowen, Museophile / London South Bank University
+
+*Steering Committee*
+Zhenhua Duan, Xidian University
+Martin Fränzle, University of Oldenburg
+Kim Larsen, Aalborg University
+Xuandong Li, Nanjing University
+Zhiming Liu, Southwest University
+Sriram Rajamani, Microsoft Research
+Ji Wang, NUDT
+Kwangkeun Yi, Seoul National University
+Naijun Zhan, Peking University
+
+*Advisory Board*
+Zhou Chaochen, Institute of Software, CAS
+He Jifeng, East China Normal University
+Cliff Jones, Newcastle University
+Deepak Kapur, University of New Mexico
+Li Wei, Beihang University

@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Each individual author is limited to a maximum of three submissions as an author or co-author. ETAPS: Multi-conference including ESOP, FASE, FOSSACS, POST, TACAS, etc."
+
+[[cfp]]
+file = "cfp/TACAS-2019.txt"
+stage = "initial"

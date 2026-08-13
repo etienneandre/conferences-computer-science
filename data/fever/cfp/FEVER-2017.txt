@@ -1,0 +1,70 @@
+The FEVER workshop solicits presentations of ongoing or previously published work to enable discussions on a broad range of topics. These presentations will not be subject to proceedings publication. 
+
+====================================================================
+             Call for informal presentations (abstracts)
+
+                          FEVER 2017
+
+Workshop on Formal approaches to Explainable VERiﬁcation
+JULY 23, 2017, HEIDELBERG, GERMANY
+
+Co-Located with CAV 2017
+
+http://fever.nilsjansen.org
+
+====================================================================
+
+This workshop will focus on the problem of rendering the results of formal verificaton more understandable to humans, and on the inherent problem of requiring explanations for the results of formal verification.
+As we are also interested in formal measures to explainability, this is the problem of 'Formal approaches to Explainable VERiﬁcation’ (FEVER).
+
+Traditionally, formal verification aims to provide guarantees on the behavior of a system model. We believe, however, that the FEVER problem is not sufficiently addressed by state-of-the-art techniques.
+We see FEVER as a significant new research opportunity for the Computer-Aided Verification community. 
+The traditional modeling and verification processes suffer from their inherent complexity, which makes it hard for non-specialists to understand and rely on them. 
+Formal measures of explainability will contribute to establishing  trust in such methods.
+
+The workshop seeks to bring together researchers with diverse expertises, including CAV, AI, VR (Virtual Reality), and HCI (Human-Computer Interaction), to lay down the foundations for this new topic and to discuss existing approaches, ideas, and challenges.
+
+Topics include, but are not limited to:
+
++  understandable modeling languages, such as probabilistic programs
++  accessible synthesis results and abstraction techniques
++  explainable counterexamples and controllers
+
+As there are no formal proceedings for the workshop, the main focus is on a broad range of topics that trigger lively discussions.
+
+
+==================
+INVITED SPEAKERS 
+==================
+* Roderick Bloem, TU Graz, Austria
+* Holger Hermanns, Saarland University, Germany
+
+
+==================
+IMPORTANT DATES
+==================
+Abstract submission: May 22, 2017
+Notification: May 30, 2017
+Workshop: July 23, 2017
+
+
+==================
+ SUBMISSIONS 
+==================
+We encourage all interested authors to submit an abstract of their presentation through Easychair 
+
+https://easychair.org/conferences/?conf=fever2017
+
+We particularly invite work recently accepted to top conferences and ongoing work.
+The submission should be a pdf of at most two pages in the llncs style.
+Accepted presentations will not be subject to proceedings publication. 
+
+
+==================
+ PC CHAIRS
+==================
+* Benoît Delahaye, University of Nantes, France
+* Nils Jansen, The University of Texas at Austin, USA
+* Scott A. Smolka, Stony Brook University, USA
+* Ufuk Topcu, The University of Texas at Austin, USA
+

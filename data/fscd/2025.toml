@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Rebuttal: 7-11 April 2025. Best paper award by junior researchers."
+
+[[cfp]]
+file = "cfp/FSCD-2025.txt"
+stage = "initial"

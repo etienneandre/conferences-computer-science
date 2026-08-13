@@ -1,0 +1,211 @@
+-=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=-
+			  *** RTCSA 2020 ***
+	  The 26th IEEE International Conference on Embedded
+	     Real-Time Computing Systems and Applications
+
+	     August 19--21, 2020, Gangnueng, South Korea.
+
+Website:          https://rtcsa2020.github.io/index/index.html
+Submission site:  https://easychair.org/my/conference?conf=rtcsa2020
+-=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=-
+       *** Postponed submission deadline: April 14th, 2020 ***
+			(no further extension)
+-=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=-
+	      * Virtual participation option available *
+
+Given  the  prevailing  travel  restrictions  due  to  the  spread  of
+COVID-19, RTCSA2020 will enable a  virtual presentation system for the
+conference.  A Virtual Participation Chair  will be appointed for this
+matter. Hence:
+
+- In case  physical attendance will  be infeasible because  of reasons
+  such  as:  unavailability  of  flights,  travel  restrictions,  visa
+  issues, *authors  will be  allowed presenting their  paper remotely*
+  and interact with the audience via the virtual conference system
+
+- *Attendees will be allowed participating to the conference remotely*
+
+-=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=-
+
+** Overview **
+
+The RTCSA conference series (now  at its 26th edition) brings together
+researchers and  developers from  academia and industry  for advancing
+the technology  and the  theory to  design and  develop time-sensitive
+applications. All  traditional applications in which  temporal aspects
+need  to be  considered  are  in the  scope  of  the conference.  CPS,
+(Industrial) IoT, embedded systems,  fog/edge/cloud computing are just
+notable examples.  RTCSA welcomes both research  and industrial papers
+that describe  research or technical  aspects in the area  of embedded
+and  real-time systems.  Proceedings  will be  published  by the  IEEE
+Computer  Society on  IEEExplore and  will be  indexed by  most search
+engines including Scopus, Web of Science, DBLP.
+
+
+** Topics of interest **
+
+Topics of interest RTCSA 2020 include but are not limited to:
+
+		      *Real-Time Systems Track*
+     Real-Time Scheduling, Workload models for real-time systems,
+  Temperature/Energy-aware Scheduling, Scheduling over heterogeneous
+   architectures, Scheduling over distributed architectures, Timing
+    Analysis, Formal methods for temporal guarantees, Programming
+  Languages and Run-Time Systems, Middleware Systems, Communication
+  Networks and Protocols of Real-Time Systems, Time-Sensitive Media
+  Processing and Transmissions, Latency and throughput in Real-Time
+			      Databases
+
+	     *IoT, CPS, and emerging applications Track*
+ Systems, Technology and Foundations of IoT and CPS, Applications and
+ Case Studies of IoT and CPS, Smart and Connected Health, Industrial
+  Internet and Industry 4.0, Smart City Technology and Applications,
+  Smart Transportation and Infrastructure, Cyber-Physical Co-Design,
+Medical CPS, Cloud, Middleware and Networks for IoT and CPS, Wireless
+	       Sensor-Actuator Networks for IoT and CPS
+
+		       *Embedded Systems Track*
+ Multi-Core Embedded Systems, Operating Systems, Non-Volatile Memory
+and Storage, Power/Thermal Aware Design, Fault Tolerance and Security,
+   Sensor-based Systems and Applications, Reconfigurable Computing
+    Architectures and Software Support, Ubiquitous and Distributed
+ Embedded Systems and Networks, Embedded Systems for Machine-Learning
+
+-=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=-
+
+** Keynote speakers **
+
+
+	     Heterogeneous Computing in Embedded Systems:
+		    Promises, Progress, Pitfalls.
+			   * Tulika Mitra *
+ Provost's Chair Professor of Computer Science at School of Computing
+		   National University of Singapore
+
+
+  The verified seL4 microkernel --- a high-assurance foundation for
+		      mixed-criticality systems.
+			  * Gernot Heiser *
+     Scientia Professor and John Lions Chair of Operating Systems
+			     UNSW Sydney
+	       Chief Research Scientist, CSIRO's Data61
+
+
+-=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=-
+
+** Submission Guidelines **
+Site: https://easychair.org/my/conference?conf=rtcsa2020
+
+Both  research  and  industry  papers  are  solicited.  The  submitted
+manuscript must  describe original  work not previously  published and
+not concurrently submitted elsewhere.  We welcome high quality papers,
+adhering to the following two formats:
+
+- Full Paper format: paper must fit within 10 pages
+- Short Paper format: paper must fit within 6 pages
+
+Both  types of  submission must  be  formatted according  to the  IEEE
+conference  proceedings format  (two-columns, single-space,  10pt) and
+must include references and acknowledgements within the page limit.
+
+In some cases, the Program Committee may decide to accept a full paper
+submission  as a  short  paper, in  which case,  the  authors will  be
+required  to  reduce its  length  for  the final  version.  Conference
+content will be  published by the IEEE Computer  Society on IEEExplore
+and will  be indexed by most  search engines including Scopus,  Web of
+Science, DBLP.
+
+By  submitting a  paper, authors  implicitly agree  that at  least one
+author will register  at full registration rate to  the conference and
+present the paper (in person or via a teleconferencing system).
+
+*Important Dates*
+
+- Paper Submission Deadline: April 14, 2020 (no further extension)
+- Acceptance Notification:   May 20, 2020
+- Final Paper Submission:    June 15, 2020
+- Conference Date:           August 19-21, 2020
+
+-=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=--=+=-
+
+*Program Co-chairs*
+
+- Enrico Bini, Università degli Studi di Torino (Real-time systems)
+- Liliana Cucu-Grosjean, INRIA, France (Embedded systems)
+- Jinkyu Lee, Sungkyunkwan Univ., Korea (IoT, CPS, and emerging app.)
+
+
+*General Co-chairs*
+
+- Insik Shin, KAIST, Korea
+- Arvind Easwaran, NTU, Singapore
+
+
+*Virtual Participation chair*
+
+- to be appointed
+
+
+*Student session chair*
+
+- Jaewoo Lee, Chung-Ang University, Korea
+
+
+*Real-time systems track Program Committee*
+
+- Muhammad Ali Awan, CISTER, Portugal
+- Hakan Aydin, GMU, USA
+- Takuya Azumi, Univ. of Tokio, Japan
+- Alessandro Biondi, Scuola Superiore Sant'Anna, Italy
+- Reinder J. Bril, TU Eindhoven, Nederlands
+- Laura Carnevali, Univ. Firenze, Italy
+- Tam Chantem, Virginia Tech, USA
+- Hoon Sung Chwa, DGIST, Korea
+- Qingxu Deng, Northeastern University, China
+- Arvind Easwaran, NTU, Singapore
+- Pontus Ekberg, Uppsala Univ., Sweden
+- Ian Gray, Univ. of York, UK
+- Nan Guan, PolyU, Hong Kong
+- Zhishan Guo, University of Central Florida, USA
+- Mehdi Kargahi Univ. of Tehran, Iran
+- Al Mok, Univ. Texas Austin, USA
+- Mitra NasriTU-Delft, TU-Eindhoven, Nederlands
+- Youcheng Sun, Queen's University Belfast, UK
+- Georg von der Brüggen, TU Dortmund, Germany
+- Kecheng Yang, Texas State Univ., USA
+
+
+*Embedded systems track Program Committee*
+
+- Patricia Balbastre, Universitat Politècnica de València, Spain
+- Antoine Bertout, LIAS, Univ. Poitiers/ISAE-ENSMA, France
+- Nicola Capodieci, Univ. Modena e Reggio Emilia, Italy
+- Li-Pin Chang, National Chiao Tung University, Taiwan
+- Sudipta Chattopadhyay, Singapore University of Technology and Design
+- Mingsong Chen, East China Normal University, China
+- Chang-Gun Lee, Seoul National University, Korea
+- Frederic Mallet, Université Cote d'Azur, France
+- Laurent Pautet, Telecom Paris, France
+- Guillermo Rodriguez-Navas, Nokia Bell Labs, Israel
+- Selma Saidi, Hamburg University of Technology, Germany
+- Parameswaran Sridevan, The University of New South Wales, Australia
+- Hiroyuki Tomiyama, Ritsumeikan Univ., Japan
+
+
+*IoT, CPS, and emerging applications track Program Committee*
+
+- Luis Almeida, Universidade do Porto, Portugal
+- Amir Aminifar, EPFL, Switzerland
+- Anton Cervin, Lund University, Sweden
+- Wanli Chang, University of York, UK
+- Liang He, University of Colorado Denver, USA
+- Kyungtae Kang, Hanyang University, Korea
+- Hanjun Kim, Yonsei University, Korea
+- Hyoseung Kim, UC Riverside, USA
+- Vuk Lesi, Intel Labs, USA
+- Alessandro Papadopoulos, MDH, Sweden
+- Kyung-Joon Park, DGIST, Korea
+- Paulo Pedreiras, DETI/UA/IT, Portugal
+- Lucia Seno, CNR, Italy
+- Chi-Sheng Shih, National Taiwan University, Taiwan
+- Paulo Tabuada, UCLA, USA

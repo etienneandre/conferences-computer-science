@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 journal = "A special issue of selected papers in Elsevier’s journal Theoretical Computer Science is under negotiation."
+
+[[cfp]]
+file = "cfp/ICTAC-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICTAC-2025-extended.txt"
+stage = "extended"

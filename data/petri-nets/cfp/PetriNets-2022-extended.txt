@@ -1,0 +1,101 @@
+Call for Papers and Announcement Petri Nets 2022
+https://www.hvl.no/petrinets2022
+
+PETRI NETS 2022
+43rd International Conference on Application and Theory of Petri Nets and Concurrency
+& special track on Application of Concurrency to System Design (ACSD)
+
+Bergen, Norway, June 19-24, 2022
+
+====================================================================
+
+Two kinds of papers can be submitted:
+
+* Regular papers (max 20 pages) describing original results pertaining to the development of the theory of Petri Nets and distributed and concurrent systems in general, new results extending the applicability of Petri Nets, or case studies, application and experience reports pertinent to the practical use of Petri Nets and concurrency.
+
+* Tool papers (max 10 pages) describing a computer tool based on Petri Nets (not an application of the tool or the theory behind the tool). The tool should be available for use by other groups (but not necessarily for free). The submission should indicate how the reviewers can get access to the tool (this must be for free). The tool will be demonstrated in the Tool Exhibition, in addition to being presented in a conference talk.
+
+Submitted papers must:
+* be contributions that have not been published or submitted to other conferences/journals before or in parallel with this conference.
+* clearly state the problem being addressed, the goal of the work, the results achieved, and the relation to other work.
+* be in English and in the Springer LNCS-format: http://www.springer.de/comp/lncs/authors.html.
+* adhere to the page limit for the relevant category (see above).
+* be sent electronically (as a PDF file) using the website
+http://easychair.org/conferences/?conf=petrinets2022 before the deadline.
+
+The title page must:
+* contain a short abstract and a classification of the topics covered, preferably using the list of topics above.
+* clearly indicate whether the paper is submitted as a regular paper or tool paper.
+
+Submissions violating the above requirements may be immediately rejected by the PC Chairs.
+
+Important Dates:
+-----------------------------------------------------------
+Abstract submission:   January 20, 2022 (extended)
+Paper submission:      January 27, 2022 (extended)
+Notification:          March 5, 2022
+Final version due:     March 18, 2022
+Petri nets course:     June 19-20, 2022
+Workshops & tutorials: June 20-21, 2022
+Main conference:       June 22-24, 2022
+
+Best papers accepted for the conference will be invited as submissions to a special issue of
+the Fundamenta Informaticae journal.
+
+General topics related to concurrency
+
+- Model checking and verification of distributed systems
+- Verification of infinite-state or parametric systems
+- Causality/partial order theory of concurrency
+- Educational issues related to concurrency
+- New issues and developments in the theory of concurrency
+- Modelling of hardware and biological systems
+
+Topics specific to Petri nets
+
+- Analysis and synthesis, structure and behaviour of nets
+- System design and model-driven development using nets
+- Relationships between Petri Nets and other approaches
+- Net-based semantical, logical and algebraic calculi
+- Higher-level net models (coloured nets, timed nets, etc.)
+- Stochastic net models
+- Verification and model checking using nets
+- Process discovery and conformance checking
+- Computer tools for nets
+- Standardisation of nets
+- Computer tools for nets
+- Experience reports describing applications of nets to different kinds of systems and application fields, e.g.:
+    flexible manufacturing systems, real-time systems, embedded systems, biological systems, health and medical systems, environmental systems, hardware, telecommunications, railway networks, components based development, office automation, workflows, process mining, supervisory control, protocols and networks, Internet and web services, e-commerce and trading, programming languages, performance evaluation, operations research.
+
+Special track on ACSD (Application of Concurrency to System Design)
+
+- Both theoretical and applied research about formal approaches (in a broad sense) to designing computer systems that exhibit concurrent behaviour.
+The formal models of computation and concurrency for the above systems and problems are not limited by Petri nets, but also include models like dataflow models, communicating automata, process algebras, graph rewriting systems, state charts, MSCs, modal and temporal logics.
+
+====================================================================
+
+Invited speakers:
+  Prof. Paulo Esteves-Verissimo, King Abdullah University of Science and Technology
+  Prof. Volker Diekert, University of Stuttgart
+  Prof. Marieke Huisman, University of Twente
+
+Affiliated events
+  Workshop on Petri Nets and Software Engineering (PNSE'22)
+  Algorithms and Theories for the Analysis of Event Data (ATAED'22)
+  International Health Data Workshop (HEDA'22):
+  2-day PhD course on Petri Nets
+  Advanced tutorials in the areas of Petri nets and concurrency
+
+PC-Chairs:
+  Laure Petrucci (University Sorbonne Paris Nord & CNRS, France)
+  Luca Bernardinello (Università degli studi di Milano-Bicocca, Italy)
+  Jörg Desel - ACSD track (Fern Universität in Hagen, Germany)
+  Alex Yakovlev - ACSD track (University of Newcastle-upon-Tyne, UK)
+
+Tool Exhibition:
+The tools presented in the accepted tool papers will be demonstrated in the Tool Exhibition,
+in addition to being presented in a conference talk.
+
+General Chairs:
+  Lars Michael Kristensen (Western Norway University of Applied Sciences)
+  Violet Ka I Pun (Western Norway University of Applied Sciences)

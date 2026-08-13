@@ -32,3 +32,19 @@ submitted = 41
 
 [extra]
 journal = "Some of the best papers will be invited, in an extended form, as submissions to a special issue of Fundamenta Informaticae."
+
+[[cfp]]
+file = "cfp/PetriNets-2025.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PetriNets-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PetriNets-2025-extended.pdf"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/PetriNets-2025-extended.txt"
+stage = "extended"

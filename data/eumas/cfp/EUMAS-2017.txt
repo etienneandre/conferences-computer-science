@@ -1,0 +1,280 @@
+******************************************************************************************
+15th EUROPEAN CONFERENCE ON MULTI-AGENT SYSTEMS
+EUMAS 2017
+December 14-15, Evry, France
+https://eumas2017.ibisc.univ-evry.fr
+******************************************************************************************
+
+---------------------------
+AIMS AND SCOPE
+---------------------------
+
+In the last two decades, we have seen a significant increase of interest in agent-based computing. This field is now set to become one of the key intelligent systems technologies in the 21st century. The aim of the EUMAS series is to provide a forum for academics and practitioners in Europe at which current research and application issues are presented and discussed.
+
+EUMAS 2017, the 15th instalment of the conference series, follows the tradition of previous editions (Oxford 2003, Barcelona 2004, Brussels 2005, Lisbon 2006, Hammamet 2007, Bath 2008, Agia Napa 2009, Paris 2010, Maastricht 2011, Dublin 2012, Toulouse 2013, Prague 2014, Athens 2015, Valencia 2016), and aims to encourage and support activity in the research and development of multi-agent systems, in academic and industrial efforts.
+
+The conference is primarily intended as a European forum for anybody interested in the theory and practice of autonomous agents and multi-agent system can meet, present challenges, preliminary and mature research results in an open and informal environment. To attract students as well as experienced researchers, preliminary as well as mature work, EUMAS 2017 offers three submission types and formal proceedings. Also, post-publication in form of a special issues of a high-quality journal in the area are planned.
+
+EUMAS is co-located with the 5th edition of the International Agreement Technologies (AT) Conference. This will allow us to produce a rich and inspiring program of high-quality papers reporting original results. Sessions of both conferences will be open to all participants of EUMAS and AT.
+
+EUMAS 2017 is a designated event of the European Association of Multi-Agent Systems (EURAMAS): http://www.euramas.org
+
+
+Topics of interest include, but are not limited to:
+- Action and Planning
+- Adaptation and Learning
+- Agent Architectures
+- Agent Programming Languages
+- Agent Development Methodologies and Tools
+- Agent-Based Simulation
+- Agent Organisations and Institutions
+- Agent-oriented Software Engineering
+- Agents and Complex Systems
+- Applications of Multi-agent Systems
+- Argumentation
+- Automated negotiation
+- Biologically inspired approaches
+- Cognitive Models
+- Collective and Swarm Intelligence
+- Collective Intentionality
+- Communication, Cooperation, and Coordination
+- Economic Models
+- Electronic Commerce
+- Formal Modelling
+- Game-Theoretic Methods
+- Logics for Multi-Agent Systems
+- Logics for Strategic Reasoning
+- Negotiation
+- Self-organisation
+- Semantic Web Agents
+- Socio-technical Systems
+- Theories of Agency
+- Trust and Reputation
+- Verification
+- Virtual Agents
+
+
+---------------------
+SUBMISSIONS
+---------------------
+
+EUMAS 2017 welcomes both original, unpublished papers, as well as papers that have been published in a relevant conference, conference or journal.
+
+EUMAS 2017 offers three types of submissions:
+
+(1) Full original papers of 12 to 15 pages, describing work that has not been previously published, accepted for publication, nor is currently under review by another conference or journal.
+
+(2) Short original papers of 6 to 8 pages reporting on views, ambitions or work in progress that has not been previously published, accepted for publication, or is not currently under review by another conference or journal.
+
+(3) Published papers up to 15 pages reporting on interesting and relevant work that has been published (or accepted for publication) in the last 18 months.
+
+Each submission will be peer-reviewed. All submissions should be formatted following Springer's LNCS format. For templates and instructions for authors, see http://www.springer.de/comp/lncs/authors.html. We request the submission of title and abstract prior to paper submission to support the tight schedule of reviewing. Authors must submit their abstracts and papers through the EUMAS 2017 Easychair submission site https://easychair.org/conferences/?conf=europeanconferencesi.
+
+
+-----------------------
+PROCEEDINGS
+-----------------------
+
+We are currently negotiating the publication of EUMAS proceedings as a Springer LNCS/LNAI (post-proceedings volume).
+
+
+---------------------------------------
+PROGRAMME COMMITEE
+---------------------------------------
+
+Alessandro
+	Ricci 	University of Bologna
+Alessio
+Amit
+Amal
+Ana L. C.
+	Lomuscio
+Chopra
+El Fallah Seghrouchni
+Bazzan
+	Imperial College London
+Lancaster University
+LIP6 - University of Pierre and Marie Curie
+Universidade Federal do Rio Grande do Sul
+Andrea
+Andreas
+	Omicini
+Herzig
+	Alma Mater Studiorum-Università di Bologna
+IRIT-CNRS
+Aniello
+Antonino
+Birna
+	Murano
+Rotolo
+van Riemsdijk
+	Universita' di Napoli "Federico II"
+CIRSFID, University of Bologna
+TU Delft
+Brian
+Catalin
+	Logan
+Dima
+	University of Nottingham
+LACL, Université Paris Est - Créteil
+Cristiano
+Davide
+	Castelfranchi
+Grossi
+	Institute of Cognitive Sciences and Technologies
+University of Liverpool
+Dominique
+	Longin
+	IRIT-CNRS
+Emiliano
+	Lorini
+	IRIT
+Emma
+	Norling
+	Manchester Metropolitan University
+Franziska
+	Kügl
+	Örebro University
+Frederic
+	Moisan
+	Carnegie Mellon University
+George
+Georgios
+	Vouros
+Chalkiadakis
+	University of Piraeus
+Technical University of Crete
+Ingo J.
+	Timm
+	University of Trier
+Ingrid
+Ioana
+	Nunes
+Boureanu
+	UFRGS
+University of Surrey
+Joao
+	Leite
+	NOVA LINCS, Universidade Nova de Lisboa
+John-Jules
+	Meyer
+	Utrecht University
+Jörg P.
+Karl
+	Müller
+Tuyls
+	TU Clausthal
+University of Liverpool
+Laurent
+Laurent
+Leo
+	Vercouter
+Perrussel
+van der Torre
+	LITIS lab, INSA de Rouen
+IRIT - Universite de Toulouse
+University of Luxembourg
+Louise
+Maite
+	Dennis
+Lopez-Sanchez
+	University of Liverpool
+University of Barcelona
+Marina
+	De Vos
+	University of Bath
+Massimo
+	Cossentino
+	National Research Council of Italy
+Mehdi
+Nardine
+	Dastani
+Osman
+	Utrecht University
+Artificial Intelligence Research Institute (IIIA-CSIC)
+Natalia
+	Criado
+	King's College London
+Natasha
+	Alechina
+	University of Nottingham
+Neil
+Nicola
+	Yorke-Smith
+Gatti
+	American University of Beirut
+Politecnico di Milano
+Nicoletta
+	Fornara
+	Universita della Svizzera Italiana, Lugano
+Olivier
+	Boissier
+	ENS Mines Saint-Etienne
+Paolo
+	Turrini
+	Imperial College London
+Paolo
+	Torroni
+	University of Bologna
+Peter
+	Novak
+	Science [&] Technology Corporation B.V.
+Samhar
+	Mahmoud
+	King's College London
+Sanjay
+	Modgil
+	Department of Informatics, King's College London
+Serena
+Synvie
+Umberto
+	Villata
+Doutre
+Grandi
+	CNRS – Sophia-Antipolis
+IRIT - Universite de Toulouse
+IRIT - Universite de Toulouse
+Vicente
+Wamberto
+	Botti
+Vasconcelos
+	DSIC
+University of Aberdeen
+Wojtek
+	Jamroga
+	Polish Academy of Sciences
+
+
+----------------------------
+IMPORTANT DATES
+-----------------------------
+
+- Deadline for title and abstract registration: September 10, 2017
+- Deadline for papers submission: September 17, 2017
+- Notification to authors: October 13, 2017
+- Camera Ready Papers: October 22, 2017
+- Conference: 14- 15 December, 2017
+
+All deadlines are at 23:59 UTC-12, i.e. before midnight on the respective date anywhere in the world.
+
+
+----------------------------
+CONFERENCE CHAIR
+----------------------------
+
+Francesco Belardinelli (Laboratoire IBISC, UEVE & IRIT Toulouse)
+
+
+----------------------------
+LOCAL ORGANISERS
+----------------------------
+
+Francesco Belardinelli (Laboratoire IBISC, UEVE & IRIT Toulouse)
+Abbas Slimani (Laboratoire IBISC, UEVE)
+
+
+----------------------------
+CONTACT DETAILS
+----------------------------
+
+EUMAS Organising Committee (contact_eumas@ibisc.fr)

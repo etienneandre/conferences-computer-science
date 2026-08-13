@@ -1,0 +1,141 @@
+=====================================================
+First Call for Papers
+
+13th International Conference on Tests And Proofs
+TAP 2019 Porto (Portugal), October 9-11, 2019
+https://tap.sosy-lab.org/2019/
+
+Part of the 3rd World Congress on Formal Methods
+
+=====================================================
+
+Important Dates
+---------------
+
+Abstract:               March 28, 2019
+Paper:                  April 11, 2019
+Notification:           June 11, 2019
+Camera-Ready Version:   July 9, 2019
+Conference:             October 9-11, 2019
+
+
+Aim and Scope
+-------------
+
+The TAP conference promotes research in verification and formal
+methods that targets the interplay of proofs and testing: the
+advancement of techniques of each kind and their combination, with the
+ultimate goal of improving software and system dependability.
+
+Research in verification has recently seen a steady convergence of
+heterogeneous techniques and a synergy between the traditionally
+distinct areas of testing (and dynamic analysis) and of proving (and
+static analysis). Formal techniques for counter-example generation
+based on, for example, symbolic execution, SAT/SMT-solving or
+model checking, furnish evidence for the potential of a combination of
+test and proof. The combination of predicate abstraction with testing-like
+techniques based on exhaustive enumeration opens the perspective
+for novel techniques of proving correctness. On the practical side,
+testing offers cost-effective debugging techniques of specifications
+or crucial parts of program proofs (such as invariants).  Last but not
+least, testing is indispensable when it comes to the validation of the
+underlying assumptions of complex system models involving
+hardware and/or system environments. Over the years, there is
+growing acceptance in research communities that testing and proving
+are complementary rather than mutually exclusive techniques.
+
+The TAP conference aims to promote research in the intersection of
+testing and proving by bringing together researchers and practitioners
+from both areas of verification.
+
+
+Topics of Interest
+------------------
+
+TAP's scope encompasses many aspects of verification technology,
+including foundational work, tool development, and empirical
+research. Its topics of interest center around the connection between
+proofs (and other static techniques) and testing (and other dynamic
+techniques). Papers are solicited on, but not limited to, the
+following topics:
+
+- Verification and analysis techniques combining proofs and tests
+- Program proving with the aid of testing techniques
+- Deductive techniques supporting the automated generation of test
+vectors and oracles
+   (theorem proving, model checking, symbolic execution, SAT/SMT
+   solving, constraint logic programming, etc.)
+- Deductive techniques supporting novel definitions of coverage criteria,
+- Program analysis techniques combining static and dynamic analysis
+- Specification inference by deductive and dynamic methods
+- Testing and runtime analysis of formal specifications
+- Search-based technics for proving and testing
+- Verification of verification tools and environments
+- Applications of test and proof techniques in new domains,
+  such as security, configuration management, learning
+- Combined approaches of test and proof in the context of formal
+  certifications (Common Criteria, CENELEC, …)
+- Case studies, tool and framework descriptions, and experience
+  reports about combining tests and proofs
+
+
+Submission Instructions
+-------------------
+
+TAP 2019 accepts papers of three kinds:
+
+- Regular research papers: full submissions describing original
+research, of up to 16 pages (excluding references).
+
+- Tool demonstration papers: submissions describing the design and
+implementation of an analysis/verification tool or framework, of up
+to 8 pages (excluding references). The tool/framework described in
+a tool demonstration paper should be available for public use.
+
+- Short papers: submissions describing preliminary findings, proofs
+of concepts, and exploratory studies, of up to 6 pages (excluding
+references).
+
+We are planning to publish the proceedings in the Formal Methods subline
+of Springer's LNCS series. Papers must be submitted in PDF format at the
+EasyChair submission site:
+
+https://easychair.org/conferences/?conf=tap2019
+
+
+Committees
+----------
+
+Information about all committees can be found at
+https://tap.sosy-lab.org/2019/committee.php
+
+Program Chairs :
+
+Dirk Beyer (LMU Munich, Germany)
+Chantal Keller (LRI Paris, France)
+
+Program Committee:
+
+Bernhard Beckert (KIT, Germany)
+Marcel Böhme (Monash University, Australia)
+Achim D. Brucker (University of Sheffield, UK)
+Catherine Dubois (ENSIIE, France)
+Reiner Hähnle (TU Darmstadt, Germany)
+Klaus Havelund (Jet Propulsion, USA)
+Marieke Huisman (University of Twente, Netherlands)
+Marie-Christine Jakobs (LMU Munich, Germany)
+Nikolai Kosmatov (CEA List, France)
+Laura Kovacs (TU Vienna, Austria)
+Peter Lammich (TUM, Germany)
+Caroline Lemieux (UC Berkeley, USA)
+Martin Nowack (Imperial College London, UK)
+Corina Pasareanu (CMU/NASA Ames, USA)
+François Pessaux (ENSTA ParisTech, France)
+Alexander K. Petrenko (ISP RAS, Russia)
+Michael Tautschnig (Queen Mary University of London, UK)
+Burkhart Wolff (Univ Paris-Sud, France)
+
+
+Contact
+-------
+mailto:tap2019@easychair.org

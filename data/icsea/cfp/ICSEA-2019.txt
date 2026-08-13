@@ -1,0 +1,136 @@
+=================
+Please consider to contribute to and/or forward to the appropriate groups the following opportunity to submit and publish original scientific results to:
+*ICSEA 2019, *The Fourteenth International Conference on Software Engineering Advances
+*The submission deadline is**July 28, 2019*
+Authors of selected papers will be invited to submit extended article versions to one of the IARIA Journals: http://www.iariajournals.org
+ISSN: 2308-4235
+ISBN: 978-1-61208-752-8
+    Registered: with the Library of Congress of the United States of America (ISSN)
+    Hosted: by Technische Informationsbibliothek (TIB) - German National Library of Science and Technology (Open Access)
+    Gold open access: in ThinkMind Digital Library
+=================
+
+
+============== ICSEA 2019 | Call for Papers ===============
+
+CALL FOR PAPERS, TUTORIALS, PANELS
+
+ICSEA 2019, The Fourteenth International Conference on Software Engineering Advances
+
+General page: http://www.iaria.org/conferences2019/ICSEA19.html
+
+Submission page: http://www.iaria.org/conferences2019/SubmitICSEA19.html
+
+Event schedule: November 24, 2019 to November 28, 2019 - Valencia, Spain
+
+Contributions:
+- regular papers [in the proceedings, digital library]
+- short papers (work in progress) [in the proceedings, digital library]
+- ideas: two pages [in the proceedings, digital library]
+- extended abstracts: two pages [in the proceedings, digital library]
+- posters: two pages [in the proceedings, digital library]
+- posters: slide only [slide-deck posted at www.iaria.org]
+- presentations: slide only [slide-deck posted at www.iaria.org]
+- demos: two pages [posted at www.iaria.org]
+- doctoral forum submissions: [in the proceedings, digital library]
+
+Submission deadline: July 28, 2019
+
+Sponsored by IARIA, www.iaria.org
+Extended versions of selected papers will be published in IARIA Journals: http://www.iariajournals.org
+Print proceedings will be available via Curran Associates, Inc.: http://www.proceedings.com/9769.html
+Articles will be archived in the free access ThinkMind Digital Library: http://www.thinkmind.org
+
+The topics suggested by the conference can be discussed in term of concepts, state of the art, research, standards, implementations, running experiments, applications, and industrial case studies. Authors are invited to submit complete unpublished papers, which are not under review in any other conference or journal in the following, but not limited to, topic areas.
+
+All tracks are open to both research and industry contributions, in terms of Regular papers, Posters, Work in progress, Technical/marketing/business presentations, Demos, Tutorials, and Panels.
+
+Before submission, please check and comply with the editorial rules: http://www.iaria.org/editorialrules.html
+
+
+ICSEA 2019 Topics (for topics and submission details: see CfP on the site)
+
+Call for Papers: http://www.iaria.org/conferences2019/CfPICSEA19.html
+
+============================================================
+
+Trends and achievements
+
+Advanced agile software development; Machine learning-oriented software; Fast data-pressing algorithms; Special software for Industry 4.0 applications; Advances on software product line engineering; Software for Cyber-physical systems; Internet-of-Things (IoT)-oriented software; Software for high speed sensing data; Special software for smart cities and urban computation; Deep-software for data analytics; Software for pervasive systems; Software for (self)-configurable systems; Search-based software; Green-oriented software engineering; Symbolic analysis; Software for automated energy optimization; Mobile applications-oriented software; Interactive Big data processing; Crowd-Sourcing Programming; Open source challenges; Emphasizing non-functional requirements; Cognitive software; Accessibility requirements
+
+Advances in fundamentals for software development
+
+Fundamentals in software development; Software architecture, patterns, frameworks; Software analysis and model checking; Software architectural scalability; Requirements engineering and design; Software design (methodologies, patterns, experiences, views, design by contract, design by responsibilities, etc.); Software modeling (OO, non-OO, MDA, SOA, patterns, UML, etc.); Software process and workflow; Software validation and verification; Software testing and testing tools; Software implementation; Software project management (risk analysis, dependencies, etc.); Component-based software development; Service-oriented software development; Software security-based development; Aspect-oriented software development
+
+Advanced mechanisms for software development
+
+Software composition; Process composition and refactoring; Co-design and codeplay; Software dependencies; Plug&play software; Adaptive software; Context-sensitive software; Policy-driven software design; Software rejuvenation; Feature interaction detection and resolution; Embedded software; Parallel and distributed software
+
+Advanced design tools for developing software
+
+Formal specifications in software; Programming mechanisms (real-time, multi-threads, etc.); Programming techniques (feature-oriented, aspects-oriented, generative programming, agents-oriented, contextual-oriented, incremental, stratified, etc.); Requirement specification languages; Programming languages; Automation of software design and implementation; Software design with highly distributed resources (GRID); Web service based software; Scenario-based model synthesis; Merging partial behavioral models; Partial goal/requirement satisfaction
+
+Software engineering for service computing (SOA and Cloud)
+
+Requirements engineering methods and techniques for service computing; Design methods and techniques for service computing; Service-oriented architecture methods and techniques; Service computing technologies; Service level reuse paradigm; Cloud computing development methods; SaaS development methods and techniques; Service computing paradigm; QoS models for service computing; Testing methods for service computing; Approaches to service process improvement
+
+Advanced facilities for accessing software
+
+Information modeling; GUI related software; Computer-aided software design; Hierarchical APIs; APIs roles in software development; Ontology support for Web Services; Rapid prototyping tools; Embedded software quality; Thread modeling; Flexible Objects; Use cases; Visual Modeling
+
+Software performance
+
+Software performance modeling; Software performance engineering (UML diagrams, Process algebra, Petri nets, etc.); Software performance requirements; Performance forecast for specific applications; Performance testing; Web-service based software performance; Performance of rule-based software; Methods for performance improvements; Software performance experience reports; Program failures experiences; Error ranking via correlation; Empirical evaluation of defects
+
+Software security, privacy, safeness
+
+Security requirements, design, and engineering; Software safety and security; Security, privacy and safeness in software; Software vulnerabilities; Assessing risks in software; Software for online banking and transactions; Software trace analysis; Software uncertainties; Dynamic detection of likely invariants; Human trust in interactive software; Memory safety; Safety software reuse; High confidence software; Trusted computing; Next generation secure computing
+
+Advances in software testing
+
+Formal approaches for test specifications; Advanced testing methodologies; Static and dynamic analysis; Strategies for testing nondeterministic systems; Testing software releases; Generating tests suites; Evolutionary testing of embedded systems; Algorithmic testing; Exhaustive testing; Black-box testing; Testing at the design level; Testing reactive software; Empirical evaluation
+
+Specialized software advanced applications
+
+Database related software; Software for disaster recovery applications; Software for mobile vehicles; Biomedical-related software; Biometrics related software; Mission critical software; Real-time software; E-health related software; Military software; Crisis-situation software; Software for Bluetooth and mobile phones; Multimedia software applications
+
+Web Accessibility
+
+Design approaches, techniques, and tools to support Web accessibility; Best practices for evaluation, testing reviews and repair techniques; Accessibility across the entire system lifecycle; Accessibility within e-organizations: good practices and experiences; Industry and research collaboration, learning from practice, and technology transfer; Mobile Internet-Web Accessibility; Developing user interfaces for different devices; Dealing with different interaction modalities; Web authoring guidelines and tools; Accessibility and other core areas related to the Web user experience; (UX): Usability, Findability, Valuability, Credibility, etc.; Innovations in assistive technologies for the Web; Accessible graphic formats and tools for their creation; Adaptive Web accessibility; Accessibility and information architecture; Universally accessible graphical design approaches; User Profiling; Cognitive and behavioral psychology of end user experiences and scenarios
+
+Open source software
+
+Open source software (OSS) methodologies; OSS development and debugging; Security in OSS; Performance of OSS; OSS roles and responsibilities; OSS incremental development; Division of labor and coordination mechanisms; Distribution of decision-making; Operational boundaries; Experience reports and lessons learned; Versioning management; Towards generalizing the OSS methodologies and practices; Open source licensing; Industrial movement towards open source
+
+Agile and Lean approaches in software engineering
+
+Agile software methodologies and practices (extreme programming, scrum, feature-driven, etc.); Agile modeling (serial in the large, iterative in the small); Agile model driven design; Agile methodologies for embedded software; Software metrics for agile projects; Lifecycle for agile software development; Agile user experience design; Agility via program automation; Testing into an agile environment; Agile project planning; Agile unified process
+
+Software deployment and maintenance
+
+Software in small and large organizations; Deploying and maintaining open source software; Software maintenance; Software assurance; Patching; Run-time vulnerability checking; Software rejuvenation; Software updates; Partial or temporary feature deprecation; Multi-point software deployment and configuration; On-line software updates
+
+Software engineering techniques, metrics, and formalisms
+
+Software reuse; Software quality metrics (complexity, empiric metrics, etc.); Software re-engineering (reverse engineering); Software composition; Software integration; Consistency checking; Real-time software development; Temporal specification; Model checking; Theorem provers; Modular reasoning; Petri Nets; Formalisms for behavior specification; Advanced techniques for autonomic components and systems
+
+Business technology
+
+Enterprise Content Managements (ECMs); Business Intelligence (BI); Enterprise Portals; Business Process Management (BPM); Corporate Performance Management (CPM); Enterprise Data Warehouse; Web Publishing; Cloud Computing; Virtualisation; Data Mining; Workflows; Business Rules Management (BRM); Data Capturing
+
+Software economics, adoption, and education
+
+Patenting software; Software licensing; Software economics; Software engineering education; Academic and industrial views on software adoption and education; Good-to-great in software adoption and improvement; Software knowledge management
+
+Improving productivity in research on software engineering
+
+Developing frameworks to support research; Methods and tools to improving the research environment; Supporting domain specific research needs; Teaching research skills in Computer Science; Experience reports on well developed research processes; Experience reports on empirical approaches to software engineering research; Approaches to supporting higher degree students in their research; Approaches to enlarge the research / teaching nexus to improve academics productivity; Approaches to integration between university research and industry research; Tools to support the research process; Software process improvement framework (CMMI, etc.); Quality improvement framework; Process simulation and measurement; Test improvement framework
+
+------------------------
+ICSEA 2019 Committee: http://www.iaria.org/conferences2019/ComICSEA19.html
+-------------------------
+ICSEA Publicity Chair
+Ayman Aljarbouh, University of Grenoble Alpes (UGA) in Grenoble, France
+Liaison and Special Advertizing Board Chair
+Birgit Gersbeck-Schierholz, Leibniz Universität Hannover, Germany
+------------------------

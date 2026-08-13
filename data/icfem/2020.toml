@@ -18,3 +18,11 @@ notification = [2020-06-19, 2020-07-05]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/ICFEM-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICFEM-2020-extended.txt"
+stage = "extended"

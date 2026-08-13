@@ -1,0 +1,240 @@
+***********************************************************************
+Call for Papers
+
+ABZ 2025: 11th International Conference on Rigorous State Based Methods
+
+Düsseldorf, Heinrich Heine University Düsseldorf, Germany
+
+June 10-13, 2025
+
+https://abz-conf.org/site/2025/
+
+***********************************************************************
+
+The 11th international conference on rigorous state based methods
+will be held June 10th to June 13th in the center of Düsseldorf
+(https://abz-conf.org/site/2025/venue/),
+with easy access to the main railway station and the international
+airport.
+ABZ'2025 will be co-located with the Rodin workshop.
+
+ABZ 2025 deadlines:
+
+Case Study Track
+Abstract submission: March 01, 2025 AOE
+Paper submission: March 02, 2025 AOE
+Notification: March 29, 2025
+Final version: April 09, 2025
+
+Main Track
+Abstract submission: March 01, 2025 AOE
+Paper submission: March 02, 2025 AOE
+(including research/short/industry/journal-first papers)
+Notification: March 29, 2025
+Final version: April 09, 2025
+
+Doctoral Symposium
+Paper submission: March 02, 2025 AOE
+Notification: March 29, 2025
+Final version: April 09, 2025
+
+----------
+About ABZ
+----------
+
+The ABZ conference is dedicated to the cross-fertilization of
+state-based and machine-based formal methods, like Abstract State
+Machines (ASM),
+Alloy, B, TLA, VDM and Z, etc., that share a common conceptual
+foundation and  are widely used in both academia and industry for the
+design and
+analysis of hardware and software systems.
+The conference aims for a vital exchange of knowledge and experience
+among the research communities around different formal methods.
+
+The name ABZ goes back to the first conference in London in 2008, where
+the ASM, B and Z conference series were merged into a joint
+event. In the following years other formal methods were added, e.g.
+Alloy in 2010 (Orford, Canada), VDM in 2012 (Pisa, Italy), and
+TLA+ in 2014 (Toulouse, France). After the also successful 2016
+conferences in Linz, Austria, and 2018 in Southampton, UK, it was
+decided to name the conference "ABZ: International Conference on
+Rigorous State Based Methods", to stress the openness for further
+state-based formal methods. We hope to continue many fruitful
+discussions between representatives of the individual methods in the
+past, which will bring us closer to the common goal of this research
+community: the creation of reliable and safe software and systems.
+ABZ2020 and ABZ2021 were planned in Ulm but virtually organised. With
+the editions of 2023 in Nancy and 2024 in Bergamo, ABZ conference
+returned to be a live event.
+
+ABZ 2025 will feature a main conference track, a case study track, a
+doctoral symposium, tutorials, and workshops.
+
+
+---------------------
+Main Conference Track
+---------------------
+Contributions are solicited on all aspects of the theory and
+applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based
+rigorous
+approaches in software/hardware engineering, including the development
+of tools and industrial applications.
+The program spans from theoretical and methodological foundations to
+practical applications, emphasizing system engineering methods
+and tools that are distinguished by mathematical rigor and have proved
+to be industrially viable.
+The main goal of the conference is to contribute to the integration of
+accurate state- and machine-based system development methods,
+clarifying their commonalities and differences to better understand how
+to combine different approaches for accomplishing the various
+tasks in modeling, experimental validation, mathematical verification of
+reliable high-quality hardware/software systems.
+Although organized to host several formal methods in a single event,
+editorial control of the joint conference is vested in one
+integrated program committee.
+
+
+-----------------
+Case Study Track
+-----------------
+As successfully practiced since ABZ 2014, the 11th edition of ABZ will
+again include special sessions dedicated to an industrial case study.
+We explicitly invite you to also submit contributions to case studies
+from previous conferences, which substantially extend the solutions
+presented
+there in one aspect or another. Possible enhancements could be new proof
+techniques, more elegant modeling, generation, verification, or
+validation
+of executable code, etc.
+This year the case study is about a safety controller for autonomous
+driving on a highway and
+there is a particular emphasis on making the exposition convincing and
+understandable for researchers
+from other communities.
+
+See https://abz-conf.org/site/2025/casestudy/ for a detailed description
+of the new case study and links to the previous ones.
+
+
+------------
+Submissions
+------------
+We welcome four kinds of contributions:
+
+*  Full research papers:
+    Full research papers which have to be original, unpublished and not
+submitted elsewhere.
+    A paper of no more than 16 pages (excluding references) in LNCS
+format is expected and will be reviewed.
+
+*  Short papers:
+    Short papers to present and validate a work in progress or tool
+demonstrations. A paper of no more than 6 pages (excluding references)
+in LNCS format
+    is expected and will be reviewed.
+
+*  Application in industry papers:
+    Reporting on work or experiences on the application of state based
+formal methods in industry. A paper of no more than 8 pages (excluding
+references)
+    in LNCS format is expected and will be reviewed. It is also an
+interesting option for industrial practitioners who sometimes face too
+many constraints
+    to prepare a full paper.
+
+*  Journal-First papers:
+    Journal-First papers summarize recently published papers in
+high-quality journals. The aim of journal-first papers is to further
+enrich the program of
+    ABZ and to provide more visibility to an already published journal
+paper in the scope of the ABZ conference. An extended abstract of no
+more than 6
+    pages (excluding references) in LNCS format is expected and will be
+reviewed.
+
+*  Case study papers:
+    Full papers reporting on the experiments conducted with any of the
+state based techniques in the scope of ABZ 2024 case study.
+    A paper of no more than 16 pages (excluding references) in LNCS
+format is expected and will be reviewed.
+    We also expect a link to a webpage, where the models, proofs, test
+cases, simulations, etc. models can be downloaded.
+    It is expected that authors will make available all the experimental
+data for the community to validate and reproduce their findings.
+
+*  Contribution to doctoral symposium:
+    This is an excellent opportunity for PhD students to present their
+ongoing work and receive valuable feedback from the ABZ community.
+     A paper of no more than 4 pages (excluding references) in LNCS
+format is expected and will be reviewed.
+
+Accepted papers will appear in the Springer LNCS proceedings.
+The deadlines for the different kinds of contributions appear above.
+
+
+-------------------
+Organization
+-------------------
+Conference Chairs:
+Michael Leuschel (CoChair), Heinrich-Heine-Universität, Düsseldorf,
+Germany
+Fuyuki Ishikawa (CoChair), National Institute of Informatics, Tokyo,
+Japan
+
+Case Study Chair:
+Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany
+
+Doctoral Symposium Chairs
+Asieh Salehi Fathabadi, University of Southampton, UK
+Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany
+
+Publicity/Social/Web Chairs:
+Jan Gruteser, Heinrich-Heine-Universität, Düsseldorf, Germany
+Fabian Vu, Heinrich-Heine-Universität, Düsseldorf, Germany
+
+For further questions concerning ABZ 2025, please contact us at
+abz2025@cs.uni-duesseldorf.de
+
+Program Committee:
+* Yamine Ait Ameur, IRIT/INPT-ENSEEIHT, France
+* Toshiaki Aoki, JAIST, Japan
+* Paolo Arcaini, National Institute of Informatics, Japan
+* Richard Banach, University of Manchester, UK
+* Silvia Bonfanti, University of Bergramo, Italy
+* Chiara Braghin, University of Milan, Italy
+* Maximiliano Cristiá, Universidad Nacional de Rosario, Argentina
+* Alcino Cunha, University of Minho, Portugal
+* Catherine Dubois, ENSIIE, France
+* Guillaume Dupont, IRIT/INPT-ENSEEIHT, France
+* Marie Farell, University of Manchester, UK
+* Flavio Ferrarotti, Software Competence Centre Hagenberg, Austria
+* Marc Frappier, Université de Sherbrooke, Canada
+* Angelo Gargantini, University of Bergamo, Italy
+* Uwe Glässer, Simon Fraser University, Canada
+* Stefan Hallerstede, Aarhus University, Denmark
+* Thai Son Hoang, University of Southampton, UK
+* Akram Idani,     Univ. Grenoble Alpes, VERIMAG lab, France
+* Fuyuki Ishikawa, National Institute of Informatics, Japan
+* Ensuk Kang, Carnegie Mellon University, USA
+* Tsutomu Kobayashi, Japan Aerospace Exploration Agency, Japan
+* Philipp Körner, University of Düsseldorf, Germany
+* Igor Konnov, Informal Systems, Austria
+* Régine Laleau, Paris Est Creteil University, France
+* Thierry Lecomte, CLEARSY, France
+* Michael Leuschel, University of Düsseldorf, Germany
+* Frederic Mallet, Université Côte d'Azur, France
+* Atif Mashkoor, Johannes Kepler University, Austria
+* Dominique Mery, Université de Lorraine, LORIA, France
+* Stephan Merz, Inria, France
+* Alexander Raschke, Ulm University, Germany
+* Elvinia Riccobene, University of Milan, Italy
+* Asieh    Salehi Fathabadi, University of Southampton, UK
+* Patrizia Scandurra, University of Bergamo, Italy
+* Gerhard Schellhorn, Universitaet Augsburg, Germany
+* Klaus-Dieter Schewe, Zhejiang University, China
+* Emil Sekerinski, McMaster University, Canda
+* Neeraj Singh, INPT-ENSEEIHT / IRIT, University of Toulouse, France
+* Maurice ter Beek, CNR, Italy
+* Laurent Voisin, Systerel, France
+* Hillel Wayne, USA

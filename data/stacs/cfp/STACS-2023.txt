@@ -1,0 +1,87 @@
+================================================================
+STACS 2023 - First Call for Papers
+================================================================
+
+The 40th International Symposium on Theoretical Aspects of Computer Science is planned to take place from 7 March to 10 March 2023 in Hamburg, Germany.
+
+For the first time, STACS 2023 will consist of two tracks, A and B, to facilitate the work of the program committee(s).
+
+Track A is dedicated to algorithms and data structures, complexity and games.
+Track B will cover automata, logic, semantics and theory of programming.
+
+LISTS OF TOPICS
+
+Authors are invited to submit papers presenting original and unpublished research on theoretical aspects of computer science. Typical areas include:
+
+Track A:
+
+* algorithms and data structures,
+including: design of parallel, distributed, approximation, parameterized and randomized algorithms; analysis of algorithms and combinatorics of data structures; computational geometry, cryptography, algorithms for machine learning, algorithmic game theory, quantum algorithms
+
+* complexity,
+including: computational and structural complexity theory, parameterized complexity, randomness in computation
+
+Track B:
+
+* automata and formal languages,
+including: automata theory, games, algebraic and categorical methods, coding theory, models of computation, computability
+
+* logic in computer science,
+including: finite model theory, database theory, semantics, type systems, program analysis, specification & verification, rewriting and deduction, learning theory, logical aspects of complexity
+
+These lists are not exhaustive. In particular, both tracks also welcome submissions about current challenges.
+
+PROGRAM COMMITTEE CHAIRS
+
+Track A:
+
+- Petra Berenbrink (Universität Hamburg, Germany)
+- Mamadou Moustapha Kanté (Université Clermont Auvergne, France)
+
+Track B:
+
+- Patricia Bouyer-Decitre (CNRS, France)
+- Anuj Dawar (University of Cambridge, UK)
+
+SUBMISSIONS
+
+Submissions will be through EasyChair.
+
+Authors are invited to submit an extended abstract or full paper with at most 12 pages (excluding the title page and the references section) to the appropriate track. The title page consists of the title of the paper and the abstract, but *no* author information. The first section of the paper should start on the next page.
+
+The PCs reserve the right to reassign a paper to a different track.
+
+The usage of pdflatex and the LIPIcs style file (see http://www.dagstuhl.de/en/publications/lipics) are mandatory; no changes to font size, page geometry, etc. are permitted. Submissions not in the correct format or submitted after the deadline will not be considered.
+
+The paper should contain a succinct statement of the issues and of their motivation, a summary of the main results, and a brief explanation of their significance, accessible to non-specialist readers.
+
+Proofs omitted due to space constraints must be put into an appendix, to be read by the program committee members at their discretion.
+
+Simultaneous submission to other conferences with published proceedings or to journals is not allowed. PC members are excluded from submitting.
+
+As in the previous two years, STACS 2023 will employ a lightweight double-blind reviewing process: submissions should not reveal the identity of the authors in any way. The purpose of the double-blind reviewing is to help PC members and external reviewers come to an initial judgment about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted or anonymized. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For example, authors may post drafts of their papers on the web, submit them to arXiv, and give talks on their research ideas.
+
+There will be a rebuttal period for authors, see below for the dates. Authors will receive the reviews of their submissions (via EasyChair) and have three days to submit rebuttals (via EasyChair). These rebuttals become part of the PC discussions, but entail no specific responses.
+
+At least one author of each accepted paper is expected to register at the conference. For authors who cannot present their paper in person a possibility for remote presentation will be offered.
+
+PROCEEDINGS
+
+Accepted papers will be published in the proceedings of the symposium. As usual, these proceedings will appear in the Leibniz International Proceedings in Informatics (LIPIcs) series, based at Schloss Dagstuhl. This guarantees perennial, free and easy electronic access, while the authors retain the rights over their work. With their submission, authors consent to sign a license authorizing the program committee chairs to organize the electronic publication of their paper, provided the paper is accepted.
+
+IMPORTANT DATES
+
+* Deadline for submissions: September 25, 2022 (AoE)
+
+* Rebuttal: November 14-16, 2022
+
+* Author notification: December 4, 2022
+
+* Final version:  January 8, 2023
+
+* STACS 2023: March 7-10, 2023
+
+CONTACT INFORMATION
+
+Web: www.stacs-conf.org
+Email: petra.berenbrink@uni-hamburg.de

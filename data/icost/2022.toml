@@ -16,3 +16,7 @@ notification = [2022-03-30]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/ICOST-2022-extended.txt"
+stage = "extended"

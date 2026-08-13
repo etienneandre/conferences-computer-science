@@ -1,0 +1,219 @@
+=========================================================================
+﻿CALL FOR PAPERS
+
+23rd Brazilian Symposium on Formal Methods
+Ouro Preto (MG), Brazil, 25 to 27 of November, 2020
+
+Conference web page: http://sbmf2020.ufop.br/
+Easychair CFP: https://easychair.org/cfp/sbmf2020
+
+Supported by the Brazilian Computer Society (SBC)
+
+=> IMPORTANT DATES
+
+Abstract submission deadline: 10 July, 2020
+Full paper submission deadline: 17 July, 2020
+Authors notification deadline: 31 August, 2020
+Camera-ready copy deadline: 11 September, 2020
+
+=> INTRODUCTION
+
+SBMF 2020 is the twenty-third of a series of events devoted to the
+development, dissemination, and use of formal methods for the construction
+of high-quality computational systems. It is now a well-established event,
+ with an international reputation. It regularly receives submissions and
+participants from all over the world. In 2020, SBMF will take place in Ouro
+Preto, a UNESCO World Heritage Site (https://whc.unesco.org/en/list/124/).
+
+=> KEYNOTE SPEAKERS
+
+To be announced.
+
+=> SCOPE AND TOPICS
+
+The aim of SBMF is to provide a venue for the presentation and discussion
+of high-quality work in formal methods. The topics include, but are not
+limited to, the following:
+
+:: Applications of formal methods to
+* Software or/and hardware design
+* Software or/and hardware development
+* Software or/and hardware code generation
+* Software or/and hardware testing
+* Software maintenance, evolution or/and reuse
+* Intelligent systems
+
+:: Specification and modelling languages
+* Logic and semantics for specification or/and programming languages
+* Formal methods for timed, real-time, hybrid, or/and safety-critical
+systems
+* Formal methods for service-oriented, cloud-based, or/and cyber-physical
+systems
+
+:: Theoretical foundations
+* Domain theory
+* Term rewriting
+* Computational models
+* Type systems and category systems
+* Computation complexity of methods and models
+* Models of time, concurrency, security or/and mobility
+
+:: Verification and validation
+* Abstraction, modularization or/and refinement techniques
+* Static analysis
+* Model checking
+* Theorem proving
+* Software certification
+* Correctness by construction
+
+:: Experience reports
+* Reports on teaching formal methods
+* Reports on industrial application of formal methods
+
+=> SUBMISSION GUIDELINES
+
+We invite submissions of papers with a strong emphasis on formal methods,
+whether practical or theoretical, in the following categories:
+
+(1) Regular papers (limit of 16 pages);
+(2) Journal-first papers (limit of 4 pages).
+
+Page limits include references and any appendices. When submitting the
+paper, the authors should select the appropriate submission category.
+
+Contributions should not be simultaneously submitted for publication
+elsewhere. They should be written in English and prepared using Springer’s
+Lecture Notes in Computer Science (LNCS) format. More information available
+in the following link:
+
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+
+Papers submitted to Category (1) should present unpublished and original
+work that has a clear contribution to the state-of-the-art on the theory
+and practice of formal methods. Papers will be judged by at least three
+reviewers on the basis of originality, relevance, technical soundness and
+presentation quality and should contain sound theoretical or practical
+results. Industry papers should emphasize practical application of formal
+methods or report on open challenges.
+
+Papers submitted to Category (2) should provide a concise summary of an
+outstanding journal paper published by the same authors, besides
+considering an updated reflection about the achieved results: what has been
+done since the original publication, and what are the current challenges.
+The submission must explicitly include full bibliographic details
+(including a DOI) of the journal publication it is based on. The published
+journal paper must adhere to the following criteria:
+
+* It is clearly within the scope of the conference.
+* It has been made available in a journal (online or in print) not before 1
+January 2018.
+* It is not an extended version of a selected conference paper.
+* It has not been presented at, and is not under consideration for, other
+journal-first tracks.
+
+Our goal with Category (2) is to further enrich the SBMF program, bringing
+about results that have been published but not presented in any conference
+yet. In this way, we want to foster interesting discussions that might be
+relevant to attendees and authors. Papers submitted to this category will
+be judged based on the aforementioned recommendations and criteria.
+
+Submissions for all categories should be made via the following link:
+
+https://easychair.org/conferences/?conf=sbmf2020
+
+=> PUBLICATION
+
+Accepted papers will be published, after the conference, in a volume of
+LNCS. The authors will be requested to complete and sign a
+consent-to-publish form. Every accepted paper MUST have at least one author
+registered in the symposium by the time the camera-ready copy is submitted.
+The registered author is also expected to attend the symposium and present
+the paper.
+
+=> COMMITTEES
+
+:: Organising committee
+
+Rodrigo Ribeiro (Universidade Federal de Ouro Preto, Brazil) -- General
+chair
+
+Gustavo Carvalho (Universidade Federal de Pernambuco, Brazil) -- PC co-chair
+Volker Stolz (Western Norway University of Applied Sciences, Norway) -- PC
+co-chair
+
+:: Program committee (under construction)
+
+Adenilso Simão (Universidade de São Paulo, Brazil)
+Alexandre Mota (Universidade Federal de Pernambuco, Brazil)
+Álvaro Moreira (Universidade Federal do Rio Grande do Sul, Brazil)
+Ana Cavalcanti (University of York, United Kingdom)
+Ana Melo (Universidade de São Paulo, Brazil)
+Anamaria Moreira (Universidade Federal do Rio de Janeiro, Brazil)
+Andrea Corradini (Università di Pisa, Italy)
+Augusto Sampaio (Universidade Federal de Pernambuco, Brazil)
+Christiano Braga (Universidade Federal Fluminense, Brazil)
+Clare Dixon (University of Liverpool, United Kingdom)
+David Déharbe (CLEARSY Systems Engineering, France)
+David Naumann (Stevens Institute of Technology, United States of America)
+Gustavo Carvalho (Universidade Federal de Pernambuco, Brazil)
+Jim Davies (University of Oxford, United Kingdom)
+Jim Woodcock (University of York, United Kingdom)
+José Oliveira (Universidade do Minho, Portugal)
+Juliano Iyoda (Universidade Federal de Pernambuco, Brazil)
+Leila Ribeiro (Universidade Federal do Rio Grande do Sul, Brazil)
+Leonardo de Moura (Microsoft Research, United States of America)
+Leopoldo Teixeira (Universidade Federal de Pernambuco, Brazil)
+Luis Barbosa (Universidade do Minho, Portugal)
+Manfred Broy (Technische Universität München, Germany)
+Marcel Oliveira (Universidade Federal do Rio Grande do Norte, Brazil)
+Márcio Cornélio (Universidade Federal de Pernambuco, Brazil)
+Maurice ter Beek (Istituto di Scienza e Tecnologie dell’Informazione, Italy)
+Michael Leuschel (Universität Düsseldorf, Germany)
+Mohammad Mousavi (University of Leicester, United Kingdom)
+Nils Timm (University of Pretoria, South Africa)
+Patrícia Machado (Universidade Federal de Campina Grande, Brazil)
+Philip Wadler (University of Edinburgh, United Kingdom)
+Robert Hierons (Brunel University London, United Kingdom)
+Rohit Gheyi (Universidade Federal de Campina Grande, Brazil)
+Sidney Nogueira (Universidade Federal Rural de Pernambuco, Brazil)
+Simone Cavalheiro (Universidade Federal de Pelotas, Brazil)
+Sofiène Tahar (Concordia University, Canada)
+Thierry Lecomte (CLEARSY Systems Engineering, France)
+Tiago Massoni (Universidade Federal de Campina Grande, Brazil)
+Volker Stolz (Western Norway University of Applied Sciences, Norway)
+
+:: Steering committee
+
+Simone Cavalheiro (Universidade Federal de Pelotas, Brazil) -- PC co-chair
+of SBMF 2017
+José Fiadeiro (Royal Holloway, University of London, United Kingdom) -- PC
+co-chair of SBMF 2017
+Tiago Massoni (Universidade Federal de Campina Grande, Brazil) -- PC
+co-chair of SBMF 2018
+Mohammad Mousavi (University of Leicester, United Kingdom) -- PC co-chair
+of SBMF 2018
+Adolfo Duran (Universidade Federal da Bahia, Brazil) -- PC co-chair of SBMF
+2019
+Phillip Wadler (University of Edinburgh, United Kingdom) -- PC co-chair of
+SBMF 2019
+
+=> VENUE
+
+Ouro Preto is located about 100 km from the capital of Minas Gerais state,
+Belo Horizonte, in a region that is a cultural centre with various
+well-known poets, musicians, and Brazilian visual artists. Due to its
+architecture, composed by the biggest group of Baroque works in Brazil,
+Ouro Preto was the first Brazilian town entitled as World Cultural Heritage
+by UNESCO in 1980. Born from explorer Antônio Dias’s discovery of “ouro
+preto” (black gold) in the Tripuí riverbed in the 17th century, the history
+of the city could be conflated with Brazil’s. Rich in history, culture,
+education, and entertainment, the town has an intense cultural agenda,
+organized in partnership with Universidade Federal de Ouro Preto (UFOP) and
+some of the most important artistic and cultural events of the country.
+
+SBMF 2020 will take place at Escola de Minas, Praça Tiradentes 20, Ouro
+Preto (MG), 35400-000.
+
+=> CONTACT
+
+All questions about submissions should be sent to sbmf2020@easychair.org.

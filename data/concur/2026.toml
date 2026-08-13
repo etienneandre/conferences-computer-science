@@ -30,3 +30,7 @@ award = "CONCUR Test-of-Time award, Best Paper award, and Best Student Paper awa
 [extra]
 journal = "A special issue dedicated to selected papers from CONCUR’2026 will appear in Logical Methods in Computer Science."
 colocated = "Part of CONFEST with QEST+FORMATS, FMICS, and several workshops and tutorials"
+
+[[cfp]]
+file = "cfp/CONCUR-2026.txt"
+stage = "initial"

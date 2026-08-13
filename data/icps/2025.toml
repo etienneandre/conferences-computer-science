@@ -19,3 +19,11 @@ license = "pay"
 
 [extra]
 notes = "Two-round submission."
+
+[[cfp]]
+file = "cfp/ICPS-2025.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICPS-2025.txt"
+stage = "initial"

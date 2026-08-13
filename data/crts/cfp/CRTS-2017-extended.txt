@@ -1,0 +1,119 @@
+Final submission deadline for CRTS'2017: Oct. 15, 2017.
+Possibility to submit short papers (2 Pages)
+
+*************************************************************************************
+                            CALL FOR PAPERS CRTS 2017
+************* Submission Deadline : Extended to October 15, 2017 (final)****************************
+-----------------------------------------------------------------------------------------------------------
+The 10th International Workshop on Compositional Theory and Technology for Real-Time Embedded Systems
+
+Short Work-in-Progress Paper: up to two pages, standard IEEE format
+Full Paper: up to six pages, standard IEEE format
+
+December 5, 2017, Paris, France
+In conjunction with RTSS'2017 conference
+http://rtg.cis.upenn.edu/crts2017/
+
+---------------------------------------------------------------------
+
+Background: Large safety-critical real-time systems are typically created through the integration of multiple components that are developed mostly independently from each other.
+This creates a challenge for the timing verification of both the independent components and the integrated system as a whole given that traditional real-time scheduling techniques required full knowledge of the taskset and resources of the whole system contrasting with need of component independence. The challenges stemming from this situation can be categorized in three broad areas. First, at the system decomposition stage it is necessary to fix the component timing interfaces for each of the components in order to ensure the schedulability of all the components and to enable each component-development team to define their own tasksets and perform internal schedulability test. A key tradeoff in this area is efficiency (schedulable utilization) vs internal flexibility. Flexibility, in particular, is a key aspect at this stage when only incomplete information on component tasks, period, deadlines and most importantly execution time (among other parameters) is available. Secon!
+ dly, safety-critical systems demand some form of certification. In this case, compositional technology should be able to provide human-processable assurance arguments for component-integration timing correctness and component isolation while at the same time providing sound component schedulability techniques. Finally, during the system evolution new compositional technologies should enable us to isolate the effect of changes not only around the current decomposition structure but also allow us to reshape the decomposition structure or provide multiple levels of composition to limit the scope of the impact of the changes.
+
+CRTS invites papers that describe not previously published state-of-the-art research, work-in-progress, or suggest open problems covering one or more of the topics of interest to the workshop. Submissions should not exceed 8 pages in two-column, single-space, 10pt format (ACM SIG proceedings templates / SIGBED Review submission guidelines) or two pages in extended abstract format for work-in-progress / open problems.
+
+Topics include, but are not limited to:
+
+* Timing Interfaces & decomposition:
+
+- Cross-domain timing interfaces / contracts (for control theory, fault-tolerance, security, etc.), hierarchical decomposition / layers, decomposition structure refactoring, flexibility / efficiency tradeoffs
+
+- Early-design interfaces: decomposition of timing requirements, WCET approximations / bounds
+
+- Early taskset parameter interfaces: tolerating changes in number of tasks, periods, deadlines, etc.
+
+- Early platform interfaces: tolerating changes in processor speed, networks bandwidth, arbitration algorithms
+
+- Composition of heterogeneous schedulers
+
+* Platform issues:
+
+- Compositional technology for different processors: single-core, multi-core, distributed
+
+- Compositional approache based on hypervisor
+
+- Multi-core memory hierarchy interfaces (cache, RAM, inter-core link interconnects, etc.)
+
+- Compositional technology for networks
+
+* Assurance / certification:
+
+- Integration timing arguments: technology and challenges for evidence and arguments generation
+
+- Isolation arguments: verification of isolation mechanisms, generation of isolation certification proofs
+
+- Composition of validation and verification techniques
+
+* Isolation mechanisms:
+
+- Virtualization, hypervisor, servers, reservation, microkernels, symmetric and asymmetric protection for multi-criticality systems, modal systems
+
+* Compositional technology for global systems:
+
+- Applications: Internet of Things (IoT), smart highway, smart electric grid, industrial cloud infrastructure
+
+- Compositional technology/theory for open architectures: dynamic addition / removal of components, interfaces for future unknown components, dynamic evolution: dynamic deployment of composition / isolation mechanisms
+
+* Schedulability theory:
+
+- Efficiency metrics: bounds (augmentation / utilization) , isolation metrics: quantifying internal component flexibility, approximate / exact analysis techniques and tradeoffs, trade-offs between optimality, associativity, and complexity in compositional theory
+
+Paper submission is done with easychair:
+
+https://easychair.org/conferences/?conf=crts2017
+
+Workshop proceedings:
+
+All accepted papers will appear in a special issue of ACM SIGBED Review.
+By submitting to the workshop, the authors are granting permission for ACM to publish the paper in print and digital formats for the newsletter and the ACM Digital Library.
+Authors retain copyright.
+
+Important dates:
+
+Deadline for paper submissions: September 17, 2017
+Notification of acceptance:     October 17, 2017
+Deadline for final manuscript submission: October 31, 2017
+CRTS Workshop:  December 5, 2017
+
+Workshop organization:
+
+Program Chairs:
+- Laurent George, UPEM - ESIEE Paris, France
+- Jin Hyun Kim, University of Pennsylvania, US
+
+Organizing Committee:
+
+- Insup Lee, University of Pennsylvania, USA
+- Thomas Nolte, Mälardalen University, Sweden
+- Insik Shin, KAIST, South Korea
+- Oleg Sokolsky, University of Pennsylvania, USA
+
+Technical Program Committee:
+
+- Geoffrey Nelissen, CISTER, Portugal
+- Reinder J. Bril, Technische Universiteit Eindhoven, The Netherlands
+- Julio Medina, University of Cantabria, Spain
+- Luca Santinelli, ONERA, France
+- Jerome Hugues, ISAE, France
+- Tullio Vardanega, Universitï¿½ di Padova, Italy
+- Enrico Bini, University of Torino, Italy
+- Hang Yin, Chalmers University of Technology, Sweden
+- Zhenkai Zhang, Vanderbilt University, USA
+- Moris Behnam, Mälardalen University, Sweden
+- Toby Murray, University of Melbourne, Australia
+- Christian Fraboul, NP ENSEEIHT IRIT, France
+- Saad Mubeen, Mälardalen University, Sweden
+- Stavros Tripakis, University of California, Berkeley, USA
+- Kyong Hoon Kim, Gyeongsang National University, Korea
+- Jalil Boudjadar, Aarhus University, Denmark
+- Kyungtae Kang, Hanyang University, S. Korea

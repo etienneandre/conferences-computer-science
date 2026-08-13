@@ -17,3 +17,7 @@ publisher = "?"
 
 [extra]
 notes = "The Journal of Computer Languages will invite selected papers from the workshop to submit extended versions to the journal."
+
+[[cfp]]
+file = "cfp/KMOTS-2019.txt"
+stage = "initial"

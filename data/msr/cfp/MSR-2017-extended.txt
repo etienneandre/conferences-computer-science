@@ -1,0 +1,33 @@
+
+(Désolé pour les réceptions multiples)
+
+********************************** 
+MSR 2017 
+11ème Colloque Francophone sur la Modélisation des Systèmes Réactifs
+Marseille, 15 - 17 Novembre 2017 
+www.lsis.org/msr2017/ 
+
+***************************************************************
+
+Veuillez noter les annonces suivantes :
+
+Extensions des dates limites de soumission :  
+
+       Résumé : 15 mai 2017
+       Article complet : 29 mai 2017
+
+Voir le site web de MSR'17,  www.lsis.org/msr2017/, pour les thèmes, les comités et les sponsors du colloque.
+Pour toute correspondance au regard des articles, merci de contacter msr2017@lsis.org
+
+Orateurs invités MSR 2017  : 
+
+    Claudine Chaouiya (Instituto Gulbenkian de Ciência, Portugal) : Prolifération, différenciation, mort cellulaire… Comprendre le destin des cellules en modélisant leurs réseaux moléculaires
+    Serge Haddad (LSV, ENS Cachan, France) : Réseaux de Petri discrets et continus : apports réciproques
+    Stéphane Lafortune (Université du Michigan, Etats-Unis) : Contrôle par supervision des systèmes à événements discrets : Rétrospective et Perspectives
+    Joseph Sifakis (Verimag, France) : Modeling architectures and their properties in BIP
+
+
+Au plaisir de vous rencontrer à Marseille !
+
+Isabel Demongodin & Pierre-Alain Reynier
+

@@ -1,0 +1,111 @@
+
+
+*** CALL FOR PAPERS ***
+
+http://www.i-cav.org/2023/
+
+
+CAV 2023: 35th International Conference on Computer-Aided Verification
+July 17-22, 2023, Paris, France
+
+***********************
+*** Important Dates ***
+***********************
+
+** Papers **
+Paper submission: February 3, 2023 (firm)
+Rebuttal period: March 29-31, 2023
+Notification: April 25, 2023
+
+Artifact submission: May 2, 2023
+Final version due: May 29, 2023
+
+
+** CAV Award **
+Nomination deadline: February 20, 2023
+
+
+** Conference **
+Workshops: July 17-18, 2023
+Main conference: July 19-22, 2023
+
+
+*************
+*** Scope ***
+*************
+
+CAV 2023 is the 35th in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, autonomous systems, and computer security. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
+
+CAV 2023 will take place in Paris, France.
+
+Topics of interest include but are not limited to:
+
+* Algorithms and tools for verifying models and implementations
+* Algorithms and tools for system synthesis
+* Algorithms and tools that combine verification and learning
+* Mathematical and logical foundations of verification and synthesis
+* Specifications and correctness criteria for programs and systems
+* Deductive verification using proof assistants
+* Hardware verification techniques
+* Program analysis and software verification
+* Software synthesis
+* Hybrid systems and embedded systems verification
+* Formal methods for cyber-physical systems
+* Compositional and abstraction-based techniques for verification
+* Probabilistic and statistical approaches to verification
+* Verification methods for parallel and concurrent systems
+* Testing and run-time analysis based on verification technology
+* Decision procedures and solvers for verification and synthesis
+* Applications and case studies in verification and synthesis
+* Verification in industrial practice
+* New application areas for algorithmic verification and synthesis
+* Formal models and methods for security
+* Formal models and methods for biological systems
+
+Submissions on a wide range of topics are sought, particularly ones that identify new research directions. CAV 2023 is not limited to topics discussed in previous instances of the conference. Authors concerned about the appropriateness of a topic may communicate with the conference chairs prior to submission.
+
+
+*************************
+*** Program Committee ***
+*************************
+See http://www.i-cav.org/2023/organisation/
+
+
+
+*****************
+*** CAV Award ***
+*****************
+The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification.
+
+CAV Award Nomination deadline: February 20, 2023
+
+For details about the CAV award nomination, please see the following page: http://www.i-cav.org/2023/cav-award/.
+
+************************
+*** Paper Submission ***
+************************
+Paper submissions in CAV fall into one of the following three categories:
+
+Regular Papers (18 pages, must be anonymized)
+Tool Papers  (10 pages, not anonymized, artifact submission required)
+Industrial Experience Reports & Case Studies. (10 pages, not anonymized)
+Papers in all three categories must be submitted by February 3, 2023 (AoE) and should be in LNCS format. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed. The review process will include a feedback/rebuttal period where authors will have the option to respond to reviewer comments. The PC chairs may solicit further reviews after the rebuttal period.
+
+
+
+For more information, see: http://www.i-cav.org/2023/call-for-papers/
+
+
+***************************
+*** Artifact Evaluation ***
+***************************
+
+The purpose of the artifact evaluation is to support authors to provide more substantial supplements to their papers so that future researchers can more effectively build on and compare with previous work. The Artifact Evaluation Committee (AEC) will read the paper and explore the artifact to give the authors third-party feedback about how well the artifact supports the paper and how easy it is for future researchers to use the artifact.
+
+
+
+Authors of provisionally accepted tool papers are required to submit an artifact at the functional level.  Acceptance of tool papers is conditional on successful artifact evaluation. Authors of accepted regular papers and Industrial Experience Reports and Case Studies are invited (but not required) to submit an artifact.
+
+
+
+For more information, see: http://www.i-cav.org/2023/artifact-evaluation/

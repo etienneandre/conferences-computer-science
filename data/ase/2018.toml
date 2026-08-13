@@ -21,3 +21,11 @@ license = "acm"
 
 [extra]
 notes = "Double-blind submissions. Deadlines AoE."
+
+[[cfp]]
+file = "cfp/ASE-2018.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ASE-2018.txt"
+stage = "initial"

@@ -1,0 +1,22 @@
+We invite all the PhD students and young researchers to participate in the YR-CONCUR workshop, which is co-located with the CONCUR conference and will take place on September 23rd in Antwerp, Belgium.
+
+We invite all the PhD students and young researchers to participate in the YR-CONCUR workshop, which is co-located with the CONCUR conference and will take place on September 23rd in Antwerp, Belgium.
+
+The Young Researchers Workshop on Concurrency Theory aims to provide a platform for PhD students as well as undergraduate, graduate and young post-doctoral students to exchange new results related to concurrency theory (e.g. session type) and to receive feedback on their research. The focus is on informal discussions. All topics related to concurrency theory are welcome. We plan to have an Open Problem session, and an Invited Talk.
+
+The format of the submission is a two page abstract in single column. Talks can involve research presented at other conferences and ongoing research (in the spirit of Highlights conferences).
+
+Website: https://www.uantwerpen.be/en/conferences/confest-2023/workshop/yrconcur/
+Submission site: https://easychair.org/conferences/?conf=yrconcur2023
+
+Dates:
+=====
+Submission deadline: 4th July 2023
+Notification date: 20th July 2023
+
+Program Committee:
+================
+Giovanni Bernardi (Université Paris Cité)
+Denis Kuperberg (ENS Lyon)
+Karoliina Lehtinen (LIS, Aix-Marseille Université)
+Koko Muroya (RIMS, Kyoto university)

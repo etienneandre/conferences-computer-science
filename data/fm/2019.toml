@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014). During the conference, the Programme Committee Chairs will present an award to the authors of the submission selected as the FM 2019 Best Paper. Authors of selected papers will be invited to submit an extended version of their paper to one of the special issues in \"Formal Aspects of Computing\" and \"Formal Methods in System Design\"."
+
+[[cfp]]
+file = "cfp/FM-2019.txt"
+stage = "initial"

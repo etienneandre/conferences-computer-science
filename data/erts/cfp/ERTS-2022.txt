@@ -1,0 +1,46 @@
+----------------------------------------------------------
+
+ERTS 2022
+Embedded Real-Time Systems Congress
+30-31 March 2022 – Toulouse, France
+http://www.erts2022.org
+
+----------------------------------------------------------
+
+On behalf of ERTS 2022 committee, it is our great pleasure to announce the 11th edition of the Embedded Real-Time Systems Congress.
+
+The ERTS congress is a unique biennial cross-sector event on Embedded Real-Time Systems, a forum for top-level scientists with representatives from universities, research centres, industrial key players, and agencies addressing critical systems and applications. Traditionally, this event includes more than 80 talks, up to 500 participants and 60 exhibitors.
+
+Original and unpublished submissions are solicited, which may be under two forms:
+
+• Regular papers presenting achieved results. The selection will be based firstly on the review of the extended abstract (4 pages) followed by the review of the full paper (10 pages) for final acceptance. Accepted regular papers will be published in the proceedings and presented in an oral session at the congress (registration and presentation by one author are mandatory).
+
+• Short papers reporting on work in progress. The selection will be based on the review of the full short paper (4 pages). Each accepted short paper will be published in the proceedings and presented both as a poster and in a five-minute oral presentation at the congress (registration and presentation by one author are mandatory).
+
+Submissions are expected in all aspects of critical embedded real-time systems, and notably on the following topics:
+
+• Embedded computing platforms and networked systems: Distributed architectures, Edge computing, Multi-core/Manycore platforms, Hardware accelerator, Embedded networks, Middleware, Virtualization, Service-oriented platforms, Energy-aware management, Trusted execution platforms, Blockchains, Networks-on-chip, Software-defined networks.
+
+• Processes, methods and tools: Agile techniques, AI based development methods, Model-based system engineering, Virtual engineering and simulation, Formal methods, Requirement engineering, Product line engineering, New programming and verification languages, new SDK approaches.
+
+• Resilience: Dependability, Safety, Cyber security, Quality of service, Fault tolerance, Maintainability, Diagnosis, Health monitoring, Certification, Privacy and data protection.
+
+• Human system interaction: User interfaces for command and control systems, Human monitoring and error evaluation, User-centred design, Automation design and function allocation.
+
+• Autonomous and connected systems: Adaptive systems, Dependable and trustworthy artificial intelligence, Robotics, Drones, Internet of Things (IoT), Intelligent systems, Assured autonomy, Acceptability, Ethical and legal issues.
+
+IMPORTANT DATES
+
+CALL FOR PAPERS
+• Regular abstract and short paper submission (4 pages): Sept. 5th, 2021
+• Acceptance notification: Nov. 18th, 2021
+• Regular paper for review (10 pages): Jan. 9th, 2022
+• Final paper (Regular and Short): Jan. 30th, 2022
+• Congress: March 30th - 31st, 2022
+
+EXHIBITION SCHEDULE
+• Information and registration: May 20th, 2021 to March. 10th, 2022
+• Select your contact for meetings: From March 11th, 2022
+• Exhibition and B2B meeting: March 30th - 31st, 2022
+
+Further information  are available at the confernece web site: www.erts2022.org

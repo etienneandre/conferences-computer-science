@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "3 tracks: embedded systems, real-time systems, and IoT, CPS, AND EMERGING APPLICATIONS."
+
+[[cfp]]
+file = "cfp/RTCSA-2020-extended.txt"
+stage = "extended"

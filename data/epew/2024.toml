@@ -19,3 +19,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Best paper presentation award."
+
+[[cfp]]
+file = "cfp/EPEW-2024.txt"
+stage = "initial"

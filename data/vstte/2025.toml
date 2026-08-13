@@ -26,3 +26,7 @@ submitted = 15
 
 [extra]
 colocated = "Co-located with FMCAD 2025"
+
+[[cfp]]
+file = "cfp/VSTTE-2025.txt"
+stage = "initial"

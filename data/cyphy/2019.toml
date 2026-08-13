@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Part of ESWEEK"
+
+[[cfp]]
+file = "cfp/CyPhy-2019.txt"
+stage = "initial"

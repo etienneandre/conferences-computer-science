@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Co-located with NVMSA 2022. 3 tracks: embedded systems, real-time systems, and IoT, CPS, AND EMERGING APPLICATIONS."
+
+[[cfp]]
+file = "cfp/RTCSA-2022.pdf"
+stage = "initial"

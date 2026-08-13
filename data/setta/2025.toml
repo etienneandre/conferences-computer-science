@@ -25,3 +25,16 @@ blind = "double"
 [extra]
 journal = "As in previous iterations of SETTA, extended versions of selected papers will be recommended to special issues of a reputable journal (TBA) after the proceedings of the conference."
 notes = "Two rounds of submissions as of 2025."
+
+[[cfp]]
+file = "cfp/SETTA-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SETTA-2025-round2.txt"
+note = "round 2"
+
+[[cfp]]
+file = "cfp/SETTA-2025-round2-extended.txt"
+stage = "extended"
+note = "round 2"

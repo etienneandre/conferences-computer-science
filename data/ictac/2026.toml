@@ -24,3 +24,11 @@ gender_balance = "mixed"
 
 [extra]
 colocated = "ICTAC 2026 will be preceded by the ICTAC Postgraduate School on Formal Methods for Building Mission-Critical Systems"
+
+[[cfp]]
+file = "cfp/ICTAC-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICTAC-2026-extended.txt"
+stage = "extended"

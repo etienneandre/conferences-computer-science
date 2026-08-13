@@ -1,0 +1,109 @@
+--------------------------------------------------------------------------------------------------
+
+                                  ICST 2025 – Call for Papers
+
+18th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2025
+
+                              Mon 31 March – Fri 4 April 2025
+                                        Naples, Italy
+                      https://conf.researchr.org/home/icst-2025
+
+----------------------------------------------------------------------------------------------------
+
+ICST serves as a premier platform uniting researchers, scientists, engineers, and practitioners worldwide to showcase their cutting-edge research findings, innovative ideas, and practical applications in the domain of Software Testing, Verification, and Validation. The 18th edition of ICST, scheduled for 2025, will be held in Naples, Italy.
+ICST 2025 will welcome high-quality submissions across various tracks, including (but not limited to) full research papers, short papers, posters, testing tools and demonstrations, industry perspectives, and doctoral symposium submissions. Additionally, the conference will host co-located events, including workshops, challenges and tutorials, and keynote addresses by eminent scientists. Stay tuned for additional details on tracks and co-located events!
+All submissions will be rigorously peer-reviewed to ensure quality, originality, and relevance. Accepted research papers will be published in the conference proceedings with an IEEE catalog number and ISBN number. The proceedings will be submitted for publication in IEEE Xplore.
+
+----------------------------------------------------------------------------------------------------
+
+ICST 2025 will host a variety of tracks!
+For detailed calls for papers and deadlines, please consult the website of each track:
+
+Research Papers   (up to 10 pages + 2 additional pages for references, double-blind)
+https://conf.researchr.org/track/icst-2025/icst-2025-papers
+Wed 25 Sep 2024: Abstract Submission Deadline
+Wed 2 Oct 2024: Full Paper Submission Deadline
+
+Industry   (up to 10 pages + 2 additional pages for references, single-blind)
+https://conf.researchr.org/track/icst-2025/icst-2025-industry
+
+Short Papers, Vision, and Emerging Results   (up to 4 pages + 2 additional pages for references, double-blind)
+https://conf.researchr.org/track/icst-2025/icst-2025-short-vision-emerging-results
+
+Testing Tools and Data Showcase   (up to 5 pages, single blind)
+https://conf.researchr.org/track/icst-2025/icst-2025-testing-tool-data-showcase
+
+Education (research, experience, position and tool papers)
+https://conf.researchr.org/track/icst-2025/icst-2025-education
+
+Posters   (up to 4 pages abstract, double-blind)
+https://conf.researchr.org/track/icst-2025/icst-2025-posters
+
+Journal-First Papers   (one-page proposal)
+https://conf.researchr.org/track/icst-2025/icst-2025-journal-first-papers
+
+Doctoral Symposium   (2 pages, CV, and recommendation letter, incl. opportunity to present a poster)
+https://conf.researchr.org/track/icst-2025/icst-2025-doctoral-symposium
+
+Workshops   (2-3 pages, DEADLINE SOON: 18th of September 2024)
+https://conf.researchr.org/track/icst-2025/icst-2025-workshops
+
+Tool Competition: Self-Driving Car Testing   (tool submission)
+https://conf.researchr.org/track/icst-2025/icst-2025-tool-competition--self-driving-car-testing
+
+Tool Competition: UAV Testing (tool submission)
+https://conf.researchr.org/track/icst-2025/icst-2025-tool-competition--uav-testing
+
+Technical Briefings and Tutorials   (comprehensive PDF proposal)
+https://conf.researchr.org/track/icst-2025/icst-2025-tutorial
+
+----------------------------------------------------------------------------------------------------
+
+------------------------------ Call for Papers: Research Track -------------------------------------
+
+ICST 2025 invites high-quality submissions in all software testing, verification, and validation areas. Topics of interest include, but are not limited to, the following:
+
+- AI-assisted software testing
+- Automated test generation
+- Formal verification
+- Manual and social aspects of the software testing process
+- Replications, empirical studies, case studies, experience reports
+- Software reliability
+- Static and dynamic analysis
+- Test automation
+- Test-driven development and Agile testing
+- Testability, test design, and adequacy criteria
+- Testing AI-based systems
+- Testing and development processes
+- Testing, debugging, and repair tools
+- Testing Education
+- Testing in specific domains, such as mobile, web, embedded/cyber-physical systems, concurrent, distributed, cloud, GUI, context-aware, IoT, real-time systems, video games, augmented/virtual reality applications
+- Testing of non-functional properties such as security, accessibility, and performance
+- Theory of software testing
+- Validation and user acceptance techniques
+
+Papers for the research track should present novel and original work that advances the state-of-the-art. Case studies, replication studies, and empirical research papers are also welcome.
+Papers with a strong industrial/practical component and focus more on impact than (technical) novelty are encouraged to consider the industry track instead.
+
+==== Submission Format ====
+Full Research papers must conform to the two-column IEEE conference publication format, and not exceed 10 pages, including all text, figures, tables, and appendices; two additional pages containing only references are permitted. It must conform to the IEEE Conference Proceedings Formatting Guidelines (use the letter format template and conference option). The ICST 2025 research track only accepts full research papers. Short papers are not accepted to the research track.
+Authors must comply with the IEEE Plagiarism Guidelines. In particular, a submission must not have been published elsewhere and must not be under review elsewhere while under review for ICST. The submission must also comply with the IEEE Policy on Authorship.
+
+==== Double-blind Reviewing ====
+Each submission will be reviewed by at least three members of the ICST 2025 Program Committee. We employ a double-blind reviewing process. No submission may reveal its authors’ identities. Authors must make every effort to honor the double-anonymous review process. In particular, the authors’ names must be omitted from the submission, and references to their prior work should be in the third person. All artifacts, such as replication packages and tools, associated with the submission must also be anonymized. Any submission that does not comply with the above requirements may be rejected by the PC Chairs without further review. Authors with further questions on double-blind reviewing are encouraged to contact the Program Chairs by email.
+
+==== Submissions ====
+Submissions to the Research Papers Track that meet the above requirements can be made via HotCRP at https://icst2025.hotcrp.com/. If a submission is accepted, at least one author of the paper is required to register for ICST 2025 and present the paper. We expect that the conference will be in-person.
+
+==== Replication Material ====
+Submissions must supply all information needed to replicate the results and therefore are expected to include or point to an anonymized replication package with the necessary software, data, and instructions. The program committee may consult these packages to resolve open issues. If a paper does not come with a replication package, authors should comment on its absence.
+
+Wed 25 Sep 2024: Abstract Submission Deadline
+Wed 2 Oct 2024: Full Paper Submission Deadline
+Wed 18 Dec 2024: Author Notification Deadline
+Wed 22 Jan 2025: Camera Ready
+
+----------------------------------------------------------------------------------------------------
+
+Carolin Brandt and Michele Pasqua
+Publicity Co-Chairs ICST 2025

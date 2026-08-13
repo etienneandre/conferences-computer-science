@@ -1,0 +1,100 @@
+Call for Papers -- RP 2020 -- extended deadline
+October 19-21 2020, Paris, France
+https://www.irif.fr/~rp2020/
+
+Due to the exceptional circumstances this year, we have decided to
+extend the submission deadline for RP'20 to July 2020.
+
+--------------------------------------------------------------------
+Paper submission deadline (extended): July 17, 2020, AoE
+https://easychair.org/conferences/?conf=rp20200
+--------------------------------------------------------------------
+
+The institut de recherche en informatique fondamentale at Université
+de Paris organises the 14th International Conference on Reachability
+Problems (RP'20).
+
+Invited speakers:
+ * Valérie Berthé (CNRS, Paris)
+ * Patricia Bouyer-Decitre (CNRS, Saclay)
+ * Kousha Etessami (University of Edinburgh)
+ * Orna Kupferman (Hebrew University)
+ * Dirk Nowotka (Kiel University)
+
+Submission Guidelines:
+There are two categories of submissions:
+ * Regular Papers: authors are invited to submit a draft of a full
+   paper with at most 12 pages (excluding the bibliography) formatted
+   according to the LNCS guidelines.  Authors are asked to submit
+   their paper through EasyChair at
+   https://easychair.org/conferences/?conf=rp20200
+ * Presentations: in addition to the formal presentations based on our
+   LNCS proceedings volume, we invite researchers to submit a paper
+   which recently appeared (or which is going to appear) in
+   proceedings of another conference, or which has not yet been
+   submitted.  Neither the paper nor the abstract will be published in
+   the proceedings.
+
+Important Dates:
+abstract submission (extended): July 17, 2020, AoE
+paper submission (extended):    July 17, 2020, AoE
+notification: August 17, 2020
+camera ready: August 24, 2020
+
+Topics:
+The conference is specifically aimed at gathering together scholars
+from diverse disciplines and backgrounds interested in reachability
+problems that appear in
+ * Algebraic structures
+ * Automata theory and formal languages
+ * Computational game theory
+ * Concurrency and distributed computation
+ * Decision procedures in computational models
+ * Hybrid dynamical systems
+ * Logic and model checking
+ * Verification of finite and infinite-state systems
+Topics of interest include (but are not limited to): reachability
+problems in infinite-state systems, rewriting systems, dynamical and
+hybrid systems; reachability problems in logic and verification;
+reachability analysis in different computational models, counter
+timed/ cellular/ communicating automata; Petri nets; computational and
+combinatorial aspects of algebraic structures (semigroups, groups and
+rings); frontiers between decidable and undecidable reachability
+problems; predictability in iterative maps and new computational
+paradigms.
+
+Program Committee:
+ * C. Aiswarya (CMI, IN)
+ * S. Akshay (IIT-Bombay, IN)
+ * Christel Baier (TU Dresden, DE)
+ * Sergiy Bogomolov (Newcastle U., UK)
+ * Olivier Bournez (École Polytechnique, FR)
+ * Laure Daviaud (City U. London, UK)
+ * Pierre Ganty (IMDEA Software Institute, ES)
+ * Gilles Geeraerts (U. Libre de Bruxelles, BE)
+ * Matthew Hague (Royal Holloway U. London, UK)
+ * Mika Hirvensalo (U. Turku, FI)
+ * Petr Jančar (Palacký U. Olomouc, CZ)
+ * Raphaël Jungers (U. C. Louvain, BE)
+ * Akitoshi Kawamura (Kyushu U., JP)
+ * Sang-Ki Ko (Kangwon Natl. U., KR)
+ * Slawomir Lasota (U. Warsaw, PL)
+ * Karoliina Lehtinen (U. Liverpool, UK)
+ * Igor Potapov (U. Liverpool, UK, co-chair)
+ * Cristian Riveros (Pontifica U. Católica de Chile, CHL)
+ * Sylvain Schmitz (U. de Paris, FR, co-chair)
+ * Mahsa Shirmohammadi (CNRS, FR)
+ * Georg Zetzsche (MPI-SWS, DE)
+
+Venue:
+The conference was initially planned to be held in Paris, on the
+campus des grands moulins of Université de Paris.  However, as the
+coronavirus pandemic is causing a major disruption in the lives of
+many members of our community, we will consult the authors of
+submitted papers at notification time; based on this feedback the
+conference will be either held physically (with an option of remote
+participation and a reduced conference fee for those who cannot
+attend) or completely virtually.  Either way the publication of the
+conference proceedings will go forward as usual.
+
+Contact: rp2020-0@easychair.org

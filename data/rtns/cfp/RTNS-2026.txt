@@ -1,0 +1,25 @@
+RTNS 2026 ? Call for Papers | First Submission Round Coming Up
+
+Dear community,
+
+As the new year begins, we would like to share that RTNS will soon open its first submission round, offering an opportunity to turn fresh ideas directly into concrete research contributions.
+The 34th International Conference on Real-Time Networks and Systems (RTNS 2026) will take place 4–6 November 2026 in Toulouse, France. RTNS is known for its collaborative atmosphere and in-depth research on real-time systems and real-time networks.
+
+Following the successful adoption of the multi-round submission model, RTNS 2026 continues this format. The goal is to provide authors with early, constructive feedback, enabling major revisions and resubmission in later rounds, and thus supporting sustainable, high-quality research.
+
+Submission rounds:
+
+    1st round: 5 February 2026 → notification 18 March 2026
+    2nd round: 4 June 2026 → notification 17 July 2026
+    3rd round: 20 August 2026 → notification 28 September 2026
+
+
+Submissions follow a double-blind review process. After each round, accepted papers will receive a DOI and be listed on the conference website. All accepted papers will be published in Springer LNCS after the conference. Outstanding papers may be invited to submit an extended version to a Springer Real-Time Systems Journal special issue.
+
+RTNS welcomes theoretical and experimental work on real-time systems and networks, including distributed real-time systems, predictable hardware and software, formal methods, and end-to-end latency analysis.
+
+All information can be found on the conference website: https://rtns-conference.org/
+
+We look forward to your ideas and to meeting you in Toulouse.
+Warm regards,
+RTNS 2026 Organizing Team

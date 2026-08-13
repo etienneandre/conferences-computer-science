@@ -26,3 +26,7 @@ submitted = 209
 
 [extra]
 notes = "Appendix allowed."
+
+[[cfp]]
+file = "cfp/MFCS-2023.txt"
+stage = "initial"

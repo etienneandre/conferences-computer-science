@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "There will be two best paper awards. Optional artifact evaluation. Also journal-first, demo papers, doctoral symposium…."
+
+[[cfp]]
+file = "cfp/SPLC-2023.txt"
+stage = "initial"

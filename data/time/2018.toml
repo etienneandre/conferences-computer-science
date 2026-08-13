@@ -20,3 +20,11 @@ license = "cc-by"
 
 [extra]
 notes = "Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of the journal Theoretical Computer Science."
+
+[[cfp]]
+file = "cfp/TIME-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TIME-2018-extended.txt"
+stage = "extended"

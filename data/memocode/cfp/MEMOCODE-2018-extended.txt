@@ -1,0 +1,126 @@
+               -- Call for Papers --  
+
+                    MEMOCODE'18
+      16th ACM-IEEE International Conference
+            on Formal Methods and Models
+                 for System Design
+              http://memocode.irisa.fr/
+
+                October 15-18, 2018
+                   Beijing, China
+
+
+Important Dates
+---------------
+- Abstract submission deadline: June 1, 2018 (extended deadline)
+- Paper submission deadline: June 8, 2018 (extended deadline)
+- Notification of acceptance: July 23, 2018
+- Final version of papers: August 10, 2018
+- Conference: October 15-18, 2018
+
+MEMOCODE is a leading conference that brings together researchers and practitioners interested in formal methods for system design and development, research results, and lessons learned. The conference focuses on the foundations and applications of formal methods in the development of hardware, firmware, middleware, and application software for systems ranging from single embedded devices to highly networked Cyber-Physical Systems and the Internet of Things.
+
+
+Topics of Interest
+------------------
+MEMOCODE 2018 solicits research papers on formal methods in systems design that address the foundations, engineering methods, tools, or experimental case studies. Research areas of interest include, but are not limited to the following:
+- Modeling Languages, Methods and Tools
+Programming languages and models; software and system modeling languages; architecture and high-level hardware description languages; timing models; model and program synthesis methods; model transformation methods
+- Formal Methods and Tools
+Correct-by-construction methods; contract-based design and verification; static, dynamic, and type theoretic analysis; verification; validation; probabilistic model checking; test generation; refinement-based and compositional approaches to design and verification
+- Models and Methods for Developing Critical Systems
+Fault-tolerant systems; security-critical and safety-critical systems; cyber-physical systems; hybrid systems; autonomous systems; self-adapting systems
+- Quantitative/Qualitative Reasoning
+Power/performance/cost/latency estimation methods; system models for quantitative design space exploration
+- Formal Methods/Models in Practice
+Design case studies; empirical case studies
+
+
+Submissions
+-----------
+MEMOCODE 2017 calls for three kinds of submissions: regular papers, work in progress papers, and tool presentations. All papers must be written in English and formatted according to the following IEEE Computer Society guidelines. Submission of papers is handled via Easychair.
+- Regular papers must be less than 10 pages and describe original work that does not overlap with another publication or a submission under review or accepted for publication by any other conference or journal. Reviewers will check regular papers for the novelty of the proposed solution and the proofs given for the claims made.
+- Work-in-progress papers must be less than 4 pages and describe ongoing work. Reviewers will judge the novelty of the idea, but do not yet expect proofs for the envisioned results.
+- Tool papers must be less than 8 pages and should describe an existing and publicly available tool that implements relevant methods. The methods might have been published before, but the tool should not have been described in a tool paper previously. In addition to reviewing the paper, reviewers will assess the tool itself using inputs and a user's manual provided by the authors on the tool's web page.
+For questions regarding technical submissions, feel free to contact one of the Program Committee co-chairs: Patricia Derler (patricia.derler@ni.com) and Sicun Gao (sicung@ucsd.edu).
+All accepted papers (regular paper, WIP papers, and tool papers) will be published as IEEE conference proceedings with IEEE Xplore. Publication in the proceedings is contingent on one author registering for and presenting the paper at the conference. Selected papers will be invited for publication in a special issue of ACM Transactions on Embedded Computing Systems.
+
+
+KEYNOTE SPEAKERS
+----------------
+We are excited to announce the following keynote speakers
+- Kwangheun Yi, Seoul National University
+- Wang Yi, Uppsala University
+- Sanjit Seshia, University of California, Berkeley
+
+
+MEMOCODE'18 Special Session
+---------------------------
+Embedded workshop on formal methods in China's Industry
+
+MEMOCODE'18 features a special session in the form of an embedded workshop, where engineers and architects from China's industry in domains such as aerospace, automotive, and railways, share their experiences using formal methods for system design. The special session will be introduced with the keynote presentation of Dr. Chen Gang, from China Aerospace, and followed by two sessions of invited presentations, addressing the wide variety of industry domains and formal models for analysis, verification, synthesis, certification employed in China.
+
+
+Organization
+------------
+
+Program Chairs
+- Patricia Derler, National Instruments
+- Sicun Gao, UC San Diego
+
+General Chairs
+- Kai Hu, Beihang University
+- Naijun Zhan, Chinese Academy of Science
+
+Organization Chairs
+- Kai Hu, Beihang University
+- Yushi Zhang, Nankai University
+
+Finance Chair
+- Jean-Pierre Talpin, INRIA
+
+
+Program Committee
+-----------------
+Paul Attie, American University of Beirut
+Bernd Becker, Albert-Ludwigs-University Freiburg
+Marco Bekooij, University Twente and NXP semiconductors
+Shuvra Bhattacharyya, University of Maryland
+Jani Boutellier, Tampere University of Technology
+Jens Brandt, Hochschule Niederrhein
+Mingsong Chen, East China Normal University
+Silviu Craciunas, TTTech Computertechnik AG
+Robert De Simone, INRIA
+Jyotirmoy Deshmukh, University of Southern California
+Stephen A., Edwards Columbia University
+Mamoun Filali-Amine, IRIT
+Martin Fränzle, Carl von Ossietzky Universität Oldenburg
+Franco Fummi, University of Verona
+Abdoulaye Gamatie, CNRS
+Angelo Gargantini, University of Bergamo
+Marc Geilen, Eindhoven University of Technology
+Fei He, Tsinghua University
+John Koo, Hong Kong Applied Science and Technology Research Institute
+Axel Legay, IRISA/INRIA, Rennes
+Elizabeth Leonard, Naval Research Laboratory
+Xuandong Li, Nanjing University
+Katell Morin-Allory, TIMA Laboratory
+Thanhvu Nguyen, University of Nebraska, Lincoln
+Pierluigi Nuzzo, University of Southern California
+John O'Leary, Intel
+Claire Pagetti, ONERA
+Roberto Passerone, University of Trento
+Pavithra Prabhakar, Kansas State University
+Murali Rangarajan, The Boeing Company
+Indrakshi Ray, Colorado State University
+Sanjai Rayadurgam, University of Minnesota
+Elvinia Riccobene, University of Milan
+Partha Roop, The University of Auckland
+Neda Saeedloei, The University of Texas at Dallas
+Phillip Stanley-Marbell, University of Cambridge
+Ji Wang, National University of Defense Technology
+Bican Xia, Peking University
+Fei Xie, Portland State University
+Tuba Yavuz, University of Florida
+Naijun Zhan, Institute of Software, Chinese Academy of Sciences
+Paolo Zuliani, Newcastle University

@@ -1,0 +1,35 @@
+CALL FOR PAPERS
+
+The 11th Workshop on Synthesis
+Co-located with CAV 2022 as part of FLoC 2022, Haifa, Israel.
+https://www.cs.technion.ac.il/~shaull/SYNT2022/
+
+The SYNT workshop aims to bring together researchers interested in the broad area of synthesis of computing systems. The workshop fosters the development of frontier techniques in automating the development of computing systems and is inclusive in its interpretation of the term synthesis
+
+Topics of interest include, but are not limited to:
+algorithms and tools for software synthesis and reactive (discrete-time, timed, hybrid, ...) synthesis,
+specification languages and optimization in synthesis,
+complexity and decidability results for synthesis,
+case studies of software or hardware synthesis,
+connections between verification and synthesis,
+synthesis by model learning,
+connections between synthesis and inductive programming,
+new approaches or applications for synthesis,
+description and analysis of benchmark families for synthesis.
+
+SYNT 2022 welcomes two kinds of submissions:
+Extended Abstracts (up to 3 pages)
+Full Papers (up to 15 pages)
+All submissions should be in the two-column sub-format of the ACM proceedings format.
+Submissions will be judged on how interesting they are to the SYNT community. Overlap with previously published work should be indicated, but does not disqualify a submission if the presentation can be expected to be of enough interest.
+
+Extended versions of selected full workshop papers will form the basis of a special issue of Acta Informatica. These journal papers will be submitted and published some time after the workshop. More information to follow...
+
+SUBMISSION URL
+Submission URL: https://easychair.org/my/conference?conf=synt2022
+
+IMPORTANT DATES
+Paper Submission: May 10, 2022
+Author Notification: May 31, 2022
+Workshop: August 11 2022
+

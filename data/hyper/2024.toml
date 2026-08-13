@@ -20,3 +20,7 @@ license = "free-copy"
 
 [extra]
 notes = "co-located with CAV 2024"
+
+[[cfp]]
+file = "cfp/HYPER-2024.txt"
+stage = "initial"

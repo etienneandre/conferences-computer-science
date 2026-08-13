@@ -27,3 +27,7 @@ award = "Best paper award."
 journal = "Extended versions of selected papers will be invited for publication in a special issue of a journal to be announced soon."
 colocated = "Colocated with ABZ 2026 and TAP 2026."
 notes = "Also a doctoral symposium and industry day."
+
+[[cfp]]
+file = "cfp/FM-2026.txt"
+stage = "initial"

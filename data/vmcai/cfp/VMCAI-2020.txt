@@ -1,0 +1,155 @@
+--------------------------------------------------------------------------------
+
+                              VMCAI 2020
+
+21st International Conference on Verification, Model Checking, and
+Abstract Interpretation
+
+New Orleans, Louisiana, United States, January 19th-January 21st, 2020
+
+https://popl20.sigplan.org/home/VMCAI-2020
+
+--------------------------------------------------------------------------------
+
+# Objective
+
+VMCAI provides a forum for researchers from the communities of
+Verification, Model Checking, and Abstract Interpretation, facilitating
+interaction, cross-fertilization, and advancement of hybrid methods that
+combine these and related areas. VMCAI 2020 will be the 21st edition in
+the series. The proceedings of the conference will be published in the
+Springer Lecture Notes in Computer Science (LNCS) series.
+
+
+# Topics
+
+VMCAI 2020 welcomes research papers on any topic related to
+verification, model checking, and abstract interpretation. Research
+contributions can report new results as well as experimental evaluations
+and comparisons of existing techniques. Topics include, but are not
+limited to:
+- Program Verification
+- Model Checking
+- Abstract Interpretation
+- Abstract Domains
+- Program Synthesis
+- Static Analysis
+- Type Systems
+- Deductive Methods
+- Program Logics
+- First-Order Theories
+- Decision Procedures
+- Interpolation
+- Horn Clause Solving
+- Program Certification
+- Separation Logic
+- Probabilistic Programming and Analysis
+- Error Diagnosis
+- Detection of Bugs and Security Vulnerabilities
+- Program Transformations
+- Hybrid and Cyber-physical Systems
+- Concurrent Systems
+- Analysis of Numerical Properties
+- Case Studies on all of the above topics
+
+Submissions can address any programming paradigm, including concurrent,
+constraint, functional, imperative, logic, and object-oriented programming.
+
+
+# Paper Submission
+
+VMCAI invites the submission of regular and tool papers. Both types of
+papers have the same format but will be evaluated differently.
+
+* _Regular papers_ clearly identify and justify a advance to the field
+of verification, abstract interpretation, or model checking. Where
+applicable, they are supported by experimental validation.
+* _Tool papers_ present a new tool, a new tool component, or novel
+extensions to an existing tool. They should provide a short description
+of the theoretical foundations, and emphasize the design and
+implementation concerns.
+
+Submissions are restricted to 20 pages in Springer’s LNCS format, not
+counting references. Short tools papers are also welcome.
+
+Additional material may be placed in an appendix, to be read at the
+discretion of the reviewers and to be omitted in the final version.
+Formatting style files and further guidelines for formatting can be
+found at the Springer website. Papers must describe original work, be
+written and presented in English, and must not substantially overlap
+with papers that have been published or that are simultaneously
+submitted to a journal or a conference with refereed proceedings.
+Submitted papers will be judged on the basis of significance, relevance,
+correctness, originality, and clarity. They should clearly identify what
+has been accomplished and why it is significant.
+
+Submissions are handled online:
+https://easychair.org/conferences/?conf=vmcai2020
+
+More information at
+https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Papers
+
+
+# Artifact
+
+VMCAI 2020 is introducing the possibility to submit an artifact along a
+paper. Artifacts are any additional material that substantiates the
+claims made in the paper, and ideally makes them fully replicable.
+Submitting an artifact is encouraged but not required. The artifact will
+be evaluated in parallel with the submission on the following criteria:
+consistency with and replicability of results in the paper,
+completeness, documentation, and ease of use.
+
+More information at
+https://popl20.sigplan.org/home/VMCAI-2020#Call-for-Artifacts
+
+
+# Important Dates
+
+- Paper submission:                 October 1st, 2019 (anywhere on earth)
+- Artifact submission:              October 8th, 2019
+- Artifact clarification period:    October 15th-18th, 2019
+- Notification:                     November 7th, 2019
+- Final version due:                November 15th, 2019
+- Conference:                       January 19th-21st, 2020
+
+
+# Program Chairs
+
+- Dirk Beyer (LMU Munich, Germany)
+- Damien Zufferey (MPI-SWS, Germany)
+
+
+# Program Committee
+
+- Timos Antonopoulos (Yale University, USA)
+- Dirk Beyer (LMU Munich, Germany)
+- Nikolaj Bjørner (Microsoft Research, USA)
+- Pavol Černý (TU Wien, Austria)
+- Rayna Dimitrova (University of Leicester, UK)
+- Constantin Enea (University Paris Diderot, France)
+- Pierre Ganty (IMDEA Software Institute, Spain)
+- Alberto Griggio (Fondazione Bruno Kessler, Italy)
+- Ashutosh Gupta (IIT Bombay, India)
+- Marie-Christine Jakobs (TU Darmstadt, Germany)
+- Laura Kovacs (TU Wien, Austria)
+- Jan Kretinsky (TU Munich, Germany)
+- Markus Kusano (Google, USA)
+- Ori Lahav (Tel Aviv University, Israel)
+- David Monniaux (CNRS and VERIMAG, France)
+- Kedar Namjoshi (Nokia Bell Labs, USA)
+- Andreas Podelski (University of Freiburg, Germany)
+- Nadia Polikarpova (University of California, San Diego)
+- Shaz Qadeer (Facebook, USA)
+- Daniel Schwartz-Narbonne (Amazon, USA)
+- Martina Seidl (Johannes Kepler University, Austria)
+- Natasha Sharygina (USI Lugano, Switzerland)
+- Mihaela Sighireanu (University Paris Diderot, France)
+- Jan Strejcek (Masaryk University, Czech Republic)
+- Alexander J. Summers (ETH Zurich, Switzerland)
+- Michael Tautschnig (Amazon Web Services, London, UK)
+- Caterina Urban (INRIA & École Normale Supérieure, France)
+- Heike Wehrheim (Paderborn University, Germany)
+- Thomas Wies (New York University, USA)
+- Lenore Zuck (University of Illinois at Chicago, USA)
+- Damien Zufferey (MPI-SWS, Germany)

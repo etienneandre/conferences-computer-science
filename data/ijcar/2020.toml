@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "IJCAR 2020 will recognize the most outstanding submission with a best paper award at the conference. Woody Bledsoe Travel Awards will be available to support selected students in attending the conference. The authors of a selection of the best IJCAR 2020 papers will be invited to submit an extended version of their paper after the conference, to be published in a special issue of Logical Methods in Computer Science. Every two years."
+
+[[cfp]]
+file = "cfp/IJCAR-2020.txt"
+stage = "initial"

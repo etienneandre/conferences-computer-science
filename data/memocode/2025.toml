@@ -21,3 +21,15 @@ license = "pay"
 
 [extra]
 notes = "Part of ESWEEK 2025. Selected accepted papers will be invited to extend their accepted papers (at least 30% extension over the accepted version) for a special edition in a journal such as the ACM Transactions on Embedded Computing Systems (ACM TECS)."
+
+[[cfp]]
+file = "cfp/MEMOCODE-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/MEMOCODE-2025-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/MEMOCODE-2025-extended2.txt"
+stage = "extended"

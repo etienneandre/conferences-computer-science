@@ -25,3 +25,7 @@ submitted = 34
 
 [extra]
 notes = "Co-located with POPL. Authors are strongly encouraged to make their tools publicly available and submit an artifact."
+
+[[cfp]]
+file = "cfp/VMCAI-2023.txt"
+stage = "initial"

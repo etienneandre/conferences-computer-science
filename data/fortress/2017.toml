@@ -18,3 +18,11 @@ publisher = "?"
 
 [extra]
 notes = "Satellite of RTCSA"
+
+[[cfp]]
+file = "cfp/FORTRESS-2017.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORTRESS-2017-extended.txt"
+stage = "extended"

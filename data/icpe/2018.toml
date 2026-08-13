@@ -20,3 +20,11 @@ license = "acm"
 
 [extra]
 notes = "After the conference, there will be a call for a special issue of a journal."
+
+[[cfp]]
+file = "cfp/ICPE-2018.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICPE-2018.txt"
+stage = "initial"

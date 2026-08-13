@@ -27,3 +27,7 @@ award = "ISSRE is pleased to announce the IEEE Best Research Paper Award, awarde
 [extra]
 journal = "Authors of accepted papers will be invited to submit an extended version of their work to a special issue of the Empirical Software Engineering (EMSE) journal (under negotiation as in previous editions of the conference)."
 notes = "Includes negative results papers. Early decisions: 15th June."
+
+[[cfp]]
+file = "cfp/ISSRE-2026.txt"
+stage = "initial"

@@ -18,3 +18,11 @@ license = "free"
 
 [extra]
 notes = "Co-located with CADE-28. Informal proceedings (earlier / concurrent / later submission allowed). Live complexity and termination competition during the workshop. Every one or two years. Cancelled in 2020."
+
+[[cfp]]
+file = "cfp/WST-2021.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/WST-2021-extended.txt"
+stage = "extended"

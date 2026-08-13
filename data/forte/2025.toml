@@ -26,3 +26,11 @@ submitted = 23
 
 [extra]
 notes = "A DisCoTec Member Conference. Recent acceptance rates: 41% (20/49, 2013), 36% (18/50, 2014), 28% (15/53, 2015), 41% (18/44, 2016), 40% (13 long + 3 short + 1 tool/42) in 2017, 36% (10/28) in 2018, 43% (18/42) in 2019, 44% (11/25) in 2020, 43% (12/28) in 2022, 52% (8+5/23) in 2025. The volumes will be open access from the IFIP digital library after a 3-year embargo. After the conference, accepted papers (except for tool papers) selected from FORTE will be invited to a journal special issue of the Logical Methods in Computer Science. Selected tool papers will be invited to a journal special issue of Science of Computer Programming’s Software Track."
+
+[[cfp]]
+file = "cfp/FORTE-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORTE-2025-extended.txt"
+stage = "extended"

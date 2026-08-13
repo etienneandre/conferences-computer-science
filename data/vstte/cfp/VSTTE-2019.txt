@@ -1,0 +1,131 @@
+CALL FOR PAPERS
+
+Verified Software: Theories, Tools and Experiments (VSTTE) 2019
+July 13-14, 2019, New York City, USA (co-located with CAV 2019)
+
+https://sri-csl.github.io/VSTTE19/
+============================================
+
+The Verified Software Initiative (VSI), spearheaded by Tony
+Hoare and Jayadev Misra, is an ambitious research program for making
+large-scale verified software a practical reality.  The Working
+Conference on Verified Software: Theories, Tools and Experiments
+(VSTTE) is the main forum for advancing the initiative.  VSTTE brings
+together experts spanning the spectrum of software verification in
+order to foster international collaboration on the critical research
+challenges. The theoretical work includes semantic foundations and
+logics for specification and verification, and verification algorithms
+and methodologies. The tools cover specification and annotation
+languages, program analyzers, model checkers, interactive verifiers
+and proof checkers, automated theorem provers and SAT/SMT solvers, and
+integrated verification environments. The experimental work drives the
+research agenda for theory and tools by taking on significant
+specification/verification exercises covering hardware, operating
+systems, compilers, computer security, parallel computing, and
+cyber-physical systems.
+
+The 2019 edition of VSTTE will be the 11th working conference in the
+series, and will be co-located with CAV 2019 in New York City, USA
+
+SCOPE: We welcome submissions describing significant advances in the
+production of verified software. We are especially interested in
+submissions describing large-scale verification efforts that involve
+collaboration, theory unification, tool integration, and formalized
+domain knowledge. We welcome papers describing novel experiments and
+case studies evaluating verification techniques and
+technologies. Topics of interest include, but are not limited to
+
+Education
+Requirements modeling
+Specification languages
+Specification/verification case-studies
+Formal calculi
+Software design methods
+Automatic code generation
+Refinement methodologies
+Compositional analysis
+Tool integration
+Benchmarks
+Challenge problems
+Integrated verification environment
+Verification tools
+
+Work on diverse verification technologies, e.g., static analysis,
+dynamic analysis, model checking, theorem proving, satisfiability, are
+particularly encouraged.
+
+SUBMISSIONS: VSTTE 2019 will accept both long (limited to 16 pages,
+excluding references) and short (limited to 10 pages, excluding
+references) paper submissions. Short submissions also cover
+Verification Pearls describing an elegant proof or proof
+technique. Submitted research papers and system descriptions must be
+original and not submitted for publication elsewhere. Research paper
+submissions must be in LNCS format and must include a cogent and
+self-contained description of the ideas, methods, results, and
+comparison to existing work. Submissions of theoretical, practical,
+and experimental contributions are equally encouraged, including those
+that focus on specific problems or problem domains.
+
+Papers can be submitted at https://easychair.org/conferences/?conf=vstte2019
+Submissions that arrive late, are not in the proper format, or are too
+long will not be considered. The post-conference proceedings of VSTTE
+2019 will be published by Springer-Verlag in the LNCS series. Authors
+of accepted papers will be requested to sign a form transferring
+copyright of their contribution to Springer-Verlag. The use of LaTeX
+and the Springer llncs class files
+(http://www.springer.de/comp/lncs/authors.html) is strongly
+encouraged.
+
+IMPORTANT DATES:
+April 23, 2019 (firm): Title/Abstract submission
+April 29, 2019 (firm): Full paper submission
+June 3, 2019: Notification of acceptance
+July 13-14, 2019: Conference
+Aug 26, 2019 (firm): Camera-ready for post-conference proceedings
+
+INVITED SPEAKERS:
+Tevfik Bultan (UC Santa Barbara, USA)
+Marsha Chechik (University of Toronto, Canada)
+Aarti Gupta (Princeton University, USA)
+Antoine Mine (Sorbonne Universite, France)
+
+GENERAL CHAIR:
+Natarajan Shankar (SRI International, USA)
+
+PROGRAM CHAIRS:
+Supratik Chakraborty (IIT Bombay, India)
+Jorge A. Navas (SRI International, USA)
+
+PROGRAM COMMITTEE:
+Aws Albarghouthi (University of Wisconsin-Madison, USA)
+Supratik Chakraborty (IIT Bombay, India)
+Xinyu Feng (Nanjing University, China)
+Graeme Gange (Monash University, Australia)
+Ashutosh Gupta (IIT Bombay, India)
+Arie Gurfinkel (University of Waterloo, Canada)
+Liana Hadarean (Amazon Web Services, USA)
+Joxan Jaffar (National University of Singapore, Singapore)
+Dejan Jovanovic (SRI International, USA)
+Aditya Kanade (Indian Institute of Science, India)
+Yunho Kim (KAIST, South Korea)
+Tim King (Google, USA)
+Yi Li (Nanyang Technological University, Singapore)
+Nuno Lopes (Microsoft Research, UK)
+David Monniaux (Verimag, France)
+Jose F. Morales (Imdea Software, Spain)
+Yannick Moy (AdaCore, France)
+Kedar Namjoshi (Bell Labs, USA)
+Nina Narodytska (VMware Research, USA)
+Jorge A. Navas (SRI International, USA)
+Aina Niemetz (Stanford University, USA)
+Oded Padon (Stanford University, USA)
+Phillip Rummer (Uppsala University, Sweden )
+Peter Schrammel (University of Sussex, UK)
+Rahul Sharma (Microsoft Research, India)
+Jing Sun (The University of Auckland, New Zealand)
+Michael Tautschnig (Queen Mary University of London, UK)
+Tachio Terauchi (Waseda University, Japan)
+Aditya Thakur (UC Davis, USA)
+R. Venkatesh (TRDDC-TCS, India)
+Bow-Yaw Wang (Inst of Information Science, Taiwan)
+Valentin Wuestholz (ConsenSys Diligence)

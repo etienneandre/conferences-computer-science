@@ -20,3 +20,7 @@ license = "cc-by-nd"
 
 [extra]
 notes = "Double-blind. Rebuttal period: 14-16 November 2022. PC members are excluded from submitting."
+
+[[cfp]]
+file = "cfp/STACS-2023.txt"
+stage = "initial"

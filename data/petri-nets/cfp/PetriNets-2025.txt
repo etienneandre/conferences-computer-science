@@ -1,0 +1,172 @@
+============================================================
+Call for papers
+
+PETRI NETS 2025
+
+46th international conference on application and theory of Petri nets and
+concurrency
+============================================================
+
+Paris, France
+23-27 June 2025
+https://petrinets25.github.io/web/
+
+## Paper Submission
+Petri Nets 2025 solicits high quality papers reporting research results and/or
+tools related to the topics mentioned below.
+
+* Regular papers (20 pages LNCS excluding references) must describe original
+  results pertaining to the development of the theory of Petri nets and
+  distributed and concurrent systems in general, new results extending the
+  applicability of Petri nets, or case studies, application and experience
+  reports pertinent to the practical use of Petri nets and concurrency.
+
+* Tool papers (10 pages LNCS excluding references) must describe a computer
+  tool based on Petri nets (not an application of the tool or the theory behind
+  the tool). The tool should be available for use by other groups (but not
+  necessarily for free). The submission should indicate how the reviewers can
+  get access to the tool (this must be for free). The tool will be demonstrated
+  in the Tool Exhibition, in addition to being presented in a conference talk.
+
+All papers must be original, unpublished, and not submitted for publication elsewhere.
+Papers must be written in English using the Springer LNCS format,
+including line numbers (e.g., https://ctan.org/pkg/lineno LaTeX
+package) and submitted electronically (as a PDF file) by the deadline using
+EasyChair(https://easychair.org/conferences/?conf=petrinets2025).
+
+## Important dates
+Abstract submission             : 15 January 2025
+Submission of papers            : 22 January 2025
+Notification                    : 10 March 2025
+Final version due               : 24 March 2025
+Participation in tool exhibition: 30 May 2025
+Workshops and Tutorials         : 23-24 June 2025
+Main Conference                 : 25-27 June 2025
+
+The deadline is the end of day (AoE). 
+
+## Topics of Interest
+Topics specific to Petri Nets
+* Analysis and synthesis, structure and behavior of nets
+* System design and model-driven development using nets
+* Relationships between Petri nets and other approaches
+* Net-based semantical, logical and algebraic calculi
+* Higher-level net models (colored nets, timed nets, etc.)
+* Stochastic net models
+* Verification and model checking using nets
+* Process discovery and conformance checking
+* Computer tools for nets
+* Standardization of nets
+* Experience reports describing applications of nets to different kinds of
+  systems and application fields (e.g., flexible manufacturing systems, office
+  automation, real-time systems, workflows, embedded systems, process mining,
+  biological systems, supervisory control, health and medical systems,
+  protocols and networks, environmental systems, Internet and Web services,
+  hardware, e-commerce and trading, telecommunications, programming languages,
+  railway networks, performance evaluation, component based development,
+  operations research)
+
+General topics of interest related to concurrency
+* Application of concurrency to system design: formal models for designing
+  computer systems with concurrent behavior, applied research aimed at
+  designing computer systems which exhibit concurrency, etc.
+* Model checking and verification of distributed systems
+* Verification of infinite-state or parametric systems
+* Causality/partial order theory of concurrency
+* Educational issues related to concurrency
+* New developments in the theory of concurrency
+* Modeling of hardware and biological systems
+
+Papers presenting original research on application or theory of Petri nets, as
+well as contributions addressing topics relevant to the general field of
+distributed and concurrent systems or focused on applications of concurrency to
+system design are sought.
+
+The language of the conference is English, and its proceedings will be
+published by Springer-Verlag in LNCS. 
+
+All accepted papers will be considered for an Outstanding Paper award. Authors
+of selected papers presented at the conference will be invited to submit an
+extended version that will be further reviewed for inclusion into a special
+issue of a renowned journal.
+
+## Tool Exhibition
+An exhibition of Petri net tools will take place on Wednesday June 25. It
+consists of informal demonstrations for small groups/individuals and there are
+no scheduled talks. Requests for participation in the tool exhibition must be
+sent to the Tool Exhibition chairs by the deadline stated at the top of this
+Call for Papers. They should include a link to the Web pages for the tool (or a
+short description of the tool). The demonstrators should bring their own
+laptops, while the organisers may be requested to give access to the Internet.
+
+
+## Courses, Workshops and Tutorials
+The main conference takes place from Wednesday 25 to Friday 27. The two days
+before the main conference also offer a wide range of activities. The Petri Net
+Course takes place from Monday 23 to Tuesday 24. It offers a thorough
+introduction to Petri nets in half-days and full-day modules. For successful
+participation in the entire course, including preparation and examination, two
+credit points (ECTS) will be awarded. Each module of the course can also be
+taken separately, without any credit. Detailed descriptions of Workshops and
+Tutorials will be made available via the conference Web page.
+
+It is also possible to arrange Meetings and Courses related to Petri Nets.
+Submissions for such activities must contain a 2-5 page description. They must
+be received by the Workshops and Tutorials chairs via email no later than
+January 15, 2025.
+
+## Organization
+The 46th annual international Petri Nets conference will be organised by the
+LoVe (Logics and Verification) team at the Université Sorbonne Paris Nord
+(France) jointly with members of the MeFoSyLoMa group.
+
+The conference will take place at the Campus Condorcet.
+
+### Organization Committee
+* Étienne André (Université Sorbonne Paris Nord)
+* Carlos Olarte (Université Sorbonne Paris Nord)
+
+### Program committee co-chairs
+* Elvio Amparore, Italy
+* Łukasz Mikulski, Poland
+
+### Workshops co-chairs
+* Giuliana Franceschinis, Italy
+* Karsten Wolf, Germany
+
+### Petri Net Course and Tutorials co-chairs
+* Jörg Desel, Germany
+* Lars Kristensen, Norway
+
+### Publicity chair
+* Benoît Barbot, France
+
+## Program committee
+* Elvio Amparore, Italy (co-chair)
+* Abel Armas Cervantes, Australia
+* João Paulo Barros, Portugal
+* Benoît Delahaye, France
+* João Miguel Fernandes, Portugal
+* Guiliana Franceschinis, Italy
+* Luis Gomes, Portugal
+* Xudong He, USA
+* Loïc Helouet, France
+* Wojciech Jamroga, Luxemburg
+* Gabriel Juhás, Slovakia
+* Anna Kalenkova, Australia
+* Michael Köhler-Bußmeier, Germany
+* Lars Kristensen, Norway
+* Lisa Mannel, Germany
+* Łukasz Mikulski, Poland (co-chair)
+* Andrew Miner, USA
+* Guillermo Alberto Perez, Belgium
+* Marta Pietkiewicz-Koutny, UK
+* Artem Polyvyanyy, Australia
+* Lucia Pomello, Italy
+* Andrey Rivkin, Denmark
+* Natalia Sidorova, The Netherlands
+* Jiří Srba, Denmark
+* Jeremy Sproston, Italy
+* Nathalie Sznajder, France
+* Remigiusz Wisniewski, Poland
+* Karsten Wolf, Germany

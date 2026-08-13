@@ -1,0 +1,105 @@
+=====================================================================
+              LOPSTR 2019: Third Call for Papers
+======================================================================
+
+** Please note that paper submission deadlines have been extended as follows:
+
+Abstract submission: June 25, 2019
+Paper/Extended abstract submission: June 30, 2019 (AoE, UTC-12) **
+
+
+======================================================================
+
+                 29th International Symposium on
+         Logic-Based Program Synthesis and Transformation
+                           LOPSTR 2019
+
+          http://www.cs.unibo.it/projects/lopstr19/
+
+            Porto, Portugal, October 8-10, 2019
+    (co-located with the Symposium on Formal Methods, FM'19
+                  and a part of the FM Week)
+
+
+The aim of the LOPSTR series is to stimulate and promote international
+research and collaboration on  logic-based program development. LOPSTR
+is open  to contributions  in logic-based  program development  in any
+language  paradigm.  LOPSTR  has  a reputation  for  being  a  lively,
+friendly forum for presenting and  discussing work in progress. Formal
+proceedings are produced only after  the symposium so that authors can
+incorporate this feedback in the published papers.
+
+Topics of interest cover all aspects of logic-based program development,
+all stages of the software life cycle, and issues of both programming-in-the-
+small
+and programming-in-the-large.
+This year LOPSTR extends its traditional topics to include also logic-based
+program
+development based on integration of sub-symbolic and symbolic models,  on
+machine
+learning techniques and on differential semantics. Both full papers and
+extended
+abstracts describing applications in all these areas are especially welcome.
+Contributions are  welcome on all  aspects of logic-based program development,
+including, but not limited to:
+
+* synthesis
+* transformation
+* specialization
+* composition
+* optimization
+* inversion
+* specification
+* analysis and verification
+* testing and certification
+* program and model manipulation
+* machine learning for program development
+* integration of sub-symbolic and symbolic models
+* differential semantics
+* transformational techniques in SE
+* applications and tools
+
+Important Dates
+
+Abstract submission: June 25, 2019 (**new**)
+Paper/Extended abstract submission: June 30, 2019 AoE (**new**)
+Notification: July 24, 2018
+Camera-ready (for electronic pre-proceedings): August 7, 2019
+Symposium: October 8-10, 2019
+
+
+Submission Guidelines
+
+Authors  should submit  an electronic  copy of  the paper  (written in
+English) in  PDF, formatted in  the Lecture Notes in  Computer Science
+style.  Submissions cannot exceed 15 pages
+including references but excluding well-marked appendices not intended
+for publication.  Papers should be submitted  via  the  Easychair
+submission website  for  LOPSTR  2019.
+
+
+Best Paper Award and Prize
+
+A best paper award will be granted, which will include a 500 EUR prize
+provided by  Springer.  This  award will  be given  to the  best paper
+submitted to the conference, based  on the relevance, originality, and
+technical quality. The program committee may split the award among two
+or more papers, also considering authorship (e.g., student paper).
+
+
+Proceedings
+
+The formal  post-conference proceedings will be  published by Springer
+in the  Lecture Notes in Computer  Science series. Full papers  can be
+directly  accepted  for  publication  in the  formal  proceedings,  or
+accepted  only for  presentation  at the  symposium  and inclusion  in
+informal  proceedings.
+
+After the symposium, a selection of the best papers might  be invited for
+submission to a special issue of a journal.
+
+Invited Speakers
+
+John Gallagher, Roskilde University, Denmark
+Naoki Kobayashi, The University of Tokyo, Japan  (joint with PPDP)
+German Vidal, Polytechnic University of Valencia, Spain (joint with PPDP)

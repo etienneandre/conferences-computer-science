@@ -26,3 +26,11 @@ award = "Best Paper Award, with a prize of EUR 500,  sponsored by Springer"
 
 [extra]
 notes = "Also presentation-only contributions."
+
+[[cfp]]
+file = "cfp/RP-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RP-2026-extended.txt"
+stage = "extended"

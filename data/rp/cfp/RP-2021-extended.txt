@@ -1,0 +1,105 @@
+*******************************************************
+The 15th International Conference on Reachability Problems (RP'21)
+    Deadline extended
+         OCTOBER 25-27 2021, LIVERPOOL, UK
+                http://rp2021.csc.liv.ac.uk/
+
+******************************
+Regular papers (LNCS Springer):
+    Abstracts: July 15 AoE, 2021 (*Extended*)
+    Full papers: July 15 AoE, 2021 (*Extended*)
+
+Presentation-only papers:
+    Abstracts: August 5, 2021
+******************************
+
+The 15th International Conference on Reachability Problems (RP'21) is being organised by the Department of Computer Science at the University of Liverpool.http://rp2021.csc.liv.ac.uk/
+
+Papers presenting original contributions related to reachability problems in different computational models and systems are being sought.
+This will also be the occasion to review recent breakthroughs by renowned invited experts and survey emerging trends and emphasise on key open challenges. Participants are kindly encouraged to discuss core scientific issues that need to be further tackled.
+
+The conference proceedings will be published in Springer's Lecture Notes in Computer Science (LNCS).
+A selection of articles among the contributed papers will be invited to a special issue of a journal (TBA).
+
+TOPICS
+The conference is specifically aimed at gathering together scholars from diverse disciplines and backgrounds interested in reachability problems that appear in
+
+-  Algebraic structures
+-  Automata theory and formal languages
+-  Computational game theory
+-  Concurrency and distributed computation
+-  Decision procedures in computational models
+-  Graphs and dynamical networks
+-  Hybrid dynamical systems
+-  Logic and model checking
+-  Verification of finite and infinite-state systems
+
+Topics of interest include (but are not limited to):
+- reachability problems in infinite-state systems,
+- rewriting systems, dynamical and hybrid systems;
+- reachability problems in computational games and distributed systems;
+- reachability problems in dynamical networks,
+- reachability problems in logic and verification;
+- reachability problems in formal methods;
+- reachability analysis in different computational models,
+  counter timed/ cellular/ communicating automata;
+- Petri nets; computational and combinatorial aspects of algebraic structures
+  (semigroups, groups and rings);
+- frontiers between decidable and undecidable reachability problems;
+- predictability in iterative maps and new computational paradigms.
+
+GUIDELINES FOR SUBMISSION. There are two categories of submissions:
+
+REGULAR PAPERS
+Authors are invited to submit an extended abstract of a full paper with at most 12 pages (excluding the bibliography and potential appendices) formatted according to the LNCS guidelines.
+
+Authors are asked to submit their papers through EasyChair.
+Submission deadline for full papers is July 15 AoE.
+
+https://easychair.org/conferences/?conf=rp2021
+
+PRESENTATIONS ONLY
+In addition to the formal presentations based on our LNCS proceedings volume, we invite researchers to submit a paper which recently appeared (or which is going to appear) in proceedings of another conference, or which has not yet been submitted. Neither the paper nor the abstract will be published in the proceedings.
+
+IMPORTANT DATES
+Regular papers
+Abstracts: July 15, 2021
+Full papers: July 15, 2021
+Notification: August 19, 2021
+Final Version: August 23, 2021
+
+Presentation-only papers
+Abstracts: August 5, 2021
+Notification: August 19, 2021
+
+RP Conference: October 25-27, 2021
+
+INVITED SPEAKERS:
+- Udi Boker, IDC, Herzliya, Israel
+- Clare Dixon, Manchester University, UK
+- Javier Esparza, Technische Universität München, Germany
+- Damien Woods, Maynooth University Hamilton Institute, Ireland.
+- Georg Zetzsche, Max Planck Institute for Software Systems, Kaiserslautern, Germany.
+
+CONFERENCE CHAIRS
+Patrick Totzke, University of Liverpool - co-chair Paul Bell, Liverpool John Moores University - co-chair
+
+PROGRAM COMMITTEE
+Shaull Almagor (U. Oxford, UK) Christel Baier (TU Dresden, DE) Srivathsan B (CMI, Chennai, IN) Olivier Bournez (Ecole Polytechnique, FR) Laura Ciobanu (Edinburgh, UK) Lorenzo Clemente (U. Warsaw, Poland) Thao Dang (CNRS, U.Grenoble, FR) Rayna Dimitrova (CISPA Helmholtz Center for Information Security, DE) Manfred Droste (U. Leipzig, DE) Stefan Goeller (U. Kassel, DE) Matthew Hague (Royal Holloway U. London, UK) Mika Hirvensalo (U. Turku, FI) Sang-Ki Ko (Kangwon Natl. U., KR) Florin Manea (Gottingen, DE) Filip Mazowiecki (MPI Saarbruecken, DE) Anca Muscholl, (U. Bordeaux, FR) Igor Potapov, (U. of Liverpool, UK) Maria Prandini (U.Milan, IT) Krishna S (IIT, Bombay, IN) Gregoire Sutre (U. Bordeaux, FR) Pavel Semukhin (U. Oxford, UK)
+
+ORGANISING COMMITTEE
+Patrick Totzke, University of Liverpool
+Paul Bell, Liverpool John Moores University
+Igor Potapov, University of Liverpool
+
+STEERING COMMITTEE
+Parosh Aziz Abdulla (SE)
+Olivier Bournez (FR)
+Vesa Halava (FI)
+Alain Finkel (FR)
+Oscar Ibarra (USA)
+Juhani Karhumaki (FI)
+Jerome Leroux (FR)
+Joel Ouaknine (DE)
+Igor Potapov (UK)
+James Worrell (UK)

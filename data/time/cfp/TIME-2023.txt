@@ -1,0 +1,57 @@
+****** TIME 2023 ******
+30th International Symposium on Temporal Representation and Reasoning
+25-26 September, 2023
+NCSR Demokritos, Athens, Greece
+
+https://cer.iit.demokritos.gr/events/time23/
+
+* Since 1994, the TIME International Symposium brings together researchers from different disciplines of Computer Science working on temporal aspects of computational systems.
+* We are glad to announce that TIME will be back to an in-person conference! We look forward to welcoming the TIME community to Athens after 3 years of online events.
+* At least one author of each accepted paper must register early and physically attend TIME 2023 to present their work. Participants who are not giving a presentation may attend TIME 2023 remotely; of course, we strongly encourage physical participation!
+* In addition to theoretical work, we invite submissions focusing on the development, deployment and evaluation of *systems* for temporal reasoning. Such systems papers will be evaluated primarily on the quality of the empirical evaluation and reusability.
+
+*** Topics ***
+
+Topics for TIME 2023 include (but are not limited to):
+-Time in Artificial Intelligence
+-Time in Data Science
+-Temporal Logic and Reasoning
+-Spatial and temporal reasoning
+-Time in natural language processing
+-Reasoning about action and change
+-Complex event recognition and forecasting
+-Planning and planning languages
+-Ontologies of time and space-time
+-Belief and uncertainty in temporal knowledge
+-Temporal learning and discovery
+-Temporal data models and query languages
+-Temporal query processing and indexing
+-Temporal data mining
+-Time-series data management
+-Stream data management
+-Spatio-temporal data management, including moving objects
+-Data currency and expiration
+-Indeterminate and imprecise temporal data
+-Temporal constraints
+-Specification and verification of systems
+-Verification of software and web applications
+-Synthesis and execution
+-Model checking algorithms and implementations
+-Temporal logics for infinite-state systems
+-Runtime verification of temporal properties
+-Temporal aspects of agent- and policy-based systems
+-Temporal Networks
+
+*** Important Dates ***
+
+* Abstracts due: April 28, 2023
+* Papers due: May 5, 2023
+* Notification: June 16, 2023
+* Camera-ready version: July 14, 2023
+* Conference: September 25-26, 2023
+
+*** Programme Committee Chairs ***
+
+Alexander Artikis   University of Piraeus & NCSR Demokritos, Greece
+Florian Bruse       University of Kassel, Germany
+Luke Hunsberger     Vassar College, USA

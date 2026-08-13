@@ -1,0 +1,164 @@
+Dear Colleagues,
+
+The deadline for the 17th International Conference on Reachability Problems (RP'23)  is extended until 4 July 2023, so you still have time to submit your papers.
+
+https://www.lix.polytechnique.fr/RP2023
+Nice, France 11-13 October 2023
+Submission deadline: 4 July 2023
+
+Best regards,
+Igor
+
+------------------------
+The 17th International Conference on Reachability Problems (RP'23) will be organised by the laboratory I3S (Université Côte d'Azur, CNRS) and LIX (Ecole Polytechnique, CNRS).
+
+Website: https://www.lix.polytechnique.fr/RP2023
+
+In 2020 and 2021 the conference was virtual due to COVID restrictions. As in 2022, this year RP will be organised as a physical meeting in Nice, offering a possibility to authors with travel restrictions to give online presentations.
+
+Papers presenting original contributions related to reachability problems in different computational models and systems are being sought. This will also be the occasion to review recent breakthroughs by renowned invited experts and survey emerging trends and emphasise on key open challenges. Participants are kindly encouraged to discuss core scientific issues that need to be further tackled.
+
+The conference proceedings will be published in Springer's Lecture Notes in Computer Science (LNCS). A selection of articles among the contributed papers will be invited to a special issue of a journal (TBA).
+
+TOPICS
+
+The conference is specifically aimed at gathering together scholars from diverse disciplines and backgrounds interested in reachability problems that appear in
+
+Algebraic structures
+Automata theory and formal languages
+Computational game theory
+Concurrency and distributed computation
+Decision procedures in computational models
+Graphs and dynamical networks
+Hybrid dynamical systems
+Logic and model checking
+Verification of finite and infinite-state systems
+
+Topics of interest include (but are not limited to):
+
+- reachability problems in infinite-state systems,
+- rewriting systems, dynamical and hybrid systems;
+- reachability problems in computational games and distributed systems;
+- reachability problems in dynamical networks,
+- reachability problems in logic and verification;
+- reachability problems in formal methods;
+- reachability analysis in different computational models, counter timed/ cellular/ communicating automata;
+- Petri nets; computational and combinatorial aspects of algebraic structures (semigroups, groups and rings);
+- frontiers between decidable and undecidable reachability problems;
+- predictability in iterative maps and new computational paradigms.
+
+INVITED SPEAKERS
+
+Confirmed:
+
+- Nathalie Aubrun (CNRS, Paris-Saclay, France)
+- Jarkko Kari (University of Turku, Finland)
+- Bruno Martin (University of Nice, France)
+- Shinnosuke Seki (University of Electro-Communications, Japan)
+
+GUIDELINES FOR SUBMISSION.
+
+THERE ARE TWO CATEGORIES OF SUBMISSIONS:
+
+1) REGULAR PAPERS
+
+Authors are invited to submit an extended abstract of a full paper with at most 12 pages (excluding the bibliography and potential appendices) formatted according to the LNCS guidelines, through EasyChair: https://easychair.org/conferences/?conf=rp2023
+
+2) PRESENTATION-ONLY
+
+In addition to the formal presentations based on our LNCS proceedings volume, we invite researchers to submit a paper which recently appeared (or which is going to appear) in proceedings of another conference, or which has not yet been submitted. Neither the paper nor the abstract will be published in the proceedings.
+
+IMPORTANT DATES
+
+Abstract of full papers: 4 July 2023 (EXTENDED)
+Full papers: 4 July 2023 (EXTENDED)
+Notification: 13 August 2023
+Final Version: 20 August 2023
+
+Presentation-only papers
+
+- Abstracts: 23 August 2023
+- Notification: 30 August 2023
+
+RP CONFERENCE: OCTOBER 11-13, 2023
+
+CONFERENCE CHAIRS:
+
+- Olivier Bournez (IP Paris, Ecole Polytechnique, FR)
+- Enrico Formenti (Univ. Côté d'Azur, FR)
+- Igor Potapov, University of Liverpool - Publication chair
+
+PROGRAM COMMITTEE:
+
+- Parosh Aziz Abdulla (Uppsala University, Sweden)
+- Udi Boker (Reichman University, Herzliya, Israel)
+- Christel Baier (Technical University of Dresden, Germany)
+- Veronica Becher (Universidad de Buenos Aires, Argentina)
+- Benedikt Bollig (CNRS, LMF, ENS Paris-Saclay, France)
+- Olivier Bournez (Ecole Polytechnique, LIX, IPP, France)
+- Emilie Charlier (Université de Liège Belgium)
+- Stéphane Demri (CNRS, LMF, ENS Paris-Saclay, France)
+- Javier Esparza (Technical University of Munich, Germany)
+- Enrico Formenti (Université Côte d'Azur, France)
+- Gilles Geeraerts (Université libre de Bruxelles, Belgium)
+- Roberto Giacobazzi (University of Verona, Italy)
+- Daniel Graça (University of Algarve, Portugal)
+- Christoph Haase (University of Oxford, United Kingdon)
+- Peter Habermehl (IRIF, Université Paris Cité, France)
+- Vesa Halava (University of Turku, Finland)
+- Mika Hirvensalo (Department of Mathematics and Statistics, University of Turku, Finland)
+- Akitoshi Kawamura (Kyoto Univeristy, Japan)
+- Dietrich Kuske (Technical University of Ilmenau, Germany)
+- Martin Kutrib (University of Giessen, Germany)
+- Jérôme Leroux (CNRS, LaBRI, Université de Bordeaux, France)
+- Igor Potapov (University of Liverpool, United Kingdom)
+- Tali (Nathalie) Sznajder (LIP6, Sorbonne Université, France)
+
+STEERING COMMITTEE
+
+- Parosh Aziz Abdulla (SE)
+- Olivier Bournez (FR)
+- Vesa Halava (FI)
+- Alain Finkel (FR)
+- Oscar Ibarra (USA)
+- Juhani Karhumaki (FI)
+- Jérôme Leroux (FR)
+- Joël Ouaknine (GER)
+- Igor Potapov (UK)
+- James Worrell (UK)
+
+PREVIOUS EVENTS:
+
+2022: RP'22 in Kaiserlautern, DE
+LNCS proceedings volume 13608/2022, Springer Verlag
+2021: RP'21 in Liverpool, UK
+LNCS proceedings volume 13035/2021, Springer Verlag
+2020: RP'20 in Paris, France
+LNCS proceedings volume 12448/2020, Springer Verlag
+2019: RP'19 in Brussels, Belgium
+LNCS proceedings volume 11674/2019, Springer Verlag
+2018: RP'18 in Marseille, France,
+LNCS proceedings volume 11123/2018, Springer Verlag
+2017: RP'17 in London, UK,
+LNCS proceedings volume 10506/2017, Springer Verlag
+2016: RP'16 in Aalborg, Denmark,
+LNCS proceedings volume 9328/2016, Springer Verlag
+2015: RP'15 in Warsaw, Poland
+LNCS proceedings, Volume 9328/2015, Springer Verlag
+2014: RP'14 in Oxford, UK
+LNCS proceedings, Volume 8762/2014, Springer Verlag
+2013: RP’13 in Uppsala, Sweden
+LNCS proceedings, Volume 8169/2013, Springer Verlag
+2012: RP’12 in Bordeaux, France
+LNCS proceedings, Volume 7550/2012, Springer Verlag
+2011: RP'11 in Genova, Italy
+LNCS proceedings, Volume 6945/2011, Springer Verlag
+2010: RP'10 in Brno, Czech Republic
+LNCS proceedings, Volume 6227/2010, Springer Verlag
+2009: RP'09 in Palaiseau, France
+LNCS proceedings, Volume 5797/2009, Springer Verlag
+2008: RP'08 in Liverpool, UK
+ENTCS proceedings, Volume 223, Elsevier
+2007: RP'07 in Turku, Finland
+TUCS General Publication Series, Volume 45, TUCS,
+Turku Centre for Computer Science

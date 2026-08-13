@@ -1,0 +1,66 @@
+Bonjour à toutes et à tous,
+
+nous avons le plaisir d'annoncer les journées AFADL 2025 qui auront lieu les 17 et 18 juin à Pau, conjointement avec les journées du GDR GPL à Pau du 16 au 19 juin 2025.
+
+Les journées AFADL - Approches Formelles pour l'Assistance au Développement de Logiciels - ont pour objectif de rassembler de nombreux acteurs académiques et industriels intéressés par la mise en œuvre des techniques formelles aux divers stades du développement des logiciels et/ou des systèmes.
+
+Appel à contribution
+
+AFADL 2025 a pour objectif de rassembler de nombreux acteurs académiques et industriels intéressés par la mise en œuvre des techniques formelles aux divers stades du développement des logiciels et/ou des systèmes.
+
+Objectif
+
+Les journées AFADL ont pour but de mettre en valeur les travaux récents effectués autour des thèmes suivants :
+
+    Les techniques et outils formels contribuant à assurer un bon niveau de confiance dans la construction de logiciels et de systèmes ;
+    Les méthodes et processus permettant d’exploiter efficacement les techniques et outils formels disponibles ou conçus ;
+    Les méthodes et processus de développement mettant en œuvre des techniques formelles ;
+    Les leçons tirées de la mise en œuvre de ces outils ou principes sur des études de cas ou des applications industrielles.
+
+Les techniques et outils visés assistent notamment les activités suivantes : la modélisation, la validation et la gestion d’exigences formelles applicables aux logiciels, les spécialisations ou extensions de techniques de modélisation et d’évaluation induites par des domaines applicatifs (systèmes interactifs, architectures, composition de services/composants, applications distribuées sur le web, télécommunication, contrôle-commande, robotique, etc.). Elles permettent de combiner ou de comparer des points de vue particuliers sur les systèmes (sécurité informatique, exécution temps réel, etc.). Elles facilitent le passage d’une étape de conception à la suivante : patrons de raffinement de spécifications, déploiement d’une architecture logicielle sur une architecture matérielle, génération automatique de code, réutilisation de composants, le test et l’évaluation rigoureuse de modèles formels ou codes, la spécification et la vérification formelles d’architectures, de modèles et de programmes.
+
+On s’intéressera aussi à la combinaison d’approches formelles avec des approches informelles ou semi-formelles ou à la coopération de techniques formelles de développement avec des techniques plus classiques (par exemple à la complémentarité vérification formelle / test pour les aspects V&V), aussi bien qu’à l’adaptation des approches formelles aux techniques d’apprentissage automatique et au domaine de l’informatique quantique.
+
+ Contributions
+
+Cinq types de contributions sont attendus qui seront toutes publiées dans les actes AFADL :
+
+** Recherche originale (4-8 pages)
+
+Un article de cette catégorie présente une problématique de recherche académique ou industrielle et des résultats non encore publiés, de façon ciblée pour la communauté francophone. Des articles courts sont acceptables s’ils correspondent à la présentation motivée d’un problème et de travaux en cours, d’un point de vue ou d’une approche émergente ou d’expériences industrielles.
+
+** Session doctorants (2-4 pages)
+
+Pour permettre aux doctorants de présenter leurs travaux en cours et d’avoir un retour de la communauté, le comité de programme invite les doctorants à soumettre un papier présentant leur problématique et leurs résultats préliminaires ou déjà publiés. Les doctorants retenus pour cette session pourront faire une demande de bourse pour participer aux journées.
+
+** Démonstrations d’outils (2-4 pages)
+
+Un article de démonstration d’outil vise à présenter l’originalité, la pertinence et les performances d’un outil de recherche académique ou industrielle. L’article précisera les noms des auteurs, le nom de l’outil, les services offerts par l’outil et éventuellement des pointeurs vers des sources d’informations complémentaires (principes techniques sous-jacents, mode d’emploi, compte-rendu d’application, …). Celui-ci pourra, selon le désir des auteurs, être couplé ou non à un poster outil aux journées du GDR.
+
+** Présentations de projets (2-4 pages)
+
+Il s’agit de présenter un projet accepté, d’envergure nationale ou internationale, ainsi que certains résultats obtenus dans ce projet. L’article mentionnera les noms des partenaires, l’agence de financement, les objectifs et les dates du projet.
+
+** Résumés longs (2-4 pages)
+
+Ce sont des présentations de recherches publiées récemment. Pour éviter que les meilleurs travaux de la communauté francophone soient uniquement présentés dans les conférences ou revues internationales, le comité de programme invite tout membre de la communauté ayant un article en cours de soumission ou récemment accepté (depuis l’édition précédente) à une conférence ou revue internationale à le soumettre également à AFADL pour présentation. La référence bibliographique du travail d’origine devra être indiquée lors de la soumission, ainsi que le statut du papier (soumis ou accepté).
+
+Dates
+
+Soumission des résumés        Lundi 31 mars 2025
+Date limite de soumission     Lundi 7 avril 2025
+Notification aux auteurs        Mardi 20 mai 2025
+Version finale des articles     Mardi 27 mai 2025
+
+Responsables AFADL 2025
+
+    Fabien Dagnat, IMT Atlantique, Brest
+    Olga Kouchnarenko, Université Marie et Louis Pasteur, Besançon
+
+Comité de Programme
+
+En cours de constitution
+
+Soumission
+
+Le choix d’une plateforme de soumission est en cours, en coordination avec les sessions des journées du GDR GPL.

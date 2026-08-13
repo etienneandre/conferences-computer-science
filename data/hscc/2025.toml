@@ -29,3 +29,7 @@ award = "Best paper award, Test-Of-Time Award, best RE award"
 [extra]
 colocated = "Part of CPS-IoT Week."
 notes = "Regular papers and tool/case study papers can both be long or short."
+
+[[cfp]]
+file = "cfp/HSCC-2025.txt"
+stage = "initial"

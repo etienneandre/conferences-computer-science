@@ -1,0 +1,122 @@
+40th IEEE/ACM International Conference on Automated Software Engineering
+(ASE 2025)
+
+Sun 16 November 2025 - Thu 20 November 2025, Seoul, South Korea
+
+https://conf.researchr.org/home/ase-2025
+
+The ASE conference is the premier research forum for Automated Software
+Engineering. Each year, it brings together researchers and practitioners
+from academia and industry to discuss foundations, techniques, and tools
+for automating the analysis, design, implementation, testing,  and
+maintenance of large software systems.
+
+
+Call for Papers
+
+=========================================================
+
+Research Papers
+
+The IEEE/ACM Automated Software Engineering (ASE) Conference series is the
+premier research forum for automated software engineering. Each year, it
+brings together researchers and practitioners from academia and industry to
+discuss foundations, techniques, and tools for automating the analysis,
+design, implementation, testing, and maintenance of large software systems.
+ASE 2025 invites high-quality contributions describing significant,
+original, and unpublished results.
+
+Paper Submission Deadline: Fri 30 May 2025
+Initial Notification: Thu 14 Aug 2025
+Notification for Major Revisions: Thu 25 Sep 2025
+
+https://conf.researchr.org/track/ase-2025/ase-2025-papers
+
+=========================================================
+
+Tool Demonstrations
+
+The ASE 2025 Demonstrations Track invites researchers and practitioners
+to present and discuss the most recent advances, experiences, and
+challenges in the field of software engineering supported by live
+presentations of new research tools, data, and other artifacts. We
+encourage innovative research demonstrations, which show early
+implementations of novel software engineering concepts, as well as mature
+prototypes. The research demonstrations are intended to highlight
+underlying scientific contributions.
+
+Submission deadline: Sat 12 Jul 2025
+Notification of Acceptance: Thu 7 Aug 2025
+
+https://conf.researchr.org/track/ase-2025/ase-2025-nier-track
+
+=========================================================
+
+Workshops
+
+Workshops at ASE provide an opportunity for exchanging views, advancing
+ideas, and discussing preliminary results on topics related to
+Automated Software Engineering. Workshops can also serve as platforms to
+nurture new scientific communities. Workshops should not be seen as an
+alternative forum for presenting full research papers.
+
+Workshop Proposal Submission: Fri 4 Apr 2025
+Workshop Proposal Notification: Fri 25 Apr 2025
+Workshop Paper Submission: Thu 26 Aug 2025
+Workshop Paper Notification: Fri 26 Sep 2025
+
+https://conf.researchr.org/track/ase-2025/ase-2025-workshops
+
+=========================================================
+
+NIER Track
+
+The New Ideas and Emerging Results (NIER) track at ASE provides a vibrant
+forum for forward-looking, innovative research in software engineering.
+The main goal of the NIER track is to accelerate the exposure of the
+software engineering community to early yet potentially ground-breaking
+research results, techniques and perspectives that challenge the status quo
+in the
+discipline.
+
+Paper Submission: Sat 12 Jul 2025
+Author Notification: Thu 7 Aug 2025
+
+https://conf.researchr.org/track/ase-2025/ase-2025-nier-track
+
+=========================================================
+
+Journal-first Papers
+
+ASE is inviting journal-first presentations for papers published recently
+in prestigious software engineering journals. This will both enrich the
+ASE program as well as offer the authors an opportunity to speak to
+the community. The journal-first manuscripts are published through the
+journals and will not be part of the ASE proceedings. The journal-first
+papers will be listed in the conference program. At least one author of
+each presentation accepted for the journal-first program must register
+and attend the conference to present the paper.
+
+Paper Submission: Mon 1 Sep 2025
+Author Notification: Mon 29 Sep 2025
+
+https://conf.researchr.org/track/ase-2025/ase-2025-journal-first-track
+
+=========================================================
+
+Industry Showcase
+
+The ASE 2025 Industry Showcase track invites industry practitioners and
+academic researchers to submit innovative solutions and/or
+challenging problems in any topic relevant to automated software
+engineering.
+
+Submission deadline: Fri 1 Aug 2025
+Notification of acceptance: Fri 3 Oct 2025
+
+https://conf.researchr.org/track/ase-2025/ase-2025-industry-showcase
+
+=========================================================
+
+For other tracks, such as Doctoral Symposium, New Faculty Symposium, and
+other information, please refer to the conference webpage.

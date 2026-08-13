@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "Rebuttal period: March 9-11, 2020"
+
+[[cfp]]
+file = "cfp/ISORC-2020.txt"
+stage = "initial"

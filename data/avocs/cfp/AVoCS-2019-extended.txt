@@ -1,0 +1,141 @@
+-----------------------------------------------------------------
+
+                         AVoCS 2019
+                19th International Workshop on
+          Automated Verification of Critical Systems
+
+       September 30 - October 1, 2019, Grenoble, France
+                    http://avocs19.imag.fr/
+
+                   2nd Call for Papers
+
+-----------------------------------------------------------------
+
+The aim of the AVoCS workshop series is to contribute to the
+interaction and exchange of ideas among members of the
+international research community on tools and techniques for the
+verification of critical systems. In particular, AVoCS 2019 aims
+to bring together scientists and engineers that are active in the
+area of formal methods, develop tools and techniques for the
+automated verification of critical systems, and are interested in
+exchanging their experiences in the industrial usage of these
+methods and tools.
+
+The subject is to be interpreted broadly and inclusively. It
+covers all aspects of automated verification, including model
+checking, theorem proving, SAT/SMT constraint solving, abstract
+interpretation, and refinement pertaining to various types of
+critical systems which need to meet stringent dependability
+requirements (safety-critical, business-critical,
+performance-critical, etc.). Contributions that describe
+different techniques or industrial case studies are encouraged.
+
+The technical programme will consist of invited and contributed
+talks and also allows for short presentations of research
+ideas. The workshop will be relatively informal, with an emphasis
+on discussion where special discussion sessions will be organised
+around the research ideas presentations.
+
+*Submission* *Guidelines*
+
+Submissions of full papers to the workshop must not have been
+published or be concurrently considered for publication
+elsewhere. All submissions will be peer-reviewed and judged on
+the basis of originality, contribution to the field, technical
+and presentation quality, and relevance to the
+workshop. Submissions are handled via Easychair:
+
+   https://easychair.org/conferences/?conf=avocs19
+
+The papers must be written in English and should not exceed 15
+pages, not counting references and appendices, in Springer LNCS
+format.
+
+AVoCS also encourages the submissions of research ideas in order
+to stimulate discussions at the workshop. Reports on ongoing work
+or surveys on work published elsewhere are welcome. The Programme
+Committee will select research ideas on the basis of submitted
+abstracts according to significance and general
+interest. Research ideas must be written in English and not
+exceed 2 pages using the Springer LNCS format. The presentation
+of these ideas will be organised around discussions, where the
+presenter should also prepare a set of questions in which the
+audience will discuss.
+
+*List* *of* *Topics*
+
+   Model Checking
+   Automatic and Interactive Theorem Proving
+   SAT, SMT or Constraint Solving for Verification
+   Abstract Interpretation
+   Specification and Refinement
+   Requirements Capture and Analysis
+   Verification of Software and Hardware
+   Specification and Verification of Fault Tolerance
+     and Resilience
+   Probabilistic and Real-Time Systems
+   Dependable Systems
+   Verified System Development
+   Industrial Applications
+
+*Important* *Dates* *Updated*
+
+   Abstract submission deadline:      09 June 2019
+   Paper submission deadline:         16 June 2019
+   Author notification:               07 July 2019
+   Camera-ready paper versions due:   21 July 2019
+
+*Committees*
+
+*Program* *Committee*
+
+   Maurice H. ter Beek, ISTI-CNR, Pisa, Italy
+   Saddek Bensalem, University Grenoble Alpes, Verimag, France (chair)
+   Marius Bozga, CNRS, Verimag, Grenoble, France (co-chair)
+   Tom van Dijk, University of Twente, The Netherlands
+   Iulia Dragomir, GMV Aerospace and Defence, Spain
+   Bart Jacobs, Katholieke Universiteit Leuven, Belgium
+   Michael Leuschel, University of Düsseldorf, Germany
+   Stephan Merz, Inria Nancy/LORIA, France
+   Ayoub Nouri, Huawei, France
+   Andrew Reynolds, University of Iowa, USA
+   Markus Roggenbach, Swansea University, UK
+   Mihaela Sighireanu, IRIF, University Paris Diderot and CNRS, France
+   Caterina Urban, INRIA, France
+   Florian Zuleger, Vienna University of Technology, Austria
+
+*Steering* *Committee*
+
+   Michael Goldsmith, University of Oxford, UK
+   Stephan Merz, INRIA Nancy & LORIA, France
+   Markus Roggenbach, Swansea University, UK
+
+*Publication*
+
+At the workshop, pre-proceedings will be available in the form of
+a pre-proceedings report; this report will also include the
+research ideas.  After the workshop, the authors of accepted full
+papers will have about one month in order to revise their papers
+for publication in the workshop post-proceedings which will
+appear in the Electronic Communications of the EASST Open Access
+Journal.  Research ideas will not be part of the proceedings in
+the Open Access Journal.
+
+Authors of a selection of the best papers presented at the
+workshop will be invited to submit extended versions of their
+work for publication in a special issue of Elsevier's journal
+Science of Computer Programming.
+
+*Venue*
+
+The event will be held in auditorium of the IMAG building at
+
+   Bâtiment IMAG,
+   Université Grenoble Alpes,
+   700, Avenue Centrale
+   38401 Saint Martin d'Hères
+   France
+
+*Contact*
+
+All questions about submissions should be emailed to avocs19@easychair.org.

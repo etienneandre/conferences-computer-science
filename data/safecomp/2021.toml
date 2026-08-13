@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "The theme for 2021 is safe human-robotic and autonomous system (RAS) interaction."
+
+[[cfp]]
+file = "cfp/SAFECOMP-2021.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SAFECOMP-2021.txt"
+stage = "initial"

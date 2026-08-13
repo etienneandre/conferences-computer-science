@@ -1,0 +1,92 @@
+=================
+AFADL 2024 - https://gdrgpl2024.sciencesconf.org/resource/page/id/4
+Approches Formelles dans l’Assistance au Développement de Logiciels (AFADL 2024) se tiendra conjointement aux journées du GDR-GPL à Strasbourg,  du 3 au 6 juin 2024
+
+Objectif
+Les journées AFADL ont pour objectif de rassembler de nombreux acteurs académiques et industriels intéressés par la mise en œuvre des techniques formelles aux divers stades du développement des logiciels et/ou des systèmes. Elles ont pour but de mettre en valeur les travaux récents effectués autour de thèmes comme :
+● Les techniques et outils formels contribuant à assurer un bon niveau de confiance dans la construction de logiciels et de systèmes ;
+● Les méthodes et processus permettant d’exploiter efficacement les techniques et outils formels disponibles ou conçus ;
+● Les méthodes et processus mettant en œuvre des techniques formelles différentes et hétérogènes dans un développement ;
+● Les leçons tirées de la mise en œuvre de ces outils ou principes sur des études de cas ou des applications industrielles.
+Les techniques et outils présentés assistent notamment les activités suivantes : la modélisation, la validation et la gestion d’exigences formelles applicables aux logiciels, les spécialisations ou extensions de techniques de modélisation et d’évaluation induites par des domaines applicatifs (télécommunication, contrôle-commande, robotiques, systèmes interactifs, architectures, composition de services, applications distribuées sur le web, …) ou des points de vue particuliers sur les systèmes (sécurité informatique, exécution temps réel, …), le passage d’une étape de conception à la suivante : patrons de raffinement de spécifications, déploiement d’une architecture logicielle sur une architecture matérielle, génération automatique de code, réutilisation de composants, le test et l’évaluation rigoureuse de modèles formels ou codes, la spécification et la vérification formelles d’architectures, de modèles et de programmes.
+On s’intéressera aussi à la combinaison d’approches formelles avec des approches informelles ou semi-formelles ou à la coopération de techniques formelles de développement avec des techniques plus classiques (par exemple à la complémentarité vérification formelle / test pour les aspects V&V), aussi bien qu’à l’adaptation des approches formelles aux techniques d’apprentissage automatique et au domaine de l’informatique quantique.
+
+Contributions
+Cinq sortes de contributions sont attendues ; elles seront toutes publiées dans les actes de la conférence :
+** Recherche originale (4-8 pages)
+Un tel article présente une problématique de recherche académique ou industrielle et des résultats non encore publiés, de façon ciblée pour la communauté francophone. Des articles courts sont acceptables s’ils correspondent à la présentation motivée d’un problème et de travaux en cours, d’un point de vue ou d’une approche émergente ou d’expériences industrielles.
+
+** Session doctorants (2-4 pages)
+Pour permettre aux doctorants de présenter leurs travaux en cours et d’avoir un retour de la communauté, le comité de programme invite les doctorants à soumettre un papier présentant leur problématique et leurs résultats préliminaires ou déjà publiés. Les doctorants retenus pour cette session pourront faire une demande de bourse pour participer aux journées.
+
+** Démonstrations d’outils (2-4 pages)
+Un article de démonstration d’outil vise à présenter l’originalité, la pertinence et les performances d’un outil de recherche académique ou industrielle. L’article précisera les noms des auteurs, le nom de l’outil, les services offerts par l’outil et éventuellement des pointeurs vers des sources d’informations complémentaires (principes techniques sous-jacents, mode d’emploi, compte-rendu d’application, …). Celui-ci pourra, selon le désir des auteurs, être couplé ou non à un poster outil aux journées du GDR.
+
+** Présentations de projets (2-4p)
+Il s’agit de présenter un projet accepté, d’envergure nationale ou internationale, ainsi que quelques uns des résultats obtenus dans ce projet. L’article mentionnera les noms des partenaires, l’agence de financement, les objectifs et les dates du projet.
+
+** Résumés longs (2-4p)
+Ce sont des présentations de recherches publiées récemment. Pour éviter que les meilleurs travaux de la communauté francophone soient uniquement présentés dans les conférences ou revues internationales, le comité de programme invite tout membre de la communauté ayant un article en cours de soumission ou récemment accepté (depuis l’édition précédente) à une conférence ou revue internationale à le soumettre également à AFADL pour présentation. La référence bibliographique du travail d’origine devra être indiquée lors de la soumission, ainsi que le statut du papier (soumis ou accepté).
+
+Dates
+Soumission des résumés Vendredi 5 avril 2024
+Date limite de soumission Vendredi 19 avril 2024
+Notification aux auteurs Mardi 21 mai 2024
+Version finale des articles Mardi 28 mai 2024
+
+Soumissions
+Les contributions sont à soumettre via (voir le site https://gdrgpl2024.sciencesconf.org/resource/page/id/4)
+Le format des documents doit être analogue au format latex A4, times, french, 11pt, sans numéros de pages :
+\documentclass[a4paper, french, 11pt]{article}
+\usepackage{times}
+\pagestyle{empty}
+
+Comité de Programme
+Yamine Aït Ameur , IRIT, ENSEEIHT
+Rabea Ameur-Boulifa , Télécom Paris
+Christian Attiogbé , LS2N, Nantes Université
+Sandrine Blazy , Irisa, Université de Rennes 1
+David Deharbe , ClearSy
+David Delahaye , LIRMM, Université de Montpellier
+Catherine Dubois , ENSIIE-Samovar
+Mohammed Foughali , IRIF, Université Paris Cité
+Marc Frappier , Université de Sherbrooke
+Hugo Gimbert , LaBRI, CNRS, Bordeaux
+Alain Giorgetti , Université de Franche-Comté
+Pierre-Cyrille Heam , FEMTO-ST, Univ. de Bourgogne Franche-Comté
+Ludovic Henrio , LIP Laboratory, ENS Lyon
+Olivier Hermant , MINES ParisTech
+Akram Idani , LIG, Grenoble INP
+Mathieu Jaume , LIP6, Sorbonne Université / UPMC
+Nikolai Kosmatov , Thalès, CEA List
+Thomas Lambolais , LGI2P, Mines Alès
+Pascale Le Gall , MICS, CentraleSupélec, Université Paris-Saclay
+Nicole Levy , Cedric, CNAM
+Mehdi Lhommeau , ISTIA, Université d'Angers
+Delphine Longuet , Thales Research & Technology
+Micaela Mayero , LIPN, Université Paris Nord
+Stephan Merz , Inria Nancy
+David Monniaux , VERIMAG, CNRS
+Ileana Ober , IRIT, Université Toulouse 3 Paul Sabatier
+Ioannis Parissis , Grenoble INP, Univ. Grenoble Alpes
+Celia Picard , ENAC, Toulouse
+Pascal Poizat , LIP6, Université Paris Nanterre
+Thomas Polacsek , ONERA, Toulouse
+Marc Pouzet , DIENS, ENS Paris
+Jean-Baptiste Raclet , IRIT
+Antoine Rollet , LaBRI, Université de Bordeaux
+Romain Rouvoy , Cristal, Université de Lille
+Vlad Rusu , INRIA
+Sebastien Salva , LIMOS, Université Clermont Auvergne
+Julien Signoles , CEA-LIST, Paris
+Benoit Valiron , LMF, CentraleSupélec
+Laurent Voisin , Systerel
+Virginie Wiels , ONERA / DTIM
+Fatiha Zaidi , LMF, Université Paris Saclay
+Tewfik Ziadi , LIP6, Sorbonne Université
+Contacts
+Les responsables des journées sont :
+   - Sophie Ebersold, IRIT, Université de Toulouse
+   - Idir Ait Sadoune, LMF, Université de Paris-Saclay
+
+=====================

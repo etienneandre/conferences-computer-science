@@ -25,3 +25,11 @@ gender_balance = "male-only"
 [extra]
 journal = "The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP)"
 notes = "Ranked \"national Chinese conference\" by CORE (since 2020). Often in China."
+
+[[cfp]]
+file = "cfp/TASE-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TASE-2025-extended.txt"
+stage = "extended"

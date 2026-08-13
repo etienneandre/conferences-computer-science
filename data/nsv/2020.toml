@@ -22,3 +22,7 @@ rate = 57.0
 
 [extra]
 notes = "Co-located with CAV 2020."
+
+[[cfp]]
+file = "cfp/NSV-2020.txt"
+stage = "initial"

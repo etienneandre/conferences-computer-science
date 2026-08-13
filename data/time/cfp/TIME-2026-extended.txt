@@ -1,0 +1,57 @@
+Call for Papers - 33rd International Symposium on Temporal Representation and Reasoning (TIME 2026) 1-3 September 2026, Cork, Ireland.
+
+Apologies for multiple copies
+
+*** Call for Papers ***
+
+33rd International Symposium on Temporal Representation and Reasoning (TIME 2026)
+1-3 September 2026, Cork, Ireland.
+https://time26.cnr.it/
+
+Co-located with the 37th International Conference on Principles of Diagnosis and Resilient Systems (DX’26)
+
+*** PAPER SUBMISSION DEADLINE EXTENDED: May 22, 2026!! ***
+
+TIME has been for more than twenty years the only yearly multidisciplinary international event dedicated to the topic of time in computer science. The purpose of the symposium is to bring together active researchers in different scientific fields involving temporal and spatio-temporal data, information and/or knowledge management. Such a concern arises in a number of different though often related research domains, namely Artificial Intelligence (both symbolic approaches based on explicit Logic or Constraint-based models, and numerical data-based approaches such as Deep Learning and Large Language Models), Databases and Data Mining, or System Specification and Verification.
+
+TIME 2026 is co-located with the 37th International Conference on Principles of Diagnosis and Resilient Systems (DX’26) and it will be from the 1st to the 3rd of September 2026 at the University College of Cork.
+
+More details about TIME and the previous editions of this symposium can be found via the following link: https://time-symposium.org/.
+
+Topics of interest
+Temporal Specifications, Verification, Synthesis, Planning  (Spatio-temporal representation and reasoning models including moving objects tracking, Temporal Logics for finite and infinite state system, Model checking with temporal issue, Runtime verification, Temporal constraint models and satisfiability, Action and change, Temporal Scheduling, Controller synthesis)
+Diagnosis and Supervision of Real-Time systems (Timed Automata, Timed Petri nets, Timed Games)
+Time in Machine Learning and Generative Artificial Intelligence (Neural networks, Deep/Reinforcement learning, LLMs and Natural Language Processing)
+Notable aspects of time in agent- and policy-based systems (Multi-agent systems, Markov decision processes, agentic AI frameworks)
+Temporal Data (sensing, discovery, mining, temporal databases and dedicated query languages, uncertain/indeterminate/imprecise temporal data, temporal data learning)
+Temporal Graphs, Networks (Bayesian network, Neural networks,)
+Event and Pattern recognition (including time series and temporal chronicles)
+
+The list above is by no means exhaustive, as the aim is to foster the debate around all aspects of time in automation.
+
+Important dates
+** May 18, 2026: Abstract submission deadline (was May 06) **
+** May 22, 2026 Paper submission deadline (was May 11) **
+June 22, 2026: Paper acceptance/rejection notification date
+July 24, 2026: Camera-ready submission deadline
+September 01–03, 2026: Symposium dates
+
+Note: all deadlines are AoE (Anywhere on Earth).
+
+Submission guidelines
+TIME 2026 accepts submissions in PDF format, formatted following the Open Access Series in Informatics (OASIcs) and preferably using LaTeX. TIME policy is single blind, so the names of the authors need not be hidden in the submitted draft. Members of the program committee are allowed to submit papers. Submitted papers will be refereed for quality, correctness, originality, and relevance to the symposium. At least one author of each accepted paper must register at the symposium and present the paper.
+
+We use EasyChair throughout the submission and selection process. The webpage for submitting papers with all required information can be found here.
+
+There are three types of submissions, and the authors are invited to specify under which one their paper lies:
+1) Original papers (12 pages, excluding references and appendix): such papers describe original, non-published contributions. It includes theoretical (new algorithms, proofs, models) and applied (applications, system descriptions, evaluation) contributions.
+2) Survey papers (12 pages, excluding references and appendix): such papers are intended to propose a short review of a complete domain of research.
+3) Extended abstracts (4 pages, excluding references and appendix): such abstracts are intended to foster debates during the symposium and include: work-in-progress, project kick-off or review, PhD summary, and summary of a paper accepted in a major conference or journal. They will be specifically mentioned in the proceedings as abstracts and not full papers.
+
+The proceedings of TIME are planned to be published in the Open Access Series in Informatics (OASIcs). This is a series of high-quality peer-reviewed conference proceedings, and published according to the principle of OpenAccess.
+
+Finally, the authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in a high ranked journal; more details will be provided in due time.
+
+Please contact the program chairs for more information:
+Andrea Orlandini and Sophie Pinchinat
+Email: time2026@easychair.org

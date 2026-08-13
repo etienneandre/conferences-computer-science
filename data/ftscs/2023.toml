@@ -22,3 +22,15 @@ blind = "single"
 [extra]
 colocated = "An OOPSLA/SPLASH 2023 workshop."
 notes = "Work in progress will not be published in the post-proceedings."
+
+[[cfp]]
+file = "cfp/FTSCS-2023.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FTSCS-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FTSCS-2023-extended.txt"
+stage = "extended"

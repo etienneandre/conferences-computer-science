@@ -26,3 +26,11 @@ gender_balance = "mixed"
 [extra]
 journal = "The authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in a high ranked journal; more details will be provided in due time."
 colocated = "Co-located with the 37th International Conference on Principles of Diagnosis and Resilient Systems (DX’26)"
+
+[[cfp]]
+file = "cfp/TIME-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TIME-2026-extended.txt"
+stage = "extended"

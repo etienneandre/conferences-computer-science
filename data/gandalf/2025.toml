@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Authors of selected papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science."
+
+[[cfp]]
+file = "cfp/GandALF-2025.txt"
+stage = "initial"

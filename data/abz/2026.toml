@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [review]
 gender_balance = "mixed"
+
+[[cfp]]
+file = "cfp/ABZ-2026.txt"
+stage = "initial"

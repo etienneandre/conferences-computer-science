@@ -1,0 +1,68 @@
+Call for Papers - Computer Science Logic (CSL 2020)
+13-16 January 2020, Barcelona, Spain
+
+Paper Submission: 4 July 2019
+https://easychair.org/cfp/CSL2020
+
+Computer Science Logic (CSL) is the annual conference of the European Association for Computer Science Logic (EACSL). It is an interdisciplinary conference, spanning across both basic and application oriented research in mathematical logic and computer science. 
+
+Submission Guidelines:
+Submitted papers must be in English and must provide sufficient detail to allow the Programme Committee to assess the merits of the paper. Full proofs may appear in a clearly marked technical appendix which will be read at the reviewers' discretion. Authors are strongly encouraged to include a well written introduction which is directed at all members of the PC.
+
+The CSL 2020 conference proceedings will be published by LIPIcs. Authors are invited to submit contributed papers of no more than 15 pages in LIPIcs style (not including references), presenting unpublished work fitting the scope of the conference. Papers may not be submitted concurrently to another conference with refereed proceedings. The PC chairs should be informed of closely related work submitted to a conference or a journal. Papers authored or co-authored by members of the PC are not allowed.
+
+Dates:
+paper submission: 4 July 2019
+notifications: 30 September 2019
+
+Invited Speakers
+Veronique Cortier, LORIA, France
+Anuj Dawar, University of Cambridge, UK
+Artur Jez, University of Wroclaw, Poland
+Delia Kesner, University Paris Diderot, France
+Iddo Tzameret, Royal Holloway, UK
+
+Program Committee
+Sandra Alves, University of Porto, Portugal
+Takahito Aoto, Niigata University, Japan
+Albert Atserias, Technical University of Catalonia, Spain
+Manuel Bodirsky, TU Dresden, Germany
+James Brotherston, University College London, UK
+Rohit Chadha, University of Missouri, USA
+Krishnendu Chatterjee, Institute of Science and Technology, Austria
+Adriana Compagnoni, Stevens Institute of Technology, USA
+Arnaud Durand, University Paris Diderot, France
+Maribel Fernandez, King's College London, UK (co-chair)
+Bernd Finkbeiner, Saarland University, Germany
+Masahito Hasegawa, Kyoto University, Japan
+Dietrich Kuske, TU Ilmenau, Germany
+Salvador Lucas, Technical University of Valencia, Spain
+Angelo Montanari, University of Udine, Italy
+Anca Muscholl, University of Bordeaux, France (co-chair)
+Prakash Panangaden, McGill University, Canada
+Elaine Pimentel, University of Rio Grande do Norte, Brazil
+Damien Pous, CNRS - ENS Lyon, France
+Femke van Raamsdonk, Vrije Universiteit Amsterdam, Netherlands
+Simona Ronchi Della Rocca, University of Torino, Italy
+Manfred Schmidt-Schauss, Goethe University, Germany
+Lutz Schröder, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
+Lidia Tendera, Opole University, Poland
+Szymon Torunczyk, University of Warsaw, Poland
+Glynn Winskel, University of Cambridge, UK
+
+Organizing committee
+Albert Atserias, Technical University of Catalonia (co-chair)
+Ilario Bonacina, Technical University of Catalonia
+Michal Garlik, Technical University of Catalonia 
+Tuomas Hakoniemi, Technical University of Catalonia 
+Juan Carlos Martínez, University of Barcelona (co-chair)
+Moritz Müller, Technical University of Catalonia 
+
+
+Venue
+The conference will be held in the University of Barcelona, Spain.
+
+Contact
+All questions about submissions should be emailed to the PC co-chairs:
+Maribel Fernandez:  Maribel.Fernandez@kcl.ac.uk
+Anca Muscholl:  anca@labri.fr

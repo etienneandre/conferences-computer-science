@@ -19,3 +19,7 @@ license = "free"
 
 [extra]
 notes = "Mainly for PhD students. Most presentations in French. Every two years."
+
+[[cfp]]
+file = "cfp/ETR-2021.pdf"
+stage = "initial"

@@ -1,0 +1,140 @@
+CALL FOR CONTRIBUTIONS
+ 
+                 43rd International Symposium on
+            Mathematical Foundations of Computer Science
+                            MFCS 2018
+                Liverpool, UK, August 27-31, 2018
+ 
+                    http://mfcs2018.csc.liv.ac.uk
+ 
+ 
+BACKGROUND:
+ 
+MFCS conference series is organized since 1972. Traditionally, the conference moved between the Czech Republic, Slovakia, and Poland, while since a few years ago, the conference travels around Europe (including Austria, Hungary, Italy, Poland, Denmark). MFCS is a high-quality venue for original research in all branches of theoretical computer science. The broad scope of the conference encourages interactions between researchers who might not meet at more specialised venues. MFCS 2018 consists of invited lectures and contributed talks, selected by an international program committee of researchers focusing on diverse areas of theoretical computer science. The conference will be accompanied by workshops. If you have an idea about co-located workshop please contact the organisers.
+
+Venue: MFCS 2018 will be hosted at the Crowne Plaza Liverpool City Centre .
+This is a short (~10-15 minute) walk from Liverpool Lime St Station. 
+Similarly, it is a 10 minute walk from the Paradise St Bus Station 
+and the Liverpool One shopping center.
+ 
+INVITED SPEAKERS of MFCS2018:
+
+        • Christel Baier (TU Dresden, Germany)
+        • Olivier Bournez (LIX, France)
+        • Herbert Edelsbrunner (IST, Austria)
+        • Leslie Ann Goldberg (University of Oxford, UK)
+        • Christos H. Papadimitriou (UC Berkeley, USA)
+
+We encourage submission of original research papers in all areas of theoretical computer science, including (but not limited to) the following (alphabetically ordered):
+  
+   - algebraic and co-algebraic methods in computer science
+   - algorithms and data structures
+   - automata and formal languages
+   - bioinformatics
+   - combinatorics on words, trees, and other structures
+   - computational complexity (structural and model-related)
+   - computational geometry
+   - computer-assisted reasoning
+   - concurrency theory
+   - cryptography and security
+   - databases and knowledge-based systems
+   - formal specifications and program development
+   - foundations of computing
+   - logics in computer science
+   - mobile computing
+   - models of computation
+   - networks (incl. wireless, sensor, ad-hoc networks)
+   - parallel and distributed computing
+   - quantum computing
+   - semantics and verification of programs
+   - theoretical issues in artificial intelligence
+   - types in computer science
+ 
+All submitted papers will be reviewed by the program committee. Accepted papers will be collected into the conference proceedings. 
+ 
+IMPORTANT DATES:
+ 
+Abstract submission deadline: April 20th, 2018 (AoE)
+Paper submission deadline: April 24th, 2018 (AoE)
+Notification of authors: June 12th, 2018 (AoE)
+Camera-ready copies due: June 22nd, 2018 (AoE)
+Conference dates: August 27-31, 2018
+
+
+PAPER SUBMISSION: 
+ 
+Papers should be submitted electronically through EasyChair at https://easychair.org/conferences/?conf=mfcs2018
+ 
+Submissions should be prepared according to the following instructions:
+Papers should be formatted using the LIPIcs style. 
+Length: up to 12 pages (excluding references and an optional appendix)
+References and an optional appendix can go beyond the 12 pages (the appendix 
+will be consulted at the discretion of the program committee).
+It is mandatory to use pdflatex. No prior publication or simultaneous submission 
+to other conferences or journals are allowed (but submissions to preprint repositories 
+such as arXiv or workshops without formal published proceedings are allowed)
+ 
+PROGRAM COMMITTEE CHAIRS:
+        • Igor Potapov (University of Liverpool, UK, chair)
+        • Paul Spirakis (University of Liverpool, UK, co-chair)
+        • James Worrell (University of Oxford, UK, co-chair)
+
+PROGRAM COMMITTEE:
+
+        • Eric Allender
+        • Andris Ambainis
+        • Valérie Berthé
+        • Patricia Bouyer-Decitre
+        • Jean Cardinal
+        • Xiaotie Deng
+        • Volker Diekert
+        • Stephanie Delaune
+        • Nathanaël Fijalkow
+        • Dimitris Fotakis
+        • Leszek Gasieniec
+        • Gregory Gutin
+        • Christoph Haase
+        • Mika Hirvensalo
+        • Juraj Hromkovic
+        • Jarkko Kari
+        • Bakhadyr Khoussainov
+        • Lefteris Kirousis
+        • Bartek Klin
+        • Adrian Kosowski
+        • Steve Kremer
+        • Antonín Kucera
+        • Vitaliy Kurlin
+        • Orna Kupferman
+        • Ranko Lazic
+        • Vadim Lozin
+        • Conrado Martinez
+        • Richard Mayr
+        • Pierre Mckenzie
+        • George Mertzios
+        • Sotiris Nikoletseas
+        • Vangelis Paschos
+        • Giuseppe Persiano
+        • Pierre-Alain Reynier
+        • Jose Rolim
+        • Christian Scheideler
+        • Maria Serna
+        • Alexandra Silva
+        • Philippas Tsigas
+        • Prudence Wong
+        • Moti Yung
+        • Standa Zivny
+ 
+LOCAL ORGANISERS, University of Liverpool
+
+        • Igor Potapov
+        • Leszek Gasieniec
+        • Russell Martin
+        • Prudence Wong
+
+
+MFCS 2018 is generously supported by several sponsors:
+
+        • London Mathematical Society (LMS)
+        • European Association for Theoretical Computer Science (EATCS) 
+        • University of Liverpool, Department of Computer Science 
+        • Networks Sciences and Technologies (NeST)

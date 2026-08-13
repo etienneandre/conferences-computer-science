@@ -17,3 +17,7 @@ notification = [2020-11-23]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/LATA-2021.txt"
+stage = "initial"

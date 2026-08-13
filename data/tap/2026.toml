@@ -26,3 +26,7 @@ artifact = "Optional artifact evaluation with FM 2026"
 
 [extra]
 colocated = "Special track of FM 2026."
+
+[[cfp]]
+file = "cfp/TAP-2026.txt"
+stage = "initial"

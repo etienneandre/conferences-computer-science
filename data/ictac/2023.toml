@@ -26,3 +26,11 @@ submitted = 39
 
 [extra]
 notes = "A special journal issue is planned for extended versions of selected papers from ICTAC 2023."
+
+[[cfp]]
+file = "cfp/ICTAC-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICTAC-2023-extended.txt"
+stage = "extended"

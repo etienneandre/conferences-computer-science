@@ -1,0 +1,125 @@
+December 16-18, 2024 at IIT Gandhinagar, India
+
+Website: https://www.fsttcs.org.in/2024/
+
+FSTTCS 2024 is the 44th conference on Foundations of Software Technology and Theoretical Computer Science. It is organised by IARCS, the Indian Association for Research in Computing Science, in association with ACM India. It is a forum for presenting original results in foundational aspects of Computer Science and Software Technology.
+Invited Speakers
+
+    Pankaj K Agarwal, Duke University
+    Suguman Bansal, Georgia Institute of Technology
+    Ioannis Caragiannis, Aarhus University
+    Dmitry Chistikov, University of Warwick
+    Uriel Feige, Weizmann Institute
+    Sebastian Siebertz, Universität Bremen
+
+
+IMPORTANT DATES (all dates are AoE)
+
+Abstract Submission:    July 5, 2024
+
+Paper Submission:        July 12, 2024
+
+Notification:                 September 16, 2024
+
+Camera Ready:            October 4, 2024
+
+Conference:                 December 16-18, 2024
+
+Workshops:                  TBA
+
+
+
+PAPER SUBMISSION
+
+Submissions must be in electronic form via EasyChair using the LIPIcs LaTeX style file available here. Submissions must not exceed 15 pages (excluding bibliography), but may include a clearly marked appendix containing technical details. The appendix will be read only at the discretion of the program committee. Simultaneous submissions to journals or other conferences with published proceedings are disallowed.
+
+Reviewing for FSTTCS 2024 is double-blind.
+
+Accepted papers will be published as proceedings of the conference in the Leibniz International Proceedings in Informatics (LIPIcs) as a free, open, electronic archive with access to all. Authors will retain full rights over their work. The accepted papers will be published under a CC-BY license. For an accepted paper to be included in the proceedings, one of the authors must commit to presenting the paper in person at the conference.
+
+
+TOPICS
+Track A
+
+    Algebraic Complexity
+    Algorithms and Data Structures
+    Algorithmic Graph Theory and Combinatorics
+    Approximation Algorithms
+    Combinatorial Optimization
+    Communication Complexity
+    Computational Geometry
+    Computational Learning Theory
+    Cryptography and Security
+    Data Streaming and Sublinear algorithms
+    Economics and Computation
+    Parallel, Distributed and Online Algorithms
+    Parameterized Complexity
+    Proof Complexity
+    Quantum Computing
+    Randomness in Computing
+    Theoretical Aspects of Computational Biology
+    Theoretical Aspects of Mobile and High-Performance Computing
+
+Track B
+
+    Automata, Games and Formal Languages
+    Logic in Computer Science
+    Modal and Temporal Logics
+    Models of Concurrent, Distributed and Mobile Systems
+    Models of Timed, Reactive, Hybrid and Stochastic and Quantum Systems
+    Model Theory
+    Principles and Semantics of Programming Languages
+    Program Analysis and Transformation
+    Security protocols
+    Specification, Verification and Synthesis
+    Theorem Proving and Decision Procedures
+
+
+PROGRAM COMMITTEE
+Track A
+
+    Aritra Banik (National Institute of Science Education and Research)
+    Siddharth Barman (Indian Institute of Science) – Track A Chair
+    Umang Bhaskar (Tata Institute of Fundamental Research)
+    Diptarka Chakraborty (National University of Singapore)
+    Debarati Das (Pennsylvania State University)
+    Klim Efremenko (Ben-Gurion University)
+    Sushmita Gupta (The Institute of Mathematical Sciences)
+    Rohit Gurjar (Indian Institute of Technology Bombay)
+    Arindam Khan (Indian Institute of Science)
+    Neeldhara Misra (Indian Institute of Technology, Gandhinagar)
+    Rajat Mittal (Indian Institute of Technology, Kanpur)
+    Kamesh Munagala (Duke University)
+    Prajakta Nimbhorkar (Chennai Mathematical Institute)
+    Manisha Padala (Indian Institute of Technology, Gandhinagar)
+    Jaikumar Radhakrishnan (Tata Institute of Fundamental Research)
+    Nidhi Rathi (Max Planck Institute for Informatics, University of Saarland)
+    Ramprasad Saptharishi (Tata Institute of Fundamental Research)
+    Sahil Singla (Georgia Tech)
+    Makrand Sinha (University of Illinois Urbana-Champaign)
+    Seeun William Umboh (The University of Melbourne)
+    Santhoshini Velusamy (Toyota Technological Institute at Chicago)
+    Michał Włodarczyk (University of Warsaw)
+    Meirav Zehavi (Ben-Gurion University)
+
+
+Track B
+
+    Parosh Aziz Abdulla (Uppsala University)
+    C. Aiswarya (Chennai Mathematical Institute)
+    S. Akshay (Indian Institute of Technology Bombay)
+    Christel Baier (Technical University Dresden)
+    Laure Daviaud (University of East Anglia)
+    Sibylle Fröschle (Technical University Hamburg)
+    Blaise Genest (CNRS)
+    Stefan Haar (INRIA, France)
+    Christoph Haase (University of Oxford)
+    Petr Jančar (Palacky University, Olomouc)
+    Ismaël Jecker (University of Franche-Comté)
+    Edon Kelmendi (Queen Mary University of London)
+    Sławomir Lasota (University of Warsaw) – Track B Chair
+    Ranko Lazic (University of Warwick)
+    Christof Löding (RWTH Aachen)
+    Meena Mahajan (The Institute of Mathematical Sciences)
+    Jean-Francois Raskin (Université Libre de Bruxelles)
+    Nathalie Sznajder (Sorbonne University)

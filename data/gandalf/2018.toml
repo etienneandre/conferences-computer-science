@@ -20,3 +20,11 @@ license = "cc-by"
 
 [extra]
 notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of an international leading journal."
+
+[[cfp]]
+file = "cfp/GandALF-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/GandALF-2018-extended.txt"
+stage = "extended"

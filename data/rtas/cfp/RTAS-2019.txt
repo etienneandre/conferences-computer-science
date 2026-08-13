@@ -1,0 +1,71 @@
+NEW IN 2019: 
+
+- EXPANDED SCOPE: Systems papers submitted to Track 1 do NOT necessarily need to consider timing issues to be in scope.
+
+- RTAS will follow a double-blind peer reviewing process.
+
+Please visit http://2019.rtas.org/news/call-for-papers-published/ for details.
+
+
+CALL FOR PAPERS
+===============
+
+RTAS 2019: The 25th IEEE Real-Time and Embedded Systems and Applications Symposium
+Montreal, Canada
+Sponsored by the IEEE Computer Society Technical Committee on Real-Time Systems
+
+http://2019.rtas.org
+
+	
+Important Dates
+===============
+
+October 17, 2018      ---  Submission Deadline (FIRM)
+December 3 – 7, 2018  ---  Rebuttal
+December 21, 2018     ---  Notification of Acceptance
+February 15, 2019     ---  Camera-ready Deadline
+April 16-18, 2019     ---  RTAS 2019 (part of CPSWeek 2019)
+
+
+Scope of the Conference
+=======================
+
+RTAS is a top-tier conference with a focus on systems research related to embedded systems or timing issues. The broad scope of RTAS’19 ranges from traditional hard real-time systems to embedded systems without explicit timing requirements, including latency-sensitive systems with informal or soft real-time requirements. 
+
+RTAS’19 invites papers describing original systems and applications, case studies, methodologies, and applied algorithms that contribute to the state of practice in the design, implementation, verification, and validation of embedded systems and time-sensitive systems (of any size). The scope of RTAS’19 consists of three tracks:
+
+1. Applications, Operating Systems, and Run-Time Software, 
+2. Applied Methodologies and Foundations, and
+3. Hardware Architectures and Analysis Tools. 
+
+Timing requirements of interest include not only classical hard real-time constraints, but also time-sensitive applications in a broader sense, including applications subject to probabilistic, soft real-time, quality-of-service (QoS), or latency requirements. For example, relevant application areas include (but are not limited to):
+
+- time-sensitive cloud/edge/fog computing systems (e.g., characterized by a focus on tail latency);
+- time-sensitive applications in the Internet of Things (IoT);
+- time-sensitive distributed event processing systems;
+- time-sensitive mobile computing apps;
+- timing aspects in robotics middlewares and frameworks;
+- machine learning in time-sensitive systems;
+- real-time control in smart cities and other large cyber-physical systems (CPS); and
+- real-time healthcare solutions.
+
+RTAS’19 welcomes both papers backed by formal proofs as well as papers that focus exclusively on empirical validation of timing requirements.
+
+NEW IN 2019: Track 1 further welcomes applied systems papers that focus on practical issues other than timing in the broader field of embedded/CPS/IoT systems and applications. 
+
+Please visit online the detailed description of all tracks:
+	
+	http://2019.rtas.org/call-for-papers/
+
+The conference proceedings will be published by IEEE and indexed on IEEE Explore. RTAS’19 follows a double-blind peer reviewing process: author identities and affiliations will not be revealed to reviewers. 
+
+
+Program and Track Chairs
+========================
+
+Björn Brandenburg, Max Planck Institute for Software Systems (MPI-SWS), Germany
+
+Martina Maggio, Lund University, Sweden
+
+Heechul Yun, University of Kansas, USA
+

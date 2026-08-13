@@ -1,0 +1,74 @@
+ [Apologies in case of multiple posting]
+
+CALL FOR PAPERS
+Workshop on FORmal Techniques for REal-time SystemS 
+                               (FORTRESS)
+
+                            September 10, 2019
+                               Zaragoza, Spain
+
+web site: http://www.etfa2019.org/ws02-workshop-on-formal-techniques-for-real-time-systems-fortress/
+         
+
+                    Satellite workshop of ETFA 2019
+ 
+
+            Paper submission deadline:       June 3, 2019 (extended)
+            Notification of acceptance:      June 24, 2019
+            Final papers due:                July 1, 2019
+
+
+CALL FOR PAPERS
+
+Many are the works proposed on timing and schedulability analysis
+for guaranteeing the predictability of single- and multi-core
+systems. The increasing complexity of embedded and real-time
+systems requires a continuous development in design and
+verification.
+
+Formal methods are mathematics-based techniques for
+the specification, development and verification of software and
+hardware systems. In a certification context, industrials are
+more and more encouraged to apply formal methods such as model
+checking, abstract interpretation, etc. to guarantee the
+fulfillment of system requirements.
+
+Applied to real-time, formal methods can be used to model
+real-time task behaviors, model task interactions and encode
+real-time requirements/properties such as timing
+constraints. They bring formal verification to timing and
+schedulability analysis of embedded and real-time systems.
+            
+The Formal Techniques for Real-Time Systems (FORTRESS) workshop
+provides a venue for bringing together researchers and developers
+from academia and industry to promote cross-fertilization and
+discuss advances dealing with the application of formal methods
+to embedded and real-time systems. Of particular interest are
+ideas and contributions that present significant paradigm shifts,
+explore unique and unconventional approaches to important
+problems, or investigate fundamental departures from conventional
+wisdom in adopted solutions.
+
+
+SCOPE
+
+Suggested topics of interest include (but are not restricted to):
+
+- formal methods (SAT-/SMT-based techniques, model checking,
+  static analysis, etc.) for timing and schedulability analysis
+- formal techniques for the design of embedded and real-time
+  systems
+- development of correct real-time systems
+- verification and validation of embedded and real-time systems
+- simulation-based validation and verification
+- runtime verification of real-time systems     
+
+
+SUBMISSIONS
+
+Both research and industry papers are solicited. Prospective authors
+are invited to electronically submit their papers limited to eight (8)
+pages according the guidelines for authors in the conference website
+(http:// www.etfa2019.org/guidelines-for-authors). Authors of accepted
+papers agree to attend the workshop and to present their work during
+the workshop.

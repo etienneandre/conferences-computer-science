@@ -1,0 +1,22 @@
+Dear Colleagues,
+
+
+We are pleased to announce the Call for Papers for the 29th International Conference on Engineering of Complex Computer Systems (ICECCS 2025), scheduled to take place from 2-4 July 2025 in Hangzhou, China.
+The conference aims to bring together experts from industry, academia, and government to exchange ideas on the engineering of complex computer systems, such as distributed systems, autonomous intelligent systems, and cyber-physical systems.  We encourage contributions that tackle both theoretical and practical challenges, in a wide range of topics related to complex computer systems, including but not limited to:
+
+Requirements, Modeling and Formal MethodsComplex Systems Design and ArchitectureSoftware EngineeringSimulation, Testing, and ValidationSecurity, Reliability and DependabilityLarge Language Models (LLMs) and AI-driven SystemsEmbodied Intelligence and Autonomous Intelligent SystemsRealistic Complex Systems
+
+Important Dates
+
+Abstract Submissions Due: 28 January 2025 AoEFull Paper Submissions Due: 4 February 2025 AoEAcceptance/Rejection Notification: 4 April 2025 AoECamera-ready Due: 2 May 2025 AoEAuthor Registration Deadline: 2 May 2025 AoEConference Dates: 2-4 July 2025 (UTC +8)
+
+Proceedings will be published by Springer in the Lecture Notes in Computer Science (LNCS). Submitted manuscripts should be in English and formatted in the style of LNCS format.
+We invite all prospective authors to submit their manuscripts via the ICECCS 2025 portal, hosted by the EasyChair conference management system: https://easychair.org/conferences/?conf=iceccs2025.
+
+Submissions will undergo a rigorous peer-review process by an esteemed panel of experts, ensuring the highest academic and technical standards. Detailed submission guidelines and conference updates are available on our official website at https://iceccs2025-hangzhou.github.io/
+Looking forward to your valuable contributions to ICECCS 2025.
+
+
+Sincerely,
+ Yuan ZHOU
+ Program Co-Chair

@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Lightweight double-blind reviewing process. Around 10% of the accepted papers of APLAS 2023 will be designated as Distinguished Papers, which highlights papers that the Program Committee recommends due to their excellent quality. Rebuttal: Mon 31 Jul 12:00 - Wed 2 Aug 12:00 2023 AoE"
+
+[[cfp]]
+file = "cfp/APLAS-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/APLAS-2023-extended.txt"
+stage = "extended"

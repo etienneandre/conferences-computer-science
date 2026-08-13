@@ -26,3 +26,7 @@ competition = "Tool competition"
 
 [extra]
 notes = "Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers…"
+
+[[cfp]]
+file = "cfp/ICST-2025-extended.txt"
+stage = "extended"

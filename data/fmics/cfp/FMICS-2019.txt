@@ -1,0 +1,109 @@
+------------------------------------------------
+FMICS 2019: the 24th International Conference on
+Formal Methods for Industrial Critical Systems
+
+Co-located with CONCUR and FORMATS
+
+Aug 30-31, 2019, Amsterdam, The Netherlands
+https://fmics2019.fsa.win.tue.nl
+------------------------------------------------
+
+The aim of the FMICS conference series is to provide a forum for
+researchers who are interested in the development and application of
+formal methods in industry. In particular, FMICS brings together
+scientists and engineers who are active in the area of formal methods
+and interested in exchanging their experiences in the industrial usage
+of these methods. The FMICS conference series also strives to promote
+research and development for the improvement of formal methods and
+tools for industrial applications.
+
+
+Important Dates
+
+Abstract submission: 19 April 2019
+Paper submission: 26 April 2019
+Notifications: 5 June 2019
+Camera ready: 19 June 2019
+Conference: 30-31 August 2019
+
+
+Topics
+
+Topics of interest include (but are not limited to):
+
+- Case studies and experience reports on industrial applications of formal
+  methods, focusing on lessons learned or identification of new research
+  directions.
+- Methods, techniques and tools to support automated analysis, certification,
+  debugging, descriptions, learning, optimisation and transformation of complex,
+  distributed, real-time, embedded, mobile and autonomous systems.
+- Verification and validation methods (model checking, theorem proving,
+  SAT/SMT constraint solving, abstract interpretation, etc.) that address
+  shortcomings of existing methods with respect to their industrial applicability
+  (e.g., scalability and usability issues).
+- Impact of the adoption of formal methods on the development process and
+  associated costs. Application of formal methods in standardisation and
+  industrial forums.
+
+
+Submission and Publication
+
+Papers must describe authors' original research work and results.
+Submitted papers must not have previously appeared in a journal or
+conference with published proceedings and must not be concurrently
+submitted to any other peer-reviewed workshop, symposium, conference
+or archival journal. Any partial overlap with any such published or
+concurrently submitted paper must be clearly indicated.
+
+Submissions should clearly motivate relevance to industrial
+application. Case study papers should identify lessons learned,
+validate theoretical results (such as scalability of methods) or
+provide specific motivation for further research and development.
+
+Papers should not exceed 15 pages (excluding max. 2 pages of
+references) formatted according to the LNCS style (Springer). All
+submissions will be reviewed by the Programme Committee who will make
+a selection among the submissions based on the novelty, soundness
+and applicability of the presented ideas and results.
+
+Papers must be written in English and should be submitted as Portable
+Document Format (PDF) files using the EasyChair submission site:
+
+https://easychair.org/conferences/?conf=fmics2019
+
+The conference proceedings will be published by Springer in their LNCS
+series.
+
+
+Committees
+----------
+
+Programme Chairs
+- Kim Larsen, Aalborg University
+- Tim Willemse, Eindhoven University of Technology
+
+Programme Committee (confirmed)
+
+- Bernhard Aichernig, TU Graz
+- Jiri Barnat, Masaryk University
+- Joerg Brauer, Verified Systems International GmbH
+- Ana Cavalcanti, University of York
+- Michael Fisher, University of Liverpool
+- Wan Fokkink, Vrije Universiteit Amsterdam
+- Maria-Del-Mar Gallardo, University of Malaga
+- Hubert Garavel, INRIA
+- Anne Haxthausen, Technical University of Denmark
+- Peter Höfner, CSIRO
+- Jozef Hooman, TNO-ESI/Radboud University Nijmegen
+- Falk Howar, Dortmund University of Technology/Fraunhofer ISST
+- Jeroen Keiren, Eindhoven University of Technology
+- Zhiming Liu, Southwest University
+- Tiziana Margaria, Lero
+- Peter Ölveczky, University of Oslo
+- Charles Pecheur, Université Catholique de Louvain
+- Matteo Rossi, Politecnico di Milano
+- Cristina Seceleanu, Mälardalen University
+- Scott Smolka, Stony Brook University
+- Maurice ter Beek, ISTI-CNR
+- Helen Treharne, University of Surrey
+- Jaco van de Pol, Aarhus University

@@ -19,3 +19,7 @@ license = "cc-by"
 
 [extra]
 notes = "Co-located with ECRTS."
+
+[[cfp]]
+file = "cfp/WCET-2019.txt"
+stage = "initial"

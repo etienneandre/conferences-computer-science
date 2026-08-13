@@ -1,0 +1,108 @@
+Call for Research papers for the 21st International Conference on Business Process Management (BPM) BPM 2023
+September 11-15, 2023
+Utrecht, The Netherlands
+https://bpm2023.sites.uu.nl/
+
+*Apologies for cross and multiple postings*
+
+
+The 21st International Conference on Business Process Management (BPM)
+
+BPM 2023
+
+September 11-15, 2023
+
+Utrecht, The Netherlands
+
+https://bpm2023.sites.uu.nl/
+
+
+
+*Call for Research papers*
+
+The International Conference on Business Process Management (BPM) is the premium forum for researchers and practiti oners in the field of BPM. The conference embraces the interdisciplinary nature of BPM to its fullest extent. To this end, the conference explicitly seeks to bring together the finest research contributions and viewpoints from the fields of computer science, information systems engineering, and information system management. The objective is to enhance or refine the existing portfolio of theories, methods, and tools for managing and improving business processes.
+
+To accommodate this diversity, the BPM conference is structured into three tracks: Foundations, Engineering, and Management. Each track covers different phenomena of interest and research methods. Accordingly, each track has specific evaluation criteria, a separate track chair, and a dedicated program committee.
+
+Track I: Foundations
+Track I invites papers that have a foundational nature, that is a formal, mathematical, conceptual or philosophical nature. It focuses on (i) papers investigating the u nderlying principles of BPM, computational theories, formal methods and algorithms for modelling, automating and analysing business processes; (ii) papers identifying novel problems, novel languages, architectures and other concepts underlying process-aware information systems, as well as conceptual papers on frameworks, taxonomies, patterns and that use conceptual modelling techniques to investigate problems in the design and analysis of BPM systems.
+
+As papers in this track are not expected to propose an immediate application in concrete business environments, empirical evaluation is not required. Instead, determining factors will be their technical quality in terms of computer science standards (e.g., sound formalisation, convincing argumentation) and the degree to which the developed foundations permit new ways of modelling or analysing BPM systems.
+
+You should send your paper to Track I if one or more of the following apply:
+
+* It provides foundati onal insights about the underlying principles and concepts of BPM.
+* It advances state of the art in BPM through the investigation of formal methods and algorithms
+* It identifies novel problems in BPM, it contributes to the definition of novel problems, languages, architectures, as well as conceptual models, frameworks, patterns and taxonomies for BPM.
+* It demonstrates technical quality and shows how the developed foundations permit new ways of modelling or analysing BPM systems.
+
+Track II: Engineering
+Track II invites papers that deal with engineering aspects of BPM research. The focus is on the investigation of artefacts and systems that aim to solve concrete problems in business environments.
+
+Track II covers tools and techniques for process modelling, the enactment of process models (including the interaction with services and deployment architectures) as well as business intelligence (including process mining techniques). It covers the usage of such artefacts and systems in particular domains, such as digital health, smart mobility, logistics, or smart government.
+
+All papers in this track must include rigorous and repeatable empirical evaluations that demonstrate the merits of the artefact introduced. Wherever applicable, artefacts should be compared to the state-of-the-art in a reproducible manner. A self-critical discussion of limitations and threats to validity is expected. Formalisation of problems and solutions should be used if they add clarity or are beneficial in other ways.
+
+You should send your paper to Track II if one or more of the following apply:
+
+* It proposes a significant contribution in the form of an artefact or system.
+* Its results are empirically evaluated in a rigorous and reproducible manner (reproducibility includes making available the data, code and other relevant aspects of the evaluation)
+* It reports on an artefact or system you designed, with a maturity of at least a prototype, i.e., it can be evaluated in an application context.
+
+Track III: Management
+Track III invites papers that focus on the socio-technical, cognitive or psychological aspects of BPM techniques/tools/methods as well as managerial aspects of BPM in and across organisations. It aims to advance our understanding of how BPM concepts, models, methods as well as the underlying information systems can be situated in and be used to transform organisations to deliver business value.
+
+In particular, we seek (1) contributions that propose novel organisational and technology-enabled modes of BPM, (2) contributions that advance our understanding of how organisations can develop associated process-oriented capabilities, and (3) contributions that examine the (cross-)organisational or managerial impact of novel BPM affordances as well as their context. Areas of interest include the wide range of capability areas that are relevant for BPM, suc h as strategic alignment, governance, methods, information technology, people, and culture, as well as all BPM lifecycle stages. Further, all levels of analysis, individuals, teams, entire organizations, or wider ecosystems, are welcome.
+
+Papers may use various conceptual and empirical strategies of inquiry, including case study research, action research, experiments, focus group research, literature review research, survey research, or design science research. Papers will be evaluated according to current management and information systems standards. These include a rigorous application of the selected research method, appropriate motivation and framing, convincing argumentation, positioning against state-of-the-art, and, wherever possible, demonstration of the findings’ applicability and evaluation of the results’ efficacy.
+
+You should send your paper to Track III if one or more of the following apply:
+
+* It tackles an organisational challenge/opp ortunity from a process-oriented perspective.
+* It considers all of the following socio-technical aspects from a process-oriented perspective: technology, task, and people.
+* It extends the BPM body of knowledge to better contribute to process innovation, process-related digitalization, and organisational routines.
+* It builds on and draws from real-world organisational endeavours in BPM.
+* It contributes to solving grand societal challenges through BPM.
+
+*Diversity, Equity, and Inclusion*
+The BPM community is committed to the promotion of diversity, equity, and inclusion (DEI) in all aspects of our professional activities. We celebrate the diversity in our community and welcome everyone regardless of age, gender identity, race, ethnicity, socioeconomic background, country of origin, religion, sexual orientation, physical ability, education, and work experience. We encourage all participants to consider DEI in their writing, reviews, presentations, and all interactions related to the BPM conference.
+
+*Open Science Principles*
+The BPM conference encourages authors of research papers to follow the principles of transparency, reproducibility, and replicability. In particular, the conference supports the adoption of open data and open source principles and encourages authors to disclose (anonymised and curated) data in order to increase reproducibility and replicability.
+
+The evaluation form for research papers will include an item explicitly asking reviewers if the research artefacts (prototypes, interview protocols, questionnaires) or the datasets (used in, or produced by, the empirical evaluation) reported in the paper are available in a suitable form. To this end, authors are asked to include in their manuscript links to private or public repositories where reviewers can find the research artefacts associated with the paper. This information may be included, for example, in a “Data availability” o r “Reproducibility” subsection. This requirement does not apply to papers that neither involve an empirical study nor a prototype implementation.
+
+Authors who prefer not to make their research artefacts and datasets accessible to the program committee are asked to comment in their submitted manuscript on why this is not possible, practical, or desirable. This statement may be deleted in the final version of the paper if it gets accepted. Possible reasons may involve privacy restrictions or non-disclosure agreements. While sharing research artefacts is not mandatory for submission or acceptance, the program committee members may use this information to inform their decision.
+
+Authors are encouraged to make the used datasets accessible via public repositories (e.g., Zenodo, Figshare, GitHub, or institutional archives) under an open data license such as the CC0 dedication or the CC-BY 4.0 license. Making datasets available via cloud services such as Dropbox or G oogle Docs is undesirable given the volatility of the links produced by these services.
+
+We encourage authors to self-archive their pre- and post-prints in open, preserved repositories, such as their institutional preprint repository, arXiv or other non-profit services, in line with Springer’s copyright agreement (see “License to Publish form for LNCS, CCIS or LNBIP”, §3, available at https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+
+*Submission*
+Each paper must be submitted to exactly one track. Please use the track descriptions above to decide where to send your paper. Authors may contact track chairs for clarification. Papers must be formatted according to Springer’s LNCS formatting guidelines (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions must be in English and cannot exceed 16 pages. The title page must contain a short abstract clarifying the relation of the paper with the topics above. The paper must clearly state the problem being addressed, the goal of the work, the results achieved, and the relation to other work. Student papers are treated as regular papers in the review process. Importantly, the contribution under­lying a student paper must be carried out mainly by the (Ph.D.) student(s), but others (advisors, collaborators, etc.) may appear as authors as well. Student papers must be clearly marked as such in the EasyChair system when submitting the paper. Student papers have to be presented at the conference by a student author to be eligible for the best student paper award.
+
+Papers must be submitted electronically in PDF format via the BPM 2023 EasyChair su bmission site (https://easychair.org/conferences/?conf=bpm2023).
+
+Submissions must be original contributions that have neither been published previously nor submitted to other conferences or journals while being submitted to BPM 2023.
+
+*Important dates*
+
+Abstract Registration Due:    Mar 15, 2023
+
+Submission Deadline:           Mar 22, 2023
+
+Notification Due:                    May, 17, 2023
+
+All deadlines are in Anywhere on Earth time (AOE = GMT – 12). Check the time in the AOE Zone here: https://time.is/AOE
+
+Accepted papers will be included in the conference proceedings published by Springer in the Lecture Notes in Computer Science (LNCS) series. For each accepted paper, at least one author must register for the conference and present the paper. Authors of selected papers will be invited to submit an extended version to a special issue in Elsevier’s Information Systems (Tracks I and II) and to Springer’s Business & Information Systems Engineering special issue on “Managing the Dynamics of Business Processes” (Track III).
+
+Innovative papers which have a high potential of stimulating discussion at the conference but do not fully meet the quality criteria for the main conference will be invited for presentation at the BPM Forum. Those papers will be published in full length in a separate post-proceedings volume in the Lecture Notes in Business Information Processing (LNBIP) series and be presented during the main conference. There will be no short papers.
+
+First-time submitters to BPM may request to be considered for a pre-submission shepherding program. Shepherds are selected BPM PC members who can advise on the presentation and positioning of a paper. Interested candidates are encouraged to contact the PC Chairs by 25.01.2023, at the latest.
+
+*Chairs*
+Shazia Sadiq, The University of Queensland, Australia (Consolidation Chair)
+Chiara Di Francescomarino, Fondazione Bruno Kessler, Italy (Track Chair, Track I)
+Andrea Burattin, Technical University of Denmark, Denmark (Track Chair, Track II)
+Christian Janiesch, TU Dortmund University, Germany (Track Chair, Track III)

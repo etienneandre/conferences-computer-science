@@ -1,0 +1,149 @@
+New Submission Deadline.
+- Paper Submission deadline: May 24th, 2020
+
+
+================= 3rd CALL FOR PAPERS - TIME 2020 =============
+
+27th International Symposium on Temporal Representation and Reasoning
+Bozen-Bolzano (Italy), 23th-25th September 2020
+https://time2020.inf.unibz.it/
+
+====================================================
+
+Foremost, the TIME 2020 organizing committee hopes you are all in good health!
+
+We announce that TIME 2020, co-located with BOSK 2020, will allow for
+virtual attendance. Thus, the paper submission and the selection
+process will run just as expected, and physical participation in the
+symposium will not be a prerequisite for publication. Whether the
+symposium will allow also a physical attendance will be decided in the
+coming weeks together with the BOSK 2020 organizers. Reduced
+registration fees will be allowed for virtual participants. We thus
+warmly invite you all again to submit your papers to TIME 2020.
+
+STAY SAFE!
+
+Invited Speakers 
+----------------
+
+Clare Dixon (University of Liverpool, UK)
+Pedro Cabalar (University of Corunna, Spain)
+Johann Eder (Alpen-Adria Universität Klagenfurt, Austria)
+
+Aims & Scope
+------------
+Since 1994, the TIME International Symposium on Temporal
+Representation and Reasoning aims to bring together researchers in the
+area of temporal reasoning in Computer Science. TIME 2020 encompasses
+three tracks, but has a single program committee. The conference will
+be organized as a combination of technical paper presentations,
+keynote talks, and tutorials.
+
+Tracks
+------
+- Time in Artificial Intelligence
+- Temporal Databases
+- Temporal Logic and Reasoning
+
+Following a long-standing tradition, submission topics include (but are no limited to):
+
+- Temporal aspects of agent and policy-based systems
+- Spatial and temporal reasoning- Time in natural language processing
+- Spatio-temporal knowledge representation systems
+- Reasoning about actions and change
+- Planning and planning languages
+- Ontologies of time and space-time
+- Belief and uncertainty in temporal knowledge
+- Temporal learning and discovery
+- Temporal data models and query languages
+- Temporal query processing and indexing
+- Temporal data mining
+- Time series data management
+- Stream data management
+- Spatio-temporal data management, including moving objects
+- Data currency and expiration
+- Indeterminate and imprecise temporal data
+- Temporal constraints
+- Specification and verification of systems
+- Verification of web applications
+- Synthesis and execution
+- Model-checking algorithms and implementations
+- Verification of infinite-state systems
+- Reasoning about transition systems
+- Other aspects of temporal architectures
+
+Submission & Publication
+----------------------------
+
+TIME 2020 accepts submissions in PDF format, not longer than 12 pages
+excluding references and appendix. The appendix is limited to 5 pages,
+and the reviewers may or may not take it into account for their
+recommendation. Submissions must be formatted following the LIPIcs
+instructions (https://submission.dagstuhl.de/documentation/authors),
+and preferably redacted in LaTex. Submissions are managed by
+EasyChair:
+
+https://easychair.org/my/conference?conf=time2020.
+
+TIME policy is single-blind, so the names of the authors should not be
+hidden in the submitted draft. Members of the program committee,
+excluding the co-chairs, are allowed to submit papers. Submitted
+papers will be refereed for quality, correctness, originality, and
+relevance to the conference.
+
+Submissions to TIME 2020 must be original, and parallel submissions of
+the same material to other conferences or journals are not
+allowed. Accepted papers will be presented at the symposium and
+included in the proceedings, which will be published by LIPIcs-Leibniz
+International Proceedings in Informatics
+(https://www.dagstuhl.de/en/publications/lipics/). This is a series of
+high-quality peer-reviewed conference proceedings and published
+according to the principle of OpenAccess. At least one author of each
+accepted paper must register at the conference and present the paper.
+
+Authors of selected papers will be invited to submit an extended
+version of their contribution to a special issue of a high-quality
+journal yet to be decided.
+
+Important Dates (New Submission)
+-----------------------------------------------
+- Papers due (abstracts & full-texts): May 24th, 2020
+- Notification: June 21th, 2020
+- Final camera-ready version: July 5th, 2020
+- Early bird registration: July 26th, 2020
+- Conference: September 23th-25th, 2020
+
+Program Committee Chairs
+------------------------------
+Emilio Muñoz-Velasco (University of Málaga)
+Ana Ozaki (Free University of Bozen-Bolzano)
+Martin Theobald (University of Luxembourg)
+
+Program Committee
+------------------
+Alexander Artikis (NCSR Demokritos – Athens)
+Klaus Berberich (Saarland University of Applied Sciences)
+Camille Bourgaux (CNRS – Ecole Normale Supérieure)
+Panagiotis Bouros (University of Mainz)
+Anton Dignoes (Free University of Bozen-Bolzano)
+Clare Dixon (University of Liverpool)
+Johann Gamper (Free University of Bozen-Bolzano)
+Rajeev Gore (Australian National University – ANU)
+Víctor Gutiérrez-Basulto (Cardiff University)
+Fredrik Heintz (Linköping University)
+Jean Christoph Jung (University of Bremen)
+Roman Kontchakov (Birkbeck, University of London)
+Marco Montali (Free University of Bozen-Bolzano)
+Cláudia Nalon (University of Brasilia)
+Daniel Neider (Max Planck Institute)
+Kjetil Nørvåg (University of Trondheim)
+Manuel Ojeda-Aciego (Universidad de Málaga)
+Hector Pomares (Universidad de Granada)
+Dimitris Sacharidis (Technical University of Vienna)
+Stephan Schlüter (Technische Hochschule Ulm)
+Guido Sciavicco (University of Ferrara)
+
+Local Chairs 
+------------
+Alessandro Artale (Free University of Bozen-Bolzano) artale@inf.unibz.it
+Johann Gamper (Free University of Bozen-Bolzano) gamper@inf.unibz.it

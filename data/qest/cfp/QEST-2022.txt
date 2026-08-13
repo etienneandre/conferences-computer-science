@@ -1,0 +1,202 @@
+QEST 2022
+International Conference on Quantitative Evaluation of SysTems
+https://www.qest.org/qest2022
+
+September 12-16th, 2022
+Co-located at CONFEST (Warsaw) with CONCUR, FORMATS, FMICS
+https://confest2022.mimuw.edu.pl
+
+
+**************************************
+Abstract Submission:  April 18th, 2022
+Paper Submission:     April 25th, 2022
+Artifact Submission:     May 2nd, 2022
+Notifications:         June 20th, 2022
+Camera-ready:          July 18th, 2022
+Conference:    September 12-16th, 2022
+**************************************
+
+
+================
+Keynote Speakers
+================
+
+- Jane Hillston, University of Edinburgh, UK
+- Marta Kwiatkowska, University of Oxford, UK
+
+
+================
+Scope and Topics
+================
+
+The International Conference on Quantitative Evaluation of SysTems (QEST) is
+the leading forum on quantitative evaluation and verification of computer
+systems and networks. QEST 2022 is the 19th conference in the series.
+
+Scientific areas of interest include:
+- Quantitative specification methods.
+- Stochastic and non-deterministic models and metrics for performance,
+  reliability, safety, correctness, and security.
+- New algorithms for the analysis or simulation of stochastic, probabilistic
+  and non-deterministic models.
+- As a recent emphasis: application of data-driven, machine learning
+  techniques for the quantitative evaluation and verification of systems, in
+  particular for safety-critical applications (learning for safety, as well
+  as safe learning).
+- Case studies that highlight the role of quantitative specification,
+  modelling and evaluation in the design of systems. Systems of interest
+  include computer hardware and software architectures, communication systems,
+  cyber-physical systems, infrastructural systems, security systems and
+  biological systems.
+- Papers that describe novel tools to support the practical application of
+  research results in all of the above areas are also welcome.
+
+QEST 2022 will set up a repeatability/artifact evaluation process 
+(details below).
+
+QEST 2022 is open to both theoretical, experimental and applicative research.
+The conference welcomes a diversity of modelling formalisms, programming
+languages and methodologies that incorporate quantitative aspects such as
+probabilities, temporal properties, rewards and forms of non-determinism.
+Papers may advance empirical, simulation and analytic methods, and
+industrially-relevant case studies.
+
+
+===========
+Submissions
+===========
+
+QEST 2022 considers three types of papers (authors will be able to specify the
+type of the contribution at submission):
+
+1. THEORETICAL/METHODOLOGICAL:
+To advance the understanding on a topic or issue, or to describe the
+development and proposal of new analysis processes and techniques.
+
+2. APPLICATION:
+To describe a novel application and compare it with previous results.
+
+3. TOOL:
+To develop new tools and the formalisms they support, with a focus on the
+software architecture and practical implementation and use.  Tool papers must
+be accompanied by an artifact in the Artifact Evaluation.
+
+Paper submission can be REGULAR and SHORT: regular papers must not exceed 
+16 pages, excluding references, plus 4 pages for the appendix containing
+supporting material. Short papers should preferably be limited to 8 pages,
+also excluding references. Regarding TOOL papers, the conference will include
+the possibility of a demo session for interaction with the authors.
+
+All submitted papers must be unpublished and not be submitted for publication
+elsewhere. Papers should be submitted electronically using EasyChair [2].
+Springer encourages authors to include their ORCIDs in their papers. Authors
+should consult Springer's authors' guidelines [0] and use Springer's LaTeX
+templates [1] for the preparation of their papers.
+
+
+============
+Publications
+============
+
+All accepted papers will be presented and discussed at the conference by one
+of the authors. The QEST 2022 proceedings will be published in the Springer
+LNCS series and indexed by ISI Web of Science, Scopus, ACM Digital Library,
+dblp, Google Scholar. All submitted papers will be evaluated by at least three
+reviewers on the basis of their originality, technical quality, scientific or
+practical contribution to the state of the art, methodology, clarity, and
+adequacy of references.
+
+
+===================
+Artifact Evaluation
+===================
+
+Reproducibility of experimental results is crucial to foster an atmosphere of
+trustworthy, open, and reusable research. To improve and reward
+reproducibility, QEST 2022 includes a dedicated Artifact Evaluation (AE). 
+Submission of an artifact is mandatory for tool papers (both regular and short), 
+and optional but encouraged for theoretical/methodological and application 
+papers where it can support the results presented in the paper. Artifacts will 
+be reviewed concurrently with the paper review process, and accepted papers with 
+a successfully evaluated artifact will receive a badge on the title page of 
+paper in the proceedings.
+
+Detailed guidelines for preparation and submission of artifacts can be found
+on the QEST 2022 AE web page at [3]. Exceptions to the submission guidelines
+may be granted by the PC chairs in cases where the tool cannot, in any
+reasonable way, be run by the AE committee.
+
+
+=============
+Special Issue
+=============
+
+A selection of the best full papers will be invited to submit an extended
+version of their work to a special issue in the ACM Transactions on Modelling
+and Computer Simulation (TOMACS). (Further details will be provided on the
+website.)
+
+
+==========
+Committees
+==========
+
+Local Organization (CONFEST):
+Piotrek Hofman (University of Warsaw, PL)
+Bartek Klin (University of Oxford, UK)
+Sławek Lasota (University of Warsaw, PL)
+
+Program Chairs:
+Erika Ábrahám (RWTH Aachen University, DE)
+Marco Paolieri (Univ. of Southern California, US)
+
+Artifact Evaluation Chairs:
+Carlos Budde (University of Trento, IT)
+Arnd Hartmanns (University of Twente, NL)
+
+Publicity Chair:
+David Safranek (Masaryk University, CZ)
+
+Program Committee:
+Alessandro Abate (Oxford University, UK)
+Ebru Aydin Gol (Middle East Technical University, TR)
+Ezio Bartocci (TU Vienna, AT)
+Borzoo Bonakdarpour (Michigan State University, US)
+Luca Bortolussi (University of Trieste, IT)
+Peter Buchholz (TU Dortmund, DE)
+Laura Carnevali (University of Florence, IT)
+Giuliano Casale (Imperial College London, UK)
+Gianfranco Ciardo (Iowa State University, US)
+Liliana Cucu-Grosjean (INRIA Paris, FR)
+Pedro D'Argenio (Univ. Nacional de Córdoba, AR)
+Carina da Silva (University of Münster, DE)
+Susanna Donatelli (University of Turin, IT)
+Maryam Elahi (Mount Royal University, CA)
+Jean-Michel Fourneau (University of Versailles UVSQ, FR)
+Marco Gribaudo (Politecnico of Milan, IT)
+András Horváth (University of Turin, IT)
+David N. Jansen (Chinese Academy of Sciences, CN)
+Nils Jansen (Radboud University, NL)
+Sebastian Junges (Radboud University, NL)
+Peter Kemper (William & Mary College, US)
+William Knottenbelt (Imperial College London, UK)
+Jan Křetínský (Technical University of Munich, DE)
+Andrea Marin (Università Ca' Foscari Venezia, IT)
+Gethin Norman (University of Glasgow, UK)
+David Parker (University of Birmingham, UK)
+Elizabeth Polgreen (University of Edinburgh, UK)
+Anne Remke (University of Muenster, DE)
+Sabina Rossi (University Ca’ Foscari Venice, IT)
+Gerardo Rubino (INRIA Rennes, FR)
+Miklós Telek (Budapest Univ. of Tech. and Economics, HU)
+Mirco Tribastone (IMT School for Advanced Studies, IT)
+Benny Van Houdt (University of Antwerp, BE)
+Verena Wolf (Saarland University, DE)
+Katinka Wolter (FU Berlin, DE)
+Paolo Zuliani (Newcastle University, UK)
+
+===
+[0] ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf
+[1] ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip
+[2] https://easychair.org/conferences/?conf=qest2022
+[3] https://www.qest.org/qest2022/artifacts.html

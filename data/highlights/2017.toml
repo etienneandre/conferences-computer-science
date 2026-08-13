@@ -18,3 +18,7 @@ publisher = "informal"
 
 [extra]
 notes = "Short presentations, no formal proceedings, single author. We encourage you to attend and present your best work, be it already published or not, at the Highlights conference"
+
+[[cfp]]
+file = "cfp/HIGHLIGHTS-2017.txt"
+stage = "initial"

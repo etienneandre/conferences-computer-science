@@ -1,0 +1,142 @@
+==================================================
+
+Call for Papers
+FM 2023: 25th International Symposium on Formal Methods
+
+Lübeck, Germany, March 6-10, 2023
+https://fm2023.isp.uni-luebeck.de/
+
+==================================================
+
+FM 2023 is the 25th international symposium in a series organised by
+Formal Methods Europe (FME), an independent association whose aim is to
+stimulate the use of, and research on, formal methods for software
+development. The FM symposia have been successful in bringing together
+researchers and industrial users around a programme of original papers
+on research and industrial experience, workshops, tutorials, reports on
+tools, projects, and ongoing doctoral research. FM 2023 will be both an
+occasion to celebrate and a platform for enthusiastic researchers and
+practitioners from a diversity of backgrounds to exchange their ideas
+and share their experiences.
+
+=Important Dates=
+
+Abstract submission: 	September 4, 2022, 23:59 AoE (firm)
+Full paper submission: 	September 11, 2022, 23:59 AoE (firm)
+Notification: 		November 15, 2022
+Camera ready: 		December 11, 2022
+Conference: 		March 6-10, 2022
+
+=Topics of Interest=
+
+FM 2023 will highlight the development and application of formal methods
+in a wide range of domains including trustworthy AI, software,
+computer-based systems, systems-of-systems, cyber-physical systems,
+security, human-computer interaction, manufacturing, sustainability,
+energy, transport, smart cities, healthcare and biology. We particularly
+welcome papers on techniques, tools and experiences in interdisciplinary
+settings. We also welcome papers on experiences of applying formal methods 
+in industrial settings, and on the design and validation of formal method 
+tools.
+
+The topics of interest for FM 2023 include, but are not limited to:
+
+Interdisciplinary formal methods: Techniques, tools and experiences
+demonstrating the use of formal methods in interdisciplinary settings.
+Formal methods in practice: Industrial applications of formal methods,
+experience with formal methods in industry, tool usage reports,
+experiments with challenge problems. The authors are encouraged to
+explain how formal methods overcame problems, led to improved designs,
+or provided new insights.
+
+Tools for formal methods: Advances in automated verification, model
+checking, and testing with formal methods, tools integration,
+environments for formal methods, and experimental validation of tools.
+The authors are encouraged to demonstrate empirically that the new tool
+or environment advances the state of the art.
+
+Formal methods in software and systems engineering: Development
+processes with formal methods, usage guidelines for formal methods, and
+method integration. The authors are encouraged to evaluate process
+innovations with respect to qualitative or quantitative improvements.
+Empirical studies and evaluations are also solicited.
+
+Theoretical foundations of formal methods: All aspects of theory related
+to specification, verification, refinement, and static and dynamic
+analysis. The authors are encouraged to explain how their results
+contribute to the solution of practical problems with formal methods or
+tools.
+
+We explicitly welcome submissions to the special FM 2023 session on 
+"Formal methods meets AI", which is focused on formal and rigorous 
+modelling and analysis techniques to ensuring safety, robustness etc. (trustworthiness) of AI-based systems.
+
+=Submission Guidelines=
+
+Papers should be original work, not published or submitted elsewhere, in
+Springer LNCS format, written in English, submitted through EasyChair:
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Feasychair.org%2Fconferences%2F%3Fconf%3Dfm2023&amp;data=04%7C01%7C%7Cf655e552c4084e4d66ab08da0b6c3e76%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637834856787350716%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=oN5JQkJfFRQlWPlpdWLAAXeKf%2F4rGEdfZi39CNywxIw%3D&amp;reserved=0
+
+Each paper will be evaluated by at least three members of the Programme
+Committee. Authors of papers reporting experimental work are strongly
+encouraged to make their experimental results available for use by the
+reviewers. Similarly, case study papers should describe significant case
+studies, and the complete development should be made available at the
+time of review. The usual criteria for novelty, reproducibility,
+correctness and the ability for others to build upon the described work
+apply. Tool papers and tool demonstration papers should explain
+enhancements made compared to previously published work. A tool
+demonstration paper need not present the theory behind the tool, but can
+focus on the tool’s features, how it is used, its evaluation, and
+examples and screenshots illustrating the tool’s use. Authors of tool
+and tool demonstration papers should make their tool available for use
+by the reviewers.
+
+We solicit various categories of papers:
+
+Regular Papers (max 15 pages)
+Long tool papers (max 15 pages)
+Case study papers (max 15 pages)
+Short papers (max 6 pages), including tool demonstration papers.
+
+Short papers present novel ideas (e.g., without an extensive experimental 
+evaluation) or results that can well be presented in 6 pages. Short papers 
+will be given short presentation slots at the conference.
+
+All page limits do not include references and appendices.
+
+For all papers, an appendix can provide additional material such as
+details on proofs or experiments. The appendix is not part of the page
+count and not guaranteed to be read or taken into account by the
+reviewers. Thus, it should not contain information necessary for the
+understanding and the evaluation of the presented work. Papers will be
+accepted or rejected in the category in which they were submitted and
+will not be moved between categories.
+
+At least one author of an accepted paper is expected to present the
+paper at the conference as a registered participant.
+
+=Best Paper Award=
+
+At the conference, the PC Chairs will present an award to the authors of
+the submission selected as the FM 2023 Best Paper.
+
+=Publication=
+
+Accepted papers will be published in the Symposium Proceedings to appear
+in Springer’s Lecture Notes in Computer Science. Extended versions of selected 
+papers will be invited for publication in a special issue of a journal.
+
+=General Chair=
+
+Martin Leucker, University of Lübeck, Germany
+
+=Program Committee Chairs=
+
+Marsha Chechik, University of Toronto, Canada
+Joost-Pieter Katoen, RWTH Aachen University, Germany
+                   & University of Twente, the Netherlands
+
+=Program Committee=
+
+TBD

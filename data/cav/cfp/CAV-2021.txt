@@ -1,0 +1,190 @@
+CAV 2021: 33rd International Conference on Computer-Aided Verification
+July 18-23 2021, Los Angeles, USA
+
+CALL FOR PAPERS
+http://i-cav.org/2021/call-for-papers/
+
+
+IMPORTANT DATES
+All deadlines are AoE (Anywhere on Earth).
+
+PAPERS
+- Paper submission: January 28, 2021
+- Rebuttal period: March 29-31, 2021
+- Author notification: April 19, 2021
+- Artifact submission: April 28, 2021
+- Artifact notification: May 26, 2021
+- Final version due: May 31, 2021
+
+CAV AWARD
+- Nomination deadline: February 20, 2021
+
+CONFERENCE
+- Workshops: July 18-19, 2021
+- Tutorials: July 19, 2021
+- Main conference: July 20-23, 2021
+
+
+SCOPE
+CAV 2021 is the 33rd in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, autonomous systems, and computer security. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
+
+CAV 2021 will take place in Los Angeles, California, USA.
+
+Topics of interest include but are not limited to:
+- Algorithms and tools for verifying models and implementations
+- Algorithms and tools for system synthesis
+- Algorithms and tools that combine verification and learning
+- Mathematical and logical foundations of verification and synthesis
+- Specifications and correctness criteria for programs and systems
+- Deductive verification using proof assistants
+- Hardware verification techniques
+- Program analysis and software verification
+- Software synthesis
+- Hybrid systems and embedded systems verification
+- Formal methods for cyber-physical systems
+- Compositional and abstraction-based techniques for verification
+- Probabilistic and statistical approaches to verification
+- Verification methods for parallel and concurrent systems
+- Testing and run-time analysis based on verification technology
+- Decision procedures and solvers for verification and synthesis
+- Applications and case studies in verification and synthesis
+- Verification in industrial practice
+- New application areas for algorithmic verification and synthesis
+- Formal models and methods for security
+- Formal models and methods for biological systems
+
+Submissions on a wide range of topics are sought, particularly ones that identify new research directions. CAV 2021 is not limited to topics discussed in previous instances of the conference. Authors concerned about the appropriateness of a topic may communicate with the conference chairs prior to submission.
+
+
+CAV AWARD
+The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification.
+CAV Award Nomination deadline: February 20, 2021
+For details about the CAV award nomination, please see the following page: http://i-cav.org/2021/cav-award/.
+
+
+PAPER SUBMISSION
+Paper submissions in CAV fall into one of the following three categories (see more information below):
+
+- Regular Papers (20 pages max, must be anonymized)
+- Tool Papers (10 pages max, must be anonymized)
+- Industrial Experience Reports & Case Studies. (10 pages max, not anonymized)
+
+Papers in all three categories must be submitted by January 28, 2021 AoE, and should be in LNCS format. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed. The review process will include a feedback/rebuttal period where authors will have the option to respond to reviewer comments. The PC chairs may solicit further reviews after the rebuttal period.
+Submission site: https://easychair.org/conferences/?conf=cav2021.
+
+
+REGULAR PAPERS
+
+Regular papers should not exceed 20 pages in LNCS format, not counting references and appendices.
+
+Regular papers at CAV 2021 will follow a full double blind review process, which means that author names and affiliations must be omitted from the submission. Additionally, if a submission refers to prior work done by the authors, the reference should be made in the third person. These are firm submission requirements, and any regular paper that does not conform to these requirements will be rejected without review.
+
+We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.
+
+Authors can include a clearly marked appendix at the end of their submissions that is exempt from the page limit restrictions. However, the reviewers are not obliged to read the contents of these appendices. These papers should contain original research and sufficient detail to assess the merits and relevance of the contribution. Papers will be evaluated on basis of a combination of correctness, technical depth, significance, novelty, clarity, and elegance.
+
+Authors of accepted regular papers will be invited (but are not required) to submit the relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN's Empirical Evaluation Guidelines (http://sigplan.org/Resources/EmpiricalEvaluation/) when reporting on empirical results.
+
+
+TOOL PAPERS
+
+Tool papers should not exceed 10 pages, not counting references.
+
+Tool papers should describe system and implementation aspects of a tool with a large (potential) user base (experiments not required, rehash of theory strongly discouraged). Papers describing tools that have already been presented (in any conference) will be accepted only if significant and clear enhancements to the tool are reported and implemented.
+
+Tool papers at CAV 2021 will follow a full double blind review process, which means that author names and affiliations must be omitted from the submission. Tool papers will be provisionally accepted based on the manuscript. Authors of provisionally accepted tool papers must submit an artifact for evaluation by the artifact evaluation committee: final acceptance is conditional on successful artifact evaluation at the "functional" level. In special cases, where an artifact cannot be submitted, the authors should contact the Artifact Evaluation chairs to find alternate modes of artifact evaluation.
+
+
+INDUSTRIAL EXPERIENCE REPORTS AND CASE STUDIES
+
+Industrial Experience Reports and Case Studies should not exceed 10 pages, not counting references.
+
+These papers are expected to describe the use of formal methods techniques in industrial settings or in new application domains. Papers in this category do not necessarily need to present original research results but are expected to contain novel applications of formal methods techniques as well as an evaluation of these techniques in the chosen application domain. Such papers are encouraged to discuss the unique challenges of transferring research ideas to a real-world setting and reflect on any lessons learned from this technology transfer experience.
+
+
+PROGRAM COMMITTEE
+Erika Abraham, RWTH Aachen University
+Elvira Albert, Universidad Complutense de Madrid
+Christel Baier, TU Dresden
+Clark Barrett, Stanford University
+Ezio Bartocci, Vienna University of Technology
+Josh Berdine, Facebook
+Armin Biere, Johannes Kepler University Linz
+Sam Blackshear, Novi Research
+Jasmin Blanchette, Vrije Universiteit Amsterdam
+Roderick Bloem, Graz University of Technology
+Borzoo Bonakdarpour, Michigan State University
+Ahmed Bouajjani, University of Paris
+Tevfik Bultan, University of California at Santa Barbara
+Sagar Chaki, Mentor Graphics
+Bor-Yuh Evan Chang, University of Colorado Boulder & Amazon
+Hana Chockler, King's College London
+Cristina David, University of Cambridge
+Jennifer Davis, Collins Aerospace
+Yuxin Deng, East China Normal University
+Rayna Dimitrova, CISPA Helmholtz Center for Information Security
+Alastair Donaldson, Imperial College London, UK
+Constantin Enea, IRIF, Université de Paris
+Joao Fernandes, University of Coimbra
+Bernd Finkbeiner, CISPA Helmholtz Center for Information Security
+Vijay Ganesh, University of Waterloo
+Pierre Ganty, IMDEA Software Institute
+Aarti Gupta, Princeton University
+Arie Gurfinkel, University of Waterloo
+Ichiro Hasuo, National Institute of Informatics
+Marieke Huisman, University of Twente
+David N. Jansen, Institute of Software, Chinese Academy of Sciences
+Jean- Baptiste Jeannin, University of Michigan
+Ranjit Jhala, University of California San Diego
+Rajeev Joshi, Automated Reasoning Group, Amazon
+Temesghen Kahsai, Groq Inc
+Benjamin Lucien Kaminski, University College London
+Joost- Pieter Katoen, RWTH Aachen University
+Guy Katz, The Hebrew University of Jerusalem
+Laura Kovacs, Vienna University of Technology
+Orna Kupferman, The Hebrew University of Jerusalem
+Marta Kwiatkowska, University of Oxford
+Ori Lahav, Tel Aviv University
+Shuvendu Lahiri, Microsoft Research
+Akash Lal, Microsoft Research
+Kim Larsen, Aalborg University
+Marijana Lazic, Technical University of Munich
+Owolabi Legunsen, Cornell University
+Rustan Leino, Amazon (PC co-chair)
+Rupak Majumdar, MPI-SWS
+Ruben Martins, Carnegie Mellon University
+Ken McMillan, UT Austin
+Aina Niemetz, Stanford University
+Ruzica Piskac, Yale University
+Sylvie Putot, LIX, École Polytechnique
+Markus N. Rabe, Google
+Talia Ringer, University of Washington
+Kristin Yvonne Rozier, Iowa State University
+Philipp Ruemmer, Uppsala University
+Krishna S, IIT Bombay
+Roopsha Samanta, Purdue University
+Sanjit A. Seshia, University of California, Berkeley
+Natarajan Shankar, SRI International
+Natasha Sharygina, USI Lugano, Switzerland
+Satnam Singh, Google Research
+Sharon Shoham, Tel Aviv University
+Alexandra Silva, University College London (PC co-chair)
+Tachio Terauchi, Waseda University
+Cesare Tinelli, The University of Iowa
+Aaron Tomb, Galois, Inc.
+Ashutosh Trivedi, University of Colorado Boulder
+Caterina Urban, INRIA & École Normale Supérieure | Université PSL
+Margus Veanes, Microsoft Research
+Jules Villard, Facebook
+Yakir Vizel, Technion
+Chao Wang, University of Southern California
+Wang Yi, Uppsala University
+Mingsheng Ying, University of Technology, Sydney
+Nobuko Yoshida, Imperial College London
+Lijun Zhang, Institute of Software, Chinese Academy of Sciences
+
+
+CONTACT
+For any questions please contact the two PC chairs:
+Rustan Leino (leino@amazon.com),
+Alexandra Silva (alexandra.silva@ucl.ac.uk)

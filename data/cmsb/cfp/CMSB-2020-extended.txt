@@ -1,0 +1,231 @@
+=========================================================================
+
+CALL FOR CONTRIBUTIONS
+(Papers, tools, tutorials, posters, presentations)
+
+CMSB 2020: 
+The 18th International Conference on Computational Methods in Systems Biology
+ 
+https://cmsb2020.uni-saarland.de
+ 
+23rd-25th September 2020, University of Konstanz (Germany)
+
+
+=========================================================================
+!!! Update on organisational changes due to coronavirus situation
+
+
+We are considering to move CMSB2020 either partially or completely online. 
+All submission deadlines are shifted for 15 days ahead.
+Please consult the conference webpage for the latest updates. 
+
+=========================================================================
+
+About
+ 
+CMSB 2020 solicits original research articles, posters, tutorials, and tool
+papers, on the analysis of biological systems, networks, data, and
+corresponding application domains. The conference brings together computer
+scientists, biologists, mathematicians, engineers, and physicists interested
+in a system-level understanding of biological processes.
+ 
+Topics of interest include, but are not limited to:
+- formalisms for modelling biological processes
+- models and their biological applications
+- frameworks for model verification, validation, analysis and simulation
+of biological systems
+- methods for synthetic biology and bio-molecular computing
+- machine learning, model inference from experimental data
+- model integration from biological databases
+- multi-scale modelling and analysis methods
+- collective behaviour
+- high-performance computational systems biology and parallel implementations
+ 
+In particular, the conference is open to theoretical works with potential
+applications to modelling and systems biology, as well as applications of
+existing frameworks to new models or that may provide new insights to existing
+models.
+ 
+Contributions should be submitted to one of the following categories:
+1) Regular papers
+2) Tool papers
+3) Posters
+4) Tutorials
+5) Presentations of already published papers
+ 
+The proceedings of the two first categories of papers of CMSB 2020 will
+be published as a volume in Springer's Lecture Notes in Computer Science
+/ Lecture Notes in Bioinformatics series (LNCS/LNBI).
+ 
+Publication of extended versions of a selection of the papers in a special
+issue of a journal is under consideration.
+
+
+
+=========================================================================
+ 
+Invited Speakers
+ 
+Iain Couzin, Max Planck Institute and the University of Konstanz, Germany
+
+Grégory Batt, Inria and Institute Pasteur, France
+
+Domitilla Del Vecchio, MIT, USA
+
+ 
+
+=========================================================================
+
+Call for Submissions: 
+
+
+
+=========================================================================
+
+1) Call for regular papers:
+ 
+Regular papers should describe original work that has not been previously
+published and is not under review for publication elsewhere. Papers must
+be written in English and must conform the LNCS style. They have to be
+submitted electronically as PDF files via EasyChair. The limit for
+submissions is 15 pages excluding bibliography and well-marked appendices. Each
+submission will be refereed rigorously by at least three reviewers.
+The reviewers are not required to read the appendices, and thus papers must be
+intelligible without them.
+ 
+Important Dates
+- Regular Paper Abstract presubmission: April 23, 2020
+- Regular Paper submission: April 30, 2020
+- Regular Paper notification: June 15, 2020
+- Regular Paper Camera-ready: June 30, 2020
+- Conference: September 23-25, 2020
+
+ 
+Replicability and reproducibility:
+A paper may come with benchmarks, software, models, and so on.
+In order to encourage the development of reproducible results, the authors of
+accepted papers will be suggested to submit supplementary materials, so that
+the committee can evaluate the reproducibility of their work.
+ 
+
+
+=========================================================================
+
+2) Call for tool papers:
+ 
+Tool papers should present new tools, new tool components or novel
+extensions to existing tools supporting the modelling and analysis of
+biological systems. Each submission should be original and not published
+previously in a tool paper form. Papers must be written in English and
+must conform the LNCS style. They have to be submitted electronically as PDF
+files via EasyChair. The limit for submissions is 6 pages. Appendices will
+not be counted in the page limit. Papers must include information on
+methods, tool availability, maturity, selected experimental results.
+Authors should make their tools and benchmarks available at the time of
+submission for evaluation by the committee. Each submission must be accompanied by a supplementary material (in the form of appendix) illustrating the usage of the tool (e.g. screenshots, step-by-step guide, short tutorial) and, if applicable, how the tool demo will be conducted during the conference presentation.
+
+Presenters of accepted tool papers will be encouraged to include a
+showcase/running demo of the tool in their talk.
+ 
+Important Dates
+- Tool Paper Abstract presubmission: April 23, 2020
+- Tool Paper submission: April 30, 2020
+- Tool Paper notification: June 30, 2020
+- Tool Paper Camera-ready: July 15, 2020
+ 
+ 
+
+========================================================================= 
+
+3) Call for posters:
+ 
+CMSB 2020 solicits original poster abstracts on the computational modelling and
+analysis of biological systems, pathways, networks, data, and corresponding
+application domains.
+ 
+We especially encourage poster submission from experimental biologists!
+ 
+Poster abstracts must conform the LNCS style. They have to be submitted electronically as PDF files via EasyChair. The limit for submissions is 2 pages.
+ 
+Important Dates
+- Poster abstract submission: June 15, 2020
+- Poster notification: June 30, 2020 
+ 
+
+
+=========================================================================
+
+4) Call for tutorials:
+ 
+CMSB 2020 will host tutorials. Tutorials provide intensive courses
+on topics ranging from thoughts on the past, current, or future development of
+computational methods in systems biology to presentations and/or demonstrations
+of new tools and technologies. A slot in the tutorial track will normally be
+either 1 hour or 1 hour and a half.
+ 
+A short abstract (less than 2 pages) conforming the LNCS style shall be sent
+directly to the PC chairs (cmsb2020@easychair.org)
+ 
+Important Dates
+- Tutorial submission: April 01, 2020
+- Tutorial notification: May 07, 2020
+ 
+ 
+
+
+=========================================================================
+
+5) Call for presentations:
+ 
+Not all potential speakers are interested in publications in a proceedings.
+CMSB will host some talks without paper submission. The requirement is that
+the works to be presented have been already accepted in a journal. The PDF
+version of the article has to be submitted electronically, so as to
+help the committee to select the talks to be given at the conference. 
+The committee will not review the article, since it has already been accepted for
+publication in a journal.
+ 
+Please indicate in the abstract field of the web-form to which journal the
+article has already been accepted.
+ 
+Important dates
+- Presentation submission: April 30, 2020
+- Presentation notification: June 15, 2020
+ 
+
+
+=========================================================================
+
+PC co-Chairs
+- Alessandro Abate (University of Oxford, UK)
+- Tatjana Petrov (University of Konstanz, Germany)
+- Verena Wolf (University of Saarland, Germany)
+ 
+Tool Track Chair
+- David Šafránek (Masaryk University Brno, CZ)
+ 
+Local Organisation Chair
+- Tatjana Petrov (University of Konstanz, Germany)
+ 
+Steering Committee
+Alessandro Abate - University of Oxford (UK) - guest member
+Ezio Bartocci – Vienna University of Technology (Austria) – guest member
+Milan Češka – Brno University of Technology (Czech Republic) – guest member
+Finn Drablos – NTNU (Norway)
+François Fages – INRIA Saclay Île-de-France (France)
+Jérôme Feret – INRIA – Paris (France) – guest member
+David Harel – Weizmann Institute of Science (Israel)
+Monika Heiner – Brandenburg University of Technology, Cottbus (Germany)
+Heinz Köppl – Technische Universität Darmstadt (Germany) – guest member
+Pietro Lio’ – University of Cambridge (UK) – guest member
+Tommaso Mazza – IRCCS Casa Sollievo della Sofferenza – Mendel (Italy)
+Satoru Miyano – University of Tokyo (Japan)
+Nicola Paoletti – Stony Brook University (USA) – guest member
+Tatjana Petrov - University of Konstanz (Germany) - guest member
+Gordon Plotkin – University of Edinburgh (UK)
+Corrado Priami – CoSBi / Microsoft Research, University of Trento (Italy)
+David Šafránek – Masaryk University (Czech Republic) – guest member
+Carolyn Talcott – SRI International (USA)
+Adelinde Uhrmacher – University of Rostock (Germany)
+Verena Wolf - Saarland University (Germany)
+ 

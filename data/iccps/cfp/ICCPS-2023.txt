@@ -1,0 +1,93 @@
+
+14th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2023)
+May 9-12, 2023
+San Antonio, Texas, USA
+URL: https://iccps.acm.org/2023/
+
+
+[IMPORTANT DATES]
+
+Abstract registration: Oct 24, 2022
+Paper submission: Oct 31, 2022
+Decision notification: Jan 20, 2023
+Camera-ready: Mar 10, 2023
+
+
+ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) is the premier forum for presenting and discussing the most significant recent technical research contributions in the field of Cyber-Physical Systems. ICCPS 2023 will be part of the CPS-IoT Week 2023. In addition to the general track, we are inviting papers to be submitted to two new tracks: CPS for social good and Industrial applications.
+
+
+[TRACKS]
+
+- GENERAL TRACK: calls for papers with substantial technical research contributions to foundational CPS science, motivated by one or more CPS applications.
+- CPS FOR SOCIAL GOOD TRACK: calls for papers that are driven by a societal need and describe the application, societal impact and innovations along with technical contributions.
+- INDUSTRIAL APPLICATIONS TRACK: calls for papers describing an industrial application or practice of CPS. At least one co-author should have industrial affiliations.
+
+
+[TOPIC OF INTEREST]
+
+The topics of interest across three tracks include (but not limited to)
+
+- AI and Machine Learning for CPS including Safe Autonomy
+- Safety and Resilience for CPS
+- Architectures and Networking for CPS
+- Software platforms and systems for CPS
+- Foundations of CPS
+- Human-machine interactions
+- Sensing and monitoring
+- Specification languages and requirements
+- Design, optimization, and synthesis
+- Testing, verification, certification
+- Security, trust, and privacy in CPS
+- Tools, testbeds, demonstrations and deployments
+
+Papers will be judged on soundness, significance, verifiability of claims, and presentation quality. The accepted papers will be included in an ACM conference proceeding. One of the accepted papers will be selected for the Best Paper Award. In addition, a subset of accepted papers will be invited for a special issue of ACM Transactions on Cyber-Physical Systems.
+
+
+[SUBMISSIONS]
+
+All submissions must be in English. Only original papers that are not submitted or published in other conferences or journals will be considered. ICCPS 2023 will employ a light-weight double-blind review for submitted papers, in which authors must adhere to two rules: (i) authors' names and institutions must be omitted; and (ii) reference to the authors' own related work should be in the third person. Manuscripts should have a main body with no more than 10 pages including references in ACM two-column conference style, using US Letter (8.5-inch x 11 inch) paper size. An appendix of up to two additional pages may follow the main body of the paper. Submission site: https://iccps2023.hotcrp.com
+
+
+[ORGANIZERS]
+
+GENERAL CHAIRS
+Sayan Mitra (UIUC), Nalini Venkatasubramanian (UC Irvine)
+
+TECHNICAL PROGRAM CHAIRS
+Abhishek Dubey (Vanderbilt Univ.), Lu Feng (Univ. of Virginia)
+
+DEMO/POSTER/WIP CHAIR
+Meiyi Ma (Vanderbilt Univ.), Sarah Masud Preum (Dartmouth College)
+
+PUBLICITY CHAIRS
+BaekGyu Kim (DGIST), Nicola Paoletti (King's College London), Yash Pant (Univ. of Waterloo)
+
+PUBLICATION CHAIRS
+Mahsa Ghasemi (Purdue Univ.), Jonathan Sprinkle (Vanderbilt Univ.)
+
+ARTIFACT EVALUATION CHAIRS
+Daniel Fremont (UCSC), Radoslav Ivanov (Rensselaer Poly. Inst.)
+
+DIVERSITY CHAIR
+Mahnoosh Alizadeh (UCSB)
+
+WEB CHAIR
+Ayan Mukhopadhyay (Vanderbilt Univ.), Jose Paolo Talusan (Vanderbilt Univ.)
+
+STEERING COMMITTEE
+Insup Lee, Chair (Univ. of Pennsylvania), Jack Stankovic (Univ. of Virginia), Eric M. Feron (Georgia Inst. of Tech.), Karl H. Johansson (KTH Royal Inst. of Tech.), Xenofon Koutsoukos (Vanderbilt Univ.), Raj Rajkumar (Carnegie Mellon Univ.) Mohammad A. Al Faruque (UC Irvine) Meeko Oishi (Univ. of New Mexico)
+
+
+
+--
+Nicola Paoletti
+Senior Lecturer
+Department of Informatics, King's College London.
+Room (S)5.17, Bush House, Strand Campus, London.
+https://nicolapaoletti.com/
+
+
+
+
+--
+To unsubscribe from this group and stop receiving emails from it, send an email to qest-announce-group+unsubscribe@unifi.it.

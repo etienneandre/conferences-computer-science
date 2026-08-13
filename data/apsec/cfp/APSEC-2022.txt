@@ -1,0 +1,167 @@
+=================================================
+*Call for papers and workshop proposals*
+29th Asia-Pacific Software Engineering Conference (APSEC 2022)
+6-9 December 2022, Online (Workshops 6 Dec, Main Conference 7-9 Dec)
+https://conf.researchr.org/home/apsec-2022 
+
+*IMPORTANT DATES*
+Technical Research papers (10 pages)
+- Abstract: June 29, 2022 (AoE)
+- Submission: July 6, 2022 (AoE)
+- Notification: August 15, 2022
+- Camera Ready: Late October, 2022
+
+Software Engineering Education (EDU) papers (10 pages)
+- Abstract: August 29, 2022 (AoE)
+- Submission: September 5, 2022 (AoE)
+- Notification: October 10, 2022
+- Camera Ready: October 24, 2022
+
+Software Engineering in Practice (SEIP) papers (5 pages)
+- Submission: September 5, 2022 (AoE)
+- Notification: October 10, 2022
+- Camera Ready: October 24, 2022
+
+Early Research Achievements (ERA) papers (5 pages)
+- Submission: September 5, 2022 (AoE)
+- Notification: October 10, 2022
+- Camera Ready: October 24, 2022
+
+Poster papers (2 pages)
+- Submission: October 14, 2022 (AoE)
+- Notification: October 21, 2022
+- Camera Ready: October 28, 2022
+
+Workshop proposals & papers (2 pages: proposals)
+- Proposal Submission: July 13, 2022 (AoE)
+- Proposal Notification: July 27, 2022
+- Paper Submission: September 12, 2022 (AoE)
+- Paper Notification: October 10, 2022
+- Camera Ready: October 24, 2022
+
+Established in 1993, the Asia-Pacific Software Engineering Conference (APSEC) is a leading international forum on full-spectrum software engineering and technology, particularly in the Asia-Pacific region. APSEC 2022 aims to bring together the software engineering profession, including researchers, practitioners, and educators, to describe significant new research results, report valuable project experiences, and foster broader communications and collaborations among academia, industry, and government. All accepted papers (except for workshop papers) will be published through the IEEE-CS Digital Library in the APSEC 2022 conference proceedings.
+
+APSEC 2022 solicits submissions in the following five separate categories. Furthermore, APSEC 2022 solicits workshop proposals.  
+ - Technical Research:  Original research, at most 10 pages
+ - Software Engineering Education (EDU): Education and training, 10 pages
+ - Software Engineering in Practice (SEIP): Real-world practice, 5 pages
+ - Early Research Achievements (ERA): Work-in-progress, 5 pages
+ - Posters: Work-in-progress, interactive setting, 2 pages
+ - Workshop Proposals: 2 pages
+
+We invite you to join us at APSEC 2022, online virtually, and to help shape the software  engineering research, practice, and education of the future. Topics are related to any aspect of software engineering that include, but are not limited to:
+- Agile Methodologies
+- AI and Machine Learning for Software Engineering
+- Cloud and Service-oriented Computing
+- Component-based Software Engineering
+- Configuration Management and Deployment
+- Cooperative, Distributed, and Global Software Engineering
+- Cyber-physical Systems and Internet of Things
+- Debugging, Defect Prediction and Fault Localization
+- DevOps and Container
+- Embedded Real-time Systems
+- Empirical Software Engineering
+- Formal Methods
+- Human Factors and Social Aspects of Software Engineering
+- Middleware, Frameworks, and APIs
+- Mobile and Ubiquitous Systems
+- Model-driven and Domain-specific Engineering
+- Open Source Development
+- Parallel, Distributed, and Concurrent Systems 
+- Programming Languages and Systems
+- Refactoring
+- Requirements Engineering
+- Reverse Engineering
+- Search-based Software Engineering
+- Security, Reliability, and Privacy
+- Software Architecture, Modeling and Design
+- Software Comprehension, Visualization, and Traceability
+- Software Engineering for AI and Machine Learning
+- Software Engineering Education and Training
+- Software Engineering Process and Standards
+- Software Engineering for Smart Manufacturing
+- Software Engineering Tools and Environments
+- Software for Green and Sustainable Technologies
+- Software Maintenance and Evolution
+- Software Product-line Engineering
+- Software Project Management
+- Software Reuse
+- Software Repository Mining and Data Analytics
+- Testing, Verification, and Validation
+- Web-based Software Engineering
+
+*SUBMISSION INSTRUCTIONS*
+
+Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop. All submissions must be in English, and must come in A4 paper size PDF format and conform, at time of submission, to the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt font, LaTeX users must use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf option). Also, papers must comply with the IEEE Policy on Authorship. Submissions must be submitted electronically in PDF before the due date via EasyChair. 
+
+The Chairs reserve the right to reject submissions (without reviews) that are not in compliance or out of scope for the conference. If a submission is accepted, at least one author of the paper must register for APSEC 2022 and present the paper at the conference. If an accepted paper is not presented, the paper is removed from the proceedings.
+
+IMPORTANT: The APSEC 2022 technical research track will use a double-blind reviewing process, which means that submissions must not reveal the authors' identities. The authors must make every effort to honor the double-blind reviewing process. Submissions must adhere to the rules. Please read carefully the APSEC 2022 double-blind instructions before preparing your paper.
+https://conf.researchr.org/track/apsec-2022/apsec-2022-technical-track#APSEC-2022-Double-blind-Instructions
+
+*HOSTING ORGANIZATION* 
+The Special Interesting Group on Software Engineering (SIGSE) of Information Processing of Japan (IPSJ) hosts the conference. 
+
+*SPONSORS AND CONTACT* 
+APSEC 2022 will have sponsorship packages available, providing sponsors with a choice of advertising exposure related to your financial commitment. And it is also a good opportunity to renew friendships and establish new working opportunities.
+
+Contact us at apsec2022 [at] sigse.jp for further information. 
+
+*CONFERENCE COMMITTEE*
+
+General Chairs
+ - Hironori Washizaki (Waseda University / NII / SYSTEM INFORMATION / eXmotion)
+ - Takashi Kobayashi (Tokyo Institute of Technology)
+
+Program Chairs
+ - Yoshiki Higo (Osaka University)
+ - Yunja Choi (Kyungpook National University)
+
+Software Engineering in Practice Chairs
+ - Hideto Ogawa (Hitachi Ltd.)
+ - Norihiro Yoshida (Nagoya University)
+
+Early Research Achievements Chairs
+- Hideaki Hata (Shinshu University)
+- Morakot Choetkiertikul (Mahidol University)
+
+Software Engineering Education Chairs
+ - Shinsuke Matsumoto (Osaka University)
+ - Bastian Tenbergen (State University of New York at Oswego)
+
+Posters Chairs
+ - Takashi Ishio (Nara Institute of Science and Technology)
+ - Sinan Chen (Kobe University)
+
+Workshops Chairs
+ - Sousuke Amasaki (Okayama Prefectural University)
+ - Michael Felderer (University of Innsbruck)
+
+Tutorials Chair:
+ - Shinobu Saito (NTT)
+
+Proceedings Chairs
+ - Eunjong Choi (Kyoto Institute of Technology)
+ - DongGyun Han (Singapore Management University)
+
+Financial Chair
+ - Susumu Tokumoto (Fujitsu Limited)
+
+Registration Chair
+ - Takayuki Omori (Ritsumeikan University)
+
+Publicity Chair
+ - Masataka Nagura (Nanzan University)
+
+Web Chairs
+ - Masateru Tsunoda (Kindai University)
+ - Masanari Kondo (Kyushu University)
+
+Virtualization Chairs
+ - Hiroshi Igaki (Osaka Institute of Technology)
+ - Kenji Fujiwara (Tokyo City University)
+ - Erina Makihara (Doshisha University)
+
+Community Collaboration Chair
+ - Katsuhisa Maruyama (Ritsumeikan University)
+=================================================

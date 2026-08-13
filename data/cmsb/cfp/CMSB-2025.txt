@@ -1,0 +1,79 @@
+*******************************************************************************
+Call for Papers
+*******************************************************************************
+
+We are happy to announce that
+
+   the 23rd international conference on Computational Methods in Systems Biology, CMSB 2025,
+
+will be held in Lyon, France, from September 10 to 12,  2025.
+
+Conference website: https://cmsb2025.sciencesconf.org/
+
+Presubmission deadline:  28 April 2025
+Paper submission deadline: 5 May 2025
+
+
+*******************************************************************************
+Description
+*******************************************************************************
+
+CMSB is a well-established annual international conference that brings together researchers from across biological, computational, mathematical and physical sciences interested in the system-level study, modeling, simulation, advanced analysis and  design of biological systems. Information about previous CMSB conferences is available on the permanent CMSB website https://cmsb.sciencesconf.org/
+
+The CMSB proceedings are published in the series Lecture Notes in Bioinformatics (LNCS/LNBI) by Springer Nature, and indexed by ISI Web of Science, Scopus, DBLP, and Google Scholar.
+
+CMSB 2025 solicits original research articles and tool papers on the modelling, analysis or design of biological systems, as well as the analysis of biological data. The conference covers the broad field of computational methods and tools in systems and synthetic biology and their applications in biomedicine and the environment. The conference welcomes new theoretical results with potential applications to systems and synthetic biology, as well as novel applications and case studies of existing methods, tools, or frameworks. Topics of interest include, but are not limited to:
+
+- formalisms for modelling biological processes;
+- methods and tools for biological system analysis, modelling and simulation;
+- frameworks for model verification, validation, analysis, and simulation of biological systems;
+- high-performance methods for computational systems biology;
+- automated parameter and model inference;
+- machine learning and data analytics in biology and biomedicine;
+- multi-scale modelling, multi-agent simulation and analysis methods;
+- design, analysis, and verification methods for synthetic biology;
+- methods for biomolecular computing and engineered molecular devices;
+- model integration and biological databases;
+- data-based approaches for systems and synthetic biology;
+- optimality and control of biological systems;
+- modelling, analysis and control of microbial communities and ecosystems.
+
+
+*******************************************************************************
+Important Dates
+*******************************************************************************
+
+Pre-submission abstract (regular/tool papers):  before April 28th 2025
+Paper submission deadline (regular/tool papers): before May 5th 2025
+Notification: June 12th, 2025
+Camera ready: before June 23rd, 2025
+Submission of poster and highlight talks: before July 9th, 2025
+Conference: September 10-12th, 2025
+
+
+*******************************************************************************
+Submission Guidelines for the Main Track (regular and tool papers)
+*******************************************************************************
+
+All submitted papers have to be written in English and must be submitted in the form of a PDF file using the EasyChair online submission system, at the following link:
+
+https://easychair.org/conferences/?conf=cmsb25.
+
+Instruction for the Springer Nature LNCS style: http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines. Templates are available both for Latex and Word.
+
+Each submission will be reviewed by at least three members of the Program Committee (see above for specific reviewing information about tools). All accepted contributions must be presented at the conference by one of the authors.
+
+Contributions should be submitted to one of the following categories:
+
+A) REGULAR PAPERS: Regular papers should describe original work that has not been previously published and is not under review for publication elsewhere. Accepted regular papers will be published as part of the conference proceedings in the Springer LNCS series. Papers in this category should not exceed 15 pages in the Springer LNCS style (including main figures and tables, excluding references and possible appendices).
+
+B) TOOL PAPERS: Tool papers should present new tools or public websites, new tool components or novel extensions to existing tools or websites supporting biological system modelling, analysis, simulation, or similar. Submissions must include information on methods, tool availability, and selected application results. They should be original and not previously published in a similar form. Accepted tool papers will be published as part of the conference proceedings in the Springer LNCS series. Papers in this category should have 4-6 pages in the Springer LNCS style (including main figures and tables, excluding references and possible appendices).
+
+Two prizes will be delivered for the best regular or tool papers:
+
+- the best paper award
+- the best student paper award.
+
+
+Conference  website: https://cmsb2025.sciencesconf.org/
+

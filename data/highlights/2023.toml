@@ -18,3 +18,7 @@ publisher = "informal"
 
 [extra]
 notes = "Also an early submission deadline in February 2023. Short presentations, no formal proceedings, single author. We encourage you to attend and present your best work, be it already published or not, at the Highlights conference. Includes an Extended Stay Support Scheme."
+
+[[cfp]]
+file = "cfp/HIGHLIGHTS-2023.txt"
+stage = "initial"

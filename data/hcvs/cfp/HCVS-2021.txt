@@ -1,0 +1,107 @@
+Call for Papers
+
+8th Workshop on Horn Clauses for Verification and Synthesis (HCVS)
+Co-located with ETAPS 2021
+
+28 March 2021 - Luxembourg, Luxembourg
+
+https://www.sci.unich.it/hcvs21/
+
+
+Invited speakers:
+
+Please visit webpage for updates
+
+
+Submission deadlines:
+
+- Paper submission: Jan 28, 2021
+- Paper notification: Feb 27, 2021
+- Workshop: Mar 28, 2021
+
+
+Many Program Verification and Synthesis problems of interest can be modeled
+directly using Horn clauses and many recent advances in the CLP and CAV
+communities have centered around efficiently solving problems presented as Horn
+clauses.
+
+This series of workshops aims to bring together researchers working in the two
+communities of Constraint/Logic Programming (e.g., ICLP and CP), Program
+Verification (e.g., CAV, TACAS, and VMCAI), and Automated Deduction (e.g., CADE,
+IJCAR), on the topic of Horn clause based analysis, verification, and synthesis.
+
+Horn clauses for verification and synthesis have been advocated by these
+communities in different times and from different perspectives and HCVS is
+organized to stimulate interaction and a fruitful exchange and integration of
+experiences.
+
+The workshop follows seven previous meetings: HCVS 2020 in Dublin, Ireland
+(ETAPS 2020), HCVS 2019 in Prague, Czech Republic (ETAPS 2019), HCVS 2018 in
+Oxford, UK (CAV, ICLP and IJCAR at FLoC 2018), HCVS 2017 in Gothenburg, Sweden
+(CADE), HCVS 2016 in Eindhoven, The Netherlands (ETAPS), HCVS 2015 in San
+Francisco, CA, USA (CAV), and HCVS 2014 in Vienna, Austria (VSL).
+
+
+Topics of interest include, but are not limited to the use of Horn clauses,
+constraints, and related formalisms in the following areas:
+
+-Analysis and verification of programs and systems of various kinds (e.g.,
+imperative, object-oriented, functional, logic, higher-order, concurrent,
+transition systems, petri-nets, smart contracts)
+-Program synthesis
+-Program testing
+-Program transformation
+-Constraint solving
+-Type systems
+-Machine learning and automated reasoning
+-CHC encoding of analysis and verification problems
+-Resource analysis
+-Case studies and tools
+-Challenging problems
+
+
+We solicit regular papers describing theory and implementation of Horn-clause
+based analysis and tool descriptions. We also solicit extended abstracts
+describing work-in-progress, as well as presentations covering previously
+published results and posters that are of interest to the workshop.
+
+CHC Competition:
+HCVS 2021 will host the 4th competition on constraint Horn clauses ( CHC-COMP),
+which will compare state-of-the-art tools for CHC solving for performance and
+effectiveness on a set of publicly available benchmarks. A report on the 4th
+CHC-COMP will be part of the workshop's proceedings. The report also contains
+tool descriptions of the participating solvers.
+
+
+
+Program Committee:
+
+Please visit webpage for updates
+
+
+Submission has to be done in one of the following formats:
+
+-Regular papers (up to 12 pages plus bibliography in EPTCS
+(http://www.eptcs.org/) format), which should present previously unpublished
+work (completed or in progress), including descriptions of research, tools, and
+applications.
+-Tool papers (up to 4 pages in EPTCS format), including the papers written by
+the CHC-COMP participants, which can outline the theoretical framework, the
+architecture, the usage, and experiments of the tool.
+-Extended abstracts (up to 3 pages in EPTCS format), which describe work in
+progress or aim to initiate discussions.
+-Presentation-only papers, i.e., papers already submitted or presented at a
+conference or another workshop. Such papers can be submitted in any format, and
+will not be included in the workshop post-proceedings.
+-Posters that are of interest to the workshop
+
+
+All submitted papers will be refereed by the program committee and will be
+selected for inclusion in accordance with the referee reports. Accepted regular
+papers and extended abstracts will be published electronically as a volume in
+the Electronic Proceedings in Theoretical Computer Science (EPTCS) series, see
+http://www.eptcs.org/ (provided that enough regular papers are accepted).
+
+Papers must be submitted through the EasyChair system using the web page:
+https://easychair.org/conferences/?conf=hcvs2021
+

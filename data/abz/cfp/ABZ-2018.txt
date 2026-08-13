@@ -1,0 +1,151 @@
+
+ABZ 2018
+6th International ABZ (ASM, Alloy, B, TLA, VDM, Z) Conference
+June 5th-8th, 2018
+Southampton, UK
+www.southampton.ac.uk/abz2018 <http://www.southampton.ac.uk/abz2018>
+
+----------------------------------------------------------------------------------------------
+Call for Papers, Answers to the case study, Workshops, Tutorials
+----------------------------------------------------------------------------------------------
+
+The ABZ conference is dedicated to the cross-fertilization of six related
+state-based and machine-based formal methods, Abstract State Machines (ASM),
+Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are
+widely used in both academia and industry for the design and analysis of
+hardware and software systems. It builds on the success of the first ABZ
+conference held in London in 2008, where the ASM, B and Z conference series
+merged into a single event, the second ABZ 2010 conference held in Orford
+(Canada), where the Alloy community joined the event, the ABZ 2012 held in
+Pisa (Italy), which saw the inclusion of the VDM community, and ABZ 2014 held
+in Toulouse (France), which brought the inclusion of the TLA community into
+the ABZ conference series and the ABZ 2016 held in Linz, Austria. The ABZ 2018
+conference will be held in Southampton, UK.
+
+ABZ 2018 will have a main conference track, a case study track, tutorials and
+workshops.
+
+-----------------------
+Invited Speakers
+-----------------------
+Jean-Raymond Abrial, Marseille, France
+Janet Barnes and Angela Wallenburg, Altran, UK
+Daniel Jackson, Massachusetts Institute of Technology
+Klaus-Dieter Schewe, Software Competence Centre Hagenberg, Austria
+
+--------------------------
+Case Study Track
+--------------------------
+As successfully practiced at ABZ 2014 and ABZ 2016, the 6th edition of ABZ
+will again include special sessions dedicated to "Hybrid ERTMS/ETCS Level 3”
+case study. See here
+<https://www.southampton.ac.uk/abz2018/information/case-study.page?> for a
+detailed description of this case study.
+
+-----------------------
+Main ABZ Track
+-----------------------
+Contributions are solicited on all aspects of the theory and applications of
+ASMs, Alloy, B, TLA, VDM, Z approaches in software/hardware engineering,
+including the development of tools and industrial applications. The program
+spans from theoretical and methodological foundations to practical
+applications, emphasizing system engineering methods and tools that are
+distinguished by mathematical rigor and have proved to be industrially viable.
+The main goal of the conference is to contribute to the integration of
+accurate state- and machine-based system development methods, clarifying their
+commonalities and differences to better understand how to combine different
+approaches for accomplishing the various tasks in modeling, experimental
+validation, mathematical verification of reliable high-quality hardware/
+software systems. Although organized to host several formal methods with ASM,
+Alloy, B, TLA, VDM and Z, in a single event, editorial control of the joint
+conference is vested in one integrated program committee, which will
+respectively determine its ASM, Alloy, B, TLA, VDM and Z content, to be
+presented in parallel conference tracks with a schedule to allow the
+participants to switch between the sessions.
+
+-------------------------------------------------
+Workshop and Tutorial Proposals
+-------------------------------------------------
+Workshops and tutorials will be associated with the main event ABZ. Proposals
+are solicited in areas related to the conference topics.
+
+A workshop proposal should contain the title of the workshop, a short
+description of the scientific content, the names and brief CVs of the workshop
+organizers, the intended PC for the workshop, the duration of the workshop,
+and the expected number of participants.
+
+A tutorial proposal should contain the title of the tutorial, a short
+description of the scientific content, the names and brief CVs of the tutorial
+presenters and the duration.
+
+-----------------------
+Call For Papers
+-----------------------
+Four kinds of contributions are invited:
+
+•    Full Research papers: full papers of not more than 14 pages in LNCS
+format, which have to be original, unpublished and not submitted elsewhere.
+•    Short presentations of work in progress, and tool demonstrations: This is
+an excellent opportunity for Ph.D. students to present and validate their work
+in progress. An extended abstract of not more than 4 pages is expected and
+will be reviewed.
+•    Answers to case study papers: full papers of not more than 14 pages in
+LNCS format reporting on the experiments conducted with any of the state based
+techniques in the scope of ABZ 2014.
+•    Application in industry papers: reporting on work or experiences on the
+application of state based formal methods in industry. An extended abstract of
+not more than 4 pages is expected and will be reviewed. It is also an
+interesting option for industrial practitioners who sometimes face too many
+constraints to prepare a full paper.
+
+Accepted papers will appear in the Springer LNCS proceedings. See here
+<https://www.southampton.ac.uk/abz2018/call-for-contributions.page?> for
+submission details. The deadline for abstract submission is January 22, 2018
+and for paper submission is January 29, 2018.
+
+-----------------------
+Important dates
+-----------------------
+Abstract submission deadline: January 22, 2018
+Paper submission deadline: January 29, 2018 (including research/short/case
+study/industry papers)
+Workshop proposal submission deadline: December 15, 2017
+Tutorial proposal submission: February 16, 2018
+ABZ 2018 conference: June 5-8, 2018
+
+-------------------
+Organization
+-------------------
+Conference Chairs:
+
+Michael Butler <http://www.ecs.soton.ac.uk/people/mjb>, University of
+Southampton, Southampton, UK
+Alexander Raschke <https://www.uni-ulm.de/en/in/pm/team/raschke/>, Universität
+Ulm, Ulm, Germany
+
+Case Study Chairs:
+
+Klaus Reichl <mailto:klaus.reichl@thalesgroup.com>, Thales Ground Transport
+Division, Vienna, Austria
+Thai Son Hoang <http://www.ecs.soton.ac.uk/people/tsh2n14>, University of
+Southampton, Southampton, UK
+
+Workshop Chairs:
+
+Stefan Hallerstede
+<http://pure.au.dk/portal/en/persons/id(65c96a3f-b4af-473c-a0d8-7909b2f2903c).html>,
+Aarhus University, Aarhus, Denmark
+
+Tutorial Chairs:
+
+Colin Snook <http://www.ecs.soton.ac.uk/people/cfs>, University of
+Southampton, Southampton, UK
+
+Publicity Chair
+
+Asieh Salehi <http://www.ecs.soton.ac.uk/people/asf08r>, University of
+Southampton, Southampton, UK
+
+For further questions concerning ABZ 2018, please contact us at
+abz2018@soton.ac.uk <mailto:abz2018@soton.ac.uk>
+

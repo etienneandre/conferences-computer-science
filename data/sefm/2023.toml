@@ -26,3 +26,7 @@ submitted = 41
 
 [extra]
 notes = "Artifact evaluation."
+
+[[cfp]]
+file = "cfp/SEFM-2023.txt"
+stage = "initial"

@@ -19,3 +19,11 @@ license = "free"
 
 [extra]
 notes = "In French (?). Moved from Vannes, Bretagne to fully online due to the COVID-19 pandemic."
+
+[[cfp]]
+file = "cfp/AFADL-2021.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/AFADL-2021-extended.txt"
+stage = "extended"

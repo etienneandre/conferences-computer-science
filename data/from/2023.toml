@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "In conjunction with ILDS Coq and Lean Autumn School 2023."
+
+[[cfp]]
+file = "cfp/FROM-2023.txt"
+stage = "initial"

@@ -19,3 +19,7 @@ license = "free"
 
 [extra]
 notes = "Co-located with IJCAR and FSCD, and part of <a href=\"https://lipn.univ-paris13.fr/summer-of-love-2020/\">Paris Nord Summer of LoVe 2020</a>. Informal proceedings (earlier / concurrent / later submission allowed). Live complexity and termination competition during the workshop. Every one or two years. CANCELLED."
+
+[[cfp]]
+file = "cfp/WST-2020.txt"
+stage = "initial"

@@ -1,0 +1,66 @@
+ 
+ICPS 2018 : IEEE International Conference on Industrial Cyber-Physical Systems
+Link: https://icps2018.net/
+ 
+When 	May 15, 2018 - May 18, 2018
+Where 	Saint Petersburg, Russia
+Submission Deadline 	Dec 22, 2017
+Notification Due 	Feb 28, 2018
+Final Version Due 	Mar 31, 2018
+ 
+ 
+ 
+ 
+Call For Papers
+-------------------------------------------------------------------------------------------
+The 1st IEEE International Conference on Industrial Cyber-Physical Systems (ICPS 2018)
+Saint Petersburg, Russia, on May 15-18, 2018. http://icps2018.net/
+-------------------------------------------------------------------------------------------
+
+EEE ICPS 2018 is going to be the first of a premier conference series presenting the state of the art and future perspectives of Industrial Cyber-Physical Systems. An international forum, where industry experts, researchers, and academics share ideas and experiences surrounding frontier technologies, breakthrough and innovative solutions and applications, pertaining to (i) how Industrial Cyber-Physical Components, Systems, and Services are designed, implemented, deployed and operated by the industry; (ii) how they communicate and cooperate with each other as well as humans in real time, and (iii) how they are in conjunction with the Internet-of-Services and real-time analytics on Big Data, enhancing internal and cross-organizational engineering, management, control and automation functionalities for all stakeholders across a digitized value-chain.
+
+The aim of the IEEE International Conference on Industrial Cyber-Physical Systems is to provide a platform to exchange research and innovation results, lessons learned from industrial practices associated with new paradigms and technologies.
+
+Topics within the scope of the conference:
+- ICPS Architectures: Industry Architectures, Industry Standards, RAMI 4.0, Industrial IoT
+- ICPS Technologies: Core Technologies, Interoperability, Communication Networks, Connectivity OT/IT, Semantics, Control, Security, IoT/IoS, Machine Learning, Autonomous Systems, Cloud-Fog Computing, Big/Smart Data, Security
+- ICPS Engineering: Engineering Methods and Tools, Lifecycle Management, Integration, HMI, Safety, Engineering Systems of ICPS
+- ICPS Applications: Smart Manufacturing, Robotics, Smart Cities, Energy / Smart Grid, Smart Living, Smart Framing, Mobility, Water Management, Mining, Oil & Gas, Intelligent Enterprise, Smart Transportation, Internet of Underwater Things, Smart Medical Systems
+- ICPS Management and Ecosystems: Innovation Management, Innovation Ecosystems, Visions/Roadmaps, Industry Digitalization, Strategies & Markets, Entrepreneurship
+- ICPS Education and Social Aspects: Digital Society, Education, Lifelong ICPS Learning, ICPS Curricula, Future of Work, Social Aspects, Sustainability, Machine Ethics
+
+
+Special Sessions
+To enhance the technical program and focus on specific topics and areas, ICPS 2018 will include special sessions, in addition to regular ones, that cover subjects or cross-subjects belonging to the topics of interest, or new relevant novel topics. If you are interested in organizing one, please contact ss@icps2018.net.
+
+Industry Forum
+To support specific industry-focused discussions among participants, ICPS 2018 will include an Industry Forum consisting a set of technical sessions with the participation of leading companies and institutions. Please contact industry-forum@icps2018.net.
+
+Tutorials
+Several tutorials are planned on the latest trends pertaining to Industrial Cyber-Physical Systems taking place on May 15th, 2018. If you are interested in organizing a tutorial, please contact tutorials@icps2018.net.
+
+Submission of Papers
+The working language of the conference is English. Prospective participants are requested to electronically submit full papers of their work (6 pages) following the IEEE template and instructions available on the conference website. Accepted papers will be published in IEEE proceedings to be included in IEEE-Xplore. Excellent papers may be invited to the IEEE Transaction on Industrial Informatics.
+
+Paper Acceptance
+Each accepted paper must be presented at the conference by one of the authors. Papers not presented will not be included in IEEE-Xplore. The final manuscript must be accompanied by a full registration fee payment. All conference attendees, including authors and session chairpersons, must pay the conference registration fee, and cover their own travel/lodging expenses.
+
+Important dates
+
+    November 19, 2017
+    Special Session proposals
+    December 22, 2017
+    Paper submission
+    February 28, 2018
+    Notification of acceptance
+    February 28, 2018
+    Tutorial proposals
+    March 31, 2018
+    Final paper submission
+    May 15, 2018
+    Tutorial day
+    May 15-18, 2018
+    Conference dates
+
+The conference website is https://icps2018.net/
+E-mail: info@icps2018.net

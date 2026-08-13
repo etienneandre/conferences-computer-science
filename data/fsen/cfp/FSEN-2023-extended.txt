@@ -1,0 +1,145 @@
+Tenth International Conference on Fundamentals of Software Engineering 2023 - Theory and Practice (FSEN '23)
+
+http://fsen.ir/2023
+
+Tehran, Iran
+May 3-5, 2023
+IMPORTANT INFORMATION
+
+Under the current circumstances, the FSEN Steering and Organizing Committees have decided to hold FSEN 2023
+in a hybrid or mixed format, offering virtual presentation as an option to participants. All accepted papers will be published in the conference proceedings, regardless of whether a physical or virtual presentation is given.
+More details will follow in the course of time via the FSEN 2023 website.
+About FSEN
+
+Fundamentals of Software Engineering (FSEN) is an international conference that aims to bring together researchers, engineers, developers, and practitioners from academia and industry to present and discuss their research work in the area of formal methods for software engineering.
+Additionally, this conference seeks to facilitate the transfer of experience, adaptation of methods, and where possible, foster collaboration among different groups.
+
+The topics of interest cover all aspects of formal methods, especially those related to advancing the application of formal methods in the software industry and promoting their integration with practical engineering techniques.
+Following the success of the previous FSEN editions, the next edition of the FSEN conference will take place in Tehran, Iran, May 3-5, 2023.
+Important Dates
+
+    Paper Submission: November 4, 2022 (AoE)  -extended deadline-
+    Notification: December 2, 2022
+    Final pre-Conference Version: January 20, 2023 (AoE)
+    Conference: May 3-5, 2023
+
+Keynote Speakers (confirmed)
+
+    Wolfgang Ahrendt, Chalmers University of Technology, Sweden
+    Dines Bjørner, Technical University of Denmark, Denmark
+    Mohammad Reza Mousavi, King's College London, UK
+    Heike Wehrheim, University of Oldenburg, Germany
+
+Topics of Interest
+The topics of this conference include, but are not restricted to, the following:
+
+    Models of programs and software systems
+    Software specification, validation, and verification
+    Software testing
+    Software architectures and their description languages
+    Object, actor and multi-agent systems
+    Coordination, feature interaction and software product lines
+    Integration of formal and informal methods
+    Integration of different formal methods
+    Component-based and service-oriented software systems
+    Collective, self-adaptive and cyber-physical software systems
+    Model checking and theorem proving
+    Quantitative formal methods
+    Software and hardware verification
+    CASE tools and tool integration
+    Industrial applications
+
+Paper Submission
+Authors are invited to submit full papers (up to 15 pages including references) describing original research, applications and tools; or short papers (up to 6 pages including references) describing ongoing research or new ideas that have not yet been fully validated.
+Both categories of papers must be submitted electronically in PDF using the online submission process via the Easychair conference system at the following link:
+https://www.easychair.org/conferences/?conf=fsen2023.
+
+Contributions must be written in English, should be formatted according to the Springer LNCS style (LaTeX2e Proceedings Templates) that can be found at the following link (http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and not exceed the page limit for the category (including figures and references).
+
+Each submission will be thoroughly reviewed by at least three reviewers considering scientific originality, significance, relevance to the FSEN conference, technical soundness, clarity, self-containedness and discussion of appropriate related work.
+
+The reviewers will be asked to rate the submissions and evaluate whether they can be accepted as:
+
+    Full paper for the LNCS post-proceedings and conference pre-proceedings
+    Short paper for the LNCS post-proceedings and conference pre-proceedings
+    Poster included only in the pre-proceedings
+
+Papers accepted in the first 2 categories will be invited for presentation at the conference. Posters will be illustrated by the authors in separate poster sessions.
+
+Submissions are required to report on original, unpublished work and should not be submitted simultaneously for publication elsewhere (cf. IFIP's Author Code of Conduct, see http://www.ifip.org/ under Publications/Links).
+Proceedings and Special Issue
+The post-proceedings of FSEN'23 will be published by Springer in the LNCS series.
+Pre-proceedings, printed locally by IPM, will be available at the conference.
+Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN'23.
+After the conference a selection of papers will be invited for this special issue.
+The invited papers should be revised and extended and will undergo a new round of review by an international program committee.
+Please see the websites of previous editions of FSEN for more information on post-proceedings and special issues related to those editions.
+General Chairs
+
+    Farhad Arbab, CWI, the Netherlands; Leiden University, the Netherlands
+    Pejman Lotfi-Kamran, IPM, Iran
+
+Program Chairs
+
+    Hossein Hojjat, Tehran Institute for Advanced Studies, Iran
+    Erika Abraham, RWTH Aachen University, Germany
+
+Publicity Chair
+
+    Maurice ter Beek, CNR-ISTI Pisa, Italy
+
+Steering Committee
+
+    Farhad Arbab, CWI, the Netherlands; Leiden University, the Netherlands
+    Christel Baier, University of Dresden, Germany
+    Frank de Boer, CWI, the Netherlands; Leiden University, the Netherlands
+    Ali Movaghar, IPM, Iran; Sharif University of Technology, Iran
+    Hamid Sarbazi-azad, IPM, Iran; Sharif University of Technology, Iran
+    Marjan Sirjani, Mälardalen University, Sweden; Reykjavik University, Iceland (Chair)
+    Carolyn Talcott, SRI International, USA
+    Martin Wirsing, LMU Munich, Germany
+
+Program Committee
+
+    Ebru Aydin Gol, Middle East Technical University, Turkey
+    Ezio Bartocci, Vienna University of Technology, Austria
+    Simon Bliudze, Institut National de Recherche en Informatique et en Automatique (INRIA), France
+    Maria Paola Bonacina, Università degli Studi di Verona, Italy
+    Borzoo Bonakdarpour, Michigan State University, USA
+    Marcello Bonsangue, Leiden University, Netherlands
+    Mario Bravetti, University of Bologna, Italy
+    Georgiana Caltais, University of Twente, Netherlands
+    Erik De Vink, Eindhoven University of Technology
+    Fathiyeh Faghih, University of Tehran, Iran
+    Wan Fokkink, Vrije Universiteit Amsterdam, Netherlands
+    Adrian Francalanza, University of Malta, Malta
+    Fatemeh Ghassemi, University of Tehran, Iran
+    Amir Goharshady, The Hong Kong University of Science and Technology, Hong Kong
+    Jan Friso Gr oote, Eindhoven University of Technology, Netherlands
+    Kim Larsen, Aalborg University, Denmark
+    Hassan Haghighi, Shahid Beheshti University, Iran
+    Osman Hasan, National University of Sciences and Technology (NUST), Pakistan
+    Mohammad Izadi, Sharif University of Technology, Iran
+    Einar Broch Johnsen, University of Oslo, Norway
+    Narges Khakpour, Linnaeus University, Sweden
+    Ehsan Khamespanah, University of Tehran, Iran
+    Ramtin Khosravi, University of Tehran, Iran
+    Eva Kühn, Vienna University of Technology, Austria
+    Mieke Massink, CNR-ISTI, Italy
+    Jedidiah McClurg, Colorado School of Mines, USA
+    Rosemary Monahan, Maynooth University, Ireland
+    Mohammad Mousavi, King's College London, UK
+    Ali Movaghar, Sharif University of Technology, Iran
+    Luigia Petre, Åbo Akademi University, Finland
+    José Proença, CISTER-ISEP and HASLab-INESC TEC, Portugal
+    Anne Remke, University of Münster, Germany
+    Philipp Ruemmer, University of Regensburg, Germany
+    Asieh Salehi Fathabadi, University of Southampton, UK
+    Cristina Seceleanu, Mälardalen University, Sweden
+    Marjan Sirjani, Mälardalen University, Sweden
+    Meng Sun, Peking University, China
+    Carolyn Talcott, SRI International, USA
+    Tayssir Touili, Laboratoire d'Informatique de Paris Nord (LIPN), France
+    Martin Wirsing, Ludwig Maximilian University of Munich, Germany
+    Lijun Zhang, Institute of Software Chinese Academy of Sciences, China
+    Peter Ölveczky, University of Oslo, Norway

@@ -1,0 +1,68 @@
+26TH IEEE REAL-TIME AND EMBEDDED TECHNOLOGY AND APPLICATIONS SYMPOSIUM, SYDNEY, AUSTRALIA
+
+Important Dates:
+
+Submissions: 23 October 2019
+Author Rebuttal: 27-29 November 2019
+Notifications: 11 December, 2019
+
+Conference Website: http://2020.rtas.org/
+
+RTAS 2020 Call for Papers
+
+RTAS is a top-tier conference with a focus on systems research related to embedded systems or timing issues. The broad scope of RTAS’20 ranges from traditional hard real-time systems to embedded systems without explicit timing requirements, including latency-sensitive systems with informal or soft real-time requirements.
+
+RTAS’20 invites papers describing original systems and applications, case studies, methodologies, and applied algorithms that contribute to the state of practice in the design, implementation, verification, and validation of embedded systems and time-sensitive systems (of any size). The scope of RTAS’20 consists of two tracks:
+
+1. Real-Time/Embedded Systems: Applications, Operating Systems, Run-Time Systems, Tools and Hardware Architectures.
+2. Real-Time Applied Methodologies and Foundations.
+
+Timing requirements of interest include not only classical hard real-time constraints, but also time-sensitive applications in a broader sense, including applications subject to probabilistic, soft real-time, quality-of-service (QoS), or latency requirements. For example, relevant application areas include (but are not limited to):
+
+ - time-sensitive cloud/edge/fog computing systems (e.g., characterized by a focus on tail latency);
+ - time-sensitive applications in the Internet of Things (IoT);
+ - time-sensitive distributed event processing systems;
+ - time-sensitive mobile computing apps;
+ - timing aspects in robotics middlewares and frameworks;
+ - machine learning in or for time-sensitive systems;
+ - real-time control in smart cities and other large cyber-physical systems (CPS);
+ - signal processing algorithms that must execute in real time; and
+ - real-time healthcare solutions.
+
+RTAS’20 welcomes both papers backed by formal proofs as well as papers that focus exclusively on empirical validation of timing requirements. Track 1 further welcomes applied systems papers that focus on practical issues other than timing in the broader field of embedded/CPS/IoT systems and applications.
+
+The conference proceedings will be published by IEEE and indexed on IEEE Explore. RTAS’20 follows a double-blind peer reviewing process: author identities and affiliations will not be revealed to reviewers.  Authors will have the opportunity to provide a rebuttal of reviews before acceptance decisions are made, solely to provide clarifications and correct misconceptions. The rebuttal will not allow authors to introduce new material beyond the original submission, or promise such material for the camera-ready version. There will be an optional artifact evaluation process for accepted papers that assesses the reproducibility of the work.
+
+Track 1: Real-Time/Embedded Systems – Applications, Operating Systems, Run-Time Systems, Tools and Hardware Architecture.
+
+The systems track focuses on research of an empirical nature pertaining to applications and runtime software for time-sensitive or embedded systems. Applied systems papers that target embedded systems do not necessarily need to consider timing issues. Relevant areas include, but are not limited to,
+ - real-time and embedded operating systems,
+ - CPS and IoT infrastructure,
+ - real-time and embedded middleware, tools, and case studies, incl.
+    . worst-case execution time analysis,
+    . analyses of cache, memory hierarchies and communication infrastructures;
+ - hardware or software architectures for real-time or embedded systems, incl.
+    . SoC design for real-time/embedded applications,
+    . special-purpose functional units and GPUs,
+    . specialized memory structures, chip multiprocessors and interconnects,
+    . FPGA simulation and prototyping,
+    . power- and energy-awareness;
+ - cloud computing and data processing in support of the above topics.
+
+Papers discussing design and implementation experiences on real industrial systems are especially encouraged.
+
+Papers submitted to this track should focus on specific systems and implementations. Authors must include a section with experimental results performed on a real implementation, or demonstrate applicability to an industrial case study or working system. The experiment or case study discussions must highlight the key lessons learned. Evaluations must be free of “benchmarking crimes”
+
+Simulation-based results are acceptable  for architectural simulation, or other cases where authors need to clearly motivate why it is not feasible to develop and evaluate a real system.
+
+Track 2: Real-Time Applied Methodologies and Foundations
+
+This track focuses on fundamental models, techniques, methods, and analyses that are applicable to time-sensitive systems to solve specific problems. For submissions to be in scope for Track 2, the work must consider some form of timing requirements, which includes both classical hard or soft real-time systems as well as latency-sensitive systems in domains such as (but not limited to) CPS, IoT, or the Cloud. General topics relevant to this track include, but are not limited to:
+ - scheduling and resource allocation;
+ - specification languages and tools;
+ - system-level optimization and co-design techniques;
+ - design space exploration; and
+ - verification and validation methodologies.
+
+Papers must describe the main context or use-case for the proposed methods giving clear motivating examples based on real systems. The system models and any assumptions used in the derivation of the methods must be applicable to real systems and reflect actual needs. Papers must include a section on experimental results, preferably including a case study based on information from a real system. The use of synthetic workloads and models is however acceptable if appropriately motivated and used to provide a systematic evaluation.
+

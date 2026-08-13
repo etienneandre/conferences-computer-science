@@ -1,0 +1,393 @@
+********************************************************************
+
+Call for Papers: FORMALISE 2022
+
+10th International Conference on Formal Methods in Software Engineering
+
+May 22-23, co-located event of ICSE 2022, Pittsburgh, PA
+
+http://www.formalise.org/
+
+********************************************************************
+
+
+Overview
+
+--------
+
+
+The software industry needs tools and methods to deliver high-quality
+software. Much progress has been achieved from the early days of
+software development; still, nowadays, even considering the state of the
+art of the technologies used, the success of software projects is often
+not guaranteed. Many of the approaches used for developing large,
+complex software systems are still not able to ensure the correct
+behavior — and the general quality — of the delivered product, despite
+the efforts of the (often very qualified and skilled) software engineers
+involved. This is where formal methods can play a significant role.
+Indeed, they have been developed to provide the means for greater
+precision and thoroughness in modeling, reasoning about, validating, and
+documenting the various aspects of software systems during their
+development. When carefully applied, formal methods can aid all aspects
+of software creation: user requirement formulation, design,
+implementation, verification/testing, and the creation of documentation.
+
+
+After decades of research though, and despite significant advancement,
+formal methods are still not widely used in industrial software
+development. We believe that closer integration of formal methods in
+software engineering can help increase the quality of software
+applications, and at the same time highlight the benefits of formal
+methods in terms also of the generated return on investment (ROI).
+
+
+The main objective of the conference is to foster the integration
+between the formal methods and the software engineering communities, to
+strengthen the — still too weak — links between them, and to stimulate
+researchers to share ideas, techniques, and results, with the ultimate
+goal to propose novel solutions to the fraught problem of improving the
+quality of software systems.
+
+
+Originally a successful satellite workshop of ICSE, since 2018 FormaliSE
+is organised as a conference co-located with ICSE. FormaliSE 2022 will
+take place on May 22-23 2022 in Pittsburgh, PA (or online).
+
+
+
+Topics of interest
+
+------------------
+
+
+Areas of interest include but are not limited to:
+
+
+- approaches, methods and tools for verification and validation;
+
+- correctness-by-construction approaches for software and systems
+engineering;
+
+- application of formal methods to specific domains, e.g., autonomous,
+cyber-physical, intelligent, and IoT systems;
+
+- formal methods for AI-based systems (FM4AI), and AI applied in formal
+method approaches (AI4FM);
+
+- scalability of formal methods applications;
+
+- integration of formal methods within the software development
+lifecycle (e.g., change management, continuous integration and deployment);
+
+- requirements formalization and formal specification;
+
+- model-based software engineering approaches;
+
+- analysis of performance and other non-functional properties based on
+formal approaches;
+
+- formal methods in a certification context;
+
+- formal approaches for safety and security;
+
+- usability of formal methods;
+
+- guidelines to use formal methods in practice;
+
+- case studies developed/analyzed with formal approaches;
+
+- experience reports on the application of formal methods to real-world
+problems.
+
+
+
+Submission types
+
+----------------
+
+
+We invite you to submit:
+
+
+- Full research papers that describe authors’ original research work and
+results. We encourage authors to include validation with respect to a
+case study in the recommended themes. We welcome research papers
+focusing on tools and tool development.
+
+
+- Case study papers that identify lessons learned, validate theoretical
+results (such as scalability of methods), or provide specific motivation
+for further research and development.
+
+
+- Research ideas: FormaliSE encourages the submission of new research
+ideas in order to stimulate discussions at the conference.
+
+
+
+Artifact Evaluation (NEW)
+
+-------------------------
+
+
+Reproducibility of experimental results is crucial to foster an
+atmosphere of trustworthy, open, and reusable research. To improve and
+reward reproducibility, FormaliSE 2022 for the first time includes a
+dedicated Artifact Evaluation (AE) procedure. An artifact is any
+additional material (software, data sets, machine-checkable proofs,
+etc.) that substantiates the claims made in the paper and ideally makes
+them fully reproducible. Submission of an artifact is optional but
+encouraged for all papers where it can support the results presented in
+the paper. Artifacts will be reviewed concurrently with the paper
+reviewing process, and the results of the evaluation may be taken into
+consideration for the corresponding paper acceptance decision. Accepted
+papers with a successfully evaluated artifact will receive a badge to be
+shown on the published paper's title page. All papers with an evaluated
+and publicly archived artifact with a DOI may be allowed one extra page
+in the camera-ready version to describe the artifact.
+
+
+
+Submission guidelines
+
+---------------------
+
+
+FormaliSE 2022 will implement the following **light-weight double-blind
+policy**: Authors of research papers must omit their names and
+institutions from the title page, refer to their other work in the third
+person, and omit acknowledgements that could reveal their identity or
+affiliation. The purpose is to avoid any bias based on authors’ identity
+characteristics, such as gender, seniority, or nationality, in the
+review process. Our goal is to facilitate an unbiased approach to
+reviewing by supporting reviewers’ access to works that do not carry
+obvious references to the authors’ identities. As mentioned above, this
+is a light-weight double-blind process. *Anonymization should not be a
+heavy burden for authors and should not make papers weaker or more
+difficult to review.* Advertising the paper on alternate forums (e.g.,
+via a personal web-page, preprint archive, email, talks, discussions
+with colleagues) is permitted, and authors will not be penalized for
+such advertisement.
+
+
+**Full papers are expected to be up to 10 pages long including all text,
+figures, tables and appendices, but excluding the references.** (Shorter
+papers are acceptable). However, we would like to avoid that the authors
+waste time fitting their papers into that limit at the expense of
+presentation clarity: *paper lengths slightly exceeding the stated limit
+will be tolerated provided that the presentation is of high quality*,
+which will be left at the appreciation of the reviewers. **Research
+ideas papers are expected to be 4 pages plus up to 1 additional page of
+references**, with the same guiding principle as for the regular papers
+above. All submissions must be in English and in PDF format.
+
+
+All submissions must conform to the ACM formatting guidelines.
+Formatting instructions are available
+athttps://www.acm.org/publications/proceedings-template
+<https://www.acm.org/publications/proceedings-template>for both LaTeX
+and Word users. LaTeX users must use the provided acmart.cls and
+ACM-Reference-Format.bst without modification, enable the conference
+format in the preamble of the document (i.e.,
+\documentclass[sigconf,review]{acmart}), and use the ACM reference
+format for the bibliography (i.e.,
+\bibliographystyle{ACM-Reference-Format}). The review option adds line
+numbers, thereby allowing referees to refer to specific lines in their
+comments.
+
+Papers submitted to FormaliSE 2022 must not have been published
+elsewhere and must not be under review or submitted for review elsewhere
+whilst under consideration for FormaliSE 2022.
+
+
+Submissions to FormaliSE 2022 that meet the above requirements can be
+made via EasyChair <https://easychair.org/conferences/?conf=formalise2022>.
+
+
+Artifact submissions are not subject to the double-blind submission
+requirement since it is in most cases infeasible to properly anonymize
+an artifact. Note that the paper corresponding to an artifact must still
+follow the double-blind submissions requirements described above.
+Artifacts will be handled by a separate Artifact Evaluation Committee,
+and the Artifact Evaluation process will be set up such that the
+anonymization of the corresponding papers will not be compromised.
+
+
+Detailed guidelines for preparation and submission of artifacts will be
+specified on a dedicated web page reachable via http://www.formalise.org/.
+
+
+Selection procedure
+
+-------------------
+
+
+Each paper will be reviewed by at least three program committee members.
+Papers will be judged on the basis of their clarity, relevance,
+originality, and contribution to the field.
+
+
+FormaliSE 2022 will implement **a light-weight rebuttal scheme**: if all
+the reviewers of a given submission agree that a clarification from the
+authors regarding a specific question could move a borderline paper into
+the acceptable range, the chairs will ask that question to the authors
+by e-mail and post their reply on EasyChair for the benefit of the
+reviewers. The goal of such light-weight rebuttals is to eliminate
+“coin-toss” decisions on borderline papers. Hence, it will clearly
+concern only a minority of submissions and most of the authors should
+not expect to receive such questions. However, *we would ask the
+corresponding authors of all submissions to make sure that they are
+available to answer a question by email if the necessity were to arise*.
+
+
+Artifacts will be assessed with respect to their consistency with the
+results presented in the paper, their completeness, and their
+documentation and ease of use. The Artifact Evaluation will include an
+initial check for technical issues; authors of artifacts may be
+contacted by e-mail within the first two weeks after artifact submission
+to help resolve any technical problems that prevent the evaluation of an
+artifact if necessary.
+
+
+
+Publication
+
+-----------
+
+
+All accepted publications are published as part of the ICSE 2022
+Proceedings in the ACM and IEEE Digital Libraries.
+
+
+At least one author of each accepted paper is required to attend the
+conference — physically or, if the circumstances warrant so, virtually —
+and present the paper in person. Otherwise, the paper will be removed
+from the proceedings.
+
+
+
+Important dates
+
+---------------
+
+
+===================== =========== ====
+
+Abstracts due:        13 January  2022
+
+Submissions due:      20 January  2022
+
+Artifacts due:        27 January  2022
+
+Notifications:        04 March    2022 (to be confirmed)
+
+Camera ready copies:  18 March    2022 (to be confirmed)
+
+FormaliSE conference: 22-23 May   2022
+
+===================== =========== ====
+
+
+
+Organization
+
+------------
+
+
+General Chairs
+
+~~~~~~~~~~~~~~
+
+
+- Stefania Gnesi (Istituto di Scienza e Tecnologie dell'Informazione, Italy)
+
+- Nico Plat (Thanos, The Netherlands)
+
+
+Program Chairs
+
+~~~~~~~~~~~~~~
+
+
+- Ina Schaefer (TU Braunschweig, Germany)
+
+- Arnd Hartmanns (University of Twente, The Netherlands)
+
+
+Artifact Evaluation Chair
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+- Carlos E. Budde (Università degli Studi di Trento, Italy)
+
+
+Social Media Chair
+
+~~~~~~~~~~~~~~~~~~
+
+
+- Claudio Menghi (McMaster University, Canada)
+
+
+Program committee
+
+~~~~~~~~~~~~~~~~~
+
+
+- Toshiaki Aoki (Japan Advanced Institute of Science and Technology, Japan)
+
+- Kyungmin Bae (Pohang University of Science and Technology, South Korea)
+
+- Simon Bliudze (INRIA Lille, France)
+
+- Rabéa Ameur Boulifa (Télécom Paris, France)
+
+- Christiano Braga (Universidade Federal Fluminense, Brazil)
+
+- Ana Cavalcanti (University of York, UK)
+
+- Nancy Day (University of Waterloo, Canada)
+
+- Carlo Furia (Università della Svizzera italiana, Switzerland)
+
+- Ebru Aydin Gol (Middle East Technical University, Turkey)
+
+- Roberta Gori (Università di Pisa, Italy)
+
+- Laura R. Humphrey (Air Force Research Laboratory, USA)
+
+- Marie-Christine Jakobs (Technische Universität Darmstadt, Germany)
+
+- Sebastian Junges (Radboud Universiteit, The Netherlands)
+
+- Wanwei Liu (National University of Defense Technology, China)
+
+- Malte Lochau (Universität Siegen, Germany)
+
+- Antónia Lopes (Universidade de Lisboa, Portugal)
+
+- Mieke Massink (Istituto di Scienza e Tecnologie dell'Informazione, Italy)
+
+- Anastasia Mavridou (NASA Ames Research Center, USA)
+
+- Hernán Melgratti (Universidad de Buenos Aires, Argentina)
+
+- Alex Potanin (Victoria University of Wellington, New Zealand)
+
+- Gwen Salaün (Université Grenoble Alpes, France)
+
+- Sean Sedwards (University of Waterloo, Canada)
+
+- Laura Semini (Università di Pisa, Italy)
+
+- Silvia Lizeth Tapia Tarifa (Universitetet i Oslo, Norway)
+
+- Maurice ter Beek (Istituto di Scienza e Tecnologie dell'Informazione,
+Italy)
+
+- Andrea Turrini (Institute of Software, Chinese Academy of Sciences, China)
+
+- Marcel Verhoef (European Space Agency, The Netherlands)
+
+- Heike Wehrheim (Universität Paderborn, Germany)

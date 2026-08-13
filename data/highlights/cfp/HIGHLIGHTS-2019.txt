@@ -1,0 +1,38 @@
+HIGHLIGHTS 2019: 7th annual conference on Highlights of LOGIC, GAMES, and AUTOMATA
+
+17-20 September 2019, Warsaw
+http://highlights-conference.org
+
+HIGHLIGHTS 2019 is the seventh conference on Highlights of Logic, Games and Automata that aims at integrating the community working in these fields. Papers from these areas are dispersed across many conferences, which makes them difficult to follow. A visit to the Highlights conference should offer a wide picture of the latest research in the field and a chance to meet everybody in the community, not just those who happen to publish in one particular proceedings volume.
+
+The conference is short (from 18 September to the mid-day on 20 September) and it is preceded by the Highlights Tutorial Day (17 September). The participation costs are modest and Warsaw is easy to reach.
+
+The Contributed Presentations will be around ten minutes long. All speakers will be also invited to contribute to a Poster Session, which will open new ways of interaction at the conference for the whole Highlights community.
+
+We encourage you to attend and present your best work, be it already published or not, at the Highlights conference.
+
+SCOPE:
+Representative areas include, but are not restricted to:
++ logic and finite model theory
++ automata theory
++ games for logic and verification
+
+IMPORTANT GUIDELINES:
+The main part of your submission is an abstract, which should serve as a proposal for a presentation. Hence, submissions should have a single author—the speaker. We expect you to present your favourite result of the year, so there should be at most one submission per speaker. The Abstract may include a list of co-authors.
+
+There are no formal proceedings and we encourage submission of work presented elsewhere. You may submit a pre-print of a paper that your presentation is based on, but you are not required to do that.
+
+SUBMISSION SERVER:
+https://easychair.org/conferences/?conf=highlights2019
+
+IMPORTANT DATES
+10 June AoE: Submission deadline
+20 June: Notification
+
+================================================
+COLOCATED EVENT:
+3rd School on Foundations of Programming and Software Systems on
+NOMINAL TECHNIQUES
+10-15 September 2019
+https://www.mimuw.edu.pl/~fopss19
+

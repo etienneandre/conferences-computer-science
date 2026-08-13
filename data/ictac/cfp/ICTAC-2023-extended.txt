@@ -1,0 +1,112 @@
+------------------------------------------------------------------------------
+ICTAC 2023 - Final Call for Papers
+20th International Colloquium on Theoretical Aspects of Computing
+04-08 December 2023, Lima - Peru
+https://ictac2023.compsust.utec.edu.pe/
+------------------------------------------------------------------------------
+
+NEWS: DEADLINE EXTENDED and SPECIAL ISSUE JOURNAL
+
+- The submission deadline for ICTAC has been extended by two weeks. New firm
+ deadlines are 25 June (abstract) and 02 July (paper). However, authors are
+ encouraged to submit abstracts as soon as possible to ease the planning of
+ the reviewing process.
+
+- Authors of a selected subset of accepted papers will be invited to submit
+ an extended version of their papers to a special issue in the journal
+ Theoretical Computer Science (TCS):
+ https://www.sciencedirect.com/journal/theoretical-computer-science
+
+ABOUT PROTESTS IN PERU
+
+ We are continuously monitoring the political situation in the host country Peru,
+ which faced violent protests in 2022 also affecting travelers. To the best of our
+ knowledge, this situation has calmed down. If protests erupt again, we will work
+ closely with the ICTAC Steering Committee to choose the best feasible solution.
+
+IMPORTANT DATES
+
+ *NEW* abstract deadline: 25 June 2023 (AoE)
+ *NEW* submission deadline: 02 July 2023 (AoE)
+ Notification: 10 September 2023 (AoE)
+ Camera ready: 25 September 2023 (AoE)
+
+SCOPE
+
+ The ICTAC conferenc e series aims at bringing together researchers
+ and practitioners from academia, industry, and government to present
+ research and exchange ideas and experiences within theoretical aspects
+ of computing through methods and tools for system development.
+ ICTAC also aims to promote research cooperation between developing
+ and industrial countries.
+
+TOPICS
+
+ The conference concerns all aspects of theoretical computer science,
+ including, but not limited to:
+
+ - Languages and automata
+ - Semantics of programming languages
+ - Logic in computer science
+ - Lambda calculus, type theory, and category theory
+ - Domain-specific languages
+ - Theories of concurrency and mobility
+ - Theories of distributed computing
+ - Models of objects and components
+ - Coordination models
+ - Timed, hybrid, embedded, and c yber-physical systems
+ - Security and privacy
+ - Static analysis
+ - Software verification
+ - Software testing
+ - Program generation and transformation
+ - Model checking and theorem proving
+ - Theory and methods of trustworthy AI
+ - Applications and experiences
+
+SUBMISSIONS
+
+ We solicit submissions, related to the topics of ICTAC, in the
+ following categories:
+
+ A. original research contributions;
+ B. short papers, with original work in progress or with proposals of
+    new ideas and emerging challenges; and
+ C. tool papers on tools that support formal techniques for software
+    modeling, system design, and verification.
+
+ Submissions must not exceed 16 pages (excluding bibliography of
+ maximum 2 pages). Short and tool papers should not exceed 8 pages.
+
+ Submissions must not have been published or be under consideration for
+ publication elsewhere. All submissions will be judged on the basis
+ of originality, contribution to the field, technical and presentation
+ quality, and relevance to the conference’s topics.
+
+ All contributions to ICTAC 2023 have to be submitted electronically
+ in PDF format via Easy Chair
+
+ https://easychair.org/conferences/?conf=ictac20230
+
+ Papers must be formatted according to the guidelines for Springer LNCS
+ papers (see http://www.springer.com/lncs), without modifications of
+ margins and other space-saving measures. Authors should therefore consult
+ Springer’s authors’ instructions and use their proceedings templates,
+ either for LaTeX or for Word, for the preparation of their papers.
+ Springer encourages authors to include their ORCIDs in their papers.
+
+PUBLICATIO N
+
+ All accepted papers in categories A-C will appear in the proceedings of
+ the conference that will be published as a volume in Springer’s Lecture
+ Notes in Computer Science (LNCS) series.
+
+ All accepted papers must be presented at the conference. Their authors must
+ be prepared to sign a copyright transfer statement. At least one author of
+ each accepted paper must register for the conference by the early
+ registration date, and present the paper.
+
+ We will have a special issue at the journal (TCS) Theoretical Computer
+ Science: https://www.sciencedirect.com/journal/theoretical-computer-science.
+ We will invite selected accepted papers from ICTAC 2023 to submit an extended
+ versions of their contribution to the special issue.

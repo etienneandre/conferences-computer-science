@@ -1,0 +1,68 @@
+RE Track ACM SAC'25 (RE-SAC'25) CALL FOR PAPERS
+===========================================
+Requirements Engineering Track (18th Edition) at the
+40th Annual ACM Symposium on Applied Computing (ACM SAC'2025)
+
+Catania, Sicily, Italy, March 31st - April 4th, 2025
+sponsored by ACM Special Interest Group on Applied Computing (SIGAPP)
+hosted by the University of Catania.
+
+RE-SAC'25 is part of the 40th ACM Symposium on Applied Computing (ACM SAC'25).
+
+RE-SAC'25 website:  https://sac.poli.br/sac2025/
+ACM SAC'25 website: https://www.sigapp.org/sac/sac2025/
+
+
+IMPORTANT DATES(*)
+===================
+Submission:   September 20th, 2024
+Notification: October 30th, 2024
+Camera-ready: November 29th, 2024
+Registration: December 6th, 2024
+
+(*) All dates 11:59 pm UTC+0.00. Dates for both regular papers and SRC abstracts
+
+
+OVERVIEW
+==========
+Requirements Engineering (RE) is widely acknowledged to be a critical activity in the engineering of software-intensive systems. As systems grow in size, complexity, variability, role multiplicity, and autonomy, the necessity for properly performing key requirements engineering tasks becomes increasingly apparent. Such tasks encompass elicitation, analysis, modeling, negotiation, prioritization, documentation, tracing, and validation.
+
+Modern requirements analysts encounter numerous challenges in performing these tasks. These include meeting demands for rapid changeability and continuous delivery, addressing specialized problem domains spanning multiple disciplines, dealing with highly heterogeneous technical and business environments, and navigating intricate organizational and social structures. Additionally, they must contend with complex landscapes of existing systems, technologies, and regulations within which solutions must be deployed. Moreover, the advent of data-driven Artificial Intelligence (AI) systems both challenges the traditional ways by which requirements are analyzed and introduces new opportunities for assisting the analysis process.
+
+The Requirements Engineering Track of the ACM Symposium on Applied Computing (RE-SAC) aims to bring together researchers with an interest in applied requirements engineering. We invite original contributions, including but not limited to technical solutions, empirical studies, industrial case studies, literature reviews, and theoretical contributions. In alignment with the main objectives of the SAC conference, we particularly welcome papers with a direct impact to the practice of requirements engineering.
+
+
+REGULAR PAPERS SUBMISSION
+==========================
+Authors are invited to submit in all areas of Requirements Engineering. The program committee will blindly review all the submissions. Therefore, authors' names, addresses, or any other information leading to the identification of the author is forbidden, and self-references should be in the third person.
+
+The maximum page length for the conference is 8 pages without extra fee and 10 with a fee per page. Submissions should be printable on a standard printer on common paper formats, such as US letter and A4. The author kit is available at: https://www.sigapp.org/sac/sac2025/authorkit.php
+
+Paper submissions should be made electronically through the following website: https://easychair.org/conferences/?conf=sac-2025
+
+Please be reminded that papers should not be submitted to more than one ACM-SAC track.
+
+According to ACM SAC 2025 registration policy: Paper registration is mandatory to allow the inclusion of the work in the conference proceedings and the ACM digital library. An author or a proxy must present the paper. No-show of registered papers and posters will result in their exclusion from the ACM digital library.
+
+
+SRC ABSTRACT SUBMISSION
+========================
+In addition to regular research papers the track also invites active graduate students seeking feedback from the scientific community on their research ideas are invited to submit abstracts of their original unpublished and in-progress research work in areas of experimental computing and application development related to RE-SAC.
+SRC abstract submissions should be made electronically through the following website: https://easychair.org/conferences/?conf=sac-2025
+
+The author kit is available at: https://www.sigapp.org/sac/sac2025/authorkit.php
+
+
+TOPICS
+=======
+Topics of interest include, but are not limited to:
+	Requirements Engineering Methods: elicitation, analysis, modeling, specification, negotiation, prioritization, management, validation and verification, evolution, quality, and traceability
+	Requirements Engineering in Practice: case studies, industrial reports, empirical studies, tools, model-driven RE, collaborative RE, RE and AI, RE and software architecture and programming
+	Requirements Engineering and Social Context: RE in socio-technical systems, cognitive and cultural aspects, RE for law and regulation, RE education, RE for security, privacy, and transparency, domain-specific RE.
+
+
+ORGANIZATION
+==============
+?  Maria Lencastre, Universidade Estadual de Pernambuco, Brazil
+?  Sotirios Liaskos, York University, Canada
+?  Isabel Sofia Sousa Brito, Polytechnic Institute of Beja, Portugal

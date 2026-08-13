@@ -20,3 +20,15 @@ license = "pay"
 
 [extra]
 notes = "Double blind (?). Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing."
+
+[[cfp]]
+file = "cfp/ISORC-2023.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISORC-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISORC-2023-extended.txt"
+stage = "extended"

@@ -20,3 +20,11 @@ license = "cc-by"
 
 [extra]
 notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of Information and Computation. This year (2020), GANDALF will be organised together with a workshop on Stochastic Games organised by the GAMENET network"
+
+[[cfp]]
+file = "cfp/GandALF-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/GandALF-2020-extended.txt"
+stage = "extended"

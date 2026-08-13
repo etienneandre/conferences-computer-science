@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Co-located with FMCAD. Selected papers will be invited for publication in a special issue of ACM Transactions on Embedded Computing Systems."
+
+[[cfp]]
+file = "cfp/MEMOCODE-2019.txt"
+stage = "initial"

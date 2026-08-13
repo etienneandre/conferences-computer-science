@@ -17,3 +17,7 @@ notification = [2019-02-20]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/RSSRail-2019.txt"
+stage = "initial"

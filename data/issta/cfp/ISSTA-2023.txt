@@ -1,0 +1,124 @@
+CALL FOR PAPERS
+32nd ACM SIGSOFT International Symposium on Software Testing and Analysis
+(ISSTA 2023) Seattle, Washington, USA - July 17-21, 2023.
+https://conf.researchr.org/home/issta-2023
+
+The ACM SIGSOFT International Symposium on Software Testing and
+Analysis (ISSTA) is the leading research symposium on software testing
+and analysis, bringing together academics, industrial researchers, and
+practitioners to exchange new ideas, problems, and experience on how
+to analyze and test software systems. 2023 will mark the 32nd edition
+of ISSTA.
+
+
+New for ISSTA 2023: Dual submission deadlines
+===================
+ISSTA 2023 will feature two submission deadlines: An early submission
+deadline (November 10, 2022) and a regular submission deadline
+(February 16, 2023). You can choose to submit to either deadline.
+Papers submitted to the early deadline may receive a chance to address
+the reviewer comments and resubmit a major revision of the initial
+submission to the regular deadline. Papers submitted to the regular
+deadline will receive an outcome of accept or reject. Both submission
+deadlines involve an author-response period.
+
+
+Technical Papers
+===================
+Authors are invited to submit research papers describing original
+contributions in testing or analysis of computer systems. Papers
+describing original theoretical or empirical research, new techniques,
+methods for emerging systems, in-depth case studies, infrastructures
+of testing and analysis, or tools are welcome.
+
+
+Experience Papers
+===================
+Authors are invited to submit experience papers describing a
+significant experience in applying testing and analysis methods or
+tools and should carefully identify and discuss important lessons
+learned so that other researchers and/or practitioners can benefit
+from the experience. Of special interest are experience papers that
+report on industrial applications of testing and analysis methods or
+tools.
+
+
+Replication Studies
+===================
+ISSTA welcomes replication studies of previous papers. A replication
+study must go beyond simply re-implementing an algorithm and/or
+re-running the artifacts provided by the original papers. It should
+assess generalizability, e.g., by applying the approach to new,
+significantly broadened subject programs or inputs. Particularly
+encouraged are replication studies that evaluate approaches
+previously evaluated only on proprietary subject programs or inputs. A
+replication study should clearly report on results that the authors
+were able to replicate as well as on aspects of the work that were not
+replicable. In the latter case, authors are encouraged to make an
+effort to communicate or collaborate with the original paper’s authors
+to determine the cause for any observed discrepancies and, if
+possible, address them (e.g., through an analysis of what factors
+affect generalizability).
+
+
+Submissions Guideline
+===================
+Submissions must be original and should not have been published
+previously or be under consideration for publication while being
+evaluated for ISSTA.  Authors are required to adhere to the ACM Policy
+and Procedures on Plagiarism and the ACM Policy on Prior Publication
+and Simultaneous Submissions.  Research and Experience Papers as well
+as Reproducibility Studies should be at most 10 pages in length, with
+at most 2 additional pages for references. All papers must be prepared
+in ACM Conference Format [1]. Submit your papers via the HotCRP ISSTA
+2023 submission website [2].
+
+
+Double-anonymous Reviewing
+===================
+ISSTA 2023 will conduct double-anonymous reviewing. Submissions should
+not reveal the identity of the authors in any way. Authors should
+leave out author names and affiliations from the body of their
+submission. They should also ensure that any citations to related work
+by themselves are written in third person, that is, “the prior work of
+XYZ” as opposed to “our prior work”.  Double-anonymous reviewing
+should not hinder the usual communication of results. But, during the
+review period, please don’t broadcast the work on social media. Also,
+to the extent possible, consider not publishing preprints of your work
+during or right before the review period. Authors with further
+questions on double-anonymous reviewing are encouraged to contact the
+Program Chair by email.
+
+
+Supplementary Material
+===================
+Upon submission, authors are asked to make their data available to the
+program committee (via upload of anonymized supplemental material or a
+link to an anonymized private or public repository) or to comment on
+why this is not possible or desirable. While sharing such a repository
+is not mandatory for submission or acceptance, this information will
+be passed to the program committee to inform its
+decision. Furthermore, authors are asked to indicate whether they
+intend to make their data publicly available upon acceptance.
+
+
+Important Dates
+===============
+- First round paper submission: November 10, 2022
+- First round author response: December 20-22, 2022
+- First round notification: January 16, 2023
+
+- Second round paper submission: February 16, 2023
+- Second round author response: April 11-13, 2023
+- Second round notification: May 3, 2023
+
+
+More Information
+================
+ISSTA 2023 also features tracks for tools and demos, posters,
+workshops, a doctoral symposium, and artefact evaluation. For
+additional information, please visit the ISSTA 2023 website [3].
+
+[1] https://www.acm.org/publications/proceedings-template
+[2] https://issta2023.hotcrp.com
+[3] https://conf.researchr.org/home/issta-2023

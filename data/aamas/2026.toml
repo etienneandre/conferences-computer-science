@@ -26,3 +26,7 @@ blind = "double"
 gender_balance = "mixed"
 artifact = "Supplementary Material recommended."
 award = "Pragnesh Jay Modi Best Student Paper Award."
+
+[[cfp]]
+file = "cfp/AAMAS-2026.pdf"
+stage = "initial"

@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Part of QONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials. A special issue dedicated to selected papers from CONCUR 2020 will appear in Logical Methods in Computer Science."
+
+[[cfp]]
+file = "cfp/CONCUR-2020-extended.txt"
+stage = "extended"

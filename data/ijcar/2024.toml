@@ -23,3 +23,7 @@ rebuttal = "Rebuttal period."
 
 [extra]
 colocated = "Merger conference of CADE, FroCoS and TABLEAUX."
+
+[[cfp]]
+file = "cfp/IJCAR-2024.txt"
+stage = "initial"

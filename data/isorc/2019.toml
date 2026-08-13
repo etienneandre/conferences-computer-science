@@ -16,3 +16,15 @@ notification = [2019-03-01]
 [proceedings]
 publisher = "IEEE"
 license = "pay"
+
+[[cfp]]
+file = "cfp/ISORC-2019.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISORC-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISORC-2019-extended.txt"
+stage = "extended"

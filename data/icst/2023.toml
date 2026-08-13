@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "Double-blind reviewing. Experimental data must be replicable. Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers … Deadline extension: 7 days (2017), 4 days (2018), 2 days (2019), 7 days (2022)"
+
+[[cfp]]
+file = "cfp/ICST-2023.txt"
+stage = "initial"

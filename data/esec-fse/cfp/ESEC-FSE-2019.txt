@@ -1,0 +1,253 @@
+==================================================================================
+
+27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019)
+
+August 26 - August 30, 2019 - Tallinn, Estonia
+
+https://esec-fse19.ut.ee | @FSEconf
+
+==================================================================================
+
+The ACM Joint European So3ware Engineering Conference and Symposium on the Foundations of
+
+Software Engineering (ESEC/FSE) is an internationally renowned forum for researchers,
+
+practitioners, and educators to present and discuss the most recent innovations, trends,
+
+experiences, and challenges in the field of software engineering.
+
+We invite high-quality submissions describing original and unpublished results of theoretical, empirical, conceptual, and experimental software engineering research. Contributions should describe innovative and significant original research. Papers describing groundbreaking approaches to emerging problems will also be considered. Submissions that facilitate reproducibility by using available data sets or making the described tools publicly available are especially encouraged.
+
+Contributions should describe innovative and significant original research relevant to ESEC/FSE.
+
+Submissions of papers describing groundbreaking approaches to emerging problems will also be
+
+considered. Submissions that facilitate reproducibility by using available data sets or making the
+
+described tools publicly available are especially encouraged.
+
+
+
+General Co-Chairs
+
+Marlon Dumas & Dietmar Pfahl
+
+
+
+*** IMPORTANT DATES ***
+
+Full Paper (Research)
+
+Submission: February 20, 2019
+
+Notification: May 27, 2019
+
+
+
+Program Co-Chairs
+
+Sven Apel & Alessandra Russo
+
+https://esec-fse19.ut.ee/calls/research-papers/
+
+
+
+Full Paper (Industry)
+
+Submission: April 26, 2019
+
+Notification: June 10, 2019
+
+
+
+Industry Co-Chairs
+
+Michael Felderer & Andrew Begel
+
+https://esec-fse19.ut.ee/calls/industry-papers/
+
+
+
+Workshops
+
+Proposal submission: January 11, 2019
+
+Notification: February 1, 2019
+
+
+
+Workshop Co-Chairs
+
+Norbert Siegmund & Walid Maalej
+
+https://esec-fse19.ut.ee/calls/workshops/
+
+
+
+Doctoral Symposium
+
+Submission: April 23, 2019
+
+Notification: June 17, 2019
+
+
+
+Doctoral Symposium Co-Chairs
+
+Tracy Hall & Barbara Russo
+
+https://esec-fse19.ut.ee/calls/doctoral-symposium/
+
+
+
+Tool Demo
+
+Submission: May 17, 2019
+
+Notification: June 14, 2019
+
+
+
+Tool-Demo Co-Chairs
+
+Yuanfang Cai & Arosha Bandara
+
+https://esec-fse19.ut.ee/calls/tool-demos/
+
+
+
+Student Research Competition
+
+Submission: May 24, 2019
+
+Notification: June 20, 2019
+
+
+
+Student Research Competition Co-Chairs
+
+Sandeep Kuttal & Leon Moonen
+
+https://esec-fse19.ut.ee/calls/student-research-competition/
+
+
+
+Journal First
+
+Submission: May 31, 2019
+
+Notification: June 14, 2019
+
+
+
+Journal First Coordinators
+
+Christian Kästner & David Lo
+
+https://esec-fse19.ut.ee/calls/journal-first/
+
+
+
+
+
+*** TOPICS OF INTEREST ***
+
+The topics of interest include, but are not restricted to, the following:
+
+•             Architecture and design
+
+•             Autonomic computing and (self-)adaptive systems
+
+•             Big data and cloud computing
+
+•             Components, services, and middleware
+
+•             Computer-supported cooperative work
+
+•             Configuration management and deployment
+
+•             Crowdsourcing
+
+•             Data-driven software engineering
+
+•             Debugging
+
+•             Dependability, safety, and reliability
+
+•             Development tools and environments
+
+•             Distributed, parallel, and concurrent software
+
+•             Education
+
+•             Embedded and real-time software
+
+•             Empirical software engineering
+
+•             End-user software engineering
+
+•             Formal methods, including languages, methods, and tools
+
+•             Green computing
+
+•             Human and social factors in software engineering
+
+•             Human-computer interaction
+
+•             Mobile, ubiquitous, and pervasive software
+
+•             Model-driven software engineering
+
+•             Patterns and frameworks
+
+•             Processes and workflows
+
+•             Program analysis
+
+•             Program comprehension and visualization
+
+•             Program synthesis
+
+•             Refactoring
+
+•             Requirements engineering
+
+•             Reverse engineering
+
+•             Safety-critical systems
+
+•             Scientific computing
+
+•             Search-based software engineering
+
+•             Security and privacy
+
+•             Software economics and metrics
+
+•             Software evolution and maintenance
+
+•             Software modularity and reuse
+
+•             Software product lines
+
+•             Testing and verification
+
+•             Traceability
+
+
+
+*** PAPER SUBMISSION ***
+
+At the time of submission all papers must conform to the ESEC/FSE 2019 Format and Submission Guidelines and must not exceed 10 pages for all text and figures plus 2 pages for references (abstract: 250 words max). All submissions must be in English and in PDF format. You can submit, optionally, an additional file containing supplementary material (see details below). Submissions that do not comply with the above instructions will be desk rejected without review.
+
+Papers must be submitted electronically through the ESEC/FSE submission site: https://easychair.org/conferences/?conf=esecfse19.
+
+
+
+***Open Science Policy***
+
+The research track of ESEC/FSE 2019 has decided to introduce an open science policy.  Openness in science is key to fostering scientific progress via transparency, reproducibility, and replicability. The steering principle is that all research results should be accessible to the public, if possible, and that empirical studies should be reproducible. In particular, we actively support the adoption of open data and open source principles and encourage all contributing authors to disclose (anonymized and curated) data to increase reproducibility and replicability.
+
+Upon submission to the research track, authors are asked to make their data available to the program committee (via a link to a private or public repository) or to comment on why this is not possible or desirable. While sharing such a repository is not mandatory for submission or acceptance, this information will be passed to the program committee to inform its decision. Furthermore, authors are asked to indicate whether they intend to make their data publicly available upon acceptance. For more details on ESEC/FSE’19 open science policy, please refer to the official guidelines<https://esec-fse19.ut.ee/calls/open-science-guidelines/>.
+
+https://esec-fse19.ut.ee/calls/open-science-guidelines/

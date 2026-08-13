@@ -19,3 +19,7 @@ license = "acm"
 
 [extra]
 notes = "Part of Cyber Physical Systems (CPS) Week. Light double-blind reviewing process. Several best paper awards. Rebuttal phase: early December 2020. Regular papers and tool/case study papers can both be long or short."
+
+[[cfp]]
+file = "cfp/HSCC-2021.txt"
+stage = "initial"

@@ -1,0 +1,52 @@
+===============================================
+  
+                                  ETR 2017
+
+                     28 août au 1 septembre 2017
+                                Paris, France
+
+===============================================
+
+ETR'17 (École d’Été Temps Réel 2017) est un événement visant à former de 
+jeunes chercheurs,  particulièrement des doctorants, au plus haut niveau sur 
+les systèmes temps réel.
+
+L'édition 2017 se déroulera du 28 août au 1 septembre 2017
+
+Dans ce cadre, une session des doctorants est mise en place afin de permettre 
+à ceux-ci de présenter leurs travaux dans le domaine. Si vous êtes intéressé 
+par cette démarche, vous pouvez soumettre un article qui sera approuvé par 
+d'autres doctorants ou de jeunes docteurs du domaine.
+
+Plus d'informations : https://etr2017.sciencesconf.org/resource/page/id/3
+
+SOUMISSIONS
+
+    Les soumissions seront en français, ne pas excéder 4 pages et devront être 
+    au format IEEE. (disponible sur la page web de l’événement).
+    
+    La soumission des articles se fait par email à : methni.amira@gmail.com 
+    et etr2017@sciencesconf.org 
+    
+    La date limite de dépôt est fixée au lundi 3 juillet.
+    
+    Les publications retenues seront publiées dans les actes de l'événement 
+    et s'accompagneront d'un poster, affiché pendant la durée de l'ETR ainsi 
+    que d'une courte présentation orale le lundi 28 août en fin d'après-midi.
+   
+COMITE
+
+Amira Methni, IRT Systemx, responsable du comité
+Benjamin Rouxel, Université Rennes 1
+Houssam-Eddine Zahaf, Université Lille
+...
+       
+Les autres membres du comité seront annoncés sur site web d'ETR
+   
+
+CONTACT
+
+Pour toute question concernant la session doctorant, envoyez un e-mail à 
+methni.amira@gmail.com et etr2017@sciencesconf.org
+
+En espérant vous voir nombreux !

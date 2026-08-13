@@ -1,0 +1,42 @@
+Call for Papers: 30 Years of UPPAAL Workshop at AISoLA 2025
+
+We are pleased to announce a special workshop titled "30 Years of UPPAAL" as part of the AISoLA 2025 conference. This workshop celebrates three decades since the publication of the first papers on UPPAAL and the release of the tool itself. We invite researchers, practitioners, and educators to submit their contributions to this commemorative event.
+Topics of Interest
+
+We welcome submissions on a wide range of topics related to UPPAAL, including but not limited to:
+
+    Data Structures and Algorithms: Innovations and improvements in data structures and algorithms that are integral to UPPAAL.
+
+    Modeling and Analysis: Advanced techniques and methodologies for modeling and analysis using UPPAAL.
+
+    Methodologies: Integrating UPPAAL and similar tools into the development process.
+
+    Case Studies: Real-world applications of UPPAAL in industry and academia, including commercial impact stories.
+
+    Education: Experiences and strategies for teaching UPPAAL in educational settings.
+
+    Tool and Tool Environment Offsprings: Developments of tools derived from UPPAAL or those using UPPAAL as a backend.
+
+Submission Guidelines
+
+Authors are invited to submit original research papers, case studies, and educational experiences. Submissions should be formatted according to the AISoLA 2025 guidelines and submitted through the conference submission system: https://equinocs.springernature.com/service/30yearsofuppaal Post-proceedings with selected papers (based on submission and presentation) will be published in a LNCS volume.
+Important Dates
+
+    Paper Submission Deadline: October 11, 2025
+
+    Workshop Date: During AISoLA (November 1-4, 2025)
+
+    Notification of Selected Papers Accepted for Proceedings: December 3,, 2025
+
+    Camera-Ready Selected Papers Due: January 15, 2026
+
+Join us in celebrating the legacy and future of UPPAAL. We look forward to your contributions!
+Organizers
+
+    Kim G. Larsen (Aalborg University, DK)
+
+    Paul Pettersson (Mälardalens University, SE)
+
+    Wang Yi (Uppsala University, SE)
+
+For more information, please visit the AISoLA 2025 conference: website:https://2025-aisola.isola-conference.org/

@@ -1,0 +1,134 @@
+Dear all
+
+The Engineering of Multiagent Systems is an Area of Interest in AAMAS that
+welcomes contributions on Software Engineering. Sample list of topics
+include:
+
+Traditional MAS engineering topics, including requirements and formal
+specifications; architecture and modeling; verification and validation;
+programming and languages; testing; maintenance and evolution.
+
+MAS engineering for conventional AI techniques, including machine
+learning-based abstractions.
+
+MAS engineering for novel technologies, including blockchain, IoT,
+microservices, serverless computing.
+
+MAS engineering abstractions, including norms, protocols, BDI, and goals
+
+MAS engineering for application domains including business, health,
+finance, transportation.
+
+MAS engineering for sociotechnical systems, including ethics, laws and
+regulations, governance, accountability.
+
+The full call follows.
+
+Best
+Amit Chopra
+
+==
+
+AAMAS 2023 - The 22nd Int. Conf. on Autonomous Agents and Multiagent
+Systems
+
+Date: 29 May-2 June 2023
+Location: London
+Web site: https://aamas2023.soton.ac.uk
+
+==
+
+We invite you to submit your best work in the area of agents and multiagent
+systems to AAMAS 2023, the 22nd International Conference on Autonomous
+Agents and Multiagent Systems, to be held in London from 29 May to 2 June
+2023.
+
+All submissions will be rigorously peer-reviewed and evaluated on the basis
+of the overall quality of their technical contribution, taking into account
+criteria such as originality, significance, soundness, reproducibility,
+clarity, relevance to the conference, quality of presentation, as well as
+understanding and appropriate referencing of the state of the art.
+
+== In-Person Conference ==
+
+We are planning for the conference to be held in-person in London. After
+three years of virtual AAMAS conferences, many in the research community
+are eager for an in-person AAMAS conference once again. While virtual
+interactions are a reasonable substitute when used appropriately, they
+still lack key facets and benefits that in-person interactions offer.
+
+At the same time, we understand that not everyone will be able to travel to
+London, due to, for example, personal health constraints or traveling
+restrictions. As such, we will provide limited support to enable authors to
+present their work remotely for those who really cannot travel to the
+in-person event. We also plan to live stream the sessions using low-cost
+solutions. However, we will not provide support for other online
+infrastructure, such as a virtual platform or GatherTown.
+
+Finally, it may be the case that the COVID-19 pandemic worsens
+significantly, making it infeasible to hold the conference physically in
+London. In this case, the conference will transition to either a virtual or
+hybrid setting.
+
+== Important Dates ==
+
+The tentative dates are below. We may slightly move the dates to account
+for conflicts with AAAI and IJCAI once their dates are decided.
+
+* Abstract submission: 21 October 2022
+* Paper submission: 28 October 2022
+* Rebuttal period: 5-9 December 2022
+* Author notification: 4 January 2023
+* Camera-ready paper submission: 1 March 2023
+* Conference: 29 May – 2 June 2023
+
+All deadlines are at the end of the day specified, anywhere on Earth
+(UTC-12).
+
+== Areas of Interest ==
+
+We welcome the submission of technical papers describing significant and
+original research on all aspects of the theory and practice of autonomous
+agents and multiagent systems. If you are new to this community, then we
+encourage you to consult the proceedings of previous editions of the
+conference to fully appreciate the scope of AAMAS. At the time of
+submission, you will be asked to associate your paper with one of the
+following 10 areas of interest:
+
+* Coordination, Organisations, Institutions, and Norms
+* Markets, Auctions, and Non-Cooperative Game Theory
+* Social Choice and Cooperative Game Theory
+* Knowledge Representation, Reasoning, and Planning
+* Learning and Adaptation
+* Modelling and Simulation of Societies
+* Humans and AI / Human-Agent Interaction
+* Engineering Multiagent Systems
+* Robotics
+* Innovative Applications
+
+The reviewing process for each of these areas will be coordinated by
+dedicated area chairs familiar with the particularities of the area they
+are responsible for. We reserve the right to transfer a paper to a
+different area in case we believe that doing so will improve the quality of
+the reviewing process. You will have the opportunity to react to
+preliminary versions of the reviews of your paper (so-called “rebuttal”)
+before we make a final decision regarding the acceptance of your paper.
+
+We highly encourage authors to make their source code (if any) publicly
+available after their papers are accepted. The link should be in their
+paper and will also be publicized on the AAMAS website.
+
+== Special Tracks ==
+
+In addition to the main track, AAMAS 2023 will feature three special
+tracks, the Blue Sky Ideas Track, the JAAMAS Track, and the Demonstrations
+Track, each with a separate Call for Papers.
+
+The focus of the Blue Sky Ideas Track is on visionary ideas, long-term
+challenges, new research opportunities, and controversial debate. The
+JAAMAS Track offers authors of papers recently published in the Journal of
+Autonomous Agents and Multiagent Systems (JAAMAS) that have not previously
+appeared as full papers in an archival conference the opportunity to
+present their work at AAMAS 2023. The Demonstrations Track, finally, allows
+participants from both academia and industry to showcase their latest
+developments in agent-based and robotic systems.

@@ -1,0 +1,116 @@
+============================================================
+Call for papers
+
+ICFEM 2025
+
+The 26th International Conference on Formal Engineering Methods
+
+10-13 November 2025 (Hangzhou, China)
+============================================================
+https://icfem2025.github.io
+
+** NEW: EXTENDED DEADLINES**
+- Abstract Submission Deadline: May 25, 2025 => 11th June 2025
+- Full Paper Submission Deadline: June 1, 2025 => 15th June 2025
+
+
+** NEW: SPECIAL ISSUES**
+
+- Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings.
+- After the conference, the best software linked to a paper (typically any paper with a dedicated implementation) will be recommended to a special issue of the Software track of Elsevier's Science of Computer Programming journal.
+
+
+*ABOUT ICFEM*
+ICFEM is an internationally leading conference series in formal methods and software engineering. Since 1997, ICFEM has served as an international forum for researchers and practitioners who have been seriously applying formal methods to practical applications. Researchers and practitioners from industry, academia, and government are encouraged to attend, present their research, and help advance the state of the art. ICFEM is interested in work that has been incorporated into real production systems, as well as in theoretical work that promises to bring practical and tangible benefits. ICFEM has been hosted in many countries around the world.
+This year, the 26th International Conference on Formal Engineering Methods will be held in Hangzhou, China (birthplace of DeepSeek). ICFEM 2025 welcomes submissions from researchers and practitioners worldwide to advance the field of formal methods and software engineering.
+
+*KEYNOTE SPEAKERS*
+- Jifeng He, Tongji University, China
+- Mariëlle Stoelinga, Radboud University & University of Twente, the Netherland
+- Jim Woodcock, University of York, UK
+- Yongwang Zhao, Zhejiang University, China
+
+*PROGRAM CHAIRS*
+- Étienne André, Université Sorbonne Paris Nord, France
+- Jingyi Wang, Zhejiang University, China
+- Naijun Zhan, Peking University, China
+
+*HONORABLE CHAIRS*
+- Jin Song Dong, National University of Singapore, Singapore
+- Jifeng He, Tongji University, China
+- Huimin Lin, Chinese Academy of Sciences, China
+
+*CONFERENCE LOCAL CHAIRS*
+- Xinyu Wang, Zhejiang University, China
+- Wenhai Wang, Zhejiang University, China
+
+*PUBLICITY CHAIRS*
+- Yamine Aït-Ameur, University of Toulouse, France
+- Jie An, Institute of Software, CAS, China
+
+*TUTORIAL CHAIR*
+- Dongxia Wang, Zhejiang University, China
+
+*WORKSHOP CHAIR*
+- Mingshuai Chen, Zhejiang University, China
+
+*FINANCIAL CHAIR*
+- Ling Shi, Nanyang Technological University, Singapore
+
+*STEERING COMMITTEE*
+- David Basin, ETH Zurich, Switzerland
+- Michael Butler, University of Southampton, UK
+- Jin Song Dong, National University of Singapore, Singapore
+- Jifeng He, Shanghai Academy of AI Industrial Technology, China
+- Mike Hinchey, University of Limerick, Ireland
+- Shaoying Liu, Hiroshima University, Japan (Chair)
+- Kazuhiro Ogata, JAIST, Japan
+- Shengchao Qin, Teesside University, UK
+
+*TOPICS OF INTEREST*
+
+Topics of interest include, but are not limited to
+- Formal specification and modeling
+- Formal approaches to fault prevention and detection
+- Abstraction, refinement, and evolution
+- Formal verification and validation
+- Integration of formal methods and testing
+- Integration of formal methods and review
+- SAT/SMT solvers for software analysis and testing
+- Practical formal methods
+- Applications of formal methods
+- Formal approaches to software maintenance
+- Formal approaches to safety-critical system development
+- Supporting tools for formal methods
+- Formal methods for agile development
+- Formal methods for human-machine pair programming
+- Formal methods for and with AI
+- Formal methods for Cyber-physical systems and IoT
+- Formal methods for security
+- Formal certification of products
+- Industrial case studies
+
+*IMPORTANT DATES (ANYWHERE ON EARTH)*
+
+- Abstract Submission Deadline: May 25, 2025 => 11th June 2025
+- Full Paper Submission Deadline: June 1, 2025 => 15th June 2025
+- Acceptance Notification: August 1, 2025
+- Camera-ready Paper Submission Deadline: August 20, 2025
+- Conference: November 10-13, 2025
+
+*SUBMISSION GUIDELINES*
+
+Submission should be done through the ICFEM 2025 submission page. As in previous years, the proceedings will be published in the Springer Lecture Notes in Computer Science series. Papers should be written in English in the Springer's LNCS format. Formatting style files and further guidelines for formatting can be found at the Springer website (more details found on https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines.
+We encourage authors to add line numbers to their submissions. This can be done, for example, using the lineno LaTeX package.
+
+Main Conference Paper Submissions should not exceed 16 pages (excluding references and appendix) in Springer's LNCS format. Each submission will undergo a rigorous single-blind peer-review process by at least three experts.
+
+Doctoral Symposium seeks students' submissions in two categories: (1) 2-page extended abstracts which will not be included in the proceedings; (2) 6-page papers which will be included in the proceedings. The authors with accepted submissions are expected to present their work at the symposium.
+
+Journal-first Presentations invite interested researchers to submit a short proposal for their recently published journal articles, providing the authors an opportunity to speak directly to the community.
+
+Even though there will be no artifact evaluation at ICFEM this year, we encourage authors to upload their artifacts to an archive such as Zenodo or GitHub to ensure reproducibility and availability.
+
+*CONTACT INFORMATION*
+For any questions regarding submissions, please email the program chairs.
+For more information, please visit: https://icfem2025.github.io

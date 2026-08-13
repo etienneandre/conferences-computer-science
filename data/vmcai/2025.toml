@@ -30,3 +30,7 @@ submitted = 48
 
 [extra]
 colocated = "Co-located with POPL."
+
+[[cfp]]
+file = "cfp/VMCAI-2025-extended.txt"
+stage = "extended"

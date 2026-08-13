@@ -1,0 +1,104 @@
+
+
+Call for Papers
+---------------
+
+The 24th edition of the International Conference on Software Engineering and Formal Methods will be held between 23 and 27 November 2026, with workshops taking place on 23 and 24 November 2026.
+
+https://sefm-conference.github.io/2026/
+
+Important dates - AoE (UTC-12h)
+
+(updated) Abstract submission:     *June 23, 2026*
+(updated) Paper submission:        *June 30, 2026*
+Artifact submission:     July 22 2026
+Artefact kick-the-tires: July 25 2026
+Author notification:     August 30, 2026
+Camera ready:            September 14, 2026
+Workshops:               23-24 November 2026
+Conference:              25-27 November 2026
+
+Overview and Scope
+
+The conference aims to bring together researchers and practitioners from academia, industry and government, to advance the state of the art in formal methods, to facilitate their uptake in the software industry, and to encourage their integration within practical software engineering methods and tools.
+
+The topics of interest include, but are not limited to, the following aspects of software engineering and formal methods.
+
+Software Development Methods
+
+- Formal modelling, specification, and design
+- Software evolution, maintenance, re-engineering, and reuse
+- Software Engineering for AI models, code, libraries or systems with AI components
+
+Design Principles
+
+- Programming languages
+- Domain-specific languages
+- Type theory
+- Abstraction and refinement
+
+Software Testing, Validation, and Verification
+
+- Model checking, theorem proving, and decision procedures
+- Testing and runtime verification
+- Statistical and probabilistic analysis
+- Synthesis
+- Performance estimation and analysis of other non-functional properties
+- Other light-weight and scalable formal methods
+
+Security and Safety
+
+- Security, privacy, and trust
+- Safety-critical, fault-tolerant, and secure systems
+- Software certification
+- Formal methods for AI safety, explainability, and machine learning models
+- Trustworthy AI for Software Engineering
+
+Applications and Technology Transfer
+
+- Service-oriented and cloud computing systems, Internet of Things
+- Component, object, multi-agent and self-adaptive systems
+- Real-time, hybrid, and cyber-physical systems
+- Intelligent systems and machine learning
+- Quantum systems
+- HCI, interactive systems, and human error analysis
+- Education
+
+Case studies, best practices, and experience reports
+
+- Industrial application of formal methods
+- Empirical evaluations and benchmarking
+- Experience in securing critical infrastructure
+- Integration of formal methods in modern development pipelines
+
+Paper submission
+
+We solicit three categories of papers:
+
+- Regular papers describing original research results, case studies, or surveys, should not exceed 16 pages (excluding bibliography of at most two pages).
+- Short papers describing original research results or case studies, maybe in an incubation phase, should not exceed 8 pages (excluding bibliography of at most one page).
+- Tool papers that describe an operational tool and its contributions should not exceed 8 pages (excluding bibliography of at most one page).
+
+Papers must be formatted according to the guidelines for Springer LNCS papers. All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere.
+
+Papers can be submitted through Easychair: https://easychair.org/my/conference?conf=sefm2026
+
+
+Artefact submission
+
+Regular papers may optionally submit artefacts, such as data sets, software tools, or supplementary material. Artefacts will be evaluated for the EAPLS Available, Functional, and Reusable badges. Authors should consult the artefact submission guidelines when preparing their submission.
+
+https://sefm-conference.github.io/2026/assets/artefact-submission-guidelines.pdf
+
+Artefacts accompanying tool papers must satisfy at least the requirements of the EAPLS Functional badge. Tool papers whose artefacts do not meet this requirement will be rejected.
+
+
+Review process
+
+Submissions will be reviewed under a single-blind review process.
+
+
+Publication
+
+All accepted papers will appear in the proceedings of the conference that will be published as a volume in Springer’s LNCS series.
+--

@@ -20,3 +20,7 @@ license = "free-copy"
 [extra]
 colocated = "ETAPS 2023 satellite."
 notes = "After workshop, submission of 12-page papers. To be published in EPTCS workshop series."
+
+[[cfp]]
+file = "cfp/TiCSA-2023.txt"
+stage = "initial"

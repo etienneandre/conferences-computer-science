@@ -1,0 +1,304 @@
+20th International Conference On Smart Living and Public Health
+
+" Digital Health Transformation and Smart Ageing in place with & to disability"
+
+07- 08 July 2023 | Wonju, Republic of Korea l
+
+www.icost-society.org
+
+
+
+
+
+
+
+## Important Dates ##
+
+* Paper Submission: 24 March 2023
+
+* Demo Proposal Submission: 1 April 2023
+
+* Paper Acceptance Notification: 10 May 2023
+
+* Demo Acceptance Notification: 15 May 2023
+
+* Camera-Ready and Registration: 20 May 2023
+
+* Conference: 07 – 08 July 2023
+
+
+
+
+
+ICOST provides a premier venue for the presentation and discussion of research in the design, development, deployment, and evaluation of Artificial intelligence for health, Smart Urban Environments, Assistive Technologies, Chronic Disease Management, Coaching and Health Telematics systems.
+
+
+
+ICOST 2023 edition will be hosted by Yonsei University and the National Rehabilitation Center, in Wonju, the Republic of Korea, on 07 and 08 July 2023. The conference theme for this year is "Digital Health Transformation and Smart Ageing in place with & to disability."
+
+
+
+After nineteen successful conferences held in France (2003), Singapore (2004), Canada(2005), Northern Ireland (2006), Japan (2007), Singapore (2008), France (2009), Korea (2010), Canada (2011), Italy (2012), Singapore (2013), USA (2014), Switzerland (2015), China (2016), France (2017), Singapore (2018), USA (2019), Tunisia (2020) and France (2022), ICOST has been established as an interdisciplinary conference for technology and public health experts to tackle emerging challenges related to AI technologies for health and wellbeing.
+
+
+
+ICOST proceedings are of the top 25% downloads of Nature-Springer LNCS (over 400k downloads of books and chapters).
+
+
+
+Submitted papers to the conference will be blind-reviewed by an international committee bringing together multidisciplinary experts renowned worldwide in different fields of research (Engineering, clinical, public health, social sciences, etc.).
+
+
+
+Accepted papers will be published by Springer as Open Access. Selected papers will be invited to submit an extended version to be published in a Special Issue of Sensors-MDPI Open-Access Journal (Impact Factor 3.031) or Frontiers in Digital Health.
+
+
+
+We look forward to welcoming you to ICOST'2023 in Wonju, Republic of Korea !!
+
+
+
+## Scope and Aimes ##
+
+ICOST 2023 invites participants to present and discuss their experiences in the understanding, design, development, testbeds deployment, and evaluation of technologies that demonstrate significant contributions in the areas of smart environments, public health policies, chronic disease management, and assistive technologies focused on indoor living spaces (e.g., homes, nursing homes, and assistive living facilities) as well as the outdoors (e.g., urban smart spaces or the entire smart city).
+
+
+
+ICOST has a specific theme each year. The theme for ICOST 2023 edition is “Digital Health Transformation and Smart Ageing in place with & to disability.” ICOST 2023 is especially interested in receiving submissions, focused on technologies, humanities, and social sciences, clinical, and public health for Enhanced Wellbeing and Health for all nations.
+
+
+
+ICOST 2023 topics include, but are not limited to:
+
+
+
+Public Health Policy and Clinical Studies
+
+* Public health and urban Data Collection and Processing
+
+* Policy and Guidelines for Public Health and Quality of Life in Smart City
+
+* Urban design for well-being and e-health
+
+* Design and Future Urban Cities for wellbeing
+
+* Health in All Policies (HiAP)
+
+* Electronic Health Records and Standards
+
+* E-Health and Chronic Diseases Management
+
+* Health Technology Assessment and Impact Analysis
+
+* Healthcare Systems Use and Evaluation
+
+* Human Factors, Ethics, and Usability of Healthcare Systems
+
+
+
+Sports, Mobility, and Exercise management
+
+* Sports data-driven systems
+
+* Smart rehabilitation and exercise systems
+
+* Health management exercise systems
+
+* Physical activity support systems
+
+* Ageing mobility enhancement
+
+
+
+# Systems and Platforms for Healthcare
+
+* Healthcare Preventive and Predictive Systems
+
+* Protective systems/devices against common and emerging infectious diseases.
+
+* Pervasive Health Systems and Services
+
+* Smart Homes / Home Networks / Residential Gateways
+
+* Context Awareness / Autonomous Computing
+
+* Wearable Sensors / Integrated Micro/Nano Systems
+
+* Tele-Assistance and Tele-Rehabilitation
+
+* Assistive Technology for aging and frail people
+
+* Participatory Telehealth systems
+
+* Trusted systems and verification for health and wellness
+
+
+
+# Robotic Solutions for Healthcare
+
+* Collaborative Robotics (Cobots)
+
+* Medical and Healthcare Robotics
+
+* Diagnosis and Therapy Robotics
+
+* Rehabilitation Robotics
+
+* Assistance Robots
+
+* Disability Robots
+
+* Surgical Robots
+
+* Personal Robotics and smart Wheelchairs
+
+
+
+# Human Computer Interaction
+
+* Human-Machine Interfaces
+
+* Coaching and Urban Gaming for e-Health
+
+* Virtual Personal Assistant for e-Health
+
+* Behavior Modeling and Change
+
+* Supportive Mobile e-Health
+
+
+
+## Special Sessions Proposals
+
+Proposals for special sessions or plenary panels addressing any of the following specific topics are especially welcome:
+
+* Studies detailing large-scale service deployment and impact evaluation
+
+* The application of cost-effective and readily available 'everyday' technologies to support people with chronic conditions and others with cognitive disabilities at home, school, work or play
+
+* Health economic evaluation of technology-based solutions
+
+* Challenges for smart living environments and inclusive communities
+
+* Societal impact and policy formulation
+
+* Technology solutions to inspire policymakers
+
+
+
+## Submission ##
+
+There will be a combination of presentations including scientific papers, case studies, research and project exhibits, and technology demonstrations. Prospective authors are invited, in the first instance, to submit papers for oral presentation in any of the areas of interest for this conference as well as proposals for Special Sessions.
+
+The submission for evaluation should be in the form of a 12 pages paper written in English.
+
+Accepted papers will appear in the conference proceedings to be published by Springer in Open Access. No registration extra fees will be applied for Open Access publication. Submitted papers must follow the guidelines found on the conference website: http://www.icost-society.org/authorinstructions.html
+
+
+
+* Paper Submission:
+
+Papers must be submitted electronically in PDF and Word/Latex format at the following address: https://easychair.org/conferences/?conf=icost_2023
+
+
+
+Volumes published as part of the Lecture Notes in Computer Science (LNCS) series are indexed by the EI Engineering Index (Compendex and Inspec databases), Scopus, and ISI Conference Proceedings
+
+
+
+Citation Index - Science (CPCI-S), included in ISI Web of Science. The source can be found here: http://www.springer.com/computer/lncs?SGWID=0-164-6-1068921-0
+
+
+
+ICOST conference is also ranked by the COmputing Research and Education (CORE) Conference portal: http://portal.core.edu.au/conf-ranks/2178/
+
+
+
+Selected papers will be invited to submit an extended version to a dedicated ICOST'2023 special issue in Sensors Journal (Impact Factor 3.576) and Frontiers in Digital Health Journal.
+
+Special fees will be applied for accepted papers submitted from universities and academic institutions from Economically Developing Countries.
+
+
+
+* Demo proposals Submission
+
+Researchers and industry experts with significant contributions in the areas of smart cities, urban design, smart homes, health telematics, chronic disease management, and assistive technologies are encouraged to participate and present research prototypes or innovative systems to ICOST participants. ICOST 2023 invites interested researchers and industry experts to send a description of the system that will be demonstrated and a short presentation of the research teams/industrial involved in the demo. The description should be limited to one page and should be submitted to: icost_2023@easychair.org
+
+
+
+Authors interested to provide a short demonstration in conjunction with paper presentations should append a section in their papers with heading: 'demonstration description' detailing the scenario to be demonstrated.
+
+
+
+The organization committee will review the proposals and select a limited number of demos. ICOST will provide free space for nominated demos pending that presenters are registered as regular participants in the conference. Demos' presenters will be responsible for bringing and setting up any computer equipment needed for the demo.
+
+
+
+## Conference Committee
+
+* Conference General Chair
+
+Prof. Jongbae Kim | Yonsei University, Republic of Korea
+
+
+
+* Conference Co-Chair
+
+Prof. Mounir Mokhtari | Institut Mines-Télécom, France
+
+Prof. Eun Woo Nam | Yonsei University, Republic of Korea
+
+Prof. Wan-Ho Kim | National Rehabilitation Centre, Republic of Korea
+
+
+
+* Conference Program Committee Chairs
+
+Prof. Bessam Abdulrazak | University of Sherbrooke, Canad
+
+Prof. Hamdi Aloulou | Digital Research Center of Sfax (CRNS), Tunisia / Institut Mines-Telecom, France
+
+Dr. Seungbok Lee | Yonsei University, Republic of Korea
+
+
+
+* Scientific Advisory Board
+
+Prof. Mounir Mokhtari | Institut Mines-Télécom, France
+
+Prof. Bessam Abdulrazak | University of Sherbrooke, Canada
+
+Prof. Sumi Helal | University of Florida, USA
+
+Prof. Jose Pagan | New York University, USA
+
+Prof. Maria Teresa Arredondo | Universidad Politécnica de Madrid, Spain
+
+Prof. Maria Fernanda Cabrera | Universidad Politécnica de Madrid, Spain
+
+Prof. Mohamed Jmaiel | Digital Research Center of Sfax, Tunisia
+
+Prof. Dong Jin Song | National University of Singapore, Singapore
+
+Prof. Hamdi Aloulou | Digital Research Center of Sfax (CRNS), Tunisia / Institut Mines-Telecom, France
+
+Prof. Jongbae Kim | Yonsei University, Korea
+
+Prof. Timo Jämsä | Oulu University, Finland
+
+Prof. Sun gyoung Lee |  Kyung Hee University, Korea
+
+Dr. Daby Sow | IBM Watson, New York, USA
+
+Prof. Hisato Kobayashi | Hosei University, Japan
+
+Prof. Daqing Zhang | Telecom SudParis, France
+
+
+
+ # Organizing Committee Chairs
+
+Dr. Yim-Taek Oh | Korea Wheelchair Rugby Association, Republic of Korea
+Prof. Jaehong Key | Yonsei University, Republic of Korea
+
+Dr. Wonkyung Song | National Rehabilitation Research Institute, Republic of Korea

@@ -19,3 +19,7 @@ license = "pay-profit"
 
 [review]
 award = "Best student paper award."
+
+[[cfp]]
+file = "cfp/WODES-2024.pdf"
+stage = "initial"

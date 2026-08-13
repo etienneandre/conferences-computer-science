@@ -1,0 +1,66 @@
+******************************************************************************************
+
+-- ABOUT VECoS --
+
+VECoS 2022 - 28-30 September 2022, Tbilisi, Georgia
+
+http://vecos-world.org/2022/
+
+Part of the Computational Logic Autumn Summit (CLAS 2022)
+
+ 	 	 	
+
+The 16th International Conference on Verification and Evaluation of Computer and Communication Systems initially planned to take place on 28-30 September 2022 at Tbilisi State University, Georgia and will be a part of the Computational Logic Autumn Summit (CLAS 2022).
+
+*****************************************************************
+
+
+All the deadlines are AoE (Anywhere on Earth)
+
+* Abstract Submission		30th April 2022
+
+* Papers deadline:    		30th April 2022
+
+* Paper notification:	    13th June 2022
+
+* Camera-ready deadline:   4th July 2022
+
+* Conference:     	    	28- 30 September 2022
+
+
+The VECoS conference series focuses on the analysis of computer and communication systems, where functional and extra-functional properties are inter-related. VECoS encourages the cross-fertilization between the various formal verification and evaluation approaches, methods and techniques, especially those developed for concurrent and distributed hardware/software systems.
+
+Topics and more details can be found at: http://vecos-world.org/2022/
+
+
+An overview of previous VECoS conferences can be found at: http://vecos-world.org/
+
+
+-- GENERAL INFORMATION ON SUBMISSIONS --
+
+Submitted papers must be no longer than 15 pages (including bibliography), written in English, presenting original work and not be submitted for publication elsewhere.  Papers must be submitted electronically in PDF format through EasyChair (https://easychair.org/conferences/?conf=vecos2022), using the LNCS format (version 2.20 or above).  Accepted papers will appear in the conference proceedings.  At least one author of each accepted paper must attend the conference and present the paper.
+
+The conference proceedings will be published in the Springer-Verlag Lecture Notes in Computer Science (LNCS) series.
+
+Authors of selected papers will be invited to submit extended versions for a special issue of selected papers from the Conference will be considered for publication in extended and revised form in a special issue of an indexed international journal (ISSE:Innovations in Systems and Software Engineering or IJCCBS: International Journal of Critical Computer-Based Systems).
+
+
+-- ORGANIZATION --
+
+Program Chair
+
+* Jean-Michel Couvreur, Orléans University, France
+
+* Riadh Robbana, INSAT, Carthage University, Tunisia
+
+Publicity Chairs
+
+* Belgacem Ben Hedia, CEA LIST, Saclay, France
+
+For additional information, visit the conference website:
+
+http://vecos-world.org/2022/
+
+Best regards
+
+Program co-chairs

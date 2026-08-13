@@ -1,0 +1,48 @@
+ICAASE'18, International Conference on AdvancedAspects of Software Engineering
+
+Université Constantine2- Abdelhamid Mehri,Constantine  Algeria www.univ-constantine2.dz/icaase2018/i
+
+
+ 
+ImportantDates
+
+-    Paper submissiondeadline:  Sept. 23, 2018
+
+-    Notification ofacceptance:   Nov. 11, 2018
+
+-    Camera readypaper due:      Nov. 20, 2018
+
+-    Registrationdeadline:           Nov. 20, 2018
+
+-    Conferencedate:              Dec.01-02, 2018
+
+
+ 
+The 3rd Edition of the International Conference on AdvancedAspects of Software Engineering (ICAASE’18) will be held at Constantine 2University, on December 01-02, 2018. The conference provides an excellentopportunity to share and exchange the most recent innovations, research, technologiesand applications in the area of the Software Engineering. 
+
+Featuring several plenary, keynote and invited speakers, the ICAASE'18program will also provide insights into the latest trends to deal with thepractical challenges faced by the software engineering community, through thespecial session: “Practical Aspects ofSoftware Engineering” (PASE'18). 
+
+The PASE’18 session will gather highly-qualified industrial andresearch participants, eager to share common interests in software engineering.The session will be dedicated to paper presentations and panel discussions witha strong focus on software engineering practitioners.
+
+The conference is soliciting   originalresearch papers in all major areas of Software Engineering, which include, butnot limited to:
+
+
+·        DistributedSoftware Engineering
+
+·        Green Computing
+
+·        Formal methods inSoftware Engineering
+
+·        IntelligentSoftware Engineering
+
+·        Mobile SoftwareEngineering and Systems
+
+·        Secure SoftwareEngineering
+
+·        Agile Software Development
+
+·        SoftwareRefactoring and Maintenance
+
+·        Mining SoftwareRepositories
+
+·        Modern and EmergingSoftware Systems (Internet of Things, Cyber-Physical Systems, Fog Systems, CloudSystems, etc.) 

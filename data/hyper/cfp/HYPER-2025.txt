@@ -1,0 +1,60 @@
+CALL FOR PRESENTATIONS
+
+======================
+HYPER 2025
+4th Workshop on Hyperproperties: Advances in Theory and Applications
+https://hyperworkshop25.cispa.io/
+co-located with CAV 2025
+======================
+
+The goal of HYPER 2025 is to foster the exchange of ideas on topics related to hyperproperties between researchers from the formal methods, security, machine learning, and cyber-physical systems communities and to present and discuss recent advances in theory and applications for specifying and analyzing hyperproperties. The workshop will comprise invited talks and selected presentations. For more details and a list of invited speakers, see https://hyperworkshop25.cispa.io/.
+
+HYPER 2025 is co-located with CAV 2025, and will take place in Zagreb, Croatia, on July 21, 2025.
+
+
+IMPORTANT DATES
+
+
+Submission deadline: May 30, 2025 AoE
+Workshop: July 21, 2025
+
+
+INVITED SPEAKERS
+
+Tom Henzinger, ISTA, Austria
+Clara Schneidewind, MPI-SP, Germany
+Emanuele D'Osualdo, University of Konstanz, Germany
+Yu Wang, University of Florida, USA
+
+SUBMISSION GUIDELINES
+
+
+Submission link: https://easychair.org/my/conference?conf=hyper2025
+
+The HYPER workshop aims to bring together researchers interested in the broad area of hyperproperties and working in the areas of formal methods and control, cybersecurity, and machine learning. Topics of interest include, but are not limited to:
+Specification formalisms for hyperproperties
+Algorithms for verification, synthesis, and runtime verification for hyperproperties
+Information-flow control
+Privacy
+Fairness
+Causality
+Robustness
+Explainability
+
+
+Presentation proposals shall be submitted in the form of an *extended abstract of up to three pages* in LNCS format (not including references) via easychair. Submissions can overlap with previously published work and will be judged based on their relevance to the topic of the workshop. The workshop will have no formal proceedings.
+
+
+We look forward to seeing you at HYPER 2025 in Zagreb!
+Hadar Frenkel, Ana Oliveira da Costa, and Niklas Metzger
+HYPER 2025 co-chairs
+
+
+-------------------
+Hadar Frenkel
+Assistant Professor
+Computer Science Department
+Bar Ilan University
+hadar.frenkel@biu.ac.il
+https://u.cs.biu.ac.il/~frenkeh3/
+

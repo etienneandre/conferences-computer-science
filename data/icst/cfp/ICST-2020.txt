@@ -1,0 +1,218 @@
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+ICST 2020: CALL FOR PAPERS
+The 13th IEEE International Conference on Software Testing, Verification,
+and Validation
+
+23-27 March 2020, Porto, Portugal
+
+https://icst2020.info/
+
+https://twitter.com/icstconference/
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Research Papers
+
+ICST 2020 invites high quality submissions in all areas of software
+testing, verification, and validation. Papers for the research track
+should present novel and original work that pushes the
+state-of-the-art in software testing, verification, and
+validation. Case studies and empirical research papers are also
+welcome.
+
+Topics of interest include, but is not limited to, the following:
+
+- Fuzz testing
+- Manual testing practices and techniques
+- Search based software testing
+- Security testing
+- Model based testing
+- Test automation
+- Static analysis and symbolic execution
+- Formal verification and model checking
+- Software reliability
+- Testability and design
+- Testing and development processes
+- Testing education
+- Testing in specific domains, such as mobile, web, embedded,
+  concurrent, distributed, cloud, GUI and real-time systems
+- Testing for learning-enabled software, including deep learning
+- Testing/debugging tools
+- Theory of software testing
+- Empirical studies
+- Experience reports
+
+Each submission will be reviewed by at least three members of the ICST
+Program Committee.  Papers that have a strong industrial/practical
+component and focus more on impact rather than (technical) novelty are
+encouraged to consider the industry track instead.
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Industry track
+
+The industry track has the same topics and requires the same
+rigorousness as the research track. However, the industry track papers
+should prioritize impact and realism over novelty. We expect that
+industry track publications report useful testing tools, successful
+stories and experiences when applying software testing theories and
+methodologies into practice, or promising prototypes that have the
+potential to impact practice in the next few years. Ideally they
+should be evaluated on real-world, industrial data, and discuss
+non-functional aspects such as scalability and reliability, and also
+compare to pre-existing industrial best practices. The industry track
+papers will be published in the ICST 2020 proceedings and listed by
+IEEE databases.
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Testing Tools track
+
+The Tools Track seeks to bridge the gap between research and practice,
+focusing on software testing, verification, and validation. Its main
+goal is to advance both the state of the art and the state of the
+practice. The Tools Track invites submissions that describe tools at
+several stages of maturity, including promising research prototypes,
+widely used research tools, and commercial tools. A Tools Track
+submission should clearly describe the complexity of the addressed
+problem, solved technical challenges, and possibilities for technology
+transfer into practice. Researchers are welcome to submit papers that
+describe novel approaches and how these approaches support tool
+developers in solving challenging problems. Moreover, this track seeks
+non-academic submissions to foster discussions between researchers and
+practitioners.
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Tool Demos track
+
+In addition to the tool track papers, ICST 2020 will also be accepting
+submissions of demonstrations of testing-related tools and
+prototypes. The goal is to provide a highly interactive session where
+researchers and practitioners can experiment and discuss their
+tools. Demonstrations provide an opportunity to communicate how a
+scientific approach has been implemented or how a hypothesis has been
+assessed, including details such as implementation and usage
+challenges, data models and representations, APIs for tool and data
+access. A demonstration should focus on novel aspects of early
+prototypes or mature tools. It must clearly communicate the following
+information to the audience:
+
+- The software testing challenges it proposes to address.
+- The envisioned users and the presumed methodology for these users.
+- The results of validation studies already conducted for mature
+  tools, or the design of planned studies for early prototypes.
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Posters track
+
+The ICST Poster Track provides an opportunity for researchers and
+practitioners to present, show-case, and discuss their most recent
+advances, ideas, experiences, and challenges in the field of software
+testing, verification and validation. Poster submissions are intended
+to stimulate discussion on recent advances, experiences, and
+challenges, as well as cutting-edge or potentially disruptive ideas,
+in the field of software testing, verification and validation. The
+scope of the Poster Track includes novel ideas or visions of the
+future, industrial experiences, and early results related to research
+and practice of software testing, verification and validation.
+
+
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Doctoral Symposium
+
+The symposium invites Ph.D. students at all stages of their studies,
+from first-year students to those ready for their final dissertation
+defense. The symposium requires each student to write a short research
+summary describing the problem that will be tackled in the Ph.D., some
+key results (if any), potential plan of the Ph.D. The student will
+present her/his work at the symposium. After the presentation,
+students will receive oral feedback from a panel of researchers and
+practitioners. Students may also seek advice on topics such as how to
+perform research in testing, how to design and execute empirical
+research, write scientific papers, and eventually prepare for the
+defense itself. Accepted research summaries will be published in the
+conference proceedings.
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+
+How to Submit
+
+Full Research Papers as well as Industry papers must conform to the
+two-column IEEE conference publication format. Templates for LaTeX and
+Microsoft Word are available from
+https://www.ieee.org/conferences/publishing/templates.html : please
+use the `letter` format template and `conference` option.
+
+Papers should be submitted in the PDF format: they must not exceed ten
+pages, plus up to two pages of references. Submissions will be handled
+via EasyChair https://easychair.org/my/conference?conf=icst2020.
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+ Double Blind
+
+The research track for ICST 2020 will employ a double-blind review
+process. Thus, no submission may reveal its authors’ identities. The
+authors must make every effort to honor the double-blind review
+process. In particular, the authors’ names must be omitted from the
+submission and references to their prior work should be in the third
+person. Further advice, guidance and explanation about the
+double-blind review process can be found in the Q&A page:
+https://conf.researchr.org/track/icst-2020/icst-2020-papers#Submitting-to-ICST2020-Q-A
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+New in 2020
+
+Submissions must supply all information that is needed to replicate
+the results, and therefore are expected to include or point to a
+replication package with the necessary software, data, and
+instructions. Reviewers may consult these packages to resolve open
+issues. There can be good reasons for the absence of a replication
+package, such as confidential code and/or data, the research being
+mostly qualitative, or the paper being fully self-contained. If a
+paper does not come with a replication package, authors should comment
+on its absence in the submission data; reviewers will take such
+comments into account.
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Important Dates
+
+**Research and Industry track:**
+
+  - October 14 2019:  Submission of the Full Research Papers
+  - December 10 2019: Author Notification
+
+**Testing Tool Track:**
+
+  -  December 9 2019: Submission Deadline
+  -  January 10 2020: Author Notification
+
+**Tool Demos:**
+
+  -  December 12 2019: Submission Deadline
+  -  January 21 2020: Author Notification
+
+**Posters Track:**
+
+  -  December 12 2019: Submission Deadline
+  -  January 21 2020: Author Notification
+
+**Doctoral Symposium:**
+
+  - January 13 2020: Submission Deadline
+  - January 21 2020: Author Notification
+
+**Workshops:**
+
+  - September 13 2020: Proposals submitted
+  - September 27 2020: Workshop proposals notification

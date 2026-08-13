@@ -1,0 +1,97 @@
+[Apologies for multiple receptions of this announcement
+Please forward this CFP to anyone you think might be interested.]
+
+
+=========================================================================
+
+                                                               RTSOPS 2018
+=========================================================================
+
+
+                           9th International Real-Time Scheduling Open Problems Seminar 
+   
+                                                               RTSOPS 2018
+        
+                                                        http://rtsops2018.loria.fr/
+     
+                                                           Satellite workshop of 
+                                   30th EUROMICRO CONFERENCE ON REAL-TIME SYSTEMS
+                                                   Barcelona, Spain, 3-6th July 2018
+                       Organised by the Euromicro Technical Committee on Real-Time Systems
+                                           Conference web site: www.ecrts.org/ecrts18
+
+-------------------------------------------------------------------------------------------------------------------------
+IMPORTANT DATES
+
+Paper submission deadline:                  April 24, 2018 (23:59 GMT-12)
+Notification of acceptance:                    May 15, 2018
+Final paper submission:                        May 30, 2018
+Workshops:                                           July 3, 2018
+
+-------------------------------------------------------------------------------------------------------------------------
+
+CALL FOR PAPERS
+
+The 9th International Real-Time Scheduling Open Problems Seminar (RTSOPS 2018) provides a venue for the exchange of ideas and the discussion of interesting unsolved problems in real-time scheduling. The format of the seminar encourages interaction between participants and provides ample time for relaxed discussions. The goal of the seminar is to promote a spirit of co-operation and collaboration within the real-time scheduling community.
+
+RTSOPS 2018 is organized around presentation and collaboration sessions. Each presentation session provides the opportunity to hear about a number of unsolved problems in real-time scheduling, highlighted via brief presentations. The following collaboration session gives participants the opportunity to interact in small groups, exchange ideas with the presenters, explore how the problems might be solved, and take the first steps towards a solution. In addition, authors of open problem submissions from previous years' RTSOPS are invited to submit short status reports on progress made towards a solution to their open problem. This year's seminar will include a session for presentation of such advances.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+SCOPE
+
+Real-time scheduling theory has provided a foundation for understanding and solving resource allocation and scheduling problems in systems that have real-time constraints. New fundamental results are needed to address recent advances and trends in real-time systems design. RTSOPS 2018 encompasses all aspects that are relevant in the study of real-time scheduling.
+
+RTSOPS 2018 invites extended abstracts of open problems in areas such as, but not limited to:
+
+   Single-, Multi- and Many-core scheduling;
+   New models for real-time systems;
+   Scheduling in cyber-physical systems;
+   Mixed-criticality scheduling;
+   Interactions between WCET (worst-case execution time) analysis and scheduling.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+SUBMISSIONS
+
+Extended abstracts (for either new open problems or status reports on previously-presented problems) for RTSOPS 2018 must be written in English, and not exceed two A4 pages in length in single column, 10pt format, including relevant references. The main purpose of the abstract for new open problem submissions should be to provide a clear description of the problem. Abstracts may be submitted describing well-known but as yet unsolved problems. However, all abstracts should contain some element of original work that has not been published before; for example, a new problem, a new way of looking at an existing problem, new intuition or ideas on how a problem might be solved, possible frameworks for solutions, or overviews of special cases that may be useful in solving a problem. Abstracts describing progress on an open problem presented at previous RTSOPS meetings should include a brief statement of the open problem and a description of the technical advances made towards a solution.
+
+Abstract submissions should be made electronically, in PDF format, via EasyChair (https://easychair.org/conferences/?conf=rtsops2018).
+
+Authors of accepted abstracts are expected to give a brief presentation of their open problem, and be prepared to work on the problem with other participants during the collaboration sessions. Instructions for preparing final copy and presentations will be given when the abstract is accepted. RTSOPS 2018 will publish proceedings as a seminar booklet.
+
+By submitting an extended abstract, the authors agree and confirm that: neither this extended abstract nor a version close to it is under submission or will be submitted elsewhere before notification by RTSOPS 2018, and if accepted, at least one author will register for the RTSOPS 2018 seminar by the special registration deadline set in the notification of acceptance, and present the open problem at the seminar in person. Please note that extended abstracts that do not describe real-time scheduling problems will not be accepted. Submissions will be refereed for quality and relevance. Submissions exceeding the page limit may be rejected without review.
+
+As in the past few years, the authors of the paper that will present the most interesting open problem will be rewarded with an IPad sponsored by Inria!
+
+-------------------------------------------------------------------------------------------------------------------------
+
+SEMINAR CO-CHAIRS
+
+   Tam Chantem (Virginia Tech, USA)
+   Dorin Maxim (University of Lorraine, France)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+PROGRAM COMMITTEE
+ 
+   Yasmina Abdeddaïm, ESIEE Paris, France
+   Kunal Agrawal, Washington University in St. Louis, USA
+   Mohammad Ashjaei,  Mälardalen University, Sweden
+   Antoine Bertout, University of Poitier, France
+   Alessandro Biondi, Scuola Superiore Sant’Anna, Italy
+   Silviu Craciunas, TTTech Computertechnik, Austria
+   Benjamin Lesage, University of York, UK
+   Mitra Nasri, Max Planck Institute for Software Systems, Germany
+   Florian Pölzlbauer, Virtual Vehicle, Austria
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+STEERING COMMITTEE
+
+   Nathan Fisher (Wayne State University, U.S.A.)
+   Robert Davis (University of York, United Kingdom)
+   Liliana Cucu-Grosjean (INRIA, Paris-Rocquencourt, France)
+
+-------------------------------------------------------------------------------------------------------------------------

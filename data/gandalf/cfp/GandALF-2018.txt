@@ -1,0 +1,93 @@
+
+*****************************************************************************
+CALL FOR PAPERS - GandALF 2018
+*****************************************************************************
+
+The Ninth International Symposium on Games, Automata, Logics, and Formal Verification will be held in Saarbrücken (Germany) on September 26th - 28th, 2018.
+
+https://www.react.uni-saarland.de/gandalf2018/index.html
+
+*****************************************************************************
+
+The aim of GandALF 2018 is to bring together researchers from academia and industry which are actively working in the fields of Games, Automata, Logics, and Formal Verification. The idea is to cover an ample spectrum of themes, ranging from theory to applications, and stimulate cross-fertilization.
+
+Papers focused on formal methods are especially welcome. Authors are invited to submit original research or tool papers on all relevant topics in these areas. Papers discussing new ideas that are at an early stage of development are also welcome. The topics covered by the conference include, but are not limited to, the following:
+– Automata Theory
+– Automated Deduction
+– Computational aspects of Game Theory
+– Concurrency and Distributed computation
+– Decision Procedures
+– Deductive, Compositional, and Abstraction Techniques for Verification
+– Finite Model Theory
+– First-order and Higher-order Logics
+– Formal Languages
+– Formal Methods for Systems Biology, Hybrid, Embedded, and Mobile Systems
+– Games and Automata for Verification
+– Game Semantics
+– Logical aspects of Computational Complexity
+– Logics of Programs
+– Modal and Temporal Logics
+– Model Checking
+– Models of Reactive and Real-Time Systems
+– Program Analysis and Software Verification
+– Run-time Verification and Testing
+– Specification and Verification of Finite and Infinite-state Systems
+– Synthesis
+
+ IMPORTANT DATES
+******************
+– Abstract submission: June 13th, 2018
+– Paper submission: June 15th, 2018
+– Notification: August 1st, 2018
+– Camera-ready: August 17th, 2018
+- Conference: September 26th-28th, 2018
+
+ PUBLICATIONS
+******************
+The proceedings will be published by Electronic Proceedings in Theoretical Computer Science. Authors of the best papers will be invited to submit a revised version of their work to a special issue. The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, 2016 and 2017, the latter two still in progress), and Acta Informatica (GandALF 2015).
+
+
+SUBMISSIONS
+******************
+Submitted papers should not exceed fourteen (14) pages using EPTCS format (please use the LaTeX style provided at http://style.eptcs.org), be unpublished and contain original research. For papers reporting experimental results, authors are encouraged to make their data available with their submission. Submissions must be in PDF or PS format and will be handled via the EasyChair Conference system at the following address: 
+https://www.easychair.org/conferences/?conf=gandalf2018
+
+
+ PROGRAM CHAIRS
+******************
+Martin Zimmermann, Saarland University, Germany
+Andrea Orlandini, ISTC-CNR, Italy
+
+
+ PROGRAM COMMITTEE (TBU)
+******************
+Mohamed Faouzi Atig (Uppsala University, Sweden)
+Christel Baier (TU Dresden, Germany)
+Patricia Bouyer (LSV, CNRS & ENS Cachan, Université Paris Saclay, France)
+Laura Bozzelli (Università degli Studi di Napoli Federico II, Italy)
+Dario Della Monica (Universidad Complutense de Madrid, Spain)
+Jie-Hong Roland Jiang (National Taiwan University, Taiwan)
+Ranko Lazic (The University of Warwick, United Kingdom)
+Jérôme Leroux (CNRS, France)
+Radu Mardare (Aalborg University, Denmark)
+Angelo Montanari (University of Udine, Italy)
+Andrea Orlandini (co-chair, National Research Council of Italy (ISTC-CNR), Italy)
+Gennaro Parlato (University of Southampton, United Kingdom)
+Doron Peled (Bar Ilan University, Israel)
+Mickael Randour (UMONS - Université de Mons, Belgium)
+Mark Reynolds (The University of Western Australia, Australia)
+Pietro Sala (University of Verona, Italy)
+Pierluigi San Pietro (Politecnico di Milano, Italy)
+B Srivathsan (Chennai Mathematical Institute, India)
+Martin Zimmermann (co-chair, Saarland University, Germany)
+
+
+ STEERING COMMITTEE
+******************
+Luca Aceto (Reykjavik University, Iceland)
+Javier Esparza (University of Munich, Germany)
+Salvatore La Torre (University of Salerno, Italy)
+Angelo Montanari (University of Udine, Italy)
+Mimmo Parente (University of Salerno, Italy)
+Wolfgang Thomas (Aachen University, Germany)
+ 

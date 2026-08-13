@@ -1,0 +1,69 @@
+------------------------------- A F A D L - 2023 ---------------------------------
+Appel à contributions
+
+Approches Formelles dans l’Assistance au Développement de Logiciels (AFADL 2023) conjointement avec les journées du GDR-GPL à Rennes – 5 au 8 juin 2023 (https://gdrgpl2023.sciencesconf.org/)
+Objectif
+
+Les journées AFADL ont pour objectif de rassembler de nombreux acteurs académiques et industriels intéressés par la mise en œuvre des techniques formelles aux divers stades du développement des logiciels et/ou des systèmes. Elles ont pour but de mettre en valeur les travaux récents effectués autour de thèmes comme :
+
+    Les techniques et outils formels contribuant à assurer un bon niveau de confiance dans la construction de logiciels et de systèmes ;
+    Les méthodes et processus permettant d’exploiter efficacement les techniques et outils formels disponibles ou conçus ;
+    Les méthodes et processus mettant en œuvre des techniques formelles différentes et hétérogènes dans un développement ;
+    Les leçons tirées de la mise en œuvre de ces outils ou principes sur des études de cas ou des applications industrielles.
+
+Les techniques et outils présentés assistent notamment les activités suivantes : la modélisation, la validation et la gestion d’exigences formelles applicables aux logiciels, les spécialisations ou extensions de techniques de modélisation et d’évaluation induites par des domaines applicatifs (télécommunication, contrôle-commande, robotiques, systèmes interactifs, architectures, composition de services, applications distribuées sur le web, …) ou des points de vue particuliers sur les systèmes (sécurité informatique, exécution temps réel, …), le passage d’une étape de conception à la suivante : patrons de raffinement de spécifications, déploiement d’une architecture logicielle sur une architecture matérielle, génération automatique de code, réutilisation de composants, le test et l’évaluation rigoureuse de modèles formels ou codes, la spécification et la vérification formelles d’architectures, de modèles et de programmes.
+
+On s’intéressera aussi à la combinaison d’approches formelles avec des approches informelles ou semi-formelles ou à la coopération de techniques formelles de développement avec des techniques plus classiques (par exemple à la complémentarité vérification formelle / test pour les aspects V&V), aussi bien qu’à l’adaptation des approches formelles aux techniques d’apprentissage automatique et au domaine de l’informatique quantique.
+
+Il y aura deux sessions communes avec le GT MTV2 et le GT LVP.
+Contributions
+
+Cinq sortes de contributions sont attendues (en français ou en anglais) ; elles seront toutes publiées dans les actes de la conférence :
+
+** Recherche originale (4-8 pages)
+
+Un tel article présente une problématique de recherche académique ou industrielle et des résultats non encore publiés, de façon ciblée pour la communauté francophone. Des articles courts sont acceptables s’ils correspondent à la présentation motivée d’un problème et de travaux en cours, d’un point de vue ou d’une approche émergente ou d’expériences industrielles.
+
+** Session doctorants (2-4 pages)
+
+Pour permettre aux doctorants de présenter leurs travaux en cours et d’avoir un retour de la communauté, le comité de programme invite les doctorants à soumettre un papier présentant leur problématique et leurs résultats préliminaires ou déjà publiés. Les doctorants retenus pour cette session pourront faire une demande de bourse pour participer aux journées.
+
+** Démonstrations d’outils (2-4 pages)
+
+Un article de démonstration d’outil vise à présenter l’originalité, la pertinence et les performances d’un outil de recherche académique ou industrielle. L’article précisera les noms des auteurs, le nom de l’outil, les services offerts par l’outil et éventuellement des pointeurs vers des sources d’informations complémentaires (principes techniques sous-jacents, mode d’emploi, compte-rendu d’application, …). Celui-ci pourra, selon le désir des auteurs, être couplé ou non à un poster outil aux journées du GDR.
+
+** Présentations de projets (2-4p)
+
+Il s’agit de présenter un projet accepté, d’envergure nationale ou internationale, ainsi que quelques uns des résultats obtenus dans ce projet. L’article mentionnera les noms des partenaires, l’agence de financement, les objectifs et les dates du projet.
+
+** Résumés longs (2-4p)
+
+Ce sont des présentations de recherches publiées récemment. Pour éviter que les meilleurs travaux de la communauté francophone soient uniquement présentés dans les conférences ou revues internationales, le comité de programme invite tout membre de la communauté ayant un article en cours de soumission ou récemment accepté (depuis l’édition précédente) à une conférence ou revue internationale à le soumettre également à AFADL pour présentation. La référence bibliographique du travail d’origine devra être indiquée lors de la soumission, ainsi que le statut du papier (soumis ou accepté).
+Dates importantes
+
+Soumission des résumés    Lundi 27 mars 2023
+
+Date limite de soumission    Lundi 3 avril 2023
+
+Notification aux auteurs    Mardi 9 mai 2023
+
+Version finale des articles    Mardi 16 mai 2023
+Soumission
+
+Le format des documents doit être analogue au format latex A4, times, french, 11pt, sans numéros de pages :
+
+\documentclass[a4paper, french, 11pt]{article}
+
+\usepackage{times}
+
+\pagestyle{empty}
+
+Les actes de l’atelier seront publiés dans un rapport technique, répertorié sur ArXiV (autres possibilités à l’étude).
+Contacts
+
+Pour toutes questions, contacter : gpl.afadl.2023[At]gmail.com
+
+Les présidents des journées sont :
+
+    Natalia KUSHIK : Natalia.Kushik[At]telecom-sudparis.eu
+    Frédéric MALLET : Frederic.Mallet[At]univ-cotedazur.fr

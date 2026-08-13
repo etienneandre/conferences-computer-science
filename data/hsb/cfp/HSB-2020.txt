@@ -1,0 +1,144 @@
+=========================================================================
+CALL FOR CONTRIBUTIONS
+
+
+HSB 2020: 7th International Workshop on Hybrid Systems Biology
+http://hsb2020.conf.tuwien.ac.at/
+
+April 15-16, Vienna, Austria
+
+
+=========================================================================
+ABOUT
+
+
+HSB is a single-track workshop centering on dynamical models in biology,
+with an emphasis on both hybrid systems (in the classical sense, i.e.,
+mixed continuous-discrete-stochastic systems) and hybrid approaches that
+combine modeling, analysis, algorithmic and experimental techniques from
+different areas.
+
+Topics of interest include, but are not limited to:
+
+- Modeling and analysis of metabolic, signalling and genetic regulatory
+networks in living cells.
+- Stochastic and hybrid models in biology.
+- Models of tissues and organs; physiological models.
+- Learning, synthesis, and inference of biosystems.
+- Hierarchical systems for multi-scale, multi-domain analysis.
+- Abstraction, approximation, discretisation and model reduction
+techniques.
+- Synthetic biology, cyber-biological / bio-in-the-loop systems,
+biomedical systems and devices and bio-robotics.
+- Game-theoretical frameworks and population models in biology.
+- Quantitative and formal analysis techniques (e.g. reachability, model
+checking, abstract interpretation, bifurcation theory).
+- Modeling languages and logics for biosystems.
+
+HSB 2020 will have informal pre-proceedings available during the
+workshop. Post-proceedings will be published as a volume in the Springer
+LNCS/LNBI series, indexed by ISI Web of Science, Scopus, ACM Digital
+Library, DBLP, and Google Scholar.
+
+A special journal issue is under consideration. We solicit high-quality
+submissions, to be refereed by the Program Committee.
+
+
+=========================================================================
+CALL FOR PAPERS
+
+
+Papers should be written in English and have to be formatted in Springer
+LNCS style. Each submission will be reviewed by at least three
+reviewers. Papers need to be submitted electronically as PDF files via
+EasyChair online submission system (coming soon). We accept the
+following two types of paper submissions:
+
+- Regular papers (max 15 pages + max 2 pages of references)
+- Tool papers (max 6 pages + max 2 pages of references)
+
+Tool papers require the submission of an executable artifact that
+contains clear instructions for the reviewer on how to run the tool.
+
+Submissions can contain a well-marked appendix that is not counted to
+the page limit. The appendix will not be published in the proceeding and
+the reviewers are not required to read the appendix and thus the
+submission must be intelligible without it.
+
+Each accepted paper will have a slot for oral presentation at the workshop.
+
+
+=========================================================================
+CALL FOR POSTERS
+
+HSB 2020 also solicits poster abstracts presenting original unpublished
+work. The abstracts must be written in English, formatted in Springer
+LNCS style and should not exceed 2 pages including references. Poster
+abstracts should be submitted via the EasyChair online submission
+system. The program committee will select the best abstracts for
+publication in the conference proceedings.
+
+Each accepted poster will also have a slot for a 5-minute flash oral
+presentation at the workshop.
+
+
+=========================================================================
+PREVIOUSLY PUBLISHED WORK
+
+
+In addition to original contributions, HSB 2020 invites abstracts for
+oral presentation of recent outstanding results already published or
+accepted for publication in a recognised journal or a high-quality
+conference during the last year. These non-original contributions will
+be presented at the workshop but will not be part of the proceedings.
+
+HSB also welcomes poster abstracts describing previously published work.
+For these posters, however, the 5-minute flash presentation slot is not
+guaranteed.
+
+
+=========================================================================
+IMPORTANT DATES
+
+    Paper submission: 13th Dec 2019
+    Poster abstract submission: 17th Jan 2020
+    Author Notification: 6th Mar 2020
+    Workshop: 15th-16th Apr 2020
+    Final post-proceedings version: 8th May 2020
+
+
+=========================================================================
+INVITED SPEAKERS
+
+    Luca Cardelli, University of Oxford, UK
+    Thomas Henzinger, IST Austria, Austria
+
+
+=========================================================================
+PC CHAIRS
+
+    Laura Nenzi – TU Wien, Austria & University of Trieste, Italy
+    Max Tschaikowski – TU Wien, Austria
+
+
+=========================================================================
+LOCAL ORGANIZATION CHAIR
+
+    Laura Nenzi - TU Wien, Austria & University of Trieste, Italy
+
+
+=========================================================================
+STEERING COMMITTEE
+
+    Alessandro Abate – University of Oxford, UK
+    Ezio Bartocci – TU Wien, Austria
+    Luca Bortolussi – University of Trieste, Italy
+    Milan Ceska, Brno University of Technology, Czech Republic
+    Eugenio Cinquemani –  INRIA, France
+    Thao Dang –  CNRS / VERIMAG, France
+    Alexandre Donze, University of California at Berkeley, USA /
+Decyphir Inc
+    Adam Halasz, West Virginia University, USA
+    Nicola Paoletti, Royal Holloway, University of London, UK
+    Carla Piazza, University of Udine, Italy
+    David Šafránek – Masaryk University, Czech Republic

@@ -1,0 +1,147 @@
+http://hscc.acm.org/2026
+
+29th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2026), and
+
+17th ACM/IEEE International Conference on Cyber-Physical Systems(ICCPS).
+
+HSCC/ICCPS 2026 will be a collaboration between two premier conferences in the Cyber-Physical Systems (CPS) community. For the first time, the International Conference on Hybrid Systems: Computation and Control (HSCC) and the ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) will operate as a unified event with parallel sessions, joint keynotes, and a common program committee, while maintaining their distinct identities and publication venues. We are also creating a third “pillar” on AI-enabled autonomy to showcase topics in this important and rapidly emerging area. Additionally, we are providing a formal space to an existing emphasis by joining forces with the Autonomous Systems Design (ASD) Initiative which has been hosted at the DATE conference for the past 5 years.
+
+The combined conference will accept papers in three tracks:
+
+    Foundations,
+    Systems and Applications,
+    AI-enabled autonomy.
+
+Topics of Interest
+
+Authors should submit their best work to one of the following three tracks, which best aligns with their paper’s primary contribution:
+
+Foundations Track
+
+    Mathematical foundations, computability and complexity
+    Formal methods for cyber-physical systems
+    Analysis, verification, validation, and testing methodologies
+    Modeling paradigms and techniques for hybrid systems
+    Control theory for cyber-physical systems
+    Programming and specification languages
+    Network science and network-based control theory
+    Theoretical aspects of safe autonomy
+    Formally Verified Artificial Intelligence and Robotics
+    Algorithmic foundations for CPS
+    High assurance techniques for CPS
+    Computational tools and complexity analysis
+    Autonomous Systems Design (ASD) specific topics:
+        Design processes for trustworthy autonomous systems
+        Design, verification, test, and maintenance of autonomous systems
+        HW/SW architectures for dependable and resilient autonomous systems
+        Models and HW/SW mechanisms for self-X capabilities
+        Mastering emergent and evolving behavior (goals, constraints, …)
+        Functional safety and cybersecurity of autonomous systems
+
+Systems/Applications Track
+
+    CPS architectures and platforms
+    Deployments and industrial applications
+    Real-world case studies and testbeds
+    System integration and middleware for CPS
+    Sensing, actuation, and monitoring systems
+    Human-machine interaction in CPS
+    Security, privacy, and resilience design and implementations
+    Neurosymbolic CPS
+    Assurance cases for AI-enabled CPS
+    Autonomous Systems Design (ASD) specific topics:
+        Design processes for trustworthy autonomous systems
+        Design, verification, test, and maintenance of autonomous systems
+        HW/SW architectures for dependable and resilient autonomous systems
+        Models and HW/SW mechanisms for self-X capabilities
+        Mastering emergent and evolving behavior (goals, constraints, …)
+        Functional safety and cybersecurity of autonomous systems
+    CPS applications in:
+        Automotive and transportation systems
+        Aerospace and avionics
+        Energy and smart grid systems
+        Healthcare and medical devices
+        Manufacturing and Industry 4.0
+        Robotics and autonomous systems
+        Smart cities and infrastructure
+        Agriculture and environmental monitoring
+
+AI Enabled Autonomy Track
+
+Topics include, but are not limited to:
+
+    Generative AI for cyber-physical systems
+    Foundation models and transformers for CPS
+    Safe learning and verification of AI-enabled CPS
+    Neurosymbolic approaches to autonomy
+    Physics-informed machine learning
+    Explainable AI for safety-critical systems
+    Learning-based control and planning
+    Data-driven modeling and analysis
+    AI-based situational awareness and decision-making
+    Autonomous Systems Design (ASD) specific topics:
+        Design processes for trustworthy autonomous systems
+        Design, verification, test, and maintenance of autonomous systems
+        HW/SW architectures for dependable and resilient autonomous systems
+        Models and HW/SW mechanisms for self-X capabilities
+        Mastering emergent and evolving behavior (goals, constraints, …)
+        Functional safety and cybersecurity of autonomous systems
+
+We are also joining forces with the Autonomous Systems Design (ASD) Initiative which has been hosted at the DATE conference for the past 5 years. ASD-specific topics have been integrated into each of the three pillars of this conference. 
+
+For 2026, the publication venues will be selected by authors, according to the relevant conference (HSCC or ICCPS).
+
+
+Unified Submission Process
+
+    All papers will be submitted through the hotcrp conference management system (submission link will be posted on the conference page: http://hscc.acm.org/2026 ).
+    Authors must indicate their (a) target track and (b) publication venue preference (HSCC or ICCPS) at submission time 
+    Papers will be reviewed by a unified program committee with expertise spanning all the relevant areas.
+        PC may decide to move papers across tracks, if appropriate, while informing the authors. 
+    Common submission format and guidelines for submission.
+        All submissions must use the ACM two column conference submission format. 
+        The format for the final, camera ready papers will differ for the two conferences.
+        Instructions will be provided to authors of accepted papers at the appropriate time. 
+
+Publication Venues
+
+    Accepted papers will be published in the proceedings of the conference selected during submission time.
+    All accepted papers will be presented at the joint conference with equal visibility in one of the three parallel tracks.
+    Authors who choose to publish in the IEEE proceedings will need to convert their papers to a new style but will receive an adequate page limit for the camera-ready version to enable such conversion.
+    Papers must clearly indicate their primary contribution (Foundations vs. Systems/Applications vs. AI-enabled Autonomy).
+
+
+Paper Categories
+
+
+Regular Papers
+
+    Maximum 10 pages (excluding references) : Full technical contributions with comprehensive evaluation.
+
+Short papers
+
+    Maximum 6 pages(including references): Short papers can include work-in-progress, position papers, tool-papers, or focused contributions.
+
+Artifact Evaluation
+
+Authors of accepted papers are encouraged to participate in artifact evaluation. Papers passing this process will receive appropriate badges. Participation or justification for non-participation will be considered for best paper award eligibility.
+
+The artifact evaluation process will run after the acceptance notifications, and the important dates for this process along with detailed instructions will appear by January 2026.
+Special Issues in Journals
+
+Selected papers will be invited to submit extended versions to:
+
+    ACM Transactions on Cyber-Physical Systems
+    Non-Linear Analysis : Hybrid Systems (details to be finalized)
+
+Important Dates
+
+    Abstract Submission Deadline: November 6, 2025 AoE.
+    Submission Deadline: November 13, 2025 AoE.
+    Repeatability Evaluation Submission: November 20, 2025 AoE.
+    Rebuttal Period: January 7-11, AoE.
+    Notification Deadline: January 29, 2026 AoE.
+    Repeatability Evaluation: March 10, 2026 AoE.
+    Camera ready: March 31, 2026 AoE.
+    Conference dates: May 11-14, 2026
+

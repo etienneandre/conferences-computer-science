@@ -23,3 +23,7 @@ license = "cc-by"
 blind = "lightweight-double"
 gender_balance = "mixed"
 award = "Papers authored solely by students or for which students are the main contributors will be considered for the Helena Rasiova award."
+
+[[cfp]]
+file = "cfp/CSL-2027.txt"
+stage = "initial"

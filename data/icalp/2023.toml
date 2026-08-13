@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Double-blind. Rebuttal: March 22-25 2023. Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm (6 days in 2020 due to relocation)."
+
+[[cfp]]
+file = "cfp/ICALP-2023.txt"
+stage = "initial"

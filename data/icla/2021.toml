@@ -19,3 +19,7 @@ license = "pay-profit"
 
 [extra]
 notes = "In 2011, some papers were accepted for presentation but not in proceedings. A limited number of registration waivers are available for Indian participants. Every two years."
+
+[[cfp]]
+file = "cfp/ICLA-2021.txt"
+stage = "initial"

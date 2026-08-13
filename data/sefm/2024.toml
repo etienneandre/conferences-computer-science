@@ -26,3 +26,11 @@ submitted = 68
 
 [extra]
 notes = "Artifact evaluation (optional for regular)."
+
+[[cfp]]
+file = "cfp/SEFM-2024-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/SEFM-2024-extended2.txt"
+stage = "extended"

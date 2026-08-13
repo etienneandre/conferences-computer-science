@@ -1,0 +1,154 @@
+********************************************************************†*********†**************************
+                          
+                           VECoS 2018
+                         Call for Papers
+
+    !!! Abstract and paper submission deadlines extended !!!
+
+                12th International Conference on
+Verification and Evaluation of Computer and Communication Systems
+
+             September 26-28, 2018, Grenoble, France
+
+https://vecos.ensta-paristech.fr/2018/
+*****************************************************************
+
+-- INVITED SPEAKERS --
+
+ * Parosh Aziz Abdulla, Uppsala University, Sweden
+ * Axel Legay, Inria Rennes, France
+ * Alexandra Silva, University College London, UK
+
+
+-- IMPORTANT DATES --
+
+All the deadlines are AoE (Anywhere on Earth)
+
+ * Abstract deadline:     30 April 2018 <-- Extended!
+ * Papers deadline:       08 May   2018 <-- Extended!
+ * Paper notification:    11 June  2018
+ * Camera-ready deadline: 18 June  2018
+ * Conference:         26–28 September 2018
+
+
+-- ABOUT VECoS --
+
+The VECoS conference series focuses on the analysis of computer
+and communication systems, where functional and extra-functional
+properties are inter-related.  VECoS encourages the cross-fertil-
+ization between the various formal verification and evaluation
+approaches, methods and techniques, especially those developed
+for concurrent and distributed hardware/software systems.
+
+Topics of interest include, but are not limited to:
+
+ * Abstraction techniques
+ * Certification standards for real-time systems
+ * Compositional verification
+ * Correct-by-construction design
+ * Dependability assessment techniques
+ * Equivalence checking
+ * Model-checking
+ * Parameterized verification
+ * Performance and robustness evaluation
+ * Probabilistic verification
+ * QoS evaluation, planning and deployment
+ * RAMS (Reliability-Availability-Maintainability-Safety)
+   assessment
+ * Rigorous system design
+ * Security protocols verification
+ * Simulation techniques of discrete-event and hybrid systems
+ * Supervisory control
+ * Verification & validation of IoT
+ * Verification & validation of safety-critical systems
+ * Worst-case execution time analysis
+
+Application areas of interest to VECoS include: adaptive systems,
+communication protocols, computer-supported collaborative work
+systems, cloud computing, cyber-physical systems, high-performance
+computing, internet of things, logistics systems, manufactoring
+of the future, mixed criticality systems, mobile and wireless
+networking, operations research, programming languages, real-time
+and embedded operating systems, service-oriented systems,
+telecommunication systems, ubiquitous systems, web services,
+wireless sensor networks and workflow systems.
+
+An overview of previous VECoS conferences can be found at:
+
+https://vecos.ensta-paristech.fr/
+
+VECoS 2018 will be held in September 26-28 in Grenoble, France.
+
+
+-- GENERAL INFORMATION ON SUBMISSIONS --
+
+VECoS 2018 is soliciting two types of contributions: full and
+short papers.  Full papers are allowed a maximum of 15 pages
+(including bibliography), whereas short papers are allowed a
+maximum of 6 pages (including bibliography).  Submitted papers
+must be in English, presenting original work and not be submitted
+for publication elsewhere.  Papers must be submitted
+electronically in PDF format through EasyChair
+(https://easychair.org/conferences/?conf=vecos2018), using the
+LNCS format.  Accepted (full and short) papers will appear in the
+conference proceedings.  At least one author of each accepted
+paper must attend the conference and present the paper. The
+conference proceedings will be published in the Springer-Verlag
+Lecture Notes in Computer Science (LNCS) series.
+
+Authors of selected papers will be invited to submit extended
+versions for a special issue of Innovations in Systems and
+Software Engineering: A NASA Journal or of the International
+Journal of Critical Computer-Based Systems.
+
+In addition to the full and short papers, VECoS invites posters
+presenting work in progress.  Posters will not lead to a
+publication in the proceedings.  The deadline fo submission of
+posters is July 1, 2018.  Please submit a PDF file containing a
+short description of the content of the poster (up to 2 pages in
+LNCS format) using EasyChair.  These contributions will be judged
+solely on the basis of their attractiveness to the conference.
+
+
+-- ORGANIZATION --
+
+General Chairs
+ * Saddek Bensalem, Verimag / University Grenoble Alpes, France
+ * Bruno Monsuez, ENSTA ParisTech, France
+
+Program Chairs
+ * Mohamed Faouzi Atig, Uppsala University, Sweden
+ * Simon Bliudze, INRIA Lille - Nord Europe, France
+
+Publicity Chairs
+ * Belgacem Ben Hedia, CEA-LIST, Saclay, France
+ * Vladimir-Alexandru Paun, ENSTA ParisTech, Palaiseau, France
+
+Local organization committee
+ * Marius Bozga, Verimag / CNRS, France
+ * Jacques Combaz, Verimag / CNRS, France
+ * Ayoub Nouri, Verimag / University Grenoble Alpes, France
+
+For additional information, visit the conference website:
+https://vecos.ensta-paristech.fr/2018/
+
+
+
+
+
+
+-- 
+=================================
+Kamel Barkaoui
+Conservatoire national des arts et métiers
+Professeur des universités
+EPN5 Informatique
+Lab. Cedric – Vespa
+2, rue Conté
+75141 Paris Cedex 03
+kamel.barkaoui@cnam.fr
+Tél: +33140272852
+Mobile: +33672542247
+http://vecos-world.org
+=================================
+

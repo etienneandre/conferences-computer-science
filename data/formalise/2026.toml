@@ -24,3 +24,11 @@ artifact = "Submission of an artifact is optional but encouraged for all papers 
 
 [extra]
 colocated = "Co-located with ICSE 2026"
+
+[[cfp]]
+file = "cfp/FORMALISE-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORMALISE-2026-extended.txt"
+stage = "extended"

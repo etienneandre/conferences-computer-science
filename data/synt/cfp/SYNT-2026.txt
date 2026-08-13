@@ -1,0 +1,60 @@
+**SYNT 2026 : 15th International Workshop on Synthesis**
+25th July 2026
+Co-located with FLoC 2026, Lisbon, Portugal
+
+---
+
+The SYNT workshop aims to bring together researchers interested in the broad area of synthesis of computing systems. The workshop fosters the development of frontier techniques in automating the development of computing systems and is inclusive in its interpretation of the term “synthesis”.
+
+SYNT 2026 encourages submissions that can be broadly categorized into one of the tracks: reactive synthesis, functional synthesis and neuro-symbolic synthesis. However, submissions in other areas related to synthesis are also welcome.
+
+---
+
+**Topics of interest include, but are not limited to:**
+
+- Algorithms and tools for synthesis of computing systems, broadly interpreted
+- Reactive (discrete-time, timed, hybrid, ...) synthesis
+- Functional (program, circuit, …) synthesis
+- Neuro-symbolic synthesis
+- Specification languages and optimization in synthesis,
+- Complexity and decidability results for synthesis,
+- Case studies of software or hardware synthesis,
+- Connections between verification and synthesis,
+- Synthesis by model learning,
+- Connections between synthesis and inductive programming,
+- New approaches or applications for synthesis,
+- Description and analysis of benchmark families for synthesis.
+
+---
+
+**SYNT 2026 submission instructions**
+
+SYNT 2026 welcomes submissions of extended abstracts up to 3 pages, excluding references.
+
+All submissions should be in the Lecture Notes in Computer Science (LNCS) format:
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines <https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines>
+
+As in previous years, there will be no published proceedings of SYNT 2026
+
+Submissions will be judged on how interesting they are to the SYNT community. Overlap with previously published work should be indicated but does not disqualify a submission if the presentation can be expected to be of enough interest. Parallel submissions are welcome as well, since there will be no published proceedings.
+
+---
+
+**WORKSHOP URL:**
+https://synt2026.github.io/ <https://synt2026.github.io/>
+
+**SUBMISSION URL:**
+https://submissions.floc26.org/synt/ <https://submissions.floc26.org/synt/>
+
+---
+
+**IMPORTANT DATES:**
+
+- Submission: 1st May (AoE)
+- Author Notification: 14th May (AoE)
+- Workshop: 25th July
+
+---
+Organisers:
+Supratik Chakraborty (Indian Institute of Technology Bombay)
+K. S. Thejaswini (Université libre de Bruxelles)

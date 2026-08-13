@@ -1,0 +1,135 @@
+**** CALL FOR CONTRIBUTIONS ****
+=======================================
+26th ACM International Systems and Software Product Line Conference (SPLC 2022)
+September 12-16, 2022
+Venue: Graz University of Technology, Graz, Austria
+Consolidated Call for Papers
+Web site: http://2022.splc.net/ 
+Twitter:  @splcconf
+=======================================
+The Systems and Software Product Line Conference (SPLC) is a premier forum where researchers, practitioners, and educators can present and discuss the most recent ideas, trends, experiences, and challenges in the area of software and system product lines engineering. Conference events include opportunities to hear industry leaders' real-world experiences and researchers' latest ideas and to learn from both.
+=====
+Tracks
+=====
+* Research Papers
+The International Systems and Software Product Lines Conference (SPLC) is the leading conference on variability and configuration of hardware and software systems. Researchers, practitioners, and educators present and discuss the most recent research breakthroughs, ideas, trends, experiences, challenges and solutions to advance the state-of-the-art. SPLC is ranked as a top conference and for this 26th edition, we strive to continue the success of previous years by welcoming high-quality submissions for the research track.
+* Industrial Systems and Software Product Lines in Practice Papers
+For some decades now, product line engineering has been adopted in a myriad of different scenarios, including a broad variety of industrial domains. Many organizations have already benefited from implemented product line practices by improving customizability and quality while significantly reducing time-to-market and costs of engineering software-intensive products. Moreover, product lines have also shown promising results in other areas where an explicit management of variability can provide answers to the challenges posed by the domain. However, applying product line engineering also encounters a wide range of difficulties that can hinder their success and adoption. For instance, the emergence of Industry 4.0 and new technologies including artificial intelligence, digital twins, blockchain, and cyber-security technologies as well as crises such as the Covid-19 pandemic are posing new challenges – but offering new opportunities on the other hand. We seek contributions from industrial and academic researchers on applications of product line engineering to software and systems in practice, sharing their specifics, challenges, successes, and evaluations in all stages of technology readiness levels.
+* Challenge Cases and Solutions Papers
+We highly encourage community members to provide concrete sets of case studies and problems that showcase SPL-related challenges. First, there will be a call for cases where researchers or practitioners are encouraged to contribute a concrete case study. Then, after the accepted case studies are published, there will be a call for solutions. Both accepted case descriptions and solutions will be included in the conference proceedings.
+* Journal First Papers
+Authors of journal-first papers are invited to submit their publications to present their work at SPLC. This is an opportunity to speak directly to the community and offer SPLC attendees a richer set of presentations.
+* Workshop Proposals
+We invite the community to submit proposals for one or two- day workshops in the field. In particular, workshops on challenging, emerging areas related to conference topics.
+* Demonstrations and Tools
+This track highlights live demonstrations of product-line tools and of practices tackling current industrial challenges.
+* Doctoral Symposium Papers
+The SPLC Doctoral Symposium aims to provide a supportive environment that enables doctoral students to get constructive feedback on their research. Students will have the opportunity to discuss their work with experienced members of the community.
+* Tutorial Proposals
+Tutorials provide a valuable opportunity for participants to expand their knowledge and skills in product line engineering. Tutorials may focus on introductory product lines topics, or on advanced tools, approaches, methods, and best practices.
+=============
+Important Dates
+=============
+* Research Track 
+Call for research papers
+	Abstract submission: April 8, 2022
+	Paper submission: April 21, 2022
+	Notification: June 2, 2022
+	Artifact submission: June 14, 2022
+	Artifact notification: June 30, 2022
+	Camera-ready papers: July 7, 2022
+* Industrial Systems and Software Product Lines in Practice Track
+Call for industrial systems and software product lines in practice 
+ 
+	Abstract submission: June 6, 2022
+	Paper submission: June 9, 2022
+	Notification: June 27, 2022
+	Camera-ready papers: July 7, 2022
+* Workshops
+Call for workshop proposals 
+	Workshop proposal: February 14, 2022
+	Notification: March 11, 2022
+	Workshop papers submission: June 14, 2022
+	Workshop papers notification: July 1, 2022
+	Final version of papers + summary of the workshop: July 7, 2022
+* Journal First Track
+Call for journal first papers 
+	Submission: June 10, 2022
+	Notification for invitation: June 24, 2022
+	Camera ready summary papers: July 7, 2022
+* Demonstration and Tools
+Call for demonstrations and tools 
+	Paper submission: June 14, 2022
+	Notification: July 1, 2022
+	Camera-ready papers: July 7, 2022
+* Doctoral Symposium
+Call for doctoral symposium papers – SPLC'22
+	Paper submissions: June 14, 2022
+	Notification: July 1, 2022
+	Camera-ready papers: July 7, 2022
+* Tutorials
+Call for tutorial proposals 
+	Tutorial submission: May 16, 2022
+	Notification: June 6, 2022
+	Final version of the 1 page description for the proceedings: July 7, 2022
+
+=============
+Organization
+=============
+General Chairs
+Alexander Felfernig, Graz University of Technology, Austria
+Lidia Fuentes, Universidad de Málaga, Spain
+Research Track Chairs
+Jane Cleland-Huang, University of Notre Dame, USA
+Wesley K. G. Assunção, Johannes Kepler University Linz, Austria and Pontifical Catholic University of Rio de Janeiro, Brazil
+ 
+Workshops Chairs
+Clement Quinton, University of Lille, France
+Jianmei Guo, East China Normal University, China
+ 
+Doctoral Symposium Chairs
+Klaus Schmid, University of Hildesheim, Germany
+Marianne Huchard, Université de Montpellier, France
+ 
+Tutorials Chairs
+Miguel Á. Rodríguez Luaces, University of Coruña, Spain
+Megha Bhushan, DIT University, India
+ 
+Industrial Systems and Software Product Lines in Practice Chairs
+Andreas Falkner, Siemens Austria
+Maider Azanza, University of the Basque Country, UPV/EHU, Spain
+ 
+Hall of Fame Chairs
+Goetz Botterweck, University of Limerick, Ireland
+Natsuko Noda, Shibaura Institute of Technology, JP
+ 
+Challenge Track Chairs
+Laura Semini, University of Pisa, Italy
+Xavier Devroey, University of Namur, Belgium
+ 
+Journal First Chairs
+Claudia Maria Lima Werner, UFRJ, Brazil
+Christoph Seidl, IT University of Copenhagen, Denmark
+ 
+Demonstrations and Tools Chairs
+Inmaculada Ayala, Universidad de Málaga, Spain
+José Miguel Rojas, University of Leicester, UK
+ 
+Local Organization Chair
+Thi Ngoc Trang Tran, Graz University of Technology, Austria
+ 
+Proceedings Chairs
+Viet-Man Le, Graz University of Technology
+José Miguel Horcas, University of Seville, Spain
+ 
+Publicity Chairs
+Jihyun Lee, Jeonbuk National University, Korea
+Ivan Machado, Federal University of Bahia, Brazil
+ 
+Local Publicity Chair
+Seda Polat Erdeniz, Graz University of Technology, Austria
+ 
+Web Chairs
+Luisa Rincón, Pontificia Universidad Javeriana, Colombia
+Martin Stettinger, Graz University of Technology, Austria
+Sebastian Lubos, Graz University of Technology, Austria

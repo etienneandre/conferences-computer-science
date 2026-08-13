@@ -1,0 +1,103 @@
+CALL FOR PAPERS
+===============
+
+37th Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2017)
+Kanpur, India, December 11 - 15, 2017
+----------------
+
+Conference website: http://fsttcs.org/
+Submission website: https://easychair.org/conferences/?conf=fsttcs2017
+
+Paper submission deadline: Monday, July 24, 2017 (Anywhere on earth)
+Notification to Authors: Monday, September 18, 2017
+Camera-ready deadline: Monday, October 16, 2017
+Conference: December 11 - 15, 2017
+
+
+Overview
+----
+The 37th Foundations of Software Technology and Theoretical Computer Science (FSTTCS) conference will take place at the Indian Institute of Technology, Kanpur, during December 11 (Mon) - 15 (Fri), 2017, under the auspices of the Indian Association for Research in Computing Science (IARCS). Submissions presenting original results in foundational aspects of Computer Science and Software Technology are invited. Representative areas include, but are not limited to, the following.
+
+- Algorithms and Data Structures
+- Algorithmic Graph Theory and Combinatorics
+- Approximation Algorithms
+- Automata and Formal Languages
+- Combinatorial Optimization
+- Communication Complexity
+- Computational Biology
+- Computational Complexity
+- Computational Geometry
+- Computational Learning Theory
+- Cryptography and Security
+- Game Theory and Mechanism Design
+- Logic in Computer Science
+- Model Theory, Modal and Temporal Logics
+- Models of Concurrent and Distributed Systems
+- Models of Timed, Reactive, Hybrid and Stochastic Systems
+- Parallel, Distributed and Online Algorithms
+- Parameterized Complexity
+- Principles and Semantics of Programming Languages
+- Program Analysis and Transformation
+- Proof Complexity
+- Quantum Computing
+- Randomness in Computing
+- Specification, Verification, and Synthesis
+- Theorem Proving, Decision Procedures, and Model Checking
+- Theoretical Aspects of Mobile and High-Performance Computing
+
+
+Invited Speakers
+----
+Sham Kakade (University of Washington, USA)
+Anca Muscholl (LaBRI & Universite' de Bordeaux, France)
+Devavrat Shah (MIT, USA)
+Vinod Vaikuntanathan (MIT CSAIL, USA)
+Thomas Wilke (Christian-Albrechts-Universitaet zu Kiel, Germany)
+
+
+Submission Information
+----
+Submissions must be in electronic form via EasyChair using the LIPIcs LaTeX style file. Submissions must not exceed 12 pages (excluding bibliography), but may include a clearly marked appendix containing technical details. The appendix will be read only at the discretion of the program committee. Simultaneous submissions to journals or other conferences with published proceedings are disallowed. More detailed submission instructions are provided on the FSTTCS 2017 submission page.
+
+Accepted papers will be published as proceedings of the conference in the Leibniz International Proceedings in Informatics (LIPIcs) as a free, open, electronic archive with access to all. Authors will retain full rights over their work. The accepted papers will be published under a CC-BY license. For an accepted paper to be included in the proceedings, one of the authors must commit to presenting the paper at the conference.
+
+
+Program Committee
+----
+Alexandr Andoni (Columbia University),
+Arnab Bhattacharyya (IISc Bangalore),
+Eshan Chattopadhyay (IAS Princeton),
+Nicola Galesi (Sapienza Universita Roma, Italy),
+Sumit Ganguly (IIT Kanpur),
+Prateek Jain (MSR Bangalore),
+Rahul Jain (NUS, Singapore),
+Neeraj Kayal (MSR Bangalore),
+Satya Lokam (MSR Bangalore, co-chair),
+Daniel Lokshtanov (University of Bergen, Norway),
+Ruta Mehta (University of Illinois at Urbana-Champaign),
+Manoj Prabhakaran (IIT Bombay),
+Alon Rosen (IDC Herzliya, Israel),
+Alex Samorodnitsky (HUJI, Israel),
+Srikanth Srinivasan (IIT Bombay),
+Nikhil Srivastava (University of California, Berkeley),
+Justin Thaler (Georgetown University),
+Kasturi Varadarajan (University of Iowa),
+
+S Akshay (IIT Bombay),
+Christel Baier (TU Dresden),
+Stephanie Delaune (IRISA & CNRS Rennes),
+Tim French (UWA, Perth),
+Prasad Jayanti (Dartmouth College),
+Daniel Kroening (University of Oxford),
+Ranko Lazic (University of Warwick),
+Rupak Majumdar (MPI),
+Stephan Merz (INRIA Nancy & LORIA),
+Paritosh K. Pandya (TIFR, Mumbai),
+Pavithra Prabhakar (Kansas State University),
+R Ramanujam (IMSc Chennai, co-chair),
+Simona Ronchi Della Rocca (Universita di Torino),
+Sunil Simon (IIT Kanpur),
+Sonja Smets (University of Amsterdam),
+B Srivathsan (CMI, Chennai),
+Lidia Tendera (Uniwersytet Opolski),
+Nobuko Yoshida (Imperial College).

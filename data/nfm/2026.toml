@@ -24,3 +24,11 @@ artifact = "Courageous authors, who want to delve in open source software being 
 
 [extra]
 notes = "No registration fees. Gen AI mostly allowed. Remote participation allowed."
+
+[[cfp]]
+file = "cfp/NFM-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/NFM-2026-extended.txt"
+stage = "extended"

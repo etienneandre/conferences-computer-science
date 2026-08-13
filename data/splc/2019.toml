@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "There will be two best paper awards each endowed by 500€"
+
+[[cfp]]
+file = "cfp/SPLC-2019.txt"
+stage = "initial"

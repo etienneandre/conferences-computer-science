@@ -1,0 +1,96 @@
+---
+
+IEEE ISORC 2018 CALL FOR PAPERS 
+
+The 21st IEEE INTERNATIONAL SYMPOSIUM ON REAL-TIME COMPUTING (ISORC)
+Nanyang Technological University, Singapore
+Dates: 29th - 31st May 2018.
+https://cps-research-group.github.io/ISORC2018/index.html
+
+Important dates:
+--------------------------	
+Submission deadline: February 2, 2018
+Acceptance notification: March 16, 2018
+Camera-ready papers: March 31, 2018
+
+Main theme and topics:
+--------------------------	
+ISORC has become established as the leading event devoted to state-of-the-art 
+research in the field of object/component/service-oriented real-time 
+distributed computing (ORC) technology. The conference theme for 2018 will be 
+decentralized time-sensitive computing and enabling software infrastructures.  
+This theme will focus on both:	(1) Cloud infrastructures and 
+platforms for time-sensitive computation and real-time computing 
+(2) Algorithms and Computational Infrastructure to support complex 
+social cyber-physical systems combining edge, fog, and cloud.
+
+We solicit high-quality papers pertaining  to all aspects of ORC technology 
+and especially those that are well aligned with the 2018 theme. 
+Authors are encouraged to consider submissions with a practical orientation 
+and validation related to case ttudies & applications in this area. 
+The specific ORC focus areas include,  but are not limited to:	
+
+* Programming and system engineering: real-time programming challenges, 
+  ORC paradigms, object/component models, languages and synchronous languages.			
+* Embedded distribution middleware middleware such as .NET, RT RMI, RT Java, 
+  UML, model-maintenance, system of systems, time-predictable systems and hardware.	
+* Distributed computing and communication infrastructures: real-time communication, 
+  networked platforms, protocols, Internet QoS, peer-to-peer computing, sensor 
+  networks, VANETS and V2V and V2I communication, trusted and dependable systems.	
+* Algorithms for Real Time Analytics: clustering and classification approaches, 
+  stream processing algorithms, real time decision tree generation and update, 
+  real time machine learning, statistical approaches. Approaches related to 
+  stream correlation and sampling.
+* System software: real-time kernels and OS, middleware support for ORC, 
+  QoS management, extensibility, synchronization, resource allocation, scheduling, 
+  fault tolerance, security.
+* Real-time algorithms and infrastructure support for decentralized architectures 
+  including distributed ledgers with a focus on scalability and resilience.
+* Applications: Medical devices, intelligent transportation systems, Industrial 
+  automation systems and Industry 4.0, Internet of Things and Smart Grids, 
+  Embedded systems (automotive, avionics, consumer electronics, building 
+  systems, sensors, etc), multimedia processing, RT Web-based applications.						
+* System evaluation: performance analysis, monitoring & timing, dependability, 
+  end-to-end QoS, overhead, fault detection and recovery time.				
+* Cyber-physical and Cyber-social systems (e.g. social media analytics)
+
+Submission guidelines:
+--------------------------
+IEEE ISORC 2018 invites papers in three categories.				
+							
+1) Regular Research Papers: Papers should describe original work and be 
+   maximum 8 pages in length using the IEEE paper format. 
+   A maximum of two extra pages may be purchased.							
+2) Industrial Papers and Practitioner Reports: Papers describing experiences 
+   of using ORC technology in application or tool development projects, 
+   are an integral part of the technical program of ISORC. 
+   A majority of these papers are expected to be shorter and less formal than 
+   research papers. They should clearly identify and discuss in detail the issues 
+   that represent notable industrial advances. Reports with project metrics 
+   supporting their claims are particularly sought, as well as those that show both 
+   benefits and drawbacks of the approaches used in the given project.			
+3) Short Papers: Short research papers, 4 pages or less using the IEEE format, 
+   on real-time analytics are also invited, and should contain enough information 
+   for the program committee to understand the scope of the project and evaluate 
+   the novelty of the problem or approach.
+
+Best papers from ISORC 2018 will be invited for submission to a Special Issue 
+of an IEEE / ACM Journal. Papers are to be submitted through the EasyChair system:			
+https://easychair.org/conferences/?conf=isorc2018
+					
+All accepted submissions will appear in the proceedings published by IEEE. 
+Each accepted paper shall be accompanied by at least one registration.
+
+Organizing Committee
+---------------------		
+Arvind Easwaran, Nanyang Technological University, Singapore
+Paul Townend, University of Leeds, UK
+Joel Sherill, OAR Corporation, USA		
+Marisol Garcia-Valls, Universidad Carlos III de Madrid, Spain
+Abhishek Dubey, Vanderbilt University, USA
+Qixin Wang, The Hong Kong Polytechnic University, Hong Kong SAR, China
+Uwe Brinkschulte, Goethe University Frankfurt am Main, Germany 
+Rob Pettit, The Aerospace Corporation, USA
+Rui Tan, Nanyang Technological University, Singapore
+Sidharta Andalam, Auckland University of Technology, New Zealand
+

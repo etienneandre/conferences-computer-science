@@ -1,0 +1,23 @@
+The paper deadlines of
+
+- ICPE Research Track
+  https://icpe2024.spec.org/tracks-and-submissions/research-paper-track/
+
+- ICPE Industry Track
+  https://icpe2024.spec.org/tracks-and-submissions/industry-track/
+
+have been extended to Nov 17 (no abstract submission is required).
+
+=========
+ICPE 2024
+=========
+
+15th ACM/SPEC International Conference on Performance Engineering
+
+Sponsored by ACM SIGMETRICS, SIGSOFT, and SPEC RG
+May 7 - 11, 2024
+London, UK
+
+Web: https://icpe2024.spec.org
+Twitter: https://twitter.com/ICPEconf
+EasyChair: https://easychair.org/conferences/?conf=icpe2024

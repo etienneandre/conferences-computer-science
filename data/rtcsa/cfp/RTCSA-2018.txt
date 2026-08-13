@@ -1,0 +1,137 @@
+The 24th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications
+
+Location: Hokkaido, Japan
+
+Date: August 28-31, 2018
+
+Web: http://rtcsa2018.ht.sfc.keio.ac.jp
+
+ 
+
+Important Dates:
+
+- Paper Submission Deadline: April 20 [FIRM! no extensions]
+
+- Acceptance Notification: June 1
+
+- Final Paper Submission: June 15
+
+- Conference Date: August 28-31, 2018
+
+ 
+
+RTCSA 2018 is going to be held in Hokkaido, Japan. The RTCSA conference series carry on with the tradition and bring together researchers and developers from academia and industry for advancing the technology of embedded and real-time systems and their emerging applications, including the Internet of things and cyber-physical systems.
+
+ 
+
+RTCSA seeks both research and industry track papers that describe research or technical aspects in the area of embedded and real-time systems. Proceedings will be published by the IEEE Computer Society.
+
+ 
+
+Submission of a paper should be regarded as a commitment that, should the paper be accepted, at least one of the authors will register and attend the conference to present the work. RTCSA2018 reserves the right to exclude a paper from distribution after the conference (e.g., removal from the digital library and indexing services), if the paper is not presented at the conference.
+
+ 
+
+[Scope]
+
+The 24th edition of RTCSA will bring together researchers and developers from academia and industry to promote cross-fertilization and discuss advances and trends in the technology of embedded and real-time systems and their emerging applications, including the Internet of Things and Cyber-Physical Systems. RTCSA 2018 seeks papers that describe original research in these areas, particularly in:
+
+ 
+
+*** REAL-TIME SYSTEMS TRACK ***
+
+- Real-Time Operating Systems
+
+- Real-Time Scheduling
+
+- Timing Analysis
+
+- Programming Languages and Run-Time Systems
+
+- Middleware Systems
+
+- Design and Analysis Tools
+
+- Communication Networks and Protocols
+
+- Media Processing and Transmissions
+
+- Real-Time Aspects of Wireless Sensor Networks
+
+- Energy Aware Real-Time Methods
+
+- Real-Time Aspects of Databases
+
+ 
+
+*** EMBEDDED SYSTEMS TRACK ***
+
+- Embedded System Architectures
+
+- Multi-Core Embedded Systems
+
+- Operating Systems and Scheduling
+
+- Embedded Software and Compilers
+
+- Non-Volatile Memory and Storage
+
+- Power/Thermal Aware Design
+
+- Fault Tolerance and Security
+
+- Sensor-based Systems and Applications
+
+- Embedded Systems and Design Methods for Cyber-Physical Systems
+
+- Reconfigurable Computing Architectures and Software Support
+
+- Ubiquitous and Distributed Embedded Systems and Networks
+
+ 
+
+*** IoT, CPS, AND EMERGING APPLICATIONS TRACK ***
+
+- Systems, Technology and Foundations of IoT and CPS
+
+- Applications and Case Studies of IoT and CPS
+
+- Smart and Connected Health
+
+- Industrial Internet and Industry 4.0
+
+- Smart City Technology and Applications
+
+- Smart Transportation and Infrastructure
+
+- Cyber-Physical Co-Design
+
+- Cloud, Middleware and Networks for IoT and CPS
+
+- Wireless Sensor-Actuator Networks for IoT and CPS
+
+- Industrial Networks and Systems
+
+ 
+
+RTCSA 2018 General Chairs:
+
+- Jin Nakazawa, Keio University, Japan
+
+- Rob Davis, The University of York, UK and Inria, France
+
+ 
+
+RTCSA 2018 Program Chairs:
+
+- Real-Time Systems Track: Rodolfo Pellizzoni, University of Waterloo, Canada
+
+- Embedded Systems Track: Insik Shin, KAIST, Korea
+
+- IoT, CPS, and Emerging Applications Track: Kaori Fujinami, Tokyo University of Agriculture and Technology, Japan
+
+ 
+
+[Paper Submission]
+
+Both research and industry track papers are solicited. The submitted manuscript must describe original work not previously published and not concurrently submitted elsewhere. We welcome high quality papers, either in Full Paper format (the main body of each submitted paper is limited to 10 pages in the IEEE conference proceedings format (two-columns, single-space, 10pt), with additional pages permitted for the bibliography and acknowledgments only) or Short Paper format (max 6 pages). In some cases, the PC may decide to accept a long submitted paper as a short paper, in which case, the authors will be required to reduce its length for the final version. Conference content will be submitted for inclusion into IEEE Xplore. The prospective authors should submit their papers through the submission web page.

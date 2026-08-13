@@ -17,3 +17,7 @@ notification = [2019-07-06]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/ICFEM-2019.txt"
+stage = "initial"

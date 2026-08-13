@@ -19,3 +19,7 @@ license = "acm"
 
 [extra]
 notes = "Double blind. Author Response Period (20-22 December 2022). Second round of submissions later in 2023"
+
+[[cfp]]
+file = "cfp/ISSTA-2023.txt"
+stage = "initial"

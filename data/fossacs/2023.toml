@@ -25,3 +25,7 @@ submitted = 85
 
 [extra]
 notes = "Part of ETAPS 2023, colocated with SPIN 2023. Single-blind, with a rebuttal phase. Rebuttal phase: 6-8 December 2022. Authors of best papers will be invited to submit extended versions of their papers to Logical Methods in Computer Science."
+
+[[cfp]]
+file = "cfp/FoSSaCS-2023.txt"
+stage = "initial"

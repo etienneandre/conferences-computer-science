@@ -1,0 +1,119 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The 15th International Symposium on Theoretical Aspects of Software Engineering (TASE 2021)
+https://tase2021.github.io/
+Aug. 25-27, Shanghai, China
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TASE is an international symposium that aims to bring together researchers and developers from academia and industry with interest in the 
+theoretical aspects of software engineering. Modern society is increasingly dependent on software systems that are becoming larger and 
+more complex. This poses new challenges to current software engineering methodologies that need to be enhanced using modern results 
+from theoretical computer science. We invite submission of research papers on topics covering all theoretical aspects of software engineering, 
+including those describing applications of theoretical computer science in industrial applications and software engineering methodologies.
+
+The 15th Theoretical Aspects of Software Engineering Conference (TASE 2021) will be held in Shanghai, China on August 25-27, 2021. 
+The proceedings of the TASE 2021 symposium are planned to be published by the IEEE Computer Society Press. 
+The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to a special issue 
+of the Science of Computer Programs journal.
+
+Authors are invited to submit high quality technical papers describing original and unpublished work in all theoretical aspects of 
+software engineering. Topics of interest include, but are not limited to:
+
+■ Abstract interpretation
+■ Algebraic and co-algebraic specifications
+■ AI for formal methods
+■ Component-based software engineering
+■ Cyber-physical systems
+■ Deductive verification
+■ Distributed and concurrent systems
+■ Domain Engineering
+■ Embedded and real-time systems
+■ Feature-oriented software
+■ Formal methods, verification and testing for AI systems
+■ Run-time verification and monitoring
+■ Semantic web and web services
+■ Service-oriented and cloud computing
+■ Software processes and workflows
+■ Software architectures and design
+■ Formal verification and program semantics
+■ Fundamental theories and techniques for trustworthy AI systems
+■ Integration of formal methods
+■ Language design
+■ Model checking and theorem proving
+■ Model-driven engineering
+■ Object-oriented systems
+■ Probability in software engineering
+■ Program analysis
+■ Program logics and calculi
+■ Requirements engineering
+■ Reverse engineering and software maintenance
+■ Software testing and quality assurance
+■ Software safety, security and reliability
+■ Specification and verification
+■ Type systems and behavioral typing
+■ Tools exploiting theoretical results
+
+----------------------------------------------------------------------------------
+IMPORTANT DATES:
+Abstract Submission: February 28, 2021
+Paper Submission: March 7 , 2021
+Author Notification: May 7, 2021
+Camera-ready versions: May 31, 2021
+Conference: August 25-27, 2021
+----------------------------------------------------------------------------------
+ORGANIZATION:
+
+* General Chairs:
+Jifeng He (Shanghai Academy of Artificial Intelligence Industrial Technology, CN) 
+Mingsong Chen (East China Normal University, CN)
+
+* Invited Speakers
+Moshe Vardi (Rice University, US)
+Kokichi Futatsugi (JAIST, JP)
+
+* Program Chairs:
+Kazuhiro Ogata (Japan Advanced Institute of Science and Technology, Japan)
+Min Zhang (East China Normal University, China)
+
+* Program Committee:
+Erika Abraham (RWTH Aachen University, DE)
+Yamine Ait Ameur (Toulouse National Polytechnique Institute, FR)
+Toshiaki Aoki (JAIST, JP)
+Cyrille Valentin Artho (KTH Royal Institute of Technology, SE)
+Étienne André (Université de Lorraine, FR)
+Luís Soares Barbosa (University of Minho, PT)
+Richard Banach (The University of Manchester, UK)
+Michael Butler (University of Southampton, UK)
+Marcello Bonsangue (Leiden University, NL)
+Yunja Choi (Kyungpook National University, KR)
+Florin Craciun (Babes-Bolyai University, RO)
+Liqian Chen (National University of Defense Technology, CN)
+Marmsoler Diego (University of Exeter, UK)
+Kim Guldstrand Larsen (Aalborg University, DK)
+Fuyuki Ishikawa (National Institute of Informatics, JP)
+Shaoying Liu (Hosei University, JP)
+Dominique Mery (Université de Lorraine, FR)
+Frederic Mallet (Universite Nice Sophia-Antipolis, FR)
+Masaki Nakamura (Toyama Prefectural University, JP)
+Shin Nakajima (National Institute of Informatics, JP)
+Jun Pang (University of Luxembourg, LU)
+Yu Pei (The Hong Kong Polytechnic University, CN)
+Adrian Riesco (Universidad Complutense de Madrid, ES)
+Meng Sun (Peking University, CN)
+Rob van Glabbeek (CSIRO, AU)
+Zhiwu Xu (Shenzhen University, CN)
+Hongji Yang (Leicester University, UK)
+Akihisa Yamada (National Institute of Informatics, JP)
+Yongwang Zhao (Zhejiang University, CN)
+Naijun Zhan (Institute of Software, CAS, CN)
+Huibiao Zhu (East China Normal University, CN)
+
+*Publicity Chairs:
+Étienne André (Université de Lorraine, France)
+Guoqiang Li (Shanghai Jiaotong University, China)
+
+----------------------------------------------------------------------------------
+SUBMISSION GUIDELINES
+
+Paper submissions must be made electronically in PDF format via the EASYCHAIR website (https://easychair.org/conferences/?conf=tase2021). 
+Papers must be original and not be submitted to or under review at any other conferences and journals. papers are limited to 8 pages, in 
+camera-ready format using IEEE Conference template, included in the registration fee.

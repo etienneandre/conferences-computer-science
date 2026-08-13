@@ -23,3 +23,19 @@ blind = "double"
 
 [extra]
 notes = "39 tracks, student abstracts, Student Research Competition, etc."
+
+[[cfp]]
+file = "cfp/SAC-2026.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SAC-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SAC-2026-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/SAC-2026-extended2.txt"
+stage = "extended"

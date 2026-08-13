@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "Light-weight rebuttal scheme. Artifact evaluation. Held in conjunction with ICSE."
+
+[[cfp]]
+file = "cfp/FormaliSE-2024.txt"
+stage = "initial"

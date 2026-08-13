@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Double-blind. Authors of selected papers will be invited to submit an extended version to a special issue of the newly founded Springer journal Process Science."
+
+[[cfp]]
+file = "cfp/BPM-2025.txt"
+stage = "initial"

@@ -19,3 +19,15 @@ license = "pay"
 
 [extra]
 notes = "Best papers from ISORC 2018 will be invited for submission to a Special Issue of an IEEE / ACM Journal."
+
+[[cfp]]
+file = "cfp/ISORC-2018.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISORC-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISORC-2018-extended.txt"
+stage = "extended"

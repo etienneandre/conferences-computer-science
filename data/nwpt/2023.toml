@@ -19,3 +19,11 @@ publisher = "PDF"
 
 [extra]
 notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. We plan to arrange a special issue of the Journal of Logical and Algebraic Methods in Programming (JLAMP) devoted to the best contributions to the workshop."
+
+[[cfp]]
+file = "cfp/NWPT-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/NWPT-2023-extended.txt"
+stage = "extended"

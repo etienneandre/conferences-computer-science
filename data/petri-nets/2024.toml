@@ -26,3 +26,11 @@ submitted = 42
 
 [extra]
 notes = "All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited, in an extended form, as submissions to a special issue of Fundamenta Informaticae."
+
+[[cfp]]
+file = "cfp/PetriNets-2024.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PetriNets-2024-extended.txt"
+stage = "extended"

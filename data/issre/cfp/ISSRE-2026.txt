@@ -1,0 +1,373 @@
+*** Call for Contributions ***
+
+37th IEEE International Symposium on Software Reliability Engineering
+(ISSRE 2026)
+
+October 20-23, 2026, 5* St. Raphael Resort and Marina
+Limassol, Cyprus
+
+https://cyprusconferences.org/issre2026/
+
+The International Symposium on Software Reliability Engineering (ISSRE) is the leading
+conference on software reliability research and practice. ISSRE focuses on techniques and
+tools for assessing, predicting, and improving the reliability, safety, security, and resilience
+of software systems. As modern software increasingly integrates AI/ML components,
+operates autonomously, and spans cloud-to-edge environments, ensuring reliable system
+behavior is more critical than ever.
+
+Topics of Interest
+
+ISSRE 2026 invites high-quality contributions that advance the theory and practice of
+software reliability across contemporary software-intensive systems, including systems
+that incorporate AI/ML components. Topics of interest include, but are not limited to:
+
+Foundations of Reliability and Dependability
+• Principles, models, metrics, empirical methods, and theories of software reliability,
+resilience, robustness, and safety
+• Systematic approaches to fault prevention, fault removal, fault tolerance, and fault
+forecasting in modern software systems
+• Testing and debugging, formal methods, model checking, static/dynamic analysis,
+verification, and runtime assurance
+
+Reliability in AI-Driven and Autonomic Systems
+• Reliability engineering for AI-enabled, autonomous, self-adaptive, and cyber-physical
+systems
+• Assurance, testing, verification, and certification of AI/ML components, including
+foundation and generative models
+• Reliability of AI-generated code: validation, verification, explainability, defect analysis,
+and trustworthy automation of development tasks
+• Impact of AI on software lifecycle processes (design, testing, evolution, operations, and
+quality management)
+
+AI Techniques for Reliability Engineering
+• Machine learning for defect prediction, anomaly detection, debugging assistance, fault
+localization, and test automation
+• Learning-based approaches to self-healing, resilience management, predictive
+maintenance, and reliability optimization
+• Reliability governance in AI-driven DevOps pipelines, including transparency,
+interpretability, and auditability
+
+Software Reliability in Emerging System Domains
+• Reliability assurance for cloud, edge, IoT, 5G/6G, cyber-physical, high-performance,
+and network softwarization environments
+• Dependability of open-source ecosystems, data-driven pipelines, model hubs, and
+AI-assisted contributions
+• Benchmarking, stress testing, workload modeling, and measurement frameworks for
+large-scale and AI-based systems
+
+Trustworthiness, Security, and Responsible Software Engineering
+• Intersections of reliability with security, privacy, fairness, transparency, and regulatory
+compliance
+• Societal, ethical, and human impacts of pervasive AI-enabled software systems
+• Responsible governance of AI-based systems, including lifecycle assurance, auditability,
+and risk analysis
+
+Human-Centered, Empirical, and Reproducible Reliability Research
+• Field studies, experience reports, user studies, and human factors in reliability
+engineering
+• Public datasets, benchmark suites, reproducibility packages, and replication/negative-
+result studies
+• Tooling, automation, continuous reliability monitoring, observability, and operational
+feedback loops
+
+Research Track Paper Categories
+
+The research track at ISSRE 2026 invites high-quality submissions of technical research
+papers that describe original, unpublished results exploring new scientific ideas,
+contribute new evidence to established research directions, or reflect on practical
+experience. Specifically, ISSRE solicits submissions in three categories:
+
+• Research (RES) papers
+• Practical experience reports (PER)
+• Tools and artefacts (TAR) papers
+
+Papers will be assessed with criteria appropriate to each category. All the papers of the
+three categories are regular and full papers, and will be published in the same ISSRE
+proceedings.
+
+RES Papers
+RES papers (12 pages, including references) should describe a novel contribution to the
+reliability of software systems. Novelty should be argued via concrete evidence and
+appropriate positioning within the state of the art. RES papers are also expected to
+explain the validation process and its limitations clearly.
+
+PER Papers
+PER papers (12 pages, including references) should provide an in-depth exposition of
+practical experiences ideally performed by a collaboration of researchers and industry
+practitioners. The key contribution of these papers should be lessons learned from
+applying established research tools and methods to ISSRE topics, or new knowledge
+acquired through empirical studies conducted using various research methodologies.
+Negative results are welcome, e.g., discussing where or why current research cannot be
+applied in an industrially relevant context.
+
+TAR Papers
+TAR papers (6 – 10 pages, including references) should describe a new tool or artefact.
+Tool-focused TAR papers must present either a new tool or a novel and substantial
+extension of an existing tool. They should include a description of (i) the theoretical
+foundations, (ii) the design and implementation aspects, and (iii) experiments with
+realistic case studies. Making the tool publicly available is strongly encouraged.
+Artefact-focused TAR papers should cover (i) a working copy of the software and (ii)
+experimental data sets. Dataset papers should introduce a new dataset that supports
+experimentation, benchmarking, evaluation, or training in AI-driven software engineering.
+Submissions should describe: (i) dataset motivation and scope, (ii) data collection and
+processing methodology, (iii) dataset structure and statistics, and (iv) potential use cases.
+Benchmark papers should present a new benchmark suite for evaluating tools, LLMs, or
+algorithms. Submissions should include: (i) benchmark design principles, (ii) task
+definitions and evaluation metrics, (iii) baseline results, and (iv) reproducibility package.
+
+The ISSRE conference encourages authors of all three categories of research track papers
+to follow the principles of transparency, reproducibility, and replicability. Authors are
+encouraged to disclose data to increase reproducibility and replicability. Should the paper
+be accepted, the authors will have the opportunity (and are encouraged to) submit
+artifacts to the Artifact Evaluation (AE) track, to enhance the reproducibility and quality of
+the research. By submitting your artifacts, you not only contribute to the progress of our
+field but also stand a chance to earn badges that will be displayed on your papers in the
+conference proceedings, showcasing the credibility and rigor of your work.
+
+Industry Track Paper Categories
+
+The ISSRE Industry Track gathers industry representatives as well as researchers from,
+within or in collaboration with industry to discuss software reliability, quality assurance as
+well as experiences and lessons learned.  This year we will bring experiences from self-
+made tools, usage of AI, generative AI and machine learning in relation to software
+reliability.
+
+Industry track papers are expected to be of interest to software development
+professionals, as well as to anyone researching or working in the area of software
+reliability, software quality, and process improvement groups, with concrete relevance to
+industrial problems and practical applications.
+
+We invite three kinds of submissions to the Industry Track:
+
+• Enlightening Talk or Tool Demo: 1-2 page abstract (OR a Power Point presentation OR a
+video for a tool demo).
+• Short paper: 4-pages (including references).
+• Full paper: 6-pages (including references).
+
+All the submissions will be reviewed by members of the Industry Track Program
+Committee. Accepted papers (with an abstract) will be included in the ISSRE Supplemental
+Proceedings and submitted for publication to IEEE Xplore.
+
+Fast Abstracts and Project Highlights Track
+
+A Fast Abstract (FA) or Project Highlights (PH) paper is a two-page, lightly reviewed
+technical article. The FA/PH track at ISSRE 2026 aims to bring together researchers and
+practitioners working in Software Reliability Engineering (SRE) to:
+
+• Introduce early original ideas.
+• Discuss relevant work-in-progress and ongoing experiences.
+• Challenge the SRE status quo on key topics.
+• Present critical analyses of prior work.
+• Share lessons learned from real-world SRE applications.
+• Propose new problems from industrial or academic experience.
+• Describe approaches to problems of significance that may not yet have complete results.
+
+In addition to traditional Fast Abstracts, the track welcomes Project Highlights (PH) papers.
+PH papers are expected to disseminate results, visions, methodologies, tools, and ongoing
+activities from national and international research projects (e.g., European, or multi-
+institutional initiatives).
+
+Project Highlights may include, but are not limited to:
+• Overviews of funded research projects and their objectives.
+• Project methodologies, architectures, and experimental frameworks.
+• Early or intermediate results, including lessons learned and preliminary insights.
+• Datasets, benchmarks, tools, platforms, and other project outcomes released or in
+progress.
+• Collaboration experiences, challenges, and emerging research directions from national
+or international projects.
+
+Project Highlights that can stimulate discussion and collaboration within the ISSRE
+community are welcome. Ongoing projects and projects completed not earlier than
+October 2025 are eligible.
+
+Replications and Negative Results Track
+
+The Replications and Negative Results (RENE) Track has been introduced in the software
+engineering community for a while and received overwhelmingly positive feedback. This
+year, we establish this track at ISSRE and invite researchers to (1) replicate results from
+previous papers and (2) publish studies with important and relevant negative or null
+results (results that fail to show an effect, yet demonstrate the research paths that did not
+pay off).
+
+We also encourage the publication of the negative results or replicable aspects of
+previously published work. For example, authors of a published paper reporting a working
+solution for a given problem can document in a “negative results paper” other (failed)
+attempts they made before defining the working solution they published.
+
+• Replication studies. The papers in this category must go beyond simply re-implementing
+an algorithm and/or re-running the artifacts provided by the original paper. Such
+submissions should at least apply the approach to new data sets (open-source or
+proprietary). A replication study should clearly report on results that the authors were able
+to replicate, as well as on the aspects of the work that were not replicable.
+
+• Negative results papers. We seek papers that report on negative results. We seek
+negative results for all types of program comprehension research in any empirical area
+(qualitative, quantitative, case study, experiment, etc.). For example, did your controlled
+experiment not show an improvement over the baseline? Even if negative, results obtained
+are still valuable when they are either not obvious or disprove widely accepted wisdom.
+
+Best Paper Awards
+
+Research Track
+ISSRE is pleased to announce the IEEE Best Research Paper Award, awarded every year to
+the best paper in the Research Track.
+
+Industry Track
+The Industry Program Chair will select three candidates among top-ranked papers
+presenting and motivating novel and disruptive ideas that address problems relevant for
+industry. Selection will be based on the reviewers’ feedback, novelty and potential impact
+of the results. The final selection of the best paper will be done by the audience attending
+the presentation of the candidate papers. Eligible papers must be (1) full papers accepted
+to the industry track, and (2) co-authored by at least one author whose primary affiliation
+is in Industry.
+
+Special Journal Issue
+
+Authors of accepted papers will be invited to submit an extended version of their work to
+a special issue of the Empirical Software Engineering (EMSE) journal (under negotiation as
+in previous editions of the conference). The Call for Papers will be available soon.
+
+Workshop Proposals
+
+ISSRE strives to be the conference that appeals to both researchers and practitioners. To
+that end, we invite proposals for workshops to co-locate with the Symposium and provide
+additional opportunities for collaborating and exchanging information. The workshops
+aim at discussing research developments and challenges at an early stage. ISSRE welcomes
+workshops that explore new ways to provide and assess software reliability, safety, and
+security. We also seek workshops that deal with the provision of reliable, safe, and secure
+software and systems in fast-growing, transformative application domains. Appropriately
+defined workshop proposals have the following characteristics:
+
+• They offer researchers a forum to exchange and discuss scientific and engineering ideas
+at an early stage before maturation that would warrant conference or journal publication.
+• They attract practitioners and researchers to working sessions to discuss and make
+progress toward solutions to current and future problems in engineering high assurance
+software and systems.
+• They focus on collaborative discussions and information sharing between researchers
+and industry practitioners.
+
+Workshops affiliated with ISSRE in previous years with good organization and numbers of
+participants are pre-approved. Their organizers do not need to submit a new workshop
+proposal. Their organizers are kindly asked to inform the workshop chairs about returning
+the workshop to ISSRE in 2026.
+
+Submission Guidelines and Instructions
+
+Research Track
+https://cyprusconferences.org/issre2026/cfp-research/
+
+Industry Track
+https://cyprusconferences.org/issre2026/industry-track/
+
+Fast Abstracts and Project Highlights Track
+https://cyprusconferences.org/issre2026/fast-abstract-track/
+
+Replications and Negative Results Track
+https://cyprusconferences.org/issre2026/cfp-rene-track/
+
+Workshop Proposals
+https://cyprusconferences.org/issre2026/call-for-workshop-proposals/
+
+Conference Proceedings
+
+The conference proceedings will be published by IEEE Computer Society Conference
+Publishing Services (CPS). Papers presented at the conference will be submitted for
+inclusion into IEEE Xplore and to all of the A&I (abstracting and indexing) partners (such as
+the EI Compendex).
+
+Important Dates (AoE)
+
+Research Track
+• Abstract Submission Deadline: April 10, 2026
+• Paper Submission Deadline: April 17, 2026
+• Author Rebuttal Period: June 5 – June 8, 2026
+• Decisions and Early Notification: June 15, 2026
+• Author Revision Period: June 16 – July 3, 2026
+• Notification to Authors: July 8, 2026
+• Camera Ready Papers: August 19, 2026
+
+Industry Track
+• Abstract Submission Deadline: June 28, 2026 & July 3, 2026
+• Paper Submission Deadline: July 5, 2026 & July 12, 2026
+• Notification to Authors: August 12, 2026
+• Camera Ready Papers: August 19, 2026
+• Enlightening Talks or Tool Demos (without abstract; not to appear in the proceedings): August 15, 2026
+
+Fast Abstracts and Projects Highlights Track
+• Submission deadline: June 15, 2026
+• Notification to authors: August 5, 2026
+• Camera ready papers: August 19, 2026
+
+Replications and Negative Results Track
+• Submission deadline: July 5, 2026
+• Notification to authors: August 12, 2026
+• Camera ready papers: August 19, 2026
+
+Workshop Proposals
+• Workshop proposal deadline: May 14, 2026
+• Workshop proposal notification: May 21, 2026
+• Workshop paper submission deadline: July 20, 2026
+   (NOTE: This date is only indicative – please refer to individual workshop webpages for
+information about deadlines)
+• Workshop paper notification to authors: August 10, 2026
+• Camera ready papers: August 17, 2026
+
+All tracks
+• Author Registration Deadline: August 19, 2026
+
+Organisation
+
+General Chairs
+• Leonardo Mariani, University of Milano - Bicocca, Italy
+• George A. Papadopoulos, University of Cyprus, Cyprus
+
+Program Coordinator
+• Roberto Natella, GSSI, Italy
+
+Research Program Committee Chairs
+• Domenico Cotroneo, UNC Charlotte, USA
+• Jie M. Zhang, King's College London, UK
+
+Industry Program Chairs
+• Jinyang Liu, Bytedance, USA
+• Sigrid Eldh, Ericsson AB, Sweden
+
+Workshop Chairs
+• Georgia Kapitsaki, University of Cyprus, Cyprus
+• August Shi, The University of Texas at Austin, USA
+
+Doctoral Symposium Chairs
+• Stefan Winter, LMU Munich, Germany
+• Lili Wei, McGill University, Canada
+
+Fast Abstract Chairs
+• Luigi Lavazza, University of Insubria, Italy
+• Yintong Huo, SMU, Singapore
+
+JIC2 Chair
+• Helene Waeselynck, LAAS-CNRS, France
+
+Publicity Chairs
+• Allison K. Sulivan, The University of Texas at Arlington, USA
+• Jose D'Abruzzo Pereira, University of Coimbra, Portugal
+
+Publication Chairs
+• Sherlock Licorish, Otago Business School, New Zealand
+• Maria Teresa Rossi, GSSI, Italy
+
+Artifact Evaluation Chairs
+• Naghmeh Ivaki, University of Coimbra, Portugal
+• Fumio Machida, University of Tsukuba, Japan
+
+Diversity and Inclusion Chair
+• Eleni Constantinou, University of Cyprus, Cyprus
+
+Financial Chair
+• Costas Pattichis, University of Cyprus, Cyprus
+
+Web Chairs
+• Michalis Ioannides, Easy Conferences LTD
+• Elena Masserini, University of Milano - Bicocca, Italy
+
+Registration Chair
+• Easy Conferences LTD

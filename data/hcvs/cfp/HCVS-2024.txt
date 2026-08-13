@@ -1,0 +1,107 @@
+11th Workshop on Horn Clauses for Verification and Synthesis (HCVS)
+Co-located with ETAPS 2024
+Call For Papers
+7 April 2024 - Luxembourg
+https://www.sci.unich.it/hcvs24/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+11th Workshop on Horn Clauses for Verification and Synthesis (HCVS)
+Co-located with ETAPS 2024
+
+Call For Papers
+
+7 April 2024 - Luxembourg
+
+https://www.sci.unich.it/hcvs24/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+< p>Important dates:
+- Paper submission deadline: 2 February 2024
+- Paper notification: beginning of March 2024
+- Workshop: 7 April 2024
+
+Scope:
+Many Program Verification and Synthesis problems of interest can be modeled
+directly using Horn clauses and many recent advances in the CLP and CAV
+communities have centered around efficiently solving problems presented as Horn
+clauses.
+
+This series of workshops aims to bring together researchers working in the two
+communities of Constraint/Logic Programming (e.g., ICLP and CP), Program
+Verification (e.g., CAV, TACAS, and VMCAI), and Automated Deduction (e.g.,
+CADE, IJCAR), on the topic of Horn clause based analysis, verification, and
+synthesis.
+< p>
+Horn clauses for verification and synthesis have been advocated by these
+communities in different times and from different perspectives and HCVS is
+organized to stimulate interaction and a fruitful exchange and integration of
+experiences.
+
+The workshop follows previous meetings: HCVS 2023 in Paris (ETAPS 2023), France
+(ETAPS 2023), HCVS 2022 in Munich, Germany (ETAPS 2022), HCVS
+2021, online (ETAPS 2021), HCVS 2020, online (ETAPS 2020), HCVS
+2019 in Prague, Czech Republic (ETAPS 2019), HCVS 2018 in
+Oxford, UK (CAV, ICLP and IJCAR at FLoC 2018), HCVS 2017 in
+Gothenburg, Sweden (CADE 2017), HCVS 2016 in Eindhoven, The
+Netherlands (ETAPS 2016), HCVS 2015 in San Francisco, CA, USA (CAV
+2015), and HCVS 2014 in Vienna, Austri a (VSL).
+
+Topics of interest include, but are not limited to the use of Horn clauses,
+constraints, and related formalisms in the following areas:
+
+- Analysis and verification of programs and systems of various kinds (e.g.,
+imperative, object-oriented, functional, logic, higher-order, concurrent,
+transition systems, petri-nets, smart contracts)
+- Program synthesis
+- Program testing
+- Program transformation
+- Constraint solving
+- Type systems
+- Machine learning and automated reasoning
+- CHC encoding of analysis and verification problems
+- Resource analysis
+- Case studies and tools
+- Challenging problems
+
+We solicit regular papers describing theory and implementation of Horn-clause based analysis and tool descriptions. We also solicit extended abstracts describing work-in-progress, as well as presentations covering previously published results, extended abstracts of doctoral theses, and overviews of research projects that are of interest to the workshop.
+
+At least one author of each accepted paper will be required to attend the workshop to present the contribution.
+
+
+CHC Competition:
+HCVS 2024 is planning to host the 7th competition on constraint Horn clauses (CHC-COMP https://chc-comp.github.io/), which will compare state-of-the-art tools for CHC solving for performance and effectiveness on a set of publicly available benchmarks.
+
+
+Program Chairs:
+Julie Cailler,  University of Regensburg, Germany
+Daniel Neider, Technical University of Dortmund, Germany
+
+
+Submissions:
+Submission has to be done in one of the following formats:
+
+- Extended abstracts (up to 3 pages in EPTCS format), which describe work in
+progress or aim to initiate discussions.
+
+- Presentation-only papers, i.e., papers already submitted or presented at
+a conference or another workshop. Such papers can be submitted in any format,
+and will not be included in the workshop post-proceedings.
+
+- Regular papers (up to 12 pages plus bibliography in EPTCS
+(http://www.eptcs.org/) format), which should present previously unpublished
+work (completed or in progress), including descriptions of research, tools, and
+a pplications.
+
+- Tool papers (up to 4 pages in EPTCS format), including the papers written by
+the CHC-COMP participants, which can outline the theoretical framework, the
+architecture, the usage, and experiments of the tool.
+
+
+All submitted papers will be refereed by the program committee and will be
+selected for inclusion in accordance with the referee reports.
+
+If enough regular papers are accepted, both regular papers and extended abstracts will be published electronically. The publication of a paper is not intended to preclude later publication.
+Full versions of extended abstracts, or substantial revisions, may later be published elsewhere.
+
+
+Papers must be submitted through the EasyChair system using the web page :
+https://easychair.org/conferences/?conf=hcvs2024

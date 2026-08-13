@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in a high ranked journal"
+
+[[cfp]]
+file = "cfp/TIME-2025.txt"
+stage = "initial"

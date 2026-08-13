@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science. This year, GANDALF will be organised together with the 3rd Workshop on Artificial Intelligence and fOrmal VERification, Logic, Automata, and sYnthesis (OVERLAY 2021)"
+
+[[cfp]]
+file = "cfp/GandALF-2021.txt"
+stage = "initial"

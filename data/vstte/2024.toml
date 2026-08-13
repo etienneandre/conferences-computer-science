@@ -26,3 +26,7 @@ submitted = 6
 
 [extra]
 notes = "Co-located with FMCAD 2024. Firm in 2019."
+
+[[cfp]]
+file = "cfp/VSTTE-2024.txt"
+stage = "initial"

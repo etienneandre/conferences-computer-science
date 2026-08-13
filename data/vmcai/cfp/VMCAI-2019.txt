@@ -1,0 +1,98 @@
+------------------------------------------------------------------------------------------------------------------------------------------
+
+                              VMCAI 2019
+
+                   20th International Conference on Verification, Model Checking, and Abstract Interpretation
+
+     Cascais/Lisbon, Portugal, January 13th-January 15th, 2019
+
+          	   https://popl19.sigplan.org/track/VMCAI-2019
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Objective 
+
+VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas. VMCAI 2019 will be the 20th edition in the series. The proceedings of the conference will be published in the Advanced Research in Computing and Software Science (ARCoSS) subline of the Springer Lecture Notes in Computer Science (LNCS) series.
+
+Topics 
+
+VMCAI 2019 welcomes research papers on any topic related to verification, model checking, and abstract interpretation. Research contributions can report new results as well as experimental evaluations and comparisons of existing techniques. Topics include, but are not limited to: 
+- Program Verification
+- Model Checking
+- Abstract Interpretation
+- Abstract Domains
+- Program Synthesis
+- Static Analysis
+- Type Systems
+- Deductive Methods
+- Program Logics
+- First-Order Theories
+- Decision Procedures
+- Interpolation
+- Horn Clause Solving
+- Program Certification
+- Separation Logic
+- Probabilistic Programming and Analysis
+- Error Diagnosis 
+- Detection of Bugs and Security Vulnerabilities
+- Program Transformations
+- Hybrid and Cyber-physical Systems
+- Concurrent Systems
+- Analysis of Numerical Properties.
+
+Submissions can address any programming paradigm, including concurrent, constraint, functional, imperative, logic, and object-oriented programming.
+
+Paper Submission
+
+Submissions are restricted to 20 pages in Springer’s LNCS format, not counting references. Additional material may be placed in an appendix, to be read at the discretion of the reviewers and to be omitted in the final version. Formatting style files and further guidelines for formatting can be found at the Springer website. Papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with refereed proceedings. Submitted papers will be judged on the basis of significance, relevance, correctness, originality, and clarity. They should clearly identify what has been accomplished and why it is significant. 
+Submissions are handled online: https://easychair.org/conferences/?conf=vmcai2019
+
+Important Dates
+
+- Full paper submission: October 4th, 2018 (anywhere on earth)
+- Notification: November 15th, 2018 
+- Final version due: November 29th, 2018
+- Conference: January 13th-January 15th, 2019
+
+Invited Speakers
+
+- Kedar Namjoshi (Nokia Bell Labs, USA)
+- Aditya Nori (Microsoft Research Cambridge, UK)
+- Sylvie Putot (Ecole Polytechnique, France)
+
+Program Chairs
+
+- Constantin Enea (University Paris Diderot, France)
+- Ruzica Piskac (Yale University, USA)
+
+Program Committee 
+
+- Miltiadis Allamanis (Microsoft Research Cambridge, UK)
+- Timos Antonopoulos (Yale University, USA)
+- Domagoj Babic (Google Inc., USA)
+- Josh Berdine (Facebook, UK)
+- Ahmed Bouajjani (University Paris Diderot, France)
+- Patrick M. Cousot (New York University, USA)
+- Cezara Drăgoi (INRIA Paris, France) 
+- Constantin Enea (University Paris Diderot, France)
+- Javier Esparza (TU Munich, Germany)
+- Jerome Feret (INRIA Paris, France) 
+- Khalil Ghorbal (INRIA Rennes, France)
+- Roberto Giacobazzi (University of Verona, Italy, and IMDEA Software Institute, Spain)
+- Alberto Griggio (Fondazione Bruno Kessler, Italy)
+- Jan Kretinsky (TU Munich, Germany)
+- K Narayan Kumar (Chennai Mathematical Institute, India)
+- Ori Lahav (Tel Aviv University, Israel)
+- Anthony Widjaja Lin (Oxford University, UK)
+- Ruben Martins (Carnegie Mellon University, USA)
+- Kedar Namjoshi (Nokia Bell Labs, USA)
+- Dejan Nickovic (Austrian Institute of Technology, Austria)
+- Jens Palsberg (University of California, Los Angeles, USA)
+- Ruzica Piskac (Yale University, USA)
+- Sylvie Putot (Ecole Polytechnique, France)
+- Daniel Schwartz-Narbonne (Amazon, USA)
+- Martina Seidl (Johannes Kepler University, Austria)
+- Sharon Shoham (Tel Aviv University, Israel)
+- Caterina Urban (ETH Zurich, Switzerland)
+- Lenore Zuck (University of Illinois at Chicago, USA)
+- Damien Zufferey (MPI-SWS, Germany)

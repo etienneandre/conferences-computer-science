@@ -1,0 +1,116 @@
+FORMATS 2022: FIRST CALL FOR PAPERS
+
+20th International Conference on Formal Modeling and Analysis of Timed Systems
+
+https://conferences.ncl.ac.uk/formats2022/
+
+12-17 September 2022, Warsaw, Poland
+co-located with CONCUR, FMICS and QEST as part of CONFEST 2022
+
+SCOPE & TOPICS
+
+FORMATS (International Conference on Formal Modeling and Analysis of Timed Systems) is an annual conference which aims to promote the study of fundamental and practical aspects of timed systems, and to bring together researchers from different disciplines that share interests in the modelling, design and analysis of timed computational systems. The conference aims to attract researchers interested in real-time issues in hardware design, performance analysis, real-time software, scheduling, semantics and verification of real-timed, hybrid and probabilistic systems.
+
+Typical topics include (but are not limited to):
+
+ • Foundations and Semantics: Theoretical foundations of timed systems, languages and models (e.g., timed automata, timed Petri nets, hybrid automata, timed process algebra, max-plus algebra, probabilistic models).
+
+ • Methods and Tools: Techniques, algorithms, data structures, and software tools for analyzing timed systems and resolving temporal constraints (e.g., scheduling, worst-case execution time analysis,optimization, model checking, testing, constraint solving).
+
+ • Applications: Adaptation and specialization of timing technology in application domains in which timing plays an important role (e.g., real-time software, hardware circuits, scheduling in manufacturing and telecommunication, robotics).
+
+New for this year, FORMATS will incorporate a special track on:
+
+ • Learning-based and data-driven systems: We particularly encourage papers that exploit synergies between the formal analysis of timed systems and data-driven techniques (such as reinforcement learning or deep learning), or which target application domains where learning is important (such as robotics or autonomous systems).
+
+PAPER SUBMISSION
+
+FORMATS 2022 solicits high-quality papers reporting research results, experience reports and/or tools related to the topics mentioned above. Submitted papers must contain original, unpublished contributions, not submitted for publication elsewhere. The papers should be submitted electronically in PDF, following the Springer LNCS style guidelines. Two categories of papers are invited:
+
+ • Regular papers, which should not exceed 15 pages in length
+ • Short papers, which should not exceed 7 pages in length
+
+Both page limits exclude references, which are not limited in length. If necessary, the paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee. Each paper will undergo a thorough review process. Papers should be submitted electronically via the EasyChair online submission system: https://easychair.org/conferences/?conf=formats2022 
+
+ARTIFACT EVALUATION
+
+This year, FORMATS is encouraging authors to submit artifacts where appropriate, for example to demonstrate how to reproduce experimental data in a research paper or to examine the usability and applicability of a software tool. Artifacts will be submitted and evaluated only for papers accepted for publication. These will be evaluated by the Artifact Evaluation Committee and those that are accepted will receive a repeatability badge to be displayed on the first page of the published version.
+
+PUBLICATION AND BEST PAPER AWARD
+
+The proceedings of FORMATS 2022 will be published by Springer in the Lecture Notes in Computer Science series. The best paper of the conference will be awarded the Oded Maler Award in Timed Systems.
+
+IMPORTANT DATES
+
+ • Abstract submission: 19 April 2022
+ • Paper submission: 22 April 2022
+ • Acceptance notification: 17 June 2022
+ • Artifact submission deadline: 24 June 2022
+ • Camera-ready copy deadline: 15 July 2022
+ • Conference: 12-17 September 2022
+
+CONFEST 2022, which includes FORMATS 2022, is currently planned as a physical, in-person event with support for remote presence for speakers and participants. Depending on the pandemic situation, a decision whether to cancel the physical component of CONFEST or not will be made by the end of June 2022.
+
+​​For any questions, feel free to contact the program chairs Sergiy Bogomolov (sergiy.bogomolov@ncl.ac.uk) and David Parker (d.a.parker@cs.bham.ac.uk).
+
+ORGANISATION
+
+Program Chairs
+• Sergiy Bogomolov (UK)
+• David Parker (UK)
+
+Artifact Evaluation Chairs
+• Akshay Rajhans (USA)
+• Paolo Zuliani (UK)
+
+Publicity Chair
+• Gethin Norman (UK)
+
+Special Track Chair
+• Alessandro Abate (UK)
+
+Program Committee
+• Alessandro Abate (UK)
+• Parosh Aziz Abdulla (Sweden)
+• Erika Abraham (Germany)
+• Bernhard Aichernig (Austria)
+• Nicolas Basset (France)
+• Nathalie Bertrand (France)
+• Sergiy Bogomolov (co-chair, UK)
+• Lei Bu (China)
+• Milan Ceska (Czech Republic)
+• Thao Dang (France)
+• Catalin Dima (France)
+• Rayna Dimitrova (Germany)
+• Mirco Giacobbe (UK)
+• Radu Grosu (Austria)
+• Arnd Hartmanns (The Netherlands)
+• Hsi-Ming Ho (UK)
+• Peter Gjøl Jensen (Denmark)
+• Taylor Johnson (USA)
+• Sebastian Junges (Netherlands)
+• Joost-Pieter Katoen (Germany)
+• Sophia Knight (USA)
+• Matthieu Martel (France)
+• Gethin Norman (UK)
+• Miroslav Pajic (USA)
+• David Parker (co-chair, UK)
+• Igor Potapov (UK)
+• Christian Schilling (Denmark)
+• Ana Sokolova (Austria)
+• Sadegh Soudjani (UK)
+• Stavros Tripakis (USA)
+• Jana Tumova (Sweden)
+• Naijun Zhan (China)
+
+Steering Committee
+• Rajeev Alur (USA)
+• Eugene Asarin (France)
+• Martin Fränzle (chair, Germany)
+• Thomas A. Henzinger (Austria)
+• Joost-Pieter Katoen (Germany)
+• Kim G. Larsen (Denmark)
+• Oded Maler (founding chair, France) (1957-2018)
+• Pavithra Prabhakar (USA)
+• Mariëlle Stoelinga (The Netherlands)
+• Wang Yi (Sweden)

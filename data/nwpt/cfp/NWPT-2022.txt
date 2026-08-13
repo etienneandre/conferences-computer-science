@@ -1,0 +1,51 @@
+The 33rd Nordic Workshop on Programming Theory, NWPT '22
+
+2-4 November 2022, Bergen, Norway
+
+https://nwpt.w.uib.no/
+
+----------------------------------------------------------------------
+Important dates (AoE)
+
+   Submission of abstracts: 2 October 2022 23:59 AoE
+   Notification: 17 October 2022
+   Early bird registration: before 17 October 2022
+   Regular registration: before 24 October 2022
+   Final versions: 31 October 2022
+   Conference dates: 2-4 November 2022
+----------------------------------------------------------------------
+
+NWPT is a series of annual regional-scope workshops on programming theory, targeted especially at younger researchers. In 2022, the workshop will take place in Bergen, Norway. We hope this will be a nice opportunity to present recent results and/or work-in-progress, and to meet colleagues from the Nordic and Baltic countries. We encourage PhD students and postdocs to contribute.
+
+Topics of interest include (but are not limited to)
+
+  - semantics of programming languages,
+  - programming language design and programming methodology,
+  - programming logics,
+  - formal specification of programs,
+  - program verification,
+  - program construction,
+  - tools for program verification and construction,
+  - program transformation and refinement,
+  - real-time and hybrid systems,
+  - models of concurrency and distributed computing,
+  - model-based testing,
+  - language-based security.
+
+
+Contributed talks
+
+Authors wishing to give a talk at the workshop are requested to submit abstracts of 2-3 pages (pdf, printable on A4 paper, typeset with LaTeX with easychair.cls) through EasyChair by 02 October:
+
+https://easychair.org/conferences/?conf=nwpt22
+
+Work in progress as well as abstracts of manuscripts submitted for formal publication elsewhere are permitted.
+
+The abstracts of the accepted contributions will be available electronically before the workshop. By submitting to EasyChair you agree that your abstract will be publicly available. Moreover, you as an author are responsible for the content.
+
+
+Organizers
+
+Mikhail Barash, Crystal Chang Din, Håkon Robbestad Gylterud, and Magne Haveraaen
+
+Contact the organisers at nwpt_22@uib.no

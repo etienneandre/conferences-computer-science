@@ -28,3 +28,7 @@ men = 3
 [extra]
 colocated = "Satellite workshop of ETAPS 2026."
 notes = "Informal presentations only (no formal proceedings)."
+
+[[cfp]]
+file = "cfp/SynCoP-2026.txt"
+stage = "initial"

@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "2023: special track on Monitoring of cyber-physical systems. Co-located with CONCUR, FMICS and QEST as part of CONFEST 2023. One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020, 14+13 days in 2021, 14 days in 2022, 10 days in 2023. Part of CONFEST with CONCUR, FMICS and QEST. The best paper of the conference will be awarded the Oded Maler Award in Timed Systems."
+
+[[cfp]]
+file = "cfp/FORMATS-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORMATS-2023-extended.txt"
+stage = "extended"

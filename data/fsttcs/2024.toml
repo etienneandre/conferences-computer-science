@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Always in India. Double blind. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."
+
+[[cfp]]
+file = "cfp/FSTTCS-2024.txt"
+stage = "initial"

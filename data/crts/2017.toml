@@ -18,3 +18,7 @@ license = "acm"
 
 [extra]
 notes = "Authors retain copyright. Satellite of RTSS."
+
+[[cfp]]
+file = "cfp/CRTS-2017-extended.txt"
+stage = "extended"

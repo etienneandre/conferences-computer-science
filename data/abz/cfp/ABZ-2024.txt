@@ -1,0 +1,209 @@
+***********************************************************************
+First Call for Papers
+
+ABZ 2024: 10th International Conference on Rigorous State Based Methods
+
+Bergamo, University of Bergamo, Italy
+
+June 25-28, 2024
+
+https://abz-conf.org/site/2024/
+
+***********************************************************************
+
+----------------
+Important dates
+----------------
+
+Workshops/Tutorials
+Workshop proposal submission: December 01, 2023
+Workshop notification: December 15, 2023
+
+Tutorial proposal submission: March 16, 2024
+
+Case Study Track
+Abstract submission: February 03, 2024
+Paper submission: February 10, 2024
+Notification: April 6, 2024
+Final version: April 10, 2024
+
+Main Track
+Abstract submission: February 03, 2024
+Paper submission: February 10, 2024
+(including research/short/industry/journal-first papers)
+Notification: April 6, 2024
+Final version: April 10, 2024
+
+Doctoral Symposium
+Paper submission: February 24, 2024
+Notification: April 6, 2024
+Final version: April 10, 2024
+
+Conference
+Workshops and Tutorials: June 25, 2024
+ABZ 2024 conference: June 26-28, 2024
+
+
+----------
+About ABZ
+----------
+
+The ABZ conference is dedicated to the cross-fertilization of state-based
+and machine-based formal methods, like Abstract State Machines (ASM),
+Alloy, B, TLA, VDM, and Z, that share a common conceptual foundation and
+are widely used in academia and industry to design and analyze hardware and
+software systems. The conference aims to exchange knowledge and experience
+among the research communities around different formal methods.
+
+The name ABZ refers to the first conference in London in 2008, where the
+ASM, B, and Z conference series were merged into a joint
+event. In the following years, other formal methods were added, e.g., Alloy
+in 2010 (Orford, Canada), VDM in 2012 (Pisa, Italy), and
+TLA + in 2014 (Toulouse, France). After the successful 2016 conferences in
+Linz, Austria, and 2018 in Southampton, UK, it was
+decided to name the conference "ABZ: International Conference on Rigorous
+State Based Methods" to stress the openness for further
+state-based formal methods. We hope to continue many fruitful discussions
+between representatives of the individual methods in the
+past, which will bring us closer to the common goal of this research
+community: the creation of reliable and safe software.
+ABZ2020 and ABZ2021 were planned in Ulm but virtually organized. With the
+edition 2023 in Nancy, the ABZ conference returned to be a live event.
+
+ABZ 2024 will have a main conference track, a case study track, a doctoral
+symposium, tutorials, and workshops.
+
+
+---------------
+Main ABZ Track
+---------------
+Contributions are solicited on all aspects of the theory and applications
+of ASMs, Alloy, B, TLA, VDM, Z, and other state-based rigor
+approaches in software/hardware engineering, including developing tools and
+industrial applications.
+The program spans from theoretical and methodological foundations to
+practical applications, emphasizing system engineering methods
+and tools that are distinguished by mathematical rigor and have proved to
+be industrially viable.
+The main goal of the conference is to contribute to the integration of
+accurate state- and machine-based system development methods,
+clarifying their commonalities and differences to understand better how to
+combine different approaches for accomplishing the various
+tasks in modeling, experimental validation, and mathematical verification
+of reliable, high-quality hardware/software systems.
+Although organized to host several formal methods in a single event,
+editorial control of the joint conference is vested in one
+integrated program committee.
+
+
+-----------------
+Case Study Track
+-----------------
+As successfully practiced since ABZ 2014, the 10th edition of ABZ will
+again include special sessions dedicated to an industrial case study.
+We explicitly invite you to also submit contributions to case studies from
+previous conferences, which substantially extend the solutions presented
+in one aspect or another. Possible enhancements could be new proof
+techniques, more elegant modeling, generation, verification, or validation
+of executable code, etc.
+
+See https://abz-conf.org/site/2024/casestudy/ for a detailed description of
+the new case study and links to the previous ones.
+
+
+--------------------------------
+Workshop and Tutorial Proposals
+--------------------------------
+Workshops and tutorials will be associated with the main event ABZ.
+Proposals are solicited in areas related to the conference topics.
+
+A workshop proposal should contain the workshop title and acronym, the
+contact information for the workshop organizers, an abstract for the ABZ
+2024 website (if the workshop is accepted), the description of the
+workshop, and the expected format (organization, duration, expected
+participants, etc.).
+
+A tutorial proposal should contain the title of the tutorial, the contact
+information of the tutorial presenter(s), the tutorial summary, and a brief
+CV of the
+tutorial presenters for the ABZ 2024 website (if accepted), and the
+tutorial format (organization, duration, etc.).
+
+Proposals can be sent to claudio.menghi@unibg.it and
+alexander.raschke@uni-ulm.de
+
+
+------------
+Submissions
+------------
+Four kinds of contributions are invited:
+
+*  Full research papers:
+   Full research papers must be original, unpublished, and not submitted
+elsewhere.
+   A paper of up to 16 pages (excluding references) in LNCS format is
+expected and will be reviewed.
+
+*  Short papers:
+   Short papers to present and validate a work in progress or tool
+demonstrations. A paper of no more than 6 pages (excluding references) in
+LNCS format
+   is expected and will be reviewed.
+
+*  Application in industry papers:
+   Reporting on work or experiences on applying state-based formal methods
+in industry. A paper of no more than 8 pages (excluding references)
+   in LNCS format is expected and will be reviewed. It is also an exciting
+option for industrial practitioners who sometimes need more time
+   to prepare a full paper.
+
+*  Journal-First papers:
+   The journal-first paper summarizes recently published papers in
+high-quality journals. Journal-first papers aim to enrich the program by
+further
+   ABZ and to provide more visibility to an already published journal paper
+in the scope of the ABZ conference. An extended abstract of no more than 6
+   pages (excluding references) in LNCS format is expected and will be
+reviewed.
+
+*  Case study papers:
+   Full papers reporting on the experiments conducted with any of the
+state-based techniques in the scope of the ABZ 2024 case study.
+   A paper of up to 16 pages (excluding references) in LNCS format is
+expected and will be reviewed.
+   We also expect a link to a webpage to download the produced models.
+
+*  Contribution to the doctoral symposium:
+   This is an excellent opportunity for Ph.D. students to present their
+ongoing work and receive valuable feedback from the ABZ community.
+    A paper of at most 4 pages (excluding references) in LNCS format is
+expected and will be reviewed.
+
+Accepted papers will appear in the Springer LNCS proceedings. The deadlines
+for the different kinds of contributions are above.
+
+
+-------------------
+Organization
+-------------------
+Conference Chairs:
+Michael Leuschel (CoChair), Heinrich-Heine-Universität, Düsseldorf, Germany
+Elvinia Riccobene (CoChair), Università degli Studi di Milano, Italy
+
+Case Study Chair:
+Silvia Bonfanti, University of Bergamo, Bergamo, Italy
+Angelo Gargantini, University of Bergamo, Bergamo, Italy
+
+Workshop/Tutorial Chairs
+Claudio Menghi, University of Bergamo, Bergamo, Italy
+Alexander Raschke, Ulm University, Ulm, Germany
+
+Doctoral Symposium Chairs
+Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany
+Chiara Braghin, Università degli Studi di Milano, Milano, Italy
+
+Local Chair:
+Patrizia Scandurra, University of Bergamo, Bergamo, Italy
+
+For further questions concerning ABZ 2024, please get in touch with us at
+abz2024@unibg.it or elvinia.riccobene@unimi.it

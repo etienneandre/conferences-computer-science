@@ -1,0 +1,155 @@
+----------------------------------------------------------------------------------
+**** CALL FOR CONTRIBUTIONS ****
+
+SPLC 2019: 23rd International Systems and Software Product Line Conference
+
+Sept. 9-13, 2019, Paris, France
+
+https://splc2019.net/
+
+Follow SPLC on Twitter: @splcconf
+Follow SPLC on Facebook: www.facebook.com/splcconf
+----------------------------------------------------------------------------------
+
+The Systems and Software Product Line Conference (SPLC) is a premier forum where researchers, practitioners, and educators can present and discuss the most recent ideas, trends, experiences, and challenges in the area of software and system product lines engineering. Conference events include opportunities to hear industry leaders’ real-world experiences and researchers’ latest ideas and to learn from both.
+
+The 23rd International Systems and Software Product Line Conference (SPLC 2019) will be held from September 9th to 13th, in the vibrant city of Paris, France and will be co-located with the 13th European Conference on Software Architecture (ECSA, https://ecsa2019.univ-lille.fr/).
+
+
+TRACKS
+=====
+
+* Research Papers
+High quality research work that uses established scientific methodologies, written using high standards of academic technical publications (see https://splc.lip6.fr/call-for-papers/call-for-research-papers/).
+
+* Industrial Systems and Software Product Lines Papers
+We invite submission of papers presenting challenges, innovations and solutions to concrete industrial applications of software and product line engineering methodologies and tools. Submitted papers should showcase a significant software component to the research.
+
+* Challenges and Solutions Papers
+We highly encourage community members to provide concrete sets of case studies and problems that showcase SPL-related challenges. First, there will be a call for cases where researchers or practitioners are encouraged to contribute a concrete case study. Then, after the accepted case studies are published, there will be a call for solutions. Both accepted case descriptions and solutions will be included in the conference proceedings.
+
+* Journal First Papers
+Authors of journal-first papers are invited to submit their publications to present their work at SPLC. This is an opportunity to speak directly to the community and offer SPLC attendees a richer set of presentations.
+
+* Workshop Proposals
+We invite the community to submit proposals for one or two- day workshops in the field. In particular, workshops on challenging, emerging areas related to conference topics.
+
+* Demonstrations and Tools
+This track highlights live demonstrations of product-line tools and of practices tackling current industrial challenges.
+
+* Doctoral Symposium Papers
+This track highlights doctoral proposals, both early and mid- phase, to be reviewed and commented on by a panel of experts.
+
+* Tutorial Proposals
+Tutorials provide a valuable opportunity for participants to expand their knowledge and skills in product line engineering. Tutorials may focus on introductory product lines topics, or on advanced tools, approaches, methods, and best practices.
+
+* Panel Proposals
+SPLC provides multiples opportunities for exchanging and discussing ideas and visions for software product line engineering. We call for your proposals for panels on software product line related topics.
+
+
+Important Dates
+===========
+
+* Research & Industrial Papers
+   Abstract submission:  	March 12, 2019
+   Paper submission:     	March 19, 2019
+   Notification:         		May 14, 2019
+
+* Challenges
+   Case submission:      	January 25, 2019
+   Case notification:    	February 8, 2019
+   Solution submission:  	May 28, 2019
+   Notification:         		June 18, 2019
+
+* Workshop Proposals
+   Proposal submission:  	February 15, 2019
+   Notification:         		March 1, 2019
+
+* Data, Demonstrations, and Tools
+   Paper submission:     	May 28, 2019
+   Notification:         		June 18, 2019
+
+* Doctoral Symposium
+   Paper submission:     	May 28, 2019
+   Notification:         		June 18, 2019
+
+* Tutorials
+   Proposal submission:  	May 28, 2019
+   Notification:         		June 18, 2019
+
+* Journal First
+   Paper submission:     	May 28, 2019
+   Notification:         		June 18, 2019
+
+
+Organization
+=========
+	
+* General Chairs
+Camille Salinesi, University Paris 1 Panthéon-Sorbonne, France
+Tewfik Ziadi, Sorbonne University, France
+
+* Research Track Chairs
+Laurence Duchien, University Lille, France
+Thomas Thüm, TU Braunschweig, Germany
+
+* Workshops Chairs
+Carlos Cetina, University San Jorge, Span
+Christoph Seidl, Braunschweig University of Technology, Germany
+
+* Doctoral Symposium Chairs
+Oscar Díaz, University of the Basque Country, Spain
+Marianne Huchard, University of Montpellier, France
+
+* Tutorials Chairs
+Philippe Collet, University Côte d’Azur, France
+Leticia Montalvillo, IK4-IKERLAN Research Center, Spain
+
+* Panels Chair
+Thorsten Berger, Chalmers | University of Gothenburg, Sweden
+
+* Industrial Systems and Software Product Lines Chairs
+Patrick Heymans, University of Namur, Belgium
+Thomas Fogdal, Danfoss Power Electronics A/S, Denmark
+
+* Hall of Fame Chairs
+Natsuko Noda, Shibaura Institute of Technology, Japan
+Goetz Botterweck, University of Limerick, Ireland
+
+* Challenge Track Chairs
+Jabier Martinez, Tecnalia, Spain
+Timo Kehrer, Humboldt-Universität zu Berlin, Germany
+
+* Journal First Chair
+Raul Mazo, University Paris 1 Panthéon-Sorbonne, France
+
+* Demonstrations and Tools Chairs
+Leopoldo Teixeira, Federal University of Pernambuco, Brazil
+Rick Rabiser, Johannes Kepler University Linz, Austria
+
+* Local Organization Chairs
+Lom Messan Hillah, University Paris Nanterre and Sorbonne University, France
+Jacques Robin, University Paris 1 Panthéon-Sorbonne, France
+
+* Web Chair
+Anas Shatnawi, Sorbonne University, France
+
+* Proceedings Chair
+Xhevahire Ternava, Sorbonne University, France
+
+* Finance Chair
+Thùy Dodo, Sorbonne University, France
+
+* Publicity and Social Media Chairs
+Clément Quinton, University Lille, France
+Sébastien Mosser, Université du Québec à Montréal, Quebec
+Wesley K. G. Assunção, Federal University of Technology – Paraná, Brazil
+
+* Student Volunteers Chairs
+Juliana Alves Pereira, University of Rennes, France
+
+
+Program Committees
+==============
+
+Available at: https://splc2019.net/program-committees/

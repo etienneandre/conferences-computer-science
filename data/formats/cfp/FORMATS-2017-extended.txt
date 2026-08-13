@@ -1,0 +1,243 @@
+FORMATS 2017 
+
+
+
+15th International Conference on 
+
+Formal Modeling and Analysis of Timed Systems 
+
+
+
+First Call for Papers 
+
+http://formats17.ulb.be 
+
+
+
+FORMATS'17 takes place in Berlin, Germany, where it is part of QONFEST 
+
+and is colocated with CONCUR'17 and QEST'17. 
+
+
+
+
+
+Invited speakers 
+
+------ 
+
+
+
+Laurent Fribourg , LSV, Université Paris-Saclay. 
+
+Morten Bisgaard , GomSpace (co-sponsored with QEST) 
+
+Hongseok Yang , Department of computer science, Oxford University (co-sponsored with CONCUR and QEST) 
+
+
+
+
+
+
+
+Objectives 
+
+------ 
+
+Control and analysis of the timing of computations is crucial to many domains of system engineering, be it, e.g., for ensuring timely response to stimuli originating in an uncooperative environment, or for synchronising components in VLSI. Reflecting this broad scope, timing aspects of systems from a variety of domains have been treated independently by different communities in computer science and control. Researchers interested in semantics, verification and performance analysis study models such as timed automata and timed Petri nets, the digital design community focuses on propagation and switching delays, while designers of embedded controllers have to take account of the time taken by controllers to compute their responses after sampling the environment, as well as of the dynamics of the controlled process during this span. 
+
+
+
+Timing-related questions in these separate disciplines do have their particularities. However, there is a growing awareness that there are basic problems (of both scientific and engineering level) that are common to all of them. In particular, all these sub-disciplines treat systems whose behaviour depends upon combinations of logical and temporal constraints; namely, constraints on the temporal distances between occurrences of successive events. Often, these constraints cannot be separated, as the intrinsic dynamics of processes couples them, necessitating models, methods, and tools facilitating their combined analysis. Reflecting this, FORMATS'17 promotes submissions on hybrid discrete-continuous systems, and will promote a special session on this topic. 
+
+
+
+
+
+Topics 
+
+------ 
+
+The aim of FORMATS is to promote the study of fundamental and practical aspects of timed systems, and to bring together researchers from different disciplines that share interests in modelling and analysis of timed systems and, as a generalisation, of hybrid systems. Typical topics include (but are not limited to): 
+
+
+
+* Foundations and Semantics : 
+
+Theoretical foundations of timed systems and languages; new models and logics or analysis and comparison of existing models (like automata, Petri nets, max-plus models, network calculus, or process algebras involving quantitative time; hybrid automata; probabilistic automata and logics). 
+
+
+
+* Methods and Tools : 
+
+Techniques, algorithms, data structures, and software tools for analysing or synthesising timed or hybrid systems and for resolving temporal constraints (scheduling, worst-case execution time analysis, optimisation, model checking, testing, constraint solving, etc.) 
+
+
+
+* Applications : 
+
+Adaptation and specialisation of timing technology in application domains in which timing plays an important role (real-time software, embedded control, hardware circuits, and problems of scheduling in manufacturing and telecommunications). 
+
+
+
+
+
+Paper Submission 
+
+---------------- 
+
+FORMATS'17 solicits high-quality papers reporting research results and/or experience reports related to the topics mentioned above. Submitted papers must contain original, unpublished contributions, not submitted for publication elsewhere. The papers should be submitted electronically in PDF, following the Springer LNCS style guidelines. Submissions should not exceed 15 pages in length (not including the bibliography which is thus not restricted), but may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee. 
+
+
+
+Each paper will undergo a thorough review process. 
+
+
+
+Papers are to be submitted electronically via the EasyChair online submission system, to be made available from the conference webpage. 
+
+
+
+As traditional, publication of the proceedings of FORMATS'17 will be hosted by Springer in the Lecture Notes in Computer Science series. 
+
+
+
+
+
+Important Dates 
+
+--------------- 
+
+
+
+Abstract Submission: 3 May, 2017 
+
+Paper Submission: 5 May, 2017 
+
+Notification: 10 June, 2017 
+
+Final paper due: 30 June, 2017 
+
+Conference: 5-7 September, 2017 
+
+
+
+
+
+General Chair of QONFEST 
+
+------------- 
+
+Katinka Wolter, (FU Berlin) 
+
+Uwe Nestermann, (TU Berlin) 
+
+
+
+
+
+Program Committee Chairs 
+
+---------------- 
+
+Alessandro Abate (Oxford, UK) 
+
+Gilles Geeraerts (ULB, BE) 
+
+
+
+
+
+Publicity Chair 
+
+--------------- 
+
+Thao Dang, (CNRS/University of Grenoble Alps, France) 
+
+
+
+
+
+Program Committee 
+
+---------------- 
+
+Erika Abraham 
+
+Etienne André 
+
+Bernard Berthomieu 
+
+Sergiy Bogomolov 
+
+Patricia Bouyer 
+
+Thomas Brihaye 
+
+Alexandre David 
+
+Uli Fahrenberg 
+
+Martin Fränzle 
+
+Jane Hillston 
+
+David Jansen 
+
+Jan Křetínský 
+
+Giuseppe Lipari 
+
+Nicolas Markey 
+
+Dejan Nickovic 
+
+Jens Oehlerking 
+
+Pavithra Prabhakar 
+
+Karin Quaas 
+
+Jan Reineke 
+
+Olivier H. Roux 
+
+Sibylle Schupp 
+
+Ana Sokolova 
+
+Oleg Sokolsky 
+
+Jirí Srba 
+
+Nathalie Sznajder 
+
+Stavros Tripakis 
+
+Majid Zamani 
+
+
+
+
+
+Steering Committee 
+
+------------------ 
+
+Rajeev Alur, (U. Pennsylvania, USA) 
+
+Eugene Asarin, (U. Paris Diderot, France) 
+
+Martin Fränzle (U. Oldenburg, Germany) 
+
+Thomas A. Henzinger, (IST Austria) 
+
+Joost-Pieter Katoen, (RWTH Aachen, Germany) 
+
+Kim G. Larsen, (U. Aalborg, Denmark) 
+
+Oded Maler, (VERIMAG, CNRS-UGA, France) 
+
+Lothar Thiele, (ETH Zurich, Switzerland) 
+
+Wang Yi, (U. Uppsala, Sweden) 

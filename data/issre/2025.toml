@@ -21,3 +21,11 @@ license = "pay"
 
 [extra]
 notes = "Double-blind. Rebuttal: 30th June-5 July 2025. Early decisions: 30th June."
+
+[[cfp]]
+file = "cfp/ISSRE-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISSRE-2025-extended.txt"
+stage = "extended"

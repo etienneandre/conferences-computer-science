@@ -20,3 +20,11 @@ license = "cc-by"
 
 [extra]
 notes = "Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm (6 days in 2020 due to relocation). Relocated from Beijing to Saarbrücken then online in 2020 due to the coronavirus."
+
+[[cfp]]
+file = "cfp/ICALP-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICALP-2020-extended.txt"
+stage = "extended"

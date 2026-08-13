@@ -1,0 +1,158 @@
+
+
+[Deadline for paper submission: May 11th 2018]
+
+*** Please forward to interested colleagues.  ***
+
+*** Apologies if you receive multiple copies. ***
+ 
+=================== CALL FOR PAPERS ====================
+
+          11th  International Workshop on Numerical Software Verification
+                                             July 18-19, 2018
+ 
+                           Federated Logic Conference (FLoC)  2018
+                                                 Oxford, UK
+
+                         Web Page: https://nsv-2018.github.io/nsv2018/
+
+=======================================================
+
+We are pleased to invite you to submit papers to the 11th International Workshop on Numerical Software Verification (NSV 2018).
+
+
+Important Dates
+=============
+
+Submissions deadline: May 11, 2018
+Notification: May 25, 2018
+Final version: June 15, 2018
+Workshop: July 19, 2018
+
+Description of the Workshop
+======================
+
+Numerical computations are ubiquitous in digital systems: supervision,
+prediction, simulation and signal processing rely heavily on numerical
+calculus to achieve desired goals.  Design and verification of
+numerical algorithms has a unique set of challenges, which set it
+apart from rest of software verification. To achieve the verification
+and validation of global properties, numerical techniques need to
+precisely represent local behaviors of each component. The
+implementation of numerical techniques on modern hardware adds another
+layer of approximation because of the use of finite representations of
+infinite precision numbers that usually lack basic arithmetic
+properties such as commutativity and associativity. Finally, the
+development and analysis of cyber-physical systems (CPS) which involve
+the interacting continuous and discrete components pose a further
+challenge. It is hence imperative to develop logical and mathematical
+techniques for the reasoning about programmability and reliability.
+The NSV workshop is dedicated to the development of such techniques.
+
+Topics
+======
+
+The scope of the workshop includes, but is not restricted to, the following topics:
+
+- Quantitative and qualitative analysis of hybrid systems
+- Models and abstraction techniques
+- Optimal control of dynamical systems
+- Parameter identification for hybrid systems
+- Numerical optimization methods
+- Hybrid systems verification
+- Applications of hybrid systems to systems biology
+- Propagation of uncertainties, deterministic and probabilistic models
+- Specifications of correctness for numerical programs
+- Formal specification and verification of numerical programs
+- Quality of finite precision implementations
+- Numerical properties of control software
+- Validation for space, avionics, automotive and real-time applications
+- Validation for scientific computing programs
+
+Submission information
+=================
+
+We solicit regular and short papers.Paper submission must be performed via the EasyChair system:
+[http://easychair.org/conferences/?conf=nsv2018]
+
+Regular papers must describe original work, be written and presented
+in English, and must not substantially overlap with papers that have
+been published or that are simultaneously submitted to a journal or a
+conference with refereed proceedings. Submitted papers will be judged
+on the basis of significance, relevance, correctness, originality, and
+clarity. They should clearly identify what has been accomplished and
+why it is significant.
+
+Regular paper submissions should not exceed 15 pages in ENTCS style,
+including bibliography and well-marked appendices:
+
+http://www.entcs.org/prelim.html
+
+Program committee members are not required to read the appendices, and
+thus papers must be intelligible without them.
+
+Short papers are also welcome, they should present tools, benchmarks,
+case-studies or be extended abstracts of ongoing research. Short
+papers should not exceed 6 pages. Furthermore, in order to foster the
+exchange of ideas, we encourage authors to also submit short papers
+describing ideas which have already been reported in other venues.
+
+All accepted papers (except short papers based on ideas published
+elsewhere) will be published electronically by Elsevier in the
+Electronic Notes in Theoretical Computer Science series (ENTCS).
+
+Chairs
+======
+
+Alexandre Chapoutot (ENSTA ParisTech)
+Nasrine Damouche (Université de Perpignan, France)
+Alessandro Pinto (United Technologies Research Center)
+
+Program Committee
+===============
+
+Franz Franchetti (Carnegie Mellon University)
+Susmit Jha (SRI International)
+Akshay Rajhans  (The Mathworks)
+Ramesh S (General Motors)
+Timothy Wang (United Technologies Research Center)
+Temesghen Kahsai (Amazon)
+Tze Meng Low (Carnegie Mellon University)
+Daisuke Ishii (University of Fukui, Japan)
+Remi Delmas (ONERA, France)
+Olivier Mullier (ENSTA ParisTech, France)
+Stefan Ratschan (Academy of Sciences of the Czech Republic)
+Adam Duracz (Rice University, USA)
+Antti Hyvärinen (USI, Switzerland)
+Olivier Bouissou (The Mathworks, France)
+Jyotirmoy V. Deshmukh (University of Southern California)
+Laura Titolo (Postdoc NASA)
+Erika Abraham (RWTH Aachen, DE)
+Yassamine Seladji (Professor assistant, University of Tlemcen,  Algeria)
+Junkil Park (Phd, University of Pennsylvania)
+Guillaume Melquion (INRIA, France)
+Matthieu Martel (Professor, Université de Perpignan)
+Arnault Ioualalen (Numalis, industry)
+ 
+ 
+Steering Committee
+================
+ 
+Sergiy Bogomolov (ANU, Australia)
+Radu Grosu (TU Vienna, Austria)
+Matthieu Martel (Université de Perpignan, France)
+Pavithra Prabhakar (Kansas State University, USA)
+Sriram Sankaranarayanan (UC Boulder, USA)
+ 
+ 
+Best regards
+NSV 2018 Chairs
+Nasrine DAMOUCHE
+Docteur en Informatique au laboratoire LAMPS
+ATER(Attaché Temporaire d'Enseignement et de la Recherche) 
+Université de Perpignan Via Domitia
+52 Avenue Paul Alduy
+Bâtiment B - 2ème étage
+66860 Perpignan Cedex
+Tel +33 (0)4-68-66-22-38
+http://perso.univ-perp.fr/nasrine.damouche/

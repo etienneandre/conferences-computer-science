@@ -29,3 +29,7 @@ award = "Best paper award by junior researchers. FSCD test-of-time award 2026."
 [extra]
 journal = "Special issue of Logical Methods in Computer Science of selected papers."
 colocated = "Part of the Ninth Federated Logic Conference (FLoC 2026)"
+
+[[cfp]]
+file = "cfp/FSCD-2026.txt"
+stage = "initial"

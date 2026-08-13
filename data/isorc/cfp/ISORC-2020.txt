@@ -1,0 +1,79 @@
+IEEE ISORC 2020 - CALL FOR PAPERS - https://isorc.github.io/2020/
+The 23rd IEEE International Symposium on Real-Time Distributed Computing
+Nashville, Tennessee, USA, May 19-21, 2020
+
+ISORC has become established as the leading event devoted to state-of-the-art research in the field of object/component/service-oriented real-time distributed computing (ORC) technology. In addition to the main conference, ISORC 2020 will host a special session dedicated to posters and demos, where participants will be able to show prototypes, tools, simulators and systems, which demonstrate the applicability of real-time computing to different applications.
+
+This year, ISORC will improve the peer-reviewing process by introducing double-blind submissions and a rebuttal phase, where authors will have a chance to shortly reply to the reviewers' major objections before the final acceptance decision is taken. Best Paper and Student Paper Awards will be delivered during the conference.
+
+Best papers from ISORC 2020 will be invited for submission to a Special Issue of the Elsevier Journal of Systems Architecture (JSA).
+
+IEEE ISORC 2020 welcomes contributions on topics that include, but are not limited to:
+
+    Software architectures for real-time distributing computing: programming paradigms, ORC paradigms, object/component models, languages, synchronous languages.
+    Distributed computing and communication infrastructures: real-time communications, networked platforms, protocols, Internet QoS, peer-to-peer computing, sensor networks, VANETS and V2V and V2I communications, time-predictable systems and hardware, trusted and dependable systems, complex systems of systems, model maintenance.
+    Algorithms for real-time analytics: real-time stream processing solutions including clustering, classification, mining and inferencing, machine and deep learning, statistical modeling, stream correlation and sampling.
+    System software: real-time kernels, operating systems, virtualization/container mechanisms and distribution middleware for ORC, supporting QoS management and performance, decentralized processing and scalability, extensibility, synchronization, resource allocation, scheduling, energy efficiency, timing analysis, fault tolerance and resilience, security.
+    Applications: medical devices, intelligent transportation systems, industrial automation systems and Industry 4.0, Internet of Things and Smart Grids, embedded and cyber-physical systems (automotive, avionics, autonomous vehicles, mobile devices, consumer electronics, building systems, sensors, etc), multimedia processing, RT Web-based Applications, QoS-Aware and real-time Cloud/Edge/Fog Computing, real-time packet processing for future networking infrastructures and Network Function Virtualization (NFV), time-sensitive social dispersed computing.
+    System evaluation: monitoring mechanisms & infrastructures, performance & timing evaluation, dependability, end-to-end QoS, system/infrastructure overheads, fault detection and recovery time, large-scale evaluations and field studies.
+
+
+ORGANIZING COMMITTEE
+
+General Chairs
+
+    Mathias Pacher, Institut fur Informatik, Univ Frankfurt, Germany
+    Weichen Liu, Nanyang Technological University, Singapore
+    Aniruddha Gokhale, Vanderbilt University, USA
+
+Program Chairs
+
+    Frank Mueller, North Carolina State University, USA
+    Yogesh Simmhan, Indian Institute of Science (IISc), Bengaluru, India
+    Tommaso Cucinotta, Scuola Superiore Sant'Anna, Pisa, Italy
+
+Local Chair
+
+    Aniruddha Gokhale, Vanderbilt University, USA
+
+Local Organization Team:
+
+    Sara Maddox, Amy Karns, Gerilynn Pearce, Abhishek Dubey, Gabor Karsai, Vanderbilt University, USA
+
+Web Chair
+
+    Anirban Bhattacharjee, Vanderbilt University, USA
+
+
+Publicity Chair
+
+    Tommaso Cucinotta, Scuola Superiore Sant'Anna, Pisa, Italy
+    Shweta Khare, Vanderbilt University, USA
+
+Steering Committee Chairs
+
+    Uwe Brinkschulte, Goethe University Frankfurt, Germany
+    Rob Pettit, The Aerospace Corp., USA
+
+Finance Chair
+
+    Abhishek Dubey, Vanderbilt University, USA
+
+
+IMPORTANT DATES
+
+Main Track
+
+    Submission deadline: January 17, 2020
+    Rebuttal period: March 9-11, 2020
+    Acceptance notification: March 20, 2020
+    Camera-ready papers: April 6, 2020
+
+Poster/Demo Session
+
+    Submission deadline: March 24, 2020
+    Acceptance notification: April 1, 2020
+    Camera-ready papers: April 6, 2020
+
+For further information, please, refer to the official conference website:
+https://isorc.github.io/2020/

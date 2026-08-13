@@ -18,3 +18,7 @@ notification = [2023-08-23]
 [proceedings]
 publisher = "IEEE CPS"
 license = "pay"
+
+[[cfp]]
+file = "cfp/APSEC-2023.txt"
+stage = "initial"

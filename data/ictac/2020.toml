@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "The ICTAC committee will evaluate and select the best paper award winner. The winner will receive a cash award."
+
+[[cfp]]
+file = "cfp/ICTAC-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICTAC-2020-extended.txt"
+stage = "extended"

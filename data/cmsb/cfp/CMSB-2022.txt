@@ -1,0 +1,106 @@
+CMSB2022: the 20th International Conference on Computational Methods in Systems Biology
+
+University of Bucharest
+
+Bucharest, Romania, September 14-16, 2022
+
+Conference website
+	
+
+https://fmi.unibuc.ro/en/cmsb-2022/
+
+Submission link
+	
+
+https://easychair.org/conferences/?conf=cmsb2022
+
+Abstract registration deadline
+	
+
+April 27, 2022
+
+Submission deadline
+	
+
+May 4, 2022
+
+CMSB 2022 - First Call for Papers
+The 20th conference on Computational Methods in Systems Biology (CMSB 2022, https://fmi.unibuc.ro/en/cmsb-2022/) will take place on September 14-16, in Bucharest (Romania), on-site, hybrid, or online, depending on the evolution of the Covid-19 pandemic. CMSB is a well established conference series, whose aim is to bring together researchers from across the biological, mathematical, computational, and physical sciences, interested in the modelling, simulation, analysis, inference, design, and control of biological systems.
+
+List of Topics
+
+    formalisms for modelling biological processes;
+    methods and tools for biological system analysis, modelling and simulation;
+    frameworks for model verification, validation, analysis, and simulation of biological systems;
+    high-performance methods for computational systems biology;
+    identification of biological systems;
+    applications of machine learning and data analytics in biology;
+    network modelling, analysis, inference;
+    automated parameter and model synthesis;
+    model integration and biological databases;
+    multi-scale modelling and analysis methods;
+    design, analysis, and verification methods for synthetic biology;
+    methods for biomolecular computing and engineered molecular devices;
+    data-based approaches for systems and synthetic biology;
+    optimality and control of biological systems;
+    modelling, analysis and control of microbial communities. 
+
+
+Committees
+
+Program Committee (preliminary, to be completed)
+
+    Alessandro Abate – University of Oxford (UK)
+    Paolo Ballarini – Centrale Supélec (France)
+    Daniela Besozzi – University of Milan Bicocca (Italy)
+    Luca Cardelli – University of Oxford (UK)
+    Milan Češka – Brno University of Technology (Czech Republic)
+    Eugenio Cinquemani – Inria Grenoble-Rhône-Alpes (France)
+    Eugen Czeizler – University of Helsinki (Finland)
+    Jerome Feret – Inria Paris (France)
+    Clémence Frioux – Inria Bordeaux (France)
+    Ashutosh Gupta – IIT Bombay (India)
+    Monika Heiner – Brandenburg Technical University Cottbus-Senftenberg (Germany)
+    Jane Hillston – University of Edinburgh (UK)
+    Tommaso Mazza – CSS Mendel (Italy)
+    Jun Pang – University of Luxembourg (Luxembourg)
+    Loïc Paulevé – CNRS, LaBRI (France)
+    Andrei Paun – University of Bucharest, Romania, co-chair
+    Ion Petre – University of Turku, Finland, co-chair
+    Tatjana Petrov – University of Konstanz (Germany)
+    Maria Rodriguez Martinez – IBM Zürich Research Laboratory (Switzerland)
+    David Šafránek – Masaryk University (Czech Republic)
+    Carolyn Talcott – SRI International (USA)
+    Jing Tang – University of Helsinki (Finland)
+    Adelinde Uhrmacher – University of Rostock (Germany)
+    Andrea Vandin – Technical University of Denmark (Denmark)
+    Verena Wolf – Saarland University (Germany)
+    Christoph Zechner – Max Planck Institute of Molecular Cell Biology and Genetics (Germany) 
+
+
+Organizing committee
+
+    David Pacioianu, University of Bucharest, Romania
+    Andrei Paun, University of Bucharest, Romania (co-chair)
+    Ion Petre, University of Turku, Romania (co-chair)
+    Nicoleta Siminea, University of Bucharest
+    Joel Sjöberg, University of Turku, Finland 
+
+
+Publication
+The submissions to CMSB 2022 will be fully peer-reviewed. The accepted articles will be published in the conference proceedings, expected to be in the Springer LNCS/LNBI series and to be indexed by ISI Web of Science, Scopus, ACM Digital Library, DBLP, and Google Scholar.
+A special issue of a widely recognized international journal is expected to be organized after the conference. A selection of the best papers will be invited to be extended and submitted to this special issue.
+
+Important dates
+
+    May 4, 2022: regular and tool paper submission
+    June 10, 2022: acceptance notifications
+    June 17, 2021: poster abstract submission
+    September 14-16, 2021: conference 
+
+
+Venue
+The conference will be held in Bucharest (Romania), on-site, hybrid, or online, depending on the evolution of the Covid-19 pandemic.
+
+Contact
+All questions about submissions should be emailed to the conference organizers Ion Petre (ion.petre@utu.fi) and Andrei Paun (apaun@fmi.unibuc.ro).

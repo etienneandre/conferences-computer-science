@@ -1,0 +1,169 @@
+38th International Conference on Computer Safety, Reliability and Security
+Turku, Finland
+September 10-13, 2019
+https://conferences.ncl.ac.uk/safecomp2019/
+ 
+SPECIAL THEME: Safety and security of autonomous systems
+ 
+CALL FOR PAPERS
+ 
+SAFECOMP was established in 1979 by the European Workshop on Industrial
+Computer Systems, Technical Committee 7 on Reliability, Safety and Security
+(EWICS TC7). Since then, it has contributed to the progress of the state-of
+-the-art in dependable application of computers in safety-related and safety-
+critical systems.  
+ 
+SAFECOMP is an annual event covering the state-of-the-art, experience and new
+trends in the areas of safety, security and reliability of critical computer
+applications. SAFECOMP provides plenty of opportunities to exchange insights
+and experience on emerging methods, approaches and practical solutions. It is
+a single-track conference supporting great networking opportunities.
+ 
+The conference covers all aspects related to the development, assessment,
+operation and maintenance of safety-related and safety-critical computer
+systems.
+ 
+Topics include, but are not limited to
+ 
+* Development, verification and assessment of highly automated
+    and autonomous dependable systems
+* Formal modelling, verification and validation of critical
+    systems, software and hardware
+* Model-driven engineering and assessment of safety and
+    security-critical systems and software
+* Resilient and fault-tolerant hardware and software architectures
+* Fault detection and recovery mechanisms
+* Distributed and real-time monitoring and control
+* Security and privacy protection mechanisms for
+    safety-related and safety-critical systems
+* Safety/security co-engineering and risk assessment
+* Probabilistic verification and validation
+* Testing, verification and validation methods and tools
+    for safety and security
+* Methods and tools for qualification, assurance
+    and certification
+* Data-driven techniques for engineering dependable
+    systems, software and hardware
+* Cyber-physical threats and vulnerability analysis
+* Safety and security guidelines, standards and certification
+    of critical systems
+* Safety and security assurance cases
+* Safety and security issues of applied AI and machine
+    learning in critical systems
+* Devops and agile development methods
+ 
+Domains of application include:
+ 
+* Railways, automotive, space, avionics, nuclear and
+   process industries
+* Highly automated and autonomous systems, advanced robotics,
+   construction engines and off-road vehicles
+* Telecommunications and networks
+* Safety-related applications of smart systems and IoT
+    (Internet of Things, Smart Anything Everywhere)
+* Critical infrastructures, smart grids, SCADA
+* Medical devices and healthcare
+* Surveillance, defense, emergency & rescue
+* Logistics, industrial automation, off-shore technology
+* Education & training
+ 
+PAPER SUBMISSION
+The regular research papers (up to 14 pages) as well as practical and industrial
+experience reports and tool papers (up to 8 pages) should be electronically submitted
+via the EasyChair submission systems. Additional details are provided at
+the conference website: https://conferences.ncl.ac.uk/safecomp2019/
+ 
+Papers must not have been previously published or concurrently submitted elsewhere.
+The papers must be formatted according the LNCS templates provided by
+Springer Verlag - https://www.springer.com/gp/computer-science/lncs
+ 
+ 
+IMPORTANT DATES
+      Abstract submission         February 14, 2019
+      Paper submission            February 17, 2019
+      Notification                        April 30, 2019
+      Camera ready                   June 5, 2019
+ 
+CONFERENCE PROCEEDINGS
+Proceedings will be published in Lecture Notes in Computer Science (LNCS) Series
+by Springer Verlag.
+ 
+EWICS TC7 CHAIR
+Francesca Saglietti (Univ. of Erlangen-Nuremberg, DE)
+ 
+GENERAL CHAIR AND PROGRAM CO-CHAIRS
+Alexander Romanovsky (Newcastle Univ., UK)
+Elena Troubitsyna (KTH, SE and Åbo Akademi, FI)
+ 
+PUBLICATION CHAIR
+Friedemann Bitsch (Thales, DE)
+ 
+WORKSHOP CHAIRS
+Ilir Gashi (City Univ., UK)
+Erwin Schoitsch (AIT, AT)
+ 
+ORGANISING COMMITTEE
+Elena Troubitsyna          
+Minna Carla
+Christel Engblom                       
+Inna Vistbackka
+ 
+INTERNATIONAL PROGRAM COMMITTEE
+Peter Bishop (UK)                    
+Friedemann Bitsch (DE)
+Jean-Paul Blanquart (FR)        
+Sandro Bologna (IT)
+Andrea Bondavalli (IT)              
+Jens Braband (DE)
+Simon Burton (DE)       
+António Casimiro (PT)
+Mads Dam (SE)                        
+Peter Daniel (UK)
+Ewen Denney (US)       
+Felicita Di Giandomenico (IT)
+Wolfgang Ehrenberger (DE)
+John Favaro (IT)
+Francesco Flammini (SE)         
+Simon Fuerst (DE)
+Barbara Gallina (SE)    
+Ilir Gashi (UK)
+Anatoliy Gorbenko (UK)           
+Janusz Gorski (PL)
+Jérémie Guiochet (FR)             
+Hans Hansson (SE)
+Mats Heimdahl (US)     
+Maritta Heisel (DE)
+Constance Heitmeyer (US)  
+Alexei Iliasov (UK)
+Chris Johnson (UK)      
+Rajeev Joshi (US)
+Karama Kanoun (FR)   
+Joost-Pieter Katoen (DE)
+Philip Koopman (US)    
+Peter Ladkin (DE)
+Timo Latvala (FI)                      
+Silvia Mazzini (IT)
+Simin Nadjm-Tehrani (SE)       
+Mattias Nyberg (SE)
+Frank Ortmeier (DE)     
+Philippe Palanque (FR)
+Michael Paulitsch (AT)             
+Holger Pfeifer (DE)
+Peter Popov (UK)                     
+Laurent Rioux (FR)
+Matteo Rossi (IT)                      
+Francesca Saglietti (DE)
+Christoph Schmitz (CH)           
+Erwin Schoitsch (AT)
+Christel Seguin (FR)     
+Håkan Sivencrona (SE)
+Oleg Sokolsky (US)      
+Stefano Tonetta (IT)
+Kenji Taguchi (JP)         
+Martin Törngren (E)
+Mario Trapp (DE)                      
+Tullio Vardanega (IT)
+Marcel Verhoef (NL)     
+Helene Waeselynck (FR)
+Jonny Vinter (SE)      
+ 

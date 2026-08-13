@@ -1,0 +1,127 @@
+Call for Papers and Announcement Petri Nets 2023
+
+https://petrinets2023.github.io/
+
+PETRI NETS 2023
+44th International Conference on Application and Theory of Petri Nets and Concurrency
+
+Lisbon, Portugal, June 25-30, 2023
+
+====================================================================
+
+Two kinds of papers can be submitted:
+
+* Regular papers (max. 20 pages excluding references) describing original results pertaining to the development of the theory of Petri nets and distributed and concurrent systems in general, new results extending the applicability of Petri nets, or case studies, application and experience reports pertinent to the practical use of Petri nets and concurrency.
+
+* Tool papers (max. 10 pages excluding references) describing a computer tool based on Petri nets (not an application of the tool or the theory behind the tool). The tool should be available for use by other groups (but not necessarily for free). The submission should indicate how the reviewers can get access to the tool (this must be for free). The tool will be demonstrated in the Tool Exhibition, in addition to being presented in a conference talk.
+
+Submitted papers must:
+* be contributions that have not been published or submitted to other conferences/journals before or in parallel with this conference.
+* clearly state the problem being addressed, the goal of the work, the results achieved, and the relation to other work.
+* be in English and in the Springer LNCS-format: https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines, including line numbers (e.g. lineno LATEX package)
+* adhere to the page limit for the relevant category (see above).
+* be sent electronically (as a PDF file) using the website,
+http://easychair.org/conferences/?conf=petrinets2023 before the deadline.
+
+The title page must contain a short abstract and a classification of the topics covered, preferably using the list of topics below. Submissions violating the above requirements may be immediately rejected by the PC Chairs.
+
+Important Dates:
+-----------------------------------------------------------
+Abstract submission:   January 13, 2023
+Paper submission:      January 20, 2023
+Notification:          March 5, 2023
+Final version due:     March 18, 2023
+Registration for Tool Presentations: May 31, 2023
+Petri nets course:     June 25-27, 2023
+Workshops & tutorials: June 26-27, 2023
+Main conference:       June 28-30, 2023
+
+>>> Topics specific to Petri nets
+
+- Analysis and synthesis, structure and behaviour of nets
+- System design and model-driven development using nets
+- Relationships between Petri nets and other approaches
+- Net-based semantical, logical and algebraic calculi
+- Higher-level net models (e.g, coloured nets, timed nets)
+- Stochastic net models
+- Verification and model checking using nets
+- Process discovery and conformance checking
+- Computer tools for nets
+- Standardisation of nets
+- Experience reports describing applications of nets to different kinds of systems and application fields, e.g.:
+    flexible manufacturing systems, office automation, real-time systems, workflows, embedded systems, process mining, biological systems, supervisory control, health and medical systems, railway networks, Internet and Web services, environmental systems, e-commerce and trading, hardware, programming languages, telecommunications, protocols and networks, performance evaluation, component based development, operations research
+
+>>> General topics related to concurrency
+
+- Application of concurrency to system design:
+  -   formal models (e.g., dataflow models, communicating automata, process algebras, modal and temporal logics) for designing computer systems with concurrent behaviour
+  - applied research aimed at designing computer systems which exhibit concurrency
+- Model checking and verification of distributed systems
+- Verification of infinite-state or parametric systems
+- Causality/partial order theory of concurrency
+- Educational issues related to concurrency
+- New developments in the theory of concurrency
+- Modelling of hardware and biological systems
+
+
+>>> Tool Exhibition:
+The tools presented in the accepted tool papers will be demonstrated in the Tool Exhibition, in addition to being presented in a conference talk.
+
+====================================================================
+Organising Committee
+
+Programme committee co-chairs
+Luis Gomes, NOVA University Lisbon, Portugal
+Robert Lorenz, Universität Augsburg, Germany
+
+General organising chairs
+Anikó Costa, NOVA University Lisbon, Portugal
+Isabel Sofia Brito, Instituto Politécnico de Beja, Portugal
+
+Tool exhibition chairs
+Filipe Moutinho, NOVA University Lisbon, Portugal
+Fernando Pereira, ISEL, Portugal
+
+Workshops co-chairs
+Susanna Donatelli, Università di Torino, Italy
+Robin Bergenthum, Fern Universität in Hagen, Germany
+
+Petri Net Course and Tutorials co-chairs
+Jörg Desel, Fern Universität in Hagen, Germany
+Jetty Kleijn, Leiden University, The Netherlands
+
+Programme committee
+Elvio Amparore, Italy
+Abel Armas Cervantes, Australia
+Paolo Baldan, Italy
+João Paulo Barros, Portugal
+Béatrice Bérard, France
+Luca Bernardinello, Italy
+Didier Buchs, Switzerland
+Raymond Devillers, Belgium
+Jörg Desel, Germany
+Susanna Donatelli, Italy
+Natalia Sidorova, The Netherlands
+Javier Esparza, Germany
+João Miguel Fernandes, Portugal
+David de Frutos Escrig, Spain
+Stefan Haar, France
+Xudong He, USA
+Loïc Helouet, France
+Ryszard Janicki, Canada
+Anna Kalenkova, Australia
+Jörg Keller, Germany
+Ekkart Kindler, Denmark
+Michael Köhler-Bußmeier, Germany
+Irina Lomazova, Russia
+Lukasz Mikulski, Poland
+Andrew Miner, USA
+Marco Montali, Italy
+Laure Petrucci, France
+Jaco van de Pol, Denmark
+Artem Polyvyanyy, Australia
+Pierre-Alain Reynier, France
+Arnaud Sangnier, France
+Boudewijn van Dongen, The Netherlands
+Alex Yakovlev, UK
+Remigiusz Wisniewski, Poland

@@ -41,3 +41,7 @@ men = 2
 [extra]
 # colocated = "Co-located with PODC and SPAA"
 notes = "Rebuttal for Track B only."
+
+[[cfp]]
+file = "cfp/ICALP-2027.txt"
+stage = "initial"

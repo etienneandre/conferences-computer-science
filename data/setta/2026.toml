@@ -23,3 +23,11 @@ blind = "double"
 [extra]
 journal = "Selected papers will be invited for extended versions in a reputable journal special issue."
 notes = "Two rounds of submissions."
+
+[[cfp]]
+file = "cfp/SETTA-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SETTA-2026-extended.txt"
+stage = "extended"

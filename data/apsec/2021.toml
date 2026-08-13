@@ -21,3 +21,7 @@ license = "pay"
 
 [extra]
 notes = "Deadline AoE."
+
+[[cfp]]
+file = "cfp/APSEC-2021.txt"
+stage = "initial"

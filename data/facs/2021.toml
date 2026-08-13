@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Also a Doctoral Track, in the form of abstracts (3 pages max). The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to a special issue of the Science of Computer Programming journal."
+
+[[cfp]]
+file = "cfp/FACS-2021-extended.txt"
+stage = "extended"

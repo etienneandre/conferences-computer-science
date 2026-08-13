@@ -1,0 +1,131 @@
+--------------------------------------------------------------------
+                             Call for Papers
+
+                               FTSCS 2019
+
+7th International Workshop on Formal Techniques for Safety-Critical Systems
+
+               Shenzhen, China, November, 9, 2019
+                   (satellite workshop of ICFEM 2019)
+
+                             http://www.ftscs.org
+
+---------------------------------------------------------------------
+*** Science of Computer Programming special issue ***
+*** Springer CCIS proceedings ***
+
+Submission deadline: September 3, 2019
+
+Aims and Scope:
+
+There is an increasing demand for using formal methods to validate and
+verify safety-critical systems in fields such as power generation and
+distribution, avionics, automotive systems, medical systems, and
+autonomous vehicles. In particular, newer standards, such as DO-178C
+(avionics), ISO 26262 (automotive systems), IEC 62304 (medical
+devices), and CENELEC EN 50128 (railway systems), emphasize the need
+for formal methods and model-based development, thereby speeding up
+the adaptation of such methods in industry.
+
+The aim of this workshop is to bring together researchers and engineers
+who are interested in the application of formal and semi-formal methods
+to improve the quality of safety-critical computer systems. FTSCS
+strives to promote research and development of formal methods and
+tools for industrial applications, and is particularly interested in
+industrial applications of formal methods.
+
+Specific topics include, but are not limited to:
+
+* case studies and experience reports on the use of formal methods for
+  analyzing safety-critical systems, including avionics, automotive,
+  medical, railway, and other kinds of safety-critical and
+  QoS-critical systems 
+* methods, techniques and tools to support automated analysis,
+  certification, debugging, etc., of safety/QoS-critical systems
+* analysis methods that address the limitations of formal methods in
+  industry (usability, scalability, etc.)
+* formal analysis support for modeling languages used in industry,
+  such as AADL, Ptolemy, SysML, SCADE, Modelica, etc.
+* code generation from validated models.
+
+The workshop will provide a platform for discussions and the exchange of
+innovative ideas, so submissions on work in progress are encouraged.
+
+Submission:
+
+We solicit submissions reporting on:
+
+A- original research contributions (16 pages max);
+B- applications and experiences (16 pages max);
+C- surveys, comparisons, and state-of-the-art reports (16 pages max);
+D- tool papers (6 pages max);
+E- position papers and work in progress (6 pages max)
+
+related to the topics mentioned above.
+
+All submissions must be original, unpublished, and not submitted
+concurrently for publication elsewhere. Paper submission is done
+via EasyChair at https://easychair.org/my/conference?conf=ftscs2019.
+The final version of the paper must be prepared in LaTeX, adhering to
+the LNCS format available at
+http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0.
+
+Springer encourages authors to include their ORCIDs (https://goo.gl/hbsa4D)
+ in their papers. In addition, the corresponding author of each paper,
+acting on behalf of all of the authors of that paper, must complete and
+sign a Consent-to-Publish form. The corresponding author signing the copyright
+form should match the corresponding author marked on the paper. Once the files
+have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+
+Publication:
+
+All accepted papers will appear in the pre-proceedings of FTSCS 2019.
+Accepted papers in the categories A-D above will appear in the
+workshop proceedings that will be published as a volume in
+Springer's CCIS series.
+
+The authors of a selected subset of accepted papers will be invited to
+submit extended versions of their papers to appear in a special issue
+of the Science of Computer Programming journal.
+
+Important dates:
+
+Submission deadline: September 3, 2019
+Notification of acceptance: October 4, 2019
+Workshop: November 9, 2019
+
+Venue:
+
+Shenzhen, China
+
+Program chairs:
+
+Frederic Mallet (INRIA Sophia Antipolis, France)
+Osman Hasan (National University of Sciences & Technology, Pakistan)
+
+Program committee:
+
+Cyrille Artho (KTH Royal Institute of Technology, Sweden)
+Peter Csaba Ölveczky (University of Oslo, Norway)
+Thomas Noll (RWTH Aachen University, Germany)
+Klaus Havelund (Jet Propulsion Laboratory, USA)
+Étienne André (University Paris 13, France)
+Robi Malik (University of Waikato, New Zealand)
+Roberto Nardone (Mediterranean University of Reggio Calabria, Italy)
+Ralf Huuck (UNSW, Australia)
+Sofiène Tahar (Concordia University, Canada)
+Toshiaki Aoki (JAIST, Japan)
+Kyungmin Bae (Pohang University of Science and Technology, Korea)
+Fuyuki Ishikawa (National Institute of Infomatics, Japan)
+Carolyn Talcott (SRI International, USA)
+Tatsuhiro Tsuchiya (Osaka University, Japan)
+Huibiao Zhu (East China Normal University, China)
+Alexander Knapp (Universität Augsburg, Germany)
+Musab AlTurki (King Fahd University of Petroleum & Minerals, Saudi Arabia)
+Lee Pike (Automated Reasoning Group of Amazon Web Services, USA)
+Nils Timm (Univesity of Pretoria, South Africa)
+Stefen Mitsch (CMU, USA)
+Tom van Dijk (University of Twente, The Netherlands)
+Jean-Pierre Talpin (INRIA, France)
+Zhiping Shi (Capital Normal University, China)
+Sven Linker (U. Of Liverpool, UK)

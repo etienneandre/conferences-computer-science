@@ -1,0 +1,238 @@
+NEWS: Deadl ine extended to 18th June.
+
+======================================================================
+CALL FOR PAPERS
+
+21st Asian Symposium on Programming Languages and Systems (APLAS 2023)
+Taipei, Taiwan, Sun 26 – Wed 29 November 2023
+
+https://conf.researchr.org/home/aplas-2023
+======================================================================
+
+IMPORTANT DATES
+
+-------------------------------------
+
+"NEW" Submission deadline: Sun 18 Jun 2023 AoE
+
+Author response: Mon 31 Jul 12:00 - Wed 2 Aug 12:00 2023 AoE
+
+Author notification: Mon 14 Aug 2023 AoE
+
+Final paper deadline: Wed 6 Sep 2023 AoE
+
+Conference: Sun 26 – Wed 29 Nov 2023
+
+SCOPE
+
+-------------------------------------
+
+We solicit submissions in the form of regular research papers
+
+describi ng original scientific research results, including system
+
+development and case studies. Among others, solicited topics include:
+
+- ** programming paradigms and styles ** :
+
+    functional programming; object-oriented programming; probabilistic
+
+  programming; logic
+
+  programming; constraint programming; extensible programming
+
+  languages; programming languages for systems code; novel programming
+
+  paradigms;
+
+- ** methods and tools to specify and reason about programs and
+
+  languages ** :
+
+  programming techniques; meta-programming; domain-specific
+
+  languages; proof assistants; type systems; dependent types; program
+
+  logics, static and dynamic program analysis; language-based
+
+  security; model checking; testing;
+
+- ** programming language foundations ** :
+
+  formal semantics; type theory; logical foundatio ns; category
+
+  theory; automata; effects; monads and comonads; recursion and
+
+  corecursion; continuations and effect handlers; program
+
+  verification; memory models; abstract interpretation;
+
+- ** methods and tools for implementation ** :
+
+  compilers; program transformations; rewriting systems;
+
+  partial evaluation; virtual machines; refactoring; intermediate
+
+  languages; run-time environments; garbage collection and memory
+
+  management; tracing; profiling; build systems; program synthesis;
+
+- ** concurrency and distribution ** :
+
+  process algebras; concurrency theory; session types; parallel
+
+  programming; service-oriented computing; distributed and mobile
+
+  computing; actor-based languages; verification and testing of
+
+  concurrent and distributed systems;
+
+- ** applications and emerging topics ** :
+
+& nbsp; programming languages and PL methods in education, security,
+
+  privacy, database systems, computational biology, signal
+
+  processing, graphics, human-computer interaction, computer-aided
+
+  design, artificial intelligence and machine learning; case
+
+  studies in program analysis and verification.
+
+GENERAL INFORMATION
+
+-------------------------------------
+
+Submissions should not exceed 17 pages, excluding bibliography in the
+
+Springer LNCS format. LaTeX template is available at:
+
+  https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+
+The accepted papers will be allowed to use one extra page for the
+
+content to accommodate feedback from the reviews in the final paper
+
+versions.
+
+Papers should be submitted via HotCRP:
+
+  https://aplas2023.hotcrp.com/
+
+The review process of APLAS 2023 is double- anonymous, with a rebuttal
+
+phase. In your submission, please, omit your names and institutions;
+
+refer to your prior work in the third person, just as you refer to
+
+prior work by others; do not include acknowledgments that might
+
+identify you.
+
+Additional material intended for reviewers but not for publication in
+
+the final version - for example, details of proofs - may be placed in
+
+a clearly marked appendix that is not included in the page limit.
+
+Reviewers are at liberty to ignore appendices and papers must be
+
+understandable without them.
+
+Submitted papers must be unpublished and not submitted for publication
+
+elsewhere. Papers must be written in English. The proceedings will be
+
+published as a volume in Springer’s LNCS series. Accepted papers must
+
+be presented at the conference.
+
+POSTERS and STUDENT RESEARCH COMPETITION
+
+----------------------------------------
+
+< p>APLAS 2023 includes a Posters session and a Student Research
+
+Competition. For more details, please see the website.
+
+ https://conf.researchr.org/track/aplas-2023/posters-and-src
+
+DISTINGUISHED PAPERS AWARDS
+
+-------------------------------------
+
+Around 10% of the accepted papers of APLAS 2023 will be designated as
+
+Distinguished Papers, which highlights papers that the Program
+
+Committee recommends due to their excellent quality. The awards will
+
+be announced on this website, and printed certificates will be issued
+
+to the authors in the conference.
+
+ORGANIZERS
+
+-------------------------------------
+
+General Chair:
+
+  Shin-Cheng Mu, Academia Sinica, Taiwan
+
+Program Chair:
+
+  Chung-Kil Hur, Seoul National University, Korea
+
+Publicity Chair:
+
+  Ryosuke Sato, University of Tokyo, Japan
+
+Program Committee:
+
+  Soham Chakraborty, TU Delft, Netherlands
+
+  Yu-Fang Chen, Academia Sinica, Taiwan
+
+  Ronghui Gu, Columbia University, USA
+
+  Ichiro Hasuo, National Institute of Informatics, Japan
+
+  Ralf Jung, ETH Zurich, Switzerland
+
+  Ohad Kammar, University of Edinburgh, UK
+
+  Jeehoon Kang, KAIST, Korea
+
+  Jieung Kim, Inha University, Korea
+
+  Robbert Krebbers, Radboud University Nijmegen, Netherlands
+
+  Ori Lahav, Tel Aviv University, Israel
+
+  Doug Lea, State University of New York at Oswego, USA
+
+  Woosuk Lee, Hanyang University, Korea
+
+  Hongjin Liang, Nanjing University, China
+
+  Nuno P. Lopes, University of Lisbon, Portugal
+
+  Chandrakana Nandi, Certora and UW, USA
+
+  Liam O'Connor, The University of Edinburgh, UK
+
+  Bruno C. d. S. Oliveira, The University of Hong Kong, Hong Kong
+
+  ; Jihyeok Park, Korea University, Korea
+
+  Clément Pit-Claudel, EPFL, Switzerland
+
+  Matthieu Sozeau, Inria, France
+
+  Kohei Suenaga, Kyoto University, Japan
+
+  Tarmo Uustalu, Reykjavik University, Iceland
+
+  John Wickerson, Imperial College London, UK
+
+  Danfeng Zhang, Penn State University, USA

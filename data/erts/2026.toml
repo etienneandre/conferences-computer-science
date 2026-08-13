@@ -16,3 +16,11 @@ notification = [2025-09-26]
 
 [proceedings]
 publisher = "?"
+
+[[cfp]]
+file = "cfp/ERTS-2026.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ERTS-2026-extended.txt"
+stage = "extended"

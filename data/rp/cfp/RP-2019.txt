@@ -1,0 +1,85 @@
+CALL FOR PAPERS
+
+The Computer Science Department @ULB and the ICTEAM Institute @UCLouvain are excited to announce the
+
+13th International Conference on Reachability Problems 2019.
+
+Brussels, Belgium, September 11-13, 2019.
+
+https://sites.uclouvain.be/rp2019/
+
+* Important Dates
+
+Submission deadline for regular papers: June 7th (abstracts required on may 31st). 
+Notifications: July 12.
+
+* Submission Guidelines *
+
+There are two categories of submissions:
+
+Regular Papers: Authors are invited to submit a draft of a full paper with at most 12 pages (excluding the bibliography) formatted according to LNCS guidelines. Authors are asked to submit their paper through EasyChair. Submission deadline: June 7.
+ 
+Presentations: In addition to the formal presentations based on our LNCS proceedings volume, we invite researchers to submit a paper which recently appeared (or which is going to appear) in proceedings of another conference, or which has not yet been submitted. Neither the paper nor the abstract will be published in the proceedings.
+
+* List of Topics *
+
+Logic Verification and Synthesis
+Hybrid Dynamical Systems
+Game Theory
+Computational Models
+
+* Invited Speakers *
+
+Thomas Henzinger (IST Austria)
+Vladimir Protasov (HSE Moscow)
+Slawomir Lasota (U. Warsaw)
+Sriram Sankaranarayanan (U. Colorado Boulder)
+Jean-François Raskin (ULB, tutorial talk)
+
+* Organisers *
+
+Emmanuel Filiot, Co-Chair
+Raphael Jungers, Co-Chair
+Igor Potapov, Publication Chair
+
+* Program committee *
+
+Emmanuel Filiot, (Co-Chair)
+Raphael Jungers, (Co-Chair)
+S. Akshay (IIT Bombay)
+Igor Potapov (U. Liverpool)
+Bernard Boigelot (U Liège)
+Mickael Randour (U. Mons)
+Patrick Totzke (U. Liverpool)
+Guillermo Perez (U. Antwerp)
+Fribourg Laurent (CNRS)
+Nicolas Mazzocchi (ULB)
+Maria Prandini  (P. Milano)
+Shinnosuke Seki (U. Electro-communications)
+Nathalie Bertrand (INRIA)
+Paul Bell (John Moores Univ.)
+Axel Legay (UCLouvain)
+Vesa Halava (U. Turku)
+Pierre-Alain Reynier (U. Aix-Marseilles)
+Nathanaël Fijalkow (CNRS)
+Christel Baier (TU-Dresden)
+Gilles Geeraerts (ULB)
+Alessandro D'Innocenzo (U. L'Aquila)
+Matthew Hague (Royal Holloway U.)
+Alexander Rabinovich (Tel Aviv U.)
+Martin Lange (U. Kassel)
+Ahmed Bouajjani (U. Paris-Diderot)
+Nikos Athanasopoulos (Queens U. Belfast)
+Pavithra Prabhakar (Kansas State Univ.)
+
+* Publication *
+
+RP 2019 proceedings will be published in Springer's LNCS series. A selection of works will be invited to a special issue of a journal (tba).
+
+* Venue *
+
+The conference will be held in the beautiful city center of Brussels, at the University Foundation.
+
+* Contact *
+
+All questions about submissions should be emailed to rp2019@uclouvain.be

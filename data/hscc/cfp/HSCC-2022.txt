@@ -1,0 +1,80 @@
+============================================================
+ACM HSCC 2022 Call for Papers
+25th ACM International Conference on Hybrid Systems:
+Computation and Control (HSCC 2022)
+
+Part of CPS-IoT Week 2022
+May 4-6, 2022
+Milan, Italy
+URL: https://hscc.acm.org/2022/
+============================================================
+
+Hybrid Systems: Computation and Control (HSCC) 2022 is the 25th in a series of conferences focusing on original research on concepts, tools, and techniques from computer science, control theory, and applied mathematics for the analysis and control of hybrid dynamical systems, with an emphasis on computational aspects. By drawing on strategies from computation and control, the hybrid systems field offers techniques that are applicable to both man-made cyber-physical systems (ranging from small robots to global infrastructure networks) and natural systems (ranging from biochemical networks to physiological models). Papers in the conference are expected to range over a wide spectrum of topics from theoretical results to practical considerations, and from academic research to industrial adoption.
+
+Topics of interest include, but are not limited to:
+- Mathematical foundations, computability and complexity
+- Analysis, verification, validation, and testing
+- Modeling paradigms and techniques
+- Design, synthesis, planning, and control
+- Programming and specification languages
+- Network science and network-based control
+- Security, privacy, and resilience for cyber-physical systems with focus on computation and control
+- Safe autonomy, Artificial intelligence and Machine learning in CPS
+- Software tools for the above topics
+- Applications and industrial case studies in: automotive, transportation, autonomous systems, avionics, energy and power, robotics, medical devices, manufacturing, systems and synthetic biology, models for the life sciences, and other related areas.
+
+Submission Guidelines
+============================================================
+HSCC invites submissions in two categories: (1) regular papers and (2) tool and case study papers. Submissions in *both* these categories can be either long (10 pages max, 9pt font, two-column ACM format) or short papers (6 pages max, 9pt font, two-column ACM format). We will employ a double-blind reviewing process and will have a rebuttal phase to provide authors with the opportunity to reply to the reviewers’ concerns. Authors are asked to submit their paper using EasyChair:
+https://easychair.org/conferences/?conf=hscc2022
+
+Important dates
+============================================================
+Submission deadline: *October 29, 2021 (AOE)*
+Tool/case study paper repeatability package submission deadline: November 1, 2021 (AOE)
+Rebuttal phase: December 15-17, 2021
+Acceptance/rejection notifications: January 17, 2022
+Posters/demos submission deadline: January 31, 2021 (AOE)
+
+
+Awards
+============================================================
+HSCC 2022 will confer four different awards:
+- *ACM SIGBED HSCC Best Paper Award* (all regular papers are eligible)
+- *HSCC Test-Of-Time Award* (call for nominations and guidelines TBA)
+- *Best Demo/Poster Award*
+- *Repeatability Evaluation Badge*
+
+
+Organization
+============================================================
+
+PC Chairs:
+Ezio Bartocci (TU Wien, Austria)
+Sylvie Putot (École Polytechnique, France)
+
+Repeatability Evaluation Chairs:
+Stanley Bak (Stony Brook University, USA)
+Aditya Zutshi (Galois Inc., USA)
+
+Publication Chair:
+Stefan Schupp (TU Wien, Austria)
+
+Publicity Chair:
+Nicola Paoletti (Royal Holloway, University of London, UK)
+
+Demo/Poster Chair:
+Chuchu Fan (MIT, USA)
+
+Awards Chair:
+Alessandro Abate (University of Oxford, UK)
+
+Steering Committee:
+Alessandro Abate (University of Oxford, UK)
+Thao Dang (Verimag, France)
+Martin Fränzle (Universität Oldenburg, Germany)
+Radu Grosu (TU Wien, Austria)
+Sayan Mitra (UIUC, USA)
+Paulo Tabuada (UCLA, USA)
+Claire Tomlin (University of California, Berkeley, USA)
+

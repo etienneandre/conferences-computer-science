@@ -25,3 +25,11 @@ submitted = 25
 
 [extra]
 notes = "A DisCoTec Member Conference. The best papers will be invited after the conference to contribute to a special issue of LMCS. Recent acceptance rates: 41% (20/49, 2013), 36% (18/50, 2014), 28% (15/53, 2015), 41% (18/44, 2016), 40% (13 long + 3 short + 1 tool/42) in 2017, 36% (10/28) in 2018."
+
+[[cfp]]
+file = "cfp/FORTE-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORTE-2020-extended.txt"
+stage = "extended"

@@ -1,0 +1,81 @@
+CALL FOR PAPERS
+The 17th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2019)
+San Diego, USA, October 9-11, 2019
+https://memocode.github.io/2019
+
+
+OVERVIEW
+Over the last decade, the boundaries between computer system components, such as hardware, software, firmware, middleware, and applications, have blurred. This evolution in system design and development practices led in 2014 to a change in the title and scope of the MEMOCODE conference from its original focus on hardware/software co-design to its new focus on formal methods and models for developing computer systems and their components. MEMOCODE's objective is to emphasize the importance of models and methodologies in correct system design and development, and to brings together researchers and practitioners interested in formal methods for system design and development, research results, and lessons learned. The conference focuses on the foundations and applications of formal methods in the development of hardware, firmware, middleware, and application software for systems ranging from single embedded devices to highly networked cyber-physical systems and the Internet of Things.
+ 
+MEMOCODE'19 is the 17th ACM-IEEE International Conference on Formal Methods and Models for System. The conference will be held in San Diego, USA. It is the next event of a series of highly successful international conferences, held in recent years as MEMOCODE 2018 (Beijing, China), MEMOCODE 2017 (Vienna, Austria), MEMOCODE 2016 (Kanpur, India), MEMOCODE 2015 (Austin, USA), MEMOCODE 2014(Lausanne, Switzerland), MEMOCODE 2013 (Portland, USA), MEMOCODE 2012 (Arlington, USA), MEMOCODE 2011 (Cambridge, UK), MEMOCODE 2010 (Grenoble, France), MEMOCODE 2009 (Cambridge, USA),  MEMOCODE 2008 (Anaheim, USA), MEMOCODE 2007 (Nice, France), MEMOCODE 2006 (Napa Valley, USA), MEMOCODE 2005 (Verona, Italy), MEMOCODE 2004 (San Diego, USA), MEMOCODE 2003 (Mont Saint Michel, France).
+ 
+All accepted papers (regular papers, WIP papers, and tool papers) will be published as IEEE conference proceedings with IEEE eXpress. Publication in the proceedings is contingent on one author registering for and presenting the paper at the conference. Selected papers will be invited for publication in a special issue of the ACM Transactions on Embedded Computing Systems. The Program Committee will select 1-2 papers for the Best Paper Award of MEMOCODE'19.
+ 
+CONFERENCE SCOPE
+Topics of interest include, but are not limited to:
+ 
+* Modeling Languages, Methods, and Tools
+o Programming Languages and Models
+o Software and System Modeling Languages
+o Architecture and High-level Hardware Description Languages
+o Timing Models
+o Model and Program Synthesis Methods
+o Model Transformation Methods
+* Formal Methods and Tools
+o Correct-by-Construction Methods
+o Contract-based Design and Verification Testing
+o Static, Dynamic, and Type Theoretic Analysis
+o Verification
+o Validation
+o Probabilistic Model Checking
+o Test Generation
+o Refinement-based and Compositional Approaches to Design and Verification
+* Models and Methods for Developing Critical Systems
+o Fault-tolerant Systems
+o Security-critical and Safety-critical Systems
+o Cyber-physical Systems
+o Hybrid Systems
+o Autonomous Systems
+o Self-adapting Systems
+* Quantitative/Qualitative Reasoning
+o Power/Performance/Cost/Latency Estimation Methods
+o System Models for Quantitative Design Space Exploration
+* Formal Methods/Models in Practice
+o Design Case Studies
+o Empirical Case Studies
+ 
+SUBMISSION GUIDELINES
+MEMOCODE 2019 calls for three kinds of submissions: regular papers, work in progress papers, and tool presentations. All papers must be written in English and formatted according to the IEEE Computer Society guidelines, including the IEEE Copyright templates. Submission of papers is handled via Easychair.
+ 
+* Regular papers must be no more than 10 pages, excluding bibliography and appendices. They should describe original work that does not overlap with another publication or a submission under review or accepted for publication by any other conference or journal. Reviewers will check regular papers for the novelty of the proposed solution and the proofs given for the claims made.
+ 
+* Work-in-progress (WIP) papers must be no more than 4 pages, excluding bibliography and appendices. They should describe ongoing work. Reviewers will judge the novelty of the idea, but do not yet expect proofs for the envisioned results.
+ 
+* Tool papers must be no more than 8 pages, excluding bibliography and appendices. They should describe an existing and publicly available tool that implements relevant methods. The methods might have been published before, but the tool should not have been described in a tool paper previously. In addition to reviewing the paper, reviewers will assess the tool itself using inputs and a user's manual provided by the authors on the tool's web page.
+ 
+For questions regarding technical submissions, feel free to contact one of the Program Committee co-chairs: Sicun Gao(scungao@gmail.com) and Pierluigi Nuzzo(nuzzo@usc.edu).
+ 
+IMPORTANT DATES
+Abstract submission deadline: EXTENDED TO June 14, 2019 (AoE)
+Paper submission deadline:    EXTENDED TO June 21, 2019
+Notification of acceptance:   July 26, 2019
+Final version of papers:      August 16, 2019
+Conference:                   October 9-11, 2019
+ 
+ORGANIZING COMMITTEE
+General Chairs:
+Partha Roop, University of Auckland, New Zealand
+Naijun Zhan, Institute of Software CAS, China
+ 
+Local Chair:
+Dezhi Hong, UC San Diego
+ 
+Program Chairs: 
+Pierluigi Nuzzo, University of Southern California, USA
+Sicun Gao, University of California, USA
+ 
+Publicity Chair:
+Bai Xue, Institute of Software CAS, China
+ 
+Publication Chair:
+Srinivas Pinisetty, Indian Institute of Technology Bhubaneswar, India

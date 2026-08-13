@@ -23,3 +23,11 @@ license = "pay-profit"
 blind = "single"
 gender_balance = "mixed"
 artifact = "Artifact evaluation (optional for regular)"
+
+[[cfp]]
+file = "cfp/SEFM-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SEFM-2026-extended.txt"
+stage = "extended"

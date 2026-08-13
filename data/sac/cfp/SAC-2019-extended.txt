@@ -1,0 +1,159 @@
+                 34th Annual ACM Symposium on Applied Computing
+                    Software Verification and Testing Track
+                                Limassol, Cyprus
+                               April 8 – 12, 2019
+
+                       https://www.sigapp.org/sac/sac2019/
+                  https://sites.google.com/site/sacsvt2019/home
+                             svt.sac.2019@gmail.com
+                           https://twitter.com/SvtSac
+
+Important dates
+===============
+
+Sep. 24, 2018 - Submission of regular papers and SRC research abstracts
+Nov. 24, 2018 - Notification of paper / SRC abstract acceptance/rejection
+Dec. 10, 2018 - Camera-ready copies of accepted papers/SRC
+Dec. 10, 2018 - Author registration due date
+
+
+ACM Symposium on Applied Computing
+==================================
+
+The ACM Symposium on Applied Computing (SAC) has gathered scientists from
+different areas of computing over the last thirty years. The forum represents
+an
+opportunity to interact with different communities sharing an interest in
+applied computing.
+
+SAC 2019 is sponsored by the ACM Special Interest Group on Applied Computing
+(SIGAPP), and will be hosted by the University of Cyprus, Limassol, Cyprus.
+
+Software Verification and Testing Track
+=======================================
+
+The Software Verification and Testing track aims at contributing to the
+challenge of improving the usability of formal methods in software
+engineering. The track covers areas such as formal methods for verification
+and
+testing, based on theorem proving, model checking, static analysis, and run-
+time
+verification. We invite authors to submit new results in formal verification
+and
+testing, as well as development of technologies to improve the usability of
+formal methods in software engineering. Also are welcome detailed descriptions
+of applications of mechanical verification to large scale software. Possible
+topics include, but are not limited to:
+
+* model checking
+* theorem proving
+* correct by construction development
+* model-based testing
+* software testing
+* symbolic execution
+* static and dynamic analysis
+* abstract interpretation
+* analysis methods for dependable systems
+* software certification and proof carrying code
+* fault diagnosis and debugging
+* verification and validation of large scale software systems
+* real world applications and case studies applying software testing
+and verification
+* benchmarks and data sets for software testing and verification
+
+Submission Guidelines
+=====================
+
+Paper submissions must be original, unpublished work. Author(s) name(s) and
+address(es) must not appear in the body of the paper, and self-reference
+should
+be avoided and made in the third person. Submitted paper will undergo a blind
+review process. Authors of accepted papers should submit an editorial revision
+of their papers that fits within eight two-column pages (an extra two pages,
+to
+a total of ten pages, may be available at a charge). Please comply to this
+page
+limitation already at submission time. Accepted papers will be published in
+the
+ACM SAC 2019 proceedings.
+
+Paper registration is required, allowing the inclusion of papers, posters, or
+SRC abstracts in the conference proceedings. An author or a proxy attending
+SAC
+MUST present the work. This is a requirement for the presented work to be
+included in the ACM/IEEE digital library. No-show of registered papers,
+posters,
+and SRC abstracts will result in excluding them from the ACM/IEEE digital
+library.
+
+After the Symposium we will organize a special issue of the Software Quality
+Journal (SQJ) on the topics of SVT.
+
+Student Travel Award
+====================
+
+The SIGAPP Student Travel Award Program (STAP) was established to provide
+financial support for SIGAPP student members to attend SIGAPP primary
+conference
+(SAC) to present their accepted work. Student primary authors and co-authors
+are
+eligible to apply for these awards. For details please see:
+https://www.sigapp.org/stawards.html
+
+Student Research Competition
+============================
+
+As previous editions, SAC 2019 organises a Student Research Competition (SRC)
+Program to provide graduate students the opportunity to meet and exchange
+ideas
+with researchers and practitioners in their areas of interest. Guidelines and
+information about the SRC program can be found at
+http://www.sigapp.org/sac/sac2019/.
+
+Program Committee Chairs
+========================
+
+Leonardo Mariani, University of Milano Bicocca
+Matthias Güdemann, Diffblue Ltd.
+
+Program Committee
+=================
+
+ Marcelo d’Amorim, Universidade Federal de Pernambuco, Brazil
+ Sébastien Bardin, CEA, France
+ Ezio Bartocci, TU Vienna, Austria
+ Marius Bozga, CNRS, France
+ Radu Calinescu, University of York, UK
+ Christian Colombo, University of Malta, Malta
+ Lucas Cordeiro, University of Manchester, UK
+ Cristina David, University of Cambridge, UK
+ Giovanni Denaro, University of Milano Bicocca, Milano, Italy
+ Gidon Ernst, University of Melbourne, Australia
+ Yliès Falcone, Univ. Grenoble Alpes, Inria, France
+ Maria del Mar Gallardo,  University of Malaga, Spain
+ Sylvain Hallé, Université du Québec à Chicoutimi, Canada
+ Ralf Huuck, The University of New South Wales, Australia
+ Thierry Jéron, Inria, France
+ Nikolai Kosmatov, CEA, France
+ Maurizio Leotta, University of Genoa, Italy
+ Martin Leucker, University of Lübeck, Germany
+ Stefan Leue, University of Konstanz, Germany
+ Yves Le Traon, University of Luxembourg, Luxembourg
+ Leonardo Mariani, University of Milano Bicocca, Italy
+ Mercedes Merayo, Universidad Complutense de Madrid, Spain
+ Dejan Nickovic, Austrian Institute of Technology, Austria
+ Brian Nielsen, Aalborg University, Denmark
+ Peter Olveczky,  University of Oslo, Norway
+ Jun Pang, University of Luxembourg, Luxembourg
+ Mike Papadakis, University of Luxembourg, Luxembourg
+ Antoine Rollet, Bordeaux INP, LaBRI, France
+ Gwen Salaün, Univ. Grenoble Alpes, Inria, France
+ Julien Signoles, CEA, France
+ Marjan Sirjani, Malardalen University, Sweden
+ Neil Walkinshaw, University of Leicester, UK
+ Anton Wijs, Technische Universiteit Eindhoven, Netherlands
+ Rongxin Wu, Hong Kong University of Science and Technology, Hong Kong
+ Nina Yevtushenko, Tomsk State University, Russia
+ Cemal Yilmaz, Sabanci University, Turkey
+ Fatiha Zaïdi, University of Paris-Sud, France
+ Gianluigi Zavattaro, University of Bologne, Italy

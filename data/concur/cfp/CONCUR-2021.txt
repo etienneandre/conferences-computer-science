@@ -1,0 +1,119 @@
+Call For Papers for CONCUR 2021
+
+The purpose of CONCUR 2021, the 32nd International Conference on Concurrency Theory, is to bring together researchers, developers, and students in order to advance the theory of concurrency, and promote its applications.
+
+Due the pandemic situation, the organization committee decided that the conference will take place online as last year's CONCUR: the talks will be pre-recorded and then streamed on Zoom. The participants will be able to ask questions on Slack, and the speakers will answer them live during the online Zoom session.
+
+Should the situation improve, and allow some international travel, we will be able to cater for a few people that would like to meet in person in Paris.
+
+Invited Speakers:
+Patricia Bouyer-Decitre, ENS Paris Saclay
+Davide Sangiorgi, University of Bologna
+Boudewijn Haverkort, Tilburg University (Joint with QEST)
+
+
+Co-located conferences
+18th International Conference on Quantitative Evaluation of SysTems (QEST 2021)
+19th International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS 2021)
+26th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2021)
+
+Website:
+
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fqonfest2021.lacl.fr%2F&amp;data=04%7C01%7C%7Ccb50510657e64a4ffb2f08d8c8fa5462%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C637480324770991818%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=QeQbcVo4WVF5JGtQdmA85hm3Z8%2FsXfCGxNeCfd72KSo%3D&amp;reserved=0
+
+--------------------------------------------
+
+IMPORTANT DATES (All dates are AoE).
+
+Abstract submission: April 23, 2021
+Paper submission: April 30, 2021
+Notification: June 23, 2021
+Camera ready copy: July 9, 2021
+Conference: August 23rd-August 27th, 2021
+
+TOPICS
+Submissions are solicited in semantics, logics, verification and analysis of concurrent systems. The principal topics include (but are not limited to):
+
+Basic models of concurrency such as abstract machines, domain-theoretic models, game-theoretic models, process algebras, graph transformation systems, Petri nets, hybrid systems, mobile and collaborative systems, probabilistic systems, real-time systems, biology-inspired systems, and synchronous systems;
+
+Logics for concurrency such as modal logics, probabilistic and stochastic logics, temporal logics, and resource logics;
+
+Verification and analysis techniques for concurrent systems such as abstract interpretation, atomicity checking, model checking, race detection, pre-order and equivalence checking, run-time verification, state-space exploration, static analysis, synthesis, testing, theorem proving, type systems, and security analysis;
+
+Distributed algorithms and data structures: design, analysis, complexity, correctness, fault tolerance, reliability, availability, consistency, self-organization, self-stabilization, protocols;
+
+Theoretical foundations of architectures, execution environments, and software development for concurrent systems such as geo-replicated systems, communication networks, multiprocessor and multi-core architectures, shared and transactional memory, resource management and awareness, compilers and tools for concurrent programming, programming models such as component-based, object- and service-oriented.
+
+PAPER SUBMISSION
+CONCUR 2021 solicits high quality papers reporting research results and/or experience related to the topics mentioned below. All papers must be original, unpublished, and not submitted for publication elsewhere.
+
+Each paper will undergo a thorough review process. The paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee.
+
+The CONCUR 2021 proceedings will be published by LIPIcs.
+
+Papers must be submitted electronically as PDF files via EasyChair.
+
+Papers must not exceed 14 pages (excluding references and clearly marked appendices) using the LIPIcs style
+
+SPECIAL ISSUE
+A special issue dedicated to selected papers from CONCUR 2021 will appear in Logical Methods in Computer Science.
+
+TEST OF TIME AWARDS
+Last year, the first CONCUR Test-of-Time awards were given. In 2021, the jury of the Test-of-Time award will consist of Rob van Glabbeek (chair), Luca de Alfaro, Nathalie Bertrand, Catuscia Palamidessi, and Nobuko Yoshida. The winners will be announced at the conference.
+
+----------------------------------------------------------------
+
+ORGANIZATION COMMITTEE
+Program Co-chairs:
+    Serge Haddad, LSV, ENS Paris Saclay
+    Daniele Varacca, LACL, University of Paris Est, Créteil
+
+Workshops Chair: Vadim Malvone, Telecom Paris
+
+Webmaster: Stefan Schwoon, LSV, ENS Paris Saclay
+
+QONFEST General Chair: Benoît Barbot, LACL, University of Paris Est Créteil
+
+PROGRAM COMMITTEE:
+Adrian Francalanza (University of Malta)
+Alexey Gotsman (IMDEA Software Institute, Madrid, Spain)
+Ashutosh Trivedi (University of Colorado Boulder, USA)
+Bartek Klin (Warsaw University, Poland)
+Bernardo Toninho (NOVA University of Lisbon, Portugal)
+Bernd Finkbeiner (CISPA Helmholtz Center for Information Security, Germany)
+Christel Baier (Technical University of Dresden, Germany)
+C. Aiswarya (Chennai Mathematical Institute, India)
+Daniela Petrisan (University of Paris, France)
+Emmanuel Filiot (Université libre de Bruxelles & FNRS, Belgium)
+Franck van Breugel (York University, Toronto, Canada)
+Guy Avni (University of Haifa, Israel)
+Hugo Gimbert (CNRS and University of Bordeaux, France)
+Jaco van de Pol (Aarhus University, Denmark)
+Jan Křetínský (Technical University of Munich, Germany)
+Karin Quaas (University of Leipzig, Germany)
+Mariangiola Dezani-Ciancaglini (University of Turin, Italy)
+Marielle Stoelinga (University of Twente, Netherlands)
+Mohamed Faouzi Atig (Uppsala University, Sweden)
+Nobuko Yoshida (Imperial College London, UK)
+Orna Kupferman (Hebrew University of Jerusalem, Israel)
+Paolo Baldan (University of Padova, Italy)
+Paul Brunet (University College London, UK)
+Pawel Sobocinski (Taltech Tallinn, Estonia)
+Pedro D'Argenio (National University of Cordoba, Argentina)
+Petr Jancar (Palacký University Olomouc, Czech Republic)
+Ranko Lazic (University of Warwick, UK)
+Roland Meyer (Technical University of Braunschweig, Germany)
+S. Akshay (IIT Bombay, India)
+S. Krishna (IIT Bombay, India)
+Thomas Hildebrandt (University of Copenhagen, Denmark)
+Véronique Bruyère (University of Mons, Belgium)
+Yuxin Deng (East China Normal University, China)
+
+STEERING COMMITTEE:
+Javier Esparza, TU München, Germany, chair
+Pedro D’Argenio, National University of Cordoba, Argentina
+Wan Fokkink, Vrije Universiteit Amsterdam, The Netherlands
+Joost-Pieter Katoen, RWTH, Germany
+Catuscia Palamidessi, INRIA and Ecole Polytechnique, France
+Davide Sangiorgi, University of Bologna, Italy
+Jiri Srba, Aalborg University, Denmark

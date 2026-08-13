@@ -28,3 +28,11 @@ award = "We are considering awards for best papers and best artifacts."
 [extra]
 journal = "We are working on a special issue in a Q1 journal. A selection of the best papers will be invited to submit an extended version of their work to a special issue in an internationally recognized journal."
 colocated = "Part of CONFEST 2026"
+
+[[cfp]]
+file = "cfp/QESTFORMATS-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/QESTFORMATS-2026-extended.txt"
+stage = "extended"

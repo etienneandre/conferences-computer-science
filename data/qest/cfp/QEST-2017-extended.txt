@@ -1,0 +1,113 @@
+
+International Conference on Quantitative Evaluation of SysTems (QEST 2017)
+Berlin, September 5-7 2017 | http://www.qest.org/qest2017/call-for-papers.html
+Co-located with CONCUR, EPEW and Formats
+
+Keynotes
+Hongseok Yang, University of Oxford, UK (joint with Concur)
+Romualdo Pastor-Satorras, Universitat Politècnica de Catalunya, SP
+Morten Bisgaard, Gomspace, DK (joint with Formats)
+
+
+Scope and Topics
+The International Conference on Quantitative Evaluation of SysTems (QEST) is the leading forum on quantitative evaluation and verification of computer systems and networks. Areas of interest include quantitative specification methods, stochastic models, and metrics for performance, reliability, safety, correctness, and security. QEST is interested in both theoretical and experimental research. QEST welcomes a diversity of modeling formalisms, programming languages and methodologies that incorporate quantitative aspects such as probabilities, approximations and other quantitative aspects. Papers may advance empirical, simulation and analytic methods. Of particular interest are case studies that highlight the role of quantitative specification, modeling and evaluation in the design of systems. Systems of interest include computer hardware and software architectures, commu nication systems, cyber-physical systems, infrastructural systems, and biological systems. Papers that describe novel tools to support the practical application of research results in all of the above areas are also welcome.
+
+Special Sessions
+To encourage submissions of papers in frontier topics, submissions in selected areas are encouraged. Paper submitted to special sessions will be treated as regular submitted papers, they will be peer reviewed,  and subject to the same quality requirements. A special session with accepted papers on the selected topics will be organised during the conference. This year selected topics are:
+
+Smart Energy Systems over the Cloud
+We solicit contributions dealing with quantitative analysis, verification, and performance evaluation of models of networks of smart devices interconnected physically and ov er the cloud, and in particular within the technological context of smart energy, dealing with smart buildings, the smart grid, or with modern power networks. Instances of problems of interest are energy management in smart buildings, demand response over smart grids, or frequency control over power networks. We are interested in configurations related to cyber-physical systems, of systems of systems, and of the Internet of things, and on models encompassing continuous and digital components, and uncertainty (either environmental, adversarial, or probabilistic).  
+
+
+Machine Learning and Formal Methods
+We call for contributions on the fusion of formal methods and machine learning techniques. In particular, we are interested in the use of machine learning approaches, such as reinforcement learning, learning automata, decision trees, gradient based methods, etc. in (statis tical) model checking, controller synthesis, program analysis and synthesis, timed systems, compositional verification, etc. The
+main aim is to disseminate learning based techniques that have potential of improving theory and practice of formal methods.
+
+
+Awards: A best paper award and a best student paper award will be selected by the PC, and will receive a prize funded by Springer.
+
+
+SPECIAL ISSUE: A selection of the best papers presented at QEST 2017 will be invited to submit an extended version of their paper for a Special Issue that will appear in the ACM Transactions of Modelling and Computer Simulation.
+ 
+
+
+Important Dates
+Abstract submission:	     3  April 2017
+Paper and tool submission:  9 April 2017 (anywhere on earth)
+Author notification:	             29 May 2017
+Final version due:	             23 June 2017
+
+
+Submissions
+All submitted papers will be evaluated by at least three reviewers on the basis of their originality, technical quality, scientific or practical contribution to the state of the art, methodology, clarity, and adequacy of references.
+
+QEST considers five types of papers:
+* Theoretical: advance our understanding, apply to non-trivial problems and be mathematically rigorous.
+
+* Methodological and technical: describe situations that require the development and proposal of new analysis processes and techniques.
+
+* Application: describes a novel application, and compares with previous results.
+
+* Tools: should motivate the development of the new tools and the formalisms they support, with a focus on the software architecture and practical capabilities.
+
+* Tool demonstration: describe a relevant tool, as well as its features, evaluation, or any other information that may demonstrate the merits of the tool.
+
+Submissions must be prepared in LaTeX, following Springer's LNCS guidelines. Submitted papers should not exceed 16 pages (4 pages for tool demonstrations). Papers must be unpublished and not be submitted for publication elsewhere.
+Authors of tool papers (both regular and demonstration) must make their tools and input data available to reviewers; reproducibility of results will be taken into account during the evaluation process, and the conference will include a demo session. Authors should present use cases, distinctive features, and computational/memory requirements through motivating examples. Theoretical background need not be presented in demonstration papers; concrete improvements are required for existing tools. 
+Papers should be submitted electronically using the EasyChair online submission system:https://easychair.org/conferences/?conf=qest2017
+
+All accepted papers (including tool demonstrations) must be presented at the conference by one of the authors. The QEST 2017 proceedings will be published by Springer in the LNCS Series and indexed by ISI Web of Science, Scopus, ACM Digital Library, dblp, Google Scholar.
+
+
+Read the complete call for papers at htt p://qest.org/qest2017/call-for-papers.html
+
+
+General Chair	
+Katinka Wolter (FU Berlin, Germany)
+
+PC co-chairs	
+Nathalie Bertrand (INRIA Rennes Bretagne-Atlantique, France)
+Luca Bortolussi (University of Trieste, Italy)
+
+Tools Chair	
+Marco Paolieri (University of Southern California, US)
+
+Publicity Chairs
+Ezio Bartocci (TU Wien, AT)
+Antonio Filieri (Imperial College London, UK)
+
+
+Program Committee
+Alessandro Abate, University of Oxford, UK
+Erika Abraham, RWTH Aachen University, DE
+Gul Agha, University of Illinois, USA
+Nail Akar, Bilkent University, TR
+Varsha Apte, IIT Bombay, IN
+Ezio Bartocci, TU Wien, AT
+Tomáš Brázdil, Masaryk University, CZ
+Ana Bušic, INRIA Paris, FR
+Giuliano Casale, Imperial College London, UK
+Florin Ciucu, University of Warwick, UK
+Andres Ferragut, Universidad ORT, UR
+Antonio Filieri, Imperial College London, UK
+Jane Hillston, University of Edinburgh, UK
+András Horváth, University of Torino, IT
+Kausthub Joshi, AT&T Labs, USA
+William Knottenbelt, Imperial College London, UK
+Jan Křetínsk ý, TU Munich, DE
+Boris Köpf, IMDEA Software Institute, ES
+Fumio Machida, NEC Japan, JP
+Paulo Maciel, Universidade Federal de Pernambuco, BRA
+Andrea Marin, University of Venezia, IT
+Annabelle McIver, Macquarie University, AUS 
+Sasa Misailovic, University of Illinois at Urbana-Champaign, USA
+Sayan Mitra, University of Illinois at Urbana-Champaign, USA
+Gethin Norman, University of Glasgow, UK 
+Pavithra Prabhakar, Kansas State University, USA
+Guido Sanguinetti, University of Edinburgh, UK 
+Miklós Telek, Technical University of Budapest, HU
+Benny Van Houdt, University of Antwerp, BE 
+Enrico Vicario, University of Florence, IT
+Carey Williamson, University of Calgary, CA 
+Hu aming Wu, Tianjin University, PRC
+Lijun Zhang, Chinese Academy of Science, PRC 

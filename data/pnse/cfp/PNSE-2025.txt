@@ -1,0 +1,136 @@
+Call for Papers
+
+	International Workshop on Petri Nets and Software Engineering
+	PNSE’25, Paris, France, June 23-24, 2025
+	http://www.pnse.de
+
+	PNSE’25 is a satellite event of PETRI NETS’25
+	https://petrinets25.github.io/web/
+
+
+Scope
+
+For the successful realisation of complex systems of interacting and
+reactive software and hardware components the use of a precise language at
+different stages of the development process is of crucial importance.
+
+Petri nets are becoming increasingly popular in this area, as they provide
+a uniform language supporting the tasks of modelling, validation, and
+verification.
+
+We welcome contributions describing original research in topics related to
+Petri nets in combination with software engineering, addressing open problems
+or presenting new ideas regarding the relation of Petri nets and software
+engineering. Furthermore, we look for surveys addressing open problems and new
+applications of Petri nets and for Petri nets.
+
+
+
+                              Important Dates:
+
+Deadline for full papers:			28	March	2025
+Deadline for short papers:		28	March	2025
+Notification of paper acceptance:	21	April	 	2025
+Deadline for posters:			25	April		2025
+Notification of poster acceptance:	30	April		2025
+Deadline for final revisions:		4	May		2025
+
+
+
+                                    Topics
+
+Topics of interest include (but are not limited to):
+
+ - Software Engineering
+    agile development
+    product lines
+    software in business contexts
+    software development and production environments; DevOps; IDEs; continuous integration
+    programming and concurrency
+    technologies: hadoop / MapReduce; akka, Spark; Flink; STORM etc.
+    distributed database technology: redis; cassandra; CouchDB; mongoDB etc.
+    concepts for mobility, concurrency, non-determinism, distribution, embedding, flexibility
+    social concepts for norms, rules, contracts, communication, co-ordination, co-operation
+    software engineering addressing Petri nets, UML techniques, BPMN, BPEL, eEPCs, CMMN and other modelling techniques
+
+ - Modelling
+    representation of formal models by intuitive modelling concepts
+    guidelines for the construction of system models
+    adaption, integration, and enhancement of concepts from other disciplines
+    views and abstractions of systems
+    meta-modelling and domain specific languages (DSLs)
+    model-driven architecture
+    modelling software landscapes
+    web service-based software development
+
+ - Validation and Execution
+    prototyping
+    simulation, observation, animation
+    code generation and execution
+    testing and debugging
+    efficient implementation
+
+ - Verification
+    structural methods (e.g. place invariants, reduction rules)
+    results for structural subclasses of nets
+    state space based approaches
+    efficient model checking
+    assertional and deductive methods (e.g. temporal logics)
+    process algebraic methods
+    model and graph transformation
+    applications of category theory, rewriting logic and linear logic
+
+ - Application of Petri nets and Software Engineering, in particular in the domains of …
+    education, training and teaching at any level,
+    flexible manufacturing,
+    logistics,
+    telecommunication,
+    big data,
+    cyber-physical systems,
+    internet-of-things,
+    grid and cloud computing,
+    distributed systems,
+    workflow management and
+    embedded systems.
+
+ - Tools in the fields mentioned above
+
+
+
+                               Submissions
+
+The program committee invites submissions of full contributions (up to
+20 pages excluding references) or short contributions (5 - 8 pages
+excluding references). Ongoing work (up to 3 pages including references)
+can be presented in a special poster session.
+
+Papers must be submitted in electronic form (PDF) using the CEUR latex style:
+
+	http://ceur-ws.org/Vol-XXX/CEURART.zip
+
+Submissions should include title, authors' addresses, E-mail addresses,
+keywords and an abstract. For your submission please use the track
+"International Workshop on Petri Nets and Software Engineering 2025" at:
+
+	https://easychair.org/conferences/?conf=petrinets2025
+
+
+The papers will be peer reviewed. Accepted contributions will be
+included in the workshop proceedings, which will be available at the
+workshop and published online.
+
+The best papers from the workshop will be invited for publication in a volume of the
+journal sub-line of Lecture Notes in Computer Science entitled "Transactions on
+Petri Nets and Other Models of Concurrency" (ToPNoC). The papers are expected
+to be thoroughly revised and they will go through a totally new round of reviewing.
+
+
+
+			PC Chairs
+
+Michael Köhler-Bußmeier, University of Applied Science Hamburg, Germany
+Daniel Moldt, University of Hamburg, Germany
+Heiko Rölke, FH Graubünden, Austria
+
+
+In case of any problems please contact us by email: pnse25@easychair.org

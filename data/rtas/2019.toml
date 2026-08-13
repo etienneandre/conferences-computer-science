@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "Three tracks (Applications, RTOSs, Run-Time Software and Tools / Applied Methodologies and Foundations / Embedded Systems Design for Real-Time Applications). Part of the Cyber-Physical Systems Week. Firm deadline in 2016, 2017, 2018. Double-blind. Rebuttal: 3-7 December 2018"
+
+[[cfp]]
+file = "cfp/RTAS-2019.txt"
+stage = "initial"

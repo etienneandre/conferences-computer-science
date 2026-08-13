@@ -1,0 +1,123 @@
+**********************************************************************
+           Call for papers and exhibitions
+
+                  ERTS² 2018
+           Embedded Real Time Software and Systems
+           Jan 31st - Feb 2nd  2018, Toulouse - France
+
+               http://www.erts2018.org
+
+        Abstract submission Deadline: July 9th, 2017
+**********************************************************************
+
+The ERTS2 congress created by the late Jean-Claude Laprie in 2002 is a
+unique European cross sector event on Embedded Software and Systems, a
+platform for top-level scientists with representatives from
+universities, research centres, agencies and industries. The previous
+editions gathered more than 100 talks, 500 participants and 60
+exhibitors. ERTS2 is both:
+
+*    a conference with high level scientific and technical presentations,
+*    an exhibition forum covering a wide range of innovative
+    products and services, for improving direct relationship
+    between providers and users,
+*    a unique community spirit: knowledge sharing, unforgettable
+    moments and networking opportunities.
+
+The conference encourages submission of research contribution,
+research - industrial transfer, industrial feed backs on new
+technologies and position papers on major trends.  The ninth edition
+targets all the domains where embedded systems are crucial, such as
+especially, but not limited to, transportation (aeronautics,
+automotive, railway, subway, marine, unmanned vehicle, satellite and
+space exploration), telecommunications and wireless connectivity,
+Internet of Things (IoT), Industrial control, Defence, e-healthcare
+and home automation. This edition focuses on publications bringing
+innovative ideas cross-fertilizing intelligent transportation and IoT.
+
+            ------------------------------
+               CALL FOR PAPERS
+            ------------------------------
+
+Original, unpublished regular papers are solicited. Selection will be
+based firstly on the review of extended abstract (4 pages) followed by
+the review of the full paper (10 pages) for final acceptance. Accepted
+regular papers will be published in the proceedings and presented in
+an oral session at the conference (registration by at least one author
+is mandatory).  Short papers reporting on research work in progress
+are also solicited. Selection will be based on the review of the full
+short paper (4 pages). Each accepted short paper will be published in
+the proceedings and presented as poster at the conference
+(registration by at least one author is mandatory).
+
+Major domains of interest:
+* Critical Transportation Systems: Intelligent transportation system,
+  Vehicle automation, Autonomous and connected systems (including all
+  type of unmanned vehicle), Cyber physical systems, Innovative
+  specific architectures (including back end and big data
+  architecture), Mobile robotics, Cyber-security for mobile and
+  back-end systems.
+* Internet of Things (IoT): Smart devices, Smart grids, Smart
+  buildings, Predictable networking infrastructure, Low power devices,
+  New telecommunication interface, Specific architectures.
+* Digital Manufacturing: Smart factory, Plant digitalization,
+  Interoperability and integration of cyber physical systems, 3D
+  printing, Machine-to-machine communication and architecture, Digital
+  assistance and monitoring, Maintenance prediction.
+
+Major topics of interest:
+* Embedded computing platforms and networked systems: Distributed
+  architectures, Multi-core/ many- core platforms, FPGA, Embedded
+  network, Middleware, Virtualization, Service-oriented platforms,
+  Energy-aware management.
+* Processes, methods and tools: Agile techniques, Adaptive systems and
+  Artificial intelligence, Model- based system engineering, Virtual
+  engineering and simulation, Formal methods, Requirement engineering,
+  Product line engineering, New programming and verification
+  languages.
+* Dependability: Safety, Security, Quality of service, Fault
+  tolerance, Maintainability, Diagnostic generation, Monitoring,
+  Certification.
+* Human System Interaction: User interfaces for command and control
+  systems, Human error evaluation, User-centred design, Automation
+  design and Function allocation.
+
+
+            ------------------------------
+               IMPORTANT DATES
+            ------------------------------
+
+- Abstract submission (4 pages)     June 18th, 2017
+- Acceptance notification          Sept. 22th, 2017
+- Full paper for review (10 pages)  Oct. 27th, 2017
+- Final paper (short and regular)   Nov. 24th, 2017
+- Conference               Jan. 31th-Feb. 2nd, 2018
+
+
+            ------------------------------
+               ORGANISERS AND COMMITTES
+            ------------------------------
+
+* Organisers *
+-    3AF, the Society for Aeronautics and Space
+-    SEE, the Society for Electricity, Electronics, and Information
+     and Communication Technologies
+-    SIA, the French Automotive Engineers Society
+
+* General Chair *
+- Joseph Sifakis, Turing Award 2007, Verimag Laboratory
+- Alexandre Corjon, Alliance (Renault-Nissan) Global Vice President,
+  Electrics, Electronics and Systems
+
+
+* Programme Committee *
+Chair: Joseph Sifakis (EPFL)
+Coordinators: Jean-Paul Blanquart (Airbus Defence and Space), Marc
+Boyer (Onera), Philippe Cuenot (Continental Automotive), Hervé Delseny
+(Airbus), Christophe Grand (Onera), Claire Pagetti (Onera),
+Programme Committee:  Members are industrial and academic experts from
+more than ten countries. The list is available on the website.
+
+* Organising Committee Chairs *
+Francis Guimera (3AF), Christel Seguin (SEE), Louis Claude Vrignaud (SIA)
+The list of the Organizing Committee members is available on the website

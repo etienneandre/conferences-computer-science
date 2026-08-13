@@ -17,3 +17,7 @@ notification = [2024-09-06, 2024-09-23]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/SBMF-2024.txt"
+stage = "initial"

@@ -18,3 +18,11 @@ license = "free"
 
 [extra]
 notes = "Part of CPSWeek. The paper with the most promising benchmark results receives a prize of 500 Euros sponsored by Robert Bosch GmbH, Germany. The winner is preselected by the program committee and determined by an audience voting. Free of charge in 2017."
+
+[[cfp]]
+file = "cfp/ARCH-2019.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ARCH-2019.txt"
+stage = "initial"

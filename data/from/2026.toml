@@ -26,3 +26,7 @@ Authors of selected papers will be invited to submit an extended version to a jo
 probably the Journal of Logical and Algebraic Methods in Programming"""
 colocated = "Co-located with SYNASC 2026"
 notes = "7 male out of 7 invited speakers in 2026."
+
+[[cfp]]
+file = "cfp/FROM-2026.txt"
+stage = "initial"

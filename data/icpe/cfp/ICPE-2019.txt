@@ -1,0 +1,258 @@
+------------------------------------------------------------------------
+                          Call for Contributions
+------------------------------------------------------------------------
+                                ICPE 2019
+    10th ACM/SPEC International Conference on Performance Engineering
+            Sponsored by ACM SIGMETRICS, SIGSOFT, and SPEC RG
+                            Mumbai, India
+                           April 7-11, 2019
+
+                     Web: https://icpe2019.spec.org/
+                 Twitter: https://twitter.com/ICPEconf/
+------------------------------------------------------------------------
+IMPORTANT DATES
+
+Research and industrial/experience abstracts submission: Oct 13, 2018
+Research and industrial/experience papers submission:    Oct 15, 2018
+Research and industrial/experience paper notification:   Dec 07, 2018
+Camera-ready: Feb 15, 2019
+
+Artifact registration: Dec 14, 2018
+Artifact submission:  Dec 22, 2018
+Artifact notification: Feb 08, 2019
+
+Work-in-progress/vision papers submission:  Jan 11, 2019
+Work-in-progress/vision paper notification: Feb 8, 2019
+Camera-ready: Feb 22, 2019
+
+Poster/demo submission: Jan 14, 2019
+Poster/demo notification: Jan 28, 2019
+Camera-ready: Feb 15, 2019
+
+Workshop Proposals submission:   Oct 12, 2018
+Workshop Proposals Notification: Oct 29, 2018
+
+Tutorial proposals submission: Jan 14, 2019
+Tutorial proposals notification: Jan 28, 2019
+------------------------------------------------------------------------
+SCOPE AND TOPICS
+
+The International Conference on Performance Engineering (ICPE) is the leading international forum for presenting and discussing novel ideas, innovations, trends and experiences in the field of performance engineering. Modern systems, such as big data and machine learning environments,  data centers and cloud infrastructures, social networks, peer-to-peer, mobile and wireless systems, cyber-physical systems, the Internet of Things or more traditional ones such as web-based or real-time systems, rely increasingly on distributed and dynamic architectures and pose a challenge to their  end-to-end performance management.
+
+ICPE brings together researchers and practitioners to report state-of-the-art and in-progress research on performance engineering of software and systems, including performance measurement, modeling, benchmark design, and run-time performance management. The focus is both on classical metrics such as response time, throughput, resource utilization, and (energy) efficiency, as well as on the relationship of such metrics to other system properties including but not limited to scalability, elasticity, availability, reliability, cost, sustainability, security and privacy.
+
+This year's main theme is "performance engineering in the Artificial  Intelligence era."  We are looking for contributions that use AI techniques to enhance the performance modeling, estimation, and optimization of complex systems. At the same time we are looking for contributions that analyze and improve AI systems.
+
+Topics of interest include, but are not limited to:
+
+Performance modeling of software
+* Languages and ontologies
+* Methods and tools
+* Relationship/integration/tradeoffs with other QoS attributes
+* Analytical, simulation and statistical modeling methodologies
+* Machine learning and neural networks
+* Model validation and calibration techniques
+* Automatic model extraction
+* Performance modeling and analysis tools
+
+Performance and software development processes/paradigms
+* Software performance patterns and anti-patterns
+* Software/performance tool interoperability (models and data interchange formats)
+* Performance-oriented design, implementation and configuration
+management
+* Software Performance Engineering and Model-Driven Development
+* Gathering, interpreting and exploiting software performance
+annotations and data
+* System sizing and capacity planning techniques
+* (Model-driven) Performance requirements engineering
+* Relationship between performance and architecture
+* Collaboration of development and operation (DevOps) for performance
+* Performance and agile methods
+* Performance in Service-Oriented Architectures (SOA)
+* Performance of microservice architectures and containers
+* DevOps and Performance
+
+Performance measurement, monitoring and analysis
+* Performance measurement and monitoring techniques
+* Analysis of measured application performance data
+* Application tracing and profiling
+* Workload characterization techniques
+* Experimental design
+* Tools for performance testing, measurement, profiling and tuning
+
+Benchmarking
+* Performance metrics and benchmark suites
+* Benchmarking methodologies
+* Development of parameterizable, flexible benchmarks
+* Benchmark workloads and scenarios
+* Use of benchmarks in industry and academia
+
+Run-time performance management and adaptation
+* Machine learning and runtime performance decisions
+* Context modeling and analysis
+* Runtime model estimation
+* Use of models at run-time
+* Online performance prediction
+* Autonomic resource management
+* Utility-based optimization
+* Capacity management
+
+Power and performance, energy efficiency
+* Power consumption models and management techniques
+* Tradeoffs between performance and energy efficiency
+* Performance-driven resource and power management
+
+Performance modeling and evaluation in different environments and application domains
+* Web-based systems, e-business, Web services
+* Big data systems and data analytics
+* Deep-learning systems systems
+* Internet of Things
+* Social networks
+* Cyber-physical systems
+* Industrial Internet (Industry 4.0)
+* Blockchain
+* Virtualization and cloud computing
+* Autonomous/adaptive systems
+* Transaction-oriented systems
+* Communication networks
+* Parallel and distributed systems
+* Embedded systems
+* Multi-core systems
+* Cluster and grid computing environments
+* High performance computing
+* Event-based systems
+* Real-time and multimedia systems
+* Low-latency systems
+* Peer-to-peer, mobile and wireless systems
+
+All other topics related to performance of software and systems.
+------------------------------------------------------------------------
+SUBMISSION GUIDELINES
+
+Authors are invited to submit original, unpublished papers that are not being considered in any other  forum. A variety of contribution styles for papers is solicited including: basic and applied research papers for novel scientific insights, industrial and experience papers reporting on applying performance engineering or benchmarks in practice, and work-in-progress/vision papers for ongoing innovative work. Different acceptance criteria apply based on the expected content of the individual contribution types.
+
+Authors will be requested to self-classify their papers according to the provided topic areas when submitting their papers.
+
+Submissions to all tracks need to be uploaded to ICPE's submission system and conform to the ACM submission format. For detailed submission instructions, please visit: https://icpe2019.spec.org/tracks-and-submissions.html
+
+At least one author of each accepted paper is required to register at the full rate, attend the conference and present the paper. Presented papers will appear  in the ICPE 2019 conference proceedings that will be published by ACM and included in the ACM Digital Library.
+
+Authors of accepted research papers are invited to submit an artifact to the ACM/SPEC ICPE 2019 Artifact Track. If an artifact is accepted, it will receive one of the following badges in the text of the paper and in the ACM Digital Library:
+i. Artifacts Evaluated - Functional: The artifacts are complete, well-documented and allow to obtain the same results as the paper.
+ii. Artifacts Evaluated - Reusable: As above, but the artifacts are of such a high quality that they can be reused as is on other data sets, or for other purposes.
+iii. Artifacts Available: For artifacts made permanently available. This will only be awarded in conjunction with one of the Artifacts Evaluated badges.
+
+The highest quality papers, judged by multiple relevant factors, will be recognized with an award. Authors of selected papers will be invited to submit an extended version of their work to a journal.
+
+AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)
+------------------------------------------------------------------------
+PROGRAM COMMITTEE (RESEARCH PAPERS)
+
+Jose Nelson Amaral, University of Alberta, Canada
+Cristiana Amza, University of Toronto, Canada
+Alberto Avritzer, EsulabSolutions, Inc., USA
+Steffen Becker, University of Stuttgart, Germany
+Umesh Bellur, IIT Bombay, India
+Simona Bernardi, Universidad de Zaragoza, Spain
+Cor-Paul Bezemer, University of Alberta, Canada
+Andre Bondi, Software Performance and Scalability Consulting LLC, USA
+Radu Calinescu, University of York, UK
+Lucy Cherkasova, ARM Research, USA
+Vittorio Cortellessa, University of L’Aquila, Italy
+Vittoria De Nitto Personé, University of Rome Tor Vergata, Italy
+Tadashi Dohi, Hiroshima University, Japan
+Hamoun Ghanbari, Amazon, Canada
+Abel Gómez, Universitat Oberta de Catalunya, Spain
+Wilhelm Hasselbring, Kiel University, Germany
+André van Hoorn, University of Stuttgart, Germany
+Alexandru Iosup, Vrije Universiteit Amsterdam and TU Delft, The Netherlands
+Zhen Ming Jack Jiang, York University, Canada
+Evangelia Kalyvianaki, University of Cambridge, UK
+Hamzeh Khazaei, University of Alberta, Canada
+Samuel Kounev, University of Würzburg, Germany
+Anne Koziolek, Karlsruhe Institute of Technology, Germany
+Diwakar Krishnamurthy, University of Calgary, Canada
+Patrick P. C. Lee, The Chinese University of Hong Kong, Hong Kong
+Jim Zhanwen Li, AUSTRAC, Australia
+Yan Liu, Concordia University, Canada
+Catalina M. Lladó, Universitat Illes Balears, Spain
+Andrea Marin, University of Venice, Italy
+Stefano Marrone, Università degli Studi della Campania "Luigi Vanvitelli", Italy
+Daniel Menasce, George Mason University, USA
+Ningfang Mi, Northeastern University, USA
+Raffaela Mirandola, Politecnico di Milano, Italy
+John Murphy, University College Dublin, Ireland
+Juan F. Perez, Universidad del Rosario, Colombia
+Diego Perez-Palacin, Linnaeus University, Sweden
+Dorina Petriu, Carleton University, Canada
+Evgenia Smirni, College of William and Mary, USA
+Mark Stoodley, IBM, Canada
+Nigel Thomas, Newcastle University, UK
+Mirco Tribastone, IMT Institute for Advanced Studies Lucca, Italy
+Catia Trubiani, Gran Sasso Science Institute, Italy
+Petr Tuma, Charles University, Czech Republic
+Ana Lucia Varbanescu, University of Amsterdam, The Netherlands
+Enrico Vicario, University of Florence, Italy
+Murray Woodside, Carleton University, Canada
+Huaming Wu, Tianjin University, China
+Feng Yan, University of Nevada, Reno, USA
+Xiaoyun Zhu, Cloudera, USA
+------------------------------------------------------------------------
+ORGANIZING COMMITTEE
+
+General Chairs
+*Antinisca Di Marco, University of L'Aquila, Italy
+*Varsha Apte, IIT Bombay, India
+
+Research Program Chairs
+*Marin Litoiu, York University, Canada
+*José Merseguer, Universidad de Zaragoza, Spain
+
+Industry Program Chair
+*David Schmidt, HPE, USA
+
+Artifact Evaluation Chairs
+*Matthew Forshaw, Newcastle, UK
+*Meikel Poess, Oracle, USA
+
+Workshop Chairs
+*Davide Arcelli, University of L'Aquila, Italy
+*Elena Gómez-Martínez, Universidad Autónoma de Madrid, Spain
+
+Tutorials Chair
+*Radu Calinescu, University of York, UK
+*Enrico Vicario, University of Florence, Italy
+
+Posters and Demos Chair
+*Tadashi Dohi, Hiroshima University, Japan
+
+Work in Progress and Vision Track Chair
+*Huaming Wu, Tianjin University, China
+*Mirco Tribastone, IMT School for Advanced Studies Lucca, Italy
+
+Awards Chairs
+*André van Hoorn, University of Stuttgart, Germany
+*Tilmman Rabl, TU Berlin, Germany
+
+Finance Chair
+*Manoj Nambiar, TCS Research, India
+
+Publications Chair
+*Philipp Leitner, University of Gothenburg, Sweden
+
+Publicity Chair
+*Abhay Pendse, Persistent Systems, India
+*Ana Lucia Varbanescu, University of Amsterdam, Netherland
+*Nikolas Herbst, University of Würzburg, Germany
+
+Social Media Chair
+*Vipul Mathur, Peritus AI, India
+
+Web Site Chair
+*Joydeep Mukherjee, York University, Canada
+
+Registration Chair
+*Rupinder Virk, TCS, India
+
+Local Arrangements Chair
+*Shruti Kunde, TCS, India

@@ -25,3 +25,7 @@ submitted = 122
 
 [extra]
 notes = "Always in India. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016. Rebuttal: August 31st, September 1st 2021."
+
+[[cfp]]
+file = "cfp/FSTTCS-2021.txt"
+stage = "initial"

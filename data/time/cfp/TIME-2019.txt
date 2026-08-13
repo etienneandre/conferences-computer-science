@@ -1,0 +1,76 @@
+CALL FOR PAPERS
+------------------
+TIME 2019
+
+26th International Symposium on Temporal Representation and Reasoning
+
+Málaga (Spain), 16th-19th October 2019
+
+https://sites.google.com/unife.it/time-2019
+
+
+Aims and scope
+-----------------------------------------------
+Since 1994, the TIME International Symposium on Temporal Representation and Reasoning aims to bring together researchers in the area of temporal reasoning in Computer Science. TIME 2019 encompasses three tracks, but has a single program committee. The conference will span four days, and will be organized as a combination of technical paper presentations, keynote talks, and tutorials.
+
+Tracks:
+
+-Time in Artificial Intelligence
+-Temporal DataBases
+-Temporal Logic and Reasoning
+
+Following a long-standing tradition, submission topics include (but are no limited to):
+
+-Temporal aspects of agent- and policy-based systems
+-Spatial and temporal reasoning
+-Time in natural language processing
+-Spatio-temporal knowledge representation systems
+-Reasoning about actions and change
+-Planning and planning languages
+-Ontologies of time and space-time
+-Belief and uncertainty in temporal knowledge
+-Temporal learning and discovery
+-Temporal data models and query languages
+-Temporal query processing and indexing
+-Temporal data mining
+-Time series data management
+-Stream data management
+-Spatio-temporal data management, including moving objects
+-Data currency and expiration
+-Indeterminate and imprecise temporal data
+-Temporal constraints
+-Specification and verification of systems
+-Verification of web applications
+-Synthesis and execution
+-Model checking algorithms and implementations
+-Verification of infinite-state systems
+-Reasoning about transition systems
+-Temporal architectures
+
+Submission and publication
+---------------------------------
+TIME 2019 accepts submission in PDF format, not longer than 15 pages excluding references and appendix. The appendix is limited to 5 pages, and the reviewers may or may not taking it into account for their recommendation. Sumissions must be formatted following the LIPIcs instructions, and preferibly redacted in LaTex. Submissions are manged by EasyChair. TIME policy is single blind, so the names of the authors should not be hidden in the submitted draft. Members of the program commettee, excluding the co-chairs, are allowed to submit. Submitted papers will be refereed for quality, correctness, originality, and relevance to the conference. Submissions to TIME 2019 must be original, and parallel submissions of the same material to other conferences or journals is not allowed. Accepted papers will be presented at the symposium and included in the proceedings, which will be published by LIPIcs-Leibniz International Proceedings in Informatics, which is a series of high-quality peer-reviewed conference proceedings, and published according to the principle of OpenAccess. At least one author of each accepted paper must register at the conference and present the paper. Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of a high quality journal to be yet decided.
+
+
+Important Dates
+--------------------
+Papers due: June 7th, 2019
+Notification: August 16th, 2019
+Early bird inscription deadeline: September 16th, 2019
+Symposium: October 16th-19th, 2019
+
+
+Program Committee Chairs
+----------------------------
+Guido Sciavicco, University of Ferrara
+Johann Gamper, Free University of Bolzano-Bozen
+Sophie Pichinat, University of Rennes 1   
+   
+Invited Speakers
+--------------------
+TBA
+
+
+Venue
+--------------------
+TIME 2019 will take place in Màlaga, Andalucia, Spain

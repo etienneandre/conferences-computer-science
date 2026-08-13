@@ -25,3 +25,7 @@ artifact = "Optional artifact evaluation, mandatory for tool papers"
 
 [extra]
 colocated = "Co-located with ETAPS 2025"
+
+[[cfp]]
+file = "cfp/SPIN-2025.txt"
+stage = "initial"

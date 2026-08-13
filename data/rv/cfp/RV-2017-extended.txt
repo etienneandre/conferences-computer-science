@@ -1,0 +1,166 @@
+RV 2017
+
+*** DEADLINE EXTENSION: MAY 8 ***
+
+Call for Papers and Tutorials           
+
+          The 17th International Conference on Runtime Verification
+
+          September 13-16, Seattle, WA, USA
+
+http://rv2017.cs.manchester.ac.uk
+
+
+Runtime verification is concerned with the monitoring and analysis of the runtime behaviour of software and hardware systems. Runtime verification techniques are crucial for system correctness, reliability, and robustness; they provide an additional level of rigor and effectiveness compared to conventional testing, and are generally more practical than exhaustive formal verification. Runtime verification can be used prior to deployment, for testing, verification, and debugging purposes, and after deployment for ensuring reliability, safety, and security and for providing fault containment and recovery as well as online system repair. 
+
+Topics of interest to the conference include, but are not limited to:
+
+    specification languages
+    monitor construction techniques
+    program instrumentation
+    logging, recording, and replay
+    combination of static and dynamic analysis
+    specification mining and machine learning over runtime traces
+    monitoring techniques for concurrent and distributed systems
+    runtime checking of privacy and security policies
+    statistical model checking
+    metrics and statistical information gathering
+    program/system execution visualization
+    fault localization, containment, recovery and repair
+    integrated vehicle health management (IVHM)
+
+Application areas of runtime verification include cyber-physical systems, safety/mission-critical systems, enterprise and systems software, autonomous and reactive control systems, health management and diagnosis systems, and system security and privacy.
+
+We welcome contributions exploring the combination of runtime verification techniques with machine learning and static analysis. Whilst these are highlight topics, papers falling into these categories will not be treated differently from other contributions.
+
+An overview of previous RV conferences and earlier workshops can be found at: http://www.runtime-verification.org.
+
+RV 2017 will be held September 13-16 in Seattle, WA, USA. RV 2017 will feature a tutorial day (September 13), and three conference days (September 14-16).
+Important Dates
+
+Papers as well as tutorial proposals will follow the following timeline:
+
+    Abstract deadline: April 24, 2017 May 1, 2017 (Anywhere on Earth)
+    Paper and tutorial deadline: May 1, 2017 May 8, 2017 (Anywhere on Earth)
+    Tutorial notification: May 21, 2017
+    Paper notification: June 26, 2017
+    Camera-ready deadline: July 24, 2017
+    Conference: September 13-16, 2017
+
+Invited Speakers
+
+We are very pleased to confirm the following invited speakers for RV 2017:
+
+    Rodrigo Fonseca, Brown University, USA
+    Vlad Levin and Jakob Lichtenberg, Microsoft, USA
+    Andreas Zeller, Saarland University, Germany
+
+General Information on Submissions
+
+All papers and tutorials will appear in the conference proceedings in an LNCS volume. Submitted papers and tutorials must use the LNCS/Springer style detailed here:
+
+http://www.springer.de/comp/lncs/authors.html
+
+Papers must be original work and not be submitted for publication elsewhere. Papers must be written in English and submitted electronically (in PDF format) using the EasyChair submission page here:
+
+https://easychair.org/conferences/?conf=rv17
+
+The page limitations mentioned below include all text and figures, but exclude references. Additional details omitted due to space limitations may be included in a clearly marked appendix, that will be reviewed at the discretion of reviewers, but not included in the proceedings.
+
+At least one author of each accepted paper and tutorial must attend RV 2017 to present. 
+Paper Submissions
+
+There are three categories of papers which can be submitted: regular, short or tool papers. Papers in each category will be reviewed by at least 3 members of the Program Committee.
+
+    Regular Papers (up to 15 pages, not including references) should present original unpublished results. We welcome theoretical papers, system papers, papers describing domain-specific variants of RV, and case studies on runtime verification.
+    Short Papers (up to 6 pages, not including references) may present novel but not necessarily thoroughly worked out ideas, for example emerging runtime verification techniques and applications, or techniques and applications that establish relationships between runtime verification and other domains. 
+    Tool Demonstration Papers (up to 8 pages, not including references) should present a new tool, a new tool component, or novel extensions to existing tools supporting runtime verification. The paper must include information on tool availability, maturity, selected experimental results and it should provide a link to a website containing the theoretical background and user guide. Furthermore, we strongly encourage authors to make their tools and benchmarks available with their submission.
+
+The Program Committee of RV 2017 will give a best paper award, and a selection of accepted regular papers will be invited to appear in a special issue of the Springer Journal on Formal Methods in System Design.
+Tutorial Submissions
+
+Tutorials are two-to-three-hour presentations on a selected topic. Additionally, tutorial presenters will be offered to publish a paper of up to 20 pages in the LNCS conference proceedings, not including references.
+
+A proposal for a tutorial must contain the subject of the tutorial, a brief abstract, a proposed format and timelines (of different parts), a note on the relevance to RV, a note on previous similar tutorials (if applicable) and the differences to this incarnation, and a brief biography of the presenter. The proposal should not exceed 2 pages.
+
+RV-CuBES: A Workshop Replacement for the Competition
+
+The Runtime Verification Competition will not be running in 2017. In its place a Workshop is being organised to discuss the future of the competition and showcase existing Runtime Verification tools. Please see the relevant page on the conference website for details.
+
+
+Organization
+
+General Chair
+
+Klaus Havelund, NASA Jet Propulsion Laboratory, USA
+
+Program Chairs
+
+Shuvendu Lahiri, Microsoft Research, USA
+Giles Reger, University of Manchester, UK
+
+Finance Chair
+
+Oleg Sokolsky, University of Pennsylvania, USA
+
+Publicity Chair
+
+Ayoub Nouri, University Grenoble Alpes, France
+
+Local Organisation Chairs
+
+Grigory Fedyukovich, University of Washington, USA
+Rahul Kumar, Microsoft Research, USA
+
+Program Committee
+
+Wolfgang Ahrendt, Chalmers Univ. of Technology/Univ. of Gothenburg, Sweden
+Cyrille Artho, KTH Royal Institute of Technology, Sweden
+Howard Barringer, The University of Manchester, UK
+Ezio Bartocci, Vienna University of Technology, Austria
+Andreas Bauer, KUKA Systems, Germany
+Saddek Bensalem,  University of Grenoble Alpes/VERIMAG, France
+Eric Bodden, Paderborn University / Fraunhofer IEM, Germany
+Borzoo Bonakdarpour, McMaster University, Canada
+Christian Colombo, University of Malta, Malta
+Ylies Falcone, University Grenoble Alpes/Inria, France
+Grigory Fedyukovich, University of Washington, USA
+Lu Feng, University of Virginia, USA
+Patrice Godefroid, Microsoft Research, USA
+Jean Goubault-Larrecq, CNRS/ENS de Cachan, France
+Alex Groce, Northern Arizona University, USA
+Radu Grosu, Vienna University of Technology, Austria
+Sylvain Hallé, University of Québec at Chicoutimi, Canada
+Marieke Huisman, University of Twente, Netherlands
+Franjo Ivancic, Google, USA
+Bengt Jonsson, Uppsala University, Sweden
+Felix Klaedtke, NEC Europe Ltd., Germany
+Rahul Kumar, Microsoft Research, USA
+Kim Larsen, Aalborg University, Denmark
+Insup Lee, University of Pennsylvania, USA
+Axel Legay, Inria Rennes, France
+Martin Leucker, University of Lübeck, Germany
+Ben Livshits, Imperial College, UK
+David Lo, Singapore Management University, Singapore
+Francesco Logozzo, Facebook, USA
+Parthasarathy Madhusudan, University of Illinois at Urbana-Champaign, USA
+Leonardo Mariani, University of Milan Bicocca, Italy
+Madan Musuvathi, Microsoft Research, USA
+Ayoub Nouri, University of Grenoble Alpes, France
+Gordon Pace, University of Malta, Malta
+Doron Peled, Bar Ilan University, Israel
+Veselin Raychev, ETH Zurich, Switzerland
+Grigore Rosu, University of Illinois at Urbana-Champaign, USA
+Cesar Sanchez, IMDEA Software Institute, Spain
+Gerardo Schneider, Chalmers Univ. of Technology/Univ. of Gothenburg, Sweden
+Rahul Sharma, Microsoft Research, India
+Julien Signoles, CEA LIST, France
+Scott Smolka, Stony Brook University, USA
+Oleg Sokolsky, University of Pennsylvania, USA
+Bernhard Steffen, University of Dortmund, Germany
+Scott Stoller, Stony Brook University, USA
+Volker Stolz, Western Norway University of Applied Sciences, Norway
+Frits Vaandrager, Radboud University, Netherlands
+Neil Walkinshaw, University of Leicester, UK
+Chao Wang, University of Southern California, USA
+Eugen Zalinescu, Technische Universitat München, Germany

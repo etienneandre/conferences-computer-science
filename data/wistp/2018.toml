@@ -17,3 +17,7 @@ notification = [2018-11-05]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/WISTP-2018.txt"
+stage = "initial"

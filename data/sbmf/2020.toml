@@ -18,3 +18,7 @@ notification = [2020-08-31]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/SBMF-2020.txt"
+stage = "initial"

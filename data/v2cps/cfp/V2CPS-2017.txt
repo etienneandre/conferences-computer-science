@@ -1,0 +1,68 @@
+​Call for Submissions
+-----------------------------------------------------
+2nd International Workshop on
+Verification and Validation of Cyber-Physical Systems
+co-located with iFM 2017, 19 September 2017, Torino, Italy
+http://v2cps17.mpi-sws.org/
+
+Workshop on Verification and Validation of Cyber-Physical Systems is targeted at verification, validation, and synthesis methods related to different aspects of cyber-physical systems with an emphasis on non-functional properties initiated from the physical world. A cyber-physical system (CPS) is an integration of networked computational and physical processes with meaningful inter-effects; the former monitors, controls, and affects the latter, while the latter affects the decisions of the former.
+CPS have applications in a wide-range of systems spanning robotics, transportation, communication, infrastructure, energy, and manufacturing. The advanced capabilities of CPS require complex software and synthesis algorithms, which are hard to verify, i.e., to show that the system behaves as specified. In fact, most of the interesting problems in this area are undecidable. Thus, a major research activity is to discover algorithmically tractable abstractions describing the partial/overall behaviors of CPS while respecting key properties.
+The ultimate goal of this event is to bring together researchers and experts of the fields of formal methods, control theory, and CPS to cover the theme of this workshop, through verification, validation, and synthesis methods for different aspects of safe and secure cyber-physical systems.
+
+Topics of interest:
+We welcome extended abstracts and paper submissions for presentation on topics relating to verification, validation, and synthesis of cyber-physical systems as described above. Typical, but not exclusive, topics include:
+
+-- Modeling and simulation of CPS
+-- Monitoring and testing of CPS
+-- Formal Verification and Synthesis methods for CPS
+-- Security and Resiliency in CPS
+-- Dependability of CPS
+-- Hardware/Software co-design for CPS
+-- CPS and natural models of computation (quantum, biological, ...)
+-- Semantics of CPS
+-- Power/Energy/Temperature-Aware modeling and verification of CPS
+-- Approaches towards non-classic formal control methods in CPS
+-- CPS and fault-tolerance
+-- Resource management and processor scheduling
+
+Submission Guidelines:
+------------------------------------------------------
+
+Authors are invited to submit their papers in EPTCS proceedings format. Full papers should not exceed 15 pages. Short papers should not exceed 8 pages. All contributions will be evaluated by at least three reviewers, chosen by the Program Committee. All accepted papers will be included in the workshop proceedings, which will be published as a volume of the EPTCS series. Papers should be submitted via Easychair at:
+https://easychair.org/conferences/?conf=v2cps2017
+
+Important Dates:
+
+Submission deadline:          June 09, 2017
+Notification of acceptance:   July 09, 2017
+Camera ready version:        August 09, 2017
+Conference iFM 2016:         September 20-22, 2017
+Workshop V2CPS 2016:       September 19, 2017 
+Webpage of the workshop:   https://v2cps17.mpi-sws.org/
+
+Organizing Committee
+------------------------------------------------------
+Sadegh Soudjani, Max Planck Institute, Germany (PC chair)
+Ashutosh Trivedi, University of Colorado Boulder, USA (PC chair)
+
+Program Committee (tentative)
+------------------------------------------------------
+-- Houssam Abbas (University of Pennsylvania, USA)
+-- Ebrahim Ardeshir-Larijani (Institute for Research in Fundamental Sciences (IPM), IR)
+-- Franck Cassez (Macquarie University, Sydney, Australia)
+-- Milan Ceska (Brno University of Technology, Czech Republic)
+-- Gilles Geeraerts (Université libre de Bruxelles, Belgium)
+-- Taylor T. Johnson (Vanderbilt University, USA)
+-- Mehdi Kargahi (University of Tehran, IR)
+-- Mohammad Reza Mousavi (Halmstad University, Sweden)
+-- Pavithra Prabhakar (Kansas State University, USA)
+-- S. Ramesh (General Motors, USA)
+-- Mickael Randour (Université libre de Bruxelles, Belgium)
+-- Annalisa Scacchioli (Rutgers University, USA)
+-- Sven Schewe (University of Liverpool, UK)
+-- Anne-Kathrin Schmuck (Max Planck Institute for Software Systems, Germany)
+-- Krishna Shankarnarayanan (IIT Bombay, India)
+-- Oleg Sokolsky (University of Pennsylvania, USA)
+-- Jeremy Sproston (Università degli Studi di Torino, Italy)
+-- Dominik Wojtczak (University of Liverpool, UK)
+-- Majid Zamani (Technical University of Munich, Germany)​​

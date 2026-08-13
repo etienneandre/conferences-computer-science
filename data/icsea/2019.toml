@@ -19,3 +19,7 @@ license = "free-copy"
 
 [extra]
 notes = "More paper categories (poster, extended abstracts, presentations, demos, doctoral forum…). Authors of selected papers will be invited to submit extended versions to a IARIA Journal."
+
+[[cfp]]
+file = "cfp/ICSEA-2019.txt"
+stage = "initial"

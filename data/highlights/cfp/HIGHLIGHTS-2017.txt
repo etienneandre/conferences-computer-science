@@ -1,0 +1,65 @@
+
+
+The call for papers for Highlights of Logic, Games and Automata 2017 is
+found below.  Apologies for multiple postings.
+
+Best,
+
+Matthew Hague
+
+
+================================================================
+
+Highlights of Logic, Games and Automata (HIGHLIGHTS 2017)
+
+London, 12-15 SEPTEMBER 2017
+
+http://highlights-conference.org
+
+1st CALL FOR PRESENTATIONS
+
+================================================================
+
+HIGHLIGHTS 2017 is the fifth conference on Highlights of Logic, Games and Automata that  aims at integrating the community working in these fields. Papers from these areas are dispersed across many conferences, which makes them difficult to follow. A visit to the Highlights conference should offer a wide picture of the latest research in the field and a chance to meet everybody in the community, not just those who happen to publish in one particular proceedings volume. We encourage you to attend and present your best work, be it already published or not, at the Highlights conference.
+
+Representative areas include, but are not restricted to: logic and finite model theory, automata theory, games for logic and verification.
+
+The conference itself is three days long (Sept. 13-15) and it is preceded by the Highlights tutorial day (Sept. 12). The participation costs will be modest (with a discount for students and post-docs) and London is very easy to reach.
+
+The contributed talks are around ten minutes. Ideally, they let participants learn something new, and enable them to understand the objective/problem/question and the result, and to get an idea of the technique.
+
+The program will further offer three invited talks:
+
++ Mikolaj Bojanczyk: Recognisability equals MSO definability for
+graphs of bounded treewidth. 
++ Sanjay Jain: Quasi Polynomial and FPT algorithms for parity games
++ Hung Ngo: Shannon-type inequalities, submodular width, and disjunctive datalog
+
+two invited sessions, organised by 
++ Patricia Bouyer: Games played on graphs: quantitative games, games
+with multi-objectives, non-zero sum games 
++ Alexandra Silva: Model learning, automata and its applications
+
+and two tutorials:
++ Veronique Cortier: Verification of security protocols
++ Damien Pous: 	Coinduction up to and automata algorithms
+
+The submission deadline is
+
+*** JUNE 2, 2017***
+
+Notifications will be sent by June 12, 2017.
+Registration will be possible until August 7, 2017.
+
+You submit a proposal for a presentation, not a paper. Hence, submissions should have a single author, who is the speaker. Since we expect you to present your favorite result of the year, there should be at most one submission per speaker. The abstract, of 1-2 pages, may include a list of coauthors. There are no formal proceedings and we encourage submission of work presented elsewhere. Submissions are possible through  https://easychair.org/conferences/?conf=highlights17.
+
+The instructions and detailed information about Highlights 2017 are available at http://highlights-conference.org.
+
+================================================================
+
+
+_______________________________________________
+Concurrency mailing list
+Concurrency@listserver.tue.nl
+http://listserver.tue.nl/mailman/listinfo/concurrency
+

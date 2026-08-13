@@ -1,0 +1,180 @@
+# CALL FOR PAPERS
+
+SBMF 2025: 28th Brazilian Symposium on Formal Methods
+Recife - Pernambuco, Brazil, December 3-5, 2025
+Centro de Tecnologias Estratégicas do Nordeste - CETENE
+
+Conference website: http://sbmf2025.ufrpe.br/
+Submission link: https://easychair.org/conferences/?conf=sbmf2025
+
+## Dates
+
+- Paper registration deadline: August 1st, 2025
+- Paper submission deadline: August 8th, 2025
+- Acceptance notice: September 26th, 2025
+- Camera-ready: October 10th, 2025
+
+## About SBMF
+
+SBMF 2025 is the twenty-eighth in a series of events devoted to the
+development, dissemination, and use of formal methods for the construction
+of high-quality computational systems. It is now a well-established event
+with an international reputation. It regularly receives submissions and
+participants from all over the world.
+
+## Submission Guidelines
+
+We invite submissions of papers with a strong emphasis on formal methods,
+whether practical or theoretical, in the following categories:
+
+ - Regular papers (limit of 15 pages). Proofs of theoretical results that
+ do not fit the page limit may be provided in an appendix.
+
+ - Short papers (limit of 8 pages). Short papers include system
+ descriptions, user experiences, and case studies. We encourage authors to
+ make the data needed to reproduce their experiments available.
+
+The page limits exclude references and appendices.
+
+Contributions should not be simultaneously submitted for publication
+elsewhere. They should be written in English and prepared using Springer’s
+Lecture Notes in Computer Science (LNCS) format. Springer’s proceedings
+LaTeX templates are available in Overleaf. More information is available at
+the following link:
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+
+Papers should present unpublished and original work that has a clear
+contribution to the state-of-the-art on the theory and practice of formal
+methods. Papers will be judged by at least three reviewers based on
+originality, relevance, technical soundness, and presentation quality and
+should contain sound theoretical or practical results. Industry papers
+should emphasize the practical application of formal methods or report on
+open challenges.
+
+Submissions should be made via the following link:
+- https://easychair.org/conferences/?conf=sbmf2025
+
+## Scope and Topics
+
+SBMF aims to provide a venue for the presentation and discussion of
+high-quality work in formal methods. The topics include, but are not
+limited to, the following:
+
+ * Applications of formal methods to
+ - Software or hardware design
+ - Software or hardware development
+ - Software or hardware code generation
+ - Software or hardware testing
+ - Software maintenance, evolution and reuse
+ - Intelligent systems
+
+ * Specification and modeling languages
+ - Logic and semantics for specification and programming languages
+ - Formal methods for timed, real-time, hybrid, or safety-critical systems
+ - Formal methods for service-oriented, cloud-based, or cyber-physical
+systems
+
+ * Theoretical foundations
+ - Domain theory
+ - Term rewriting
+ - Computational models
+ - Type systems and category systems
+ - Computation complexity of methods and models
+ - Models of time, concurrency, security, and mobility
+
+ * Verification and validation
+ - Abstraction, modularization, and refinement techniques
+ - Static analysis
+ - Model checking
+ - Theorem proving
+ - Software certification
+ - Correctness by construction
+
+ * Experience reports
+ - Reports on teaching formal methods
+ - Reports on the industrial application of formal methods
+
+## Invited Speakers
+
+ - Marsha Chechik (University of Toronto, Canada)
+ - Augusto Sampaio (Universidade Federal de Pernambuco, Brazil)
+ - Hans Vangheluwe (University of Antwerp, Belgium)
+
+## Committees
+
+### General Chair
+
+ - Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)
+
+### Steering Committee
+
+ - Ciprian Teodorov (ENSTA Bretagne, France)
+ - Haniel Barbosa (Universidade Federal de Minas Gerais, Brazil)
+ - Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)
+ - Sidney Nogueira (Universidade Federal Rural de Pernambuco, Brazil)
+ - Vince Molnár (Budapest University of Technology and Economics, Hungary)
+ - Yoni Zohar (Bar-Ilan University, Israel)
+
+### Program Chairs
+
+ - Leopoldo Teixeira (Universidade Federal de Pernambuco, Brazil)
+ - Maurice ter Beek (CNR-ISTI, Italy)
+
+### Program Committee
+
+* Jefferson O. Andrade (Instituto Federal do Espírito Santo)
+* Luís Soares Barbosa (Universidade do Minho, INESC TEC and UNU-EGOV)
+* Haniel Barbosa (Universidade Federal de Minas Gerais)
+* Davide Basile (Formal Methods & Tools, ISTI-CNR)
+* Armin Biere (University of Freiburg)
+* Laura Bussi (Interdisciplinary Centre for Security, Reliability and Trust
+- Université du Luxembourg)
+* Sérgio Campos (Universidade Federal de Minas Gerais)
+* Gustavo Carvalho (Universidade Federal de Pernambuco)
+* Valentina Castiglioni (Eindhoven University of Technology)
+* Márcio Cornélio (Universidade Federal de Pernambuco)
+* Katalin Fazekas (TU Wien)
+* Mathias Fleury (University of Freiburg)
+* Rohit Gheyi (Universidade Federal de Campina Grande)
+* Ahmed Irfan (SRI International)
+* Juliano Iyoda (Universidade Federal de Pernambuco)
+* Thierry Lecomte (CLEARSY)
+* Michael Leuschel (University of Düsseldorf)
+* Lucas Lima (Universidade Federal Rural de Pernambuco)
+* Alberto Lluch Lafuente (Technical University of Denmark)
+* Alvaro Miyazawa (University of York)
+* Vince Molnár (Budapest University of Technology and Economics)
+* Alexandre Mota (Universidade Federal de Pernambuco)
+* Sidney Nogueira (Universidade Federal Rural de Pernambuco)
+* Marcel Oliveira (Universidade Federal do Rio Grande do Norte)
+* José Proença (CISTER & University of Porto)
+* Pedro Ribeiro (University of York)
+* Philipp Rümmer (University of Regensburg and Uppsala University)
+* Augusto Sampaio (Universidade Federal de Pernambuco)
+* Hans-Jörg Schurr (The University of Iowa)
+* Volker Stolz (Western Norway University of Applied Sciences)
+* Ciprian Teodorov (Ensta Bretagne - Lab-STICC MOCS)
+* Nils Timm (University of Pretoria)
+* Jim Woodcock (University of York)
+* Yoni Zohar (Bar-Ilan University)
+
+## Publication
+
+Accepted papers will be published, after the conference, in a volume of
+LNCS. The authors will be requested to complete and sign a
+consent-to-publish form. Every accepted paper MUST have at least one author
+registered in the symposium by the time the camera-ready copy is submitted.
+The registered author is also expected to attend the symposium and present
+the paper.
+
+**To be confirmed:** We plan to follow on last years' tradition of
+organizing
+a special issue of the Science of Computer Programming Journal (Elsevier)
+with selected and extended papers from the 28th Brazilian Symposium on
+Formal
+Methods (SBMF 2025).
+
+## Contact
+
+All questions about submissions should be emailed to sbmf2025 "@"
+easychair.org

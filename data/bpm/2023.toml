@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Pre-submission shepherding program for first-time submitters. Authors of selected papers will be invited to submit an extended version to special issues in Elsevier’s Information Systems (Tracks I and II) and in Springer’s Business & Information Systems Engineering (Track III)."
+
+[[cfp]]
+file = "cfp/BPM-2023.txt"
+stage = "initial"

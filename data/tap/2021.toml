@@ -25,3 +25,11 @@ submitted = 10
 
 [extra]
 notes = "Part of STAF 2021."
+
+[[cfp]]
+file = "cfp/TAP-2021.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TAP-2021-extended.txt"
+stage = "extended"

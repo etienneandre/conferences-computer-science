@@ -1,0 +1,36 @@
+==================================================================
+CALL FOR  PAPERS
+==================================================================
+15th IEEE International Conference on Software Testing, Verification, and Validation
+ICST 2022
+Valencia, Spain (*ONLINE*)
+April 4 to April13, 2022
+
+https://icst2022.vrain.upv.es/
+
+ICST invites submissions in all areas of software testing, verification, and validation.
+
+==================================================================
+Important Dates
+==================================================================
+
+Fri 10 Sep 2021 Workshops Proposal Submission Deadline
+
+Mon 20 Sep 2021 Abstracts Submission: Research/Industry/Test Tool papers
+
+Mon 27 Sep 2021 Full Paper Submission: Research/Industry/Test Tool papers
+
+Fri 17 Dec 2021 Tool Demos Full Paper Submission Deadline
+
+Sat 8 Jan 2022 Doctoral Symposium Submission Deadline
+
+Fri 4 Feb 2022 Poster Submission Deadline
+
+==================================================================
+Submission instructions
+==================================================================
+On the website: https://icst2022.vrain.upv.es/
+
+
+Regards,
+Tanja & Alessandra (general chairs)

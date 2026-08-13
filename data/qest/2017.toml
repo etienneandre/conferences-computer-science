@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Co-located with CONCUR. Accepted tool descriptions will appear in the conference proceedings. Selected papers will appear in a special issue of a journal."
+
+[[cfp]]
+file = "cfp/QEST-2017-extended.txt"
+stage = "extended"

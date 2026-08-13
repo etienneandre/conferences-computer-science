@@ -20,3 +20,7 @@ license = "free-copy"
 
 [extra]
 notes = "Co-located with Software Technologies: Applications and Foundations (STAF) 2019. A special issue with an extended version of the best papers from the conference will be published in the journal Science of Computer Programming (Elsevier). Merged into ECMFA from 2020 onwards."
+
+[[cfp]]
+file = "cfp/ICMT-2019.pdf"
+stage = "initial"

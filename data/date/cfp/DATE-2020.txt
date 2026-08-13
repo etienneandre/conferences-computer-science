@@ -1,0 +1,67 @@
+=================================================================
+DATE 2020 - Call for Papers
+09 - 13 March 2020, Grenoble, France
+
+Topic E3
+Model-Based Design, Verification and Security for Embedded Systems
+www.date-conference.com
+==================================================================
+
+For more details and submission instructions, please visit the DATE 2020 Website at www.date-conference.com.
+
+== Overview of DATE 2020
+
+The 23rd DATE conference and exhibition is the main European event bringing together designers and design automation users, researchers and vendors, as well as specialists in the hardware and software design, test and manufacturing of electronic circuits and systems. DATE puts a strong emphasis on both technology and systems, covering ICs/ SoCs, reconfigurable hardware and embedded systems, and embedded software.
+
+The five-day event consists of a conference with plenary invited papers, regular papers, panels, hot-topic sessions, tutorials and workshops, two special focus days and a track for executives. The scientific conference is complemented by a commercial exhibition showing the state-of-the-art in design and test tools, methodologies, IP and design services, reconfigurable and other hardware platforms, embedded software, and (industrial) design experiences from different application domains, e.g. automotive, IoT, wireless, telecom and multimedia applications. The organisation of user group meetings, fringe meetings, a university booth, a PhD forum, vendor presentations and social events offers a wide variety of extra opportunities to meet and exchange information on relevant issues for the design and test community. Special space will also be allocated for EU-funded projects to show their results.
+
+== Track E: Embedded and Cyber-Physical Systems
+
+The track is devoted to the modelling, analysis, design and deployment of embedded software or embedded/cyber-physical systems. Areas of interest include methods, tools, methodologies and development environments. Emphasis will also be on model-based design and verification, embedded software platforms, software compilation and integration, real-time systems, cyber-physical systems, networked systems, and dependable systems.
+
+== Topic E3: E3 Model-Based Design, Verification and Security for Embedded Systems
+
+The topic is devoted to verification techniques for embedded systems ranging from simulation, testing, model-checking, SAT and SMT-based reasoning, compositional analysis and analytical methods. Modeling, analysis and optimization of non-functional and performance aspects such as security, timing, memory usage, QoS and reliability. Model-based design of software architectures and deployment. Theories, languages and tools supporting model-based design flows covering software, control and physical components. Monitoring and run-time verification of embedded systems. Security attacks, protection and analysis of embedded systems' hardware and software.
+
+== Topic Members
+
+	• Todd Austin, University of Michigan, USA -- Topic co-chair
+	• Ezio Bartocci, TU Wien, AT
+	• Stéphanie Delaune, Univ Rennes, CNRS, IRISA, FR
+	• Yliès Falcone, Univ. Grenoble Alpes & Inria, FR -- Topic chair
+	• Radu Grosu, TU Wien, AT
+	• Mohamad Jaber, Google & American University of Beirut, CH & LB
+	• Laurent Mounier, Univ. Grenoble Alpes, FR
+
+== Important Dates
+
+	• Paper submission: 8 September 2019 at 23:59:59 CET
+	• Notification of acceptance: 7 November 2019 at 23:59:59 CET
+	• Camera-ready paper due date: 28 November 2019 at 23:59:59 CET
+
+== Sponsors
+
+The event is sponsored by the European Design and Automation Association, the Electronic System Design Alliance, the IEEE Council on Electronic Design Automation, the European Electronic Chips & Systems Design Initiative, the ACM Special Interest Group on Design Automation, and the Russian Academy of Sciences.
+In cooperation with IEEE Computer Society Test Technology Technical Council (TTTC),
+IEEE Solid-State Circuits Society (SSCS) and International Federation for Information Processing (IFIP).
+
+== Organization
+
+- Conference Organization - Conference Manager
+
+Eva Smejkal, K.I.T. Group GmbH Dresden, DE
+date@kitdresden.de
+phone: +49 351 4967-312
+fax: +49 351 4956116
+
+- General Chair
+
+Giorgio Di Natale, CNRS/TIMA, FR
+giorgio.di-natale@univ-grenoble-alpes.fr
+
+- Programme Chair
+
+Cristiana Bolchini, Politecnico di Milano, IT
+papers@date-conference.com
+
+To receive the DATE 2020 newsletter you may subscribe to the mailing list at the website: https://date20.date-conference.com/user/register/

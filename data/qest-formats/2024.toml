@@ -32,3 +32,12 @@ artifact = "Optional artifact evaluation."
 colocated = "Part of CONFEST 2024"
 journal = "A selection of the best papers (excluding work-in-progress papers) will be invited to submit an extended version of their work to special issues in the International Journal on Software Tools for Technology Transfer (STTT) and in the Performance Evaluation (PEVA) journals."
 notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020, 14+13 days in 2021, 14 days in 2022, 10 days in 2023, none in 2024."
+
+[[cfp]]
+file = "cfp/QESTFORMATS-2024.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/QESTFORMATS-2024-2.txt"
+stage = "initial"
+note = "revised"

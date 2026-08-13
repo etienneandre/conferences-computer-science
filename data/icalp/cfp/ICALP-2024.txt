@@ -1,0 +1,282 @@
+========================================================
+ICALP 2024 - First Call for Papers
+========================================================
+
+The 51st EATCS International Colloquium on Automata, Languages, and Programming
+(ICALP) will take place in:
+
+Tallinn, Estonia, July 8-12, 2024
+
+ICALP is the main conference and annual meeting of the European
+Association for Theoretical Computer Science (EATCS). As usual, ICALP will
+be preceded by a series of workshops, which will take place on July 7.
+
+The 2024 edition has the following features:
+
+- Submissions are anonymous and there is a rebuttal phase.
+- The conference is planned as a physical, in-person event.
+- ICALP 2024 is co-located with Logic in Computer Science (LICS) 2024 and
+Formal Structures for Computation and Deduction (FSCD) 2024.
+
+========================================================
+Important dates and information
+========================================================
+
+Submissions: February 14, 2024 (1pm CET)
+Rebuttal: March 26-29, 2024
+Author notification: April 14, 2024
+Camera-ready version: April 28, 2024
+Early registration: TBA
+Conference: July 8-12, 2024 (Workshops on July 7)
+
+Deadlines are firm; late submissions will not be considered.
+
+Conference website: https://compose.ioc.ee/icalp2024/
+
+
+========================================================
+Submission guidelines
+========================================================
+
+1) Papers must present original research on the theory of computer science.
+No prior publication and no simultaneous submission to other publication outlets
+(either a conference or a journal) is allowed. Authors are encouraged to also make
+full versions of their submissions freely accessible in an on-line repository such as
+ArXiv, HAL, ECCC.
+
+2) Submissions take the form of an extended abstract of no more than 15 pages,
+excluding references and a clearly labelled appendix. The appendix may consist
+either of omitted proofs or of a full version of the submission, and
+it will be read at the discretion of program committee members. The use of the
+LIPIcs document class is an option, but not required.
+The extended abstract has to present the merits of the paper and its main
+contributions clearly,  and describe the key concepts and technical ideas used
+to obtain the results.  Submissions must provide the proofs which can enable
+the main mathematical claims of the paper to be verified.
+
+3) Submissions are anonymous. The conference will employ a lightweight
+double-blind reviewing process. Submissions should not reveal the identity of the
+authors in any way. Authors should ensure that any references to their own related work
+are in the third person (e.g., not “We build on our previous work …” but rather
+“We build on the work of …”).
+
+The purpose of this double-blind process is to help PC members and external
+reviewers come to an initial judgment about the paper without bias, and not to make
+it impossible for them to discover who the authors are if they were
+to try. Nothing should be done in the name of anonymity that weakens the
+submission or makes the job of reviewing the paper more difficult. In particular,
+important references should not be omitted. In addition, authors should feel free to
+disseminate their ideas or draft versions of their paper as they normally would. For
+example, authors may post drafts of their papers on the web, submit them to
+arXiv, and give talks on their research ideas.
+
+4) Submissions authored or co-authored by members of the program committee are
+allowed.
+
+5) The submissions are done via Easychair to the appropriate track of the
+conference (see topics below). The use of pdflatex or similar pdf generating tools
+is mandatory and the page limit is strict (see point 2.) Papers that deviate significantly
+from these requirements risk rejection without  consideration of merit.
+
+6) During the rebuttal phase, authors will have from March 26-29, 2024 to view and
+respond to initial reviews. Further instructions will be sent to authors of submitted papers
+before that time.
+
+7) At least one author of each accepted paper is expected to register for the conference,
+and all talks are in-person. In exceptional cases, there may be support for remotely
+presenting a talk.
+
+8) Papers authored only by students should be marked as such upon submission in
+order to be eligible for the best student paper awards of the track.
+
+
+
+========================================================
+Awards
+========================================================
+
+During the conference, the following awards will be delivered:
+
+– the EATCS award,
+– the Gödel prize,
+– the Presburger award,
+– the EATCS distinguished dissertation award,
+– the best papers for Track A and Track B,
+– the best student papers for Track A and Track B.
+
+========================================================
+Proceedings
+========================================================
+
+ICALP proceedings are published in the Leibniz International Proceedings in
+Informatics (LIPIcs) series. This is a series of high-quality conference proceedings across all fields in
+informatics established in cooperation with Schloss Dagstuhl – Leibniz Center for Informatics.
+LIPIcs volumes are published according to the principle of Open Access, i.e., they are available
+online and free of charge. The accepted papers will need to comply with the LIPIcs style.
+
+========================================================
+Topics
+========================================================
+
+Papers presenting original research on all aspects of theoretical computer
+science are sought. Typical, but not exclusive, topics of interest are:
+
+Track A: Algorithms, Complexity and Games
+-----------------------------------------------------------
+
+Algorithmic and Complexity Aspects of Network Economics
+Algorithmic Aspects of Biological and Physical Systems
+Algorithmic Aspects of Networks and Networking
+Algorithmic Aspects of Security and Privacy
+Algorithmic Game Theory and Mechanism Design
+Approximation and Online Algorithms
+Combinatorial Optimization
+Combinatorics in Computer Science
+Computational Complexity
+Computational Geometry
+Computational Learning Theory
+Cryptography
+Data Structures
+Design and Analysis of Algorithms
+Distributed and Mobile Computing
+Foundations of Machine Learning
+Graph Mining and Network Analysis
+Parallel and External Memory Computing
+Parameterized Complexity
+Quantum Computing
+Randomness in Computation
+Sublinear Time and Streaming Algorithms
+Theoretical Foundations of Algorithmic Fairness
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+----------------------------------------------------------------------------------------
+
+Algebraic and Categorical Models of Computation
+Automata, Logic, and Games
+Database Theory, Constraint Satisfaction Problems, and Finite Model Theory
+Formal and Logical Aspects of Learning
+Formal and Logical Aspects of Security and Privacy
+Logic in Computer Science and Theorem Proving
+Models of Computation: Complexity and Computability
+Models of Concurrent, Distributed, and Mobile Systems
+Models of Reactive, Hybrid, and Stochastic Systems
+Principles and Semantics of Programming Languages
+Program Analysis, Verification, and Synthesis
+Type Systems and Typed Calculi
+
+========================================================
+ICALP 2024 Programme Committee
+========================================================
+
+Track A: Algorithms, Complexity and Games
+
+Nima Anari (Stanford University)
+Karl Bringmann (co-chair, Saarland University)
+Parinya Chalermsook (Aalto University)
+Vincent Cohen-Addad (Google Research)
+Jose Correa (Universidad de Chile)
+Holger Dell (Goethe University Frankfurt)
+Ilias Diakonikolas (University of Wisconsin-Madison)
+Yuval Filmus (Technion)
+Arnold Filtser (Bar Ilan University)
+Naveen Garg (IIT Delhi)
+Pawel Gawrychowski (University of Wrocław)
+Anupam Gupta (Carnegie Mellon University)
+Samuel Hopkins (MIT)
+Sophie Huiberts (Columbia University)
+Giuseppe Italiano (LUISS University)
+Michael Kapralov (EPFL)
+Eun Jung Kim (Université Paris-Dauphine)
+Sándor Kisfaludi-Bak (Aalto University)
+Tomasz Kociumaka (Max-Planck-Institute for Informatics)
+Fabian Kuhn (University of Freiburg)
+Amit Kumar (IIT Delhi)
+William Kuszmaul (Harvard University)
+Rasmus Kyng (ETH Zurich)
+Kasper Green Larsen (Aarhus University)
+François Le Gall (Nagoya University)
+Pasin Manurangsi (Google Research)
+Daniel Marx (CISPA Helmholtz Center for Information Security)
+Yannic Maus (TU Graz)
+Nicole Megow (University of Bremen)
+Ruta Mehta (University of Illinois at Urbana-Champaign)
+Jakob Nordström (University of Copenhagen)
+Richard Peng (University of Waterloo)
+Seth Pettie (University of Michigan)
+Adam Polak (Bocconi University)
+Lars Rohwedder (Maastricht University)
+Eva Rotenberg (DTU Compute)
+Sushant Sachdeva (University of Toronto)
+Melanie Schmidt (University of Cologne)
+Sebastian Siebertz (University of Bremen)
+Shay Solomon (Tel Aviv University)
+Nick Spooner (University of Warwick)
+Clifford Stein (Columbia University)
+Ola Svensson (co-chair, EPFL)
+Luca Trevisan (Bocconi University)
+Ali Vakilian (Toyota Technological Institute Chicago)
+Jan van den Brand (Georgia Tech)
+Erik Jan van Leeuwen (Utrecht University)
+Oren Weimann (University of Haifa)
+Nicole Wein (University of Michigan)
+Andreas Wiese (TU Munich)
+John Wright (UC Berkeley)
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+
+Arnold Beckmann (Swansea University)
+Manuel Bodirsky (TU Dresden)
+Patricia Bouyer (LMF Cachan)
+Yijia Chen (Shanghai Jiao Tong University)
+Victor Dalmau (Universitat Pompeu Fabra)
+Laurent Doyen (CNRS, LMF)
+Marcelo Fiore (Cambridge University)
+Stefan Göller (University of Kassel)
+Martin Grohe (RWTH Aachen University, chair)
+Sandra Kiefer (Oxford University)
+Aleks Kissinger (Oxford University)
+Bartek Klin (Oxford University)
+Antonin Kucera (Masaryk University Brno)
+Carsten Lutz (University of Leipzig)
+Jerzy Marcinkowski (University of Wrocław)
+Annabelle McIver (Macquaire University Sidney)
+Andrzej Murawski (Oxford University)
+Pawel Parys (University of Warsaw)
+Michał Pilipczuk (University of Warsaw)
+Joel Ouaknine (Max Planck Institute for Software Systems)
+Christian Riveros (Pontificia Universidad Catolica de Chile)
+Alexandra Silva (Cornell University)
+Balder ten Cate (ILLC Amsterdam)
+Szymon Toruńczyk (University of Warsaw)
+Igor Walukiewicz (CNRS, University of Bordeaux)
+Sarah Winter (IRIF, University Paris Cité)
+Georg Zetzsche (Max Planck Institute for Software Systems)
+Martin Ziegler (KAIST)
+
+
+
+========================================================
+ICALP 2024 Workshops
+========================================================
+
+The call and the selection of workshops will be done jointly with LICS. The
+first call will be issued in October.
+
+
+========================================================
+ICALP 2024 Proceedings Chair
+========================================================
+
+Gabriele Puppis (University of Udine, Italy)
+
+========================================================
+ICALP-LICS-FSCD 2024 Organizing Committee
+========================================================
+
+Pawel Sobocinski (Tallinn University of Technology) Conference Chair
+Niccolò Veltri (Tallinn University of Technology)
+Amar Hadzihasanovic (Tallinn University of Technology)
+Fosco Loregian (Tallinn University of Technology)
+Matt Earnshaw (Tallinn University of Technology)
+Diana Kessler (Tallinn University of Technology)
+Kristi Ainen (Tallinn University of Technology)

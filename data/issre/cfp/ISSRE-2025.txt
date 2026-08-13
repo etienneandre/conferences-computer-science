@@ -1,0 +1,248 @@
+==========
+ISSRE 2025
+==========
+
+October 21-24, 2025
+São Paulo, Brazil
+https://issre.net
+
+
+Scope
+=====
+
+ISSRE (International Symposium on Software Reliability Engineering) is
+the leading conference on software reliability and it focuses on
+approaches, techniques, and tools for assessing, predicting, and
+improving the reliability, safety, and security of software systems.
+
+IMPORTANT NOTE: ISSRE 2025 is introducing ***Early Decisions***.
+At the beginning of the author response period we will notify the
+authors with the following outcomes: "Accept" if reviewers do not
+require any clarification and are happy with the current state of the
+paper; "Reject" if the reviewers agree that the authors’ response is
+unlikely to alter their evaluation; "Response Recommended" if
+reviewers have explicit questions that clarify some aspects of the
+paper, and the decision Accept/Reject is postponed.
+
+
+Research Track
+==============
+
+The research track at ISSRE 2025 invites high-quality submissions of
+technical research papers describing original and unpublished results
+exploring new scientific ideas, contributing new evidence to
+established research directions, or reflecting on practical
+experience. Specifically, ISSRE solicits submissions in three
+categories: (1) full research regular (REG) papers, (2) practical
+experience reports (PER), and (3) tools and artefacts (TAR) papers.
+
+Papers will be assessed with criteria appropriate to each category.
+
+- **REG papers** should describe a novel contribution to the
+  reliability of software systems. Novelty should be argued via
+  concrete evidence and appropriate positioning within the state of
+  the art. REG papers are also expected to clearly explain the
+  validation process and its limitations.
+
+- **PER papers** should provide an in-depth exposition of practical
+  experiences ideally performed by a collaboration of researchers and
+  industry practitioners. The key contribution of these papers should
+  be lessons learned from the application of known research tools and
+  methods related to ISSRE topics, or new knowledge acquired through
+  empirical studies performed according to various research
+  methodologies. Negative results are welcome, e.g., discussing where
+  or why current research cannot be applied in an industrially
+  relevant context.
+
+- **TAR papers** should describe a new tool or artifact. Tool-focused
+  TAR papers must present either a new tool or novel and substantial
+  extensions to an existing tool. They should include a description of
+  (i) the theoretical foundations, (ii) the design and implementation
+  aspects, and (iii) experiments with realistic case studies. Making
+  the tool publicly available is strongly encouraged. Artifact-focused
+  TAR papers should cover (i) a working copy of the software and (ii)
+  experimental data sets.
+
+The ISSRE conference encourages authors of research papers to follow
+the principles of transparency, reproducibility, and replicability.
+Authors are encouraged to disclose data to increase reproducibility
+and replicability. Should the paper be accepted, the authors will have
+the opportunity (and are encouraged to) submit artifacts to the
+Artifact Evaluation (AE) track, to enhance the reproducibility and
+quality of your research. By submitting your artifacts, you not only
+contribute to the progress of our field but also stand a chance to
+earn badges that will be displayed on your papers in the conference
+proceedings, showcasing the credibility and rigor of your work.
+
+At least one author of every accepted paper is required to make a full
+author registration and present at the conference physically in São
+Paulo.
+
+
+Special Issue
+=============
+
+Authors of accepted papers will be invited to submit an extended
+version of their work to a special issue of the Empirical Software
+Engineering (EMSE) journal. The Call for Paper will be available soon.
+
+
+Important Deadlines
+===================
+(Anywhere on Earth)
+
+
+Abstract submission deadline: April 28th, 2025
+   Paper submission deadline: May 5th, 2025
+             Early decisions: June 30th, 2025
+      Author rebuttal period: June 30th-July 5th, 2025
+     Notification to authors: July 18th, 2025
+         Camera ready papers: August 19th, 2025
+
+
+Paper Categories
+================
+
+Submissions can be made in one of the following:
+
+- REG papers: 12 pages (including references).
+- PER papers: 12 pages (including references).
+- TAR papers: 6-10 pages (including references).
+
+Papers that exceed the number of pages for that submission category
+will be rejected without review.
+
+
+Topics of Interest
+==================
+
+Topics of interest include development, analysis methods and models
+throughout the software development lifecycle, and are not limited to:
+
+- Dependability attributes (i.e., security, safety, maintainability,
+  survivability, resilience, robustness) impacting software reliability
+- Reliability threats, i.e. faults (defects, bugs), errors, failures
+- Reliability means (fault prevention, fault removal, fault tolerance,
+  fault forecasting)
+- Software testing and formal methods
+- Software fault localization, debugging, root-cause analysis
+- Metrics, measurements and threat estimation for reliability
+  prediction and the interplay with safety/security
+- Reliability of autonomous systems and (self-)adaptive systems
+- Reliability of AI-based systems, AI for Reliability Engineering
+- Reliability of Large Language/Foundational Model (LLM) and
+  LLM for software reliability
+- Reliability of software services and Software as a Service (SaaS)
+- Reliability of model-based and auto-generated software
+- Reliability of open-source software
+- Reliability of software dealing with Big Data
+- Reliability of model-based and auto-generated software
+- Reliability of green and sustainable systems
+- Reliability of mobile systems
+- Reliability of software within specific technological spaces (e.g.,
+  Internet of Things, Cloud, Semantic Web/Web 3.0, Virtualization,
+  Blockchain, networks softwarization, 5G/6G, edge-to-cloud computing)
+- Normative/regulatory/ethical spaces about software reliability
+- Societal aspects of software reliability
+
+
+Anonymizing Rules & Formatting Rules
+====================================
+
+Authors shall anonymize their papers.
+
+For a complete description of the guidelines and LaTeX/Word templates:
+https://issre.github.io/2025/calls_cfp-research.html
+
+
+Paper Submission
+================
+
+Papers are submitted via EasyChair at the following URL:
+https://easychair.org/conferences/?conf=issre2025
+
+
+Submissions will be reviewed by the program committee through a
+**double-blind reviewing process,** with a limited use of outside
+referees. Papers will be held in full confidence during the reviewing
+process, but papers accompanied by nondisclosure agreement forms are
+not acceptable and will be rejected without review.
+
+Changes in the number and order of authors will not be allowed after
+the paper acceptance.
+
+Authors must anonymize their submissions according to the guidelines
+given above. Submissions violating the formatting and anonymization
+rules will be desk rejected without review. There will be no
+extensions for reformatting.
+
+
+Review Process and Author Response
+==================================
+
+After the papers have been reviewed, but before the Program
+Committee/Board meeting, the reviews will be made available to the
+authors to respond to any factual errors in the reviews. Rebuttals do
+not include additional information about the research or a submission
+of an updated or revised paper. Author responses will be made
+available to all PC/PB members before the paper is discussed for
+selection in the PC/PB meeting. The submission website will include
+rebuttal guidelines.
+
+***NEW IN 2025: Early Decisions***
+To reduce the authors and reviewers burden of unnecessary
+writing/reading of authors responses, ISSRE 2025 is introducing early
+decisions:
+
+- If reviewers decide that a paper can be accepted in its current
+  state without requiring any further input from the authors, the
+  authors will receive an “Accept” decision at the beginning of the
+  author response period and will not be required to submit a
+  response.
+- If a paper is perceived to be in a highly deficient state by the
+  reviewers, leading them to conclude that the authors’ response is
+  unlikely to alter their evaluation, the authors will receive a
+  “Reject” decision at the beginning of the author response period and
+  will not be required to submit a response.
+- All other papers will receive a “Response Recommended” notification
+  at the beginning of the author response period. As customary, it is
+  still up to the authors to decide if they want to submit an author
+  response.
+
+This approach ensures that author responses are primarily reserved for
+cases with some controversy or where the reviewers have specific and
+pertinent inquiries to be addressed.
+
+
+Best Research Paper Award
+=========================
+
+ISSRE is pleased to announce the Best Research Paper Award, attributed
+every year to the best paper in the Research Track.
+
+
+Conference Proceedings
+======================
+
+The conference proceedings will be published by IEEE Computer Society
+Conference Publishing Services (CPS). Papers presented at the
+conference will be submitted for inclusion into IEEE Xplore and to all
+of the A&I (abstracting and indexing) partners (such as the EI
+Compendex).
+
+
+Organization
+============
+
+Research PC Chairs:
+
+- Catia Trubiani
+  Gran Sasso Science Institute (GSSI), Italy
+  https://cs.gssi.it/catia.trubiani/
+
+- Yulei Sui
+  University of New South Wales, Sydney
+  https://yuleisui.github.io/
+
+For additional information, the conference website is available at:
+https://issre.net/

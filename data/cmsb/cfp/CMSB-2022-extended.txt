@@ -1,0 +1,142 @@
+CMSB 2022: last call for papers
+==============================
+
+September 14-16, 2022 at the University of Bucharest, Romania
+
+CMSB 2022 website: https://fmi.unibuc.ro/en/cmsb-2022/
+CMSB series website: https://cmsb.sciencesconf.org/
+
+CMSB, the conference on Computational Methods in Systems Biology, aims to bring together researchers from across the biological, mathematical, computational, and physical sciences, interested in the modelling, simulation, analysis, inference, design, and control of biological systems.
+
+IMPORTANT NOTE CONCERNING THE COVID-19 PANDEMIC
+
+CMSB 2022 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the COVID-19 pandemic situation, we may have to switch the conference to an online-only mode. This will be decided by the end of June 2022.
+
+INVITED SPEAKERS
+
+Alessandra Carbone (Sorbonne Université, France)
+Gabriela Chiosis (Memorial Sloan Kettering Cancer Center, USA)
+Loïc Paulevé (Laboratoire Bordelais de Recherche en Informatique, France)
+Alfonso Rodríguez-Patón (Universidad Politécnica de Madrid, Spain)
+Erik Sonnhammer (Stockholm University, Sweden)
+
+IMPORTANT DATES (all dates are AoE)
+
+Abstract Submission:  extended to May 8, 2022
+Paper Submission:      extended to May 15, 2022
+Notification:                June 10, 2022
+Camera Ready:           June 17, 2022
+Poster/highlight talk:  July 1, 2022
+Conference:                September 14-16, 2022
+
+PAPER SUBMISSION
+
+CMSB 2022 solicits high quality papers reporting research results and/or tools related to the topics mentioned below. In this call we solicit two types of papers: regular and tool papers (in a later call we will also solicit posters and highlight talks):
+
+REGULAR papers should describe original work that has not been previously published and is not under review for publication elsewhere. Accepted regular papers will be published as part of the conference proceedings in the Springer LNBI series. Papers in this category should not exceed 15 pages in the Springer LNBI style (including main figures and tables, excluding references and possible appendices).
+
+TOOL papers should present new tools or public websites, new tool components or novel extensions to existing tools or websites supporting biological system modelling, analysis, simulation, or similar. Submissions must include information on methods, tool availability, and selected application results. They should be original and not previously published in a similar form. Accepted tool papers will be published as part of the conference proceedings in the Springer LNBI series. Papers in this category should have 4-6 pages in the Springer LNBI style (including main figures and tables, excluding references and possible appendices).
+Each paper will undergo a thorough review process. The paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee.
+
+Papers must be submitted electronically as PDF files via EasyChair: https://easychair.org/conferences/?conf=cmsb2022
+
+TOPICS
+
+* formalisms for modelling biological processes;
+* methods and tools for biological system analysis, modelling and simulation;
+* frameworks for model verification, validation, analysis, and simulation of biological systems;
+* high-performance methods for computational systems biology;
+* identification of biological systems;
+* applications of machine learning and data analytics in biology;
+* network modelling, analysis, inference;
+* automated parameter and model synthesis;
+* model integration and biological databases;
+* multi-scale modelling and analysis methods;
+* design, analysis, and verification methods for synthetic biology;
+* methods for biomolecular computing and engineered molecular devices;
+* data-based approaches for systems and synthetic biology;
+* optimality and control of biological systems;
+* modelling, analysis and control of microbial communities.
+
+AWARDS
+
+CMSB 2022 will offer two awards: the best paper award and the best student paper award. The awards are sponsored by Springer Nature. The winners will be announced at the conference.
+
+ORGANIZATION COMMITTEE
+
+David Pacioianu, University of Bucharest, Romania
+Andrei Paun, University of Bucharest, Romania (co-chair)
+Ion Petre, University of Turku, Romania (co-chair)
+Nicoleta Siminea, University of Bucharest
+Joel Sjöberg, University of Turku, Finland
+
+PROGRAM COMMITTEE
+
+Alessandro Abate – University of Oxford (UK)
+Paolo Ballarini – Centrale Supélec (France)
+Daniela Besozzi – University of Milan Bicocca (Italy)
+Luca Cardelli – University of Oxford (UK)
+Milan Češka – Brno University of Technology (Czech Republic)
+Eugenio Cinquemani – Inria Grenoble-Rhône-Alpes (France)
+Eugen Czeizler – University of Helsinki (Finland)
+Franck Delaplace – Université Paris-Saclay (France)
+Jerome Feret – Inria Paris (France)
+Clémence Frioux – Inria Bordeaux (France)
+Ashutosh Gupta – IIT Bombay (India)
+Monika Heiner – Brandenburg Technical University Cottbus-Senftenberg (Germany)
+Jane Hillston – University of Edinburgh (UK)
+Tommaso Mazza – CSS Mendel (Italy)
+Andrzej Mizera – University of Luxembourg (Luxembourg)
+Jun Pang – University of Luxembourg (Luxembourg)
+Nicola Paoletti – University of London (UK)
+Loïc Paulevé – CNRS, LaBRI (France)
+Andrei Paun – University of Bucharest, Romania, co-chair
+Ion Petre – University of Turku, Finland, co-chair
+Tatjana Petrov – University of Konstanz (Germany)
+Ovidiu Radulescu – University of Montpellier France)
+Andre Ribeiro – University of Tampere (Finland)
+Maria Rodriguez Martinez – IBM Zürich Research Laboratory (Switzerland)
+Olivier Roux – École Centrale de Nantes (France)
+David Šafránek – Masaryk University (Czech Republic)
+Carolyn Talcott – SRI International (USA)
+Jing Tang – University of Helsinki (Finland)
+Adelinde Uhrmacher – University of Rostock (Germany)
+Andrea Vandin – Technical University of Denmark (Denmark)
+Verena Wolf – Saarland University (Germany)
+Christoph Zechner – Max Planck Institute of Molecular Cell Biology and Genetics (Germany)
+
+TOOL EVALUATION COMMITTEE
+
+Georgios Argyris – Technical University of Denmark, Copenhagen (Denmark)
+Candan Çelik – Comenius University, Bratislava (Slovakia)
+Anastasis Georgoulas – University College London (UK)
+Lukrécia Mertová – Heidelberg Institute for Theoretical Studies (Germany)
+Samuel Pastva – IST Austria (Austria)
+Misbah Razzaq – Inserm BPH, Bordeaux (France)
+David Šafránek – Masaryk University (Czech Republic), chair
+Jakub Šalagovič – KU Leuven (Belgium)
+Matej Trojak – Masaryk University (Czech Republic)
+
+STEERING COMMITTEE
+
+Luca Cardelli – University of Oxford (UK)
+François Fages – INRIA (France)
+Monika Heiner – Brandenburg Technical University Cottbus-Senftenberg (Germany)
+Tomasso Mazza – CSS Mendel (Italy)
+Satoru Miyano – University of Tokyo (Japan)
+Ion Petre – University of Turku, Finland
+Gordon Plotkin – University of Edinburgh (UK)
+Corrado Priami – University of Pisa (Italy)
+Carolyn Talcott – SRI International (USA)
+Adelinde Uhrmacher – University of Rostock (Germany)
+Alessandro Abate – University of Oxford (UK)
+Eugenio Cinquemani – Inria Grenoble-Rhône-Alpes (France)
+Jun Pang – University of Luxembourg (Luxembourg)
+Loïc Paulevé – CNRS, LaBRI (France)
+Andrei Paun – University of Bucharest, Romania
+Tatjana Petrov – University of Konstanz (Germany)
+Verena Wolf – Saarland University (Germany)
+
+CONTACT
+
+All questions about the conference should be emailed to the organizers Ion Petre (ion.petre@utu.fi) and Andrei Paun (apaun@fmi.unibuc.ro).

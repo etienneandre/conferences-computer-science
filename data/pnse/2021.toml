@@ -17,3 +17,11 @@ publisher = "CEUR-WS"
 
 [extra]
 notes = "A satellite event of Petri Nets. Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."
+
+[[cfp]]
+file = "cfp/PNSE-2021.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PNSE-2021-extended.txt"
+stage = "extended"

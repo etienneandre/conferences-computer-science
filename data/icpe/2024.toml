@@ -21,3 +21,7 @@ license = "acm"
 
 [extra]
 notes = "Double blind. Several other tracks such as: industry, artifact, data…"
+
+[[cfp]]
+file = "cfp/ICPE-2024-extended.txt"
+stage = "extended"

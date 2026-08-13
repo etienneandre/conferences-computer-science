@@ -25,3 +25,11 @@ artifact = "For papers reporting experimental results, authors are encouraged to
 
 [extra]
 notes = "Also presentation-only contributions."
+
+[[cfp]]
+file = "cfp/RP-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RP-2025-extended.txt"
+stage = "extended"

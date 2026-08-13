@@ -1,0 +1,150 @@
+
+ NFM 2018 - 2nd Call for Papers
+
+*** EXTENDED DEADLINES ***
+
+The 10th NASA Formal Methods Symposium
+30 Years of Formal Methods at NASA
+-------------------------------------
+https://shemesh.larc.nasa.gov/NFM2018/
+April 17-19, 2018
+Newport News Marriott at City Center
+Newport News, VA, USA
+
+Theme of the Symposium
+----------------------
+
+The widespread use and increasing complexity of mission-critical and
+safety-critical systems at NASA and in the aerospace industry require advanced
+techniques that address these systems' specification, design, verification,
+validation, and certification requirements. The NASA Formal Methods Symposium
+(NFM) is a forum to foster collaboration between theoreticians and
+practitioners
+from NASA, academia, and industry. NFM's goals are to identify challenges and
+to
+provide solutions for achieving assurance for such critical systems.
+
+New developments and emerging applications like autonomous software for
+Unmanned
+Aerial Systems (UAS), UAS Traffic Management (UTM), advanced separation
+assurance algorithms for aircraft, and the need for system-wide fault
+detection,
+diagnosis, and prognostics provide new challenges for system specification,
+development, and verification approaches. Similar challenges need to be
+addressed during development and deployment of on-board software for both
+spacecraft and ground systems.
+
+The focus of the symposium will be on formal techniques and other approaches
+for
+software assurance, including their theory, current capabilities and
+limitations, as well as their potential application to aerospace, robotics,
+and
+other NASA-relevant safety-critical systems during all stages of the software
+life-cycle.
+
+Topics of interest include but are not limited to:
+-------------------------------------------------
+* Formal verification, including theorem proving, model checking, and static
+analysis
+* Advances in automated theorem proving including SAT and SMT solving
+* Use of formal methods in software and system testing
+* Run-time verification
+* Techniques and algorithms for scaling formal methods such as abstraction and
+   symbolic methods, compositional techniques, as well as parallel and/or
+   distributed techniques
+* Code generation from formally verified models
+* Safety cases and system safety
+* Formal approaches to fault tolerance
+* Theoretical advances and empirical evaluations of formal methods techniques
+  for safety-critical systems, including hybrid and embedded systems
+* Formal methods in systems engineering and model-based development
+
+Submission Details
+------------------
+There are two categories of submissions:
+
+1. Regular papers describing fully developed work and complete results
+(maximum
+   15 pages)
+
+2. Short papers on tools, experience reports, or work in progress with
+   preliminary results (maximum 6 pages)
+
+All papers must be in English and describe original work that has not been
+published or submitted elsewhere. All submissions will be fully reviewed by at
+least three members of the Program Committee.
+
+Papers will appear in a volume of Springer's Lecture Notes in Computer Science
+(LNCS), and must use LNCS style formatting. Papers must be submitted in PDF
+format at the EasyChair submission site:
+
+https://easychair.org/conferences/?conf=nfm2018
+
+Authors of selected best papers will be invited to submit an extended
+version to a special issue in Springer's Innovations in Systems and
+Software Engineering: A NASA Journal
+(http://www.springer.com/computer/swe/journal/11334).
+
+Important Dates
+---------------
+Abstract Submission: December 1, 2017 ** Extended **
+Paper Submission: December 11, 2017 ** Extended **
+Paper Notification: January 23, 2018
+Camera Ready Deadline: February 6, 2018
+Symposium: April 17-19, 2018
+
+Program Committee
+----------------
+Erika Abraham, RWTH Aachen University, Germany
+Mauricio Ayala-Rincon, Universidade de Brasilia, Brazil
+Julia Badger, NASA, USA
+Dirk Beyer, LMU Munich, Germany
+Nikolaj Bjorner, Microsoft, USA
+Jasmin Christian Blanchette, Vrije Universiteit Amsterdam, The Netherlands
+Sylvie Boldo, Inria, France
+Kalou Cabrera Castillos, LAAS-CNRS, France
+Misty Davies, NASA, USA
+Catherine Dubois, ENSIIE, France
+Stefania Gnesi, ISTI, Italy
+Alberto Griggio, FBK, Itlaly
+George Hagen, NASA, USA
+John Harrison, Intel, USA
+Klaus Havelund, JPL/NASA, USA
+Ashlie Hocking, Dependable Computing, USA
+Susmit Jha, SRI International, USA
+Rajeev Joshi, JPL/NASA, USA
+Laura Kovacs, Vienna University of Technology, Austria
+Panagiotis Manolios, Northeastern University, USA
+Natasha Neogi, NASA, USA
+Lee Pike, USA
+Murali Rangarajan, Boeing, USA
+Elvinia Riccobene, University of Milan, Italy
+Camilo Rocha, Universidad Javeriana de Cali, Colombia
+Kristin Yvonne Rozier, Iowa State University, USA
+Sriram Sankaranarayanan, University of Colorado Boulder, USA
+Johann Schumann, SGT, USA
+Konrad Slind, Rockwell Collins, USA
+Cesare Tinelli, University of Iowa, USA
+Laura Titolo, National Institute of Aerospace, USA
+Christoph Torens, DLR, Germany
+Michael Whalen, University of Minnesota, USA
+Virginie Wiels, ONERA, France
+
+Organizing Committee
+----------------
+Anthony Narkawicz (Conference Chair)
+Aaron Dutle (Program Committee Co-Chair)
+Cesar Munoz (Program Committee Co-Chair)
+
+Location
+--------
+The symposium will take place at Newport News Marriott at City Center, Newport
+News, VA, USA.
+
+Registration is required but is free of charge.
+
+Contact
+--------
+Email: nfm2018 [at] easychair [dot] org
+Web: https://shemesh.larc.nasa.gov/NFM2018/
+

@@ -1,0 +1,220 @@
+===========================================================
+DEADLINE EXTENDED
+
+CALL FOR PAPERS SAFECOMP 2023
+The 42nd International Conference on Computer Safety, Reliability and Security
+19 - 22 September 2023
+Toulouse, France
+https://safecomp2023.cnrs.fr
+===========================================================
+
+SUBMISSION URL
+https://easychair.org/conferences/?conf=safecomp2023
+
+IMPORTANT DATES:
+Abstract submission: February 13, 2023 (extended)
+Full paper submission: February 20, 2023 (extended)
+Notification of acceptance: April 22, 2023
+Camera-ready Submission:  June 1, 2023
+Workshops: September 19, 2023
+Main conference: September 20-22 2023
+
+ABOUT SAFECOMP
+SAFECOMP was established in 1979 by the European Workshop on
+Industrial Computer Systems, Technical Committee 7 on Reliability,
+Safety and Security (EWICS TC7). Since then, it has contributed to the
+progress of the state-of-the-art in dependable application of
+computers in safety-related and safety-critical systems.
+SAFECOMP is an annual event covering the state-of-the-art, experience
+and new trends in the areas of safety, security and reliability of
+critical computer applications.
+SAFECOMP provides ample opportunity to exchange insights and
+experience on emerging methods, approaches and practical solutions. It
+is a single track conference without parallel sessions, allowing easy
+networking.
+
+TOPICS
+The conference covers all aspects related to the development,
+assessment, operation and maintenance of safety-related and
+safety-critical computer systems. Topics include, but are not
+limited to:
+* Fault-tolerant and resilient hardware and software architectures
+* Fault detection and recovery mechanisms
+* Distributed and real-time monitoring and control
+* Security and privacy protection mechanisms for safety applications
+* Safety/security risk assessment
+* Model-based analysis, design, and assessment
+* Formal methods for verification, validation, and fault tolerance
+* Probabilistic verification and validation
+* In-the-loop and model-based testing
+* Validation and verification methodologies and tools
+* Methods for qualification, assurance and certification
+* Compositional verification and certification
+* Architecture-driven assurance of safety and security
+* Dependability analysis using simulation and experimental measurement
+* Cyber-physical threats and vulnerability analysis
+* Safety guidelines, standards and certification
+* Safety and security interactions and tradeoffs
+* Safety and security cases
+* Multi-concern dependability assurance and standardization
+* Safety-related application of technology trends (e.g. AI, Edge and
+cloud computing, Digital twin, 5G and 6G, Big data analytics, IoT and
+IIoT)
+
+Domains of application include (but are not limited to):
+* Railways, automotive, space, avionics, nuclear and process industries
+* Autonomous systems, advanced robotics, construction engines and
+off-road vehicles
+* Telecommunication and networks
+* Critical infrastructures, smart grids, SCADA
+* Medical devices and healthcare
+* Defense, emergency & rescue
+* Logistics, industrial automation, off-shore technology
+
+PAPER SUBMISSION DETAILS
+The tradition of SAFECOMP is to act as a platform for bringing
+academic research and industrial needs together. Therefore, industrial
+contributions and real-world experience reports are explicitly
+invited.
+We solicit two types of papers:
+1) regular papers (up to 14 pages),
+2) practical experience reports and tool reports (up to 8 pages)
+Papers exceeding the page limit will be excluded from the review
+process.
+All papers will be reviewed by at least three program committee
+members. Papers must not have been previously published or
+concurrently submitted elsewhere.
+
+A position paper call (4 pages) with deadline in July 2023, will
+be promoted in a dedicated call (details are already provided on
+the safecomp2023 website).
+
+CONFERENCE PROCEEDINGS & JOURNAL SPECIAL ISSUE
+
+All accepted papers will be published by Springer in the LNCS series
+(Lecture Notes on Computer Science). Submitted papers must conform to
+Springer LNCS author guidelines (www.springer.com/lncs). In addition,
+extended versions of the best papers will be considered for
+publication in a special issue of a safety-related international
+journal.
+
+WORKSHOPS
+
+It is planned to have one day for workshops. Workshop proposals are
+welcome. The proposals must be sent by email to the SAFECOMP2023
+Workshop Chairs (erwin.schoitsch@ait.ac.at and matthieu.roy@laas.fr).
+They should include planned scope and contents, Program Committee, and
+duration (one full or half day). SAFECOMP Workshop Proceedings are
+planned if a properly reviewing process is implemented.
+
+EXHIBITION
+
+A dedicated space will be available for a Technical Exhibition in the
+area where coffee breaks and lunches take place. Organizations wishing
+to present their products or projects are invited to request further
+information from the conference secretariat (safecomp2023@laas.fr).
+
+COMMITTEES
+
+EWICS TC7 Chair
+
+    Francesca Saglietti (University of Erlangen-Nuremberg, DE)
+
+General Chair
+
+    Jérémie Guiochet (LAAS-CNRS, Univ. Toulouse, FR)
+
+Program Chairs
+
+    Jérémie Guiochet (LAAS-CNRS, Univ. Toulouse, FR)
+    Stefano Tonetta (FBK, IT)
+
+Workshop Chairs
+
+    Erwin Schoitsch (AIT Austrian Institute of Technology, AT)
+    Matthieu Roy (LAAS CNRS, FR)
+
+Position Papers Chair
+
+    António Casimiro (University of Lisbon, PT)
+
+Publication Chair
+
+    Friedemann Bitsch (THALES Deutschland, DE)
+
+Publicity Chair
+
+    Barbara Gallina (Mälardalen University, SE)
+
+Industry Chair
+
+    Magnus Albert (SICK AG, DE)
+
+Web Chair
+
+    Joris Guerin (LAAS CNRS, FR)
+
+Local Organizing Committee
+
+    Marie Laure Pierucci (LAAS CNRS, FR)
+    Isabelle Lefebvre (LAAS CNRS, FR)
+
+International Program Committee
+
+    Eric Alata (LAAS-CNRS, FR)
+    Magnus Albert (SICK AG, DE)
+    Uwe Becker (Draegerwerk AG & Co KGaA, DE)
+    Peter G. Bishop (Adelard, UK)
+    Friedemann Bitsch (Thales Deutschland, DE)
+    Andrea Bondavalli (University of Florence, IT)
+    Jeroen Boydens (KU Leuven, BE)
+    Jens Braband (Siemens Mobility GmbH, DE)
+    Simon Burton (Fraunhofer Institute for Cognitive Systems, DE)
+    António Casimiro (Universidade de Lisboa, PT)
+    Marsha Chechik (University of Toronto, CA)
+    Peter Daniel (EWICS TC7, UK)
+    Ewen Denney (NASA, US)
+    Felicita Di Giandomenico (ISTI-CNR, IT)
+    Iulia Dragomir (GMV, ES)
+    Wolfgang Ehrenberger (University of Applied Science, DE)
+    John Favaro (Trust-IT Services, IT)
+    Francesco Flammini (MDU-Mälardalen University, SE)
+    Jesús Friginal (SCASSI,  Universidad Europea de Valencia, ES)
+    Barbara Gallina (MDU-Mälardalen University, SE)
+    Georgios Giantamidis (Collins Aerospace Applied Research and Technology, IE)
+    Janusz Gorski (Gdansk University of Technology, FETI, DSE, PL)
+    Lars Grunske (Humboldt University Berlin, DE)
+    Jérémie Guiochet (LAAS-CNRS, FR)
+    Ibrahim Habli (University of York, UK)
+    Maritta Heisel (University of Duisburg-Essen, DE)
+    Yan Jia (University of York, UK)
+    Phil Koopman (Carnegie Mellon University, US)
+    Youssef  Laarouchi (EDF, FR)
+    John McDermid (University of York, UK)
+    Peter Munk (Robert Bosch GmbH, DE)
+    Ganesh Pai (KBR / NASA Ames Research Center, US)
+    Philippe Palanque (ICS-IRIT, University Toulouse 3, FR)
+    Yiannis Papadopoulos (University of Hull, UK)
+    Michael Paulitsch (Intel, DE)
+    Peter Popov (City, University of London, UK)
+    Andrew Rae (Griffith University, AU)
+    Alexander Romanovsky (Newcastle University, UK)
+    Matteo Rossi (Politecnico di Milano, IT)
+    Juan Carlos Ruiz García (Universitat Politècnica de València, ES)
+    Francesca Saglietti (University of Erlangen-Nuremberg, DE)
+    Behrooz Sangchoolie (RISE Research Institutes of Sweden, SE)
+    Christel Seguin (ONERA, FR)
+    Erwin Schoitsch (AIT Austrian Institute of Technology, AT)
+    Oleg Sokolsky (University of Pennsylvania, US)
+    Wilfried Steiner (TTTech Computertechnik AG, AT)
+    Mark-Alexander Sujan (The University of Warwick, UK)
+    Kenji Taguchi (UL Japan, JP)
+    Stefano Tonetta (FBK, IT)
+    Martin Törngren (KTH -Royal Institute of Technology, SE)
+    Mario Trapp (TUM – Technical University of Munich, DE)
+    Elena Troubitsyna (KTH -Royal Institute of Technology, SE)
+    Meine van der Meulen (DNV, NO)
+    Helene Waeselynck (LAAS-CNRS, FR)
+
+https://safecomp2023.cnrs.fr
+====================================

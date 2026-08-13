@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "Double blind. SERA 2015 cancelled due to security concerns in Tunisia. SERA 2020 postponed due to the coronavirus outbreak."
+
+[[cfp]]
+file = "cfp/SERA-2020.pdf"
+stage = "initial"

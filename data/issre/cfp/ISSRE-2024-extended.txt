@@ -1,0 +1,27 @@
+The 35th IEEE International Symposium on Software Reliability Engineering (ISSRE 2024)
+https://lnkd.in/gh5MYgdf
+
+ISSRE is the major annual event for exchanging ideas between academic and industry thought leaders. As the leading conference of software reliability engineering, ISSRE has become more international, diverse, and inclusive. Over the past 34 years, ISSRE has published research results from more than 2,100 authors in 1,200 rigorously reviewed papers. These papers were cited more than 35,000 times, making ISSRE one of the most influential references for software engineering R&D.
+ISSRE 2024 will be held in Tsukuba, Japan, from 28 to 31 October 2024. Tsukuba is the largest science city in Japan, located in southern Ibaraki Prefecture, approximately 50 kilometers from central Tokyo.
+
+Important Dates
+
+*Research Track
+- Paper submission deadline: May 15th, 2024 (AoE)  May 10th, 2024 (AoE)
+- Author rebuttal period: July 5th-July 8th, 2024 (AoE)
+- Notification to authors: July 26th, 2024 (AoE)
+- Camera ready papers: August 23rd, 2024 (AoE)
+
+*Industry Track
+- Abstract submission deadline: June 21th, 2024 (AoE)
+- Papers submission deadline: June 28th, 2024 (AoE)
+- Notification to authors: August 7th, 2024
+- Camera ready papers: August 20th, 2024
+
+*Workshops
+- Workshop proposal deadline: May 22nd, 2024
+- Workshop proposal notification: May 29th, 2024
+- Workshop paper submission deadline: July 28th, 2024
+(NOTE: This date is only indicative - please refer to individual workshop webpages for information about deadlines.)
+- Workshop paper notification to authors: August 18th, 2024
+- Camera ready papers: August 25th, 2024

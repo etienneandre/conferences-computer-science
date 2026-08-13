@@ -19,3 +19,11 @@ license = "acm"
 
 [extra]
 notes = "39 tracks, student abstracts, Student Research Competition, etc. WARNING: double-blind."
+
+[[cfp]]
+file = "cfp/SAC-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SAC-2023-extended.txt"
+stage = "extended"

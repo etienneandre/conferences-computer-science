@@ -1,0 +1,166 @@
+-----------------------
+FCT 2021 - Call for Papers
+-----------------------
+23rd International Symposium on Fundamentals of Computation Theory
+September 12-15, 2021, Athens, Greece
+https://www.corelab.ntua.gr/fct2021
+Submission deadline: May 9, 2021 (abstracts) / May 16, 2021 (full papers)
+-----------------------
+About FCT
+-----------------------
+The Symposium on Fundamentals of Computation Theory (FCT) was established in
+1977 as a forum for researchers interested in all aspects of theoretical
+computer science, and in particular algorithms, complexity, formal and logical
+methods. FCT is a biennial series of conferences, previously held in Poland,
+Germany, Hungary, Sweden, Russia, Romania, Latvia, Norway, United Kingdom,
+France, and Denmark. The last five Symposia were held in Oslo (2011),
+Liverpool (2013), Gdansk (2015), Bordeaux (2017), and Copenhagen (2019).
+
+FCT 2021 will be hosted by the National Technical University of Athens partially or completely online, depending on the status of the COVID-19 pandemic.
+
+-----------------------
+Important Dates
+-----------------------
+Abstract registration: May 9, 2021 (AoE)
+Full paper submission: May 16, 2021 (AoE)
+Notification to authors: June 28, 2021
+Camera-ready submission: July 6, 2021
+Symposium: September 12-15, 2021
+
+-----------------------
+Scope
+-----------------------
+The program committee is soliciting original and significant research contributions to the fundamentals of computation theory, including (but not limited to):
+
+Algorithms
+
+algorithm design and optimization
+data structures
+combinatorics and analysis of algorithms
+randomized algorithms
+approximation algorithms
+parameterized and exact algorithms
+computational algebra and number theory
+computational geometry
+parallel algorithms
+distributed algorithms and protocols
+online algorithms
+streaming algorithms
+algorithmic game theory
+computational foundations of machine learning
+computational biology
+
+Complexity
+
+models of computation
+computational complexity
+decidability
+Boolean/algebraic circuits and functions
+randomized computation
+derandomization
+interactive proofs
+computational foundations of cryptography
+quantum computation
+complexity theory
+lower bounds
+counting complexity
+
+Formal methods
+
+algebraic and categorical methods
+automata and formal languages
+database theory
+foundations of concurrency and distributed systems
+logic and model checking
+models of reactive, hybrid, and stochastic systems
+principles of programming languages
+program analysis and transformation
+security
+specification, refinement, and verification
+type systems
+ad hoc, dynamic, and evolving systems
+foundations of cloud computing and ubiquitous systems
+
+-----------------------
+Invited Speakers -----------------------
+Constantinos Daskalakis, Massachusetts Institute of Technology
+Daniel Marx, Max Planck Institute for Informatics
+Claire Mathieu, CNRS and University of Paris Nobuko Yoshida, Imperial College London
+
+-----------------------
+Proceedings
+-----------------------
+Conference proceedings will be published in the ARCoSS subline of the Springer "Lecture Notes in Computer Science" series.
+
+-----------------------
+Special Issue
+-----------------------
+Selected papers will be invited to a special issue of the "Journal of Computer and System Sciences", devoted to FCT 2021.
+-----------------------
+Awards
+-----------------------
+Awards will be given to the best paper and the best student paper. To be eligible for the best student paper award, at least one of the paper authors must be a full-time student at the time of submission, and the student(s) must have made a significant contribution to the paper.
+
+-----------------------
+Program Committee
+-----------------------
+Evripidis Bampis (co-chair), Sorbonne University
+Petra Berenbrink, University of Hamburg
+Arnaud Casteigts, University of Bordeaux
+Marek Chrobak, UC Riverside
+Hans van Ditmarsch, CNRS and University of Lorraine
+Thomas Erlebach, University of Leicester
+Bruno Escoffier, Sorbonne University
+Henning Fernau, University of Trier
+Dimitris Fotakis, National Technical University of Athens
+Pierre Fraigniaud, CNRS and University of Paris
+Leszek Gasieniec, University of Liverpool and Augusta University
+Laurent Gourves, CNRS and University of Paris-Dauphine
+Giuseppe F. Italiano, LUISS Guido Carli University
+Ralf Klasing, CNRS and University of Bordeaux
+Alexander Kononov, Sobolev Institute of Mathematics and Novosibirsk State University Antonin Kucera, Masaryk University
+Dietrich Kuske, TU Ilmenau
+Nikos Leonardos, National and Kapodistrian University of Athens
+Minming Li, City University of Hong Kong
+Zsuzsanna Liptak, University of Verona
+Giorgio Lucarelli, University of Lorraine
+Vangelis Markakis, Athens University of Economics and Business
+Nicole Megow, University of Bremen
+Andrzej Murawski, University of Oxford
+Aris Pagourtzis (co-chair), National Technical University of Athens
+Charis Papadopoulos, University of Ioannina
+Igor Potapov, University of Liverpool
+Tomasz Radzik, King's College London
+Maria Serna, Technical University of Catalonia
+Hadas Shachnai, Technion
+Vorapong Suppakitpaisarn, University of Tokyo
+Nikos Tzevelekos, Queen Mary University of London
+Guochuan Zhang, Zhejiang University
+-----------------------
+Steering Committee
+-----------------------
+Bogdan Chlebus, University of Colorado
+Marek Karpinski, University of Bonn (chair)
+Andrzej Lingas, Lund University
+Miklos Santha, CNRS and University Paris Diderot
+Eli Upfal, Brown University
+
+-----------------------
+Organizing Committee
+-----------------------
+Aris Pagourtzis (co-chair), National Technical University of Athens
+Dimitris Fotakis (co-chair), National Technical University of Athens
+
+-----------------------
+Submission
+-----------------------
+Authors are invited to submit high-quality manuscripts reporting original unpublished research in the topics related to the symposium. Simultaneous submission to other conferences or workshops with published proceedings is not allowed. It is required that each accepted paper be presented at the conference by one of its authors.
+
+Submissions must not exceed 12 pages (excluding references), formatted according to LNCS LaTeX template and style files, plus an optional, clearly marked appendix of reasonable length (to be read at the program committee's discretion). The first page must include an indication of whether the paper is eligible for the best student paper award.
+
+Papers are to be submitted electronically through EasyChair at the following link: https://easychair.org/conferences/?conf=fct2021
+
+-----------------------
+Contact
+-----------------------
+For further information, please send an e-mail to fct2021_at_corelab_ntua_gr

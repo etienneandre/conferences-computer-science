@@ -1,0 +1,71 @@
+****************************************
+RTNS 2023 – Call for Papers
+June 7-8, 2023, Dortmund, Germany
+https://rtns2023.cs.tu-dortmund.de
+****************************************
+
+RTNS is a friendly and inclusive conference with a great sense of community that presents excellent opportunities for discussion and collaboration. This 31st occurrence of RTNS will be the first occurrence outside France.
+
+
+Important dates
+****************************************
+
+Abstract submission: Jan. 23th, 2023
+Paper submission: Jan. 25th, 2023 (firm deadmine)
+Notification: March 4th, 2023
+
+Submission link: https://easychair.org/conferences/?conf=rtns2023
+
+Conference date: June 7-8, 2023
+Conference location: Dortmund, Germany
+
+
+Scope of the conference
+****************************************
+
+Original unpublished papers on all aspects of real-time systems and networks are welcome. RTNS covers a wide-spectrum of topics in real-time and embedded systems, including, but not limited to:
+
+    Real-time applications design and evaluation: automotive, avionics, space, railways, telecommunications, process control, multimedia.
+    Real-time aspects of emerging smart systems: cyber-physical systems and emerging applications, real-time big data, real-time edge/fog and cloud computing, smart grid.
+    Real-time system design and analysis: real-time tasks modeling, task/message scheduling, evaluation, mixed-criticality systems, Worst-Case Execution Time (WCET) analysis, quality of service, security, thermal and power-aware system design.
+    Software technologies for real-time systems: model-driven engineering, programming languages, compilers, WCET-aware compilation and parallelization strategies, middleware, Real-time Operating Systems (RTOS), virtualization, and hypervisors.
+    Formal specification and verification: application of formal models, such as model checking, satisfiability modulo theories, or constraint programming, to solve real-time problems.
+    Real-time distributed systems: fault tolerance, time synchronization, task/messages allocation, adaptability and reconfiguration, publisher/subscriber protocols, distributed real-time database.
+    Real-time networks: Time-Sensitive Networks (TSN), industrial IoT, wired and wireless sensor and actuator networks, SDN, 5G, Networks on Chip (NoC), end-to-end latency analysis.
+    Hardware support for real-time systems: hardware/software co-design, power/temperature-aware techniques, design of predictable hardware, multi-core and many-core platforms, hardware accelerators, cache-related issues, interconnect, and memory.
+
+
+Submission Guidelines
+****************************************
+
+Authors are invited to submit English-language research and application papers representing original, previously unpublished work, not simultaneously submitted to another journal or conference. The papers are limited to 10 two-column pages (not including references) in ACM conference format. The proceedings will be published by in ACM ICPS. All accepted papers can extend to 11 pages (excluding references) with the extra page only to address reviewers’ comments but not to add new content.
+
+RTNS tends to be a community, not a bunch of individual experts. Then, authors are invited to present the results in a way such that the main ideas can be understood by any real-time researcher and lead to discussions and exchanges.
+
+Authors of outstanding papers will be invited to submit an extended version of their work to a special issue of the Springer Real-Time Systems journal. The extended papers must have at least 35% new content. Best papers and best student papers awards will be presented at the conference, along with an award for the best presentation.
+
+Submission link: https://easychair.org/conferences/?conf=rtns2023
+
+
+Double submission model
+****************************************
+
+RTNS 2023 adopts a double submission model, with two rounds. The first round is over, with 4 accepted papers and some papers forwarded to the second round.
+
+New submissions are expected for this second round. More details can be found on the web site
+https://rtns2023.cs.tu-dortmund.de/call-for-papers/submission-guidelines/
+
+
+Organizing Committee
+****************************************
+
+    General chair: Jian-Jia Chen,  TU Dortmund
+    PC co-chairs:
+        Marc Boyer,  ONERA,  France
+        Zhishan Guo,  NC State University
+    Publicity co-chairs:
+        Georg von der Brüggen,  TU Dortmund
+        Nan Guan,  City University of Hong Kong
+    Web chair: Kuan-Hsun Chen,  University of Twente
+
+***************************************

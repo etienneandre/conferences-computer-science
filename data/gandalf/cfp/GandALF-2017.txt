@@ -1,0 +1,106 @@
+*****************************************************************************
+CALL FOR PAPERS - GandALF 2017
+*****************************************************************************
+
+The Eighth International Symposium on Games, Automata, Logics, and Formal Verification will be held in Rome (Italy) on 20-21-22 September 2017.
+
+**** http://gandalf2017.istc.cnr.it *****************************************
+
+The aim of GandALF 2017 symposium is to bring together researchers from academia and industry which are actively working in the fields of Games, Automata, Logics, and Formal Verification. The idea is to cover an ample spectrum of themes, ranging from theory to applications, and stimulate cross-fertilization.
+
+Papers focused on formal methods are especially welcome. Authors are invited to submit original research or tool papers on all relevant topics in these areas. Papers discussing new ideas that are at an early stage of development are also welcome. The topics covered by the conference include, but are not limited to, the following:
+– Automata Theory
+– Automated Deduction
+– Computational aspects of Game Theory
+– Concurrency and Distributed computation
+– Decision Procedures
+– Deductive, Compositional, and Abstraction Techniques for Verification
+– Finite Model Theory
+– First-order and Higher-order Logics
+– Formal Languages
+– Formal Methods for Systems Biology, Hybrid, Embedded, and Mobile Systems
+– Games and Automata for Verification
+– Game Semantics
+– Logical aspects of Computational Complexity
+– Logics of Programs
+– Modal and Temporal Logics
+– Model Checking
+– Models of Reactive and Real-Time Systems
+– Program Analysis and Software Verification
+– Run-time Verification and Testing
+– Specification and Verification of Finite and Infinite-state Systems
+– Synthesis
+ 
+IMPORTANT DATES
+******************
+– Abstract submission: May 19, 2017
+– Paper submission: May 26, 2017
+– Notification: July 7, 2017
+– Camera-ready: July 31, 2017
+- Conference: Sept. 20-22, 2017
+
+ PUBLICATIONS
+******************
+The proceedings will be published by Electronic Proceedings in Theoretical Computer Science. Authors of the best papers will be invited to submit a revised version of their work to a special issue of a journal (in progress). The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, and 2016, the latter one still in progress), and Acta Informatica (GandALF 2015).
+
+
+SUBMISSIONS
+******************
+Submitted papers should not exceed fourteen (14) pages using EPTCS format (please use the LaTeX style provided at http://style.eptcs.org), be unpublished and contain original research. For papers reporting experimental results, authors are encouraged to make their data available with their submission. Submissions must be in PDF or PS format and will be handled via the EasyChair Conference system at the following address: https://www.easychair.org/conferences/?conf=gandalf2017
+
+
+ INVITED SPEAKERS 
+******************
+- Ranko Lazic, Department of Computer Science, University of Warwick, U.K.
+- Michael Wooldridge, Head of Department of Computer Science, University of Oxford, U.K.
+
+ AIxIA CALL FOR SCHOLARSHIP
+******************
+The Italian Association for Artificial Intelligence offers travel grants,
+which partially support the registration fees, travel, accommodation
+and meal expenses, for the participation of students in GandALF 2017.
+The candidates should send the travel grant application to Andrea Orlandini
+(by email gandalf.2017@istc.cnr.it) by 30/07/2017
+More info here: http://gandalf2017.istc.cnr.it/aixia-call-for-scholarships/
+
+ PROGRAM CHAIRS
+******************
+Patricia Bouyer-Decitre LSV, CNRS & ENS de Cachan, France
+Pierluigi San Pietro, Politecnico di Milano, Italy
+
+ GENERAL CHAIR
+******************
+Amedeo Cesta, ISTC-CNR, Italy
+
+ CONFERENCE CHAIR
+******************
+Andrea Orlandini, ISTC-CNR, Italy
+
+ PROGRAMME COMMITTEE
+******************
+Parosh A. Abdulla (Uppsala University, Sweden)
+Benedikt Bollig (LSV, Cachan, France)
+Patricia Bouyer (LSV, Cachan, France)
+Tomas Brazdil (Masaryk University, Brno, Czech Republic)
+Marta Cialdea Mayer (University of Roma, Italy)
+Thomas Colcombet (IRIF, Paris, France)
+Bernd Finkbeiner (Saarland University, Germany)
+Hugo Gimbert (LaBRI, Bordeaux, France)
+Rasmus Ibsen-Jensen (IST, Vienna, Austria)
+Angelo Montanari (University of Udine, Italy)
+Andrea Orlandini (CNR Roma, Italy)
+Doron Peled (Bar Ilan University, Israel)
+R. Ramanujam (IMSc, Chennai, India)
+Mickael Randour (ULB, Brussels, Belgium)
+Matteo Rossi (Politecnico di Milano, Italy)
+Pierluigi San Pietro (Politecnico di Milano, Italy)
+
+ STEERING COMMITTEE
+******************
+Luca Aceto, School of Computer Science, Reykjavik University, Iceland
+Javier Esparza, University of Munich, Germany
+Salvatore La Torre, University of Salerno, Italy
+Angelo Montanari, University of Udine, Italy
+Mimmo Parente, University of Salerno, Italy
+Wolfgang Thomas, Aachen University, Germany
+ 

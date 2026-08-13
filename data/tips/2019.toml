@@ -17,3 +17,11 @@ publisher = "None (?)"
 
 [extra]
 notes = "Co-located with CONCUR and FORMATS."
+
+[[cfp]]
+file = "cfp/TIPS-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TIPS-2019-extended.txt"
+stage = "extended"

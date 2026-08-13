@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "A special issue of a journal will be later published containing peer-reviewed substantially extended versions of some of the papers contributed to the conference."
+
+[[cfp]]
+file = "cfp/LATA-2019.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/LATA-2019-extended.txt"
+stage = "extended"

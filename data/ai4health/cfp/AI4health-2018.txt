@@ -1,0 +1,70 @@
+
+Please, consider to submit your paper to the 1st International Workshop on Artificial Intelligence for Health (AI4Health), to be held on January 19 - 21, 2018 in Funchal, Madeira (Portugal) as part of 11th International Conference on Health Informatics (HEALTHINF) of the 11th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC).
+
+http://www.biostec.org/AI4Health.aspx
+
+
+MISSION:
+------------------------------------------------------------------------------
+The workshop on Artificial Intelligence for Health - AI4Health 2018 - aims at bringing together researchers from academia, industry, government, and medical centers in order to present the state of the art and discuss the latest advances in the emerging area of the use of Artificial Intelligence and Soft Computing techniques in the fields of medicine, health care and wellbeing. AI4Health is expected to cover the whole range of theoretical and practical aspects, technologies and systems related to the application of artificial intelligence and soft computing methodologies to issues as machine learning, deep learning, knowledge discovery, decision support, regression, forecasting, optimization, and feature selection in the healthcare and wellbeing domain.
+
+
+TOPICS:
+------------------------------------------------------------------------------
+The topics of interest include, but are not limited to, the application of artificial intelligence and soft computing methodologies to:
+
+ • Knowledge Management of Health Data;
+ • Data Mining and Knowledge Discovery in Healthcare;
+ • Machine and Deep learning approaches for Health Data;
+ • Decision Support Systems for Healthcare and wellbeing;
+ • Optimization for healthcare problems;
+ • Regression and forecasting for medical and/or biomedical signals;
+ • Health Care Information Systems;
+ • Wellness Information Systems;
+ • Medical Signal and Image Processing and Techniques;
+ • Medical Expert Systems;
+ • Diagnoses and Therapy Support Systems;
+ • Biomedical Applications;
+ • Applications of AI in Health Care and Wellbeing Systems;
+ • Machine Learning-based Medical Systems;
+ • Medical Data- and Knowledge Bases;
+ • Neural Networks in Medicine;
+ • Ambient Intelligence and Pervasive Computing in Medicine and Health Care.
+    
+
+PAPER SUBMISSION:
+------------------------------------------------------------------------------
+Authors are invited to submit full papers in any of the topics listed above written in English, with around 8 to 10 pages, with the appropriate font size and page format, including references, tables, graphs, images and appendices.
+Submissions with less than 4 pages or more than 13 pages will be automatically rejected. Submissions should contain original material and not be previously published, or currently submitted for consideration elsewhere.
+All papers will be reviewed for scientific quality by the Technical Program Committee. Paper submission implies the willingness of at least one author to register and present the paper.
+Instructions for preparing the manuscript (in Word and Latex formats) are available at: http://www.biostec.org/Templates.aspx
+Please also check the http://www.biostec.org/Guidelines.aspx.
+Papers should be submitted electronically via the web-based submission system at:
+https://www.insticc.org/primoris/DirectLink.aspx?idEvent=aciPUE3VXO4=&roleName=AKC6/t1R9Gs=&type=FNiX60z6Am0=
+
+
+PUBLICATION:
+------------------------------------------------------------------------------
+All accepted papers will be published in a special section of the conference proceedings book - under an ISBN reference and on CD-ROM support - and indexed by Thomson Reuters Conference Proceedings Citation Index (ISI), INSPEC, DBLP, EI (Elsevier Engineering Village Index) and Scopus. SCITEPRESS is a member of CrossRef (http://www.crossref.org/) and every paper is given a DOI (Digital Object Identifier).
+All papers presented at the conference venue will be available at the SCITEPRESS Digital Library.
+It is planned to publish a short list of revised and extended versions of presented papers with Springer in a CCIS Series book (final approval pending).
+
+
+JOURNAL FAST-TRACK PUBLICATION:
+------------------------------------------------------------------------------
+Furthermore, a selection of the best accepted papers related to the applications of Computational Intelligence / Soft Computing / Artificial Intelligence topics, suitably revised and extended, will be eligible for fast-track publication in Applied Soft Computing journal by Elsevier (Impact Factor 3.541), thanks to the technical sponsorship offered by the World Federation on Soft Computing.
+
+
+IMPORTANT DATES:
+------------------------------------------------------------------------------
+Submission deadline: November 07, 2017
+Notification: November 21, 2017
+Camera-ready and Registration: November 29, 2017
+
+
+BEST PAPER AWARD:
+------------------------------------------------------------------------------
+A "Best Paper Award" will be conferred on the author(s) of a paper presented at the workshop, selected by the Chairs based on the best combined marks of paper reviewing, assessed by the Program Committee, and paper presentation quality, assessed by Session Co-chairs at the conference venue.
+
+
+FOR ANY OTHER INFORMATION http://www.biostec.org/AI4Health.aspx

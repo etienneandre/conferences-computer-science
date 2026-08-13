@@ -1,0 +1,145 @@
+=========================================
+2nd IFIP International Conference on 
+Topics in Theoretical Computer Science (TTCS 2017)
+http://www.ttcs.ir/
+
+Institute for Research in Fundamental Sciences (IPM), Tehran, Iran
+September 12-14, 2017
+
+*** Extended Abstract Submission Deadline: May 15, 2017 ***
+=========================================
+
+TTCS is a bi-annual conference in the IFIP conference series, 
+serving as a forum for novel
+and high-quality research in all areas of Theoretical Computer
+Science. 
+
+The post-proceedings will be published in the Springer LNCS series. 
+
+The conference is sponsored by IFIP and EATCS.
+
+------------------------------
+Keynote Speakers
+------------------------------
+
+- Mahdi Cheraghchi, Imperial College, UK
+- Jaco van de Pol, University of Twente, The Netherlands
+- Stefano Leonardi, Sapienza University of Rome, Italy
+
+------------------------------
+Important Dates
+------------------------------
+
+- Abstract Submission: May 15, 2017 (Extended, Strict, AoE)
+- Full Paper Submission: May 19, 2017 (Extended, Strict, AoE)
+- Author notification: June 26, 2017
+- Camera ready paper: July 31, 2017
+- Conference: September 12-14, 2017
+
+------------------------------
+Submissions
+------------------------------
+
+For the main conference, we solicit research papers in all areas of
+theoretical computer science. All papers will undergo a rigorous
+review process and will be judged based on their originality,
+soundness, significance of the results, and relevance to the theme of
+the conference.
+
+Papers should be written in English. Research papers should not exceed
+15 pages in the LNCS style format.  All technical details necessary
+for a proper evaluation of a submission must be included in the
+submission or in a clearly-labelled appendix, to be consulted at the
+discretion of program committee members.  Multiple and/or concurrent
+submission to other scientific venues is not allowed and will result
+in rejection as well as notification to the other venue. Any case of
+plagiarism (including self-plagiarism from earlier publications) will
+result in rejection as well as notification to the the authors'
+institutions.
+
+Papers should be submitted to the appropriate track through our EasyChair
+submission website:
+https://www.easychair.org/conferences/?conf=ttcs2017 .
+
+The post-proceedings will be published as a volume of Lecture Notes in Computer Science by Springer. 
+
+ 
+
+------------------------------
+Scope
+------------------------------
+
+TTCS is organized in 2 tracks. Topics of interest include but are not
+limited to:
+
+Track A: Algorithms and Complexity
+
+- algorithms and data structures,
+- algorithmic coding theory,
+- algorithmic graph theory and combinatorics,
+- approximation algorithms,
+- computational complexity,
+- computational geometry,
+- computational learning theory,
+- economics and algorithmic game theory,
+- fixed parameter algorithms,
+- machine learning,
+- optimization,
+- parallel and distributed algorithms,
+- quantum computing,
+- randomness in computing,
+- theoretical cryptography.
+
+Track B: Logic, Semantics, and Programming Theory
+
+- algebra and co-algebra in computer science,
+- concurrency theory,
+- coordination languages,
+- formal verification and model-based testing,
+- logic in computer science,
+- methods, models of computation and reasoning for embedded, hybrid, and cyber-physical systems,
+- stochastic and probabilistic specification and reasoning,
+- theoretical aspects of other CS-related research areas, e.g., computational science, databases, information retrieval, and networking,
+- theory of programming languages, - type theory and its application in program verification.
+
+------------------------------
+Program Committee
+------------------------------
+
+Track A: Algorithms and Complexity
+
+- Amitabha Bagchi, IIT Delhi, India
+- Samuel R. Buss, University of California, San Diego, USA
+- Jaroslaw Byrka, University of Wroclaw, Poland
+- Amir Daneshgar, Sharif University of Technology, Iran
+- Anna Gal, University of Texas at Austin, USA
+- Mohammad T. Hajiaghayi, University of Maryland, USA
+- Amit Kumar, IIT Delhi, India
+- Mohammad Mahmoody, University of Virginia, USA
+- Rolf Niedermeier, TU Berlin, Germany
+- Giuseppe Persiano, University of Salerno, Italy
+- Jorg-Rudiger Sack, Carleton University, Ottawa, Canada
+- Rahul Santhanam, University of Oxford, United Kingdom
+- Jiri Sgall, Charles University, Prague, Czech Republic (Co-Chair)
+- Vijay Vazirani, Georgia Institute of Technology, Atlanta, USA
+- Gerhard Woeginger, RWTH Aachen, Germany
+- Hamid Zarrabi-Zadeh, Sharif University of Technology, Iran
+
+Track B: Logic, Semantics, and Programming Theory
+
+- Farhad Arbab, CWI and Leiden University, The Netherlands
+- Ilaria Castellani, INRIA Sophia Antipolis, France
+- Fatemeh Ghassemi, University of Tehran, Iran
+- Hossein Hojjat, Rochester Institute of Technology, USA
+- Mohammad Izadi, Sharif University of Technology, Iran
+- Sung-shik Jongmans, Open University, The Netherlands
+- Ramtin Khosravi, University of Tehran, Iran
+- Jan Kretinsky, Munich University of Techology, Germany
+- Bas Luttik, Eindhoven University of Technology, The Netherlands
+- Larry Moss, Indiana University, USA
+- Mohammad Reza Mousavi, Halmstad University, Sweden (Co-Chair)
+- Mehrnoosh Sadrzadeh, Queen Mary University of London, UK
+- Gerardo Schneider, Chalmers and University of Gothenburg, Sweden
+- Subodh Sharma, IIT Delhi, India
+- Mirco Tribastone, IMT Institute for Advanced Studies, Itay
+- Kazunori Ueda, Waseda University, Japan

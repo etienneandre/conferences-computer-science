@@ -1,0 +1,82 @@
+The IEEE ISORC 2023  is pleased to invite you to submit papers to the 26th IEEE ISORC 2023, which will be held on May 23-25, Nashville, TN. https://isorc.github.io/2023/
+
+ISORC has been established as the leading event devoted to state-of-the-art research and state-of-the-practice applications in the field of real-time computing. Celebrating the 26th anniversary since its foundation in 1998, ISORC continues the trend of providing an international forum for researchers and industry experts to exchange and share their experiences, ideas, and latest research results on all aspects of ORC technology. Following the previous years’ experience, ISORC will continue to employ the double-blind review process this year.
+
+Topics
+IEEE ISORC 2023 invites high-quality papers on all aspects of, ORC technology, including, but not limited to:
+
+    Real-Time Distributed Computing
+    Cloud/Edge/Fog Computing
+    Internet of Things (IoT)
+    Real-Time Scheduling Theory
+    Real-Time Networks, including 5G, 6G, TSN, etc.
+    Resilient Cyber-Physical Systems
+    Self-Aware Computing Systems
+    Energy-Efficient Systems
+    Autonomous Systems (e.g., Autonomous Driving)
+    Machine Learning for Embedded and Cyber-Physical Systems
+    Real-Time Deep Learning Inference
+    Optimization of Time-Sensitive Applications
+    Federated learning, TinyML, and Edge AI for Real-Time IoT
+    Intelligent Edge, Fog, and Cognitive Aspects of IoT beyond 5G
+    Digital Twins for Real-Time IoT
+    Operating Systems and Middleware for real-time systems
+    Security and Privacy for Real-Time Systems
+    Real-time applications, for example, medical devices, intelligent transportation systems, industrial automation systems and industry 4.0, digital twins for IoT, smart grids, multimedia processing, and web/mobile applications
+
+
+Important Dates
+Main Track
+
+    Submission deadline: January 28, 2023
+    Extended submission deadline: Feb. 18, 2023
+    Acceptance notification: April 4, 2023
+    Camera-ready papers: April 20, 2023
+
+Poster/Demo Track
+
+    Submission deadline: March 20, 2023
+    Acceptance notification: April 15, 2023
+    Camera-ready papers: April 20, 2023
+
+Guidelines for Manuscripts
+IEEE ISORC 2023 invites papers in two categories. Submission guidelines for each category of paper are as follows:
+
+    Regular Research Papers: Papers should describe original work and be maximum 10 pages, in length, using the IEEE paper format. A maximum of two extra pages may be purchased.
+    Short Papers: Short research papers, maximum 6 pages, using the IEEE format, on real-time analytics are also invited, and should contain enough information for the program committee to understand the scope of the project and evaluate the novelty of the problem or approach.
+
+Papers are to be submitted through the HotCRP system: https://isorc23.hotcrp.com/
+
+For more information
+More information about IEEE ISORC 2023, including submission guidelines, can be found at: https://isorc.github.io/2023/
+
+Organizing Committee
+General Chairs
+Mohammad Ashjaei, Mälardalen University, Sweden
+Aniruddha Gokhale, Vanderbilt University, USA
+Nan Guan, City University of Hong Kong
+
+Program Chairs
+Octav Chipara University of Iowa, USA
+Luca Abeni, Scuola Superiore Sant'Anna, Pisa, Italy
+Yehan Ma, Shanghai Jiao Tong University, China
+
+Local Chair
+Jonathan M Sprinkle, Vanderbilt University, USA
+
+Web Chair
+Akram Hakiri, University of Carthage, Tunisia
+
+Publicity Chairs
+Matthias Becker, Royal Institute of Technology, KTH, Sweden
+Yue Tang, Northeastern University, China
+Akram Hakiri, University of Carthage, Tunisia
+
+Steering Committee Chairs
+Uwe Brinkschulte, Goethe University of Frankfurt, Germany
+Robert G Pettit, George Mason University, USA
+Gabor Karsai, Vanderbilt University, USA
+
+Finance Chair
+Bryan Ward, Vanderbilt University, USA
+

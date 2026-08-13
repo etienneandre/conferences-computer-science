@@ -26,3 +26,7 @@ submitted = 20
 
 [extra]
 notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science."
+
+[[cfp]]
+file = "cfp/GandALF-2024.txt"
+stage = "initial"

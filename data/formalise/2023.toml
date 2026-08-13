@@ -20,3 +20,11 @@ license = "acm"
 
 [extra]
 notes = "Light-weight rebuttal scheme. Artifact evaluation. Held in conjunction with ICSE."
+
+[[cfp]]
+file = "cfp/FormaliSE-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FormaliSE-2023-extended.txt"
+stage = "extended"

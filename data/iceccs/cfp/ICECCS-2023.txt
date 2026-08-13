@@ -1,0 +1,77 @@
+                      ICECCS 2023 - Call for Papers
+
+***************************************************************************************
+27th International Conference on Engineering of Complex Computer Systems (ICECCS 2023)
+						12 - 16 June 2023, Toulouse, France 
+						  https://www.irit.fr/iceccs2023/
+***************************************************************************************
+
+The 27th International Conference on Engineering of Complex Computer Systems (ICECCS 2023) is a well-established event that has been held around the world for over 25 years. Over the past years, we have seen a rapidly rising emphasis on the design, implementation and management of complex computer systems which are present in every aspect of human activities, such as manufacturing, communications, defence, transportation, aerospace, hazardous environments, energy, and healthcare. These complex systems are frequently distributed over heterogeneous networks and process a large amount of data. Complexity arises from many factors, including the dynamic environment and the scenarios these systems operate in, demanding and sometimes conflicting requirements in functionality, efficiency, scalability, security, dependability and adaptability, as well as the wide range of development methodologies, programming languages and implementation details. Performance, real-time behaviour, fault tolerance, security, adaptability, development time and cost, and long life concerns are some of the key issues arising in the development of such systems.
+
+The goal of this conference is to bring together industrial, academic, and government experts from a variety of application domains and software disciplines, to discuss how the disciplines' problems and solution techniques interact within the whole system. Researchers, practitioners, tool developers and users, and technology transfer experts are all welcome. The scope of the conference includes long-term research issues, near-term requirements and challenges, established complex systems, emerging promising tools, and retrospective and prospective reflections of research and development into complex systems.
+
+List of Topics
+--------------
+Authors are invited to submit papers describing original, unpublished research results, case studies and tools. Papers are solicited in all areas related to complex computer-based systems, including the causes of complexity and means of avoiding, controlling, or coping with complexity. Topic areas include, but are not limited to:
+
++ Requirements analysis and specification
++ Verification and validation
++ Security and privacy of complex systems
++ Model-driven development
++ Reverse engineering and refactoring
++ Software Architecture
++ Human Machine Inetraction
++ Big data management
++ Ubiquitous computing, context awareness, sensor networks
++ SAT/SMT solvers for software analysis and testing
++ Agile methods
++ Safety-critical and fault-tolerant architectures
++ Adaptive, self-managing and multi-agent systems
++ Cyber-physical systems and Internet of Things (IoT)
++ Industrial case studies
+
+Different kinds of contributions are sought, including novel research, lessons learned, experience reports, and discussions of practical problems faced by industry and user domains. The ultimate goal is to build a rich and comprehensive conference program that can fit the interests and needs of different classes of attendees: professionals, researchers, managers, and students. A program goal is to organize several sessions that include both academic and industrial papers on a given topic and culminate panels to discuss relationships between industrial and academic research.
+
+
+Submission and Publication
+--------------------------
+Full papers are divided into two categories: Technical Papers and Experience Reports. The papers submitted to both categories will be reviewed by the program committee members, and papers accepted in either category will be published in the conference proceedings. Technical papers should describe original research, and experience reports should present practical projects carried out in the industry, and reflect on the lessons learnt from them.
+
+Short paper submissions describe early-stage, ongoing or PhD research. All short papers will be reviewed by the program committee members, and accepted short papers will be published in the conference proceedings.
+
+Submissions to the conference must not have been published or be concurrently considered for publication elsewhere. All submissions will be judged on the basis of originality, contribution to the field, technical and presentation quality, and relevance to the conference. The proceedings have been published by the Conference Publishing Services (CPS) of the IEEE Computer Society.
+
+Submitted manuscripts should be in English and formatted in the style of the double-column IEEE CPS format. Full papers should not exceed 9 pages + 1 page for bibliography, and short papers should not exceed 5 pages + 1 page for bibliography, including figures, references, and appendices. All submissions should be in PDF format. Submissions not adhering to the specified format and length may be rejected immediately without review.
+
+Please prepare your manuscripts in accordance with the IEEE CPS guidelines.
+
+https://www.ieee.org/conferences/publishing/templates.html
+
+We invite all prospective authors to submit their manuscripts via the ICECCS 2023 portal, hosted by the EasyChair conference management system.
+
+https://easychair.org/conferences/?conf=iceccs2023
+
+Important Dates
+---------------
++ Abstract Submissions Due:          08 December, 2022
++ Full Paper Submissions Due:        15 December, 2022
++ Acceptance/Rejection Notification: 15 March, 2023
++ Camera-ready Due:                  15 April, 2023
++ Conference Dates:                  12-16 June 2023
+
+General Chair
+-------------
+Dominique Méry, LORIA, Université de Lorraine, Nancy, France
+
+
+Program Committee Co-Chairs
+---------------------------
+Yamine Ait-Ameur, IRIT-ENSEEIHT, Toulouse, France
+Ferhat Khendek, Concordia University, Montreal, Canada
+
+
+Program Committee
+-----------------
+see https://www.irit.fr/iceccs2023/
+
+ICECCS 2023 is referenced on https://www.conferences-computer.science/

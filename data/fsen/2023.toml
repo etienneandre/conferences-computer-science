@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Optional abstract submission. Claim from the conference that no one ever got visa problems (in Iran). Special issue of Science of Computer Programming journal devoted to FSEN’23 (to be confirmed). Every two years."
+
+[[cfp]]
+file = "cfp/FSEN-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FSEN-2023-extended.txt"
+stage = "extended"

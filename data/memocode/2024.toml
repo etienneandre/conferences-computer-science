@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Part of ESWEEK 2024. Selected papers will be invited for publication in a special issue of ACM Transactions on Embedded Computing Systems. 1-2 papers selected for the Best Paper Award."
+
+[[cfp]]
+file = "cfp/MEMOCODE-2024-extended.txt"
+stage = "extended"

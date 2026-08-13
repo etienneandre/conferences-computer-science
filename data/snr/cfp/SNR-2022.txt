@@ -1,0 +1,151 @@
+Call for Papers
+
+SNR22: The 8th International Workshop on Symbolic-Numeric Methods for
+Reachability Analysis
+
+Conference website: https://plv.colorado.edu/snr22/
+Submission link: https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Feasychair.org%2Fconferences%2F%3Fconf%3Dsnr22&amp;data=05%7C01%7C%7Cfdf6934e8f6b47dd876408da6502dd7c%7Ccc7df24760ce4a0f9d75704cf60efc64%7C0%7C0%7C637933360222759037%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=I4Q1aVesXXS7i%2Fxc4GoIiT8uOkMIM68JsMNtM1W0dw8%3D&amp;reserved=0
+Submission deadline: July 22, 2022
+Topics: reachability analysis, cyber physical systems, symbolic
+numeric methods, neuro-symbolic AI
+
+Hybrid systems are complex dynamical systems that combine discrete and
+continuous components. Reachability questions, regarding whether
+a system can run into a certain subset of its state space, stand at the
+core of verification and synthesis problems for hybrid systems.
+Successful reachability analysis methods for hybrid systems require
+the unification of techniques from at least two research areas: 1)
+Symbolic methods that operate on exact and discrete representations of
+systems, in the form of various model checking and theorem proving
+algorithms; and 2)  Numerical methods that operate on various forms of
+numerical approximations and continuous transformations of the
+systems, as developed in the area of continuous dynamical systems and
+control theory.
+
+The existing, successful solutions for reachability analysis for
+hybrid dynamical systems cleverly integrate symbolic and numerical
+reasoning to tackle the scalability challenge. For instance, the
+reachable set computation methods explicitly construct flow-pipes that
+numerically over-approximate the reachable states over time, while
+efficient computation of such overapproximations requires symbolic
+representations such as support functions. Similarly, constraint
+solving methods symbolically encode reachability properties as logic
+formulas, while solving such formulas requires numerically-driven
+decision procedures. The key goal of the Symbolic and Numerical
+Methods for Reachability Analysis (SNR) workshop is to provide a
+platform to further explore synergies among these approaches by
+bringing together the experts in these two domains.
+
+Submission Guidelines
+
+The workshop solicits
+- long research papers (not exceeding 15 pages excluding references),
+- short research papers (not exceeding 6 pages excluding references) and
+- work-in-progress papers (not exceeding 6 pages excluding references).
+
+Research papers must present original unpublished work which is not
+submitted elsewhere. In order to foster the exchange of ideas, we also
+encourage work-in-progress papers, which present recent or on-going
+work. The papers should be written in English and formatted according
+to the EPTCS guidelines. Papers can be submitted using the EasyChair
+system. All submissions will undergo a peer-reviewing process.
+
+List of Topics
+
+The SNR workshop aims to catalyze work on the interface of symbolic
+and numerical methods for reachability analysis. The scope of the
+workshop includes, but is not restricted to, the following topics:
+
+- Verification of hybrid systems
+- Symbolic representation of regions in reachability analysis
+- Techniques for Flow-pipe construction
+- Abstraction techniques for hybrid systems and numerical programs
+- Trajectory/Counterexample generation from symbolic paths
+- Techniques for reliable integration
+- Decision procedures supporting real numbers
+- Formal logics to reason about hybrid systems
+- Symbolic and Numerical Methods for Reinforcement Learning and Planning
+- Domain specific approaches in Biology, Robotics, and Cyber-Physical Systems
+
+This year, the organizers encourage submissions of papers exploring
+the intersection of SNR and Machine-Learning (ML). Machine Learning
+(ML) algorithms and data-driven components are at the core of modern
+engineering applications of hybrid dynamical systems providing support
+for perception and adaptation. Moreover, the recent successes of Deep
+Neural Networks (DNN) and Reinforcement Learning (RL) hint at powerful
+approaches to tackle scalability challenges in SNR. We invite research
+papers at the intersection of SNR and ML on the following
+non-exhaustive list of topics:
+
+- Reinforcement Learning (RL) for Real-Time and Hybrid Systems
+- Formal Logics for Continuous-State RL (e.g., formal specifications
+in RL, shielding for RL),
+- Decision Procedures for Continuous-State RL (e.g. SAT/SMT approaches
+to infer reward machines),
+- Deep Neural networks for Symbolic and Numerical Reasoning for
+Reachability (e.g., neural certificates),
+- Supervised Learning for SNR (e.g., using decision-trees in
+generating human-interpretable policies),
+- Unsupervised Learning for SNR (e.g., mining formal specifications
+from behaviors), and
+- Applications of SNR in safety-critical machine learning.
+
+The topic of the workshop has direct connections with the conferences
+within the CONFEST (e.g., FORMATS and CONCUR) and we believe that
+participants of the main conference may be interested in attending SNR
+and vice-versa. The workshop format is intended to complement the main
+conference by providing an informal meeting place specifically for
+researchers involved in the projects requiring the background both in
+symbolic and numerical verification.
+
+Committees
+
+Program Committee
+
+- Matthias Althoff (Technische Universität München)
+- Ekaterina Auer  (Hochschule Wismar)
+- Pieter Collins (Maastricht university)
+- Shibashis Guha (Tata Insitute of Fundamental Research)
+- Nacim Meslem (INP SIPSA-lab)
+- Krishna S. (Indian Insitute of Techology Bombay)
+- Sadegh Soudjani (Newcastle University)
+- Zhenhua Wang (Harbin Institute of Technology)
+- Daniel Wilczak (Jagiellonian University)
+- Majid Zamani (University of Colorado Boulder)
+
+Organizing committee
+
+- Ashutosh Trivedi (University of Colorado Boulder)
+- Tarek Raissi (Conservatoire National des Arts et Métiers, Paris)
+
+Publication
+
+Accepted research papers will be presented at the workshop and will be
+published in the Electronic Proceedings in Theoretical Computer
+Science (EPTCS). Accepted work-in-progress papers will be presented at
+the workshop but will not be included in the proceedings.
+
+Venue
+
+The workshop is collocated with CONFEST'22 and will be held in Warsaw, Poland.
+
+The venue is planned as an on-site, in-person event, with certain
+support for remote presence, both for speakers and for other
+participants who are unable or unwilling to come. Depending on the
+pandemic situation, we may have to make a decision to cancel the
+physical component of the event and proceed online similarly as the
+previous edition, QONFEST 2021. The final decision will be announced
+by August 12, 2022.
+
+Important Dates
+
+Submission deadline: July 22, 2022
+Notification of acceptance: August 12, 2022
+Final version: August 22, 2022
+Workshop: September 12, 2022
+
+Contact
+
+All questions about submissions should be emailed to Tarek Raissi
+(tarek.raissi@cnam.fr) and Ashutosh Trivedi
+(ashutosh.trivedi@colorado.edu).

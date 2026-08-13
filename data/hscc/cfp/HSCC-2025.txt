@@ -1,0 +1,48 @@
+Dear colleagues,
+
+On behalf of the HSCC organizing committees, I would like to bring your attention to the call for papers for HSCC 2025, scheduled to take place in Irvine, California. Please find attached a CfP that you can share with your colleagues who might be interested. Please note that HSCC 2025 will include a special track on Generative AI for CPS, with details provided below.
+
+
+The 28th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2025)
+May 6-9 2025, Irvine, California
+https://hscc.acm.org/2025
+
+
+PC Chairs
+Morteza Lahijanian – University of Colorado Boulder, USA
+Maryam Kamgarpour – Swiss Federal Institute of Technology Lausanne, Switzerland
+
+Important Dates
+Submission deadline: October 31, 2024 (AOE)
+Tool/case study paper, repeatability package submission deadline: November 7, 2024 (AOE)
+Rebuttal phase: December 16-23, 2024
+Acceptance/rejection notifications: January 23, 2025
+Submission deadline of repeatability packages for accepted regular papers: January 29, 2025 (AOE)
+Posters/demos submission deadline: February 6, 2025 (AOE)
+Posters/demos notification: March 3, 2025
+Camera-ready paper submission deadline: March 10, 2025 (AOE)
+Camera-ready poster/demo submission deadline: March 10, 2025 (AOE)
+
+Scope
+Hybrid Systems: Computation and Control (HSCC) 2025 is the 28th in a series of conferences focusing on original research on concepts, tools, and techniques from computer science, control theory, and applied mathematics for the analysis and control of hybrid dynamical systems. By drawing on strategies from computation and control, the hybrid systems field offers techniques that are applicable to both man-made Cyber-Physical Systems (CPS), ranging from small robots to global infrastructure networks, and natural systems (ranging from biochemical networks to physiological models). Papers in the conference are expected to range over a wide spectrum of topics from theoretical results to practical considerations, and from academic research to industrial adoption.
+
+Topics of interest include, but are not limited to:
+
+    Mathematical foundations, computability and complexity
+    Analysis, verification, validation, and testing
+    Modelling paradigms and techniques
+    Design, synthesis, planning, and control
+    Programming and specification languages
+    Network science and network-based control
+    Security, privacy, and resilience for cyber-physical systems with focus on computation and control
+    Safe autonomy, Artificial intelligence and Machine learning in CPS
+    Software tools for the above topics
+    Applications and industrial case studies in: automotive, transportation, autonomous systems, avionics, energy and power, robotics, medical devices, manufacturing, systems and synthetic biology, models for the life sciences, and other related areas
+
+
+Special Track: Generative AI for CPS
+Generative models, including diffusion models, transformers, foundation models, etc., have demonstrated remarkable potential across various domains, from content creation to complex decision-making. Notable examples include the use of diffusion models for trajectory generation and large language models (LLMs) for situational awareness and planning. However, the application of generative AI in cyber physical systems (CPS)—such as robotic systems, autonomous vehicles, aerospace systems, healthcare, and critical infrastructure—introduces unique challenges and opportunities. This special track invites cutting-edge research contributions that explore the integration, safety, robustness, and other technical challenges of generative AI in CPS, aiming to advance the state of the art in this rapidly evolving field.
+
+Submission guideline
+HSCC solicits submissions which present unpublished original research, not under review elsewhere. HSCC invites submissions in two categories: (1) regular papers and (2) tool and case study papers. Submissions in both of these categories can be either long (10 pages max, 9pt font, two-column ACM format), or short papers (6 pages max, 9pt font, two-column ACM format). Page limits do not include references and appendices. Each submission may include optional appendices with supplementary material. These appendices will be read at the discretion of the program committee and will not be included in the conference proceedings. We will employ a double-blind reviewing process and will have a rebuttal phase to provide authors the opportunity to reply to reviewer concerns. Authors are asked to submit their paper using EasyChair. Note that each tool and case study submission must be accompanied by a Repeatability Evaluation Package.
+

@@ -1,0 +1,90 @@
+=========================================================================
+                               EMSOFT 2019
+                             Call for Papers
+              International Conference on Embedded Software
+            October 13 – October 18, 2019, New York City, USA
+=========================================================================
+
+The ACM SIGBED International Conference on Embedded Software (EMSOFT)
+brings together researchers and developers from academia, industry, and
+government to advance the science, engineering, and technology of embedded
+software development. Since 2001, EMSOFT has been the premier venue for
+cutting-edge research in the design and analysis of software that
+interacts with physical processes, with a long-standing tradition for
+results on cyber-physical systems, which compose computation, networking,
+and physical dynamics.
+
+-------------------------------------------------------------------------
+Timeline
+-------------------------------------------------------------------------
+Journal-Track Submissions
+- Abstract: April 5, 2019
+- Full Paper: April 12, 2019 (firm)
+
+Work-in-Progress Submissions
+- June 7, 2019 (firm)
+
+Notification of Acceptance
+- July 10, 2019 (both tracks)
+
+-------------------------------------------------------------------------
+Topics of Interests / Tracks
+-------------------------------------------------------------------------
+Submissions are invited on all aspects of embedded software systems,
+including but not limited to:
+* Embedded software design and analysis
+* Formal modeling and verification
+* Testing, validation, and certification
+* Model- and component-based approaches
+* Embedded Operating systems and middleware
+* Embedded distributed, networked systems
+* Embedded software on multi- and many-core processors
+* Safety-critical and mixed-critical embedded soft-ware design
+* Time-critical embedded systems
+* Scheduling and execution time analysis
+* QoS management and performance analysis
+* Energy-efficient embedded software
+* Embedded software security
+* Embedded software architectures for intensive data and signal processing
+* Software design for cyber-physical systems
+* Robust implementation of control systems
+* Empirical studies and their reproduction
+* Application areas including automotive, avionics, energy, health care,
+  mobile devices, multimedia, machine learning, and autonomous systems
+
+A special day focusing on the Internet of Medical Things will be organized
+jointly by all conferences in ESWEEK. Papers aligned to the topics of
+interest for EMSOFT, focusing on Medical Cyber-Physical Systems with an
+emphasis on software for health care are welcome.
+
+Papers should represent original work, not formerly published or submitted
+for publication in other forums. A blind review process will be enforced.
+Authors should not reveal authorship directly or indirectly through
+references.
+EMSOFT will follow a two-stage review process, where papers passing the
+first stage of reviews will be asked to revise their work based on
+reviewer comments within a short time frame of around two weeks. Accepted
+papers will participate in the direct journal publication track and
+appear in ACM TECS (see below).
+
+-------------------------------------------------------------------------
+Paper Process
+-------------------------------------------------------------------------
+EMSOFT 2019 has a dual publication model where papers will be published
+in two tracks: Journal track papers will be published in the ACM
+Transactions on Embedded Computing Systems (TECS) and Work-in-Progress
+track papers will be published in the ESWEEK Proceedings.
+More details at https://www.esweek.org/author-information.
+
+-------------------------------------------------------------------------
+Organization
+-------------------------------------------------------------------------
+EMSOFT Program Chairs:
+Sriram Sankaranarayanan, U. of Colorado Boulder, USA
+Timothy Bourke, Inria Paris, France
+
+ESWEEK General Chairs:
+Petru Eles, Linköping University, SE
+Tulika Mitra, National University of Singapore, SG
+
+                             www.esweek.org

@@ -1,0 +1,93 @@
+NWPT 2021 call for contributions - deadline 10 Oct
+by Tarmo Uustalu on September 26 |  View on site
+
+32nd Nordic Workshop on Programming Theory, NWPT '21
+
+Reykjavik, Iceland and online, 4-6 November 2021
+
+----------------------------------------------------------------------
+Important dates
+
+Submission of abstracts 10 October
+Notification 17 October
+----------------------------------------------------------------------
+
+NWPT is a series of annual regional-scope workshops on programming
+theory, targeted especially at younger researchers. In 2020, the
+workshop had been scheduled to take place in Reykjavik, Iceland, but
+had to be cancelled (postponed) because of the pandemic.
+
+As the epidemiological situation in Iceland is currently relatively
+good, NWPT 2021 is now going ahead at short notice as a hybrid
+meeting, the circumstances permitting.  
+
+We hope this will be a nice opportunity especial ly for our PhD
+students and postdocs to attend a real physical workshop and present
+their work and to meet their colleagues from elsewhere in the Nordic
+countries - after a break of 1.5 years.
+
+
+----
+
+About NWPT
+
+The NWPT series of annual workshops is a forum bringing together
+programming theorists from the Nordic and Baltic countries, but also
+from elsewhere.
+
+Topics of interest include (but are not limited to)
+
+  - semantics of programming languages,
+  - programming language design and programming methodology,
+  - programming logics,
+  - formal specification of programs,
+  - program verification,
+  - program construction,
+  - tools for program verification and construction,
+  - program transformation and refinement,
+  - real-time and hybrid systems,
+  - models of concurrency and distributed computing,
+  - mode l-based testing,
+  - language-based security.
+
+Contributed talks
+
+Authors wishing to give a talk at the workshop are requested to submit
+abstracts of 2-3 pages (pdf, printable on A4 paper, typeset with LaTeX
+with easychair.cls) through EasyChair
+(https://easychair.org/conferences/?conf=nwpt2021) by 10 October. Work
+in progress as well as abstracts of manuscripts submitted for formal
+publication elsewhere are permitted.
+
+The abstracts of the accepted contributions will be available
+electronically before the workshop. By submitting to EasyChair you
+agree that your abstract will be publicly available. Moreover, you as
+an author are responsible for the content.
+
+Social program
+
+We are planning a trip/hike to the currently active Geldingadalir
+volcano.
+
+https://www.visitreykjanes.is/en/volcano-eruption/eruption-information
+
+Organizers
+
+Antonis Achilleos, Elli Anastasiadi, Dylan McDermott, Tarmo Uustalu
+
+Travel to Iceland
+
+This may change, but at the moment anyone fully vaccinated or
+recovered from Covid can enter the country without any restriction of
+movement after arrival, but needs to present a negative result from a
+PCR or rapid antigen test taken before departure (not older than 72
+hours).
+
+https://www.covid.is/english
+https://island.is/en/p/entry
+
+Further information
+
+More details will appear at this url:
+
+http://icetcs.ru.is/nwpt21/

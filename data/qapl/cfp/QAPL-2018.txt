@@ -1,0 +1,72 @@
+QAPL 2018: EPTCS application to publish
+
+The 16th installment of QAPL will be held as a one-day event at FLoC
+2018 in Oxford, mid July, on the day preceding FM 2018, to which the
+workshop is affiliated. PC-chairs are Mieke Massink (ISTI/CNR Pisa)
+and Erik de Vink(TU Eindhoven/CWI Amsterdam).
+
+As previous installments, QAPL 2018 has two types of contributions:
+regular papers and short presentations. Regular papers go through the
+usual refereeing process and will be included in the
+post-proceedings. Short presentations are selected by the PC-chairs
+and included in the pre-proceedings only.
+
+For the refereeing a program committee has been recruted consisting of
+23 researchers covering the field, including the PC chairs. (See
+below.) In line with previous years, we aim at 15 to 20 contributions
+to which 3 PC-members will be assigned, a workload of 2 or 3 papers
+per person for a three-week review period, with PC-chairs to guide the
+discussion and/or tie breaking. Reviews are collected at
+EasyChair. The EasyChair platform is also used for the on-line
+discussion.
+
+Two invited speakers have already been agreed to give a lecture, Carlo
+Ghezzi and Annabelle McIver. The program allows for 5 to 8 regular
+papers to be selected and as well as a smaller number of short
+presentations.
+
+Numbers of submissions of regular papers and short presentations has
+been dropping the past years. In 2017 in Uppsala faced an all-time low
+number of 6 regular papers vs 4 short contributions submitted of which
+5 regular papers have been selected for presentation and inclusion in
+the post-proceedings. Contributions of the invited speakers (then
+Erika Abraham and Andrea Vandin) have been included in the
+post-proceedings as well after review by both PC-chairs. Despite the
+low number of submissions, the workshop was a vivid gathering, also
+with people popping in and out, welcoming 25 to 30 attendees over the
+whole day.
+
+Proceedings of QAPL have appeared yearly in the EPTCS since 2010 as
+satelite event of ETAPS. For 2018 it has been decided to move to FLoC,
+partly because of the location (Thessaloniki for ETAPS vs. Oxford for
+FLoC) and partly, in view of the discussion above, to attract more and
+other, i.e., more logically oriented, submissions. It is noted, at
+ETAPS quantative topics have found well their way in the conference
+programs.
+
+
+QAPL 2018 PROGRAMME COMMITTEE
+
+  * Erika Ábrahám, RWTH Aachen University DE
+  * Alessandro Aldini, University of Urbino "Carlo Bo" IT
+  * Nathalie Bertrand, INRIA Rennes FR
+  * Luca Bortolussi, University of Trieste IT
+  * Konstantinos Chatzikokolakis, CNRS and École Polytechnique FR
+  * Vincenzo Ciancia, CNR-ISTI Pisa IT
+  * Josée Desharnais, Université Laval CA
+  * Pedro D'Argenio, Universidad Nacional de Cordoba AR
+  * Alessandra Di Pierro, Università di Verona IT
+  * Christoph Haase, University of Oxford UK
+  * Jane Hillston, University of Edinburgh UK
+  * Jan Kretinsky, TU Munich DE
+  * Michele Loreti, Università di Camerino IT
+  * Mieke Massink (co-chair), CNR-ISTI IT
+  * Mohammadreza Mousavi, University of Leicester UK
+  * David Šafránek, Masaryk University CZ
+  * Jeremy Sproston, University of Turin IT
+  * Ana Sokolova, University of Salzburg AT
+  * Marielle Stoelinga, University of Twente NL
+  * Mirco Tribastone, IMT Lucca IT
+  * Erik de Vink (co-chair), Eindhoven University of Technology NL
+  * Herbert Wiklicky, Imperial College UK
+  * Wang Yi, Uppsala University SE

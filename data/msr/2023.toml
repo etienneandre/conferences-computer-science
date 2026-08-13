@@ -20,3 +20,11 @@ license = "free"
 
 [extra]
 notes = "In French, but English papers accepted. Every 2 years. Poster PhD session. Best paper award for young scientists."
+
+[[cfp]]
+file = "cfp/MSR-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/MSR-2023-extended.txt"
+stage = "extended"

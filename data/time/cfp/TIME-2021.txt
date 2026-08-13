@@ -1,0 +1,130 @@
+*TIME 2021 1^st CALL FOR PAPERS*
+
+28th International Symposium on Temporal Representation and Reasoning
+
+Klagenfurt, Austria, 27-29 September 2021, time2021.aau.at
+<https://time2021.aau.at/>
+
+------------------------------------------------------------------------
+
+*Aims and Scope*
+
+  * Since 1994, the TIME International Symposium on Temporal
+    Representation and Reasoning aims to bring together researchers in
+    the area of temporal representation and reasoning in different areas
+    of Computer Science and related disciplines.
+  * TIME 2021 will be organized as a combination of technical paper
+    presentations, keynote talks, and tutorials.
+  * Besides sustaining the traditional three tracks (Time in Artificial
+    Intelligence, Temporal Databases, and Temporal Logic and Reasoning)
+    TIME 2021 in particular wants to stimulate cross cutting concerns.
+  * TIME 2021 is planning a hybrid conference. We aim at organizing an
+    in-presence event, but there will be possibilities for virtual
+    participation for delegates affected by travel restrictions.
+
+*Tracks*
+
+  * Time in Artificial Intelligence
+  * Temporal Databases
+  * Temporal Logic and Reasoning
+
+*Special Tracks*
+
+  * /Temporal representation and reasoning for Covid-19/
+
+owe are looking for submissions dealing with temporal issues in any
+context having to manage Covid-19 pandemic (healthcare, medicine, social
+contexts, school, and so on)
+
+  * /Temporal explainability: connecting symbolic and sub-symbolic
+    temporalities/
+      o we are looking for submissions dealing with some kind of
+        temporal logics/system/rules/visualization for
+        interpreting/explaining the results of machine learning
+        algorithms considering temporally relevant problems.
+
+*Topics*
+
+Topics for TIME 2021 include (but are not limited to):
+
+  * Spatial and temporal reasoning
+  * Temporal data models and query languages
+  * Time in natural language processing
+  * Temporal data mining
+  * Temporal constraints: representation and reasoning
+  * Time series data management
+  * Spatio-temporal knowledge representation systems
+  * Data currency and expiration
+  * Reasoning about actions and change
+  * Planning and planning languages
+  * Ontologies of time and space-time
+  * Belief and uncertainty in temporal knowledge
+  * Temporal learning and discovery
+  * Temporal query processing and indexing
+  * Stream data management
+  * Spatio-temporal data management, including moving objects
+  * Indeterminate and imprecise temporal data
+  * Specification and verification of temporal properties
+  * Model checking algorithms and implementations
+  * Temporal aspects of agent- and policy-based systems
+  * Temporal aspects of service level agreements
+  * Temporal aspects of business process modeling and management
+
+
+*Submission & Publication*
+
+TIME 2021 accepts submissions in PDF format, no longer than 12 pages
+excluding references and appendix. The appendix is limited to 5 pages,
+and the reviewers may or may not take it into account for their
+recommendation. Submissions must be formatted following the LIPIcs
+instructions (https://submission.dagstuhl.de/documentation/authors
+<https://submission.dagstuhl.de/documentation/authors>), and preferably
+redacted in LaTex. All submissions have to be made electronically via
+easychair at https://easychair.org/conferences/?conf=time20211
+<https://easychair.org/conferences/?conf=time20211>(details at
+time2021.aau.at <https://time2021.aau.at/>).
+
+*Paper abstracts*must be submitted one week before the final paper
+submission deadline.
+
+TIME policy is single blind, so the names of the authors need not be
+hidden in the submitted draft. Members of the program committee,
+excluding the PC chairs, are allowed to submit papers. Submitted papers
+will be refereed for quality, correctness, originality, and relevance to
+the conference.
+
+Submissions to TIME 2021 must be original, parallel submissions of the
+same material to other conferences or journals are not allowed. Accepted
+papers will be presented at the symposium and included in the
+proceedings, which will be published by LIPIcs-Leibniz International
+Proceedings in Informatics
+(https://www.dagstuhl.de/en/publications/lipics/
+<https://www.dagstuhl.de/en/publications/lipics/>), a series of
+high-quality peer-reviewed conference proceedings which are published
+according to the principle of OpenAccess. At least one author of each
+accepted paper must register at the conference and present either
+virtually or (if possible) in person. In-person participation in the
+symposium will not be a prerequisite for publication.
+
+Authors of selected papers will be invited to submit an extended version
+of their contribution to a special issue of a high-quality journal yet
+to be decided.
+
+*Important Dates *
+
+  * Abstracts due: April 23, 2020
+  * Papers due: April 30, 2020
+  * Notification: June 15, 2020
+  * Final camera-ready version: July 4, 2020
+  * Conference: September 27-29, 2020
+
+*Program Committee Chairs*
+
+Carlo Combi (University of Verona, Italy)
+Johann Eder (University of Klagenfurt, Austria)
+Mark Reynolds (University of Western Australia, Perth, Australia)
+
+*Local Organization:*
+
+Johann Eder (University of Klagenfurt, Austria)
+Marco Franceschetti (University of Klagenfurt, Austria)

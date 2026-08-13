@@ -1,0 +1,46 @@
+**************************************************************
+                   CALL FOR PAPERS
+The 20th European Performance Engineering Workshop (EPEW 2024)
+             Venice – June 14,  2024
+**************************************************************
+EPEW is an international workshop for academic and industrial researchers
+from diverse fields with a common interest in performance modelling,
+analysis and the design of stochastic systems.
+
+This year EPEW (https://epew-workshop.github.io) is co-located with ACM Sigmetrics / IFIP Performance.
+
+The workshop features post-proceedings this year with a two-phase review process.
+
+We solicit short papers of at most 7 pages for presentation at the conference, which will not be published.
+Authors of accepted short papers are then invited to submit a full paper with at most 15 pages for publication
+In the post-proceedings.
+
+The post-proceedings of EPEW 2024 will be published in the Lecture Notes in Computer Science (LNCS) Series by Springer
+and indexed by Scopus and WOS.
+
+IMPORTANT DATES
+Paper Submission deadline: April 7th, 2024
+Notification of Acceptance: May 10th, 2024
+Deadline for post-proceedings:  July 31st, 2024
+Acceptance notification for post-proceedings: September 30, 2024
+
+INSTRUCTIONS FOR PAPER SUBMISSION
+EPEW 2024 seeks workshop presentations, submitted in the form of 7-page short research papers in Springer LNCS format.
+Authors of accepted short papers will be invited to submit an extended version of the short paper for publication in the post-proceedings.
+The page limit of an article in the post-proceedings is 15 pages in Springer LNCS format.
+All page limits include tables, figures, and references.
+
+All submitted papers will be reviewed based on technical quality, relevance, significance, and clarity by the program committee.
+All papers should be submitted electronically in PDF format through the EasyChair workshop website. Submissions must follow the Springer LNCS proceedings format.
+
+BEST PRESENTATION AWARD
+The EPEW 2024 committee will select the best paper presentation at the
+conference for which a certificate will be presented at the end of the
+conference. Note that the selection is based on content, as well as presentation.
+
+ORGANIZING COMMITTEE
+General Chair:
+Josu Doncel University of the Basque Country, Spain
+TPC Chairs:
+Daneiel Di Pompeo SPENCER Lab, University of L’Aquila, Italy
+Anne Remke   University of Münster, Germany

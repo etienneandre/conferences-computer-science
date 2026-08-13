@@ -1,0 +1,112 @@
+*TASE 2026*
+
+*20th International Symposium onTheoretical Aspects of Software
+EngineeringShanghai, China, 4-6 July 2026https://tase2026.github.io/
+<https://tase2026.github.io/>*
+
+*Objectives and scope*
+    Now in its 20th edition, TASE is an international symposium
+that aims to bring together researchers and developers from
+academia and industry with interests in the theoretical aspects
+of software engineering. We invite submissions of research
+papers on topics covering all theoretical aspects of software
+engineering, including, but not limited to, the following:
+
+Abstract interpretation · Algebraic and co-algebraic
+specifications · Component-based software engineering ·
+Cyber-physical systems · Deductive verification · Distributed
+and concurrent systems · Domain Engineering · Embedded and
+real-time systems · Feature-oriented software · Formal
+verification and program semantics · Integration of formal
+methods · Language design · Model checking and theorem proving ·
+Model-driven engineering · Object-oriented systems · Probability
+in software engineering · Program analysis · Program logics and
+calculi · Requirements engineering · Reverse engineering and
+software maintenance · Run-time verification and monitoring ·
+Semantic web and web services · Service-oriented and cloud
+computing · Software processes and workflows · Software
+architectures and design · Software testing and quality
+assurance · Software safety, security, and reliability ·
+Specification and verification · Type systems and behavioural
+typing · Tools exploiting theoretical results
+
+*Submission*
+    Submissions to the conference must not have been published
+or be concurrently considered for publication elsewhere. Papers
+should be written in English and should not exceed 16 pages
+(excluding the bibliography) in LNCS format.
+
+Submission link: https://easychair.org/conferences?conf=tase2026
+
+    The authors of a selected subset of accepted papers will be
+invited to submit extended versions of their papers to a special
+issue in the Science of Computer Programming journal
+(https://www.journals.elsevier.com/science-of-computer-programming).
+
+*Important dates*
+    [Revised] Abstract submission: *1 March 2026*
+    [Revised] Paper Submission: *7 March 2026*
+    Author Notification: 1 April 2026
+    Camera Ready: 1 May 2026
+    TASE2026 Conference: 4-6 July 2026
+
+Steering committee
+Keijiro Araki, Kumamoto College
+Jifeng He, East China Normal University
+Michael Hinchey, Lero
+Shengchao Qin, Xidian University
+Huibiao Zhu, East China Normal University
+
+General Chair
+Geguang Pu, East China Normal University
+
+Program Co-Chairs
+Giuseppe De Giacomo, University of Oxford
+Jianwen Li, East China Normal University
+
+Local Organization Chairs
+Qin Li, East China Normal University
+Lili Xiao, Donghua University
+
+Publicity Chairs
+Jonathan Bowen, London South Bank University
+Lili Xiao, Donghua University
+
+Keynote speakers
+    TBA
+
+Programme committee
+Yamine Ait Ameur, IRIT/INPT-ENSEEIHT
+Jie An, Institute of Software, CAS
+Giuseppe De Giacomo, University of Oxford
+Hongfei Fu, Shanghai Jiaotong University
+Alberto Griggio, FBK
+Zhe Hou, Griffith University
+Daisuke Kimura, Toho University
+Guoqiang Li, Shanghai Jiaotong University
+Jianwen Li, East China Normal University
+Yeting Li, Institute of Information Engineering, CAS
+Wanwei Liu, National University of Defense Technology
+Yepang Liu, Southern University of Science and Technology
+Teng Long, China University of Geosciences
+Frederic Mallet, Université Nice Sophia-Antipolis
+Bertrand Meyer, ETH Zurich
+Dominique Mery, Loria Université de Lorraine
+Yu Pei, The Hong Kong Polytechnic University
+Shengchao Qin, Xidian University
+Kristin Yvonne Rozier, Iowa State University
+Xiaomu Shi, Shenzhen University
+Stefano Tonetta, FBK
+Cheng Wen, Xidian University
+Lili Xiao, Donghua University
+Hui Xu, Fudan University
+Yedi Zhang, National University of Singapore
+Hengjun Zhao, Southwest University
+Lixiao Zheng, Huaqiao University
+Shufang Zhu, University of Liverpool
+
+--
+*Prof. Jonathan Bowen *FBCS FRSA
+Emeritus Professor of Computing, London South Bank University, UK
+Adjunct Professor, RISE, Southwest University, Chongqing, China
+Chairman, Museophile Limited, Oxford, UK

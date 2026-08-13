@@ -19,3 +19,7 @@ license = "acm"
 
 [extra]
 notes = "Lightweight double-blind review process. Also tutorials, doctoral symposium, tool demos and others. Author response period: May 7 — May 10, 2018."
+
+[[cfp]]
+file = "cfp/ESEC-FSE-2018.txt"
+stage = "initial"

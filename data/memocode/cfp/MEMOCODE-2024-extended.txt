@@ -1,0 +1,123 @@
+Call for Papers -- MEMOCODE 2024 22nd ACM/IEEE International Symposium
+on Formal Methods and Models for System Design October 03-04, 2024,
+RALEIGH, NC, USA - Part of ESWEEK 2024 -
+
+https://memocode2024.github.io/ [1]
+
+https://esweek.org/memocode/ [2] IMPORTANT DATES
+·       Abstract submission deadline: May 27, 2024
+·       Paper submission deadline: May 27, 2024
+·       Notification of acceptance: Jul 08, 2024
+·       Final version of papers: Jul 29, 2024
+·       Conference: Oct 03-04, 2024
+
+MEMOCODE brings together researchers and practitioners interested in
+formal methods for system design and development, to exchange ideas,
+research results and lessons learned. The symposium focuses on the
+foundations and applications of formal methods in the development of
+hardware, firmware, middleware, and application software for systems,
+ranging from single embedded devices to highly networked cyber-physical
+systems and the Internet of Things. MEMOCODE 2024 is a part of ESWEEK
+2024, which will take place in RALEIGH, NC, USA. Registered attendees
+can attend sessions in any of the online events, including the
+conferences (CASES, CODES+ISSS, EMSOFT), symposia, tutorials, workshops,
+and education classes. Confirmed keynote speakers are Sanjit Seshia
+(University of California, Berkeley), and Taylor Johnson (Vanderbilt
+University).
+
+TOPICS OF INTEREST MEMOCODE solicits research papers on formal methods
+in system design that address the foundations, engineering methods,
+tools, or experimental case studies. Research areas of interest include,
+but are not limited to, the following: * Modeling Languages, Methods,
+and Tools Programming languages and models; software and system modeling
+languages; architecture and high-level hardware description languages;
+timing models; model and program synthesis methods; model transformation
+methods. * Formal Methods and Tools Correct-by-construction methods;
+contract-based design and verification; static, dynamic, and type
+theoretic analysis; verification; validation; probabilistic model
+checking; test generation; refinement-based and compositional approaches
+to design and verification. * Models and Methods for Developing Critical
+Systems Fault-tolerant systems; security-critical and safety-critical
+systems; cyber-physical systems; hybrid systems; autonomous systems;
+self-adapting systems; systems that merge humans, artificial
+intelligence, and cyber-physical systems; societal-scale cyber-physical
+systems, such as connected vehicles and smart grids. *
+Quantitative/Qualitative Reasoning Power/performance/cost/latency
+estimation methods; system models for quantitative design space
+exploration * Formal Methods/Models in Practice Design case studies;
+empirical case studies SUBMISSIONS MEMOCODE calls for three kinds of
+submissions: regular papers, work-in-progress papers, and tool
+presentations. All papers must be written in English and formatted
+according to the IEEE Computer Society guidelines. Submission of papers
+is handled via hotCPR (https://memocode24.hotcrp.com [3]). * Regular
+papers are no longer than 10 pages, excluding bibliography and
+appendices. They should describe original work that does not overlap
+with another publication or a submission under review or accepted for
+publication by any other conference or journal. Reviewers will check
+regular papers for the soundness and novelty of the proposed solutions.
+* Tool papers are no longer than 8 pages, excluding bibliography and
+appendices. They should describe an existing and publicly available tool
+that implements relevant methods. The methods might have been published
+before, but the tool should not have been described in a tool paper
+previously. In addition to reviewing the paper, reviewers will assess
+the tool itself using inputs and a user's manual provided by the authors
+on the tool's web page. * Work-in-progress (WIP) papers are no longer
+than 4 pages, excluding bibliography and appendices. They should
+describe ongoing work. Reviewers will judge the novelty of the idea, but
+do not yet expect proofs for the envisioned results. For questions
+regarding technical submissions, feel free to contact one of the program
+committee co-chairs. All accepted papers (regular papers, WIP papers,
+and tool papers) will be published as IEEE conference proceedings with
+IEEE eXpress. Publication in the proceedings is contingent on one author
+registering for and presenting the paper at the conference. We may also
+plan for a special issue of the ACM Transactions on Embedded Computing
+Systems for which selected papers will be invited for publication. The
+Program Committee will also select 1-2 papers for the Best Paper Award.
+
+GENERAL CHAIRS Stephen A. Edwards, Columbia University, USA Claire
+Pagetti, ONERA, France
+
+PROGRAM CHAIRS Qi Zhu, Northwestern University, USA Srinivas Pinisetty,
+Indian Institute of Technology Bhubaneswar, India
+
+STEERING COMMITTEE CHAIR Jean-Pierre Talpin, Inria, France
+PROGRAM COMMITTEE
+Ansuman Banerjee, Indian Statistical Institute, India
+Chao Huang, University of Southampton, United Kingdom
+Doron Peled, Bar Ilan University, Israel
+Elizabeth Leonard, Naval Research Laboratory, United States
+Eunsuk Kang, Carnegie Mellon University, United States
+Inigo Incer, California Institute of Technology, United States
+Jean-Pierre Talpin, Inria, Rennes, France
+Jürgen Teich, University of Erlangen-Nuremberg, Germany
+Katell Morin-Allory, TIMA Laboratory, France
+Khaza Anuarul Hoque, University of Missouri, United States
+Klaus Schneider, University of Kaiserslautern, Germany
+Luan Nguyen, University of Dayton, United States
+Luciano Lavagno, Politecnico di Torino, Italy
+Marjan Sirjani, Malardalen University, Sweden
+Martin Fränzle, Carl von Ossietzky Universität Oldenburg, Germany
+Matthew Kuo, Auckland University of Technology, New Zealand
+Partha Roop, University of Auckland, New Zealand
+Patricia Derler, Zoox, United States
+Pavithra Prabhakar, Kansas State University, United States
+Pierluigi Nuzzo, University of Southern California, United States
+Purandar Bhaduri, IIT Guwahati, India
+Reinhard von Hanxleden, Kiel University, Germany
+Rick Kuhn, Natl Institute of Standards & Technology, United States
+Roberto Passerone, University of Trento, Italy
+Sandeep Shukla, Indian Institute of Technology Kanpur, India
+Sanjiva Prasad, Indian Institute of Technology Delhi, India
+Shuvra Bhattacharyya, University of Maryland, United States and INSA/IETR, France
+Stavros Tripakis, Northeastern University, United States
+Sven Schewe, University of Liverpool, United Kingdom
+Thao Dang, CNRS/VERIMAG, France
+Wenchao Li, Boston University, United States
+Xin Chen, University of New Mexico, United States
+Xuandong Li, Nanjing University, China
+
+Links:
+------
+[1] https://memocode2024.github.io/
+[2] https://esweek.org/memocode/
+[3] https://memocode24.hotcrp.com/

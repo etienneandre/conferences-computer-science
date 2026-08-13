@@ -1,0 +1,63 @@
+=========================================================
+DEADLINE EXTENDED for ABSTRACTS 
+9th International Young Researchers Workshop on Concurrency Theory
+(satellite workshop of CONCUR 2019)
+
+URL: https://yr-concur2019.fsa.win.tue.nl
+
+Submission deadline (NEW):
+***Friday, June  28, 2019***
+
+==========================================================
+
+Aims and objectives:
+
+This workshop aims at providing a platform for PhD students and young
+researchers who recently completed their doctoral studies, to exchange new
+results related to concurrency theory and receive feedback on their research.
+Focus is on informal discussions. Excellent master students working on
+concurrency theory are also encouraged to contribute.
+
+Format:
+
+YR-CONCUR 2019 is a satellite workshop of CONCUR 2019 and will be held on
+Saturday, August 31th, 2019. It is anticipated that many CONCUR participants
+will attend the YR-workshop (and vice versa). Presentations are selected on the
+basis of an abstract of up to 4 pages (incl. references) describing the
+research. No particular format is required. Submissions are judged on the
+expected interest in and quality of the talk. The accepted abstracts will be
+made available at the workshop, but no formal proceedings are planned. It is
+thus also allowed (and encouraged) to send results that have been published at
+other conferences (although preferably not at CONCUR 2019 or any of its other
+satellite workshops).
+
+
+Important Dates:
+
+- Deadline for 4-page abstracts (extended): June 28, 2019
+- Notification of acceptance: July 19, 2019
+- Final version: August 16, 2019
+- Workshop: August 31, 2019
+
+Submission:
+
+4-page abstracts (including references) should be submitted via the YR-CONCUR
+2019 submission page on EasyChair:
+
+https://easychair.org/conferences/?conf=yrconcur2019
+
+Organizers and PC Chairs:
+
+- Jeroen Keiren (Eindhoven University of Technology, Netherlands)
+- Christian Roldán (Universidad de Buenos Aires, Argentina)
+
+
+Program Committee:
+
+- Carla Ferreira (Universidade Nova de Lisboa, Portugal)
+- Jeroen Keiren (Eindhoven University of Technology, Netherlands)
+- Sophia Knight (University of Minnesota Duluth, USA)
+- Julien Lange (University of Kent, UK)
+- Christian Roldán (Universidad de Buenos Aires, Argentina)
+- Jurriaan Rot (Radboud University Nijmegen, The Netherlands)
+- Valeria Vignudelli (Ecole Normale Supérieure de Lyon, France)

@@ -1,0 +1,122 @@
+=================
+  MFCS 2023
+=================
+
+48th International Symposium on Mathematical Foundations of Computer Science
+August 28 — September 1, 2023, Bordeaux, France
+
+The MFCS conference series on Mathematical Foundations of Computer Science is a high-quality venue for original research in all branches the longest history in the field-the first conference in the series was held already in 1972. Traditionally, the conference moved between the Czech Republic, Slovakia, and Poland, while since 2013, the conference has traveled around Europe.
+
+MFCS 2023 will be held in Bordeaux, France.
+https://mfcs2023.labri.fr/
+
+Barring substantial and unforeseen developments, MFCS will be organized as a physical event, and at least one author of each accepted paper must register at the conference.
+
+Invited speakers
+Marthe Bonamy (University of Bordeaux, France)
+Joan Boyar (University of Southern Denmark), Online Algorithms with Predictions
+Artur Czumaj (University of Warwick, UK)
+Laura Kovacs (TU Wien, Austria), Algebraic Reasoning for (Un)Solvable Loops
+Paul Spirakis (university of Liverpool, UK)
+
+Important Dates
+Abstract submission deadline:   April 24th (AoE)
+Paper submission deadline:      April 28th (AoE)
+Notification of authors:        June 27th
+Camera-ready:                   July 18th
+Conference dates:               August 28th - September 1st
+
+Submission Guidelines
+Papers should be submitted electronically through EasyChair.
+https://easychair.org/conferences/?conf=mfcs2023
+
+Submissions should be formatted using the LIPIcs style with length not exceeding 12 pages (excluding references and an optional appendix). References and an optional appendix can go beyond the 12 pages; the appendix will be consulted at the discretion of the program committee. It is mandatory to use the LIPIcs style for submissions.
+
+No prior publication or simultaneous submission to other conferences or journals are allowed (except preprint repositories such as arXiv or workshops without formal published proceedings).
+
+Publication
+As in previous years, MFCS 2023 proceedings will be published in LIPIcs (Leibniz International Proceedings in Informatics) under an open access license.
+
+List of Topics
+We encourage submission of original research papers in all areas of theoretical computer science, including (but not limited to) the following:
+
+algebraic and co-algebraic methods in computer science
+algorithms and data structures
+automata and formal languages
+bioinformatics
+combinatorics on words, trees, and other structures
+computational complexity (structural and model-related)
+computational geometry
+computer-aided verification
+computer assisted reasoning
+concurrency theory
+cryptography and security
+cyber physical systems, databases and knowledge-based systems
+formal specifications and program development
+foundations of computing
+logics in computer science
+mobile computing
+models of computation
+networks
+parallel and distributed computing
+quantum computing
+semantics and verification of programs
+theoretical issues in artificial intelligence and machine learning
+types in computer science
+
+Program Committee
+
+Parosh Aziz Abdulla (Uppsala University)
+Akanksha Agrawal (Indian Institute of Technology Madras)
+Susanne Albers (Technical University of Munich)
+Josh Alman (Columbia University)
+Christel Baier (Technische Universität Dresden)
+Laurent Bienvenu (University of Bordeaux)
+Hans Bodlaender (Utrecht University)
+Olivier Bournez (Ecole Polytechnique)
+Véronique Bruyère (University of Mons)
+Ioannis Caragiannis (Aarhus University)
+Keerti Choudhary (Indian Institute of Technology Delhi)
+Vincent Cohen-Addad (Google Research)
+Thierry Coquand (University of Gothenburg)
+Stéphanie Delaune (University of Rennes, CNRS, IRISA)
+Javier Esparza (Technische Universität München)
+Piotr Faliszewski (AGH University of Science and Technology)
+Michal Feldman (Tel-Aviv University)
+Paola Flocchini (University of Ottawa)
+Luisa Gargano (Università di Salerno)
+Leszek Gasieniec (University of Liverpool)
+Jean Goubault-Larrecq (ENS Paris-Saclay)
+Petr Jancar (Palacky University)
+Lefteris M. Kirousis (National and Kapodistrian University of Athens)
+Sándor Kisfaludi-Bak (Aalto University)
+Lukasz Kowalik (University of Warsaw)
+Daniel Kráľ (Masaryk University)
+Rastislav Královič (Comenius University)
+Ranko Lazic (University of Warwick)
+Christof Löding (RWTH Aachen University)
+Pinyan Lu (Shanghai University of Finance and Economics)
+Elvira Mayordomo (Universidad de Zaragoza)
+Paolo Milazzo (University of Pisa)
+Simon Perdrix (Inria, Loria)
+Sophie Pinchinat (University of Rennes)
+Jörg Rothe (Heinrich-Heine-Universität Düsseldorf)
+Jiri Sgall (Charles University)
+Mahsa Shirmohammadi (CNRS, IRIF, University Paris Cité)
+Michał Skrzypczak (University of Warsaw)
+Shay Solomon (Tel Aviv University)
+Dimitrios M. Thilikos (CNRS, LRIMM, University of Montpellier)
+Patrik Totzke (University of Liverpool)
+Ashutosh Trivedi (University of Colorado Boulder)
+James Worrell (University of Oxford)
+Xiaoming Sun (Chinese Academy of Sciences)
+Meirav Zehavi (Ben-Gurion University)
+Marius Zimand (Towson University)
+Martin Zimmermann (Aalborg University)
+
+Organising Committee
+
+Hugo Gimbert
+Sylvain Lombardy
+Anca Muscholl
+Vincent Penelle

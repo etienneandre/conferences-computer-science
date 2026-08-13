@@ -1,0 +1,140 @@
+=========================================================================
+                                   WATERS 2018
+-------------------------------------------------------------------------
+
+     9th International Workshop on Analysis Tools and Methodologies
+             for Embedded and Real-time Systems (WATERS 2018)
+
+                                    WATERS 2018
+
+http://w3.onera.fr/waters2018/node/2
+
+-------------------------------------------------------------------------
+
+                                CALL FOR PAPERS
+
+-------------------------------------------------------------------------
+The goal of the WATERS workshop series is to create a common ground
+and a community to share methodologies, software tools, best
+practices, data sets, application models, benchmarks and any other way
+to improve comparability of results in the current practice of
+research in real-time and embedded systems.
+
+-------------------------------------------------------------------------
+SCOPE
+
+Areas of interest include, but are not limited to:
+ - Tools and methods for the analysis of real-time systems
+ - Realistic case studies and reusable data sets
+ - Comparative evaluation of existing algorithms and techniques
+ - Modelling, analysis and simulation of, possibly mixed-criticality,
+   real-time, distributed, and embedded systems running on multi-core,
+   many-core, massively parallel, or distributed systems
+ - Modelling, analysis and simulation of the various components
+   of the run-time environment, including the operating system, the
+   hypervisor, or complex middleware components
+ - Instrumentation, tracing methods and overhead analysis, including
+   proper accounting of the overheads due to various virtualization
+   technologies
+ - Power consumption models and experimental data for real-time
+   power-aware systems
+ - Simulation, instrumentation and analysis of complex distributed
+   systems infrastructures such as Cloud Computing infrastructures,
+   when supporting real-time and QoS-aware applications
+
+-------------------------------------------------------------------------
+FOCUS OF THE 2018 EDITION
+
+Modern embedded systems (e.g. ADAS in automotive or mobile robotics) are
+characterized by the fusion of several application domains (e.g.
+control, cognition, high-level planning, etc.) onto the same digital HW
+platform. Each of these application domains is characterized by
+different execution requirements and follows different models of
+computation. As a consequence, classical models in isolation are not
+sufficient to predict real-time and performance properties. This year we
+particularly encourage submissions proposing novel models or combining
+existing models for analyzing real-time and performance properties for
+such heterogeneous systems.
+
+
+-------------------------------------------------------------------------
+KEYNOTE
+
+Alain Girault, INRIA Grenoble Rhône-Alpes
+
+-------------------------------------------------------------------------
+CALL FOR CHALLENGE SOLUTIONS
+
+This year Dassault Aviation proposes a new WATERS challenge based on the RESSAC use-case
+https://www.ecrts.org/forum/viewtopic.php?f=39&t=111&sid=42989986f6dbb5ff20d6f35e91488f0c
+
+Solutions to the previous challenges proposed by Robert Bosch GmbH and Thales Research and Technology are still welcome. Details about last years challenges and solutions can be found in the WATERS forum under http://ecrts.eit.uni-kl.de/forum/
+
+-------------------------------------------------------------------------
+DEMO SESSION AT THE ECRTS MAIN CONFERENCE
+
+Together with the Work-in-Progress poster session and reception,
+authors of contributions accepted at WATERS (regular contributions and
+challenge solutions) will have the opportunity to show demonstrations
+of their work to all ECRTS participants on July 4th. This is one of
+the most attractive and interactive events at the conference. All
+prospective authors are very much encouraged to consider this
+opportunity. Technical requirements regarding demos must be provided at
+the same time as paper final versions.
+
+-------------------------------------------------------------------------
+SUBMISSION INSTRUCTIONS
+
+Again this year, we offer a flexible submission format, allowing both
+regular papers (6 pages IEEE format) and proposals for a technical
+presentation (1 page IEEE format).
+
+We also welcome proposals for panel discussions. If you are interested
+please contact the WATERS’18 chairs.
+
+All submitted contributions will be reviewed by the workshop program
+committee. The accepted contributions will be made available online
+via the community forum at least one week before the workshop so that
+contributions can be examined prior to the event. The copyright
+remains with the authors.
+
+By submitting a contribution, the authors agree and confirm that, if
+accepted, at least one author will register for WATERS 2018 by the
+special registration deadline set in the notification of acceptance,
+and present the contribution at the workshop in person.
+
+Forum link:
+http://ecrts.eit.uni-kl.de/forum/
+
+-------------------------------------------------------------------------
+WORKSHOP CHAIRS
+
+Arne Hamann, Bosch GmbH, Germany
+Claire Pagetti, ONERA/ENSEEIHT, France
+
+PROGRAM COMMITTEE
+Moris Benham, MRTC/Mälardalen University, Sweden
+Alessandro Biondi, Scuola Superiore Sant'Anna, Italy
+Javier Coronel, ITI, Spain
+Silviu Craciunas, TTTech Computertechnik AG, Austria
+Benoît Dupont de Dinechin, Kalray, France
+Loïc Fejoz, RealTime-at-Work, France
+Benjamin Lesage, University of York, UK
+Giuseppe Lipari, Université de Lille 1, France
+Martina Maggio, Lund University, Sweden
+Julio Medina, Universidad de Cantabria, Spain
+Quentin Perret, ARM, UK
+Sophie Quinton, INRIA, France
+Selma Saidi, TUHH Hamburg University of Technology, Germany
+Simon Schliecker, Volkswagen AG, Germany
+
+
+FMTV CHALLENGE COMMITTEE
+Arne Hamann, Robert Bosch, Germany
+Rafik Henia, Thales, France
+Simon Kramer, Robert Bosch, Germany
+Emmanuel Ledinot, Dassault, France
+Dirk Ziegenbein, Robert Bosch, Germany
+
+Participants to the challenge will also be invited to the challenge
+committee.

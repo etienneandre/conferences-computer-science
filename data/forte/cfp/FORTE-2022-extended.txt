@@ -1,0 +1,179 @@
+DISCOTEC 2022 final CFP, 13-17 June 2022, Lucca, Italy
+
+https://www.discotec.org/2022
+
+[apologies for multiple copies, please forward it to interested parties]
+
+===================================================================
+
+JOINT CALL FOR PAPERS [EXTENDED DEADLINE]
+
+DISCOTEC 2022
+
+17th International Federated Conference on Distributed Computing Techniques
+
+13-17 June 2022, Lucca, Italy
+
+https://www.discotec.org/2022
+
+===================================================================
+
+DisCoTec 2022 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and workshops that cover a broad spectrum of distri buted computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+=== COVID-19 ===
+
+DISCOTEC 2022 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
+
+=== Main Conferences ===
+
+COORDINATION
+
+    https://www.discotec.org/2022/coordination
+
+    24rd International Conference on Coordination Models and Languages
+
+    PC Chairs: Maurice ter Beek (ISTI-CNR, Pisa, Italy) and Marjan Sirjani (Mälardalen University, Sweden)
+
+ 
+
+DAIS
+
+    https://www.discotec.org/2022/dais
+
+    22st Int ernational Conference on Distributed Applications and Interoperable Systems
+
+    PC Chairs: David Eyers (University of Otago, NZ) and Spyros Voulgaris (Athens University of Economics and Business, GR)
+
+FORTE
+
+    https://www.discotec.org/2022/forte
+
+    42st International Conference on Formal Techniques for Distributed Objects, Components and Systems
+
+    PC Chairs: Mohammad Mousavi (King’s College London, UK) and Anna Philippou (University of Cyprus, Cyprus)
+
+=== Important Dates (for all main conferences) ===
+
+- Abstract submission: February 11, 2022 [extended]
+
+- Paper submission: February 18, 2022 [extended]
+
+- Paper notification: March 25, 2022
+
+- Camera-ready: April 24, 2022
+
+- DisCoTec conference: June 13-18, 2022
+
+Deadlines expire at 23:59 anywhere on earth on the dates displayed above. The deadlines are STRICT: there will be no further exte nsions.
+
+=== Satellite Events ===
+
+We invite the community to submit proposals for tutorials on topics related to the distributed computing field. Important dates for all tutorials:
+
+Tutorial proposal submission deadline: February 28, 2022
+
+Notification of accepted workshop proposals: March 07, 2022
+
+Tutorials: June 13, 2022
+
+=== Submission Categories ===
+
+COORDINATION
+
+- Regular long papers (7-15 pages)
+
+- Regular short papers (4-6 pages)
+
+- Long tool papers (7-15 pages)
+
+- Short tool papers (4-6 pages)
+
+- Survey papers (16-25 pages)
+
+References do not count towards the page limit.
+
+DAIS
+
+- Full research papers (max 15 pages)
+
+- Full practical experience reports (max 15 pages)
+
+- Work-in-progress papers (max 6 pages)
+
+References have a separate page limit of 2 pages.
+
+FORTE
+
+- Full papers (max 15 pages + 2 pages reference s)
+
+- Short papers (max 6 pages + 2 pages references)
+
+- “Journal First” papers (max 4 pages, including references)
+
+=== Proceedings ===
+
+The proceedings of the conferences are published in LNCS-IFIP volumes. These shall be open access from the IFIP digital library after a 3-year embargo.
+
+=== Organising Committee ===
+
+- Rocco De Nicola (IMT School for Advanced Studies, IT — General Chair)
+
+- Letterio Galletta (IMT School for Advanced Studies, IT — Chair of the Local Organizing Committee)
+
+- Marinella Petrocchi (IIT-CNR, IT)
+
+- Simone Soderi (IMT School for Advanced Studies, IT)
+
+- Francesco Tiezzi (University of Florence, IT — Workshops and Tutorials Chair)
+
+- Giorgio Audrito (University of Torino, IT — Publicity chair)
+
+=== Steering Committee ===
+
+- Gianluigi Zavattaro (University of Bologna, IT — Chair)
+
+- Rocco De Nicola (IMT Lucca, I T)
+
+- Kurt Geihs (University of Kasel, DE)
+
+- Elie Najm (Telecom Paris Tech, FR)
+
+- Mieke Massink (CNR-ISTI, IT)
+
+- Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
+
+- Ivan Lanese (University of Bologna/INRIA, IT)
+
+- Manuel Núñez (Universidad Complutense de Madrid, ES)
+
+- Alberto Lluch Lafuente (Technical University of Denmark, DK)
+
+- Adrian Francalanza (University of Malta, MT)
+
+=== Advisory Board ===
+
+- Alain Girault (INRIA Grenoble, FR)
+
+- Uwe Nestmann (TU Berlin, DE)
+
+- Michele Loreti (University of Camerino, IT)
+
+- Jim Dowling (RISE & KTH, SE)
+
+- Marjan Sirjani (University of Malarden, SE)
+
+- Frank de Boer (Centrum Wiskunde & Informatica (CWI), NL)
+
+- Farhad Arbab (Centrum Wiskunde & Informatica (CWI), NL)
+
+- Lea Kutvonen (University of Helsinki, FI)
+
+- John Derrick (University of Sheffield, UK)
+
+- Pascal Felber (University of Neuchâtel, CH)
+
+- Kostas Magoutis (ICS-FORTH, GR)
+
+- Rui Oliveira (University of Minho, PT)
+
+- Jean-Bernard Stefani (INRIA Grenoble, FR)

@@ -1,0 +1,319 @@
+
+
+[Sorry for multiople postings]
+
+========================================================
+ICALP 2023 - Second Call for papers
+========================================================
+
+The 50th EATCS International Colloquium on Automata, Languages, and Programming
+(ICALP) will take place in:
+
+Paderborn, Germany, on 10-14 July 2023.
+
+ICALP is the main conference and annual meeting of the European Association for
+Theoretical Computer Science
+(EATCS). As usual, ICALP will be preceded by a series of workshops, which will
+take place on July 10.
+
+The 2023 edition has the following features:
+- Submissions are anonymous, and there is a rebuttal phase.
+- The conference is planned as a physical, in-person event.
+- This will be the 50th ICALP conference and some special events are planned.
+
+========================================================
+Important dates and information
+========================================================
+
+Submissions: February 11, 2023 at 11am CET
+Rebuttal: March 22-25, 2023
+Author notification: April 21, 2023
+Camera-ready version: May 5, 2023
+Early registration: TBA
+Conference: July 10-14, 2023 (Workshops on July 10, 2023)
+
+Deadlines are firm; late submissions will not be considered.
+
+Conference website: https://icalp2023.cs.upb.de/
+Twitter: @ICALPconf
+Submission (tracks A and B): https://easychair.org/conferences/?conf=icalp2023
+
+========================================================
+Invited Speakers
+========================================================
+
+Anna Karlin - University of Washington, USA
+Rasmus Kyng - ETH Zurich, Switzerland
+Rupak Majumdar - Max Planck Institute for Software Systems, Germany
+Thomas Vidick - California Institute of Technology, USA, and Weizmann Institute
+of Science, Israel
+James Worrell - University of Oxford, UK
+
+========================================================
+Submission guidelines
+========================================================
+
+1) Papers must present original research on the theory of computer science. No
+prior publication and no
+simultaneous submission to other publication outlets (either a conference or a
+journal) is allowed. Authors are
+encouraged to also make full versions of their submissions freely accessible in
+an on-line repository such as
+ArXiv, HAL, ECCC.
+
+2) Submissions take the form of an extended abstract of no more than 15 pages,
+excluding references and a clearly
+labelled appendix. The appendix may consist either of omitted proofs or of a
+full version of the submission, and
+it will be read at the discretion of program committee members. The extended
+abstract has to present the merits
+of the paper and its main contributions clearly, and describe the key concepts
+and technical ideas used to obtain
+the results. Submissions must provide the proofs which can enable the main
+mathematical claims of the paper to be
+fully verified.
+
+3) Submissions are anonymous. The conference will employ a fairly lightweight
+double-blind reviewing process.
+Submissions should not reveal the identity of the authors in any way. In
+particular, authors’ names,
+affiliations, and email addresses should not appear at the beginning or in the
+body of the submission. Authors
+should ensure that any references to their own related work are in the third
+person (e.g., not “We build on our
+previous work …” but rather “We build on the work of …”).
+
+The purpose of this double-blind process is to help PC members and external
+reviewers come to an initial judgment
+about the paper without bias, and not to make it impossible for them to
+discover who the authors are if they were
+to try. Nothing should be done in the name of anonymity that weakens the
+submission or makes the job of reviewing
+the paper more difficult. In particular, important references should not be
+omitted or anonymized. In addition,
+authors should feel free to disseminate their ideas or draft versions of their
+paper as they normally would. For
+example, authors may post drafts of their papers on the web, submit them to
+arXiv, and give talks on their
+research ideas.
+
+4) The submissions are done via Easychair to the appropriate track of the
+conference (see topics below). The use
+of pdflatex and the LIPIcs style are mandatory: papers that deviate
+significantly from the required format risk
+rejection without consideration of merit.
+
+5) During the rebuttal phase, authors will have from March 22-25 to view and
+respond to initial reviews. Further
+instructions will be sent to authors of submitted papers before that time.
+
+6) At least one author of each accepted paper is required to register for the
+conference, and all talks are
+in-person. In exceptional cases, there may be support for remotely presenting a
+talk.
+
+7) Papers authored only by students should be marked as such upon submission in
+order to be eligible for the best
+student paper awards of the track.
+
+
+========================================================
+Awards
+========================================================
+
+During the conference, the following awards will be given:
+– the EATCS award,
+- the Church prize,
+– the Presburger award,
+– the EATCS distinguished dissertation award,
+– the best papers for Track A and Track B,
+– the best student papers for Track A and Track B (see submission guidelines).
+
+========================================================
+Proceedings
+========================================================
+
+ICALP proceedings are published in the Leibniz International Proceedings in
+Informatics (LIPIcs) series. This is
+a series of high-quality conference proceedings across all fields in
+informatics established in cooperation with
+Schloss Dagstuhl – Leibniz Center for Informatics. LIPIcs volumes are published
+according to the principle of
+Open Access, i.e., they are available online and free of charge.
+
+========================================================
+Topics
+========================================================
+
+Papers presenting original research on all aspects of theoretical computer
+science are sought. Typical but not
+exclusive topics of interest are:
+
+Track A: Algorithms, Complexity and Games
+-----------------------------------------------------------
+
+Algorithmic and Complexity Aspects of Network Economics
+Algorithmic Aspects of Biological and Physical Systems
+Algorithmic Aspects of Networks and Networking
+Algorithmic Aspects of Security and Privacy
+Algorithmic Game Theory and Mechanism Design
+Approximation and Online Algorithms
+Combinatorial Optimization
+Combinatorics in Computer Science
+Computational Complexity
+Computational Geometry
+Computational Learning Theory
+Cryptography
+Data Structures
+Design and Analysis of Algorithms
+Distributed and Mobile Computing
+Foundations of Machine Learning
+Graph Mining and Network Analysis
+Parallel and External Memory Computing
+Parameterized Complexity
+Quantum Computing
+Randomness in Computation
+Sublinear Time and Streaming Algorithms
+Theoretical Foundations of Algorithmic Fairness
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+----------------------------------------------------------------------------------------
+
+Algebraic and Categorical Models of Computation
+Automata, Logic, and Games
+Database Theory, Constraint Satisfaction Problems, and Finite Model Theory
+Formal and Logical Aspects of Learning
+Formal and Logical Aspects of Security and Privacy
+Logic in Computer Science and Theorem Proving
+Models of Computation: Complexity and Computability
+Models of Concurrent, Distributed, and Mobile Systems
+Models of Reactive, Hybrid, and Stochastic Systems
+Principles and Semantics of Programming Languages
+Program Analysis, Verification, and Synthesis
+Type Systems and Typed Calculi
+
+========================================================
+ICALP 2023 Programme Committee
+========================================================
+
+Track A: Algorithms, Complexity and Games
+
+Amir Abboud (Weizmann Institute, Israel)
+Mikkel Abrahamsen (University of Copenhagen, Denmark)
+Sepehr Assadi (Rutgers University, USA)
+Aditya Bhaskara (University of Utah, USA)
+Arnab Bhattacharyya (National University of Singapore, Singapore)
+Greg Bodwin (University of Michigan, USA)
+Karl Bringmann (Saarland University, Germany)
+Clément Canonne (University of Sydney, Australia)
+Vincent Cohen Addad (Google Research, Zurich)
+Amin Coja Oghlan (TU Dortmund, Germany)
+Michael (Mike) Dinitz (Johns Hopkins University, USA)
+Uriel Feige (Chair) (Weizmann Institute and MSR, Israel)
+Moran Feldman (University of Haifa, Israel)
+Sebastian Forster (University of Salzburg, Austria)
+Sumegha Garg (Harvard University, USA)
+Parikshit Gopalan (Apple, USA)
+Russell Impagliazzo (University of California, San Diego, USA)
+Karthik C.S.(Rutgers University, USA)
+Yin Tat Lee (University of Washington, USA)
+Stefano Leonardi (Sapienza Universita di Roma, Italy)
+Sepideh Mahabadi (MSR Redmond, USA)
+Giulio Malavolta (Max Planck Institute for Security and Privacy, Germany)
+Jesper Nederlof (Utrecht University, Netherlands)
+Vianney Perchet (Ensae and Criteo AI Lab, France)
+Will Perkins (Georgia Institute of Technology, USA)
+Marcin Pilipczuk (University of Warsaw, Poland, and IT University of
+Copenhagen, Denmark)
+Aviad Rubinstein (Stanford University, USA)
+Barna Saha (University of California San Diego, USA)
+Rahul Santhanam (University of Oxford, UK)
+Thatchaphol Saranurak (University of Michigan, USA)
+Igor Shinkar (Simon Fraser University, Canada)
+Mohit Singh (Georgia Institute of Technology, USA)
+David Steurer (ETH Zurich, Swizerland)
+Ola Svensson (EPFL, Switzerland)
+Inbal Talgam-Cohen (Technion, Israel)
+Kavitha Telikepalli (Tata Institute of Fundamental Research, Mumbai, India)
+Vera Traub (University of Bonn, Germany)
+Salil Vadhan (Harvard University, USA)
+David Wajc (Google Research, USA)
+Henry Yuen (Columbia University, USA)
+Meirav Zehavi (Ben-Gurion University, Israel)
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+
+Shaull Almagor (Technion, Israel)
+Albert Atserias (Universitat Politecnica de Catalunya, Barcelona, Spain)
+Christel Baier (TU Dresden, Germany)
+Véronique Bruyère (University of Mons, Belgium)
+Thomas Colcombet (IRIF / CNRS / Université Paris Cité, France)
+Andrei Bulatov (Simon Fraser University, Canada)
+Wojciech Czerwiński (University of Warsaw, Poland)
+Kousha Etessami (Chair) (University of Edinburgh, UK)
+John Fearnley (University of Liverpool, UK)
+Dana Fisman (Ben-Gurion University, Israel)
+Rob van Glabbeek (University of New South Wales, Australia)
+Chris Heunen (University of Edinburgh, UK)
+Justin Hsu (Cornell University, USA)
+Stefan Kiefer (University of Oxford, UK)
+Kohei Kishida (University of Illinois Urbana-Champaign, USA)
+Jan Kretinsky (Technical University of Munich, Germany)
+Karoliina Lehtinen (CNRS, Université Aix Marseille et Université de Toulon,
+LIS, France)
+Anthony Widjaja Lin (TU Kaiserslautern & MPI-SWS, Germany)
+Wim Martens (University of Bayreuth, Germany)
+Joanna Ochremiak (CNRS, University of Bordeaux, France and University of
+Warsaw, Poland)
+Daniela Petrisan (Université Paris Cité, IRIF, France)
+Sam Staton (University of Oxford, UK)
+Ashutosh Trivedi (University of Colorado - Boulder, USA)
+Takeshi Tsukada (Chiba University, Japan)
+Mahesh Viswanathan (University of Illinois Urbana-Champaign, USA)
+
+========================================================
+ICALP 2023 Workshop Chair
+========================================================
+
+Track A and B: Matthias Fischer
+
+Selection Committee:
+
+Johannes Blömer
+Christian Scheideler
+Friedhelm Meyer auf der Heide
+
+See more details on the Call for Workshops webpage:
+https://icalp2023.cs.upb.de/workshops/
+
+========================================================
+ICALP 2023 Proceedings Chair
+========================================================
+
+Gabriele Puppis (University of Udine, Italy)
+
+========================================================
+ICALP 2023 Organizing Committee
+========================================================
+
+Ulrich Ahlers
+Bernard Bauer
+Johannes Blömer
+Tanja Bürger
+Nadija Carter
+Fabian Eidens
+Rainer Feldmann
+Matthias Fischer
+Sevag Gharibian (Chair)
+Marion Hucke
+Claudia Jahn
+Friedhelm Meyer auf der Heide
+Franziska Reichelt
+Petra Schäfermeyer
+Christian Scheideler
+Ulf-Peter Schroeder
+Christian Soltenborn
+Anna Steinig
+Thomas Thissen
+Heinz Georg Wassing
+

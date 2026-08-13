@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014). During the conference, the Programme Committee Chairs will present an award to the authors of the submission selected as the FM 2021 Best Paper. Extended versions of selected papers will be invited for publication in a special issue of one or more journals."
+
+[[cfp]]
+file = "cfp/FM-2021.txt"
+stage = "initial"

@@ -21,3 +21,7 @@ license = "acm"
 
 [extra]
 notes = "Double blind. Also: industry track, artifact track. The highest quality papers, judged by multiple relevant factors, will be recognized with an award. Authors of selected papers will be invited to submit an extended version of their work to a journal."
+
+[[cfp]]
+file = "cfp/ICPE-2023.txt"
+stage = "initial"

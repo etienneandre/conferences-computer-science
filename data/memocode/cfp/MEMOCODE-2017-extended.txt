@@ -1,0 +1,164 @@
+
+
+
+                          -- Final Call for Papers --
+                            -- Deadline Extension --
+
+                                 15th ACM/IEEE
+                            International Conference
+                                       on
+                  Formal Methods and Models for System Design
+                                   (MEMOCODE)
+
+                September 29 - October 2, 2017, Vienna, Austria
+                         http://memocode.irisa.fr/2017
+
+                                co-located with
+
+                            International Conference
+                                       on
+                     Formal Methods in Computer-Aided Design
+                                     (FMCAD)
+                            http://www.fmcad.org/FMCAD17
+
+IMPORTANT DATES
+    Submission deadline (abstract): May 19, 2017 (no further extension possible)
+    Submission deadline (paper): May 26, 2017 (no further extension possible)
+    Notification of acceptance: July 10, 2017
+    Final version of papers: July 28, 2017
+
+KEYNOTES
+    * Thomas A. Henzinger, http://pub.ist.ac.at/~tah
+    * Alessandro Abate, https://www.cs.ox.ac.uk/people/alessandro.abate
+    * Franz-Josef Grosch, Research Campus, Robert Bosch GmbH
+
+TUTORIAL DAY (shared with FMCAD)
+    October 2, 2017
+
+MEMOCODE’s objective is to bring together researchers and practitioners
+interested in formal methods and models for system design and development to
+exchange ideas, research results, and lessons learned. System design covers the
+development of hardware, firmware, middleware, and application software for
+systems ranging from single embedded devices to highly networked CPS and systems
+in the IoT. In particular, MEMOCODE 2017 seeks research contributions on formal
+foundations, engineering methods, tools, and experimental case studies. Research
+areas of interest include, but are not limited to the following:
+
+ * Modeling Languages, Methods and Tools:
+    Programming languages and models; software and system modeling languages;
+    architecture and high-level hardware description languages; timing models;
+    model and program synthesis methods; model transformation methods
+
+ * Formal Methods and Tools:
+    Correct-by-construction methods; contract-based design and verification;
+    static, dynamic, and type theoretic analysis; verification; validation;
+    probabilistic model checking; test generation; refinement-based and
+    compositional approaches to design and verification
+
+ * Models and Methods for Developing Critical Systems:
+    Fault-tolerant systems; security-critical and safety-critical systems;
+    cyber-physical systems; hybrid systems; autonomous systems;
+    self-adapting systems
+
+ * Quantitative/Qualitative Reasoning:
+    Power/performance/cost/latency estimation methods;
+    system models for quantitative design space exploration
+
+ * Formal Methods/Models in Practice:
+    Design case studies; empirical case studies
+
+
+SUBMISSIONS
+
+MEMOCODE 2017 calls for three kinds of submissions: regular papers, work in
+progress papers, and tool presentations. All papers must be written in English
+and formatted according to the following IEEE Computer Society guidelines.
+Submission of papers is handled via Easychair
+(https://easychair.org/conferences/?conf=memocode2017):
+
+  * Regular papers must be no longer than 10 pages and must describe original
+    work that does not overlap with another publication or a submission under
+    review or accepted for publication by any other conference or journal.
+    Reviewers will check regular papers for the novelty of the proposed
+    solution and the proofs given for the claims made. One of the authors has
+    to present the paper at the conference.
+
+  * Work-in-progress (WIP) papers must be no longer than 4 pages and must
+    describe ongoing work. Reviewers will judge the novelty of the idea, but do
+    not yet expect proofs for the envisioned results. WIP papers will be
+    presented by one of the authors during a poster presentation at the
+    conference.
+
+  * Tool papers must be no longer than 8 pages and should describe an existing
+    and publicly available tool that implements relevant methods. The methods
+    might have been published before, but the tool should not have been
+    described in a tool paper previously. In addition to reviewing the paper,
+    reviewers will assess the tool itself using inputs and a user's manual
+    provided by the authors on the tool's web page. One of the authors has to
+    present the paper at the conference.
+
+For questions regarding technical submissions, feel free to contact one of the
+Program Committee co-chairs:
+    * Patricia Derler (patricia.derler@ni.com)
+    * Klaus Schneider (klaus.schneider@cs.uni-kl.de).
+
+All accepted papers (regular paper, WIP papers, and tool papers) will be
+published as IEEE conference proceedings in IEEE Xplore. For all three paper
+categories, publication is contingent on one author registering for and
+presenting the paper at the conference. Selected papers will be invited for
+publication in a special issue of ACM Transactions on Embedded Computing Systems.
+
+
+PROGRAM CHAIRS
+    Patricia Derler, National Instruments Corporation
+    Klaus Schneider, University of Kaiserslautern
+
+GENERAL CHAIR
+    Jean-Pierre Talpin, IRISA
+
+PUBLICATION CHAIR
+    Yi Deng, Virginia Tech
+
+PROGRAM COMMITTEE
+    Paul Attie, American University of Beirut
+    Marco Bekooij, University of Twente
+    Jani Boutellier, Tampere University of Technology
+    Jens Brandt, Hochschule Niederrhein
+    Sudipta Chattopadhyay, Singapore University of Technology and Design
+    Silviu Craciunas, TTTech Computertechnik AG
+    Jyotirmoy Deshmukh, Toyota Technical Center
+    Stephen Edwards, Columbia University
+    Mamoun Filali-Amine, IRIT
+    Martin Fraenzle, Carl von Ossietzky Universitaet Oldenburg
+    Franco Fummi, University of Verona
+    Abdoulaye Gamatie, CNRS
+    Marc Geilen, Eindhoven University of Technology
+    Leonard Gerard, ENS
+    Gregor Goessler, INRIA
+    Tuba Kahveci, University of Florida
+    Rick Kuhn, Natl Institute of Standards & Technology
+    Sudipta Kundu, Synopsis
+    Luciano Lavagno, Politecnico di Torino
+    Axel Legay, IRISA/INRIA, Rennes
+    Elizabeth Leonard, Naval Research Laboratory
+    Thanhvu Nguyen, University of Nebraska, Lincoln
+    Pierluigi Nuzzo, University of Southern California
+    John O'Leary, Intel Corporation
+    Roberto Passerone, University of Trento
+    Maxime Pelcat, IETR/INSA
+    Doron Peled, Bar Ilan University
+    Andre Platzer, Carnegie Mellon University
+    Murali Rangarajan, The Boeing Company
+    Sanjai Rayadurgam, University of Minnesota
+    Elvinia Riccobene, University of Milan
+    Partha Roop, University of Auckland
+    Neda Saeedloei, University of Texas at Dallas
+    Aviral Shrivastava, Arizona State University
+    Sandeep Shukla, IIT Kanpur
+    Marjan Sirjani, Reykjavik University
+    Juergen Teich, University of Erlangen-Nuremberg
+    Stavros Tripakis, University of California, Berkeley
+    Muralidaran Vijayaraghavan, MIT
+    Reinhard von Hanxleden, Christian-Albrechts-Universitaet zu Kiel
+    Qi Zhu, UC Riverside
+    Damian Zufferey, MPI Software Systems

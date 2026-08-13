@@ -24,3 +24,27 @@ gender_balance = "male-only"
 
 [extra]
 journal = "Authors of selected papers will be invited to submit extended versions for a special issue of selected papers from the Conference will be considered for publication in extended and revised form in a special issue of an indexed international journal (ISSE:Innovations in Systems and Software Engineering, IJCCBS: International Journal of Critical Computer-Based Systems or Arima journal)."
+
+[[cfp]]
+file = "cfp/VECoS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/VECoS-2025-extended.pdf"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/VECoS-2025-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/VECoS-2025-extended2.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/VECoS-2025-extended3.pdf"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/VECoS-2025-extended3.txt"
+stage = "extended"

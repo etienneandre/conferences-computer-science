@@ -33,3 +33,11 @@ submitted = 59
 
 [extra]
 notes = "Almost always in Asia."
+
+[[cfp]]
+file = "cfp/ATVA-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ATVA-2025-extended.txt"
+stage = "extended"

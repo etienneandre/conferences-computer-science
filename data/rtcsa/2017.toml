@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Deadline UTC-12. 3 tracks: embedded systems, real-time systems, and SYSTEM DESIGN PRACTICE AND EMERGING APPLICATIONS TRACK. Also a work-in-Progress Session. Selected papers will be recommended for submission of extended versions to the special issues of journals, such as the ACM Transactions on Cyber Physical Systems (application in progress)."
+
+[[cfp]]
+file = "cfp/RTCSA-2017.txt"
+stage = "initial"

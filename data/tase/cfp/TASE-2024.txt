@@ -1,0 +1,95 @@
+TASE 2024: 18th International Symposium on Theoretical Aspects of Software Engineering
+
+Overview
+---------------------------------------------------------------------------------------------
+The 18th Theoretical Aspects of Software Engineering Conference (TASE 2024) will be held in Guiyang City, China on July 29 - August 1, 2024. TASE 2024 aims to bring together researchers and developers from academia and industry with interest in the theoretical aspects of software engineering. Modern society is increasingly dependent on software systems that are becoming larger and more complex. This poses new challenges to current software engineering methodologies that need to be enhanced using modern results from theoretical computer science. We invite submission of research papers on topics covering all theoretical aspects of software engineering, including those describing applications of theoretical computer science in industrial applications and software engineering methodologies.
+Conference website: https://tase2024.github.io/
+
+Topics of Interest
+---------------------------------------------------------------------------------------------
+Authors are invited to submit high quality technical papers describing original and unpublished work in all theoretical aspects of software engineering. Topics of interest include, but are not limited to:
+* Abstract interpretation
+* Algebraic and co-algebraic specifications
+* AI for formal methods
+* Component-based software engineering
+* Cyber-physical systems
+* Deductive verification
+* Distributed and concurrent systems
+* Domain Engineering
+* Embedded and real-time systems
+* Feature-oriented software
+* Formal methods, verification and testing for AI systems
+* Run-time verification and monitoring
+* Semantic web and web services
+* Service-oriented and cloud computing
+* Software processes and workflows
+* Software architectures and design
+* Formal verification and program semantics
+* Fundamental theories and techniques for trustworthy AI systems
+* Integration of formal methods
+* Language design
+* Model checking and theorem proving
+* Model-driven engineering
+* Object-oriented systems
+* Probability in software engineering
+* Program analysis
+* Program logics and calculi
+* Requirements engineering
+* Reverse engineering and software maintenance
+* Software testing and quality assurance
+* Software safety, security and reliability
+* Specification and verification
+* Type systems and behavioral typing
+* Tools exploiting theoretical results
+
+Important Dates
+---------------------------------------------------------------------------------------------
+Abstract Submission : February 17, 2024 (not necessary even if missed)
+Paper Submission : February 24, 2024 (AoE)
+Author Notification : April 10, 2024
+Camera-ready Versions : May 10, 2024
+Conference : July 29 - August 1, 2024
+
+Submission
+---------------------------------------------------------------------------------------------
+Submissions to the conference must not have been published or be concurrently considered for publication elsewhere. All submissions will be judged on the basis of originality, contribution to the field, technical and presentation quality, and relevance to the conference. The proceedings will be published in the Springer Lecture Notes in Computer Science series. Papers should be written in English and should not exceed 16 pages (excluding bibliography) for long papers and 6 pages (excluding bibliography) for short papers in LNCS format. Submissions should be made through the TASE 2024 submission page, handled by the EasyChair conference management system.
+Submission link:   https://easychair.org/conferences/?conf=tase2024.
+
+Committees
+---------------------------------------------------------------------------------------------
+* General Chairs:
+Yongbin Qin (Guizhou University)
+Huibiao Zhu (East China Normal University)
+* Program Co-Chairs:
+Wei-Ngan Chin (National University of Singapore)
+Zhiwu Xu (Shenzhen University)
+* Program Committee:
+Yamine Ait Ameur (IRIT/INPT-ENSEEIHT)
+Guangdong Bai (The University of Queensland)
+Yuqi Chen (ShanghaiTech University)
+Liqian Chen (National University of Defense Technology)
+Wei-Ngan Chin (National University of Singapore)
+Zhe Hou (Griffith University)
+Daisuke Kimura (Toho University)
+Guoqiang Li (Shanghai Jiaotong University)
+Jiaxiang Liu (Shenzhen University)
+Yepang Liu (Southern University of Science and Technology)
+Frederic Mallet (Universite Nice Sophia-Antipolis)
+Dominique Mery (Université de Lorraine, LORIA)
+Jun Pang (University of Luxembourg)
+Yu Pei (The Hong Kong Polytechnic University)
+Shengchao Qin (Xidian University)
+Yahui Song (National University of Singapore)
+Peter Thiemann (Universität Freiburg)
+Jingyi Wang (Zhejiang University)
+Cheng Wen (Xidian University)
+Zhilin Wu (Institute of Software, Chinese Academy of Sciences)
+Lili Xiao (Donghua University)
+Zhiwu Xu (Shenzhen University)
+Hui Xu (Fudan University)
+Bai Xue (Institute of Software, Chinese Academy of Sciences)
+Naijun Zhan (Institute of Software, Chinese Academy of Sciences)
+Min Zhang (East China Normal University)
+Hengjun Zhao (Southwest University)
+Lixiao Zheng (Huaqiao University)
+Huibiao Zhu (East China Normal University)

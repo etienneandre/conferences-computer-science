@@ -1,0 +1,75 @@
+**Last Call for Papers**: We invite you to submit original research articles to
+
+FORMATS 2018
+16th International Conference on Formal Modeling and Analysis of Timed Systems
+Beijing, China, September 4–6, 2018
+
+Conference website:             <http://lcs.ios.ac.cn/formats2018/>
+Submission website:             <https://easychair.org/conferences/?conf=formats2018>
+Conference email:               formats2018@easychair.org
+Abstract registration deadline: April  6, 2018 (extended)
+Submission deadline:            April 11, 2018 (extended)
+
+Invited speakers:
+Jyotirmoy V. Deshmukh, Univ. Southern California
+Edward A. Lee, UC Berkeley
+
+**Topics**: The aim of FORMATS is to promote the study of fundamental
+and practical aspects of timed systems, and to bring together
+researchers from different disciplines that share interests in
+modelling and analysis of timed systems and, as a generalisation, of
+hybrid systems.  Typical topics include (but are not limited to):
+
+* Foundations and Semantics: Theoretical foundations of timed systems
+and languages; new models and logics for analysis and comparison of
+existing models (like automata, Petri nets, max-plus models, network
+calculus, or process algebras involving quantitative time; hybrid
+automata; probabilistic automata and logics).
+
+* Methods and Tools: Techniques, algorithms, data structures, and
+software tools for verification, synthesis, learning, online
+monitoring and runtime verification of timed or hybrid systems and for
+resolving temporal constraints (scheduling, worst-case execution time
+analysis, optimisation, model checking, testing, constraint solving).
+
+* Applications: Adaptation and specialisation of timing technology in
+application domains in which timing plays an important role (real-time
+software, embedded control, hardware circuits, biological systems, and
+problems of scheduling in manufacturing and telecommunications).
+
+The proceedings will be published by Springer LNCS
+<http://www.springer.com/lncs>.  FORMATS 2018 is part of CONFESTA 2018
+<http://confesta2018.csp.escience.cn>, which also includes CONCUR,
+QEST and SETTA.
+
+**Programme Committee**
+Sergiy Bogomolov (Australian National Univ., Australia)
+Borzoo Bonakdarpour (Iowa State Univ., USA)
+Patricia Bouyer (LSV, CNRS & ENS Cachan, Univ. Paris Saclay, France)
+Thao Dang (CNRS/VERIMAG, France)
+Martin Fränzle (Carl von Ossietzky Univ. Oldenburg, Germany)
+Ichiro Hasuo (National Institute of Informatics, Japan)
+Boudewijn Haverkort (Univ. of Twente, Netherlands)
+Holger Hermanns (Saarland Univ., Germany)
+David N. Jansen (co-chair, Institute of Software, Chinese Academy of
+Sciences, China)
+Jan Křetínský (Technical Univ. of Munich, Germany)
+Martin Leucker (Univ. of Lübeck, Germany)
+Miroslav Pajic (Duke Univ., NC, USA)
+David Parker (Univ. of Birmingham, UK)
+Pavithra Prabhakar (co-chair, Kansas State University, USA)
+Krishna S. (IIT Bombay, India)
+César Sánchez (IMDEA Software Institute, Spain)
+Ocan Sankur (Univ. Rennes, Inria, CNRS, IRISA, France)
+Zhikun She (School of Mathematics and Systems Science, Beihang Univ.,
+Beijing, China)
+Jiří Srba (Aalborg Univ., Denmark)
+B. Srivathsan (Chennai Mathematical Institute, India)
+Meng Sun (Peking Univ., China)
+Cong Tian (Xidian Univ., China)
+Ashutosh Trivedi (University of Colorado, Boulder, USA)
+Frits Vaandrager (Radboud Univ., Netherlands)
+Mahesh Viswanathan (Univ. of Illinois at Urbana-Champaign, USA)
+
+Kind regards,
+Pavithra Prabhakar and David N. Jansen (FORMATS 2018 Co-Chairs)

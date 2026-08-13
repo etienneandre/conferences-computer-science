@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "The Program Committee will give a Springer-sponsored Best Paper Award to an elected regular paper. The Program Committee will invite a selection of accepted papers to submit extended versions to a special journal issue, currently planned to be in the International Journal on Software Tools for Technology Transfer (STTT)."
+
+[[cfp]]
+file = "cfp/RV-2024.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RV-2024-extended.txt"
+stage = "extended"

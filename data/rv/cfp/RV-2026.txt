@@ -1,0 +1,85 @@
+=============================
+International Conference on Runtime Verification (RV26)
+October 6-9, 2026 @ Kingston, Canada
+https://rv2026.smithengineering.queensu.ca/
+Call for Papers
+=============================
+
+We are pleased to invite you to submit papers for the 26th International Conference on Runtime Verification (RV26). The conference will be held at beautiful Queen's University in Kingston, Canada on the shores of Lake Ontario. More details can be found at https://rv2026.smithengineering.queensu.ca/cfp/.
+
+=== Dates ===
+
+    Paper submission: 31 May, 2026
+    Tutorial proposal submission: 31 May, 2026
+    Notification: 16 July, 2026
+    Camera-ready: 27 July, 2026
+    Conference: 6-9 October, 2026
+
+All deadlines are anywhere on Earth.
+
+=== Paper Categories ===
+
+There are four categories of papers that can be submitted: regular, short, tool demo, and benchmark papers. Papers in each category will be reviewed by at least three members of the Program Committee in a single-blind review process.
+
+    * Regular Papers (up to 16 pages, not including references)
+    * Short Papers (up to 8 pages, not including references)
+    * Tool Demonstration Papers (up to 8 pages, not including references)
+    * Benchmark Papers (up to 8 pages, not including references)
+
+The Program Committee of RV 2026 will give a Springer-sponsored Best Paper Award to one eligible regular paper and a Formal Methods Europe-sponsored Best Tool Award to one eligible tool demonstration paper.
+
+=== Objectives and Scope ===
+
+Runtime verification is concerned with the monitoring and analysis of the runtime behavior of software and hardware systems. Runtime verification techniques are crucial for system correctness, reliability, and robustness; they provide an additional level of rigor and effectiveness compared to conventional testing and are generally more practical than exhaustive formal verification.
+
+Runtime verification can be used prior to deployment, for testing, verification, and debugging purposes, and after deployment for ensuring reliability, safety, and security and for providing fault containment and recovery as well as online system repair.
+
+The topics of the conference include, but are not limited to:
+
+    * specification languages for monitoring
+    * monitor construction techniques
+    * program instrumentation
+    * logging, recording, and replay
+    * combination of static and dynamic analysis
+    * specification mining and machine learning over runtime traces
+    * monitoring techniques for concurrent and distributed systems
+    * runtime checking of privacy and security policies
+    * metrics and statistical information gathering
+    * program/system execution visualization
+    * fault localization, containment, resilience, recovery, and repair
+    * monitoring systems with learning-enabled components
+    * dynamic type checking
+    * runtime verification for autonomy and runtime assurance
+    * runtime verification for assurance cases
+    * out-of-distribution and anomaly detection in ML-based systems
+    * safe reinforcement learning
+    * runtime verification of large language model (LLM) agents
+
+=== Invited Speakers ===
+
+    Ruzica Piskac (Yale University)
+      -> Towards Private Runtime Verification: Foundations of Privacy-Preserving Automated Reasoning
+
+    Mauricio Castillo Efren (Lockheed Martin)
+      -> From Runtime Verification to Runtime Assurance: Architectural Patterns for Learning-Enabled Autonomy
+
+    John-Baptiste Tristan (Amazon Web Services)
+      -> Who Watches the Agents? Runtime Verification for Agentic AI Safety
+
+    Hazem Torfah (Chalmers University of Technology)
+      -> Designing Assured AI-Based Autonomy: A Runtime Verification Perspective
+
+=== Organiziation ===
+
+General Chairs
+
+    * Sean Kauffman (Queen's University, Canada)
+    * Giulia Pedrielli (Arizona State University, USA)
+
+Publicity Chair
+
+    * Lars Lindemann (ETH Zurich, Switzerland)
+
+=== Contact ===
+
+All questions about submissions should be emailed to the General Chairs.

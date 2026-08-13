@@ -1,0 +1,164 @@
+
+CONCUR 2018
+The 29th International Conference on Concurrency Theory
+Beijing, China, September 4-7, 2018
+http://lcs.ios.ac.cn/concur2018/
+
+The purpose of the CONCUR conferences is to bring together
+researchers, developers, and students in order to advance the theory
+of concurrency, and promote its applications.
+
+
+Invited speakers
+
+* Yuxin Deng, East China Normal University (China)
+* Rob van Glabbeek, Stanford University (USA), CSIRO,
+  and University of New South Wales (Australia)
+* Bow-Yaw Wang, Academia Sinica (Taiwan)
+
+
+Co-located events at CONFESTA
+
+* 16th International Conference on Formal Modelling and Analysis of
+  Timed Systems (FORMATS 2018)
+* 15th International Conference on Quantitative Evaluation of SysTems
+  (QEST 2018)
+* 4th International Symposium on Dependable Software Engineering
+  (SETTA 2018)
+* CONFESTA will also host a number of workshops and tutorials (TBA).
+
+
+IMPORTANT DATES
+All dates are AoE.
+
+* Abstract submission: April 17, 2018 (firm)
+* Paper submission: April 23, 2018 (firm
+* Notification: June 7, 2018
+* Camera ready copy: July 2, 2018
+* Conference: September 4-7, 2018
+
+
+TOPICS
+Submissions are solicited in semantics, logics, verification and
+analysis of concurrent systems. The principal topics include (but are
+not limited to):
+
+* Basic models of concurrency such as abstract machines,
+  domain-theoretic models, game-theoretic models, process algebras,
+  graph transformation systems, Petri nets, hybrid systems, mobile and
+  collaborative systems, probabilistic systems, real-time systems,
+  biology-inspired systems, and synchronous systems;
+* Logics for concurrency such as modal logics, probabilistic and
+  stochastic logics, temporal logics, and resource logics;
+* Verification and analysis techniques for concurrent systems such as
+  abstract interpretation, atomicity checking, model checking, race
+  detection, pre-order and equivalence checking, run-time
+  verification, state-space exploration, static analysis, synthesis,
+  testing, theorem proving, type systems, and security analysis;
+* Distributed algorithms and data structures: design, analysis,
+  complexity, correctness, fault tolerance, reliability, availability,
+  consistency, self-organization, self-stabilization, protocols.
+* Theoretical foundations of architectures, execution environments,
+  and software development for concurrent systems such as
+  geo-replicated systems, communication networks, multiprocessor and
+  multi-core architectures, shared and transactional memory, resource
+  management and awareness, compilers and tools for concurrent
+  programming, programming models such as component-based, object- and
+  service-oriented.
+
+
+PAPER SUBMISSION
+CONCUR 2018 solicits high quality papers reporting research results
+and/or experience related to the topics mentioned below. All papers
+must be original, unpublished, and not submitted for publication
+elsewhere.
+
+Each paper will undergo a thorough review process. If necessary, the
+paper may be supplemented with a clearly marked appendix, which will
+be reviewed at the discretion of the program committee.
+
+The CONCUR 2018 proceedings will be published by LIPIcs.
+
+Papers must be submitted electronically as PDF files via EasyChair.
+
+Papers must not exceed 14 pages (excluding references and clearly marked appendices) using the LIPIcs style.
+
+Extended versions of selected papers will appear in a special issue of
+the Journal of Computer and System Sciences (JCSS).
+
+
+ORGANIZATION COMMITTEE
+General Chair
+* Huimin Lin (Institute of Software, Chinese Academy of Sciences, China)
+
+Program Co-chairs
+* Sven Schewe (University of Liverpool, UK)
+* Lijun Zhang (Institute of Software, CAS, China)
+
+PROGRAM COMMITTEE
+* Parosh Abdulla
+  Uppsala University (Sweden)
+* Christel Baier
+  TU Dresden (Germany)
+* Roderick Bloem
+  Graz University of Technology (Austria)
+* Ahmed Bouajjani
+  IRIF, University Paris Diderot (France)
+* Franck van Breugel
+  York University (Canada)
+* Taolue Chen
+  Birkbeck, University of London (UK)
+* Yu-Fang Chen
+  Academia Sinica (Taiwan)
+* Alessandro Cimatti
+  Fondazione Bruno Kessler (Italy)
+* Pedro R. D'Argenio
+  Universidad Nacional de Córdoba - CONICET (Argentina)
+* Josée Desharnais
+  Université Laval (Canada)
+* Wan Fokkink
+  Vrije Universiteit Amsterdam (The Netherlands)
+* Erich Grädel
+  RWTH Aachen University (Germany)
+* Ichiro Hasuo
+  National Institute of Informatics (Japan)
+* Fei He
+  Tsinghua University (China)
+* Anna Ingólfsdóttir
+  Reykjavík University (Iceland)
+* Stefan Kiefer
+  University of Oxford (UK)
+* Shankara Narayanan Krishna
+  IIT Bombay (India)
+* Antonín Kučera
+  Masaryk University (Czech Republic)
+* Salvatore La Torre
+  Università degli studi di Salerno (Italy)
+* Jérôme Leroux
+  CNRS (France)
+* Parthasarathy Madhusudan
+  University of Illinois at Urbana-Champaign (USA)
+* Rupak Majumdar
+  MPI-SWS (Germany)
+* Radu Mardare
+  Aalborg University (Denmark)
+* Roland Meyer
+  TU Braunschweig (Germany)
+* Angelo Montanari
+  University of Udine (Italy)
+* Sriram Sankaranarayanan
+  University of Colorado, Boulder (USA)
+* Sven Schewe (co-chair)
+  University of Liverpool (UK)
+* Alexandra Silva
+  University College London (UK)
+* Ana Sokolova
+  University of Salzburg (Austria)
+* Mariëlle Stoelinga
+  University of Twente (The Netherlands)
+* Verena Wolf
+  Saarland University (Germany)
+* Lijun Zhang (co-chair)
+  Institute of Software, Chinese Academy of Sciences (China)
+
+Last updated: Friday, 03 November 2017

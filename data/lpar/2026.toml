@@ -22,3 +22,7 @@ license = "free"
 blind = "single"
 gender_balance = "mixed"
 artifact = "Experimental and tool papers should be supported by a link to the artifact/experimental evaluation available to the reviewers."
+
+[[cfp]]
+file = "cfp/LPAR-2026.txt"
+stage = "initial"

@@ -1,0 +1,47 @@
+29th International Symposium on Model Checking of Software - SPIN 2023
+    Paris, France
+    April 26-27
+    co-located with ETAPS 2023
+
+SPIN 2023 website: https://spin-web.github.io/SPIN2023/
+
+=== Important dates ===
+
+Jan. 9, 2023 - Abstract Submission
+Jan. 16, 2023 - Paper Submission
+Feb. 16, 2023 - Notification
+
+=== SPIN ===
+
+The 29th edition of the SPIN symposium aims to bring together
+researchers and practitioners interested in automated tool-based
+techniques to analyze and model software for the purpose of
+verification and validation. We invite submissions presenting
+theoretical results, novel algorithms, tool development, and empirical
+evaluation. We accept both long (up to 16 pages) and short (up to 6
+pages) papers.
+
+More details about topics, submission guidelines and PC can be found
+on the SPIN website: https://spin-web.github.io/SPIN2023/
+
+=== Invited Speakers ===
+
+Simon Gay (University of Glasgow)
+Joost-Pieter Katoen (RWTH Aachen & University of Twente)
+Raúl Pardo (IT University of Copenhagen)
+Caterina Urban (INRIA)
+
+=== Chairs ===
+
+Georgiana Caltais (University of Twente)
+Christian Schilling (Aalborg University)
+
+=== Steering Committee ===
+
+Dragan Bosnacki (Eindhoven University of Technology) (chair)
+Susanne Graf (Verimag)
+Gerard Holzmann (Nimble Research)
+Stefan Leue (University of Konstanz)
+Jaco van de Pol (Aarhus University)
+Neha Rungta (AWS)
+Willem Visser (Stellenbosch University)

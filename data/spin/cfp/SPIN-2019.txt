@@ -1,0 +1,65 @@
+SPIN 2019
+24th International Symposium on Model Checking of Software
+Beijing, China, July 15-19, 2019
+https://conf.researchr.org/home/spin-2019
+Co-located with ISSTA 2019
+
+The 26th edition of the SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software, but does not exclude analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms, tool development, and empirical evaluation.
+
+Topics of interest include, but are not limited to:
+
+    Formal verification techniques for automated analysis of software
+    Formal analysis for modeling languages, such as UML/state charts
+    Formal specification languages, temporal logic, design-by-contract
+    Model checking
+    Automated theorem proving, including SAT and SMT
+    Verifying compilers
+    Abstraction and symbolic execution techniques
+    Static analysis and abstract interpretation
+    Combination of verification techniques
+    Modular and compositional verification techniques
+    Verification of timed and probabilistic systems
+    Automated testing using advanced analysis techniques
+    Combination of static and dynamic analyses
+    Derivation of specifications, test cases, or other useful material via formal analysis
+    Case studies of interesting systems or with interesting results
+    Engineering and implementation of software verification and analysis tools
+    Benchmark and comparative studies for formal verification and analysis tools
+    Formal methods education and training
+    Insightful surveys or historical accounts on topics of relevance to the symposium
+
+Invited Speakers
+
+Kim G. Larsen, Aalborg University
+
+Kuldeep S. Meel, National University of Singapore
+Call for Papers
+
+The SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software, but does not exclude analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms, tool development, empirical evaluation, and education.
+
+History: The SPIN symposium originated as a workshop focusing on explicit state model checking, specifically as related to the Spin model checker. However, over the years it has evolved to a broadly scoped symposium for software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution.
+
+An overview of the previous SPIN symposia (and early workshops) can be found at: http://spinroot.com/spin/symposia.
+
+SPIN 2019 will be organized as an ACM SIGSOFT event, colocated with the International Symposium on Software Testing and Analysis (ISSTA 2019): https://conf.researchr.org/home/issta-2019.
+Submission Guidelines
+
+The contributions to SPIN 2019 will be published as ACM Proceedings, and should be submitted in the ACM Conference Format: https://www.acm.org/publications/proceedings-template (please use the sigconf template).
+
+Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this symposium. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism and the ACM Policy on Prior Publication and Simultaneous Submissions.
+
+    We are soliciting three categories of papers:
+        Full Research Papers describing fully developed work and complete results (16 pages – references are not included in this limit);
+        Short Papers presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages – references are not included in this limit).
+        Tool Demo Papers presenting the foundations, capabilities, application domains and relevant examples using the tools, with a clear description of what is expected to be shown in a live demonstration (4 pages to describe the tool foundations, features and use examples, plus an appendix explaining the content of the demo).
+
+Papers should be submitted via the EasyChair SPIN 2019 submission website: https://easychair.org/conferences/?conf=spin19.
+
+A selection of papers will be invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT).
+Important Dates
+
+    Please keep in mind the following dates for submission:
+        Paper Submission: April 5th, 2019 (23:59:59 Anywhere on Earth)
+        Author Notification: April 27th, 2019
+        Camera-Ready Paper: May 2019
+        Symposium: July 15-19, 2019

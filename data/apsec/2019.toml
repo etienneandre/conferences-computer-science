@@ -21,3 +21,7 @@ license = "pay"
 
 [extra]
 notes = "Deadline AoE. A selective set of accepted papers will be invited by the Program Committee to submit an extended version for publication in the special issue of Elsevier’s Journal of Systems and Software (10 in 2014, 6 in 2016)."
+
+[[cfp]]
+file = "cfp/APSEC-2019.txt"
+stage = "initial"

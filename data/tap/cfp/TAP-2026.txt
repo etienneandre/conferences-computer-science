@@ -1,0 +1,157 @@
+**CALL FOR PAPERS**
+
+**Special Track on Tests and Proofs (TAP 2026)**
+
+*at the*
+
+**27th International Symposium on Formal Methods (FM 2026)**
+
+**May 18-22, 2026 --- Tokyo, Japan**
+
+**Website:** <https://conf.researchr.org/track/fm-2026/fm-2026-tap>
+
+**Abstract Submission**: Tuesday, 25 November 2025
+**Full Paper Submission:** Tuesday, 2 December 2025
+
+### **New TAP Track at FM 2026: A Premier Venue for Tests and Proofs**
+
+Since 2007, the [Test and Proof (TAP)
+conference](https://tapconference.github.io/2024/) has long been a
+leading venue for research on the intersection of software testing and
+formal verification. Now, TAP is joining the 27th International
+Symposium on Formal Methods (FM 2026) as a new special track. This
+integration places the ground-breaking work of the Test and Proofs
+community at the heart of the world's premier conference on formal
+methods.
+
+This new track provides a dedicated forum for researchers,
+practitioners, and tool developers to present and discuss the latest
+advances in the synergistic combination of traditionally distinct areas
+of dynamic analysis, e.g., testing, and static analysis, e.g., proving.
+By joining FM, the TAP track offers authors a wider, more diverse
+audience and the prestige of publication in the main, open-access FM
+2026 proceedings, published by Springer in the LNCS series. We invite
+you to be part of this exciting new chapter for the tests and proofs
+community!
+
+**Track Highlight: FM 2026 Keynote by Professor Cristian Cadar**
+
+We are thrilled to announce that TAP Track at FM 2026 will feature a
+keynote address by **Professor Cristian Cadar** of Imperial College
+London. Professor Cadar is a world-renowned authority on software
+reliability, security, and verification, and is particularly celebrated
+for his pioneering contributions to symbolic and dynamic execution
+(e.g., KLEE). His selection as a main symposium keynote speaker is a
+powerful testament to the increasing importance of the core topics of
+the TAP track to the broader computer science community.
+
+### **Scope and Topics of Interest**
+
+The TAP track solicits high-quality, original research on the interplay
+between dynamic techniques such as testing, runtime verification
+etc.testing and formal verification such as proving, model checking,
+abstract interpretation, etc. . The track aims to foster new
+collaborations and advance the state of the art in creating reliable and
+secure software and systems. Topics of interest include, but are not
+limited to, the following areas:
+
+**Foundations for Combining Testing and Verification**
+
+-   Formalisms and theories that unify testing and proof\
+-   Semantic foundations for combined static and dynamic analysis\
+-   Proof theory for test-case generation and specification conformance\
+-   Type systems with a testing and proving focus\
+-   Formal models of test-based and proof-based development
+
+**Synergistic Techniques and Tools**
+
+-   Combination of model checking, theorem proving, and runtime
+     verification
+-   Synergies between symbolic execution, fuzzing, and formal analysis
+-   Test-case generation from formal specifications (e.g., using B, Z,
+     TLA+, VDM)
+-   Using test execution results to guide or automate proof discovery
+-   Static analysis for test-suite reduction, prioritization, and
+     optimization
+-   Verification-based and property-based testing
+-   Formal methods for testing AI/ML-based systems
+-   AI/ML techniques for enhancing formal verification and testing
+-   Derivation of specifications and contracts from tests
+-   Combination of static and dynamic analysis for security
+     vulnerability detection
+
+**Applications and Empirical Evaluation**
+
+-   Case studies and experience reports applying combined test-and-proof
+     techniques to industrial systems (e.g., in security, cyber-physical
+     systems, autonomous systems, blockchain, or IoT)
+-   Empirical comparisons of different verification, testing, and
+     combined techniques
+-   Tool demonstration papers for new and innovative tools that support
+     tests and proofs
+-   Application of TAP techniques to challenge problems and benchmarks
+
+### **Submission Categories and Guidelines**
+
+The TAP track papers can be submitted in all paper categories supported
+by the FM 2026 Research Track and submissions to the TAP track will be
+reviewed following the policies and quality criteria of the FM Research
+Track.
+
+The TAP track solicits papers in the following categories:
+
+-   **Regular Papers (max 15 pages, excluding references and
+     appendices):** For mature, original research contributions.
+-   **Long Tool Papers (max 15 pages, excluding references and
+     appendices):** For presenting mature tools, their theoretical
+     foundations, and empirical evaluations.
+-   **Case Study Papers (max 15 pages, excluding references and
+     appendices):** For in-depth reports on the application of TAP
+     techniques to significant, real-world problems.
+-   **Short Papers (max 6 pages, excluding references and appendices):**
+     For presenting novel but not yet fully mature ideas, or for tool
+     demonstration papers that focus on a tool's features and usage.
+
+Papers should be original work, not published or submitted elsewhere, in
+Springer [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines),
+and written in English.
+
+Submit your papers at https://easychair.org/conferences/?conf=fm2026
+
+Reviewing is single-blind. Each paper will be evaluated by at least
+three members of the Program Committee. Papers will be accepted or
+rejected in the category in which they were submitted and will not be
+moved between categories
+
+Authors of accepted papers are strongly encouraged to submit their
+supporting artifacts to the FM 2026 Artifact Evaluation track.
+
+### **Important Dates**
+
+All deadlines are **Anywhere on Earth (AoE, UTC-12h)**. The deadlines
+for the TAP track are aligned with the FM 2026 Research Track.
+
+   Milestone                   Date
+   --------------------------- -------------------------------
+   **Abstract Submission**       **Tuesday, 25 November 2025**
+   **Full Paper Submission**     **Tuesday, 2 December 2025**
+   **Author Notification**         **Friday, 6 February 2026**
+   **Camera-Ready Version**    **Monday, 2 March 2026**
+   **FM 2026 Conference**       **May 18-22, 2026**
+
+### **Publication**
+
+All accepted papers for the TAP track will be published as part of the
+main FM 2026 conference proceedings. The proceedings will be published
+by Springer in their **open-access Lecture Notes in Computer Science
+(LNCS)** series. At least one author of an accepted paper must register
+for the conference and present the work.
+
+### **Track Organization**
+
+**Track Chairs:**
+
+- Marie-Christine Jakobs, Ludwig-Maximilan University, Munich, Germany
+- Achim D. Brucker, University of Exeter, UK
+
+For inquiries, please contact the track chairs.

@@ -18,3 +18,11 @@ license = "free"
 
 [extra]
 notes = "Part of SPLASH 2023. Gold open access, but payment not required (on a volunteer basis). Double blind. Papers accepted at either of the rounds will be published in the 2023 volume of PACMPL (OOPSLA) and invited to be presented at the SPLASH conference in October 2023. Two rounds of reviewing. Author response: Wed Dec 07 - Fri Dec 9 2022 / Wed Jun 14 - Fri Jun 16"
+
+[[cfp]]
+file = "cfp/OOPSLA-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/OOPSLA-2023-round2.txt"
+note = "round 2"

@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence (TCCI) in 2012."
+
+[[cfp]]
+file = "cfp/ICECCS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICECCS-2025-extended.txt"
+stage = "extended"

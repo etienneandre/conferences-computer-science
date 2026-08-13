@@ -1,0 +1,37 @@
+The deadline for RTNS Round 2 submission is approaching: June 4th.
+
+Submit now! Link:  https://rtns2026.hotcrp.com/
+
+We are pleased to invite submissions to the second round of the 34th International Conference on Real-Time Networks and Systems (RTNS 2026), which will take place in Toulouse, France, on November 4–6, 2026.
+
+RTNS invites submissions covering a wide range of topics in real-time systems, networked systems and related areas, bringing together experts, practitioners, and students in these fields. We encourage both theoretical and experimental works that push the boundaries of current knowledge. We welcome contributions from both established researchers and newcomers to the field in order to create a diverse and dynamic environment.  Accepted papers will be published in Springer’s Lecture Notes in Computer Science (LNCS) and presented to an international audience. Best Paper, Best Student Paper, and Best Presentation awards will be presented at the conference. Outstanding papers will also be invited to submit an extended version for a special issue of the Springer Real-Time Systems journal.
+
+RTNS 2026 continues its multi-round submission model. The Round 2 deadline is:
+
+Submission deadline: June 4, 2026
+Notification: July 17, 2026
+
+All deadlines are Anywhere on Earth (UTC-12), unless otherwise stated.
+
+Topics include, but are not limited to:
+- real-time applications design and evaluation
+- emerging smart and cyber-physical systems
+- real-time system design and analysis
+- software technologies for real-time systems
+- formal specification and verification
+- real-time distributed systems
+- real-time networks
+- hardware support for real-time systems
+
+Website: https://2026.rtns-conference.org/
+Submission link: https://rtns2026.hotcrp.com/
+
+We would be grateful if you could circulate this call to interested colleagues and students.
+
+Best regards,
+Daniel Casini and Silviu S. Craciunas
+PC Chairs, RTNS 2026
+
+Contacts:
+daniel.casini@santannapisa.it
+silviu.craciunas@nxp.com

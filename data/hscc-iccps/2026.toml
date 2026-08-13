@@ -31,3 +31,7 @@ award = "Best paper awards for HSCC and ICCPS, Best Student Paper Award, Best To
 journal = "Selected papers will be invited to submit extended versions to: ACM Transactions on Cyber-Physical Systems and to Non-Linear Analysis: Hybrid Systems"
 colocated = "Part of CPS-IoT Week."
 notes = "Regular papers and tool/case study papers can both be long or short. The conference itself will consist of parallel tracks and a semi-plenary speaker, continuing traditions established in past HSCC/ICCPS conferences.This “pre-merger” transitional structure will apply to the 2026 version of these conferences (unified submission, review process and multi-track conferences but distinct proceedings) before a planned “full merge” in 2027. The full merge structure will be a combined conference with a single name and proceedings while retaining the three distinct tracks."
+
+[[cfp]]
+file = "cfp/HSCC-ICCPS-2026.txt"
+stage = "initial"

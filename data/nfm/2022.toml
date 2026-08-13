@@ -24,3 +24,11 @@ rate = 35.0
 
 [extra]
 notes = "No registration fees. Authors of selected best papers will be invited to submit an extended version to a special issue in Springer’s Innovations in Systems and Software Engineering: A NASA Journal. Authors are encouraged, but not strictly required, to submit artifacts that support the conclusions of their work"
+
+[[cfp]]
+file = "cfp/NFM-2022.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/NFM-2022-extended.txt"
+stage = "extended"

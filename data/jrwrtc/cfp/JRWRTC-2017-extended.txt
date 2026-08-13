@@ -1,0 +1,85 @@
+The submission deadline for the 11th Junior Researcher Workshop on
+Real-Time Computing (JRWRTC 2017) has been
+**extended to: August 31st, 2017.**
+
+Please find hereafter the call for papers for JRWRTC 2017:
+
+
+===== Call for papers =====
+
+The purpose of the 11th Junior Researcher Workshop on Real-Time
+Computing is to bring together junior researchers working on
+real-time systems (PhD students, postdocs, etc). The workshop
+provides a relaxed forum to present and discuss new ideas, new
+research directions, and to review current trends in the
+real-time systems area and is based on both short presentations
+and a poster session to encourage stimulating discussions.
+
+The scope of the JRWRTC 2017 includes (but is not limited to)
+the following areas:
+* Real-time system design and analysis:
+    - task and message scheduling
+    - modeling and verification
+    - model-driven development
+    - worst-case execution time estimation
+    - distributed systems and fault tolerance
+    - quality of service and security
+    - real-time system benchmarking
+* Infrastructure and hardware for real-time systems:
+    - wired and wireless communication networks
+    - fieldbuses
+    - networked control systems
+    - sensor networks
+    - power-aware scheduling
+* Software technologies for real-time systems:
+    - compilers
+    - programming languages
+    - middleware and component-based technologies
+    - operating systems
+    - tools and benchmarks
+* Real-time applications:
+    - automotive, avionics, telecommunications, process control
+and multimedia
+
+
+
+===== Important dates =====
+
+* Submission deadline: Aug. 31st, 2017 (extended)
+* Notification of acceptance: Sept. 10th, 2017
+* Final manuscript due: Sept. 15th, 2017
+* Conference: Oct. 4-6th, 2017
+
+
+===== Workshop chairs ======
+
+Mitra Nasri, Max Planck Institute for Software Systems,
+Germany
+Guillaume Phavorin, Université de Poitiers, France
+
+
+===== Program committee =====
+
+Matthias Becker, Malardalen University, Sweden
+Alessandro Biondi, Scuola Superiore Sant'Anna, Italy
+Georg von der Brüggen, TU Dortmund, Germany
+Simin Cai, Malardalen University, Sweden
+Dakshina Dasari, Robert Bosch GmbH, Germany
+Frank Durr, IPVS, University of Stuttgart, Germany
+Pontus Ekberg, Uppsala University, Sweden
+Tomasz Kloda, INRIA, France
+Jing Li, Washington University in St. Louis, USA
+Morteza Mohaqeqi, Uppsala University, Sweden
+Borislav Nikolic, CISTER/ISEP, Portugal
+Abhilash Thekkilakattil, AtlasCopco Industrial Technique R&D, Sweden
+Kecheng Yang, University of North Carolina at Chapel Hill, USA
+
+
+===== Paper Submission Guidelines =====
+
+Submission guidelines: Authors can submit up to 4 pages in double
+column format, with 10pt font. Every submission should be co-authored
+by at least one junior researcher. A booklet containing the proceedings
+will be available on the web. One author of every accepted paper should
+be registered to the conference to present the paper in a talk and
+during the poster session.

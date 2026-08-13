@@ -1,0 +1,96 @@
+2nd Call for Papers CONCUR 2025
+https://conferences.au.dk/confest2025/concur
+
+CONCUR 2025 is the 36th International Conference on Concurrency Theory. Its purpose is to bring together researchers, developers, and students in order to advance the theory of concurrency, and promote its applications. It will be co-located with QEST+FORMATS, FMICS and a number of workshops, under the joint name CONFEST 2025. CONFEST 2025 will take place August 25-30, 2025 at the University of Aarhus, Denmark.
+
+Important dates (anywhere on Earth)
+
+- Abstracts: April 3, 2025 (AoE)
+- Submissions: April 9, 2025 (AoE)
+- Rebuttal Response: May 9-12, 2025 (AoE)
+- Notification: May 27, 2025 (AoE)
+- Camera Ready: June 10, 2025 (AoE)
+- Conference(s): Aug 26-29, 2025
+- Workshops: Aug 25 and 30, 2025
+
+
+Paper submission
+
+CONCUR 2025 solicits high quality papers reporting research results and/or experience related to the topics mentioned below.
+- All papers must be original, unpublished, and not submitted for publication elsewhere.
+- Each paper will undergo a thorough review process. The paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee.
+- Papers must be submitted electronically as PDF files via EasyChair (https://easychair.org/conferences/?conf=concur2025).
+- The CONCUR 2025 proceedings will be published by LIPIcs, please use their style files (https://drops.dagstuhl.de/entities/series/LIPIcs#author).
+- Submissions follow a single blind process.
+- Papers must not exceed 15 pages (excluding references and clearly marked appendices) using the LIPIcs style.
+
+Topics
+
+Submissions are solicited in the theory and practice of concurrent systems. The principal topics include (but are not limited to):
+
+- Basic models of concurrency such as abstract machines, domain-theoretic models, categorical and coalgebraic models, game-theoretic models, parametric models, process algebras, graph transformation systems, Petri nets, hybrid systems, mobile and collaborative systems, probabilistic systems, real-time systems, quantum systems, biology-inspired systems, and synchronous systems;
+
+- Logics for concurrency such as modal logics, program logics, probabilistic and stochastic logics, temporal logics, multi-agent logics, and resource logics;
+Verification and analysis techniques for concurrent systems such as abstract interpretation, atomicity checking, model checking, race detection, pre-order and equivalence checking, run-time verification, state-space exploration, static analysis, synthesis, testing, theorem proving, type systems, and security analysis;
+
+- Distributed/parallel algorithms and concurrent data structures: design, analysis, complexity, correctness, fault tolerance, reliability, availability, consistency, self-organization, self-stabilization, commitment schemes, communication protocols;
+
+- Theoretical foundations, tools, and empirical evaluations of architectures, execution environments, and software development for concurrent systems such as geo-replicated systems, distributed ledgers, communication networks, multiprocessor and multi-core architectures, quantum computing, quantum communication, shared and transactional memory, resource management and awareness, compilers and tools for concurrent programming, programming models such as component-based, object- and service-oriented.
+
+
+Invited Speakers
+
+- Christel Baier, TU Dresden, Germany
+- Chris Heunen, University of Edinburgh, UK
+- Jiri Srba, Aalborg University, Denmark
+
+PC Chairs
+
+- Patricia Bouyer, CNRS, France (http://www.lsv.fr/~bouyer/)
+- Jaco van de Pol, Aarhus University, Denmark (https://cs.au.dk/~jaco/)
+
+Program Committee
+
+- Luca Aceto, Reykjavik University, Iceland, and Gran Sasso Science Institute, Italy
+- Guy Avni, University of Haifa, Israel
+- Ezio Bartocci, TU Wien, Austria
+- Michael Blondin, Université de Sherbrooke, Canada
+- Patricia Bouyer (chair), CNRS, France
+- Janna Burman, Université Paris-Saclay, France
+- Michaël Cadilhac, DePaul University, USA
+- Pedro R. D'Argenio, Universidad Nacional de Córdoba, Argentina
+- Josee Desharnais, Laval University, Canada
+- Pierre Ganty, IMDEA Software Institute, Spain
+- Rob van Glabbeek, University of Edinburgh, UK
+- Christoph Haase, University of Oxford, UK
+- Tingting Han, Birkbeck, University of London, UK
+- Sebastian Junges, Radboud University, The Netherlands
+- Jan Kretinsky, Masaryk University, Czech Republic
+- S Krishna, IIT Bombay, India
+- Sławomir Lasota, University of Warsaw, Poland
+- Rupak Majumdar, Max Planck Institute for Software Systems, Germany
+- Paul-André Melliès, CNRS, Université de Paris Cité, France
+- Benjamin Monmege, Aix-Marseille Université, France
+- Wojciech Penczek, Polish Academy of Sciences, Poland
+- Nir Piterman, University of Gothenburg, Sweden
+- Jaco van de Pol (chair), Aarhus University, Denmark
+- Mickael Randour, F.R.S.-FNRS, and Université de Mons, Belgium
+- Ana Sokolova, University of Salzburg, Austria
+- B Srivathsan, Chennai Mathematical Institute, India
+- Marielle Stoelinga, University of Twente, The Netherlands
+- Bow-Yaw Wang, Academia Sinica, Taiwan
+- Dominik Wojtczak, University of Liverpool, UK
+- Zhilin Wu, Chinese Academy of Sciences, China
+- Mingsheng Ying, University of Technology Sydney, Australia
+- Martin Zimmermann, Aalborg University, Denmark
+
+Steering Committee
+
+- Luca Aceto
+- Christel Baier
+- Pedro R. D’Argenio
+- Wan Fokkink, chair
+- Catuscia Palamidessi
+- Jiri Srba
+
+Questions on submissions should be directed to the PC chairs.

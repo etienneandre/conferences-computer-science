@@ -19,3 +19,7 @@ license = "free"
 
 [extra]
 colocated = "Co-located with FLoC 2026"
+
+[[cfp]]
+file = "cfp/SYNT-2026.txt"
+stage = "initial"

@@ -1,0 +1,196 @@
+Call for Papers: FORMALISE 2025
+
+13th International Conference on Formal Methods in Software Engineering
+
+27 and 28 April, 2025
+
+  co-located with ICSE 2025 (April 27-May 3, 2025), Ottawa, Canada
+
+https://conf.researchr.org/home/Formalise-2025
+
+Overview
+
+Historically, formal methods academic research and practical software development have had limited mutual interactions — except possibly in specialized domains such as safety-critical software. In recent times, the outlook has considerably improved: on the one hand, formal methods research has delivered more flexible techniques and tools that can support various aspects of the software development process: from user requirements elicitation, to design, implementation, verification and validation, as well as the creation of documentation. On the other hand, software engineering has developed a growing interest in rigorous techniques applied at scale.
+
+The FormaliSE conference series promotes work at the intersection of the formal methods and software engineering communities, providing a venue to exchange ideas, experiences, techniques, and results. We believe more collaboration between these two communities can be mutually beneficial by fostering the creation of formal methods that are practically useful and by helping develop higher-quality software.
+
+Originally a workshop event, since 2018 FormaliSE has been organized as a conference co-located with ICSE. The 13th edition of FormaliSE will also take place as a co-located conference of ICSE 2025.
+
+Areas of interest include but are not limited to:
+
+    requirements formalization and formal specification;
+
+    approaches, methods and tools for verification and validation;
+
+    formal approaches to safety and security related issues;
+
+    analysis of performance and other non-functional properties based on formal approaches;
+
+    scalability of formal method applications
+
+    integration of formal methods within the software development lifecycle (e.g., change management, continuous integration, regression testing, and deployment)
+
+    model-based engineering approaches;
+
+    correctness-by-construction approaches for software and systems engineering;
+
+    application of formal methods to specific domains, e.g., autonomous, cyber-physical, intelligent, and IoT systems;
+
+    formal methods for AI-based systems (FM4AI), and AI applied in formal method approaches (AI4FM);
+
+    formal methods in a certification context
+
+    case studies developed/analyzed with formal approaches
+
+    experience reports on the application of formal methods to real-world problems;
+
+    guidelines to use formal methods in practice;
+
+    usability of formal methods.
+
+
+Important dates:
+
+    Abstracts due: 18 November 2024 (AoE) - EXTENDED DEADLINE
+
+    Submissions: 25 November 2024 (AoE) - EXTENDED DEADLINE
+
+    Notifications: 13 January 2025
+
+    Camera ready copies: 5 February 2025
+
+    FormaliSE conference: 27-28 April 2025
+
+
+Paper submission guidelines
+ We accept papers in three categories:
+
+    Full research papers describing original research work and results. We encourage authors to include validation of their contributions by means of a case study or experiments.  We also welcome research papers focusing on tools and tool development.
+
+    Case study papers discussing a significant application that suggests general lessons learned and motivates further research, or empirically validates theoretical results (such as a technique's scalability).
+
+    Research ideas papers describing new ideas in preliminary form, in a way that can stimulate interesting discussions at the conference, and suggest future work.
+
+
+All papers submitted to the FormaliSE 2025 conference must be written in English, must be unpublished original work, and must not be under review or submitted elsewhere at the time of submission. Submissions must comply with the FormaliSE's lightweight double-anonymous review process (see below).
+
+Full research papers and case study papers can take up to 10 pages including all text, figures, tables and appendices, but excluding references. Research ideas papers can take up to 4 pages, plus up to 1 additional page solely for references.
+
+To avoid that authors waste time fitting their papers into the stated limit at the expense of presentation clarity, paper lengths slightly exceeding the stated limit will still be considered, provided that the reviewers find that the presentation is of high quality.
+
+All submissions must be in PDF format and must conform to the IEEE conference proceedings template, specified in the IEEE Conference Proceedings Formatting Guidelines (i.e., title in 24pt font and full text in 10pt type): https://www.ieee.org/conferences/publishing/templates.html
+
+In LaTeX, use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf options.
+
+
+To submit a paper to FormaliSE 2025 use thisHotCRP link: https://formalise25.hotcrp.com/
+
+Lightweight Double-Blind Review Process for Papers
+As in recent editions, FormaliSE 2025 will use a lightweight double-anonymous process. Authors must omit their names and institutions from the title page, cite their own work in the third person, and omit acknowledgments that may reveal their identity or affiliation. The purpose is reducing chances of reviewer bias influenced by the authors’ identities. The double-anonymous process is, however, lightweight, which means that it should not pose a heavy burden for authors, nor should make a paper's presentation weaker or more difficult to review. Also, advertising the paper as part of your usual research activities (for example, on your personal web-page, in a pre-print archive, by email, in talks or discussions with colleagues) is permitted without penalties.
+
+Paper selection
+Each paper will be reviewed by at least three program committee members that will judge its overall quality in terms of its soundness, significance, novelty, verifiability, and presentation clarity.
+
+FormaliSE 2025 will adopt a lightweight response process: if all the reviewers of a given paper agree that a clarification from the authors regarding a specific question could move the paper from "borderline" to "accept", the chairs will relay the reviewers' questions to the authors by email, and then share their reply with the reviewers in HotCRP. The goal of lightweight responses is reducing the chance of  random decisions on  borderline papers. Hence, they will only be used for a minority of submissions; most papers will not require such an author response. Nevertheless, we would ask the corresponding authors of all submissions to make sure that they are available to answer questions by email upon request.
+
+Artifact Evaluation
+Reproducibility of experimental results is crucial to foster an atmosphere of trustworthy, open, and reusable research. To improve and reward reproducibility, FormaliSE 2025 continues its Artifact Evaluation (AE) procedure. An artifact is any additional material (software, data sets, machine-checkable proofs, etc.) that substantiates the claims made in the paper and ideally makes them fully reproducible.
+
+Submission of an artifact is optional but encouraged for all papers where it can support the results presented in the paper. Artifact review is single-anonymous (the paper corresponding to an artifact must still follow the double-anonymous submissions requirements) and will be conducted concurrently with the paper reviewing process. Artifacts will be handled by a separate Artifact Evaluation Committee, and the Artifact Evaluation process will be set up such that the anonymization of the corresponding papers will not be compromised. Accepted papers with a successfully evaluated artefact will be awarded the [EAPLS badges (https://eapls.org/pages/artifact_badges/) that apply (among "Functional", "Reusable", and "Available"). Awarded badges are to be added to the camera-ready version of the paper.
+
+Artifacts will be assessed with respect to their consistency with the results presented in the paper, their completeness, their documentation, and their ease of use. The Artifact Evaluation will include an initial check for technical issues; authors of artifacts may be contacted by email within the first two weeks after artifact submission to help resolve any technical problems that prevent the evaluation of an artifact if necessary.
+
+The results of an artifact evaluation will not be available to the reviewers of the corresponding paper; hence, they will not affect the paper's acceptance decision. However, reviewers will know whether a paper has submitted *any* artifacts; this piece of information may be taken into account to decide whether the paper should be accepted. Thus, if there are justifiable reasons why a paper's artifacts cannot be submitted, they should be pointed out in the paper so that the reviewers can appreciate them and adjust their expectations accordingly.
+
+Detailed guidelines for preparation and submission of artifacts will be described in a dedicated page inFormaliSE 2025's website.
+
+Publication
+All accepted papers are published as part of the ICSE 2025 Proceedings in the ACM and IEEE Digital Libraries.
+
+At least one author of each accepted paper is required to register for the conference and present the paper at the conference — physically or, if the circumstances do not allow so, virtually. Failure to register an author will result in a paper being removed from the proceedings.
+
+General Chairs
+
+    Stefania Gnesi, Istituto di Scienza e Tecnologie dell’Informazione, Italy
+
+    Nico Plat, Thanos, The Netherlands
+
+
+Program Chairs
+
+    Anastasia Mavridou, KBR / NASA Ames Research Center, USA
+
+    Gwen Salaün, University Grenoble Alpes, France
+
+
+Artifact Evaluation Chairs
+
+    Ákos Hajdu, Meta, UK
+
+    Lina Marsso, University of Toronto, Canada
+
+
+Social Media Chair
+
+    Quentin Nivon, University Grenoble Alpes, France
+
+
+Program committee
+
+    Bernhard Aichernig, TU Graz, Austria
+
+    Toshiaki Aoki, Japan Advanced Institute of Science and Technology, Japan
+
+    Kyungmin Bae, Pohang University of Science and Technology, Korea
+
+    Domenico Bianculli, University of Luxembourg, Luxembourg
+
+    Simon Bliudze, INRIA Lille - Nord Europe, France
+
+    Giovanna Broccia, ISTI - CNR, Italy
+
+    Radu Calinescu, University of York, UK
+
+    Pablo Castro, National University of Rio Cuarto, Argentina
+
+    Zhenbang Chen, NUDT, China
+
+    Nancy Day, University of Waterloo, Canada
+
+    Francisco Durán, University of Málaga, Spain
+
+    Marie Farrell, University of Manchester, UK
+
+    Carlo A. Furia, USI Lugano, Switzerland
+
+    Fatemeh Ghassemi, University of Tehran, Iran
+
+    Divya Gopinath, KBR/ NASA Ames Research Center, USA
+
+    Yann-Gaël Guéhéneuc, Concordia University, Canada
+
+    Paula Herber, University of Münster, Germany
+
+    Marieke Huisman, University of Twente, The Netherlands
+
+    Fuyuki Ishikawa, National Institute of Informatics, Japan
+
+    Xiaoqing Jin, Apple Inc., USA
+
+    Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
+
+    Oleksandr Kolchyn, Glushkov Institute of Cybernetics, Ukraine
+
+    Antónia Lopes, University of Lisbon, Portugal
+
+    Larissa Meinicke, University of Queensland, Australia
+
+    Camilo Rocha, Pontificia Universidad Javeriana, Colombia
+
+    Cristina Seceleanu, Mälardalen University, Sweden
+
+    Arpit Sharma, EECS Department, IISER Bhopal, India
+
+    Allison Sullivan, University of Texas, Arlington, USA
+
+    Heike Wehrheim, University of Oldenburg, Germany

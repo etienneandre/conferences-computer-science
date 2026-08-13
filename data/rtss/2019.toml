@@ -22,3 +22,7 @@ license = "pay"
 
 [extra]
 notes = "Postponed due to the events (demonstrations) in Hong-Kong: moved from 3-6 December 2019 to 18-21 February 2020 in York, then eventually cancelled with papers online. Rebuttal: 15-19 July 2019."
+
+[[cfp]]
+file = "cfp/RTSS-2019.txt"
+stage = "initial"

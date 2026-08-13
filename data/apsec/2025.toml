@@ -22,3 +22,7 @@ license = "pay"
 [review]
 blind = "double"
 gender_balance = "mixed"
+
+[[cfp]]
+file = "cfp/APSEC-2025.txt"
+stage = "initial"

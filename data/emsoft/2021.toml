@@ -20,3 +20,11 @@ license = "acm"
 
 [extra]
 notes = "Double blind process. Up to 10 pages appendix. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021). This year EMSOFT will follow a two-stage review process, in which papers passing the first stage of reviews will be asked to revise their work based on reviewer comments within a short time frame of around two weeks. ESWEEK 2017 will introduce a journal-integrated publication model where the majority of papers will be published in the ACM Transactions on Embedded Computing Systems (TECS)."
+
+[[cfp]]
+file = "cfp/EMSOFT-2021.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/EMSOFT-2021.txt"
+stage = "initial"

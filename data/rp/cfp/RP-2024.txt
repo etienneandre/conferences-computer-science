@@ -1,0 +1,56 @@
+Call for Papers
+The 18th International Conference on Reachability Problems - RP 2024
+September 25-27, 2024, TU Wien, Vienna, Austria
+https://easychair.org/smart-program/RP24/index.html
+
+**Overview**
+The 18th International Conference on Reachability Problems (RP'24) is being organised as a physical meeting by the Formal Methods in Systems Engineering Research Unit of the Faculty of Informatics at the TU Wien.
+
+The conference is aimed at gathering together scholars from diverse disciplines and backgrounds interested in reachability problems that appear in
+- Algebraic structures
+- Automata theory and formal languages
+- Computational game theory
+- Concurrency and distributed computation
+- Decision procedures in computational models
+- Hybrid dynamical systems
+- Logic and model checking
+- Verification of finite and infinite-state systems
+
+**Program Chairs and Committee**
+The program committee is available at
+https://easychair.org/smart-program/RP24/PC.html
+and co-chaired by
+- Laura Kovacs, TU Wien
+- Ana Sokolova, U. Salzburg
+
+**Submission categories**
+Original research papers (up to 12 pages) and presentation-only contributions (short abstract), with clear relevance to reachability problems, are both encouraged.
+
+Topics of interest include (but are not limited to):
+-  reachability problems in infinite-state systems
+- rewriting systems
+- dynamical and hybrid systems
+- reachability problems in logic and verification
+- reachability analysis in different computational models
+- counter timed/ cellular/ communicating automata
+- Petri nets
+- computational and combinatorial aspects of algebraic structures (semigroups, groups and rings)
+- frontiers between decidable and undecidable reachability problems
+predictability in iterative maps and new computational paradigms.
+
+**Submission instructions**
+Submissions should be prepared using the Springer LNCS guidelines and submitted via the link https://easychair.org/conferences/?conf=rp24
+
+Accepted original papers will be published in the Springer LNCS proceedings of RP'24.
+
+**Important dates**
+Original Full Papers (12 pages)
+- Abstracts of original full papers: May 27, 2024
+- Original full papers: May 30, 2024
+- Full paper notifications: July 11, 2024
+- Final version: July 22, 2024
+
+Presentation-Only Contributions (4 pages)
+- Abstracts of presentation-only contributions: July, 27, 2024
+- Presentation-only notifications: August 8, 2024
+

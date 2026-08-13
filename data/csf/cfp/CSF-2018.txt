@@ -1,0 +1,100 @@
+31st IEEE Computer Security Foundations Symposium
+Co-located with FLOC 2018
+July 9-12, 2018, Oxford, UK
+Link to submission website HERE.
+Call for Papers
+
+The Computer Security Foundations Symposium is an annual conference for researchers in computer security. This year CSF is organized as part of the the Federated Logic Conference (FLOC). CSF seeks papers on foundational aspects of computer security, such as formal security models, relationships between security properties and defenses, principled techniques and tools for design and analysis of security mechanisms, as well as their application to practice. While CSF welcomes submissions beyond the topics listed below, the main focus of CSF is foundational security: submissions that lack foundational aspects risk rejection.
+
+This year, CSF will use a light form of double-blind reviewing; see below.
+Topics
+
+New results in computer security are welcome. We also encourage challenge/vision papers, which may describe open questions and raise fundamental concerns about security. Possible topics for all papers include, but are not limited to:
+
+    access control
+    accountability
+    anonymity and privacy
+    authentication
+    computer-aided cryptography
+    data and system integrity
+    database security
+    decidability and complexity
+    distributed systems security
+    electronic voting
+    formal methods and verification
+    decision theory
+    hardware-based security
+    information flow control
+    intrusion detection
+    language-based security
+    network security
+    data provenance
+    mobile security
+    security metrics
+    security protocols
+    software security
+    socio-technical security
+    trust management
+    usable security
+    web security
+
+Special Sessions
+
+This year, we strongly encourage papers in two foundational areas of research we would like to promote at CSF:
+
+    BLOCKCHAIN (Chair: Elaine Shi). Many challenges arise with the rapid development of the blockchain technology, including the need for formal foundations for the security and privacy of blockchains. CSF 2018 will include a special session devoted to this topic and we invite submissions on foundational work in this area. Topics include security and privacy issues, analysis and verification of existing solutions, design of new systems, but also broader foundational issues such as how blockchain mechanisms fit into larger distributed ecosystems and foundational security aspects of applications built on top of blockchain mechanisms.
+    COMPUTER-AIDED CRYPTOGRAPHY (Chair: Bogdan Warinschi). Modern cryptography is built on firm theoretical foundations. However, cryptography proofs are often intricate and the gap from model to code is usually large, which opens the door to bugs and vulnerabilities. Computer-aided formal methods can provide assurance of the security of cryptographic protocols, primitives and their implementations in software and hardware. We invite submissions on foundational work in this area. Topics include, but are not limited to, verification of cryptographic protocols and primitives, verification of cryptographic software and hardware, tools to automate formal verification, and formal proofs of side-channel countermeasures.
+
+These papers will be reviewed under the supervision of the special session chairs. They will be presented at the conference, and will appear in the CSF proceedings, without any distinction from the other papers.
+
+Proceedings will be published by the IEEE Computer Society Press and will be available at the symposium. Some small number of papers will be selected by the PC as "Distinguished Papers".
+Important Dates
+Abstract due:   	January 30, 2018 (AoE)
+Papers due:   	January 31, 2018 (AoE)
+Author response period:   	March 14-16, 2018
+Notification:   	March 31, 2018
+Final papers due:   	April 30, 2018
+Symposium:   	July 9-12, 2018
+Program Committee
+
+    Mário Alvim, Universidade Federal de Minas Gerais
+    Myrto Arapinis, University of Edinburgh
+    Owen Arden, UC Santa Cruz
+    Alessandro Armando, University of Genova
+    Stephen Chong, Harvard University (Program Co-Chair)
+    Anupam Datta, Carnegie Mellon University
+    Stefan Deian, University of California, San Diego
+    Stéphanie Delaune, CNRS, IRISA (Program Co-Chair)
+    Marco Gaboardi, University at Buffalo
+    Deepak Garg, Max Planck Institute for Software Systems
+    Benjamin Gregoire, Inria
+    Flaminia Luccio, Università Ca' Foscari Venezia
+    Heiko Mantel, TU Darmstadt
+    Sjouke Mauw, University of Luxembourg
+    Olivier Pereira, Université Catholique de Louvain
+    Tamara Rezk, Inria
+    Alejandro Russo, Chalmers University of Technology
+    Mark Ryan, University of Birmingham
+    Benedikt Schmidt, Google
+    Elaine Shi, Cornell University (Session chair, Blockchain)
+    Christoph Sprenger, ETH Zurich
+    Alwen Tiu, Australian National University
+    Michael Carl Tschantz, International Computer Science Institute
+    Mayank Varia, Boston University
+    Bogdan Warinschi, Bristol University (Session chair, Computer-Aided Cryptography)
+
+Paper Submission Instructions
+
+Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with published proceedings.
+
+Papers must be submitted using the two-column IEEE Proceedings style available for various document preparation systems at the IEEE Conference Publishing Services page. All papers should be at most 12 pages long, not counting bibliography and well-marked appendices. Committee members are not required to read appendices, and so the paper must be intelligible without them.
+
+CSF'18 will employ a light form of double-blind reviewing. To facilitate this, submitted papers must (a) omit any reference to the authors' names or the names of their institutions, and (b) reference the authors' own related work in the third person (e.g., not "We build on our previous work ..." but rather "We build on the work of ..."). Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult (e.g., important background references should not be omitted or anonymized). Please see the conference site for answers to frequently asked questions (FAQ) that address many common concerns. When in doubt, contact the program chairs.
+
+Papers failing to adhere to any of the instructions above will be rejected without consideration of their merits.
+
+Papers intended for one of the special sessions should select the "Blockchain", or "Computer-Aided Cryptography" option, as appropriate.
+
+At least one coauthor of each accepted paper is required to attend CSF to present the paper. In the event of difficulty in obtaining visas for travel, exceptions can be made and will be discussed on a case-by-case basis.
+
+Submission website can be found HERE.

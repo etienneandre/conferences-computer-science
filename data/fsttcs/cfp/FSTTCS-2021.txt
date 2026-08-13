@@ -1,0 +1,160 @@
+FSTTCS 2021:
+Foundations of Software Technology and Theoretical Computer Science
+December 15 - 18, 2021
+Virtual Conference due to the Covid situation
+https://www.fsttcs.org.in/2021/
+Submission deadline: July 19, 2021 AoE (firm).
+Rebuttals: Aug 30 - Sept 1st, 2021
+Notification to authors: September 20, 2021.
+---------------------------------------------------------------
+FSTTCS 2021 is the 41’st conference on Foundations of Software
+Technology and Theoretical Computer Science. It is organised by IARCS,
+the Indian Association for Research in Computing Science. It is a
+forum for presenting original results in foundational aspects of
+Computer Science and Software Technology.
+
+
+Due to the Covid situation in India and the rest of the world, and to
+rule out uncertainty for authors and the local organizers, FSTTCS 2021
+will be held virtually.
+---------------------------------------------------------------
+
+List of Topics
+
+Track A
+
+* Algebraic Complexity
+* Algorithms and Data Structures
+* Algorithmic Graph Theory and Combinatorics
+* Approximation Algorithms
+* Combinatorial Optimization
+* Communication Complexity
+* Computational Biology
+* Computational Complexity
+* Computational Geometry
+* Computational Learning Theory
+* Cryptography and Security
+* Data Streaming and Sublinear algorithms
+* Economics and Computation
+* Parallel, Distributed and Online Algorithms
+* Parameterized Complexity
+* Proof Complexity
+* Quantum Computing
+* Randomness in Computing
+* Theoretical Aspects of Mobile and High-Performance Computing
+
+Track B
+
+*  Automata, Games and Formal Languages
+*  Logic in Computer Science
+* Modal and Temporal Logics
+* Models of Concurrent, Distributed and Mobile Systems
+* Models of Timed, Reactive, Hybrid and Stochastic Systems
+* Model Theory
+* Principles and Semantics of Programming Languages
+* Program Analysis and Transformation
+* Security Protocols
+* Specification, Verification and Synthesis
+* Theorem Proving and Decision Procedures
+
+
+Invited Speakers
+================
+* Scott Aaronson (University of Texas, Austin)
+* Javier Esparza (TU Munich)
+* Leslie Ann Goldberg (University of Oxford)
+* Huijia (Rachel) Lin (University of Washington)
+* Rahul Savani (University of Liverpool)
+
+Workshops and co-located events
+===============================
+See conference website for the most recent information. We invite
+researchers interested in holding a workshop or co-located event to
+contact the PC Chairs.
+
+
+Submission Guidelines
+=====================
+Submissions must be in electronic form via EasyChair
+https://easychair.org/conferences/?conf=fsttcs2021 using the LIPIcs
+LaTeX style file available at
+https://submission.dagstuhl.de/documentation/authors Submissions must
+not exceed 12 pages (excluding bibliography), but may include a
+clearly marked appendix containing technical details. The appendix
+will be read only at the discretion of the program
+committee. Simultaneous submissions to journals or other conferences
+with published proceedings are disallowed.
+
+Publication
+===========
+Accepted papers will be published as proceedings of the conference in
+the Leibniz International Proceedings in Informatics (LIPIcs) as a
+free, open, electronic archive with access to all. Authors will retain
+full rights over their work. The accepted papers will be published
+under a CC-BY license. For an accepted paper to be included in the
+proceedings, one of the authors must commit to presenting the paper at
+the conference.
+
+
+Important Dates
+===============
+* Submission deadline: July 19, 2021 AoE (firm).
+* Rebuttal phase:  Aug 30 - Sept 1st, 2021
+* Notification to authors: September 20, 2021.
+* Deadline for camera-ready papers: October 4, 2021 AoE.
+* Pre-conference workshops: December 14, 2021.
+* FSTTCS 2021: December 15–17, 2021.
+* Post-conference workshops: December 18, 2021.
+
+
+Committees
+==========
+Program Committee
+Track A
+* Amey Bhangale (University of California, Riverside)
+* Chandra Chekuri (University of Illinois, Urbana-Champaign) – Co-Chair
+* Ashish Chiplunkar (IIT Delhi)
+* Keerti Choudhary (IIT Delhi)
+* Omar Fawzi (INRIA, Lyon)
+* Uriel Feige (Weizmann Institute)
+* Anna Gál (University of Texas, Austin)
+* Divya Gupta (Microsoft Research India)
+* Sushmita Gupta (Institute of Mathematical Sciences, Chennai)
+* Valentine Kabanets (Simon Fraser University)
+* Sanjeev Khanna (University of Pennsylvania)
+* Sudeshna Kolay (IIT Kharagpur)
+* Ravishankar Krishnaswamy (Microsoft Research India)
+* Kamesh Munagala (Duke University)
+* Sriram Pemmaraju (University of Iowa)
+* Rahul Saladi (IISc Bangalore)
+* Swagato Sanyal (IIT Kharagpur)
+
+Track B
+* S Akshay (IIT Bombay)
+* Mikołaj Bojańczyk (University of Warsaw) – Co-Chair
+* Dmitry Chistikov (University of Warwick)
+* Thomas Colcombet (IRIF, Paris)
+* Anuj Dawar (University of Cambridge)
+* Manfred Droste (University of Leipzig)
+* Barbara König (University of Duisburg-Essen)
+* Rupak Majumdar (MPI-SWS)
+* Filip Mazowiecki (MPI-SWS)
+* Andrzej Murawski (University of Oxford)
+* Joanna Ochremiak (CNRS, Bordeaux)
+* M Praveen (Chennai Mathematical Institute)
+* Karin Quaas (University of Leipzig)
+* Ocan Sankur (IRISA, Rennes)
+* Helmut Seidl (Technical University Munich)
+* Georg Zetzsche (MPI-SWS)
+
+
+Organizing committee
+-----------------------------
+* A Baskar (BITS Pilani, K K Birla Goa Campus)
+* Amaldev Manuel (IIT Goa)
+* Pritam Bhattacharya (BITS Pilani, K K Birla Goa Campus)
+* A V Sreejith (IIT Goa)
+
+
+Contact: Questions about submissions should be emailed to the PC
+chairs of Track A or Track B.

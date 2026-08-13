@@ -18,3 +18,11 @@ publisher = "?"
 
 [extra]
 notes = "Firm deadline. Satellite of the IEEE Real-Time Systems Symposium"
+
+[[cfp]]
+file = "cfp/CERTS-2017.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/CERTS-2017.txt"
+stage = "initial"

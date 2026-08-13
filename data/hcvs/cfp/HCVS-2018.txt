@@ -1,0 +1,111 @@
+Call for Papers
+
+5th Workshop on Horn Clauses for Verification and Synthesis (HCVS)
+Affiliated with ICLP at FLoC 2018
+
+July 13, 2018 - Oxford, UK
+
+https://www.sci.unich.it/hcvs18/
+
+
+Invited speakers: 
+
+  Pierre Ganty (IMDEA Software Institute)
+  Hiroshi Unno (University of Tsukuba)
+
+Submission deadlines:
+
+- Paper submission:   15 April 2018
+- Paper notification: 15 May 2018
+- Camera-ready:       31 May 2018
+- Workshop:           13 July 2018
+
+
+Many Program Verification and Synthesis problems of interest can be
+modeled directly using Horn clauses, and many recent advances in the
+CLP and CAV communities have centered around efficiently solving
+problems presented as Horn clauses.
+
+This workshop aims to bring together researchers working in the
+communities of Constraint/Logic Programming (e.g., ICLP and CP),
+Program Verification (e.g., CAV, TACAS, and VMCAI), and Automated
+Deduction (e.g., CADE), on the topic of Horn clause based analysis,
+verification and synthesis.
+
+Horn clauses for verification and synthesis have been advocated by
+these communities at different times and from different perspectives,
+and this workshop is organized to stimulate interaction and a fruitful
+exchange and integration of experiences.
+
+The workshop follows four previous meetings: HCVS 2017 in Gothenburg, 
+Sweden (w/CADE), HCVS 2016 in Eindhoven, The Netherlands (w/ETAPS), 
+HCVS 2015 in San Francisco, CA, USA (w/CAV), and HCVS 2014 in Vienna, 
+Austria (w/VSL).
+
+Topics of interest include, but are not limited to the use of Horn
+clauses, constraints, and related formalisms in the following areas:
+
+- Analysis and verification of programs and systems of various kinds
+  (e.g., imperative, object-oriented, functional, logic, higher-order,
+  concurrent)
+- Program synthesis
+- Program testing
+- Program transformation
+- Constraint solving
+- Type systems
+- Case studies and tools
+- Challenging problems
+
+We solicit regular papers describing theory and implementation of
+Horn-clause based analysis and tool descriptions. We also solicit
+extended abstracts describing work-in-progress, as well as
+presentations covering previously published results that are of
+interest to the workshop.
+
+
+Program Committee:
+
+- Elvira Albert (Complutense University of Madrid)
+- Maria Alpuente (Universitat Politecnica de Valencia)
+- Nikolaj Bjorner (Microsoft Research)
+- Giorgio Delzanno (Universita degli Studi di Genova)
+- Fabio Fioravanti (University of Chieti-Pescara)
+- John Gallagher (Roskilde University and IMDEA Software Institute)
+- Pierre-Loic Garoche (ONERA)
+- Arie Gurfinkel (University of Waterloo)
+- Temesghen Kahsai (Amazon) -chair
+- Ekaterina Komendantskaya (Heriot-Watt University)
+- David Monniaux (CNRS/Verimag)
+- Jorge A. Navas (SRI International)
+- Carlos Olarte (Universidade Federal do Rio Grande do Norte)
+- Maurizio Proietti (IASI-CNR)
+- Philipp Rummer (Uppsala University)
+- Caterina Urban (ETH Zurich)
+- German Vidal (Universitat Politecnica de Valencia) -chair
+
+Submission has to be done in one of the following formats:
+
+- Regular papers (up to 12 pages plus bibliography, typeset in EPTCS
+  format), which should present previously unpublished work (completed
+  or in progress), including descriptions of research, tools, and
+  applications.
+
+- Extended abstracts (up to 3 pages in EPTCS format), which describe
+  work in progress or aim to initiate discussions.
+
+- Presentation-only papers, i.e., papers already submitted or
+  presented at a conference or another workshop. Such papers can be
+  submitted in any format, and will not be included in the workshop
+  post-proceedings.
+
+All submitted papers will be refereed by the program committee and
+will be selected for inclusion in accordance with the referee
+reports. Accepted regular papers and extended abstracts will be
+published electronically as a volume in the Electronic Proceedings in
+Theoretical Computer Science (EPTCS) series, see http://www.eptcs.org/
+
+Authors of accepted papers are required to ensure that at least one of
+them will be present at the workshop. Papers must be submitted through
+the EasyChair system using the web page:
+
+  https://www.easychair.org/conferences/?conf=hcvs2018

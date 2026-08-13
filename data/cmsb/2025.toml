@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Two prizes will be delivered for the best regular or tool papers: the best paper award and the best student paper award."
+
+[[cfp]]
+file = "cfp/CMSB-2025.txt"
+stage = "initial"

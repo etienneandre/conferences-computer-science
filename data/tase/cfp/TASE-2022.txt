@@ -1,0 +1,134 @@
+Call For Papers
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The 16th International Symposium on Theoretical Aspects of Software Engineering (TASE 2022)
+https://www.cs.ubbcluj.ro/tase2022/
+July 8-10, Cluj-Napoca, Romania
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TASE is an international symposium that aims to bring together researchers and developers from academia and industry with interest 
+in the theoretical aspects of software engineering. Modern society is increasingly dependent on software systems that are becoming larger and more complex. 
+This poses new challenges to current software engineering methodologies that need to be enhanced using modern results from theoretical computer science. 
+We invite submission of research papers on topics covering all theoretical aspects of software engineering, including those describing applications 
+of theoretical computer science in industrial applications and software engineering methodologies.
+
+The 16th Theoretical Aspects of Software Engineering Conference (TASE 2021) will be held in Babes-Bolyai University, Cluj-Napoca, Romania on July 8-10, 2022. 
+The proceedings of the TASE 2022 symposium are planned to be published in the Springer Lecture Notes in Computer Science series. 
+
+Authors are invited to submit high quality technical papers describing original and unpublished work in all theoretical aspects of software engineering. 
+Topics of interest include, but are not limited to:
+
+■ Abstract interpretation
+■ Algebraic and co-algebraic specifications
+■ AI for formal methods
+■ Component-based software engineering
+■ Cyber-physical systems
+■ Deductive verification
+■ Distributed and concurrent systems
+■ Domain Engineering
+■ Embedded and real-time systems
+■ Feature-oriented software
+■ Formal methods, verification and testing for AI systems
+■ Run-time verification and monitoring
+■ Semantic web and web services
+■ Service-oriented and cloud computing
+■ Software processes and workflows
+■ Software architectures and design
+■ Formal verification and program semantics
+■ Fundamental theories and techniques for trustworthy AI systems
+■ Integration of formal methods
+■ Language design
+■ Model checking and theorem proving
+■ Model-driven engineering
+■ Object-oriented systems
+■ Probability in software engineering
+■ Program analysis
+■ Program logics and calculi
+■ Requirements engineering
+■ Reverse engineering and software maintenance
+■ Software testing and quality assurance
+■ Software safety, security and reliability
+■ Specification and verification
+■ Type systems and behavioral typing
+■ Tools exploiting theoretical results
+
+----------------------------------------------------------------------------------
+IMPORTANT DATES:
+Abstract Submission: January 31, 2022
+Paper Submission: February 13 , 2022
+Author Notification: April 10, 2022
+Camera-ready versions: May 1, 2022
+Conference: July 8-10, 2022
+
+----------------------------------------------------------------------------------
+SUBMISSION and PUBLICATION
+
+Submissions to the conference must not have been published or be concurrently considered for publication elsewhere. 
+All submissions will be judged on the basis of originality, contribution to the field, technical and presentation quality, 
+and relevance to the conference. The proceedings will be published in the Springer Lecture Notes in Computer Science series.
+
+Papers should be written in English and should not exceed 16 pages (excluding bibliography) for long papers  
+and 6 pages (excluding bibliography) for short papers in LNCS format. 
+Submissions should be made through the TASE 2022 submission page, handled by the EasyChair conference management system.
+
+https://easychair.org/my/conference?conf=tase2022
+
+
+
+----------------------------------------------------------------------------------
+ORGANIZATION:
+* Program Chairs:
+Yamine Ait Ameur (IRIT/INPT-ENSEEIHT, France)
+Florin Craciun (Babes-Bolyai University, Romania)
+
+* Workshop Chairs:
+Ileana Ober (Université Paul Sabatier, France)
+Qin LI (East China Normal University, China)
+
+*Publicity Chairs:
+Étienne André (Université de Lorraine, France)
+Guoqiang Li (Shanghai Jiaotong University, China)
+
+* Program Committee (to be completed):
+Erika  Abraham (RWTH Aachen University, Germany)
+Yamine Ait Ameur (IRIT/INPT-ENSEEIHT, France) (co-chair)
+Etienne André (Université de Lorraine, France)
+Toshiaki Aoki (JAIST, Japan)
+Christian Attiogbe (University of Nantes, France)
+Guangdong Bai (National University of Singapore, Singapore)
+Richard	Banach (University of Manchester, United Kingdom)
+Luís Soares Barbosa (University of Minho, Portugal)
+Marcello Bonsangue (Leiden University, Netherlands)
+Marius Bozga (CNRS/Verimag, France)
+Liqian Chen (National University of Defense Technology, China)
+Wei-Ngan Chin (National University of Singapore, Singapore)
+Horatiu	Cirstea (Loria, France)
+Florin Craciun (Babes-Bolyai University, Romania) (co-chair)
+Guillaume Dupont (Institut de Recherche en Informatique de Toulouse, France)
+Flavio Ferrarotti (Software Competence Centre Hagenberg, Austria)
+Marc Frappier (Université de Sherbrooke, Canada)
+Kim Guldstrand Larsen (Aalborg University, Denmark)
+Thai Son Hoang (University of Southampton, United Kingdom)
+Zoltán Horváth (Eotvos Lorand University, Hungary)
+Zhe Hou (Griffith University, Australia)
+Fuyuki	Ishikawa (National Institute of Informatics, Japan)
+Andreas	Katis (KBR Inc. at NASA Ames Research Center, United States)
+Olga Kouchnarenko (University of Franche-Comté, France)
+Regine	Laleau (Paris Est Creteil University, France)
+Guoqiang Li (Shanghai Jiao Tong University, China)
+Qin Li (East China Normal University, China)
+Dorel Lucanu (Alexandru Ioan Cuza University, Romania)
+Amel Mammar (Telecom SudParis, France)
+Dominique Mery (Université de Lorraine, France)
+Simona Motogna (Babes-Bolyai University, Romania)
+Kazuhiro Ogata (JAIST, Japan)
+Jun Pang (University of Luxembourg, Luxembourgh)
+Shengchao Qin (Teesside University, United Kingdom)
+Adrian Riesco (Universidad Complutense de Madrid, Spain)
+Cristina Seceleanu (Mälardalen University, Sweden)
+Neeraj Singh (INPT-ENSEEIHT / IRIT, University of Toulouse, France)
+Meng Sun (Peking University, China)
+Naijun Zhan (Institute of Software, Chinese Academy of Sciences, China)
+Xue-Yang Zhu (Institute of Software, Chinese Academy of Sciences, China)
+Huibiao	Zhu (East China Normal University, China)
+Rob van Glabbeek (Data61 - CSIRO, Australia)
+ 

@@ -1,0 +1,137 @@
+---------------------------------------------------------------------
+                     Call for Papers
+
+                        FTSCS 2022
+
+8th International Workshop on Formal Techniques for Safety-Critical Systems
+
+        Auckland, New Zealand, December 7, 2022
+            (an OOPSLA/SPLASH 2022 workshop)
+
+       https://2022.splashcon.org/home/ftscs-2022
+
+---------------------------------------------------------------------
+
+*** ACM Digital Library proceedings ***
+*** Science of Computer Programming special issue (to be confirmed) ***
+
+Submission deadline: September 1, 2022
+
+
+Aims and Scope:
+
+There is an increasing demand for using formal methods to validate and
+verify safety-critical systems in fields such as power generation and
+distribution, avionics, automotive systems, medical systems, and
+autonomous vehicles. In particular, newer standards, such as DO-178C
+(avionics), ISO 26262 (automotive systems), IEC 62304 (medical
+devices), and CENELEC EN 50128 (railway systems), emphasize the need
+for formal methods and model-based development, thereby speeding up
+the adaptation of such methods in industry.
+
+The aim of this workshop is to bring together researchers and engineers
+who are interested in the application of formal and semi-formal methods
+to improve the quality of safety-critical computer systems. FTSCS
+strives to promote research and development of formal methods and
+tools for industrial applications, and is particularly interested in
+industrial applications of formal methods.
+
+Specific topics include, but are not limited to:
+
+* case studies and experience reports on the use of formal methods for
+ analyzing safety-critical systems, including avionics, automotive,
+ medical, railway, and other kinds of safety-critical and
+ QoS-critical systems
+* methods, techniques and tools to support automated analysis,
+ certification, debugging, etc., of safety/QoS-critical systems
+* analysis methods that address the limitations of formal methods in
+ industry (usability, scalability, etc.)
+* formal analysis support for modeling languages used in industry,
+ such as AADL, Ptolemy, SysML, SCADE, Modelica, etc.
+* code generation from validated models.
+
+The workshop will provide a platform for discussions and the exchange of
+innovative ideas, so submissions on work in progress are encouraged.
+
+
+Submission:
+
+We solicit submissions reporting on:
+
+A- original research contributions (10 pages max, ACM format);
+B- applications and experiences (10 pages max, ACM format);
+C- surveys, comparisons, and state-of-the-art reports (10 pages max, ACM);
+D- tool papers (5 pages max, ACM format);
+E- position papers and work in progress (5 pages max, ACM format)
+
+related to the topics mentioned above.
+
+
+All submissions must be original, unpublished, and not submitted
+concurrently for publication elsewhere. Paper submission is done
+via HotCRP at https://ftscs-2022.hotcrp.com/.
+The final version of the paper must be prepared in LaTeX, adhering to
+the ACM format available at
+https://www.acm.org/publications/proceedings-template.
+
+
+Publication:
+
+All accepted papers will appear in the pre-proceedings of FTSCS 2022.
+Accepted papers in the categories A-D above will appear in the
+workshop proceedings that will be published as a volume in
+the ACM Digital Library.
+
+The authors of a selected subset of accepted papers will be invited to
+submit extended versions of their papers to appear in a special issue
+of the Science of Computer Programming journal (to be confirmed).
+
+
+Important dates:
+
+Submission deadline: September 1, 2022
+Notification of acceptance: October 10, 2022
+Workshop: December 7, 2022
+
+
+Venue:
+
+Auckland, New Zealand
+
+
+Program chairs:
+
+Cyrille Artho        KTH Royal Institute of Technology, Sweden
+Peter Olveczky       University of Oslo, Norway
+
+
+Program committee:
+
+Etienne Andre        University Paris 13, France
+Cyrille Artho        KTH Royal Institute of Technology, Sweden
+Kyungmin Bae         Pohang University of Science and Technology, Korea
+Armin Biere          Albert-Ludwigs-University Freiburg, Germany
+David Broman         KTH Royal Institute of Technology, Sweden
+Marie Farrell        Maynooth University, Ireland
+Adrian Francalanza   University of Malta, Malta
+Dimitra Giannakopoulou     NASA Ames Research Center, USA
+Rob van Glabbeek     University of New South Wales, Australia
+Sabine Glesner         Technical University of Berlin, Germany
+Osman Hasan          National University of Sciences & Technology, Pakistan
+Fuyuki Ishikawa      National Institute of Informatics, Japan
+Robi Malik           University of Waikato, New Zealand
+Frederic Mallet      University of Cote d'Azur, France
+Lina Marsso          University of Toronto, Canada
+Roberto Nardone      University of Naples "Parthenope", Italy
+Thomas Noll          RWTH Aachen University, Germany
+Carlos Olarte        University Sorbonne Paris, France
+Peter Olveczky       University of Oslo, Norway
+Kazuhiro Ogata       Japan Advanced Institute of Science and Technology, Japan
+David Pearce         ConsenSys, New Zealand
+Markus Roggenbach    Swansea University, UK
+Martina Seidl        Johannes Kepler University, Austria
+Elena Sherman        Boise State University, USA
+Jing Sun             University of Auckland, New Zealand
+Sofiene Tahar        Concordia University, Canada
+Carolyn Talcott      SRI International, USA
+Huibiao Zhu          East China Normal University, China

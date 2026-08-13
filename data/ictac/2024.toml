@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "We plan to have a special issue for selected accepted papers from ICTAC 2024."
+
+[[cfp]]
+file = "cfp/ICTAC-2024.txt"
+stage = "initial"

@@ -26,3 +26,7 @@ submitted = 236
 
 [extra]
 notes = "Double-blind (since 2020). Author Feedback/Rebuttal: 18-23 March 2024. Deadlines are firm. An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee. Around 10% of accepted papers will be selected as distinguished papers. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
+
+[[cfp]]
+file = "cfp/LICS-2024.txt"
+stage = "initial"

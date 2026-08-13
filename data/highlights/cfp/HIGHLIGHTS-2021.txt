@@ -1,0 +1,33 @@
+********************************************************
+
+HIGHLIGHTS 2021: 9th annual conference on Highlights of LOGIC, GAMES, and AUTOMATA
+
+15-17 September 2021, online (originally planned to be held in Aachen)
+http://highlights-conference.org
+
+We invite submissions for contributed talks (around 10 minutes).
+
+IMPORTANT DATES:
++ Submission deadline: 4 JUNE AoE
++ Notification:       18 JUNE
+
+SUBMISSION WEB PAGE: https://easychair.org/conferences/?conf=highlights2021
+
+********************************************************
+
+HIGHLIGHTS 2021 is the 9th conference on Highlights of Logic, Games, and Automata that aims to integrate the diverse research community working in the areas of Logic, Finite Model Theory, Automata Theory, Games and Verification. Individual papers are dispersed across many conferences, which makes them challenging to follow. Participating in the annual Highlights conference offers a wide picture of the latest research in the field and a chance to meet and interact with most of the members of the research community. The speakers are encouraged to present their best recent work at Highlights, whether already published elsewhere or not.
+
+The three-day conference (15-17 September) will be preceded by a tutorial day 
+(14 September). This year's edition will be held online, with no registration fees 
+or with a moderate one (around 10 EUR).
+
+TUTORIALS (September 14)
++ Christoph Haase,  "A guided tour through Presburger arithmetic and friends"
++ Michał Pilipczuk, "Old and new advances in model checking first order logic"
+
+KEYNOTES
++ Rajeev Alur
++ Balder ten Cate
++ Karoliina Lehtinen
++ Nutan Limaye
++ Joel Ouaknine

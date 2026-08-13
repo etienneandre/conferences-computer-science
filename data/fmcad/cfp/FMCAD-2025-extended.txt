@@ -1,0 +1,179 @@
+================================================================================
+Formal Methods in Computer-Aided Design (FMCAD) 2025 - Deadline Extension
+================================================================================
+FMCAD 2025 is the twenty-fifth edition in a series of conferences on the theory and
+applications of formal methods in hardware and system verification. The conference
+encompasses a wide range of topics related to formal aspects of computer-aided system
+design, including verification, specification, synthesis, and testing and provides
+a leading forum to researchers in academia and industry for presenting and discussing
+groundbreaking methods, technologies, theoretical results, and tools for reasoning
+formally about computing systems.
+## General Information
+Conference Website: https://fmcad.org/FMCAD25/
+Conference Location: SRI Headquarters, Menlo Park, California, US
+Conference Dates: October 6 - October 10, 2025
+FMCAD 2025 includes the FMCAD Student Forum (https://fmcad.org/FMCAD25/student_forum/)
+and is co-located with VSTTE 2025.
+## Topics of Interest
+FMCAD welcomes submission of papers reporting original research on advances in all
+aspects of formal methods and their applications to computer-aided design.
+Topics of interest include (but are not limited to):
+*Model checking, theorem proving, equivalence checking, abstraction and reduction,
+compositional methods, decision procedures at the bit- and word-level, probabilistic
+methods, combinations of deductive methods and decision procedures.
+*Synthesis and compilation for computer system descriptions, modeling, specification,
+and implementation languages, formal semantics of languages and their subsets, model-based
+design, design derivation and transformation, correct-by-construction methods.
+*Application of formal and semi-formal methods to functional and non-functional
+specification and validation of hardware and software, including timing and power
+modeling, verification of computing systems on all levels of abstraction, system-level
+design and verification for embedded systems, cyber-physical systems, automotive
+systems and other safety-critical systems, hardware-software co-design and verification,
+and transaction-level verification.
+*Experience with the application of formal and semi-formal methods to industrial-scale
+designs; tools that represent formal verification enablement, introduce new features,
+or substantially improve the automation of formal methods.
+*Application of formal methods to verifying safety, connectivity and security properties
+of networks, distributed systems, smart contracts, block chains, and IoT devices.
+*Application of formal methods to the analysis of machine learning systems, and
+applications of machine learning to enhance formal methods techniques.
+## Important Dates
+*Abstract Submission Deadline: April 28, 2025 (extended from April 20, 2025)
+*Paper Submission Deadline: May 5, 2025 (extended from April 27, 2025)
+*Author Response: June 17 - June 19, 2025
+*Author Notification: July 1, 2025
+All deadlines are 11:59 pm AoE (Anywhere on Earth)
+### FMCAD/VSTTE Program Outline
+*Main VSTTE Day: October 6, 2025
+*Joint FMCAD/VSTTE Tutorial Day: October 7, 2025
+*Main FMCAD days: October 8 - October 10, 2025
+## Submission Guidelines
+Submissions must be made electronically in PDF format via EasyChair:
+https://easychair.org/conferences?conf=fmcad2025
+Two categories of papers are invited: Regular papers, and Tool & Case Study papers.
+**Regular papers*are expected to offer novel foundational ideas, theoretical results,
+or algorithmic improvements to existing methods, along with experimental impact validation
+where applicable.
+**Tool & Case Study papers*are expected to report on the design, implementation
+or use of verification (or related) technology in a practically relevant context
+(which need not be industrial), and its impact on design processes.
+Both Regular and Tool & Case Study papers must use the IEEE Transactions format on
+letter-size paper with a 10-point font size; preferably, use the FMCAD template for
+papers. Papers in both categories can be either 8 pages (long) or 4 pages (short)
+in length excluding references. Short papers that describe emerging results, practical
+experiences, or original ideas that can be described succinctly are encouraged. Authors
+will be required to select an appropriate paper category at abstract submission time.
+Submissions may contain an optional appendix, which will not appear in the final
+version of the paper. The reviewers should be able to assess the quality and the
+relevance of the results in the paper without reading the appendix.
+Submissions in all categories must contain original research that has not been previously
+published, nor is concurrently submitted for publication. Any partial overlap with
+published or concurrently submitted papers must be clearly indicated.
+FMCAD employs a rigorous peer-review process and each submission will be reviewed
+by at least four members of the program committee. The review process is single-blind.
+The review process will incorporate a feedback and rebuttal period during which authors
+will have the opportunity to formally respond to reviewer comments.
+**New - Artifact Evaluation:**FMCAD 2025 introduces optional artifact evaluation
+to enhance transparency and the usability of research outcomes. Authors reporting
+experimental results are strongly encouraged to publish their final data in a long-term
+repository (e.g. zenodo (https://zenodo.org)). With artifacts serving as supplementary
+evidence, high-quality artifacts can improve the likelihood of paper acceptance.
+Artifact evaluation will be integrated into the main review process, with one selected
+program committee member assessing the quality of the artifact alongside the paper.
+Accepted artifacts require a DOI and will be clearly identified in the published
+paper. Details are available on the Artifacts Page (https://fmcad.org/FMCAD25/cfa).
+Accepted papers are published by TU Wien Academic Press under a Creative Commons
+license (the authors retain the copyright) and distributed through the IEEE XPlore
+digital library. IEEE CEDA is a technical co-sponsor of FMCAD. There are no publication
+fees. Authors of accepted contributions will be required to sign the FMCAD copyright
+transfer form found here: https://fmcad.or.at/pdf/copyright.pdf.
+For each accepted paper, at least one unique author must register for the conference.
+Moreover, authors of accepted papers ensure that at least one of them will attend
+the conference and present the work.
+## Student Forum
+Continuing the tradition of the previous years, FMCAD 2025 will host a Student Forum
+that provides a platform for graduate students at any career stage to introduce their
+research to the wider Formal Methods community, and solicit feedback.
+Submissions for the student forum must be short reports describing research ideas
+or ongoing work that the student is currently pursuing, and must be within the scope
+of FMCAD. Work that has been partly published previously might be considered; the
+novel aspect to be addressed in future work must be clearly described in such cases.
+All submissions will be reviewed by a selected group of FMCAD student forum committee
+members. Details are available on the Student Forum Page (https://fmcad.org/FMCAD25/student_forum).
+## FMCAD 2025 Committees
+### Program Chair
+Ahmed Irfan, SRI, CA, USA
+Daniela Kaufmann, TU Wien, Austria
+### Program Committee
+Guy Amir, Cornell University
+Erika Ábrahám, RWTH Aachen University
+Kshitij Bansal, Google
+Haniel Barbosa, Universidade Federal de Minas Gerais
+Per Bjesse, Synopsys Inc.
+Nikolaj Bjørner, Microsoft
+Martin Blicha, University of Lugano
+Roderick Bloem, Graz University of Technology
+Rayna Dimitrova, CISPA Helmholtz Center for Information Security
+Supratik Chakraborty, IIT Bombay
+Aleksandar Chakarov, Phase Change Software LLC
+Pascal Fontaine, Université de Liège
+Katalin Fazekas, TU Wien
+Divya Gopinath, NASA Ames (KBR Inc.)
+Alberto Griggio, Fondazione Bruno Kessler
+Arie Gurfinkel, University of Waterloo
+Liana Hadarean, Amazon Web Services
+Paula Herber, University of Münster
+Osman Hasan, National University of Sciences and Technology (NUST)
+Marijn Heule, Carnegie Mellon University
+Antti Hyvärinen, Certora
+Alexey Ignatiev, Monash University
+Mitesh Jain, Rivos Inv.
+Mikolas Janota, Czech Technical University in Prague
+Susmit Jha, SRI International
+Martin Jonas, Masaryk University
+Jianwen Li, East China Normal University
+Enrico Magnago, Amazon Web Services
+Sergio Mover, Ecole Polytechnique
+Antonina Nepeivoda, Program System Institute of RAS
+Aina Niemetz, Stanford University
+Mathias Preiner, Stanford University
+Stefan Ratschan, Czech Academy of Sciences
+Kristin Rozier, Iowa State University
+Philipp Rümmer, University of Regensburg and Uppsala University
+Mark Santolucito, Barnard College
+Christoph Scholl, University of Freiburg
+Martina Seidl, Johannes Kepler University Linz
+Natarajan Shankar, SRI International
+Natasha Sharygina, University of Lugano
+Anna Slobodova, ARM
+Mate Soos, Ethereum Foundation
+Christoph Sticksel, The MathWorks
+Nestan Tsiskaridze, Stanford University
+Ashish Tiwari, Microsoft
+Georg Weissenbacher, TU Wien
+Andrew Wu, Amherst College
+Nisansala Yatapanage, Australian National University
+Emily Yu, Institute of Science and Technology Austria
+Cunxi Yu, University of Maryland
+Zhen Zhang, Utah State University
+Hongce Zhang, Hong Kong University of Science and Technology (Guangzhou)
+Yoni Zohar, Bar-Ilan University
+### Local Chair
+Stéphane Graham-Lengrand, SRI, CA, USA
+### Registration Chair
+Jenny McNeill, SRI, CA, USA
+### Student Forum Chairs
+Tanja Schindler, University of Basel, Switzerland
+Lee A. Barnett, AWS, CA, USA
+### Sponsorship Chair:
+Alex Ozdemir, Stanford University, CA, USA
+### Publication Chair
+Georg Weissenbacher, TU Wien, Austria
+### Web Chair
+Thomas Hader, TU Wien, Austria
+### FMCAD Steering Committee
+Clark Barrett, Stanford University, CA, USA
+Armin Biere, University of Freiburg, Germany
+Ruzica Piskac, Yale University, USA
+Anna Slobodova, ARM, USA
+Georg Weissenbacher, TU Wien, Austria

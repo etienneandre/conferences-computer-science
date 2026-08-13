@@ -1,0 +1,60 @@
+
+******************************************************************************************
+20th EUROPEAN CONFERENCE ON MULTI-AGENT SYSTEMS -- EUMAS 2023
+September 14-15, 2023 - Naples, Italy
+https://vadimmalvone.github.io/eumas2023/
+******************************************************************************************
+----------------------------------------
+IMPORTANT DATES (extended)
+----------------------------------------
+- Deadline for papers submission (extended): May 29, 2023
+- Notification to authors: July 5, 2023
+- Camera-Ready Papers: July 20, 2023
+- Conference: 14 & 15 September 2023
+
+All deadlines are at 23:59 UTC-12, i.e. while it is still the respective date anywhere on Earth.
+
+---------------------------
+AIMS AND SCOPE
+---------------------------
+The 20th European Conference on Multi-Agent Systems (EUMAS 2023) will be located at the University of Naples (September 14-15th, 2023). EUMAS 2023 is an EURAMAS designated and aims to encourage and support activity in the research and development of multi-agent systems, in academic and industrial effort. The conference aspires to be the primary European forum for researchers interested in the theory and practice of autonomous agents and multi-agent systems. EUMAS enables researchers to meet, present challenges, preliminary and mature research results in an open environment. EUMAS 2023 features formal proceedings published as part of the Lecture Notes in Computer Science (LNCS) series of Springer**
+
+EUMAS 2023 welcomes original, unpublished papers including improved versions of extended abstracts or rejected papers from AAMAS, AAAI and IJCAI 2023. The submission should describe work that has not been previously published, accepted for publication, nor is currently under review by another conference or journal.
+
+Topics of interest include, but are not limited to:
+
+Action and Planning – Adaptation and Learning – Agent Architectures – Agent Programming Languages – Agent Development Methodologies and Tools – Agent-Based Simulation – Agent Organizations and Institutions – Agent-oriented Software Engineering – Agents and Complex Systems – Applications of Multi-agent Systems – Argumentation – Automated negotiation – Biologically inspired approaches – Cognitive Models – Collective and Swarm Intelligence – Collective Intentionality – Communication, Cooperation, and Coordination - Computational Social Choice – Economic Models – Electronic Commerce – Ethical behavior of multi-agent systems – Formal Modelling – Game-Theoretic Methods - Human-Agent Interaction – Logics for Multi-Agent Systems – Logics for Strategic Reasoning – Negotiation – Self-organization – Semantic Web Agents - Social Networks – Socio-technical Systems – Theories of Agency – Trust and Reputation – Verification – Virtual Agents – Voting and Judgment Aggregation Models for multi-agent systems
+
+
+
+All submissions will be peer-reviewed in a doubly blind fashion. Specifically, all submissions should be anonymized. Submission should be at most 15 pages long, with any number of pages for references and, if needed, a clearly marked appendix and be formatted according to Springer’s LNCS format. For templates and instructions for authors, see http://www.springer.de/comp/lncs/authors.html.
+
+Authors must submit their papers through the EUMAS 2023 Easychair submission site at https://easychair.org/conferences/?conf=eumas2023 as a single PDF file.
+
+-------------------------
+Proceedings
+-------------------------
+As for previous editions, we plan to publish EUMAS 2023 accepted papers by Springer in an LNAI post-proceeding volume. As such, they will be made available to several indexing services (including Scopus, CPCI, EI Engineering Index, and more). Additional guidelines will be communicated after the conference to the authors of accepted papers for the preparation of the final versions to be included in the post-proceedings.
+
+-------------------------
+Special Issue
+-------------------------
+As for previous year editions, we plan to select the best papers for a special issue on a high-quality MAS journal. The invited authors will have the opportunity to submit an extended versions of their papers for a fast-tracked review process.
+
+-------------------------
+Best Paper Award
+-------------------------
+We plan to select the EUMAS-2023 Best Paper Award and the Best Student Paper Award (i.e., at least one of the authors is a student at the submission deadline). The Best Paper Award will be accompanied by a monetary prize of 500 euros, while the Best Student Paper Award will receive 250 euros. The winners will be announced at the conference.
+
+-------------------------
+Keynote Speakers
+-------------------------
+We are thrilled to announce that Prof. Orna Kupferman will be the invited speaker at EUMAS 2023.
+
+-------------------------
+Chairs
+-------------------------
+Vadim Malvone (Télécom Paris)
+Aniello Murano (Università degli Studi di Napoli, Federico II)
+
+--

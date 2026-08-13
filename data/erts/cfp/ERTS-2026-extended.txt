@@ -1,0 +1,52 @@
+/!/ DEADLINE EXTENDED TO JUNE 29th, 2025 /!/
+
+ERTS 2026
+https://conference-erts.org/
+
+Embedded Real-Time Systems Congress
+5-6 February 2026 – Toulouse, France
+
+On behalf of ERTS 2026 committee, it is our great pleasure to announce the 13th edition of the Embedded Real Time Systems Congress.
+
+The ERTS congress is a unique biennial cross-sector event on Embedded Real-Time Systems, a forum for top-level scientists with representatives from universities, research centres, industrial key players, and agencies addressing critical systems and applications. Traditionally, this event includes more than 60 talks, up to 250 participants and 40 exhibitors.
+
+Original and unpublished submissions are solicited, which may be under two forms:
+	• Regular papers presenting achieved results. The selection will be based firstly on the review of extended abstract (4 pages) followed by the review of the full paper (10 pages) for final acceptance. Accepted regular papers will be published in the proceedings and presented in an oral session at the congress (registration and presentation by one author are mandatory).
+
+	• Short papers reporting on work in progress. The selection will be based on the review of the full short paper (4 pages). Each accepted short paper will be published in the proceedings and presented both as a poster and in a five-minute oral presentation at the congress (registration and presentation by one author are mandatory).
+
+Submission are expected in all aspects of critical embedded real-time systems, and notably on the following topics:
+
+- Performance Optimization: Execution and communication latency optimization, energy optimization, etc.,
+
+- Engineering Efficency: Engineering Efficiency Agile methods, model-based engineering, AI-driven development, rapid prototyping, low-code platforms, and AI-supported engineering.
+
+- Resilience: Fault tolerance, radiation hardening, health monitoring, safety analysis techniques, etc.
+
+- Cybersecurity: Security analysis, trusted execution, data protection, secure communications, blockchain, etc.
+
+- Development Assurance and Certification: Compliance with certification standards and regulations, timing analysis, trustworthy and explainable AI.
+
+- Scalability: Distribution, modularity, etc.
+
+- Autonomy: Real-time decision-making, smart systems, and autonomous verification.
+
+- Sustainability: Energy management, life cycle design, green computing, recycling and upcycling electronics, frugal AI, etc.
+
+- Sovereignty: Open-source software and hardware, secure and independent supply chains, etc.
+
+- Efficient Human-System Collaboration: User-centred design, behaviour monitoring, human-system task sharing, remote operation interface, and societal impacts of AI.
+
+IMPORTANT DATES
+CALL FOR PAPERS
+• Regular abstract and short paper submission (4 pages)
+June 29th, 2025
+• Acceptance notification
+Sept. 26th, 2025
+• Call for nominations: ERTS 2026 PhD - Dissertation Award on Embedded critical computing system
+Nov. 2nd, 2025
+• Regular paper for review (10 pages)
+Nov. 30th, 2025
+• Final paper (short & regular)
+January 11th, 2026
+

@@ -26,3 +26,7 @@ submitted = 80
 
 [extra]
 notes = "Rebuttal Response: 4-6 uJne 2024. Part of CONFEST with QEST+FORMATS, FMICS, and several workshops and tutorials. In 2024, CONCUR Test-of-Time and best paper awards will be given for the fourth time."
+
+[[cfp]]
+file = "cfp/CONCUR-2024.txt"
+stage = "initial"

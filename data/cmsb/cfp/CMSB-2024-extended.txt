@@ -1,0 +1,175 @@
+Updates:
+- New deadline for abstract submission: April 28
+- New deadline for paper submission: May 5
+
+--------------
+
+                Call for papers CMSB 2024
+22nd Conference on Computational Methods in Systems Biology
+                  September 16-18, 2024
+               Dipartimento di Informatica
+                          Pisa
+         https://biomedinfo.di.unipi.it/cmsb2024/
+                 CMSB series website:
+             https://cmsb.sciencesconf.org/
+
+
+CMSB 2024 solicits original research articles, tool papers, posters,
+and highlight talks on the modelling and analysis of biological
+systems and networks, as well as the analysis of biological data. The
+conference brings together researchers from across biological,
+mathematical, computational, and physical sciences who are interested
+in the modelling, simulation, analysis, inference, design, and control
+of biological systems. It covers the broad field of computational
+methods and tools in systems and synthetic biology and their
+applications.
+
+************************
+IMPORTANT DATES
+************************
+
+Abstract submission (regular/tool papers): April 28, 2024 (EXTENDED)
+Paper submission (regular/tool papers): May 5, 2024 (EXTENDED)
+Notification: June 9, 2024
+Camera ready: June 23, 2024
+Poster/highlight talk: July 9, 2024
+Conference: September 16-18, 2024
+
+
+************************
+LIST OF TOPICS
+************************
+
+Topics of interest include, but are not limited to:
+* formalisms for modelling biological processes;
+* methods and tools for biological system analysis, modelling and simulation;
+* frameworks for model verification, validation, analysis, and
+simulation of biological systems;
+* high-performance methods for computational systems biology;
+* identification of biological systems;
+* applications of machine learning and data analytics in biology;
+* network modelling, analysis, inference;
+* automated parameter and model synthesis;
+* model integration and biological databases;
+* multi-scale modelling and analysis methods;
+* design, analysis, and verification methods for synthetic biology;
+* methods for biomolecular computing and engineered molecular devices;
+* data-based approaches for systems and synthetic biology;
+* optimality and control of biological systems;
+* modelling, analysis and control of microbial communities.
+
+The conference welcomes new theoretical results with potential
+applications to systems and synthetic biology, as well as novel
+applications and case studies of existing methods, tools, or
+frameworks.
+
+The CMSB 2024 proceedings will be published in the Springer LNCS/LNBI
+series and indexed by ISI Web of Science, Scopus, ACM Digital Library,
+DBLP, and Google Scholar.
+
+************************
+TYPES OF CONTRIBUTIONS
+************************
+
+Contributions should be submitted to one of the following categories:
+
+A) REGULAR PAPERS: Regular papers should describe original work that
+has not been previously published and is not under review for
+publication elsewhere. Accepted regular papers will be published as
+part of the conference proceedings in the Springer LNCS series. Papers
+in this category should not exceed 15 pages in the Springer LNCS style
+(including main figures and tables, excluding references and possible
+appendices).
+
+B) TOOL PAPERS: Tool papers should present new tools or public
+websites, new tool components or novel extensions to existing tools or
+websites supporting biological system modelling, analysis, simulation,
+or similar. Submissions must include information on methods, tool
+availability, and selected application results. They should be
+original and not previously published in a similar form. Accepted tool
+papers will be published as part of the conference proceedings in the
+Springer LNCS series. Papers in this category should have 4-6 pages in
+the Springer LNCS style (including main figures and tables, excluding
+references and possible appendices).
+
+C) POSTERS: Extended abstracts should be submitted to propose poster
+presentation of original unpublished work, or of major results
+published or accepted in the last year in a high-quality journal or
+conference. The abstracts should be submitted in Springer LNCS style
+and should not exceed 4 pages all included. Authors of accepted
+abstracts will be invited for presentation in a poster session and/or
+for flash presentations. Poster submissions will not be included in
+the Springer LNBI proceedings.
+
+D) HIGHLIGHT TALKS: Highlight talk proposals should be submitted in
+the form of an extended abstract, for possible oral presentation
+without publication of related material in the conference proceedings.
+We particularly welcome submissions of recently published work.
+Submitted abstracts summarising the results and their relevance should
+not exceed 2 pages including references. Extended abstracts will not
+be included in the Springer LNBI proceedings.
+
+Conference organizers
+
+Roberta Gori, University of Pisa (Italy)
+Paolo Milazzo, University of Pisa (Italy)
+Mirco Tribastone, IMT School for Advanced Studies Lucca (Italy)
+
+Invited speakers
+
+Juliana Bowles, University of St Andrews, (UK)
+Madalena Chaves, INRIA, Centre Inria d'Université Côte d’Azur (France)
+Karoline Faust, KU Leuven (Belgium)
+Corrado Priami, University of Pisa (Italy)
+
+Programme committee
+
+Alona Ben-Tal, University of Auckland (New Zaeland)
+Daniela Besozzi, University of Milano-Bicocca (Italy)
+Luca Bortolussi, University of Trieste (Italy)
+Linda Brodo, University of Sassari (Italy)
+Roberto Bruni, University of Pisa (Italy)
+Luca Cardelli, University of Oxford (UK)
+Milan Ceska, Brno University of Technology (Czech Republic)
+Eugenio Cinquemani, Inria  Grenoble-Rhône-Alpes (France)
+David Doty, University of California (Davis)
+François Fages, Inria Saclay (France)
+Jérôme Feret, École normale supérieure (France)
+Roberta Gori, University of Pisa (Italy) - co-chair
+Ashutosh Gupta, Indian Institute of Technology Bombay (India)
+Monika Heiner, Brandenburg Technical University Cottbus-Senftenberg (Germany)
+Jane Hillston, University of Edinburgh (UK)
+Paolo Milazzo, University of Pisa (Italy)
+Pedro T. Monteiro, University of Lisbon (Portugal)
+Jun Pang, University of Luxembourg (Luxembourg)
+Loïc Paulevé, CNRS (France)
+Andrei Paun, University of Bucharest (Romania)
+Sabine Peres, University of Lyon (France)
+Ion Petre, University of Turku (Finland)
+Tatjana Petrov, University of Konstanz (Germany)
+Gelb Pogudin, Ecole Polytechnique (France)
+David Šafránek, Masaryk University (Czech Republic)
+Carolyn Talcott SRI International (USA)
+Mirco Tribastone, IMT School for Advanced Studies Lucca (Italy) - co-chair
+Max Tschaikowski, Aalborg University (Denmark)
+Adelinde Uhrmacher, University of Rostock (Germany)
+Andrea Vandin, Sant’Anna School of Advanced Studies, Pisa (Italy)
+Verena Wolf, Saarland University (Germany)
+Christoph Zechner, Max Planck Institute (Germany)
+
+Organizing committee
+
+Linda Brodo, University of Sassari (Italy)
+Martina Cirinciani, University of Pisa (Italy)
+Moreno Falaschi, University of Siena (Italy)
+Silvia Giulia Galfrè, University of Pisa (Italy)
+Roberta Gori, University of Pisa (Italy)
+Paolo Milazzo, University of Pisa (Italy)
+Giang Pham, University of Pisa (Italy)
+Mirco Tribastone, IMT School for Advanced Studies Lucca (Italy)
+
+
+CONTACT
+************************
+All questions about the conference should be emailed to cmsb2024@easychair.org.
+

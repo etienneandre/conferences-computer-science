@@ -1,0 +1,76 @@
+CALL FOR PRESENTATIONS
+HIGHLIGHTS 2022 will happen from June 28th to July 1st, 2022, in Paris, France. The conference will be hosted by Université de Paris, and happen on the site of Grands Moulins (https://osm.org/go/0BOfBjhw5--?m=).
+
+HIGHLIGHTS 2022 is the tenth conference on Highlights of Logic, Games and Automata. It aims at integrating the community working in these fields. Papers from these areas are dispersed across many conferences, which makes them difficult to follow. A visit to the Highlights conference should offer a wide picture of the latest research in the field and a chance to meet everybody in the community, not just those who happen to publish in one particular proceedings volume.
+
+We encourage you to attend and present your best work, be it already published or not, at the Highlights conference.
+
+Conference website: https://highlights-conference.org/2022/
+
+MODALITIES OF ATTENDANCE
+Highlights is an informal event which will take place on-site (barring unforeseen circumstances), and the preferred form of participation is to give your talk in-person. Highlights is mostly intended for a local community of participants who can attend with a limited carbon footprint (e.g., no plane travel). Before coming from further away, please review how your trip and international flights are contributing to climate change. If you do come, we encourage you to make the most of your stay in Paris, e.g., by also attending the ICALP'22 conference and/or using this opportunity for a research visit (see the Highlights website for details about the Highlights Extended Stay Support Scheme program (HESSS)).
+
+If you cannot attend, you can watch the talks remotely via a video stream, interact via text-based questions and answers, and you can also submit a proposal for a pre-recorded talk. If it is accepted, you will provide a video of your talk, which will be hosted online with other conference videos and be advertised on-site. The selection process will not discriminate between pre-recorded talks and in-person talks.
+
+IMPORTANT DATES
+Submission: March 18th
+Notification: April 1st
+HESSS applications: April 15th
+Registration: TBA
+Conference: June 28-July 1st, 2022.
+
+SCOPE
+Representative areas include, but are not restricted to:
+	• algorithmic model theory
+	• automata theory
+	• databases
+	• game for logic and verification
+	• logic
+	• verification
+
+INVITED TALKS
+Dexter Kozen (US)
+Marta Kwiatkowska (UK)
+Markus Lohrey (Germany)
+Tatiana Starikovskaya (France)
+
+TUTORIALS
+S. Akshay (India)
+Dana Fisman (Israel)
+
+IMPORTANT GUIDELINES
+Submissions should take the form of a short abstract describing the content of the presentation and its interest. It should serve as a proposal for a presentation. Hence, submissions should have a single author — the speaker. They can concern any recently published, to be published, or ongoing work of the speaker. We expect you to present your favourite result of the year, so there should be at most one submission per speaker. The abstract should list co-authors, if any. Optionally, an extended abstract of up to two pages may be attached as a PDF file. 
+
+Submissions will not lead to publications. There are no formal proceedings and we encourage submission of work presented elsewhere.
+
+Submission page: https://easychair.org/conferences/?conf=highlights2022
+Submission deadline: March 18th
+
+PROGRAM COMMITTEE
+C. Aiswarya (India)
+Udi Boker (Israel)
+Véronique Bruyère (Begium)
+Dmitry Chistikov (UK)
+Claire David (France)
+Dietrich Kuske (Germany)
+Karoliina Lehtinen (France)
+Sebastian Maneth (Germany)
+Kai Salomaa (Canada)
+Alexandra Silva (US)
+Michal Skrzypczack (Poland)
+Sophie Tison (chair)
+Szymon Torunczyk (Poland)
+Thomas Zeume (Germany)
+
+ORGANISING COMMITTEE
+Antoine Amarilli
+Daniela Petrisan
+
+STEERING COMMITTEE
+León Bohn (webmaster)
+Antonio Casares (publicity chair)
+Thomas Colcombet (chair)
+Nathanaël Fijalkow
+Slawek Lasota
+Nicole Schweikardt
+Luc Segoufin

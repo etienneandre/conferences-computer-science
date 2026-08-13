@@ -1,0 +1,134 @@
+Call for Papers:
+47th International Conference on
+Applications and Theory of Petri Nets and Concurrency
+[Petri Nets 2026]
+Hamburg, Germany, June 22-26, 2026
+https://conf-2026.petrinet.net
+
+On the occasion of the 100th birthday of Carl Adam Petri, the Petri Net Conference 2026
+will take place in Hamburg, at the university where Petri held an honorary professorship.
+Therefore, contributions that include a historical perspective are particularly welcome.
+
+We seek papers presenting original research on the application or theory of Petri nets,
+as well as contributions addressing concurrent systems more broadly, or
+applications of concurrency to system design.
+
+Topics specific to Petri Nets
+
+* Analysis and synthesis, structure and behaviour of nets
+* System design and model-driven development using nets
+* Relationships between Petri nets and other approaches
+* Net-based semantical, logical and algebraic calculi,
+* Higher-level net models (coloured nets, timed nets, etc.)
+* Stochastic net models
+* Verification and model checking using nets
+* Process discovery and conformance checking
+* Computer tools for nets
+* Standardisation of nets
+* Experience reports describing applications of nets to various domains
+
+General Topics related to Concurrency
+
+* Application of concurrency to system design
+* Model checking and verification of distributed systems
+* Verification of infinite-state or parametric systems
+* Causality/partial order theory of concurrency
+* Educational issues related to concurrency
+* New developments in the theory of concurrency
+* Modelling of hardware and biological systems
+
+Important dates
+
+Abstract submission: January 14, 2026
+Paper submission: January 21, 2026
+Notification: March 8, 2026
+Final version due: March 22, 2026
+Workshops and Tutorials: June 22–23, 2026
+Main Conference: June 24–26, 2026
+
+Paper Submission
+
+Two kinds of papers can be submitted:
+
+Regular papers (max. 20 pages excluding references) describing original results
+pertaining to the development of the theory of Petri nets and distributed and
+concurrent systems in general, new results extending the applicability of Petri nets,
+or case studies, application and experience reports pertinent to the practical use
+of Petri nets and concurrency.
+
+Tool papers (max. 10 pages excluding references) describing a computer tool based on
+Petri nets (not an application of the tool or the theory behind the tool).
+The tool should be available for use by other groups (but not necessarily for free).
+The submission should indicate how the reviewers can get access to the tool
+(this must be free). The tool will be demonstrated at the Tool Exhibition.
+
+Submissions must use the Springer LNCS format and include line numbers
+(use the "lineno"-LATEX package:
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Submit via EasyChair:
+https://easychair.org/conferences/?conf=petrinets2026.
+
+
+Workshops, Courses, Tutorials and Tools
+
+The main conference will take place from Wednesday, June 24 to Friday, June 26.
+The two days before the main conference also offer a wide range of activities.
+The Petri Net Course takes place from Monday June 22 to Tuesday June 23.
+It offers a thorough introduction to Petri nets in half-day and full-day modules.
+Detailed descriptions of workshops and tutorials will be made available via the
+conference website. An exhibition of Petri net tools will take place on
+Thursday, June 25. It consists of informal demonstrations for small groups/individuals,
+and there are no scheduled talks.
+
+Organisation
+
+Organisation Committee Chairs:
+Michael Köhler-Bußmeier, Hamburg University of Applied Sciences, Germany
+Daniel Moldt, University of Hamburg, Germany
+pn2026@petrinet.net
+
+Program Committee Chairs:
+Jörg Desel, FernUniversität in Hagen, Germany
+Anna Kalenkova, The University of Adelaide, Australia
+pn2026-PC-chairs@petrinet.net
+
+Program Committee:
+Abel Armas Cervantes, Australia
+Stefan Haar, France
+Wojciech Penczek, Poland
+João Paulo Barros, Portugal
+Xudong He, USA
+Guillermo Alberto Pérez, Belgium
+Luca Bernardinello, Italy
+Gabriel Juhás, Slovak Republic
+Marta Pietkiewicz-Koutny, UK
+José Manuel Colom, Spain
+Anna Kalenkova, Australia
+Artem Polyvyanyy, Australia
+Silvano Dal Zilio, France
+Kaïs Klai, France
+Andrey Rivkin, Denmark
+Jörg Desel, Germany
+Lars Kristensen, Norway
+Jiří Srba, Denmark
+Dirk Fahland, The Netherlands
+Didier Lime, France
+Jeremy Sproston, Italy
+Peter Fettke, Germany
+Robert Lorenz, Germany
+Nathalie Sznajder, France
+João Miguel Fernandes, Portugal
+Lisa Mannel, Germany
+Jan Martijn van der Werf, The Netherlands
+Giuliana Franceschinis, Italy
+Andrew S. Miner, USA
+Remigiusz Wiśniewski, Poland
+Luís Gomes, Portugal
+Marco Montali, Italy
+
+
+Information & Contact
+https://conf-2026.petrinet.net
+pn2026@petrinet.net
+
+

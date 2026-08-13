@@ -1,0 +1,41 @@
+*********************************************************************
+YR-CONCUR 2018, Call for papers
+8th Young Researchers Workshop on Concurrency Theory (YR-CONCUR), 2018 
+A satellite workshop of CONCUR 2018 
+September 3rd, 2018, Beijing, China 
+(https://www.irif.fr/~cenea/yr-concur2018/)
+*********************************************************************
+
+*Aims and objectives*
+
+    This workshop aims at providing a platform for PhD students and young researchers who recently completed their doctoral studies, to exchange new results related to concurrency theory 
+    and receive feedback on their research. Focus is on informal discussions. Excellent master students working on concurrency theory are also encouraged to contribute. 
+
+
+
+*Important Dates*
+
+    Deadline for 4-page abstracts: June 8th, 2018 
+    Notification of acceptance: July 6th, 2018 
+    Workshop: September 3rd, 2018 
+
+
+
+*Format*
+
+    YR-CONCUR 2018 is a satellite workshop of CONCUR 2018 and will be held on September 3rd, 2018. It is anticipated that many CONCUR participants will attend the YR-workshop (and vice versa). 
+    Presentations are selected on the basis of an abstract of up to 4 pages (incl. references) describing the research. No particular format is required. Submissions are judged on the expected interest in 
+    and quality of the talk. The accepted abstracts will be made available at the workshop, but no formal proceedings are planned. It is thus also allowed (and encouraged) to send results that have been 
+    published at other conferences (although preferably not at CONCUR 2018 or any of its other satellite workshops). 
+
+
+*Submission*
+
+    4-page abstracts should be submitted via the YR-CONCUR 2018 submission page on the EasyChair system: https://easychair.org/conferences/?conf=yrconcur2018. 
+
+
+
+*Organizers* 
+
+    Constantin Enea (IRIF, Université Paris Diderot (Paris 7), France) 
+    Fu Song (ShanghaiTech University, China) 

@@ -1,0 +1,81 @@
+=====================================================
+Call for Paper (APSEC 2025)
+=====================================================
+
+Call for Papers: Technical Track
+It has been 32 years since the establishment of the Asia-Pacific Software Engineering Conference (APSEC) as a leading regional conference that gathers researchers and practitioners from academia, industry, and government to exchange knowledge and best practices in software engineering, and to address emerging challenges and solutions in software engineering innovation. This year’s APSEC will be held on December 2-5, 2025, in Macao, China. APSEC 2025 will continue in the tradition of previous editions of this regional conference. As in past APSEC series, the main research track features the most recent and significant innovations in the field of software engineering and all its sub-disciplines.
+The APSEC 2025 technical research track invites high-quality contributions describing original results in the discipline of software engineering. Solicited topics include, but are not limited to:
+
+  *
+Tools and processes
+○ Agile processes
+○ DevOps and Container
+○ Configuration Management and Deployment
+○ Software Engineering Process and Standards
+  *
+Requirements and Design
+○ Service-oriented Computing
+○ Component-based Software Engineering
+○ Cooperative, Distributed, and Global Software Engineering
+○ Software Architecture, Modeling and Design
+○ Middleware, Frameworks, and APIs
+○ Software Product-line Engineering
+  *
+Testing and Analysis
+○ Testing, Verification, and Validation
+○ Program Analysis
+○ Program Synthesis
+○ Program Repairs
+  *
+Formal Aspects of Software Engineering
+○ Formal Methods
+○ Model-driven and Domain-specific Engineering
+  *
+Human Factors and Social Aspects of Software Engineering
+○ Software Comprehension, Visualization, and Traceability
+○ Software for Green and Sustainable Technologies
+  *
+AI and Software Engineering
+○ AI for Software Engineering ○ Software Engineering for AI ○ Search-based Software Engineering
+  *
+Dependability, Safety, and Reliability
+○ Reliability, availability, and safety ○ Performance ○ Vulnerability detection to enhance software security
+  *
+Software Maintenance and Evolution
+○ Refactoring
+○ Reverse Engineering
+○ Software Reuse
+○ Software Project Management ○ Debugging, Defect Prediction, and Fault Localization
+  *
+Software Repository Mining and Data Analytics
+
+APSEC 2025 welcomes submissions addressing topics in a variety of application domains, including mobile, cloud, blockchains, embedded, and cyber-physical systems.
+________________________________
+Evaluation Criteria<https://conf.researchr.org/track/apsec-2025/apsec-2025-papers#evaluation-criteria>
+Technical research papers must not exceed 12 pages (including references). Submissions will be evaluated by at least three program committee members. The evaluation will focus on the novelty, originality, importance to the field, proper use of research methods, and presentation of the submissions.
+________________________________
+Submission Instructions<https://conf.researchr.org/track/apsec-2025/apsec-2025-papers#submission-instructions>
+Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop.
+All submissions must be in English and must come in A4 paper size PDF format and conform, at the time of submission, to the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt font, LaTeX users must use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf option). Also, papers must comply with the IEEE Policy on Authorship. Submissions must be submitted electronically in PDF before the due date via EasyChair.
+The Chairs reserve the right to reject submissions (without reviews) that are not in compliance or out of scope for the conference.
+IMPORTANT: The APSEC 2025 technical research track will use a double-blind reviewing process, which means that submissions must not reveal the authors’ identities. The authors must make every effort to honor the double-blind reviewing process. Please read the APSEC 2025 double-blind instructions carefully before preparing your paper.
+Submission Link<https://conf.researchr.org/track/apsec-2025/apsec-2025-papers#submission-link>
+Papers must be submitted through HotCRP: https://apsec25.hotcrp.com<https://apsec25.hotcrp.com/>
+________________________________
+Important Dates<https://conf.researchr.org/track/apsec-2025/apsec-2025-papers#important-dates>
+
+  *   Abstract Deadline: July 6, 2025
+  *   Paper Deadline: July 13, 2025
+  *   Author Notification: September 13, 2025
+  *   Camera Ready Deadline: October 20, 2025
+
+Accepted Papers<https://conf.researchr.org/track/apsec-2025/apsec-2025-papers#accepted-papers>
+All accepted papers will be included in the IEEE Digital Library as the APSEC 2025 conference proceedings. Accepted papers will not be permitted any additional page of content. But, we hope that the authors will reflect the reviewers’ comments as much as possible in the camera-ready version. After acceptance, the list of paper authors can not be changed under any circumstances, and the list of authors on camera-ready papers must be identical to those on submitted papers. After acceptance, paper titles can not be changed except by permission of the Program Co-Chairs, and only then when referees recommend a change for clarity or accuracy with paper content.
+Conference Attendance Expectation<https://conf.researchr.org/track/apsec-2025/apsec-2025-papers#conference-attendance-expectation>
+If a submission is accepted, at least one author of the paper must register for APSEC 2025 and present the paper at the conference. If an accepted paper is not presented, the paper will be removed from the proceedings.
+Contact<https://conf.researchr.org/track/apsec-2025/apsec-2025-papers#contact>
+
+  *
+Jacky Keung (Jacky.Keung@cityu.edu.hk<mailto:Jacky.Keung@cityu.edu.hk>) and Eunjong Choi (echoi@kit.ac.jp)
+
+           APSEC 2025 Program Co-Chairs

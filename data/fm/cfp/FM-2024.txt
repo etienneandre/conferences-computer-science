@@ -1,0 +1,218 @@
+        International Symposium on Formal Methods
+                9-13 September 2024
+          Politecnico di Milano, Milan, Italy
+             https://www.fm24.polimi.it
+                Twitter/X : @FMsymp
+
+
+FIRST CALL FOR PAPERS
+
+FM 2024 is the 26th international symposium on Formal Methods in a
+series organized by Formal Methods Europe (FME), an independent
+association whose aim is to stimulate the use of, and research on,
+formal methods for software development. The FM symposia have been
+successful in bringing together researchers and industrial users around
+a program of original papers on research and industrial experience,
+workshops, tutorials, reports on tools, projects, and ongoing doctoral
+research. FM 2024 will be both an occasion to celebrate and a platform
+for enthusiastic researchers and practitioners from a diversity of
+backgrounds to exchange their ideas and share their experiences.
+
+
+IMPORTANT DATES
+
+Abstract Submission:   April 15th, 2024
+Full Paper Submission: April 19th, 2024
+Paper Notification:    June 10th, 2024
+Final Version:         July 1st, 2024
+Conference: September 9th – 13th, 2024
+
+
+TOPICS OF INTEREST
+
+FM 2024 will highlight the development and application of formal methods
+in a wide range of domains including trustworthy AI, software,
+computer-based systems, systems-of-systems, cyber-physical systems,
+security, human-computer interaction, manufacturing, sustainability,
+energy, transport, smart cities, healthcare and biology. We particularly
+welcome papers on techniques, tools, and experiences in
+interdisciplinary settings. We also welcome papers on experiences of
+applying formal methods in industrial settings, and on the design and
+validation of formal method tools.
+
+The topics of interest for FM 2024 include, but are not limited to:
+
+Interdisciplinary formal methods:
+Techniques, tools, and experiences demonstrating the use of formal
+methods in interdisciplinary settings. Formal methods in practice
+include: industrial applications of formal methods, experience with
+formal methods in industry, tool usage reports, experiments with
+challenge problems. The authors are encouraged to explain how formal
+methods overcame problems, led to improved designs, or provided new
+insights.
+
+Tools for formal methods:
+Advances in automated verification, model checking, and testing with
+formal methods, tools integration, environments for formal methods, and
+experimental validation of tools. The authors are encouraged to
+demonstrate empirically that the new tool or environment advances the
+state of the art.
+Formal methods in software and systems engineering: Development
+processes with formal methods, usage guidelines for formal methods, and
+method integration. The authors are encouraged to evaluate process
+innovations with respect to qualitative or quantitative improvements.
+Empirical studies and evaluations are also solicited.
+
+Theoretical foundations of formal methods:
+All aspects of theory related to specification, verification,
+refinement, and static and dynamic analysis. The authors are encouraged
+to explain how their results contribute to the solution of practical
+problems with formal methods or tools.
+
+Embedded Systems Track:
+FM 2024 will feature a special track on Embedded Systems organized in
+collaboration with ACM SIGBED. This track will focus on theories,
+methods, and tools that are formal in nature and applied in the
+embedded, real-time, and cyber-physical systems.
+We are particularly interested in submissions that apply formal methods
+on autonomous systems, including AI- and non-AI-based perception,
+decision, and control algorithms, compilers, middleware, operating
+systems, virtual machines, communication protocols, and hardware.
+Example application domains are increasingly automated vehicles, robots,
+and drones.
+
+
+
+We solicit various categories of papers
+- Regular Papers (max 15 pages)
+- Long tool papers (max 15 pages)
+- Case study papers (max 15 pages)
+- Tool demonstration papers (max 6 pages)
+- Tutorial papers (max 22 pages)
+
+All page limits are in LNCS format and do not include references and
+appendices.
+
+For all papers, an appendix can provide additional material such as
+details on proofs or experiments. The appendix is not part of the page
+count and is not guaranteed to be read or taken into account by the
+reviewers. Thus, it should not contain information necessary for the
+understanding and evaluation of the presented work. Papers will be
+accepted or rejected in the category in which they were submitted and
+will not be moved between categories.
+At least one author of an accepted paper is expected to present the
+paper at the conference as a registered participant.
+
+
+SOLICITING: TUTORIAL PAPERS
+
+Tutorial papers present ideas with a focus on pedagogy over technical
+innovation. By being written in a broadly-accessible way, a tutorial
+will clarify important ideas, bring new researchers into the community,
+and serve as a bridge to practitioners. A good tutorial paper is not
+expected to have any technical innovation at all. Instead, we will
+evaluate it on its pedagogy: Is it crisp and clear? Is it readable? Does
+it help build good intuitions? Is it comfortable to follow? Will it help
+useful ideas reach a much broader audience?
+
+While tutorials about tools are a canonical fit, tutorials about
+techniques are also welcome. Prospective authors who want to suggest
+tutorials of other kinds are welcome to contact the chairs to get
+guidance. In general, we are very open-minded about what tutorials are
+about, provided they are about topics of interest to the formal methods
+community.
+
+Tutorial papers can be at most 22 pages in LNCS format. There is no
+minimum length; the tutorial should be as long as necessary to be
+effective, but should avoid filler. Tools should include links and
+descriptions of how to run them. Papers are welcome to include an
+appendix, which reviewers will read at their discretion. (We understand
+that detailed screen-shots, tool descriptions, etc., are best relegated
+to an appendix, and reviewers will make a good-faith effort to examine
+these.) Authors of a paper need not be the creators of the technical
+concepts it describes. The paper must provide clear references to the
+original technical content. The presentation must be novel relative to
+the published literature.
+
+Accepted papers will be published in the conference proceedings. Authors
+of accepted papers will be given a presentation slot in the tutorials
+period preceding the main conference. The tutorial paper submission
+should specify the desired length of the presentation, which can be a
+half or full day. They will also be invited (but are not required) to
+give a five-minute presentation during the main conference, to give
+their tutorial wider notice.
+
+Authors can also request a tutorial presentation slot without an
+accompanying paper by submitting a short tutorial proposal instead.
+Priority will be given, however, to tutorials accompanied by full
+tutorial papers.
+
+
+
+
+
+ORGANIZERS:
+
+* General Chairs:
+
+Matteo Pradella
+Matteo Rossi
+
+* PC Chairs:
+
+André Platzer
+Kristin-Yvonne Rozier
+
+* Embedded Systems Track Chairs:
+
+Wanli Chang
+Alessandro Cimatti
+
+* Tutorial Papers Chairs:
+
+Shriram Krishnamurthi
+Luigia Petre
+
+* Industry Day Chairs:
+
+Oksana Tkachuk
+Tim Willemse
+
+
+(partial) List of PC Members:
+
+Erika Abraham	RWTH Aachen University, Germany
+Dalal Alrajeh	Imperial College London, UK
+Luis Soares Barbosa	University of Minho, Portugal
+Gilles Barthe	Max Planck Institute for Security and Privacy, Germany
+Dirk Beyer	LMU Munich, Germany
+Pablo Castro	Universidad Nacional de Rio Cuarto, Argentina
+Ana Cavalcanti	University of York, UK
+Milan Česka	Brno University of Technology, Czech Republic
+Marsha Chechik	University of Toronto, Canada
+Alessandro Cimatti	Fondazione Bruno Kessler, Italy
+Alexandre Duret-Lutz	EPITA’s Research Lab (LRDE), France
+Marie Farrell	The University of Manchester, UK
+Arie Gurfinkel	University of Waterloo, Canada
+Anne E. Haxthausen	Technical University of Denmark, Denmark
+Marieke Huisman	University of Twente, Netherlands
+Reiner Hähnle	TU Darmstadt, Germany
+Peter Höfner	Australian National University, Australia
+Einar Broch Johnsen	University of Oslo, Norway
+Joost-Pieter Katoen	RWTH Aachen University, Germany
+Peter Lammich	University of Twente, Netherlands
+Martin Leucker	University of Luebeck, Germany
+Mieke Massink	CNR-ISTI, Italy
+Anastasia Mavridou	SGT Inc. / NASA Ames Research Center, USA
+Annabelle McIver	Macquarie University, Australia
+Claudio Menghi	University of Bergamo, Italy
+Stefan Mitsch	Carnegie Mellon University, USA
+Zvonimir Rakamaric	Amazon Web Services (AWS), USA
+Philipp Rümmer	University of Regensburg, Germany
+Cristina Seceleanu	Mälardalen University, Sweden
+Jun Sun	Singapore Management University, Singapore
+Stefano Tonetta	Fondazione Bruno Kessler, Italy
+Virginie Wiels	ONERA / DTIS, France
+Huan Xu	University of Maryland, USA
+Naijun Zhan	Chinese Academy of Sciences, China
+Shufang Zhu	University of Oxford, UK

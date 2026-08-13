@@ -1,0 +1,31 @@
+We are pleased to announce the call for presentations for YR-CONCUR 2026, the Young Researchers Workshop associated with CONCUR 2026.
+
+The aim of the Young Researchers CONCUR workshop is to provide a platform for PhD students and other young researchers to share new results related to concurrency theory and to receive feedback on their research.
+
+The target audience is PhD students. Submissions from postdocs, masters students, and other early career researchers are also welcome.
+
+YR-CONCUR 2026 is a part of CONFEST 2026, which co-locates the 2026 editions of CONCUR, QEST+FORMATS, FMICS, and a number of workshops, and takes place 1-5 September 2026 at the University of Liverpool, UK.
+
+Submissions:
+We welcome abstracts of work in progress, up to 2 pages long (excluding references), or short abstracts and links to work published elsewhere.  Submissions will be assessed on the expected interest and the quality of the presentation. The accepted abstracts will be made available at the workshop, but no formal proceedings are planned.
+
+Important dates:
+	• Submissions: 22 June 2026 (AoE)
+	• Notification: 15 July 2026
+	• Workshop: 5 September 2026
+
+Submission link:
+https://easychair.org/conferences/?conf=yrconcur2026
+
+Programme Committee:
+Sarvin Bahmani, University of Liverpool, UK (co-organiser)
+Marie Fortin, IRIF, CNRS & Université Paris Cité, France (co-organiser)
+Govind R, IMSc, Chennai, India
+Lucie Guillou, MPI-SWS, Germany
+Marcin Jurdzinski, University of Warwick, UK (co-organiser)
+
+Workshop webpage:
+https://confest-2026.github.io/workshops/yr-concur/
+
+Best regards,
+Marcin, Marie, and Sarvin

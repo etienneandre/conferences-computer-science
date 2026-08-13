@@ -23,3 +23,7 @@ competition = "Live complexity and termination competition during the workshop. 
 [extra]
 colocated = "Co-located with 14th Intl. Workshop on Confluence (IWC)."
 notes = "Informal proceedings (earlier / concurrent / later submission allowed). Authors of participating tools and benchmarks are invited to submit a short paper and give a presentation at the workshop."
+
+[[cfp]]
+file = "cfp/WST-2025.txt"
+stage = "initial"

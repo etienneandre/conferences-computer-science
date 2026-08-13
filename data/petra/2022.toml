@@ -18,3 +18,7 @@ license = "pay"
 
 [extra]
 notes = "MDPI special issue"
+
+[[cfp]]
+file = "cfp/PETRA-2022.pdf"
+stage = "initial"

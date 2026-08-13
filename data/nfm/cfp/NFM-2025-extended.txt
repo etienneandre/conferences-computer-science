@@ -1,0 +1,86 @@
+17th NASA Formal Methods Symposium (NFM’25)
+11-13 June 2025
+Williamsburg, VA
+Call for Papers
+Submission Deadline Extended!
+Symposium Theme
+The widespread use and increasing complexity of mission-critical and safety-
+critical systems at NASA and in the aerospace industry requires advanced
+technologies to address their specification, design, verification, validation,
+and certification. The NASA Formal Methods Symposium is a forum to foster
+collaboration between theoreticians and practitioners from NASA, other
+government agencies, academia, and industry, with the goal of identifying
+challenges and providing solutions towards achieving assurance for such
+critical systems. The focus of this symposium is on formal techniques for
+software and system assurance for applications in space, aviation, robotics,
+and other NASA-relevant critical systems.
+Topics of Interest
+·         Advances in Formal Methods – Formal verification, model checking,
+and static analysis; interactive and automated theorem proving; program and
+specification synthesis, code transformation and generation; run-time
+verification and test case generation; techniques and algorithms for scaling
+formal methods; design for verification and correct-by-design techniques;
+requirements generation, specification, and validation.
+·         Integration of Formal Methods – Use of ML techniques in formal
+methods; integration of formal methods and software engineering; integration
+of diverse formal methods techniques; integration of formal methods with
+simulation, analysis, and test approaches.
+·         Formal Methods in Practice – Experience reports on applications of
+formal methods in industry; use of formal methods in education; applications
+of formal methods to concurrent and distributed systems, human-machine
+systems, autonomous systems, and fault-detection, diagnostics, and prognostics
+systems.
+Submission
+There are two categories of submissions:
+·         Regular papers – Up to 15 pages plus references. Regular papers
+describe fully developed work and complete results.
+·         Short papers — Up to 6 pages plus references. Short papers describe
+either novel and publicly available tools, case studies detailing applications
+of formal methods, or new emerging ideas in the topics of interest.
+
+All papers should be in English and describe original work that has not been
+published or submitted elsewhere. Authors of accepted papers must present
+their work in person at the conference.
+
+NFM prohibits the use of generative AI to create the textual narrative of the
+paper. However, the use of generative AI to create examples (such as text,
+tables, graphics, and code) that support the paper is permitted, but this must
+be disclosed in the paper. Basic word processing systems that recommend and
+insert replacement text, perform spelling or grammar checks and corrections,
+or systems that do language translations need not be disclosed in the paper.
+
+All submissions will be fully reviewed by members of the Program Committee.
+NFM is currently arranging to publish accepted regular and short papers in the
+Formal Methods subline of Springer’s Lecture Notes in Computer Science (LNCS).
+Authors should therefore use the LNCS style formatting described
+at https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines<https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.springer.com%2Fgp%2Fcomputer-science%2Flncs%2Fconference-proceedings-guidelines&data=05%7C02%7Cfm-announcements%40lists.nasa.gov%7Cbfb6ee19cc3d42c84e5208dd16137441%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638690994980026681%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0l7y3aG94hYTBhDfyhI1ltPfGtBRmW%2Blb%2B7qWlxQKRM%3D&reserved=0>.
+Papers must be submitted in PDF format through the EasyChair submission
+site, https://easychair.org/conferences/?conf=nfm2025<https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Feasychair.org%2Fconferences%2F%3Fconf%3Dnfm2025&data=05%7C02%7Cfm-announcements%40lists.nasa.gov%7Cbfb6ee19cc3d42c84e5208dd16137441%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638690994980026681%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0KKTccpiDkSXNs1FGoCBijHNd4VRJuCA%2Fgm6mq8n6No%3D&reserved=0>.
+Important Dates
+Abstract submission
+December 13, 2024
+Paper submission
+December 22, 2024
+Author notification
+February 14, 2025
+Camera ready deadline
+March 14, 2025
+Symposium
+June 11-13, 2025
+
+Note: An abstract must be submitted by December 13 for the paper to be
+considered.
+Location and Cost
+The symposium will be hosted by the Computer Science Department at the College
+of William & Mary, in historic Williamsburg, VA. Williamsburg is located about
+150 miles south of Washington, D.C., and midway between Richmond and Norfolk
+on Interstate 64. It is home to an award-winning theme park, several
+recreation opportunities and the world's largest living history museum. For
+information about visiting the William & Mary campus, including lodging
+options, see www.wm.edu/about/visiting/
+<https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.wm.edu%2Fabout%2Fvisiting%2F&data=05%7C02%7Cfm-announcements%40lists.nasa.gov%7Cbfb6ee19cc3d42c84e5208dd16137441%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638690994980026681%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wena1XvW0KQnZ3dQ4TLJYgGS%2BfwBpUU7UadriZ24yFs%3D&reserved=0>
+
+There will be no registration fee charged to participants. All interested
+individuals, including non-US citizens, are welcome to attend, listen to the
+talks, and participate in discussions. However, all attendees must register.
+

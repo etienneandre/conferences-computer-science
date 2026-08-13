@@ -20,3 +20,19 @@ license = "pay"
 
 [extra]
 notes = "Co-located with Petri Nets. Deadline extended: 9 days in 2013, 4 days in 2015, 0 in 2016, 14 in 2017, 7+15 days in 2018."
+
+[[cfp]]
+file = "cfp/ACSD-2018.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ACSD-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ACSD-2018-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/ACSD-2018-extended2.txt"
+stage = "extended"

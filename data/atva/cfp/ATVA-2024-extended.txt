@@ -1,0 +1,89 @@
+New: the paper submission deadline for ATVA 2024 has been extended till 25 April AoE
+
+-----------------------------------------------------------------
+Dear colleague,
+
+Apologies if you receive multiple copies of this call-for-papers of the 22nd International Symposium on Automated Technology for Verification and Analysis (ATVA 2024), Kyoto, Japan, October 21-24, 2024.
+
+ATVA 2024: Call for Papers
+
+The 22nd International Symposium on Automated Technology for Verification and Analysis (ATVA), will take place in Kyoto, Japan, October 21-24, 2024. For more information, see https://atva-conference.org/2024/.
+SCOPE
+
+ATVA 2024 is the 22nd in a series of symposia aimed at bringing together academics, industrial researchers, and practitioners in the area of theoretical and practical aspects of automated analysis, synthesis, and verification of hardware and software systems. ATVA solicits high quality submissions in the following non-exhaustive list of topics:
+
+    Formalisms for modeling hardware, software, and embedded systems
+
+    Specification and verification of finite-state, infinite-state, and parameterized system
+
+    Program analysis and software verification
+
+    Analysis and verification of hardware circuits, systems-on-chip, and embedded systems
+
+    Analysis of real-time, hybrid, priced, weighted, and probabilistic systems
+
+    Deductive, algorithmic, compositional, and abstraction/refinement techniques for analysis and verification
+
+    Analytical techniques for safety, security, and dependability
+
+    Testing and runtime analysis based on verification technology
+
+    Analysis and verification of parallel and concurrent systems
+
+    Verification in industrial practice
+
+    Synthesis for hardware and software systems
+
+    Applications and case studies
+
+    Automated tool support
+
+PAPER SUBMISSION
+
+Submissions will be accepted in two categories:
+
+    Regular Research Papers (18 pages max, excl. references, must be anonymized)
+
+    Tool Papers (10 pages max, excl. References, not anonymized).
+
+Please note that, for the first time at ATVA, the submission process for regular research papers will be double blind and will include a rebuttal/author response period. Also, an artifact evaluation will be under-taken, which will be optional for regular papers and mandatory for tool papers. Submissions authored or co-authored by members of the program committee are allowed and encouraged.
+
+Accepted papers in both categories will be published in Springer’s Lecture Notes in Computer Science series. At least one author of each accepted paper is expected to register and present the paper at the conference.
+
+A few outstanding papers will be selected for a distinguished paper award.
+
+All papers must be submitted through EasyChair: https://easychair.org/conferences?conf=atva2024.
+IMPORTANT DATES (all dates AOE):
+
+Paper submission: April 19, 2024
+
+AE submission for tool papers: May 2, 2024
+
+Author response/rebuttal period: June 4 - June 7, 2024
+
+Author notification: June 19, 2024
+
+AE submission for regular papers: June 25, 2024
+
+AE notification: August 10, 2024
+
+Final version due: August 15, 2024
+
+Conference dates: Oct 21-24, 2024
+
+Conference webpage: https://atva-conference.org/2024/
+
+CONTACT
+
+For any questions, please contact the PC chairs:
+
+Aina Niemetz (niemetz@cs.stanford.edu)
+
+S. Akshay (akshayss@cse.iitb.ac.in)
+
+Sriram Sankaranarayanan (srirams@colorado.edu)
+
+Ichiro Hasuo, General Chair  (i.hasuo@acm.org)
+
+
+Best regards,

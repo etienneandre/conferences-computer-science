@@ -18,3 +18,11 @@ license = "acm"
 
 [extra]
 notes = "In conjunction with ECRTS."
+
+[[cfp]]
+file = "cfp/RTN-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RTN-2018-extended.txt"
+stage = "extended"

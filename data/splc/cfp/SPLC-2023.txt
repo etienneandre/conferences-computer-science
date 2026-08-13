@@ -1,0 +1,192 @@
+Call for Contributions - 27th ACM International Systems and Software Product Line Conference
+by Jacob Krüger, Feb. 7, 2023
+
+The ACM International Systems and Software Product Line Conference (SPLC) is a premier forum where researchers, practitioners, and educators can present and discuss the most recent ideas, trends, experiences, and challenges in the area of software and systems product-line engineering. Conference events include opportunities to hear industry leaders' real-world experiences and researchers' latest ideas and to learn from both.
+
+[apologies for cross-postings]
+
+ **** CALL FOR CONTRIBUTIONS ****
+
+ =======================================
+
+ 27th ACM International Systems and Software Product Line Conference (SPLC)
+
+ https://2023.splc.net/
+
+ August 28 – September 1, 2023
+
+ Venue: National Institute of Informatics, Tokyo, Japan
+
+ =======================================
+
+ The ACM International Systems and Software Product Line Conference (SPLC) is a premier forum where researchers, practitioners, and educators can present and discuss the most recent ideas, trends, experiences, and challenges in the area of software and systems product-line engineering. Conference events include opportunities to hear industry leaders' real-world experiences and researchers' latest ideas and to learn from both.
+
+
+
+Research Papers (https://2023.splc.net/calls/call-for-research-papers/)
+
+·         We invite original, theoretically or empirically validated submissions addressing all areas of software product lines research (see the call for a list of topics).
+
+·         Chairs: Gilles Perrouin, Iris Reinhartz-Berger
+
+·         Deadlines:
+
+o   Abstract submission: April 13, 2023
+
+o   Paper submission: April 20, 2023
+
+o   Notification: May 30, 2023
+
+o   Artifact submission: June 2, 2023
+
+o   Artifact notification: June 20, 2023
+
+o   Camera-ready: June 23, 2023
+
+
+
+Industrial Systems and Software Product Lines Papers (https://2023.splc.net/calls/call-for-industrial-papers/)
+
+·         We invite submission of papers presenting challenges, innovations and solutions to concrete industrial applications of software and product line engineering methodologies and tools.
+
+·         Chairs: Miguel R. Luaces, Christa Schwanninger
+
+·         Deadlines:
+
+o   Abstract submission: April 13, 2023
+
+o   Paper submission: April 20, 2023
+
+o   Notification: June 9, 2023
+
+o   Camera-ready: June 30, 2023
+
+
+
+Challenges and Solutions Papers (https://2023.splc.net/calls/call-for-challenge-cases/)
+
+·         We highly encourage community members to provide concrete sets of case studies and problems that showcase SPL-related challenges. First, there will be a call for cases where researchers or practitioners are encouraged to contribute a concrete case study. Then, after the accepted case studies are published, there will be a call for solutions. Both accepted case descriptions and solutions will be included in the conference proceedings.
+
+·         Chairs: Angelo Gargantini, Stefania Gnesi
+
+·         Deadlines:
+
+o   Challenge case submission: February 3, 2023
+
+o   Challenge case notification: February 18, 2023
+
+o   Camera-ready of challenge case: March 1, 2023
+
+o   Call for challenge solutions released: March 1, 2023
+
+o   Challenge solution submission: June 12, 2023
+
+o   Challenge solution notification: July 2, 2023
+
+o   Camera-ready of challenge solution: July 9, 2023
+
+
+
+Journal First Papers (https://2023.splc.net/calls/call-for-journal-first-papers/)
+
+·         Authors of journal-first papers are invited to submit their publications to present their work at SPLC. This is an opportunity to speak directly to the community and offer SPLC attendees a richer set of presentations.
+
+·         Chairs: Malte Lochau, Laura Semini
+
+·         Deadlines:
+
+o   Submission: June 12, 2023
+
+o   Notification: July 2, 2023
+
+o   Camera-ready: July 9, 2023
+
+
+
+Workshop Proposals and Contribution Papers (https://2023.splc.net/calls/call-for-workshop-proposals/)
+
+·         We invite the community to submit proposals for one or two- day workshops in the field. In particular, workshops on challenging, emerging areas related to conference topics.
+
+·         Chairs: Ivan Machado, Silvia Regina Vergilio
+
+·         Deadlines:
+
+o   Workshop proposal: February 6, 2023
+
+o   Workshop proposal notification: March 6, 2023
+
+o   Workshop papers submission: June 12, 2023
+
+o   Workshop papers notification: July 2, 2023
+
+o   Camera-ready: July 9, 2023
+
+
+
+Demonstrations and Tools Papers (https://2023.splc.net/calls/call-for-data-demonstrations-and-tools/)
+
+·         This track highlights live demonstrations of product-line tools and of practices tackling current industrial challenges.
+
+·         Chairs: Xavier Devroey, Monica Pinto
+
+·         Deadlines:
+
+o   Paper submission: June 12, 2023
+
+o   Notification: July 2, 2023
+
+o   Camera-ready: July 9, 2023
+
+
+
+Doctoral Symposium Papers (https://2023.splc.net/calls/call-for-doctoral-symposium-papers/)
+
+·         This track highlights doctoral proposals, both early and mid- phase, to be reviewed and commented on by a panel of experts.
+
+·         Chairs: Rick Rabiser, Tao Yue
+
+·         Deadlines:
+
+o   Paper submissions: May 2, 2023
+
+o   Notifications: May 30, 2023
+
+o   Camera-ready: June 13, 2023
+
+
+
+Tutorial Proposals (https://2023.splc.net/calls/call-for-tutorial-proposals/)
+
+·         Tutorials provide a valuable opportunity for participants to expand their knowledge and skills in product line engineering. Tutorials may focus on introductory product lines topics, or on advanced tools, approaches, methods, and best practices.
+
+·         Chairs: Shaukat Ali, Mahsa Varshosz
+
+·         Deadlines:
+
+o   Tutorial submission: June 12, 2023
+
+o   Notification: July 2, 2023
+
+o   Camera-ready: July 9, 2023
+
+ =============
+
+ General Chairs: Paolo Arcaini, Maurice ter Beek
+
+ Local Chair: Fuyuki Ishikawa
+
+ Industry Liaison Chair Mitsuhiro Kitani
+
+ Publicity Chairs: Lea Gerling, Jacob Krüger
+
+ Hall of Fame Chairs: Goetz Botterweck, Natsuko Noda
+
+ Student Volunteers Chairs: Tsutomu Kobayashi, Yuta Yanagihara
+
+ Proceedings Chair: Hironori Washizaki
+
+ Registration Chairs: Xiao-Yi Zhang, Zhenya Zhang
+
+ Finance Chair: Nobukazu Yoshioka
+
+ Web Chair: Stefan Klikovits

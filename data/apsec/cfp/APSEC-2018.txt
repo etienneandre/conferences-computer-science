@@ -1,0 +1,160 @@
+=================================================
+
+25th Asia-Pacific Software Engineering Conference (APSEC 2018)
+
+4-7 December 2018, Nara, Japan
+
+http://www.apsec2018.org/
+
+=================================================
+
+
+IMPORTANT DATES:
+Technical Research papers & Software Engineering in Practice (SEIP) papers
+- Abstract: June 29, 2018 (AoE)
+- Submission: July 6, 2018 (AoE)
+- Notification: September 3, 2018
+- Camera Ready: September 24, 2018
+
+Early Research Achievements (ERA) papers
+- Submission: August 17, 2018 (AoE)
+- Notification: September 24, 2018
+- Camera Ready: October 8, 2018
+
+Poster papers
+- Submission: October 1, 2018 (AoE)
+- Notification: October 8, 2018
+- Camera Ready: October 15, 2018
+
+Doctoral Symposium papers
+- Submission Deadline: August 17, 2018 (AoE)
+- Notification: September 24, 2018
+- Camera-Ready: October 8, 2018
+
+Workshop proposals & papers
+- Proposal Submission: July 6, 2018 (AoE)
+- Proposal Notification: July 27, 2018
+- Paper Submission: September 3, 2018
+- Paper Notification: October 1, 2018
+- Camera Ready: October 15, 2018
+
+Established in 1993, the Asia-Pacific Software Engineering Conference (APSEC) is a leading international forum on full-Spectrum software engineering and technology, particularly in the Asia-Pacific region. APSEC 2018 aims to bring together software engineering profession including researchers, practitioners, and educators to describe important new research results and report valuable project experiences, and to foster wider communications and collaborations among academia, industry, and government.
+
+The APSEC 2018 technical research track invites high quality submissions of papers describing original research studies and results in the discipline of software engineering. All accepted papers will be published through the IEEE-CS Digital Library as the APSEC 2018 conference proceedings.
+
+Topics relate to any aspect of software engineering that include, but are not limited to:
+- Agile methodologies
+- Cloud and Service-oriented Computing
+- Component-based Software Engineering
+- Configuration Management and Deployment
+- Cooperative, Distributed, and Global Software Engineering
+- Cyber-physical Systems and Internet of Things
+- Debugging, Defect Prediction and Fault Localization
+- DevOps and Container
+- Embedded Real-time Systems
+- Empirical Software Engineering
+- Formal Methods
+- Human Factors and Social Aspects of Software Engineering
+- Middleware, Frameworks, and APIs
+- Mobile and Ubiquitous Systems
+- Model-driven and Domain-specific Engineering
+- Open Source Development
+- Parallel, Distributed, and Concurrent Systems
+- Programming Languages and Systems
+- Refactoring
+- Requirements Engineering
+- Reverse Engineering
+- Search-based Software Engineering
+- Security, Reliability, and Privacy
+- Software Architecture, Modelling and Design
+- Software Comprehension, Visualization, and Traceability
+- Software Engineering Education
+- Software Engineering Process and Standards
+- Software Engineering for Smart Manufacturing
+- Software Engineering Tools and Environments
+- Software for Green and Sustainable Technologies
+- Software Maintenance and Evolution
+- Software Product-line Engineering
+- Software Project Management
+- Software Reuse
+- Software Repository Mining and Data Analytics
+- Testing, Verification, and Validation
+- Web-based Software Engineering
+
+
+SUBMISSIONS
+Submissions will be evaluated by at least three program committee members. The evaluation will focus on the novelty, originality, importance to the field, proper use of research methods, and presentation of the submissions.
+
+Submission Instructions
+
+Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop.
+
+All submissions must be in English, and must come in PDF format and conform, at time of submission, to the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt font, LaTeX users must use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf option. Also, papers must comply with the IEEE Policy on Authorship.
+
+Submissions must be submitted electronically in PDF before the due date via EasyChair.
+
+The Chairs reserve the right to reject submissions (without reviews) that are not in compliance or out of scope for the conference.
+
+
+CONFERENCE COMMITTEE
+
+General Co-Chairs
+ - Katsuhisa Maruyama (Ritsumeikan Univ.)
+ - Naoyasu Ubayashi (Kyushu Univ.)
+
+Program Co-Chairs
+ - Hironori Washizaki (Waseda Univ. / NII / SYSTEM INFORMATION Co., Ltd.)
+ - Hongyu Zhang (The Univ. of Newcastle, Australia)
+
+Software Engineering in Practice Co-Chairs
+ - Kentarou Yoshimura (HITACHI, Ltd.)
+ - Martin Becker (Fraunhofer IESE)
+
+Early Research Achievements Co-Chairs
+ - Yoshiki Higo (Osaka Univ.)
+ - Lingxiao Jiang (Singapore Management Univ.)
+
+Posters Chair:
+ - Shinpei Hayashi (Tokyo Institute of Technology)
+ - Laura Moreno (Colorado State University)
+
+Doctoral Symposium Chair:
+ - Ashish Sureka (Ashoka University)
+
+Workshops Chair
+ - Takashi Kobayashi (Tokyo Institute of Technology)
+
+Tutorials Co-Chairs:
+ - Yasutaka Kamei (Kyushu Univ.)
+ - Shane McIntosh (McGill Univ.)
+
+Proceedings Co-Chairs:
+ - Eunjong Choi (Nara Institute of Science and Technology)
+ - Yeong-Seok Seo (Yeungnam Univ.)
+
+Financial Chair:
+ - Mari Inoki (Kogakuin Univ.)
+
+Registration Co-Chairs
+ - Haruto Tanno (Nippon Telegraph and Telephone Corp.)
+ - Toshiyuki Kurabayashi (Nippon Telegraph and Telephone Corp.)
+
+Publicity Co-Chairs:
+ - Norihiro Yoshida (Nagoya Univ.)
+ - Kyungmin Bae (POSTECH)
+ - Yu Chin Cheng (Taipei Tech)
+ - Alessandro Garcia (Pontifical Catholic University of Rio de Janeiro)
+ - Ewan Tempero (Univ. of Auckland)
+ - Aiko Yamashita (Oslo & Akershus University College of Applied Sciences)
+
+Web Chair
+  Kiyoshi Honda (Waseda Univ.)
+
+Student Volunteers Chairs:
+ - Takashi Ishio (Nara Institute of Science and Technology)
+ - Raula Gaikovina Kula (Nara Institute of Science and Technology)
+
+Local Arrangement Co-Chairs:
+ - Kenichi Matsumoto (Nara Institute of Science and Technology)
+ - Akinori Ihara (Nara Institute of Science and Technology)
+ - Hideaki Hata (Nara Institute of Science and Technology)

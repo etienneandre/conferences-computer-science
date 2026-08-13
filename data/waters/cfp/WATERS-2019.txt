@@ -1,0 +1,112 @@
+**************************************************************************************
+
+                         Call for Contributions
+                 10th International Workshop on Analysis Tools
+              and Methodologies for Embedded and Real-time Systems
+
+                       https://www.ecrts.org/waters/
+
+               co-located with the conference ECRTS 2019
+                                9th July 2019
+                             Stuttgart, Germany
+
+                  Submission Deadline:  16 April 2019
+
+
+**************************************************************************************
+
+WATERS'19 is a satellite workshop of ECRTS'19. The goal of the International Workshop
+on Analysis Tools and Methodologies for Embedded and Real-time  Systems (WATERS) is to
+create a common ground and a community to share methodologies, software tools, best
+practices, data sets, application models, benchmarks and any other way to improve
+comparability of results in the current practices of research in real-time and embedded
+systems.
+
+
+Focus of this year:
+This year, WATERS will focus on "Modeling and Performance Analysis of High-performance
+Computing Platforms".
+
+This topic is gaining importance in the real-time community as the integration trend and
+increased required computing power is currently driving the adoption of common embedded
+consumer devices into the safety-critical domain. These platforms include heterogeneous
+Multi-Processor Systems-on-Chip (MPSoCs) integrating general-purpose microprocessors and
+accelerators such as GPUs, previously restricted to the high-performance computing domain.
+Multiple hardware features including micro-architecture choices, shared resources, inter-
+connects, and memory hierarchy are therefore becoming a dominant performance factor that
+tremendously challenges established methodologies and tools in the real-time systems
+community. Therefore, a proper understanding, modeling and benchmarking of the important
+HW/SW features that influence performance in high-performance computing platforms is
+currently required.
+
+The goal of this year's edition at WATERS is to bring together researchers and practitioners
+from academia and industry working in the fields of real-time systems, design automation
+and  HW/SW co-design in order to discuss current and emerging methodologies for modeling
+and  performance analysis of high-performance heterogeneous platforms.
+
+WATERS Industrial Challenge 2019:
+--------------------------------
+The topic of this year will be supported by an industrial challenge proposed jointly by
+Robert Bosch Gmbh and the University of Modena and Reggio Emilia.
+
+The industrial challenge addresses the design and integration of recent automotive systems
+where expressive performance models capturing the heterogeneity of the hardware-software
+system are needed. The WATERS industrial challenge addresses one example in this context,
+where the processing power offered by GPUs and their capability to execute parallel
+workloads is exploited to execute and accelerate applications related to advanced driver
+assistance systems.
+
+The challenge description contains the following information:
+    - A primer on NVIDIA TX2 platform with focus on CPU–GPU interactions, scheduling,
+      memory model, and offloading mechanisms as basis for performance modeling in Amalthea
+    - A brief description of the challenge questions
+    - A description of the considered application
+    - A description of utilized Amalthea performance modeling approaches suitable for the
+      description of the software and hardware parts including their interaction for the
+      given challenge.
+
+A detailed description of the challenge can be founded on the following link:
+
+https://www.ecrts.org/forum/viewtopic.php?f=43&t=124&sid=9eb46a4f9a4417124aa63af90b7ce95f
+
+An interactive discussion with the authors of the challenge is also possible and highly
+encouraged using the discussion forum platform.
+
+Submission Format:
+------------------
+we welcome to WATERS'19 two types of contributions:
+- Solutions to the industrial challenge: authors of accepted submissions will have the
+   opportunity to give a short talk during that session and present their solution
+   to the audience during the interactive demo session.
+
+- Submissions for a talk at WATERS 2019 are welcome, position papers and problem statements elaborating
+challenges in particular in relation with this year's topic "Modeling and Performance Analysis of
+High-performance Computing Platforms" are also welcome.
+A short abstract (min 1 page - max 6 pages) IEEE conference format is to be submitted
+by the deadline. For accepted solutions to the industrial challenge, a submission up to
+6 pages of the final version of the full solution will be required.
+
+Submission Link : https://easychair.org/conferences/?conf=waters2019
+
+
+Important Dates:
+----------------
+Submission Deadline: April 16, 2019
+Acceptance Notifications: May 14, 2019
+Camera-ready Papers: May 29, 2019
+Workshop Day: July 09, 2019
+
+Workshop Chairs:
+----------------
+Claire Pagetti, ONERA / IRIT-ENSEEIHT, France
+Selma Saidi, Hamburg University of Technology, Germany
+
+Program Committee:
+------------------
+Marko Bertogna, University of Modena and Reggio Emilia, Italy
+Roberto Cavicchili, University of Modena and Reggio Emilia, Italy
+Benoit De Dinechin, Kalray, France
+Arne Hamann, Robert Bosch GmbH, Germany
+Rafik Henia, THALES, France
+Falk Wurst, Robert Bosch GmbH, Germany
+Dirk Ziegenbein, Robert Bosch GmbH, Germany

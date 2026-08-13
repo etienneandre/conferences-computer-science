@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "No deadline extension for any reason. Deadline AoE. Artifact evaluation process."
+
+[[cfp]]
+file = "cfp/ECRTS-2019.txt"
+stage = "initial"

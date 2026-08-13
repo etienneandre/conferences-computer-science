@@ -24,3 +24,11 @@ Colocated with iFM. Authors of a selection of the best papers presented at the w
 will be invited to submit extended versions of their work for
 publication in a special issue of Elsevier’s journal Science of
 Computer Programming. Studentships for PhD in 2013."""
+
+[[cfp]]
+file = "cfp/AVoCS-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/AVoCS-2018-extended.txt"
+stage = "extended"

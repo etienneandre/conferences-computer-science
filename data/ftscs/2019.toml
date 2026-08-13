@@ -18,3 +18,11 @@ license = "pay-profit"
 
 [extra]
 notes = "An ICFEM 2019 Satellite Event. Work in progress will not be published in the post-proceedings."
+
+[[cfp]]
+file = "cfp/FTSCS-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FTSCS-2019-extended.txt"
+stage = "extended"

@@ -19,3 +19,7 @@ license = "free-copy"
 
 [extra]
 notes = "Co-located with CAV 2025. Submissions can overlap with previously published work and will be judged based on their relevance to the topic of the workshop."
+
+[[cfp]]
+file = "cfp/HYPER-2025.txt"
+stage = "initial"

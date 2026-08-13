@@ -1,0 +1,54 @@
+CMSB 2021 - First Call for Papers
+===
+
+The 19th conference on Computational Methods in Systems Biology (CMSB 2021,https://cmsb2021.labri.fr) will take place on September 22-24, either in person in Bordeaux (France), or online, depending on the evolution of the Covid-19 pandemic. CMSB is a well established conference series. It brings together researchers from across biological, mathematical, computational, and physical sciences who are interested in the modelling, simulation, analysis, inference, design, and control of biological systems.
+
+Invited speakers:
+
+- Diego di Bernardo (TIGEM, Italy)
+- Laurence Calzone (Institut Curie, France)
+- Giulia Giordano (University of Trento, Italy)
+- Yang-Yu Liu (Harvard Medical School, US)
+- Ion Petre (University of Turku, Finland)
+
+CMSB 2021 solicits contributions on the following or related topics:
+
+- formalisms for modelling biological processes
+- methods and tools for biological system analysis, modelling and simulation
+- frameworks for model verification, validation, analysis, and simulation of biological systems
+- high-performance methods for computational systems biology
+- identification of biological systems
+- applications of machine learning
+- network modelling, analysis, inference
+- automated parameter and model synthesis
+- model integration and biological databases
+- multi-scale modelling and analysis methods
+- design, analysis, and verification methods for synthetic biology
+- methods for biomolecular computing and engineered molecular devices
+- data-based approaches for systems and synthetic biology
+- optimality and control of biological systems
+- modelling, analysis and control of microbial communities
+
+More information on the program is available at https://cmsb2021.labri.fr.
+
+The CMSB 2021 proceedings will be published in the Springer LNCS/LNBI series and indexed by ISI Web of Science, Scopus, ACM Digital Library, DBLP, and Google Scholar.
+
+A selection of best papers will be invited for extension and submission to a special issue of BMC Bioinformatics at a discounted Author Processing Charge.
+
+IMPORTANT DATES
+
+* April 12, 2021: regular and tool paper submission
+* May 31, 2021: highlight talks proposals
+* June 7, 2021: acceptance notifications
+* June 14, 2021: poster abstract submission
+* September 22-24, 2021: conference
+
+Each contribution will be reviewed by at least three members of the program committee, soon available athttps://cmsb2021.labri.fr/organization/.
+Please refer to the conference website for details on the different types of contributions athttps://cmsb2021.labri.fr/call-for-contributions/.
+
+
+Looking forward to receiving your contributions,
+
+The chairs of CMSB 2021,
+Loïc Paulevé<https://loicpauleve.name> and Eugenio Cinquemani<https://team.inria.fr/ibis/eugenio-cinquemani>
+

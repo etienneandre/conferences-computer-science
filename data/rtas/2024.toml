@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Two tracks (Systems, Architecture and Applications / Applied Methodologies and Foundations). Part of the Cyber-Physical Systems Week. Firm deadline in 2016, 2017, 2018, 2020, 2023. Double-blind. Rebuttal: 8-12 January 2024"
+
+[[cfp]]
+file = "cfp/RTAS-2024.txt"
+stage = "initial"

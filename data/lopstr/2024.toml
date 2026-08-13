@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Part of FM 2024 and co-located with PPDP 2024, FACS 2024, FMICS 2024, and TAP 2024. A best paper award will be granted, which will include a 500€ prize provided by Springer. After the symposium, a selection of a few best papers will be invited for submission to rapid publication in the Journal of Theory and Practice of Logic Programming (TPLP)."
+
+[[cfp]]
+file = "cfp/LOPSTR-2024.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/LOPSTR-2024-extended.txt"
+stage = "extended"

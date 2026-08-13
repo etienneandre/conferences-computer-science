@@ -1,0 +1,129 @@
+16th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2025)
+
+Call for Papers
+
+Important dates
+
+Abstract submission deadline (optional): November 7, 2024 (AOE)
+
+Paper submission deadline (FIRM): November 14, 2024 (AOE) (NOTE: This is the new
+coordinated deadline of CPS-IoT Week conferences.)
+
+Acceptance/rejection notifications: January 23, 2025
+
+Camera-ready: March 10, 2025
+
+Conference dates: May 6-9, 2025
+
+Website
+
+https://iccps.acm.org/2025/
+
+ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) is the premier forum for presenting and discussing the most significant recent technical research contributions in the field of Cyber-Physical Systems (CPS). ICCPS 2025 will be part of the CPS-IoT Week 2025. In addition to the general track, we are inviting papers to be submitted to three special tracks of ICCPS 2025: (i) Assured Autonomy in CPS, (ii) Medical CPS, and (iii) Deployments and Industrial Applications.
+
+    General Track calls for papers that make substantial technical contributions to the foundational aspects of Cyber-Physical Systems (CPS) science. Papers should be motivated by one or more applications of CPS, offering novel perspectives or advancements that significantly add to the current understanding or development of CPS technologies.
+
+    Assured Autonomy in CPS Track calls for submissions in topics related to safety of AI, ML and autonomous components in the context of safety critical CPS. We invite papers that delve into the safety aspects of AI and ML-enabled CPS, discussing risks, mitigation strategies, as well as new methodologies and technologies, including but not limited to neurosymbolic and physics-inspired approaches, contributing to the secure and reliable operation of these systems.
+
+    Medical CPS Track calls for submissions in topics related to the development and application of CPS technologies in medical-device and healthcare systems. Submissions across the entire application spectrum, including but not limited to studies that address problems in wearable devices as well as their integration in an end-to-end information and decision system, are welcome.
+
+    Deployments and Industrial Applications Track seeks papers that describe innovative industrial applications or practices related to CPS. We encourage submissions that provide outside of the lab, real-world deployments, and report on challenges and state-of-the-art practices in CPS deployment in industrial settings. Please note, at least one co-author should have a clear association with the industry.
+
+The topics of interest include (but are not limited to)
+
+    Artificial Intelligence and Machine Learning for CPS including Safe Autonomy
+
+    Safety and Resilience for CPS
+
+    Architectures and Networking for CPS
+
+    Software platforms and systems for CPS
+
+    Foundations of CPS
+
+    Human-machine interactions
+
+    Sensing and monitoring
+
+    Specification languages and requirements
+
+    Design, optimization, and synthesis
+
+    Testing, verification, certification, assurance
+
+    Security, trust, and privacy in CPS
+
+    Ethics by design in CPS
+
+    Tools, testbeds, demonstrations and deployments
+
+    CPS applications in power systems, infrastructure networks, transportation, healthcare, automotive, aerospace, etc.
+
+
+Papers in all tracks will be judged on soundness, significance, verifiability of claims, and presentation quality. The accepted papers will be included in the conference proceeding published via ACM. A small subset of the accepted papers will be nominated for the Best Paper Award, and one paper among them will be selected to win the award. Additionally, these nominated papers will be invited for submission of extensions of their work to a special issue of ACM Transactions on Cyber-Physical Systems. We also encourage authors of the accepted papers to participate in Artifact Evaluation. Papers that pass the Artifact Evaluation process will receive a badge. Participation in Artifact Evaluation or a justification for why this is not applicable will be taken into account in Best Paper Award eligibility.
+
+Submissions: All submissions must be in English. Only original papers that are not submitted or published in other conferences or journals will be considered. ICCPS 2025 will employ a light-weight double-blind review for the submitted papers, in which authors must adhere to two rules: (i) authors’ names and institutions must be omitted; and (ii) reference to the authors’ own related work should be in the third person. Manuscripts should have a main body with no more than 10 pages including references in ACM two-column conference style, using US Letter (8.5-inch x 11 inch) paper size. An appendix of up to two additional pages may follow the main body of the paper.
+
+Submission site: https://easychair.org/my/conference?conf=iccps25
+
+General Chairs
+
+Madhur Behl; University of Virginia, USA
+
+Necmiye Ozay; University of Michigan, USA
+
+
+Program Chairs:
+
+Arvind Easwaran; Nanyang Technological University, Singapore
+
+Jyotirmoy V. Deshmukh; University of Southern California, USA
+
+
+Area Chairs
+
+Georgios Fainekos; Toyota NA R&D, USA
+
+Fei Miao; University of Connecticut, USA
+
+Thao Dang; CNRS/VERIMAG, France
+
+James Weimer; Vanderbilt University, USA
+
+Nalini Venkatasubramanian; University of California Irvine, USA
+
+Mauricio Castillo-Effen; Lockheed Martin Advanced Technology Laboratories, USA
+
+Sebastian Steinhorst, Technical University of Munich, Germany
+
+
+Publicity Chairs
+
+Yehan Ma; Shanghai Jiao Tong University, China
+
+Daniel Casini; Scuola Superiore Sant'Anna - Pisa, Italy
+
+Dung Hoang Tran; University of Nebraska, Lincoln, USA
+
+
+Poster and Demo Chairs
+
+Ivan Ruchkin; University of Florida, USA
+
+Fatima Anwar; UMass, Amherst, USA
+
+
+Publication Chair
+
+Meiyi Ma; Vanderbilt University, USA
+
+
+Artifact Evaluation Chairs
+
+Radoslav Ivanov; Rensselaer Polytechnic Institute, USA
+
+Cuhmur Erkan Tuncali; Amazon, USA
+
+Web Chair
+
+Chuanchao Gao; Nanyang Technological University, Singapore

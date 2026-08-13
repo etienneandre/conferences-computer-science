@@ -1,0 +1,248 @@
+===================================
+ICALP 2021 - Second Call for Papers
+===================================
+
+https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Feasyconferences.eu%2Ficalp2021%2F&amp;data=04%7C01%7C%7C5936bd59aa424833bb5008d8b9846616%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C637463325581007398%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=jvjIrFeFvdGVu0IcqHrqbWHOpozqamJX6p22g6Key74%3D&amp;reserved=0
+
+The 48th International Colloquium on Automata, Languages, and Programming (ICALP)
+will take place from 13-16 July 2021.
+
+ICALP is the main conference and annual meeting of the European Association for
+Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series
+of workshops, which will take place on 12 July 2021.
+
+*** ICALP 2021 and its workshops will be online-only, hosted by the University of Glasgow, UK. ***
+
+
+
+=============== Important dates =======================
+
+Submission deadline: Friday 12 February 2021, 23:59 AoE
+Notification: Wednesday 28 April 2021
+Camera-ready deadline: Friday 7 May 2021
+
+Deadlines are firm; late submissions will not be considered.
+
+
+================
+Invited Speakers
+================
+
+Unifying Invited Speakers:
+
+Adi Shamir, Weizmann Institute of Science, Israel
+
+Toniann Pitassi, University of Toronto, Canada
+
+Andrei Bulatov, Simon Fraser University, Canada
+
+
+Track A Invited Speakers:
+
+Keren Censor-Hillel, Technion, Israel
+
+David Woodruff, Carnegie Mellon University, USA
+
+
+Track B Invited Speaker:
+
+Christel Baier, Technical University of Dresden, Germany
+
+
+
+===========================
+Submissions and Proceedings
+===========================
+
+
+ICALP proceedings are published in the Leibniz International Proceedings in
+Informatics (LIPIcs) series. This is a series of high-quality conference
+proceedings across all fields in informatics established in cooperation with
+Schloss Dagstuhl - Leibniz Center for Informatics. LIPIcs volumes are published
+according to the principle of Open Access, i.e., they are available online and
+free of charge.
+
+
+Submission Guidelines
+---------------------
+Authors are invited to submit an extended abstract of no more than 12 pages,
+excluding references presenting original research on the theory of computer
+science. All submissions must be formatted in the LIPIcs style
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dagstuhl.de%2Fen%2Fpublications%2Flipics%2Finstructions-for-authors%2F&amp;data=04%7C01%7C%7C5936bd59aa424833bb5008d8b9846616%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C637463325581007398%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=XQ2PTUdyMSlWfM0bHOi7PQcK%2BasQI1UmI2dSP%2B6mEC0%3D&amp;reserved=0)
+and submitted via Easychair to the appropriate track of the conference. The use
+of pdflatex and the LIPIcs style are mandatory: papers that deviate significantly
+from the required format may be rejected without consideration of merit.
+
+
+No prior publication and no simultaneous submission to other publication outlets
+(either a conference or a journal) is allowed.
+
+
+Technical details necessary for a proper scientific evaluation of a submission
+must be included in the 12-page submission or in a clearly labelled appendix, to
+be consulted at the discretion of program committee members. Authors are strongly
+encouraged to also make full versions of their submissions freely accessible in
+an on-line repository such as ArXiv, HAL, ECCC.
+
+
+Best Paper Awards
+-----------------
+As in previous editions of ICALP, there will be best paper and best student paper
+awards for each track of the conference. In order to be eligible for a best student
+paper award, a paper should be authored only by students and should be marked as
+such upon submission.
+
+
+Topics
+======
+Papers presenting original research on all aspects of theoretical computer science
+are sought. Typical but not exclusive topics of interest are:
+
+
+Track A: Algorithms, Complexity and Games
+-----------------------------------------
+* Algorithmic and Complexity Aspects of Network Economics
+* Algorithmic Aspects of Networks and Networking
+* Algorithmic Aspects of Security and Privacy
+* Algorithms for Computational Biology
+* Algorithmic Game Theory and Mechanism Design
+* Approximation and Online Algorithms
+* Combinatorial Optimization
+* Combinatorics in Computer Science
+* Computational Complexity
+* Computational Geometry
+* Computational Learning Theory
+* Cryptography
+* Data Structures
+* Design and Analysis of Algorithms
+* Distributed and Mobile Computing
+* Foundations of Machine Learning
+* Graph Mining and Network Analysis
+* Parallel and External Memory Computing
+* Quantum Computing
+* Randomness in Computation
+* Theoretical Foundations of Algorithmic Fairness
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+-------------------------------------------------------------
+* Algebraic and Categorical Models of Computation
+* Automata, Logic, and Games
+* Database Theory, Constraint Satisfaction Problems, and Finite Model Theory
+* Formal and Logical Aspects of Learning
+* Formal and Logical Aspects of Security and Privacy
+* Logic in Computer Science and Theorem Proving
+* Models of Computation: Complexity and Computability
+* Models of Concurrent, Distributed, and Mobile Systems
+* Models of Reactive, Hybrid, and Stochastic Systems
+* Principles and Semantics of Programming Languages
+* Program Analysis, Verification, and Synthesis
+* Type Systems and Typed Calculi
+
+
+
+
+===============================
+ICALP 2021 Programme Committees
+===============================
+
+
+Track A: Track A: Algorithms, Complexity and Games
+---------------------------------------------------
+* Nikhil Bansal         (CWI Amsterdam, Netherlands), Chair
+
+* Yossi Azar              (Tel Aviv University, Israel)
+* Luca Becchetti          (Sapienza University of Rome, Italy)
+* Aleksander Belov         (University of Latvia, Latvia)
+* Eric Blais             (University of Waterloo, Canada)
+* Niv Buchbinder         (Tel Aviv University, Israel)
+* Kevin Buchin            (TU Eindhoven, Netherlands)
+* Parinya Chalermsook         (Aalto University, Finland)
+* Vincent Cohen-Addad         (Google Research, Switzerland)
+* Shahar Dobzinski          (Weizmann Institute, Israel)
+* Ran Duan             (Tsinghua University, China)
+* Vida Dujmovic           (University of Ottawa, Canada)
+* Yuval Filmus          (Technion, Israel)
+* Samuel Fiorini         (Université libre de Bruxelles, Belgium)
+* Andreas Galanis         (University of Oxford, UK)
+* Mika Göös             (EPFL, Switzerland)
+* Inge Li Gørtz         (TU Denmark, Denmark)
+* Heng Guo             (University of Edinburgh, UK)
+* Prahladh Harsha         (TIFR, Mumbai, India)
+* Sungjin Im             (UC Merced, USA)
+* Stacey Jeffery         (CWI Amsterdam, Netherlands)
+* Iordanis Kerenidis       (CNRS - Université Paris Diderot, France)
+* Michael Kapralov         (EPFL, Switzerland)
+* Ravi Kumar              (Google Research, USA)
+* Stefan Kratsch         (HU Berlin, Germany)
+* Silvio Lattanzi         (Google Research, Switzerland)                      
+* Shi Li                  (SUNY Buffalo, USA)
+* Konstantin Makarychev     (Northwestern University, USA)
+* Marcin Mucha             (University of Warsaw, Poland)
+* Wolfgang Mulzer         (FU Berlin, Germany)
+* Jesper Nederlof         (Utrecht University, Netherlands)
+* Aleksandar Nikolov         (University of Toronto, Canada)
+* Neil Olver              (LSE, UK)
+* Rasmus Pagh             (IT University of Copenhagen, Denmark)
+* Merav Parter            (Weizmann Institute, Israel)
+* Alexandros Psomas         (Purdue University, USA)
+* Barna Saha             (UC Berkeley, USA)
+* Thatchaphol Saranurak      (University of Michigan, USA)
+* Rahul Savani            (University of Liverpool, UK)
+* Mohit Singh              (Georgia Tech, USA)
+* Sahil Singla            (IAS/Princeton, USA)
+* Noah Stephens-Davidowitz     (Cornell University, USA)
+* László Végh              (LSE, UK)
+* Meirav Zehavi         (Ben-Gurion University, Israel)
+
+
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+---------------------------------------------------------------
+* James Worrell (University of Oxford, UK), Chair
+
+* Parosh Aziz Abdulla         (Uppsala University, Sweden)
+* S. Akshay             (Indian Institute of Technology Bombay, India)
+* Nathalie Bertrand         (Inria Rennes, France)
+* Michael Blondin         (Université de Sherbrooke, Canada)
+* Olivier Carton         (IRIF, Université de Paris, France)
+* Corina Cîrstea         (University of Southampton, UK)
+* Dana Fisman             (Ben Gurion University, Israel)
+* Paul Gastin             (LSV, ENS Paris-Saclay, France)
+* Stefan Göller         (University of Kassel, Germany)
+* Radha Jagadeesan         (DePaul University Chicago, USA)
+* Bakhadyr Khoussainov         (University of Auckland, New Zealand)
+* Emanuel Kieroński         (Wrocław University, Poland)
+* Bartek Klin             (Warsaw University, Poland)
+* Barbara König         (University of Duisburg-Essen, Germany)
+* Laura Kovacs             (Vienna University of Technology, Austria)
+* Ugo Dal Lago             (University of Bologna and Inria, Italy)
+* Christoph Löding         (RWTH Aachen University, Germany)
+* Madhavan Mukund         (Chennai Mathematical Institute, India)
+* Sebastian Maneth         (University of Bremen, Germany)
+* Richard Mayr             (University of Edinburgh, UK)
+* Annabelle McIver         (Macquarie University, Australia)
+* Sophie Pinchinat         (IRISA, Université de Rennes, France)
+* Cristian Riveros         (Pontificia Universidad Católica de Chile, Chile)
+* Davide Sangiorgi         (University of Bologna and Inria, Italy)
+* Lijun Zhang             (Institute of Software, Chinese Academy of Sciences, China)
+
+
+
+
+
+===============================
+ICALP 2021 Organizing Committee
+===============================
+
+
+Simon Gay, Conference Chair
+
+Oana Andrei
+Ornela Dardha
+Jessica Enright
+David Manlove
+Kitty Meeks
+Alice Miller
+Gethin Norman
+Sofiat Olaosebikan
+Michele Sevegnani

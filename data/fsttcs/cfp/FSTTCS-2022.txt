@@ -1,0 +1,121 @@
+FSTTCS 2022
+----------
+https://www.fsttcs.org.in/2022/
+
+FSTTCS 2022 is the 42nd conference on Foundations of Software Technology and Theoretical Computer Science. It is organised by IARCS, the Indian Association for Research in Computing Science, in association with ACM India. It is a forum for presenting original results in foundational aspects of Computer Science and Software Technology.
+
+FSTTCS 2022 will be held in IIT Madras during December 18–20, 2022.
+
+List of Topics
+-----------
+
+Track A
+------
+Algebraic Complexity
+Algorithms and Data Structures
+Algorithmic Graph Theory and Combinatorics
+Approximation Algorithms
+Combinatorial Optimization
+Communication Complexity
+Computational Biology
+Computational Complexity
+Computational Geometry
+Computational Learning Theory
+Cryptography and Security
+Data Streaming and Sublinear algorithms
+Economics and Computation
+Parallel, Distributed and Online Algorithms
+Parameterized Complexity
+Proof Complexity
+Quantum Computing
+Randomness in Computing
+Theoretical Aspects of Mobile and High-Performance Computing
+
+Track B
+------
+Automata, Games and Formal Languages
+Logic in Computer Science
+Modal and Temporal Logics
+Models of Concurrent, Distributed and Mobile Systems
+Models of Timed, Reactive, Hybrid and Stochastic Systems
+Model Theory
+Principles and Semantics of Programming Languages
+Program Analysis and Transformation
+Security protocols
+Specification, Verification and Synthesis
+Theorem Proving and Decision Procedures
+
+Invited Speakers
+-------------
+Patricia Bouyer-Decitre (CNRS & ENS Paris-Saclay)
+Irit Dinur (Weizmann Institute)
+Anupam Gupta (Carnegie Mellon)
+Akash Lal (Microsoft Research)
+Rahul Santhanam (University of Oxford)
+
+Submission Guidelines
+------------------
+Submissions must be in electronic form via EasyChair (using the following link: https://easychair.org/my/conference?conf=fsttcs2022) in the LIPIcs LaTeX style which is available here: https://submission.dagstuhl.de/documentation/authors. Submissions must not exceed 15 pages (excluding bibliography), but may include a clearly marked appendix containing technical details. The appendix will be read only at the discretion of the program committee. Simultaneous submissions to journals or other conferences with published proceedings are disallowed.
+
+Accepted papers will be published as proceedings of the conference in the ​Leibniz International Proceedings in Informatics (LIPIcs)​ as a free, open, electronic archive with access to all. Authors will retain full rights over their work. The accepted papers will be published under a ​CC-BY license​. For an accepted paper to be included in the proceedings, one of the authors must commit to presenting the paper at the conference.
+
+Important Dates
+Submission deadline: July 14, 2022 AoE (firm)
+Notification to authors: September 16, 2022
+FSTTCS 2022: December 18–20, 2022.
+
+
+Programme Committee
+------------------
+
+Track A
+------
+Venkatesan Guruswami (University of California, Berkeley) – Co-chair
+V. Arvind (The Institute of Mathematical Sciences)
+Divesh Aggarwal (National University of Singapore)
+Diptarka Chakraborty (National University of Singapore)
+Radu Curticapean (IT University of Copenhagen)
+Sumegha Garg (Harvard University)
+Badih Ghazi (Google Research)
+Tom Gur (University of Warwick)
+Euiwoong Lee (University of Michigan)
+Debmalya Panigrahi (Duke University)
+Pravesh Kothari (Carnegie Mellon University)
+Nicole Megow (Universität Bremen)
+Prajakta Nimbhorkar (Chennai Mathematical Institute)
+Rishi Saket (Google Research, India)
+Ramprasad Saptharishi (Tata Institute of Fundamental Research)
+Rakesh Venkat (Indian Institute of Technology, Hyderabad)
+David Wajc (Stanford University)
+Amir Yehudayoff (Technion, Israel)
+Meirav Zahavi (Ben-Gurion University, Israel)
+
+
+Track B
+------
+Anuj Dawar (University of Cambridge) – Co-chair
+Ashutosh Trivedi (University of Colorado Boulder)
+Deepak D’Souza (Indian Institute of Science)
+Igor Walukiewicz (Université de Bordeaux, France)
+Jonni Virtema (University of Sheffield, UK)
+Laura Bozzelli (University of Naples, Italy)
+Laure Daviaud (City University of London)
+Maribel Fernandez (King's College London)
+Mohamed Faouzi Atig (Uppsala University, Sweden)
+Natasha Alechina (Utrecht University, Netherlands)
+Nathan Lhote (Aix-Marseille University, France)
+Olaf Beyersdorff (Friedrich Schiller University Jena, Germany)
+Radha Jagadeesan (DePaul University)
+Shaull Almagor (Technion, Israel)
+Shibashis Guha (Tata Institute of Fundamental Research)
+Supratik Chakraborty (Indian Institute of Technology, Bombay)
+
+Organizing Committee
+-----------------------------
+Meghana Nasre (IIT Madras) – co-chair
+Chandrashekhar Sahasrabudhe (ACM India, Member)
+Jayalal Sarma (IIT Madras) – co-chair
+
+
+Contact Information:
+All questions about submissions should be emailed to the PC chairs: anuj.dawar@cl.cam.ac.uk or venkatg@berkeley.edu

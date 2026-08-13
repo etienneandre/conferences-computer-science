@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "ICSE 2025 will follow a dual deadline structure introduced in 2024. Also a doctoral symposium, tutorials, demos, and other events. Author response period: 11-13 June 2024."
+
+[[cfp]]
+file = "cfp/ICSE-2025.txt"
+stage = "initial"

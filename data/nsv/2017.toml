@@ -19,3 +19,7 @@ license = "pay-profit"
 
 [extra]
 notes = "A workshop of CAV 2017."
+
+[[cfp]]
+file = "cfp/NSV-2017-extended.txt"
+stage = "extended"

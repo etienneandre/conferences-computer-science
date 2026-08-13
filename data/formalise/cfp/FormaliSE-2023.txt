@@ -1,0 +1,255 @@
+FormaliSE 2023 Call for Papers
+==============================
+https://formalise2023.github.io/
+
+Overview
+--------
+
+The software industry has a long-standing and well-earned reputation for failing
+to deliver high-quality software. Despite major advances since the early days of
+software development, employing the state of the art of the technologies still
+does not guarantee the success of software projects. Many of the approaches used
+for developing large, complex software systems are incapable to ensure the correct
+behavior — and the general quality — of the delivered product, even when the
+involved, often very qualified and skilled software engineers make a big effort.
+This is where formal methods (FMs) can play a significant role. Indeed, they have
+been developed to provide the means for greater precision and thoroughness in
+modeling, reasoning about, validating, and documenting the various aspects of
+software systems during their development. When carefully applied, formal methods
+can aid with all aspects of software creation: user requirement formulation,
+design, implementation, verification/testing, and the creation of documentation.
+
+After decades of research with significant advancement, formal methods are though
+not yet widely used in industrial software development. We believe that a closer
+integration of formal methods in software engineering can help increase the quality
+of software applications, and at the same time highlight the benefits of formal
+methods in terms also of the generated return on investment (ROI).
+
+The main objective of the conference is to foster the integration between the
+formal methods and the software engineering communities, to strengthen the —
+still too weak — links between them, and to stimulate researchers to share ideas,
+techniques, and results, with the ultimate goal to propose novel solutions to the
+fraught problem of improving the quality of software systems.
+
+Originally a successful satellite workshop of ICSE, since 2018 FormaliSE is
+organized as a conference co-located with ICSE. The 11th edition of FormaliSE
+will also be held co-located with ICSE 2023.
+
+Topics of Interest
+------------------
+
+Area of interest (include but are not limited to):
+- requirements formalization and formal specification;
+- approaches, methods and tools for verification and validation;
+- formal approaches to safety and security related issues;
+- analysis of performance and other non-functional properties based on formal approaches;
+- scalability of formal method applications;
+- integration of formal methods within the software development lifecycle
+ (e.g., change management, continuous integration, regression testing, and deployment);
+- model-based engineering approaches;
+- correctness-by-construction approaches for software and systems engineering;
+- application of formal methods to specific domains, e.g., autonomous, cyber-physical, intelligent, and IoT systems;
+- formal methods for AI-based systems (FM4AI), and AI applied in formal method approaches (AI4FM);
+- formal methods in a certification context;
+- case studies developed/analyzed with formal approaches;
+- experience reports on the application of formal methods to real-world problems;
+- guidelines to use formal methods in practice;
+- usability of formal methods;
+
+Important Dates
+---------------
+
+===================== =========== ====
+Abstracts due:        09 January  2023
+Submissions due:      16 January  2023
+Notifications:        21 February 2023
+Camera ready copies:  13 March    2023
+FormaliSE conference: 14-15 May   2023
+===================== =========== ====
+
+Paper Submission Guidelines
+---------------------------
+
+We invite you to submit:
+-  Full research papers that must describe authors’ original research work and
+  results. We encourage authors to include validation with respect to a case
+  study in the recommended themes.  We welcome research papers focusing on tools
+  and tool development.
+-  Case study papers that should identify lessons learned, validate theoretical
+  results (such as scalability of methods) or provide specific motivation for
+  further research and development.
+-  Research ideas papers: FormaliSE encourages the submissions of new research
+  ideas in order to stimulate discussions at the conference.
+
+All papers submitted to the FormaliSE 2023 conference must be written in English,
+must be unpublished original work, and should not be under review or submitted
+elsewhere whilst being under consideration for FormaliSE 2023. Upon submission,
+papers must comply with the FormaliSE's lightweight double-blind review process
+(see below).
+
+Full research papers and case study papers are expected to be up to 10 pages long
+including all text, figures, tables and appendices, but excluding the references,
+while research ideas papers are expected to be up to 4 pages plus up to 1 additional
+page of references.
+
+To avoid that authors waste time fitting their papers into the stated limit at
+the expense of presentation clarity, paper lengths slightly exceeding the stated
+limit will be tolerated provided that the presentation is of high quality, which
+will be left at the appreciation of the reviewers.
+
+All submissions must be in PDF format and must conform to the IEEE Conference
+Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt type,
+LaTeX users must use \documentclass[10pt,conference]{IEEEtran} without including
+the compsoc or compsocconf options). For details visit
+
+https://www.ieee.org/conferences/publishing/templates.html.
+
+Additionally, we recommend placing the following two lines in your LaTeX source
+right after the \documentclass command:
+
+  \usepackage[switch,columnwise]{lineno}
+  \linenumbers
+
+This adds line numbers, thereby allowing reviewers to refer to specific lines in
+their comments.
+
+Submissions to FormaliSE 2023 that meet the above requirements can be made via EasyChair
+
+https://easychair.org/conferences/?conf=formalise2023
+
+by the submission deadline.
+
+Lightweight Double-Blind Review Process for Papers
+--------------------------------------------------
+
+FormaliSE 2023 will continue to use the following light-weight double-blind process:
+Authors of papers must omit their names and institutions from the title page,
+they should refer to their other work in the third person, and omit acknowledgments
+that could reveal their identity or affiliation. The purpose is to avoid any
+bias based on authors’ identity characteristics, such as gender, seniority, or
+nationality, in the review process. Our goal is to facilitate an unbiased approach
+to reviewing by supporting reviewers’ access to works that do not carry obvious
+references to the authors’ identities. As mentioned above, this is a light-weight
+double-blind process. Anonymization should not be a heavy burden for authors and
+should not make papers weaker or more difficult to review. Advertising the paper
+on alternate forums (e.g., on a personal web-page, pre-print archive, email,
+talks, discussions with colleagues) is permitted, and authors will not be penalized
+by for such advertisement.
+
+Paper Selection
+---------------
+
+Each paper will be reviewed by at least three program committee members that judge
+the paper based on its clarity, relevance, originality, and contribution to the field.
+
+FormaliSE 2023 will continue the light-weight rebuttal scheme: if all the reviewers
+of a given submission agree that a clarification from the authors regarding a
+specific question could move a borderline paper into the acceptable range, the
+chairs will ask that question to the authors by e-mail and post their reply on
+EasyChair for the benefit of the reviewers. The goal of such light-weight rebuttals
+is to eliminate “coin-toss” decisions on borderline papers. Hence, it will clearly
+concern only a minority of submissions and most of the authors should not expect
+to receive such questions. However, we would ask the corresponding authors of all
+submissions to make sure that they are available to answer a question by email
+if the necessity were to arise.
+
+Artifact Evaluation
+-------------------
+
+Reproducibility of experimental results is crucial to foster an atmosphere of
+trustworthy, open, and reusable research. To improve and reward reproducibility,
+FormaliSE 2023 continues its Artifact Evaluation (AE) procedure. An artifact is
+any additional material (software, data sets, machine-checkable proofs, etc.) that
+substantiates the claims made in the paper and ideally makes them fully reproducible.
+Submission of an artifact is optional but encouraged for all papers where it can
+support the results presented in the paper. Artifact review is single-blind (the
+paper corresponding to an artifact must still follow the double-blind submissions
+requirements) and will be conducted concurrently with the paper reviewing process.
+Artifacts will be handled by a separate Artifact Evaluation Committee, and the
+Artifact Evaluation process will be set up such that the anonymization of the
+corresponding papers will not be compromised. The results of the evaluation may
+be taken into consideration for the corresponding paper acceptance decision.
+Accepted papers with a successfully evaluated artifact will receive a badge to
+be shown on the published paper’s title page.
+
+Artifacts will be assessed with respect to their consistency with the results
+presented in the paper, their completeness, their documentation, and their ease
+of use. The Artifact Evaluation will include an initial check for technical
+issues; authors of artifacts may be contacted by e-mail within the first two
+weeks after artifact submission to help resolve any technical problems that
+prevent the evaluation of an artifact if necessary.
+
+Detailed guidelines for preparation and submission of artifacts will be specified
+on a dedicated web page reachable via http://www.formalise.org/.
+
+Publication
+-----------
+
+All accepted papers are published as part of the ICSE 2023 Proceedings in the
+ACM and IEEE Digital Libraries.
+
+At least one author of each accepted paper is required to register for the conference
+and present the paper at the conference — physically or, if the circumstances
+warrant so, virtually. Otherwise, the paper will be removed from the proceedings.
+
+Organization
+------------
+
+General Chairs
+~~~~~~~~~~~~~~
+- Stefania Gnesi, Istituto di Scienza e Tecnologie dell’Informazione (Italy)
+- Nico Plat, University of Twente (The Netherlands)
+
+Program Chairs
+~~~~~~~~~~~~~~
+- Marie-Christine Jakobs, TU Darmstadt (Germany)
+- Toby Murray, University of Melbourne (Australia)
+
+Artifact Evaluation Chair
+~~~~~~~~~~~~~~~~~~~~~~~~~
+- Alessio Ferrari, CNR-ISTI (Italy)
+
+Social Media Chair
+~~~~~~~~~~~~~~~~~~
+- Giovanna Broccia, ISTI-CNR (Italy)
+
+Program Committee
+~~~~~~~~~~~~~~~~~
+- Toshiaki Aoki, JAIST (Japan)
+- Ebru Aydin Gol,  Middle East Technical University (Turkey)
+- Kyungmin Bae, Pohang University of Science and Technology (South Korea)
+- Simon Bliudze, INRIA Lille (France)
+- Ana Cavalcanti, University of York (UK)
+- Nancy Day, University of Waterloo (Canada)
+- Rayna Dimitrova, CISPA (Germany)
+- Gidon Ernst, LMU Munich (Germany)
+- Carlo A. Furia, Università della Svizzera italiana (USI) (Switzerland)
+- Marcus Gerhold, University of Twente (The Netherlands)
+- Ákos Hajdu, Facebook (UK)
+- Arnd Hartmanns, University of Twente (Netherlands)
+- Laura Humphrey, Air Force Research Laboratory (US)
+- Alexander Knapp, Augsburg University (Germany)
+- Elisavet Kozyri, Arctic University of Norway (Norway)
+- Mieke Massink, CNR-ISTI Pisa (Italy)
+- Anastasia Mavridou, KBR / NASA Ames Research Center (US)
+- Hernan Melgratti, Universidad de Buenos Aires (Argentina)
+- Claudio Menghi, McMaster University (Canada)
+- Alex Potanin, Australian National University (Australia)
+- Matteo Rossi, Politecnico di Milano (Italy)
+- Gerardo Schneider, Chalmers University of Technology (Sweden)
+- Laura Semini, University of Pisa (Italy)
+- Marjan Sirjani, Malardalen University (Sweden)
+- Yulei Sui, University of Technology Sydney (Australia)
+- Nils Timm, University of Pretoria (South Africa)
+- Heike Wehrheim, University of Oldenburg (Germany)
+- Kirsten Winter, Defence Science and Technology Group / University of Queensland (Australia)
+
+
+Artifact Evaluation Committee
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TBA
+
+Contact Information
+-------------------
+
+We can be reached at oc@formalise.org.

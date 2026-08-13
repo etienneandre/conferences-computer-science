@@ -1,0 +1,236 @@
+===========================================================
+                     CALL FOR PAPERS
+                         iFM 2019    
+ 
+15th International Conference on integrated Formal Methods
+           December 4-6, 2019 - Bergen, Norway
+ 
+                   http://ifm2019.hvl.no/
+===========================================================
+ 
+=== News ===
+ 
+New category of submissions:
+Jornal-First papers summarizing recently published journals.
+See details below.
+ 
+ 
+=== Important dates ===
+ 
+Abstract submission: Monday, 24 June 2019
+Paper submission: Friday, 28 June 2019
+Notification: Monday, 16 September 2019
+Camera-ready: Tuesday, 1 October 2019
+Main Conference: 4-6 December 2019
+ 
+ 
+Deadlines expire at 23:59 anywhere on earth on the dates displayed
+above.
+ 
+=== Objectives and scope ===
+ 
+Applying formal methods may involve the usage of different formalisms
+and different analysis techniques to validate a system, either because
+individual components are most amenable to one formalism or technique,
+because one is interested in different properties of the system, or
+simply to cope with the sheer complexity of the system. The iFM
+conference series seeks to further research into hybrid approaches to
+formal modeling and analysis: the combination of (formal and
+semi-formal) methods for system development, regarding both modeling
+and analysis. The conference covers all aspects from language design
+through verification and analysis techniques to tools and their
+integration into software engineering practice.
+ 
+Areas of interest include but are not limited to:
+- Formal and semi-formal modelling notations
+- Combining formal methods
+- Integration of formal methods into software engineering practice
+- Program verification, model checking, and static analysis
+- Theorem proving, decision procedures, SAT/SMT solving
+- Runtime analysis, monitoring, and testing
+- Program synthesis
+- Analysis and synthesis of hybrid, embedded, probabilistic, distributed,
+  or concurrent systems
+- Abstraction and refinement
+- Model learning and inference
+ 
+=== Submission guidelines ===
+ 
+iFM 2019 solicits high quality papers reporting research results
+and/or experience reports related to the overall theme of formal
+method integration.
+ 
+We accept papers in the following categories:
+ 
+(1) Regular papers (limit 18 pages) on
+     -  original scientific research results
+     -  tools, their foundation and evaluations
+     -  applications of formal methods, including rigourous evaluations
+ 
+(2) Short papers (limit 8 pages) on
+     -  any subject of interest in the area of formal methods that can be
+                described with sufficient detail within the page limit
+ 
+(3) Journal First papers (limit 4 pages)
+     - summarizing recently published papers in high-quality journals
+ 
+Page limits include bibliography and any appendices.
+ 
+Regular and short papers submitted in categories (1)
+and (2) must be original, unpublished, and not submitted
+for publication elsewhere. Papers in these two categories
+will undergo a thorough review process. Submissions will
+be judged on the basis of significance, relevance,
+correctness, originality, and clarity.
+ 
+The aim of journal-first papers in category (3) is to
+further enrich the program of iFM, as well as to provide
+an overall more flexible path to publication and
+dissemination of original research in formal methods.
+The published journal paper must adhere to the following
+four criteria:
+ 
+    a. It should be clearly within the scope of the
+       conference.
+ 
+    b. It should be recent: it should have been accepted
+       and made publicly available in a journal (online or
+       in print) by 1 January 2017 or more recently.
+ 
+    c. It should report new research results that significantly
+       extend prior work -- as opposed as simply extending
+       prior conference work with material such as proofs,
+       algorithms, and minor enhancements.
+ 
+    d. It has not been presented at, and is not under
+       consideration for, journal-first tracks of other
+       conferences or workshops.
+ 
+The 4-page submission to iFM for category (3) should provide a
+concise summary of the published journal paper, which makes
+it clear that its topics fits iFM's scope and that a presentation
+of its results would be interesting to the audience of iFM.
+ 
+Journal-first submissions must be marked as such in the submission’s
+title, and must explicitly include full bibliographic details
+(including a DOI) of the journal publication they are based on.
+Submissions will be judged on the basis of the above criteria, but
+also considering how well they would complement the conference's
+technical program.
+ 
+Submissions for all categories should be made using the iFM 2019 Easychair site:
+ 
+   https://easychair.org/conferences/?conf=ifm2019
+ 
+Submissions must be in PDF format, using the Springer LNCS style
+files.
+ 
+The conference proceedings will be published in Springer's
+Lecture Notes in Computer Science series. A special issue of the
+Formal Aspects of Computing - FAOC journal (https://link.springer.com/journal/165)
+is planned for extended versions of selected papers from iFM 2019.
+ 
+All accepted papers must be presented at the conference. Their authors
+must be prepared to sign a copyright transfer statement. At least one
+author of each accepted paper must register to the conference by the
+early registration date, and present the paper.
+ 
+Springer requires that authors should consult Springer’s authors’guidelines
+(ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf)
+and use their proceedings templates, either for LaTeX
+(ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) or for Word
+(ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip),
+for the preparation of their papers. Springer encourages authors to include
+their ORCIDs (https://goo.gl/hbsa4D) in their papers.
+After a paper is accepted, the corresponding author of each paper, acting
+on behalf of all of the authors of that paper, must complete and sign a
+Consent-to-Publish form. The corresponding author signing the copyright
+form should match the corresponding author marked on the paper. Once
+the files have been sent to Springer, changes relating to the authorship
+of the papers cannot be made.
+ 
+=== Keynote speakers ===
+ 
+Jean-Christophe Filliatre
+CNRS, France
+https://www.lri.fr/~filliatr/
+ 
+Tiziana Margaria
+University of Limerick, Ireland
+https://www.lero.ie/people/tiziana-margaria
+ 
+Corina Pasareanu
+NASA Ames and Carnegie Mellon University, United States
+https://ti.arc.nasa.gov/profile/pcorina/
+ 
+ 
+=== Organization ===
+ 
+= General chair =
+Volker Stolz (Western Norway University of Applied Sciences, Norway)
+ 
+= PC chairs =
+Wolfgang Ahrendt (Chalmers University of Technology, Sweden)
+Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
+ 
+= Workshop Chairs =
+Martin Leucker (University of Lübeck, Germany)
+Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
+ 
+= PhD Symposium Program Committee Chairs =
+Svetlana Jakšić (Western Norway University of Applied Sciences, Norway)
+César Sánchez (IMDEA Software Institute, Spain)
+ 
+= Finance Chair =
+Pål Ellingsen (Western Norway University of Applied Sciences, Norway)
+ 
+= Publicity Chair =
+Lars Michael Kristensen (Western Norway University of Applied Sciences, Norway)
+Kristin Yvonne Rozier (Iowa State University, US)
+ 
+= Local Organisation Chair =
+Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
+Fazle Rabbi (Western Norway University of Applied Sciences, Norway)
+ 
+= Program committee =
+Erika Abraham (RWTH Aachen University, Germany)                        
+Bernhard K. Aichernig (TU Graz, Austria)
+Borzoo Bonakdarpour (Iowa State University, United States)        
+David Cok (GrammaTech, United States)
+Ferruccio Damiani (Università di Torino, Italy)     
+Ornela Dardha (University of Glasgow, United Kingdom)
+Brijesh Dongol (University of Surrey, United Kingdom)
+Constantin Enea (IRIF, University Paris Diderot, France)
+Marie Farrell (University of Liverpool, United Kingdom)
+Carlo A. Furia (USI - Università della Svizzera Italiana, Switzerland)
+Susanne               Graf (CNRS, VERIMAG, France)
+Dilian Gurov (KTH Royal Institute of Technology, Sweden)
+Ludovic Henrio (CNRS, France)
+Marieke Huisman             (University of Twente, Netherlands)
+Ralf Huuck (UNSW / SYNOPSYS, Australia)            
+Einar Broch Johnsen (University of Oslo, Norway)
+Nikolai Kosmatov (CEA List, France)
+Laura Kovacs (Vienna University of Technology, Austria)
+Martin Leucker (University of Luebeck, Germany)
+Tiago Massoni (Universidade Federal de Campina Grande - UFCG, Brazil)
+Larissa Meinicke (The University of Queensland, Australia)
+Rosemary Monahan (University of Ireland Maynooth, Ireland)
+Luigia Petre (Åbo Akademi University, Finland)
+Nadia Polikarpova (University of California San Diego, United States)
+Philipp Ruemmer (Uppsala University, Sweden)
+Cesar Sanchez (IMDEA Software Institute, Spain)
+Steve Schneider (University of Surrey, United Kingdom)
+Emil Sekerinski (McMaster University, Canada)
+Marjan Sirjani (Malardalen University, Sweden)
+Jorge Sousa Pinto (University of Minho, Portugal)             
+Caterina Urban (INRIA, France)
+Jüri Vain (Tallin Technical Univeristy, Estonia)
+Tomas Vojnar (Brno University of Technology, Czech Republic)
+Kirsten Winter (The University of Queensland, Australia)
+Naijun Zhan (Chinese Academy of Sciences, China)
+Chenyi Zhang (Jinan University, China)
+ 
+=== Conference location ===
+ 
+iFM 2019 is organized by The Western Norway University of Applied Sciences
+and will take place in Bergen, Norway.

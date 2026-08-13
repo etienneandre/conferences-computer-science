@@ -26,3 +26,11 @@ award = "Best Paper Award, sponsored by Springer"
 [extra]
 journal = "A selection of papers will be invited to submit extended versions to an special issue on Springer’s Innovations in Systems and Software Engineering: A NASA Journal."
 notes = "No registration fees."
+
+[[cfp]]
+file = "cfp/NFM-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/NFM-2025-extended.txt"
+stage = "extended"

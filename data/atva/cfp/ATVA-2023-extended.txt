@@ -1,0 +1,115 @@
+************************************************************
+     Call for Papers
+
+     ** ATVA 2023 **
+
+     24-27 October 2023
+     Singapore
+
+https://atva-conference.org/2023/
+************************************************************
+21st International Symposium on Automated Technology for Verification and Analysis
+
+*** NEW: extended deadlines: May 11, 2023 (AoE) ***
+
+## Important Dates
+
+* Abstract submission deadline: April 27, 2023 (AoE) ==> May 11, 2023 (AoE) NEW
+* Paper submission deadline: May 4, 2023 (AoE) ==> May 11, 2023 (AoE) NEW
+* Paper notification: June 30, 2023 (AoE)
+* Camera-ready deadline: July 25, 2023 (AoE)
+* Conference: October 24 – October 27, 2023 (UTC +8)
+
+
+ATVA 2023 is the 21st in a series of symposia aimed at bringing together academics, industrial researchers and practitioners in the area of theoretical and practical aspects of automated analysis, synthesis, and verification of hardware and software systems. ATVA solicits high quality submissions in the following suggestive list of topics:
+
+* Formalisms for modeling hardware, software and embedded systems
+* Specification and verification of finite-state, infinite-state and parameterized system
+* Program analysis and software verification
+* Analysis and verification of hardware circuits, systems-on-chip and embedded systems
+* Analysis of real-time, hybrid, priced, weighted and probabilistic systems
+* Deductive, algorithmic, compositional, and abstraction/refinement techniques for analysis and verification
+* Analytical techniques for safety, security, and dependability
+* Testing and runtime analysis based on verification technology
+* Analysis and verification of parallel and concurrent systems
+* Analysis and verification of deep learning systems
+* Analysis and verification of blockchain based systems
+* Verification in industrial practice
+* Synthesis for hardware and software systems
+* Applications and case studies
+* Automated tool support
+
+## Submissions
+
+ATVA welcomes submissions in the following two categories:
+
+* Regular research papers (18 pages, excluding references)
+* Tool papers (6 pages, excluding references)
+
+Submissions must be in Springer's LNCS format. Additional material may be placed in an appendix, to be read at the discretion of the reviewers and to be omitted in the final version. Formatting style files and further guidelines for formatting can be found at the Springer website.
+Adding line numbers (package lineno) is highly recommended.
+
+Tool papers must include information about a URL from where the tool can be downloaded or accessed on-line for evaluation. The URL must also contain a set of examples, and a user manual that describes usage of the tool through examples. In case the tool needs to be downloaded and installed, the URL must contain instructions for installation of the tool on Linux/Windows/MacOS.
+
+For (regular and tool) papers reporting experiments, uploading an artifact on a long-term available platform is recommended (though not compulsory)
+
+Papers must be submitted through EasyChair.
+https://easychair.org/conferences/?conf=atva2023
+
+Accepted papers in both categories will be published in Springer's Lecture Notes in Computer Science series. At least one author of each accepted paper is expected to register and present the paper at the conference.
+
+A best paper award will be given to an outstanding paper; the award will come with a 1000€ cash prize provided by Springer.
+
+
+## Committees
+
+General Chair
+* Jin Song DONG, National University of Singapore
+
+Program Co-Chairs
+* Jun Sun, Singapore Management University
+* Étienne André, Université Sorbonne Paris Nord
+
+Publicity Chair:
+* Lei Bu, Nanjing University
+
+Local Organization Chair
+* Xiaofei Xie, Singapore Management University
+
+Program committee
+* Mohamed Faouzi Atig (Uppsala University)
+* Saddek Bensalem (VERIMAG)
+* Udi Boker (Reichman University, Herzliya, Israel)
+* Lei Bu (Nanjing University)
+* Krishnendu Chatterjee (Institute of Science and Technology (IST))
+* Yu-Fang Chen (Academia Sinica)
+* Chih-Hong Cheng (Fraunhofer IKS)
+* Yunja Choi (Kyungpook National University)
+* Thao Dang (CNRS/VERIMAG)
+* Susanna Donatelli (Dipartimento di Informatica)
+* Alexandre Duret-Lutz (EPITA's Research Lab (LRE))
+* Bernd Finkbeiner (CISPA Helmholtz Center for Information Security)
+* Stefan Gruner (University of Pretoria)
+* Osman Hasan (National University of Sciences and Technology (NUST))
+* Ichiro Hasuo (National Institute of Informatics)
+* Jie-Hong Roland Jiang (National Taiwan University)
+* Ondrej Lengal (Brno University of Technology)
+* Shang-Wei Lin (Nanyang Technological University)
+* Doron Peled (Bar Ilan University)
+* Jakob Piribauer (TU Dresden)
+* Pavithra Prabhakar (Kansas State University)
+* Sasinee Pruekprasert (National Institute of Advanced Industrial Science and Technology)
+* Kristin Yvonne Rozier (Iowa State University)
+* Indranil Saha (Indian Institute of Technology Kanpur)
+* Ocan Sankur (Univ Rennes)
+* Fu Song (School of Information Science and Technology)
+* Marielle Stoelinga (University of Twente)
+* Michael Tautschnig (Queen Mary University of London)
+* Tachio Terauchi (Waseda University)
+* Jingyi Wang (Zhejiang University)
+* Chao Wang (University of Southern California)
+* Bow-Yaw Wang (Academia Sinica)
+* Zhilin Wu (Laboratory of Computer Science)
+* Lijun Zhang (Institute of Software)
+
+ATVA 2023 is referred by https://conferences-computer.science/

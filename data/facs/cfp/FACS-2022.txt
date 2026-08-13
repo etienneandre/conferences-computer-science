@@ -1,0 +1,172 @@
+---------------------------------------------------------------------
+                     First Call for Papers
+                            FACS'22
+18th International Conference on Formal Aspects of Component Software
+            Oslo, Norway, 10-11 November, 2022 (online)
+              https://facs-conference.github.io/2022
+---------------------------------------------------------------------
+
+
+FOLLOW US
+  All updates on https://twitter.com/facs_conf.
+
+IMPORTANT DATES
+  Abstract submission deadline: 24 Jun, 2022 (AoE)
+  Paper submission deadline: 4 Jul, 2022 (AoE)
+  Notification: 5 Sep, 2022 (AoE)
+  Final version due: 26 Sep, 2022 (AoE)
+
+INVITED SPEAKERS
+
+ - Christel Baier, TU Dresden, Germany
+ - Renato Neves, University of Minho, Portugal
+ - Ina Schaefer, Karlsruhe IT, Germany
+ - Volker Stolz, Western Norway University of Applied Science, Norway 
+
+SCOPE
+
+  FACS 2022 is concerned with how formal methods can be applied to component-
+  based software and system development. Formal methods have provided 
+  foundations for component-based software through research on mathematical 
+  models for components, composition and adaptation, and rigorous approaches to 
+  verification, deployment, testing, and certification.
+
+TOPICS
+
+  The conference seeks to address the applications of formal methods in all
+  aspects of software components and services. FACS aims at developing a
+  community-based understanding of relevant and emerging research problems
+  through formal paper presentations and lively discussions. FACS 2022 welcomes 
+  contributions including but not limited to:
+
+  - Formal methods, models, and languages for components and services, including
+     + verification techniques (e.g., model checking, type systems, testing, 
+      runtime analysis),
+     + probabilistic techniques,
+     + (co-)simulation techniques,
+     + composition and deployment,
+     + component interaction,
+     + software variability,
+     + QoS and other non-functional properties (e.g., trust, compliance, 
+      security, privacy);
+  - Formal aspects of concrete component-based systems, including
+     + service-oriented architectures,
+     + business processes,
+     + cloud or edge computing,
+     + real-time/safety-critical systems,
+     + hybrid and cyber physical systems,
+     + quantum systems,
+     + components that use artificial intelligence;
+  - Tools supporting formal methods for components and services;
+  - Case studies and experience reports over the above topics.
+
+
+SUBMISSIONS
+
+  We solicit high-quality submissions reporting on:
+
+    A - full papers: original research, applications and experiences, or surveys 
+      16 pages);
+    B - short papers: tools and demonstrations (6 pages);
+    C - journal-first papers (4 pages).
+
+  Please use the Easychair link below to submit your paper:
+    https://easychair.org/conferences/?conf=facs2022
+
+  Each paper will undergo a thorough review process. Submissions will be judged 
+  on the basis of significance, relevance, correctness, originality, and 
+  clarity. Accepted papers from all categories will be published by Springer, 
+  in the Lecture Notes for Computer Science series. The page limit excludes 
+  references and appendices. Papers should be prepared in LaTeX or Microsoft 
+  Word, adhering to the Springer LNCS format and Guidelines. Submissions must 
+  be in PDF format. For further information please visit
+    http://www.springer.com/lncs.
+
+  All accepted papers must be presented at the conference. Their authors must 
+  be prepared to sign a copyright transfer statement. At least one author of 
+  each accepted paper must register to the conference by the early registration 
+  date, and present the paper.
+
+
+  = Full and tool/short publications (A, B) =
+
+  All submissions in categories A and B must be original, unpublished, and not 
+  submitted concurrently for publication elsewhere. A special journal issue is 
+  planned for extended versions of selected papers from categories A and B from 
+  FACS 2022.
+
+  = Journal-first publications (C) =
+
+  Submissions in category C must be 4-page abstracts of journal papers 
+  published after January 1st, 2021. Authors of published papers in 
+  high-quality journals can submit a proposal to present their journal paper at 
+  FACS. The journal paper must adhere to the following criteria:
+  - It is clearly in the scope of FACS.
+  - It is recent: only journal papers available after January 1st, 2021 (online 
+    or printed) can be presented.
+  - It reports new research results that significantly extend prior work. As 
+    such, the journal paper does not simply extend prior work with material 
+    presented for completeness only (such as omitted proofs, algorithms, minor 
+    enhancements, or empirical results).
+  - It has not been presented at, and is not under consideration for,
+    journal-first programs of other similar conferences or workshops.
+  Journal-first submissions must be marked as such in EasyChair, and they must 
+  explicitly include pointers to the journal publication (such as a DOI).
+
+
+PROGRAM COMMITTEE
+  Farhad Arbab, CWI and Leiden University, Netherlands
+  Kyungmin Bae, Pohang University of Science and Technology, Korea
+  Guillermina Cledou, University of Minho, Portugal
+  Peter Csaba Ölveczky, University of Oslo, Norway
+  Brijesh Dongol, University of Surrey, UK
+  Clemens Dubslaff, Technische Universität Dresden, Germany
+  Marie Farrell, National University of Ireland Maynooth, Irland
+  Samir Genaim, IMDEA, Spain
+  Fatemeh Ghassemi, University of Tehran, Iran
+  Ludovic Henrio, INRIA, Lyon, France
+  Sung-Shik Jongmans, Open University and CWI, Netherlands
+  Olga Kouchnarenko, University of Franche-Comté, France
+  Ivan Lanese, University of Bologna, Italy
+  Zhiming Liu, Southwest University, China
+  Mieke Massink, CNR ISTI, Italy
+  Jacopo Mauro, University of Southern Denmark, Denmark
+  Hernán Melgratti, University of Buenos Aires, Argentina
+  Catuscia Palamidessi, INRIA Saclay, France
+  Corina Pasareanu, CMU, USA
+  José Proença, Polytechnic Institute of Porto, Portugal
+  Violet Ka I Pun, University of Oslo, Norway
+  Gwen Salaün, Université Grenoble Alpes, France
+  Camilo Rocha, Pontificia Universidad Javeriana Cali, Colombia
+  Luís Soares Barbosa, University of Minho, Portugal
+  Silvia Lizeth Tapia Tarifa, University of Oslo, Norway
+  Emilio Tuosto, Gran Sasso Science Institute, Italy
+  Anton Wijs, Eindhoven University of Technology, Netherlands
+  Shoji Yuen, Nagoya University, Japan
+
+
+STEERING COMMITTEE 
+  Farhad Arbab, CWI and Leiden University, Netherlands
+  Kyungmin Bae, Pohang University of Science and Technology, Korea
+  Peter Csaba Ölveczky, University of Oslo, Norway
+  Sung-Shik Jongmans, Open University and CWI, Netherlands
+  Zhiming Liu, Southwest University, China
+  Markus Lumpe, Swinburne University of Technology, Australia
+  Eric Madelaine, INRIA Sophia Antipolis, France
+  Corina Pasareanu, CMU, USA
+  José Proença, Polytechnic Institute of Porto & INESC TEC, Portugal
+  Gwen Salaün, Université Grenoble Alpes, France
+  Luís Soares Barbosa, University of Minho, Portugal
+  Anton Wijs, Eindhoven University of Technology, Netherlands
+
+PROGRAM CHAIRS
+  Silvia Lizeth Tapia Tarifa, University of Oslo, Norway
+  José Proença, Polytechnic Institute of Porto & INESC TEC, Portugal
+
+ORGANISING COMMITTEE
+  Rudolf Schlatte, University of Oslo, Norway
+  Silvia Lizeth Tapia Tarifa, University of Oslo, Norway
+  José Proença, Polytechnic Institute of Porto & INESC TEC, Portugal
+
+
+More information: https://facs-conference.github.io/2022

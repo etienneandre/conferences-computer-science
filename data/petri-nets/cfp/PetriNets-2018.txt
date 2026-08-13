@@ -1,0 +1,80 @@
+39th INT. CONF. ON APPLICATIONS AND THEORY OF PETRI NETS AND
+CONCURRENCY Bratislava, Slovakia, June 24-29, 2018 Co-located with the
+17th International Conference on Application of Concurrency to System
+Design (ACSD 2017)
+
+Full Call for Papers (PDF): http://interes.institute/wp-content/uploads/2017/10/CfPPN-18.pdf
+Conference web-site: http://interes.institute/petrinets2018/
+Contact: pn2018@interes.institute <mailto:pn2018@interes.institute>
+
+Important dates:
+* Abstract submission: January 10, 2018 
+* Submission of Papers: January 15, 2018 
+* Notification: March 1, 2018
+* Final Version Due: March 15, 2018 
+* Participation in Tool Exhibition: June 1, 2018
+* Workshops & Tutorials: June 24-26, 2018
+* Main Conference: June 27-29, 2018
+
+The 39th annual international Petri Nets conference will be organized by
+the Interes.Institute in Bratislava in cooperation with Faculty of Electrical
+Engineering and Information Technology and Faculty of Informatics and
+Information Technologies, Slovak University of Technology in Bratislava,
+Slovak Republic. The conference will take place at Hotel Austria Trend,
+Vysoka street 2A, 811 06 Bratislava, Slovak Republic. The language of the
+conference is English, and its proceedings will be published by Springer-
+Verlag in Lecture Notes in Computer Science. Papers presenting original
+research on application or theory of Petri nets, as well as contributions
+addressing topics relevant to the general field of distributed and concurrent
+systems are sought. All accepted regular papers will be considered for an
+"Outstanding Paper" award. Some of the best papers will be invited, in an
+extended form, as submissions to a special issue of a well-established
+computer science journal.
+
+Submission web-site: EasyChair,
+https://easychair.org/conferences/?conf=petrinets2018
+Submissions guidelines and instructions can be found in the full CfP, see
+the link above.
+
+Two kinds of papers can be submitted:
+
+- regular papers (max 20 pages) describing original results pertaining  to the
+development of the theory of Petri nets and distributed and concurrent
+systems in general, new results extending the applicability  of Petri Nets, or
+case studies, application and experience reports pertinent to the practical
+use of Petri nets and concurrency.
+
+- tool papers (max 10 pages) describing a computer tool based on Petri nets
+(not an application of the tool or the theory behind the tool).
+The tool should be available for use by other groups (but not necessarily
+for free). The submission should indicate how the reviewers can get access
+to the tool (this must be for free). The  tool will be demonstrated in the
+Tool Exhibition, in addition to being presented in a conference talk.
+
+Possible topics include, but are not limited to:
+
+- Model checking and verification of distributed systems
+- Verification of infinite-state or parametric systems
+- Causality/partial order theory of concurrency
+- Educational issues related to concurrency
+- New developments in the theory of concurrency
+- Modelling of hardware and biological systems
+- System design using nets
+- Analysis and synthesis, structure and behaviour of nets
+- Relationships between Petri nets and other approaches
+- Net-based semantical, logical and algebraic calculi
+- Symbolic net representation (graphical or textual)
+- Computer tools for nets
+- Experience with using nets, case studies
+- Higher-level net models
+- Timed and stochastic nets
+- Standardisation of nets
+- Experience reports describing applications of nets  to different kinds of
+systems and application fields, e.g.:
+flexible manufacturing systems, real-time systems, embedded systems,
+biological systems, health and medical systems, environmental systems,
+hardware telecommunications, railway networks, component-based
+development,  office automation, workflows, process mining, supervisory
+control, protocols  and networks, Internet and web services, e-commerce
+and trading, programming  languages, performance evaluation, operations
+research

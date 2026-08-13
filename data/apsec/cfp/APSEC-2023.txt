@@ -1,0 +1,164 @@
+=================================================
+
+Call for Research Papers - APSEC 2023
+
+
+
+30th Asia-Pacific Software Engineering Conference
+
+Grand Walkerhill Hotel
+
+Seoul, South Korea, December 4-7, 2023
+
+
+
+https://conf.researchr.org/home/apsec-2023
+
+=================================================
+
+
+
+APSEC 2023 - AT A GLANCE :
+
+It has been 30 years since the establishment of the Asia-Pacific Software Engineering Conference (APSEC) as a leading regional conference that gathers researchers and practitioners from academia, industry, and government to exchange knowledge and best practices in software engineering, and to address emerging challenges and solutions in software engineering innovation. This year’s APSEC will be held on December 4-7, 2023 in Seoul, Korea. APSEC 2023 will continue in the tradition of previous editions of this regional conference. As in past APSEC series, the main research track features the most recent and significant innovations in the field of software engineering and all its sub-disciplines. APSEC 2023 also invites submissions of high-quality research papers that describe original and unpublished results on theoretical and empirical software engineering research topics.
+
+APSEC 2023 will offer an extensive program of interest to academia, government, and industry. It will include several distinguished keynote speakers and conference days of paper presentations and demos. A series of exciting tutorials to develop skills in various aspects of software engineering practices is of particular interest to the industry. Co-located workshops offer forums for participants to present novel techniques and methods in specific sub-disciplines of software engineering. To celebrate its 30th anniversary, APSEC 2023 will also provide special events such as APSEC 30th Anniversary History Workshop, and Student Research Competition (SRC).
+
+The 30th edition of APSEC has a wide spectrum of topics related to all aspects of software engineering that include, but are not limited to:
+
+o Tools and processes
+
+   - Agile processes
+
+   - DevOps and Container
+
+   - Configuration Management and Deployment
+
+   - Software Engineering Process and Standards
+
+o Requirements and Design
+
+   - Service-oriented Computing
+
+   - Component-based Software Engineering
+
+   - Cooperative, Distributed, and Global Software Engineering
+
+   - Software Architecture, Modeling, and Design
+
+   - Middleware, Frameworks, and APIs
+
+   - Software Product-line Engineering
+
+o Testing and Analysis
+
+   - Testing, Verification, and Validation
+
+   - Program Analysis
+
+   - Program Synthesis
+
+   - Program Repairs
+
+o Formal Aspects of Software Engineering
+
+   - Formal Methods
+
+   - Model-driven and Domain-specific Engineering
+
+o Human Factors and Social Aspects of Software Engineering
+
+   - Software Comprehension, Visualization, and Traceability
+
+   - Software for Green and Sustainable Technologies
+
+o AI and Software Engineering
+
+   - Search-based Software Engineering
+
+   - AI for SE, SE for AI
+
+o Dependability, Safety, and Reliability
+
+o Software Maintenance and Evolution
+
+   - Refactoring
+
+   - Reverse Engineering
+
+   - Software Reuse
+
+   - Software Project Management
+
+   - Debugging, Defect Prediction, and Fault Localization
+
+o Software Repository Mining and Data Analytics
+
+
+
+APSEC 2023 welcomes submissions addressing topics in a variety of application domains, including mobile, cloud, blockchains, embedded, and cyber-physical systems.
+
+
+
+EVALUATION CRITERIA:
+
+Technical research papers must not be more than 10 pages (including references). Submissions will be evaluated by at least three program committee members. The evaluation will focus on the novelty, originality, importance to the field, proper use of research methods, and presentation of the submissions.
+
+
+
+SUBMISSION INSTRUCTIONS:
+
+Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop.
+
+ All submissions must be in English and must come in A4 paper size PDF format and conform, at the time of submission, to the IEEE Conference Proceedings Formatting Guidelines (https://www.ieee.org/conferences/publishing/templates.html, title in 24pt font and full text in 10pt font, LaTeX users must use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf option). Also, papers must comply with the IEEE Policy on Authorship (https://www.ieee.org/publications/rights/author-rights-responsibilities.html).
+
+ Submissions must be submitted electronically in PDF before the due date via EasyChair.
+
+ The Chairs reserve the right to reject submissions (without reviews) that are not in compliance or out of scope for the conference.
+
+
+
+IMPORTANT: The APSEC 2023 technical research track will use a double-blind reviewing process, which means that submissions must not reveal the authors' identities. The authors must make every effort to honor the double-blind reviewing process. Please read carefully the APSEC 2023 double-blind instructions (posted on the APSEC 2023 website) before preparing your paper.
+
+
+
+SUBMISSION LINK:
+
+Papers must be submitted through https://easychair.org/conferences/?conf=apsec2023
+
+
+
+IMPORTANT DATES:
+
+- Abstract Deadline: June 30, 2023
+
+- Paper Deadline: July 7, 2023
+
+- Author Notification: Aug 18, 2023
+
+- Camera Ready Deadline:  Oct 20, 2023
+
+
+
+ACCEPTED PAPERS AND ATTENDANCE EXPECTATION:
+
+All accepted papers will be included in the IEEE-CS Digital Library as the APSEC 2023 conference proceedings.
+
+Accepted papers will not be permitted any additional page of content. But, we hope that the authors will reflect the reviewers' comments as much as possible in the camera-ready version. After acceptance, the list of paper authors cannot be changed under any circumstances, and the list of authors on camera-ready papers must be identical to those on submitted papers. After acceptance, paper titles cannot be changed except by permission of the Program Co-Chairs, and only then when referees recommend a change for clarity or accuracy with paper content. If a submission is accepted, at least one author of the paper must register for APSEC 2023 and present the paper at the conference. If an accepted paper is not presented, the paper is removed from the proceedings.
+
+
+
+CONTACT:
+
+Yunja Choi and Meng Yan
+
+APSEC 2023 Program Co-Chairs
+
+
+APSEC 2023 Secretariat: secretariat@apsec2023.org
+
+
+
+For additional information, visit the conference website:
+
+https://conf.researchr.org/home/apsec-2023

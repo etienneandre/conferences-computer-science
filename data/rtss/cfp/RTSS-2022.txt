@@ -1,0 +1,69 @@
+********************************************************************** 
+           43rd IEEE Real-Time Systems Symposium (RTSS 2022)
+                           http://rtss.org
+
+                  December 5-8, 2022, Houston, USA
+
+                  Submission Deadline: May 26, 2022
+                     http://rtss.org/submission/
+**********************************************************************
+
+The IEEE Real-Time Systems Symposium (RTSS) is the premier conference in 
+the field of real-time systems, and is a venue for researchers and 
+practitioners to showcase innovations covering all aspects of real-time 
+systems including theory, design, analysis, implementation, evaluation 
+and experience. RTSSâ€™22, celebrating the 43rd anniversary of the event, 
+continues the trend of making RTSS an expansive and inclusive event, 
+striving to embrace new and emerging areas of real-time systems 
+research.
+
+RTSSâ€™22 welcomes submissions of high-quality, original research papers 
+related to both real-time systemsâ€™ theory and practice. Submissions can 
+go to either the real-time systems track (Track 1) or the design and 
+applications track (Track 2) which covers Cyber-Physical Systems, HW-SW 
+integration and system-level design, and Internet of Things (IoT). To be 
+in scope, ALL submissions must address some form of real-time 
+requirements such as deadlines, response times or delay/latency. All 
+accepted papers will appear in the main program and proceedings.
+
+RTSS especially welcomes new and emerging topics provided that they 
+address some aspects of real-time requirements as stated above. Such 
+topics may include machine learning techniques for design and analysis 
+of real-time systems, system design approaches for achieving real-time 
+machine learning, resource management in autonomous systems, 
+system-level solutions for real-time applications exploiting 
+domain-specific accelerators, etc.
+
+Note the above list of topics is intended only as a rough guide and 
+should not be understood as an exclusive list. Papers breaking new 
+ground, departing from established subfields, or challenging the status 
+quo are most welcome and are encouraged. Empirical survey-based research 
+focused on the real-time systems field is also welcome. This type of 
+research uses surveys, questionnaires, interviews, use-cases or other 
+empirical techniques to obtain information about the past / current / 
+future state of play in the research, design, development, verification, 
+validation, and deployment of real-time systems. (Note literature 
+surveys that classify, review, and summarize existing research papers 
+are not considered empirical research and are not in scope of the 
+conference).
+
+All accepted papers will appear in the main program and proceedings. A 
+selection of papers will receive recognition as outstanding papers, and 
+will be highlighted as such in the proceedings. Best paper and best 
+student paper awards will be presented at the conference, along with an 
+award for the best presentation. (Note that submissions are eligible for 
+the best student paper award provided that the first author is a student 
+as of the submission deadline).
+
+********************************************************************** 
+Paper Submissions
+
+Submitted papers must describe original work not previously published or 
+concurrently submitted elsewhere. Papers based on previous work presented
+at workshops are eligible for submission â€“ if the workshop paper has a 
+digital object identifier (DOI) then the submission must contain at least 
+30% new material. All submitted papers must comply with the double-blind 
+submission requirements. The main body of each submitted paper is limited 
+to 11 pages of technical content with additional pages permitted for 
+bibliography only. Submissions must be formatted according to IEEE 
+conference paper guidelines.

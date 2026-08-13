@@ -1,0 +1,65 @@
+Please consider to contribute to Valuetools 2025, which will be held 11-12 December 2025 in Glasgow.
+
+ 
+
+More information and submission via the following website:
+
+https://valuetools.eai-conferences.org/2025/
+
+ 
+
+Extended deadlines:
+
+* Abstract Submission deadline: September 12, 2025
+
+* Full Paper Submission deadline: September 17, 2025
+
+* Author Notification: October 27, 2025
+
+* Camera-ready paper November 10, 2025
+
+ 
+
+Valuetools 2025 solicits original papers that propose new methodologies
+and tools for the performance and safety evaluation, and optimization
+of complex systems. It brings together researchers from different
+communities of Computer Science including but not limited to
+Communication Networks, IoT, CPS, (Stochastic) Operations Research,
+Optimization, Machine Learning, Control Theory and Manufacturing.
+
+ValueTools 2025 welcomes regular submission papers describing novel
+results, as well as short papers on vision work, work-in-progress, and
+tools.
+
+Advances in models and methods:
+
+Stochastic processes and models
+Queueing models and networks
+Statistical simulation
+Game theory
+Machine learning and data analytics
+Federated processing
+Optimization and control theory
+Process algebras
+Markov decision processes
+Model checking
+Stochastic geometry
+
+Application areas:
+
+Data centers, distributed and cloud computing systems
+Edge and fog computing systems
+Critical infrastructures
+Wireless networks
+Smart grids
+Social networks
+Manufacturing systems and supply chains
+Biological, economic, transportation, and healthcare systems
+Machine learning and artificial intelligence systems
+
+ 
+
+PC chairs: Anne Remke and Katinka Wolters
+
+General chair: Gethin Norman
+

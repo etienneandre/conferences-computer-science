@@ -1,0 +1,107 @@
+====================================================================
+				Call for informal presentations
+
+                           SynCoP 2023
+8th International Workshop on the SYNthesis of COmplex Parameters
+
+                     (ETAPS satellite event)
+
+https://project.inria.fr/syncop23/
+====================================================================
+
+SynCoP (International Workshop on Parameterized Verification) aims at bringing
+together researchers working on verification and parameter synthesis for
+systems with discrete or continuous parameters, in which the parameters
+influence the behavior of the system in ways that are complex and difficult to
+predict. Such problems may arise for real-time, hybrid or probabilistic systems
+in a large variety of application domains. The parameters can be continuous
+(e.g., timing, probabilities, costs) or discrete (e.g., number of processes).
+The goal can be to identify suitable parameters to achieve desired behavior, or
+to verify the behavior for a given range of parameter values.
+
+The workshop will take place on April 22-23, 2023, in Paris, France as a
+satellite event of ETAPS.
+
+
+=================
+IMPORTANT DATES
+=================
+Abstracts:                     February 24, 2023 (AoE)
+Notification:                  February 03, 2023
+Final verison of abstracts:    March, 31, 2023
+Workshop:                      April 22-23, 2023
+
+
+=================
+TOPICS OF THE WORKSHOP
+=================
+
+The scientific subject of the workshop covers (but is not limited to) the
+following areas:
+ * parameter synthesis
+ * parametric model checking
+ * regular model checking
+ * robustness analysis
+ * parameterized logics, decidability and complexity issues
+ * formalisms such as parametric timed and hybrid automata, parametric time(d)
+   Petri nets, parametric probabilistic (timed) automata, parametric Markov
+   Decision Processes, networks of identical processes
+ * specifications in automata and logic, term and graph rewriting, Petri nets,
+   process algebra, etc.
+ * validation methods via assertional and regular model checking, reachability
+   and coverability decision procedures, abstractions, theorem proving,
+   constraint solving,â€¦
+ * interactions between discrete and continuous parameters
+ * tools and applications to hardware design, cache coherence protocols,
+   security and communication protocols, multithreaded and concurrent programs,
+   programs with relaxed memory models, mobile and distributed systems,
+   database languages and systems, biological systems, etc.
+
+
+=================
+SUBMISSION
+=================
+
+SynCoP seeks short abstracts only.
+
+Recently published works, ongoing works, or works under submission are welcome.
+
+The page limit is 3 pages (excluding bibliography) single column.  All accepted
+abstracts will be made available to the participants of SynCoP 2023 but they
+will not result in referenced publications.
+
+Authors of accepted abstracts will be required to give an informal presentation
+during the workshop.
+
+Submission will be made in English in PDF format with a simple email at syncop23@inria.fr
+
+
+=================
+INVITED SPEAKERS
+=================
+* Étienne André, Villetaneuse, France
+* Nathalie Bertrand, Rennes, France
+* Igor Konnov, Vienna, Austria
+* Kim G. Larsen, Aalborg, Denmark
+* Joël Ouaknine, Sarrebruck, Germany
+* Tali Sznajder, Paris, France
+
+=================
+GENERAl CHAIRS
+=================
+* Engel Lefaucheux, Nancy, France
+* Didier Lime, Nantes, France
+
+
+=================
+PROGRAM AND STEERING COMMITTEE
+=================
+* Étienne André, Villetaneuse, France
+* Benoît Delahaye, Nantes, France
+* Giorgio Delzanno, Genoa, Italy
+* Peter Habermehl, Paris, France
+* Kim Larsen, Aalborg, Denmark
+* Wojciech Penczek, Warszawa, Poland
+* Laure Petrucci, Villetaneuse, France
+* Jaco van De Pol, Aarhus, Denmark
+

@@ -1,0 +1,31 @@
+Dear colleagues,
+
+The 32nd IEEE *Real-Time and Embedded Technology and Applications Symposium* (RTAS 2026) will be held in Saint Malo, France, on May 12–14, 2026, as part of CPS-IoT Week.
+
+RTAS is a premier forum for presenting innovations in systems with timing requirements. We welcome contributions that advance the state of the art in the design, implementation, validation, verification, and evolution of such systems.
+
+Track 1: Systems and Applications
+  Focus on empirical work, case studies, runtime software, operating systems, middleware, hardware architectures, CPS/IoT infrastructure, networks, profiling, WCET analysis, compilers, and benchmarks.
+Track 2: Applied Methodologies and Foundations
+  Focus on models, scheduling, system-level optimization, design space exploration, and verification/validation methods with motivating examples grounded in real systems.
+
+Submissions must explicitly address at least one of the following:
+1. Timing requirements (hard/soft real-time, probabilistic, QoS, throughput, latency, etc.).
+2. Improvements or innovations that support predictable, dependable, and efficient systems with timing requirements.
+
+IMPORTANT DATES
+* Submission Deadline (Firm): November 13, 2025
+* Author Response: January 14–18, 2026
+* Author Notification: January 29, 2026
+* Brief Presentation Deadline: February 13, 2026
+* Artifact Evaluation Deadline: February 20, 2026
+* Camera-Ready: March 31, 2026
+* Conference: May 12–14, 2026
+
+Full details and submission guidelines are available at:
+[https://rtas.org/2026](https://rtas.org/2026)
+
+We look forward to your submissions and to welcoming you in Saint Malo!
+
+Sincerely,
+RTAS 2026 Publicity Chair

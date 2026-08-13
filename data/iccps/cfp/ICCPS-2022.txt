@@ -1,0 +1,55 @@
+13th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2022)
+
+Milan, Italy, 4th–6th May 2022
+
+Submission deadline: Oct 29, 2021 (FIRM)                            
+
+Notification: Jan 17, 2022
+
+ICCPS is the premier forum for presenting and discussing the most significant recent technical research contributions in the field of Cyber-Physical Systems (CPS). As before, ICCPS will be part of CPS-IoTWeek, at Milan in 2022. We invite high quality submissions of technical research papers covering the full spectrum of CPS. Topics of interest include:
+
+    AI, CPS, and safe autonomy
+
+    Architectures and Networking for CPS
+
+    Software platforms and systems for CPS
+
+    Foundations for CPS 
+
+    Human-machine interactions
+
+    Sensing and monitoring
+
+    Specification languages and requirements
+
+    Design, optimization,  and synthesis
+
+    Testing, verification, certification 
+
+    Security, trust, and privacy in CPS
+
+    Applications of CPS technologies
+
+    Tools, Testbeds, demonstrations,  and deployments. 
+
+Papers will be judged based on soundness, significance, verifiability of the claims, and presentation quality.
+
+Submission guidelines: Submissions must be in English. Only original papers that are not submitted or published in other conferences or journals will be considered. Manuscripts should be no more than 10 pages including references in ACM two-column conference style, using US Letter (8.5-inch x 11 inch) paper size. An appendix of up to 2 additional pages may be included in the same submitted .pdf file. 
+
+Light double-blind review. ICCPS 2022 will employ a light-weight double-blind review process: 
+
+(i) authors’ names and institutions must be omitted; 
+
+(ii) references to authors’ own work should be in third person. 
+
+Artifact evaluation. Authors of accepted papers will have an opportunity to have their research artifacts evaluated for reproducibility of results. 
+
+Awards and special issues. A distinguished paper award will be presented. A subset of accepted papers will be solicited for a Special Issue of a related journal. One paper will be nominated for a Research Highlight in the Communications of the ACM. 
+
+http://iccps.acm.org/2022
+
+Program Chairs
+
+Sayan Mitra (UIUC)
+
+Nalini Venkatasubramanian  (UC Irvine)

@@ -1,0 +1,153 @@
+First Call-for-Papers of the 43nd International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+
+FORTE 2023 - 43nd International Conference on Formal Techniques for
+Distributed Objects, Components, and Systems
+June 19-23, 2023. Lisbon, Portugal
+Website: www.discotec.org/2023/forte.html
+
+FORTE 2023 is one of the three conferences of DisCoTec 2023, the
+18th International Federated Conference on Distributed Computing
+Techniques.
+www.discotec.org/2023/
+
+Highlights
+----------
+* Main focus: fundamental research on developing distributed software
+systems, with emphasis on approaches to formally model, soundly
+implement, and rigorously validate such systems and applications.
+* Invited speaker: Azalea Raad (Imperial College London, UK)
+* Special issue in top journal with selected papers
+* Constructive and thorough reviews (at least 3)
+?
+
+Submission Link: easychair.org/conferences/?conf=forte2023
+-----------------------------------------------------------
+
+We invite submissions focused on foundational aspects of distributed
+software systems, presenting approaches or tools to formally model,
+soundly implement, and rigorously validate these demanding but ever
+more necessary systems and applications. As our dependency on such
+software systems grow, also our responsibility as researchers grows to
+provide both trustworthy and usable solutions.
+
+The main topics of interest include:
+
+* Language concepts for concurrency and distribution, supported by
+rigorous semantics, well-supported pragmatics, and/or expressive
+illustrative use-cases.
+
+* Analyses techniques, methodologies, and/or algorithms, using testing
+and/or verification, to validat e (aspects of) the soundness of
+various types of concurrent and distributed systems, including
+communication and network protocols, service-oriented systems,
+adaptive distributed systems, cyber-physical systems and sensor
+networks.
+
+* Principles for qualitative and quantitative security analysis of
+distributed systems.
+
+* Applications of formal methods and techniques for studying the
+quality, reliability, availability, and safety of concrete
+distributed systems. We are specially interested in "real-life" case
+studies and industrial applications involving real distributed
+systems.
+
+* Emerging challenges and hot topics in distributed systems (broadly
+construed), such as software-defined networks, distributed ledgers,
+smart contracts, and blockchain technologies, etc.
+
+Categories of papers
+--------------------
+All papers should be submitted in LNCS format. We solicit pap ers in
+the following categories:
+
+* Regular papers (7-15 pages, not counting references):
+describing thorough and complete research results and experience
+reports. Regular papers may be combined with an artefact submission.
+Companion artefacts to regular submissions will be reviewed by the
+Artefact Evaluation Committee, but the acceptance of the paper is
+decoupled from the acceptance of the artefact (does not depend on
+it). The acceptance of the artefact, however, is conditional to the
+acceptance of the paper.
+
+* Tool papers (7-15 pages, not counting references):
+describing technological artefacts in the scope of the research
+topics of FORTE. The paper should present the underlying theory of
+the tool, a clear account of the tool’s functionality and
+limitations, and include case studies (with rigorous experimental
+evaluation). In addition, the tool artefact must be submitted
+separately for evaluation. Acceptance of the tool artefact is
+mandatory for tool papers to be accepted. The artefact will be
+evaluated by a dedicated committee. The paper must contain a link
+to a publicly downloadable MPEG-4 demo video of at most 10 minutes,
+to be submitted until a week after the paper submission deadline.
+
+* Short papers (4-6 pages, not counting references):
+describing innovative and promising ideas, possibly in an early
+form, or demonstrating new tools (components), or presenting (i)
+calls to action, or (ii) substantiated reflections on current and/or
+future research perspectives related to FORTE, or a summary of a
+published journal paper clarifying why the presentation would enrich
+the program of FORTE.
+
+Partial Rebuttal
+------------
+Some papers that raised doubts the reviewers would like to clarify to
+consider acceptance, will have 48h to respond to concrete
+questions. The responses will be taken into account during the PC
+discussions.
+
+Important dates (AoE)
+---------------------
+* Abstract submission: February 11, 2023
+* Paper submission: February 18, 2023
+* Artefact and video submission: February 25, 2023
+* Rebuttal period: March 23 and 24
+* Paper and artefact notification: March 31, 2023
+* Camera-ready: April 30, 2023
+
+Proceedings
+-----------
+The conference proceedings, formed by accepted submissions from *any*
+category, will be published by Springer as an LNCS-IFIP volume.
+
+Program Committee chairs
+------------------------
+Marieke Huisman (University of Twente, Netherlands)
+António Ravara (NOVA University Lisbon, Portugal)
+
+Program Committee
+-----------------
+Elvira Albert (Universidad Complutense de Madrid, Spain)
+Jiri Barnat (Masaryk University, Czech Republic)
+Georgiana Caltais (University of Twente, Netherlands)
+Silvia Crafa (Università di Padova, Italy)
+Mariangiola Dezani-Ciancaglini (Università di Torino, Italy)
+Adrian Francalanza (University of Malta, Malta)
+Hongfei Fu (Shanghai Jiao Tong University, China)
+Fatemeh Ghassemi (University of Tehran, Iran)
+Helle Hvid Hansen (University of Groningen, Netherlands)
+Sung-Shik Jongmans (Open University of the Netherlands; Centrum
+Wiskunde & Informatica, Netherlands)
+Jan Kofron (Charles University, Czech Republic)
+Alfons Laarman (Leiden University, Netherlands)
+Claudio Antares Mezzina (Università di Urbino, Italy)
+Mohammadreza Mousavi (King's College London, UK)
+Daniele Nantes-Sobrinho (Universidade de Brasília, Brasil)
+Luca Padovani (Università di Camerino, Italy)
+Kirstin Peters (Universität Augsburg, Germany)
+Anna Philippou (University of Cyprus, Cyprus)
+Anne Remke (WWU Münster, Germany)
+Vasco T. Vasconcelos (LaSiGE and Dept. of Informatics, Facu lty of
+Sciences, University of Lisbon, Portugal)
+Rob van Glabbeek (Data61 - CSIRO, Australia)
+Yuting Wang (Shanghai Jiao Tong University, China)
+
+Artefact Evaluation Committee chairs
+------------------------------------
+Mário Pereira (NOVA University Lisbon, Portugal)
+Tom van Dijk (University of Twente)
+
+Artefact Evaluation Committee
+-----------------------------
+TBA

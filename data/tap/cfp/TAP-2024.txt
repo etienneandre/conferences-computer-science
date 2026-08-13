@@ -1,0 +1,74 @@
+TAP 2024 - Call for Papers
+
+***********************************************************************************************************************
+The 18th International Conference on Tests and Proofs (TAP 2024)
+https://tapconference.github.io/2024/
+co-located within FM 2024 (Formal Methods 2024)
+https://www.fm24.polimi.it/
+***********************************************************************************************************************
+Aim and Scope
+-------------
+TAP 2024 is the 18th International Conference on Tests and Proofs. TAP promotes research in verification and formal methods that targets the
+interplay of static and dynamic analysis techniques with t he ultimate goal of improving software and system dependability.
+
+Research in verification has seen an increase in heterogeneous techniques and a synergy between the traditionally distinct areas of dynamic and static analysis. There is growing awareness that dynamic techniques such as testing and static techniques such as proving are complementary rather than mutually exclusive. Notable examples that provide evidence for the potential of a combination of static and dynamic analysis are counterexample generation based on symbolic execution, the integration of SAT/SMT-solving in model checking, or the combination of predicate abstraction with exhaustive enumeration. The verification of systems based on machine learning spurs novel combinations of dynamic and static analyses, e.g., property verification of surrogate models that are generated through testing.
+
+TAP’s scope encompasses many aspects of verification technology, including foundatio nal work, tool development, and empirical research. Topics of interest center around the combination of static techniques such as proving and dynamic techniques such as testing.
+
+Papers are solicited on, but not limited to, the following topics:
+
+- Verification and analysis techniques combining proofs and tests,
+- Static analysis of programs with the aid of dynamic techniques,
+- Deductive techniques supporting the automated generation of test vectors and oracles,
+- Deductive techniques supporting (novel) definitions of coverage criteria,
+- Specification inference by deductive or dynamic methods,
+- Testing and runtime analysis of formal specifications,
+- Search-based techniques for proving and testing,
+- Testing and Verification of systems based on machine learning,
+- Verification of verification tools and environments,
+- Applications of test and proof techniques in new domains,
+- Combined approaches of test and proof in the context of formal certifications (Common Criteria, CENELEC, …), and
+- Case studies, tool and framework descriptions, and experience reports
+
+Authors are encouraged (but not required) to make the relevant artifacts available to the reviewers (and whenever possible publicly). Artifacts can be provided at submission time or after notification of acceptance and will go through a lightweight  reviewing process, handing out availability badges.
+
+
+Important Dates
+---------------
+
+Abstract submission:   05/08/2024
+Paper submission:      05/15/2024
+Paper notification:    06/26/2024
+Artifact submission:   07/03/2024
+Artifact notification: 07/14/2024
+Camera-ready version:  07/17/2024
+
+Conference: 09/09/2024-09/10/2024
+
+
+Submission In structions
+-------------
+
+TAP 2024 accepts papers of two kinds:
+
+- Regular papers: full submissions describing
+  - original research results,
+  - tools, and
+  - case studies
+of up to 16 pages. For tools and case studies, the tool, framework, or case study described in a tool paper should be available for public use.
+
+- Short papers: submissions describing preliminary findings, proofs of concepts, and exploratory studies, of up to 6 pages.
+
+All page limits exclude the references. Appendices may be included, but they will only be read by a reviewer at their discretion.
+
+Regular and short papers must be original, unpublished, and not submitted for publication elsewhere.
+
+Papers will undergo a thorough review process. The review process is single blind. Submissions will be judged on the basis of significance, relevance, c orrectness, originality, and clarity. The submissions will be reviewed and selected for publication based on the above-mentioned
+criteria as well as suitability to the conference’s technical program. After notification, all artifacts of accepted papers will be reviewed
+with respect to their availability, consistency with and replicability of results in the paper, completeness, documentation, and ease of use.
+The papers will receive corresponding badges.
+
+Accepted submissions will be published in Springer’s LNCS series. Papers have to adhere to Springer’s LNCS format and must be submitted in PDF
+format at the EasyChair submission site:
+
+https://easychair.org/my/conference?conf=tap24

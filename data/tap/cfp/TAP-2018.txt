@@ -1,0 +1,119 @@
+=====================================================
+
+First Call for Papers
+
+12th International Conference on Tests And Proofs
+TAP 2018 Toulouse (France), 27-29 June 2018
+https://tap18.lri.fr/
+
+Part of STAF 2018 held in Toulouse
+
+=====================================================
+
+Important Dates
+---------------
+
+Abstract:                         23 February 2018
+Paper:                              2 March 2018
+Notification:                      9 April 2018
+Camera-Ready Version: 23 April 2018
+Conference:               27-29 June 2018
+
+
+Aim and Scope
+-------------
+
+The TAP conference promotes research in verification and formal
+methods that targets the interplay of proofs and testing: the
+advancement of techniques of each kind and their combination, with the
+ultimate goal of improving software and system dependability.
+
+Research in verification has recently seen a steady convergence of
+heterogeneous techniques and a synergy between the traditionally
+distinct areas of testing (and dynamic analysis) and of proving (and
+static analysis). Formal techniques for counter-example generation
+based on, for example, symbolic execution, SAT/SMT-solving or
+model checking, furnish evidence for the potential of a combination of
+test and proof. The combination of predicate abstraction with testing-like
+techniques based on exhaustive enumeration opens the perspective
+for novel techniques of proving correctness. On the practical side,
+testing offers cost-effective debugging techniques of specifications
+or crucial parts of program proofs (such as invariants).  Last but not
+least, testing is indispensable when it comes to the validation of the
+underlying assumptions of complex system models involving
+hardware and/or system environments. Over the years, there is
+growing acceptance in research communities that testing and proving
+are complementary rather than mutually exclusive techniques.
+
+
+The TAP conference aims to promote research in the intersection of
+testing and proving by bringing together researchers and practitioners
+from both areas of verification.
+
+
+Topics of Interest
+------------------
+
+TAP's scope encompasses many aspects of verification technology,
+including foundational work, tool development, and empirical
+research. Its topics of interest center around the connection between
+proofs (and other static techniques) and testing (and other dynamic
+techniques). Papers are solicited on, but not limited to, the
+following topics:
+
+- Verification and analysis techniques combining proofs and tests
+- Program proving with the aid of testing techniques
+- Deductive techniques supporting the automated generation of test vectors and  oracles
+   (theorem proving,  model checking, symbolic execution, SAT/SMT solving, constraint logic programming, etc.)
+- Deductive techniques supporting novel definitions of coverage criteria,
+- Program analysis techniques combining static and dynamic analysis
+- Specification inference by deductive and dynamic methods
+- Testing and runtime analysis of formal specifications
+- Search-based technics for proving and testing
+- Verification of verification tools and environments
+- Applications of test and proof techniques in new domains,
+  such as security, configuration management, learning
+- Combined approaches of test and proof in the context of formal
+  certifications (Common Criteria, CENELEC, …)
+- Case studies, tool and framework descriptions, and experience
+  reports about combining tests and proofs
+
+
+Submission Instructions
+-------------------
+
+TAP 2018 accepts papers of three kinds:
+
+- Regular research papers: full submissions describing original
+research, of up to 16 pages (excluding references).
+
+- Tool demonstration papers: submissions describing the design and
+implementation of an analysis/verification tool or framework, of up
+to 8 pages (excluding references). The tool/framework described in
+a tool demonstration paper should be available for public use.
+
+- Short papers: submissions describing preliminary findings, proofs
+of concepts, and exploratory studies, of up to 6 pages (excluding
+references).
+
+We are planning to publish the proceedings in the Formal Methods subline
+of Springer's LNCS series. Papers must be submitted in PDF format at the
+EasyChair submission site:
+
+https://easychair.org/conferences/?conf=tap2018
+
+
+Committees
+----------
+
+Information about all committees can be found at https://tap18.lri.fr
+
+Program Chairs :
+
+- Catherine Dubois, ENSIIE, Evry, France
+- Burkhart Wolff, University Paris-Sud, Orsay, France
+
+Contact
+-------
+
+mailto:tap2018@easychair.org

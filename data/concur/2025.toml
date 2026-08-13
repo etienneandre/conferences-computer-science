@@ -33,3 +33,7 @@ submitted = 83
 
 [extra]
 colocated = "Part of CONFEST with QEST+FORMATS, FMICS, and several workshops and tutorials"
+
+[[cfp]]
+file = "cfp/CONCUR-2025.txt"
+stage = "initial"

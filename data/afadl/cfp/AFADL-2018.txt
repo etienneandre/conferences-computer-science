@@ -1,0 +1,101 @@
+=======================================================================
+
+                             AFADL 2018
+   Approches Formelles dans l'Assistance au Développement Logiciel
+
+                   à Grenoble du 13 au 15 Juin 2018
+            en collaboration avec les journées du GDR GPL
+
+            https://afadl2018.ls2n.fr/
+
+             Date limite de soumission   : 02/03/2018
+             Date de réponse aux auteurs : 06/04/2018
+=======================================================================
+
+
+
+
+L'atelier AFADL rassemble  de nombreux acteurs académiques et industriels intéressés par la mise en œuvre des techniques formelles aux divers stades du développement des logiciels et/ou des systèmes. Il a pour objectif de mettre en valeur les travaux récents effectués autour de thèmes comme :
+
+- les techniques et outils formels contribuant à assurer un bon niveau de confiance dans la construction de logiciels et de systèmes,
+- les méthodes et processus permettant d'exploiter efficacement les techniques et outils formels disponibles ou conçus,
+- les méthodes et processus mettant en œuvre des techniques formelles différentes et hétérogènes dans un développement,
+- les leçons tirées de la mise en œuvre de ces outils ou principes sur des études de cas ou des applications industrielles.
+
+Les techniques et outils présentés assistent notamment les activités suivantes :
+
+- la modélisation, la validation et la gestion d'exigences formelles applicables aux logiciels,
+- les spécialisations ou extensions de techniques de modélisation et d'évaluation induites par des domaines applicatifs (télécommunication, contrôle-commande, robotiques, systèmes interactifs, architectures, composition de services, applications distribuées sur le web, ..) ou des points de vue particuliers sur les systèmes (sécurité informatique, exécution temps réel, ...),
+- le passage d'une étape de conception à la suivante: patrons de raffinement de spécifications, déploiement d'une architecture logicielle sur une architecture matérielle, génération automatique de code, réutilisation de composants, ...
+- le test et l'évaluation rigoureuse de modèles formels ou codes,
+- la spécification et la vérification formelles d'architectures, de modèles et de programmes.
+
+On s'intéressera aussi à la combinaison d'approches formelles avec des approches informelles ou semi-formelles, à la coopération de techniques formelles de développement avec des techniques plus classiques (par exemple à la complémentarité vérification formelle / test pour les aspects V&V).
+
+Cinq types de contributions sont attendus :
+
+- Articles courts. Les auteurs sont invités à soumettre un article d'au plus 6 pages. Un article court peut correspondre à la présentation d'un point de vue ou d'une approche émergente, de travaux de doctorants en cours, d'expériences industrielles. L'article sera publié dans les actes de la conférence.
+- Démonstration d'outils. Les auteurs sont invités à soumettre un article d'au plus 4 pages. Celui-ci pourra, selon le désir des auteurs, être couplé ou non à un poster outil aux journées du GDR. L'article précisera les noms des auteurs, le nom de l'outil, les services offerts par l'outil et éventuellement des pointeurs vers des sources d'informations complémentaires (principes techniques sous-jacents, mode d'emploi, compte-rendu d'application, ...). L'article sera publié dans les actes de la conférence.
+- Présentations de projets. Les auteurs sont invités à soumettre un résumé d'au plus 2 pages décrivant au moins les noms des partenaires, l'agence de financement, les objectifs et les dates du projet. Le résumé sera inclus dans les actes de la conférence, s'il est accepté.
+- Résumé long. Présentations de recherches publiées récemment. Pour éviter que les meilleurs travaux de la communauté francophone ne soient uniquement présentés que dans les conférences ou revues internationales, le comité de programme invite tout membre de la communauté ayant un article en cours de soumission ou récemment accepté (depuis l'édition précédente) à une conférence ou revue internationale à le soumettre également à AFADL pour présentation. S'il est accepté, un résumé long d'une à deux pages en français de l'article sera inclus dans les actes de la conférence. La référence bibliographique du travail d'origine devra être indiquée lors de la soumission, ainsi que le statut du papier (soumis ou accepté).
+- Section doctorant. Pour permettre aux doctorants de présenter leur travaux en cours et d'avoir un retour de la communauté, le comité de programme invite les doctorants à soumettre seul un papier de 2-3 pages présentant leur problématique et leurs résultats préliminaires ou déjà publiés. Les doctorants retenus pour cette section pourront faire une demande de bourse pour participer aux journées.
+
+Les modalités de soumission sont détaillées sur le site d'AFADL 2018 :
+  https://afadl2018.ls2n.fr/
+
+Les informations sur l'inscription et la venue seront disponibles sur le
+site des journées du GDR-GPL : http://gpl2018.imag.fr/
+
+
+** Dates importantes **
+-----------------------
+
+   Soumission : 02/03/2018
+   Notification aux auteurs : 06/04/2018
+   Soumission version finale : 27/04/2018
+   Déroulement des journées : 13-15/06/2018
+
+** Présidents du comité de programme **
+---------------------------------------
+
+    Antoine Rollet (LaBRI, Bordeaux INP)
+    Arnaud Lanoix (LS2N, Nantes)
+
+** Organisateurs locaux **
+--------------------------
+
+    Yves Ledru (LIG, Grenoble)
+    Sophie Dupuy-Chessa (LIG, Grenoble)
+
+** Comité de programme **
+-------------------------
+
+    Yamine Ait Ameur (IRIT - INPT-ENSEEIHT)
+    Sandrine Blazy (University of Rennes 1 - IRISA)
+    Pierre Casteran (Université de Bordeaux)
+    Frederic Dadeau (FEMTO-ST)
+    David Deharbe (ClearSy System Engineering)
+    Lydie Du Bousquet (LIG - Grenoble)
+    Catherine Dubois (ENSIIE-Samovar)
+    Christele Faure (SafeRiver)
+    Alain Giorgetti (LIFC, University of Franche-Comte)
+    Aurélie Hurault (IRIT - ENSEEIHT)
+    Akram Idani (LIG - Grenoble)
+    Florent Kirchner (CEA LIST)
+    Nikolai Kosmatov (CEA List)
+    Regine Laleau (Paris Est Creteil University)
+    Pascale Le Gall (CentraleSupelec)
+    Yves Ledru (LIG - Université Grenoble Alpes)
+    Nicole Levy (Cedric, CNAM)
+    Delphine Longuet (Univ. Paris-Sud, LRI)
+    Ioannis Parissis (Univ. Grenoble Alpes - Grenoble INP)
+    Pascal Poizat (Université Paris Nanterre and LIP6)
+    Marie-Laure Potet (Laboratoire Vérimag)
+    Marc Pouzet (LIENS)
+    Vlad Rusu (INRIA)
+    Nicolas Stouls (INRIA)
+    Safouan Taha (CentraleSupelec)
+    Sylvie Vignes (ENST)
+    Laurent Voisin (Systerel)
+    Virginie Wiels (ONERA / DTIM)
+    Fatiha Zaidi (Univ. Paris-Sud)

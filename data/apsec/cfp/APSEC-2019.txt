@@ -1,0 +1,102 @@
+CALL FOR PAPERS
+---------------------------
+
+26th Asia-Pacific Software Engineering Conference (APSEC 2019)
+Putrajaya, Malaysia, 2-5 December 2019
+
+Website: https://seminar.utmspace.edu.my/apsec2019/
+Submission Link: https://easychair.org/conferences/?conf=apsec2019
+Submission Due: 12 July 2019
+
+
+The Asia-Pacific Software Engineering Conference (APSEC) has long been
+established as a premier regional conference that brings together
+researchers and practitioners from academia, industry, and government to
+share the state of the art and the practice of software engineering, and to
+explore emerging challenges and solutions in software engineering
+innovation. APSEC 2019 will continue in the tradition of previous editions
+of this regional conference to be organized by Malaysian Software
+Engineering Interest Group (MySEIG) for the second time in Malaysia after
+the 16th APSEC 2009 in Penang Island, Malaysia. As past APSEC series, the
+main research track features the most recent and significant innovations in
+the field of software engineering and all its sub-disciplines. We invite
+submissions of high-quality research papers that describe original and
+unpublished results on all topics of both theoretical and empirical
+software engineering research.
+
+APSEC 2019 will offer an extensive program of interest to academia,
+government, and industry. It will include several distinguished keynote
+speakers and conference days of paper presentations, panels, and demos. A
+series of exciting tutorials to develop skills in various aspects of
+software engineering practices is of particular interest to industry.
+Co-located workshops as well as Software Engineering Postgraduates Workshop
+(SEPoW) offer forums for participants to present novel techniques and
+methods in particular sub-disciplines of software engineering.
+
+APSEC 2019 aims to explore the impact of software engineering research
+towards the community with the theme “Engineering Impactful Software for
+the Society towards IR4.0”. Indeed, there is a need to create or innovate
+not only new techniques, approaches or methodologies in software
+engineering research and practice but also to measure their impact to the
+society who should gain the benefits from the innovations. Challenges in
+software engineering should also include how to realize the needs in
+creating software applications that also meet the fourth industrial
+revolution or IR4.0 where the symbiosis of human and technology is expected.
+
+
+Important Dates
+--------------------
+The important dates for the technical research papers are as below and
+subject to changes:
+Full Paper Submission: 12 July 2019
+Notification: 12 September 2019
+Camera Ready: 2 October 2019
+
+Topics of Interest
+----------------------
+Topics related to all aspects of software engineering that include, but are
+not limited to:
+Agile methodologies
+Cloud and Service-oriented Computing
+Component-based Software Engineering
+Configuration Management and Deployment
+Cooperative, Distributed, and Global Software Engineering
+Cyber-physical Systems and Internet of Things
+Debugging, Defect Prediction and Fault Localization
+DevOps and Container
+Embedded Real-time Systems
+Empirical Software Engineering
+Formal Methods
+Human Factors and Social Aspects of Software Engineering
+Middleware, Frameworks, and APIs
+Mobile and Ubiquitous Systems
+Model-driven and Domain-specific Engineering
+Open Source Development
+Parallel, Distributed, and Concurrent Systems
+Programming Languages and Systems
+Refactoring
+Requirements Engineering
+Reverse Engineering
+Search-based Software Engineering
+Security, Reliability, and Privacy
+Software Architecture, Modelling and Design
+Software Comprehension, Visualization, and Traceability
+Software Engineering Education
+Software Engineering Process and Standards
+Software Engineering for Smart Manufacturing
+Software Engineering Tools and Environments
+Software for Green and Sustainable Technologies
+Software Maintenance and Evolution
+Software Product-line Engineering
+Software Project Management
+Software Reuse
+Software Repository Mining and Data Analytics
+Testing, Verification, and Validation
+Web-based Software Engineering
+
+For more details on conference paper submission, contact:
+
+Programme Chairs
+Prof. Dr. Zhi Chin, Peking University, China
+Assoc. Prof. Dr. Shahida Sulaiman, Universiti Teknologi Malaysia
+E-mail to: apsec2019@gmail.com and CC to:  shahidasulaiman@utm.my

@@ -26,3 +26,7 @@ artifact = "Open artifacts encouraged though not mandatory"
 
 [extra]
 notes = "ICSE 2026 will follow a dual deadline structure introduced in 2024. Revisions, rebuttal. Also a doctoral symposium, tutorials, demos, and other events."
+
+[[cfp]]
+file = "cfp/ICSE-2027.txt"
+stage = "initial"

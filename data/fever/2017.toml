@@ -17,3 +17,7 @@ publisher = "No proceedings"
 
 [extra]
 notes = "Papers can be ongoing or already accepted elsewhere."
+
+[[cfp]]
+file = "cfp/FEVER-2017.txt"
+stage = "initial"

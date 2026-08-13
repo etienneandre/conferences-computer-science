@@ -18,3 +18,7 @@ license = "pay-profit"
 
 [extra]
 notes = "A workshop of FLoC 2018."
+
+[[cfp]]
+file = "cfp/NSV-2018-extended.txt"
+stage = "extended"

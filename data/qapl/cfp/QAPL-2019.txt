@@ -1,0 +1,107 @@
+********************************************************************
+
+                          16th Workshop on 
+      Quantitative Aspects of Programming Languages and Systems
+
+                             QAPL 2019
+
+  Affiliated with ETAPS 2019 Prague, Czech Republic, 6+7 April 2019
+
+********************************************************************
+
+SCOPE:
+
+The scope of the QAPL workshop is to discuss new developments on the
+quantitative evaluation of systems, with an emphasis on quantitative
+aspects of computation, broadly construed.
+
+We solicit papers on theory, engineering methodologies, tools, case
+studies, and experience reports where quantitative properties such as
+bandwidth, cost, energy, memory, performance, probability,
+reliability, security, and time are first-class citizens.
+
+TOPICS:
+
+Topics of interest include (but are by no means not limited to):
+
+* The design of probabilistic, deterministic, hybrid, real-time, and
+  quantum languages, and the definition of their semantical models.
+
+* Quantitative analysis techniques such as simulation, numerical
+  solution, symbolic approaches, optimisation methods.
+
+* Specification of quantitative properties such as probabilistic
+  model checking and reward structures as well as verification and/or
+  synthesis of systems in relation to quantitative aspects.
+
+* Methodologies and frameworks for the engineering of systems based
+  on quantitative information, such as reliability engineering and
+  software performance engineering.
+
+* Software tools to support the quantitative specification, analysis,
+  verification, and synthesis of systems.
+
+* Case studies and applications, for instance about coordination
+  models, cyber-physical systems, security, self-adaptive systems,
+  smart grids, systems of systems as well as natural/physical domains
+  such as chemistry and systems biology.
+
+SUBMISSIONS:
+
+In order to encourage participation and discussion, this workshop
+solicits two types of submissions - extended abstracts and presentations:
+
+1. Extended Abstracts: Submissions must be original work, and must not 
+  have been previously published, nor be under consideration for
+  publication elsewhere. Regular paper submission must not exceed 6
+  pages (excluding the bibliography), additional technical material,
+  proofs etc. can be provided in a clearly marked appendix which will
+  be read by reviewers at their discretion. Regular papers will be
+  reviewed by the PC.
+
+2. Presentation Reports concern recent or ongoing work on relevant
+  topics and ideas, for timely discussion and feedback at the
+  workshop. There is no restriction as for previous/future
+  publication of the contents of a presentation. Typically, a
+  presentation is based on a paper which recently appeared (or which
+  is going to appear) in the proceedings of another recognised
+  conference, or which has not yet been submitted. The (extended)
+  abstract of presentation submissions should not exceed 3
+  pages. Presentation reports will be selected by the PC Chairs (based
+  on the availability of presentation time).
+
+All submissions must be in PDF format and use the EPTCS LaTeX style,
+see http://style.eptcs.org/. Submissions can be made on the following
+website:
+
+        https://easychair.org/conferences/?conf=qapl2019
+
+The workshop PC will review all regular paper submissions based on
+their relevance, merit, originality, and technical content.
+Presentation reports will receive a lightweight review to establish
+their relevance for the workshop. The authors of accepted submissions
+of both types are expected to present and discuss their work at the
+workshop. Accepted regular papers (allowing for minor corrections) will 
+be published electronically in the pre-proceedings available during 
+the workshop and (extended versions of up to 12-15 pages) after the 
+workshop and a second review round in the Electronic Proceedings in 
+Theoretical Computer Science (EPTCS) as post-proceedings. 
+
+IMPORTANT DATES:
+
+For extended abstracts:
+
+  Submission:   10 February 2019 (AoE)
+  Notification: 27 February 2019
+  Corrections (pre-proceedings): 28 February 2019 (AoE)
+  Final extended versions (EPTCS proceedings): 7 May 2019
+
+For presentation reports:
+
+  Submission:   25 February 2019 (AoE)
+  Notification: 28 February 2019
+
+ORGANISATION:
+
+Alessandro Aldini, University of Urbino, Italy
+Herbert Wiklicky, Imperial College London, UK

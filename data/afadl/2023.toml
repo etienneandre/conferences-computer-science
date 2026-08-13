@@ -20,3 +20,7 @@ license = "free"
 
 [extra]
 notes = "In French."
+
+[[cfp]]
+file = "cfp/AFADL-2023.txt"
+stage = "initial"

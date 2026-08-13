@@ -1,0 +1,209 @@
+[Apologies if you receive multiple copies of this email.]
+
+ 
+
+ 
+
+**************************************************************
+
+                 Call for Papers
+
+ 
+
+      DATE Initiative on Autonomous Systems Design
+
+            Automated Vehicles and Beyond
+
+             http://asd.userweb.mwn.de
+
+     organized as part of the conference DATE 2020
+
+                 12-13 March 2020
+
+                 Grenoble, France
+
+ 
+
+     Submission Deadline: 29 Sep 2019 (23:59 (CET))
+
+ 
+
+**************************************************************
+
+ 
+
+The DATE initiative on Autonomous Systems Design (ASD) is a two-day special event
+
+at DATE, the leading European conference on embedded hardware and software design.
+
+It focuses on recent trends and emerging challenges in the field of autonomous
+
+systems. Such systems are becoming more and more integral parts of many Internet-
+
+of-Things (IoT) and Cyber-Physical Systems (CPS) applications. Automated driving
+
+constitutes today one of the best examples of this trend, in addition to other
+
+application domains such as avionics and robotics. 
+
+ 
+
+ASD is organized as Thursday and Friday Initiative days to constitute a two-day
+
+continuous program covering different industrial and academic methods and methodo-
+
+logies in the design, verification and validation of autonomous systems. We welcome
+
+your contributions within the scope of the event, the main areas of interest include
+
+but are not limited to the following,
+
+ 
+
+• embedded and cyber-physical systems platforms that implement and execute the 
+
+ autonomous system functions including aspects related to their architectures,
+
+ hardware, software and communication,
+
+ 
+
+• the design of autonomous systems including processes, modeling, optimization,
+
+ verification, validation, and test,
+
+ 
+
+• all aspects of dependability in autonomous systems design including, but not 
+
+ limited to, functional safety concepts, fail-operational systems design, 
+
+ functional safety for applications with machine learning, safe and secure 
+
+ adaptions and updates, autonomous systems security,
+
+ 
+
+• case studies of autonomous systems design using innovative architectures,
+
+ methods and tools.
+
+ 
+
+ 
+
+Thursday Initiative Day
+
+ 
+
+The initiative day on Thursday consists of regular sessions discussing novel technical
+
+contributions. Submitted papers will undergo a peer-review process and accepted papers
+
+will appear in the DATE conference proceedings, prefixed with the initiative title. All
+
+manuscripts should be submitted in pdf format not exceeding 6 pages, formatted following
+
+the DATE proceedings submission instructions: 
+
+https://www.date-conference.com/submission-instructions
+
+ 
+
+Important Dates:
+
+----------------
+
+Abstract Submission : 22 September 2019
+
+Full Paper Submission : 29 September 2019
+
+Acceptance Notification : 07 November 2019
+
+Camera-ready paper due date : 28 November 2019
+
+ 
+
+We additionally solicit special sessions proposals, panel discussions and invited talks,
+
+targeting hot topics and elaborating emerging challenges in the field of autonomous systems,
+
+especially that are of interest to the DATE conference participants.
+
+ 
+
+chair: Selma Saidi, Hamburg University of Technology, DE
+
+co-chair: Marko Bertogna, University of Modena, IT 
+
+ 
+
+ 
+
+Submission site:   https://www.softconf.com/date20/ASD_special_day/
+
+----------------
+
+ 
+
+ 
+
+ 
+
+Friday Initiative Day
+
+ 
+
+The initiative day on Friday consists of interactive and working sessions involving 
+
+methodologies, application kernels and models, software tools and industrial challenges.
+
+A separate call for papers addressing the Friday day will be announced later.
+
+ 
+
+chair: Sebastian Steinhorst, Technical University of Munich, DE
+
+co-chair: Jyotirmoy Deshmukh, University of Southern California, USA
+
+ 
+
+ 
+
+Organizing Committee 
+
+ 
+
+Rolf Ernst, Technical University of Braunschweig, DE
+
+Selma Saidi, Hamburg University of Technology, DE
+
+Dirk Ziegenbein, Robert Bosch GmbH, DE
+
+
+
+-- 
+
+----------------------------------------------------
+
+Selma Saidi, PhD
+
+Institute of Embedded Systems,
+
+Hamburg University of Technology (TUHH)
+
+ 
+
+Am Schwarzenberg-Campus 3 (E), 
+
+21073 Hamburg, Germany
+
+Phone:  +49 40 42878 3590
+
+Fax:    +49 40 42878 2798
+
+WWW:   https://www.tuhh.de/es/esd/people/ssaidi.html
+
+----------------------------------------------------
+
+ 

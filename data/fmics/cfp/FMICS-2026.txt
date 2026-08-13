@@ -1,0 +1,154 @@
+**********************************************************
+   Formal Methods for Industrial Critical Systems (FMICS)
+   31st International Conference, co-located with CONFEST
+
+https://confest-2026.github.io/fmics/
+
+                  2 - 4 September 2026
+         University of Liverpool, Liverpool, UK
+**********************************************************
+
+
+Theme of the Conference:
+-----------------------
+The aim of the FMICS conference series is to provide a forum for
+researchers an practitioners who are interested in the development and
+application of formal methods in industry. FMICS brings together
+scientists and engineers who are active in the area of formal methods
+and interested in exchanging their experiences in the industrial usage
+of these methods. The FMICS conference series also strives to promote
+research and development for the improvement of formal methods and tools
+for industrial applications.
+
+FMICS is the ERCIM Working Group conference on Formal Methods for
+Industrial Critical Systems, and it is the key conference in the
+intersection of industrial applications and Formal Methods.
+
+
+Topics of Interest:
+-------------------
+We encourage submissions on cross-cutting approaches that bring together
+formal methods and industrial applications.
+     * Formal specification, including specification elicitation,
+validation, debugging, sanity checking, revision, coverage, and
+explainability.
+     * Case studies and experience reports on industrial applications of
+formal methods, focusing on lessons learned or identification of new
+research directions.
+     * Methods, techniques, and tools to support automated analysis,
+certification, debugging, learning, optimization, and transformation of
+complex, distributed, real-time, embedded, mobile, and autonomous systems.
+     * Verification and validation methods (model checking, theorem
+proving, SAT/SMT constraint solving, abstract interpretation, etc.) that
+address shortcomings of existing methods with respect to their
+industrial applicability (e.g., scalability and usability issues, tool
+qualification, and certification).
+     * Transfer to industry and impact of adoption of formal methods on
+the development process and associated costs in industry. Application of
+formal methods in standardization and industrial forums.
+
+
+Important Dates:
+----------------
+Abstract Submission: 10 Apr 2026
+Paper Submission:    17 Apr 2026
+Paper Notifications:  1 Jun 2026
+Camera-ready Papers: 15 Jun 2026
+Conference:         2-4 Sep 2026
+
+
+Submission Details:
+-------------------
+Papers must describe original research work and results. Submitted
+papers must not have previously appeared in a journal or conference with
+published proceedings and must not be concurrently submitted to any
+other peer-reviewed workshop, symposium, conference, or archival
+journal. Any partial overlap with any such published or concurrently
+submitted paper must be clearly indicated.
+
+Submissions should clearly motivate relevance to industrial
+applications. Case study papers should identify lessons learned,
+validate theoretical results (such as scalability of methods), and
+provide specific motivation for further research and development.
+
+Papers should not exceed 15 pages (excluding references) formatted
+according to the Springer author guidelines LNCS style. Any appendices
+(beyond the above page limit) might not be considered in the review
+process. All submissions will be reviewed by at least three members of
+the Programme Committee, which will make a selection among the
+submissions based on the novelty, soundness, and applicability of the
+presented ideas and results. Papers must be written in English and
+submitted in PDF format at the EasyChair submission site:
+
+https://easychair.org/conferences?conf=fmics2026
+
+For all papers with experimental results, we strongly recommend
+providing reviewers with an artifact that they can use to reproduce
+results, e.g., via a paper website.
+
+
+ERCIM Award:
+------------
+As in best FMICS tradition, the paper with the best contributions to
+Software Science and Technology will be honoured with the EASST ERCIM award.
+
+
+Keynote Speakers:
+-----------------
+Julia Badger, NASA Johnson Space Center, USA
+Colin O’Halloran, D-RisQ, UK
+Ezio Bartocci, TU Wien, Austria (Shared CONFEST Keynote)
+Ichiro Hasuo, National Institute of Informatics, Japan (Shared CONFEST
+Keynote)
+
+Organizers:
+-----------
+Peter Gorm Larsen (Aarhus University, Denmark)
+Kristin Yvonne Rozier (Iowa State University, USA)
+
+
+Programme Committee:
+--------------------
+Jefferson Andrade, Instituto Federal do Espírito Santo
+Ramesh Bharadwaj, U.S. Navy
+John Fitzgerald, Newcastle University
+John Hatcliff, Kansas State University
+Joseph Kiniry, Galois, Inc.
+Tsutomu Kobayashi, Japan Aerospace Exploration Agency (JAXA)
+Tiziana Margaria, University of Limerick
+Mieke Massink, CNR-ISTI, Pisa, Italy
+Stephan Merz, INRIA Nancy
+Stefan Mitsch, DePaul University
+Rosemary Monahan, Maynooth University
+Tomohiro Oda, Software Research Associates, Inc.
+Claudio Pinello, Collins Aerospace
+Anne Remke, WWU Münster
+Cristina Seceleanu, Mälardalen University
+Martina Seidl, Johannes Kepler University Linz
+Giulia Sindoni, University of Leeds
+Bernhard Steffen, University of Dortmund
+Laura Titolo, Code Metal
+Christoph Torens, German Aerospace Center, Institute of Flight Systems
+Jaco van de Pol, Aarhus University and University of Twente
+Marcel Verhoef, European Space Agency
+Virginie Wiels, ONERA / DTIS
+Anton Wijs, Eindhoven University of Technology
+Naijun Zhan, Institute of Software, Chinese Academy of Sciences
+
+--
+  ____________________________________________________________
+                                     __
+            /\                       \ \_____
+           /  \                   ###[==_____>
+          /    \                     /_/      __
+         /  __  \                             \ \_____
+         | (  ) |                          ###[==_____>
+        /| /\/\ |\                            /_/
+       / | |  | | \
+      /  |=|==|=|  \       Kristin Yvonne Rozier, Ph.D.
+    /    | |  | |    \     Associate Professor, Iowa State Univ
+   / USA | ~||~ |NASA \    Departments of Aerospace Engineering,
+  |______|  ~~  |______|     Computer Science, Mathematics, and
+         (__||__)            Electrical and Computer Engineering
+         /_\  /_\
+         !!!  !!!https://laboratory.temporallogic.org

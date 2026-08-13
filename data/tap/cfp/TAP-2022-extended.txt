@@ -1,0 +1,80 @@
+TAP22: Tests and Proofs 2022
+co-located event of STAF 2022
+Nantes, France, July 4-8, 2022
+Conference website https://easychair.org/smart-program/TAP22/index.html
+
+Submission link https://easychair.org/conferences/?conf=tap22
+Conference program https://easychair.org/smart-program/TAP22/
+
+Abstract registration deadline March 18, 2022
+Submission deadline March 23, 2022
+Author notification May 9, 2022
+
+The TAP conference promotes research in verification and formal methods that targets the interplay of proofs and testing: the advancement of techniques of each kind and their combination, with the ultimate goal of improving software and system dependability.
+
+Research in verification has seen a steady convergence of heterogeneous techniques and a synergy between the traditionally distinct areas of testing (and dynamic analysis) and of proving (and static analysis). Formal techniques for counter-example generation based on, for example, symbolic execution, SAT/SMT-solving or model checking, furnish evidence for the potential of a combination of tests and proofs. The combination of predicate abstraction with testing-like techniques based on exhaustive enumeration opens the perspective for novel techniques of proving correctness. On the practical side, testing offers cost-effective debugging techniques of specifications or crucial parts of program proofs (such as invariants). Last but not least, testing is indispensable when it comes to the validation of the underlying assumptions of complex system models involving hardware and/or system environments. Over the years, there is growing acceptance in research communities that testing and proving are complementary rather than mutually exclusive techniques.
+
+The TAP conference aims to promote research in the intersection of testing and proving by bringing together researchers and practitioners from both areas of verification.
+*** Submission Guidelines
+
+All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
+
+** Regular research papers: full submissions describing original research, of up to 16 pages (excluding references and appedix). In case regular papers rely on experimental data and/or tool support, authors are strongly recommended to make the experimental data and/or tool support available for public use.
+
+** Tool demonstration papers: submissions describing the design and implementation of an analysis/verification tool or framework, of up to 8 pages (excluding references and appendix). The tool/framework described in a tool demonstration paper should be available for public use.
+
+** Short papers: submissions describing preliminary findings, proofs of concepts, and exploratory studies, of up to 6 pages (excluding references and appendix).
+
+Papers have to adhere to Springer's LNCS format and must be submitted in PDF format at the EasyChair submission site:
+https://easychair.org/conferences/?conf=tap22
+
+*** List of Topics
+
+TAP's scope encompasses many aspects of verification technology, including foundational work, tool development, and empirical research. Its topics of interest center around the connection between proofs (and other static techniques) and testing (and other dynamic techniques). Papers are solicited on, but not limited to, the following topics:
+
+* Verification and analysis techniques combining proofs and tests
+* Program proving with the aid of testing techniques
+* Deductive techniques supporting the automated generation of test vectors and oracles (theorem proving, model checking, symbolic execution, SAT/SMT solving, constraint logic programming, etc.)
+* Deductive techniques supporting novel definitions of coverage criteria
+* Program analysis techniques combining static and dynamic analysis
+* Specification inference by deductive and dynamic methods
+* Testing and runtime analysis of formal specifications
+* Search-based technics for proving and testing
+* Verification of verification tools and environments
+* Applications of test and proof techniques in new domains, such as security, configuration management, learning
+* Combined approaches of test and proof in the context of formal certifications (Common Criteria, CENELEC, …)
+* Case studies, tool and framework descriptions, and experience reports combining tests and proofs
+
+*** Program Committee
+
+* Wolfgang Ahrendt (Chalmers University of Technology)
+* Catherine Dubois (ENSIIE-Samovar)
+* Carlo A. Furia (USI - Università della Svizzera Italiana)
+* Dilian Gurov (KTH Royal Institute of Technology)
+* Falk Howar (TU Clausthal / IPSSE)
+* Marieke Huisman (University of Twente)
+* Reiner Hähnle (TU Darmstadt)
+* Einar Broch Johnsen (University of Oslo)
+* Konstantin Korovin (The University of Manchester)
+* Laura Kovacs (Vienna University of Technology) - chair
+* Karl Meinke (KTH Royal Institute of Technology) - chair
+* Jakob Nordstrom (University of Copenhagen and Lund University)
+* Patrizio Pelliccione (Gran Sasso Science Institute (GSSI))
+* Luigia Petre (Åbo Akademi University)
+* Cristina Seceleanu (Mälardalen University)
+* Sahar Tahvili (Ericsson)
+* Neil Walkinshaw (The University of Sheffield)
+* Heike Wehrheim (Paderborn University)
+
+*** Publication
+
+Accepted submissions will be published in Springer's LNCS series. Papers have to adhere to Springer's LNCS format and must be submitted in PDF format at the EasyChair submission site:
+https://easychair.org/conferences/?conf=tap22
+
+*** Venue
+
+The conference will be held as an affiliated event of STAF 2022, during July 4-8, 2022, in Nantes, France.
+
+*** Contact
+
+All questions about submissions should be emailed to laura.kovacs@tuwien.ac.at and karlm@kth.se.

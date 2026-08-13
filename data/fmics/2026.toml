@@ -26,3 +26,7 @@ award = "the paper with the best contributions to Software Science and Technolog
 
 [extra]
 colocated = "Part of CONFEST with CONCUR and QEST+FORMATS"
+
+[[cfp]]
+file = "cfp/FMICS-2026.txt"
+stage = "initial"

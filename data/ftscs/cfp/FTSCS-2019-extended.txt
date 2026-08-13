@@ -1,0 +1,40 @@
+Apologies if you receive multiple copies of this message
+*****************************************************************
+The deadline of FVSBS has been extended to March 5th.
+=================================================================
+Call for Papers
+Fifth International track on Formal Verification of S ervice Based Sy stems
+FVSBS 2019
+Conference Track @ IEEE WETICE 2019
+Date: June 12-14, 2019
+Location: Capri (Napoli), Italy
+more info at https://lipn.univ-paris13.fr/fvsbs19/ and www.wetice.org
+==================================================================
+ 
+The goal of this track is to bring together researchers and developers from industry and the academic world to report on the latest scientific and technical advances of formal verification of software architecture and to address adaptation and reconfiguration issues. Different investigation topics are involved, such as: Service Oriented Architecture (SOA); Service Component Architecture (SCA); Business Process Management (BPM); Software analysis and model checking, Software process and workflow; Software validation and verification; Software testing and testing tools; Dynamic composition.
+ 
+From technology foundation perspective, formal verification of software architecture has become the default discipline in the modern software development. FVSBS’2017 will provide an opportunity for the community to exchange ideas and to present emerging new papers reporting s ubstantive new work in various aspects of formal verification of service based systems.
+
+
+TOPICS 
+ 
+Service oriented architecture, SOA migration and governance checking
+Service-oriented and component-based software applications and architectures modeling verification
+SCA based software applications checking
+Formal Web services composition checking
+Formal Tools and technologies for Web Services development, deployment and management
+Impact of formal methods on Web Services and SOA and SCA base applications
+Formal verification of service and component based system approaches for dynamic composition
+Model-Driven Eng ineering (MDE) and SOA
+Modeling and Meta-modeling and SOA based applications
+ 
+IMPORTANT DATES
+ 
+Paper Submission: February 20th March 5th, 2019
+Decision Notification: March 15th 20th, 2019
+Camera-Ready Submission : April 5th, 2019
+ 
+TRACK CHAIRS
+ 
+Mohamed Graiet (ISIM, Monastir, Tunisia)
+Kais Klai (LIPN, Pari s, France)

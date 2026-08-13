@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Bi-annual conference series."
+
+[[cfp]]
+file = "cfp/TTCS-2017-extended.txt"
+stage = "extended"

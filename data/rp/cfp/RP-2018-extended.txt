@@ -1,0 +1,114 @@
+Please note that the deadline hase been extended to June 15th!
+
+Apologies for multiple receptions.
+
+**********************************************
+
+
+The 12th International Conference on Reachability Problems (RP'18) 
+
+24 - 26 September 2018 | Aix-Marseille University, FR | https://rp2018.lis-lab.fr/
+
+The 12th International Conference on Reachability Problems will be hosted at 
+Aix-Marseille University, organised by the Laboratory of Computer and System Sciences. 
+
+The Reachability Problems Conference is specifically aimed at gathering together
+scholars from diverse disciplines interested in reachability problems that 
+appear in algebraic structures, computational models, hybrid systems, logic 
+and verification. 
+
+Invited Speakers: 
+
+* Olivier Bournez, École Polytechnique, LIX
+* Jérémie Chalopin, CNRS, Aix-Marseille Université, LIS
+* Marcin Jurdzinski, University of Warwick
+* Maria Prandini, Politecnico di Milano
+* Marta Kwiatkowska, University of Oxford
+
+Submissions: 
+
+Authors are invited to submit a draft of a full paper with at most 12 pages (in 
+LaTeX, formatted according to LNCS guidelines) via Easychair. Proofs omitted 
+due to space constraints must be put into an appendix to be read by the program 
+committee members at their discretion. Submissions deviating from these 
+guidelines risk rejection. Electronic submissions should be formatted in pdf. 
+Simultaneous submission to other conferences or workshops with published 
+proceedings is not allowed. 
+
+Submission link:  https://easychair.org/conferences/?conf=rp18
+
+Topics of interest include (but are not limited to): reachability problems in 
+infinite state systems, rewriting systems, dynamical and hybrid systems; 
+reachability problems in logic and verification; reachability analysis in 
+different computational models, counter timed/cellular/communicating automata; 
+Petri nets; computational aspects of algebraic structures (semigroups, groups 
+and rings); frontiers between decidable and undecidable reachability problems; 
+predictability in iterative maps and new computational paradigms. 
+
+Important Dates: 
+
+Submission deadline: 15 June 2018  (extended)
+Notification to authors: 11 July 2018
+Final version: 17 July 2018
+Conference: 24 - 26 September 2018 
+
+Proceedings: 
+
+The Conference Proceedings will be published as the volume of the Springer 
+Verlag LNCS (Lecture Notes in Computer Science) series and distributed at the 
+Conference. A selection of articles among the contributed papers will 
+be invited to a special issue of Fundamenta Informaticae. 
+
+RP'18 Program Committee: 
+
+Igor Potapov, University of Liverpool (co-chair) 
+Pierre-Alain Reynier, Aix-Marseille University (co-chair) 
+
+S. Akshay, IIT Bombay
+Christel Baier, TU Dresden
+Paul Bell, Liverpool John Moores University
+Nathalie Bertrand, INRIA
+Udi Boker, Interdisciplinary Center of Herzliya
+Krishnendu Chatterjee, Institute of Science and Technology
+Laure Daviaud, University of Warwick
+Giorgio Delzanno, Università Degli Studi Di Genova
+Emmanuel Filiot, FNRS, Université Libre de Bruxelles
+Pierre Ganty, IMDEA Software Institute
+Matthew Hague, Royal Holloway University of London
+Vera Halava, University of Turku
+Petr Jancar, Faculty of Science, Palacky Univ. Olomouc
+Martin Lange, University of Kassel
+Sławomir Lasota, Warsaw University
+Fribourg Laurent, CNRS, LSV, ENS Paris-Saclay
+Benjamin Monmege, Aix-Marseille Université
+Anca Muscholl, Université de Bordeaux
+Pavithra Prabhakar, Kansas State University
+Alexander Rabinovich, Tel Aviv University
+Thomas Schwentick, TU Dortmund
+Helmut Seidl, TU Munich
+Mikhail Volkov, Ural State University
+
+Previous editions: 
+
+2017: RP'17 in London, UK
+LNCS proceedings, Volume 10506/2017, Springer Verlag 
+2016: RP'16 in Aalborg, Denmark 
+LNCS proceedings, Volume 9899/2016, Springer Verlag 
+2015: RP'15 in Warsaw, Poland 
+LNCS proceedings, Volume 9328/2015, Springer Verlag 
+2014: RP'14 in Oxford, UK 
+LNCS proceedings, Volume 8762/2014, Springer Verlag 
+2013: RP'13 in Uppsala, Sweden 
+LNCS proceedings, Volume 8169/2013, Springer Verlag 
+2012: RP'12 in Bordeaux, France 
+LNCS proceedings, Volume 7550/2012, Springer Verlag 
+2011: RP'11 in Genova, Italy 
+LNCS proceedings, Volume 6945/2011, Springer Verlag 
+2010: RP'10 in Brno, Czech Republic 
+LNCS proceedings, Volume 6227/2010, Springer Verlag 
+2009: RP'09 in Palaiseau, France 
+LNCS proceedings, Volume 5797/2009, Springer Verlag 
+2008: RP'08 in Liverpool, UK 
+ENTCS proceedings, Volume 223, Elsevier 
+2007: RP'07 in Turku, Finland 
+TUCS General Publication Series, Volume 45, Turku Centre for Computer Science 

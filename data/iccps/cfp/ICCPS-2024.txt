@@ -1,0 +1,110 @@
+15th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2024)
+
+Call for Papers
+
+Important dates
+Abstract submission deadline (optional): October 24, 2023 11:59:59pm AoE
+Paper submission deadline: October 31, 2023 11:59:59pm AoE
+Acceptance/rejection notifications: January 20, 2024 11:59:59pm AoE
+Camera ready: March 9, 2024 11:59:59pm AoE
+Conference dates: May 13-16, 2024
+
+Website
+https://iccps.acm.org/2024/
+
+ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) is
+the premier forum for presenting and discussing the most significant
+recent technical research contributions in the field of CPS. ICCPS
+2024 will be part of the CPS-IoT Week 2024. In addition to the general
+track, we are inviting papers to be submitted to two new tracks of
+ICCPS 2024: (i) Safe Learning-Enabled CPS, and (ii) CPS Industrial
+Applications.
+
+* General Track calls for papers that make substantial technical
+contributions to the foundational aspects of Cyber-Physical Systems
+(CPS) science and engineering. Papers should be motivated by one or
+more applications of CPS, offering novel perspectives or advancements
+that significantly add to the current understanding or development of
+CPS technologies.
+
+* Safe Learning-Enabled CPS Track calls for submissions in topics
+related to safety of AI, ML, and autonomy components in the context of
+safety critical CPS. We invite papers that delve into the safety
+aspects of AI and ML-enabled CPS, discussing risks, mitigation
+strategies, as well as new methodologies and technologies contributing
+to the secure and reliable operation of these systems.
+
+* Deployments and Industrial Applications Track seeks papers that
+describe innovative industrial applications or practices related to
+CPS. We encourage submissions that provide outside of the lab,
+real-world deployments, and report on challenges and state-of-the-art
+practices in CPS deployment in industrial settings. Please note, at
+least one co-author should have a clear association with the industry.
+
+
+The topics of interest include (but not limited to)
+* AI and Machine Learning for CPS including Safe Autonomy
+* Safety and Resilience for CPS
+* Architectures and Networking for CPS
+* Software platforms and systems for CPS
+* Foundations of CPS
+* Human-machine interactions
+* Sensing and monitoring
+* Specification languages and requirements
+* Design, optimization, and synthesis
+* Testing, verification, certification
+* Security, trust, and privacy in CPS
+* CPS for social good
+* Tools, testbeds, demonstrations and deployments
+* CPS applications in power systems, infrastructure networks,
+transportation, healthcare, aerospace, etc.
+
+Papers in all tracks will be judged on soundness, significance,
+verifiability of claims, and presentation quality. The accepted papers
+will be included in the conference proceeding published via
+IEEE-Xplore. One of the accepted papers will be selected to win the
+Best Paper Award. We also encourage authors of the accepted papers to
+participate in the Artifact Evaluation. Papers that pass the Artifact
+Evaluation will receive a badge. Participation in Artifact Evaluation
+or a justification on why this is not applicable will be taken into
+account in Best Paper Award eligibility.
+
+Submissions: All submissions must be in English. Only original papers
+that are not submitted or published in other conferences or journals
+will be considered. ICCPS 2024 will employ a light-weight double-blind
+review for submitted papers, in which authors must adhere to two
+rules: (i) authors’ names and institutions must be omitted; and (ii)
+reference to the authors’ own related work should be in the third
+person. Manuscripts should have a main body with no more than 10 pages
+including references in IEEE-two-column conference style, using US
+Letter (8.5-inch x 11 inch) paper size. An appendix of up to two
+additional pages may follow the main body of the paper. Submission
+site: https://easychair.org/my/conference?conf=iccps2024
+
+General Chairs
+Abhishek Dubey, Vanderbilt University
+Lu Feng, University of Virginia
+
+Program Chairs:
+Madhur Behl, University of Virginia
+Necmiye Ozay, University of Michigan
+
+Publicity Chairs
+Asia: Zhihao Jiang, Shanghai Tech University
+Europe: Sadegh Soudjani, Newcastle University
+America: Parasara Duggirala, University of North Carolina at Chapel Hill
+
+Posters and Demos Chairs
+Jing Shuang (Lisa) Li, University of Michigan
+Rahul Bhadani, University of Alabama
+
+Publication Chair
+Truong Nghiem, North Arizona University
+
+Artifact Evaluation Chairs
+Radoslav Ivanov, Rensselaer Polytechnic Institute
+Daniel Fremont, UC Santa Cruz
+
+Web and Social Media Chairs
+Xugui Zhou - University of Virginia
+Kuk Jin Jang - University of Pennsylvania

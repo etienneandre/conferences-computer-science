@@ -1,0 +1,112 @@
+Call for Papers of EPEW 2019
+------------------------------------------------------------------------
+
+The 16th European Performance Engineering Workshop will be held in
+Milano, Italy, on November 28 - 29, 2019.
+https://www.epew19.deib.polimi.it/ (Home page)
+
+
+Conference Highlights
+------------------------------------------------------------------------
+
+General Chairs
+- Marco Gribaudo, Politecnico di Milano, Italy
+- Mauro Iacono, Università degli Studi della Campania "Luigi Vanvitelli", Italy
+
+Program Chairs
+- Rostislav Razumchik, Federal Research Center “Computer Science and
+Control” of Russian Academy of Sciences, Russia
+- Tuan Phung-Duc, University of Tsukuba, Japan
+
+Keynote Speakers
+- Prof. Anne Remke, University of Munster, Germany
+- Prof. emeritus Giuseppe Serazzi, Politecnico di Milano, Italy
+
+
+Scope and Topics
+------------------------------------------------------------------------
+
+The European Performance Engineering Workshop is an annual event that
+aims to gather academic and industrial researchers working on all
+aspects of performance engineering. We invite original papers related
+to the following areas:
+
+- Theoretical advances in performance modeling and evaluation, e.g.:
+• Probabilistic, stochastic, or performability models, such as
+Queueing Networks, Petri Nets, and Process Calculi
+• Specification of quantitative properties
+• Analytical and numerical solution techniques and simulation techniques
+• Quantitative model checking, equivalence checking, and static analysis
+• Context-aware modelling and analysis techniques
+
+- System, software, and network performance engineering, e.g.:
+• Performance-oriented design, architecture, implementation,
+deployment, monitoring, and maintenance
+• Constraint-based and model-driven system design
+• Performance analysis, simulation, and experimental design
+• Benchmark design and benchmark-based evaluation and monitoring
+• Automated interpretation of analysis results
+• Quality of service, and trade-offs between security, performance,
+dependability, energy consumption, usability, etc.
+• Software performance modeling languages, model composition and tool
+interoperability
+• 5G and beyond
+
+- Case studies, e.g.:
+• Cloud systems, Hybrid Cloud, and Fog Computing
+• Internet of Things
+• Cyber-physical systems
+• E-health systems
+• Blockchain and Cryptocurrency applications
+• Sharing services such as carshare and rideshare
+
+
+Important Dates
+------------------------------------------------------------------------
+
+Paper submission: extended to September 23, 2019 (abstract), September
+26, 2019 (full paper)
+
+Author notification: October 14, 2019
+
+Camera ready: November 4, 2019
+
+Conference: November 27-28, 2019
+
+
+Submissions
+------------------------------------------------------------------------
+
+All accepted papers  must be presented at the conference by one of the
+authors. Submissions must be original and should not have been
+published previously or be under consideration for publication. All
+submitted papers will be evaluated by at least three reviewers on the
+basis of their originality, technical quality, scientific or practical
+contribution to the state of the art, methodology, clarity, and
+adequacy of references. Accepted papers will be published in the
+conference proceedings, in the Lecture Notes in Computer Science
+series, by Springer-Verlag. Authors will be required to sign a
+copyright release. Submissions must be prepared in LaTeX, following
+Springer's LNCS guidelines. Submitted papers must not exceed 15 pages
+in camera-ready form, including figures and references. Papers should
+be submitted electronically using the EasyChair online submission
+system at the following link:
+https://easychair.org/conferences/?conf=epew2019
+
+
+Special Issue:
+------------------------------------------------------------------------
+
+Best papers will be invited to submit their extended work to the
+Special Issue “Queue and Stochastic Models for Operations Research” of
+the Mathematics journal.
+
+
+Contacts:
+----------------------------------------------------------------------
+
+Marco Gribaudo: marco[dot]gribaudo[at]polimi[dot]it
+Mauro Iacono: mauro[dot]iacono[at]unicampania[dot]it
+Tuan Phung-Duc: tuan[at]sk[dot]tsukuba[dot]ac[dot]jp
+Rostislav Razumchik: rrazumchik[at]ipiran[dot]ru
+

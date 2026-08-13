@@ -19,3 +19,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Tool papers require the submission of an executable artifact that contains clear instructions for the reviewer on how to run the tool."
+
+[[cfp]]
+file = "cfp/HSB-2020.txt"
+stage = "initial"

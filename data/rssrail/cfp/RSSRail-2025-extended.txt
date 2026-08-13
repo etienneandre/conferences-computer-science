@@ -1,0 +1,206 @@
+==========================================================
+CALL FOR CONTRIBUTIONS (papers, tutorials, posters)
+RSSRail 2025
+
+6th International Conference on
+Reliability, Safety, and Security of Railway Systems
+26-28 November 2025, Pisa, Italy
+
+https://rssrail2025.isti.cnr.it/
+===========================================================
+
+
+The railway industry faces increasing pressure to improve system safety, to decrease production costs and time to market, to reduce carbon emissions and running costs, and to increase the capacity of the railway. Railway systems are now being integrated into larger multi-transport networks. Such systems require an even higher degree of automation at all levels of operation. These trends dramatically increase the complexity of railway applications and pose new challenges in developing novel methods of modelling, analysis, verification and validation to ensure their reliability, safety and security, as well as in supporting novel mechanisms and procedures to help make the case that development processes meet the mandated standards.
+
+This conference will bring together researchers and developers working on railway system reliability, security and safety to discuss how all of these requirements can be met in an integrated way. It is also vital to ensure that advances in research (in both academia and industry) are driven by the real industrial needs. This will help ensure that such advances are followed by effective industrial deployment. Another particularly important objective is to integrate advances in research into the current development processes, and make them usable and scalable. Finally, a key goal is to develop advanced methods and tools that can ensure that the systems meet the requirements imposed by the regulatory standards and help in building the supportive arguments. This will be a working conference in which research challenges and progress will be discussed and evaluated by both researchers and engineers, focusing on their potential to be deployed in industrial settings.
+
+In 2025 we celebrate 200 years of modern railway. On September 27, 1825 the first train line (Railway) between Stockton and Darlington was opened to public: https://railway200.co.uk/about-railway-200/
+
+
+=== NEW: Invited Speakers ===
+
+- Marion Berbineau, Université Gustave Eiffel, France
+- Alessio Ferrari, University College Dublin, Ireland
+
+
+=== DEADLINE EXTENSION: Important Dates ===
+
+- Abstract submission (papers/tutorials): 20 June 2025
+- Paper submission: 27 June 2025
+- Notification (tutorials): 25 July 2025
+- Notification (papers): 8 August 2025
+- Camera-ready version: 19 September 2025
+- Abstract submission (posters): 26 September 2025
+- Notification (posters): 10 October 2025
+- Conference: 26-28 November 2025
+
+Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
+
+
+=== Topics of Interest ===
+
+- Safety in development processes and safety management
+- Combined approaches to safety and security
+- System and software safety analysis
+- Formal modelling and verification techniques
+- System reliability
+- Validation according to the standards
+- Safety and security argumentation
+- Fault and intrusion modelling and analysis
+- Evaluation of system capacity, energy consumption, cost and their interplay
+- Tool and model integration, tool chain
+- Domain-specific languages and modelling frameworks
+- Model reuse for reliability, safety and security
+- Modelling for maintenance strategy engineering
+
+
+=== Submission Categories ===
+
+RSSRail 2025 solicits high-quality papers reporting research results and/or experience reports as well as tutorials and posters related to the Reliability, Safety, and Security of Railway Systems.
+
+We accept contributions in the following five categories:
+
+(1) Regular papers (limit 16 pages) on
+- original scientific research results or experiences
+- tools, their foundation, and evaluations
+- applications, including rigorous evaluations
+
+(2) Short papers (limit 8 pages) on
+- any topic of interest that can be described in sufficient detail within the page limit
+
+(3) Journal-First papers (limit 4 pages)
+- summarising recently published papers in high-quality journals on any topic of interest
+
+(4) Tutorial proposals (limit 2 pages)
+- describing the topic and intended audience, the plan for conducting the tutorial (content/schedule and duration), and the backgrounds of the presenters (experience) and the tutorial (first iteration?)
+
+(5) Posters on any topic of interest
+
+All page limits exclude the references. Appendices may be included, but they will only be read by a reviewer at their discretion.
+
+Regular and short papers submitted in categories (1) and (2) must be original, unpublished, and not submitted for publication elsewhere. Papers in these two categories will undergo a thorough review process. Submissions will be judged on the basis of significance, relevance, correctness, originality and clarity.
+
+The aim of journal-first papers in category (3) is to further enrich the RSSRail program and to provide more visibility in the community to already published journal papers.
+
+Authors of published papers in high-quality journals can submit a proposal to present their journal paper during RSSRail. The published journal paper must adhere to the following four criteria:
+
+- It should be clearly within the scope of the conference.
+- It should be recent: published in a journal after RSSRail 2023 (October 2023).
+- It should report completely new research results or novel contributions that were not previously presented at the RSSRail conference.
+- It has not been presented at, and is not under consideration for, journal-first tracks of other conferences.
+
+The 4-page submission to RSSRail for category (3) should provide a concise summary of the published journal paper, which makes it clear
+- why its topics fit the conference's scope, and
+- why a presentation of its results would enrich the conference program.
+
+Journal-first submissions must explicitly include full bibliographic details (including a DOI) of the journal publication they are based on. Submissions will be judged on the basis of the above criteria, but also considering how well they would complement the conference program.
+
+
+=== Submission Guidelines ===
+
+Submissions for all categories should be made using the RSSRail 2025 EasyChair site:
+
+https://easychair.org/conferences/?conf=rssrail2025
+
+Submissions must be in PDF format, following Springer LNCS style files and guidelines:
+
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+
+The conference proceedings will be published in Springer's Lecture Notes in Computer Science series. As for previous editions, one or more special issues are planned for extended versions of selected papers from RSSRail 2025.
+
+All accepted papers must be presented at the conference. At least one author of each accepted paper must register to the conference by the early registration date.
+
+
+=== Best Student Paper Award ===
+
+EURNEX, the EUropean rail Research Network of EXcellence (https://www.eurnex.org/) sponsors a 500 euro award for the best paper with a student as lead author.
+
+
+=== Organisation ===
+
+= Conference Chairs =
+
+- Maurice ter Beek, CNR-ISTI, Pisa, Italy
+- Simon Collart Dutilleul, Université Gustave Eiffel, France
+- Thierry Lecomte, CLEARSY, France
+
+= Program Committee =
+
+- Abderrahim Ait Wakrime, UM5r, Rabat, Morocco
+- Dalay Almeida, ClearSy System Engineering, France
+- Davide Basile, CNR-ISTI, Pisa, Italy
+- Nikola Bešinović, Technical University of Dresden, Germany
+- Philippe Bon, Gustave Eiffel University, France
+- Alessandro Borselli, Trenord, Italy
+- Alessandro Cimatti, FBK, Trento, Italy
+- Sana Debbech, SNCF, France
+- Alessandro Fantechi, University of Florence, Italy
+- Alessio Ferrari, University College Dublin, Ireland
+- Francesco Flammini, Mälardalen University, Sweden
+- Barbara Gallina, Mälardalen University, Sweden
+- Gloria Gori, University of Florence, Italy
+- Stephan Griebel, Siemens AG, Germany
+- Alexandra Halchin, RATP, France
+- Anne Haxthausen, Technical University of Denmark, Denmark
+- Akram Idani, Polytech Grenoble, France
+- Alexei Iliasov, The Formal Route Ltd., UK
+- Kenji Imamoto, Hitachi Ltd., Japan
+- Michael Leuschel, University of Düsseldorf, Germany
+- Riccardo Licciardello, Sapienza University of Rome, Italy
+- Christophe Limbrée, UCLouvain, Belgium
+- Bas Luttik, Eindhoven University of Technology, The Netherlands
+- Davide Moroni, CNR-ISTI, Pisa, Italy
+- Marcel Oliveira, Federal University of Rio Grande do Norte, Brazil
+- Matthieu Perin, Systerel, France
+- Jaco van de Pol, Aarhus University, Denmark
+- Christophe Ponsard, CETIC, Belgium
+- José Proença, CISTER and University of Porto, Portugal
+- Vito Renò, CNR-STIIMA, Bari, Italy
+- Alexander Romanovsky, The Formal Route Ltd., UK
+- Aryldo Russo, GESTE Engineering, France
+- Marc Sango, SNCF, France
+- Monika Seisenberger, Swansea University, UK
+- Thai Son Hoang, University of Southampton, UK
+- Mariëlle Stoelinga, University of Twente, The Netherlands
+- Davide Tarsitano, Polytechnic University of Milan, Italy
+- Stefano Tonetta, FBK, Trento, Italy
+- Elena Troubitsyna, KTH Royal Institute of Technology, Sweden
+- Laurent Voisin, Systerel, France
+
+= Industry Liaison =
+
+- Alessandro Fantechi, University of Florence, Italy
+
+
+=== Local Organisation ===
+
+= Organisation Chairs =
+
+- Stefania Gnesi, CNR-ISTI, Pisa, Italy
+- Laura Semini, University of Pisa, Italy
+
+= Web Chair =
+
+- Giorgio O. Spagnolo, CNR-ISTI, Pisa, Italy
+
+= Publicity Chair =
+
+- Giovanna Broccia, CNR-ISTI, Pisa, Italy
+
+
+=== Sponsors ===
+
+- The Formal Route, offering unique expertise in applying formal methods to computerised railway signalling (https://formal-route.com/)
+- EURNEX, the EUropean rail Research Network of EXcellence (https://www.eurnex.org/)
+
+Want to become a sponsor? Visit: https://rssrail2025.isti.cnr.it/sponsor
+
+
+--
+Maurice H. ter Beek
+head FMT lab, CNR-ISTI, Pisa, Italy
+
+e-mail: maurice.terbeek@isti.cnr.it
+homepage: fmt.isti.cnr.it/~mtbeek
+office phone:   +39-050-6213471
+mobile phone: +39-348-2436998

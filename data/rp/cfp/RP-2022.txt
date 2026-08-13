@@ -1,0 +1,203 @@
+The 16th International Conference on Reachability Problems (RP'22) will be organised by the Max Planck Institute for Software Systems (MPI-SWS) and the University of Kaiserslautern.
+
+The conference is specifically aimed at gathering scholars from diverse disciplines and backgrounds interested in a wide range of Theoretical Computer Science areas related reachability problems.
+
+RP 2022: The 16th International Conference on Reachability Problems 
+
+                  Oct 17 - Oct 19, 2022 (Kaiserslauter)
+
+                       https://rp2022.mpi-sws.org/
+
+ 
+
+Regular paper (for LNCS Proceedings): 
+
+Submission deadline: June 28, 2022 
+
+Notification Due:  Aug 1, 2002
+
+Final Version Due: Aug 8, 2002
+
+Informal Presentation: 
+
+Deadline: July 31, 2022  
+
+Notification: August 8, 2022
+
+Call For Papers
+
+The 16th International Conference on Reachability Problems (RP'22) will be organised by the Max Planck Institute for Software Systems (MPI-SWS) and the University of Kaiserslautern. In 2020 and 2021 the conference was virtual due to COVID restrictions, and this year RP will be organised as a physical meeting in Kaiserslautern, offering a possibility to authors with travel restrictions to give online presentations. The conference proceedings will be published in Springer's Lecture Notes in Computer Science (LNCS). A selection of articles among the contributed papers will be invited to a special issue of a journal.
+
+Confirmed Invited Speakers:
+
+-Wojciech Czerwinski 
+
+-Michael Benedikt 
+
+-Rupak Majumdar 
+
+-Laura Ciobanu
+
+ 
+
+Papers presenting original contributions related to reachability problems in different computational models and systems are being sought. This will also be the occasion to review recent breakthroughs by renowned invited experts and survey emerging trends and emphasise on key open challenges. Participants are kindly encouraged to discuss core scientific issues that need to be further tackled.
+
+TOPICS
+
+The conference is specifically aimed at gathering scholars from diverse disciplines and backgrounds interested 
+
+in a wide range of Theoretical Computer Science areas related reachability problems:
+
+● Algebraic structures
+
+● Automata theory and formal languages
+
+● Computational game theory
+
+● Concurrency and distributed computation
+
+● Decision procedures in computational models
+
+● Graphs and dynamical networks
+
+● Hybrid dynamical systems
+
+● Logic and model checking
+
+● Verification of fini te and infinite-state systems
+
+Topics of interest include (but are not limited to):
+
+- reachability problems in infinite-state systems,
+
+- rewriting systems, dynamical and hybrid systems;
+
+- reachability problems in computational games and distributed systems;
+
+- reachability problems in dynamical networks,
+
+- reachability problems in logic and verification;
+
+- reachability problems in formal methods;
+
+- reachability analysis in different computational models,
+
+counter timed/ cellular/ communicating automata;
+
+- Petri nets; computational and combinatorial aspects of algebraic structures
+
+(semigroups, groups and rings);
+
+- frontiers between decidable and undecidable reachability problems;
+
+- predictability in iterative maps and new computational paradigms.
+
+GUIDELINES FOR SUBMISSION. There are two categories of submissions:
+
+REGULAR PAPERS
+
+Authors are asked to submit their pap ers through EasyChair.
+
+https://easychair.org/conferences/?conf=reach2022
+
+PRESENTATIONS ONLY
+
+In addition to the formal presentations based on our LNCS proceedings volume, we invite researchers to submit a paper which recently appeared (or which is going to appear) in proceedings of another conference, or which has not yet been submitted. Neither the paper nor the abstract will be published in the proceedings.
+
+IMPORTANT DATES
+
+Regular papers
+
+Full papers: June 28, 2022
+
+Notification: August 1, 2022
+
+Final Version: August 8, 2022
+
+Presentation-only papers
+
+Abstracts: July 31, 2022
+
+Notification: August 8, 2022
+
+RP Conference: October 17-19, 2022
+
+Conference chairs:
+
+- Anthony W. Lin, University of Kaiserslautern - co-chair
+
+- Georg Zetzsche, Max Planck Institute for Software Systems (MPI-SWS) - co-chair
+
+- Igor Potapov, University of Liverpool - Publication chair
+
+PROGRAM COMMITTEE:
+
+- C. Aiswarya (Chennai Mathematical Institute, IN)
+
+- Mohamed Faouzi Atig (Uppsala University, SE)
+
+- Udi Boker (Interdisciplinary Center (IDC) Herzliya, IL)
+
+- Benedikt Bollig (CNRS, LMF, ENS Paris-Saclay, FR)
+
+- Michaël Cadilhac (DePaul University, US)
+
+- Yu-Fang Chen (Academia Sinica, TW)
+
+- Stéphane Demri (CNRS, LMF, ENS Paris-Saclay, FR)
+
+- Moses Ganardi (MPI-SWS, DE)
+
+- Julian Gutierrez (Monash University, AU)
+
+- Christoph Haase (University of Oxford, UK)
+
+- Peter Habermehl (IRIF, Université Paris Cité, FR)
+
+- Piotr Hofman (University of Warsaw, PL)
+
+- Naoki Kobayashi (University of Tokyo, JP)
+
+- Dietrich Kuske (TU Ilmenau, DE)
+
+- Jérôme Leroux (CNRS, LaBRI, Université de Bordeaux, FR)
+
+- Anthony W. Lin (University of Kaiserslautern, DE)
+
+- K. Narayan Kumar (Chennai Mathematical Institute, IN)
+
+- Guillermo Perez (University of Antwerp, BE)
+
+- Igor Potapov (University of Liverpool, UK)
+
+- Gabriele Puppis (Udine University, IT)
+
+- Karin Quaas (University of Leipzig, DE)
+
+- Krishna S (IIT Bombay, IN)
+
+- Mahsa Shirmohammadi (CNRS, IRIF, Université Paris Cité, FR)
+
+- Daniel Stan (University of Kaiserslautern, DE)
+
+- Alwen Tiu (Australian National University, AU)
+
+- Zhilin Wu (Chinese Academy of Sciences, CN)
+
+- Georg Zetzsche (MPI-SWS, DE)
+
+STEERING COMMITTEE
+
+Parosh Aziz Abdulla (SE)
+
+Olivier Bournez (FR)
+
+Vesa Halava (FI)
+
+Alain Finkel (FR)
+
+Oscar Ibarra (USA)
+
+Juhani Karhumaki (FI)
+
+Jérôme Leroux (FR)

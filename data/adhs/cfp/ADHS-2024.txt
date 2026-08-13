@@ -1,0 +1,61 @@
+The 8th IFAC International Conference on Analysis and Design of Hybrid Systems (ADHS 2024)
+July 1-3, 2024, Boulder, USA
+https://www.colorado.edu/conference/adhs2024
+
+Important Dates
+Invited session proposals: December 15, 2023
+Paper submission: December 22, 2023
+NAHS dissemination papers (extended abstracts): February 1, 2024
+Author notification: Late February, 2024
+RE package submission: March 10, 2024
+Final papers due: April 30, 2024
+Conference: July 1-3, 2024
+
+Scope
+The IFAC Conference on Analysis and Design of Hybrid Systems brings together researchers and practitioners in the area of hybrid systems, with backgrounds in control, computer science, and operations research, to provide a forum for discussing and presenting recent results in the fields of hybrid and cyber-physical systems. Contributions are invited in all areas pertaining to the engineering of hybrid systems including: modelling, specification, verification, analysis, control synthesis, simulation, validation, and implementation. We solicit papers and invited session proposals describing theoretical or applied research in the area. We also welcome papers describing tools, reporting case studies or connecting the cognate fields of control theory and formal verification.
+
+Contributions are encouraged on applications of hybrid methods in various fields, such as automotive, avionics, energy and power, mobile and autonomous robotics, the process and manufacture industry, transportation and infrastructure networks, communication networks and networked control systems, cyber-physical systems, safety-critical systems, systems and synthetic biology.
+
+Special issue of extended ADHS conference papers in NAHS: In line with the longstanding tradition of previous ADHS conferences, a special ADHS issue will be featured in NAHS for this event. This collection will consist of papers selected by the IPC chairs, who will serve as guest editors for NAHS.
+
+NAHS dissemination papers: Authors of journal papers that have been recently accepted or published in NAHS will receive invitations to submit a 1-2 page extended abstract. By submitting the extended abstract, authors are confirming their commitment to presenting their work in person during the conference in Boulder.
+
+Repeatability Evaluation: All accepted papers will be invited to optionally submit repeatability packages for evaluation to be conducted by RE program committees. In this way, we aim to improve the reproducibility of computational results in the papers accepted for publication.
+
+Author Guidelines
+Regular papers: Regular papers can have a length of up to 8 pages at submission. Accepted papers are limited to 6 pages in the conference preprints and online proceedings. For tool papers, please select the keyword "Computational tools" upon submission.
+
+Invited session proposals: Invited sessions consist of 4 to 6 papers related to a common theme that fits within the scope of ADHS. An invited session proposal should contain a short description of the common theme as well as the list of papers in the session and their abstracts. The invited session organizer has to first submit the session proposal (without participating papers). The IFAC Conference Manuscript Management System then returns an acknowledgment that contains an alpha-numeric code for the proposed session. Subsequently, the organizer has to notify the contributing authors of their invited session code to submit their work as an invited paper.
+
+Invited session papers: Invited session papers can have a length of up to 8 pages at submission. Accepted papers are limited to 6 pages in the conference preprints and online proceedings. Submission as an invited session paper requires the invited session code, which can be obtained from the session organizer.
+
+NAHS dissemination papers (extended abstracts): Extended abstracts for NAHS can vary in length from 1 to 2 pages at the time of submission. These extended abstracts should adhere to the standard layout for IFAC conference papers. Authors, by submitting their extended abstract, are affirming their commitment to both register for and present their work in person during the conference dates in Boulder. It is important to note that these extended abstracts will not be published on IFAC PapersOnLine. Nevertheless, they will be accessible to conference participants to ensure adequate exposure for the research.
+
+Organizing committees
+
+General Chair
+Majid Zamani (University of Colorado Boulder, USA)
+
+Program Chairs
+Pavithra Prabhakar (Kansas State University, USA)
+Luca Zaccarian (LAAS-CNRS, France, and University of Trento, Italy)
+
+Publicity Chair
+Abolfazl Lavaei (Newcastle University, UK)
+
+Repeatability Chairs
+Chuchu Fan (MIT, USA)
+Abraham P. Vinod (Mitsubishi Electric Research Laboratories, USA)
+
+Web Chair
+Mahmoud Khaled (Argo AI, Germany)
+
+Steering Committee
+Alessandro Abate (University of Oxford, UK)
+Peter Caines (McGill University, Canada)
+Maria Domenica Di Benedetto (University of l'Aquila, Italy)
+Magnus Egerstedt (University of California at Irvine, USA)
+Maurice Heemels (Eindhoven University of Technology, The Netherlands)
+Raphael Jungers (Université catholique de Louvain, Belgium)
+Carla Seatzu (University of Cagliari, Italy)
+Majid Zamani (University of Colorado Boulder, USA)

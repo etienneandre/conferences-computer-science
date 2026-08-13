@@ -1,0 +1,91 @@
+Call for Papers
+
+VSTTE 2022 14th International Conference on Verified Software: Theories, Tools, and Experiments
+
+October 17-18 2022
+
+Co-located with Formal Methods in Computer-Aided Design 2022 (FMCAD 2022)
+
+Overview
+
+The goal of the VSTTE conference series is to advance the state of the art in the science and technology of software verification, through the interaction of theory development, tool evolution, and experimental validation. The Verified Software Initiative (VSI), spearheaded by Tony Hoare and Jayadev Misra, is an ambitious research program for making large-scale verified software a practical reality. The International Conference on Verified Software: Theories, Tools and Experiments (VSTTE) is the main forum for advancing the initiative. VSTTE brings together experts spanning the spectrum of software verification in order to foster international collaboration on the critical research challenges. The theoretical work includes semantic foundations and logics for specification and verification, and verification algorithms and methodologies. The tools cover specification and annotation languages, program analyzers, model checkers, interactive verifiers and proof checkers, automated
+theorem provers and SAT/SMT solvers, and integrated verification environments. The experimental work drives the research agenda for theory and tools by taking on significant specification/verification exercises covering hardware, operating systems, compilers, computer security, parallel computing, and cyber-physical systems.
+
+The 2022 edition of VSTTE will be the 14th conference in the series, and will be co-located with FMCAD 2022 in Trento, Italy. We welcome submissions describing significant advances in the production of verified software, i.e., software that has been proved to meet its functional specifications. Submissions of theoretical, practical, and experimental contributions are equally encouraged, including those that focus on specific problems or problem domains. We are especially interested in submissions describing large-scale verification efforts that involve collaboration, theory unification, tool integration, and formalized domain knowledge. We also welcome papers describing novel experiments and case studies evaluating verification techniques and technologies.
+
+Topics of interest for this conference include, but are not limited to, requirements modeling, specification languages, specification/verification/certification case studies, formal calculi, software design methods, automatic code generation, refinement methodologies, compositional analysis, verification tools (e.g., static analysis, dynamic analysis, model checking, theorem proving, satisfiability), tool integration, benchmarks, challenge problems, and integrated verification environments.
+Paper Submissions
+
+VSTTE 2022 will accept both long (limited to 16 pages, excluding references) and short (limited to 10 pages, excluding references) paper submissions. Short submissions also cover Verification Pearls describing an elegant proof or proof technique. Submitted research papers and system descriptions must be original and not submitted for publication elsewhere. Submissions of theoretical, practical, and experimental contributions are equally encouraged, including those that focus on specific problems or problem domains. Papers will be submitted via EasyChair. Submissions that arrive late, are not in the proper format, or are too long will not be considered. The post-conference proceedings of VSTTE 2022 are planned to be published as a LNCS volume by Springer-Verlag. Authors of accepted papers will be requested to sign a form transferring copyright of their contribution to Springer-Verlag. The use of LaTeX and the Springer LNCS class files is strongly encouraged.
+
+Important Dates
+
+Abstract submission: July 15, 2022 (AoE)
+Paper submission: July 22, 2022 (AoE)
+Notification of presentation acceptance: September 5, 2022
+Final pre-conference paper submission: October 5, 2022 (AoE)
+Conference: October 17-18, 2022
+Notification of proceedings acceptance: October 29, 2022
+Camera-ready for post-conference proceedings: November 29, 2022 (AoE)
+
+
+Registration
+
+Registration to VSTTE is part of the FMCAD 2022 process.
+
+
+
+General Chair
+
+Supratik Chakraborty (IIT Bombay, India)
+
+Program Chairs
+
+Akash Lal (Microsoft Research, India)
+Stefano Tonetta (FBK, Italy)
+
+Program Committee
+
+Christel Baier (TU Dresden, Germany)
+Nikolaj Bjorner (Microsoft Research, USA)
+Roderick Bloem (Graz University of Technology, Austria)
+Borzoo Bonakdarpour (Michigan State University, USA)
+Supratik Chakraborty (IIT Bombay, India)
+Chih-Hong Cheng (Fraunhofer IKS, Germany)
+Grigory Fedyukovich (Florida State University, USA)
+Bernd Finkbeiner (CISPA Helmholtz Center for Information Security, Germany)
+Carlo A. Furia (USI - Università della Svizzera Italiana, Switzerland)
+Rajeev Joshi (AWS, USA)
+Zachary Kincaid (Princeton University, USA)
+Akash Lal (Microsoft Research, India)
+Thierry Lecomte (ClearSy, France)
+Sergio Mover (Ecole Polytechnique, France)
+Kartik Nagar (IIT Madras, India)
+Aina Niemetz (Stanford University, USA)
+Gennaro Parlato (University of Molise, Italy)
+Kristin Yvonne Rozier (Iowa State University, USA)
+Natarajan Shankar (SRI International, USA)
+Stefano Tonetta (FBK, Italy)
+Elena Troubitsyna (KTH, Sweden)
+Hiroshi Unno (University of Tsukuba, Japan)
+Jyothi Vedurada (IIT Hyderabad, India)
+Yakir Vizel (The Technion, Israel)
+Yuepeng Wang (Simon Fraser University, Canada)
+Chao Wang (University of Southern California, USA)
+Kirsten Winter (The University of Queensland, Australia)
+
+
+Previous Editions
+
+VSTTE 2005 (Zürich, Switzerland)
+VSTTE 2008 (Toronto, Canada)
+VSTTE 2010 (Edinburgh, Scotland)
+VSTTE 2012 (Philadelphia, USA, co-located with POPL 2012)
+VSTTE 2013 (Atherton, USA)
+VSTTE 2014 (Vienna, Austria, co-located with CAV 2014 as part of VSL 2014)
+VSTTE 2015 (San Francisco, USA, co-located with CAV 2015)
+VSTTE 2016 (Toronto, Canada, co-located with CAV 2016)
+VSTTE 2017 (Heidelberg, Germany, co-located with CAV 2017)
+VSTTE 2018 (Oxford, UK, co-located with CAV 2018)
+VSTTE 2019 (New York, USA, co-located with CAV 2019)
+VSTTE 2020 (Los Angeles, USA, co-located with CAV 2020) VSTTE 2021 (Online, co-located with FMCAD 2021)

@@ -1,0 +1,73 @@
+Please consider to contribute to and/or forward to the appropriate groups the following opportunity to submit and publish original scientific results to:
+
+ 11th International Conference on
+
+Knowledge and Systems Engineering (KSE 2019)
+
+October 24-26, 2019   |   Da Nang, Vietnam   |   kse-conf.org
+
+Call for Papers
+
+The 11th KSE is an international forum for presentation, discussion, and exchange of the state-of-the-art research, development, and applications in the field of knowledge and systems engineering. The main objective of the KSE is to bring together researchers, practitioners and students not only to share research results and practical applications but also to foster collaboration in the field. The KSE this year will be held in Da Nang, a coastal and tourism city with beautiful beaches and a lot of exciting experiences. The conference will be co-organized by The University of Da Nang - University of Science and Education (UD-USE) and VNU University of Engineering and Technology (VNU-UET).
+
+General Co-Chairs
+
+‣    Nguyen Le Minh, JAIST, Japan
+
+‣    Nguyen Thanh Thuy, VNU, Vietnam
+
+‣    Luu Trang, UD, Vietnam
+
+Program Co-Chairs
+
+‣    Josiane Mothe, Univ. de Toulouse, IRIT, France
+
+‣    Le Hoang Son, VNU, Vietnam
+
+‣    Nguyen Tran Quoc Vinh, UD, Vietnam
+
+Important Dates
+
+‣    Submission: May 15, 2019
+
+‣    Notification: July 30, 2019
+
+‣    Camera-ready: August 20, 2019
+
+‣    Registration: August 30, 2019
+
+‣    Conference: October 24-26, 2019
+
+Submission Page: https://edas.info/N25876
+
+KSE-2019 invites both theoretical and application submissions on the following topics, but not limited to:
+
+•    Knowledge management, representation, and reasoning
+
+•    Machine learning theory and applications
+
+•    Data science and knowledge engineering
+
+•    Natural language processing and text mining
+
+•    Image processing and pattern recognition
+
+•    Data and information fusion
+
+•    Bioinformatics and computational biology
+
+•    Human machine interaction
+
+•    System engineering
+
+•    Software engineering
+
+•    Web services
+
+•    Internet of things, Cloud computing
+
+•    Information security
+
+•    Knowledge models for Big Data
+
+Program Co-Chairs  

@@ -1,0 +1,235 @@
+********************************************************************
+Call for Papers: FORMALISE 2021
+9th International Conference on Formal Methods in Software Engineering
+May 23-24, Madrid, Spain, co-located with ICSE 2021
+http://www.formalise.org/
+********************************************************************
+
+Overview
+--------
+The software industry needs tools and methods to deliver high-quality
+software. Much progress has been achieved from the early days of
+software development; still, nowadays, even considering the state of the
+art of the technologies used, the success of software projects is often
+not guaranteed. Many of the approaches used for developing large,
+complex software systems are still not able to ensure the correct
+behavior — and the general quality — of the delivered product, despite
+the efforts of the (often very qualified and skilled) software engineers
+involved. This is where formal methods can play a significant role.
+Indeed, they have been developed to provide the means for greater
+precision and thoroughness in modeling, reasoning about, validating, and
+documenting the various aspects of software systems during their
+development. When carefully applied, formal methods can aid all aspects
+of software creation: user requirement formulation, design,
+implementation, verification/testing, and the creation of documentation.
+
+After decades of research though, and despite significant advancement,
+formal methods are still not widely used in industrial software
+development. We believe that closer integration of formal methods in
+software engineering can help increase the quality of software
+applications, and at the same time highlight the benefits of formal
+methods in terms also of the generated return on investment (ROI).
+
+The main objective of the conference is to foster the integration
+between the formal methods and the software engineering communities, to
+strengthen the — still too weak — links between them, and to stimulate
+researchers to share ideas, techniques, and results, with the ultimate
+goal to propose novel solutions to the fraught problem of improving the
+quality of software systems.
+
+Originally a successful satellite workshop of ICSE, since 2018 FormaliSE
+is organised as a conference co-located with ICSE. FormaliSE 2021 will
+take place on May 23-24, 2020, in Madrid, Spain (or online).
+
+Topics of interest
+------------------
+Areas of interest include but are not limited to:
+-  approaches and tools for verification and validation;
+-  application of formal methods to specific domains, e.g., autonomous,
+   cyber-physical, intelligent, and IoT systems;
+-  scalability of formal methods applications;
+-  integration of formal methods within the software development
+   lifecycle (e.g., change management, continuous integration and
+   deployment)
+-  requirements formalization and formal specification;
+-  model-based software engineering approaches;
+-  performance analysis based on formal approaches;
+-  formal methods in a certification context;
+-  formal approaches for safety and security-related issues;
+-  usability of formal methods;
+-  guidelines to use formal methods in practice;
+-  case studies developed/analyzed with formal approaches;
+-  experience reports on the application of formal methods to real-world
+   problems;
+
+Submission types
+----------------
+We invite you to submit:
+
+-  Full research papers that must describe the authors’ original research
+   work and results. We encourage authors to include validation with
+   respect to a case study in the recommended themes.
+-  Case study papers that should identify lessons learned, validate
+   theoretical results (such as scalability of methods) or provide
+   specific motivation for further research and development.
+-  Research ideas: FormaliSE encourages the submissions of new research
+   ideas in order to stimulate discussions at the conference.
+
+For the case studies, we aim at having common domains and themes, which
+can facilitate the exchange of ideas during the conference. While all case
+study subjects are accepted, we are particularly interested in the following
+themes: autonomous vehicles and Covid contact tracing apps.
+
+Submission guidelines
+---------------------
+FormaliSE 2021 will implement the following light-weight double-blind
+policy: Authors of research papers must omit their names and institutions
+from the title page, they should refer to their other work in the third person
+and omit acknowledgements that could reveal their identity or affiliation. The
+purpose is to avoid any bias based on authors’ identity characteristics, such
+as gender, seniority, or nationality, in the review process. Our goal is to
+facilitate an unbiased approach to reviewing by supporting reviewers’ access to
+works that do not carry obvious references to the authors’ identities. As
+mentioned above, this is a light-weight double-blind process. Anonymization
+should not be a heavy burden for authors and should not make papers weaker or
+more difficult to review. Advertising the paper on alternate forums (e.g., on
+a personal web-page, pre-print archive, email, talks, discussions with
+colleagues) is permitted, and authors will not be penalized by for such
+advertisement.
+
+Full papers are expected to be roughly 10 pages long including all text,
+figures, tables and appendices, but excluding the references (shorter papers
+are acceptable). However, we would like to avoid that the authors waste time
+fitting their papers into that limit at the expense of presentation clarity:
+*paper lengths slightly exceeding the stated limit will be tolerated provided
+that the presentation is of high quality*, which will be left at the
+appreciation of the reviewers. Research ideas papers are expected to be
+roughly 4 pages plus up to 1 additional page of references, with the same
+guiding principle as for the regular papers above. All submissions must be in
+English and in PDF format.
+
+Submissions must conform to the IEEE formatting instructions IEEE Conference
+Proceedings Formatting Guidelines
+<https://www.ieee.org/conferences/publishing/templates.html> (title in 24pt
+font and full text in 10pt type). LaTeX users must use
+`\documentclass[10pt,conference]{IEEEtran}` without including the `compsoc`
+or `compsocconf` options. Additionally, we recommend placing the following
+two lines in your LaTeX source right after the `\documentclass` command:
+
+   \usepackage[switch,columnwise]{lineno}
+   \linenumbers
+
+This adds line numbers, thereby allowing reviewers to refer to specific lines
+in their comments.
+
+Papers submitted to FormaliSE 2021 must not have been published elsewhere and
+must not be under review or submitted for review elsewhere whilst under
+consideration for FormaliSE 2021.
+
+Submissions to FormaliSE 2021 that meet the above requirements can be made via
+EasyChair <https://easychair.org/conferences/?conf=formalise2021> by the
+submission deadline.
+
+We would appreciate it if the authors intending to submit a paper were to
+inform us in advance. In particular, we invite them to submit an abstract as
+early as possible and, in any case, before the Abstract submission deadline
+below.
+
+Selection procedure
+-------------------
+Each paper will be reviewed by at least three program committee members.
+Papers will be judged on the basis of their clarity, relevance, originality,
+and contribution to the field.
+
+FormaliSE 2021 will implement a light-weight rebuttal scheme: if all the
+reviewers of a given submission agree that a clarification from the authors
+regarding one specific question could move a borderline paper into the
+acceptable range, the chairs will ask that question to the authors by e-mail
+and post their reply on EasyChair for the benefit of the reviewers. The goal of
+such light-weight rebuttals is to eliminate “coin-toss” decisions on borderline
+papers. Hence, it will clearly concern only a minority of submissions and most
+of the authors should not expect to receive such questions. However, we would
+ask the corresponding authors of all submissions to make sure that they are
+available to answer a question by email if the necessity were to arise.
+
+Publication
+-----------
+All accepted publications are published as part of the ICSE 2021 Proceedings in
+the ACM and IEEE Digital Libraries.
+
+At least one author of each accepted paper is required to attend the conference
+— physically or, if the circumstances warrant so, virtually — and present the
+paper in person. Otherwise, the paper will be removed from the proceedings.
+
+Important dates
+---------------
+
+===================== =========== ====
+Abstracts due:        05 January  2021
+Submissions due:      12 January  2021
+Notifications:        22 February 2021
+Camera ready copies:  22 March    2021
+FormaliSE conference: 23-24 May   2021
+===================== =========== ====
+
+Organization
+------------
+
+General Chairs
+~~~~~~~~~~~~~~
+-  Stefania Gnesi, ISTI-CNR, Italy
+-  Nico Plat, Thanos, The Netherlands
+
+Program Chairs
+~~~~~~~~~~~~~~
+-  Simon Bliudze, INRIA Lille, France
+-  Laura Semini, Università di Pisa, Italy
+
+Social Media Chair
+~~~~~~~~~~~~~~~~~~
+-  Lucia Nasti, Università di Pisa, Italy
+
+Program committee
+~~~~~~~~~~~~~~~~~
+-  Dalal Alrajeh (Imperial College London, UK)
+-  Rabéa Ameur Boulifa (EURECOM, France)
+-  Toshiaki Aoki (JAIST, Japan)
+-  Kyungmin Bae (Pohang University of Science and Technology, South
+   Korea)
+-  Maurice H. ter Beek (ISTI-CNR, Italy)
+-  Domenico Bianculli (University of Luxembourg, Luxembourg)
+-  Christiano Braga (Universidade Federal Fluminense, Brazil)
+-  Ana Cavalcanti (University of York, UK)
+-  Stéphanie Challita (University of Rennes 1 & Inria/IRISA, France)
+-  Hélène Coullon (IMT Atlantique, France)
+-  Nancy Day (University of Waterloo, Canada)
+-  Alessandro Fantechi (University of Florence, Italy)
+-  Marc Frappier (Université de Sherbrooke, Canada)
+-  Carlo A. Furia (Università della Svizzera italiana, Switzerland)
+-  Ebru Aydin Gol (Middle East Technical University, Turkey)
+-  Roberta Gori (University of Pisa, Italy)
+-  Jan Friso Groote (Eindhoven University of Technology, The
+   Netherlands)
+-  Marie-Christine Jakobs (TU Darmstadt, Germany)
+-  Srdan Krstic (ETH Zürich, Switzerland)
+-  Peter Gorm Larsen (Aarhus University, Denmark)
+-  Axel Legay (UC Louvain, Belgium)
+-  Malte Lochau (University of Siegen, Germany)
+-  Antónia Lopes (University of Lisbon, Portugal)
+-  Tiziana Margaria (University of Limerick and Lero, Ireland)
+-  Mieke Massink (ISTI-CNR, Italy)
+-  Anastasia Mavridou (NASA Ames, USA)
+-  Hernán Melgratti (University of Buenos Aires, Argentina)
+-  Peter Ölveczky (University of Oslo, Norway)
+-  Patrizio Pelliccione (Chalmers University of Technology & University
+   of Gothenburg, Sweden)
+-  Gwen Salaün (Université Grenoble Alpes, France)
+-  Ina Schaefer (TU Braunschweig, Germany)
+-  Marjan Sirjani (Reykjavik University, Iceland)
+-  Paola Spoletini (Kennesaw State University, USA)
+-  Marcel Verhoef (European Space Agency, The Netherlands)
+
+Contact information
+-------------------
+We can be reached at oc@formalise.org.
+

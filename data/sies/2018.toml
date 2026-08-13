@@ -19,3 +19,11 @@ license = "pay"
 
 [extra]
 notes = "Also features a work in progress session (Deadline: April 24th). A special section in IEEE Transaction on Industrial Informatics (IF of 4.708) will be organized based on selected papers from the SIES 2018 symposium."
+
+[[cfp]]
+file = "cfp/SIES-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SIES-2018-extended.txt"
+stage = "extended"

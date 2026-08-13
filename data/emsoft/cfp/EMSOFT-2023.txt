@@ -1,0 +1,77 @@
+=========================================================================
+                               EMSOFT 2023
+                             Call for Papers
+               International Conference on Embedded Software
+                 Hamburg, Germany, September 17-22, 2023
+=========================================================================
+
+The ACM SIGBED International Conference on Embedded Software (EMSOFT)
+brings together researchers and developers from academia, industry,
+and government to advance the science, engineering, and technology of
+embedded software development. Since 2001, EMSOFT has been the premier
+venue for cutting-edge research in the design and analysis of software
+that interacts with physical processes. Specifically, the conference
+has a long-standing tradition of presenting results on cyber-physical
+systems, which integrate computation, networking, and physical dynamics.
+
+https://esweek.org/wp-content/uploads/2023/01/CFP-EMSOFT-ESWEEK2023.pdf
+
+-------------------------------------------------------------------------
+Timeline
+-------------------------------------------------------------------------
+Journal Track:
+- Abstract Submission: March 16, 2023 (AoE)
+- Full Paper Submission: March 23, 2023 (AoE, firm)
+- Notification of Acceptance: June 30, 2023
+
+Work-in-Progress Track:
+- Paper Submission: May 22, 2023 (AoE, firm)
+- Notification of Acceptance: June 19, 2023
+
+-------------------------------------------------------------------------
+Topics of Interests / Tracks
+-------------------------------------------------------------------------
+- Embedded distributed, networked systems
+  * Time-critical embedded systems
+  * Multi-/many-core processors, hardware accelerators
+  * Embedded operating systems and middleware
+  * Scheduling, resource allocation, and execution time analysis
+  * QoS management and performance analysis
+  * Hardware and software co-design
+- Embedded software design and analysis
+  * Energy-efficient embedded software
+  * Safety/Mixed-critical embedded software
+  * Software design for cyber-physical systems
+  * Embedded software architectures for data-intensive applications and signal processing
+- Resilience
+  * Embedded software security
+  * Robust implementation of control systems
+- Process, methods
+  * Formal modeling and verification
+  * Testing, validation, and certification
+  * Model- and component-based approaches
+- Empirical studies and their reproduction
+- Sustainability, energy sobriety, low techs
+- Application areas including automotive, avionics, energy, health care, mobile devices, multimedia, machine learning, and autonomous systems
+
+-------------------------------------------------------------------------
+Journal-Integrated Publication Model
+-------------------------------------------------------------------------
+EMSOFT 2023 has a dual publication model with two tracks. Journal track
+papers will be published in ACM Transactions on Embedded Computing
+Systems (TECS) and Work-in-Progress track papers will be published in the
+ESWEEK Proceedings. See details at https://esweek.org/author-information/
+
+-------------------------------------------------------------------------
+Organization
+-------------------------------------------------------------------------
+EMSOFT Program Chairs:
+Claire Pagetti, ONERA, France
+Alessandro Biondi, Scuola Superiore Sant'Anna, Italy
+
+ESWEEK General Chairs:
+Xiaobo Sharon Hu, University of Notre Dame, USA
+Alain Girault, INRIA, France
+
+                             www.esweek.org
+

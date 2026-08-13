@@ -18,3 +18,7 @@ license = "pay"
 
 [extra]
 notes = "co-located with CPS-IoT Week."
+
+[[cfp]]
+file = "cfp/SNR-2019.txt"
+stage = "initial"

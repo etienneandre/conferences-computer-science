@@ -27,3 +27,7 @@ gender_balance = "mixed"
 
 [extra]
 notes = "Always in India."
+
+[[cfp]]
+file = "cfp/FSTTCS-2025.txt"
+stage = "initial"

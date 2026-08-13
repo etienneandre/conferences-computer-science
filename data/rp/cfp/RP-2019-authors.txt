@@ -1,0 +1,56 @@
+Dear author of RP2008,
+
+First, thank you again for publishing your work at the Reachability Problems (RP) conference in the past.  
+
+This year RP2019 (13th edition) has gathered an impressive list of PC members and invited speakers. 
+We have ambitious goals for the 2019 edition of RP and we decided to communicate with all authors 
+of accepted papers at the RP event in the past.
+
+We feel that there is a momentum today in our community, and we plan to leverage it to make this edition a great event.  
+As you have seen, the PC and the invited speakers reflect the multiple nature of our discipline (among which 
+Automata and languages, Control theory, Game theory, and Verification), and we very much hope that 
+the scientific program will reflect it too.  We expect that this will give RP19 a unique flavour in the landscape 
+of scientific events in our community.
+
+Important dates are:
+Abstract: May 31 2019
+Submission: June 7 2019
+Notification: July 12 2019
+Final Version: July 16 2019
+
+For this reason, we would like to encourage you to submit a work of yours at the conference. If we may, we would also like to ask 
+you to advertise the conference around you; you are indeed also the best placed to spread the word and attract good researchers
+to the conference. Both the poster and the flyers are to download from the website:
+https://sites.uclouvain.be/rp2019/
+
+RP TOPICS:
+The conference is specifically aimed at gathering together scholars from 
+diverse disciplines and backgrounds interested in reachability problems that appear in
+
+●  Algebraic structures
+●  Automata Theory and Formal Languages
+●  Computational Game Theory
+●  Concurrency and Distributed computation
+●  Decision Procedures in Computational models
+●  Hybrid Dynamical Systems
+●  Logic and Model Checking
+●  Verification of Finite and Infinite-state Systems
+
+Topics of interest include (but are not limited to): reachability problems in infinite state systems, 
+rewriting systems, dynamical and hybrid systems; reachability problems in logic and verification; 
+reachability analysis in different computational models, counter timed/ cellular/ communicating automata;
+Petri nets; computational and combinatorial aspects of algebraic structures (semigroups, groups and rings); 
+frontiers between decidable and undecidable reachability problems; predictability in iterative maps 
+and new computational paradigms.
+
+Finally, we are committed to maintain the registration fees of all participants (and in particular students) to a strict minimum. 
+We will also do our best to organize nice social events to enjoy Brussels, and enhance collaborations and interaction among participants.
+Recall also that Brussels is easy to access, and a nice place to stay and enjoy at that time of the year. 
+
+We are looking forward to see you in Brussels!
+
+Emmanuel, Raphael and Igor
+Organisers of RP2019 
+
+13th International Conference on Reachability Problems
+SEPTEMBER 11-13 2019, BRUSSELS, BELGIUM

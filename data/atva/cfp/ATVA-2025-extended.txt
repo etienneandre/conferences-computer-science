@@ -1,0 +1,114 @@
+ATVA'25 - Call for Papers - Deadlines extended
+----------------------------------------------
+
+**Paper submission extended to April 25, 2025 (AoE)**
+
+The 23rd International Symposium on Automated Technology for Verification and Analysis (ATVA 2025)
+27-30 October 2025,
+Bangalore, India
+https://conf.researchr.org/home/atva-2025
+
+AIM AND SCOPE
+
+ATVA 2025 is the 23rd in a series of symposia aimed at bringing together academics, industrial researchers and practitioners in the area of theoretical and practical aspects of automated analysis, synthesis, and verification of hardware and software systems. ATVA solicits high quality submissions in the following suggestive list of topics:
+
+   - Formalisms for modeling hardware, software and embedded systems
+   - Specification and verification of finite-state, infinite-state and parameterized systems
+   - Program analysis and software verification
+   - Analysis and verification of hardware circuits, systems-on-chip and embedded systems
+   - Analysis of real-time, hybrid, priced, weighted and probabilistic systems
+   - Deductive, algorithmic, compositional, and abstraction/refinement techniques for analysis and verification
+   - Analytical techniques for safety, security, and dependability
+   - Testing and runtime analysis based on verification technology
+   - Analysis and verification of parallel and concurrent systems
+   - Verification in industrial practice
+   - Synthesis for hardware and software systems
+   - Applications and case studies of verification
+   - Automated tool support for verification
+   - Testing and verification of neural networks
+   - Testing and verification of autonomous systems
+
+IMPORTANT DATES  (all deadlines in AoE)
+
+   - Abstract + Paper submission deadline: April 25, 2025
+   - Author response period: June 17 - 20, 2025
+   - Paper notification: July 4, 2025
+   - Camera-ready deadline: August 1, 2025
+   - Tutorials: October 27, 2025
+   - Workshops: 31 October 2025
+   - Conference: October 28 - October 30, 2025
+
+ARTIFACT SUBMISSION DEADLINES (all deadlines in AoE):
+
+For tool papers:
+
+   - Artifact submission deadline: May 2, 2025
+   - Smoke test reviews: May 9, 2025
+   - Submission of revised artifacts: May 11, 2025
+   - Author notification: July 4, 2025
+
+For accepted regular papers:
+
+   - Artifact submission: July 8, 2025
+   - Author notification: July 27, 2025
+
+SUBMISSION GUIDELINES
+
+ATVA welcomes submissions in the following two categories:
+
+   - Regular research papers (18 pages, excluding references, must be anonymized)
+   - Tool papers (10 pages, excluding references, not anonymized)
+
+Submissions authored or co-authored by members of the program committee are allowed and encouraged.
+
+Papers must be submitted through EasyChair<https://easychair.org/conferences/?conf=atva2025>.
+
+Submissions in both categories must be in Springer's LNCS format. Accepted papers in both categories will be published in Springer's Lecture Notes in Computer Science series. A few outstanding papers will be selected for a distinguished paper award. At least one author of each accepted paper is expected to register and present the paper at the conference.
+
+REGULAR PAPERS
+
+Regular papers should not exceed 18 pages in Springer’s LNCS format, not counting references and appendices. Additional material may be placed in an appendix, to be read at the discretion of the reviewers, and to be omitted in the final version.
+
+Regular papers at ATVA 2025 will follow a full *double-blind* review process, which means that author names and affiliations must be omitted from the submission. Additionally, if a submission refers to prior work done by the authors, the reference should be made in the third person. These are firm submission requirements, and any regular paper that does not conform to these requirements will be rejected without review.
+
+Authors of accepted regular papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. The submission deadline for this artifact evaluation will be soon after the paper acceptance notification. Independent of the artifact evaluation process, research paper authors are encouraged to include a URL to a repository in their original submission,  if such a repository is available and is pertinent to the paper. This repository could contain code, datasets, results, etc. This would be for the consideration of the PC reviewers of the submission, at their discretion. If such a URL is included in the submission, the contents of the repository should adhere to the guidelines of a double-blind review process. The review process will include a rebuttal period where the authors will have the option to respond to reviewer comments. An artifact evaluation will be undertaken, which will be optional for regular papers and ma
+ndatory for tool papers.
+
+TOOL PAPERS
+
+Tool papers should not exceed 10 pages in Springer’s LNCS format, not counting references. Tool papers will follow a single-blind review process. They do NOT need to be anonymized. Tool paper submissions MUST include a URL to an archival site from where the tool can be downloaded or  accessed online for evaluation by the artifact evaluation committee. The site must also contain a set of examples, and a user manual that describes usage of the tool through examples. If the tool needs to be downloaded and installed, the site must contain instructions for installing the tool on Linux, Windows or MacOS. Packing the artifact as a Docker container is recommended. Papers describing tools that have already been presented (in any conference) will be accepted only if significant and clear enhancements to the tool are reported and implemented.
+
+Acceptance of tool paper submissions is contingent on successful artifact evaluation at the “functional” level. In special cases, where an artifact cannot be submitted, the authors should contact the Artifact Evaluation chairs to find alternate modes of artifact evaluation. More details about artifact evaluation can be found on the conference web site.
+
+CALL FOR WORKSHOPS
+
+We invite proposals for organizing workshops as part of ATVA 2025. Workshops will be held post-conference, on 31 October 2025. Proposals may be submitted via this Proposal Form<https://docs.google.com/forms/d/e/1FAIpQLSfyZ7otNMqivg5xnS2aPIyzEKW__LPC2SELBimr5fpfoxBVAw/viewform?usp=dialog>.
+
+The last date for submitting workshop proposals is 30 April 2025.
+
+
+CALL FOR TUTORIALS
+
+We invite proposals for organizing tutorials as a part of ATVA 2025. Tutorials will be held pre-conference, on 27 October 2025. Tutorial proposals can be submitted via this Proposal Form<https://docs.google.com/forms/d/e/1FAIpQLSeLRNufBv7sL-_SJWJXhs7aLOnML_mn3S9TE3jBc2B3C78SLQ/viewform?usp=header>.
+
+The last date for submitting tutorial proposals is 30 April 2025.
+
+GENERAL CHAIR
+
+Deepak D’Souza, Indian Institute of Science, Bangalore, India
+
+LOCAL ORGANIZATION CHAIR
+
+Sujit Kumar Chakrabarti, IIIT-Bangalore, India
+
+PROGRAM CHAIRS
+
+Meenakshi D’Souza, IIIT-Bangalore, India < meenakshi@iiitb.ac.in >
+K. V. Raghavan, Indian Institute of Science, Bangalore, India < raghavan@iisc.ac.in >
+B. Srivathsan, Chennai Mathematical Institute, Chennai, India < sri@cmi.ac.in >
+
+ARTIFACT EVALUATION CHAIRS
+
+Jie An, Institute of Software, Chinese Academy of Sciences, Beijing, China
+Priyanka Golia, IIT Delhi, India
+

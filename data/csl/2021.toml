@@ -22,3 +22,11 @@ license = "cc-by"
 accepted = 34
 submitted = 82
 # TODO: verify — extracted from the cross-year acceptance string.
+
+[[cfp]]
+file = "cfp/CSL-2021.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/CSL-2021-extended.txt"
+stage = "extended"

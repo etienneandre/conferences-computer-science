@@ -19,3 +19,11 @@ license = "pay"
 
 [extra]
 notes = "Best Paper Award and Best Student Paper Awards. Conference officers will select outstanding papers for publication in three journals."
+
+[[cfp]]
+file = "cfp/SERA-2025.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SERA-2025.txt"
+stage = "initial"

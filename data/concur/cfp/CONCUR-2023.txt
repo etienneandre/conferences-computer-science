@@ -1,0 +1,255 @@
+September 18-23, 2023 at the University of Antwerp, Belgium
+
+Website: www.uantwerpen.be/en/conferences/confest-2023/concur/
+
+
+
+Co-located with QEST, FORMATS, FMICS (under the joint name CONFEST)
+
+
+
+The purpose of CONCUR 2023, the 34th International Conference on Concurrency Theory, is to bring together researchers, developers, and students in order to advance the theory of concurrency, and promote its applications.
+
+
+
+IMPORTANT NOTE CONCERNING THE COVID-19 PANDEMIC
+
+
+
+CONCUR 2023 is planned as a physical, in-person event, with some support for remote participation. In particular, we understand that some authors can be prevented from physically attending the conference for a number of reasons. Hence, in a limited number of cases, there will be remote-participation support for speakers and for other participants who are unable to come. Please contact the organisers explaining your case.
+
+
+
+INVITED SPEAKERS
+
+
+
+Ahmed Bouajjani, Paris Diderot University, France
+
+Joost-Pieter Katoen, RWTH Aachen, Germany
+
+Nicolas Markey, University of Rennes, France
+
+Frans A. Oliehoek, TU Delft, Netherlands
+
+David Parker, Oxford University, UK
+
+Jaco van de Pol, Aarhus University, Denmark
+
+Anna Slobodova, Intel, USA
+
+
+
+CO-LOCATED CONFERENCES
+
+
+
+20th International Conference on Quantitative Evaluation of SysTems (QEST 2023)
+
+21st International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS 2023)
+
+28th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2023)
+
+
+
+ACCEPTED WORKSHOPS
+
+
+
+YR-CONCUR: Young researchers workshop on concurrency theory
+
+RADICAL: Recent advances in concurrency and logic
+
+TRENDS: Annual workshop of the IFIP working group 1.8
+
+EXPRESS/SOS: Expressiveness in concurrency and Structural operational semantics
+
+
+
+www.uantwerpen.be/en/conferences/confest-2023/
+
+
+
+IMPORTANT DATES (all dates are AoE)
+
+
+
+Abstract Submission:    April 24, 2023
+
+Paper Submission:        May 2, 2023
+
+Rebuttal Response:      June 5-9, 2023
+
+Notification:                   June 28, 2023
+
+Camera Ready:             July 12, 2023
+
+Conference(s):              September 17-22, 2023
+
+Workshops:                   September 18 and 23, 2023
+
+
+
+PAPER SUBMISSION
+
+
+
+CONCUR 2023 solicits high quality papers reporting research results and/or experience related to the topics mentioned below. All papers must be original, unpublished, and not submitted for publication elsewhere.
+
+
+
+Each paper will undergo a thorough review process. The paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee.
+
+
+
+The CONCUR 2023 proceedings will be published by LIPIcs.
+
+
+
+Papers must be submitted electronically as PDF files via EasyChair:
+
+https://easychair.org/conferences?conf=concur2023
+
+
+
+Papers must not exceed 14 pages (excluding references and clearly marked appendices) using the LIPIcs style.
+
+
+
+TOPICS
+
+
+
+Submissions are solicited in semantics, logics, verification and analysis of concurrent systems. The principal topics include (but are not limited to):
+
+
+
+Basic models of concurrency such as abstract machines, domain-theoretic models, game-theoretic models, process algebras, graph transformation systems, Petri nets, hybrid systems, mobile and collaborative systems, probabilistic systems, real-time systems, biology-inspired systems, and synchronous systems;
+
+
+
+Logics for concurrency such as modal logics, probabilistic and stochastic logics, temporal logics, and resource logics;
+
+
+
+Verification and analysis techniques for concurrent systems such as abstract interpretation, atomicity checking, model checking, race detection, pre-order and equivalence checking, run-time verification, state-space exploration, static analysis, synthesis, testing, theorem proving, type systems, and security analysis;
+
+
+
+Distributed algorithms and data structures: design, analysis, complexity, correctness, fault tolerance, reliability, availability, consistency, self-organization, self-stabilization, protocols;
+
+
+
+Theoretical foundations of architectures, execution environments, and software development for concurrent systems such as geo-replicated systems, communication networks, multiprocessor and multi-core architectures, shared and transactional memory, resource management and awareness, compilers and tools for concurrent programming, programming models such as component-based, object- and service-oriented.
+
+
+
+AWARDS
+
+
+
+In 2023, CONCUR Test-of-Time and best paper awards will be given for the fourth time. The winners will be announced at the conference.
+
+
+
+ORGANISATION COMMITTEE
+
+
+
+Guillermo A. Perez, University of Antwerp, Belgium (co-chair)
+
+Jean-Francois Raskin, Université libre de Bruxelles, Belgium (co-chair)
+
+Emmanuel Filiot, Université libre de Bruxelles, Belgium (workshop chair)
+
+
+
+PROGRAM COMMITTEE
+
+
+
+Parosh Aziz Abdulla, Uppsala University, Sweden
+
+C. Aiswarya, Chennai Mathematical Institute, India
+
+Guy Avni, University of Haifa, Israel
+
+Christel Baier, TU Dresden, Germany
+
+Suguman Bansal, Georgia Institute of Technology, USA
+
+Michael Blondin, Université de Sherbrooke, Canada
+
+Michaël Cadilhac, DePaul University, USA
+
+Pablo Castro, Universidad Nacional de Rio Cuarto, Argentina
+
+Supratik Chakraborty, IIT Bombay, India
+
+Laure Daviaud, City, University London, UK
+
+Rayna Dimitrova, CISPA Helmholtz Center for Information Security, Germany
+
+Dana Fisman, Ben-Gurion University, India
+
+Wan Fokkink, Vrije Universiteit Amsterdam, Netherlands
+
+Pierre Ganty, IMDEA Software Institute, Spain
+
+Raffaella Gentilini, University of Perugia, Italy
+
+Christoph Haase, University of Oxford, UK
+
+Marieke Huisman, University of Twente, Netherlands
+
+Karoliina Lehtinen, CNRS, Aix-Marseille University, France
+
+Anna Lukina, TU Delft, Netherlands
+
+P. Madhusudan, University of Illinois at Urbana-Champaign, USA
+
+Sjouke Mauw, University of Luxembourg, Luxemburg
+
+Richard Mayr, The University of Edinburgh, UK
+
+Filip Mazowiecki, University of Warsaw, Poland
+
+Anca Muscholl, LaBRI, France
+
+Petr Novotný, Masaryk University, Czechia
+
+Guillermo A. Pérez, University of Antwerp, Belgium (chair)
+
+Karin Quaas, University of Leipzig, Germany
+
+Jean-François Raskin, Université libre de Bruxelles, Belgium (chair)
+
+Nathalie Sznajder, Sorbonne Université, France
+
+Bow-Yaw Wang, Academia Sinica, Taiwan
+
+Zhilin Wu, Chinese Academy of Sciences, China
+
+Sergio Yovine, CONICET-UBA, Argentina
+
+Martin Zimmermann, Aalborg University, Denmark​​
+
+
+
+STEERING COMMITTEE
+
+
+
+Javier Esparza, TU München, Germany (chair)
+
+Pedro D’Argenio, National University of Cordoba, Argentina
+
+Wan Fokkink, Vrije Universiteit Amsterdam, The Netherlands
+
+Joost-Pieter Katoen, RWTH, Germany
+
+Catuscia Palamidessi, INRIA and Ecole Polytechnique, France
+
+Davide Sangiorgi, University of Bologna, Italy
+
+Jiri Srba, Aalborg University, Denmark

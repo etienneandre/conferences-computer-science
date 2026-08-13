@@ -1,0 +1,91 @@
+-- Call for Papers --
+
+MEMOCODE
+20th ACM/IEEE International Symposium on Formal Methods and Models for System Design
+
+October 13-14, 2022, Hybrid-Shanghai, Vienna, Austria
+- part of ESWEEK 2022 -
+
+https://esweek.org/memocode/
+
+
+IMPORT DATES
+
+* Abstract submission deadline: May 27, 2022
+* Paper submission deadline: June 03, 2022
+* Notification of acceptance: July 29, 2022
+* Final version of papers: August 26, 2022
+
+MEMOCODE brings together researchers and practitioners interested in formal methods for system design and development, to exchange ideas, research results and lessons learned. The symposium focuses on the foundations and applications of formal methods in the development of hardware, firmware, middleware, and application software for systems, ranging from single embedded devices to highly networked cyber-physical systems and the Internet of Things.
+
+MEMOCODE 2022 is a part of ESWEEK 2022, which is planned as a hybrid event, with the on-site component in Shanghai, China. Registered attendees can attend sessions in any of the online events, including the conferences (CASES, CODES+ISSS, EMSOFT), symposia, tutorials, workshops, and education classes.
+
+
+TOPICS OF INTEREST
+
+MEMOCODE solicits research papers on formal methods in system design that address the foundations, engineering methods, tools, or experimental case studies. Research areas of interest include, but are not limited to, the following:
+
+* Modeling Languages, Methods, and Tools Programming languages and models; software and system modeling languages; architecture and high-level hardware description languages; timing models; model and program synthesis methods; model transformation methods.
+
+* Formal Methods and Tools Correct-by-construction methods; contract-based design and verification; static, dynamic, and type theoretic analysis; verification; validation; probabilistic model checking; test generation; refinement-based and compositional approaches to design and verification.
+
+* Models and Methods for Developing Critical Systems Fault-tolerant systems; security-critical and safety-critical systems; cyber-physical systems; hybrid systems; autonomous systems; self-adapting systems; systems that merge humans, artificial intelligence, and cyber-physical systems; societal-scale cyber-physical systems, such as connected vehicles and smart grids.
+
+* Quantitative/Qualitative Reasoning Power/performance/cost/latency estimation methods; system models for quantitative design space exploration
+
+* Formal Methods/Models in Practice Design case studies; empirical case studies
+
+
+SUBMISSIONS
+
+MEMOCODE 2022 calls for three kinds of submissions: regular papers, work-in-progress papers, and tool presentations. All papers must be written in English and formatted according to the IEEE Computer Society guidelines, including the IEEE Copyright templates. Submission of papers is handled via EasyChair.
+
+* Regular papers are no longer than 10 pages, excluding bibliography and appendices. They should describe original work that does not overlap with another publication or a submission under review or accepted for publication by any other conference or journal. Reviewers will check regular papers for the soundness and novelty of the proposed solutions.
+
+* Tool papers are no longer than 8 pages, excluding bibliography and appendices. They should describe an existing and publicly available tool that implements relevant methods. The methods might have been published before, but the tool should not have been described in a tool paper previously. In addition to reviewing the paper, reviewers will assess the tool itself using inputs and a user's manual provided by the authors on the tool's web page.
+
+* Work-in-progress (WIP) papers are no longer than 4 pages, excluding bibliography and appendices. They should describe ongoing work. Reviewers will judge the novelty of the idea, but do not yet expect proofs for the envisioned results.
+
+For questions regarding technical submissions, feel free to contact one of the program committee co-chairs. All accepted papers (regular papers, WIP papers, and tool papers) will be published as IEEE conference proceedings with IEEE eXpress. Publication in the proceedings is contingent on one author registering for and presenting the paper at the conference. Selected papers will be invited for publication in a special issue of the ACM Transactions on Embedded Computing Systems. The Program Committee will also select 1-2 papers for the Best Paper Award.
+
+PROGRAM CHAIRS
+
+Lijun Zhang, Institute of Software, CAS
+Jens Brandt, Niederrhein University of Applied Sciences
+
+PROGRAM COMITTEE
+
+Shuvra Bhattacharyya, University of Maryland
+Sudipta Chattopadhyay, Singapore University of Technology and Design
+Yu-Fang Chen, Academia Sinica
+Thao Dang, CNRS/VERIMAG
+Patricia Derler, Kontrol
+Stephen A. Edwards, Columbia University
+Martin Fränzle, Carl von Ossietzky Universität Oldenburg
+Goran Frehse, ENSTA Paris
+Holger Hermanns, Saarland University
+Eunsuk Kang, Carnegie Mellon University
+Rick Kuhn, Natl Institute of Standards & Technology
+Matthew Kuo, Auckland University of Technology
+Luciano Lavagno, Politecnico di Torino
+Elizabeth Leonard, Naval Research Laboratory
+Xuandong Li, Nanjing University
+Stefan Mitsch, Carnegie Mellon University
+Katell Morin-Allory, TIMA Laboratory
+Luan Nguyen, University of Dayton
+Pierluigi Nuzzo, University of Southern California
+Roberto Passerone, University of Trento
+Doron Peled, Bar Ilan University
+Pavithra Prabhakar, Kansas State University
+Sanjiva Prasad, Indian Institute of Technology Delhi
+Sven Schewe, University of Liverpool
+Klaus Schneider, University of Kaiserslautern
+Sandeep Shukla, Indian Institute of Technology Kanpur (IIT Kanpur)
+Marjan Sirjani, Malardalen University, Reykjavik University
+Jürgen Teich, University of Erlangen-Nuremberg
+Ashutosh Trivedi University of Colorado Boulder
+Tiziano Villa, Universita' di Verona
+Ji Wang, National Laboratory for Parallel and Distributed Processing
+Tuba Yavuz, University of Florida
+Paolo Zuliani, Newcastle University
+

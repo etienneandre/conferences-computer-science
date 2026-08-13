@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "Excellent papers may be invited to special journal issues"
+
+[[cfp]]
+file = "cfp/ICPS-2020.pdf"
+stage = "initial"

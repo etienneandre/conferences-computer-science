@@ -1,0 +1,139 @@
+--------------------------------------------------------------------
+                        Call for Papers
+
+                           FACS 2018
+
+15th International Conference on Formal Aspects of Component Software
+
+              Pohang, Korea, October 10-12, 2018
+
+              http://sevlab.postech.ac.kr/facs18
+---------------------------------------------------------------------
+
+
+IMPORTANT DATES
+
+Abstract submission deadline:	June 15, 2018 (AoE)          (extended!)
+Paper submission deadline: 	June 25, 2018 (AoE)          (extended!)
+Notification: 	 		August 7, 2018
+Conference: 			Oct 10-12, 2018
+
+
+OVERVIEW AND SCOPE
+
+Component-based software development proposes sound engineering
+principles and techniques to cope with the complexity of
+present-day software systems. However, many challenging conceptual and
+technological issues remain in component-based software development
+theory and practice. Furthermore, the advent of service-oriented and
+cloud computing, cyber-physical systems, and the Internet of Things
+has brought to the fore new dimensions, such as quality of service and
+robustness to withstand faults, which require revisiting established
+concepts and developing new ones.
+
+FACS 2018 is concerned with how formal methods can be applied to
+component-based software and system development. Formal methods have
+provided foundations for component-based software through research on
+mathematical models for components, composition and adaptation, and
+rigorous approaches to verification, deployment, testing, and certification.
+
+The conference seeks to address the application of
+formal methods in all aspects of software components and
+services. Specific topics include, but are not limited to:
+
+* formal models for software components and their interaction;
+* formal aspects of services, service-oriented architectures, business
+  processes, cloud computing, cyber-physical systems, Internet of
+  Things,  and similar artifacts;
+* design and verification methods for software components and services;
+* composition and deployment: models, calculi, languages;
+* formal methods and modeling languages for components and services;
+* models for QoS and other extra-functional properties (e.g., trust,
+  compliance, security) of components and services;
+* components for real-time, safety-critical, secure, and/or embedded
+  systems;
+* components for the Internet of things and cyber-physical systems;
+* probabilistic techniques for modeling and verification of
+  component-based systems;
+* model-based testing of components and services;
+* case studies and experience reports;
+* tools supporting formal methods for components and services.
+
+
+PAPER SUBMISSION
+
+We solicit submissions, related to the topics mentioned
+above, in the following categories:
+
+A) original research contributions (18 pages max);
+B) applications and experiences (18 pages max);
+C) surveys, comparisons, and state-of-the-art reports (18 pages max);
+D) tool papers (6 pages max).
+
+All submissions must be original, unpublished, and not submitted
+concurrently for publication elsewhere. Paper submission is done
+via EasyChair at https://easychair.org/conferences/?conf=facs2018.
+Papers must be formatted according to the guidelines for Springer LNCS
+papers (see http://www.springer.com/lncs).
+
+In addition, we solicit submissions to the Doctoral Track of FACS
+2018, in the form of abstracts (3 pages max) concisely capturing work
+in progress, research questions, envisaged contributions, and/or
+partial results.
+
+Doctoral Track submission deadline: August 5, 2018 (AoE)
+Doctoral Track notification: August 15, 2018
+
+
+PUBLICATION
+
+All accepted papers in the categories A-D above will appear in the
+proceedings of the conference that will be published as a volume
+in Springer’s LNCS series.
+
+The authors of a selected subset of accepted papers will be invited to
+submit extended versions of their papers to a special issue of the
+Science of Computer Programming journal.
+
+
+INVITED SPEAKERS
+
+Edward A. Lee           (University of California, Berkeley)
+Grigore Rosu            (University of Illinois, Urbana-Champaign)
+
+
+PROGRAM COMMITTEE
+
+Farhad Arbab            (CWI & Leiden University)
+Cyrille Artho           (KTH Royal Institute of Technology)
+Kyungmin Bae (chair)  	(Pohang University of Science and Technology)
+Luis Barbosa            (University of Minho)
+Simon Bliudze           (INRIA Lille)
+Roberto Bruni           (University of Pisa)
+Zhenbang Chen           (National University of Defense Technology)
+Yunja Choi              (Kyungpook National University)
+Jose Luiz Fiadeiro      (Royal Holloway University of London)
+Xudong He               (Florida International University)
+Sung-Shik Jongmans      (Open University of the Netherlands)
+Yunho Kim               (Korea Advanced Institute of Science and Technology)
+Olga Kouchnarenko       (FEMTO-ST & University of Franche-Comte)
+Ivan Lanese             (University of Bologna/INRIA)
+Axel Legay              (INRIA Rennes)
+Shaoying Liu            (Hosei University)
+Zhiming Liu             (Southwest University, Chongqing)
+Markus Lumpe            (Swinburne University of Technology)
+Eric Madelaine          (INRIA Sophia Antipolis)
+Hernan Melgratti        (University of Buenos Aires)
+Jose Meseguer           (University of Illinois, Urbana-Champaign)
+Kazuhiro Ogata          (Japan Advanced Institute of Science and Technology)
+Peter Olveczky	(chair)	(University of Oslo)
+Catuscia Palamidessi    (INRIA)
+Jose Proenca            (University of Minho)
+Gwen Salaun             (University of Grenoble Alpes)
+Francesco Santini       (Univerity of Perugia)
+Meng Sun                (Peking University)
+Antonio Vallecillo      (University of Malaga)
+Daniel Varro            (Budapest University of Technology and Economics &
+McGill University)
+Shoji Yuen              (Nagoya University)
+Min Zhang               (East China Normal University)

@@ -1,0 +1,85 @@
+======================================================================
+
+                          CALL FOR PAPERS
+
+                              CERTS2020
+            5th Workshop on Security and Dependability of
+                 Critical Embedded Real-Time Systems
+
+                    In conjunction with ECRTS2020
+                  Modena, Italy, July 7, 2020
+
+                    https://www.ecrts.org/certs/
+
+======================================================================
+
+Welcome to the fifth round of the CERTS workshop! Following a successful series of workshops that co-locate with conferences in the fields of real-time and embedded systems, security, and dependability, we are now happy to be one of the workshops at ECRTS’20.
+
+===============
+Themes
+===============
+
+New reports about cyberattacks and vulnerabilities hit the press almost on a daily basis. Security experts believe that it is only a matter of time until we experience major cyberterrorism or cyberwarfare incidents. These could be carried out, for example, with “military-grade” malware that is increasingly accessible to malicious actors. Now, while such attacks on cyber-only systems can have devastating effects, really important threats lie in the vast amount of safety-critical and cyber-physical systems. These systems have real-time properties that open completely new threat surfaces. They typically operate for, or in close proximity to, humans. Examples include, but are not limited to, electric grids, manufacturing systems, avionics, automobiles, nuclear reactors, etc. Successful attacks on such systems can result in damages manifesting in the physical world – causing harm to humans, the environment or the systems themselves.
+
+The complexity of cyber-physical systems (CPS)s requires a multi-disciplinary effort from experts in the fields of control, real-time, security, dependability and distributed systems, to name but a few. The goal of CERTS is to bring together researchers and engineers from these fields to discuss and promote new and exciting research ideas and initiatives, aimed at preventing and/or tolerating advanced and persistent threats in critical embedded real-time systems.
+
+As such, CERTS seeks short and long scientific publications, experience reports, open problem reports, case studies and research ideas and initiatives in the intersection of real-time, security, dependability and distributed systems.
+
+===============
+Important dates
+===============
+Submission deadline: April 16, 2020
+Notification: May 13, 2020
+Camera ready deadline: May 28, 2020
+Workshops: July 7, 2020
+
+
+===============
+Scope and topics of interest
+===============
+
+CERTS’20 is open to all topics at the intersection of security and dependability of embedded and real-time systems, with an emphasis on criticality and distribution. As such, areas of interest include but are not limited to the following topics:
+
+* Threat assessments for potential attacks on real-time and cyber-physical systems,
+* Security solutions and frameworks for such systems,
+* Security and dependability of cyber-physical and other real-time and embedded systems,
+* Vulnerabilities and protective measures of CPS infrastructure with safety critical requirements,
+* Fault and intrusion tolerant distributed real-time systems,
+* Confidentiality and privacy in real-time, embedded and cyber-physical systems,
+* System architectures encompassing combinations of distribution, security, dependability and timeliness,
+* Threats and vulnerabilities due to the use of artificial intelligence techniques.
+
+Contribution formats include technical presentations of systems, system models and architectures, methods, tools, protocols and infrastructures to improve the dependability and security of real-time systems but also open problems and future challenges papers and experimental papers including experience reports and negative results.
+
+===============
+Committees
+===============
+
+Workshop Chairs
+
+António Casimiro, Faculdade de Ciências da Universidade de Lisboa, Portugal
+Jérémie Decouchant, SnT - University of Luxembourg, Luxembourg
+
+Program Committee
+
+Hans Reiser, Universität Passau, Germany
+Rakesh Bobba, Oregon State University, US
+Martin Gilje Jaatun, University of Stavanger, Norway
+Gert Jervan, Tallinn University of Technology, Estonia
+Antônio Augusto Fröhlich, Federal University of Santa Catarina, Brazil
+Christian Esposito, University of Naples Federico II, Italy
+Elena Troubitsyna, KTH, Sweden
+Sasikumar Punnekkat, Maelardalen University, Sweden
+Mikael Asplund, Linköping University, Sweden
+Karl Goeschka, Vienna University of Technology, Austria
+Marisol Garcia Valls, Universidad Carlos III de Madrid, Spain
+David Kozhaya, ABB Corporate Research, Switzerland
+
+
+
+Steering Committee
+
+Marcus Voelp, SnT – University of Luxembourg
+Paulo Esteves-Verissimo, SnT – University of Luxembourg
+Antonio Casimiro,  University of Lisboa
+Rodolfo Pellizzoni, University of Waterloo

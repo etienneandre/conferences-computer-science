@@ -28,3 +28,7 @@ environment = "Remote presentation allowed. Free online participation."
 [extra]
 journal = "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2026."
 notes = "Special topic 2026: Neurosymbolic AI"
+
+[[cfp]]
+file = "cfp/FMAS-2026.txt"
+stage = "initial"

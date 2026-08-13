@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Also a call for tutorials. The Program Committee of RV 2025 will give a sponsored Best Paper Award to one eligible regular paper."
+
+[[cfp]]
+file = "cfp/RV-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RV-2025-extended.txt"
+stage = "extended"

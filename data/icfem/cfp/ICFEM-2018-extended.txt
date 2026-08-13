@@ -1,0 +1,218 @@
+---------------
+CALL FOR PAPERS
+---------------
+
+ICFEM2018: 20th International Conference on Formal Engineering Methods (ICFEM
+2018)
+Gold Coast, Australia, November 12-16, 2018
+
+Web site: http://www.formal-analysis.com/icfem/2018/
+Submission link: https://easychair.org/conferences/?conf=icfem2018
+Submission due: May 21, 2018 (extended)
+
+Since 1997, ICFEM provides a forum for both researchers and practitioners who
+are interested in developing practical formal methods for software engineering
+or applying existing formal techniques to improve software development process
+in practice systems. Formal methods for the development of computer systems
+have been extensively researched and studied. We now have good theoretical
+understandings of how to describe what programs do, how they do it, and why
+they work. A range of semantic theories, specification languages, design
+techniques, verification methods, and supporting tools have been developed and
+applied to the construction of programs of moderate size that are used in
+critical applications. The remaining challenge now is how to deal with
+problems in developing and maintaining large scale and complex computer
+systems.
+
+The goal of this conference is to bring together industrial, academic, and
+government experts, from a variety of user domains and software disciplines,
+to help advance the state of the art. Researchers, practitioners, tool
+developers and users, and technology transfer experts are all welcome. We are
+interested in work that has been incorporated into real production systems,
+and in theoretical work that promises to bring practical, tangible engineering
+benefits.
+
+List of Topics
+--------------
+Submissions related to the following principal themes are encouraged, but any
+topics relevant to the field of formal engineering methods and their practical
+applications will also be considered:
+
++ Abstraction, refinement and evolution
++ Formal specification and modelling
++ Formal verification and analysis
++ Model checking and theorem proving
++ Formal approaches to software testing and inspection
++ Formal methods for self-adaptive systems
++ Formal methods for object-oriented systems
++ Formal methods for component-based systems
++ Formal methods for concurrent and real-time systems
++ Formal methods for cloud computing
++ Formal methods for cyber-physical systems
++ Formal methods for software safety and security
++ Formal methods for software reliability and dependability
++ Development, integration and experiments involving verified systems
++ Formal certification of products under international standards
++ Formal model-based development and code generation
+
+Submission and Publication
+--------------------------
+Submissions to the conference must not have been published or be concurrently
+considered for publication elsewhere. All submissions will be judged on the
+basis of originality, contribution to the field, technical and presentation
+quality, and relevance to the conference. The proceedings will be published in
+the Springer Lecture Notes in Computer Science series.
+
+Papers should be written in English and should not exceed 16 pages (including
+references) in the Springer's LNCS format. Additional material may be placed
+in an appendix, to be read at the discretion of the reviewers and to be
+omitted in the final version. Formatting style files and further guidelines
+for formatting can be found at the Springer website. Submissions should be
+made through the ICFEM 2018 submission page, handled by the EasyChair
+conference management system.
+
+https://easychair.org/conferences/?conf=icfem2018
+
+Important Dates
+---------------
++ Full Paper Submissions Due: 21 May 2018 (extended)
++ Workshop/Tutorial Proposals Due: 25 March 2018
++ Acceptance/Rejection Notification: 29 June 2018
++ Camera-ready Due: 29 July 2018
+
+Organizing Committee
+--------------------
+General Co-Chair
+    Jin Song Dong, Griffith University and NUS, Australia
+
+Program Co-Chairs
+    Jing Sun, The University of Auckland, New Zealand
+    Meng Sun, Peking University, China
+
+Workshop Chair
+    Yang Liu, Nanyang Technological University, Singapore
+
+Tutorial Chair
+    Jun Sun, Singapore University of Technology and Design, Singapore
+
+Sponsorship Chair
+    Zhe Hou, Griffith University, Australia
+
+Web Chair
+    Hadrien Bride, Griffith University, Australia
+
+Program Committee
+    Bernhard K. Aichernig, TU Graz, Austria
+    Cyrille Artho, KTH Royal Institute of Technology, Sweden
+    Christian Attiogbe, University of Nantes, France
+    Christel Baier, TU Dresden, Germany
+    Richard Banach, The University of Manchester, United Kingdom
+    Luis Barbosa, University of Minho, Portugal
+    Frank De Boer, Centrum Wiskunde & Informatica (CWI), Netherlands
+    Michael Butler, University of Southampton, United Kingdom
+    Franck Cassez, Macquarie University, Australia
+    Ana Cavalcanti, University of York, United Kingdom
+    Zhenbang Chen, National University of Defense Technology, China
+    Sylvain Conchon, Universite Paris-Sud, France
+    Yuxin Deng, East China Normal University, China
+    Jin Song Dong, Griffith University and NUS, Australia
+    Zhenhua Duan, Xidian University, China
+    Marc Frappier, Université de Sherbrooke, Canada
+    Stefania Gnesi, ISTI-CNR, Italy
+    Lindsay Groves, Victoria University of Wellington, New Zealand
+    Ichiro Hasuo, National Institute of Informatics, Japan
+    Xudong He, Florida International University, United States
+    Zhenjiang Hu, National Institute of Informatics (NII), Japan
+    Jie-Hong Roland Jiang, National Taiwan University, Taiwan
+    Gerwin Klein, University of New South Wales, Australia
+    Fabrice Kordon, LIP6/Sorbonne Universite & CNRS, France
+    Michael Leuschel, University of Dusseldorf, Germany
+    Yuan-Fang Li, Monash University, Australia
+    Yang Liu, Nanyang Technological University, Singapore
+    Zhiming Liu, Southwest University, China
+    Shuang Liu, Tianjin University, China
+    Shaoying Liu, Hosei University, Japan
+    Brendan Mahony, Defence Science and Technology Organisation, Australia
+    Jim McCarthy, Defence Science and Technology, Australia
+    Stephan Merz, Inria Nancy, France
+    Mohammad Mousavi, University of Leicester, United Kingdom
+    Shin Nakajima, National Institute of Informatics, Japan
+    Peter Olveczky, University of Oslo, Norway
+    Jun Pang, University of Luxembourg, Luxembourg
+    Yu Pei, The Hong Kong Polytechnic University, China
+    Geguang Pu, East China Normal University, China
+    Shengchao Qin, Teesside University, United Kingdom
+    Silvio Ranise, FBK-Irst, Italy
+    Adrian Riesco, Universidad Complutense de Madrid, Spain
+    Graeme Smith, The University of Queensland, Australia
+    Harald Sondergaard, The University of Melbourne, Australia
+    Jing Sun, The University of Auckland, New Zealand
+    Meng Sun, Peking University, China
+    Jun Sun, Singapore University of Technology and Design, Singapore
+    Cong Tian, Xidian University, China
+    Jaco van de Pol, University of Twente, Netherlands
+    Hai H. Wang, University of Aston, United Kingdom
+    Zijiang Yang, Western Michigan University, United States
+    Wang Yi, Uppsala University, Sweden
+    Jian Zhang, Chinese Academy of Sciences, China
+
+Keynote Speakers
+----------------
++ Sir Tony Hoare (C. A. R. Hoare):
+
+Sir Tony Hoare is a British computer scientist. He developed the sorting
+algorithm quicksort in 1959/1960. He also developed Hoare logic for verifying
+program correctness in 1969, and the formal language communicating sequential
+processes (CSP) to specify the interactions of concurrent processes in 1985.
+He received the Turing Prize and the Kyoto Prize for his fundamental
+contributions to the definition and design of programming languages in 1980
+and 2000 respectively. Tony Hoare became a professor at Oxford University in
+1977 where he is now an Emeritus Professor. Hoare was elected a Fellow of the
+Royal Society as well as a Fellow of the Royal Academy of Engineering. A
+recent personal research goal has been the unification of a diverse range of
+theories applying to different programming languages, paradigms, and
+implementation technologies. Tony has been and continue to be an inspiration
+to many researchers.
+
++ Professor David Basin:
+
+David Basin is a full professor of Computer Science at ETH Zurich. He received
+his Ph.D. in Computer Science from Cornell University in 1989 and his
+Habilitation in Computer Science from the University of Saarbrucken in 1996.
+From 1997–2002 he held the chair of Software Engineering at the University of
+Freiburg in Germany. His research areas are Information Security and Software
+Engineering. He is the founding director of the ZISC, the Zurich Information
+Security Center, which he led from 2003-2011. He is Editor-in-Chief of the ACM
+Transactions on Privacy and Security and of Springer-Verlag's book series on
+Information Security and Cryptography. He serves on various management and
+scientific advisory boards, co-founded three security companies, and has
+consulted extensively for IT companies and government organizations.
+
++ Professor Ian Hayes:
+
+Ian Hayes is the head of the Systems and Software Engineering Research Group
+and the Chair of Computer Science and Electrical Engineering at The University
+of Queensland. Ian's research interests are in formal methods for software
+development, particularly for concurrent and real-time systems.
+
+Workshops and Tutorials
+-----------------------
+Workshop or tutorial proposals should be directly sent to the Workshop/
+Tutorial Chairs via email. Each proposal should include (1) title, scope, and
+aims, (2) brief bio of the organizer or lecturer, and (3) postal and email
+addresses.
+
++ The 7th Asian Workshop of Advanced Software Engineering (AWASE 2018), 16-17
+November 2018
++ The 8th international workshop on SOFL + MSVL for Reliability and Security​
+(SOFL+MSVL 2018)​, 16 November 2018
++ The 6th International Workshop on Formal Techniques for Safety-Critical
+Systems​ (FTSCS 2018)​, 16 November 2018
+
+Contact
+-------
+All questions should be directed to:
+
+    Institute for Integrated and Intelligent Systems (IIIS), Griffith
+University
+    Phone: +61 7 3735 3757
+    Email: iiis-admin@griffith.edu.au

@@ -1,0 +1,106 @@
+This is the Call for Paper for the SPLC Conference 2024.
+The ACM International Systems and Software Product Line Conference (SPLC) is a premier forum where researchers, practitioners, and educators can present and discuss the most recent ideas, trends, experiences, and challenges in the area of software and systems product line engineering. Conference events include opportunities to hear industry leaders' real-world experiences and researchers' latest ideas and to learn from both.
+ [apologies for cross-postings]
+**** CALL FOR CONTRIBUTIONS ****
+=======================================
+28th ACM International Systems and Software Product Line Conference (SPLC)
+https://2024.spl c.net/
+September 2nd to 6th, 2024
+Venue: Parc Alvisse Hotel, Luxembourg
+=======================================
+The ACM International Systems and Software Product Line Conference (SPLC) is a premier forum where researchers, practitioners, and educators can present and discuss the most recent ideas, trends, experiences, and challenges in the area of software and systems product line engineering. Conference events include opportunities to hear industry leaders' real-world experiences and researchers' latest ideas and to learn from both.
+------------------------------------------------------------------------------------------------------------------------
+Research Papers (https://2024.splc.net/calls/call-for-research-papers/)
+------------------------------------------------------------------------------------------------------------------------
+We invite orig inal, theoretically or empirically validated submissions addressing all areas of software product lines research (see the call for a list of topics). This year particularly emphasizes the ‘Management of Quality in Software Product Lines’, acknowledging the importance of the methods and techniques defined for measuring, modeling and reasoning about quality.
+Chairs: Mónica Pinto, Daniel Strüber (splc2024researchtrack@easychair.org)
+Artifact Chair: José Miguel Horcas (splc2024researchartifacts@easychair.org)
+Deadlines (all AoE):
+     Abstract submission: April 11, 2024
+     Paper submission: April 18, 2024
+     Notification: May 30, 2024
+     Artifact submission: June 6, 2024
+     Artifact notification: June 17, 2024
+   &nbs p; Camera-ready: June 20, 2024
+------------------------------------------------------------------------------------------------------------------------
+Industrial Systems and Software Product Lines Papers (https://2024.splc.net/calls/call-for-industrial-papers/)
+------------------------------------------------------------------------------------------------------------------------
+We invite submission of papers presenting challenges, innovations and solutions to concrete industrial applications of software and product line engineering methodologies and tools.
+Chairs: Iris Groher, Deepak Dhungana
+Deadlines (all AoE):
+     Abstract submission: April 11, 2024
+     Paper submission: April 18, 2024
+     Notification: May 30, 2024
+     Camera-ready: Jun e 20, 2024
+------------------------------------------------------------------------------------------------------------------------
+Challenges and Solutions Papers (https://variability-challenges.github.io/)
+------------------------------------------------------------------------------------------------------------------------
+We highly encourage community members to provide concrete sets of case studies and problems that showcase SPL-related challenges.
+First, there is a “call for cases” where researchers or practitioners are encouraged to contribute a concrete case study.
+Second, after the accepted cases are published, there is a “call for solutions”. Both, accepted case descriptions and solutions, will be included in the conference proceedings.
+This year, we are placing a special emphasis in our call for cases on the need for actionable benchmarks and competitio n, akin to those prevalent in the machine learning and SAT communities, and as developed on platforms like Kaggle.
+Chairs: Mathieu Acher and Thomas Thüm <splc2024challengetrack@easychair.org>
+Deadlines (all AoE):
+     Challenge case submission: March 13, 2024
+     Challenge case notification: April 4, 2024
+     Camera-ready of challenge case: April 11, 2024
+     Call for challenge solutions released: April 12, 2024
+     Challenge solution submission: June 10, 2024
+     Challenge solution notification: July 1, 2024
+     Camera-ready of challenge solution: July 10, 2024
+-------------------------------------------------------------------------------------------- ----------------------------
+Journal First Papers (https://2024.splc.net/calls/call-for-journal-first-papers-2/)
+------------------------------------------------------------------------------------------------------------------------
+Authors of journal-first papers are invited to submit their publications to present their work at SPLC. This is an opportunity to speak directly to the community and offer SPLC attendees a richer set of presentations.
+Chairs: Tao Yue, Lidia Fuentes
+Deadlines (all AoE):
+     Paper submissions: June 9, 2024
+     Notification: June 30, 2024
+     Camera-ready: July 10, 2024
+------------------------------------------------------------------------------------------------------------------------
+Workshop Proposals and Contribution Papers (https ://2024.splc.net/calls/call-for-workshop-proposals/)
+------------------------------------------------------------------------------------------------------------------------
+We invite the community to submit proposals for one or two- day workshops in the field. In particular, workshops on challenging, emerging areas related to conference topics.
+Chairs: Jacob Krüger, Juliana Alves Pereira
+Deadlines (all AoE):
+     Workshop proposal: February 20, 2024
+     Workshop proposal notification: March 6, 2024
+     Workshop papers submission: June 4, 2024
+     Workshop papers notification: June 28, 2024
+     Camera-ready: July 10, 2024
+------------------------------------------------------------------------------------------------------ ------------------
+Demonstrations and Tools Papers (https://2024.splc.net/calls/call-for-data-demonstrations-and-tools/)
+------------------------------------------------------------------------------------------------------------------------
+This track highlights live demonstrations of product-line tools and of practices tackling current industrial challenges.
+Chairs: Xhevahire Tërnava, José Galindo
+Deadlines (all AoE):
+     Paper submissions: June 9, 2024
+     Notification: June 30, 2024
+     Camera-ready: July 10, 2024
+------------------------------------------------------------------------------------------------------------------------
+Doctoral Symposium Papers (https://2024.splc.net/calls/call-for-doctoral-symposium-papers/)
+------------------- -----------------------------------------------------------------------------------------------------
+This track highlights doctoral proposals, both early and mid-phase, to be reviewed and commented on by a panel of experts.
+Chairs: Maurice ter Beek, Jessie Galasso-Carbonnel
+Deadlines (all AoE):
+     Paper submissions: June 9, 2024
+     Notifications: June 30, 2024
+     Camera-ready: July 10, 2024
+------------------------------------------------------------------------------------------------------------------------
+Tutorial Proposals (https://2024.splc.net/calls/call-for-tutorial-proposals/)
+------------------------------------------------------------------------------------------------------------------------
+Tutorials provide a valuable opportunity for participant s to expand their knowledge and skills in product line engineering. Tutorials may focus on introductory product lines topics, or on advanced tools, approaches, methods, and best practices.
+Chairs: Paolo Arcaini, Mohammad Reza Moussavi
+Deadlines (all AoE):
+     Tutorial submission: June 9, 2024
+     Notification: June 30, 2024
+     Camera-ready (1 page description): July 10, 2024
+     Tutorials: September 2/3, 2024
+===================================================================
+General Chair: Maxime Cordy
+Industry Liaison Chairs: Philippe Collet, Kentaro Yoshimura
+Publicity Chairs: Sandra Greiner, Sophie Fortz
+Proceedings Chair: Salijona Dyrmishi
+Web Chair: Amal Akli
+Local Organization : Magali Martin, Lina Ostapchuk
+Hall of Fame Chairs: Goetz Botterweck, Natsuko Noda, Martin Becker

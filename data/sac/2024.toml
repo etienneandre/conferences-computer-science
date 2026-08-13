@@ -24,3 +24,7 @@ submitted = 773
 
 [extra]
 notes = "Double-blind. 35 tracks, student abstracts, Student Research Competition, etc."
+
+[[cfp]]
+file = "cfp/SAC-2024-extended.txt"
+stage = "extended"

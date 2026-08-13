@@ -1,0 +1,152 @@
+
+Please note: Submission deadline extended to 28 April 2017 (AoE).
+
+CALL FOR PAPERS
+===============
+
+15th International Symposium on Automated Technology for Verification
+and Analysis (ATVA 2017)
+
+October 3-6, 2017, Pune, India.
+
+http://www.iarcs.org.in/atva2017
+
+Scope
+-----
+
+ATVA 2017 is the 15th in a series of symposia aimed at bringing
+together academics, industrial researchers and practitioners in the
+area of theoretical and practical aspects of automated analysis,
+synthesis, and verification of hardware and software systems.
+ATVA solicits high quality submissions in the following suggestive
+list of topics:
+
+* Formalisms for modeling hardware, software and embedded systems
+* Specification and verification of finite-state, infinite-state and
+  parameterized systems
+* Program analysis and software verification
+* Analysis and verification of hardware circuits, systems-on-chip and
+  embedded systems
+* Analysis of real-time, hybrid, priced, weighted and probabilistic systems
+* Deductive, algorithmic, compositional, and abstraction/refinement
+  techniques for analysis and verification
+* Analytical techniques for safety, security, and dependability
+* Testing and runtime analysis based on verification technology
+* Analysis and verification of parallel and concurrent systems
+* Verification in industrial practice
+* Synthesis for hardware and software systems
+* Applications and case studies
+* Automated tool support
+
+
+Submissions
+-----------
+
+ATVA invites submissions in two categories:
+
+  * Regular research papers (16 pages, including references)
+  * Tool papers (6 pages, including references)
+
+Submissions must be in Springer's LNCS format.  Additional material may
+be placed in an appendix, to be read at the discretion of the
+reviewers and to be omitted in the final version. Formatting style
+files and further guidelines for formatting can be found at the
+Springer website.
+
+Tool papers must include information about a URL from where the tool
+can be downloaded or accessed on-line for evaluation. The URL must
+also contain a set of examples, and a user manual that describes
+usage of the tool through examples. In case the tool needs to be
+downloaded and installed, the URL must contain instructions for
+installation of the tool on Linux/Windows/MacOS.
+
+Papers must be submitted to the EasyChair site at
+https://www.easychair.org/conferences/?conf=atva2017.
+
+Accepted papers in both categories will be published in Springer's
+Lecture Notes in Computer Science series.
+
+At least one author of each accepted paper is expected to register and
+present the paper at the conference.
+
+Important Dates
+---------------
+
+Paper Submission (Extended): April 28, 2017 (AoE)
+Notification to authors:     June 15, 2017
+Camera-Ready version:        July 10, 2017
+Conference:                  October 3-6, 2017
+
+General Chair
+-------------
+
+R Venkatesh (TCS, Pune)
+
+Program Committee Chairs
+------------------------
+
+Deepak D'Souza (IISc, Bangalore)
+K Narayan Kumar (CMI, Chennai)
+
+Program Committee
+-----------------
+
+M F Atig               (Uppsala U)
+Srivathsan B           (CMI, Chennai)
+Franck Cassez          (Macquerie U)
+Rohit Chaddha          (U Missouri)
+Supratik Chakraborty   (IIT Bombay)
+Giorgio Delzano        (DIBRIS, Genoa)
+Stephane Demri         (CNRS, LSV, Cachan)
+Deepak D'Souza         (IISc, Bangalore) (Co-Chair)
+Constantin Enea        (U Paris 7)
+Blaise Genest          (IRISA Rennes)
+Ashutosh Gupta         (TIFR, Mumbai)
+Teruo Higashino        (IST, Osaka)
+Radu Iosif             (VERIMAG, Grenoble)
+Jie-Hong Roland Jiang  (NTU, Taiwan)
+Joost-Pieter Katoen    (U Aachen)
+Nicolas Markey         (CNRS, IRISA, Rennes)
+Roland Meyer           (TU Braunschweig)
+K Narayan Kumar        (CMI, Chennai) (Co-Chair)
+Doron Peled            (Bar Ilan U)
+Pavithra Prabhakar     (Kansas State U)
+Xiaokang Qiu           (MIT)
+K V Raghavan           (IISc, Bangalore)
+Indranil Saha          (IIT Kanpur)
+Jun Sun                (SUTD, Singapore)
+S P Suresh             (CMI, Chennai)
+Ashish Tiwari          (SRI)
+Salvatore La Torre     (UNISA Salerno)
+R Venkatesh            (TCS, Pune)
+Farn Wang              (NTU, Taiwan)
+Shaofa Yang            (CAS, Beijing)
+Hsu-Chun Yen           (NTU, Taiwan)
+
+Invited Speakers
+----------------
+
+Carla Ferreira, U Nova De Lisboa
+Gerwin Klein,  CSIRO and U New South Wales
+Helmut Seidl, TU Munich
+
+Organizing Committee
+--------------------
+
+Kumar Madhukar (TCS, Pune)
+Tukaram Muske (TCS, Pune)
+Ulka Shrotri (TCS, Pune) (Chair)
+
+Steering Committee
+------------------
+
+E Allen Emerson (UT Austin)
+Teruo Higashino (Osaka U)
+Oscar H Ibarra (UC Santa Barbara)
+Insup Lee (U Pennsylvania)
+Doron A Peled (Bar Ilan U)
+Farn Wang (NTU, Taiwan)
+Hsu-Chun Yen (NTU, Taiwan)
+
+More details are available at the conference website
+www.iarcs.org.in/atva2017.

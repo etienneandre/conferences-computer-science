@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "Satellite of CCGrid 2017"
+
+[[cfp]]
+file = "cfp/TAPEMS-2017.pdf"
+stage = "initial"

@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 journal = "Best papers of the conference will be invited to submit an extended version of their article at a special (topical) issue of the Springer Nature of Computer Science"
+
+[[cfp]]
+file = "cfp/ICTSS-2025.pdf"
+stage = "initial"

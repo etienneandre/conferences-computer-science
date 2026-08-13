@@ -1,0 +1,52 @@
+European Association for Programming Languages and Systems
+First CFP: 6th Working Formal Methods Symposium
+by Vlad Rusu on March 17 |  View on site
+FROM 2022 - Working Formal Methods Symposium - Iasi, Romania, 19-20 September 2022
+FROM 2022
+Important Dates
+Abstract submission:    July 8, 2022
+Paper submission:   July 15, 2022
+Author notification:    August 25, 2022
+Symposium days:     September 19-20, 2022
+Invited Speakers
+Dines Björner, Technical University of Denmark
+Denisa Diaconescu, University of Bucharest  & Runtim Verification Inc.
+Thomas Genet, University of Rennes
+Ioana Leustean, University of Bucharest
+Dorel Lucanu, Alexandru Ioan Cuza University of Iasi
+Luigia Petre,  Åbo Akademi University
+Topics of interest
+
+< em>Areas and formalisms of interest include:
++ Category theory in computer science
++ Distributed systems and concurrency
++ Formal languages and automata theory
++ Formal modelling, verification and testing
++ Logic in computer science
++ Logical frameworks
++ Mathematical structures in computer science
++ Models of computation
++ Semantics of programming languages
++ Type systems
++ Domain Science and Engineering
+Methods of interest include:
++ Automated reasoning and model generation
++ Automated induction
++ Certified programs
++ Data-flow and control-flow analysis
++ Deductive verification
++ Mechanized proofs
++ Model checking
++ Proof mining
++ Symbolic computation
++ Term rewriting
+Applications of interest include:
++ Computational logic
++ Computer mathematics
++ Knowledge representation, ontology reasoning, deductive databases
++ Program analysis
++ Verification and synthesis of software and hardware
++ Uncertainty reasoning and soft computing
+Contact
+Vlad Rusu (chair)
+Vlad.Rusu@inria.fr

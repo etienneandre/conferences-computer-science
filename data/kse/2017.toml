@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "Notification extension: 5+4 days in 2015 (with notification on the initial notification date…), 7 days (2016). Accepted papers with high quality will be invited to submit to a special issue of KSE 2016 in high quality scientific journals."
+
+[[cfp]]
+file = "cfp/KSE-2017.txt"
+stage = "initial"

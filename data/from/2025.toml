@@ -20,3 +20,11 @@ license = "cc-by"
 
 [extra]
 journal = "Selected papers will be invited to submit an extended version to the journal Scientific Annals of Computer Science."
+
+[[cfp]]
+file = "cfp/FROM-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FROM-2025-extended.txt"
+stage = "extended"

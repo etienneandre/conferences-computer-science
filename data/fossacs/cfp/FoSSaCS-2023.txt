@@ -1,0 +1,110 @@
+*********************************************************************
+
+                        CALL FOR PAPERS
+
+  FoSSaCS '23: 26th International Conference on Foundations of
+          Software Science and Computation Structures
+                        24-27 April 2023
+
+        Part of 26th European Joint Conferences on Theory and
+                      Practice of Software
+                            ETAPS 2023
+
+                  https://etaps.org/2023/fossacs
+
+                   Programme Committee Co-chairs
+          Orna Kupferman (Hebrew University of Jerusalem)
+          Pawel Sobocinski (Tallinn University of Technology)
+
+
+*********************************************************************
+
+                        IMPORTANT DATES
+
+        Paper submission:   October 13, 2022, 23:59 AoE
+        Rebuttal period:    December 6 - December 8, 2022
+        Paper notification: December 22, 2022
+
+ For the first time, FoSSaCS welcomes voluntary submissions of
+ artefacts such as formalized proofs for evaluation after paper
+ acceptance; the outcome will not change the paper acceptance decision.
+
+        Artefact submission deadline: January 5, 2023
+        Artefact notification:        February 9, 2023
+
+*********************************************************************
+
+FoSSaCS seeks original papers on foundational research with a clear
+significance for software science. The conference invites submissions
+on theories and methods to support the analysis, integration,
+synthesis, transformation, and verification of programs and software
+systems. The specific topics covered by the conference include, but
+are not limited to, the following:
+
+ - categorical models and logics;
+ - language theory, automata, and games;
+ - modal, spatial, and temporal logics;
+ - type theory and proof theory;
+ - concurrency theory and process calculi;
+ - rewriting theory;
+ - semantics of programming languages;
+ - program analysis, correctness, transformation, verification, and
+   synthesis;
+ - logics of programming;
+ - emerging models of computation;
+ - logical aspects of computational complexity;
+ - models of system security;
+ - logical foundations of databases
+
+
+*********************************************************************
+
+                 SUBMISSION INSTRUCTIONS
+
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Feasychair.org%2Fconferences%2F%3Fconf%3Dfossacs2023&amp;data=05%7C01%7C%7C46df50214eef4318639308da850a3fa2%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C0%7C637968576299038397%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=U3zQJfa4fu14fdmykM5xgGs38y6uk1ReSlYlnvbcNEE%3D&amp;reserved=0
+
+All accepted papers will appear in the proceedings and have
+presentations during the conference. We plan FoSSaCS 2023 as an
+on-site conference; nonetheless, remote attendance and presentation
+will be made possible.
+
+Submissions must follow the formatting guidelines of Springer's LNCS,
+be *at most 18 pages in length*  (bibliography included) and be
+submitted electronically in pdf through the Easychair author interface
+linked above. Submissions not adhering to the specified format and
+length may be rejected immediately.
+
+Submitted papers must be in English, presenting original research.
+They must be unpublished and not submitted for publication elsewhere.
+
+*********************************************************************
+
+                    PROGRAMME COMMITTEE
+
+Marco Carbone (IT University of Copenhagen)
+Ugo Dal Lago (Università di Bologna and INRIA Sophia Antipolis)
+Alwen Tiu (The Australian National University)
+Shahar Maoz (Tel Aviv University)
+Marco Gaboardi (Boston University)
+Patrick Baillot (CNRS and Lille)
+Frank Valencia (LIX, Ecole Polytechnique)
+Kuldeep S. Meel (National University of Singapore)
+Emmanuel Filiot (Université Libre de Bruxelles)
+Joel Ouaknine (Max Planck Institute for Software Systems)
+Filip Murlak (University of Warsaw)
+Alexandra Silva (Cornell University)
+Lars Birkedal (Aarhus University)
+Stefan Milius (FAU Erlangen)
+Koko Muroya (RIMS, Kyoto University)
+Barbara König (University of Duisburg-Essen)
+Thomas Colcombet (CNRS)
+Bartek Klin (University of Oxford)
+Bart Jacobs (Radboud University)
+Assia Mahboubi (INRIA)
+Sam Staton (University of Oxford)
+Parosh Aziz Abdulla (Uppsala University)
+Daniele Varacca (Université Paris-Est Créteil)
+Giovanni Bacci (Aalborg University)
+Véronique Bruyère (University of Mons)
+Nathalie Bertrand (INRIA)
+

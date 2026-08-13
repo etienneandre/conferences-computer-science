@@ -1,0 +1,69 @@
+CALL FOR PAPERS
+
+8th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS)
+May 12-15, 2025, Emden, Germany
+Website: https://icps2025.ieee-ies.org
+
+PDF version of the CFP: https://icps2025.ieee-ies.org/ICPS_2025_CFP.pdf
+
+
+The 8th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS) will be held from Monday to Thursday, May 12-15, 2025, in the idyllic city of Emden, Germany. Continuing with the success of the past ICPS-Editions held in Russia (2018), Taiwan (2019), Finland (2020), Canada (2021), the UK (2022), China (2023), and the USA (2024), ICPS 2025, under the motto “The Ongoing Digital Transformation”, aims to provide an international platform for cutting-edge research and professional interactions for the development of ICPS. Industry experts, researchers, and academics will share ideas and experiences surrounding frontier technologies, breakthroughs, innovative solutions, research and innovation results, as well as initiatives related to ICPS, AI-assisted Digital Transformation, and their applications. The conference program will feature a rich program, including research and innovation papers, as well as special sessions, tutorials, exhibitions,  and an industry forum with thematic dedicated industry talks.
+
+Topics within the scope of the conference (but not limited to):
+
+- ICPS Architectures & Engineering:
+Industry Architectures, Industry ICPS Standards (RAMI 4.0, IIRA, etc.), Industrial IoT, Engineering Methods and Tools, ICPS Lifecycle Management, Integration, Humans and ICPS (H-CPS-I), Safety, Engineering Systems of ICPS, ICPS Standards, ICPS Development/Engineering Best Practices.
+
+- ICPS Theory and Technologies: 
+Core ICPS Technologies, Security & Trust, Communication Networks for ICPS, Connectivity OT/IT, Control, Information Processing, Security, IoT/IoS, Edge/Fog/Cloud Computing.
+
+- ICPS and Data Science: 
+Big/Smart Data, Analytics, Synthetic Data, Data Management Technologies, Data Models, Semantics, Ontologies, Simulations.
+
+- ICPS Automation & Autonomy: 
+Automation within ICPS Context for Industries (Agriculture, Healthcare, Factory, Maintenance, Manufacturing, Retail, Service, Supply Chain, Infrastructures, ICPS-Based Autonomous Systems, Robotics).
+
+- ICPS Energy: 
+Cyber-Physical Energy System Design and Operation, Renewable Energy, Energy Storage, Power Trains, Electric Vehicles, Microgrid, Smart Grid.
+
+- ICPS Advanced Modeling, Control, and Optimization: 
+ICPS System Modeling, ICPS Control Theory and Applications, System Optimization and Control.
+
+- ICPS Emerging Applications: 
+Smart Manufacturing, Smart Cities, Smart Home and Living, Smart Farming, Mobility, Water & Waste Water Management, Mining, Oil & Gas, Intelligent Enterprise, Smart Transportation, Internet of Underwater Things, Smart Medical Systems.
+
+- ICPS Education, Management, and Society: 
+Digital Skills, Education Curricula, Lifelong Learning & Training, Digital Society, Future of Work, Industry 5.0, Innovation Management, Visions/Roadmaps, Strategic Impact, Societal Implications, Sustainability, Innovation Management, Innovation Ecosystems.
+
+- Artificial Intelligence in ICPS: 
+Machine Learning, Deep Learning, Generative AI, Large Language Models, AI Explainability, AI on Edge/Cloud, Neuromorphic Computing, Foundation Models, AI Industrial Experiences.
+
+- Digital Transformation, Paradigms, Methods and Tools: 
+Industrial Metaverse, Asset Administration Shell (AAS), Digital Twin (DT), Data Spaces, Digital Product Passport (DPP), Connectivity and Interoperability.
+
+
+Important Dates (deadlines)
+Paper Submission Round #1:      02-Dec-2024 (*)
+Paper Acceptance (for #1):      08-Feb-2025
+Paper Submission Round #2:      17-Feb-2025
+Paper Acceptance (for #2):      24-Mar-2025
+Work in Progress:               09-Mar-2025
+Work in Progress Acceptance:    24-Mar-2025
+Special Session Proposal:       20-Dec-2024
+Tutorial Proposal:              15-Mar-2025
+Final Paper Submission:         18-Apr-2025
+Author Registration:            18-Apr-2025
+Early Registration:             18-Apr-2025
+
+(*) Authors requiring a VISA to Germany should submit papers by this date to ensure enough time for a VISA application. Acceptance letters for the VISA application are issued after official acceptance notification.
+
+
+Special Sessions: Prospective participants of ICPS 2025 are encouraged to propose (and upon approval, organize) special sessions in the focus areas under the conference topics.
+
+Exhibitions & Industry Forum: ICPS 2025 Exhibitions and Industry Forum promote presentations, demonstrations, and industry talks addressing cutting-edge research and innovation within the scope of the conference.
+
+Tutorials: Several tutorials are planned to discuss the latest trends in ICPS. Prospective speakers should apply asap.
+
+Paper Submission: Prospective paper authors are requested to electronically submit full papers in English following the instructions available on the conference website. Accepted and presented papers will be copyrighted by IEEE and published in conference proceedings, which will be eligible for inclusion in the IEEE Xplore online Digital Library and EI Compendex database.
+
+For further information, please visit https://icps2025.ieee-ies.org

@@ -1,0 +1,103 @@
+
+                                Call for Talks
+
+
+         9th International Workshop on Synthesis of Complex Parameters
+                                 (SynCoP 2024)
+
+                             April 6th - 7th, 2024
+                          Affiliated with ETAPS 2024
+                          Luxembourg City, Luxembourg
+
+https://sites.lipn.univ-paris13.fr/workshops/syncop24
+
+
+
+SynCoP 2024 aims at bringing together researchers working on verification and
+parameter synthesis for systems with discrete or continuous parameters, in
+which the parameters influence the behaviour of the system in ways that are
+complex and difficult to predict. Such problems may arise for real-time, hybrid
+or probabilistic systems in a large variety of application domains. The
+parameters can be continuous (e.g. timing, probabilities, costs) or discrete
+(e.g. number of processes). The goal can be to identify suitable parameters to
+achieve desired behaviour, or to verify the behaviour for a given range of
+parameter values.
+
+Systems composed of a finite but possibly arbitrary number of identical
+components occur everywhere from hardware design (e.g. cache coherence
+protocols) to distributed applications (e.g. client-server applications).
+Parameterised verification is the task of verifying the correctness of this
+kind of systems regardless the number of their components.
+
+The scientific subject of the workshop covers (but is not limited to) the
+following areas:
+
+* parameter synthesis,
+* parametric model checking,
+* regular model checking,
+* robustness analysis,
+* parameterised logics, decidability and complexity issues,
+* formalisms such as parametric timed and hybrid automata, parametric time(d)
+  Petri nets, parametric probabilistic (timed) automata, parametric Markov
+  Decision Processes, networks of identical processes,
+* specifications in automata and logic, term and graph rewriting, Petri nets,
+  process algebra, ...
+* validation methods via assertional and regular model checking, reachability
+  and coverability decision procedures, abstractions, theorem proving,
+  constraint solving, ...
+* interactions between discrete and continuous parameters,
+* tools and applications to hardware design, cache coherence protocols,
+  security and communication protocols, multithreaded and concurrent programs,
+  programs with relaxed memory models, mobile and distributed systems, database
+  languages and systems, biological systems, ...
+
+We thus invite short abstracts that present recently published works, ongoing
+works, or works under submission.
+
+SUBMISSION GUIDELINES
+
+SynCoP seeks short abstracts only.
+
+The page limit is *3 pages* (excluding bibliography) in single column. All
+accepted abstracts will be made available to the participants of the workshop
+but they will not result in referenced publications.
+
+Authors of accepted abstracts will be required to give an informal presentation
+during the workshop.
+
+Submission must be in English and submitted in PDF format via a simple email to
+syncop24@lipn.univ-paris13.fr.
+
+IMPORTANT DATES (AoE)
+
+ * Submission: February 4, 2024, extended to February 25, 2024
+ * Notification: February 26, 2024
+ * Final version: March 17, 2024
+ * Workshop: April 6-7, 2024
+
+GENERAL CHAIRS
+
+Jaime Arias, CNRS, LIPN, Université Sorbonne Paris Nord, France
+Guillaume Cantin, LS2N, Université de Nantes, France
+
+STEERING COMMITTEE
+
+Étienne André, LIPN, Université Sorbonne Paris Nord, CNRS, France
+Benoît Delahaye, LS2N, Université de Nante, France
+Giorgio Delzanno, Università degli studi di Genova, Italy
+Peter Habermehl, Université Paris 7, CNRS, France
+Kim Larsen, Aalborg University, Denmark
+Wojciech Penczek, IPI-PAN, Warszawa, Poland
+Laure Petrucci, LIPN, Université Sorbonne Paris Nord, CNRS, France
+Jaco van de Pol, Aarhus University, Denmark
+
+VENUE AND TRAVEL INFORMATION
+
+SynCoP 2024 is part of the European Joint Conferences on Theory and Practice of
+Software (ETAPS 2024). Information about venue and travelling in/to Luxembourg
+can be found at the webpage of ETAPS.
+
+WORKSHOP ORGANISERS AND CONTACT
+
+All questions about the workshop should be emailed to Jaime Arias and Guillaume
+Cantin at syncop24@lipn.univ-paris13.fr.

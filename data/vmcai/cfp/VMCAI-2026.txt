@@ -1,0 +1,15 @@
+VMCAI provides a forum for researchers from the communities of
+Verification, Model Checking, and Abstract Interpretation, facilitating
+interaction, cross-fertilization, and advancement of hybrid methods that
+combine these and related areas. We invite regular papers, tools papers,
+and case studies.
+
+VMCAI 2026 will take place during January 12-13, 2026 as a physical
+(in-person) event in Rennes, France, co-located with POPL 2026.
+
+Submission deadline: 10th September 2025.
+
+Notification: 6th November 2025
+
+For more information, please visit the VMCAI 2026 website:
+https://conf.researchr.org/home/VMCAI-2026

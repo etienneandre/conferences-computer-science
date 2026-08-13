@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Page limits include bibliography and any appendices. A special journal issue is planned for extended versions of selected papers from iFM 2019 (to be confirmed)."
+
+[[cfp]]
+file = "cfp/iFM-2019.txt"
+stage = "initial"

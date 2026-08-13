@@ -1,0 +1,58 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 							40th IEEE Real-Time Systems Symposium (RTSS)
+      	  							Hong Kong, China, December 3-6, 2019			    
+  	       								http://2019.rtss.org/
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+										CALL FOR PAPERS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+The IEEE Real-Time Systems Symposium (RTSS) is the premier conference in the field of real-time systems, and is a venue for researchers and practitioners to showcase innovations covering all aspects of real-time systems, including theory, design, analysis, implementation, evaluation, and experience. RTSS’19, celebrating the 40th anniversary of the event, continues the trend of making RTSS an expansive and inclusive event, striving to embrace new and emerging areas of real-time systems research.
+
+RTSS’19 welcomes submissions of high-quality, original research papers related to both real-time system theory and practice. Submissions can go to either the real-time system track (Track 1) or the design and application track (Track 2) which covers Cyber-Physical Systems, HW-SW integration and system-level design, and Internet of Things (IoT). Details of the tracks can be found at www.rtss.org. To be in scope, ALL submissions must address some form of real-time requirements such as deadlines, response times or delays/latency.
+
+RTSS’19 especially welcomes new and emerging topics provided that they address some aspects of real-time requirements as stated above. Such topics may include machine learning techniques for design and analysis of real-time systems, system design approaches for achieving real-time machine learning, resource management in autonomous systems, system-level solutions for real-time applications exploiting domain-specific accelerators, etc.
+
+
+---------------------------------------------------------
+PAPER SUBMISSIONS
+
+Submitted papers must describe original work not previously published or concurrently submitted elsewhere. The main body of each submitted paper is limited to 11 pages of technical content with additional pages permitted for the bibliography and acknowledgments only. Submissions must be formatted according to IEEE conference paper guidelines. More details can be found at https://www.softconf.com/j/rtss2019. All submitted papers must comply with the double-blind submission requirements.
+
+
+---------------------------------------------------------
+AWARDS
+
+A selection of papers will receive recognition as outstanding papers, and will be highlighted as such in the conference proceedings. Best paper and best student paper awards will be presented at the conference, along with an award for the best presentation. Authors of outstanding papers will be invited to submit an extended version of their work to a special issue of a journal.
+
+
+---------------------------------------------------------
+IMPORTANT DATES
+
+Paper submission deadline: May 30, 2019 (FIRM)
+Rebuttal period: July 15-19, 2019
+Notification of acceptance: August 5, 2019
+Submission of camera-ready papers: September 12, 2019
+Conference: December 3-6, 2019
+
+
+---------------------------------------------------------
+CONFERENCE HIGHLIGHTS
+
+RTSS'19 introduces a new event, Hot Topics Day, to showcase new trends and developments related to the real-time system field. Hot Topics Day includes special sessions, tutorials, as well as half-day and full-day workshops.  The conference also includes a Brief Presentations session and RTSS@Work demonstrations.
+
+
+---------------------------------------------------------
+ORGANIZERS
+
+Program Chair
+X. Sharon Hu, University of Notre Dame, USA
+
+General Chair
+Robert I. Davis, University of York, UK
+
+Track Chair
+Liliana Cucu-Grosjean, Inria, France
+
+Local Organizer
+Nan Guan, The Hong Kong Polytechnic University, China

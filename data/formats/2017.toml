@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017. Co-located with QEST and CONCUR."
+
+[[cfp]]
+file = "cfp/FORMATS-2017.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORMATS-2017-extended.txt"
+stage = "extended"

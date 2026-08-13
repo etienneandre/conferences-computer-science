@@ -1,0 +1,122 @@
+  Dear Sir/Madam
+
+Thank you for supporting the conference.  We would like to inform you that the submission deadline has been extended to 21st February 2020. We thank you for your precious contributions to the different previous editions of this conference and we encourage you to disseminate this Call For Paper in your network and to submit your recent research results to this new conference edition.  
+
+Best regards,
+ICOST Program Chair
+
+[—————————————— Deadline Extended———————————————]
+
+Call for papers
+18th International Conference On Smart Living and Public Health
+"The Digital Technologies Impact on Public Health in Developed and Developing Countries"
+24 - 26 June 2020, Hammamet, Tunisia
+http://www.icost-society.org 
+
+This year we are organizing the 18th edition of the International Conference On Smart Living and Public Health (ICOST), which will be held for the first time in the African continent, in Hammamet, Tunisia.
+
+The conference will be organized by the Digital Research Center of Sfax, Tunisia, Institut Mines-Telecom, Paris, France, and the Laboratory on Development and Control of Distributed Applications (ReDCAD), Tunisia . Our theme for this year will be "The Digital Technologies Impact on Public The Digital Technologies Impact on Public Health in Developed and Developing Countries."
+
+ICOST provides a premier venue for the presentation and discussion of research in the design, development, deployment and evaluation of Artificial intelligence for health, Smart Urban Environments, Assistive Technologies, Chronic Disease Management, Coaching and Health Telematics systems.
+
+The conference features a dynamic program incorporating a range of technical, clinical, and industrial related keynote speakers, plenary oral sessions, and poster presentations along with prototypes demonstrations and technical exhibits.
+
+## Important Dates ##
+
+- Full Papers Submission: 21 February 2020 (extended from: 10 February 2020)
+- Papers Acceptance Notification: 23 March 2020
+- Camera-Ready and Registration: 6 April 2020
+- Conference: 24 - 26 June 2020
+
+## Scope and Aims ##
+
+ICOST 2020 is especially interested in receiving submissions focused on technologies, humanities and social sciences, clinical, and public health for an enhanced Well-being and Health for all nations. 
+
+ICOST 2020 topics include, but are not limited to:
+
+- AI for participatory and personalized health
+- Deep learning for health and well-being
+- Big Data analytics in e-health
+- AI and Ethics
+- Internet of Things (IoT) for smart living and e-Health
+- Wearable Sensors/Integrated Micro/Nano Systems for wellbeing and e-Health
+- Urban Cities design for well-being and e-health
+- Smart Urban Spaces and new Assistive Living Space Concepts in the Smart City
+- Policy and Guidelines for Public Health 2.0 and Quality of Life in Smart City
+- E-Health and Chronic Diseases Management
+- Assistive Technology for ageing and frail people
+- Persuasive and Supportive Mobile e-Health
+- Coaching and Urban Gaming for e-Health
+- Innovative Therapeutic approaches and systems
+- Personal Robotics and smart Wheelchairs for e-health
+- Collaborative robotics (Cobots)
+- Virtual personal assistant for e-Health
+- Tele-Assistance and Tele-Rehabilitation
+- Smart Homes/Home Networks/Residential Gateways
+- Context Awareness/Autonomous Computing
+- Modeling of Physical and Conceptual Information in Smart Environments
+- Human-Machine Interfaces
+- Health in All Policies (HiAP)
+- Public health and urban Data Collection and Processing
+- Preventive and predictive medicine
+- Participatory Tele-health systems
+- Translational medicine for Health and Well-being
+- Protective systems/devices against common and emerging infectious diseases
+- Social acceptance/Privacy/Data protection/Security Issues
+- Health Technology Assessment and Impact Analysis
+- Human Factors, Ethics and Usability of e-health solutions
+- Trusted systems and verification for health and wellness
+
+## Papers Submission ##
+
+Submitted papers shall not exceed 12 pages and must follow the guidelines found on the conference website:
+http://www.icost-society.org/authorinstructions.html
+
+Papers must be submitted electronically in PDF and Word/Latex format at the following address:
+https://easychair.org/conferences/?conf=icost_2020
+
+Submitted papers will be blind reviewed by an international committee bringing together a multidisciplinary experts' renown worldwide in different fields of research (Engineering, clinical, public health, humanities and social sciences, etc.).
+
+## Publication ##
+
+ICOST Volumes are published by Springer as part of the Lecture Notes in Computer Science (LNCS) series which are indexed by the EI Engineering Index
+(Compendex and Inspec databases), Scopus and ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI
+Web of Science. The source can be found here: http://www.springer.com/computer/lncs?SGWID=0-164-6-1068921-0
+
+Accepted papers will be published by Springer in Open Access. Selected papers will be invited to submit extended version to be published in a Special Issue of Sensors-MDPI Open-Access Journal (Impact Factor 3.031).
+
+## Conference Committee ##
+
+General Chair 
+Mohamed Jmaiel, University of Sfax, Tunisia
+
+Conference Co-Chair 
+Mounir Mokhtari, Institut Mines-TÈlÈcom, France
+
+Program Committee Chairs
+Bessam Abduleazak, University of Sherbrooke, Canada
+Hamdi Aloulou, Digital Research Center, Sfax, Tunisia / Institut Mines-Telecom, France
+
+Organizing Committee Chair
+Slim Kallel, University of Sfax, Tunisia
+
+Publicity Chair
+Afef Mdhaffar, University of Sfax, Tunisia
+
+## Scientific Committee ## 
+
+Maria Teresa Arredondo, Universidad PolitÈcnica de Madrid, Spain
+Mounir Mokhtari, Insitut Mines Telecom, France
+Mohamed Jmaiel, Digital Reseach Center of Sfax, Tunisia
+Jose Pagan, New York University, USA
+Sumi Helal, Lancaster University, UK
+Hisato Kobayashi, Hosei University, Japan
+Daqing Zhang, Telecom SudParis, France
+Maria Fernanda Cabrera, Universidad PolitÈcnica de Madrid, Spain
+Jongbae Kim, Yonsei University, Korea
+Bessam Abdulrazak, University of Sherbrooke, Canada
+Dong Jin Song, National University of Singapore, Singapore
+Hamdi Aloulou, Digital Research Center, Sfax, Tunisia / Institut Mines TÈlÈcom, France
+Sungyoung Lee, Kyung Hee University, Korea
+Daby Sow, IBM Watson, New York, USA
+Timo Jamsa, Oulu University, Finland 

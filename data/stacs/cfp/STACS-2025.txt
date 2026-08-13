@@ -1,0 +1,94 @@
+The 42nd International Symposium on Theoretical Aspects of Computer Science is planned to take place from March 4th to March 7th in Jena, Germany https://www.stacs2025.de/.
+
+STACS 2025 will consist of two tracks, A and B. Track A focuses on algorithms, data structures and complexity, while track B focuses on automata, logic, semantics, and theory of programming.
+
+Authors are invited to submit papers presenting original and unpublished research on theoretical aspects of computer science. Topics covered by the tracks include, but are not limited to the following:
+
+Track A. Algorithms, Data Structures and Complexity
+
+Design of parallel algorithms
+Distributed algorithms
+Approximation algorithms
+Parameterized algorithms
+Randomized algorithms
+Analysis of algorithms
+Combinatorics of data structures
+Computational geometry
+Cryptography
+Algorithms for machine learning
+Algorithmic game theory
+Quantum algorithms
+Computational and structural complexity theory
+Parameterised complexity
+Randomness in computation
+
+Track B. Automata, Logic, Semantics and Theory of Programming
+
+Automata theory
+Games and multi-agent systems
+Algebraic and categorical methods
+Models of computation
+Concurrency
+Timed systems
+Finite model theory
+Database theory
+Semantics
+Type systems
+Program analysis
+Specification and verification
+Rewriting and deduction
+Learning theory
+Logical aspects of computability and complexity
+
+
+Important Dates
+
+Submission deadline:		26 September 2024, 23:59 AoE
+Rebuttal:			15-21 November 2024
+Notification:			16 December 2024
+Camera ready:			mid-January 2025
+Conference:			4-7 March 2025
+
+
+Submissions
+
+Format of submissions
+
+Submissions should be made through EasyChair at https://easychair.org/conferences/?conf=stacs2025
+
+Authors are invited to submit an extended abstract or a full paper with at most 15 pages; this page limit excludes the title page, the references section, and a possible appendix. The title page should contain the title of the paper and the abstract, but no author information. The first section of the paper should start on the next page, and the appendix, if any, should also start on the next page after the bibliography.
+In preparation of submissions, the usage of the LIPIcs style file is mandatory; no changes to font size, page geometry, etc. are permitted. Please refer to LIPIcs author instructions. Submissions submitted after the deadline will not be considered, and submissions not adhering to the expected format risk rejection without consideration of the content.
+Submissions should be made to appropriate tracks. The PCs reserve the right to reassign a paper to a different track, if deemed necessary.
+The extended abstract should contain a succinct statement of the considered issues and of their motivation, a summary of the main results, and a brief explanation of their significance, accessible to non-specialist readers. This should be followed by a rigorous derivation of the claimed results. Proofs omitted due to space constraints should be put into an appendix, to be read by the program committee members at their discretion. It is allowed and encouraged to provide the full version of the paper as the appendix.
+Simultaneous submission to other conferences with published proceedings or to journals is not allowed. PC members are allowed to submit their works as well, except for PC chairs.
+
+Double-blind reviewing
+
+As in the previous years, STACS 2025 will employ a lightweight double-blind reviewing process: submissions should not reveal the identity of the authors in any way. The purpose of the double-blind reviewing is to help PC members and external reviewers come to an initial judgment about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted or anonymised. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For example, authors may post drafts of their papers on the web, submit them to arXiv, and give talks on their research ideas.
+
+Conflicts of interest
+
+Authors will be invited to give a list of persons with a Conflict of Interest (COI). A Conflict of Interest is limited to the following categories:
+
+Family member or close friend.
+Ph.D. advisor or advisee (no time limit), or postdoctoral or undergraduate mentor or mentee within the past five years.
+Person with the same affiliation.
+Involved in an alleged incident of harassment. (It is not required that the incident be reported.)
+Reviewer owes the author a favor (e.g., recently requested a reference letter).
+Frequent or recent collaborator (within last 3 years) who cannot objectively review your work.
+
+If you are unsure about a conflict in which a reviewer may have positive bias towards your paper, we recommend erring on the side of not declaring it since PC members and sub-reviewers will be also asked if they feel that they can fairly evaluate your paper. If an author believes that they have a valid reason for a Conflict of Interest not listed above, then they can contact PC chairs. Falsely declared conflicts (i.e., do not satisfy one of the listed reasons) risk rejection without consideration of merit. Authors will be asked to declare conflicts with PC members during submission, but an author can contact PC chairs directly if they have a conflict with an individual who is likely to be asked to serve as a subreviewer for the paper.
+
+Rebuttal
+
+There will be a rebuttal period for authors. Authors will receive the reviews of their submissions and have a few days to prepare and submit rebuttals. These rebuttals become part of the PC discussions, but entail no specific responses. Rebuttals will be handled through EasyChair.
+
+Conference
+
+At least one author of each accepted paper is expected to register at the conference. For authors who cannot present their paper in person, a possibility for remote presentation will be offered.
+
+Proceedings
+
+Accepted papers will be published in the proceedings of the symposium. As usual, these proceedings will appear in the Leibniz International Proceedings in Informatics (LIPIcs) series, based at Schloss Dagstuhl. This guarantees perennial, free and easy electronic access, while the authors retain the rights over their work. With their submission, authors consent to sign a license authorizing the program committee chairs to organize the electronic publication of their paper, provided the paper is accepted.
+The final camera-ready of each accepted paper should be formatted in accordance with the LIPIcs guidelines and taking reviewer comments into account. General instructions regarding the preparation of the camera-ready version and the style can be found at LIPIcs author instructions. Notice that there is a limit of 15 pages for the main body of the final camera-ready, excluding the bibliography, the front page(s) (authors, affiliation, keywords, abstract, ...) and a brief appendix (of up to 5 pages) from this page limit. Any appendices to the initial submission were officially not under review and thus should not be included in the proceedings. In general, major new content can be added only if suggested by the reviewers. You are however more than welcome to have the proceedings paper link to the full version published elsewhere (e.g., on arXiv). The precise link to the full version may even be provided later, during author approval period (expected in February).
+

@@ -1,0 +1,240 @@
+=========================================================================
+                          EMBEDDED SYSTEMS WEEK
+          Call for Papers: CASES, CODES+ISSS, EMSOFT, MEMOCODE
+  Call for Proposals: Workshops, Tutorials, Educations, Special Sessions
+
+         Raleigh, North Carolina, USA, September 29 - October 4, 2024
+                           https://esweek.org/
+=========================================================================
+
+-------------------------------------------------------------------------
+About Embedded Systems Week (ESWEEK)
+-------------------------------------------------------------------------
+Embedded Systems Week (ESWEEK) is the premier event covering all aspects
+of hardware and software design for smart, intelligent and connected
+computing systems. By bringing together three leading conferences
+(CASES, CODES+ISSS, EMSOFT), one symposium (MEMOCODE), and several
+workshops and tutorials, ESWEEK allows attendees to benefit from a
+wide range of topics covering the state of the art in embedded systems
+research and development.
+
+https://esweek.org/
+
+Registered attendees can attend sessions in any of the ESWEEK
+conferences (CASES, CODES+ISSS, EMSOFT). Tutorials, symposium
+(MEMOCODE), and workshops require can be registered individually
+or in addition with the ESWEEK registration.
+
+-------------------------------------------------------------------------
+Timeline
+-------------------------------------------------------------------------
+Journal Track:
+- Abstract Submission: March 24, 2024 (AoE)
+- Full Paper Submission: March 31, 2024 (AoE, firm)
+- Notification of Acceptance: July 14, 2024
+
+Work-in-Progress and Late Breaking Tracks:
+- Paper Submission: June 02, 2024 (AoE, firm)
+- Notification of Acceptance: June 30, 2024
+
+Workshops, Tutorials, Education Classes, and Special Sessions:
+- Submission: March 24, 2024
+
+-------------------------------------------------------------------------
+Review Process
+-------------------------------------------------------------------------
+ESWEEK has three publication venues:
+
+1. Journal Track: Full-length papers describe mature work and are
+limited to 12 pages in IEEE double column format. Accepted papers will
+be published in IEEE Transactions on Computer-Aided Design of
+Integrated Circuits and Systems (TCAD) after two stages of
+review. Articles not accepted after the second stage will still have
+the possibility of continuing as regular journal papers in TCAD
+(pending a decision from the TPC chairs).
+
+2. Late Breaking (LB) Result Track: LB papers disseminate complete and
+mature works written in a condensed form and are limited to 4 pages in
+IEEE double column format. Accepted papers will be published in IEEE
+Embedded Systems Letters (ESL) after one stage of review. Articles not
+accepted after this stage will still have the possibility of
+continuing as regular journal papers in ESL (pending a decision from
+the TPC chairs).
+
+3. Work-in-Progress (WiP) Track: WiP papers present not-yet-mature but
+promising research work, and are limited to extended abstracts of 1
+page in IEEE double column format. Accepted WiP papers will be
+published in the ESWEEK Proceedings of CASES, CODES+ISSS, or EMSOFT,
+depending on where they have been submitted.
+
+These three venues are mutually exclusive, i.e., a work can only be in
+submission to one of the three categories. Authors of WiP papers have
+the opportunity to publish the extended final form of their work when
+it has matured in any conference or journal they prefer. Special
+Session papers, Keynote/Tutorial abstracts, etc. are also published in
+the ESWEEK Proceedings of the respective conferences. All these
+publications will be listed as regular publications within the ACM
+and/or IEEE digital libraries. For more information on the publishing
+process, refer to:
+
+https://esweek.org/author-information/
+
+-------------------------------------------------------------------------
+CASES: International Conference on Compilers, Architectures,
+and Synthesis for Embedded Systems
+-------------------------------------------------------------------------
+CASES is a premier forum where researchers, developers and practitioners
+exchange information on the latest advances in compilers and
+architectures for high-performance, low-power embedded systems. The
+conference has a long tradition of showcasing leading edge research
+in embedded processor, memory, interconnect, storage architectures
+and related compiler techniques targeting performance, power,
+predictability, security, reliability issues for both traditional
+and emerging application domains. In addition, we invite innovative
+papers that address design, synthesis, and optimization challenges
+in heterogeneous and accelerator-rich architectures.
+
+https://esweek.org/cases/
+
+CASES Program Chairs:
+Jana Doppa, Washington State University, US
+Jeronimo Castrillon, TU Dresden, DE
+
+-------------------------------------------------------------------------
+CODES+ISSS: International Conference on Hardware/Software Codesign
+and System Synthesis
+-------------------------------------------------------------------------
+The International Conference on Hardware/Software Codesign and System
+Synthesis is the premier event in system-level design, modeling,
+analysis, and implementation of modern embedded and cyber-physical
+systems, from system-level specification and optimization down to system
+synthesis of multi-processor hard-ware/software implementations. The
+conference is a forum bringing together academic research and industrial
+practice for all aspects related to system-level and hardware/software
+co-design.
+
+https://esweek.org/codes-isss/
+
+CODES+ISSS Program Chairs:
+Muhammad Shafique, New York University, US
+Prabhat Mishra, University of Florida, US
+
+-------------------------------------------------------------------------
+EMSOFT: International Conference on Embedded Software
+-------------------------------------------------------------------------
+The ACM SIGBED International Conference on Embedded Software (EMSOFT)
+brings together researchers and developers from academia, industry,
+and government to advance the science, engineering, and technology of
+embedded software development. Since 2001, EMSOFT has been the premier
+venue for cutting-edge research in the design and analysis of software
+that interacts with physical processes, with a long-standing tradition
+for results on cyber-physical systems, which compose computation,
+networking, and physical dynamics.
+
+https://esweek.org/emsoft/
+
+EMSOFT Program Chairs:
+Alessandro Biondi, Scuola Superiore Sant'Anna, IT
+Martina Maggio, Lund University, SW & Saarland University, DE
+
+-------------------------------------------------------------------------
+MEMOCODE: International Symposium on Formal Methods and Models for
+System Design
+-------------------------------------------------------------------------
+MEMOCODE focuses on formal methods and models for developing computer
+systems and their components. MEMOCODE's objective is to emphasize the
+importance of models and methodologies in correct system design and
+development.
+
+https://esweek.org/memocode/
+
+MEMOCODE Program Chairs:
+Qi Zhu, Northwestern University, US
+Srinivas Pinisetty, IIT Bhubaneswar, IN
+
+-------------------------------------------------------------------------
+Call for Workshop Proposals
+-------------------------------------------------------------------------
+ESWEEK 2024 will host several workshops on Thursday October 3rd and
+Friday October 4th and is soliciting proposals for new and recurring
+workshops. Workshops can be half-day to two-day long. We invite you to
+submit workshop proposals on any topic related to the broad set of
+research and education.
+
+Workshop Chair:
+Heiko Falk, TU Hamburg, DE
+
+-------------------------------------------------------------------------
+Call for Tutorial Proposals
+-------------------------------------------------------------------------
+ESWEEK 2024 is looking for high-quality tutorials that will take place on
+Sunday, September 29th, 2024. Tutorials on all topics related to embedded
+system design, analysis, and development are welcome. Tutorials can be
+either half/full-day, lecture style or hands-on.
+
+Tutorials Chair:
+Christian Pilato, Politecnico di Milano, IT
+
+-------------------------------------------------------------------------
+Call for Education Proposals
+-------------------------------------------------------------------------
+ESWEEK 2024 will host several education lectures virtually on Thursday
+September 26th and Friday September 27th, and is soliciting proposals
+for such lectures. We invite you to submit education proposals on any
+topic related to ESWEEK.
+
+Education Chairs:
+Anup Das, Drexel University, US
+Qingfeng (Karen) Zhege, East China Normal University, CN
+
+-------------------------------------------------------------------------
+Call for Special Session Proposals
+-------------------------------------------------------------------------
+We invite you to submit special session proposals on any topic relevant
+to the broad areas of interest of ESWEEK. The special session should
+cover a topic that is contemporary, hot, and complementary to the regular
+sessions. The special session should be able to generate enthusiasm among
+the ESWEEK participants.
+
+Special Sessions Chair:
+Pi-Cheng Hsiu, Academia Sinica, TW
+
+-------------------------------------------------------------------------
+Software Competition
+-------------------------------------------------------------------------
+Following their first introduction in 2023, we will host several
+software competitions. More details will be available soon.
+
+Software competition chairs
+Ganapati Bhat, Washington State University, US
+Biresh Kumar Joardar, University of Houston, US
+Wanli Chang, Hunan University, CN
+
+-------------------------------------------------------------------------
+Panels: Celebrating the 20th ESWEEK conference
+-------------------------------------------------------------------------
+The ESWEEK series started in 2005 in Jersey City, so ESWEEK 2024 will
+be the 20th edition! This will be the occasion of celebrating the best
+moments with a chosen panel of people who contributed to the past
+editions. Two panels will be organized in 2024, one devoted to this
+celebration, and another one devoted to the complex interrelations
+between embedded systems and the environmental crisis (which
+encompasses the climate change, the biodiversity collapse, the mineral
+resource depletion), where we will bring some answers to the complex
+issues of whether embedded systems shall be part of the solution to
+the environmental crisis, or whether they are part of the problem.
+
+Panel chair
+Marilyn Wolf, University of Nebraska-Lincoln, US
+
+-------------------------------------------------------------------------
+Organization
+-------------------------------------------------------------------------
+ESWEEK 2024 General Chairs:
+Alain Girault, Inria & Univ. Grenoble Alpes, FR (General Chair)
+Tei-Wei Kuo, National Taiwan University, TW (Vice General Chair)
+
+Conference and Local Arrangement Chair:
+Frank Mueller, North Carolina State University, US
+
+https://esweek.org/

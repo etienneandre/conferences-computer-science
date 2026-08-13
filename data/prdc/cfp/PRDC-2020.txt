@@ -1,0 +1,134 @@
+-- [Apologies if you receive multiple copies of this email.] --    
+
+**********************************************************************
+
+                    CALL FOR PAPERS - PRDC 2020
+ The 25th Pacific Rim International Symposium on Dependable Computing
+
+                December 1-4, 2020, Perth, Australia
+
+               Paper Submission Deadline: 18 July 2020
+
+               http://prdc.dependability.org/PRDC2020/
+
+**********************************************************************
+
+PRDC 2020 is the twenty-fifth event in the series of symposia started 
+in 1989 that are devoted to dependable and fault-tolerant computing. 
+PRDC is recognized as the main event in the Pacific area that covers 
+many dimensions of dependability and fault tolerance, encompassing 
+fundamental theoretical approaches, practical experimental projects, 
+and commercial components and systems. As applications of computing 
+systems have permeated into all aspects of daily life, the dependabil-
+ity of computing systems has become increasingly critical. This sympo-
+sium provides a forum for countries around the Pacific Rim and other 
+areas of the world to exchange ideas for improving the dependability 
+of computing systems.
+
+Topics of interest include (but are not limited to):
+
+・Software and hardware reliability, testing, verification, and 
+  validation
+・Dependability measurement, modeling, evaluation, and tools
+・Self-healing, self-protecting, and fault-tolerant systems
+・Software aging and rejuvenation
+・Safety-critical systems and software
+・Architecture and system design for dependability
+・Fault-tolerant algorithms and protocols
+・Reliability in cloud computing, Internet, and web systems and 
+  applications
+・Cloud computing security and privacy
+・Software defined networks architectures and protocols
+・Internet of things architectures, protocols, security and privacy
+・Dependability issues in artificial intelligence and its 
+  applications
+・Dependability issues in computer networks and communications
+・Dependability issues in high performance computing
+・Dependability issues in real-time systems
+・Dependability issues in storage and databases systems
+・Dependability issues in cyber-physical systems
+・Dependability issues in socio-technical systems
+・Dependability and security in machine learning systems
+・Blockchain and smart contracts
+
+----------------------------------------------------------------------
+Submission and Publication Information
+
+Manuscripts should be submitted in the following two categories: 
+Regular Papers and Practical Experience Reports. 
+Regular Papers should describe original research (not submitted or 
+published elsewhere) and be not more than 10 pages using IEEE Computer
+Society camera-ready 8.5"x11" two-column format. Practical Experience
+Reports (max 6 pages using IEEE format guidelines) should describe an
+experience or a case study, such as the design and deployment of a 
+system or actual failure and recovery field data.
+
+All submissions must be made electronically (in PDF format) on the 
+submission website:
+
+       https://www.easychair.org/conferences/?conf=prdc2020
+
+Please note that all submissions will undergo a double-blind review. 
+Please ensure that you have removed any references that could lead to
+identifying the authors of the paper. Failure to do so may result in
+rejection of the paper regardless of the paper contributions. Papers 
+will be reviewed internationally and selected based on their original-
+ity, significance, relevance, and clarity of presentation. 
+
+All accepted papers will be published by IEEE Computer Society Press 
+(EI Indexed). One outstanding paper will be selected to receive the 
+Best Paper Award, and one outstanding paper first authored by a stude-
+nt will receive the Best Student Paper Award.
+
+----------------------------------------------------------------------
+Important Dates
+
+Paper Submission Deadline  : 18 July 2020
+Notification of Acceptance : 22 August 2020
+
+----------------------------------------------------------------------
+Organizing Committee
+
+General Chair: 
+  Jin B. Hong, University of Western Australia, Australia
+
+Program Co-Chair: 
+  Fumio Machida, University of Tsukuba, Japan
+  Mengmeng Ge, Deakin University, Australia
+
+Local Arrangement Co-Chair:
+  Naveed Akhtar, University of Western Australia, Australia
+  Syed Zulqarnain Gilani, Edith Cowan University, Australia
+
+Publicity Co-Chair: 
+  Simon Yusuf-Enoch (Australasia), University of Queensland, Australia
+  Zeyi Wen (Australasia), University of Western Australia, Australia
+  Gregory Blanc (Europe), Telecom SudParis, France
+
+Finance Chair: 
+  Susan Marie, University of Westner Australia, Australia
+
+Fast Abstract Chair: 
+  Leonardo Montecchi, University of Campinas, Brazil
+
+Steering Committee
+  Yennun Huang, Academia Sinica (Chair)
+  Leon Alkalai, California Institute of Technology
+  Takashi Nanya, University of Tokyo
+  Nobuyasu Kanekawa, Hitachi Research Lab
+  Jin Song Dong, National University of Singapore
+  Karthik Pattabiraman, University of British Columbia
+  Gernot Heiser, University of New South Wales
+  Sy-Yen Kuo, National Taiwan University
+  Michael Lyu, Chinese University of Hong Kong
+  Zhi Jin, Peking University
+  DongSeong Kim, University of Queensland
+
+----------------------------------------------------------------------
+Sponsors
+
+IEEE Computer Society
+University of Western Australia
+Business Events Perth
+Tourism Western Australia
+

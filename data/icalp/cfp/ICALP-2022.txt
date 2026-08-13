@@ -1,0 +1,291 @@
+==================================
+
+ICALP 2022 - First Call for Papers
+
+==================================
+
+The 49th International Colloquium on Automata, Languages, and Programming
+(ICALP) will take place
+
+   ** in Paris, France, and online on 4-8 July 2022. **
+
+The 2022 edition has the following special features:
+- Submissions are anonymous, and there is a rebuttal phase.
+- The conference is hybrid.
+- This will be the 50th birthday of the conference and some special events are
+planned.
+
+ICALP is the main conference and annual meeting of the European Association for
+Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a
+series of workshops, which will take place on July 4. The 2022 edition will be
+the occasion to celebrate the 50th anniversary of both EATCS and the first
+ICALP, which was first held in 1972 in Rocquencourt, in the Paris area.
+
+
+============= Important dates and information =============
+
+Submissions: February 9, 2022 AoE
+Rebuttal: March 21-23
+Notification: April 11
+Camera-ready version: April 25
+Early registration: TBA
+Conference: 4-8 July, 2022
+
+Deadlines are firm; late submissions will not be considered.
+
+Conference website: https://icalp2022.irif.fr/
+Submission (track A): https://easychair.org/my/conference?conf=icalp2022#
+Submission (track B): https://easychair.org/my/conference?conf=icalp2022#
+
+
+============= Invited Speakers =============
+
+Albert Atserias, Universitat Politècnica de Catalunya
+Constantinos Daskalakis, MIT
+Leslie Ann Goldberg, Oxford University
+Madhu Sudan, Harvard
+Stéphan Thomassé, ENS Lyon
+Santosh Vempala, Georgia Tech
+
+============= Submission Guidelines =============
+
+1) Papers must present original research on the theory of computer science. No
+prior publication and no simultaneous submission to other publication outlets
+(either a conference or a journal) is allowed. Authors are encouraged to also
+make full versions of their submissions freely accessible in an on-line
+repository such as ArXiv, HAL, ECCC.
+
+2) Submissions take the form of an extended abstract of no more than 15 pages,
+excluding references and a clearly labelled appendix. The appendix may consist
+either of omitted proofs or of a full version of the submission, and it will be
+read at the discretion of program committee members. The extended abstract has
+to present the merits of the paper and its main contributions clearly, and
+describe the key concepts and technical ideas used to obtain the results.
+Submissions must provide the proofs which can enable the main mathematical
+claims of the paper to be fully verified.
+
+3) Submissions are anonymous. The conference will employ a fairly lightweight
+double-blind reviewing process. Submissions should not reveal the identity of
+the authors in any way. In particular, authors’ names, affiliations, and email
+addresses should not appear at the beginning or in the body of the submission.
+Authors should not include obvious references that reveal their own identity,
+and should ensure that any references to their own related work are in the third
+person (e.g., not “We build on our previous work …” but rather “We build on the
+work of …”).
+
+The purpose of this double-blind process is to help PC members and external
+reviewers come to an initial judgment about the paper without bias, and not to
+make it impossible for them to discover who the authors are if they were to try.
+Nothing should be done in the name of anonymity that weakens the submission or
+makes the job of reviewing the paper more difficult. In particular, important
+references should not be omitted or anonymized. In addition, authors should feel
+free to disseminate their ideas or draft versions of their paper as they
+normally would. For example, authors may post drafts of their papers on the web,
+submit them to arXiv, and give talks on their research ideas.
+
+4) The submissions are done via Easychair to the appropriate track of the
+conference (see topics below). The use of pdflatex and the LIPIcs style
+(https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/) are
+mandatory: papers that deviate significantly from the required format risk
+rejection without consideration of merit.
+
+5) During the rebuttal phase, authors will have three days, March 21-23, to view
+and respond to initial reviews. Further instructions will be sent to authors of
+submitted papers before that time.
+
+6) One author per accepted paper is expected to present the work in Paris,
+unless there are strong reasons not to do so, including high environmental cost
+of travel or impossibility to travel. We will be monitoring the current
+situation and are aware of possible travel restrictions, but we aim to organize
+the conference as a hybrid event with a strong in-person attendance. If no
+speaker can attend, a remote presentation and participation to the discussion
+session are mandatory.
+
+7) Papers authored only by students should be marked as such upon submission in
+order to be eligible for the best student paper awards of the track.
+
+
+============= Awards =============
+
+During the conference, the following awards will be given:
+- the EATCS award (https://eatcs.org/index.php/eatcs-award),
+- the Gödel prize (https://eatcs.org/index.php/goedel-prize),
+- the Presburger award (https://eatcs.org/index.php/presburger),
+- the EATCS distinguished dissertation award
+(https://eatcs.org/index.php/dissertation-award),
+- the best papers for Track A and track B,
+- the best student papers for Track A and track B (see submission guidelines).
+
+
+============= Proceedings =============
+
+ICALP proceedings are published in the Leibniz International Proceedings in
+Informatics (LIPIcs) series. This is a series of high-quality conference
+proceedings across all fields in informatics established in cooperation with
+Schloss Dagstuhl - Leibniz Center for Informatics. LIPIcs volumes are published
+according to the principle of Open Access, i.e., they are available online and
+free of charge.
+
+
+============= Topics =============
+
+Papers presenting original research on all aspects of theoretical computer
+science are sought. Typical but not exclusive topics of interest are:
+
+Track A: Algorithms, Complexity and Games
+---------------------------------
+
+Algorithmic and Complexity Aspects of Network Economics
+Algorithmic Aspects of Biological and Physical Systems
+Algorithmic Aspects of Networks and Networking
+Algorithmic Aspects of Security and Privacy
+Algorithmic Game Theory and Mechanism Design
+Approximation and Online Algorithms
+Combinatorial Optimization
+Combinatorics in Computer Science
+Computational Complexity
+Computational Geometry
+Computational Learning Theory
+Cryptography
+Data Structures
+Design and Analysis of Algorithms
+Distributed and Mobile Computing
+Foundations of Machine Learning
+Graph Mining and Network Analysis
+Parallel and External Memory Computing
+Parameterized Complexity
+Quantum Computing
+Randomness in Computation
+Sublinear Time and Streaming Algorithms
+Theoretical Foundations of Algorithmic Fairness 
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+-------------------------
+
+Algebraic and Categorical Models of Computation
+Automata, Logic, and Games
+Database Theory, Constraint Satisfaction Problems, and Finite Model Theory
+Formal and Logical Aspects of Learning
+Formal and Logical Aspects of Security and Privacy
+Logic in Computer Science and Theorem Proving
+Models of Computation: Complexity and Computability
+Models of Concurrent, Distributed, and Mobile Systems
+Models of Reactive, Hybrid, and Stochastic Systems
+Principles and Semantics of Programming Languages
+Program Analysis, Verification, and Synthesis
+Type Systems and Typed Calculi
+
+
+============= ICALP 2022 Programme Committee =============
+
+Track A: Algorithms, Complexity and Games
+-----------------------------
+
+Petra Berenbrink - University of Hamburg
+Sergio Cabello - University of Ljubljana
+Yixin Cao - Hong Kong Polytechnic University
+Sitan Chen - University of California Berkeley
+Xi Chen - Columbia University
+Ilias Diakonikolas - University of Wisconsin-Madison
+David Doty - University of California Davis
+Yuval Filmus - Technion
+Cyril Gavoille - Université de Bordeaux
+Sevag Gharibian - Paderborn University
+Seth Gilbert - National University of Singapore
+Nick Gravin - Shanghai University of Finance and Economics
+Kasper Green Larsen - Aarhus University
+Abhradeep Guha Thakurta - Google Research
+Hamed Hatami - McGill University
+Sandy Irani - University of California Irvine
+Yuval Ishai - Technion
+Aayush Jain - NTT Research/CMU
+Ken-ichi Kawarabayashi - National Institute of Informatics
+Yuqing Kong - Peking University
+Michal Koucky - Charles University
+Stefano Leonardi - Sapienza Universita di Roma
+Nutan Limaye - IT University of Copenhagen
+Frederic Magniez - CNRS
+Audra Mcmillan - Apple
+Slobodan Mitrovic - MIT / University of California Davis
+Wolfgang Mulzer - Freie Universitat Berlin
+Cameron Musco - University of Massachusetts Amherst
+Anand Natarajan - MIT
+Jelani Nelson - University of California Berkeley
+Evdokia Nikolova - University of Texas at Austin
+Debmalya Panigrahi - Duke University
+Richard Peng - Georgia Tech
+Vijaya Ramachandran - University of Texas at Austin
+Saket Saurabh - Institute of Mathematical Sciences, Chennai
+Christian Sohler - University of Cologne
+Thomas Steinke - Google Research
+Vasilis Syrgkanis - Microsoft Research
+Emanuele Viola - Northeastern University
+Adrian Vladu - CNRS
+Jan Vondrak - Stanford
+Hoeteck Wee - NTT Research / ENS
+David Woodruff - CMU (chair)
+Christian Wulf-Nilsen - University of Copenhagen
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+---------------------------------
+
+Luca Aceto - Reykjavik University
+Isolde Adler - University of Leeds
+Antoine Amarilli - Télécom Paris
+Pablo Barcelo - Catholic University of Chile
+Libor Barto - Charles University
+Mikołaj Bojańczyk - University of Warsaw (chair)
+
+Laura Ciobanu - Heriot-Watt University
+Erich Grädel - RWTH Aachen University
+Christoph Haase - University of Oxford
+Marcin Jurdziński - University of Warwick
+Benjamin Kaminski - University College London
+Joost-Pieter Katoen - RWTH Aachen University
+Bartek Klin - University of Oxford
+Naoki Kobayashi - University of Tokyo
+Dexter Kozen - Cornell University
+Orna Kupferman - Hebrew University
+Jérôme Leroux - CNRS / University of Bordeaux
+Nathan Lhote - Aix-Marseille University
+Markus Lohrey - University of Siegen
+Joël Ouaknine - Max Planck Institute
+Prakash Panangaden - McGill University
+Michael Pinsker - Vienna University of Technology
+Sven Schewe - University of Liverpool
+Jeffrey Shallit - University of Waterloo
+Mahsa Shirmohammadi - CNRS / University of Paris
+Sebastian Siebertz - University of Bremen
+Alex Simpson - University of Ljubljana
+
+Lidia Tendera - University of Opole
+
+
+============= ICALP 2022 Workshop Chairs =============
+
+Track A: Valia Mitsou
+Track B: Mahsa Shirmohammadi
+
+
+============= ICALP 2022 Proceedings Chairs =============
+
+Emanuela Merelli
+
+
+============= ICALP 2022 Organizing Committee =============
+
+Sandrine Cadet,
+Olivier Carton
+Thomas Colcombet
+Geoffroy Couteau
+Hugo Férée
+Irène Guessarian
+Natalia Hacquart
+Florian Horn
+Simon Mauras
+Valia Mitsou
+Sylvain Perifel
+Amaury Pouly
+Arnaud Sangnier
+Sylvain Schmitz
+Mahsa Shirmohammadi

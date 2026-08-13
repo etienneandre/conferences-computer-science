@@ -1,0 +1,68 @@
+============================================================
+ACM HSCC 2021 Call for Papers
+24th ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2021)
+Part of CPS-IoT Week 2021
+May 19-21, 2021
+Nashville, Tennessee, USA
+URL: https://hscc.acm.org/2021/
+============================================================
+
+Hybrid Systems: Computation and Control (HSCC) 2021 is the 24th in a series of conferences focusing on original research on concepts, tools, and techniques from computer science, control theory, and applied mathematics for the analysis and control of hybrid dynamical systems, with an emphasis on computational aspects. By drawing on strategies from computation and control, the hybrid systems field offers techniques that are applicable to both man-made cyber-physical systems (ranging from small robots to global infrastructure networks) and natural systems (ranging from biochemical networks to physiological models). Papers in the conference are expected to range over a wide spectrum of topics from theoretical results to practical considerations, and from academic research to industrial adoption.
+
+Topics of interest include, but are not limited to:
+- Mathematical foundations, computability and complexity
+- Analysis, verification, validation, and testing
+- Modeling paradigms and techniques
+- Design, synthesis, planning, and control
+- Programming and specification languages
+- Network science and network-based control
+- Security, privacy, and resilience for cyber-physical systems with focus on computation and control
+- Safe autonomy, Artificial intelligence and Machine learning in CPS
+- Software tools for the above topics
+- Applications and industrial case studies in: automotive, transportation, autonomous systems, avionics, energy and power, robotics, medical devices, manufacturing, systems and synthetic biology, models for the life sciences, and other related areas.
+
+Two special areas: Similarly to last year, HSCC invites submissions exploring synergies with artificial intelligence as part of a special session "Safe and trustworthy AI". In addition, the conference will feature a special session on "Systems biology and epidemiology" which aims at addressing the challenges that emerged with COVID-19.
+
+Submission Guidelines
+============================================================
+*New this year*: HSCC invites submissions in two categories: (1) regular papers and (2) tool and case study papers. Submissions in *both* of these categories can be either long (10 pages max, 9pt font, two-column ACM format) or short papers (6 pages max, 9pt font, two-column ACM format). We will employ a double blind reviewing process and will have a rebuttal phase to provide authors the opportunity to reply to reviewer concerns. Authors are asked to submit their paper using EasyChair: https://easychair.org/conferences/?conf=hscc2021.
+
+Important dates
+============================================================
+Submission deadline: *October 26, 2020 (AOE)*
+Tool/case study paper repeatability package submission deadline: November 1, 2020 (AOE)
+Rebuttal phase: Beginning of December 2020 (tentative)
+Acceptance/rejection notifications: December 2020 (tentative)
+Posters/demos submission deadline: January 2021 (tentative)
+
+Organization
+============================================================
+
+PC Chairs:
+Sergiy Bogomolov (Newcastle University, UK)
+Raphaël Jungers (UCLouvain, Belgium)
+
+Repeatability Evaluation Chairs:
+Stanley Bak (Stony Brook University, USA)
+Bardh Hoxha (Toyota Research Institute of North America, USA)
+
+Publication Chair:
+Nikos Athanasopoulos (Queen’s University Belfast, UK)
+
+Publicity Chair:
+Dorsa Sadigh (Stanford University, USA)
+
+Demo/Poster Chair:
+Jana Tumova (KTH, Sweden)
+
+Awards Chair:
+Antoine Girard (L2S-CNRS, Paris)
+
+Steering Committee:
+Alessandro Abate (University of Oxford, UK)
+Thao Dang (Verimag, France)
+Martin Fränzle (Universität Oldenburg, Germany)
+Radu Grosu (TU Wien, Austria)
+Sayan Mitra (UIUC, USA)
+Paulo Tabuada (UCLA, USA)
+Claire Tomlin (University of California, Berkeley, USA)

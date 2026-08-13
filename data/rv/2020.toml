@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "The Program Committee of RV 2019 will give a best paper award, and a selection of accepted regular papers will be invited to appear in a special journal issue."
+
+[[cfp]]
+file = "cfp/RV-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RV-2020-extended.txt"
+stage = "extended"

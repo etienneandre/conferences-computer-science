@@ -23,3 +23,19 @@ award = "Best paper award for young scientists."
 
 [extra]
 notes = "In French, but English papers accepted. Poster PhD session."
+
+[[cfp]]
+file = "cfp/MSR-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/MSR-2025-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/MSR-2025-extended2.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/MSR-2025-extended3.txt"
+stage = "extended"

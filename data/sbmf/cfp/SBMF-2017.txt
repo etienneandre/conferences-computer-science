@@ -1,0 +1,225 @@
+
+
+======== SBMF ======= SBMF ======= SBMF ======= SBMF =======
+
+                                                 CALL FOR PAPERS
+
+                       20th Brazilian Symposium on Formal Methods (SBMF)
+
+                                        http://www.sbc.org.br/sbmf2017
+
+                            27th of November to 1st of December, 2017
+                                          Recife, Pernambuco, Brazil
+
+======== SBMF ======= SBMF ======= SBMF ======= SBMF =======
+
+
+IMPORTANT DATES
+
+Abstract Submission Deadline: *7th of July, 2017*
+Paper Submission Deadline: *14th of July, 2017*
+Paper Acceptance Notification: 1st of September, 2017
+Paper Camera-ready Version: 8th of September, 2017
+
+INTRODUCTION
+
+SBMF 2017 is the twentieth of a series of events devoted to the
+development, dissemination and use of formal methods for the construction
+of high-quality computational systems. It is now a well-established event,
+with an international reputation.
+
+In 2017, SBMF will take place in Recife, the capital of the state
+Pernambuco, which is located in the northeast Brazil. It is the 9th city by
+population in Brazil, with over 1.5 million inhabitants, and it receives
+more than 5 million tourists from Brazil and abroad per year.
+
+SCOPE AND TOPICS
+
+The aim of SBMF is to provide a venue for the presentation and discussion
+of high-quality work in formal methods. The topics include, but are not
+limited to, the following:
+
+* techniques and methodologies, such as method integration; software and
+hardware co-design; model-driven engineering; formal aspects of popular
+methodologies; formal design; development methodologies with formal
+foundations; software evolution based on formal methods;
+
+* specification and modelling languages, such as well-founded specification
+and design languages; formal aspects of popular languages; logics and
+semantics for programming and specification languages; code generation;
+formal methods and models for objects, aspects, component-based, real-time,
+hybrid, critical, and service-oriented systems;
+
+* theoretical foundations, such as domain theory; type systems and category
+theory; computational complexity of methods and models; computational
+models; term rewriting; models of concurrency, security and mobility;
+
+* verification and validation, such as abstraction, modularisation and
+refinement techniques; program and test synthesis; correctness by
+construction; model checking; theorem proving; static analysis; formal
+techniques for software testing; software certification; formal techniques
+for software inspection;
+
+* education, such as teaching of, for and with formal methods;
+
+* applications, such as experience reports on the use of formal methods;
+industrial case studies; tool support.
+
+PAPER SUBMISSION
+
+Papers with a strong emphasis on Formal Methods, whether practical or
+theoretical, are invited for submission. They should present unpublished
+and original work that has a clear contribution to the state of the art on
+the theory and practice of formal methods. They should not be
+simultaneously submitted elsewhere.
+
+Papers will be judged by at least three reviewers on the basis of
+originality, relevance, technical soundness and presentation quality and
+should contain sound theoretical or practical results. Industry papers
+should emphasize practical application of formal methods or report on open
+challenges.
+
+Contributions should be written in English and be prepared using Springer’s
+Lecture Notes in Computer Science (LNCS) format. Papers may not exceed 16
+pages (including figures, references and appendix). Accepted papers will be
+published, after the conference, in a *volume of* *LNCS*.  Also, a special
+issue of *Science of Computer Programming (Elsevier) *is going to be
+published for the very best papers.
+
+Every accepted paper MUST have at least one author registered in the
+symposium by the time the camera-ready copy is submitted; the registered
+author is also expected to  attend the symposium and present the paper.
+
+Papers can be submitted via the following link:
+https://easychair.org/conferences/?conf=sbmf2017
+
+ABOUT RECIFE
+
+Recife stands out as a major tourist attraction, both for its beaches and
+for its historic sites, dating back to both the Portuguese and the Dutch
+colonisation of the region. The Boa Viagem beach is one of the most famous
+urban beaches in Brazil. Visitors get enchanted by the sandy beaches with
+warm green waters, and also by the complete infrastructure of hotels,
+restaurants and services which surrounds it. The beach of Porto de
+Galinhas, 60 kilometers south of Recife, has been repeatedly awarded the
+title of best beach in Brazil. The historic centre of Olinda, 7 kilometers
+north of Recife, was declared a UNESCO World Heritage site in 1982, and
+both cities’ Carnival are among the world's most famous.
+
+Recife is also considered the first gastronomic hub of the northeastern
+region, the second medical centre in Brazil, besides housing the greatest
+technological park in the country, known as Porto Digital. In Recife, you
+will find culture, history, food and fun all in one place.
+
+KEYNOTE SPEAKERS
+
+To be announced
+
+PROGRAM COMMITTEE CHAIRS
+
+José Fiadeiro (Royal Holloway, University of London, UK)
+Simone Cavalheiro (UFPel, Brazil)
+
+PROGRAM COMMITTEE
+
+Aline Andrade (UFBA. Brazil)
+
+Luis Barbosa (Universidade do Minho, Portugal)
+
+Christiano Braga (UFF, Brazil)
+
+Michael Butler (University of Southampton, UK)
+
+Sergio Campos (UFMG, Brazil)
+
+Ana Cavalcanti (University of York, UK)
+
+Simone Cavalheiro  (UFPel, Brazil) - PC co-chair
+
+Márcio Cornélio (UFPE, Brazil)
+
+Andrea Corradini (Universita’ di Pisa, Italy)
+
+Jim Davies (University of Oxford, UK)
+
+David Deharbe (ClearSy, France)
+
+Ewen Denney (RIACS/NASA, USA)
+
+Clare Dixon (University of Liverpool, UK)
+
+Rachid Echahed (CNRS at University of Grenoble, France)
+
+Jose Fiadeiro (Royal Holloway, University of London, UK) - PC co-chair
+
+Luciana Foss (UFPel, Brazil)
+
+Rohit Gheyi (UFCG, Brazil)
+
+Stefan Hallerstede (Aarhus University, Denmark)
+
+Reiko Heckel (University of Leicester, UK)
+
+Rolf Hennicker (Ludwig-Maximilians-Universität München, Germany)
+
+Juliano Iyoda (UFPE, Brazil)
+
+Thierry Lecomte (ClearSy, France)
+
+Michael Leuschel (Universität Düsseldorf, Germany)
+
+Patricia Machado (UFCG, Brazil)
+
+Rodrigo Machado (UFRGS, Brazil)
+
+Marcelo Maia  (UFU, Brazil)
+
+Narciso Marti-Oliet (Universidad Complutense de Madrid, Spain)
+
+Tiago Massoni (UFCG, Brazil)
+
+Ana Melo (USP, Brazil)
+
+Anamaria Moreira (UFRJ, Brazil)
+
+Alvaro Moreira (UFRGS, Brazil)
+
+Alexandre Mota (UFPE, Brazil)
+
+Arnaldo Moura (UNICAMP, Brazil)
+
+David Naumann (Stevens Institute of Technology, USA)
+
+Daltro Nunes (UFRGS, Brazil)
+
+Jose Oliveira (Universidade do Minho, Portugal)
+
+Marcel Oliveira (UFRN, Brazil)
+
+Fernando Orejas (UPC, Spain)
+
+Arend Rensink (University of Twente, Netherlands)
+
+Leila Ribeiro (UFRGS, Brazil)
+
+Augusto Sampaio (UFPE, Brazil)
+
+Leila Silva (UFS, Brazil)
+
+Adenilso Simao (ICMC/USP, Brazil)
+
+Neeraj Singh (McMaster University, Canada)
+
+Sofiene Tahar (Concordia University, Canada)
+
+Jim Woodcock (University of York, UK)
+
+STEERING COMMITTEE
+
+Christiano Braga (UFF, Brazil)
+Márcio Cornélio (UFPE, Brazil)
+Thierry Lecomte (ClearSy, France)
+Narciso Martí-Oliet (Universidad Complutense de Madrid, Spain)
+Leila Ribeiro (UFRGS, Brazil)
+Bill Roscoe (University of Oxford, UK)
+

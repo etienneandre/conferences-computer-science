@@ -1,0 +1,167 @@
+-----------------------------
+SUBMISSION DEADLINE EXTENSION
+-----------------------------
+
+24th International Conference on Engineering of Complex Computer Systems (ICECCS 2019)
+Hong Kong, China, 10-13 November 2019
+
+Website: http://www.formal-analysis.com/iceccs/2019/
+Submission link: https://easychair.org/conferences/?conf=iceccs2019
+
+Important Dates
+---------------
++ Abstract Submissions Due: 31 May 2019 AOE (extended)
++ Full Paper Submissions Due: 8 June 2019 AOE (extended)
++ Acceptance/Rejection Notification: 20 July 2019
++ Camera-ready Due: 16 August 2019
++ Conference Dates: 10-13 November 2019
+
+Over the past years, we have seen a rapid rising emphasis on design,
+implement and manage complex computer systems which are present in
+every aspect of human activities, such as manufacturing,
+communications, defence, transportation, aerospace, hazardous
+environments, energy, and healthcare. The complex computer systems are
+frequently distributed over heterogeneous networks and processing
+large amount data. Complexity arises from many factors, including the
+dynamic environment and scenarios these systems operate in; demanding
+and sometimes conflicting requirements in functionality, efficiency,
+scalability, security, dependability and adaptability; as well as the
+large variation in development methodologies, programming languages
+and implementation details. The key issues in these systems include
+performance, real-time behaviour, fault tolerance, security,
+adaptability, development time and cost, and long life concerns.
+
+The goal of this conference is to bring together industrial, academic,
+and government experts, from a variety of application domains and
+software disciplines, to discuss how the disciplines' problems and
+solution techniques interact within the whole system. Researchers,
+practitioners, tool developers and users, and technology transfer
+experts are all welcome. The scope of interest includes long-term
+research issues; near-term requirements and challenges; established
+complex systems; emerging promising tools; and retrospective and
+prospective reflections of research and development into complex
+systems.
+
+ICECCS is an A-ranked international conference by the Computing
+Research and Education Association of Australasia (CORE) 2018 ranking.
+
+http://portal.core.edu.au/conf-ranks/646/
+
+List of Topics
+--------------
+Authors are invited to submit papers describing original, unpublished
+research results, case studies and tools. Papers are solicited in all
+areas related to complex computer-based systems, including the causes
+of complexity and means of avoiding, controlling, or coping with
+complexity. Topic areas include, but are not limited to:
+
++ Requirement specification and analysis
++ Verification and validation
++ Security and privacy of complex systems
++ Model-driven development
++ Reverse engineering and refactoring
++ Software Architecture
++ Big data management
++ Ambient intelligence, pervasive computing
++ Ubiquitous computing, context awareness, sensor networks
++ Applications to SAT/SMT techniques to analysis of complex systems
++ Design by contract
++ Agile methods
++ Safety-critical and fault-tolerant architectures
++ Adaptive, self-managing and multi-agent systems
++ Real-time, hybrid and embedded systems
++ Systems of systems
++ Cyber-physical systems and Internet of Things (IoT)
++ Tools and tool integration
++ Industrial case studies
+
+Different kinds of contributions are sought, including novel research,
+lessons learned, experience reports, and discussions of practical
+problems faced by industry and user domains. The ultimate goal is to
+build a rich and comprehensive conference program that can fit the
+interests and needs of different classes of attendees, e.g.,
+professionals, researchers, managers, and students. A program goal is
+to organise several sessions that include both academic and industrial
+papers on a given topic and culminate panels to discuss relationships
+between industrial and academic research.
+
+Submission and Publication
+--------------------------
+Full papers are divided into two categories: Technical Papers and
+Experience Reports. The papers submitted to both categories will be
+reviewed by program committee members, and papers accepted in either
+category will be published in the conference proceedings. Technical
+papers should describe original research, and experience reports
+should present practical projects carried out in industry, and reflect
+on the lessons learnt from them.
+
+Short paper submissions describe early-stage, ongoing or PhD research.
+All short papers will be reviewed by program committee members, and
+accepted short papers will be published in the conference proceedings.
+
+Submissions to the conference must not have been published or be
+concurrently considered for publication elsewhere. All submissions
+will be judged on the basis of originality, contribution to the field,
+technical and presentation quality, and relevance to the conference.
+The proceedings has been published by the Conference Publishing
+Services (CPS) of the IEEE Computer Society.
+
+Submitted manuscripts should be in English and formatted in the style
+of the double-column CPS format. Full papers should not exceed 10
+pages, and short papers should not exceed 4 pages, including figures,
+references, and appendices. All submissions should be in PDF format.
+Submissions not adhering to the specified format and length may be
+rejected immediately without review.
+
+Please prepare your manuscripts in accordance to the CPS guidelines.
+We invite all prospective authors to submit their manuscripts via the
+ICECCS 2019 portal, hosted by the EasyChair conference management
+system.
+
+https://easychair.org/conferences/?conf=iceccs2019
+
+Program Committee
+-----------------
+Parosh Aziz Abdulla, Uppsala University, Sweden
+Yamine Ait Ameur, IRIT/INPT-ENSEEIHT, France
+Étienne André, Université Paris 13, France
+Guangdong Bai, Griffith University, Australia
+Luciano Baresi, Politecnico di Milano, Italy
+Ezio Bartocci, Vienna University of Technology, Austria
+Sergiy Bogomolov, Australian National University, Australia
+Hadrien Bride, Griffith University, Australia
+Lei Bu, Nanjing University, China
+Mingsong Chen, East China Normal University, China
+Yu-Fang Chen, National Taiwan University, Taiwan
+Sebastien Gerard, CEA LIST, France
+Nan Guan, The Hong Kong Polytechnic University, China
+Matthew Hague, Royal Holloway University of London, United Kingdom
+Zhe Hou, Griffith University, Australia
+Kung-Kiu Lau, University of Manchester, United Kingdom
+Scott Uk-Jin, Hanyang University, Korea
+Yuan-Fang Li, Monash University, Australia
+Shuang Liu, Tianjing University, China
+David Lo, Singapore Management University, Singapore
+Gerald Luettgen, University of Bamberg, Germany
+Lei Ma, Kyushu University, Japan
+Tiziana Margaria, Lero, Ireland
+Dominique Mery, Université de Lorraine, France
+Mohammadreza Mousavi, University of Leicester, United Kingdom
+Paolo Nesi, University of Florence, Italy
+Jun Pang, University of Luxembourg, Luxembourg
+Soumya Paul, University of Luxembourg, Luxembourg
+Christian Prehofer, Technical University of Munich, Germany
+Bruce Sham, University of Auckland, New Zealand
+Fu Song, ShanghaiTech University, China
+Roy Sterritt, Ulster University, United Kingdom
+Jing Sun, University of Auckland, New Zealand
+Jun Sun, Singapore Management University, Singapore
+Meng Sun, Peking University, China
+Cong Tian, Xidian University, China
+Tullio Vardanega, University of Padua, Italy
+Hai H. Wang, University of Aston, United Kingdom
+Haoyu Wang, Beijing University of Posts and Telecommunications, China
+Hironori Washizaki, Waseda University, Japan
+Zhilin Wu, Chinese Academy of Sciences, China
+Chenyi Zhang, Jinan University, China
+Huibiao Zhu, East China Normal University, China

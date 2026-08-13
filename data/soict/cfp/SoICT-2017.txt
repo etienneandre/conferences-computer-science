@@ -1,0 +1,42 @@
+SoICT 2017: The 8th International Symposium on Information and Communication Technology
+
+NhaTrang, Vietnam, 7, 8 December 2017.
+http://soict.org/ 
+
+			
+SoICT 2017 is an international symposium that covers four major areas of research, including AI and Big Data Analytics, Information Networks and Communication Systems, Human-Computer Interface, Software Engineering and Applied Computing. Following the past successful symposium SoICT 2016, which received submissions from 20 countries, the 8th International Symposium on Information and Communication Technology (SoICT 2017) will be held in NhaTrang, Vietnam. The symposium aims at providing an academic forum for researchers and graduate students to share their latest research findings and to identify future challenges in computer science. The symposium will include tutorials and keynotes given by world-class speakers.
+
+SoICT 2017 proceedings will be published in the International Conference Proceedings Series by ACM as a volume in ACM ICPS (ISBN: 978-1-4503-5328-1), which will be archived in the ACM Digital Library, and indexed by DBLP, Ei Compendex, Scopus and submitted to be reviewed by Thomson Reuters Conference Proceedings Citation Index (ISI Web of Science).
+Extended versions of the selected best papers in SoICT 2017 will be invited for submission to Journal of Heuristics (IF: 1.34), but will be reviewed again. 
+
+Important Dates
+===============
+
+- SUBMISSION DEADLINE: 14 August 2017 
+- AUTHOR NOTIFICATION: 13 October 2017 
+- CAMERA-READY SUBMISSION: 27 October 2017
+- CONFERENCE DATES: 7, 8 December 2017. 
+ 
+
+General Chairs
+=============== 
+Huynh Quyet Thang, HUST, Vietnam
+Zhenjiang Hu, NII, Japan
+
+Steering Committee
+=============== 
+Yew-Soon Ong, NTU, Singapore
+Ismal Khalil, Austria
+Eui-nam Huh, Kyunghee, Korea
+
+Program Chairs 
+===============
+Marc Bui, EPHE, France
+Biplab Sikdar, NUS, Singapore
+Ichiro IDE, Nagoya, Japan
+Huynh Thi Thanh Binh, HUST, Vietnam
+
+Contact Us 
+==========
+If you have any further questions on SoICT 2017, please feel free to contact us.
+E-mail: contact@acm-soict.org

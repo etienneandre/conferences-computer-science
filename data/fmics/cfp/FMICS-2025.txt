@@ -1,0 +1,23 @@
+We cordially invite you to submit your paper to FMICS 25.
+
+FMICS is co-located with CONFEST 2025 in Aarhus, Denmark taking place between August 25th and August 30th, 2025.
+
+https://FMICS2025.uni-muenster.de
+
+Submission is possible via the Springer System Equinocs: (https://equinocs.springernature.com/service/fmics2025)
+
+Proceedings will be published in the Springer LNCS format. A selection of accepted papers will be invited to submit extended versions to a special issue of an international journal.
+
+Deadlines: (AoE)
+
+Abstract submission: March 28th
+Paper submission: April 4th
+Notification May 16th
+Camera-ready version: June 6th
+
+Topics:
+
+·         Case studies and experience reports on industrial applications of formal methods, focusing on lessons learned or identification of new research directions.
+·         Methods, techniques, and tools to support automated analysis, certification, debugging, learning, optimization, and transformation of complex, distributed, real-time, embedded, mobile, and autonomous systems.
+·         Verification and validation methods (model checking, theorem proving, SAT/SMT constraint solving, abstract interpretation, etc.) that address shortcomings of existing methods with respect to their industrial applicability (e.g., scalability and usability issues, tool qualification, and certification).
+·         Transfer to industry and impact of adoption of formal methods on the development process and associated costs in industry. Application of formal methods in standardization and industrial forums.

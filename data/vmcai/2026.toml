@@ -25,3 +25,7 @@ artifact = "VMCAI 2026 makes available the option to submit an artifact along wi
 
 [extra]
 colocated = "Co-located with POPL."
+
+[[cfp]]
+file = "cfp/VMCAI-2026.txt"
+stage = "initial"

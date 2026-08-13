@@ -1,0 +1,154 @@
+CALL FOR PAPERS
+
+SBMF 2024: 27th Brazilian Symposium on Formal Methods
+
+Vitória - Espírito Santo, Brazil, December 4-6, 2024
+Instituto Federal do Espírito Santo
+Conference website
+http://sbmf24.ifes.edu.br/
+Submission link
+https://easychair.org/conferences/?conf=sbmf2024
+Abstract registration deadline
+July 5, 2024
+Submission deadline
+July 5, 2024
+Author Notification
+September 6, 2024
+Camera ready deadline
+October 11, 2024
+SBMF 2024 is the twenty-seventh of a series of events devoted to the
+development, dissemination, and use of formal methods for the construction
+of high-quality computational systems. It is now a well-established event
+with an international reputation. It regularly receives submissions and
+participants from all over the world.
+Submission Guidelines
+We invite submissions of papers with a strong emphasis on formal methods,
+whether practical or theoretical, in the following categories:
+   -
+   Regular papers (limit of 15 pages). Proofs of theoretical results that
+   do not fit the page limit may be provided in an appendix.
+   -
+   Short papers (limit of 8 pages). Short papers include system
+   descriptions, user experiences, and case studies. We encourage authors to
+   make the data needed to reproduce their experiments available.
+The page limits exclude references and appendices.
+Contributions should not be simultaneously submitted for publication
+elsewhere. They should be written in English and prepared using Springer’s
+Lecture Notes in Computer Science (LNCS) format. Springer’s proceedings
+LaTeX templates are available in Overleaf. More information is available at
+the following link:
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+Papers should present unpublished and original work that has a clear
+contribution to the state-of-the-art on the theory and practice of formal
+methods. Papers will be judged by at least three reviewers based on
+originality, relevance, technical soundness, and presentation quality and
+should contain sound theoretical or practical results. Industry papers
+should emphasize the practical application of formal methods or report on
+open challenges.
+Submissions should be made via the following link:
+https://easychair.org/conferences/?conf=sbmf2024
+Scope and Topics
+SBMF aims to provide a venue for the presentation and discussion of
+high-quality work in formal methods. The topics include, but are not
+limited to, the following:
+   -
+   Applications of formal methods to
+   -
+      Software and/or hardware design
+      -
+      Software and/or hardware development
+      -
+      Software and/or hardware code generation
+      -
+      Software and/or hardware testing
+      -
+      Software maintenance, evolution and/or reuse
+      -
+      Intelligent systems
+      -
+   Specification and modeling languages
+   -
+      Logic and semantics for specification and/or programming languages
+      -
+      Formal methods for timed, real-time, hybrid, or/and safety-critical
+      systems
+      -
+      Formal methods for service-oriented, cloud-based, or/and
+      cyber-physical systems
+      -
+   Theoretical foundations
+   -
+      Domain theory
+      -
+      Term rewriting
+      -
+      Computational models
+      -
+      Type systems and category systems
+      -
+      Computation complexity of methods and models
+      -
+      Models of time, concurrency, security and/or mobility
+      -
+   Verification and validation
+   -
+      Abstraction, modularization and/or refinement techniques
+      -
+      Static analysis
+      -
+      Model checking
+      -
+      Theorem proving
+      -
+      Software certification
+      -
+      Correctness by construction
+      -
+   Experience reports
+   -
+      Reports on teaching formal methods
+      -
+      Reports on the industrial application of formal methods
+CommitteesGeneral Chair
+   -
+   Jefferson Andrade (Instituto Federal do Espírito Santo)
+Program Chairs
+   -
+   Sidney C. Nogueira (Universidade Federal Rural de Pernambuco, Brazil)
+   -
+   Ciprian TEODOROV (ENSTA Bretagne, France)
+Steering Committee
+   -
+   Haniel Barbosa (Universidade Federal de Minas Gerais, Brazil)
+   -
+   Lucas Lima (Universidade Federal Rural de Pernambuco)
+   -
+   Marius Minea (University of Massachusetts Amherst, USA)
+   -
+   Sérgio Campos (Universidade Federal de Minas Gerais, Brazil)
+   -
+   Vince Molnár (Budapest University of Technology and Economics)
+   -
+   Yoni Zohar (Bar-Ilan University, Israel)
+Invited Speakers
+   -
+   Julien Deantony (Côte d'Azur University, France)
+   -
+   Marcel Oliveira (Universidade Federal do Rio Grande do Norte, Brazil)
+   -
+   Philipp Rümmer (University of Regensburg, Germany)
+Publication
+Accepted papers will be published, after the conference, in a volume of
+LNCS. The authors will be requested to complete and sign a
+consent-to-publish form. Every accepted paper MUST have at least one author
+registered in the symposium by the time the camera-ready copy is submitted.
+The registered author is also expected to attend the symposium and present
+the paper.
+A special issue of the Science of Computer Programming Journal (Elsevier)
+is going to be organised (to be confirmed) with selected and extended
+papers from the 27th Brazilian Symposium on Formal Methods (SBMF 2024).
+Venue
+Vitoria, Espírito Santo, Brazil
+Contact
+All questions about submissions should be emailed to sbmf2024   "@"
+easychair.org

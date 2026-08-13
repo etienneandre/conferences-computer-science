@@ -1,0 +1,70 @@
+RV 2018: 18th International Conference on Runtime Verification
+Limassol, Cyprus, Oct. 10 - 13, 2018
+
+			Call For Papers
+
+https://rv2018.isp.uni-luebeck.de/
+
+Abstract due 		Jun 18, 2018
+Submission deadline 	Jun 25, 2018
+Notification due 	Sep 10, 2018
+Final version due 	Sep 24, 2018
+
+# Scope
+
+Runtime verification is concerned with the monitoring and analysis of the
+runtime behaviour of software and hardware systems. Runtime verification
+techniques are crucial for system correctness, reliability, and
+robustness; they provide an additional level of rigor and effectiveness
+compared to conventional testing, and are generally more practical
+than exhaustive formal verification. Runtime verification can be used
+prior to deployment, for testing, verification, and debugging purposes,
+and after deployment for ensuring reliability, safety, and security and
+for providing fault containment and recovery as well as online system
+repair. Topics of interest to the conference include:
+
+* specification languages
+* monitor construction techniques
+* program instrumentation
+* logging, recording, and replay
+* combination of static and dynamic analysis
+* specification mining and machine learning over runtime traces
+* metrics and statistical information gathering
+* program/system execution visualization
+* fault localization, containment, recovery and repair
+* integrated vehicle health management (IVHM)
+
+Application areas of runtime verification include cyber-physical systems,
+safety/mission-critical systems, enterprise and systems software,
+autonomous and reactive control systems, health management and diagnosis
+systems, and system security and privacy.
+
+We welcome contributions exploring the combination of runtime verification
+techniques with machine learning and static analysis. Whilst these
+are highlight topics, papers falling into these categories will not be
+treated differently from other contributions.
+
+An overview of previous RV conferences and earlier workshops can be
+found at: http://www.runtime-verification.org.
+
+# Submissions
+
+All papers and tutorials will appear in the conference proceedings in an
+LNCS volume. Submitted papers and tutorials must use the LNCS/Springer
+style detailed here:
+
+http://www.springer.de/comp/lncs/authors.html
+
+Papers must be original work and not be submitted for publication
+elsewhere. Papers must be written in English and submitted electronically
+(in PDF format) using the EasyChair submission page here:
+
+https://easychair.org/conferences/?conf=rv18
+
+The page limitations mentioned below include all text and figures, but
+exclude references. Additional details omitted due to space limitations
+may be included in a clearly marked appendix, that will be reviewed at
+the discretion of reviewers, but not included in the proceedings.
+
+At least one author of each accepted paper and tutorial must attend RV
+2018 to present.

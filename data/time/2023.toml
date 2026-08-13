@@ -26,3 +26,7 @@ submitted = 16
 
 [extra]
 notes = "The authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in Information Systems."
+
+[[cfp]]
+file = "cfp/TIME-2023.txt"
+stage = "initial"

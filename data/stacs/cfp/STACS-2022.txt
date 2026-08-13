@@ -1,0 +1,156 @@
+
+STACS 2022 - Call for papers
+
+The 39th International Symposium on Theoretical Aspects of Computer Science 
+March 15—18, 2022, Marseille, France 
+
+https://stacs2022.sciencesconf.org 
+
+
+LIST OF TOPICS
+
+Authors are invited to submit papers presenting original and unpublished
+research on theoretical aspects of computer science. Typical areas
+include (but are not limited to):
+
+* algorithms and data structures,
+  including: design of parallel, distributed, approximation,
+  parameterised and randomised algorithms; analysis of algorithms and
+  combinatorics of data structures; computational geometry, cryptography,
+  algorithmic learning theory, algorithmic game theory;
+* automata and formal languages,
+  including: algebraic and categorical methods, coding theory;
+* complexity and computability,
+  including: computational and structural complexity theory,
+  parameterized complexity, randomness in computation;
+* logic in computer science,
+  including: finite model theory, database theory, semantics,
+  specification verification, rewriting and deduction;
+* current challenges,
+  for example: natural computing, quantum computing, mobile and net
+  computing, computational social choice.
+
+
+INVITED SPEAKERS
+
+TBA
+
+
+PROGRAM COMMITTEE
+
+Akanksha Agrawal (Indian Institute of Technology Madras, India)
+Eric Allender (Rutgers University, United States of America)
+Nathalie Aubrun (Université Paris-Saclay, France)
+Libor Barto (Charles University, Czech Republic)
+Petra Berenbrink (University of Hamburg, Germany), co-chair
+Hans Bodlaender (Uetrecht University, Netherlands)
+Marthe Bonamy (Bordeaux University, France)
+David Eppstein (University of California, Irvine, United States of America)
+Thomas Erlebach (University of Leicester, United Kingdom)
+John Fearnley (University of Liverpool, United Kingdom)
+Yuval Filmus (Technion, Israel)
+Eldar Fischer (Technion, Israel)
+Martin Hoefer (University of Frankfurt, Germany)
+Clemens Kupke (University of Strathclyde, United Kingdom)
+Massimo Lauria (Sapienza University of Roma, Italy)
+Karoliina Lehtinen (Aix-Marseille University, CNRS, France)
+Nicole Megow (University of Bremen, Germany)
+Marni Mishna (Simon Fraser University, Canada)
+Benjamin Monmege (Aix-Marseille University, France), co-chair
+Angelo Montanari (University of Udine, Italy)
+Daniel Panario (Carleton University, Canada)
+Sylvain Perifel (University of Paris, France)
+Karin Quaas (University of Leipzig, Germany)
+Heiko Röglin (University of Bonn, Germany)
+Christian Scheideler (University of Paderborn, Germany) 
+Melanie Schmidt (University of Bonn, Germany)
+Jeffrey Shallit (University of Waterloo, Canada)
+Frank Stephan (National University of Singapore, Singapore)
+Yann Strozecki (Versailles Saint-Quentin-en-Yvelines University, France)
+Lee Troy (University of Technology Sydney, Australia)
+Kristina Vušković (University of Leeds, United Kingdom)
+Osamu Watanabe (Tokyo Institute of Technology, Japan) 
+
+
+SUBMISSIONS
+
+Authors are invited to submit an extended abstract or full paper with 
+at most 12 pages (excluding the title page and the references section).
+The title page consists of the title of the paper, author information,
+and abstract. The submission page is open: 
+https://easychair.org/conferences/?conf=stacs2022 
+
+The usage of pdflatex and the LIPIcs style file (see
+http://www.dagstuhl.de/en/publications/lipics) are mandatory; no changes
+to font size, page geometry, etc. are permitted. Submissions not in the
+correct format or submitted after the deadline will not be considered.
+
+The paper should contain a succinct statement of the issues and of their
+motivation, a summary of the main results, and a brief explanation of
+their significance, accessible to non-specialist readers.
+
+Proofs omitted due to space constraints must be put into an appendix, to
+be read by the program committee members at their discretion.
+
+Simultaneous submission to other conferences with published proceedings
+or to journals is not allowed. PC members are excluded from submitting.
+
+STACS 2022 will employ a lightweight double-blind reviewing process, 
+meaning that the identity of the authors will be kept secret from the 
+PC members (apart from PC chairs) and external reviewers until the final 
+decision is made. The purpose of the double-blind reviewing is to help 
+PC members and external reviewers come to an initial judgment about the 
+paper without bias, not to make it impossible for them to discover the 
+authors if they were to try. In particular, the “lightweight” means that 
+nothing should be done in the name of anonymity that weakens the 
+submission or makes the job of reviewing the paper more difficult. In 
+particular, important references should not be omitted or anonymised. In 
+addition, authors should feel free to disseminate their ideas or draft 
+versions of their paper as they normally would.
+
+Submissions should not reveal the identity of the authors in any way. 
+In particular, authors’ names, affiliations, and email addresses should 
+not appear at the beginning or in the body of the submission. Authors 
+should ensure that any references to their own related work is in the 
+third person (e.g., not “We build on our previous work …” but rather 
+“We build on the work of …”). Authors with further questions on 
+double-blind reviewing are encouraged to contact the PC chairs.
+
+Authors get the opportunity to declare conflicts of interest. 
+Following ACM guidelines, there is a conflict of interest with
+* a past or current student or academic advisor;
+* a supervisor or employee within the past three years; 
+* a member of the same lab or research group within the past three years;
+* a co-author of a paper appearing in publication within the past three years;
+* a member of the same family or anyone considered a close personal friend.
+
+There will be a rebuttal period. Authors will receive the reviews of 
+their submissions (via EasyChair) and have three days to submit 
+rebuttals (via EasyChair). These rebuttals become part of the PC meeting, 
+but entail no specific responses.
+
+PROCEEDINGS
+
+Accepted papers will be published in the proceedings of the symposium.
+As usual, these proceedings will appear in the Leibniz International
+Proceedings in Informatics (LIPIcs) series, based at Schloss Dagstuhl.
+This guarantees perennial, free and easy electronic access, while the
+authors retain the rights over their work. With their submission,
+authors consent to sign a license authorising the program committee
+chairs to organise the electronic publication of their paper, provided
+the paper is accepted.
+
+
+IMPORTANT DATES
+
+* Deadline for submissions: October 1st, 2021 (23:59 AoE)
+* Rebuttal: November 23–26, 2021
+* Author notification: December 20, 2021
+* Final version: January 17, 2022
+* Conference: March 15–18, 2022
+
+CONTACT INFORMATION
+
+Web: https://stacs2022.sciencesconf.org 
+Email: stacs2022@sciencesconf.org 
+

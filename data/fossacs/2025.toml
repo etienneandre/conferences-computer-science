@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Part of ETAPS 2025. Single-blind, with a rebuttal phase. Rebuttal phase: 3-5 December 2024."
+
+[[cfp]]
+file = "cfp/FoSSaCS-2025.txt"
+stage = "initial"

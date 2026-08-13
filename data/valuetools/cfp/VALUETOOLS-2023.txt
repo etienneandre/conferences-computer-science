@@ -1,0 +1,103 @@
+===============
+VALUETOOLS 2023
+===============
+
+Crete, September 6-8, 2023
+https://valuetools.eai-conferences.org/2023
+
+
+Important Dates and Deadlines
+=============================
+- Paper Submission: June 21, 2023
+- Author Notification: July 31, 2023
+- Camera-Ready: August 30, 2023
+- Conference: September 6-8, 2023
+
+
+Scope and Topics
+================
+ValueTools 2023 solicits original papers that propose new methodologies and
+tools for the performance evaluation and optimization of complex systems. It
+brings together researchers from different communities including Computer
+Science, Networks and Telecommunications, Operations Research, Optimization,
+Control Theory and Manufacturing. ValueTools 2023 welcomes regular
+submission papers describing novel results, as well as short papers on
+vision work, work-in-progress, and tools.
+
+Scientific areas of interest include, but not limited to, the following
+fields:
+
+Methodological Advances
+- Stochastic processes and models
+- Queueing models and networks
+- Discrete event simulation
+- Game theory
+- Machine learning and data analytics
+- Federated processing
+- Optimization and control theory
+- Process algebras
+- Markov decision processes
+- Model checking, process algebras
+- Complex networks
+- Stochastic geometry
+
+Application Areas
+- Machine learning and artificial intelligence systems
+- Data centers, distributed and cloud computing systems
+- Edge and fog computing systems
+- Telecommunication and computer networks
+- Wireless networks
+- Smart grids
+- Social networks
+- Manufacturing systems and supply chains
+- Biological, economic, transportation, and healthcare systems
+
+
+Publication
+===========
+All accepted papers will be published in the Springer LNICST series and made
+available through the SpringerLink Digital Library (indexed by Scopus, ACM
+Digital Library, dblp, Google Scholar).
+
+
+Fast-tracking of Journal Extensions
+===================================
+The conference best papers will be considered for a submission of extended
+versions to the **Elsevier Performance Evaluation journal**.
+
+
+Paper Submission
+================
+ValueTools 2023 accepts submissions in four categories:
+- Regular research papers, up to 14 pages in length (excluding references).
+- Work-in-progress papers on early results,
+  up to 7 pages in length (excluding references).
+- Tools experience papers describing tools for performance evaluation of
+  complex systems, up to 7 pages in length (excluding references).
+- Vision papers on new, disruptive ideas (supported, if possible, by
+  empirical evidence and measurements) that differ from prior published
+  work, up to 7 pages in length (excluding references).
+
+All submitted papers must be unpublished and not be submitted for
+publication elsewhere. Papers should be formatted using Springer's LaTeX
+template
+
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+
+and submitted through EasyChair
+
+https://easychair.org/conferences/?conf=valuetools2023
+
+
+Organization
+============
+- General Chairs
+  William Knottenbelt, Imperial College London, UK
+  Katinka Wolter, Freie Universität Berlin, DE
+
+- Publication Chair
+  Diego Perez, Linnaeus University, Sweden
+
+- Technical Program Chairs
+  Evangelia Kalyvianaki, University of Cambridge, UK
+  Marco Paolieri, University of Southern California, US

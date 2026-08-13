@@ -1,0 +1,179 @@
+************************************************************
+Call for Papers: 39th International Conference on Computer Safety, Reliability and Security
+(SafeComp 2020)
+September 15th-18th, 2020, Lisbon, Portugal
+
+Website: http://safecomp2020.di.fc.ul.pt/
+Contact us:  safecomp2020@listas.di.ciencias.ulisboa.pt
+Submission: https://easychair.org/conferences/?conf=safecomp2020
+************************************************************
+
+
+***************
+About SAFECOMP:
+***************
+
+SafeComp is an annual event covering the state-of-the-art, experience and new trends in the areas of safety, security and reliability of critical computer applications. SafeComp provides ample opportunity to exchange insights and experience on emerging methods, approaches and practical solutions. It is a single-track conference without parallel sessions, allowing easy networking.
+
+SafeComp 2020 will feature the following key theme: Safe AI in critical systems.
+
+
+**********
+Topics:
+**********
+
+The conference covers all aspects related to the development, assessment, operation and maintenance of safety-related and safety-critical computer systems. Major topics include, but are not limited to:
+
+- Development, verification and assessment of intelligent and autonomous safety-critical systems
+- Formal modelling, verification and validation
+- Model-driven engineering
+- Resilient and fault-tolerant hardware and software architectures
+- Fault detection and recovery mechanisms
+- Distributed and real-time monitoring and control
+- Security and privacy protection mechanisms
+- Safety/security co-engineering and risk assessment
+- Probabilistic verification and validation
+- Testing, verification and validation methods & tools
+- Qualification, assurance and certification methods & tools
+- Data-driven techniques for engineering dependable systems
+- Cyber-physical threats and vulnerability analysis
+- Safety and security guidelines, standards and certification
+- Safety and security assurance cases
+- DevOps and agile development methods
+
+Domains of application include (but are not limited to):
+- Railways, automotive, space, avionics & process industries
+- Highly automated and autonomous systems
+- Telecommunication and networks
+- Safety-related applications of smart systems and IoT
+- Critical infrastructures, smart grids, SCADA
+- Medical devices and healthcare
+- Surveillance, defense, emergency & rescue
+- Logistics, industrial automation, off-shore technology
+- Education & training
+
+
+********************
+Workshops and Exhibition:
+********************
+
+It is planned to have one day for workshops. Workshop proposals are welcome. The proposals must be sent by email to the SafeComp 2020 Workshop Chair (erwin.schoitsch@ait.ac.at). They should include planned scope and contents, Program Committee, and duration (one full or half day). Inclusion in the SafeComp Workshop Proceedings are planned, provided that a proper reviewing process is implemented.
+
+A dedicated space will be available for a Technical Exhibition in the area where coffee breaks take place. Organisations wishing to present their products or projects are invited to request further information from the conference organisers (safecomp2020@listas.di.ciencias.ulisboa.pt).
+
+
+********************
+Important Dates:
+********************
+
+Workshop proposal submission: 7 February 2020
+Abstract submission: 14 February 2020
+Full paper submission: 24 February 2020
+Notification of acceptance: 30 April 2020
+Camera-ready submission: 28 May 2020
+Position paper submission: 28 May 2020
+
+
+********************
+Submission Details:
+********************
+
+The tradition of SafeComp is to act as a platform for bringing academic research and industrial needs together. Therefore, industrial contributions and real-world experience reports are explicitly invited. We solicit two types of papers:
+
+- Regular papers (up to 14 pages)
+- Practical experience reports and tool papers (up to 8 pages)
+
+Industrial contributions are especially invited. All papers will be reviewed by at least 3 program committee members. Papers must not have been previously published or concurrently submitted elsewhere. Papers should be electronically submitted via the EasyChair submission system (https://easychair.org/conferences/?conf=safecomp2020). At least one author of each accepted paper must register for the conference (regular registration). A specific call for Position Papers (up to 4 pages) and respective submission guidelines and dates will be made available later.
+
+
+***************
+Organizers:
+***************
+
+EWICS TC7 Chair:
+Francesca Saglietti (University of Erlangen-Nuremberg, DE)
+
+General Chair:
+António Casimiro (University of Lisbon, PT)
+
+Program Co-Chairs:
+António Casimiro (University of Lisbon, PT)
+Frank Ortmeier (Otto-von-Guericke University, DE)
+
+Publication Chairs:
+Friedemann Bitsch (THALES Deutschland GmbH, DE)
+Pedro Ferreira (University of Lisbon, PT)
+
+Local Organizing Committee:
+António Casimiro (University of Lisbon, PT)
+Pedro Ferreira (University of Lisbon, PT)
+Ibéria Medeiros (University of Lisbon, PT)
+
+Workshop Chair:
+Erwin Schoitsch (AIT, AT)
+
+Publicity Chair:
+Bernardo Ferreira (University of Lisbon, PT)
+
+
+**********
+Program Committee:
+**********
+
+Uwe Becker (DE)
+Peter Bishop (UK)
+Friedemann Bitsch (DE)
+Sandro Bologna (IT)
+Andrea Bondavalli (IT)
+Jens Braband (DE)
+Simon Burton (DE)
+Peter Daniel (UK)
+Ewen Denney (US)
+Felicita Di Giandomenico (IT)
+Wolfgang Ehrenberger (DE)
+John Favaro (IT)
+Francesco Flammini (IT)
+Simon Fuerst (DE)
+Barbara Gallina (SE)
+Ilir Gashi (UK)
+Bruno Gonçalves (PT)
+Jérémie Guiochet (FR)
+Janusz Górski (PL)
+Ibrahim Habli (UK)
+Hans Hansson (SE)
+Maritta Heisel (DE)
+Chris Johnson (UK)
+Rajeev Joshi (US)
+Joost-Pieter Katoen (DE)
+Philip Koopman (US)
+Timo Latvala (FI)
+John McDermid (UK)
+Simin Nadjm-Tehrani (SE)
+Mattias Nyberg (SE)
+Philippe Palanque (FR)
+Michael Paulitsch (DE)
+Holger Pfeifer (DE)
+Luís Miguel Pinho (PT)
+Peter Popov (UK)
+Alexander Romanovsky (UK)
+Matteo Rossi (IT)
+Francesca Saglietti (DE)
+Christoph Schmitz (CH)
+Erwin Schoitsch (AT)
+Christel Seguin (FR)
+Frank Singhof (FR)
+Håkan Sivencrona (SE)
+Oleg Sokolsky (US)
+Wilfried Steiner (AT)
+Mark Sujan (UK)
+Kenji Taguchi (JP)
+Stefano Tonetta (IT)
+Martin Törngren (SE)
+Mario Trapp (DE)
+Elena Troubitsyna (FI)
+Tullio Vardanega (IT)
+Marcel Verhoef (NL)
+Marco Vieira (PT)
+Jonny Vinter (SE)
+Marcus Völp (LU)
+Hélène Waeselynck (FR)

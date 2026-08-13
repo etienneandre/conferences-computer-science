@@ -1,0 +1,147 @@
+CFP: 28th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2023)
+
+---------------
+CALL FOR PAPERS
+---------------
+
+PRDC 2023 is the 28th event in a series of symposia started in 1989 devoted to dependable and fault-tolerant computing; it encompasses fundamental theoretical approaches, practical experimental projects, and commercial components and systems. This symposium is recognized as the main event in the Pacific Rim area, and it provides a forum for countries around the world to exchange ideas for improving the dependability of computing systems.
+
+https://prdc.dependability.org/PRDC2023
+
+------------------------------
+Venue
+------------------------------
+Singapore Management University, Singapore
+
+------------------------------
+Important Dates (Anywhere on Earth)
+------------------------------
+Abstract submission: 15 July 2023
+Paper submission: 21 July 2023
+Rebuttal: 23 - 25 Aug 2023
+Author notification: 5 Sept 2023
+Camera-ready version: 20 Sept 2023
+Conference: 24 - 27 Oct 2023
+
+------------------------------
+Scope
+------------------------------
+Topics of interest include (but not limited to):
+Software and hardware reliability, resilience, safety, security, testing, verification, and validation
+Dependability measurement, modeling, evaluation, and tools
+Self-healing, self-protecting, and fault-tolerant systems
+Architecture and system design for dependability
+Prognostics in Complex Systems
+Reliability analysis of Complex Systems
+Fault-tolerant algorithms and protocols
+Cloud computing resiliency, security and privacy
+Software defined networks architectures and protocols
+Dependability issues in computing systems (e.g. computer networks and communications, high performance computing, real-time systems, storage and databases systems, cyber-physical systems, socio-technical systems, and blockchain and smart contracts).
+Emerging technologies (autonomous systems including autonomous vehicles, human machine teaming, smart devices/Internet of Things)
+
+------------------------------
+Main Track Submission
+------------------------------
+Manuscripts may be submitted in IEEE double-column format to one of the following two categories: (i) Regular Papers and (ii) Practical Experience Reports.
+
+Regular Papers (10 pages, excluding references and appendices) should describe original research.
+
+Case Studies (6 pages, excluding references and appendices) should describe an experience or a case study, such as the design and deployment of a system or actual failure and recovery field data.
+
+All submissions must be made electronically (in PDF format) on the submission website.
+
+https://prdc2023.hotcrp.com/
+
+Please note that all submissions will undergo a double-blind review.
+------------------------------
+Industry Track Submission
+------------------------------
+The Industry Track provides a forum for researchers and practitioners from industry to present and debate R&D challenges, practical solutions, case studies, and share field reliability data. Papers should be in the IEEE double-column format.
+
+The Industry Track at PRDC 2023 is soliciting industry papers in two categories:
+Regular paper submission consisting of 6 pages (excluding references).
+Position paper submission consisting of 2 pages (excluding references).
+
+https://prdc2023-industry.hotcrp.com/
+
+------------------------------
+Fast Abstract Track Submission
+------------------------------
+Fast Abstracts are lightly-reviewed manuscripts 2 pages in IEEE double-column format (excluding references and appendices) describing unpublished, in-progress, novel work, opinions or ideas.
+
+The submitted Fast Abstracts must be in .pdf format and completely ready for printing. To upload your paper, please use the submission site.
+
+https://prdc2023-fast.hotcrp.com/
+
+------------------------------
+Publication
+------------------------------
+Accepted papers from all tracks will be published by the IEEE Computer Society Press (EI Indexed). Submission of a contribution indicates agreement to have one author present the work, if accepted, at the conference.
+
+------------------------------
+Journal Special Issue
+------------------------------
+Selected papers will be invited to publish in IEEE Transactions on Dependable and Secure Computing (TDSC) and a special issue of Formal Aspects of Computing (FAC).
+
+------------------------------
+Paper Awards
+------------------------------
+Outstanding papers will be selected to receive the following awards:
+2023 IEEE Distinguished Contribution Award on Dependable Computing
+2023 IEEE Distinguished Industrial Contribution Award on Dependable Computing
+2023 IEEE Distinguished Visionary Poster Award on Dependable Computing
+
+------------------------------
+Organising Committee
+------------------------------
+Honorary General Chair
+Jin Song Dong, National University of Singapore, Singapore
+
+General Co-Chairs
+Jun Sun, Singapore Management University, Singapore
+Yang Liu, Nanyang Technological University, Singapore
+
+Program Co-Chairs
+Yun Lin, Shanghai Jiao Tong University, China
+Zhe Hou, Griffith University, Australia
+
+Publicity Co-chairs
+Naipeng Dong, University of Queensland, Australia
+David Sanan, Singapore Institute of Technology, Singapore
+Xiaoning Du, Monash University, Australia
+
+Industry Track Co-chairs
+Yan Liu, Runtime Verification, Australia
+Peng Di, Ant Group, China
+
+Fast Abstract Track Co-chairs
+Babu Pillai, Southern Cross University, Australia
+Ruitao Feng, University of New South Wales, Australia
+Jie Zhang, King’s College London, UK
+
+Local Arrangement Chair
+Xiaofei Xie, Singapore Management University, Singapore
+
+Web Chair
+Jian Wang, Nanyang Technological University, Singapore
+
+Steering Committee
+Dan Dongseong Kim, The University of Queensland (Chair)
+Yennun Huang, Academia Sinica
+Nobuyasu Kanekawa, Hitachi Research Lab
+Jin Song Dong, National University of Singapore
+Karthik Pattabiraman, University of British Columbia
+Gernot Heiser, University of New South Wales
+Sy-Yen Kuo, National Taiwan University
+Zhi Jin, Peking University
+Jin Hong, University of Western Australia
+Hyoungshick Kim, Sungkyunkwan University
+
+Thanks!
+
+Best regards,
+--------------
+Cheng-Hao Cai
+Monash Suzhou Research Institute
+Faculty of Information Technology
+Monash University

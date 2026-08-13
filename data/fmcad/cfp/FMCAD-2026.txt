@@ -1,0 +1,126 @@
+                          CALL FOR PAPERS
+
+    26th International Conference on Formal Methods in Computer-Aided Design
+                             FMCAD 2026
+
+           September 14-18, 2026, Graz University of Technology, Graz, Austria
+
+                     https://fmcad.org/FMCAD26/
+
+================================================================================
+
+FMCAD 2026 is the twenty-sixth edition in a series of conferences on the theory and applications of formal methods in hardware and system verification. The conference encompasses a wide range of topics related to formal aspects of computer-aided system design, including verification, specification, synthesis, and testing and provides
+a leading forum to researchers in academia and industry for presenting and discussing groundbreaking methods, technologies, theoretical results, and tools for reasoning formally about computing systems.
+
+
+# Formal Methods in Computer-Aided Design 2026 - Call for Papers
+
+Dear Colleagues,
+
+We are pleased to invite you to submit papers for the Formal Methods in Computer-Aided Design (FMCAD 2026), which will take place in Graz, Austria, on September 14-18, 2026. The full Call for Papers, with submission details, is at https://fmcad.org/FMCAD26/cfp/.
+
+ ## Important Dates
+
+ * Abstract submission:                April 26, 2026
+ * Paper submission:                   May 3, 2026
+ * Author Response:                    June 15, 2026
+ * Author Notification:                June 28, 2026
+ * Student Forum Abstract Submission:  June 16, 2026
+ * Student Forum Submission:           June 22, 2026
+ * Student Forum Notification:         July 14, 2026
+ * Camera-Ready Submission:            July 18, 2026
+ * Early Registration Deadline:        August 01, 2026
+ * Registration Deadline:              September 07, 2026
+
+## General Information
+Conference Website: https://fmcad.org/FMCAD26/
+Conference Location: Graz University of Technology, Graz, Austria
+Conference Dates: September 14 - 18, 2026
+
+## Topics of Interest
+
+FMCAD welcomes submission of papers reporting original research on advances in all
+aspects of formal methods and their applications to computer-aided design.
+
+The topics of the conference include, but are not limited to:
+
+* Model checking, theorem proving, equivalence checking, abstraction and reduction, compositional methods, decision procedures at the bit- and word-level, probabilistic methods, combinations of deductive methods and decision procedures.
+* Synthesis and compilation for computer system descriptions, modeling, specification, and implementation languages, formal semantics of languages and their subsets, model-based design, design derivation and transformation, correct-by-construction methods.
+* Application of formal and semi-formal methods to functional and non-functional specification and validation of hardware and software, including timing and power modeling, verification of computing systems on all levels of abstraction, system-level design and verification for embedded systems, cyber-physical systems, automotive systems and other safety-critical systems, hardware-software co-design and verification, and transaction-level verification.
+* Experience with the application of formal and semi-formal methods to industrial-scale designs; tools that represent formal verification enablement, new features, or a substantial improvement in the automation of formal methods.
+* Application of formal methods to verifying safety, connectivity and security properties of networks, distributed systems, smart contracts, block chains, and IoT devices.
+* Formal verification of data-driven AI systems, addressing safety, robustness to adversarial inputs, reliability, fairness, and compliance with regulatory requirements.
+* Applications of AI to enhance formal methods techniques, including invariant and specification inference, learning-based heuristics for verification and synthesis, and data-driven verification workflows.
+
+
+### FMCAD/VSTTE Program Outline
+
+FMCAD 2026 is co-located with VSTTE 2026, with shared tutorial and joint program elements.
+
+* Main VSTTE Day: Monday, September 14, 2026
+* Joint FMCAD/VSTTE Tutorial Day: Tuesday, September 15, 2026
+* Main FMCAD days: Wednesday - Friday, September 16 - 18, 2026
+
+## Submission Guidelines
+
+Submissions must be made electronically in PDF format via EasyChair:
+https://easychair.org/conferences?conf=fmcad2026
+
+Two categories of papers are invited: Regular papers, and Tool & Case Study papers.
+
+* *Regular papers* are expected to offer novel foundational ideas, theoretical results, or algorithmic improvements to existing methods, along with experimental impact validation where applicable.
+* *Tool & Case Study papers* are expected to report on the design, implementation or use of verification (or related) technology in a practically relevant context (which need not be industrial), and its impact on design processes.
+
+Both Regular and Tool & Case Study papers must use the IEEE Transactions format on letter-size paper with a 10-point font size; preferably, use the FMCAD template for papers. Papers in both categories can be either 8 pages (long) or 4 pages (short)in length excluding references. Short papers that describe emerging results, practical experiences, or original ideas that can be described succinctly are encouraged. Authors
+will be required to select an appropriate paper category at abstract submission time. Submissions may contain an optional appendix, which will not appear in the final version of the paper. The reviewers should be able to assess the quality and the relevance of the results in the paper without reading the appendix.
+
+Submissions in all categories must contain original research that has not been previously published, nor is concurrently submitted for publication. Any partial overlap with published or concurrently submitted papers must be clearly indicated.
+
+FMCAD employs a rigorous peer-review process and each submission will be reviewed by at least four members of the program committee. The review process is single-blind.
+
+The review process will incorporate a feedback and rebuttal period during which authors will have the opportunity to formally respond to reviewer comments.
+
+** Artifact Evaluation:** FMCAD 2025 introduced optional artifact evaluation to enhance transparency and the usability of research outcomes, which will again be featured at FMCAD 2026. Authors reporting experimental results are strongly encouraged to publish their final data in a long-term repository (e.g. zenodo (https://zenodo.org)). With artifacts serving as supplementary evidence, high-quality artifacts can improve the likelihood of paper acceptance. Artifact evaluation will be integrated into the main review process, with one selected program committee member assessing the quality of the artifact alongside the paper. Accepted artifacts require a DOI and will be clearly identified in the published paper. Details are available on the Artifacts Page (https://fmcad.org/FMCAD26/cfa).
+
+
+Accepted papers are published by TU Wien Academic Press under a Creative Commons license (the authors retain the copyright) and distributed through the IEEE Xplore digital library. IEEE CEDA is a technical co-sponsor of FMCAD. There are no publication fees. Authors of accepted contributions will be required to sign the FMCAD copyright transfer form found here: https://fmcad.or.at/pdf/copyright.pdf. For each accepted paper, at least one unique author must register for the conference. Moreover, authors of accepted papers ensure that at least one of them will attend the conference and present the work.
+
+
+## Student Forum
+Continuing the tradition of the previous years, FMCAD 2026 will host a Student Forum that provides a platform for graduate students at any career stage to introduce their research to the wider Formal Methods community, and solicit feedback.
+
+Submissions for the student forum must be short reports describing research ideas or ongoing work that the student is currently pursuing, and must be within the scope of FMCAD. Work that has been partly published previously might be considered; the novel aspect to be addressed in future work must be clearly described in such cases.
+
+All submissions will be reviewed by a selected group of FMCAD student forum committee members. Details are available on the Student Forum Page (https://fmcad.org/FMCAD26/student_forum).
+
+[Apologies if you receive multiple copies of this email.]
+
+Sincerely,
+The FMCAD 2026 organizing committee
+
+
+## FMCAD 2026 Committees
+### Program Chairs
+Bruno Dutertre, AWS, USA
+Bettina Könighofer, TU Graz, Austria
+
+### Student Forum Chairs
+Tanja Schindler, University of Basel, Switzerland
+Lee A. Barnett, AWS, USA
+
+### Publication Chair
+Georg Weissenbacher, TU Wien, Austria
+
+### Publicity Chair
+Martin Tappler, TU Wien, Austria
+
+### Web Chair
+Stefan Pranger, TU Graz, Austria
+Thomas Hader, TU Wien, Austria
+
+### FMCAD Steering Committee
+Clark Barrett, Stanford University, CA, USA
+Armin Biere, University of Freiburg, Germany
+Ruzica Piskac, Yale University, USA
+Anna Slobodova, ARM, USA
+Georg Weissenbacher, TU Wien, Austria

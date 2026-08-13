@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Authors will have a chance to rebut the reviews within 800 words over the period of July 10th to July 12th."
+
+[[cfp]]
+file = "cfp/ISSRE-2017.txt"
+stage = "initial"

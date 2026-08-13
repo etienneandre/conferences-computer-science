@@ -1,0 +1,170 @@
+CALL FOR PAPERS
+===============
+
+17th International Symposium on Automated Technology for Verification
+and Analysis (ATVA 2019)
+
+October 28-31, 2019, Taipei, Taiwan.
+
+http://atva2019.iis.sinica.edu.tw
+
+
+Scope
+-----
+
+ATVA 2019 is the 17th in a series of symposia dedicated to the 
+promotion of research on theoretical and practical aspects of 
+automated analysis, verification, and synthesis by providing a 
+forum for interaction between local and international research 
+communities and industry in the field. Previous events were 
+held in Taipei (2003-2005), Beijing (2006), Tokyo (2007), 
+Seoul (2008), Macao (2009), Singapore (2010), Taipei (2011), 
+Thiruvananthapuram (2012), Hanoi (2013), Sydney (2014), 
+Shanghai (2015), Chiba (2016), Pune (2017), and Los Angeles (2018).
+
+As in the previous years, the proceedings will be published in 
+Springer Lecture Notes in Computer Science (LNCS) series. 
+
+ATVA 2019 solicits high-quality submissions on, but not limited
+to, the following topics:
+
+* Formalisms for modeling hardware, software, and embedded systems
+* Specification and verification of finite- and infinite-state systems
+* Program analysis, symbolic execution, and software verification
+* Verification of hardware, systems-on-chip, and embedded systems
+* Analysis of real-time, hybrid, and probabilistic systems
+* Deductive, algorithmic, and compositional analysis and verification
+* Analytical techniques for safety, security, and dependability
+* Testing and runtime analysis based on verification technology
+* Analysis and verification of parallel and concurrent systems
+* Verification in industrial practice
+* Synthesis of hardware and software systems
+* Applications and case studies
+* Automated tool support
+
+
+Submissions
+-----------
+
+ATVA invites submissions in two categories:
+
+* Regular research papers (16 pages, including references)
+* Tool papers (6 pages, including references)
+
+Submissions must be in Springer's LNCS format. Additional material 
+may be placed in an appendix, to be read at the discretion of the
+reviewers and to be omitted in the final version. Formatting style
+files and further guidelines for formatting can be found at the
+Springer website.
+
+Tool papers must include information about a URL from where the tool
+can be downloaded or accessed online for evaluation. The URL must
+also contain a set of examples and a user manual that describes the 
+usage of the tool through examples. In case the tool needs to be
+downloaded and installed, the URL must contain instructions for
+installation of the tool on Linux/Windows/MacOS.
+
+Papers must be submitted to the EasyChair site at
+https://easychair.org/conferences/?conf=atva2019
+
+Accepted papers in both categories will be published in Springer's
+LNCS series. A small selection of accepted papers will be considered 
+for a distinguished paper award.
+
+At least one author of each accepted paper is expected to register and
+present the paper at the conference. We will offer free accommodation 
+for a limited number of students with an accepted paper.
+
+ATVA 2019 will have an artifact evaluation stage.  The authors of 
+accepted papers will be invited to submit an artifact for evaluation 
+by the Artifact Evaluation Committee (AEC). 
+An artifact is any additional material (software, data sets, 
+machine-checkable proof, etc) that substantiates the claims made in 
+the paper and ideally makes them fully reproducible. 
+AEC members will execute the submitted artifacts and check if they 
+produce the same results as those reported in the papers. This 
+submission is voluntary, but encouraged, and will not influence the 
+final decision of the papers. Papers that pass the artifact evaluation 
+will receive a badge printed on the papers themselves.  More details 
+can be found on the conference website.
+
+Important Dates
+---------------
+Abstract Submission: April 26, 2019
+Paper Submission: May 3, 2019
+Notification: June 16, 2019
+Camera-Ready version: July 12, 2019
+Conference: October 28-31, 2019
+
+
+Invited Speakers for keynotes and tutorials
+-------------------------------------------
+
+Armin Biere, Johannes Kepler University Linz
+Patricia Bouyer, CNRS and ENS de Cachan
+Rupak Majumdar, Max-Plack Institute for Software Systems
+
+Program Chairs
+--------------
+
+Yu-Fang Chen, Academia Sinica
+Chih-Hong Cheng, fortiss – Research Institute of the Free State of Bavaria
+Javier Esparza, TU Munich
+
+
+Program Committee
+-----------------
+
+Erika Abraham, RWTH Aachen University
+Mohamed Faouzi Atig, Uppsala University
+Christel Baier, TU Dresden
+Saddek Bensalem, VERIMAG
+Udi Boker, Interdisciplinary Center (IDC) Herzliya
+Luca Bortolussi, University of Trieste
+Franck Cassez, Macquarie University
+Krishnendu Chatterjee, Institute of Science and Technology (IST)
+Yu-Fang Chen, Academia Sinica
+Chih-Hong Cheng, fortiss – Research Institute of the Free State of Bavaria
+Alessandro Cimatti, FBK-irst
+Loris D’Antoni, University of Wisconsin-Madison
+Alexandre Duret-Lutz, LRDE/EPITA
+Javier Esparza, Technical University of Munich
+Bernd Finkbeiner, Saarland University
+Pierre Ganty, IMDEA Software Institute
+Keijo Heljanko, University of Helsinki
+Stefan Katzenbeisser, TU Darmstadt
+Siau-Cheng Khoo, National University of Singapore
+Orna Kupferman, Hebrew University
+Ondrej Lengal, Brno University of Technology (AEC Chair)
+Shang-Wei Lin, Nanyang Technological University
+Anthony Widjaja Lin, University of Oxford
+Hakjoo Oh, Korea University
+Doron Peled, Bar Ilan University
+Pavithra Prabhakar, Kansas State University
+Indranil Saha, University of California, Los Angeles
+Sven Schewe, University of Liverpool
+Jun Sun, Singapore University of Technology and Design
+Michael Tautschnig, Queen Mary University of London
+Tachio Terauchi, Waseda University
+Ashish Tiwari, Microsoft
+Bow-Yaw Wang, Academia Sinica
+Farn Wang, National Taiwan University
+Chao Wang, University of Southern California
+Zhilin Wu, Institute of Software, Chinese Academy of Sciences
+Lijun Zhang, Institute of Software, Chinese Academy of Sciences
+
+Local Arrangement Chair
+-----------------------
+
+Ming-Hsien Tsai, Academia Sinica
+
+Steering Committee
+------------------
+
+E Allen Emerson, University of Texas, Austin
+Teruo Higashino, Osaka University
+Oscar H Ibarra, University of California, Santa Barbara
+Insup Lee, University of Pennsylvania
+Doron A Peled, Bar Ilan University
+Farn Wang, National Taiwan University
+Hsu-Chun Yen, National Taiwan University

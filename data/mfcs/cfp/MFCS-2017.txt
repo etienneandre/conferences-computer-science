@@ -1,0 +1,233 @@
+
+CALL FOR PAPERS
+
+ 
+
+   42nd International Symposium on Mathematical Foundations of Computer Science
+
+                            MFCS 2017
+
+                 Aalborg, Denmark, August 21-25, 2017
+
+ 
+
+                    http://mfcs2017.cs.aau.dk/
+
+ 
+
+ 
+
+BACKGROUND:
+
+ 
+
+MFCS conference series is organized since 1972. Traditionally, the conference moved between the Czech Republic, Slovakia, and Poland, while since a few years ago, the conference travels around Europe (in 2013 it was held in Austria, then in 2014 in Hungary, in 2015, in Italy). In 2016 the conference returned to Poland and in 2017 it will be held in Denmark.
+
+MFCS is a high-quality venue for original research in all branches of theoretical computer science. The broad scope of the conference encourages interactions between researchers who might not meet at more specialized venues.
+
+MFCS 2017 consists of invited lectures and contributed talks, selected by an international program committee of researchers focusing on diverse areas of theoretical computer science. The conference will be accompanied by workshops. 
+
+ 
+
+We encourage submission of original research papers in all areas of theoretical computer science, including (but not limited to) the following (alphabetically ordered):
+
+  
+
+   - algebraic and co-algebraic methods in computer science
+
+   - algorithms and data structures
+
+   - automata and formal languages
+
+   - bioinformatics
+
+   - combinatorics on words, trees, and other structures
+
+   - computational complexity (structural and model-related)
+
+   - computational geometry
+
+   - computer-assisted reasoning
+
+   - concurrency theory
+
+   - cryptography and security
+
+   - databases and knowledge-based systems
+
+   - formal specifications and program development
+
+   - foundations of computing
+
+   - logics in computer science
+
+  - mobile computing
+
+   - models of computation
+
+   - networks (incl. wireless, sensor, ad-hoc networks)
+
+   - parallel and distributed computing
+
+   - quantum computing
+
+   - semantics and verification of programs
+
+   - theoretical issues in artificial intelligence
+
+   - types in computer science
+
+ 
+
+All submitted papers will be reviewed by the program committee. Accepted papers will be collected into the conference proceedings. 
+
+ 
+
+IMPORTANT DATES:
+
+ 
+
+Abstract submission deadline: April 20th, 2017   (AoE)
+
+Paper submission deadline:    April 24th, 2017   (AoE)
+
+Notification of authors: June 12th, 2017    (AoE)
+
+Camera-ready copies due: June 22nd, 2017    (AoE)
+
+Early registration deadline: June 23rd, 2017    (AoE)
+
+Late registration deadline: August 7th, 2017   (AoE; afterward, only on-site registration)
+
+Conference dates: August 21–25, 2017
+
+ 
+
+PAPER SUBMISSION: 
+
+ 
+
+Papers should be submitted electronically through EasyChair at https://easychair.org/conferences/?conf=mfcs17
+
+ 
+
+Submissions should be prepared according to the following instructions:
+
+Papers should be formatted using the LIPIcs style. 
+
+Length: up to 12 pages (excluding references and an optional appendix)
+
+References and an optional appendix can go beyond the 12 pages (the appendix will be consulted at the discretion of the program committee).
+
+It is mandatory to use pdflatex
+
+No prior publication or simultaneous submission to other conferences or journals are allowed (but submissions to preprint repositories such as arXiv or workshops without formal published proceedings are allowed)
+
+ 
+
+PROGRAM COMMITTEE:
+
+ 
+
+Kim G. Larsen – PC chair (Aalborg University, Denmark)
+
+Hans L. Bodlaender – co-chair (Eindhoven University of Technology, Netherlands)
+
+Jean-Francois Raskin –co-chair (Universite Libre de Bruxelles, Belgium)
+
+Alexander Kurz (University of Leicester)
+
+Aniello Murano (Università degli Studi di Napoli Federico II)
+
+Arno Pauly (Universite Libre de Bruxelles)
+
+Axel Legay (IRISA/INRIA, Rennes)
+
+Bartek Klin (University of Warsaw)
+
+Bettina Speckmann (TU Eindhoven)
+
+Christof Löding (RWTH Aachen)
+
+Damien Pous (CNRS - ENS Lyon)
+
+Dana Pardubska (Comenius University)
+
+Dexter Kozen (Cornell University)
+
+Doron Peled (Bar Ilan University)
+
+Franck Cassez (Macquarie University)
+
+Hans Raj Tiwary (Charles University)
+
+Jiri Wiedermann (Academy of Sciences)
+
+Jörg Rothe (Universität Düsseldorf)
+
+Kasper Green Larsen (MADALGO, Department of Computer Science, Aarhus University)
+
+Lars Birkedal (Dept. of Computer Science, Aarhus University)
+
+Luca Moscardelli  (University of Chieti-Pescara)
+
+Manfred Droste (Leipzig University, Institute of Computer Science)
+
+Manuel Bodirsky (TU Dresden)
+
+Martin Lange (University of Kassel)
+
+Matteo Mio (CNRS/ENS-Lyon)
+
+Patricia Bouyer (LSV, CNRS & ENS Cachan, Université Paris Saclay)
+
+Pawel Gawrychowski (University of Haifa)
+
+Peter Van Emde Boas (ILLC-FNWI-Universiteit van Amsterdam (emeritus)
+
+Petteri Kaski (Helsinki Institute for Information Technology HIIT, Department of Computer Science, Aalto University)
+
+Pierre-Yves Schobbens (University of Namur)
+
+Prakash Panangaden (McGill University)        
+
+Radu Mardare (Aalborg University)
+
+Raffaella Gentilini (University of Perugia)
+
+Ramamohan Paturi (University of California, San Diego)
+
+Rocco De Nicola (IMT - School for Advanced Studies Lucca)
+
+Rod Downey (Victoria University)
+
+Roland Meyer (TU Braunschweig)
+
+Sagi Snir (Univ. of Haifa)
+
+Sam Staton (Oxford University)
+
+Sławomir Lasota (Warsaw University)
+
+Stephan  Kreutzer (Technical University Berlin)
+
+Tarmo Uustalu (Institute of Cybernetics, Tallinn University of Technology)
+
+Udi Boker (Interdisciplinary Center (IDC) Herzliya)
+
+Vojtech Forejt (Oxford University)
+
+ 
+
+LOCAL ORGANIZERS, Aalborg University
+
+Giorgio Bacci
+
+Giovanni Bacci
+
+Radu Mardare
+
+Jiri Srba
+
+Rikke W. Uhrenholt
+

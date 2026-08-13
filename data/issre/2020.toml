@@ -21,3 +21,11 @@ license = "pay"
 
 [extra]
 notes = "Double-blind. Rebuttal: 16-18 July 2020. Moved from Wuhan (China) to Coimbra, Portugal in 2020 due to coronavirus."
+
+[[cfp]]
+file = "cfp/ISSRE-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISSRE-2020-extended.txt"
+stage = "extended"

@@ -1,0 +1,24 @@
+
+11th International Conference on Performance Evaluation Methodologies and Tools ## VALUETOOLS 2017
+
+5-7 December, 2017
+
+Venice, Italy
+
+CALL FOR PAPERS
+
+ValueTools 2017 focuses on methodologies and practices in modelling, performance evaluation and optimization of complex systems. It brings together researchers from different communities including Computer Science, Networks and Telecommunications, Operations Research, Optimization, Control Theory and Manufacturing. ValueTools 2017 solicits previously unpublished contributions that propose new performance evaluation methodologies and new tools.
+
+ValueTools 2017 invites the following types of contributions: regular papers (8 pages), tool papers (6 pages), and fast abstracts ( 2 pages). All types of contributions must be prepared in ACM format. Detailed submission instructions will be available at: http://www.valuetools.org/2017/
+
+IMPORTANT DATES
+
+	• **NEW** Submission (regular papers, tools, tutorials): **NEW** July 31, 2017  **NEW**
+	• Notification (regular papers, tools, tutorials): September 11, 2017
+	• Submission (fast abstracts): September 18, 2017
+• Notification (fast abstracts): September 25, 2017
+	• Camera-ready: October, 9 2017
+
+CONFERENCE WEB PAGE
+
+http://www.valuetools.org/2017/

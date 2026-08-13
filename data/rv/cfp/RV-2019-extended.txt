@@ -1,0 +1,200 @@
+****************************************************************
+
+DEADLINE EXTENSION
+
+Abstract deadline   May 21, 2019
+Submission deadline May 21, 2019
+
+****************************************************************
+
+
+Call for Papers
+
+RV 2019
+
+19th International Conference on Runtime Verification
+Porto, Portugal
+October 8-11, 2019
+
+NEW IN 2019: Benchmark Papers Track
+
+https://www.react.uni-saarland.de/rv2019/
+
+# Scope
+
+Runtime verification is concerned with the monitoring and analysis of
+the runtime behaviour of software and hardware systems. Runtime
+verification techniques are crucial for system correctness,
+reliability, and robustness; they provide an additional level of rigor
+and effectiveness compared to conventional testing, and are generally
+more practical than exhaustive formal verification. Runtime
+verification can be used prior to deployment, for testing,
+verification, and debugging purposes, and after deployment for
+ensuring reliability, safety, and security and for providing fault
+containment and recovery as well as online system repair.
+
+Topics of interest to the conference include, but are not limited to:
+
+* specification languages for monitoring
+* monitor construction techniques
+* program instrumentation
+* logging, recording, and replay
+* combination of static and dynamic analysis
+* specification mining and machine learning over runtime traces
+* monitoring techniques for concurrent and distributed systems
+* runtime checking of privacy and security policies
+* metrics and statistical information gathering
+* program/system execution visualization
+* fault localization, containment, recovery and repair
+* dynamic type checking
+
+Application areas of runtime verification include cyber-physical
+systems, safety/mission critical systems, enterprise and systems
+software, cloud systems, autonomous and reactive control systems,
+health management and diagnosis systems, and system security and
+privacy.
+
+An overview of previous RV conferences and earlier workshops can be
+found at: http://www.runtime-verification.org.
+
+# Submissions
+
+All papers and tutorials will appear in the conference proceedings in
+an LNCS volume. Submitted papers and tutorials must use the
+LNCS/Springer style detailed here:
+
+http://www.springer.de/comp/lncs/authors.html
+
+Papers must be original work and not be submitted for publication
+elsewhere. Papers must be written in English and submitted
+electronically (in PDF format) using the EasyChair submission page
+here:
+
+https://easychair.org/conferences/?conf=rv19
+
+The page limitations mentioned below include all text and figures, but
+exclude references. Additional details omitted due to space
+limitations may be included in a clearly marked appendix, that will be
+reviewed at the discretion of reviewers, but not included in the
+proceedings.
+
+At least one author of each accepted paper and tutorial must attend RV
+2019 to present.
+
+# Papers
+
+There are four categories of papers which can be submitted: regular,
+short, tool demo, and benchmark papers. Papers in each category will
+be reviewed by at least 3 members of the Program Committee.
+
+* Regular Papers (up to 15 pages, not including references) should
+present original unpublished results. We welcome theoretical papers,
+system papers, papers describing domain-specific variants of RV, and
+case studies on runtime verification.
+
+* Short Papers (up to 6 pages, not including references) may present
+novel but not necessarily thoroughly worked out ideas, for example
+emerging runtime verification techniques and applications, or
+techniques and applications that establish relationships between
+runtime verification and other domains.
+
+* Tool Demonstration Papers (up to 8 pages, not including references)
+should present a new tool, a new tool component, or novel extensions
+to existing tools supporting runtime verification. The paper must
+include information on tool availability, maturity, selected
+experimental results and it should provide a link to a website
+containing the theoretical background and user guide. Furthermore, we
+strongly encourage authors to make their tools and benchmarks
+available with their submission.
+
+* Benchmark Papers (up to 10 pages, not including references, NEW IN
+2019) should describe a benchmark, suite of benchmarks, or benchmark
+generator useful for evaluating RV tools. Papers will should include
+information as to what the benchmark consists of and its purpose (what
+is the domain), how to obtain and use the benchmark, an argument for
+the usefulness of the benchmark to the broader RV community, and may
+include any existing results produced using the benchmark. We are
+interested in both benchmarks pertaining to real-world scenarios and
+those containing synthetic data designed to achieve interesting
+properties. Broader definitions of benchmark e.g. for generating
+specifications from data or diagnosing faults are within
+scope. Finally, we encourage but do not require benchmarks that are
+tool agnostic (especially those that have been used to evaluate
+multiple tools), labelled benchmarks with rigorous arguments for
+correctness of labels, and benchmarks that are demonstrably
+challenging with respect to the state-of-the-art tools. Benchmark
+papers must be accompanied by an easily accessible and usable
+benchmark submission. Papers will be evaluated by a separate benchmark
+evaluation panel who will asses the benchmarks relevance, clarity, and
+utility as communicated by the submitted paper.
+
+The Program Committee of RV 2019 will give a best paper award, and a
+selection of accepted regular papers will be invited to appear in a
+special journal issue.
+
+# Tutorial Track
+
+Tutorials are two-to-three-hour presentations on a selected
+topic. Additionally, tutorial presenters will be offered to publish a
+paper of up to 20 pages in the LNCS conference proceedings.  A
+proposal for a tutorial must contain the subject of the tutorial, a
+proposed timeline, a note on previous similar tutorials (if
+applicable) and the differences to this incarnation, and a biography
+of the presenter. The proposal must not exceed 2 pages. Tutorial
+proposals will be reviewed by the Program Committee.  Important Dates
+
+# Website
+
+https://www.react.uni-saarland.de/rv2019/
+
+# Important Dates
+
+Abstract deadline:                May 21, 2019
+Paper and tutorial deadline: 	  May 21, 2019
+Paper and tutorial notification:  July 1, 2019
+Camera-ready deadline:  	  July 14, 2019
+Conference: 	                  October 8 - 11, 2019
+
+# Program Committee
+
+Wolfgang Ahrendt, Chalmers University of Technology
+Howard Barringer, The University of Manchester
+Ezio Bartocci, Vienna University of Technology
+Andreas Bauer, KUKA
+Eric Bodden, Paderborn University and Fraunhofer IEM
+Borzoo Bonakdarpour, Iowa State University
+Christian Colombo, University of Malta
+Ylies Falcone, Univ. Grenoble Alpes, CNRS, Inria
+Lu Feng, University of Virginia
+Bernd Finkbeiner, Saarland University
+Adrian Francalanza, University of Malta
+Radu Grosu, TU Vienna
+Sylvain Hallé, Université du Québec à Chicoutimi
+Klaus Havelund, Jet Propulsion Laboratory
+Catalin Hritcu,	INRIA
+Felix Klaedtke, NEC Labs Europe
+Axel Legay, UCLouvain
+David Lo, Singapore Management University
+Leonardo Mariani, University of Milano Bicocca
+Viviana Mascardi, DIBRIS, University of Genova
+Dejan Nickovic, Austrian Institute of Technology AIT
+Ayoub Nouri, Verimag
+Gordon Pace, University of Malta
+Doron Peled, Bar Ilan University
+Ka I Pun, Western Norway University of Applied Sciences
+Jorge A. Pérez, University of Groningen
+Giles Reger, The University of Manchester
+Grigore Rosu, University of Illinois at Urbana-Champaign
+Kristin Yvonne Rozier, Iowa State University
+Cesar Sanchez, IMDEA Software Institute
+Gerardo	Schneider, University of Gothenburg
+Nastaran Shafiei, NASA Ames Research Center/SGT
+Julien Signoles, CEA LIST
+Scott Smolka, Stony Brook University
+Oleg Sokolsky, University of Pennsylvania
+Bernhard Steffen, Univ Dortmund
+Scott Stoller, Stony Brook University
+Volker Stolz, Høgskulen på Vestlandet
+Neil Walkinshaw, The University of Sheffield
+Chao Wang, University of Southern California
+Xiangyu Zhang, Purdue University

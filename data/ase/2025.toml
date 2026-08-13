@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "Double-blind submissions. Also journal-first, tool demo, industry showcase."
+
+[[cfp]]
+file = "cfp/ASE-2025.txt"
+stage = "initial"

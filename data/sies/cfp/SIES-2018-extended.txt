@@ -1,0 +1,150 @@
+
+                               CALL FOR PAPERS
+                           ** EXTENDED DEADLINE **
+
+     13th IEEE International Symposium on Industrial Embedded Systems (SIES)
+                       June 6 - 8, 2018, Graz, Austria
+
+      In conjunction with "2nd Symposium on Dependable Internet of Things"
+                         June 5, 2018, Graz, Austria
+
+                       URL: http://sies2018.tugraz.at/
+
+Regular Paper submission deadline:    March 11, 2018 (extended, hard)
+Acceptance notification:              April 4, 2018
+Camera ready deadline:                May 4, 2018
+
+WiP and Poster Submission Deadline:   April 13, 2018
+Acceptance notification:              April 26, 2018
+Camera ready deadline:                May 4, 2018
+================================================================================
+
+The IEEE Symposium on Industrial Embedded Systems (SIES) is a highly selective
+single-track international conference focusing on premier research results for
+embedded systems - an area of highest relevance for visionary technologies
+such as the Internet of Things (IoT) and applications such as Industry 4.0,
+Smart Production, Smart Cities, Connected Cars, etc.
+
+The featured topic of SIES 2018 is "ICT for a Dependable Internet of Things",
+where increasingly complex software and growing networks, application-specific
+hardware and systems on chips (SoC) will become more and more relevant for all
+related areas of industrial and consumer applications. In this regard, the IoT
+promises to be one of the most disruptive technologies with transformational
+impact on industry and society throughout the next decades. As a global super-
+infrastructure, the IoT is a key enabling technology for a multitude of
+application domains, including smart cities, smart cars, smart home, smart
+health, smart factories, smart buildings, etc. However, related applications
+and services are only feasible if the underlying systems do not fail and
+disastrous real-world impacts are avoided, making dependability one of the main
+design challenges.
+
+The aim of the symposium is to bring together researchers and practitioners
+from industry and academia. SIES provides a platform to report on recent
+developments, deployments, technology trends and research results, as well as
+to discuss and start initiatives related to embedded systems and their
+applications in a variety of industrial environments.
+
+Topics of interest include, but are not limited to:
+- General Embedded Systems:
+  Dependability Aspects; Design and Validation; Operating Systems and
+  Middleware; Power Awareness; Adaptive and Compositional Systems.
+- System-on-Chip and Network-on-Chip: Design & Testing; Multiprocessor Design;
+  Design of Application-Specific CPU/MCU Architectures; Platform-Based Design;
+  Reconfigurable Platforms; Implementation and Testing of Integrated Circuits.
+- Networked Embedded Systems: Design, Dependability and Tooling; Middleware;
+  Network Protocols.
+- Embedded Applications: Cyber-Physical Systems and the Internet of Things;
+  Domain Specific Systems (e.g., Industrial Automation and Control, Intelligent
+  Transportation, Automotive, Avionics and Aerospace, Smart Home, Wireless
+  Health Care, Automation and Control).
+
+
+PAPER SUBMISSION AND PUBLICATION
+================================================================================
+SIES 2018 is a highly selective conference. We will only accept original
+contributions that have not been previously published and are not currently
+under review by any other conference or journal. The conference solicits
+full papers, work-in-progress papers, and posters.
+
+Submission implies the willingness of at least one author to attend SIES and
+present the paper. Accepted papers will be included in the proceedings of SIES
+2018 and submitted to IEEE explore for publication.
+
+Please visit the SIES website for further details.
+
+
+CO-LOCATED EVENT
+================================================================================
+SIES 2018 will be co-located with the "2nd Symposium on Dependable
+Internet of Things" (5 June 2018), presenting project results, talks
+by international experts, and an exhibition on the TU Graz LEAD
+Project Dependable Internet of Things in Adverse Environments.
+Please visit the SIES website for further details:
+http://sies2018.tugraz.at/cms/index.php?id=60
+Participation of free of charge for registered participants of SIES.
+
+
+PROMOTED TALKS (see homepage for updates)
+================================================================================
+SIES Conference - Keynote Presentations:
+* AVL List GmbH, Graz
+* TTTech Computertechnik AG, Vienna
+* Elektrobit Automotive GmbH, Erlangen
+
+IoT Symposium - Invited Talks:
+* Lothar Thiele (Swiss Federal Institute of Technology Zurich)
+  "Internet of Things - The Quest for Trust"
+* Daniel Lohmann (Leibniz University Hannover)
+  "Tailorable System Software for the Internet of Things: Rethinking the HW–SW Bridge"
+* tba
+
+IoT Symposium - Local Speakers:
+* Klaus Witrisal (Dependable Localization)
+  "High-accuracy Positioning in Indoor Environments"
+* Marcel Baunach (Dependable Computing)
+  "Compositional Computing Platforms for a Dependable Internet of Things"
+* Bernhard Aichernig (Dependable Composition)
+  "Smart Testing of IoT Protocols - Combining Model Learning and Model-based Testing"
+* Martin Horn (Dependable Control)
+  "Sliding-Mode Control for Networked Control Systems - Theory and Applications"
+
+
+ORGANIZING COMMITTEE
+======================================================================
+General Co-Chairs:
+- Marcel Baunach (TU Graz, Austria)
+- Roman Obermaisser (University of Siegen, Germany)
+
+Program Committee Co-Chairs:
+- Roberto Passerone (Univ of Trento, Italy)
+- Stig Petersen (SINTEF, Norway)
+
+WiP and Posters Co-Chairs:
+- Tobias Hoßfeld (University of Duisburg, Germany)
+- Haibo Zeng (VirginiaTech, USA)
+
+IEEE CEDA Representative
+- Yao-Wen Chang (National Taiwan University, Taiwan)
+
+SIES Series Steering Committee:
+- R. Ernst (TU Braunschweig, Germany)
+- G. De Micheli (EPFL, Switzerland)
+- R. Gupta (UC San Diego, USA)
+- A. Sangiovanni-Vincentelli (UC Berkeley, USA)
+- R. Zurawski (ISA Group, USA)
+
+International Advisory Committee:
+- J. J. Chen, Germany
+- E. Dekneuvel, UNSA, France
+- M. Di Natale, Scuola Superiore S. Anna, Italy
+- L. Gomes, Uninova, Portugal
+- T. Nolte, Mälardalen University, Sweden
+- R. Obermaisser, University of Siegen, Germany
+- R. Passerone, Univ. of Trento, Italy SIES
+- G. Sassatelli, LIRM, France
+- J.-L. Scharbarg, INP-ENSEEIHT & IRIT, France
+- E. Tovar, IPP, Portugal
+- A. Vachoux, EPFL, Switzerland
+- K. Zielinski, AGH UST, Poland
+
+================================================================================

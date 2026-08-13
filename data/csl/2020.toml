@@ -16,3 +16,7 @@ notification = [2019-09-30]
 [proceedings]
 publisher = "LIPIcs"
 license = "cc-by"
+
+[[cfp]]
+file = "cfp/CSL-2020.txt"
+stage = "initial"

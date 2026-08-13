@@ -1,0 +1,99 @@
+CALL FOR RESEARCH PAPERS AND WORKSHOP PROPOSALS - DEADLINE APPROACHING
+* Workshop Proposals: April 21, 2017
+* Research Papers: April 28 (abstracts) and May 5 (full papers), 2017
+
+---------------------------------------------------------------------------
+      ISSRE 2017
+Oct 23-26, 2017, Toulouse, France
+ http://issre.net
+---------------------------------------------------------------------------
+
+The 28th annual IEEE International Symposium on Software Reliability Engineering invites you to attend and contribute to the leading conference in its field. ISSRE focuses on innovative, high-impact techniques and tools for assessing, predicting, and improving the reliability, safety, and security of software products. ISSRE emphasizes industrial relevance and rigorous empirical studies.
+
+ISSRE has grown over the years to become one of the few forums where the technical leadership from both academic institutions and economic players meet to learn from each other. Research papers are extensively reviewed by a large program committee and the selected papers are coveted. An Industry committee separately reviews papers for the Industry track looking for relevance and applicability. ISSRE has some of the best Industry case studies reported. We also take special pride in our workshops, which have picked up considerable momentum with some becoming regular and meeting year after year at ISSRE.
+
+CALL FOR RESEARCH PAPERS:
+The main research track at ISSRE 2017 is soliciting original, unpublished research papers in three categories: (1) full research (regular) papers, (2) practical experience reports, and (3) wild and provocative ideas (WAP) papers. Papers will be assessed with criteria appropriate to each category. ISSRE looks for works exploring new territory, continuing a significant research, or reflecting on practical experience. There will be a best paper award given to a paper in the main research track. Both full research papers and practical experience reports are eligible for the award.
+
+CALL FOR WORKSHOP PROPOSALS:
+ISSRE strongly encourages workshops as a means to build communities and seed new ones that are vital to current interests in Research and Industry. Proposals will be reviewed by the ISSRE 2017 Organizing Committee based on their fitness with ISSRE's goals, relevance to the larger ISSRE community and our belief that the organizers can deliver a successful workshop. Workshop length can be either half day or one full day.
+
+Please visit http://issre.net for instructions on the submission of research papers and workshop proposals.
+The CFPs for the Industry Track, Tutorials, Doctoral Symposium and Fast Abstracts can also be found at the conference website.
+
+---------------------------------------------------------------------------
+Topics of interest include, but are not limited to:
+---------------------------------------------------------------------------
+• Reliability, availability and safety of software systems • Validation and Verification, testing • Faults, errors, failures, defects, bugs • Software quality and productivity • Software security • Dependability, survivability, fault tolerance and resilience of software systems • Systems (hardware + software) reliability engineering • Metrics and measurements, estimation, prediction of quality/reliability • Services reliability engineering • Open source software reliability engineering • Web 2.0 reliability, availability and security issues • Supporting tools and automation • Industry best practices • Software as a Service • Virtualization and software reliability • Reliability of mobile devices and applications • Green and Sustainable Software Engineering • Reliability of Big Data and Internet of Things • Empirical studies of any of the above topics • Software Standards
+
+---------------------------------------------------------------------------
+Important Dates
+---------------------------------------------------------------------------
+Research Papers:
+  Abstract Submission: April 28, 2017
+  Full Paper Submission: May 5, 2017
+  Notification: July 13, 2017
+
+Workshop proposals:
+  Proposal Submission: April 21, 2017
+  Notification: May 5, 2017
+
+Important dates for the Industry Track, Tutorials, Doctoral Symposium and Fast Abstracts can also be found at the conference website.
+
+---------------------------------------------------------------------------
+Organizers
+—————————————————————————————————————
+
+General Chair:  
+  Helene Waeselynck (LAAS-CNRS, France)
+
+Program Chairs: 
+  Ilir Gashi (City, University of London, UK)
+  Karthik Pattabiraman (University of British Columbia, Canada)
+
+Workshop Chair: 
+  Katinka Wolter (Freie Universität Berlin, Germany)
+
+Industry Chairs:        
+ Sigrid Eldh (Ericsson, Sweden)
+ Keun Soo Yim (Google, USA)
+
+Program Managers:  
+ Catello Di Martino (Nokia Bell Labs, USA)
+ Katerina Goseva-Popstojanova   (West Virginia University, USA)
+
+Finance Chair:           
+ Karama Kanoun (LAAS-CNRS, France)
+
+Doctoral Symposium Chairs:
+ Leonardo Mariani (University of Milano-Bicocca, Italy)
+ Damiano Torre (Carleton University, Canada)
+
+Tutorial Chair:          
+ Nikolai Kosmatov (CEA, France)
+
+Fast Abstract Chairs:       
+ Sudipto Ghosh (Colorado State University, USA)
+ Roberto Pietrantuono (University of Naples, Italy)
+
+Publication Chair:     
+ Nuno Laranjeiro (University of Coimbra, Portugal)
+
+Publicity Chairs:
+ Jean-Charles Fabre (LAAS-CNRS, France)
+ Nachiappan Nagappan (Microsoft Research, USA)
+ David Lo (Singapore Management University, Singapore)
+
+Local Organization Chairs:      
+ Guillaume Auriol (LAAS-CNRS, France)
+ Brigitte Ducrocq (LAAS-CNRS, France)
+ Nicolas Rivière (LAAS-CNRS, France)
+
+Web Chair:               
+ Guillaume Auriol (LAAS-CNRS, France)
+---------------------------------------------------------------------------
+Steering Committee: http://issre.net/Steering_Committee
+
+Program Committee:  http://issre.net/Program%20Committee
+---------------------------------------------------------------------------
+

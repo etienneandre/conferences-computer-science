@@ -18,3 +18,7 @@ license = "cc-by"
 
 [extra]
 notes = "co-located with iFM 2017"
+
+[[cfp]]
+file = "cfp/V2CPS-2017.txt"
+stage = "initial"

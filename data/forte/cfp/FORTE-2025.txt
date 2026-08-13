@@ -1,0 +1,174 @@
+FORTE 2025
+
+===================================================================
+
+First CALL FOR PAPERS FORTE 2025
+
+45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+
+June 16-20, 2025
+
+Lille, France
+
+DEADLINE February 7, 2025
+
+https://www.discotec.org/2025/forte
+
+===================================================================
+
+FORTE 2025 is one of the three conferences of DisCoTec 2025, the 20th International Federated Conference on Distributed Computing Techniques.
+
+=== Topics of Interest ===
+
+FORTE 2025 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
+
+We invite submissions focused on foundational aspects of distributed software systems, presenting approaches or tools to formally model, soundly implement, and rigorously validate these demanding but ever more necessary systems and applications. As our dependency on such software systems grow, also our responsibility as researchers grows to provide both trustworthy and usable solutions.
+
+The main topics of interest include:
+
+- Language concepts for concurrency and distribution, supported by rigorous semantics, well-supported pragmatics, and/or expressive illustrative use-cases.
+
+- Analyses techniques, methodologies, and/or algorithms, using testing and/or verification, to validate (aspects of) the soundness of various types of concurrent and distributed systems, including communication and network protocols, service-oriented systems, adaptive distributed systems, cyber-physical systems and sensor networks.
+
+- Principles for qualitative and quantitative security analysis of distributed systems.
+
+- Applications of formal methods and techniques for studying the quality, reliability, availability, and safety of concrete distributed systems. We are specially interested in “real-life” case studies and industrial applications involving real distributed systems.
+
+- Emerging challenges and hot topics in distributed systems (broadly construed), such as software-defined networks, distributed ledgers, smart contracts, and blockchain technologies, etc.
+
+=== Keynote Speakers ===
+
+Alysson Bessani (Universidade de Lisboa, Portugal)
+
+Hélène Coullon (IMT Atlantique, France)
+
+Omar Inverso (GSSI, Italy)
+
+Burcu Ozkan (TU Delft, The Netherlands)
+
+=== FORTE Program Committee ===
+
+PC chairs:
+
+- Carla Ferreira (NOVA University of Lisbon, Portugal)
+
+- Claudio A. Mezzina (University of Urbino, Italy)
+
+
+PC members:
+
+- Davide Basile (CNR Pisa, Italy)
+
+- Elisa Gonzalez Boix (Vrije Universiteit Brussel, BE)
+
+- Matteo Cimini (University of Massachusetts, US)
+
+- João Costa Seco (NOVA University Lisbon, PT)
+
+- Wan Fokkink (Vrije Universiteit Amsterdam, NL)
+
+- Adrian Francalanza (University of Malta, Malta)
+
+- Simon Gay (University of Glasgow, UK)
+
+- Ping Hou (University of Oxford, UK)
+
+- Tobias Kappé (Leiden University, NL)
+
+- Vasileios Koutavas (Trinity College Dublin, IE)
+
+- Jean Krivine (IRIF Paris, FR)
+
+- Cosimo Laneve (University of Bologna, IT)
+
+- Ana Almeida Matos (University of Lisbona, PT)
+
+- Hernán Melgratti (University of Buenos Aires, AR)
+
+- Luca Padovani (University of Bologna, IT)
+
+- Jovanka Pantović (University of Novi Sad, RS)
+
+- Anna Philippou (University of Cyprus, CY)
+
+- G. Michele Pinna (University of Cagliari, IT)
+
+- Violet Ka I Pun (University of Bergen, NO)
+
+- Jorge A. Pérez (University of Groningen, NL)
+
+- Alceste Scalas (Technical University of Denmark, DN)
+
+- Alan Schmitt (INRIA, FR)
+
+- Simon Thompson (University of Kent, UK)
+
+- Bernardo Toninho (NOVA University Lisbon, PT)
+
+- Emilio Tuosto (GSSI, IT)
+
+- German Vidal (Universitat Politecnica de Valencia, ES)
+
+- Shoji Yuen (Nagoya University, JP)
+
+
+Artefact Evaluation chairs:
+
+- Emilio Incerto (IMT Lucca)
+
+
+=== Important Dates ===
+
+For papers:
+
+   Abstract submission: January 31, 2025
+
+   Paper submission: February 07, 2025
+
+   Paper notification: March 28, 2025
+
+   Camera-ready: April 23, 2025 (TBC)
+
+For artefacts:
+
+   Artefact submission: February 14, 2025
+
+   Artefact kick-the-tires - problem reports: February 24, 2025
+
+   Artefact kick-the-tires - author response: March 3, 2025
+
+   Artefact notification: March 28, 2025
+
+
+DisCoTec conference: June 16-20, 2025
+
+Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
+
+We solicit papers in the following categories:
+
+- Regular papers (7-15 pages, not counting references): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
+
+- Tool papers (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE. The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
+
+- Short papers (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
+
+
+See the website for EasyChair submission instructions.
+
+
+
+=== Proceedings ===
+
+The proceedings of COORDINATION, DAIS, and FORTE will be published as volumes in the Springer LNCS-IFIP series.
+
+The volumes will be open access from the IFIP digital library after a 3-year embargo.
+
+=== Best Paper Award ===
+
+The best paper of Forte will be awarded as Forte 2025 best paper, and will concur to win the best DisCoTec paper award.
+
+=== Journal Special Issues ===
+
+After the conference, accepted papers (except for tool papers) selected from FORTE will be invited to a journal special issue of the Logical Methods in Computer Science
+
+Selected tool papers will be invited to a journal special issue of Science of Computer Programming's Software Track.

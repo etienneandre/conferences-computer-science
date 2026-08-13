@@ -1,0 +1,34 @@
+*** Call for Papers ***
+
+The 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)
+
+September 16-20, 2024, Vienna University of Technology (TU Wien), Vienna, Austria
+
+https://2024.issta.org/
+
+The International Symposium on Software Testing and Analysis (ISSTA) is the leading research symposium on software testing and analysis, bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experience on how to analyze and test software systems.
+
+ISSTA 2024 invites three kinds of submissions: research papers (expected for majority of submissions), experience papers and replicability studies. All submissions undergo double-blind review, they shall not reveal authors' identity.
+
+The submissions are received in two rounds. Papers submitted in the first round can be accepted, rejected or given a chance to resubmit with major revisions. Submissions rejected in the first round may not be resubmitted in the second. Papers submitted in the second round will be either accepted or rejected (no major revision option).
+
+## ROUND 1 - IMPORTANT DATES
+
+* Submission Deadline: December 15, 2023, AoE
+* Author response: February 7-9, 2024, AoE
+* Notification: March 2, 2024, AoE
+
+## ROUND 2 - IMPORTANT DATES
+
+* Submission Deadline: April 12, 2024, AoE
+* Author response: June 11-13, 2024, AoE
+* Notification: July 3, 2024, AoE
+
+## Author instructions:
+https://2024.issta.org/track/issta-2024-papers#Call-for-Papers
+
+## Submission site:
+https://issta2024.hotcrp.com/
+
+## Organizing committee:
+https://2024.issta.org/committee/issta-2024-organizing-committee

@@ -24,3 +24,7 @@ artifact = "To improve the results’ reproducibility and encourage reuse, autho
 
 [extra]
 notes = "Shadow TPC evaluation process."
+
+[[cfp]]
+file = "cfp/ECRTS-2026.txt"
+stage = "initial"

@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Optional EAPLS Artefact Badging. A special issue of the Formal Aspects of Computing journal is planned for extended versions of selected papers from iFM 2023."
+
+[[cfp]]
+file = "cfp/iFM-2023.txt"
+stage = "initial"

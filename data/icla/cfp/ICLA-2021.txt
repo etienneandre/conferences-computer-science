@@ -1,0 +1,47 @@
+9th INDIAN CONFERENCE ON LOGIC AND ITS APPLICATIONS
+March 4–7, 2021
+A virtual conference
+https://www.isichennai.res.in/~sujata/icla2021
+
+Call for Contributed Talks
+
+The Association for Logic in India (ALI) announces the ninth edition of its biennial International Conference on Logic and its Applications (ICLA), to be held VIRTUALLY from March 4 to 7, 2021.
+
+ICLA is a biennial forum for bringing together researchers from a wide variety of fields in which formal logic plays a significant role, along with mathematicians, computer scientists, philosophers and logicians studying foundations of formal logic in itself. A special feature of this conference is the inclusion of studies in systems of logic in the Indian tradition and historical research on logic.
+
+As in the earlier events in this series, we shall have eminent scholars as invited speakers. Details of the last ICLA 2019 may be found at http://icla2019.cse.iitd.ac.in/. See https://logicindiaorg.wordpress.com/ for information on past events as well as updates on this conference.
+
+Contributed Talks:
+
+The conference invites authors to present their research in any area of logic and applications. Being an online conference, ICLA 2021 will have a different programme structure from earlier conferences, with contributed talks limited to only 15 minutes' duration. The Proceedings of the conference will be a reviewed collection of abstracts published online, with selected papers being invited for submission to a special issue of a Journal after the conference.
+
+Scope:
+
+Authors are invited to submit extended abstracts presenting their original research in any area of logic and applications. Articles on mathematical and philosophical logic, logic in computer science, foundations and philosophy of mathematics and the sciences, use of formal logic in areas of theoretical computer science and artificial intelligence, logic and linguistics, history of logic, Indian systems of logic, or on the relationship between logic and other branches of knowledge, are welcome.
+
+We welcome reports of Work in Progress, and this should be highlighted along with the title and abstract.
+
+Submission Guidelines:
+
+The extended abstract must not exceed ** 5 pages ** in Easychair LaTeX style:
+https://easychair.org/publications/for_authors. If appropriate, a live link to a full version of the paper hosted on a freely accessible website may be provided.  Concurrent submissions to other conferences/journals are not admissible.
+
+For an accepted paper to be included in the proceedings, one of the authors must commit to presenting the paper at the conference.
+
+All submissions must be made through the Easychair link:
+
+https://easychair.org/conferences/?conf=icla2021
+
+Important Dates:
+
+Submission Deadline:      January 15, 2021
+Notification to Authors:  January 31, 2021
+Final version due:        February 15, 2021
+Conference dates:         March 4 to 7, 2021
+
+Conference Page: https://www.isichennai.res.in/~sujata/icla2021
+
+For all queries, contact:
+
+ICLA 2021
+icla2021conf@gmail.com

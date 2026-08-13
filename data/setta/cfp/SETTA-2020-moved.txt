@@ -1,0 +1,182 @@
+========================================
+SETTA 2020: Symposium on Dependable Software Engineering Theories, Tools and Applications
+Peking University, Guangzhou, China, November 24-27, 2020
+Submission deadline: July 4th, 2020
+Conference website: http://lcs.ios.ac.cn/setta2020/ 
+========================================
+
+************************
+Notice Date: March 2, 2020
+************************
+The SETTA steering committee have agreed together with the conference chairs to relocate the conference. SETTA 2020 will take place in Guangzhou, China, November 24-27.
+
+We are very grateful to our colleagues in Beijing, for the organization so far, to the colleagues from Guangzhou, who generously accepted this challenging task, and to all members who offered their help in this difficult situation.
+
+
+************************
+INVITED SPEAKERS
+************************
+- Wan Fokkink, VU University Amsterdam 
+- Andreas Zeller, Helmholtz Center for Information Security
+
+
+************************
+ABOUT SETTA 2020
+************************
+The Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA) 2020 will be held in Guangzhou China on November 24-27, 2020. 
+
+Formal methods emerged as an important area in computer science and software engineering about half a century ago. An international community is formed researching, developing and teaching formal theories, techniques and tools for software modeling, specification, design and verification. However, the impact of formal methods on the quality improvement of software systems in practice is lagging behind. This is for instance reflected by the challenges in applying formal techniques and tools to engineering large-scale systems such as Cyber-Physical Systems (CPS), Internet-of-Things (IoT), Enterprise Systems, Cloud-Based Systems, and so forth.
+
+The purpose of the SETTA symposium is to bring international researchers together to exchange research results and ideas on bridging the gap between formal methods and software engineering. The interaction with the Chinese computer science and software engineering community is a central focus point. The aim is to show research interests and results from different groups so as to initiate interest-driven research collaboration. The SETTA symposium is aiming at academic excellence and its objective is to become a flagship conference on formal software engineering in China.
+
+To achieve these goals and contribute to the sustainability of the formal methods research, it is important for the symposium to attract young researchers into the community. Thus, this symposium encourages in particular the participation of young researchers and students.
+
+This year, SETTA welcomes submissions to the following two tracks: Journal First Papers and Research Papers.  
+
+All submissions must be in the PDF format. Papers should be written in English. Submitted papers must be unpublished and not submitted for publication elsewhere. Accepted papers for both tracks must be presented at the conference.
+
+
+************************
+LIST OF TOPICS
+************************
+Topics of interest include, but are not limited to:
+- Requirements specification and analysis
+- Formalisms for modeling, design and implementation
+- Model checking, theorem proving, and decision procedures
+- Scalable approaches to formal system analysis
+- Formal approaches to simulation, run-time verification, and testing
+- Integration of formal methods into software engineering practice
+- Contract-based engineering of components, systems, and systems of systems
+- Formal and engineering aspects of software evolution and maintenance
+- Parallel and multicore programming
+- Embedded, real-time, hybrid, probabilistic, and cyber-physical systems
+- Mixed-critical applications and systems
+- Formal aspects of service-oriented and cloud computing
+- Safety, reliability, robustness, and fault-tolerance
+- Dependability of smart software and systems
+- Empirical analysis techniques and integration with formal methods
+- Applications and industrial experience reports
+- Software tools to assist the construction or analysis of software systems
+
+
+************************
+RESEARCH PAPERS TRACK
+************************
+Research papers will be published in the SETTA 2020 proceedings as a volume in Springer's LNCS series. Papers should be submitted electronically through the EasyChair submission web page <https://easychair.org/conferences/?conf=setta2020>. 
+
+------------------------
+Important Dates
+------------------------
+Abstract & paper submission: July 4, 2020 (AoE)
+Notification to authors: August 29, 2020 (AoE)
+Camera-ready versions: September 22, 2020 (AoE)
+Conference date: November 24-27, 2020
+
+------------------------
+Submission Guidelines
+------------------------
+Authors are invited to submit papers on original research, industrial applications, or position papers proposing challenges in fundamental research and technology. The latter two types of submissions are expected to contribute to the development of formal methods and applications thereof in software engineering. This is done by either substantiating the advantages of integrating formal methods into the development cycle or through delineating the need for research by demonstrating weaknesses of existing technologies, especially when addressing new application domains.
+
+Submissions can take the form of either regular or short papers. Regular papers should not exceed 16 pages (excluding references) in LNCS format. Short papers can discuss ongoing research at an early stage, including PhD projects. Short papers should not exceed 6 pages (excluding references) in LNCS format. 
+
+------------------------
+Special Session
+------------------------
+This year, we will also organise a special session on Artificial Intelligence Meets Formal Methods (AI+FM), in order to provide a platform for experts of both AI and FM, from both the academia and the industry, to discuss important research problems across these two areas, for example, how to apply AI to improve the performance of FM methods and how to apply FM to improve the robustness, safety and security of AI systems. 
+
+Extended abstracts of the accepted papers in this session will be published in the conference proceedings (a volume in Springer's LNCS series). Full versions of a few accepted papers, to be selected by the program committee, will be invited for submission to a special theme of the journal Formal Aspects of Computing (to be confirmed). 
+
+
+************************
+JOURNAL FIRST PAPERS TRACK
+************************
+The journal first papers track of SETTA 2020 is implemented in partnership with the Journal of Computer Science and Technology (JCST). Accepted papers to this track will be presented and discussed at the conference SETTA 2020. Papers should be submitted electronically through the journal's submission web page <https://mc03.manuscriptcentral.com/jcst>. 
+
+------------------------
+Important Dates
+------------------------
+Paper submission: March 27, 2020 (AoE)
+Tentative acceptance decision: May 18, 2020
+Acceptance decision: June 30, 2020 
+Conference date (paper presentations): November 24-27, 2020
+
+------------------------
+Submission Guidelines
+------------------------
+To submit to this track, authors have to make a journal submission to the Journal of Computer Science and Technology, and select the type of submission to be for the SETTA 2020 special issue. It is recommended that submitted papers follow the submission guidelines of JCST <https://www.springer.com/journal/11390/submission-guidelines> and do not exceed 15 pages including references.
+
+All submissions must be done electronically through JCST's e-submission system at https://mc03.manuscriptcentral.com/jcst, with manuscript type: "Special Section on Software Systems 2020". In the cover letter, please indicate that the submission is intended to the special theme on "Dependable Software Engineering".
+
+
+************************
+COMMITTEES
+************************
+General Chair:
+- Huimin Lin, Chinese Academy of Sciences
+
+Program Chair:
+- Jun Pang, University of Luxembourg
+- Lijun Zhang, Chinese Academy of Sciences
+
+Local Organisation Chair and Web Chair:
+- Chengchao Huang, Institute of Intelligent Software
+
+Publicity Chair:
+- Fu Song, ShanghaiTech University
+	
+Program Committee Members:
+- Ezio Bartocci, Vienna University of Technology
+- Lei Bu, Nanjing University
+- Milan Ceska, Brno University of Technology
+- Sudipta Chattopadhyay, Singapore University of Technology and Design
+- Yu-Fang Chen, Academia Sinica
+- Alessandro Cimatti, FBK-ICT Irst
+- Yuxin Deng, East China Normal University
+- Wei Dong, National University of Defense Technology
+- Hongfei Fu, Shanghai Jiao Tong University
+- Jan Friso Groote, Eindhoven University of Technology
+- Nan Guan, Hong Kong Polytechnic University
+- Dimitar P. Guelev, Bulgarian Academy of Sciences
+- Xiaowei Huang, University of Liverpool
+- Nils Jansen, Radboud University
+- Yu Jiang, Tsinghua University
+- Sebastian Junges, RWTH Aachen
+- Zhiming Liu, Southwest University
+- Stefan Mitsch, Carnegie Mellon University
+- Sebastian Moedersheim, Technical University of Denmark
+- Jean Francois Monin, Université Grenoble Alpes
+- Mohammad Mousavi, University of Leicester
+- Dave Parker, University of Birmingham
+- Jaco van de Pol, Aarhus University
+- Mickael Randour, FNRS & Université de Mons
+- Zhiping Shi, Capital Normal University
+- Fu Song, ShanghaiTech University
+- Jeremy Sproston, University of Turin
+- Jun Sun, Singapore Management University
+- Meng Sun, Peking University
+- Cong Tian, Xidian University
+- Andrea Turrini, Chinese Academy of Sciences
+- Tarmo Uustalu, Reykjavik University
+- Chenyi Zhang, Jinan University
+
+
+************************
+VENUE
+************************
+The conference will be held in Guangzhou, China. 
+
+
+************************
+CONTACT 
+************************
+All questions about submissions should be emailed to setta2020@easy*chair.org (remove *).  
+
+Dr. Fu SONG 
+
+School of Information Science and Technology,ShanghaiTech University
+
+Addr: Room 1A-504C, SIST Building, No.393 Huaxia Middle Road, Pudong Area Shanghai
+
+Tel: +86-(0)21-20685397, +86-15921769918
+
+Website:faculty.sist.shanghaitech.edu.cn/faculty/songfu

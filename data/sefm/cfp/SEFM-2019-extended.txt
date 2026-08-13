@@ -1,0 +1,146 @@
+---------------------------------------------------------------------
+
+                     Final Call for Papers
+
+                           SEFM 2019
+
+17th International Conference on Software Engineering and Formal Methods
+
+              Oslo, Norway, September 16-20, 2019
+
+                    http://sefm2019.inria.fr
+                      Twitter: @SEFM_conf
+
+---------------------------------------------------------------------
+
+IMPORTANT DATES
+
+Abstract submission deadline:   May 13, 2019 (AoE) - EXTENDED DEADLINE
+Paper submission deadline:      May 20, 2019 (AoE) - EXTENDED DEADLINE
+Notification:                   June 25, 2019
+Conference:                     September 16-20, 2019
+
+
+OVERVIEW AND SCOPE
+
+SEFM aims to bring together leading researchers and practitioners from
+academia, industry, and government, to advance the state of the art in
+formal methods, to facilitate their uptake in the software industry,
+and to encourage their integration within practical software
+engineering methods and tools.
+
+Topics of interest include, but are not limited to, the following
+aspects of software engineering and formal methods:
+
+# Software Development Methods
+  - Formal modeling, specification, and design
+  - Software evolution, maintenance, re-engineering, and reuse
+
+# Design Principles
+  - Programming languages
+  - Domain-specific languages
+  - Type theory
+  - Abstraction and refinement
+
+# Software Testing, Validation, and Verification
+  - Model checking, theorem proving, and decision procedures
+  - Testing and runtime verification
+  - Statistical and probabilistic analysis
+  - Synthesis
+  - Performance estimation and analysis of other non-functional properties
+  - Other light-weight and scalable formal methods
+
+# Security and Safety
+  - Security, privacy, and trust
+  - Safety-critical, fault-tolerant, and secure systems
+  - Software certification
+
+# Applications and Technology Transfer
+  - Service-oriented and cloud computing systems, Internet of Things
+  - Component, object, multi-agent and self-adaptive systems
+  - Real-time, hybrid, and cyber-physical systems
+  - Intelligent systems and machine learning
+  - HCI, interactive systems, and human error analysis
+  - Education
+
+# Case studies, best practices, and experience reports
+
+
+PAPER SUBMISSION
+
+We solicit two categories of papers:
+
+- Regular papers describing original research results, case studies, or
+surveys. Regular papers should not exceed 15 pages, excluding bibliography.
+
+- Tool papers that describe an operational tool and its contributions.
+Tool papers should not exceed 6 pages (including bibliography) and should
+include the URL of the tool.
+
+All submissions must be original, unpublished, and not submitted
+concurrently for publication elsewhere. Paper submission is done
+via EasyChair at https://easychair.org/conferences/?conf=sefm2019
+Papers must be formatted according to the guidelines for Springer LNCS
+papers (see http://www.springer.com/lncs).
+
+
+PUBLICATION
+
+All accepted papers will appear in the proceedings of the conference that will
+be published as a volume in Springer's LNCS series. 
+
+The authors of a selected subset of accepted papers will be invited to
+submit extended versions of their papers to special issues of the journals
+"Software and Systems Modeling" and "Formal Methods in System Design."
+
+
+INVITED SPEAKERS
+
+Wil van der Aalst (RWTH Aachen University, Germany)
+David Basin (ETH Zurich, Switzerland)
+Koushik Sen (University of California, Berkeley, USA)
+
+
+PROGRAM CHAIRS
+
+Peter Csaba Olveczky (University of Oslo, Norway)
+Gwen Salaun (Universite Grenoble Alpes, France)
+
+PROGRAM COMMITTEE
+
+Erika Abraham (RWTH Aachen University, Germany)
+Cyrille Artho (KTH Royal Institute of Technology, Sweden)
+Kyungmin Bae (Pohang University of Science and Technology, South Korea)
+Olivier Barais (University of Rennes, France)
+Luis Barbosa (University of Minho, Portugal)
+Dirk Beyer (LMU Munich, Germany)
+Roberto Bruni (University of Pisa, Italy)
+Ana Cavalcanti (University of York, UK)
+Alessandro Cimatti (FBK-irst, Italy)
+Robert Clariso (Open University of Catalonia, Spain)
+Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
+John Derrick (Unversity of Sheffield, UK)
+Jose Luiz Fiadeiro (Royal Holloway, University of London, UK)
+Osman Hasan (National University of Sciences & Technology, Pakistan)
+Klaus Havelund (Jet Propulsion Laboratory, US)
+Reiko Heckel (University of Leicester, UK)
+Marieke Huisman (University of Twente, The Netherlands)
+Alexander Knapp (Augsburg University, Germany)
+Nikolai Kosmatov (CEA LIST, France)
+Frederic Mallet (Universite Nice Sophia Antipolis, France)
+Tiziana Margaria (Lero, Ireland)
+Hernan Melgratti (University of Buenos Aires, Argentina)
+Madhavan Mukund (Chennai Mathematical Institute, India)
+Marc Pantel (IRIT/INPT, Universite de Toulouse, France)
+Anna Philippou (University of Cyprus)
+Grigore Rosu (University of Illinois, US)
+Augusto Sampaio (Federal university of Pernambuco, Brazil)
+Cesar Sanchez (IMDEA Software Institute, Spain)
+Ina Schaefer (Technische  Universitat Braunschweig, Germany)
+Graeme Smith (The University of Queensland, Australia)
+Jun Sun (Singapore University of Technology and Design)
+Maurice H. Ter Beek (ISTI-CNR, Pisa, Italy)
+Antonio Vallecillo (University of Malaga, Spain)
+Daniel Varro (Budapest University of Technology and Economics, Hungary & McGill University, Canada)
+Heike Wehrheim (University of Paderborn, Germany)
+Franz Wotawa (University of Graz, Austria)

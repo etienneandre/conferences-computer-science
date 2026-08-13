@@ -1,0 +1,45 @@
+SoICT 2019: The 10th International Symposium on Information and Communication Technology
+
+Hanoi - Halong Bay, Vietnam, 5, 6 December 2019.
+http://soict.org/ 
+https://www.facebook.com/SoICT/
+
+SoICT 2019 is an international symposium that covers four major areas of research that includes AI and Big Data Analytics, Information Networks and Communication Systems, Human Computer Interface, Software Engineering and Applied Computing. Following the past successful symposium SoICT 2018, which received submissions from 20 countries, the 10th International Symposium on Information and Communication Technology (SoICT 2019) will be held in Hanoi on 5 December 2019 and in Ha Long Bay on 6 December 2019, Vietnam. The symposium aims at providing an academic forum for researchers and graduate students to share their latest research findings and to identify future challenges in computer science. The symposium will include tutorials and keynotes given by world-class speakers.
+SoICT 2019 proceedings will be published in the International Conference Proceedings Series by ACM as an ICPS volume in the ACM Digital Library (ISBN: 978-1-4503-7245-9), which will be archived in the ACM Digital Library. SoICT 2019 will be indexed by DBLP, Ei Compendex, Scopus and Thomson Reuters Conference Proceedings Citation Index (ISI Web of Science)
+
+
+Important Dates
+===============
+
+- SUBMISSION DEADLINE: 14 August 2019 
+- AUTHOR NOTIFICATION: 20 October 2019
+- CAMERA-READY SUBMISSION: 20 October 2019
+- CONFERENCE DATES: 5, 6 December 2019
+ 
+
+General Chairs
+=============== 
+Zhenjiang Hu, Peking University, Japan
+Marc Bui, EPHE, France
+Huynh Quyet Thang, Hanoi University of Science and Technology, Vietnam
+Le Minh Ha, Vietnam Institute for Advanced Study in Mathematics
+
+Steering Committee
+=============== 
+Yew-Soon Ong, NTU, Singapore
+Ismal Khalil, Austria
+Eui-nam Huh, Kyunghee, Korea
+Yasushi Yagi, Osaka University, Japan
+Ho Tu Bao, Vietnam Institute for Advanced Study in Mathematics
+
+Program Chairs 
+===============
+Ichiro IDE, Nagoya, Japan
+Michel Toulouse, VGU, Vietnam
+Shui Yu, University of Technology Sydney, Australia
+Huynh Thi Thanh Binh, HUST, Vietnam
+
+Contact Us 
+==========
+If you have any further questions on SoICT 2019, please feel free to contact us.
+E-mail: contact@soict.hust.edu.vn 

@@ -26,3 +26,11 @@ submitted = 115
 
 [extra]
 notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia."
+
+[[cfp]]
+file = "cfp/ATVA-2023.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ATVA-2023-extended.txt"
+stage = "extended"

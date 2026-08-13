@@ -1,0 +1,174 @@
+12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)
+**Deadline Extension**
+22 July 2025, Zagreb, Croatia
+Co-located with CAV 2025
+
+https://www.sci.unich.it/hcvs25/
+
+---
+* Important Dates *
+
+Paper submission deadline **extended**: 30 May 2025
+Paper notification: mid June 2025
+Workshop: 22 July 2025
+
+* Scope *
+
+Many Program Verification and Synthesis problems of interest can be modeled directly using Horn clauses and many recent advances in the CLP and CAV communities have centered around efficiently solving problems presented as Horn clauses.
+
+This series of workshops aims to bring together researchers working in the communities of Constraint/Logic Programming (e.g., ICLP and CP), Program Verification (e.g., CAV, TACAS, and VMCAI), and Automated Deduction (e.g., CADE, IJCAR), on the topic of Horn clause based analysis, verification, and synthesis.
+
+Horn clauses for verification and synthesis have been advocated by these communities in different times and from different perspectives and HCVS is organized to stimulate interaction and a fruitful exchange and integration of experiences.
+
+Topics of interest include, but are not limited to the use of Horn clauses, constraints, and related formalisms in the following areas:
+
+- Analysis and verification of programs and systems of various kinds (e.g., imperative, object-oriented, functional, logic, higher-order, concurrent, transition systems, petri-nets, smart contracts)
+- Program synthesis
+- Program testing
+- Program transformation
+- Constraint solving
+- Type systems
+- Machine learning and automated reasoning
+- CHC encoding of analysis and verification problems
+- Resource analysis
+- Case studies and tools
+- Challenging problems
+
+* Submission Guidelines *
+
+We solicit regular papers describing theory and implementation of Horn-clause based analysis and tool descriptions. We also solicit extended abstracts describing work-in-progress, as well as presentations covering previously published results, extended abstracts of doctoral theses, and overviews of research projects that are of interest to the workshop. At least one author of each accepted paper will be required to attend the workshop to present the contribution.
+
+Submission has to be done in one of the following formats:
+
+- Extended abstracts (up to 3 pages in EPTCS format), which describe work in progress or aim to initiate discussions.
+- Presentation-only papers, i.e., papers already submitted or presented at a conference or another workshop. Such papers can be submitted in any format, and will not be included in the workshop post-proceedings.
+- Regular papers (up to 12 pages plus bibliography in EPTCS (http://www.eptcs.org/) format), which should present previously unpublished work (completed or in progress), including descriptions of research, tools, and applications.
+- Tool papers (up to 4 pages in EPTCS format), including the papers written by the CHC-COMP participants, which can outline the theoretical framework, the architecture, the usage, and experiments of the tool.
+
+All submitted papers will be refereed by the program committee and will be selected for inclusion in accordance with the referee reports. If enough regular papers are accepted, both regular papers and extended abstracts will be published electronically. The publication of a paper is not intended to preclude later publication. Full versions of extended abstracts, or substantial revisions, may later be published elsewhere.
+
+Papers must be submitted through the EasyChair system using the web page: https://easychair.org/conferences/?conf=hcvs2025
+
+* Committees *
+
+Program Chairs:
+
+Emanuele De Angelis, IASI-CNR, Rome, Italy
+Florian Frohn, RWTH Aachen University, Aachen, Germany
+
+Program Committee:
+
+Nikolaj Bjørner, Microsoft, USA
+Martin Blicha, University of Lugano, Switzerland
+Konstantin Britikov, University of Lugano, Switzerland
+Catherine Dubois, ENSIIE-Samovar, France
+Gidon Ernst, Ludwig Maximilian University of Munich, Germany
+Zafer Esen, Uppsala University, Sweden
+Grigory Fedyukovich, Florida State University, USA
+Carsten Fuhs, Birkbeck, University of London, UK
+Hossein Hojjat, Tehran Institute for Advanced Studies, Iran
+Petra Hozzová, Czech Technical University, Czechia
+Lorenz Leutgeb, Max Planck Institute for Informatics, Germany
+Pedro Lopez-Garcia, IMDEA Software Institute and Spanish Council for Scientific Research (CSIC), Spain
+Dale Miller, INRIA and LIX/Institut Polytechnique de Paris, France
+Jose F. Morales, IMDEA Software Research Institute, Spain
+Sabina Rossi, Dipartimento di Informatica, Università Ca' Foscari di Venezia, Italy
+Philipp Rümmer, University of Regensburg, Germany
+Jonas Schöpf, University of Innsbruck, Austria
+Wim Vanhoof, University of Namur, Belgium
+German Vidal, MiST, VRAIN, Universitat Politecnica de Valencia, Spain
+
+
+
+
+Message transféré
+Sujet :
+[isabelle] HCVS 2025, **Deadline Extension**: 12th Workshop on Horn Clauses for Verification and Synthesis, 22 July 2025, Zagreb (Croatia)
+De :
+Florian Frohn <florian.frohn@cs.rwth-aachen.de>
+Date :
+14/05/2025 10:11
+Pour :
+Florian Frohn <florian.frohn@cs.rwth-aachen.de>
+Copie à :
+Emanuele De Angelis <emanuele.deangelis@iasi.cnr.it>
+
+12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)
+**Deadline Extension**
+22 July 2025, Zagreb, Croatia
+Co-located with CAV 2025
+
+https://www.sci.unich.it/hcvs25/
+
+---
+* Important Dates *
+
+Paper submission deadline **extended**: 30 May 2025
+Paper notification: mid June 2025
+Workshop: 22 July 2025
+
+* Scope *
+
+Many Program Verification and Synthesis problems of interest can be modeled directly using Horn clauses and many recent advances in the CLP and CAV communities have centered around efficiently solving problems presented as Horn clauses.
+
+This series of workshops aims to bring together researchers working in the communities of Constraint/Logic Programming (e.g., ICLP and CP), Program Verification (e.g., CAV, TACAS, and VMCAI), and Automated Deduction (e.g., CADE, IJCAR), on the topic of Horn clause based analysis, verification, and synthesis.
+
+Horn clauses for verification and synthesis have been advocated by these communities in different times and from different perspectives and HCVS is organized to stimulate interaction and a fruitful exchange and integration of experiences.
+
+Topics of interest include, but are not limited to the use of Horn clauses, constraints, and related formalisms in the following areas:
+
+- Analysis and verification of programs and systems of various kinds (e.g., imperative, object-oriented, functional, logic, higher-order, concurrent, transition systems, petri-nets, smart contracts)
+- Program synthesis
+- Program testing
+- Program transformation
+- Constraint solving
+- Type systems
+- Machine learning and automated reasoning
+- CHC encoding of analysis and verification problems
+- Resource analysis
+- Case studies and tools
+- Challenging problems
+
+* Submission Guidelines *
+
+We solicit regular papers describing theory and implementation of Horn-clause based analysis and tool descriptions. We also solicit extended abstracts describing work-in-progress, as well as presentations covering previously published results, extended abstracts of doctoral theses, and overviews of research projects that are of interest to the workshop. At least one author of each accepted paper will be required to attend the workshop to present the contribution.
+
+Submission has to be done in one of the following formats:
+
+- Extended abstracts (up to 3 pages in EPTCS format), which describe work in progress or aim to initiate discussions.
+- Presentation-only papers, i.e., papers already submitted or presented at a conference or another workshop. Such papers can be submitted in any format, and will not be included in the workshop post-proceedings.
+- Regular papers (up to 12 pages plus bibliography in EPTCS (http://www.eptcs.org/) format), which should present previously unpublished work (completed or in progress), including descriptions of research, tools, and applications.
+- Tool papers (up to 4 pages in EPTCS format), including the papers written by the CHC-COMP participants, which can outline the theoretical framework, the architecture, the usage, and experiments of the tool.
+
+All submitted papers will be refereed by the program committee and will be selected for inclusion in accordance with the referee reports. If enough regular papers are accepted, both regular papers and extended abstracts will be published electronically. The publication of a paper is not intended to preclude later publication. Full versions of extended abstracts, or substantial revisions, may later be published elsewhere.
+
+Papers must be submitted through the EasyChair system using the web page: https://easychair.org/conferences/?conf=hcvs2025
+
+* Committees *
+
+Program Chairs:
+
+Emanuele De Angelis, IASI-CNR, Rome, Italy
+Florian Frohn, RWTH Aachen University, Aachen, Germany
+
+Program Committee:
+
+Nikolaj Bjørner, Microsoft, USA
+Martin Blicha, University of Lugano, Switzerland
+Konstantin Britikov, University of Lugano, Switzerland
+Catherine Dubois, ENSIIE-Samovar, France
+Gidon Ernst, Ludwig Maximilian University of Munich, Germany
+Zafer Esen, Uppsala University, Sweden
+Grigory Fedyukovich, Florida State University, USA
+Carsten Fuhs, Birkbeck, University of London, UK
+Hossein Hojjat, Tehran Institute for Advanced Studies, Iran
+Petra Hozzová, Czech Technical University, Czechia
+Lorenz Leutgeb, Max Planck Institute for Informatics, Germany
+Pedro Lopez-Garcia, IMDEA Software Institute and Spanish Council for Scientific Research (CSIC), Spain
+Dale Miller, INRIA and LIX/Institut Polytechnique de Paris, France
+Jose F. Morales, IMDEA Software Research Institute, Spain
+Sabina Rossi, Dipartimento di Informatica, Università Ca' Foscari di Venezia, Italy
+Philipp Rümmer, University of Regensburg, Germany
+Jonas Schöpf, University of Innsbruck, Austria
+Wim Vanhoof, University of Namur, Belgium
+German Vidal, MiST, VRAIN, Universitat Politecnica de Valencia, Spain

@@ -1,0 +1,51 @@
+Bonjour à tous,
+
+Suite à de nombreuses demande, la date limite de soumission des articles pour MSR'25 est étendue jusqu’au 18 juillet 2025.
+Par ailleurs, le lien pour les inscriptions est disponible ici : https://msr2025.sciencesconf.org/resource/page/id/8
+
+Frais d'inscription TTC
+
+    Etudiant anticipé (jusqu'au 25 octobre) : 250€ TTC
+    Académique/industriel anticipé (jusqu'au 25 octobre) : 350€ TTC
+    Etudiant (à partir du 26 octobre) : 350€ TTC
+    Académique/industriel (à partir du 26 octobre) : 450€ TTC
+
+Chaque inscription comprend : l'accès aux session, les pauses cafés, les repas du midi (mercredi 22, jeudi 23 et vendredi 24) et le diner de gala (jeudi 23 novembre).
+
+Date limite des inscriptions : 15 novembre 2025.
+
+Pour rappel, ce 15ème colloque sur la Modélisation des Systèmes Réactifs (MSR’25) se tiendra à Reims du 19 au 21 novembre 2025 : https://msr2025.sciencesconf.org/.
+
+MSR sollicite des contributions théoriques et des expériences pratiques dans les thèmes et domaines d'application listés ci-dessous (liste non exhaustive).
+
+Thèmes
+————————————
+
+    Modèles (qualitatifs et/ou quantitatifs) pour la spécification de comportements et/ou propriétés : automates, réseaux de Petri, Grafcet, algèbres de processus, équations différentielles, chaînes de Markov, inférence bayésienne, files d'attente, algèbre maxplus, logique linéaire, logique temporelle, logique temporelle probabilisée et/ou temporisée, …
+    Aspects méthodologiques : composition, raffinement, orientation objet, approches multi-modèles, apprentissage séquentiel, raisonnement logique…
+    Analyse : vérification, évaluation (performances, sûreté de fonctionnement), test, frugalité…
+    Commande : synthèse de contrôleur, supervision, surveillance, diagnostic...
+
+Domaines d’application
+————————————
+
+    Bio-informatique
+    Circuits, systèmes sur puce
+    Énergie, transport
+    Industrie 4.0
+    Robotique
+    Santé
+    Sécurité des systèmes
+    Systèmes embarqués, systèmes cyber-physiques
+    Systèmes industriels et industrie du commerce
+    Systèmes temps-réel, systèmes mobiles
+    Transition énergétique, environnement
+
+
+MSR est soutenue par le CT SED de la SAGIP, le GDR MACS et le GT AFSEC du GDR GPL
+
+En espérant vous retrouver nombreux à cet événement !
+Pour le comité d’organisation de MSR’25,
+Léonardo Brenner & Alexandre Philippot
+
+https://msr2025.sciencesconf.org/

@@ -22,3 +22,7 @@ post = true
 [extra]
 journal = "Post-proceedings with selected papers (based on submission and presentation) will be published in an LNCS volume"
 colocated = "Part of the AISoLA 2025 conference"
+
+[[cfp]]
+file = "cfp/30-years-of-uppaal-2025.txt"
+stage = "initial"

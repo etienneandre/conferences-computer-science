@@ -1,0 +1,160 @@
+============================================================================
+
+                     CONCUR 2017 - Last Call for Papers
+
+             28th International Conference on Concurrency Theory
+
+                    September 5-8, 2017, Berlin, Germany
+
+                    https://www.concur2017.tu-berlin.de/
+
+============================================================================
+
+The purpose of the CONCUR conferences is to bring together researchers,
+developers, and students in order to advance the theory of concurrency,
+and promote its applications.
+
+TUTORIALS
+
+- Alastair Donaldson (Imperial College London, UK)
+- Pawel Sobocinski (University of Southampton, UK)
+- Viktor Vafeiadis (Max Planck Institute for Software Systems, Germany)
+
+
+INVITED SPEAKERS
+
+- Hongseok Yang (University of Oxford, UK)
+- Azahdeh Farzan (University of Toronto, Canada)
+- Madan Musuvathi (Microsoft Research, USA)
+- Jean-Francois Raskin (Université libre de Bruxelles, Belgium)
+
+
+CO-LOCATED EVENTS
+
+14th International Conference on
+     Quantitative Evaluation of SysTems (QEST 2017)
+15th International Conference on
+     Formal Modelling and Analysis of Timed Systems (FORMATS 2017)
+14th European Performance Engineering Workshop (EPEW 2017)
+
+
+WORKSHOPS
+
+- EXPRESS/SOS
+- MeMo
+- RADICAL
+- TRENDS
+- YR-CONCUR
+
+============================================================================
+
+IMPORTANT DATES (AoE in 2017)
+
+Paper Submission:       April 21 (firm deadline)
+Paper Notification:     June 16
+Camera Ready Copy Due:  July 7
+CONCUR 2017:            September 5-8
+
+
+TOPICS
+
+Submissions are solicited in semantics, logics, verification and analysis
+of concurrent systems. The principal topics include (but are not limited to):
+
+- Basic models of concurrency such as abstract machines, domain-theoretic models,
+  game-theoretic models, process algebras, graph transformation systems, Petri nets,
+  hybrid systems, mobile and collaborative systems, probabilistic systems,
+  real-time systems, biology-inspired systems, and synchronous systems;
+
+- Logics for concurrency such as modal logics, probabilistic and stochastic logics,
+  temporal logics, and resource logics;
+
+- Verification and analysis techniques for concurrent systems such as
+  abstract interpretation, atomicity checking, model checking, race
+  detection, pre-order and equivalence checking, run-time verification,
+  state-space exploration, static analysis, synthesis, testing, theorem
+  proving, type systems, and security analysis;
+
+- Distributed algorithms and data structures: design, analysis, complexity,
+  correctness, fault tolerance, reliability, availability, consistency,
+  self-organization, self-stabilization, protocols.
+
+- Theoretical foundations of architectures, execution environments, and software
+  development for concurrent systems such as geo-replicated systems, communication
+  networks, multiprocessor and multi-core architectures, shared and transactional memory,
+  resource management and awareness, compilers and tools for concurrent programming,
+  programming models such as component-based, object- and service-oriented.
+
+PAPER SUBMISSION
+
+CONCUR 2017 solicits high quality papers reporting research results
+and/or experience related to the topics mentioned above. All
+papers must be original, unpublished, and not submitted for
+publication elsewhere.
+
+Each paper will undergo a thorough review process. If necessary, the
+paper may be supplemented with a clearly marked appendix, which will
+be reviewed at the discretion of the program committee.
+
+The CONCUR 2017 proceedings will be published by LIPIcs.
+
+Papers must be submitted electronically as PDF files via EasyChair
+(https://www.easychair.org/conferences/?conf=concur2017).
+
+Papers must not exceed 14 pages (excluding references and clearly marked
+appendices) using the LIPIcs style.
+https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/
+
+============================================================================
+
+PROGRAM CHAIRS
+
+- Roland Meyer (Technische Universität Braunschweig, Germany)
+- Uwe Nestmann (Technische Universität Berlin, Germany)
+
+
+PROGRAMM COMMITTEE
+
+Jade Alglave (University College London, UK)
+Mohamed Faouzi Atig (Uppala Universitet, Sweden)
+Paolo Baldan (Università degli Studi di Padova, Italy)
+Johannes Borgström (Uppala Universitet, Sweden)
+Luis Caires (FCT / Universidade Nova de Lisboa, Portugal)
+Pedro R. D'Argenio (Universidad Nacional de Córdoba, Argentina)
+Josée Desharnais (Université Laval, Canada)
+Constantin Enea (Université Paris Diderot (Paris 7), France)
+Javier Esparza (Technische Universität München, Germany)
+Wan Fokkink (Vrije Universiteit Amsterdam, The Netherlands)
+Stefan Göller (École normale supérieure de Cachan, France)
+Thomas Hildebrandt (IT University of Copenhagen, Denmark)
+Naoki Kobayashi (The University of Tokyo, Japan)
+Antonín Kučera (Masaryk University, Czech Republic)
+Jérôme Leroux (Centre national de la recherche scientifique, France)
+Roland Meyer (Technische Universität Braunschweig, Germany)
+K Narayan Kumar (Chennai Mathematical Institute, India)
+Uwe Nestmann (Technische Universität Berlin, Germany)
+Catuscia Palamidessi (INRIA - l'École Polytechnique, France)
+Alexander Rabinovich (Tel Aviv University, Israel)
+Davide Sangiorgi (Università di Bologna, Italy)
+Pawel Sobocinski (University of Southampton, UK)
+Vasco Thudicum Vasconcelos (Universidade de Lisboa, Portugal)
+Walter Vogler (Universität Augsburg, Germany)
+Tomáš Vojnar (Brno University of Technology, Czech Republic)
+Igor Walukiewicz (Université Bordeaux, France)
+Heike Wehrheim (Universität Paderborn, Germany)
+Josef Widder (Technische Universität Wien, Austria)
+Thomas Wies (New York University, USA)
+Gianluigi Zavattaro (Università di Bologna, Italy)
+Lijun Zhang (Chinese Academy of Sciences, China)
+Rob van Glabbeek (CSIRO, Australia)
+
+
+STEERING COMMITTEE
+
+Jos Baeten (Centrum Wiskunde & Informatica (CWI), The Netherlands)
+Pedro R. D'Argenio (Universidad Nacional de Córdoba, Argentina)
+Javier Esparza (Technische Universität München, Germany)
+Joost-Pieter Katoen (RWTH Aachen University, Germany)
+Kim G. Larsen (Aalborg University, Denmark)
+Ugo Montanari (Università di Pisa, Italy)
+Catuscia Palamidessi (École Polytechnique, France)

@@ -1,0 +1,121 @@
+
+                              RTN 2019
+            17th INTERNATIONAL WORKSHOP ON REAL-TIME NETWORKS
+                    JULY 9, 2019 - STUTTGART, GERMANY
+                       https://www.ecrts.org/rtn
+
+                           CALL FOR PAPERS
+
+PRESENTATION
+The Real-Time Networks (RTN) is a satellite workshop of the 31st Euromicro
+Conference on Real-Time Systems (ECRTS), the premier European venue for
+presenting research into the broad area of real-time and embedded systems.
+RTN 2019 is the seventeenth in the series of workshops that started at the 2002
+ECRTS conference. No edition took place in 2015.
+
+IMPORTANT DATES
+Submission Full-Papers:         April 16, 2019
+Submission Abstracts:           April 16, 2019
+Acceptance Notification:        May 14, 2019
+Camera-ready Version:           May 29, 2019
+
+WORKSHOP STRUCTURE
+The RTN workshop provides a relaxed forum for industrial and academic
+participants to present and discuss new ideas, new research directions and to
+review current trends in the area of real-time networks and NoC. The program
+schedule provides significant time for discussions among the attendees.
+
+NEW SINCE 2018: in addition to presentation sessions, a collaborative session
+will be setup to stimulate exchange between participants with different types
+of contributions, including demos, informal presentations, and posters. All
+participants are encouraged to contribute and animate this session!
+Authors of accepted papers will be given the option to publish them in a special
+edition of ACM SIGBED Review unless they choose to opt out in order to keep
+their work for a later submission to another conference or journal.
+
+TOPICS
+Areas of interest include, but are not limited to:
+* Real-time aspects of networked embedded systems and sensors, cyber-physical
+  systems, internet of things, fog computing
+* Real-time applications (automotive, aerospace, multimedia, etc.):
+  implementation, experimentation and evaluation
+* Real-time Software Defined Networks (SDN)
+* Real-time message scheduling and mapping over off and on-chip networks (TSN,
+  Ethernet, CAN, FlexRay, NoC, etc.)
+* Performance evaluation, simulation and modeling tools of real-time networks
+  (automotive, aerospace, multimedia, etc.)
+* Real-time network management and time synchronization
+* Real-time aspects of Wireless technologies and Sensor Networks (WSNs) and
+  applications
+* Real-time network on chips (NoC)
+
+FOCUS OF THE 2019 EDITION
+RTN 2019 focuses on new trends in real-time communications, including the
+application of new Ethernet standards like TSN in the area of In-Car
+Communication, Vehicular and Industrial Fog Computing, as well as the Internet
+of Things.
+
+
+SUBMISSION INSTRUCTIONS
+Following the success of previous editions, RTN 2019 is open to contributions
+in three different formats: full papers, demos, and posters.
+
+FULL-PAPER SUBMISSION
+The RTN workshop is seeking regular research paper or position paper that should
+not exceed 6 pages. Research papers should present original research results not
+published or submitted for publication in other forums. Authors of accepted
+papers agree to attend the workshop and to present their work during the
+workshop.
+Papers submitted to the RTN workshop must be written in English, should conform
+to the ACM SIG Proceedings Style
+(https://www.acm.org/publications/proceedings-template-16dec2016) and must be
+submitted in PDF format using the RTN website submission link
+(https://easychair.org/conferences/?conf=rtn2019). Author names, affiliations
+and self-references should not be anonymized.
+Accepted papers will be published in ACM SIGBED Review unless authors opt out
+in order to keep their work unpublished. By accepting that papers are published
+in the ACM SIGBED Review, authors give permission to publish and include the
+papers in ACM Digital Library.
+
+DEMO SUBMISSION
+We highly encourage the submission of demos for presentation during the workshop
+collaborative session. Authors will have a slot for a short presentation to
+introduce the demo to the audience in addition to the necessary space to
+demonstrate and engage in discussions during the panel sessions.
+Note: The content of a demo shall be of interest to the workshop's audience but
+must not necessarily be novel.
+To submit a Demo, an abstract (limited to two pages) describing the topic and
+main details shall be submitted following the same procedure as for full-papers,
+indicating Abstract as the type of submission. The abstract title shall be
+preceded with the word "DEMO-".
+
+POSTER SUBMISSION
+Authors wishing to disseminate their work or ideas without a formal publication
+may submit a poster to the workshop. Posters will be introduced to the audience
+with a short presentation and exposed during the collaborative session.
+The content of a poster shall be of interest to the workshop's audience and must
+have some degree of novelty. Incremental work on existing publications as well
+as, in particular, work-in-progress of novel ideas can be submitted.
+To submit a Poster, an abstract (limited to two pages) shall be submitted
+following the same procedure as for full-papers, indicating Abstract as the type
+of submission. The abstract title shall be preceded with the word "POSTER-".
+Accepted posters will be displayed during the workshop.
+
+ORGANIZATION
+
+WORKSHOP CHAIRS
+Guillermo Rodriguez-Navas, Nokia Bell-Labs, Israel
+Ramon Serna Oliver, TTTech, Austria
+
+PROGRAM COMMITTEE
+Ahlem Mifdaoui, DISC, Univ. Toulouse, France
+Borislav Nikolic, IDA/TU Braunschweig, Germany
+Iñaki Val, IK4-IKERLAN, Spain
+Jean-Luc Scharbarg, INP/ENSEEIHT, Univ. Toulouse, France
+Julian Proenza, Universitat de les Illes Balears, Spain
+Luis Almeida, University of Porto, Portugal
+Paul Pop, TU Denmark, Denmark
+Rodrigo Coelho, TU Kaiserslautern, Germany
+Svetlana Girs, Mälardalen University, Sweden
+Ye-Qiong Song, LORIA, France
+Zdenek Hanzalek, Czech Technical University in Prague

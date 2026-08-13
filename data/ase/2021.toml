@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "Double-blind submissions."
+
+[[cfp]]
+file = "cfp/ASE-2021.txt"
+stage = "initial"

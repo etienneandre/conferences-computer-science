@@ -1,0 +1,68 @@
+Call for Journal-First Presentations
+
+https://icst2021.icmc.usp.br/track/icst-2021-journal-first-papers
+
+The IEEE International Conference on Software Testing, Verification and
+Validation (ICST) 2021 invites submissions for presentations of
+journal-first papers published recently in prestigious software engineering
+journals in all areas of software testing, verification, and validation.
+This will both enrich the ICST program as well as offer the authors an
+opportunity to present their work to the community.
+
+SCOPE
+
+Applications for journal papers published in:
+Software Testing, Verification, and Reliability (STVR)
+Journal of Systems and Software (JSS)
+Information and Software Technology (IST)
+Software Quality Journal (SQJ)
+Other journals may be considered on a case-by-case basis.
+
+A journal-first presentation submitted to ICST 2021 must adhere to the
+following criteria:
+
+The paper was accepted for publication (i.e., the date of the acceptance
+notification) no earlier than 1 January 2019. The paper is in the scope of
+the conference, as defined in the call for ICST 2020 research papers. The
+paper reports completely new research results or presents novel
+contributions that were not previously reported in prior published work.
+The paper has not been presented and is not under consideration for
+journal-first programs of other conferences.
+
+SUBMISSION OF PROPOSALS
+Authors of manuscripts that respect these criteria are invited to fill out
+this application form, including the paper title, authors, an extended
+abstract, a statement that attests the nature of journal-first paper, and a
+pointer to the original journal paper.
+
+EVALUATION AND SELECTION
+Authors will be invited to present their paper at ICST 2020 after a check
+that the paper is in scope for the conference and it adheres to the
+criteria above. The papers will not be reviewed again for technical content.
+In case an exceptionally high number of proposals is received, presentation
+proposals will be prioritized according to their fit to the conference
+theme and structure of sessions.
+
+PUBLICATION
+The journal-first manuscripts are published through the journals and will
+not be part of the ICST proceedings. The journal-first papers will be
+listed in the conference program and the proceeding will only contain the
+abstract and a pointer to the journal publication.
+
+PRESENTATION
+If a submission is accepted for the journal-first program, at least one
+author of the associated journal paper must register and (remotely) attend
+the conference to present the paper.
+
+IMPORTANT DATES
+Submission deadline: 10 December 2020
+Notification: 4 January 2021
+Submissions close at 23.59 AoE (Anywhere on Earth, UTC-12)
+
+JOURNAL-FIRST CO-CHAIRS
+Augusto Sampaio, Universidade Federal de Pernambuco
+Heike Wehrheim, Universitat Paderborn
+
+UPDATED INFORMATION
+https://icst2021.icmc.usp.br/track/icst-2021-journal-first-papers
+

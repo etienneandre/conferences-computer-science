@@ -20,3 +20,7 @@ license = "cc-by-nd"
 
 [extra]
 notes = "Lightweight double-blind. Rebuttal period: 21-23 November 2023. PC members are excluded from submitting. Track A focuses on algorithms, data structures and complexity. Track B focuses on automata, logic, semantics, and theory of programming."
+
+[[cfp]]
+file = "cfp/STACS-2024.txt"
+stage = "initial"

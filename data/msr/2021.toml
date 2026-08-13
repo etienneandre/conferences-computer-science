@@ -20,3 +20,19 @@ license = "free"
 
 [extra]
 notes = "In French, but English papers accepted. Poster PhD session. Best paper award for young scientists."
+
+[[cfp]]
+file = "cfp/MSR-2021.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/MSR-2021.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/MSR-2021-extended.pdf"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/MSR-2021-extended.txt"
+stage = "extended"

@@ -1,0 +1,233 @@
+ICSE 2022 - The 44th International Conference on Software Engineering
+May 21 - 29, 2022 - Pittsburgh, USA
+Visit Official Website: https://conf.researchr.org/home/icse-2022
+=========================================================
+
+ICSE, the IEEE/ACM International Conference on Software Engineering, is the
+premier software engineering conference. Since 1975, ICSE has provided a
+forum where researchers, practitioners, and educators gather together to
+present and discuss the most recent innovations, trends, experiences, and
+issues in the field of software engineering. Beyond the Technical track,
+ICSE 2022 will feature the following focused tracks.
+
+============================================
+
+NIER - New Ideas and Emerging Results
+* Submission deadline: Fri, October 15 2021 *
+
+The New Ideas and Emerging Results (NIER) track at ICSE provides a vibrant
+forum for forward-looking, innovative research in software engineering. Our
+aim is to accelerate the exposure of the software engineering community to
+early yet potentially ground-breaking research results, and to techniques
+and perspectives that challenge the status quo in the discipline. To
+broadly capture this goal, NIER 2022 will publish the following types of
+papers:
+- Forward-looking ideas: exciting new directions or techniques that may
+have yet to be supported by solid experimental results, but are nonetheless
+supported by strong and well-argued scientific intuitions as well as
+concrete plans going forward.
+- Thought-provoking reflections: bold and unexpected results and
+reflections that can help us look at current research directions under a
+new light, calling for new directions for future research.
+
+For the complete details of the conference and solicited submissions please
+visit:
+https://conf.researchr.org/track/icse-2022/icse-2022-nier---new-ideas-and-emerging-results
+
+* Track Chairs *
+Liliana Pasquale, University College Dublin and Lero, Ireland
+Christoph Treude, University of Adelaide, Australia
+
+============================================
+
+SEIP - Software Engineering in Practice
+* Submission deadline: Fri, October 15 2021 *
+
+The Software Engineering in Practice (SEIP) Track is the premier venue for
+practitioners and researchers to discuss insights, innovations, and
+solutions to concrete software engineering problems. Practical software
+development relies on excellent software engineering research.
+
+SEIP provides a unique forum for networking, exchanging ideas, fostering
+innovations, and forging long-term collaborations to address Software
+Engineering research that impacts directly on practice. It is one of the
+most prestigious forums in which to publish work in the Software
+Engineering literature. SEIP will include participants and speakers from
+both industrial and academic sectors, drawing together researchers and
+practitioners eager to communicate and share common interests in software
+engineering. The track will be composed of invited talks, paper
+presentations, and interactive sessions, all with a strong focus on
+software practice.
+
+We seek two types of submission, both of which must be written exclusively
+in English and for which paper limits include references:
+- Full papers (up to 10 pages) addressing industrially-relevant problems
+through systematic investigations. Each paper should describe a problem of
+practical importance, explain how the problem was investigated and in what
+context, and present evidence for the paper’s conclusions. The submission
+should have technical and empirical soundness. Other aspects that should
+also be included where appropriate include: discussing why the resolution
+of the problem is innovative, (cost-) effective, or efficient; providing a
+concise explanation of the approach, techniques, and methodologies
+employed; and explaining the insights or best practices that emerged, tools
+developed, and/or software processes involved.
+- Industrial Challenge papers (up to 2 pages) outlining a new research
+challenge, arising from industrial software practice and experience. A
+challenge paper will clearly articulate the problem and motivate it in
+terms of its potential for industrial impact and/or its practical
+importance. The aim of the call for challenge papers is to provide a
+growing pool of well-defined industrially relevant problems for the
+research community to tackle.
+
+For the complete details of the conference and solicited submissions please
+visit:
+https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice
+
+* Track Chairs *
+Mark Harman, Facebook, UK
+Heather Miller, Carnegie Mellon University, USA
+
+============================================
+
+SEET - Software Engineering Education and Training
+* Submission deadline: Fri, October 22 2021 *
+
+ICSE SEET is a premiere venue for software engineering educators worldwide.
+Every year, it brings together educators from both academia and industry
+who share and discuss cutting-edge results and experiences on how to best
+form software engineers able to deal with real-word challenges. We invite
+you to join us this year to continue to grow our collective knowledge in
+the field of software engineering education and training.
+
+We accept papers in several submission categories, including both long (max
+10 pages plus up to 2 pages for references) and short (max 5 pages, plus 1
+page of references) papers:
+- Research Papers (long), addressing a topic related to software
+engineering and education using appropriate research techniques and
+scholarly writing.
+- Experience Reports (long), providing anecdotal evidence by describing an
+experience related to software engineering education and training
+(typically a course, a teaching or training technique or strategy, or an
+assessment method) and interprets the experience in terms of actionable
+advice and lessons learned. Negative and mixed findings are acceptable
+provided they can support advice or lessons learned.
+- Idea Papers (short), presenting a new software engineering education and
+training idea with a proposed formal evaluation strategy, possibly with
+some preliminary or informal results.
+- Tool Paper (short), describing a tool or technology that supports
+software engineering education and training. Papers in this category should
+discuss the impact of the tool on the learning process and can optionally
+be accompanied by a short demo video.
+- Replication Paper (short), describing the repetition of an existing and
+already published pedagogical intervention (e.g. course, approach, study)
+in new contexts. The goal is to determine if the basic findings related to
+the original pedagogical intervention can be applied to other circumstances.
+
+For the complete details of the conference and solicited submissions please
+visit: https://conf.researchr.org/track/icse-2022/icse-2022-seet
+
+* Track Chairs *
+Cecile Peraire, Carnegie Mellon University Silicon Valley, USA
+Alexander Serebrenik, Eindhoven University of Technology, The Netherlands
+
+============================================
+
+SEIS - Software Engineering in Society
+* Submission deadline: Fri, October 22 2021 *
+
+We are looking for insightful and thought-provoking papers that address the
+various roles of software engineering in society. Our theme this year is
+diversity, inclusion, belonging, and representation. We seek contributions
+that align with this theme that highlight how software engineering can
+address the opportunities and challenges posed by the rapidly accelerating
+pace of technological advances that are impacting the economic, political,
+environmental, social, and technical aspects of society.
+
+We would also like to discuss emerging trends in the development of
+software that is part of larger systems across a broad spectrum of
+disciplines. The goal is to investigate the reasons for these trends, to
+analyze possible novel contributions from the Software Engineering
+community, and to identify novel research challenges that these disciplines
+pose to software engineering methods and practices.
+
+We welcome different types of submissions including both long (up to 10
+pages) and short (up to 4 pages) papers:
+- Full papers (long) documenting results and findings, where the research
+presented has followed established research methods.
+- Short paper (short), reporting novel approaches that have not been fully
+evaluated, which will be presented as a poster.
+- Experience paper (long), reporting on real-world problems and innovative
+solutions, or tools.
+- Opinion paper (short), reporting on well-founded arguments to support
+diversity and inclusion.
+
+For the complete details of the conference and solicited submissions please
+visit:
+https://conf.researchr.org/track/icse-2022/icse-2022-seis---software-engineering-in-society
+
+* Track Chairs *
+Andrew Begel, Microsoft Research, USA
+Kelly Blincoe, University of Auckland, New Zealand
+
+============================================
+
+Demonstrations
+* Submission deadline: Wed, Nov 24 2021 *
+
+The objective of the ICSE 2022 Demonstrations Track is to excite the
+software engineering community about new advances in our field through
+compelling demonstrations that help advance research and practice. The
+track is a highly interactive venue where researchers and practitioners can
+demonstrate their tools and discuss them with attendees.
+
+Tool-based demonstrations describe novel aspects of early prototypes or
+mature tools. The tool demonstrations must communicate clearly the
+following information to the audience:
+- the envisioned users;
+- the software engineering challenge it proposes to address;
+- the methodology it implies for its users; and
+- the results of validation studies already conducted for mature tools, or
+the design of planned studies for early prototypes.
+
+Highlighting scientific contributions through concrete artifacts is a
+critical supplement to the traditional ICSE research papers. A
+demonstration provides the opportunity to communicate how the scientific
+approach has been implemented or how a specific hypothesis has been
+assessed, including details such as implementation and usage issues, data
+models and representations, APIs for tool and data access. Authors of
+regular research papers are thus also encouraged to submit an accompanying
+demonstration paper.
+
+For the complete details of the conference and solicited submissions please
+visit:
+https://conf.researchr.org/track/icse-2022/icse-2022-demo---demonstrations
+
+* Track Chairs *
+Dan Hao, Peking University, China
+Lingming Zhang, University of Illinois at Urbana-Champaign, USA
+
+============================================
+
+Journal-First Papers
+* Submission deadline: Wed, January 12 2022 *
+
+ICSE has formed partnerships with prestigious software engineering journals
+to incorporate journal-first papers into the ICSE program. Through this
+initiative, authors of journal-first papers accepted in the partnering
+journals will be invited to present their work at ICSE, thus providing an
+opportunity for the authors to engage directly with the community and
+offering the ICSE attendees an additional dimension to the research track
+program.
+
+The journals that support the journal-first model as partners with ICSE are:
+- IEEE Transaction of Software Engineering (IEEE TSE),
+- ACM Transactions on Software Engineering and Methodology (ACM TOSEM),
+- Empirical Software Engineering (EMSE).
+
+For the complete details of the conference and solicited submissions please
+visit:
+https://conf.researchr.org/track/icse-2022/icse-2022-journal-first-papers
+
+* Track Chairs *
+Joanne M. Atlee, University of Waterloo, Canada
+David Rosenblum, National University of Singapore, Singapore

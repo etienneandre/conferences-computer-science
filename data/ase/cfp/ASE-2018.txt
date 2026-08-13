@@ -1,0 +1,548 @@
+CALL FOR PAPERS
+
+ASE 2018 - 33rd IEEE/ACM International Conference on Automated Software
+Engineering
+
+http://www.ase2018.com
+
+September 3 to 7, 2018
+Montpellier, France
+
+======================================================================
+ Conference, Journal-First, Tool Demos, Doctoral Symposium, Workshops, Tutorials 
+======================================================================
+
+IMPORTANT DATES*
+
+Abstract submission: April 19, 2018
+Paper submission: April 26, 2018
+Author notification: July 3, 2018
+Camera-ready: July 24, 2018
+
+Journal-first submission: June 15, 2018
+Journal-first notification: July 3, 2018
+
+Tool demonstration submission: May 31, 2018
+Tool demonstration notification: July 3, 2018
+Tool demonstration camera-ready: July 24, 2018
+
+Doctoral symposium submission:  May 31, 2018
+Doctoral symposium notification:  July 3, 2018
+Doctoral symposium camera-ready:  July 24, 2018
+
+Workshop proposal submission: February 26, 2018
+Workshop notification of acceptance: March 5, 2018
+Workshop camera-ready: March 19, 2018
+
+Tutorial proposal submission: April 30, 2018
+Tutorial proposal notification: May 14, 2018
+Tutorial advertisement material for the ASE web site: May 28, 2018
+Tutorial final notification: July 16, 2018
+
+* Dates are to be understood as AoE (Anywhere on Earth)
+======================================================================
+
+GENERAL THEME
+
+The IEEE/ACM Automated Software Engineering (ASE) Conference series is the premier research forum for automated software engineering. Each year, it brings together researchers and practitioners from academia and industry to discuss foundations, techniques, and tools for automating the analysis, design, implementation, testing, and maintenance of large software systems. 
+
+=== CONFERENCE PAPERS ================================================
+
+http://www.ase2018.com/?p=calls#papers
+
+ASE 2018 invites high quality contributions describing significant, original, and unpublished results. Solicited topics include, but are not limited to:
+
+- Automated reasoning techniques
+- Component-based service-oriented systems
+- Cloud computing
+- Computer-supported cooperative work
+- Configuration management
+- Data mining for software engineering
+- Domain modeling and meta-modeling
+- Empirical software engineering
+- Human-computer interaction
+- Knowledge acquisition and management
+- Mobile app development
+- Maintenance and evolution
+- Model-driven development
+- Program synthesis & transformations, automated defect repair
+- Program comprehension
+- Reverse engineering and re-engineering
+- Recommender systems for software engineering
+- Requirements engineering
+- Specification languages
+- Software analysis
+- Software architecture and design
+- Software product line engineering
+- Software visualization
+- Software security and trust; data privacy
+- Testing, verification, and validation
+
+Three categories of submissions are solicited:
+
+- Technical Research Papers should describe innovative research in automating software development activities or automated support to users engaged in such activities. They should describe a novel contribution to the field and should carefully support claims of novelty with citations to the relevant literature. Where a submission builds upon previous work of the author(s), the novelty of the new contribution must be clearly described with respect to the previous work. Papers should also clearly discuss how the results were validated.
+
+- Experience Papers should describe a significant experience in applying automated software engineering technology and should carefully identify and discuss important lessons learned, so that other researchers and/or practitioners can benefit from the experience. Of special interest are experience papers that report on industrial applications of automated software engineering.
+
+- New Ideas Papers should describe novel research directions in automating software development activities or automated support to users engaged in such activities. New ideas submissions are intended to describe well-defined research ideas that are at an early stage of investigation and may not be fully validated.
+
+
+SUBMISSION
+
+Papers must be submitted electronically through the ASE 2018 submission site: https://ase18.hotcrp.com
+
+All submissions must come in PDF format and conform, at time of submission, to the IEEE Conference Proceedings Formatting Guidelines (http://www.ieee.org/conferences_events/conferences/publishing/templates.html) (title in 24pt font and full text in 10pt font, LaTEX users must use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf option).
+
+Papers submitted to ASE 2018 must not have been published elsewhere and must not be under review or submitted for review elsewhere when being considered for ASE 2018.
+
+Technical Research Papers and Experience Papers must not exceed 10 pages (including figures) plus up to 2 pages that contain ONLY references. Paper submissions may include an appendix after the references with additional material for reviewers; the appendix does not count toward the page limit and will not be part of the proceedings if the paper is accepted; as with supplementary web pages, reviewers can but are not required to refer to the appendix.
+
+New Ideas Papers must not exceed 6 pages (including figures, appendices AND references).
+
+ASE 2018 will again pursue a double-blind review process. For details see Instructions for Authors (http://www.ase2018.com/?p=author_instructions).
+
+All submissions must be in English.
+
+Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
+
+For ASE 2018, the program committee will discuss papers electronically. This will avoid the time, cost and ecological impact of transporting an increasingly large committee to one point on the globe, as justified here (http://www.ase2018.com/Online-OnlyPCMeeting.pdf).
+
+PROGRAM CO-CHAIRS
+
+Christian Kastner, Carnegie Mellon University, USA
+Gordon Fraser, University of Sheffield, UK
+
+PROGRAM COMMITTEE
+
+See: http://www.ase2018.com/?p=program_committee
+
+=== JOURNAL-FIRST PAPERS =============================================
+
+http://www.ase2018.com/?p=calls#journalfirst
+
+ASE is inviting journal-first presentations for papers published recently in prestigious software engineering journals. This will both enrich the ASE program as well as offer the authors an opportunity to speak to the community. 
+ 
+The journal-first manuscripts are published through the journals and will not be part of the ASE proceedings. The journal-first papers will be listed in the conference program and the proceeding will only contain the abstract and a pointer to the journal publication.
+ 
+At least one author of each presentation accepted for the journal-first program must register and attend the conference to present the paper.
+ 
+SCOPE
+ 
+We invite applications for journal papers published in:
+- Automated Software Engineering (Springer)
+- IEEE Transaction of Software Engineering (IEEE TSE)
+- ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Empirical Software Engineering
+ 
+Other journals may be considered on a case-by-case basis.
+ 
+A journal-first presentation submitted to ASE 2018 must adhere to the following criteria:
+- The accepted paper version was published (or accepted for publication) in a journal from the above list no earlier than January 1st 2017.
+- The paper is in the scope of the conference.
+- The paper reports completely new research results or presents novel contributions that significantly extend and were not previously reported in prior work; and
+- The paper does not extend prior work solely with additional proofs or algorithms (or other such details presented for completeness), additional empirical results, or minor enhancements or variants of the results presented in the prior work.
+- The paper has not been presented at, and is not under consideration for, journal-first programs of other conferences.
+ 
+SUBMISSION
+
+Authors of manuscripts that respect these criteria are invited to fill out this application form, including the paper title, authors, an extended abstract and a pointer to the original journal paper:
+ 
+https://goo.gl/forms/Xcr9FL0zFpH1cTIk2
+ 
+Authors will be invited to present their paper at ASE 2018 after a check that the paper is in scope for the conference and it adheres to the criteria above. The papers will not be reviewed again for technical content. In case an exceptionally high number of proposals is received, presentation proposals will be prioritized according to fit to the conference theme and structure of sessions. 
+
+ 
+JOURNAL-FIRST CHAIR
+
+Bogdan Vasilescu, Carnegie Mellon University, USA
+
+
+=== TOOL DEMONSTRATIONS ==============================================
+
+http://www.ase2018.com/?p=calls#demonstrations
+
+The objective of the ASE 2018 Demonstrations Track is to excite the software engineering community about new advances in our field through compelling demonstrations that help advance research and practice. The track is a highly interactive venue where researchers and practitioners can demonstrate their tools and discuss them with attendees.
+
+Tool-based demonstrations describe novel aspects of early prototypes or mature tools. The tool demonstrations must communicate clearly the following information to the audience:
+
+- the envisioned users;
+- the software engineering challenge it proposes to address;
+- the methodology it implies for its users; and
+- the results of validation studies already conducted for mature tools,
+- or the design of planned studies for early prototypes.
+
+Highlighting scientific contributions through concrete artifacts is a critical supplement to the traditional ASE research papers. A demonstration provides the opportunity to communicate how the scientific approach has been implemented or how a specific hypothesis has been assessed, including details such as implementation and usage issues, data models and representations, APIs for tool and data access. Authors of regular research papers are thus also encouraged to submit an accompanying demonstration paper, stating clearly the contributions of the tool paper over the research paper. The chairs will ensure that tool papers and research papers are not reviewed by the same people, to avoid revealing the authorship of research papers.
+
+EVALUATION
+
+Each submission will be reviewed by at least three members of the demonstrations selection committee.
+The evaluation criteria include:
+
+- the relevance of the proposed demonstration for the ASE audience;
+- the technical soundness of the demonstrated tool (for a tool demo);
+- the originality of its underlying ideas;
+- the quality of the optionally provided video, code, and datasets;
+- and the degree to which it considers the relevant literature.
+
+Tool demos that can demonstrate real-world applicability of the underlying ideas, e.g. by references to industrial case studies, will be particularly appreciated.
+
+SUBMISSION
+
+Submissions must conform to the ASE 2018 formatting and submission instructions. In particular, submissions of demonstrations papers must meet the following criteria:
+
+A demonstration submission must not exceed four pages (including all text, references, and figures). Authors are encouraged to submit a short video (between three and five minutes long) illustrating the demonstration. The video should be made available on YouTube at the time of submission. Videos should (i) provide an overview of the tool's capabilities; (ii) walk through (some of) the tool capabilities; (iii) where appropriate, provide clarifying voice-over and/or annotation highlights; and (iv) be engaging and exciting for the watcher!
+
+Authors are encouraged to make their code and datasets open source, and to provide a URL for the code and datasets with the submission.
+
+A submission must not have been previously published in a demonstration form and must not simultaneously be submitted to another symposium.
+
+Submissions for tool track will NOT follow double-blind review process.
+
+The paper submission must be in PDF.
+
+Papers must be submitted electronically through HotCRP (https://ase18tools.hotcrp.com) by May 31, 2018.
+
+At the end of the abstract, please append the URLs, if any, at which your demo video, code, and datasets can be found. Please note that for consistency, we require that ALL videos be uploaded to YouTube and made accessible during the time of reviewing. Authors of successful submissions will have the opportunity to revise the paper, the video (and its hosting location), the code, and the datasets by the camera-ready deadline.
+
+Submissions must conform to the ASE 2018 formatting guidelines. Submissions that do not comply with the instructions and size limits will be rejected without review.
+
+For further information, please email the Tool Demonstrations co-chairs.
+
+TOOL DEMONSTRATION CO-CHAIRS
+
+Julia Lawall, Inria/LIP6, France
+Darko Marinov, University of Illinois at Urbana-Champaign, USA
+
+
+=== DOCTORAL SYMPOSIUM ===============================================
+
+http://www.ase2018.com/?p=calls#symposium
+
+The goal of the ASE 2018 Doctoral Symposium is to provide a supportive yet questioning setting in which the Ph.D. students have an opportunity to present and discuss their research with other researchers in the ASE community. The symposium aims at providing students useful guidance and feedback on their research and to facilitate networking within the scientific community by interacting with established researchers and with their peers at a similar stage in their careers.
+
+The technical scope of the symposium is that of ASE. Students should consider participating in the Doctoral Symposium after they have settled on a dissertation topic with some initial research results. The ASE 2018 Doctoral Symposium is open to Ph.D. students at any stage of their research, whereby students at the initial stage (first or second year) will be able to challenge their ideas and current research directions, while students at a later stage (third or fourth year) will be able to present their preliminary results and get advice for improvement and for better exposition of their contributions and conclusions.
+
+EVALUATION
+
+The Doctoral Symposium Committee will select participants using the following criteria:
+
+- Quality of the research (plan) and its relevance to ASE;
+- Quality of the research abstract;
+- Diversity of background, research topics, and approaches.
+
+Students should not infer that a list of prior publications is in any way expected or required; we welcome submissions from students for whom this will be their first formal submission as well as those who have previously published.
+
+
+SUBMISSION
+
+To apply as a student participant in the ASE 2018 Doctoral Symposium, one should prepare a submission package consisting of two parts, both of which must be submitted by the submission deadline (see instructions below).
+
+All submissions must come in PDF format. The formatting is the same as the ASE research track.  
+
+
+Part 1: Research Abstract (max. 4 pages)
+
+The research abstract must conform to the ASE 2018 formatting and submission instructions and should cover all of the following:
+
+- The research problem with justification of its importance;
+- Discussion on previous work by submitter and others;
+- A sketch of the proposed approach or solution;
+- The expected contributions of the dissertation research;
+- Progress that has been made so far in solving the stated problem;
+- The methods that are or will be used to carry out the research;
+- A plan for evaluating the work and presenting credible evidence to the research community;
+- A list of publications (if any) of the submitter (appeared, accepted, submitted).
+
+Students at the initial stage of their research might have some difficulty in addressing some of these instructions, but should make the best attempt. The research abstract should include the title of the work, the submitter's name a one-paragraph summary in the style of an abstract for a regular paper, and a text body that covers the points above. A paper for a doctoral symposium typically describes the work of a single student and does not have any coauthors. During the submission process, the system will additionally ask for the name of the advisor(s), contact information, and a link to the submitter's academic web page.
+
+The deadline for submitting the research abstract is May 31, 2018; notifications are expected for July 3, 2018.
+
+Part 2: Letter of Recommendation
+
+In addition to the research abstract, a submitter must provide a letter for recommendation from their Ph.D. advisor. This letter should include the student's name and a candid assessment of the current status of the dissertation research and an expected date for dissertation submission. The recommendation letter should be in PDF, and sent to both doctoral suposium co-chairs (abdelhak.seriai@lirmm.fr and Virginie.Wiels@onera.fr)  with the subject "ASE 2018 DOCTORAL SYMPOSIUM RECOMMENDATION".
+
+
+ACCEPTANCE
+
+All authors of accepted contributions will receive further instructions for preparing their camera ready versions. Authors must register for the ASE 2018 Doctoral Symposium and present their work at the symposium.
+
+
+DOCTORAL SYMPOSIUM CO-CHAIRS
+
+Abdelhak-Djamel Seriai (abdelhak.seriai@lirmm.fr), University of Montpellier, France
+Virginie Wiels (Virginie.Wiels@onera.fr), The French Aerospace Lab ONERA, France
+
+
+=== WORKSHOPS ========================================================
+
+http://www.ase2018.com/?p=calls#workshops
+
+ASE 2018 is soliciting proposals for workshops to be held in conjunction with the main conference. A workshop should provide an opportunity for exchanging views, advancing ideas, and discussing preliminary results on topics related to Automated Software Engineering. Workshops may also serve as platforms to nurture new scientific communities. Workshops should not be seen as an alternative forum for presenting full research papers. The workshops co-located with the conference will be organized before the main conference.
+The organizers will decide the exact day after the proposals have been reviewed and accepted. A workshop may last one or two days.
+
+Workshop registration will be waived for one keynote speaker per workshop.
+
+SUBMISSION
+
+Proposals for organizing workshops should be written in English, limited to 4 pages (in IEEE format, following the formatting guidelines for the main track), and submitted in PDF to both workshop co-chairs Houari Sahraoui (sahraouh@iro.umontreal.ca) and Chouki Tibermacine (chouki.tibermacine@lirmm.fr) by e-mail.
+
+Workshop proposals should include the following information:
+
+- Theme and goals of the workshop including its relevance to the field of Automated Software Engineering.
+- Targeted audience and the expected number of participants (minimum and maximum).
+- Workshop format (e.g., paper presentations, breakout sessions, panel-like discussions, combination of formats).
+- The equipment, room capacity, and any other resource necessary for the organization of the workshop.
+- Publicity strategy, participant solicitation and selection process that will be used by the workshop organizers to promote the workshop.
+- Brief description of the organizer's background, including relevant past experience on organizing workshops and contact information.
+- Initial version of the call for papers that the workshop organizers intend to use.
+- Workshop dates, duration and any other scheduling constraints.
+
+Note that the workshop co-chairs will consider the preference of workshop dates specified by the organizers, but the acceptance of a workshop proposal does not guarantee adherence to the requested date/time. The workshop co-chairs will assume that workshop proposers will be able to run a workshop on the dates that ASE 2018 has reserved for workshops.
+
+Workshop proposals will be reviewed by the ASE 2018 workshop co-chairs. Acceptance will be based on an evaluation of the workshop's potential for generating useful results, the timeliness and expected interest in the topic, the organizer's ability to lead a successful workshop and the potential for attracting a sufficient number of participants.
+Accepted workshops must adhere to the common deadlines that will be listed for submissions of papers, acceptance of papers and preparation of proceedings. 
+
+WORKSHOP CO-CHAIRS
+
+Houari Sahraoui, Universite de Montreal, Canada
+Chouki Tibermacine, Universite de Montpellier, France
+
+
+=== TUTORIALS =======================================
+
+http://www.ase2018.com/?p=calls#tutorials
+
+Tutorials address a wide range of mature topics from theoretical foundations to practical techniques and tools for automated software engineering. The general chair and organizers will decide the exact dates after all proposals have been reviewed and accepted. Tutorials are intended to provide scientific background on themes relevant to ASE's research audience. 
+
+Instructors are invited to submit proposals for half-day and full-day tutorials and, upon selection, are required to provide tutorial notes on the topic of presentation in PDF. Tutorial proposals are limited to 5 pages (using any format, e.g., ACM or IEEE) and should be submitted in PDF over EasyChair (https://easychair.org/conferences/?conf=ase2018tutorials).
+
+SUBMISSION
+
+Proposal submissions should include the following information:
+
+- Name and affiliation of the proposer/organizer (including e-mail address);
+- Name and affiliation of each additional instructor;
+- Instructors' experience in the area, including other tutorials, courses, etc.;
+- Title, objective, abstract, and duration;
+- Outline with approximate timings;
+- Target audience, including the indication of level (novice, intermediate, expert);
+- Assumed background of attendees;
+- Brief biography of each instructor (for later inclusion in publicity materials);
+- History of the tutorial (if it has been already presented; provide location, approximate attendance, etc.);
+- Audio-visual and technical requirements;
+- Preferences for tutorial date, duration (half-day or full-day), and any other scheduling constraints, with justification for full day (if a full day is proposed).
+
+Proposals are due by April 30, 2018 and should be submitted over EasyChair (https://easychair.org/conferences/?conf=ase2018tutorials).
+
+Tutorial proposals will be reviewed by the ASE 2018 tutorial co-chairs Yamine Ait Ameur and David Delahaye. Acceptance will be based on the timeliness and expected interest in the topic and the potential for attracting a sufficient number of participants.
+
+
+ADVERTISEMENT MATERIAL FOR THE ASE 2018 WEB SITE
+
+The authors of accepted proposals must provide text so their tutorials can be advertised on the ASE web site. This text should include tutorial description and author information (picture, website link, and biodata).  We will include the text on the conference website. Text is due on May 28, 2018.
+
+
+TUTORIAL FINAL NOTIFICATION
+
+Tutorials with too few registered attendees may be canceled. Notification will be on July 16, 2018.
+All questions about submissions should be emailed to the tutorial co-chairs.
+
+
+TUTORIAL CO-CHAIRS
+
+Yamine Ait Ameur (yamine@enseeiht.fr), INPT-ENSEEIHT/IRIT, France
+David Delahaye (David.Delahaye@lirmm.fr), University of Montpellier, France
+
+======================================================================
+* On USING DATA from GITHUB and SELF-ARCHIVING *
+======================================================================
+
+If your research includes data obtained from GitHub, the GitHub Terms of Service require that "publications resulting from that research are open access".
+
+For this reason, ASE encourages the green open access availability of your paper, if accepted for publication.
+
+Green Open Access (also known as "self-archiving") means that you, as an author, archive a version of the paper yourself at your personal home page, at an institutional repository of your employer, or at an e-print server such as arXiv. To learn more about open access, please read the Green Open Access FAQ by Arie van Deursen.
+
+IMPORTANT: open access requirements for papers using GitHub data must be fulfilled upon acceptance, NOT BEFORE. This is because making the paper available before (e.g., on your website) would compromise the anonymity of the double-blind submission.
+
+
+=== ORGANIZATION =====================================================
+
+General Chair
+Marianne Huchard, University of Montpellier, France
+
+Program Chairs
+Christian Kastner, Carnegie Mellon University, USA
+Gordon Fraser, University of Sheffield, UK
+
+Program Committee (Research Track)
+Mathieu Acher, University of Rennes / IRISA
+Gul Agha, University of Illinois at Urbana-Champaign
+Nada Amin, University of Cambridge, UK
+Sven Apel, University of Passau
+Andrea Arcuri, Westerdals, and Uni. Luxembourg
+Alberto Bacchelli, University of Zurich
+Hamid Bagheri, University of Nebraska-Lincoln
+Earl T. Barr, University College London
+Jonathan Bell, George Mason University
+Thorsten Berger, Chalmers / University of Gothenburg
+Antonia Bertolino, CNR-ISTI
+Domenico Bianculli, University of Luxembourg
+Christian Bird, Microsoft Research
+Eric Bodden, Paderborn University & Fraunhofer IEM
+Tevfik Bultan, University of California, Santa Barbara
+Yuanfang Cai, Drexel University
+Yan Cai, Institute of Software, Chinese Academy of Sciences, China
+Jane Cleland-Huang, University of Notre Dame
+Myra Cohen, University of Nebraska-Lincoln
+Elisabetta Di Nitto, Politecnico di Milano
+Massimiliano Di Penta, University of Sannio, Italy
+Sebastian Erdweg, TU Delft
+Robert Feldt, Chalmers University of Technology, Sweden
+Antonio Filieri, Imperial College London
+Bernd Fischer, Stellenbosch University
+Juan P. Galeotti, Universidad de Buenos Aires
+Marie-Pierre Gervais, University Paris Nanterre & LIP6
+Milos Gligoric, The University of Texas at Austin
+Michael Goedicke, University of Duisburg-Essen / paluno
+Alessandra Gorla, IMDEA Software Institute
+Alex Groce, Northern Arizona University
+John Grundy, Deakin University
+Lars Grunske, Humboldt-Universitat zu Berlin
+Paul Grünbacher, Johannes Kepler University Linz, Austria
+Jianmei Guo, Alibaba Group
+Yann-Gael Gueheneuc, Concordia University
+Sonia Haiduc, Florida State University
+Robert J. Hall, AT&T Labs Research
+Dan Hao, Peking University
+Yue Jia, Facebook London & UCL
+Brittany Johnson, University of Massachusetts, Amherst
+Christine Julien, The University of Texas at Austin
+Rene Just, University of Massachusetts, Amherst
+Yasutaka Kamei, Kyushu University
+Aditya Kanade, Indian Institute of Science
+Nicholas A. Kraft, ABB Corporate Research
+Wei Le, Iowa State University
+Claire Le Goues, Carnegie Mellon University
+Yves Le Traon, University of Luxembourg
+Axel Legay, Inria
+Yang Liu, Nanyang Technological Unversity
+David Lo, Singapore Management University
+Shahar Maoz, Tel Aviv University
+Leonardo Mariani, University of Milano Bicocca
+Shane McIntosh, McGill University
+Na Meng, Virginia Tech
+Ana Milanova, Rensselaer Polytechnic Institute
+Mehdi Mirakhorli, Rochester Institute of Technology
+Audris Mockus, The University of Tennessee
+Laura Moreno, Colorado State University
+Sarah Nadi, University of Alberta
+Tien N. Nguyen, University of Texas at Dallas
+ThanhVu (Vu) Nguyen, University of Nebraska, Lincoln
+Klaus Ostermann, University of Tuebingen, Germany
+Chris Parnin, North Carolina State University
+Liliana Pasquale, University College Dublin & Lero
+Xin Peng, Fudan University
+John Penix, Google Inc., USA
+Andy Podgurski, Case Western Reserve University        
+Denys Poshyvanyk, College of William and Mary
+Michael Pradel, TU Darmstadt
+Mukul Prasad, Fujitsu Laboratories of America
+Baishakhi Ray, University of Virginia
+Romain Robbes, Free University of Bozen-Bolzano
+José Miguel Rojas, University of Leicester
+Roshanak Roshandel, Seattle University
+Abhik Roychoudhury, National University of Singapore
+Julia Rubin, University of British Columbia
+Neha Rungta, Amazon Web Services
+Anita Sarma, Oregon State University
+Federica Sarro, University College London
+Koushik Sen, UC Berkeley
+Elena Sherman, Boise State University
+Norbert Siegmund, Bauhaus-University Weimar
+Matt Staats,
+Kathryn Stolee, North Carolina State University
+Gabriele Taentzer, Philipps-Universitat Marburg
+Lin Tan, University of Waterloo
+Aditya V. Thakur, University of California, Davis
+Paolo Tonella, Fondazione Bruno Kessler
+Bogdan Vasilescu, Carnegie Mellon University
+Willem Visser, Stellenbosch University
+Michael Whalen, University of Minnesota
+Zhenchang Xing, Australian National University
+Yingfei Xiong, Peking University
+Shin Yoo, Korea Advanced Institute of Science and Technology
+Tingting Yu, University of Kentucky
+Lingming Zhang, The University of Texas at Dallas
+Charles Zhang, HKUST & SourceBrella
+Xiangyu Zhang, Purdue University
+Hongyu Zhang, The University of Newcastle
+Hao Zhong, Shanghai Jiao Tong University
+Lukasz Ziarek, SUNY at Buffalo
+Andrea Zisman, The Open University
+
+Journal-First Chair
+Bogdan Vasilescu, Carnegie Mellon University, USA
+
+Tool Demonstration Chairs
+Julia Lawall, Inria/LIP6, France
+Darko Marinov, University of Illinois at Urbana-Champaign, USA
+
+Tool Demonstration Local Chair
+Christophe Dony, University of Montpellier, France
+
+Workshop Chairs
+Houari Sahraoui, University of Montreal, Canada
+Chouki Tibermacine, University of Montpellier, France
+
+Doctoral Symposium Chairs
+Abdelhak-Djamel Seriai, University of Montpellier, France
+Virginie Wiels, Onera, France
+
+Tutorial Chairs
+Yamine Ait Ameur, INPT-ENSEEIHT/IRIT, France
+David Delahaye, University of Montpellier, France
+
+Publicity and Social Media Chairs
+Thomas Lambolais, IMT Mines Ales, France
+Christelle Urtado, IMT Mines Ales, France
+Jessie Carbonnel, University of Montpellier, France
+Alexandre Le Borgne, IMT Mines Ales, France
+
+Sponsorship Chair
+Anne-Lise Courbis, IMT Mines Ales, France
+
+Local Arrangements Chairs
+Elisabeth Greverie, University of Montpellier, France
+Marianne Huchard, University of Montpellier, France
+Christophe Dony, University of Montpellier, France
+
+Finance Chair / Treasurer
+Elisabeth Greverie, University of Montpellier, France
+
+Proceedings Chairs
+Clémentine Nebut, University of Montpellier, France
+Philippe Reitz, University of Montpellier, France
+Christelle Urtado, IMT Mines Ales, France
+
+Student Volunteer Chairs
+Hinde Bouziane, University of Montpellier, France
+Floréal Morandat, Enseirb-Matmeca, France
+
+Communication
+Virginie Fèche, University of Montpellier, France
+
+Photos
+Virginie Fèche, University of Montpellier, France
+Roland Ducournau, University of Montpellier, France
+
+Web Chairs
+Michel Meynard, University of Montpellier, France
+Sylvain Vauttier, IMT Mines Ales, France
+
+
+
+=== SOCIAL MEDIA =====================================================
+
+Twitter: @ASEConf2018
+Facebook: https://www.facebook.com/aseconf/

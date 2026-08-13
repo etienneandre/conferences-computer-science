@@ -1,0 +1,141 @@
+--------------------------------------------------------------------- 
+                        Call for Papers
+
+                           ICTAC 2021
+
+18th International Colloquium on Theoretical Aspects of Computing
+
+          Nur-Sultan, Kazakhstan, September 6-10, 2021            
+
+                  https://ictac2021.github.io/      
+
+---------------------------------------------------------------------
+
+** Hybrid or fully virtual event **
+** Springer LNCS proceedings and Theoretical Computer Science special issue **
+
+
+Important dates:
+
+Submission deadline: May 7, 2021, ** extended to May 14, 2021 (AoE) **
+Notification of acceptance: June 18, 2021
+ 
+
+Overview and Scope:
+
+The ICTAC conference series aims at bringing together researchers and
+practitioners from academia, industry and government to present research
+and exchange ideas and experience addressing challenges in both theoretical
+aspects of computing and the exploitation of theory through methods and
+tools for system development. ICTAC also aims to promote research
+cooperation between developing and industrial countries.
+
+The conference concerns all aspect of theoretical computer science,
+including, but not limited to:
+
+ * languages and automata
+ * semantics of programming languages
+ * logic in computer science
+ * lambda calculus, type theory and category theory
+ * domain-specific languages
+ * theories of concurrency and mobility
+ * theories of distributed computing
+ * models of objects and components
+ * coordination models
+ * timed, hybrid, embedded and cyber-physical systems
+ * security and privacy
+ * static analysis
+ * probabilistic and statistical verification
+ * software verification
+ * software testing
+ * runtime verification
+ * program generation and transformation
+ * model checking and theorem proving
+ * applications and case studies
+
+
+Call for Papers:
+
+We solicit submissions, related to the topics of ICTAC, in the
+following categories:  
+
+ * original research contributions (16 pages max, excluding references);
+ * applications and experiences (16 pages max, excluding references);
+ * short papers, with original work in progress or with proposals of new ideas
+    and emerging challenges (6 pages max, excluding references); and
+ * tool papers (6 pages max, excluding references). 
+
+All submissions must be original, unpublished, and not submitted concurrently
+for publication elsewhere. Paper submission is done via EasyChair at
+https://easychair.org/conferences/?conf=ictac2021. Papers must be
+formatted according to the guidelines for Springer LNCS papers
+(see http://www.springer.com/lncs), without modifications of margins
+and other space-saving measures.
+
+
+Publication:
+
+All accepted papers will appear in the proceedings of the conference
+that will be published as a volume in Springer's Lecture Notes in
+Computer Science (LNCS) series.
+
+The authors of a subset of accepted papers will be invited
+to submit extended versions of their papers to a special issue
+of the journal Theoretical Computer Science.
+
+
+Invited Speakers:
+
+Wil van der Aalst, RWTH Aachen University, Germany
+Alan Dix, Swansea University, UK
+Kim Larsen, Aalborg University, Denmark
+Grigore Rosu, University of Illinois at Urbana-Champaign, USA
+
+
+Program Chairs:
+
+Antonio Cerone, Nazarbayev University, Kazakhstan
+Peter Ölveczky, University of Oslo, Norway
+
+
+Program Committee:
+
+Erika Abraham, RWTH Aachen University, Germany
+Bernhard K. Aichernig, TU Graz, Austria
+Musab A. Alturki, Runtime Verification Inc., USA, and
+          King Fahd University of Petroleum and Minerals, Saudi Arabia
+Etienne Andre, Universite de Lorraine, France
+Ebru Aydin Gol, Middle East Technical University, Turkey
+Kyungmin Bae, POSTECH, Korea
+Maurice ter Beek, ISTI-CNR, Italy
+Dirk Beyer, LMU Munich, Germany
+Simon Bliudze, INRIA Lille, France
+Roberto Bruni, University of Pisa, Italy
+Antonio Cerone, Nazarbayev University, Kazakhstan
+Manuel Clavel, Vietnamese-German University, Vietnam
+Adrian Francalanza, University of Malta, Malta
+Rob van Glabbeek, Data61, CSIRO, Australia
+Sergey Goncharov, Friedrich-Alexander University Erlangen-Nürnberg, Germany
+Jan Friso Groote, Eindhoven University of Technology, The Netherlands
+Stefan Gruner, University of Pretoria, South Africa
+Osman Hasan, National University of Sciences and Technology, Pakistan
+Klaus Havelund, Jet Propulsion Laboratory, USA
+Kim Larsen, Aalborg University, Denmark
+Axel Legay, Universite catholique de Louvain, Belgium
+Martin Leucker, University of Lubeck, Germany
+Manuel Mazzara, Innopolis University, Russia
+Catherine Meadows, Naval Research Laboratory, USA
+Larissa Meinicke, The University of Queensland, Australia
+Hans de Nivelle, Nazarbayev University, Kazakhstan
+Kazuhiro Ogata, JAIST, Japan
+Peter Ölveczky, University of Oslo, Norway
+Catuscia Palamidessi, Inria, France
+Elaine Pimentel, Federal University of Rio Grande do Norte, Brazil
+Jose Proenca, Polytechnic Institute of Porto, Portugal
+Riadh Robbana, INSAT, Carthage University, Tunisia
+Gwen Salaun, University Grenoble Alpes, France
+Davide Sangiorgi, University of Bologna, Italy, and INRIA, France
+Lutz Schröder, Friedrich-Alexander University Erlangen-Nürnberg, Germany
+Volker Stolz, Western Norway University of Applied Sciences, Norway
+Georg Struth, The University of Sheffield, UK
+

@@ -25,3 +25,7 @@ rate = 38.0
 
 [extra]
 notes = "Warning: all deadlines are UTC. The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Almost always in China (except once in UK and once in Taiwan)."
+
+[[cfp]]
+file = "cfp/TASE-2018.txt"
+stage = "initial"

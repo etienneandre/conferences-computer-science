@@ -1,0 +1,71 @@
+===============================================================================
+LPAR 2026: The 26th Conference on
+Logic for Programming, Artificial Intelligence and Reasoning
+
+Spetses, Greece
+25-30 October 2026
+===============================================================================
+Conference website:  https://lpar-26.info
+Submission link:     https://easychair.org/conferences/?conf=lpar2026
+Conference program:  https://easychair.org/smart-program/LPAR-26/
+===============================================================================
+Abstract deadline:   3 June 2026
+Submission deadline: 17 June 2026
+===============================================================================
+The International Conference on Logic for Programming, Artificial Intelligence
+and Reasoning (LPAR) is an academic conference aimed at discussing cutting-edge
+results in the fields of automated reasoning, computational logic, programming
+languages and their applications. Papers from previous proceedings are listed
+in DBLP. LPAR's slogan is "To boldly go where no reasonable conference has gone
+before". LPAR brings first class research and researchers to interesting
+places, and exposes the conference attendees to interesting cultures. The 26th
+International Conference on Logic for Programming Artificial Intelligence and
+Reasoning (LPAR-26) will be held on Spetses, Greece, 25-30 October 2026. The
+proceedings of LPAR-26 will be published by EasyChair, in the EPiC Series in
+Computing.
+===============================================================================
+Call for Papers
+
+Submission Guidelines
+All papers must be original and not simultaneously submitted to another journal
+or conference. The following paper categories are welcome:
+* Regular papers describing solid new research results. They can be up to 15
+pages long in EasyChair style, including figures but excluding references and
+appendices (that reviewers are not required to read). Where applicable, regular
+papers are supported by experimental validation.
+* Experimental and tool papers describing implementations of systems, reporting
+experiments with implemented systems, or comparing implemented systems. They
+can be up to 8 pages long in in EasyChair style, including figures but
+excluding references and appendices (that reviewers are not required to read).
+Experimental and tool papers should be supported by a link to the artifact/
+experimental evaluation available to the reviewers.
+
+The EasyChair style files are avbailable from:
+https://easychair.org/publications/for_authors
+Both types of papers must be electronically submitted in PDF via EasyChair:
+https://easychair.org/conferences/?conf=lpar2026
+The review process is single blind. Authors of accepted papers are required to
+ensure that at least one of them will be present at the conference.
+
+Topics
+New results in the fields of computational logic and applications are welcome.
+Also welcome are more exploratory presentations, which may examine open
+questions and raise fundamental concerns about existing theories and practices.
+Topics of interest include, but are not limited to: Abduction, Answer set
+programming, Automated reasoning, Constraint programming, Computational proof
+theory, Decision procedures, Description logics, Formalizing mathematics,
+Foundations of security, Hardware verification, Implementations of logic,
+Interpolation, Interactive theorem proving, Knowledge representation and
+reasoning, Logic and computational complexity, Logic and databases, Logic and
+games, Logic and language models, Logic and machine learning, Logic and the
+web, Logic and types, Logic in artificial intelligence, Logic programming,
+Logical foundations of programming, Logics of knowledge and belief, Modal and
+temporal logics, Model checking, Non-monotonic reasoning, Ontologies and large
+knowledge bases, Probabilistic and fuzzy reasoning, Program analysis,
+Rewriting, Satisfiability checking, Satisfiability modulo theories, Software
+verification, Unification theory.
+
+LPAR steering committee
+Nikolaj Bjorner Microsoft Research
+Andrei Voronkov The University of Manchester
+Geoff Sutcliffe University of Miami

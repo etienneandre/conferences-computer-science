@@ -1,0 +1,222 @@
+CMSB 2019: 17th International Conference on Computational Methods in Systems Biology
+
+First Call for Contributions 	
+
+https://cmsb2019.units.it/
+
+
+The 17th conference on Computational Methods in Systems Biology (CMSB 2019) will take place from 18th to 20th September 2019 in Trieste, Italy. Its aim is to bring together researchers from across biological, mathematical, computational, and physical sciences who are interested in the study, modelling, simulation, advanced analysis, and design of biological systems. CMSB 2019 will be hosted at the University of Trieste.
+
+INVITED SPEAKERS
+
+Benenson Kobi, synthetic biology group, ETH Zurich, CH
+
+Adelinde Uhrmacher, Modelling and Simulation Group, Rostock University, DE 
+
+Other invited speakers will be announced soon.
+
+IMPORTANT DATES
+
+All deadlines are AOE (Anywhere on Earth).
+Paper submission:
+	
+10.4.2019
+Author notification:
+	
+5.6.2019
+Final version:
+	
+21.6.2019
+Presentation and poster abstract submission:
+	
+28.6.2019
+
+TOPICS OF INTEREST
+CMSB 2019 solicits original research articles, tool papers, posters, and presentations on the modelling and analysis of biological systems and networks as well as the analysis of biological data. The conference brings together computer scientists, biologists, mathematicians, engineers, and physicists interested in a system-level understanding of biological processes. It covers the broad field of computational methods and tools in systems and synthetic biology and their applications.
+
+Topics of interest include, but are not limited to:
+- formalisms for modelling biological processes
+- models, methods, tools and their biological applications
+- frameworks for model verification, validation, analysis, and simulation of biological systems
+- high-performance methods for computational systems biology 
+- parameter and model inference from experimental data
+- automated parameter and model synthesis 
+- model integration and biological databases
+- multi-scale modelling and analysis methods
+- design, analysis, and verification methods for synthetic biology
+- methods for biomolecular computing and engineered molecular devices
+- theoretical systems biology 
+- data-based approaches for systems and synthetic biology
+
+In general, the conference is open to new theoretical results with potential applications to systems and synthetic biology, as well as novel applications and case studies of existing methods, tools, or frameworks.
+The CMSB 2019 proceedings will be published in the Springer LNCS series and indexed by ISI Web of Science, Scopus, ACM Digital Library, DBLP, and Google Scholar. 
+
+A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal. 
+
+Contributions should be submitted to one of the following categories:
+A) Regular papers
+B) Tool papers
+C) Posters
+D) Presentations
+
+A) CALL FOR REGULAR PAPERS
+Regular papers should describe original work that has not been previously published and is not under review for publication elsewhere. The papers should not exceed 15 pages in Springer LNCS style, not counting references and well-marked appendices. 
+
+B) CALL FOR TOOL PAPERS
+Tool papers should present new tools or public websites, new tool components or novel extensions to existing tools or websites supporting the modelling, specification and analysis of biological systems. Each submission should be original and not previously published in a tool paper form. The papers should not exceed 6 pages in Springer LNCS style including references, but not counting well-marked appendices. The papers must include information on methods, tool availability, and selected experimental results. Tool papers are required to be submitted together with an artefact by the submission deadline (for details see the guidelines – https://cmsb2019.units.it/?page_id=219).  
+
+Artefacts will be evaluated by the tool evaluation committee in parallel with the review procedure. The program committee will have access to the tool artefact evaluation while making their decision.  
+
+In special cases, where an artefact cannot be submitted, the authors are suggested to contact the program chairs to find alternate modes of evaluation. Apart of the presentation, accepted tool papers will be encouraged to include a showcase/running demo during the tool demo session.
+
+C) CALL FOR POSTERS
+CMSB 2018 solicits poster abstracts presenting I) original unpublished work and II) recent outstanding results already accepted to a recognised journal or a high-quality conference during the last year. The abstracts should be submitted in Springer LNCS style and should not exceed 2 pages including references. Based on the abstracts the program committee will select posters to be presented at the CMSB 2018 poster session including flash presentations. 
+
+D) CALL FOR PRESENTATIONS
+
+CMSB 2018 offers the track of oral presentations without full paper or poster submission. We welcome submissions of work that has been already published in a journal, or that is currently under review or will soon be submitted. The abstracts summarizing the results and their relevance should not exceed 2 pages including references. The document format must be single spaced and written in an 11 point type font.
+
+SUBMISSION INFORMATION
+
+All papers and poster/presentation abstracts have to be written in English and submitted electronically using the EasyChair online submission system (https://easychair.org/conferences/?conf=cmsb2019) in the form of a PDF file.  Each submission will be reviewed by at least three reviewers. The reviewers are not required to read the appendices and thus the submissions must be intelligible without them.
+
+All accepted contributions must be presented at the conference by one of the authors.
+
+PROGRAM COMMITTEE CHAIRS`
+
+Luca Bortolussi, University of Trieste, IT
+
+Guido Sanguinetti, University of Edinburgh, UK
+
+PROGRAM COMMITTEE
+Alessandro Abate, University of Oxford, UK
+
+Ezio Bartocci, Vienna University of Technology, AT
+
+Nikola Beneš, Masaryk University, CZ
+
+Luca Bortolussi, University of Trieste, IT (co-chair)
+
+Giulio Caravagna, Institute of Cancer Research London, UK
+
+Luca Cardelli, University of Oxford, UK 
+
+Milan Češka, Brno University of Technology, CZ 
+
+Claudine Chaouiya, Instituto Gulbenkian de Ciência, PT
+
+Eugenio Cinquemani, IBIS – INRIA, Grenoble, FR
+
+Thao Dang, VERIMAG/CNRS, Grenoble, FR
+
+Hidde de Jong, IBIS – INRIA, Grenoble FR
+
+François Fages, INRIA Saclay Île-de-France, FR
+
+Jérôme Feret, INRIA, Paris, FR
+
+Jasmin Fisher, Microsoft Research Cambridge, UK
+
+Christoph Flamm, University of Vienna, AT
+
+Elisa Franco, University of California at Riverside, USA
+
+Tomáš Gedeon, Montana State University, US
+
+Monika	Heiner, Brandenburg Technical University Cottbus-Senftenberg, DE
+
+Jane Hillston, The University of Edinburgh, UK
+
+Heinz Köppl, Technische Universität Darmstadt, DE
+
+Jean Krivine, IRIF, Paris Diderot University, FR
+
+Tommaso Mazza, RCCS Casa Sollievo della Sofferenza – Mendel, IT
+
+Laura Nenzi, Vienna University of Technology, AT
+
+Marco Nobile - University of Milano-Bicocca, IT
+
+Diego Oyarzún - Imperial College London, UK
+
+Nicola Paoletti, Stony Brook University, USA
+
+Loïc Paulevé, CNRS/LRI, FR
+
+Ion Petre, Åbo Akademi Turku, FI
+
+Tatjana	Petrov, Universität Konstanz, DE 
+
+Carla Piazza, University of Udine, IT
+
+Ovidiu Radulescu, University of Montpellier 2, FR
+
+Olivier Roux, Ecole Centrale Nantes, FR
+
+Jakob Ruess - Institute Pasteur Paris, FR
+
+Guido Sanguinetti, The University of Edinburgh, UK (co-chair)
+
+Thomas Sauter, University of Luxembourg, LU
+
+Abhyudai Singh, University of Delaware, US
+
+David Šafránek, Masaryk University, CZ
+
+Carolyn Talcott, SRI International, US
+
+P.S. Thiagarajan, Harvard University, US
+
+Adelinde Uhrmacher, University of Rostock, DE
+
+Stefanie Winkelmann - Zuse Institut Berlin, DE
+
+Verena Wolf, Saarland University, DE
+
+Boyan Yordanov – Microsoft Research, UK
+
+Paolo Zuliani, Newcastle University, UK
+
+TOOL EVALUATION COMMITTEE
+
+Dimitrios Milios, Eurecom, FR (chair)
+
+Simone Silvetti, Esteco SpA, IT
+
+LOCAL ORGANIZATION CHAIRS
+
+Luca Bortolussi - University of Trieste (Italy)
+
+Laura Nenzi - University of Trieste (Italy)
+
+LOCAL ORGANIZATION COMMITTEE
+
+Luca Bortolussi - University of Trieste (Italy)
+
+Francesca Cairoli - University of Trieste (Italy)
+
+Simone Silvetti - Esteco SpA (Trieste)
+
+Laura Nenzi - University of Trieste (Italy)
+
+STEERING COMMITTEE
+
+Finn Drablos, NTNU, NO
+
+François Fages, INRIA Saclay Île-de-France, FR
+
+David Harel, Weizmann Institute of Science, IL
+
+Monika Heiner, Brandenburg Technical University Cottbus-Senftenberg, DE
+
+Tommaso Mazza, RCCS Casa Sollievo della Sofferenza – Mendel, IT
+
+Satoru Miyano, The University of Tokyo, JP
+
+Gordon Plotkin, The University of Edinburgh, UK
+
+Corrado Priami, University of Pisa, IT
+
+Carolyn Talcott, SRI International, US
+
+Adelinde Uhrmacher, University of Rostock, DE

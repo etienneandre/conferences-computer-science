@@ -1,0 +1,166 @@
+                           CALL FOR PAPERS
+
+=====================================================================
+
+      33rd Euromicro Conference on Real-Time Systems (ECRTS'21)
+
+
+           July 7-9, 2021 | Virtual Conference | ecrts.org
+
+
+          Submission deadline: March 3, 2021 (23:59 UTC-12)
+
+=====================================================================
+
+ECRTS is the premier European venue in the area of real-time systems
+and, alongside RTSS and RTAS, ranks as one of the top three
+international conferences on this topic.
+
+Owing to the uncertain pandemic outlook, ECRTS 2021 will be held
+online as a virtual conference on July 7-9, 2021.
+
+New in 2021: no more hard page limit! See submission information
+below.
+
+New in 2021: double-blind peer reviewing. See submission information
+below.
+
+=====================================================================
+
+SCOPE AND TOPICS OF INTEREST
+
+Papers on all aspects of timing requirements in computer systems are
+welcome. Systems of interest include not only hard real-time systems,
+but also time-sensitive systems in general (with soft requirements
+expressed in terms of tail latency, latency SLAs, QoS expectations,
+etc.). Typical applications are found not only in classical embedded
+and cyber-physical systems, but also increasingly in cloud or edge
+computing contexts, and often stem from domains such as automotive,
+avionics, telecommunications, healthcare, robotics, and space
+systems, among others. To be in scope, papers must address some form
+of timing requirement, broadly construed.
+
+ECRTS welcomes theoretical and practical contributions (including
+tools, benchmarks, and case studies) to the state of the art in the
+design, implementation, verification, and validation of
+time-sensitive systems. 
+
+In recent years, papers presented at ECRTS have addressed:
+
+- all elements of time-sensitive COMPUTER SYSTEMS, including operating
+  systems, hypervisors, middlewares and frameworks, programming
+  languages and compilers, runtime environments, networks and
+  communication protocols, FPGAs, time-predictable processors and memory
+  controllers, etc.;
+
+- static and dynamic techniques for RESOURCE DEMAND ESTIMATION,
+  including stochastic and classic worst-case execution time (WCET)
+  analysis, analyses to bound memory and bandwidth needs, and methods
+  for determining the energy, power, or thermal footprint of real-time
+  applications;
+  
+- FORMAL METHODS for the verification and validation of real-time
+  systems, including model checking, computer-assisted proofs, and
+  runtime monitoring systems; 
+
+- the interplay of timing predictability and other NON-FUNCTIONAL
+  QUALITIES such as reliability, security, quality of control,
+  energy/power consumption, environmental impact, testability,
+  scalability, etc.;
+  
+- foundational SCHEDULING and PREDICTABILITY questions, including
+  schedulability analysis, algorithm design, locking and non-blocking
+  synchronization protocols, computational complexity, temporal
+  isolation, probabilistic guarantees, etc.; and
+  
+- last but not least, emerging topics such as the use of MACHINE
+  LEARNING techniques in safety-critical systems.
+
+The above list of topics is intended only as coarse summary of recent
+proceedings and should not be understood as an exclusive list of
+interests. To the contrary, papers breaking new ground, departing
+from established subfields, or challenging the status quo are most
+welcome and highly encouraged.
+
+The models, assumptions, and application scenarios upon which papers
+build must be properly motivated. Whenever relevant, we strongly
+encourage authors to present experimental results (preferably based
+on real data, but synthetic test cases are acceptable) and/or to
+demonstrate applicability of their approach to real systems (examples
+can be found at ecrts.org/industrialchallenge). We encourage
+open-source initiatives and computer-assisted proofs in order to
+increase confidence in practical and theoretical results and to
+improve their reusability.
+
+=====================================================================
+
+PAPER SUBMISSION
+
+New in 2021: no more hard page limit! We believe that scientists
+should focus on the content of their papers, rather than worry about
+formatting tricks and layout micro-optimizations to squeeze the last
+few paragraphs under a given hard page limit. ECRTS 2021 therefore
+adopts a FLEXIBLE PAGE LIMIT with an expected length of 15 pages of
+technical content (including any appendices, excluding references and
+the title page) and the option to use additional pages when needed.
+To be clear, concision is a hallmark of good academic writing, and
+authors are still expected to make every effort to keep their
+conference papers as brief as possible to best serve readers. The
+flexible page limit is intended to take the stress out of the last
+couple of sentences spilling onto an extra page, not to invite
+excessive amounts of content that clearly exceed the limits of a
+conference paper. See the submission page for more detailed rules.
+
+Double-blind reviewing (new in 2021): In the interest of maximizing
+fairness and the meritocratic nature of the evaluation process,
+ECRTS'21 will follow a double-blind peer reviewing process. Authors
+will submit blinded manuscripts (that do not reveal author identity
+or affiliation) and reviewers will not be made aware of author
+identities until after acceptance/rejection decisions have been made.
+Papers not selected by the program committee for (conditional)
+acceptance will not be de-blinded.
+
+Open access: We believe that a conference serves the research
+community and the public best when results are accessible to the
+largest audience without restrictions. All accepted papers will be
+published again this year as an open-access proceedings in
+collaboration with LIPIcs (Leibniz International Proceedings in
+Informatics). 
+
+Artifact evaluation: To improve reproducibility of results and to
+encourage reuse, authors of accepted papers with a computational
+component will be invited to submit their code and/or their data to
+an optional artifact evaluation process.
+
+Every accepted paper must be presented by one of the authors at the
+virtual conference. 
+
+=====================================================================
+
+IMPORTANT DATES
+
+ Submission deadline:     March 3, 2021 (23:59 UTC-12) - firm
+ Notification:           April 22, 2021
+ Camera-ready deadline:     May 6, 2021 - firm
+ Conference:             July 7-9, 2020
+
+=====================================================================
+
+ORGANIZERS
+
+General Chair
+  Marcus Völp, SnT, University of Luxembourg, Luxembourg
+
+Program Chair
+  Björn Brandenburg, Max Planck Institute for Software Systems (MPI-SWS), Germany
+ 
+Program Committee
+
+TBA
+
+=====================================================================
+
+To receive more information about ECRTS, please subscribe to the
+ecrts-info mailing list at:
+
+      https://www.ecrts.org/mailman/listinfo/ecrts-info

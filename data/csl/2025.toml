@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Helena Rasiowa Award for the best student paper."
+
+[[cfp]]
+file = "cfp/CSL-2025.txt"
+stage = "initial"

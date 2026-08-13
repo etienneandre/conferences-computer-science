@@ -1,0 +1,165 @@
+-------------------------------------------------------------------------------
+CALL FOR PAPERS (EXTENDED DEADLINE)
+
+TIME 2018 
+
+25th International Symposium on Temporal Representation and Reasoning
+
+Warsaw (Poland), 15-17 October 2018
+
+Call for Papers
+
+https://time2018.ipipan.waw.pl/
+
+-------------------------------------------------------------------------------
+
+
+Aims and scope
+--------------------
+
+TIME 2018 aims to bring together researchers interested in reasoning about temporal aspects of information in any area of Computer Science. The symposium, currently in its 25th edition, has a wide remit and intends to cater to both theoretical aspects and well-founded applications. One of the key aspects of the symposium is its interdisciplinarity, with attendees from distinct areas such as artificial intelligence, database management, logic and verification, and beyond. The symposium will encompass four tracks on temporal representation and reasoning in (1) Artificial Intelligence, (2) Databases (3) Logic and Verification, and (4) New areas and Applications.
+
+The Artificial Intelligence track includes, but is not limited to:
+
+- temporal aspects of agent- and policy-based systems
+- spatial and temporal reasoning
+- reasoning about actions and change
+- planning and planning languages
+- ontologies of time and space-time
+- belief and uncertainty in temporal knowledge
+- temporal learning and discovery
+- time in problem solving (e.g. diagnosis, scheduling)
+- time in human-machine interaction
+- temporal information extraction
+- time in natural language processing
+- spatio-temporal knowledge representation systems
+- spatio-temporal ontologies for the semantic web
+- constraint-based temporal reasoning
+- temporal preferences
+
+The Database track includes, but is not limited to:
+
+- temporal data models and query languages
+- temporal query processing and indexing
+- temporal data mining
+- time series data management
+- stream data management
+- spatio-temporal data management, including moving objects
+- data currency and expiration
+- indeterminate and imprecise temporal data
+- temporal constraints
+- temporal aspects of business processes and ECA systems
+- real-time databases
+- time-dependent security policies
+- privacy in temporal and spatio-temporal data
+- temporal aspects of multimedia databases
+- temporal aspects of e-services and web applications
+- temporal aspects of distributed systems
+- temporal aspects and big data
+- temporal aspects in NoSQL databases
+- temporal data warehouses
+- time series analysis and mining
+- semi-structured temporal data
+- visualizations and interfaces for temporal data
+
+The Logic and Verification track includes, but is not limited to:
+
+- specification and verification of systems
+- verification of web applications
+- synthesis and execution
+- model-checking algorithms and implementations
+- verification of infinite-state systems
+- reasoning about transition systems
+- temporal architectures
+- temporal logics for distributed systems
+- temporal logics for games and open systems
+- temporal logics of knowledge
+- hybrid systems and real-time logics
+- cyber-physical systems
+- tools and practical systems
+- temporal issues in security
+
+The New areas and Application track includes, but is not limited to:
+
+- applications of temporal data and temporal reasoning
+- temporal information retrieval
+- temporal recommendation systems
+- applications of temporal database management
+
+
+
+
+
+
+
+Submission and publication
+---------------------------------
+Submissions of high-quality papers describing research results are solicited. Submitted papers should contain original, previously unpublished content, should be written in English, and must not be simultaneously submitted for publication elsewhere. Submitted papers will be refereed for quality,  correctness, originality, and relevance.
+
+Detailed submission instructions can be found on the website:
+
+http://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/
+       
+The submissions must not exceed 15 pages excluding references and appendix. The appendix is optional and must not exceed 5 pages. The papers  must be submitted to the EasyChair site at  https://easychair.org/conferences/?conf=time2018
+
+Accepted papers will be presented at the symposium and included in the proceedings, which will be published by LIPIcs-Leibniz International Proceedings in Informatics, which is a series of high-quality peer-reviewed conference proceedings, published according to the principle of OpenAccess.  At least one author of each accepted paper must register at the conference and present the paper.
+
+Authors of selected papers will be invited to submit an extended version of their contribution to a special issue of some high quality journal.
+
+Important Dates
+--------------------
+Abstracts due:             (extended deadline)    May 14, 2018
+Full papers due:           (extended deadline)   May 21, 2018
+Notification:                   June 26, 2018
+Final version due:           July 13, 2018
+Symposium:                   October 15-17, 2018	
+
+
+Program Committee Chairs
+---------------------------------
+Natasha Alechina, University of Nottingham, UK
+Kjetil Norvag, Norwegian University of Science and Technology, Norway
+Wojciech Penczek, Institute of Computer Science, PAS, Warsaw, Poland
+
+
+Program Committee 
+------------------------
+
+Patricia Bouyer-Decitre (ENS Cachan, Paris, France)
+Christos Doulkeridis (University of Piraeus, Greece)
+Rajeev Gore (Australian National University, Australia)
+Fabio Grandi (University of Bologna, Italy)
+Keijo Heljanko (Aalto University, Finland)
+Adam Jatowt (Kyoto University, Japan)
+Marcin Jurdzinski (University of Warwick, UK)
+Roman Kontchakov (Birkbeck, University of London, UK)          
+Martin Lange (University of Kassel, Germany)
+Francois Laroussinie (LIAFA, Univ. Paris 7, CNRS, France)
+Aniello Murano (University of Napoli "Federico II", Italy)
+Eirini Ntoutsi (Leibniz University of Hanover, Germany)
+Doron Peled (Bar Ilan University, Israel)
+R. Ramanujam (Institute of Mathematical Sciences, Chennai, India)
+Peter Z. Revesz (University of Nebraska-Lincoln, USA) 
+Mark Reynolds (University of Western Australia, Australia)
+Renate A. Schmidt (University of Manchester, UK)
+Sven Schewe (University of Liverpool, UK)
+Kostas Stefanidis (University of Tampere, Finland)
+Andrzej Szalas (Warsaw University, Poland, and University of Linkoping, Sweden)
+Kristian Torp (Aalborg University, Denmark)
+Christoph Trattner (University of Bergen, Norway)
+Bozena Wozna-Szczesniak (Jan Dlugosz University, Czestochowa, Poland)
+
+
+
+
+Invited Speakers
+--------------------
+Stephane Demri, LSV, CNRS & ENS de Cachan, France
+Johann Gamper, Free University of Bozen-Bolzano, Italy
+Wojciech Jamroga, Institute of Computer Science, PAS, Warsaw, Poland
+
+Venue
+---------
+
+TIME 2018 will take place in Warsaw, a beautiful city, which is the capital of Poland.
+

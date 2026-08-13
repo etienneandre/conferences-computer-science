@@ -1,0 +1,170 @@
+========================================================
+ICALP 2027 Track B - First Call for Papers (First Round)
+https://icalp.uj.edu.pl/track-b/
+========================================================
+
+The 54th EATCS International Colloquium on Automata, Languages, and Programming
+(ICALP) will take place in:
+
+Kraków, Poland, July 5-9, 2027
+
+ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be collocated with a series of workshops.
+
+The 2027 edition has the following features:
+
+- Submissions are anonymous; for track B, there is a rebuttal phase.
+- For the first time, Track B will be using a two-round submission process. A paper can be submitted to one out of two submission deadlines, but not to both. (Track A has only one round.)
+- The conference is planned as a physical, in-person event.
+
+========================================================
+Important dates and information (for Track B)
+========================================================
+
+First round (for Track B only)
+--------------------------------------
+Submissions: September 15, 2026 (anywhere on earth)
+Rebuttal: 5-9 November, 2026
+Author notification: 8 December 2026
+
+Second round for Track B (and the only round for Track A)
+-----------------------------------------------------------------------------
+Submissions: TBA
+Rebuttal: TBA
+Author notification: TBA
+
+Camera-ready version: TBA
+Early registration: TBA
+Conference: July 5-9, 2027
+
+Deadlines are firm; late submissions will not be considered.
+Conference website: https://icalp.uj.edu.pl/home/#home
+
+========================================================
+Submission guidelines (for Track B)
+========================================================
+
+1) Papers must present original research on the theory of computer science. No prior publication and no simultaneous submission to other publication outlets (either a conference or a journal) is allowed. Authors are encouraged to also make full versions of their submissions freely accessible in an on-line repository such as aArXiv, HAL, ECCC.
+
+2) Submissions should start with a title page consisting of the title of the paper, no author information (see below), and an abstract. There is no page limit and authors are encouraged to use the “full version” of their paper as the submission. The submission should contain, within the initial ten pages following the title page, a clear presentation of the merits of the paper, its main contributions, and key concepts and technical ideas used to obtain the results. Submissions must provide proofs that allow the verification of the mathematical claims of the paper. Although there is no bound on the length of a submission, material other than the abstract, references, and the first ten pages will be read at the committee’s discretion. The submission should be typeset using readable fonts (e.g. 11-point), in a single-column format with ample spacing throughout (e.g. single-space between lines and 1-inch margins all around). The use of the LIPIcs document class is recommended.
+
+3) Submissions are anonymous. The conference will employ a lightweight double-blind reviewing process. Submissions should not reveal the identity of the authors in any way. Authors should ensure that any references to their own related work are in the third person (e.g., not “We build on our previous work…” but rather “We build on the work of …”).
+
+The purpose of this double-blind process is to help PC members and external reviewers come to an initial judgment about the paper without bias, and not to make it impossible for them to discover who the authors are if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For example, authors may post drafts of their papers on the web, submit them to arXiv, and give talks on their research ideas.
+
+4) Submissions authored or co-authored by members of the program committee are allowed.
+
+5) The submissions are done via HotCRP to the appropriate track of the conference. The use of pdflatex or similar pdf generating tools is mandatory. Papers that deviate significantly from these requirements risk rejection without consideration of merit.
+
+6) For Track B, the authors will have the opportunity to view and respond to initial reviews. Further instructions will be sent to authors of submitted papers before that time.
+
+7) At least one author of each accepted paper is expected to register for the conference, and all talks are in-person. In exceptional cases, alternative arrangements may be considered by the program co-chairs.
+
+8) Papers authored only by students should be marked as such upon submission in order to be eligible for the best student paper awards of the track.
+
+9) For Track B, we use a two-round submission process. A paper may be submitted to one out of two submission deadlines, but not to both. The decision for the first round is final (no “carry over” to the second round); if a paper is rejected then, it cannot be resubmitted to the second round. (Note that Track A has only one round.)
+
+========================================================
+Use of Artificial Intelligence (AI)
+========================================================
+
+1) Use of AI tools for conducting research must be disclosed in a submitted paper, with their specific uses described in detail. Such uses include the design of the research project, creation of theories and algorithms, designing experiments, generation and collection of data, coding, data analysis, testing, assisting with writing, or any aspects that are directly relevant to the conclusion of the research.
+
+2) All named authors on a submission will be held responsible and accountable for any content contained in the submission, regardless of its source.
+
+3) PC members and subreferees must preserve confidentiality of the submitted material; in particular, it should not be passed to external AI tools.
+
+========================================================
+Proceedings
+========================================================
+
+ICALP proceedings are published in the Leibniz International Proceedings in Informatics (LIPIcs) series. This is a series of high-quality conference proceedings across all fields in informatics established in cooperation with Schloss Dagstuhl – Leibniz Center for Informatics.
+LIPIcs volumes are published according to the principle of Open Access, i.e., they are available online and free of charge. The accepted papers will need to comply with the LIPIcs style.
+
+========================================================
+Topics
+========================================================
+
+Papers presenting original research on all aspects of theoretical computer science are sought. Typical, but not exclusive, topics of interest are:
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+----------------------------------------------------------------------------------------
+Algebraic and Categorical Models of Computation
+Automata, Logic, and Games
+Database Theory, Constraint Satisfaction Problems, and Finite Model Theory
+Formal and Logical Aspects of Learning
+Formal and Logical Aspects of Security and Privacy
+Logic in Computer Science and Theorem Proving
+Models of Computation: Complexity and Computability
+Models of Concurrent, Distributed, and Mobile Systems
+Models of Reactive, Hybrid, and Stochastic Systems
+Principles and Semantics of Programming Languages
+Program Analysis, Verification, and Synthesis
+Type Systems and Typed Calculi
+
+========================================================
+ICALP 2027 Programme Committee
+========================================================
+
+Track A: Algorithms, Complexity and Games
+-----------------------------------------------------------
+Saket Saurabh (Institute of Mathematical Sciences, Chennai), Co-Chair Jukka Suomela (Aalto University), Co-Chair
+(Other members TBA)
+
+Track B: Automata, Logic, Semantics, and Theory of Programming
+----------------------------------------------------------------------------------------
+Erika Abraham, RWTH Aachen University, Germany
+S. Akshay, Indian Institute of Technology Bombay, India
+Shaull Almagor, Technion, Israel
+Albert Atserias, Universitat Politècnica de Catalunya, Spain
+Miriam Backens, Inria & Loria, France
+Libor Barto, Charles University, Czechia
+Valerie Berthe, CNRS, France
+Manuel Bodirsky (Track Co-chair), TU Dresden, Germany
+Filippo Bonchi, University of Pisa, Italy
+Samuel Braunfeld, Czech Academy of Sciences, Czechia
+Lorenzo Clemente, University of Warsaw, Poland
+Wojciech Czerwiński, University of Warsaw, Poland
+Josée Desharnais, Université Laval, Canada
+Nathanaël Fijalkow, CNRS, LaBRI, Bordeaux, France
+Bernd Finkbeiner, CISPA Helmholtz Center for Information Security and Technical University of Munich, Germany
+Sergey Goncharov, University of Birmingham, UK
+Ichiro Hasuo (Track Co-chair), National Institute of Informatics, Japan
+Shih-Han Hung, National Taiwan University, Taiwan
+Cezary Kaliszyk, University of Melbourne, Australia
+Benjamin Kaminski, Saarland University, Germany and University College London, UK
+Delia Kesner, Universite Paris Cite, France
+Sandra Kiefer, University of Oxford, UK
+Takayuki Kihara, Nagoya University, Japan
+Krishna, IIT Bombay, India
+Ranko Lazic, University of Warwick, UK
+Alessio Mansutti, IMDEA Software Institute, Spain
+Joshua Moerman, Open University, the Netherlands
+Jakob Piribauer, TU Dresden, Germany
+Amaury Pouly, Univ Rennes, CNRS, Inria, IRISA, France
+Jurriaan Rot, Radboud University, the Netherlands
+Sebastian Rudolph, TU Dresden, Germany
+Mahsa Shirmohammadi, CNRS, France
+Mateusz Skomra, LAAS-CNRS, France, France
+Ana Sokolova, University of Salzburg, Austria
+Sam Staton, University of Oxford, UK
+Hiroshi Unno, Tohoku University, Japan
+Tarmo Uustalu, Reykjavik University, Iceland and Tallinn University of Technology, Estonia
+Niccolò Veltri, Tallinn University of Technology, Estonia
+Thorsten Wissmann, FAU Erlangen-Nürnberg, Germany
+Standa Živný, University of Oxford, UK
+
+========================================================
+ICALP 2027 Workshops
+========================================================
+The first call will be issued in the coming fall.
+
+========================================================
+ICALP 2027 Proceedings Chair
+========================================================
+Gabriele Puppis (Udine University)
+
+========================================================
+ICALP 2027 Organizing Committee
+========================================================
+Jakub Kozik (Jagiellonian University), Conference Co-Chair
+Marcin Kozik (Jagiellonian University), Conference Co-Chair

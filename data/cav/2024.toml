@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Firm deadline but one week to edit papers. Double-blind submissions. Open access since 2018. Rebuttal period (29 Feb-3 March 2024). Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+
+[[cfp]]
+file = "cfp/CAV-2024.txt"
+stage = "initial"

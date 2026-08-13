@@ -20,3 +20,11 @@ license = "pay"
 
 [extra]
 notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."
+
+[[cfp]]
+file = "cfp/PRDC-2018.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PRDC-2018-extended.pdf"
+stage = "extended"

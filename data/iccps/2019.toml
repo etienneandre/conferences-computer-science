@@ -19,3 +19,11 @@ license = "acm"
 
 [extra]
 notes = "Firm deadline. Two tracks: theory and application. Part of Cyber Physical Systems (CPS) Week."
+
+[[cfp]]
+file = "cfp/ICCPS-2019.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICCPS-2019.txt"
+stage = "initial"

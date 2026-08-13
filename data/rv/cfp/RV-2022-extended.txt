@@ -1,0 +1,15 @@
+We would like to inform you that the deadline of Runtime Verification RV'22 is extended as follows: 
+- Paper submission deadline extended to 19 May 2022 
+- Please register paper title and abstract by Monday 16 May 2022 
+
+
+We would also like to note that RV'22 will go hybrid, which enables both physical and virtual attendance. 
+More information about paper submission and the conference is included below. 
+
+==== 
+The 22nd International Conference on Runtime Verification RV'22 [ https://rv22.gitlab.io/ | https://rv22.gitlab.io ] , which will take place as part of the Computational Logic Autumn Summit CLAS 2022 ( [ http://viam.science.tsu.ge/clas2022/ | http://viam.science.tsu.ge/clas2022/ ] ) in Tbilisi, Georgia, from September 28-30, 2022. 
+
+Deadlines expire at 23:59 anywhere on earth on the dates displayed above. 
+
+### Submissions ### 
+Submission: [ https://easychair.org/conferences/?conf=rv2022 | https://easychair.org/conferences/?conf=rv2022 ] . 

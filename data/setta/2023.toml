@@ -26,3 +26,7 @@ submitted = 80
 
 [extra]
 notes = "Always in China. Extended versions of selected papers will be recommended to special issues of Journal of System Architecture (JSA) and of Software Testing, Verification and Reliability (STVR) after the proceeding of the conference."
+
+[[cfp]]
+file = "cfp/SETTA-2023.txt"
+stage = "initial"

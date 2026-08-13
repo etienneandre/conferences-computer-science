@@ -1,0 +1,142 @@
+The Ninth International Workshop on Model-Based Design of Cyber-Physical Systems (CyPhy’19)
+www.cyphy.org
+
+Part of ESWeek (www.esweek.org) in NYC, NY. The conference will take place at the Kimmel Center for University Life.
+
+Call for Papers -- Extended Deadline
+
+Model-Based Design of Cyber-Physical Systems (CyPhy'19) takes a broad interpretation of the area and aims to facilitate the timely consolidation and sharing of new knowledge from its diverse sub-disciplines. Cyber-physical systems (CPSs) integrate computing and communication capabilities into physical systems and are therefore an important domain for innovation, encompassing robotics; smart homes, buildings, and mobility solutions; medical implants; drones, and numerous others. CPSs are also the medium through which next-generation Artificial Intelligence and Machine Learning applications will be deployed, and are a growing source of big data. CyPhy'19 brings together researchers and practitioners working on next-generation technologies for modeling, development, analysis, simulation, optimization, evaluation, and deployment of CPSs.
+
+This year, Professor Edward A. Lee (UC Berkeley) will give the invited talk.
+
+Important Dates
+
+Abstract submission August 12th, 2019
+Paper deadline August 16th, 2019
+Notifications September 6th, 2019
+Camera-ready October 25th, 2019
+Workshop October 17-­18th, 2019
+
+Topics of interest include but are not limited to:
+
+* Case studies and applications: Experience and case studies in the development of industrial and/or research­-oriented cyber­-physical systems in domains such as smart mobility, health innovation, medical and healthcare devices, smart­ homes, emerging communication and networking technologies (for example 5G and 6G), Internet­-of-­Things, 
+
+* Methods: Systematic, rigorous, and set-based methods for modeling, implementation, simulation, optimization, manufacturing, testing, and verification of cyber­-physical systems; model­-based engineering, systems engineering; the use of formal verification and reachability analysis tools; counterexample­-guided abstraction refinement (CEGAR), safe/verified Artificial Intelligence and Machine Learning (AI/ML), 
+
+* Tools: New tool technologies, evaluations of novel research tools, extensive case studies and industrial experiences, comparisons of state of the art tools in realistic contexts, and
+
+* Foundations: Domain-specific languages (DSLs) including hybrid automata, hybrid process calculi, and differential games; models of computation; multi-domain modeling languages; correctness of implementations, interval computation and validated numerical methods; experimental model validation.
+
+Submission Types and Proceedings
+
+Three types of papers will be solicited and evaluated: 1) research papers, 2) advanced tutorials, and 3) tool demonstrations. Papers are expected to be around 15-25 pages long in LNCS format.
+
+* Research papers will be evaluated according to the traditional standards of novelty, technical contribution, clarity, and overall quality of presentation. Such papers may contain theoretical results, experimental results, or cases studies that go beyond the scope of what prior art has been able to address. Research papers may also address open problems. Such papers will be evaluated based on the extent to which these problems were not articulated previously and the extent to which they are clear and actionable. Research papers may also be surveys. Such papers will be evaluated based on their timeliness, the absence of comparable surveys, how comprehensive they are, and the extent to which they organize existing information in a useful manner.
+
+* Advanced tutorials will be evaluated based on the extent to which they make it clear that there is a need for expository material on this subject, that there is currently a shortage of such material, the technical depth of the material covered, and the accessibility and overall quality of the presentation.
+
+* Tool demonstrations will be evaluated based on the timeliness of the presentation of the tool, the extent to which the tool can address problems that are currently much more difficult or impossible by existing tools, and the accessibility and overall quality of the presentation.
+
+As with previous years, the proceedings are expected to be published in the Springer Verlag Lecture Notes in Computer Science (LNCS) series. To maximize the benefit from the workshop, authors will be asked to first prepare a camera-ready copy of accepted papers before the meeting, and to submit a revised version that takes into account workshop feedback after the meeting.
+
+Submission
+
+Papers should be submitted electronically via the EasyChair web site:
+https://easychair.org/my/conference?conf=cw19
+
+Papers should be formatted according to the Springer LNCS Style:
+https://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0
+
+Papers should be submitted in PDF. Except for regular research papers, the paper category must be indicated at the end of the title in parenthesis at the time of the initial submission and in the final camera-ready version.
+
+Simultaneous submission to other venues with a formal publication (workshops, conferences, symposia, and journals) is not allowed. Duplicated submissions or other types of plagiarism will result in rejection and a report will be sent to the corresponding institution's dean or manager.
+
+Papers not adhering to the format or page limit may be rejected without a review.
+
+Organizers
+
+Program Committee (CyPhy19 and WESE19)
+Houssam Abbas, Oregon State University 
+Erika Abraham, RWTH Aachen University 
+Julien Alexandre dit Sandretto, ENSTA ParisTech 
+Ayman Aljarbouh, Grenoble Alpes 
+Matthias Althoff, TU Munich 
+Henric Andersson, Environment & Innovation 
+Stanley Bak, Safe Sky Analytics 
+Ferenc Bartha, Independent 
+Saddek Bensalem, University of Grenoble 
+Sergiy Bogomolov, Australian National University 
+Mirko Bordignon, Fraunhofer IPA, Germany 
+Manfred Broy, TU München 
+Manuela Bujorianu, University of Strathclyde 
+Daniela Cancila, Commissariat à l'Energie Atomique (CEA) 
+Thao Dang, Verimag, France 
+Alex Dean, North Carolina State University 
+Rayna Dimitrova, Leicester 
+Adam Duracz, Rice University 
+Sinem Coleri Ergen, Koc University 
+Xinyu Feng, USTC 
+Martin Fränzle, University of Oldenburg 
+Goran Frehse, Université Grenoble Alpes 
+Laurent Fribourg, CNRS 
+Helen Gill, Retired 
+Ichiro Hasuo, University of Tokyo 
+Holger Hermanns, Saarland University 
+Bardh Hoxha, South Illinois University 
+Jun Inoue, AIST 
+Daisuke Ishii, Tokyo Institute of Technology 
+Taylor T. Johnson, Vanderbilt University 
+Mehdi Kargahi, University of Tehran 
+Ueda Kazunori, Waseda University 
+Michal Konečný, Aston University 
+Vladik Kreinovich, University of Texas at Elpaso 
+Kim G. Larsen, Aalborg University 
+Lucia Lo Bello, University of Catania 
+Peter Marwedel, TU Dortmund 
+Karl Meinke, KTH 
+Nacim Meslem, Grenoble INP 
+Stefan Mitsch, CMU 
+Yilin Mo, Tsinghua 
+Eugenio Moggi, Università degli studi di Genova 
+Wojciech Mostowski, Halmstad University 
+Mohammad Reza Mousavi, Leicester University 
+Marco Mugnaini, University of Sienna 
+Jogesh Muppala, Hong Kong University of Science & Technology 
+Andreas Naderlinger, University of Salsburg 
+Marc Pouzet, ENS 
+Maria Prandini, Politecnico di Milano 
+Nacim Ramdani, University of Orleans 
+Andreas Rauh, University of Rostock 
+Michel Reniers, Eindhoven University of Technology 
+Jan Oliver Ringert, Leicester 
+Bernhard Rumpe, RWTH University Aachen 
+Maytham Safar, Kuwait University 
+Cherif Salama, American University in Cairo 
+Ashraf Salem, Ain Shams University 
+Falk Salewski, Muenster University of Applied Sciences 
+Erwin Schoitsch, Austrian Institute of Technology 
+Ulrik P. Schultz, University of Southern Denmark, Denmark 
+Marjan Sirjani, Mälardalen University 
+Martin Steffen, Oslo University 
+Marielle Stoelinga, Radboud University, the Netherlands 
+Zain Ul-Abdin, HEC Pakistan 
+Rafael Wisniewski, Aalborg University 
+Andreas Wortmann, RWTH Aachen University, Germany 
+Sebastian Wrede, Bielefeld University, Germany 
+Yingfu Zeng, Rice University 
+Mikal Ziane, Lip6, Laboratoire d'Informatique de Paris, France 
+
+Program Chair
+Walid Taha, Halmstad University
+
+Publicity Chair
+Abd-Elhamid M. Taha, Alfaisal University
+
+Advisory Committee
+Manfred Broy, Technische Universität München
+Karl Iagnemma, MIT
+Karl Henrik Johansson, Royal Institute of Technology
+Insup Lee, University of Pennsylvania
+Pieter Mosterman, McGill University
+Janos Sztipanovits, Vanderbilt University
+Walid Taha, Halmstad University

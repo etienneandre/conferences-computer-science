@@ -1,0 +1,51 @@
+Call for Papers
+
+The 27th International Conference on Formal Engineering Methods (ICFEM)
+
+17–20 November 2026 , Southampton, UK
+
+https://icfem2026.github.io/
+
+ICFEM is an internationally leading conference series in formal methods and software engineering. Since 1997, ICFEM has served as an international forum for researchers and practitioners who have been seriously applying formal methods to practical applications. Researchers and practitioners from industry, academia, and government are encouraged to attend, present their research, and help advance the state of the art. ICFEM is interested in work that has been incorporated into real production systems, as well as in theoretical work that promises to bring practical and tangible benefits. ICFEM has been hosted in many countries around the world.
+This year, the 27th International Conference on Formal Engineering Methods will be held in Southampton, UK. ICFEM 2026 welcomes submissions from researchers and practitioners worldwide to advance the field of formal methods and software engineering.
+Scope and Topics:
+
+Authors are invited to submit high-quality technical papers describing original and unpublished work in all theoretical aspects of software engineering. Topics of interest include, but are not limited to:
+
+    Formal specification and modeling
+    Formal approaches to fault prevention and detection
+    Abstraction, refinement, and evolution
+    Formal verification and validation
+    Integration of formal methods and testing
+    Integration of formal methods and review
+    SAT/SMT solvers for software analysis and testing
+    Practical formal methods
+    Applications of formal methods
+    Formal approaches to software maintenance
+    Formal approaches to safety-critical system development
+    Supporting tools for formal methods
+    Formal methods for agile development
+    Formal methods for human-machine pair programming
+    Formal methods for and with AI
+    Formal methods for Cyber-physical systems and IoT
+    Formal methods for security
+    Formal certification of products
+    Industrial case studies
+
+
+Important Dates (AoE):
+
+    Abstract submission: 1 June 2026
+
+    Full paper submission: 8 June 2026
+
+    Notification: 8 August 2026
+
+    Camera-ready: 7 September 2026
+
+    Conference: 17–20 November 2026
+
+More information and submission details:
+https://icfem2026.github.io/
+
+

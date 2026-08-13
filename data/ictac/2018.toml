@@ -26,3 +26,7 @@ submitted = 59
 
 [extra]
 notes = "Springer is sponsoring a best paper award. After the conference, authors of the best contributions are invited to submit a revised and extended version to a special issue, to be published in Elsevier’s Theoretical Computer Science."
+
+[[cfp]]
+file = "cfp/ICTAC-2018.txt"
+stage = "initial"

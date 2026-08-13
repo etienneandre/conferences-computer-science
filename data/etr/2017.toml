@@ -19,3 +19,20 @@ license = "free"
 
 [extra]
 notes = "Mainly for PhD students. Most presentations in French. Every two years."
+
+[[cfp]]
+file = "cfp/ETR-2017.jpg"
+stage = "initial"
+kind = "image"
+
+[[cfp]]
+file = "cfp/ETR-2017.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ETR-2017-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/ETR-2017-extended2.txt"
+stage = "extended"

@@ -1,0 +1,146 @@
+
+******************************************************************
+
+                     CALL FOR PARTICIPATION
+
+International conference on reliability, safety and security of railway
+systems:
+        modelling, analysis, verification and certification
+                             RSSRail 2017
+
+              November 14-16, 2017, Pistoia, Italy
+              https://conferences.ncl.ac.uk/rssrail/
+
+******************************************************************
+
+The conference focuses  on the reliability, safety and security of railway
+systems, faced with new challenges (such as increasing capacity and speed),
+new trends (such as pervading automation), and new threats (such as cyber-
+security). Advanced techniques and tools are needed for modelling,
+analysis, verification and validation that can cope with these issue.
+There is a pressing need to bring together researchers and developers working
+on
+railway system reliability, security and safety to discuss how these
+requirements
+can be met in an integrated way. It is also vital to ensure that all advances
+in
+research (both in academia and industry) are driven by real industrial needs.
+This can help ensure that such advances are followed by industrial deployment.
+Another particularly important objective is to integrate research advances
+into
+the current development processes, and make them usable and scalable.
+
+The conference is jointly organized by Newcastle University, University of
+Florence and DITECFER.
+
+*** VENUE ***
+
+Pistoia, Italy
+
+Pistoia is a little-known delight, often missed by travellers in favour or its
+neighbour Tuscan towns such as Florence, Pisa, Lucca and Siena.  Yet Pistoia
+is
+a gem. All the ingredients of an old Tuscan city are there: old walls, striped
+churches, frescoes, medieval watchtowers, arcaded piazzas packed into a rather
+small centre. Pistoia has been elected Italy's 2017 Capital of Culture.
+Pistoia has also hosted an important presence of railways for more than 150
+years: from the first trans-Apennines north-south connection, to the
+locomotive
+depot now hosting heritage railway stock, to the presence of a wide-ranging
+and innovative grouping of rail industry suppliers.
+
+
+*** REGISTRATION ***
+
+Registration is open! Early registration until October 2.
+http://conferences.ncl.ac.uk/rssrail/registration/
+
+
+*** RESEARCH PROGRAM ***
+
+The program include eleven technical papers, three industrial experience
+reports and
+two PhD students papers. The papers confirm a wide interest in developing, and
+applying in practice, formal modelling and verification techniques as the most
+cost
+effective way to guarantee the safety of nowadays very complex railway system.
+Besides these continued research area, two important topics clearly emerge
+from
+the accepted papers: the challenges posed to the safety and security of
+railway
+systems by the increasing reliance on advanced communication means on one
+side,
+and the industrial interest in the expansion of automation and advanced
+signalling
+expanding from the sector of main line railways to light rail and urban
+transit.
+See details at:
+http://conferences.ncl.ac.uk/rssrail/programme/
+
+The program is completed by  three keynote speakers and four tutorials, by
+posters
+and industrial exhibitors, and by a presentation of the Shift2Rail initiative.
+
+
+*** KEYNOTE SPEAKERS ***
+
+Jens Braband, Siemens AG, Rail Automation and Honorary Professor of Technical
+University of Braunschweig, Germany:
+'Quo vadis - Cybersecurity in railways'.
+
+Michael Leuschel, Heinrich Heine Universität, Dusseldorf, Germany:
+'The Unreasonable Effectiveness of B for Data Validation and Modelling of
+Railway Systems'.
+
+Aryldo Ar. Russo, CERTIFER, France:
+'Safety Certification: considering processes around the world.'
+
+*** TUTORIALS ***
+
+Four tutorials will be presented, see details at:
+http://conferences.ncl.ac.uk/rssrail/tutorials/
+
+*** COMMITTES ***
+
+Conference Chairs:
+Alessandro Fantechi, University of Florence, Italy
+Thierry Lecomte, ClearSy, France
+Alexander Romanovsky, Newcastle University, UK
+
+PC members:
+Carlo Becheri, ALSTOM, Italy
+Mark Behrens, Independent consultant, Germany
+Andrea Bondavalli, University of Florence, Italy
+David Bonvoisin, RATP, France
+Fares Chucri, SNCF, France
+Simon Collart-Dutilleul, IFFSTAR, France
+Francesco Flammini, UMUC Europe, Germany
+Stefania Gnesi, ISTI, Italy
+Frank Golatowski, University of Rostock, Germany
+Anne Haxthausen, Technical University of Denmark, Denmark
+Baseliyos Jacob, Deutsche Bahn, Germany
+Michael Jastram, Formal Mind, Germany
+Alexei Iliasov, Newcastle University, UK
+Tim Kelly, University of York, UK
+Hironobu Kuruma, Hitachi, Japan
+Michael Leuschel, Dusseldorf University, Germany
+Gianluca Mandò, Thales, Italy
+Jean Marc Mota, Thales R&T, France
+Jan Peleska, Verified Systems International, Germany
+Ralf Pinger, Siemens AG, Germany
+Christophe Ponsard, CETIC, Belgium
+Peter Popov, City University, UK
+Etienne Prun, ClearSy, France
+Matteo Rossi, Politecnico di Milano, Italy
+Aryldo Russo, CERTIFER, France
+Kenji Taguchi, AIST, Japan
+Jaco van de Pol, University of Twente, Netherlands
+Laurent Voisin, Systerel, France
+Kirsten Winter, University of Queensland, Australia
+
+Conference Organisation and Financial Chair:
+Joan Atkinson, Newcastle University, UK
+
+Local Organisation Chair:
+Veronica Bocci, DITECFER, Italy
+

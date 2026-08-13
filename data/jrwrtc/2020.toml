@@ -18,3 +18,7 @@ publisher = "PDF"
 
 [extra]
 notes = "In conjunction with RTNS. Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012, 1 week in 2015, 6 days in 2016 (including notification deadline), ???+8 days (including notification deadline) in 2017, firm in 2018 but eventually postponed by 14 days, 9 days (2019)."
+
+[[cfp]]
+file = "cfp/JRWRTC-2020.txt"
+stage = "initial"

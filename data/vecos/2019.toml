@@ -21,3 +21,11 @@ license = "pay"
 
 [extra]
 notes = "Co-located with 23rd International Symposium on Formal Methods (FM 2019) - 3rd World Congress on Formal Methods. Authors of selected papers will be invited to submit extended article versions to a special issue of Innovations in Systems and Software Engineering: A NASA Journal or of International Journal of Critical Computer-Based Systems."
+
+[[cfp]]
+file = "cfp/VECOS-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/VECOS-2019-extended.txt"
+stage = "extended"

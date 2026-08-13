@@ -1,0 +1,215 @@
+ETAPS 2018: European Joint Conferences on Theory and Practice of Software
+-------------------------------------------------------------------------
+
+The European Joint Conferences on Theory and Practice of Software
+(ETAPS) is the primary European forum for academic and industrial
+researchers working on topics relating to Software Science. ETAPS,
+established in 1998, is a confederation of five main annual conferences
+(ESOP, FASE, FOSSACS, POST and TACAS) accompanied by satellite workshops
+and other events. The 21st edition, ETAPS 2018, will take place in
+Thessaloniki, Greece.
+
+
+============================================================================
+POST 2018: 7th International Conference on Principles of Security and Trust
+============================================================================
+
+Principles of Security and Trust is a broad forum related to all
+foundational aspects of security and trust. We seek submissions on the
+foundations of information security, privacy, and trust, relevant for
+computer science and different application disciplines. Case studies
+that reflect the strengths and limitations of existing foundations,
+methods, and their supporting tools are also welcome, as are more
+exploratory presentations on open questions.
+
+-------------
+New This Year
+-------------
+
+- The Important Dates differ from those of other ETAPS conferences.
+- We have a rebuttal phase.
+- We use a double-blind reviewing process.
+- We accept position papers (in addition to systematization of knowledge
+papers, tool papers, and regular research papers).
+
+-----------------------------------------------------------------
+Important Dates (different from those of other ETAPS conferences)
+-----------------------------------------------------------------
+
+Abstracts due:  22 November 2017 (two days after EuroS&P 2018 notification)
+Papers due: 24 November 2017
+Rebuttal: 12-16 January 2018
+Notification: 25 January 2018
+Camera-ready versions due: 23 February 2018
+ETAPS Conference: 14-21 April 2018, Thessaloniki, Greece
+
+--------------------------
+Areas of interest include:
+--------------------------
+
+Access control
+Accountability
+Anonymity
+Authentication
+Availability
+Cloud security
+Confidentiality
+Covert channels
+Crypto foundations
+Database security
+Distributed systems security
+Security and privacy economics
+Cyber-physical systems security
+Hardware security
+Information flow
+Integrity
+Languages for security
+Malicious code
+Mobile security and privacy
+Models and policies
+Privacy and privacy-preserving systems
+Provenance
+Reputation and trust
+Resource usage
+Risk assessment
+Security architectures
+Security protocols
+Trust management
+Usable security and privacy
+Usage control
+Web security and privacy
+
+-----------------------
+Submission instructions
+-----------------------
+
+POST accepts four types of contributions: regular research papers,
+systemization of knowledge papers, position papers, and tool papers (see
+below for details). All four types of papers will appear in the
+proceedings and have presentations during the conference. Titles of
+systemization of knowledge papers, position papers, and tool papers
+should start with a keyword that indicates the category (“SoK”,
+“Position Paper”, “Tool Demonstration”).
+
+Submitted papers must be in English and present previously unpublished
+work. They must be unpublished and not submitted for publication
+elsewhere (this does not apply to abstracts). In particular,
+simultaneous submission of the same contribution to multiple ETAPS
+conferences is forbidden. The proceedings will be published in the
+Advanced Research in Computing and Software Science (ARCoSS) subline of
+Springer's Lecture Notes in Computer Science series. A condition of
+acceptance is that one of the authors attends the conference to give the
+presentation.
+
+Papers must follow the formatting guidelines specified by Springer at
+
+http://www.springer.de/comp/lncs/authors.html
+
+and be submitted electronically in PDF through Easychair at
+
+http://www.easychair.org/conferences/?conf=post2018
+
+Submissions not adhering to the specified format and length requirements
+may be rejected immediately.
+
+POST will use a double-blind review process. Authors are asked to omit
+their names, institutions, and other directly identifying information;
+refer to their prior work in the third person, just as to prior work by
+others; and not to include acknowledgements that might identify them.
+
+
+-----------------------
+Regular Research Papers
+-----------------------
+
+
+POST allows for submissions of at most 20 pages (excluding a
+bibliography of max 2 pages). Additional material intended for reviewers
+but not for publication in the final version—for example, details of
+proofs—may be placed in a clearly marked appendix that is not included
+in the page limit. ETAPS reviewers are at liberty to ignore appendices
+and papers must be understandable without them.
+
+-----------------------------------------
+Systematization of Knowledge (SoK) Papers
+-----------------------------------------
+
+SoK evaluate, systematize, and contextualize existing knowledge.
+Suitable papers are those that provide an important new viewpoint on
+established research areas, challenge long-held beliefs in such an area
+with compelling evidence, or present a comprehensive new taxonomy of
+such an area. Survey papers without such insights are not appropriate.
+Submissions should be distinguished by the prefix “SoK:” in the title.
+They will be reviewed by the PC and held to the same standards as
+traditional research papers, except instead of emphasizing novel
+research contributions the emphasis will be on value to the community.
+
+The regulation for the number of pages is the same as the one for
+regular research papers.
+
+-------------------------
+Tool Demonstration Papers
+-------------------------
+
+Submissions of tool demonstration papers should consist of two parts:
+
+ - The first part, at most 6 pages, should describe the tool presented
+and provide information that illustrates the maturity and robustness of
+the tool (this part will be included in the proceedings). If available,
+the URL of the tool should be provided in the appropriate field in
+Easychair when submitting your paper. This field can only be seen by PC
+chairs, and, hence, does not have to be anonymized. Of course, authors
+may also include anonymized URLs directly in their submission. The title
+of the submission should start with the words “Tool Demonstration:”.
+
+ - The second part, at most 6 pages, should explain how the
+demonstration will be carried out and what it will show, including
+screen dumps and examples. (This part will not be included in the
+proceedings, but will be evaluated.)
+
+---------------
+Position Papers
+---------------
+
+New this year, POST welcomes position papers that present a well
+justified stance on a fundamental but possibly controversial question.
+For example: “Privacy should trump security in all cases” (or the other
+way around), “Cryptocurrencies should be outlawed because... /
+encouraged because…”, “Why we should/should not research internet-based
+voting”. A position paper can also propose new directions for
+foundational research without having worked out all technical details.
+Position papers will be selected based on originality, likelihood of
+stimulating insightful discussion at the conference, and technical
+merit. Position papers may be no longer than 10 pages (excluding a
+bibliography of up to 2 pages) and their titles must start with the
+words “Position Paper:”.
+
+-------------------
+Programme Committee
+-------------------
+
+Lujo Bauer (Carnegie Mellon University, USA -- co-chair )
+Ralf Kuesters (University of Stuttgart, Germany -- co-chair)
+
+Karthikeyan Bhargavan (INRIA Paris, France)
+Nataliia Bielova (INRIA Sophia Antipolis, France)
+Stephen Chong (Harvard University, USA)
+Veronique Cortier (CNRS, LORIA, France)
+Stephanie Delaune (CNRS, IRISA, France)
+Cormac Flanagan (University of California at Santa Cruz, USA)
+Riccardo Focardi (Università Ca' Foscari di Venezia, Italy)
+Michael Hicks (University of Maryland, USA)
+Anja Lehmann (IBM Research Zürich, Switzerland)
+Jay Ligatti (University of South Florida, USA)
+Sergio Maffeis (Imperial College London, UK)
+Heiko Mantel (Technische Universität Darmstadt, Germany)
+Catherine Meadows (NRL, USA)
+Frank Piessens (KU Leuven, Belgium)
+Tamara Rezk (INRIA Sophia Antipolis, France)
+Andrei Sabelfeld (Chalmers University of Technology, Sweden)
+Gregor Snelting (Karlsruhe Institute of Technology, Germany)
+Cynthia Sturton (University of North Carolina at Chapel Hill, USA)
+Vanessa Teague (University of Melbourne, Australia)
+Luca Vigano (King's College London, UK)
+
+See also http://www.etaps.org/index.php/2018/post

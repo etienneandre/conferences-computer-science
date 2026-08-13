@@ -1,0 +1,188 @@
+THIRD CALL FOR PAPERS
+
+                 Ninth International Workshop on
+             Verification and Program Transformation
+
+         Devoted to the achievements of the research career of
+               Professor Alberto Pettorossi
+               http://www.iasi.cnr.it/~adp/
+
+           March 27th and 28th, 2021, Luxembourg, Luxembourg
+
+                http://refal.botik.ru/vpt/vpt2021
+
+
+    Co-Located with the 24th European joint Conference on
+        Theory and Practice of Software (ETAPS 2021)
+
+The VPT 2021 event will consist of two parts:
+
+Day 1:      Invited and contributed presentations
+        of the postponed VPT 2020 workshop devoted to
+          the achievements of the research career of
+                 Professor Alberto Pettorossi
+                http://refal.botik.ru/vpt/vpt2020
+
+    The Proceedings of VPT-2020 was published as EPTCS 320:
+    http://eptcs.web.cse.unsw.edu.au/content.cgi?VPTHCVS2020
+
+Day 2: new Invited and contributed presentations of VPT 2021 workshop.
+
+***************************************************************
+***************************************************************
+VPT-2020 Keynote Speaker:
+
+               Professor Alberto Pettorossi,
+
+Universita di Roma Tor Vergata and
+Istituto di Analisi dei Sistemi ed Informatica "A. Ruberti", Italy
+
+               http://www.iasi.cnr.it/~adp/
+
+
+***************************************************************
+The VPT-2020 Invited Speakers:
+
+Alain Finkel, LSV, ENS Paris-Saclay, CNRS
+                 Universite Paris-Saclay, France
+                 http://www.lsv.fr/~finkel/
+
+John P. Gallagher, Roskilde University, Denmark
+                 and IMDEA Software Institute, Spain
+                 http://www.ruc.dk/~jpg/
+
+Moa Johansson, Chalmers University, Gothenburg, Sweden
+                 http://www.cse.chalmers.se/~jomoa/
+
+Neil D. Jones, Professor emeritus at University of Copenhagen,
+                 Denmark
+                 http://hjemmesider.diku.dk/~neil/
+
+Michael Leuschel, Heinrich-Heine-Universitaet Duesseldorf, Germany
+https://www.cs.hhu.de/en/research-groups/software-engineering-and-programming-languages/our-team/team/michael-leuschel.html
+
+Maurizio Proietti, IASI-CNR, Rome, Italy
+                 http://www.iasi.cnr.it/~proietti/
+
+Sophie Renault, European Patent Office - The Hague, The Netherlands
+
+Andrzej Skowron, Professor emeritus at University of Warsaw, Poland
+
+***************************************************************
+***************************************************************
+VPT-2021 Invited Speakers:
+
+Nikos Gorogiannis, Middlesex University, UK
+                 https://ngorogiannis.bitbucket.io/
+
+Fritz Henglein, DIKU, University of Copenhagen, Denmark
+                 http://hjemmesider.diku.dk/~henglein/
+
+..........................................................................
+.................................. TBA ...................................
+***************************************************************
+
+The Ninth International Workshop on Verification and Program
+Transformation (VPT 2021) aims to bring together researchers
+working in the areas of Program Verification and Program Transformation.
+
+The workshop will be held fully online mode by ETAPS decision,
+and remote participation and lectures and talks delivery will be possible.
+
+
+The previous workshops in this series were:
+
+    VPT 2013, Saint Petersburg, Russia
+    VPT 2014, Vienna, Austria
+    VPT 2015, London, UK
+    VPT 2016, Eindhoven, The Netherlands
+    VPT 2017, Uppsala, Sweden
+    MARS/VPT 2018, Thessaloniki, Greece
+    VPT 2019, Genova, Italy
+    VPT 2020, Dublin, Ireland
+              The VPT-2020 Workshop was postponed in-line with ETAPS-2020,
+              The Proceedings of VPT-2020 was published as EPTCS 320.
+
+
+The workshop solicits research, position, application, and
+system description papers with a special emphasis on case studies,
+demonstrating viability of the interactions between the research fields
+of program transformation and program verification in a broad sense.
+Also papers in related areas, such as program testing and program synthesis are welcomed.
+
+Topics of interest include, but are not limited to:
+
+* Verification by Program Transformation
+* Verification Techniques in Program Transformation and Synthesis
+* Verification and Certification of Programs Transformations
+* Program Analysis and Transformation
+* Program Testing and Transformation
+* Verifiable Computing and Program Transformation
+* Case studies
+
+*Important Dates*
+
+* January 24th, 2021: Regular paper submission deadline (The deadline has been extended.)
+* January 24th, 2021: Extended abstracts and presentation-only papers submission deadline
+* February 16th, 2021: Acceptance notification
+* March 1st, 2021: Camera ready version (for the informal pre-proceedings)
+* March 27th and 28th, 2021: Workshop
+* May 10th, 2021: Revised paper submission for the formal proceedings in EPTCS deadline
+
+
+*Submission Guidelines*
+
+Authors should submit an electronic copy of the paper in PDF, formatted in
+the Electronic Proceedings in Theoretical Computer Science LaTeX Style (http://style.eptcs.org/),
+via the Easychair submission website for VPT 2021 : https://easychair.org/conferences/?conf=vpt2021
+
+Regular papers must describe original work that has not been published,
+or currently submitted, to a journal, conference,
+or workshop with refereed proceedings.
+Also papers that already appeared in unpublished or informally published workshop proceedings may be submitted.
+
+Each submission must include on its first page the paper title; authors and their affiliations;
+contact author's email; abstract;
+and three to four keywords that will be used
+to assist the PC in selecting appropriate reviewers for the paper.
+Page numbers should appear on the manuscript to help the reviewers in writing their report.
+
+Regular paper submissions should not exceed 15 pages including references but excluding
+well-marked appendices not intended for publication.
+Reviewers are not required to read the appendices,
+and thus papers should be intelligible without them.
+
+*Proceedings*
+
+Revised versions of all the accepted papers and accepted extended abstracts,
+taking into account the feedback received at the workshop,
+will be published in a volume of the Electronic Proceedings in Theoretical Computer (EPTCS) series after the workshop.
+
+If the workshop will attract sufficiently many high quality papers,
+a special issue of a journal on the topic of the workshop
+will be considered.
+The special issue will be open to high quality papers accepted for presentation in previous editions of the workshop.
+
+Program Committee:
+Emanuele De Angelis, IASI-CNR, Rome, Italy
+Grigory Fedyukovich, Princeton University, USA
+Laurent Fribourg, CNRS & ENS Paris-Saclay, France
+John P. Gallagher, Roskilde University, Denmark and
+                   IMDEA Software Institute, Spain
+Geoff W. Hamilton, Dublin City University, Republic of Ireland
+Alexei Lisitsa, The University of Liverpool, UK (co-Chair)
+Andrei P. Nemytykh, Program Systems Institute of RAS, Russia (co-Chair)
+Philipp Ruemmer, Uppsala University, Sweden
+Peter Sestoft, The IT University of Copenhagen, Denmark
+German Vidal, Universitat Politecnica de Valencia, Spain
+
+
+Organisers:
+Alexei Lisitsa (The University of Liverpool, UK)
+Andrei P. Nemytykh (Program Systems Institute of RAS, Russia)
+
+Contacts
+E-mail:
+Alexei Lisitsa, a.lisitsa@csc.liv.ac.uk
+Andrei P. Nemytykh, nemytykh@math.botik.ru , nemytykh@gmail.com
+Web:  http://refal.botik.ru/vpt/vpt2021/

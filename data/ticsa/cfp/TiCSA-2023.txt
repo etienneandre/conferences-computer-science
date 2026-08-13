@@ -1,0 +1,39 @@
+Call for Presentations and Papers TiCSA 2023
+First Workshop on Trends in Configurable Systems Analysis
+23 April 2023 @ ETAPS 2023, Paris, France
+
+https://ticsa.edgecloud.de
+
+===============
+Important Dates
+
+Abstract submission: 16 February 2023
+Notification: 23 February 2023
+Workshop: 23 April 2023
+Paper submission: 23 June 2023
+Paper notification: 23 July 2023
+Camera version: 23 August 2023
+
+===============
+Scope and Format
+
+System variants often arise by configuring parameters that have a direct impact on the system’s behavior. Since the configuration space usually suffers from an exponential blowup in the number of configuration parameters, such configurable systems require specialized methods for their design, implementation, and analysis. While there have been significant advances for the analysis of configurable systems in the last decade, most prominently family-based or feature-based analysis, there are still manifold opportunities that have not yet been considered exhaustively. These cover specialized algorithms concerning quantitative aspects, required to model and analyze modern cyber-physical systems, as well as reconfigurations that allow for system adaptations in context-aware system design. The main goal of this workshop is to bring researchers together, presenting ideas and challenges, develop new ideas, and foster collaborations within the field of configurable systems analysis.
+
+===============
+Submission Details
+
+The workshop follows a post-proceedings approach:
+(1) Abstracts submitted should not exceed 2 pages and may include already published material, unpublished work, and even challenges. They will be reviewed for suitability. At least one of the authors has to provide a presentation at TiCSA'23, issuing the abstract.
+(2) After the presentation and discussion, full papers can be submitted to describe original research, provide surveys, or report on the findings during the workshop. The should not exceed 12 pages excluding references. Such papers will undergo a full reviewing process by at least three members of the program committee. Final versions of accepted papers will be published in the EPTCS workshop series.
+
+Submissions are done via EasyChair (https://easychair.org/conferences/?conf=ticsa2023). All submissions must be written in English and follow the EPTCS guidlines (see http://info.eptcs.org).
+
+===============
+Further Details
+
+Invited Speaker
+- Étienne André (Sorbonne Paris Nord, France)
+
+Organizers
+- Maurice H. ter Beek (ISTI-CNR, Pisa, Italy)
+- Clemens Dubslaff (Eindhoven University of Technology, The Netherlands)

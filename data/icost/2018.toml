@@ -19,3 +19,7 @@ license = "pay-profit"
 
 [extra]
 notes = "The theme chosen for 2018 will focus on Urban Living Environment and inclusion of frail people in our societies. Warning: double blind submission! Abstract not required."
+
+[[cfp]]
+file = "cfp/ICOST-2018.txt"
+stage = "initial"

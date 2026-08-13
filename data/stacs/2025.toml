@@ -31,3 +31,7 @@ submitted = 259
 
 [extra]
 notes = "Track A focuses on algorithms, data structures and complexity. Track B focuses on automata, logic, semantics, and theory of programming."
+
+[[cfp]]
+file = "cfp/STACS-2025.txt"
+stage = "initial"

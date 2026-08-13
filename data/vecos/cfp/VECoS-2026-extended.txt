@@ -1,0 +1,83 @@
+-----------------------------------------------------------------------
+
+VECoS 2026 - 19-20 November 2026, Amsterdam (Tinbergen Institute),
+Netherlands
+http://vecos-world.org/2026/
+
+The 19th International Conference on Verification and Evaluation of
+Computer and Communication Systems will take place on 19–20 November
+2026 at the Tinbergen Institute, Amsterdam, The Netherlands.
+
+-----------------------------------------------------------------------
+-- IMPORTANT DATES --
+
+All the deadlines are AoE (Anywhere on Earth)
+- Paper submission deadline :    	6th July 2026
+- Acceptance notification:		6th August 2026
+- Camera-ready deadline:		1st September 2026
+- Conference:     	    		19-20 November 2026
+
+-- Invited Speakers –
+
+- Karsten Wolf, Universität Rostock
+- Sandjai Bhulai, Vrije Universiteit Amsterdam
+
+-- ABOUT VECoS --
+
+The VECoS conference series focuses on the analysis of computer and
+communication systems, where functional and extra-functional properties
+are inter-related. VECoS encourages the cross-fertilization between the
+various formal verification and evaluation approaches, methods and
+techniques, especially those developed for concurrent and distributed
+hardware/software systems. VECoS is referenced by
+https://conferences-computer.science/ and ranked as Category C by CORE
+Topics and more details can be found at http://vecos-world.org/2026/
+An overview of previous VECoS conferences can be found at :
+http://vecos-world.org/
+
+-- GENERAL INFORMATION ON SUBMISSIONS --
+
+Submitted papers must be no longer than 15 pages (including
+bibliography), written in English, presenting original work and not be
+submitted for publication elsewhere.  Papers must be submitted
+electronically in PDF format through EasyChair
+(https://easychair.org/conferences/?conf=vecos2026), using the LNCS
+format (Springer, version 2.20 or later). Accepted papers will appear
+in the conference proceedings.  At least one author of each accepted
+paper must attend the conference and present the paper.
+
+The conference proceedings will be published in the Springer-Verlag
+Lecture Notes in Computer Science (LNCS) series.
+
+Authors of selected papers will be invited to submit extended and
+revised versions of their work for consideration in a special issue of
+an indexed international journal (ISSE: Innovations in Systems and
+Software Engineering, IJCCBS: International Journal of Critical
+Computer-Based Systems.
+
+-- ORGANIZATION --
+General Co-Chairs
+- Bernd Heidergott, Vrije Universiteit Amsterdam
+- Djamil Aïssani, LaMOS - Béjaïa University
+Program Co-Chairs
+- Isabel Demongodin, LIS - Aix-Marseille University
+- Mohamed Mosbah, LaBRI - Bordeaux INP
+Publicity Chair
+- Belgacem Ben Hedia, CEA LIST
+
+For additional information, visit the conference website:
+http://vecos-world.org/2026/
+
+
+
+--
+Belgacem BEN HEDIA, PhD
+Research Engineer
+
+CEA LIST Institute
+Digital Systems and Integrated Circuits Division (DSCIN)
+Architecture & Design Environment Laboratory (LECA)
+Centre de Saclay - PC172
+91191 Gif-sur-Yvette CEDEX - FRANCE
+Phone: +33 1 69 08 21 22
+Mail:belgacem.ben-hedia@cea.fr

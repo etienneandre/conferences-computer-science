@@ -1,0 +1,140 @@
+CALL FOR PRESENTATIONS AND PARTICIPATION TO HIGHLIGHTS’24, AUTOMATHA’24, AND HCRW (Bordeaux, France, 16-20 September 2024)
+
+HIGHLIGHTS’24 and AUTOMATHA’24 are jointly scheduled from September 16 to September 20, 2024 at the University of Bordeaux, France, in LaBRI. They will be followed by the Highlights Collaborative Research Week (HCRW), from September 21 to 27, 2024.
+
+HIGHLIGHTS’24 is the twelfth in the series of international conferences “Highlights of Logic, Games and Automata”, aiming at integrating the community working in algorithmic model theory, automata theory, databases, games for logic and verification, logic and verification. Papers from these areas are dispersed across many conferences, which makes them difficult to follow. A visit to the HIGHLIGHTS conference should offer a wide picture of the latest research in the field and a chance to meet everybody in the community, not just those who happen to publish in one particular proceedings volume. There are no publications.
+
+AUTOMATHA’24 will be the second AutoMathA conference, after the one organised in 2015, which was itself the continuation of a European research project that terminated in 2010. The conference AutoMathA 2024 will survey a wide picture of research in automata theory and related mathematical fields. It will consist of invited lectures which describe significant progress over the past years, and will be a meeting point for both young and senior researchers to learn and to discuss automata theory, its connections with mathematics and its applications.
+
+HIGHLIGHTS’24 key features:
+
+    HIGHLIGHTS is a conference without publications, where speakers give short presentations of their best work.
+    It is colocated with AUTOMATHA’24, a conference featuring invited talks on mathematical aspects of automata theory.
+    A chat of the conference is available during the event, and throughout the year.
+    There is an early round of submissions and notifications to help with travel planning.
+    The Highlights’ Collaborative Research Week (HCRW) offers means for research collaborations/discussions between participants. HCRW is scheduled after the conference.
+    The Highlights Extended Stay Support Scheme (HESSS) helps participants find collaborators and organise visits in the vicinity of HIGHLIGHTS.
+    Highlights has now an environmental chair, Antoine Amarilli, in charge of assessing the carbon footprint of the event.
+
+We encourage you to attend and present your best work - be it already published or not - at HIGHLIGHTS’24.
+SCOPE
+
+Representative areas include, but are not restricted to:
+
+    Algebraic models of computation
+    Algorithmic model theory
+    Automata theory
+    Databases
+    Games for logic and verification
+    Logic
+    Verification
+
+IMPORTANT DATES AND INFORMATION
+
+    Registration to the chat of the conference at https://highlights-conference.org/2024/zulip (no need if you did it last year)
+    HIGHLIGHTS’24 webpage: https://highlights-conference.org/2024/
+    HCRW page: https://highlights-conference.org/2024/hcrw
+    HESSS page: https://highlights-conference.org/2024/hesss
+    Submission page: TBA
+    Registration page: TBA
+    Early submission deadline: April 15, 2024
+    Early notification: April 26, 2024
+    Regular submission deadline: June 17, 2024
+    Regular notification: June 28, 2024
+    Conference: September 16-20, 2024.
+    Highlights’ Collaborative Research Weak (HCRW): September 21 - 27, 2024.
+
+INVITED TALKS
+
+To be announced.
+MODALITIES OF ATTENDANCE
+
+HIGHLIGHTS’24 is an event that will take place on-site (barring unforeseen circumstances), and the preferred form of participation is in person. Remote attendance via a video stream will also be offered, but with limited possible interactions for these participants.
+
+Before coming from far away, please review how your trip and international flights are contributing to climate change. We encourage you to take the train as much as possible, possibly taking the opportunity for visiting colleagues on the way and thus decomposing the travel into smaller pieces.
+
+More generally, we encourage you to make the most of your stay. This means extending your journey to the previous and/or following weeks for more scientific activities in Bordeaux and around. Several initiatives are here to help you in this task:
+
+    You can participate in the Highlights’ Collaborative Research Week (HCRW, September 21-27) in the week after HIGHLIGHTS, in Bordeaux.
+    You can use the Highlights Extended Stay Support Scheme (HESSS) for finding collaborators and organising visits.
+
+[EARLY] SUBMISSIONS AND GUIDELINES
+
+Submissions should take the form of a short abstract describing the content of the presentation and its interest. It should serve as a proposal for a presentation. Hence, submissions should have a single author — the speaker. They can concern any recently published, to be published, or ongoing work of the speaker. We expect you to present your favourite result of the year, so there should be at most one submission per speaker. The abstract should list co-authors, if any. Optionally, an extended abstract of up to two pages may be attached as a PDF file.
+
+We encourage both young and senior researchers to present.
+
+The early round of submissions is open until Monday, April 15. By submitting before this deadline, you will profit from an early notification by April 26 which may help you in organising your journey. The regular submission deadline is Monday, June 16, with a notification by June 28.
+
+Submissions will not lead to publications. There are no formal proceedings and we encourage the presentation of work published or presented elsewhere.
+
+The talk (which is short, around 10 minutes) can be doubled with a poster. Further information about poster submissions will be provided.
+
+The submission page will be announced soon
+HIGHLIGHTS’ COLLABORATIVE RESEARCH WEEK (HCRW)
+
+HIGHLIGHTS’24 will be followed by the Highlights’ Collaborative Research Week (HCRW), from September 21 to 27 (including the weekend) at the University of Bordeaux.
+
+Participants to HCRW are free to organise any scientific activity they wish. It is up to you to decide what this week should be. Possibilities can be to
+
+    meet someone in particular and work together,
+    organise or attend a seminar/workshop/reading group,
+    gather for solving open problems,
+    solicit, offer and participate in a lecture.
+    Working spaces will be provided on site for these activities to take place.
+
+We encourage participants to register and offer activities in advance.
+
+    HCRW webpage: https://highlights-conference.org/2024/hcrw
+    If you intend to participate to HCRW, post it on the zulip stream.
+    To offer suggest or solicit activities: post your proposals on the dedicated zulip stream.
+
+HIGHLIGHTS EXTENDED STAY SUPPORT SCHEME (HESSS)
+
+The HESSS is an incentive for collaborations between participants of the conference and researchers working in research groups reachable by train from the conference location. The objective is to foster interactions with low carbon footprint. The mechanism is as follows:
+
+    Research groups willing to participate in the scheme are/will be listed on the webpage: https://highlights-conference.org/2024/hcrw. These groups are offering to fund collaborations between HIGHLIGHTS participants and their members.
+    The pair of a HIGHLIGHTS participant and a member of a listed research group submit a proposal, which takes the form of an email containing names, period of collaboration, and a sentence describing the planned activity. It has to be sent to the HESSS contact person of the research unit (better through zulip).
+    The decision of acceptance is up to the research group. In particular, it may be subject to scientific scope, number of requests, or e.g., favouring distant participants.
+    The only strict rule is that the visit should be around HIGHLIGHTS, and no airplane should be taken by the visitor to travel from HIGHLIGHTS to the visit location.
+    Research groups interested in participating in the program should contact Thomas Colcombet (through Zulip).
+
+COMMITTEES
+PROGRAM COMMITTEE
+
+    C. Aiswarya (Chennai Mathematical Institute, India)
+    Shaull Almagor (Technion, Israel)
+    Christel Baier (TU Dresden, Germany)
+    Azadeh Farzan (Univ. of Toronto, Canada)
+    Sam van Gool (IRIF, France)
+    Ichiro Hasuo (National Institute of Informatics, Japan)
+    Bartek Klin (Univ. of Oxford, UK; chair)
+    Barbara König (Univ. of Duisburg-Essen, Germany)
+    Karoliina Lehtinen (LIS, Aix-Marseille Univ., France)
+    Anthony Widjaja Lin (TU Kaiserslautern, Germany)
+    Anca Muscholl (LaBRI, Univ. Bordeaux, France)
+    Ana Sokolova (Univ. of Salzburg, Austria)
+    Szymon Toruńczyk (Univ. of Warsaw, Poland)
+    Sophie Pinchinat (IRISA Rennes, France)
+
+ORGANISING COMMITTEE
+
+    Vincent Penelle
+    Rémi Morvan
+    Corto Mascle
+    Théo Matricon
+    Pierre Vandenhove
+
+SAFETOC COUNSELOR
+
+    Rémi Morvan
+
+STEERING COMMITTEE
+
+    Antoine Amarilli (environmental chair)
+    León Bohn (webmaster)
+    Antonio Casares (publicity chair)
+    Supratik Chakraborty
+    Thomas Colcombet (chair)
+    Sławek Lasota
+    Sophie Tison

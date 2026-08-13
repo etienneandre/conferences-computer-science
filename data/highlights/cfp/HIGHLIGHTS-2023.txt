@@ -1,0 +1,331 @@
+CALL FOR PRESENTATIONS
+HIGHLIGHTS OF LOGIC, GAMES, AND AUTOMATA (Kassel, Germany, 24 — 28 July 2023)
+
+HIGHLIGHTS’23 is the eleventh in the series of international
+conferences “Highlights of Logic, Games and Automata”, aiming at
+integrating the community working in algorithmic model theory,
+automata theory, databases, games for logic and verification, logic,
+and verification. Papers from these areas are dispersed across many
+conferences, which makes them difficult to follow. A visit to the
+HIGHLIGHTS conference should offer a wide picture of the latest
+research in the field and a chance to meet everybody in the
+community, not just those who happen to publish in one particular
+proceedings volume. There are no publications.
+
+HIGHLIGHTS’23 is scheduled from July 24 to July 28, 2023 at
+the Campus Center of the University of Kassel,
+Germany. The main conference will be preceded by the Highlights
+Collaborative Research Week (HCRW), from July 17 to July 21, 2023
+at the Faculty of Electrical Engineering and Computer Science of the
+University of Kassel.
+
+HIGHLIGHTS’23 key features:
+
+    HIGHLIGHTS is a conference without publication, where speakers give short presentations of their best work.
+    (new) The conference will span five days, including tutorials.
+    (new) There is an early round of submissions and notifications to help with travel planning.
+    (new) The Highlights’ Collaborative Research Week (HCRW) is a new initiative meant to facilitate research collaborations/discussions between participants. HCRW is scheduled from July 17 to July 21, 2023, i.e. the week before HIGHLIGHTS’23 and after ICALP’23 (in Paderborn, Germany).
+    The Highlights Extended Stay Support Scheme (HESSS) is intended to help participants find collaborators and organize visits around HIGHLIGHTS.
+
+We encourage you to attend and present your best work, be it already
+published or not, at HIGHLIGHTS’23.
+SCOPE
+
+Representative areas include, but are not restricted to:
+
+    Algorithmic model theory
+    Automata theory
+    Databases
+    Games for logic and verification
+    Logic
+    Verification
+
+IMPORTANT DATES AND INFORMATION
+
+    Main conference page: https://highlights-conference.org/2023/
+    HCRW page: https://highlights-conference.org/2023/hcrw
+    HESSS page: https://highlights-conference.org/2023/hesss
+    Submission page: https://cmt3.research.microsoft.com/Highlights2023
+    Registration page: TBA
+    Early submission deadline: February 17
+    Early notification: February 28
+    Regular submission deadline: April 25
+    Regular notification: May 5
+    Early registration: TBA
+    Highlights’ Collaborative Research Weak (HCRW): July 17 - July 21, 2023.
+    Conference: July 24 - July 28, 2023 (Tutorial day: July 24).
+
+INVITED TALKS AND TUTORIALS
+Tutorials:
+
+    Bernd Finkbeiner (Saarland Univ and CISPA, Germany)
+    Édouard Bonnet (ENS Lyon, France)
+
+Invited talks:
+
+    Udi Boker (Reichman Univ, Israel)
+    Véronique Bruyère (Univ of Mons, Belgium)
+    Meena Mahajan (Institute of Mathematical Sciences, India)
+    Sophie Pinchinat (IRISA, France)
+    Sven Schewe (Univ of Liverpool, UK)
+
+MODALITIES OF ATTENDANCE
+
+HIGHLIGHTS’23 is an event that will take place on-site (barring unforeseen circumstances), and the preferred form of participation is in person. Remote attendance via a video stream will also be offered, but with limited possible interactions for these participants.
+
+Before coming from far away, please review how your trip and international flights are contributing to climate change. We encourage you to take the train as much as possible, possibly taking the opportunity for visiting colleagues on the way and thus decomposing the travel into smaller pieces.
+
+More generally, we encourage you to make the most of your stay. This means extending your journey to the previous and/or following weeks for more scientific activities in Kassel and around. Several initiatives are here to help you in this task:
+
+    You can participate in the Highlights’ Collaborative Research Week (HCRW, July 17-21) in the week before HIGHLIGHTS, in Kassel. We especially encourage you to come to HCRW if you are planning to attend ICALP’2023, which happens just before HCRW, in Paderborn.
+    You can attend ICALP’2023 (July 10-14, in Paderborn)
+    You can attend CAV’2023 (July 17-22, in Paris)
+    You can use the Highlights Extended Stay Support Scheme (HESSS) for finding collaborators and organising visits.
+
+[EARLY] SUBMISSIONS AND GUIDELINES
+
+Submissions should take the form of a short abstract describing the content of the presentation and its interest. It should serve as a proposal for a presentation. Hence, submissions should have a single author — the speaker. They can concern any recently published, to be published, or ongoing work of the speaker. We expect you to present your favourite result of the year, so there should be at most one submission per speaker. The abstract should list co-authors, if any. Optionally, an extended abstract of up to two pages may be attached as a PDF file.
+
+We encourage both young and senior researchers to present.
+
+The early round of submissions is open until February 17, 2023. By submitting before this deadline, you will profit from an early notification by February 28, 2023 which may help you in organising your journey. The regular submission deadline is April 25, 2023, with a notification by May 5, 2023.
+
+Submissions will not lead to publications. There are no formal proceedings and we encourage the presentation of work published or presented elsewhere.
+
+The talk (which is short, around 10 minutes) can be doubled with a poster. In this case, it has to be sent more than one week before the event, and will be printed by the organising team.
+
+Submission page: https://cmt3.research.microsoft.com/Highlights2023
+HIGHLIGHTS’ COLLABORATIVE RESEARCH WEEK (HCRW)
+
+HIGHLIGHTS’23 will be organising an extra week, the Highlights’ Collaborative Research Week (HCRW), from July 17 to July 21, at the University of Kassel.
+
+Participants to HIGHLIGHTS can register for this week, and are then free to organise any scientific activity. It is up to you to decide what this week should be. Possibilities can be to
+
+    meet someone in particular,
+    organise or attend a seminar/workshop/reading group,
+    gather for solving open problems.
+
+HIGHLIGHTS organising team is offering the opportunity, the working space and support at the university, and some web-tools for the scientific organisation.
+
+We encourage participants to propose activities in advance. Please contact the program chair (Supratik Chakraborty) and the organisation chair (Stefan Göller) to communicate your proposals.
+
+    HCRW webpage: https://highlights-conference.org/2023/hcrw
+    To propose activities: Contact Supratik Chakraborty and Stefan Göller
+    Registration for HCRW will happen along with HIGHLIGHTS.
+
+HIGHLIGHTS EXTENDED STAY SUPPORT SCHEME (HESSS)
+
+The HESSS is an incentive for collaborations between participants of the conference and researchers working in research units reachable by train from the conference location. The objective is to foster interactions with low carbon footprint. The mechanism is as follows:
+
+    Research units wanting to participate in the scheme are/will be listed on the webpage: https://highlights-conference.org/2023/hcrw. These units are willing to fund collaborations between HIGHLIGHTS participants and their members.
+    The pair of a HIGHLIGHTS participant and a member of a listed research unit submit a proposal, which takes the form of an email containing names, period of collaboration, and a sentence describing the planned activity. It has to be sent to the HESSS contact person of the research unit.
+    The decision of acceptance is up to the research unit. In particular, it may be subject to scientific scope, number or requests, or e.g., favouring distant participants.
+    The only strict rule is that the visit should be around HIGHLIGHTS, and no airplane should be taken by the visitor to travel from HIGHLIGHTS to the visit location.
+    Research units interested in participating in the program should contact Thomas Colcombet.
+
+COMMITTEES
+PROGRAM COMMITTEE
+
+    S. Akshay (India)
+    Suguman Bansal (USA)
+    Nathalie Bertrand (France)
+    Supratik Chakraborty (India) (Chair)
+    Krishnendu Chatterjee (Austria)
+    Javier Esparza (Germany)
+    Sandra Kiefer (Germany)
+    Antonina Kolokolova (Canada)
+    Orna Kupferman (Israel)
+    Annabelle McIver (Australia)
+    Madhusudan Parthasarathy (USA)
+    Joanna Ochremiak (France)
+    Daniela Petrisan (France)
+    Michał Pilipczuk (Poland)
+    Nir Piterman (Sweden)
+    Jean-François Raskin (Belgium)
+
+ORGANISING COMMITTEE
+
+    Stefan Göller (chair)
+    Alina Kappes
+    Klaus Wich
+    Matthias Wolf
+    Katja Wuchterl
+
+SAFETOC COUNSELOR
+
+    Sylke Ernst
+
+STEERING COMMITTEE
+
+    León Bohn (webmaster)
+    Antonio Casares (publicity chair)
+    Thomas Colcombet (chair)
+    Sławek Lasota
+    Luc Segoufin
+    Sophie Tison
+
+
+On Mon, 30 Jan 2023 at 10:47, Highlights Communication (Antonio Casares) <info@highlights-conference.org> wrote:
+
+    This year, the conference HIGHLIGHTS’23 organises an early round of submissions to help to plan travels. The deadline for early submissions is February 17th. Guidelines for submissions are included below.
+
+    By submitting before this first deadline, you will profit from an early notification by February 28th. Regular submissions will be open until April 25th.
+
+    We also remind you that HIGHLIGHTS’23 will be preceded by the Highlights Collaborative Research Week (HCRW), from July 17th to July 21st, in Kassel. All participants can propose activities for this week by contacting the program chair (Supratik Chakraborty) and the organisation chair (Stefan Göller). (More information below).
+
+
+    CALL FOR PRESENTATIONS
+    HIGHLIGHTS OF LOGIC, GAMES, AND AUTOMATA
+
+    HIGHLIGHTS’23 will happen from July 24th to July 28th 2023, at the Campus Center of the University of Kassel, Germany. HIGHLIGHTS’23 will be preceded by the Highlights’ Collaborative Research Week (HCRW), from 17h to 21st, at the Faculty of Electrical Engineering and Computer Science of the University of Kassel.
+
+    HIGHLIGHTS’23 key features and novelties:
+
+        Highlights is a conference without publication, where speakers give short presentations of their best work.
+        The 2023 program chair is Supratik Chakraborty.
+        The 2023 organisation chair is Stefan Göller.
+        (new) The conference is now five days, tutorials included.
+        (new) An early round of submissions is organised to help the planning of travels.
+        (new) The Highlights’ Collaborative Research Week (HCRW) is a new meeting, the week before the conference (from July 17th to July 21st), devoted to research collaborations between highlights’ participants. HCRW happens the week after ICALP’23 in Paderborn, for encouraging direct commutation.
+        The Highlights Extended Stay Support Scheme (HESSS) helps organising and funding collaborations in the area.
+
+    HIGHLIGHTS’23 is the eleventh of the series of international conferences “Highlights of Logic, Games and Automata”, aiming at integrating the community working in algorithmic model theory, automata theory, databases, games for logic and verification, logic, and verification. Papers from these areas are dispersed across many conferences, which makes them difficult to follow. A visit to the Highlights conference should offer a wide picture of the latest research in the field and a chance to meet everybody in the community, not just those who happen to publish in one particular proceedings volume. There are no publications.
+
+    We encourage you to attend and present your best work, be it already published or not, at HIGHLIGHTS’23.
+    IMPORTANT DATES AND INFORMATION
+
+        Main conference website: https://highlights-conference.org/2023/
+        HCRW page: https://highlights-conference.org/2023/hcrw
+        HESSS page: https://highlights-conference.org/2023/hesss
+        Submission page: https://cmt3.research.microsoft.com/Highlights2023
+        Registration page: TBA
+        Early submission deadline: February 17
+        Early notification: February 28
+        Submission deadline: April 25
+        Notification: May 5
+        Early registration: TBA
+        Highlights’ Collaborative Research Weak (HCRW): July 17 - July 21, 2023.
+        Conference: July 24 - July 28, 2023 (Tutorial day the 24th).
+
+    INVITED TALKS AND TUTORIALS
+    Tutorials:
+
+        Bernd Finkbeiner (Saarland Univ and CISPA, Germany)
+        Edouard Bonnet (ENS Lyon, France)
+
+    Invited talks:
+
+        Udi Boker (Reichman Univ, Israel)
+        Véronique Bruyère (Univ of Mons, Belgium)
+        Meena Mahajan (Institute of Mathematical Sciences, India)
+        Sophie Pinchinat (IRISA, France)
+        Sven Schewe (Univ of Liverpool, UK)
+
+    MODALITIES OF ATTENDANCE
+
+    HIGHLIGHTS’23 is an event that will take place on-site (barring unforeseen circumstances), and the preferred form of participation is in person. Remote attendance via a video stream will also be offered, but with limited possible interactions for these participants.
+
+    Before coming from far away, please review how your trip and international flights are contributing to climate change. We encourage you to take the train as much as possible, possibly taking the opportunity for visiting colleagues on the way and thus decomposing the travel into smaller pieces.
+
+    More generally, we encourage you to make the most of your stay. This means extending your journey to the previous and/or following weeks for more scientific activities in Kassel and around. Several initiatives are here to help you in this task:
+
+        You can participate in the Highlights’ Collaborative Research Week (HCRW, July 17-21, the week before Highlights, in Kassel). We especially encourage you to come to the HCRW if you attend ICALP’2023, which happens just before the HCRW, in Paderborn.
+        You can attend ICALP’2023 (July 10-14, in Paderborn)
+        You can attend CAV’2023 (July 17-22, in Paris)
+        You can use the Highlights Extended Stay Support Scheme (HESSS) for finding collaborators and organising visits.
+
+        HCRW page: https://highlights-conference.org/2023/hcrw
+        HESSS page: https://highlights-conference.org/2023/hesss
+
+    [EARLY] SUBMISSIONS AND GUIDELINES
+
+    Submissions should take the form of a short abstract describing the content of the presentation and its interest. It should serve as a proposal for a presentation. Hence, submissions should have a single author — the speaker. They can concern any recently published, to be published, or ongoing work of the speaker. We expect you to present your favourite result of the year, so there should be at most one submission per speaker. The abstract should list co-authors, if any. Optionally, an extended abstract of up to two pages may be attached as a PDF file.
+
+    We encourage both young and senior researchers to present.
+
+    The first early round of submissions is open until February 17th. By submitting before this first deadline, you will profit from an early notification by February 28th which may help you in organising your journey. Other presentations are to be submitted by April 25th, with a notification May 5th.
+
+    Submissions will not lead to publications. There are no formal proceedings and we encourage the presentation of work published or presented elsewhere.
+
+    The talk (which is short, around 10 minutes) can be doubled with a poster. In this case, it has to be sent more than one week before the event, and will be printed by the organisation team.
+
+    Submission page: https://cmt3.research.microsoft.com/Highlights2023
+    HIGHLIGHTS’ COLLABORATIVE RESEARCH WEEK (HCRW)
+
+    HIGHLIGHTS’23 also organises an extra week, the Highlights’ Collaborative Research Week (HCRW), from July 17th to July 21st, at the University of Kassel.
+
+    Participants to Highlights can register to this week, and are then free to organise any scientific activities. It is up to you to decide what this week should be. Possibilities can be to
+
+        meet someone in particular,
+        organise or attend a seminar/workshop/reading group,
+        gather for solving open problems.
+
+    Highlights’ organisation is offering the opportunity, the working space and support at the university, and some web-tools for the scientific organisation.
+
+    We encourage participants to propose activities in advance. Please contact the program chair (Supratik Chakraborty) and the organisation chair (Stefan Göller) to communicate your proposals.
+
+        HCRW webpage: https://highlights-conference.org/2023/hcrw
+        Offering activities: Contact Supratik Chakraborty and Stefan Göller
+        Registration to HCRW is done together with Highlights.
+
+    HIGHLIGHTS EXTENDED STAY SUPPORT SCHEME
+
+    The HESSS is an incentive for collaborations between participants to the conference and researchers working in research units reachable by train from the conference locations. The objective is to foster interactions with low carbon footprint. The mechanism is as follows:
+
+        Research units wanting to participate in the scheme are listed on the webpage: https://highlights-conference.org/2023/hcrw. These units are willing to fund collaborations between Highlights’ participants and their members.
+        The pair of a Highlights’ participant and a member of one of a listed research unit submit a proposal which takes the form of a mail containing names, period of collaboration, and a sentence describing the activity planned. It has to be sent to the HESSS contact person of the research unit.
+        The decision of acceptation is up to the research unit. It may be in particular subject to scientific scope, number or requests, or, eg, favouring distant participants.
+        The only strict rule is that the visit should be around the moment of Highlights, and no plane should be taken by the visitor between Highlights and the visit.
+        Research units interested in participating in the program should contact Thomas Colcombet.
+
+    SCOPE
+
+    Representative areas include, but are not restricted to:
+
+        Algorithmic model theory
+        Automata theory
+        Databases
+        Games for logic and verification
+        Logic
+        Verification
+
+    COMMITTEES
+    PROGRAM COMMITTEE
+
+        S. Akshay (India)
+        Suguman Bansal (USA)
+        Nathalie Bertrand (France)
+        Supratik Chakraborty (India) (Chair)
+        Krishnendu Chatterjee (Austria)
+        Javier Esparza (Germany)
+        Sandra Keifer (Germany)
+        Anotonina Kolokolova (Canada)
+        Orna Kupferman (Israel)
+        Annabelle McIver (Australia)
+        Madhusudan Parthasarathy (USA)
+        Joanna Ochremiak (France)
+        Daniela Petrisan (France)
+        Michał Pilipczuk (Poland)
+        Nir Piterman (Sweden)
+        Jean-François Raskin (Belgium)
+
+    ORGANISING COMMITTEE
+
+        Stefan Göller (chair)
+        Alina Kappes
+        Klaus Wich
+        Matthias Wolf
+        Katja Wuchterl
+
+    SAFETOC COUNSELOR
+
+        Sylke Ernst
+
+    STEERING COMMITTEE
+
+        León Bohn (webmaster)
+        Antonio Casares (publicity chair)
+        Thomas Colcombet (chair)
+        Sławek Lasota
+        Luc Segoufin
+        Sophie Tison

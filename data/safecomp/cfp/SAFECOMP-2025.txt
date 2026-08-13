@@ -1,0 +1,93 @@
+******************************************************************************************
+Call for Papers:
+44th International Conference on Computer Safety, Reliability and Security (SAFECOMP 2025)
+September 9th-12th, 2025, Stockholm, Sweden
+Website: https://safecomp2025.se/
+Submission: https://easychair.org/conferences/?conf=safecomp2025
+******************************************************************************************
+
+****************
+Important Dates:
+****************
+
+Workshop proposal submission: 7 February 2025
+Abstract submission: 7 February 2025
+Full paper submission: 14 February 2025
+Notification of acceptance: 12 April 2025
+Camera-ready submission: 1 June 2025
+
+***************
+About SAFECOMP:
+***************
+
+The SAFECOMP Conference Series, established in 1979 by the European Workshop on Industrial Computer Systems, Technical Committee 7 on Reliability, Safety and Security (EWICS TC7), offers a platform for knowledge and technology transfer between academia, industry, research institutions and standardization bodies in the areas of safety, reliability and security regarding critical computer applications. It provides ample opportunity to exchange insights and experience on emerging methods, approaches, and practical solutions. It is a single-track conference allowing easy networking.
+
+*******************************
+Topics and Application Domains:
+*******************************
+
+The conference covers all aspects related to the development, assessment, operation, and maintenance of safety-related and safety-critical computer systems.
+
+Major topics include, but are not limited to:
+
+- Distributed and real-time monitoring and control
+- Fault-tolerant and resilient hardware and software architectures
+- Fault detection and recovery mechanisms
+- Security and privacy protection mechanisms for safety applications
+- Safety guidelines and standards
+- Safety/security co-engineering and trade-offs
+- Safety and security qualification, quantification, assurance and certification
+- Threats and vulnerability analysis
+- Risk assessment in safe and secure systems
+- Dependability analysis using simulation and experimental measurement
+- Model-based analysis, design, and assessment
+- Formal methods for verification, validation, and fault tolerance
+- Testing, verification, and validation methodologies and tools
+- Multi-concern dependability assurance and standardization
+
+Domains of application include (but are not limited to):
+
+- Railways, automotive, space, avionics & process industries
+- Highly automated and autonomous systems
+- Telecommunication and networks
+- Safety-related applications of smart systems and IoT
+- Critical infrastructures, smart grids, SCADA
+- Medical devices and healthcare
+- Surveillance, defense, emergency & rescue
+- Logistics, industrial automation, off-shore technology
+- Education & training
+
+************************
+SAFECOMP 2025 Key Theme:
+************************
+
+By its key theme "Managing safety in an era of a software-defined computing continuum" SAFECOMP 2025 will address in particular also the following topics:
+
+- Predictability and reliability of cloud and edge computing, and AI components
+- Architectures ensuring safety while enhancing performance
+- Co-design of applications and digital infrastructure to achieve cost-efficient dependability
+- Trustworthy DevOps – reconciling software and safety practices
+
+************************
+SAFECOMP 2025 Workshops:
+************************
+
+It is planned to have workshops on the day preceding the conference. Workshop proposals should be sent by email to the SAFECOMP 2025 Workshop Chairs (Erwin Schoitsch at AIT Austrian Institute of Technology, AT and Elena Troubitsyna at KTH, SE) including scope and contents, programme committee and length (half or full day). It is planned to include accepted contributions in the SAFECOMP Workshop Proceedings as far as the publisher’s requirements are fulfilled.
+
+*******************
+Submission Details:
+*******************
+
+The following two types of submissions are explicitly invited:
+
+1. Research articles addressing a research gap and illustrating how the contribution submitted can help improve the state-of-the-art by advancing current knowledge (up to 14 pages);
+2. Practical experience reports or tool descriptions providing new insights and valuable support to practitioners (up to 14 pages).
+
+All papers will be reviewed by at least three members of the International Programme Committee. Papers must not have been previously published or concurrently submitted elsewhere. Accepted articles will be published by Springer in the LNCS Series.
+
+Our thanks go to all colleagues supporting the organization of SAFECOMP 2025, in particular the Publication, Workshop and Industry Chairs as well as all members of the Organizing Committee and of the International Programme Committee, as indicated on the conference website (https://safecomp2025.se/).
+
+We are looking forward to your submission and attendance!
+
+The SAFECOMP 2025 General Chairs
+Fredrik Asplund (KTH, SE) and Martin Törngren (KTH, SE)

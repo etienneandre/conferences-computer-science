@@ -1,0 +1,82 @@
+
+=======================================
+
+2nd Call for Papers QEST+FORMATS 2026
+September 2-4, 2026, Liverpool, UK
+https://www.qest-formats.org/
+https://confest-2026.github.io/
+
+=======================================
+Dates:
+
+Abstract submission: April 3, 2026
+Paper submission: April 10, 2026
+Artifact submission: April 17, 2026
+Author notification: May 24, 2026
+Camera-ready submission: June 14, 2026
+
+
+=======================================
+Scope and Topics
+
+The two flagship conferences QEST (International Conference on Quantitative Evaluation of SysTems) and FORMATS (International Conference on Formal Modeling and Analysis of Timed Systems) are pursuing a strategic process of joining forces and sparking a new joint conference for quantitative modelling, analysis, and verification. This culminated in 2024 in the first QEST+FORMATS joint conference. In 2026, the two conferences will form the third QEST+FORMATS joint conference, which will be held on 2-4 September 2026 in Liverpool, UK, as part of the CONFEST 2026 umbrella conference.
+
+The joint conference is the leading forum for the quantitative evaluation and verification of systems. QEST+FORMATS aims to promote the study of fundamental and practical aspects of systems with quantitative nature (such as probability, timing, and cost). It aims to bring together researchers from different disciplines who share interests in the modelling, design, and analysis of computational systems. Systems of interest include biological and chemical systems; computer networks; critical infrastructures; cyber-physical systems; data-driven AI systems; energy systems; hardware and software systems; industrial systems; mobility networks; and quantum systems. The QEST+FORMATS joint conference also aims to attract researchers interested in real-time issues in hardware design, performance analysis, real-time software, scheduling, semantics and verification of timed, hybrid, and probabilistic systems. In general, the conference aims to attract experts in quantitative and timed systems from any domain.
+
+Topics and scientific areas of interest include:
+
+--- Models and metrics for the correctness, performance, reliability, safety, and security of systems (stochastic, probabilistic, quantum, and non-deterministic models including Markov chains, automata, Petri nets, process algebra, and their variations);
+--- Languages and methods for the specification of quantitative properties of systems;
+--- Techniques, algorithms, and data structures for the analysis, evaluation, and verification of the above models, e.g., for model checking, testing, constraint solving, scheduling, optimization, and worst-case execution time analysis;
+--- Quantitative and probabilistic aspects of programming;
+--- Data-driven and machine-learning techniques for the analysis, prediction, and verification of quantitative properties of systems;
+--- Case studies that highlight the role of quantitative specification, modelling, and evaluation in the design and analysis of systems, with emphasis on emerging problems and technologies, or novel domains;
+--- Software tools to support the practical application of research results in all of the above areas.
+
+
+=======================================
+Confirmed Invited Speakers
+
+Ezio Bartocci, TU Wien, Austria
+Jane Hillston, University of Edinburgh, UK
+Kim Guldstrand Larsen, Aalborg University, Denmark
+
+
+=======================================
+Submissions
+
+QEST+FORMATS 2026 considers three types of submissions (authors will be able to specify the type of contribution upon submission):
+
+--- Research papers: Theoretical and methodological contributions that advance the understanding of a topic or issue, or describe the development of new analysis processes and techniques.
+--- Case study papers: Contributions that present practical applications of quantitative methods to challenging real-world case studies. Case study papers shall provide detailed evaluation and insights, and highlight the value added to the domain experts.
+--- Tool papers: Contributions introducing new tools or significant improvements of existing ones, and the formalisms they support. These papers shall focus on the software architecture, practical implementation, and evaluation (e.g., usability, scalability, and effectiveness). Tool papers must be accompanied by an artifact in the Artifact Evaluation as detailed below.
+
+All three types of papers can be regular or short:
+--- Regular papers must not exceed 16 pages, excluding references.
+--- Short papers should be limited to 7 pages, also excluding references.
+--- All papers can have an appendix containing supporting material. Note that reviewers are not required to read the appendix to fully assess the merits of the paper.
+
+We are considering additional presentation-only submission types; details will be provided in the later CfPs.
+
+All papers must be submitted in Springer's LNCS format and will undergo a rigorous single-blind review process. All submitted papers must be unpublished and not be submitted for publication elsewhere. Papers should be submitted electronically using EasyChair (Track: QEST+FORMATS 2026).
+
+Springer encourages authors to include their ORCIDs in their papers. Authors should consult Springer's authors' guidelines and use Springer's LaTeX templates for the preparation of their papers. Submitted papers not complying with the above guidelines may be rejected without undergoing review.
+
+We are considering awards for best papers and best artifacts.
+
+
+=======================================
+Publications
+
+All accepted papers need to be presented and discussed at the conference by one of the authors. Similarly to last year, the QEST+FORMATS 2026 proceedings will be published in the Springer LNCS series indexed by ISI Web of Science, Scopus, ACM Digital Library, DBLP, Google Scholar. All submitted papers will be evaluated by at least three reviewers on the basis of their originality, technical quality, scientific or practical contribution to the state of the art, methodology, clarity, and adequacy of references.
+
+
+=======================================
+Special Issue
+
+We are working on a special issue in a Q1 journal. A selection of the best papers will be invited to submit an extended version of their work to a special issue in an internationally recognized journal.
+
+=======================================
+Artifact Evaluation
+
+Reproducibility of experimental results is crucial to foster an atmosphere of trustworthy, open, and reusable research. To improve and reward reproducibility, QEST+FORMATS 2026 will include a dedicated Artifact Evaluation (AE). Submission of an artifact is mandatory for tool papers (both regular and short), and optional but encouraged for research and case study papers where it can support the results presented in the paper. More details will follow.

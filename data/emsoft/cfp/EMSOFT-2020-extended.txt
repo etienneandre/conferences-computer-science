@@ -1,0 +1,229 @@
+=========================================================================
+                          EMBEDDED SYSTEMS WEEK
+       Call for Papers, Workshops, Tutorials, and Special Sessions
+
+CASES * CODES+ISSS * EMSOFT * Trustworthy IoT Day * NOCS * Workshops * Tutorials
+
+                 Hamburg, Germany, September 20 - 25, 2020
+                             www.esweek.org
+=========================================================================
+
+-------------------------------------------------------------------------
+UPDATES
+-------------------------------------------------------------------------
+* In view of the unprecedented Covid-19 situation, the full paper
+  submission is extended by one week. Note that the abstract submission
+  deadline remains unchanged.
+* The submission template changed from ACM to the IEEE template. Updated
+  instructions for manuscript preparation are available at
+  https://www.esweek.org/author-information
+* Call for PhD Student Forum released:
+  https://www.esweek.org/phd-student-forum-esweek-2020
+* Due to the current Covid-19 virus situation, the venues for ESWEEK 2020
+  and 2021 were swapped. ESWEEK 2020 will now be held in Hamburg, Germany
+  from September 20-25.
+
+-------------------------------------------------------------------------
+About Embedded Systems Week (ESWEEK)
+-------------------------------------------------------------------------
+Embedded Systems Week (ESWEEK) is the premier event covering all
+aspects of hardware and software design for smart, intelligent and
+connected computing systems. By bringing together three leading
+conferences (CASES, CODES+ISSS, EMSOFT), one symposium (NOCS), and
+several workshops and tutorials, ESWEEK allows attendees to benefit
+from a wide range of topics covering the state of the art in embedded
+systems research and development.
+
+https://esweek.org/sites/default/files/ESWEEK_2020_CFP.pdf
+
+Registered attendees can attend sessions in any of the ESWEEK
+conferences (CASES, CODES+ISSS, EMSOFT). Please note that tutorials,
+symposium (NOCS), and workshops may require separate registration.
+
+-------------------------------------------------------------------------
+Timeline
+-------------------------------------------------------------------------
+Journal Track:
+- Abstract Submission: April 3, 2020 (firm)
+- Full Paper Submission: April 17, 2020 (extended by one week; firm)
+- Notification of Acceptance: July 6, 2020
+
+Work-in-Progress Track:
+- Paper Submission: June 5, 2020 (firm)
+- Notification of Acceptance: July 6, 2020
+
+Workshop Proposals: April 17, 2020
+Tutorial Proposals: May 1, 2020
+Special Session Proposals: May 1, 2020
+
+-------------------------------------------------------------------------
+Paper Process
+-------------------------------------------------------------------------
+ESWEEK 2020 continues a dual publication model comprising the Journal
+track and the Work-in-Progress (WiP) track. Journal track papers, which
+are full-length papers describing mature work, will be published in the
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+Systems (TCAD). The WiP track papers, which are short (2-page) papers
+representing not-yet-mature but promising research, will be published in
+the ESWEEK proceedings and will be listed as regular publications within
+the IEEE and/or ACM digital libraries. Authors of WiP papers have the
+opportunity to publish the extended form of their work in any conference
+or journal they prefer. Journal and WiP papers are mutually exclusive,
+i.e., a work can only be in submission in one of the two tracks.
+For more information on the publishing process, refer to
+
+              https://www.esweek.org/author-information
+
+-------------------------------------------------------------------------
+CASES: International Conference on Compilers, Architectures,
+and Synthesis for Embedded Systems
+-------------------------------------------------------------------------
+CASES is a premier forum where researchers, developers and practitioners
+exchange information on the latest advances in compilers and
+architectures for high-performance, low-power embedded systems. The
+conference has a long tradition of showcasing leading edge research in
+embedded processor, memory, interconnect, storage architectures and
+related compiler techniques targeting performance, power, predictability,
+security, reliability issues for both traditional and emerging application
+domains. In addition, we invite innovative papers that address design,
+synthesis, and optimization challenges in heterogeneous and accelerator-
+rich architectures.
+
+https://www.esweek.org/cases/about
+
+CASES Program Chairs:
+Partha Pande, Washington State University, US
+Umit Ogras, Arizona State University, US
+
+-------------------------------------------------------------------------
+CODES+ISSS: International Conference on Hardware/Software Codesign
+and System Synthesis
+-------------------------------------------------------------------------
+The International Conference on Hardware/Software Codesign and System
+Synthesis is the premier event in system-level design, modeling,
+analysis, and implementation of modern embedded and cyber-physical
+systems, from system-level specification and optimization down to system
+synthesis of multi-processor hardware/software implementations. The
+conference is a forum bringing together academic research and industrial
+practice for all aspects related to system-level and hardware/software
+co-design.
+
+https://www.esweek.org/codes/about
+
+CODES+ISSS Program Chairs:
+Roman Lysecky, University of Arizona, US
+Jason Xue, City University of Hong Kong, HK
+
+-------------------------------------------------------------------------
+EMSOFT: International Conference on Embedded Software
+-------------------------------------------------------------------------
+The ACM SIGBED International Conference on Embedded Software (EMSOFT)
+brings together researchers and developers from academia, industry, and
+government to advance the science, engineering, and technology of
+embedded software development. Since 2001, EMSOFT has been the premier
+venue for cutting-edge research in the design and analysis of software
+that interacts with physical processes, with a long-standing tradition
+for results on cyber-physical systems, which compose computation,
+networking, and physical dynamics.
+
+https://www.esweek.org/emsoft/about
+
+EMSOFT Program Chairs:
+Timothy Bourke, Inria Paris, FR
+Linh Thi Xuan Phan, University of Pennsylvania, US
+
+-------------------------------------------------------------------------
+Special Day on Trustworthy Internet-of-Things
+-------------------------------------------------------------------------
+The Internet of Things (IoT) promises to revolutionize the world by
+connecting the Internet to physical things. Trust, security, and privacy
+are central to the achievement of the IoT vision: advanced computation,
+communication, and storage must be delivered in a safe, secure, and
+reliable manner. Trustworthy IoT special day will provide a forum for
+academia and industry to present and discuss innovative ideas and
+solutions related to all facets of trustworthy internet-of-things.
+Submissions to the Trust-worthy IoT day are via the three conferences.
+
+https://esweek.org/special-day-trustworthy-internet-things
+
+-------------------------------------------------------------------------
+Call for Workshop Proposals
+-------------------------------------------------------------------------
+ESWEEK 2020 will host several workshops on September 24/25th and is
+soliciting proposals for new and recurring workshops. ESWEEK workshops
+are excellent opportunities to bring together researchers and
+practitioners from different communities to share their experiences in
+an interactive atmosphere and to foster collaboration for new and
+innovative projects. We invite you to submit workshop proposals on any
+topic related to the broad set of research, education, and application
+areas in embedded systems. Proposals should be submitted before the
+deadline of April 17, 2020.
+
+https://www.esweek.org/call-workshop-proposals
+
+Workshop Chair:
+Patricia Derler, National Instruments, US
+
+-------------------------------------------------------------------------
+Call for Tutorial Proposals
+-------------------------------------------------------------------------
+ESWEEK 2020 is looking for high-quality tutorials that will take place
+on Sep. 20. Tutorials offer a unique opportunity where presenters can
+interact with attendees and attendees can gain in-depth knowledge on
+specific topics. Tutorials on all topics related to embedded system
+design, analysis and development are welcome and can be either half
+or full day, lecture style or hands on.
+We invite you to submit tutorial proposals before May 1.
+
+https://esweek.org/call-tutorial-proposals
+
+Tutorial Chair:
+Siddharth Garg, New York University, US
+
+-------------------------------------------------------------------------
+Call for Special Session Proposals
+-------------------------------------------------------------------------
+We invite you to submit special session proposals on any topic related to
+the broad areas of interest of ESWEEK and beyond. The special session
+should cover a topic that is contemporary, hot, and complementary to the
+regular sessions. The special session should be able to generate
+enthusiasm among the ESWEEK participants. Proposals should be submitted
+before the deadline of May 1, 2020.
+
+https://www.esweek.org/call-special-session-proposals
+
+Special Sessions Chair:
+Paul Bogdan, University of Southern California, US
+
+-------------------------------------------------------------------------
+Call for PhD Student Forum
+-------------------------------------------------------------------------
+ESWEEK 2020 will host a PhD Student Forum, which will be organized as a
+session of lightning talks followed by a panel discussion and a series
+of poster presentations by the students. The forum will provide an
+interactive platform for doctoral students to discuss their ongoing
+work towards their Ph.D. with a panel of experienced researchers in the
+field and offer an opportunity for the doctoral students to establish
+a professional network with peers and experts in the research community.
+Each prospective PhD student participant should submit an extended
+abstract no more than two pages as the sole author about the PhD
+dissertation work until July 13, 2020.
+
+https://www.esweek.org/phd-student-forum-esweek-2020
+
+Student Forum Chair:
+Liang Cheng, Lehigh University, US
+
+-------------------------------------------------------------------------
+Organization
+-------------------------------------------------------------------------
+ESWEEK 2020 General Chairs:
+Tulika Mitra, National University of Singapore, SG
+Andreas Gerstlauer, University of Texas Austin, US (Vice General Chair)
+Petru Eles, Linköping University, SE (Past Chair)
+
+ESWEEK Conference Chair:
+Heiko Falk, Hamburg University of Technology, DE
+
+
+                             www.esweek.org

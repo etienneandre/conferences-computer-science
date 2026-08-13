@@ -1,0 +1,128 @@
+STACS 2020 - Call for papers
+
+The 37th International Symposium on Theoretical Aspects of Computer
+Science March 10—13, 2020, Montpellier, France
+
+https://stacs2020.sciencesconf.org
+
+Authors are invited to submit papers presenting original and unpublished
+research on theoretical aspects of computer science. Typical areas
+include (but are not limited to):
+
+* algorithms and data structures,
+  including: design of parallel, distributed, approximation,
+parameterized and randomized algorithms; analysis of algorithms and
+combinatorics of data structures; computational geometry, cryptography,
+algorithmic learning theory, algorithmic game theory;
+* automata and formal languages,
+  including: algebraic and categorical methods, coding theory;
+* complexity and computability,
+  including: computational and structural complexity theory,
+parameterized complexity, randomness in computation;
+* logic in computer science,
+  including: finite model theory, database theory, semantics,
+specification verification, rewriting and deduction;
+* current challenges,
+  for example: natural computing, quantum computing, mobile and net
+computing, computational social choice.
+
+
+INVITED SPEAKERS
+Olivier Bournez, LIX, Palaiseau, France
+Martin Grohe,RTWH Aachen University, Germany
+Dana Randall, Georgia Institute of Technology, USA
+
+PROGRAM COMMITTEE
+Spyros Angelopoulos, CNRS, Sorbonne Université, Paris, France
+V. Arvind, Institute of Mathematical Science, Chennai, India
+Sayan Bhattacharya, University of Warwick, United Kingdom
+Laurent Bienvenu, CNRS, Université de Bordeaux, France
+Markus Bläser, Universität des Saarlandes, Saarbrücken, Germany, co-chair
+Manuel Bodirsky, Technische Universität Dresden, Germany
+Jop Briet, CWI, Amsterdam, Netherlands 
+Wojciech Czerwinski, University of Warsaw, Poland
+Holger Dell, IT University of Copenhagen, Denmark
+Faith Ellen, University of Toronto, Canada
+Petr Golovach, Bergen University, Norway
+John Hitchcock, University of Wyoming, USA
+Christian Ikenmeyer, Max Planck Institute, Saarbrücken, Germany
+Shunsuke Inenaga, Kyushu University, Fukuoka, Japan
+Christian Konrad, University of Bristol, United Kingdom
+Kasper Green Larsen, Aarhus University, Denmark
+Ranko Lazic, University of Warwick, United Kingdom
+Meena Mahajan,  Institute of Mathematical Science, Chennai, India
+Ulrich Meyer, Goethe University, Frankfurt am Main, Germany
+Benjamin Monmège, Aix-Marseille Université, France
+Christophe Paul, CNRS, Université de Montpellier, France, co-chair
+Marcin Pilipczuk, University of Warsaw, Poland
+Eva Rotenberg, Technical University of Denmark, Lingky, Denmark
+Pierre Senellart, Ecole Normale Supérieure, Université Paris Sciences et Lettres, France
+Till Tantau, Lübeck University, Germany
+Lidia Tendera, Opole University, Poland
+Corentin Travers, Université de Bordeaux, France
+Alfredo Viola, Universidad de la Républica de Urugay, Urugay
+Georg Zetzsche, Max Planck Institute, Saarbrücken, Germany
+Thomas Zeume, Technische Universität Dortmund, Germany
+Martin Ziegler, KAIST, Daejon, South Korea
+Standa Zivny, University of Oxford, United Kingdom
+
+
+TUTORIALS
+
+There will be the tutorials (to be announced) taking place on March 10, 2020.
+
+
+SUBMISSIONS
+
+Submissions can be uploaded to EasyChair:
+https://easychair.org/conferences/?conf=stacs2020
+
+Authors are invited to submit a draft of a full paper with at most 12
+pages (excluding the title page and the references section).
+The title page consists of the title of the paper, author information,
+and abstract.
+
+The usage of pdflatex and the LIPIcs style file (see
+http://www.dagstuhl.de/en/publications/lipics) are mandatory; no changes
+to font size, page geometry, etc. are permitted. Submissions not in the
+correct format or submitted after the deadline will not be considered.
+
+The paper should contain a succinct statement of the issues and of their
+motivation, a summary of the main results, and a brief explanation of
+their significance, accessible to non-specialist readers.
+
+Proofs omitted due to space constraints must be put into an appendix, to
+be read by the program committee members at their discretion.
+
+Simultaneous submission to other conferences with published proceedings
+or to journals is not allowed. PC members are excluded from submitting.
+
+There will be a rebuttal period for authors between November 26—29,
+2019. Authors will receive the reviews of their submissions (via
+EasyChair) and have three days to submit rebuttals (via EasyChair).
+These rebuttals become part of the PC meeting, but entail no specific
+responses.
+
+PROCEEDINGS
+
+Accepted papers will be published in the proceedings of the symposium.
+As usual, these proceedings will appear in the Leibniz International
+Proceedings in Informatics (LIPIcs) series, based at Schloss Dagstuhl.
+This guarantees perennial, free and easy electronic access, while the
+authors retain the rights over their work. With their submission,
+authors consent to sign a license authorizing the program committee
+chairs to organize the electronic publication of their paper, provided
+the paper is accepted.
+
+IMPORTANT DATES
+
+* Deadline for submissions: September 30, 2019 (AoE)
+* Rebuttal: November 25–28, 2019
+* Author notification: December 20, 2018
+* Final version: January 17, 2020
+* STACS 2020: March 10–13, 2020
+
+CONTACT INFORMATION
+
+Web: https://stacs2020.sciencesconf.org
+Email: stacs2020@lirmm.fr

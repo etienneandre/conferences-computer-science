@@ -1,0 +1,77 @@
+20th International Conference on Reachability Problems (RP’26)
+	1st Call for Papers
+
+The 20th International Conference on Reachability Problems (RP’26) will
+be organized by Department of Mathematics and Statistics, University of
+Turku, Finland. The conference will take place from 21 to 23 October, 2026.
+
+Invited Speakers
+• Laura Kovács (Vienna University of Technology, Austria)
+• Antti Kuusisto (Tampere University, Finland)
+• Igor Potapov (University of Liverpool, UK)
+• Ilkka Törmä (University of Turku, Finland)
+• James Worrell (University of Oxford, UK)
+
+Important Dates
+• Submission deadline for regular research papers: June 21
+• Submission deadline for presentation-only abstracts: July 26
+• Notification of acceptance: August 3
+
+Scope of the conference
+RP is specifically aimed at gathering together scholars from diverse
+disciplines and backgrounds interested in reachability problems that
+appear in
+• Algebraic structures
+• Automata theory and formal languages
+• Computational game theory
+• Concurrency and distributed computation
+• Decision procedures in computational models
+• Hybrid systems
+• Logic and model checking
+• Verification of finite and infinite-state systems
+
+Submission and publication
+There are two types of submissions: regular research papers and
+presentation-only contributions. Accepted regular research papers will
+be published in the Springer LNCS proceedings of RP’26.
+Presentation-only contributions require a short abstract, and should
+have a clear relevance with the scope of the conference.
+
+For more instructions on submissions, see https://math.utu.fi/rp26/.
+RP26 is pleased to announce a Best Paper Award, with a prize of EUR 500,
+sponsored by Springer.
+
+Program Committee
+• Mohamed Faouzi Atig (Uppsala University, Sweden)
+• Paul Bell (Liverpool John Moores University, UK)
+• Michaël Cadilhac (DePaul University, USA)
+• Enrico Formenti (Université Côte d’Azur, France)
+• Anahi Gajardo (Universidad de Concepción, Chile)
+• Moses Ganardi (MPI-SWS, Germany)
+• Vesa Halava (University of Turku, Finland) co-chair
+• Mika Hirvensalo (University of Turku, Finland)
+• Piotr Hofman (University of Warsaw, Poland)
+• Lukáš Holik (Brno University of Technology, CZ)
+• Raphaël Jungers (UCLouvain, Belgium)
+• Jarkko Kari (University of Turku, Finland) co-chair
+• Sandra Kiefer (University of Oxford, UK)
+• Joshua Moerman (Open Universiteit, Netherlands)
+• Reino Niskanen (Liverpool John Moores University, UK)
+• Andrew Ryzhikov (University of Warsaw, Poland)
+• Ville Salo (University of Turku, Finland)
+• Sylvain Sené (Aix-Marseille Université, CNRS, France)
+• Ana Sokolova (University of Salzburg, Austria)
+• Matthias Wendlandt (JLU Giessen, Germany)
+• Sarah Winter (IRIF, France)
+
+Organizers
+• Vesa Halava (co-chair)
+• Jarkko Kari (co-chair)
+• Risto Huovinen
+• Katariina Paturi
+• Antti Tuominen
+• Arto Lepistö
+
+More information will be available at: https://math.utu.fi/rp26/
+For questions please contact: rp26@utu.fi.
+

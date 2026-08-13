@@ -1,0 +1,96 @@
+Final Call for Papers - Deadline Extended to October 31st, 2021.
+
+================================================================
+Track on Software Engineering of 
+the 37th ACM/SIGAPP Symposium on Applied Computing (ACM SAC) 2022
+
+April 25-April 29, 2022, Brno, Czech Republic
+================================================================
+http://selab.uos.ac.kr/sacse22/
+https://www.sigapp.org/sac/sac2022/tracks.html 
+
+* Important Dates *
+- October 31st, 2021: (Extended) Paper submission Due 
+- December 10th, 2021 : Author notification
+- December 21st, 2021 : Camera-ready copy
+
+* Aims and Topics *
+
+The Objective of the Software Engineering (SE) Track is to provide an open forum for
+discussing a wide range of experience and ideas of developing high-quality software
+applications more effectively and efficiently. The SE track examines both macroscopic 
+and microscopic aspects of in-depth theories, tools, and practices in the field of 
+software engineering. It provides a platform for academic researchers and industry 
+practitioners to seek collaboration opportunities, and identify the state-of-art 
+technologies, which are vital to the software engineering community.
+- Architecture, Framework, and Design Patterns
+- Requirements Engineering
+- Process, Standards, and Project Management
+- Software Maintenance and Evolution
+- Software Testing and Verification
+- Mining Software Repositories
+- Quality Assurance and Management
+- Verification, Validation, Testing, and Analysis
+- Safety, Security, Privacy, and Risk management
+- Dependability and Reliability
+- Fault Tolerance and Availability
+- Metrics and Measurement
+- Formal Methods and Theories
+- Aspect-Oriented Software Development and Design
+- Component-Based Development and Reuse
+- Empirical Studies, Benchmarking, and Industrial Best Practices
+- Applications and Tools
+- Pervasive, Ubiquitous, Smart Service-Oriented Computing
+- Search-based Software Engineering
+
+* Paper Submission & Selection *
+
+Research papers and experience reports related to the above topics are solicited. Submissions 
+must not have been published or be concurrently considered for publication elsewhere. Papers 
+should be submitted in the PDF format using the ACM-SAC proceedings format via the START 
+submission system. Each submission will be reviewed in a double-blind process according to 
+the ACM-SAC Regulations. To facilitate blind review, author’s names and affiliations should 
+be entered separately at the submission site and must NOT appear in any part of the paper 
+including title, paper body, references, and any self-reference should be in the third person. 
+
+Paper selection is based on the originality, technical contribution, presentation quality, 
+and relevance to the SE Track. Upon paper acceptance, prospective authors must provide a 
+camera-ready version which takes into account the review comments. The conference proceedings 
+will be published by ACM and also available online through the ACM Digital Library. 
+
+Note that we don’t have any separate review category for poster papers. Therefore, all 
+submissions will be reviewed as regular papers. Papers that received high reviews but were 
+not accepted as regular papers can be invited for the poster session. If the invited authors 
+accept our invitation, their camera-ready paper should be re-formatted as a short (poster)
+paper.
+
+Paper registration is required, allowing the inclusion of the regular paper/poster paper in 
+the conference proceedings. An author or a proxy attending SAC MUST present the paper. This 
+is a requirement for the paper/poster to be included in the ACM digital library. No-show of 
+registered papers and posters will result in excluding them from the ACM digital library.
+
+* Note for Accepted Papers *
+
+- The length of each regular paper is 8 pages + 2 pages at extra charge (max of 10 pages).
+- The length of each poster paper is 3 pages + 1 page at extra charge (max of 4 pages). In 
+addition, the poster authors need to prepare and bring to the conference a large poster for 
+display and presentation. The poster size information will be posted on the SAC 2022 website.
+- The length of each SRC abstract is 4 pages (no extra pages allowed).
+
+* Student Research Abstracts Competition (SRC) *
+
+Graduate students are invited to submit research abstracts following the instructions 
+published at SAC 2022 SRC website through the START SRC Submission System.
+
+* Track Co-Chairs *
+
+- Byungjeong Lee (Lead TC), University of Seoul, Korea, Email: bjlee@uos.ac.kr
+- Eunjee Song, Baylor University, USA, Email: eunjee_song@baylor.edu
+- Tao Zhang, Macau University of Science and Technology, China, Email: tazhang@must.edu.mo
+
+* General Inquiries *
+
+For any further information, please visit SAC 2022 conference website 
+(http://selab.uos.ac.kr/sacse22/), 
+or feel free to contact the Track Co-Chair, Byungjeong Lee, University of Seoul, Korea 
+(at bjlee@uos.ac.kr).

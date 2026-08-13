@@ -19,3 +19,11 @@ publisher = "?"
 
 [extra]
 notes = "Notification after abstract submission: September 22nd 2017."
+
+[[cfp]]
+file = "cfp/ERTS-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ERTS-2018-extended.txt"
+stage = "extended"

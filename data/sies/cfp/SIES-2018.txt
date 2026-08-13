@@ -1,0 +1,102 @@
+ -------------------------------------------------------------------------------
+   ***** Deadline for submission of regular papers: February 25, 2018 ***** 
+  ***** Deadline for submission of work-in-progress papers: April 13, 2018 ***** 
+
+
+                   CALL FOR REGULAR & WORK IN PROGRESS PAPERS 
+                      
+ --------------------------------------------------------------------------------                                     
+
+                                     SIES 2018
+         13th IEEE International Symposium on Industrial Embedded Systems
+                             June 6-8, 2018, Graz, Austria
+
+       INTRODUCING: CO-LOCATED 2nd Symposium on Dependable IoT - 5 June 2018
+
+                                     Sponsors:  
+                   IEEE Council on Electronic Design Automation 
+                    Embedded Automotive Systems Group, TU Graz 
+
+ -------------------------------------------------------------------------------- 
+                      Web site: http://sies2018.tugraz.at
+ -------------------------------------------------------------------------------- 
+
+ The IEEE symposium brings together researchers and practitioners from industry 
+ and academia and provides them with a platform to report on recent developments, 
+ deployments, technology trends and research results, as well as initiatives 
+ related to embedded systems and their applications in a variety of industrial 
+ environments.
+
+ -------------------------------------------------------------------------------- 
+ FOR TRACK CHAIRS & TOPICS SEE THE CONFERENCE WEB SITE                   
+ --------------------------------------------------------------------------------
+General Co-Chairs:
+Marcel Baunach, TU Graz, Austria
+Roman Obermaisser, University of Siegen, Germany
+
+Program Committee Co-Chairs:
+Stig Petersen, SINTEF, Norway
+Roberto Passerone, Univ of Trento, Italy
+
+WiP and Posters Co-Chairs:
+Tobias Hoßfeld, University of Duisburg, Germany
+Haibo Zeng, VirginiaTech, USA
+
+IEEE CEDA Representative:
+Yao-Wen Chang, National Taiwan University, Taiwan
+
+Finance Co-Chair:
+Richard Zurawski, ISA Group, USA
+Carlo Alberto Boano, TU Graz, Austria
+
+ SIES Series Steering Committee:
+ R. Ernst, TUB, Germany
+ G. De Micheli, EPFL, Switzerland
+ R. Gupta, UC San Diego, USA
+ A. Sangiovanni-Vincentelli, UC Berkeley, USA
+ R. Zurawski, ISA Group, USA
+
+ International Advisory Committee:
+ J. J. Chen, KIT, Germany
+ E. Dekneuvel, UNSA, France
+ M. Di Natale, Scuola Superiore S. Anna, Pisa, Italy
+ L. Gomes, Uninova, Portugal
+ T. Nolte, Mälardalen University, Sweden
+ R. Obermaisser, University of Siegen, Germany
+ R. Passerone, Univ. of Trento, Italy
+ G. Sassatelli, LIRM, France
+ J-L Scharbarg, ENSEEEIHT, France
+ E. Tovar, IPP, Portugal
+ A. Vachoux, EPFL, Switzerland
+
+ --------------------------------------------------------------------------------
+ SUBMISSIONS: Two types of submissions are solicited. Long Papers from 6 to 10  
+ double column pages in a font no smaller than 10-points. Work-in-Progress limited 
+ to 4 double column pages in a font no smaller  than 10-points.  
+
+ FOR SUBMISSION DETAILS SEE THE CONFERENCE WEB SITE     
+ -------------------------------------------------------------------------------- 
+                          POST CONFERENCE PUBLICATION
+
+ A special section in IEEE Transaction on Industrial Informatics (IF of 4.708) 
+ will be organized based on selected papers from the SIES2017 symposium. 
+ -------------------------------------------------------------------------------
+
+ INTRODUCING: CO-LOCATED 2nd Symposium on Dependable IoT - 5 June 2018
+                 for details, see SIES2018 web site
+
+-------------------------------------------------------------------------------
+ CONTACT INFORMATION
+ E-mail: sies2018@iti.tugraz.at
+
+ ------------------------------------------------------------------------------- 
+
+ Web site: http://sies2018.tugraz.at
+
+ -------------------------------------------------------------------------------- 
+
+   ***** Deadline for submission of regular papers: February 25, 2018 ***** 
+ ***** Deadline for submission of work-in-progress papers: April 13, 2018 ***** 
+ --------------------------------------------------------------------------------
+
+

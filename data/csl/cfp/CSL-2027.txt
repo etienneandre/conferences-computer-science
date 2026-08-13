@@ -1,0 +1,160 @@
+=====================================
+Call for papers CSL 2027
+Brighton, UK
+25-29 January 2027
+Abstract submission:  Wednesday, July 8 (AoE)
+Submission site: https://form.sdu.dk/CSL2027/
+https://csl2027.github.io/
+=====================================
+
+Computer Science Logic (CSL) is the annual conference of the European Association for Computer Science Logic (EACSL), see https://www.eacsl.org/ It is an interdisciplinary conference, spanning across both basic and application oriented research in mathematical logic and computer science.
+
+CSL 2027 is the 35th edition of the conference and will be held in Brighton on 25-29 January 2027, organised by Matteo Acclavio and Giulio Guerrieri.
+
+Topics:
+--------------
+Topics of interest include, but are not limited to:
+- automata and games
+- automated deduction
+- category theory, categorical logic, and topological semantics
+- coalgebra
+- computability
+- concurrency and distributed computation
+- constructive mathematics
+- cyclic proofs
+- database theory
+- decision procedures
+- denotational semantics
+- description logics
+- domain theory
+- effects
+- equational logic and term rewriting
+- finite model theory
+- first-order logic
+- formal methods
+- foundations of programming languages
+- game semantics
+- higher-order logic
+- interactive theorem proving
+- intersection types
+- knowledge representation and reasoning
+- lambda calculus and combinatory logic
+- linear logic
+- logic programming and constraints
+- logical aspects of AI
+- logical aspects of computational complexity
+- logical aspects of quantum computing
+- modal and temporal logic
+- model checking
+- nonmonotonic reasoning
+- probabilistic methods
+- program synthesis
+- proof theory
+- realizability
+- security and privacy
+- specification, extraction and transformation of programs
+- type systems
+- type theory
+- verification and program analysis
+
+Submission:
+--------------
+Submitted papers must be in English and must provide sufficient detail to allow the Programme Committee to assess the merits of the paper. Full proofs may appear in a clearly marked technical appendix which will be read at the reviewers' discretion. Authors are strongly encouraged to include a well written introduction which is directed at all members of the PC.
+
+The paper should be submitted via HotCRP:
+
+https://form.sdu.dk/CSL2027/
+
+Authors of accepted papers are expected to present their paper in the form of a talk.
+
+The CSL 2027 conference proceedings will be published in the Leibniz International Proceedings in Informatics (LIPIcs), see https://drops.dagstuhl.de/entities/series/LIPIcs.
+
+Authors are invited to submit contributed papers of no more than 15 pages in LIPIcs style (not including appendices or references), see https://submission.dagstuhl.de/series/details/LIPIcs#author, presenting unpublished work fitting the scope of the conference. Papers may not be submitted concurrently to another conference with refereed proceedings. The PC chairs should be informed of closely related work submitted to a conference or a journal.
+
+Papers authored or co-authored by members of the PC (but not PC chairs) are allowed.
+
+The submissions are double-blind, with the following rules:
+- Authors are not allowed to put their name on the paper, and they should avoid revealing their identities in text (references to previous or related work should be in third-person).
+- Authors are allowed (and even encouraged) to disseminate the work on public repositories (e.g. on arXiv or their websites).
+
+Papers authored solely by students or for which students are the main contributors will be considered for the Helena Rasiowa award https://www.eacsl.org/helena-rasiowa-award-2
+
+Tools, including tools based on generative technology, cannot be listed as co-authors, and papers are expected to be written by their authors.
+
+Papers which appear to not be written in good faith might be desk rejected without undergoing the full reviewing process. This includes in particular papers with references to non-existing work or with serious misrepresentation of own or related work.
+
+Following the LIPIcs author instructions, references should contain an external link (e.g., DOI or URL) whenever possible. DOI is preferred.
+
+If papers describe a research artefact such as software or formal proofs, the artefact needs to be submitted for review. All artefacts have to be accompanied by a disclosure statement, detailing any use of generative tools and the parts of the artefact to which this applies.
+
+Important dates:
+--------------
+All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be
+considered.
+- Abstract submission: 8 July 2026
+- Paper submission: 15 July 2026
+- Notification: 15 October 2026, Brighton time
+- Final Version: TBD
+- Conference: 25-29 January 2027
+
+Committee Chairs
+--------------
+    Corina Cirstea — University of Southampton, UK
+    Yannick Forster — Inria Paris, France
+
+Program Committee
+--------------
+    Matteo Acclavio — University of Southern Denmark, Denmark (Local Chair)
+    Thorsten Altenkirch — University of Nottingham, UK
+    Arthur Azevedo de Amorim — Rochester Institute of Technology, USA
+    Pedro H. Azevedo de Amorim — University of Bath, UK
+    David Baelde — ENS Rennes & IRISA, France
+    Pablo Barenbaum — University of Buenos Aires, Argentina
+    Nick Bezhanishvili — University of Amsterdam, Netherlands
+    Mikołaj Bojańczyk — University of Warsaw, Poland
+    Filippo Bonchi — University of Pisa, Italy
+    Patricia Bouyer — CNRS & LMF, ENS Paris-Saclay, France
+    Julie Cailler — Loria, University of Lorraine, Inria, Nancy, France
+    Corina Cirstea — University of Southampton, UK (PC Chair)
+    Tom de Jong — University of Nottingham, UK
+    Wan Fokkink — Vrije Universiteit Amsterdam, Netherlands
+    Yannick Forster — Inria Paris, France (PC Chair)
+    Erich Grädel — RWTH Aachen University, Germany
+    Daniel Gratzer — Aarhus University, Denmark
+    Giulio Guerrieri — University of Sussex, UK (Local Chair)
+    Stefano Guerrini — Université Sorbonne Paris Nord, France
+    Julian Gutierrez — University of Sussex, UK
+    Nao Hirokawa — Japan Advanced Institute of Science and Technology, Nomi, Japan
+    Jan Hoffmann — Carnegie Mellon University, USA
+    Jules Jacobs — ETH Zürich, Switzerland
+    Benjamin Kaminski — Saarland University, Germany
+    Toghrul Karimov — Max Planck Institute for Software Systems, Germany
+    Sandra Kiefer — University of Oxford, UK
+    Dominik Kirst — Inria Saclay, France
+    Adrienne Lancelot — University of Bologna, Italy
+    Sławomir Lasota — University of Warsaw, Poland
+    Paul Blain Levy — University of Birmingham, UK
+    Aliaume Lopez — INP Bordeaux, France
+    Salvador Lucas — Universitat Politècnica de València, Spain
+    Nikolas Mählmann — University of Warsaw, Poland
+    Dale Miller — Inria Saclay, France
+    Larry Moss — Indiana University Bloomington, USA
+    Dirk Pattinson — Australian National University, Australia
+    Damien Pous — CNRS & ENS Lyon, France
+    Jurriaan Rot — Radboud University Nijmegen, Netherlands
+    Alexis Saurin — CNRS & IRIF, France
+    Philip Saville — University of Sussex, UK
+    Ian Shillito — University of Birmingham, UK
+    Artjoms Šinkarovs — University of Southampton, UK
+    Ana Sokolova — University of Salzburg, Austria
+    Dmitriy Traytel — University of Copenhagen, Denmark
+    Nikos Tzevelekos — Queen Mary University of London, UK
+    Jonni Virtema — University of Glasgow, UK
+    Kazuki Watanabe — National Institute of Informatics, Tokyo, Japan
+    Martin Zimmermann — Aalborg University, Denmark
+
+
+Organisation committee:
+--------------
+    Matteo Acclavio — University of Southern Denmark, Denmark
+    Giulio Guerrieri — University of Sussex, UK

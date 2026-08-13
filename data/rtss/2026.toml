@@ -25,3 +25,7 @@ license = "pay"
 [review]
 gender_balance = "mixed"
 award = "Outstanding papers will be highlighted in the proceedings. Awards: Best Paper, Best Student Paper, Best Presentation."
+
+[[cfp]]
+file = "cfp/RTSS-2026.txt"
+stage = "initial"

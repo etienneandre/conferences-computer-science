@@ -1,0 +1,66 @@
+6th Int. Workshop on
+Applied Verification for Continuous and Hybrid Systems
+Part of CPS Week, Montreal, Canada, April 15, 2019
+
+
+The workshop on applied verification for continuous and hybrid systems (ARCH) brings together researchers and practitioners to establish a curated set of benchmarks and test them in a friendly competition.
+
+Call for Submissions
+
+Verification of continuous and hybrid systems is increasing in importance due to new cyber-physical systems that are safety- or operation-critical. This workshop addresses verification techniques for continuous and hybrid systems with a special focus on the transfer from theory to practice. Topics include, but are not limited to
+
+    Proposals for new benchmark problems (not necessarily yet solvable)
+    Tool presentations
+    Tool executions and evaluations based on ARCH benchmarks
+    Experience reports including open issues for industrial success
+    Reports on results of our friendly competition (separate call) 
+
+Researchers are welcome to submit examples, tools and benchmarks that have already appeared in brief form, but whose details were omitted. The online benchmark repository allows researchers to include modeling details, parameters, simulation results, etc. Submissions are encouraged, but not required, to include executable data (models, configuration files, code etc.). It is not required to show that the benchmark has a solution; it suffices that the problem is described in enough detail that somebody else can try to solve it.
+Prize (tentative)
+
+The paper with the most promising benchmark results receives a prize of 500 Euros sponsored by Robert Bosch GmbH, Germany. The winner is preselected by the program committee and determined by an audience voting.
+
+General Submission Guidelines
+
+Submissions consist of papers (ideally 3-8 pages) and optional files (e.g. models or traces) submitted through the ARCH'19 EasyChair web site. ARCH19 will provide proceedings in the EasyChair EPiC series, indexed by DBLP. Detailed submission guidelines can be found here: submission instructions. Submissions receive at least 3 anonymous reviews, including one from industry and one from academia.
+
+Benchmark papers: A zip archive with additional data (description details, model files, sample traces, code, known results, etc.) is to be submitted together with the extended abstract. Benchmarks can be academic or industrial, of small size or extensive case studies.
+Evaluation Criteria for Benchmarks
+
+While the review criteria for tool presentations, benchmark results, and experience reports are more general, benchmark proposals should address the following criteria:
+
+    Relevance: How typical is the benchmark for its application domain or academic topic? How important (scientifically or practically) are the phenomena it exhibits? Does the benchmark correspond to an existing real-world system?
+    Clarity: How easy is it to create a working model from the description? How clear is the specification of the properties to be verified?
+    Verification advantages: Can verification show properties of the benchmark that are difficult to obtain using other approaches (stochastic simulation etc.)? 
+
+ 
+Important Dates
+Submission deadline 	February 24, 2019
+Notification of acceptance 	March 17, 2019
+Final version 	April 02, 2019
+Workshop 	April 15, 2019
+
+ 
+PDF-Version of the Call
+
+There is a pdf of the call (reduced content to make it fit on a single page).
+Organizers
+Program chairs: 	Goran Frehse, ENSTA-ParisTech, France
+  	Matthias Althoff, Technische Universitat Munchen, Germany
+Publicity chair: 	Sergiy Bogomolov, Australian National University, Australia
+Evaluation chair: 	Taylor T. Johnson, Vanderbilt University, USA
+
+ 
+
+ 
+Program Committee (tentative)
+​
+Academia 	Industry
+Stanley Bak (Air Force Research Lab) 	Ajinkya Bhave (LMS Siemens)
+Pieter Collins (Maastricht Univ.) 	Olivier Bouissou (MathWorks)
+Xin Chen (University of Dayton) 	Alexandre Donze (Decyphir Inc)
+Sicun Gao (University of California) 	Aaron Fifarek (Linquest)
+Ian Mitchell (Univ. British Colombia) 	James Kapinski (Toyota)
+Stefan Mitsch (Carnegie Mellon University) 	Jens Oehlerking (Bosch)
+Nacim Ramdani (Universite d'Orleans) 	Luca Parolini (BMW)
+Aditya Zutshi (UC Boulder) 	Alessandro Pinto (United Technologies)

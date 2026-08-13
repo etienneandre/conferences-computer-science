@@ -1,0 +1,37 @@
+======================================================================
+20th International Conference on
+Reachability Problems (RP'26)
+
+Submission deadline extended to June 30
+======================================================================
+
+The 20th International Conference on Reachability Problems (RP'26)
+will be organized by the Department of Mathematics and Statistics,
+University of Turku, Finland.
+
+The conference will take place on 21-23 October 2026.
+
+Conference website:
+https://math.utu.fi/rp26/
+
+Submissions should be made through EasyChair:
+https://easychair.org/conferences/?conf=rp26
+
+INVITED SPEAKERS
+
+Laura Kovács, TU Wien, Austria
+Antti Kuusisto, Tampere University, Finland
+Igor Potapov, University of Liverpool, UK
+Ilkka Törmä, University of Turku, Finland
+James Worrell, University of Oxford, UK
+
+IMPORTANT DATES
+
+Regular research papers: June 30, 2026
+Presentation-only abstracts: July 26, 2026
+Notification of acceptance: August 3, 2026
+
+SUBMISSION AND PUBLICATION
+
+For more information on submission and publication, please see:
+https://math.utu.fi/rp26/submissions/

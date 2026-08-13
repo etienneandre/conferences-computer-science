@@ -1,0 +1,19 @@
+YR-CONCUR 2022 : 10th Young Researchers Workshop on Concurrency Theory
+
+(Apologies if you receive multiple copies of this call for papers). 
+
+The aim of Young Researchers CONCUR is to provide a platform for PhD students and other young researchers to exchange new results related to concurrency theory and to receive feedback on their research. The workshop is associated with Confest 2022.
+
+Our target audience is PhD students. Submissions from postdocs, masters students, or other early career researchers are also welcome.
+
+We welcome either abstracts of work in progress, up to two pages, or links to relevant previously published work. Submissions will be judged on the expected interest in and quality of the talk. The accepted abstracts will be made available at the workshop, but no formal proceedings are planned.
+
+Submission link:
+https://easychair.org/conferences/?conf=yrconcur2022
+
+Workshop url: 
+https://yrconcur2022.mimuw.edu.pl/
+
+Organizers: 
+Wojciech Czerwiński (University of Warsaw, Poland),
+Sophia Knight (University of Minnesota Duluth, USA) 

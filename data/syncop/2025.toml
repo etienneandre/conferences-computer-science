@@ -22,3 +22,7 @@ gender_balance = "mixed"
 [extra]
 colocated = "Satellite workshop of CONFEST 2025."
 notes = "Informal presentations only (no formal proceedings)."
+
+[[cfp]]
+file = "cfp/SynCoP-2025.txt"
+stage = "initial"

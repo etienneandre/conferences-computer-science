@@ -21,3 +21,11 @@ license = "pay-profit"
 [extra]
 journal = "Similarly to the last edition of ReacTS, we plan to invite authors of selected contributions to submit extended versions to a special issue, e.g. to the Journal of Applied Logics."
 colocated = "Satellite event of SEFM 2025"
+
+[[cfp]]
+file = "cfp/ReacTS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ReacTS-2025-extended.txt"
+stage = "extended"

@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Best Paper awards will be given and announced at the conference. Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."
+
+[[cfp]]
+file = "cfp/SPIN-2020.txt"
+stage = "initial"

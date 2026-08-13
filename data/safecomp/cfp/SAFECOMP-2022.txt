@@ -1,0 +1,93 @@
+Call for Papers:
+41st International Conference on
+Computer Safety, Reliability and Security (SAFECOMP 2022)
+September 6th-9th, 2022, Munich, Germany
+Website: https://safecomp2022.org
+Submission: https://easychair.org/conferences/?conf=safecomp22
+**************************************************************
+
+****************
+Important Dates:
+****************
+
+Workshop proposal submission: 7 February 2022
+Abstract submission: 7 February 2022
+Full paper submission: 14 February 2022
+Notification of acceptance: 29 April 2022
+Camera-ready submission: 27 May 2022
+
+***************
+About SAFECOMP:
+***************
+
+The SAFECOMP Conference Series offers a platform for knowledge and technology transfer between academia, industry, research institutions and standardization bodies in the areas of safety, reliability and security regarding critical computer applications. It provides ample opportunity to exchange insights and experience on emerging methods and practical applications across the borders of different disciplines.
+
+*******************************
+Topics and Application Domains:
+*******************************
+
+The conference covers the development, assessment, operation and maintenance of safety-related and safety-critical computer systems.
+
+Major topics include, but are not limited to:
+
+- Development, verification, assessment and licensing
+- Model-based safety analysis, design and assessment
+- Formal methods for verification, validation and fault tolerance
+- Fault detection and recovery mechanisms
+- Resilient and fault-tolerant HW- and SW-architectures
+- Distributed and real-time monitoring and control
+- Safety/security co-engineering and risk assessment
+- Testing, verification and validation methods and tools
+- Qualification, assurance and certification methods and tools
+- Cyber-physical threats and vulnerability analysis
+- Safety and security guidelines, standards and certification
+- Safety and security assurance cases
+
+Domains of application include (but are not limited to):
+
+- Railways, automotive, space, avionics and process industries
+- Highly automated and autonomous systems
+- Telecommunication and networks
+- Safety-related applications of smart systems and IoT
+- Critical infrastructures, smart grids, SCADA
+- Medical devices and healthcare
+- Surveillance, defense, emergency and rescue
+- Logistics, industrial automation, off-shore technology
+- Education and training
+
+************************
+SAFECOMP 2022 Key Theme:
+************************
+
+By its key theme "New Frontiers of Safety Assurance" SAFECOMP 2022 will address in particular also the following topics:
+
+- Open systems-of-systems
+- Cloud-based control of safety-critical systems
+- Over-the-air-updates and app-like platforms
+- Machine learning
+- New principles, paradigms and methodologies including new approaches such as dynamic safety management or data-driven assurance
+
+************************
+SAFECOMP 2022 Workshops:
+************************
+
+It is planned to have workshops on the day preceding the conference. Workshop proposals should be sent by email to the SAFECOMP 2022 Workshop Chairs (erwin.schoitsch@ait.ac.at and jeremie.guiochet@laas.fr) including scope and contents, programme committee and length (half or full day). It is planned to include accepted contributions in the SAFECOMP Workshop Proceedings as far as the publisher’s requirements are fulfilled.
+
+*******************
+Submission Details:
+*******************
+
+The following two types of submissions are explicitly invited:
+
+1. Research articles contributing to the advancement of the current scientific knowledge (about 14 pages);
+2. Practical experience reports or tool descriptions providing new insight and support to practitioners (up to 14 pages).
+
+All papers will be reviewed by at least three members of the Program Committee. Papers must not have been previously published or concurrently submitted elsewhere. Accepted articles will be published by Springer in the LNCS Series.
+
+Our thanks go to all colleagues supporting the organization of SAFECOMP 2022, in particular the Publication, Workshop and Industry Chairs as well as all members of the Local Organization Committee and of the International Programme Committee, as indicated on the conference website (https://safecomp2022.org).
+
+We are looking forward to your submission and attendance!
+
+The SAFECOMP 2022 Conference Chairs
+Mario Trapp (Fraunhofer IKS, Munich, Germany) and
+Francesca Saglietti (University of Erlangen-Nuremberg, Erlangen, Germany)

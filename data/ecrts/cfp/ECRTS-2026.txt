@@ -1,0 +1,87 @@
+===============================================================
+
+    Call for Papers
+    38th EUROMICRO Conference on Real-Time Systems (ECRTS 26)
+    July 7-10, 2026 | Lund, Sweden | www.ecrts.org
+
+    Submission deadline: February 26, 2026 (23:59AoE)
+    Submission website: https://ecrts26.hotcrp.com/
+
+===============================================================
+
+ECRTS is the premier European venue in the area of real-time systems and, alongside RTSS and RTAS, ranks as one of the top three international conferences on this topic. ECRTS has a rich history, with the first edition held in 1989 and this year’s edition being the 38th run of this annual event. As in previous editions, ECRTS attracts researchers from both academia and industry whose work tackles foundational and practical challenges at the intersection of real-time scheduling, time-critical systems, real-time operating systems, hardware/software co-design, security in time-sensitive systems, real-time networking, AI and machine learning methods for real-time systems, and more.
+
+ECRTS 2026 will be held as a physical conference on July 7-10, 2026 in Lund, Sweden
+
+===============================================================
+    IMPORTANT DATES (All Deadlines are AoE)
+===============================================================
+
+Submission Deadline:           Thursday, February 26, 2026
+Notification of Acceptance:    Monday, April 20, 2026
+Camera-ready Deadline:       Tuesday, May 05, 2026
+Conference:                           July 7--10, 2026
+
+===============================================================
+    SCOPE AND TOPICS OF INTEREST
+===============================================================
+
+Papers on all aspects of timing requirements in computer systems are welcome. Systems of interest include not only hard real-time systems but also time-sensitive systems in general (e.g., systems with soft requirements expressed in terms of tail latency, latency SLAs, QoS expectations, etc.). Typical applications are found not only in classical embedded and cyber-physical systems, but also increasingly in cloud or edge computing contexts and often stem from domains such as automotive, avionics, telecommunications, healthcare, robotics, and space systems, among others.
+
+To be in scope, papers must address some form of timing requirement, broadly construed. Prospective first-time authors are encouraged to familiarize themselves with works accepted in past editions of the conference, which are publicly available at  drops.dagstuhl.de/entities/conference/ECRTS
+ECRTS welcomes theoretical and practical contributions (including tools, benchmarks, and case studies) to the state of the art in the design, implementation, verification, and validation of time-sensitive systems. We particularly encourage papers on industrial case studies (such as the examples at ecrts.org/industrial-challenge) and the application of real-time technology to real systems. We welcome practical contributions even without novel theoretical insights or formal proofs, provided they are of interest to the research community and/or industry. Whenever relevant, we encourage authors to present experimental results (preferably based on real data, but synthetic test cases are acceptable when adequately motivated).
+
+Topics of interest include, but are not limited to:
+
+    all elements of time-sensitive  SOFTWARE SYSTEMS, including operating systems, hypervisors, middlewares and frameworks, programming languages and compilers, runtime environments, networks and communication protocols, etc.;
+    COMPUTER HARDWARE design and hardware/software integration for embedded systems, including time-predictable hardware architecture, GPU and accelerators, FPGA prototyping, SoC design, novel memory architectures, hardware/software co-design, etc.;
+    REAL-TIME NETWORKS: including wired and wireless sensor and actuator networks, Time-Sensitive Networks (TSN), industrial IoT, Software Defined Network (SDN), 5G, end-to-end latency analysis, etc.;
+    REAL-TIME APPLICATIONS, including modeling, design, simulation, testing, debugging, and evaluation in domains such as automotive, avionics, control systems, industrial automation, robotics, space, railways telecommunications, multimedia, etc.;
+    foundational SCHEDULING and PREDICTABILITY questions, including schedulability analysis, algorithm design, synchronization protocols, computational complexity, temporal isolation, probabilistic guarantees, multi-core scheduling, resource co-scheduling, etc.;
+    static and dynamic techniques for RESOURCE DEMAND ESTIMATION, including stochastic and classic worst-case execution time (WCET) analysis, analyses to bound memory and bandwidth needs, and methods for determining the energy, power, or thermal footprint of real-time applications, etc.;
+    MACHINE LEARNING techniques in safety-critical systems, including explainable AI, the application of machine learning to the design and optimization of real-time systems, methods for real-time AI computing, etc.;
+    FORMAL METHODS for the verification and validation of real-time systems, including model checking, computer-assisted proofs, and runtime monitoring systems, etc.;
+    SECURITY aspects of real-time systems, including techniques to strengthen security guarantees, concerns that affect the operation of safety-critical systems, privacy-enhancing techniques, methodologies to protect the temporal envelope of critical software against malicious threats, etc.;
+    the interplay of timing predictability and other NON-FUNCTIONAL QUALITIES such as reliability, quality of control, energy/power consumption, environmental impact, testability, scalability, etc.
+
+The above list of topics is intended only as a coarse summary of recent proceedings and should not be understood as an exclusive list of interests. On the contrary, papers breaking new ground, departing from established subfields, or challenging the status quo are most welcome and highly encouraged.
+
+===============================================================
+    OPEN ACCESS
+===============================================================
+
+The ECRTS organizers and community strongly believe that a conference best serves the research community and the public when results are accessible to the largest audience without restrictions. In line with this belief, all accepted papers will be published again this year as open-access proceedings in collaboration with LIPIcs (Leibniz International Proceedings in Informatics). Once published, the proceedings of ECRTS 2026 will be publicly accessible at drops.dagstuhl.de/entities/conference/ECRTS where the previous proceedings since 2017 are available.
+
+===============================================================
+    PAPER SUBMISSION
+===============================================================
+
+Submitted manuscripts are limited to 20 pages of technical content, excluding the bibliography. Every accepted paper must be presented by one of the authors at the conference.
+ECRTS papers follow the Leibniz International Proceedings in Informatics paper template. You can download the LIPIcs template and see the typesetting instructions here: https://submission.dagstuhl.de/series/details/5#author
+To submit a paper to ECRTS, please carefully review and follow the submission instructions and guidelines: https://www.ecrts.org/submission-instructions/
+
+===============================================================
+    DOUBLE-BLIND PEER REVIEWING
+===============================================================
+
+In the interest of maximizing fairness and the meritocratic nature of the evaluation process, ECRTS will follow a double-blind peer reviewing process. Authors will submit blinded manuscripts (that do not reveal author identity or affiliation), and reviewers will not be made aware of author identities.
+See the double-blind submission policy for more details: https://www.ecrts.org/double-blind-submission/
+
+===============================================================
+    ARTIFACT EVALUATION
+===============================================================
+
+To improve the results' reproducibility and encourage reuse, authors of accepted papers with a computational component will be invited to submit their code and/or their data to an optional artifact evaluation process: https://www.ecrts.org/artifact-evaluation/
+
+===============================================================
+    LEARN MORE
+===============================================================
+
+To receive more information about ECRTS, please subscribe to the ecrts-info mailing list at: https://www.ecrts.org/cgi-bin/mailman/listinfo/ecrts-info
+
+You can also follow the official ECRTS announcements on LinkedIn at linkedin.com/company/euromicro-conference-on-real-time-systems/  or on Instagram at instagram.com/ecrts_conference/
+
+_______________________________________________
+ecrts-info mailing list
+ecrts-info@ecrts.org
+http://ecrts.org/cgi-bin/mailman/listinfo/ecrts-info

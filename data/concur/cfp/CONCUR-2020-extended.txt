@@ -1,0 +1,123 @@
+-------------------------------------------------------------
+
+                                                    FINAL CALL FOR PAPERS
+
+                                                    31st International Conference on Concurrency Theory (CONCUR 2020)
+
+                                                    September 1-4, 2020
+
+                                                    VIRTUAL (Vienna, Austria)
+
+                                                    https://easychair.org/cfp/CONCUR20
+
+-------------------------------------------------------------
+The purpose of CONCUR 2020, the 31st International Conference on Concurrency Theory, is to bring together researchers, developers, and students in order to advance the theory of concurrency, and promote its applications.
+
+
+CONCUR 2020 is part of the umbrella conference QONFEST 2020 comprising the joint international 2020 meetings CONCUR, FMICS, FORMATS, QEST, alongside with several workshops and tutorials.
+
+
+Amid the recent COVID-19 situation, the organization committee decided that QONFEST 2020, and thus also CONCUR 2020 will be organized on-line. Accepted papers will be published as planned, by September 2020, but no physical meeting/presentations will take place. We plan that the authors will record their talks and discuss them with the conference participants online. All CONCUR 2020 deadlines have been adjusted with two weeks dead-line extensions.
+-------------------------------------------------------------
+
+                                                    TOPICS
+
+Submissions are solicited in semantics, logics, verification and analysis of concurrent systems. The principal topics include (but are not limited to):
+-Basic models of concurrency such as abstract machines, domain-theoretic models, game-theoretic models, process algebras, graph transformation systems, Petri nets, hybrid systems, mobile and collaborative systems, probabilistic systems, real-time systems, biology-inspired systems, and synchronous systems;
+-Logics for concurrency such as modal logics, probabilistic and stochastic logics, temporal logics, and resource logics;
+-Verification and analysis techniques for concurrent systems such as abstract interpretation, atomicity checking, model checking, race detection, preorder and equivalence checking, run-time verification, state-space exploration, static analysis, syn-thesis, testing, theorem proving, type systems, and security analysis;
+-Distributed algorithms and data structures: design, analysis, complexity, correctness, fault tolerance, reliability, availability, consistency, self-organization, self-stabilization, protocols;
+-Theoretical foundations of architectures, execution environments, and software development for concurrent systems such as georeplicated systems, communication networks, multiprocessor and multi-core architectures, shared and transactional memory, resource management and awareness, compilers and tools for concurrent programming, programming models such as component-based, object- and service-oriented.
+-------------------------------------------------------------
+
+                                                    PAPER SUBMISSION
+
+-CONCUR 2020 solicits high quality papers reporting research results and/or experience re-lated to the topics mentioned below.
+-All papers must be original, unpublished, and not submitted for publication elsewhere. Each paper will undergo a thorough review process. The paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee.
+-The CONCUR 2020 proceedings will be published by LIPIcs.
+-Papers must be submitted electronically as PDF files via EasyChair. Papers must not exceed 14 pages (excluding references and clearly marked appendices) using the LIPIcs style.
+-------------------------------------------------------------
+
+                                                    IMPORTANT DATES
+
+All dates are AoE, extended because of COVID-19.
+-Abstract submission: April 28, 2020
+-Paper submission: May 6, 2020
+-Notification: June 28, 2020
+-Camera ready copy: July 17, 2020
+-Conference: September 1-4, 2020
+-------------------------------------------------------------
+
+                                                    SPECIAL ISSUE
+
+A special issue dedicated to selected papers from CONCUR 2020 will appear in Logical Methods in Computer Science.
+-------------------------------------------------------------
+
+                                                    ORGANIZATION COMMITTEE
+
+Program Co-chairs          
+Igor Konnov - Informal Systems, Austria
+Laura Kovacs - TU Wien, Austria  
+
+Workshop Chair     
+Florian Zuleger - TU Wien, Austria  
+
+Webmaster     
+Thanh-Hai Tran - TU Wien, Austria  
+-------------------------------------------------------------
+
+                                                    PROGRAM COMMITTEE
+
+Alessandro Abate, University of Oxford
+Elvira Albert, Universidad Complutense de Madrid
+Giovanni Bacci, Aalborg University
+Filippo Bonchi, University of Pisa
+Patricia Bouyer, CNRS
+Yu-Fang Chen, Academia Sinica
+Veronique Cortier, CNRS, Loria
+Pedro R. D'Argenio, Universidad Nacional de Córdoba – CONICET
+Michael Emmi, Amazon Web Services
+Bernd Finkbeiner, Saarland University
+Silvio Ghilardi, Università degli Studi di Milano
+Roberto Giacobazzi, University of Verona
+Rob van Glabbeek, Data61 – CSIRO
+Alberto Griggio, Fondazione Bruno Kessler
+Ichiro Hasuo, National Institute of Informatics
+Sophia Knight, University of Minnesota
+Igor Konnov, INRIA Nancy (LORIA)
+Laura Kovacs, TU Wien
+Antonin Kucera, Masaryk University
+Marijana Lazic, TU Munich
+Karoliina Lehtinen, University of Liverpool
+Kuldeep S. Meel, National University of Singapore
+Jan Otop, University of Wrocław
+Joel Ouaknine, Max Planck Institute for Software Systems (MPI-SWS)
+Jorge A. Pérez, University of Groningen
+Tatjana Petrov, University of Konstanz
+Nir Piterman, University of Gothenburg
+Giselle Reis, Carnegie Mellon University
+Philipp Ruemmer, Uppsala University
+Lutz Schröder, Friedrich-Alexander-Universität Erlangen-Nürnberg
+Alexandra Silva, University College London
+Ana Sokolova, University of Salzburg
+Jun Sun, Singapore Management University
+Max Tschaikowski, Aalborg University
+Valeria Vignudelli, CNRS/ENS Lyon
+Yakir Vizel, The Technion
+Nobuko Yoshida, Imperial College London
+Lijun Zhang, Institute of Software, Chinese Academy of Sciences
+
+-------------------------------------------------------------
+
+                                                    STEERING COMMITTEE
+
+
+Javier Esparza, TU München, Germany, chair
+Pedro D’Argenio, National University of Cordoba, Argentina
+Wan Fokkink, Vrije Universiteit Amsterdam, The Netherlands
+Joost-Pieter Katoen, RWTH, Germany
+Catuscia Palamidessi, INRIA and Ecole Polytechnique, France
+Davide Sangiorgi, University of Bologna, Italy
+Jiri Srba, Aalborg University, Denmark
+
+

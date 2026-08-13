@@ -28,3 +28,15 @@ award = "Best Paper Award, Best Artifact Award, Best Poster/Demo Award"
 [extra]
 journal = "Some nominated papers will be invited for submission of extensions of their work to a special issue of ACM Transactions on Cyber-Physical Systems."
 notes = "Three special tracks. Merged with HSCC/ICCPS in 2026."
+
+[[cfp]]
+file = "cfp/ICCPS-2025.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICCPS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICCPS-2025-extended.pdf"
+stage = "extended"

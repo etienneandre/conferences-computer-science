@@ -1,0 +1,199 @@
+Dear Colleagues,
+
+The 23rd IEEE/ACIS International Conference on Software Engineering
+Research, Management and Applications (SERA 2025) will take place at the
+University of Nevada, Las Vegas on May 29-31, 2025. The conference website
+is at https://acisinternational.org/conferences/sera-2025/
+
+We would like to welcome all of your submissions and hope to see you at the
+conference.
+
+======================================================================
+CALL FOR PAPERS
+
+The 23rd IEEE/ACIS International Conference on Software Engineering
+Research, Management and Applications (SERA 2025)
+
+https://acisinternational.org/conferences/sera-2025/
+
+May 29-31, 2025, Las Vegas, USA
+
+Conference Venue Location
+
+UNLV Campus, Las Vegas, Nevada, USA
+======================================================================
+.
+The 23rd IEEE/ACIS International Conference on Software Engineering,
+Management and Applications (SERA 2025) brings together researchers,
+scientists, engineers, industry practitioners, and students to discuss,
+encourage and exchange new ideas, research results, and experiences on all
+aspects of Software Engineering, Management and Applications. SERA 2025
+aims to facilitate cross-fertilizations among, and is soliciting papers in
+the key technology enabling areas.
+
+There are three submission types (in IEEE Conference templates):
+
+* Full Paper (up to 8 pages)
+* Short Paper (up to 4 pages)
+* Posters
+
+===================
+## Important Dates
+===================
+
+* Workshop/Special Session Proposal: January 10, 2025
+* Full Paper Submission: February 21, 2025
+* Acceptance Notification: March 21, 2025
+* Camera-Ready Papers & Registration: April 18, 2025
+* Conference Dates: May 29 - 31, 2025
+
+Conference officers will select outstanding papers for publication in the
+following journals (www.acisinternational.org):
+
+* International Journal of Networked and Distributed Computing (IJNDC),
+Springer, Germany
+* International Journal of Software Innovation (IJSI), IGI Globe, U.S.A.
+* International Journal of Big Data Intelligence and Applications (IJBDIA),
+IGI Global, USA
+* Studies in Computational Intelligence (SCI), Springer, Germany
+
+The conference will cover a broad set of research topics as:
+
+* AI and Software Engineering
+* Software Testing and Analysis
+* Empirical Software Engineering
+* Software Requirements, Modeling and Design
+* Software Security and Privacy
+* Parallel and Distributed Computing
+* Data Mining and Knowledge Recovery
+* Software Evolution and Understanding
+* Software Engineering Education
+* Communication Systems and Networks
+* Blockchain and Smart Contract
+* Embedded/ Cyber-Physical Systems
+* Internet of Things (IoT)
+* Digital Forensics
+* Software Architecture
+* SW Architecture Description Language
+* Software Architecture Styles, Patterns, Views
+* Object-Oriented SW Engineering with UML
+* Software Architecture Evaluation
+* Software Metrics and Measurements
+* Software Architecture Design Tools
+* Software Project Management & Evaluation
+* Software Engineering Tools and Techniques
+* Agile Development
+* Web Engineering
+* Cloud Computing, Edge Computing
+* Deep Learning Applications
+* Quantum Computing Algorithms
+* Health information
+* Natural Language Processing
+* Digital Twin
+* Artificial Intelligence & Big Data Analytics
+* Algorithms, data structures, and applications
+
+
+===================
+## Best Paper Award
+===================
+
+Conference officers will select papers for the Best Paper Award and Best
+Student Paper Awards. (in order to qualify for the award, the paper must be
+presented at the conference.)
+
+===================
+## Submission Instructions
+===================
+
+Authors who are interested in the above topics can submit their unpublished
+work to SERA2025 conference via Easychair (
+https://easychair.org/conferences/?conf=sera2025). A clear indication of
+the motivation and comparison with prior related work should be presented.
+Simultaneous submission to a journal, conference, or a workshop with
+refereed proceedings is not allowed.
+
+Submissions must adhere to the following guidelines:
+
+* Papers must be formatted using IEEE Conference templates file without
+altering margins or the font point (
+https://www.ieee.org/conferences/publishing/templates.html).
+* The maximum length is 8 pages for a regular paper and is 4 pages for a
+short paper (including references).
+* Proofs omitted due to space constraints must be placed in an appendix to
+be read by the program committee members at their discretion.
+* Author names and affiliations should be anonymous in the paper. The
+authors should make a reasonable effort not to reveal their identity and
+affiliation. Author?s prior work should be referred to in the third person.
+* Submissions not following the required format may be rejected without
+review.
+
+===================
+## Publication
+===================
+
+SERA 2025 Proceedings will be published by IEEE Conference Publishing
+Services and will be submitted to be indexed by EI, INSPEC, and DBLP.
+
+Journal publication: Conference officers will select outstanding papers for
+publication in the following journals.
+
+* International Journal of Networked and Distributed Computing (IJNDC),
+Springer, Germany
+* International Journal of Software Innovation (IJSI), IGI Globe, U.S.A.
+* Studies in Computational Intelligence (SCI), Springer, Germany.
+
+===================
+## Call for Workshop Proposal
+===================
+
+The SERA workshops will provide a collaborative discussion for a group of
+participants to exchange innovative ideas, recent and/or preliminary
+results, experience, and coordinate efforts between representatives of a
+technical community. We encourage prospective workshop organizers to submit
+proposals for workshops.
+
+We expect the workshop proposals to contain the following information:
+
+
+* Workshop title
+* Organizer(s) and primary contact (name/affiliation/email)
+* Abstract (200 words)
+* Desired length of the workshop (half day or full day)
+* Objectives and Scope
+* Intended audience (target and size)
+* Workshop Format
+
+===================
+## Organizing Committee
+===================
+
+General Chair
+* Ju-Yeon Jo, University of Nevada Las Vegas
+
+Conference Chair
+* Yeong-Tae Song, Towson University
+
+Program Co-Chairs
+* Mingon Kang, University of Nevada Las Vegas
+* Junghwan “John” Rhee, University of Central Oklahoma
+
+Special Session Chairs
+* Yongik Yoon, Sookmyung University
+* Fei Zuo, University of Central Oklahoma
+
+Publicity Co-Chairs
+* Sai Chandra Kosaraju, California State Polytechnic University, Pomona
+* Amel Fraisse, Professor, University of Lille, France
+------------------------------
+[image: UNLV Logo] <http://unlv.edu>
+
+Mingon Kang, Ph.D.
+Associate Professor
+Department of Computer Science
+University of Nevada, Las Vegas
+
+mingon.kang@unlv.edu
+Phone: 702-774-3416
+
+Faculty Web <http://kang.dataxlab.org> • DataX Lab <http://dataxlab.org>

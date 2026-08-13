@@ -1,0 +1,65 @@
+------------------------------------------------------------
+Call for Informal Presentations
+**SynCoP 2026**
+
+11th International Workshop on Synthesis of Complex Parameters
+
+🗓️ 12th April 2026 — Torino, Italy
+🔗 https://lipn.univ-paris13.fr/SynCoP2026/
+------------------------------------------------------------
+
+Submission  : 4th March 2026
+Notification: 6th March 2026
+
+
+We are pleased to invite informal presentations for the 10th edition of SynCoP, a satellite workshop of ETAPS 2026 dedicated to the synthesis of complex/continuous parameters in formal models.
+
+SynCoP provides a platform for researchers interested in the decidability and algorithmic synthesis of parameters in systems such as automata, games, timed systems, probabilistic models, and hybrid systems. The workshop fosters the exchange of ideas and ongoing research across formal methods, verification, and synthesis communities.
+
+# Scope (non-exhaustive)
+
+* Synthesis in models with quantitative parameters (e.g., time, probabilities, energy)
+* Parametrised verification and model checking
+* Tools and applications for parameter synthesis
+* Theoretical advances in parametric models
+* Combinations of synthesis and learning
+
+# Informal Presentation Submissions:
+
+We invite short abstracts (3 pages) describing recently published works, ongoing work, preliminary results, or promising ideas. These presentations are not intended for proceedings publication and are ideal for discussing work in progress or receiving feedback from the community.
+
+To submit, please send a PDF (or plain text) abstract to:
+📧 syncop2026@lipn13.fr
+by 4th March 2026.
+
+Notifications: 6th March 2026
+
+We look forward to your contributions and discussions at SynCoP 2026!
+
+
+# Invited speakers
+* Nathalie Bertrand (Inria Rennes 🇫🇷)
+* Rajarshi Roy (University of Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿 )
+
+
+# Organisers
+* Rémi Parrot (École Centrale Nantes 🇫🇷)
+* B Srivathsan (Chennai Mathematical Institute 🇮🇳)
+
+
+# Steering committee
+* Étienne André (Université Sorbonne Paris Nord 🇫🇷)
+* Benoit Delahaye (Nantes Université 🇫🇷)
+* Giorgio Delzanno (Università degli Studi di Genova 🇮🇹)
+* Peter Habermehl (University Paris Cité 🇫🇷)
+* Kim Guldstrand Larsen (Aalborg University 🇩🇰)
+* Engel Lefaucheux (Loria, Inria 🇫🇷)
+* Didier Lime (École Centrale de Nantes 🇫🇷)
+* Wojciech Penczek (IPI-PAN 🇵🇱)
+* Laure Petrucci (Université Sorbonne Paris Nord 🇫🇷)
+
+
+—
+SynCoP 2026 Organizers
+* Rémi Parrot (École Centrale Nantes 🇫🇷)
+* B Srivathsan (Chennai Mathematical Institute 🇮🇳)

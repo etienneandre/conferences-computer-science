@@ -1,0 +1,152 @@
+3rd CALL FOR PAPERS
+
+NSV 2017
+=========
+
+10th  International Workshop on Numerical Software Verification
+July 22-23, 2017
+
+A workshop of CAV 2017 - Heidelberg, Germany
+
+This year NSV17 will be held alongside with the
+International Workshop on Formal Methods for Rigorous
+Systems Engineering of Cyber-Physical Systems
+(a one-time, invite-only event).
+
+Web Page: http://www.cs.ox.ac.uk/conferences/NSV17
+
+
+Description of the Workshop
+===========================
+
+Numerical computations are ubiquitous in digital systems: monitoring, supervision,
+prediction, simulation and signal processing rely heavily on numerical
+calculus to achieve desired goals.  Design and verification of
+numerical algorithms has a unique set of challenges, which set it
+apart from rest of software verification. To achieve the verification
+and validation of global system properties, numerical techniques need to
+precisely represent local behaviours of each component. The
+implementation of numerical techniques on modern hardware adds another
+layer of approximation because of the use of finite representations of
+infinite precision numbers that usually lack basic arithmetic
+properties, such as commutativity and associativity. Finally, the
+development and analysis of cyber-physical systems (CPS), which involve
+interacting continuous and discrete components pose a further
+challenge. It is hence imperative to develop logical and mathematical
+techniques for the reasoning about programmability and reliability.
+The NSV workshop is dedicated to the development of such techniques.
+
+
+Topics
+=======
+
+The scope of the workshop includes, but is not restricted to, the
+following topics:
+
+- Quantitative and qualitative analysis of hybrid systems
+- Models and abstraction techniques
+- Optimal control of dynamical systems
+- Parameter identification for hybrid systems
+- Numerical optimisation methods
+- Hybrid and embedded systems verification
+- Applications of hybrid systems to systems biology
+- Propagation of uncertainties, deterministic and probabilistic models
+- Specifications of correctness for numerical programs
+- Formal specification and verification of numerical programs
+- Quality of finite precision implementations
+- Numerical properties of control software
+- Validation for space, avionics, automotive and real-time applications
+- Validation for scientific computing programs
+
+
+Important Dates
+===============
+
+Submissions deadline:    *May 1st, 2017*
+Notification:            May 20, 2017
+Final version:           May 30, 2017
+Workshop:                July 22-23, 2017
+
+
+Invited Speakers
+===============
+Kyoko Makino (Michigan State University)
+Nathalie Revol (Inria, Lyon)
+
+Submission information
+======================
+
+We solicit regular and short papers. Paper submission must be
+performed via the EasyChair system:
+
+https://easychair.org/conferences/?conf=nsv2017
+
+Regular papers must describe original work, be written and presented
+in English, and must not substantially overlap with papers that have
+been published or that are under submission. Submitted papers will be judged
+on the basis of significance, relevance, correctness, originality, and
+clarity. They should clearly identify what has been accomplished and
+why it is significant.
+
+Regular paper submissions should not exceed 15 pages in LNCS style,
+plus possibly bibliography and appendices. However, program committee members are not required to read the appendices, thus papers must be intelligible without them.
+
+Short papers are also welcome: they should present tools, benchmarks,
+case-studies or be extended abstracts of ongoing research. Short
+papers should not exceed 6 pages, excluding extra material as above.
+
+All accepted papers will be published as Lecture Notes in Computer
+Science (LNCS) with Springer Verlag.
+
+http://www.springer.com/lncs
+
+Chairs
+=======
+
+Sylvie Boldo (Inria, France)
+Alessandro Abate (U Oxford, UK)
+
+Program Committee
+==================
+
+Stanley Bak (AFRL, USA)
+Sergiy Bogomolov (ANU, Australia)
+Olivier    Bouissou (The Mathworks, France)
+Martin Brain (U Oxford, UK)
+Alexandre Chapoutot (ENSTA ParisTech, France)
+Pieter Collins (U Maastricht, NL)
+Lucas Cordeiro (U Amazonas, BR)
+Eva Darulova (MPI, DE)
+Georgios Fainekos (Arizon State University, USA)
+François Févotte (EDF, France)
+Susmit Jha (United Technologies Research Center, USA)
+Jim Kapinski (Toyota, USA)
+Matthieu Martel (Université de Perpignan, France)
+Guillaume Melquiond (Inria, France)
+Ian Mitchell (UBC, Canada)
+Sylvie Putot (École Polytechnique, France)
+Sriram Sankaranarayanan (UC Boulder)
+Walid Taha (Halmstadt University, Sweden)
+Alexander Wittig (ESA ESTEC, NL)
+
+Steering Committee
+=======
+
+Sergiy Bogomolov (ANU, Australia)
+Radu Grosu (TU Vienna, Austria)
+Matthieu Martel (Université de Perpignan, France)
+Pavithra Prabhakar (Kansas State University, USA)
+Sriram Sankaranarayanan (UC Boulder, USA)
+
+
+Publicity Chair
+=======
+
+Yassamine Seladji (U Tlemcen, AL)
+
+
+Webmaster
+=======
+
+Viraj Brian Wijesuriya (U Oxford, UK)
+

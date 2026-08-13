@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [review]
 artifact = "Artifact evaluation (optional for regular)"
+
+[[cfp]]
+file = "cfp/SEFM-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SEFM-2025-extended.txt"
+stage = "extended"

@@ -1,0 +1,82 @@
+CFP CIEL 2019
+
+8ème Conférence en IngénieriE du Logiciel
+
+Toulouse, du 13 au 14 juin 2019
+
+ Associée aux journées du GDR GPL (GPL  http://gdr-gpl-2019.enseeiht.fr/index.html)
+ 
+CIEL se joindra à la conférence AFADL pour présenter deux conférences invités.
+
+
+La conférence CIEL (Conférence en IngénieriE du Logiciel)  a pour but de fédérer la communauté du Génie de la Programmation  et du Logiciel autour de débats et de disséminations scientifiques. Elle se veut aussi un support pour les jeunes chercheurs.  
+
+CIEL porte sur des thématiques liées aux technologies à objets et à l’ingénierie des modèles dans le domaine des langages, de la représentation des connaissances, des bases de données, du génie logiciel et des systèmes.
+
+Son objectif est de réunir les chercheurs et industriels intéressés par ces différentes thématiques pour faciliter l’échange d’idées, la diffusion de résultats et d’expériences, la structuration de la communauté et l’identification de nouveaux défis, servir de tremplin pour la communauté pour s’affirmer au niveau international et permettre aux jeunes docteurs de faire valider par la communauté leurs orientations  scientifiques.
+
+
+ == Vers un véritable "forum d'entraide"
+Après plusieurs années sous la forme d’une conférence nationale, nous vous proposons de garder l’orientation de la conférence vers un forum d’entraide et de partage pour la communauté nationale du génie logiciel. Nos objectifs sont les suivants: 
+
+Préparation :
+**********
+Permettre aux jeunes doctorants (1ère et 2ème année) d’exposer leurs idées et d’avoir un retour d’un comité constitué de chercheurs de leur domaine. Permettre aux idées innovantes mais pas encore réellement explorées de recevoir un premier avis sur leur pertinence (typiquement un papier de positionnement, un travail en cours, ou un plan de recherche). Pour cela, la sollicitation se fait par une soumission courte (5 pages max) en français. La sélection se fera classiquement (au mérite) et les papiers sélectionnés seront édités dans les actes de la conférence.
+
+Outils et expérimentations :
+***************************
+Permettre de présenter des données d’expérimentation (benchmark) et des outils ou prototypes de recherche.  Pour cela, la sollicitation se fait par une soumission courte (entre 2 et 5 pages) en français. La sélection se fera classiquement (au mérite) et les papiers sélectionnés seront édités dans les actes de la conférence.
+
+  Confirmation :
+ **************
+Permettre aux collègues de la communauté pré-review la plus proche possible de la réalité. Le papier pourra ne pas être complètement finalisé, mais pour les parties manquantes (dans une limite raisonnable, par exemple la validation), un paragraphe explicatif précis du "reste à faire" devra être fourni. Ces soumissions seront sélectionnées pour une présentation pour les papiers ayant le plus de chance d’atteindre leur objectif. Les papiers ne seront pas édités pour permettre leur soumission aux forums ciblés mais la présentation sera nécessaire pour atteindre l’objectif visé, en permettant aux auteurs d’obtenir un maximum d’échanges et de retours sur leur contribution. À cet effet, les auteurs connaîtront le nom des relecteurs (nous sommes là pour les aider) et pourront préparer des questions et demandes d’éclaircissement par rapport aux remarques reçues. Ainsi, une session spéciale sera consacrée à ce type de rencontres. En complément, pour ceux qui le souhaitent, un résumé long en français pourra être intégré dans les actes.
+ 
+Enseignement :
+**************
+Permettre aux enseignants-chercheurs de présenter leurs initiatives en matière d'enseignements relatifs à l’ingénierie logicielle. Pour cela, la sollicitation se fait par une soumission courte (5 pages max) en français. La sélection se fera classiquement (au mérite) et les papiers sélectionnés seront édités dans les actes de la conférence.
+
+ 
+== Soumissions 
+
+=== Thèmes
+Le comité de programme de CIEL 2019 des sujets relatifs au génie logiciel.
+
+ 
+
+=== Types de soumission
+Comme indiqué ci-dessus, et pour permettre à chacun de trouver sa place dans la conférence, deux types de soumissions sont prévus :
+
+ - Des papiers courts (5 pages max, publiés dans les actes) de type "recherche" pour présenter des travaux en cours et stimuler les discussions, "Outils et expérimentations" pour présenter des outils ou des données d'expérimentation, et "enseignement" pour présenter des retours d'expériences et disséminer des bonnes pratiques. 
+
+ -  Des papiers longs (visant un support précis) pour des travaux plus aboutis (fin de thèse, fin de projet, résultats validés). Les limites et le style devront respecter les règles du support visé, qui sera clairement identifié. L’intention de publication sera faite via l’envoi d’un résumé
+
+La première page comportera le titre de l’article, le nom des auteurs, leurs affiliations et adresses (en particulier électroniques) ainsi qu’un résumé d’une dizaine de lignes, une liste de mots clés et la cible visée (URL) pour les papiers confirmés.
+
+Les langues officielles des journées sont le français et l’anglais. Pour les articles en français, le résumé et la liste de mots clés seront écrits en anglais et en français.
+
+Chaque article sera évalué par au moins deux membres du comité de programme sur la base de leur originalité et de leur pertinence. Au moins un auteur de chaque article accepté devra participer à la conférence pour présenter l’article.
+
+ 
+
+=== Format et dépôt
+La soumission se fera sur EasyChair : https://easychair.org/conferences/?conf=ciel2019
+Les articles doivent être soumis au format PDF sur page A4, suivant le modèle fourni par easychair (http://www.easychair.org/publications/easychair.zip)
+
+
+== Dates importantes
+Soumission des résumés pour les articles long : 30 Avril
+Soumission des articles : 15 Mai
+Notification des articles : 30 Mai
+Version finale des articles : 7 Juin
+
+ 
+
+
+En espérant votre participation,
+
+ 
+
+Sophie Ebersold, Université de Toulouse/IRIT, France
+Nicolas Anquetil, Inria Lille, France,
+
+Présidents du comité de programme

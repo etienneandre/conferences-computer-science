@@ -1,0 +1,54 @@
+ABZ 2018
+6th International ABZ (ASM, Alloy, B, TLA, VDM, Z) Conference
+June 5th-8th, 2018
+Southampton, UK
+www.southampton.ac.uk/abz2018 <http://www.southampton.ac.uk/abz2018>
+The ABZ conference is dedicated to the cross-fertilization of six related
+state-based and machine-based formal methods, Abstract State Machines (ASM),
+Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are
+widely used in both academia and industry for the design and analysis of
+hardware and software systems.
+
+ABZ 2018 will have a main conference track, a case study track, tutorials and
+workshops.
+
+-----------------------
+Call For Papers
+-----------------------
+Four kinds of contributions are invited:
+
+•    Full Research papers: full papers of not more than 14 pages in LNCS
+format, which have to be original, unpublished and not submitted elsewhere.
+•    Short presentations of work in progress, and tool demonstrations: This is
+an excellent opportunity for Ph.D. students to present and validate their work
+in progress. An extended abstract of not more than 4 pages is expected and
+will be reviewed.
+•    Answers to case study papers: full papers of not more than 14 pages in
+LNCS format reporting on the experiments conducted with any of the state based
+techniques in the scope of ABZ 2014.
+•    Application in industry papers: reporting on work or experiences on the
+application of state based formal methods in industry. An extended abstract of
+not more than 4 pages is expected and will be reviewed. It is also an
+interesting option for industrial practitioners who sometimes face too many
+constraints to prepare a full paper.
+
+Accepted papers will appear in the Springer LNCS proceedings. See here
+<https://www.southampton.ac.uk/abz2018/call-for-contributions.page?> for
+submission details. The deadline for abstract submission is January 29, 2018
+and for paper submission is February 5, 2018.
+
+-----------------------
+Important dates
+-----------------------
+Abstract submission deadline: January 22, 2018 29 January 2018
+Paper submission deadline: January 29, 2018 5 February 2018
+Tutorial proposal submission: February 16, 2018
+ABZ 2018 conference: June 5-8, 2018
+
+-----------------------
+Workshops
+-----------------------
+The 7th Rodin User and Developer Workshop (Rodin 2018): find out more here
+<http://wiki.event-b.org/index.php/Rodin_Workshop_2018>.
+3rd International Workshop about Sets and Tools (SETS 2018): find out more
+here <http://www.lirmm.fr/sets2018/>.

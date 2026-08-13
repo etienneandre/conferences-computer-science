@@ -1,0 +1,29 @@
+Call for Papers
+
+The SYNT workshop aims to bring together researchers interested in the broad area of synthesis of computing systems. The workshop fosters the development of frontier techniques in automating the development of computing systems and is inclusive in its interpretation of the term synthesis
+
+Topics of interest include, but are not limited to:
+
+    algorithms and tools for software synthesis and reactive (discrete-time, timed, hybrid, ...) synthesis,
+    specification languages and optimization in synthesis,
+    complexity and decidability results for synthesis,
+    case studies of software or hardware synthesis,
+    connections between verification and synthesis,
+    synthesis by model learning,
+    connections between synthesis and inductive programming,
+    new approaches or applications for synthesis,
+    description and analysis of benchmark families for synthesis.
+
+We welcome both full papers (max. 15 pages in EPTCS style, excluding references) and one-page abstracts in the same format. Submissions will be judged on how interesting they are to the SYNT community. Overlap with previously published work should be indicated, but does not disqualify a submission if the presentation can be expected to be of enough interest. Copies of the accepted submissions will be provided to the participants.
+
+Extended versions of a selection of accepted submissions will form the basis of a special issue of Acta Informatica, to be published after the workshop.
+Submission URL:
+
+Paper submission is done via easychair.org
+Important dates:
+
+    Paper submission: May 1, 2018
+    Author notification: May 8, 2018
+    Camera-ready Version: May 22, 2018
+    Workshop: July 18, 2018
+

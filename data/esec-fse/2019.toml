@@ -19,3 +19,7 @@ license = "acm"
 
 [extra]
 notes = "Open science policy. Double-blind. Also tutorials, doctoral symposium, tool demos and others. Author response period: April 26 — 29, 2019."
+
+[[cfp]]
+file = "cfp/ESEC-FSE-2019.txt"
+stage = "initial"

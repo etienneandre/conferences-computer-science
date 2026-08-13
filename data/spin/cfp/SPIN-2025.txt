@@ -1,0 +1,177 @@
+**********************************************************
+                            SPIN
+  31st International Symposium on Model Checking Software
+
+https://spin-web.github.io/SPIN2025/
+
+                      7 - 8 May 2025
+
+       co-located with ETAPS 2025, Hamilton, Canada
+*********************************************************
+
+
+Theme of the Symposium:
+-----------------------
+The SPIN symposium aims at bringing together researchers and
+practitioners interested in automated tool-based techniques for the
+analysis of software as well as models of software, for the purpose of
+verification and validation. The symposium specifically focuses on
+concurrent software but does not exclude the analysis of sequential
+software. Submissions are solicited on theoretical results, novel
+algorithms, tool development, and empirical evaluation.
+
+The SPIN symposium originated as a workshop focusing on explicit state
+model checking, specifically as related to the SPIN model checker.
+However, over the years it has evolved to a broadly-scoped symposium for
+software analysis using any automated techniques, including model
+checking, automated theorem proving, and symbolic execution. An overview
+of the previous SPIN symposia (and early workshops) can be found at:
+https://spinroot.com/spin/Workshops/.
+
+
+Topics of Interest:
+-------------------
+Topics of interest include, but are not limited to:
+
+* Formal verification techniques for automated analysis of (concurrent)
+software/hardware, including:
+  -- Model checking
+  -- Deductive verification
+  -- Automated theorem proving, including SAT and SMT
+  -- Abstraction and symbolic execution techniques
+  -- Static analysis and abstract interpretation
+  -- Modular and compositional verification techniques
+  -- Verification of timed and probabilistic systems
+  -- Automated testing using advanced analysis techniques
+  -- Program synthesis
+  -- Derivation of specifications, test cases etc. via formal analysis
+  -- Formal specification languages, temporal logic, design-by-contract
+  -- Formal analysis of learned systems
+  -- Any combination of the above
+* Application and/or engineering of verification tools, including:
+  -- Case studies of interesting systems or with interesting results
+  -- Implementation of novel verification tools
+  -- Benchmarks and comparative studies for verification tools
+  -- Verification tools using modern hardware, e.g.: multi-core CPU,
+GPU, TPU, cloud, and quantum
+
+
+Important Dates:
+----------------
+Paper Submission:                     13 Feb 2025
+Artifact Submission (Tool Papers):    27 Feb 2025
+Paper/Artifact Notifications:         24 Mar 2025
+Artifact Submission (Other Papers):   12 Mar 2025
+Non-tool Paper Artifact Notification: 1 May 2025
+Symposium:                            7-8 May 2025
+
+
+Submission Details:
+-------------------
+We are soliciting three categories of papers:
+
+* Full Research Papers describing fully developed work and complete
+results (16 pages, excluding bibliography and appendices);
+
+* Full Tool Papers, accompanied by a *Mandatory Artifact*, describing
+work that is closely-related to the development or the evaluation of a
+verification tool or similar (16 pages, excluding bibliography and
+appendices);
+
+* Short Papers presenting tools, technology, experiences with lessons
+learned, new ideas, work in progress with preliminary results, and novel
+contributions to formal methods (6 pages, excluding bibliography and
+appendices). Note: Artifact evaluation is optional for short papers but
+highly recommended for those with a focus on tools. If you want to have
+the accompanying artifact of your short paper evaluated, please submit
+it to the mandatory AE on February 27.
+
+Papers submission website:
+https://easychair.org/conferences/?conf=spin2025 -- in the track
+Research Papers, select the respective paper category.
+
+All papers that conform to submission guidelines will be peer-reviewed
+by members of the program committee. Submissions will be evaluated on
+the basis of originality, the importance of contribution, soundness,
+evaluation, quality of presentation, and appropriate comparison to
+related work.
+
+The proceedings of SPIN 2025 will be published as part of
+post-conference proceedings in Springer’s Lecture Notes in Computer
+Science series. Submissions should adhere to the LNCS format; see
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines.
+Please take into account Springer’s Book authors code of conduct when
+preparing submissions:
+https://www.springernature.com/gp/authors/book-authors-code-of-conduct.
+
+
+Artifact Evaluation:
+--------------------
+SPIN 2025 will feature artifact evaluation, performed by an Artifact
+Evaluation Committee (AEC). The AEC evaluates artifacts based on
+documentation, availability, reproducibility of results, and tool
+reusability (if applicable). Artifact submission is mandatory for Full
+Tool Papers. While artifact submission is optional for papers in other
+categories, we highly encourage authors of papers involving tool
+development and empirical evaluation to submit an artifact for
+evaluation. Papers with an accompanying artifact may be awarded one or
+more badges from the EAPLS artifact badging scheme
+(https://eapls.org/pages/artifact_badges/). More details can be found
+at: https://spin-web.github.io/SPIN2025/artifacts
+
+
+Keynote Speakers:
+-----------------
+Alexandre Duret-Lutz (EPITA Research Laboratory (LRE))
+Orna Grumberg (Technion, Israel)
+
+
+PC Chairs:
+----------
+Gidon Ernst (Ludwig-Maximilians-Universität München)
+Kristin Yvonne Rozier (Iowa State University)
+
+
+Artifact Evaluation Chairs:
+---------------------------
+Julie Cailler (University of Lorraine & Inria, France)
+Nian-Ze Lee (LMU Munich / National Taiwan University)
+
+
+*****************
+
+This edition of SPIN will include artifact evaluation, cf.
+https://spin-web.github.io/SPIN2025/artifacts.
+We are now forming an Artifact Evaluation Committee headed by our
+artifact evaluation chairs:
+
+Julie Cailler, University of Lorraine & Inria, France
+(julie.cailler@loria.fr)
+Nian-Ze Lee, LMU Munich / National Taiwan University
+(nian-ze.lee@sosy.ifi.lmu.de)
+
+If you have experience in artifact creation and evaluation or a passion
+for tools and empirical experiments,
+
+you are welcome to nominate yourself via an email to the AEC chairs.
+
+*****************
+
+--
+  ____________________________________________________________
+                                     __
+            /\                       \ \_____
+           /  \                   ###[==_____>
+          /    \                     /_/      __
+         /  __  \                             \ \_____
+         | (  ) |                          ###[==_____>
+        /| /\/\ |\                            /_/
+       / | |  | | \
+      /  |=|==|=|  \       Kristin Yvonne Rozier, Ph.D.
+    /    | |  | |    \     Associate Professor, Iowa State Univ
+   / USA | ~||~ |NASA \    Departments of Aerospace Engineering,
+  |______|  ~~  |______|     Computer Science, Mathematics, and
+         (__||__)            Electrical and Computer Engineering
+         /_\  /_\
+         !!!  !!!          laboratory.temporallogic.org
+

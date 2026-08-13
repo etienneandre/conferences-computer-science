@@ -1,0 +1,112 @@
+SPIN 2020 - 27th International Symposium on Model Checking of Software
+Chicago, Illinois, USA, July 24-25, 2020
+ 
+https://spin2020ui.web.illinois.edu
+ 
+** CALL FOR PAPERS **
+ 
+The SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software but does not exclude the analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms, tool development, and empirical evaluation.
+ 
+The SPIN symposium originated as a workshop focusing on explicit state model checking, specifically as related to the Spin model checker. However, over the years it has evolved to a broadly-scoped symposium for software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution. An overview of the previous SPIN symposia (and early workshops) can be found at: http://spinroot.com/spin/symposia.
+ 
+Topics of interest include, but are not limited to:
+ 
+Formal verification techniques for automated analysis of software
+Formal analysis for modeling languages, such as UML/state charts
+Formal specification languages, temporal logic, design-by-contract
+Model-checking
+Automated theorem proving, including SAT and SMT
+Verifying compilers
+Abstraction and symbolic execution techniques
+Static analysis and abstract interpretation
+Combination of verification techniques
+Modular and compositional verification techniques
+Verification of timed and probabilistic systems
+Automated testing using advanced analysis techniques
+Combination of static and dynamic analyses
+Derivation of specifications, test cases, or other useful material via formal analysis
+Case studies of interesting systems or with interesting results
+Engineering and implementation of software verification and analysis tools
+Benchmark and comparative studies for formal verification and analysis tools
+Formal methods of education and training
+Insightful surveys or historical accounts on topics of relevance to the symposium
+ 
+ 
+** IMPORTANT DATES **
+ 
+Submissions: April 17, 2020 (23:59:59 Anywhere on Earth)
+Author notification: May 22, 2020
+Camera-ready: June 22, 2020
+Symposium: July 24-25, 2020
+ 
+** SUBMISSION CATEGORIES AND GUIDELINES **
+ 
+Papers should be submitted via the EasyChair SPIN 2020 submission website: https://easychair.org/conferences/?conf=spin20200
+ 
+The proceedings of SPIN 2020 will be published in Springer’s Lecture Notes in Computer Science series.
+ 
+Submissions should adhere to the LNCS format: http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+ 
+With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere.
+ 
+We are soliciting three categories of papers:
+ 
+Full Research Papers describing fully developed work and complete results (16 pages – references are not included in this limit);
+Short Papers presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages – references are not included in this limit).
+Tool Demo Papers presenting the foundations, capabilities, application domains and relevant examples using the tools, with a clear description of what is expected to be shown in a live demonstration (4 pages to describe the tool foundations, features and use examples, plus an appendix explaining the content of the demo).
+ 
+All papers that conform to submission guidelines will be peer-reviewed by members of the program committee.  Submissions will be evaluated on the basis of originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.
+ 
+At least one author of each accepted paper must attend the symposium and present the paper.
+ 
+Best Paper awards will be given and announced at the conference.
+ 
+Traditionally, a selection of papers were invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT).
+ 
+** ORGANIZATION **
+ 
+Program Chairs
+ 
+Owolabi Legunsen, Cornell University and University of Illinois at Urbana-Champaign
+Grigore Rosu, University of Illinois at Urbana-Champaign
+ 
+Program Committee
+ 
+Axel Legay, Universite catholique de Louvain
+Doron Peled, Bar Ilan University
+Alex Groce, Northern Arizona Univeristy
+A. Prasad Sistla, University of Illinois at Chicago
+Allison Sullivan, The University of Texas at Austin
+Eunsuk Kang, Carnegie Mellon University
+Alice Miller, University of Glasgow
+Stefan Leue, University of Konstanz
+Alberto Lluch Lafuente, Technical University of Denmark
+Gerard Holzmann, Nimble Research
+Cristina Seceleanu, Malardalen University
+Corina Pasareanu, CMU/NASA Ames Research Center
+Jaco van de Pol, Aarhus University
+Kyungmin Bae, Pohang University of Science and Technology
+Madalina Erascu, Institute e-Austria Timisoara and West University of Timisoara
+Neeraj Suri, Lancaster University
+Andreas Stahlbauer, University of Passau
+Dragan Bosnacki, Eindhoven University of Technology
+Sandeep Kulkarni, Michigan State University
+Scott Smolka, Stony Brook Universtiy
+Kuen-Bang Hou Favonia, University of Minnesota
+ 
+Steering Committee
+ 
+Dragan Bosnacki, Eindhoven University of Technology (chair)
+Susanne Graf, Verimag
+Gerard Holzmann, Nimble Research
+Stefan Leue, University of Konstanz
+Jaco van der Pol, Aarhus University
+Neha Rungta, Amazon Web Services
+Willem Visser, Stellenbosch University
+ 
+ 
+** CONTACT INFORMATION **
+ 
+Owolabi Legunsen, legunse2@illinois.edu
+Grigore Rosu, grosu@illinois.edu
+

@@ -26,3 +26,7 @@ submitted = 129
 
 [extra]
 notes = "Double blind process. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021-2024)."
+
+[[cfp]]
+file = "cfp/EMSOFT-2024.txt"
+stage = "initial"

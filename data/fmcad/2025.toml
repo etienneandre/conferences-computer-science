@@ -25,3 +25,11 @@ license = "cc-by"
 
 [extra]
 colocated = "Co-located with VSTTE 2025"
+
+[[cfp]]
+file = "cfp/FMCAD-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FMCAD-2025-extended.txt"
+stage = "extended"

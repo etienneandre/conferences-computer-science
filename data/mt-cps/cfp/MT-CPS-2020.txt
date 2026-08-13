@@ -1,0 +1,68 @@
+--------------------------------------------------------------------------------------------
+Call for Papers
+
+5th Workshop on Monitoring And Testing Of Cyber-Physical Systems
+MT-CPS 2020
+April 21, 2020 - Sydney, Australia
+https://sites.google.com/view/mt-cps2020/
+
+Part of CPS-IoT Week 2020
+--------------------------------------------------------------------------------------------
+
+Cyber-physical systems (CPS) model the integration of computational
+modules, like decision logic, with physical phenomena in the
+environment, such as the phenomenon being controlled by the logic.
+Several CPS applications, such as self-driving cars and other
+autonomous ground/aerial/underwater vehicles, medical devices,
+surgical robots, as well as many Internet of Things (IoT)
+applications, particularly for Industrial IoT or Industry 4.0, are
+safety-critical, where human lives can be at stake. CPS exhibit
+complex and unpredictable behaviors, thus making their correctness and
+robustness analysis a challenging task. Given the gap between the
+complexity of such systems and the scalability of current formal
+methods, exhaustive formal verification remains an elusive goal.
+However, simulation-based lightweight verification techniques, such as
+monitoring and testing, achieve both rigor and efficiency by enabling
+the evaluation of systems according to the properties of their
+exemplar behaviors. The Workshop on Monitoring and Testing of
+Cyber-Physical Systems (MT-CPS) aims to bring together researchers and
+practitioners interested in the problems of detecting, testing,
+measuring, and extracting qualitative and quantitative properties from
+individual behaviors of CPS.
+
+Topics of interest include (but are not limited to):
+- Specification languages for monitoring and testing
+- Runtime verification and monitoring of CPS
+- Model/Software/Hardware/Processor-in-the-loop (MIL/SIL/HIL/PIL) testing
+- Testing the integration of heterogeneous components
+- Monitoring and testing of streaming and/or historical IoT data
+- Interpretation of multi-dimensional counter-examples
+- Black-box and white-box testing
+- Measuring and statistical information gathering for data-driven analyses
+- Simulation-based verification and parameter synthesis
+- Fault diagnostics, localization, and recovery
+- Combination of static and dynamic analysis
+- Applications and case studies from safety-critical domains
+
+--------------------------------------------------------------------------------------------
+Workshop format
+
+MT-CPS is intended to be a forum for exchanging the latest scientific
+activity and emerging trends between researchers and practitioners. We
+encourage submission of abstracts that address any of the
+aforementioned topics of interest and cover recently published or work
+in progress. In addition to the contributed material, the workshop
+will include a combination of invited talks from leading researchers
+and/or practitioners from industry, academia, and government research
+labs around the world.
+The workshop is intended to be an informal gathering about latest
+results and, as such, it will not have formal proceedings. However, we
+will make accepted abstracts and presentation material publicly
+available.
+
+--------------------------------------------------------------------------------------------
+Important Dates:
+- Abstract submission deadline: February 16, 2020
+- Notification: March 8, 2020
+- Final version: March 29, 2020
+- Workshop: April 21, 2020

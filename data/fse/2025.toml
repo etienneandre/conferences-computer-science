@@ -26,3 +26,7 @@ blind = "double"
 [extra]
 colocated = "Co-located with ISSTA 2025."
 notes = "Open science policy. Non-binary answer (includes major revision). Also tutorials, doctoral symposium, tool demos and others."
+
+[[cfp]]
+file = "cfp/FSE-2025.txt"
+stage = "initial"

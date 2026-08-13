@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Rebuttal: 12-15 June 2017."
+
+[[cfp]]
+file = "cfp/RTSS-2017-participation.pdf"
+kind = "participation"

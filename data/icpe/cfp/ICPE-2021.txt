@@ -1,0 +1,289 @@
+------------------------------------------------------------------------
+                          Call for Contributions
+------------------------------------------------------------------------
+                                ICPE 2021
+    12th ACM/SPEC International Conference on Performance Engineering
+
+            Sponsored by ACM SIGMETRICS, SIGSOFT, and SPEC RG
+
+                            Rennes, France
+                           April 17-23, 2021
+
+                     Web: https://icpe2021.spec.org/
+                 Twitter: https://twitter.com/ICPEconf/
+
+------------------------------------------------------------------------
+
+IMPORTANT DATES
+
+  Research abstracts:                         Oct  9, 2020
+  Research papers:                            Oct 16, 2020
+  Research paper notification:                Dec 10, 2020
+ 
+  Artifact registration:                      Dec 14, 2020
+  Artifact submission:                        Dec 21, 2020
+  Artifact notification:                      Feb 08, 2021
+ 
+  Industrial/experience abstracts:            Oct  9, 2020
+  Industrial/experience papers:               Oct 16, 2020
+  Industrial/experience paper notification:   Dec 11, 2020
+ 
+  Workshop proposals submission:              Oct 16, 2020
+  Workshop proposals notification:            Oct 27, 2020
+
+  Poster/demo submission:                     Jan 20, 2021 
+  Poster/demo notification:                   Feb  4, 2021
+ 
+  Tutorial proposals submission:              Jan 20, 2021
+  Tutorial proposals notification:            Feb  4, 2021
+ 
+  Work-in-progress papers:                    Jan 20, 2021
+  Work-in-progress paper notification:        Feb 4, 2021
+
+------------------------------------------------------------------------
+
+SCOPE AND TOPICS
+
+The International Conference on Performance Engineering (ICPE) is the 
+leading international forum for presenting and discussing novel ideas, 
+innovations, trends and experiences in the field of performance 
+engineering. Modern systems, such as big data and machine learning 
+environments,  data centers and cloud infrastructures, social networks, 
+peer-to-peer, mobile and wireless systems, cyber-physical systems, the 
+Internet of Things or more traditional ones such as web-based or real-
+time systems, rely increasingly on distributed and dynamic architectures 
+and pose a challenge to their end-to-end performance management.
+
+ICPE brings together researchers and practitioners to report 
+state-of-the-art and in-progress research on performance engineering of 
+software and systems, including performance measurement, modeling, 
+benchmark design, and run-time performance management. The focus is both 
+on classical metrics such as response time, throughput, resource 
+utilization, and (energy) efficiency, as well as on the relationship of 
+such metrics to other system properties including but not limited to 
+scalability, elasticity, availability, reliability, cost, sustainability, 
+security and privacy. The systems of interest include any type of computing 
+or software system, such as (but not limited to) desktop systems, cloud 
+systems, web-based systems, embedded systems, distributed systems and 
+cyber-physical systems. The handling of performance issues at all stages 
+of software and system life cycles is also of interest.
+
+This year, we particularly encourage researchers to submit their work on 
+the performance engineering of ‘modern’ application domains as well, such 
+as deep learning, blockchain, microservices, Big Data, DevOps and/or 
+Autonomous Systems.
+
+Topics of interest include, but are not limited to:
+
+Performance modeling of software:
+* Languages and ontologies
+* Methods and tools
+* Relationship/integration/tradeoffs with other QoS attributes
+* Analytical, simulation and statistical modeling methodologies
+* Machine learning and neural networks
+* Model validation and calibration techniques
+* Automatic model extraction
+* Performance modeling and analysis tools
+ 
+Performance and software development processes/paradigms:
+* Software performance testing
+* Software performance (anti-)patterns
+* Software/performance tool interoperability (models and data interchange formats)
+* Performance-oriented design, implementation and configuration management
+* Software Performance Engineering and Model-Driven Development
+* Gathering, interpreting and exploiting software performance annotations and data
+* System sizing and capacity planning techniques
+* (Model-driven) Performance requirements engineering
+* Relationship between performance and architecture
+* Performance and agile methods
+* Performance in Service-Oriented Architectures (SOA)
+* Software and system scalability and its impact on performance
+
+Performance measurement, monitoring and analysis:
+* Application tracing and profiling
+* Workload characterization techniques
+* Experimental design
+* Tools and techniques for performance testing, measurement, profiling and tuning, 
+* and analysis of the resulting data
+
+Benchmarking
+* Performance metrics and benchmark suites
+* Benchmarking methodologies
+* Development of parameterizable, flexible benchmarks
+* Benchmark workloads and scenarios
+* Use of benchmarks in industry and academia
+
+Run-time performance management and adaptation
+* Machine learning and runtime performance decisions
+* Context modeling and analysis
+* Runtime model estimation
+* Use of models at run-time
+* Online performance prediction
+* Autonomic resource management
+* Utility-based optimization
+* Capacity management
+
+Power and performance, energy efficiency
+* Power consumption models and management techniques
+* Tradeoffs between performance and energy efficiency
+* Performance-driven resource and power management
+
+All other topics related to performance of software and systems.
+
+------------------------------------------------------------------------
+
+SUBMISSION GUIDELINES
+
+Authors are invited to submit original, unpublished papers that are not
+being considered in another forum. A variety of contribution styles for
+papers is solicited including: basic and applied research papers for
+novel scientific insights, industrial and experience papers reporting on
+applying performance engineering or benchmarks in practice, and
+work-in-progress papers for ongoing innovative work. Different
+acceptance criteria apply based on the expected content of the
+individual contribution types.
+
+Authors will be requested to self-classify their papers according to
+the provided topic areas when submitting their papers.
+
+Submissions to all tracks need to be uploaded to ICPE's submission
+system and conform to the ACM submission format.
+
+At least one author of each accepted paper is required to register at
+the full rate, attend the conference and present the paper. Presented
+papers will be published in the ICPE 2021 conference proceedings that
+will be published by ACM and included in the ACM Digital Library.
+
+Authors of accepted research papers are invited to submit an artifact to
+the ACM/SPEC ICPE 2021 Artifact Track.
+
+The highest quality papers, judged by multiple relevant factors, will be
+recognized with an award. Authors of selected papers will be invited to
+submit an extended version of their work to a journal.
+
+AUTHORS TAKE NOTE: The official publication date is the date the
+proceedings are made available in the ACM Digital Library. This date may
+be up to two weeks prior to the first day of your conference. The
+official publication date affects the deadline for any patent filings
+related to published work. (For those rare conferences whose proceedings
+are published in the ACM Digital Library after the conference is over,
+the official publication date remains the first day of the conference.)
+
+------------------------------------------------------------------------
+
+PROGRAM COMMITTEE (RESEARCH PAPERS)
+
+Jose Nelson Amaral, University of Alberta, Canada
+Varsha Apte, IIT Bombay, India
+Alberto Avritzer, eSulabSolutions, USA
+Steffen Becker, University of Stuttgart, Germany
+Simona Bernardi, Universidad de Zaragoza, Spain
+Andre Bondi, Software Performance and Scalability Consulting LLC, USA
+Ivona Brandic, Vienna University of Technology, Austria
+Lubomir Bulej, Charles University, Czech Republic
+Radu Calinescu, University of York, England
+Valeria Cardellini, University of Rome Tor Vergata, Italy
+Tse-Hsun (Peter) Chen, Concordia University, Canada 
+Lucy Cherkasova, ARM Research, USA
+Vittoria De Nitto Personè, University of Rome Tor Vergata, Italy
+Antinisca Di Marco, University of L'Aquila, Italy
+Wilhelm Hasselbring, Kiel University, Germany
+Nikolas Roman Herbst, University of Würzburg, Germany
+Alexandru Iosup, Vrije Universiteit, Netherlands
+Pooyan Jamshidi, University of South Carolina, USA
+Evangelia Kalyvianaki, University of Cambridge, England	
+Samuel Kounev, University of Würzburg, Germany
+Anne Koziolek, Karlsruhe Institute of Technology, Germany
+Heiko Koziolek, ABB Corporate Research, Germany
+Diwakar Krishnamurthy, University of Calgary, Canada
+Philipp Leitner, Chalmers | University of Gothenburg, Sweden
+Marin Litoiu, York University, Canada
+Catalina M.	Llado, Universitat Illes Balears, Spain
+Daniel Menasce, George Mason University, USA
+Jose Merseguer, Universidad de Zaragoza, Spain
+Raffaela Mirandola, Politecnico di Milano, Italy
+Hanspeter Mössenböck, Johannes Kepler University Linz, Austria
+John Murphy, University College Dublin, Ireland
+Manoj Nambiar, Tata Consultancy Services, India
+Dusan Okanovic, Novatec, Germany
+Dorina Petriu, Carleton University, Canada
+Francesco Quaglia, University of Rome Tor Vergata, Italy
+Weiyi Shang, Concordia University, Canada
+Rekha Singhal, Tata Consultancy Services, India
+Evgenia Smirni, College of William and Mary, USA
+Mirco Tribastone, IMT Lucca, Italy
+Catia Trubiani, GSSI L'Aquila, Italy
+Petr Tuma, Charles University, Czech Republic
+Alexandru Uta, Vrije Universiteit, Netherlands
+Andre van Hoorn, University of Stuttgart, Germany
+Ana Lucia Varbanescu, University of Amsterdam, Netherlands
+Katinka Wolter, Freie Universität Berlin, Germany
+Murray Woodside, Carleton University, Canada
+
+The PC committees for some tracks are not fully formed yet so the ICPE 
+website will keep involving to reflect such info. 
+
+------------------------------------------------------------------------
+
+ORGANIZING COMMITTEE
+
+General Chairs
+* Johann Bourcier, University of Rennes 1, France
+* Zhen Ming (Jack) Jiang, York University, Canada
+
+Research Program Chairs
+* Vittorio Cortellessa, University of L'Aquila, Italy
+* Cor-Paul Bezemer, University of Alberta, Canada
+
+Artifact Evaluation Chairs
+* Tse-Hsun (Peter) Chen, Concordia University, Canada
+* Catia Trubiani, Gran Sasso Science Institute, Italy
+
+Workshops Chairs
+* Weiyi Shang, Concordia University, Canada
+* Alessandro Pellegrini, Rome University, Italy
+
+Tutorials Chairs
+* Nikolas Herbst, University of Würzburg, Germany
+* Rekha Singhal, Tata Consultancy Services, India
+
+Posters and Demos Chair
+* Heng Li, Ecloe Polytechnique de Montreal, Canada
+* Catalina Lladó Matas, Universitat de les Illes Balears, Spain
+
+Awards Chairs
+* Philipp Leitner, Chalmers | University of Gothenburg, Sweden
+* Marios Fokaefs, Polytechnique Montréal, Canada
+
+Publicity Chairs
+* Boyuan Chen, York University, Canada
+* Huaming Wu, Tianjin University, China
+* Simon Eismann, University of Würzburg, Germany
+* Alma Riska, NetApps, USA
+* Djamel Eddine Khelladi, CNRS-Univ Rennes, France
+
+Industry Track Chair
+* James Bucek, Hewlett Packard Enterprise, USA
+* Robert Birke, ABB Corporate Research, Switzerland
+
+Finance Chair
+* Benoit Combemale, University of Rennes 1, France
+
+Publications Chair
+* Daniele Di Pompeo, University of L'Aquila, Italy
+* Ana Lucia Varbanescu, University of Amsterdam, Netherlands
+
+Social-Media Chair
+* Mathieu Acher, University of Rennes 1, France
+* Arnaud Blouin, INSA Rennes, France
+
+Local Arrangements Chair
+* Elisabeth Lebret, Inria Rennes, France
+* Nathalie Lacaux, Inria Rennes, France
+
+Web Chair
+* Antoine Cheron, Fabernovel, France
+* Olivier Barais, University of Rennes 1, France
+
+Student Volunteer Chair
+* Noël Plouzeau, University of Rennes 1, France

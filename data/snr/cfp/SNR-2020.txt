@@ -1,0 +1,108 @@
+CALL FOR PAPERS SNR’20
+Workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT 
+http://www.cs.cas.cz/snr2020/
+Co-organized with QONFEST’20
+Monday August 31, 2020
+
+** Given the COVID-19 situation, SNR’20 will be conducted virtually **
+
+
+The workshop on Symbolic-Numeric methods for Reasoning about CPS and
+IoT (SNR) focuses on the combination of symbolic and numeric methods
+for reasoning about Cyber-Physical Systems and the Internet of Things
+to facilitate model identification, specification, verification, and
+control synthesis problems for these systems. The synergy between
+symbolic and numerical approaches is fruitful for two main reasons:
+
+• Symbolic methods that operate on exact and discrete representations
+  of systems, the set of reachable states, the distribution of model
+  parameters or the possible gains for controller parameters.
+
+• Numeric methods that operate on various forms of numerical
+  approximations and continuous transformations of the systems, as
+  developed in the area of continuous dynamical systems and control
+  theory.
+
+Such synergies are already seen in areas such as reachability analysis
+(symbolic representation of reachable states versus numerical
+integration), uncertainty reasoning (eg., Rao-Blackwellization),
+machine learning (eg., learning models through stochastic gradient
+descent versus symbolic reasoning over the function represented by the
+network to prove properties) and decision procedures (eg., symbolic
+SAT solvers versus numerical convex optimisation solvers).
+
+===============
+Topics of Interest
+
+The SNR workshop aims to catalyse work on the interface of symbolic
+and numeric methods for verification, synthesis and identification
+problems for CPS and IoT. The scope of the workshop includes, but is
+not restricted to, the following topics:
+
+• Verification, parameter identification and control synthesis for
+  hybrid systems
+• Probabilistic inference and reachability for stochastic hybrid
+  systems
+• Symbolic and numerical integration and decision techniques
+• Emerging applications to safe autonomous systems in uncertain
+  environments 
+• Resiliency and dependability in CPS and IoT
+
+We particularly encourage submissions of papers in the following two
+specific areas:
+
+• Verification of models used in machine learning and autonomous CPS
+• Symbolic and numerical techniques for verification and synthesis of
+  stochastic models
+
+===============
+Submission Information
+
+The workshop solicits
+
+• long research papers (not exceeding 15 pages excluding references),
+• short research papers (not exceeding 6 pages excluding references),
+  and 
+• work-in-progress papers (not exceeding 6 pages excluding references).
+
+Research papers must present original unpublished work which is not
+submitted elsewhere. In order to foster the exchange of ideas, we also
+encourage work-in-progress papers, which present recent or on-going
+work. The papers should be written in English and formatted according
+to the EPTCS guidelines.
+
+Papers can be submitted using the EasyChair system
+https://easychair.org/conferences/?conf=snr2020.
+
+All submissions will undergo a peer-reviewing process. Accepted
+research papers will be presented at the workshop and published in the
+Electronic Proceedings in Theoretical Computer Science
+(EPTCS). Accepted work-in-progress papers will be presented at the
+workshop but will not be included in the proceedings.
+
+===============
+Important Dates
+
+Submission deadline: 15 June 2020 
+Notification: 15 July 2020
+Final version: 30 July 2020
+Workshop: 31 August 2020
+
+===============
+Organizers: 
+
+• Thao Dang (CNRS/VERIMAG,France)
+• Stefan Ratschan (Academy of Sciences of the Czech Republic)
+
+===============
+Past Versions of the Workshop
+
+This workshop would be the continuation of SNR held with the following
+conferences in the past:
+
+• CPS-IoT Week 2019 [SNR’19] (organizers Sriram Sankaranarayanan and
+  Sadegh Soudjani)
+• ETAPS2018 [SNR’18] (organizers Taylor T. Johnson and Martin Fränzle)
+• ETAPS2017 [SNR’17] (organizers Erika Abraham and Sergiy Bogomolov)
+• CPSWeek2016 [SNR’16] (organizers Erika Abraham and Sergiy Bogomolov) 
+• CAV2015 [SNR’15] (organizers Sergiy Bogomolov and Ashish Tiwari)

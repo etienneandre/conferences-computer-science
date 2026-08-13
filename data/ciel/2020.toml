@@ -19,3 +19,7 @@ publisher = "?"
 
 [extra]
 notes = "In French or English. Co-located with GDR-GPL. Les papiers longs auront la possibilité d’être étendus et évalués à nouveau pour paraître dans un numéro spécial de la revue TSI. Pas de date limite pour articles longs (au fil de l’eau) Deadline extension: 2 weeks (2015, 2016). CANCELLED."
+
+[[cfp]]
+file = "cfp/CIEL-2020.txt"
+stage = "initial"

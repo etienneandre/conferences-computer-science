@@ -24,3 +24,11 @@ award = "Best papers and best student papers awards will be presented at the con
 [extra]
 journal = "Authors of outstanding papers will be invited to submit an extended version of their work for a special issue of Springer Real-Time Systems journal"
 notes = "3 rounds of submissions in 2024 and 2025 (January, May, and August). Two rounds in 2022 (September 2022 and January 2023)."
+
+[[cfp]]
+file = "cfp/RTNS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RTNS-2025-round2.txt"
+note = "round 2"

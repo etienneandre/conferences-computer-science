@@ -1,0 +1,101 @@
+CfP CIEL 2018
+
+7ème Conférence en IngénieriE du Logiciel
+Grenoble, du 12 au 15 juin 2018
+https://ciel2018.sciencesconf.org/
+
+Co-localisée avec les journées du GDR-GPL  http://gpl2018.imag.fr/ 
+
+
+== Objectifs
+
+Après Rennes en 2012, Nancy en 2013, Paris en 2014 et Bordeaux en 2015, Besançon en 2016, Montpellier en 2017, CIEL se tiendra à Grenoble.
+
+La conférence CIEL (Conférence en IngénieriE du Logiciel) porte sur des thématiques liées aux technologies à objets et à l’ingénierie des modèles dans le domaine des langages, de la représentation des connaissances, des bases de données, du génie logiciel et des systèmes.
+
+Son objectif est de réunir les chercheurs et industriels intéressés par ces différentes thématiques pour faciliter l’échange d’idées, la diffusion de résultats et d’expériences, la structuration de la communauté et l’identification de nouveaux défis, et surtout servir de tremplin pour la communauté pour s’affirmer au niveau international.
+
+== Vers un véritable "forum d'entraide"
+
+Après plusieurs années sous la forme d’une conférence nationale, nous vous proposons d’orienter la conférence vers un forum d’entraide et de partage pour la communauté nationale du génie logiciel. Nos objectifs sont les suivants: 
+
+Préparation :
+**********
+
+Permettre aux jeunes doctorants (1ère et 2ème année) d’exposer leurs idées et avoir un retour d’un comité constitué de chercheurs de leur domaine. Permettre aux idées innovantes mais pas encore réellement explorées de recevoir un premier avis sur leur pertinence (typiquement un papier de positionnement, un travail en cours, ou un plan de recherche). Pour cela, la sollicitation se fait par une soumission courte (5 pages max) en français. La sélection se fera classiquement (au mérite) et les papiers sélectionnés seront édités dans les actes de la conférence.
+
+Outils et expérimentations :
+***************************
+
+Permettre de présenter des données d’expérimentation (benchmark) et des outils ou prototypes de recherche.  Pour cela, la sollicitation se fait par une soumission courte (entre 2 et 5 pages) en français. La sélection se fera classiquement (au mérite) et les papiers sélectionnés seront édités dans les actes de la conférence.
+
+ Confirmation :
+ **************
+
+Permettre aux collègues de la communauté de passer leurs papiers dans les forums les plus sélectifs (conférences ou journaux). Pour cela, la soumission doit préciser le forum ciblé, elle doit être au format et à la limite du nombre de pages demandés par le forum ciblé. La rédaction doit être en anglais. L’objectif étant d’avoir une pré-review la plus proche possible de la réalité. Le papier pourra ne pas être complètement finalisé, mais pour les parties manquantes (dans une limite raisonnable, par exemple la validation), un paragraphe explicatif précis du "reste à faire" devra être fourni. Ces soumissions seront sélectionnées pour une présentation pour les papiers ayant le plus de chance d’atteindre leur objectif. Les papiers ne seront pas édités pour permettre leur soumission aux forums ciblés mais la présentation sera nécessaire pour atteindre l’objectif visé, en permettant aux auteurs d’obtenir un maximum d’échanges et de retours sur leur contribution. À cet effet, les auteurs connaîtront le nom des relecteurs (nous sommes là pour les aider) et pourront préparer des questions et demandes d’éclaircissement par rapport aux remarques reçues. Ainsi, une session spéciale sera consacrée à ce type de rencontres. En complément, pour ceux qui le souhaitent, un résumé long en français pourra être intégré dans les actes.
+
+Enseignement :
+**************
+Permettre aux enseignants-chercheurs de présenter leurs initiatives en matière d'enseignements relatifs à l’ingénierie logicielle. Pour cela, la sollicitation se fait par une soumission courte (5 pages max) en français. La sélection se fera classiquement (au mérite) et les papiers sélectionnés seront édités dans les actes de la conférence.
+
+== Soumissions
+
+=== Thèmes
+
+Le comité de programme de CIEL 2018 sollicite des articles concernant l'ensemble
+des sujets relatifs au génie logiciel.
+
+=== Types de soumission
+
+
+Comme indiqué ci-dessus, et pour permettre à chacun de trouver sa place dans la conférence, deux types de soumissions sont prévus :
+
+ - Des papiers courts (5 pages max, publiés dans les actes) de type "recherche" pour présenter des travaux en cours et stimuler les discussions, "Outils et expérimentations" pour présenter des outils ou des données d'expérimentation, et "enseignement" pour présenter des retours d'expériences et disséminer des bonnes pratiques. 
+
+ -  Des papiers longs (visant un forum précis) pour des travaux plus aboutis (fin de thèse, fin de projet, résultats validés). Les limites et le style devront respecter les règles du forum visé, qui sera clairement identifié.
+
+
+La première page comportera le titre de l’article, le nom des auteurs, leurs affiliations et adresses (en particulier électroniques) ainsi qu’un résumé d’une dizaine de lignes, une liste de mots clés et la cible visée (URL) pour les papiers confirmés.
+
+Les langues officielles des journées sont le français et l’anglais. Pour les articles en français, le résumé et la liste de mots clés seront écrits en anglais et en français.
+
+Chaque article sera évalué par au moins deux membres du comité de programme sur la base de leur originalité et de leur pertinence. Au moins un auteur de chaque article accepté devra participer à la conférence pour présenter l’article.
+
+=== Format et dépôt
+
+La soumission se fera à l'adresse :
+
+ https://easychair.org/conferences/?conf=ciel2018 
+
+ Les articles doivent être soumis au format PDF sur page A4, suivant le modèle LaTeX fourni par easychair (http://www.easychair.org/publications/easychair.zip). 
+
+
+La première page comportera le titre de l'article, le nom des auteurs, leurs
+affiliations et adresses (en particulier électroniques) ainsi qu'un résumé
+d'une dizaine de lignes, une liste de mots clés et la cible visée (URL) pour
+les papiers confirmés.
+
+Les langues officielles des journées sont le français et l'anglais. Pour les
+articles en français, le résumé et la liste de mots clés seront écrits en
+anglais et en français.
+
+Chaque article sera évalué par au moins deux membres du comité de programme sur
+la base de leur originalité et de leur pertinence. Au moins un auteur de
+chaque article accepté devra participer à la conférence pour présenter l'article.
+
+
+== Dates importantes
+
+Soumission d’un article long :  au fil de l’eau
+Notification des articles longs : au fil de l’eau
+Soumission d’un article court : 30 avril 2018
+Notification des articles courts : 14 mai 2018
+Version finale des articles : 4 juin 2018
+
+
+Très cordialement,
+
+Clémentine Nebut, Université de Montpellier, Montpellier, France
+Tewfik Ziadi, Sorbonne Université, Paris, France
+
+Présidents du comité de programme.

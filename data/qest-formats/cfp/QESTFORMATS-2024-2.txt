@@ -1,0 +1,187 @@
+========================================================
+                    CALL FOR PAPERS
+========================================================
+
+The joint event for the International Conferences on Quantitative
+Evaluation of SysTems (QEST) and on Formal Modeling and Analysis of
+Timed Systems (FORMATS)
+
+9-13 September 2024, Calgary, Canada, as part of the CONFEST 2024
+umbrella conference
+
+https://www.qest-formats.org/
+
+IMPORTANT DATES (UPDATED)
+
+Abstract deadline: 10 April 2024 (Anytime on Earth)
+Paper deadline: 15 April 2024 (Anytime on Earth)
+Author notification: 31 May 2024
+Camera ready submission: 17 June 2024
+Conference: 9-13 September 2024
+
+SCOPE AND TOPICS
+
+The two flagship conferences of QEST (International Conference on
+Quantitative Evaluation of SysTems) and FORMATS (International
+Conference on Formal Modeling and Analysis of Timed Systems) are
+pursuing a strategic process of joining forces and sparking a new joint
+conference for quantitative modelling, analysis, and verification. This
+year, the two conferences form the QEST+FORMATS joint conference in
+2024, which will be held on 9-13 September 2024 in Calgary, Canada, as
+part of the CONFEST 2024 umbrella conference.
+
+The joint conference is the leading forum for the quantitative
+evaluation and verification of systems, which aims to promote the study
+of fundamental and practical aspects of systems with quantitative nature
+(such as probability, timing, and cost), and brings together researchers
+from different disciplines that share interests in the modelling, design
+and analysis of computational systems. Systems of interest include
+biological and chemical systems; computer networks; cyber-physical
+systems; critical infrastructures; data-driven AI systems; energy
+systems; hardware and software systems; industrial systems; and mobility
+networks. The QEST+FORMATS joint conference also aims to attract
+researchers interested in real-time issues in hardware design,
+performance analysis, real-time software, scheduling, semantics and
+verification of timed, hybrid and probabilistic systems.
+
+Topics and scientific areas of interest include:
+
+-   Models and metrics for the correctness, performance, reliability,
+    safety, and security of systems (stochastic, probabilistic, and
+    non-deterministic models including Markov chains, Markov decision
+    processes, automata, Petri nets, process algebra, max-plus algebra,
+    and their variations);
+-   Languages and methods for the specification of quantitative
+    properties of systems;
+-   Techniques, algorithms, and data structures for analysis,
+    evaluation, and verification of the models mentioned above, e.g.,
+    for model checking, testing, constraint solving, scheduling,
+    optimization, and worst-case execution time analysis;
+-   Quantitative and probabilistic aspects of programming;
+-   Data-driven and machine-learning techniques for the analysis,
+    prediction, and verification of quantitative properties of systems;
+-   Case studies that highlight the role of quantitative specification,
+    modelling, and evaluation in the design and analysis of systems,
+    with emphasis on emerging problems and technologies;
+-   Novel software tools to support the practical application of
+    research results in all of the above areas;
+
+The joint QEST+FORMATS conference is open to theoretical, experimental,
+and applicative research and will set up an artifact evaluation process.
+Papers may advance the state of the art on empirical approaches,
+simulation methods, analysis techniques, and applications to
+industrially relevant case studies.
+
+The joint conference will have two tracks associated with QEST and
+FORMATS. The authors are required to select one of these tracks when
+submitting their papers. This is only used to facilitate the review
+process.
+
+This year, QEST+FORMATS will incorporate a special session on:
+
+-   Data-driven verification and synthesis of cyber-physical systems. We
+    encourage the submission of papers on all data-driven approaches
+    related to the formal analysis, verification, and synthesis of
+    cyber-physical systems, including learning techniques for
+    safety-critical systems and safe learning of such systems.
+
+SUBMISSIONS
+
+QEST+FORMATS 2024 considers three types of papers (authors will be able
+to specify the type of contribution upon submission):
+
+-   Research papers: Theoretical, methodological, and application-based
+    contributions that advance the understanding on a topic or issue,
+    describe the development of new analysis processes and techniques,
+    or apply quantitative methods to relevant case studies.
+-   Tool papers: New tools and the formalisms they support. focusing on
+    the software architecture and practical implementation and use. Tool
+    papers must be accompanied by an artifact in the Artifact
+    Evaluation.
+-   Work-in-progress papers: We offer an opportunity to present
+    preliminary results and receive feedback from the community.
+    Work-in-progress contributions are not required to be fully
+    worked-out approaches, for example regarding validation or technical
+    depth; however the presented ideas should be mature enough to
+    appreciate soundness and how they advance our knowledge.
+
+Research and tool papers can be regular or short:
+
+-   Regular papers must not exceed 14 pages, excluding references.
+-   Short papers should be limited to 7 pages, also excluding
+    references.
+
+All papers can have an appendix containing supporting material. Note
+that reviewers are not required to read the appendix to fully assess the
+merits of the paper. Work-in-progress papers must not exceed 4 pages
+including references. All papers must be submitted in Springer’s LNCS
+format. All submitted papers must be unpublished and not be submitted
+for publication elsewhere. Papers should be submitted electronically
+using EasyChair:
+
+https://easychair.org/conferences/?conf=qestformats2024
+
+Springer encourages authors to include their ORCIDs in their papers.
+Authors should consult Springer’s authors’ guidelines and use Springer’s
+LaTeX templates for the preparation of their papers. Submitted papers
+not complying with the above guidelines may be rejected without
+undergoing review.
+
+The top two best papers of the conference will be selected for the QEST
+Award and the FORMATS Oded Maler Award.
+
+PUBLICATIONS
+
+All accepted papers will be presented and discussed at the conference by
+one of the authors. The QEST+FORMATS 2024 proceedings will be published
+in the Springer LNCS series and indexed by ISI Web of Science, Scopus,
+ACM Digital Library, dblp, Google Scholar. All submitted papers will be
+evaluated by at least three reviewers on the basis of their originality,
+technical quality, scientific or practical contribution to the state of
+the art, methodology, clarity, and adequacy of references.
+
+ARTIFACT EVALUATION
+
+Reproducibility of experimental results is crucial to foster an
+atmosphere of trustworthy, open, and reusable research. To improve and
+reward reproducibility, QEST+FORMATS 2024 includes a dedicated Artifact
+Evaluation (AE). Submission of an artifact is mandatory for tool papers
+(both regular and short), and optional but encouraged for research
+papers where it can support the results presented in the paper.
+Artifacts will be reviewed concurrently with the paper review process,
+and accepted papers with a successfully evaluated artifact will receive
+a badge to be shown on the published paper's title page.
+
+Detailed guidelines for preparation and submission of artifacts will be
+available on the conference website. Exceptions to the submission
+guidelines may be granted by the PC chairs in cases where the tool
+cannot in any reasonable way be run by the AE committee.
+
+SPECIAL ISSUES
+
+A selection of the best papers (excluding work-in-progress papers) will
+be invited to submit an extended version of their work to special issues
+in the International Journal on Software Tools for Technology Transfer
+(STTT) and the Performance Evaluation (PEVA) journals.
+
+COMMITTEES
+
+Program Chairs
+Jane Hillston, Edinburgh University, UK
+Sadegh Soudjani, Max Planck Institute, Germany
+
+Track Chairs
+Morteza Lahijanian, UC Boulder, USA (QEST)
+Masaki Waga, Kyoto University, Japan (FORMATS)
+
+Publicity Chairs
+Jyotirmoy Deshmukh, University of Southern California, USA
+Patrick Totzke, University of Liverpool, UK
+Jie An, National Institute of Informatics (NII) in Tokyo, Japan
+
+Artifact Evaluation Chairs
+Tobias Meggendorfer, Lancaster University Leipzig, Germany
+Andrea Vandin, Sant'Anna School for Advanced Studies, Italy
+
+For any questions, feel free to contact the program chairs Jane Hillston
+(Jane.Hillston@ed.ac.uk) and Sadegh Soudjani (sadegh@mpi-sws.org).

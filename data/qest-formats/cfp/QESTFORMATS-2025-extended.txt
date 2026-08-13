@@ -1,0 +1,269 @@
+=================
+QEST+FORMATS 2025
+=================
+
+August 25-30, 2025, Aarhus, Denmark
+https://www.qest-formats.org/
+
+The second joint event for the International Conferences on
+- Quantitative Evaluation of SysTems (QEST) and on
+- Formal Modeling and Analysis of Timed Systems (FORMATS)
+
+Part of the CONFEST 2025 umbrella conference
+(including also CONCUR and FMICS):
+https://conferences.au.dk/confest2025/
+
+
+---------------
+IMPORTANT DATES
+---------------
+
+- Abstract submission: April 11, 2025     **EXTENDED**
+- Paper submission:    April 18, 2025     **EXTENDED**
+- Artifact submission: April 25, 2025     **EXTENDED**
+- Author notification: May 31, 2025       **EXTENDED**
+- Camera-ready submission: June 23, 2025  **EXTENDED**
+- Conference: August 25-30, 2025
+
+ (All deadlines are Anywhere on Earth, AoE)
+
+
+----------------
+SCOPE AND TOPICS
+----------------
+
+The two flagship conferences QEST (International Conference on
+Quantitative Evaluation of SysTems) and FORMATS (International
+Conference on Formal Modeling and Analysis of Timed Systems) are
+pursuing a strategic process of joining forces and sparking a new
+joint conference for quantitative modelling, analysis, and
+verification. This culminated in 2024 in the first QEST+FORMATS joint
+conference. In 2025, the two conferences will form the second
+QEST+FORMATS joint conference, which will be held on 25-30 August 2025
+in Aarhus, Denmark, as part of the CONFEST 2025 umbrella conference.
+
+The joint conference is the leading forum for the quantitative
+evaluation and verification of systems. QEST+FORMATS aims to promote
+the study of fundamental and practical aspects of systems with
+quantitative nature (such as probability, timing, and cost). It aims
+at bringing together researchers from different disciplines that share
+interests in the modelling, design and analysis of computational
+systems. Systems of interest include biological and chemical systems;
+computer networks; cyber-physical systems; critical infrastructures;
+data-driven AI systems; energy systems; hardware and software systems;
+industrial systems; and mobility networks. The QEST+FORMATS joint
+conference also aims to attract researchers interested in real-time
+issues in hardware design, performance analysis, real-time software,
+scheduling, semantics and verification of timed, hybrid and
+probabilistic systems. In general, the conference aims to attract
+experts in quantitative and timed systems from any domain.
+
+Topics and scientific areas of interest include:
+
+* Models and metrics for the correctness, performance, reliability,
+  safety, and security of systems (stochastic, probabilistic, and
+  non-deterministic models including Markov chains, automata, Petri
+  nets, process algebra, max-plus algebra, and their variations);
+
+* Languages and methods for the specification of quantitative
+  properties of systems;
+
+* Techniques, algorithms, and data structures for analysis,
+  evaluation, and verification of the above models, e.g., for model
+  checking, testing, constraint solving, scheduling, optimization, and
+  worst-case execution time analysis;
+
+* Quantitative and probabilistic aspects of programming;
+
+* Data-driven and machine-learning techniques for the analysis,
+  prediction, and verification of quantitative properties of systems;
+
+* Case studies that highlight the role of quantitative specification,
+  modelling, and evaluation in the design and analysis of systems,
+  with emphasis on emerging problems and technologies, or novel
+  domains;
+
+* Software tools to support the practical application of research
+  results in all of the above areas.
+
+
+----------------
+SPECIAL SESSIONS
+----------------
+
+This year, QEST+FORMATS will incorporate two special sessions:
+
+- Trustworthy AI & Autonomy:
+  We encourage the submission of papers on all quantitative as well as
+  data-driven approaches related to the formal analysis, verification,
+  and synthesis of autonomous and AI-enabled cyber-physical systems,
+  including learning techniques for safety-critical systems and safe
+  learning of such systems.
+
+- Exploring New Frontiers - Beyond Traditional Application Domains:
+  Quantitative and timed systems are nowadays used in several domains,
+  ranging, e.g., from computational biology to computational economics
+  and finance, or (process-oriented) data science. We encourage
+  submissions from experts in quantitative and timed systems from
+  domains typically not central to the QEST+FORMATS community to
+  enable cross-fertilization of the fields.
+
+
+-----------
+SUBMISSIONS
+-----------
+
+QEST+FORMATS 2025 considers three types of submissions (authors will
+be able to specify the type of contribution upon submission):
+
+* Research papers: Theoretical, and methodological contributions that
+  advance the understanding of a topic or issue, or describe the
+  development of new analysis processes and techniques.
+
+* Case study papers: Contributions that present practical applications
+  of quantitative methods to challenging real-world case studies. Case
+  study papers shall provide detailed evaluation and insights, and
+  highlight the value added to the domain experts.
+
+* Tool papers: Contributions introducing new tools or significant
+  improvements of existing ones, and the formalisms they support.
+  These papers shall focus on the software architecture, practical
+  implementation, and evaluation (e.g., usability, scalability,
+  effectiveness). Tool papers must be accompanied by an artifact in
+  the Artifact Evaluation as detailed below.
+
+Papers can be regular or short:
+
+* Regular papers must not exceed 16 pages, excluding references.
+
+* Short papers should be limited to 7 pages, also excluding
+  references.
+
+* All papers can have an appendix containing supporting material. Note
+  that reviewers are not required to read the appendix to fully assess
+  the merits of the paper.
+
+We are considering additional presentation-only submission types;
+details will be provided in the later CfPs.
+
+All papers must be submitted in Springer's LNCS format and will
+undergo a rigorous single-blind review process. All submitted papers
+must be unpublished and not be submitted for publication elsewhere.
+Papers should be submitted electronically using EasyChair at this link:
+https://easychair.org/conferences/?conf=qestformats2025
+
+Springer encourages authors to include their ORCIDs in their papers.
+Authors should consult Springer's authors' guidelines and use
+Springer's LaTeX templates for the preparation of their papers.
+Submitted papers not complying with the above guidelines may be
+rejected without undergoing review.
+
+We are considering awards for best papers and best artifacts.
+
+
+------------
+PUBLICATIONS
+------------
+
+All accepted papers need to be presented and discussed at the
+conference by one of the authors. The QEST+FORMATS 2025 proceedings
+will be published in the Springer LNCS series indexed by ISI Web of
+Science, Scopus, ACM Digital Library, dblp, Google Scholar. All
+submitted papers will be evaluated by at least three reviewers on the
+basis of their originality, technical quality, scientific or practical
+contribution to the state of the art, methodology, clarity, and
+adequacy of references.
+
+
+-------------
+SPECIAL ISSUE
+-------------
+
+We are working on a special issue in a Q1 journal. A selection of the
+best papers will be invited to submit an extended version of their work
+to special issues in internationally recognized journals.
+
+
+-------------------
+ARTIFACT EVALUATION
+-------------------
+
+Reproducibility of experimental results is crucial to foster an
+atmosphere of trustworthy, open, and reusable research. To improve and
+reward reproducibility, QEST+FORMATS 2025 will include a dedicated
+Artifact Evaluation (AE). Submission of an artifact is mandatory for
+tool papers (both regular and short), and optional but encouraged for
+research and case study papers where it can support the results
+presented in the paper. More details can be found in the conference page.
+
+
+----------------
+INVITED SPEAKERS
+----------------
+- Alessandro Abate, University of Oxford
+- Christoph Matheja, University of Oldenburg Germany, DTU Denmark
+- More to be announced
+
+----------
+COMMITTEES
+----------
+
+Program Chairs
+- Pavithra Prabhakar, Kansas State University, USA
+- Andrea Vandin, Scuola Superiore Sant'Anna Pisa, Italy
+
+Artifact Evaluation Chairs
+- Carlos E. Budde (DTU, Denmark)
+- Lal Ratan (Northwest Missouri State University , USA)
+
+Publicity Chairs
+- Marco Paolieri, University of Southern California, USA
+
+Program Committee
+- Alessandro Abate, University of Oxford
+- Ezio Bartocci, TU Wien
+- Andrea Burattin, Technical University of Denmark
+- Valentina Castiglioni, Eindhoven University of Technology
+- Pedro R. D’Argenio, Universidad Nacional de Córdoba - CONICET
+- Thao Dang, CNRS/VERIMAG
+- Taylor T Johnson, Vanderbilt University
+- Yusuke Kawamoto, National Institute of Advanced Industrial
+    Science and Technology (AIST)
+- S Krishna, IIT Bombay
+- Diwakar Krishnamurthy, University of Calgary
+- Arnd Hartmanns, University of Twente
+- Jane Hillston, The University of Edinburgh
+- Engel Lefaucheux, Inria Nancy, Loria, Université de Lorraine
+- Michele Loreti, University of Camerino
+- Jun Liu, University of Waterloo
+- Andrea Marin, Università Ca’ Foscari Venezia
+- Dejan Nickovic, Austrian Institute of Technology AIT
+- Marco Paolieri, University of Southern California
+- Loïc Paulevé, CNRS/LaBRI, Bordeaux, France
+- Tuan Phung-Duc, University of Tsukuba
+- Anne Remke, WWU Münster
+- Camilo Rocha, Pontificia Universidad Javeriana Cali
+- Cesar Sanchez, IMDEA Software Institute
+- Ocan Sankur, Mitsubishi Electric R&D Centre Europe
+- Ramin Sadre, Université catholique de Louvain
+- Sadegh Soudjani, Newcastle University
+- Jeremy Sproston, University of Turin
+- Max Tschaikowski, Aalborg University
+- Ashutosh Trivedi, University of Colorado Boulder
+- Hoang Dung Tran, University of Nebraska-Lincoln
+- Benny Van Houdt, University of Antwerp
+- Mahesh Viswanathan, University of Illinois at Urbana-Champaign
+- Masaki Waga, Kyoto University
+- Verena Wolf, Saarland University
+- Tichakorn Wongpiromsarn, Iowa State University
+- Bai Xue, Chinese Academy of Sciences
+- Paolo Zuliani, Università di Roma La Sapienza
+
+
+--------
+CONTACTS
+--------
+
+For any questions, feel free to contact the program chairs
+Pavithra Prabhakar (pprabhakar@ksu.edu) and
+Andrea Vandin (andrea.vandin@santannapisa.it).

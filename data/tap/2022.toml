@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Part of STAF 2022."
+
+[[cfp]]
+file = "cfp/TAP-2022.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TAP-2022-extended.txt"
+stage = "extended"

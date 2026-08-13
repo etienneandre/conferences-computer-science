@@ -1,0 +1,332 @@
+extended deadline: June 10, 2022 (paper submission)
+
+The Thirteenth International Symposium on Games, Automata, Logics, and Formal Verification will be held in Madrid (Spain) on September 21-23, 2022.
+
+The aim of GandALF 2022 is to bring together researchers from academia and industry which are actively working in the fields of Games, Automata, Logics, and Formal Verification. The idea is to cover an ample spectrum of themes, ranging from theory to applications, and stimulate cross-fertilization. Papers focused on formal methods are especially welcome. Authors are invited to submit original research or tool papers on all relevant topics in these areas. Papers discussing new ideas that are at an early stage of development are also welcome. The topics covered by the conference include, but are not limited to, the following:
+
+    Automata Theory
+
+    Automated Deduction
+
+    Computational aspects of Game Theory
+
+    Concurrency and Distributed computation
+
+    Decision Procedures
+
+    Deductive, Compositional, and Abstraction Techniques for Verification
+
+    Finite Model Theory
+
+    First-order and Higher-order Logics
+
+    Formal Languages
+
+    Formal Methods for Systems Biology, Hybrid, Embedded, and Mobile Systems
+
+    Games and Automata for Verification
+
+    Game Semantics
+
+    Logical aspects of Computational Complexity
+
+    Logics of Programs
+
+    Modal and Temporal Logics
+
+    Model Checking
+
+    Models of Reactive and Real-Time Systems
+
+    Probabilistic Models (Markov Decision processes)
+
+    Program Analysis and Software Verification
+
+    Reinforcement Learning
+
+    Run-time Verification and Testing
+
+    Specification and Verification of Finite and Infinite-state Systems
+
+    Synthesis
+
+Important Dates
+
+Abstract Submission:
+	
+
+June 3, 2022
+
+Paper Submission:
+	
+
+June 10, 2022
+
+Notification:
+	
+
+July 24, 2022
+
+Camera-ready:
+	
+
+August 12, 2022
+
+Conference:
+	
+
+September 21-23, 2022
+
+⚠ : submission, Notification and Camera-ready dates are AoE
+Publication
+
+The proceedings will be published by Electronic Proceedings in Theoretical Computer Science. Authors of the best papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science. The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, 2016, 2017, 2019 and 2020), Acta Informatica (GandALF 2015) and Logical Methods in Computer Science (2021).
+Submission
+
+Submitted papers should not exceed 14 pages (excluding references and clearly marked appendices) using EPTCS format (please use the LaTeX style provided here, be unpublished and contain original research. For papers reporting experimental results, authors are encouraged to make their data available with their submission. Submissions must be in PDF format and will be handled via the HotCRP Conference system at the following address:
+
+https://hotcrp.software.imdea.org/gandalf2022
+Invited Speakers
+
+    Wojciech Czerwiński, University of Warsaw, Poland
+
+    Javier Esparza, Technische Universität München, Germany
+
+    Dana Fisman, Ben-Gurion University, Israel
+
+    Jerzy Marcinkowski, University of Wrocław, Poland
+
+Program Committee
+
+Pierre Ganty★
+	
+
+IMDEA Software Institute
+	
+
+Spain
+
+Dario Della Monica★
+	
+
+University of Udine
+	
+
+Italy
+
+Christel Baier
+	
+
+TU Dresden
+	
+
+Germany
+
+Suguman Bansal
+	
+
+University of Pennsylvania
+	
+
+USA
+
+Nathalie Bertrand
+	
+
+Inria
+	
+
+France
+
+Filippo Bonchi
+	
+
+University of Pisa
+	
+
+Italy
+
+Laura Bozzelli
+	
+
+Università degli Studi di Napoli Federico II
+	
+
+Italy
+
+Véronique Bruyère
+	
+
+University of Mons
+	
+
+Belgium
+
+David de Frutos Escrig
+	
+
+Universidad Complutense de Madrid
+	
+
+Spain
+
+Cezara Drăgoi
+	
+
+Informal systems
+	
+
+Mohamed Faouzi Atig
+	
+
+Uppsala University
+	
+
+Sweden
+
+Adrian Francalanza
+	
+
+University of Malta
+	
+
+Malta
+
+Orna Kupferman
+	
+
+The Hebrew University
+	
+
+Israel
+
+Konstantinos Mamouras
+	
+
+Rice University
+	
+
+USA
+
+Roland Meyer
+	
+
+TU Braunschweig
+	
+
+Germany
+
+Fabio Mogavero
+	
+
+Università degli Studi di Napoli Federico II
+	
+
+Italy
+
+Paritosh Pandya
+	
+
+IIT Bombay
+	
+
+India
+
+Paweł Parys
+	
+
+University of Warsaw
+	
+
+Poland
+
+Guillermo Pérez
+	
+
+University of Antwerp
+	
+
+Belgium
+
+Pierre-Alain Reynier
+	
+
+LIS, Aix-Marseille University & CNRS
+	
+
+France
+
+Andrea Turrini
+	
+
+Institute of Software, Chinese Academy of Sciences
+	
+
+China
+
+Georg Zetzsche
+	
+
+Max Planck Institute for Software Systems (MPI-SWS)
+	
+
+Germany
+
+★: co-chair
+Steering Committee
+
+Luca Aceto
+	
+
+Reykjavik University
+	
+
+Iceland
+
+Javier Esparza
+	
+
+University of Munich
+	
+
+Germany
+
+Salvatore La Torre
+	
+
+University of Salerno
+	
+
+Italy
+
+Angelo Montanari
+	
+
+University of Udine
+	
+
+Italy
+
+Mimmo Parente
+	
+
+University of Salerno
+	
+
+Italy
+
+Jean-François Raskin
+	
+
+Université libre de Bruxelles
+	
+
+Belgium
+
+Martin Zimmermann
+	
+
+Aalborg University
+	
+
+Denmark

@@ -1,0 +1,106 @@
+               Models for Formal Analysis of Real Systems
+                              (MARS 2024)
+
+                            April 6th, 2024
+                      Affiliated with ETAPS 2024
+                      Luxembourg City, Luxembourg
+
+                  http://mars-workshop.org/mars2024/
+
+
+The MARS workshops bring together researchers from different
+communities who are developing formal models of real systems in areas
+where complex models occur, such as networks, cyber-physical systems,
+hardware/software codesign, biology, etc.
+The motivation and aim for MARS stem from the following two observations:
+
+  * Large case studies are essential to show that specification formalisms
+    and modelling techniques are applicable to real systems, whereas many
+    research papers only consider toy examples or tiny case studies.
+  * Developing an accurate model of a real system takes a large amount of
+    time, often months or years. In most scientific papers, however,
+    salient details of the model need to be skipped due to lack of space,
+    and to leave room for formal verification methodologies and results.
+
+The MARS workshops aim at remedying these issues, emphasising modelling
+over verification, so as to retain lessons learnt from formal
+modelling, which are not usually discussed elsewhere. Examples are:
+
+  * Which formalism was chosen, and why?
+  * Which abstractions have been made, and why?
+  * How were important characteristics of the system modelled?
+  * Were there any complications while modelling the system?
+  * Which measures were taken to guarantee the accuracy of the model?
+  * How can different modelling approaches be compared on this system?
+
+We thus invite papers that present formal models of real systems, which
+may lay the basis for future analysis and comparison.
+
+In addition to the workshop proceedings, the formal models presented at
+the workshop will be archived in the MARS Repository, a growing,
+diverse collection of realistic benchmarks. The existence of this
+repository is a unique feature that makes MARS contributions available
+to the wider community, so that others can reproduce experiments,
+perform further analyses, and try the same case studies using different
+formal methods.
+
+SUBMISSION GUIDELINES
+
+All submissions will be peer-reviewed by at least three referees based
+on their novelty, relevance, and technical merit. The MARS proceedings
+will be published in the open-access EPTCS series (Electronic
+Proceedings in Theoretical Computer Science).
+
+Submissions must be unpublished and not be submitted for publication
+elsewhere. It is accepted, however, to submit a paper about a case
+study already mentioned at another conference, workshop, or journal
+provided that: (1) the formal model is submitted to MARS 2024 and has
+not been published previously, and (2) the MARS submission adds
+significant, novel material concerning the formal modelling work.
+
+Submissions must be in English and submitted in PDF format via
+EasyChair (https://easychair.org/conferences/?conf=mars2024).
+Contributions are limited to 12 pages EPTCS style (not
+counting references and the appendices). Appendices (of arbitrary
+length, included in the proceedings) can be added to present all
+details of a formal model.
+
+We welcome submissions that come together with one or many formal
+models that can be processed by some tool (e.g., timed automata for
+Uppaal,  definitions and proofs for Isabelle/HOL, etc.). Such models
+should be complete (i.e., self-contained) and made available under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License. The models associated to accepted papers will be made
+available in the MARS Repository. A URL to the formal models should be
+provided along with the submission.
+
+IMPORTANT DATES (AoE)
+
+  * Submission: Monday, 15 January 2024
+  * Notification: Saturday, 24 February 2024
+  * Final version: Monday, 11 March 2024
+  * Workshop: Saturday, 6 April, 2024
+
+PROGRAM COMMITTEE
+
+Arnd Hartmanns (University of Twente, The Netherlands)
+John Hatcliff (Kansas State University, USA)
+Frédéric Lang (INRIA Grenoble Rhône-Alpes, France, co-chair)
+Lina Marsso (University of Toronto, Canada)
+Sjouke Mauw (University of Luxembourg, Luxembourg)
+Franco Mazzanti (ISTI-CNR, Italy)
+Ulrik Nyman (Aalborg University, Denmark)
+Dave Parker (University of Oxford, UK)
+Anne Remke (WWU Münster, Germany)
+Matthias Volk (TU Eindhoven, The Netherlands, co-chair)
+
+VENUE AND TRAVEL INFORMATION
+
+MARS 2024 is part of the European Joint Conferences on Theory and
+Practice of Software (ETAPS 2024). Information about venue and
+travelling in/to Luxembourg can be found at the webpage of ETAPS.
+
+WORKSHOP ORGANISERS AND CONTACT
+
+All questions about the workshop should be emailed to Frédéric Lang
+and Matthias Volk at mars2024@mars-workshop.org.

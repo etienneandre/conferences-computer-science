@@ -1,0 +1,210 @@
+*APSEC 2024: Call for Technical Research **P**apers*
+
+
+
+It has been 31 years since the establishment of the Asia-Pacific Software
+Engineering Conference (APSEC) as a leading regional conference that
+gathers researchers and practitioners from academia, industry, and
+government to exchange knowledge and best practices in software
+engineering, and to address emerging challenges and solutions in software
+engineering innovation. This year’s APSEC will be held on December 3-6, 2024 in
+Chongqing, China. APSEC 2024 will continue in the tradition of previous
+editions of this regional conference. As in past APSEC series, the main
+research track features the most recent and significant innovations in the
+field of software engineering and all its sub-disciplines. More details can
+be found at the homepage: *https://conf.researchr.org/home/apsec-2024
+<https://conf.researchr.org/home/apsec-2024>*.
+
+
+
+The APSEC 2024 technical research track invites high-quality contributions
+describing original results in the discipline of software engineering.
+Solicited topics include, but are not limited to:
+
+●      Tools and processes
+
+○      Agile processes
+
+○      DevOps and Container
+
+○      Configuration Management and Deployment
+
+○      Software Engineering Process and Standards
+
+●      Requirements and Design
+
+○      Service-oriented Computing
+
+○      Component-based Software Engineering
+
+○      Cooperative, Distributed, and Global Software Engineering
+
+○      Software Architecture, Modeling and Design
+
+○      Middleware, Frameworks, and APIs
+
+○      Software Product-line Engineering
+
+●      Testing and Analysis
+
+○      Testing, Verification, and Validation
+
+○      Program Analysis
+
+○      Program Synthesis
+
+○      Program Repairs
+
+●      Formal Aspects of Software Engineering
+
+○      Formal Methods
+
+○      Model-driven and Domain-specific Engineering
+
+●      Human Factors and Social Aspects of Software Engineering
+
+○      Software Comprehension, Visualization, and Traceability
+
+○      Software for Green and Sustainable Technologies
+
+●      AI and Software Engineering
+
+○      Search-based Software Engineering
+
+○      AI for SE, SE for AI
+
+○      LLM for SE, SE for LLM
+
+●      Dependability, Safety, and Reliability
+
+●      Software Maintenance and Evolution
+
+○      Refactoring
+
+○      Reverse Engineering
+
+○      Software Reuse
+
+○      Software Project Management
+
+○      Debugging, Defect Prediction and Fault Localization
+
+●      Software Repository Mining and Data Analytics
+
+
+
+APSEC2024 welcomes submissions addressing topics in a variety of
+application domains, including mobile, cloud, blockchains, embedded and
+cyber-physical systems.
+
+
+
+*Evaluation Criteria*
+
+
+
+Technical research papers must not be more than 10 pages (including
+references). Submissions will be evaluated by at least three program
+committee members. The evaluation will focus on the novelty, originality,
+importance to the field, proper use of research methods, and presentation
+of the submissions.
+
+
+
+
+
+*Submission Instructions*
+
+
+
+Submitted papers must have been neither previously accepted for publication
+nor concurrently submitted for review in another journal, book, conference,
+or workshop.
+
+
+
+All submissions must be in English, and must come in A4 paper size PDF
+format and conform, at time of submission, to the IEEE Conference
+Proceedings Formatting Guidelines
+<https://www.ieee.org/conferences/publishing/templates.html> (title in 24pt
+font and full text in 10pt font, LaTeX users must use
+\documentclass[10pt,conference]{IEEEtran} without including the compsoc or
+compsocconf option). Also, papers must comply with the IEEE Policy on
+Authorship
+<https://www.ieee.org/publications/rights/author-rights-responsibilities.html>
+.
+
+Submissions must be submitted electronically in PDF before the due date via
+EasyChair.
+
+
+
+The Chairs reserve the right to reject submissions (without reviews) that
+are not in compliance or out of scope for the conference.
+
+
+
+*IMPORTANT:* The APSEC 2024 technical research track will use a
+double-blind reviewing process, which means that submissions must not
+reveal the authors' identities. The authors must make every effort to honor
+the double-blind reviewing process. Please read carefully* the APSEC 202**4**
+double-blind instructions* before preparing your paper.
+
+
+
+*Submission Link*
+
+
+
+Papers must be submitted through EasyChair: *https://easychair
+<https://easychair>**.**org/conferences/?conf=apsec2024**.*
+
+
+
+*Important Dates*
+
+
+
+●      Abstract Submission Deadline: July 6, 2024
+
+●      Paper Submission Deadline: July 13, 2024
+
+●      Author Notification: Sep 13, 2024
+
+●      Other Tracks Deadline:Aug 9, 2024
+
+●      Camera Ready Deadline: Oct 20, 2024
+
+
+
+
+
+
+
+*Accepted Papers and Attendance Expectation*
+
+
+
+All accepted papers will be included in the IEEE-CS Digital Library as the
+APSEC 2024 conference proceedings. Accepted papers will not be permitted
+any additional page of content. But, we hope that the authors will reflect
+the reviewers' comments as much as possible in the camera-ready version.
+After acceptance, the list of paper authors can not be changed under any
+circumstances, and the list of authors on camera-ready papers must be
+identical to those on submitted papers. After acceptance, paper titles can
+not be changed except by permission of the Program Co-Chairs, and only then
+when referees recommend a change for clarity or accuracy with paper
+content. If a submission is accepted, at least one author of the paper must
+register for APSEC 2024 and present the paper at the conference. If an
+accepted paper is not presented, the paper will be removed from the
+proceedings.
+
+
+
+*Contact*
+
+
+
+Jun Sun and Meng Yan
+
+APSEC 2024 Program Co-Chairs

@@ -1,0 +1,150 @@
+-- 2nd Call for Papers --
+
+CMSB 2018: 16th International Conference on Computational Methods in Systems Biology
+
+https://cmsb2018.fi.muni.cz/
+
+12-14 September 2018, Brno (Czech Republic)
+
+Proceedings in Springer's LNCS/LNBI
+Best papers to be invited for a special section of IEEE/ACM TCBB
+
+=====================================================================
+
+The 16th conference on Computational Methods in Systems Biology (CMSB 2018) will take place on the 12th to 14th September 2018 in Brno, Czech Republic. Its aim is to bring together researchers from across biological, mathematical, computational, and physical sciences who are interested in the study, modelling, simulation, advanced analysis, and design of biological systems. CMSB 2018 will be hosted at Faculty of Informatics, Masaryk University.
+
+== IMPORTANT DATES ==
+
+Abstract pre-submission: 	20.4.2018
+Paper submission: 	 	27.4.2018
+Poster abstract submission:	27.4.2018
+Author notification:	 	8.6.2018
+Final version:      	 	15.6.2018
+
+== INVITED SPEAKERS ==
+
+Andrew Turberfield, University of Oxford, UK
+Mustafa Khammash, ETH Zurich, CH
+Chris J. Myers, University of Utah, US
+Andrew Phillips, Microsoft Research, UK
+
+== TOPICS OF INTEREST ==
+
+CMSB 2018 solicits original research articles, tool papers, posters, and presentations on the modelling and analysis of biological systems and networks as well as the analysis of biological data. The conference brings together computer scientists, biologists, mathematicians, engineers, and physicists interested in a system-level understanding of biological processes. It covers the broad field of computational methods and tools in systems and synthetic biology and their applications.
+
+Topics of interest include, but are not limited to:
+
+* formalisms for modelling biological processes
+* models, methods, tools and their biological applications
+* frameworks for model verification, validation, analysis, and simulation of biological systems
+* high-performance methods for computational systems biology 
+* parameter and model inference from experimental data
+* automated parameter and model synthesis 
+* model integration and biological databases
+* multi-scale modelling and analysis methods
+* design, analysis, and verification methods for synthetic biology
+* methods for biomolecular computing and engineered molecular devices
+
+In general, the conference is open to new theoretical results with potential applications to systems and synthetic biology, as well as novel applications and case studies of existing methods, tools, or frameworks.
+
+The CMSB 2018 proceedings will be published in the Springer LNCS series and indexed by ISI Web of Science, Scopus, ACM Digital Library, DBLP, and Google Scholar. 
+
+A selection of best papers will be invited to be extended and submitted to a special section of IEEE/ACM Transactions on Computational Biology and Bioinformatics.
+
+== CALL FOR PAPERS ==
+
+We solicit high-quality submissions, to be refereed by the Program Committee below, and to be published as Lecture Notes in Computer Science (LNCS/LNBI) with Springer. 
+
+Submitted papers will describe original work that has not been previously published and is not under review for publication elsewhere. We accept the following two types of paper submissions:
+
+* regular papers (max 15 pages excl. references and appendices) 
+* tool papers (max 6 pages incl. references but excl. appendices)
+
+== PUBLICATION FORMS and PAPER SUBMISSION ==
+
+Papers should be written in English and have to be formatted in Springer LNCS style. Each submission will be reviewed by at least three reviewers. The reviewers are not required to read the appendices, and thus the submissions must be intelligible without them. Papers need to be submitted electronically as PDF files via EasyChair online submission system (https://easychair.org/conferences/?conf=cmsb2018). Tool papers need to be submitted with the tool artefact that will be evaluated by a dedicated committee. Please check the details at the conference website.
+
+== CALL FOR OTHER TYPES OF CONTRIBUTIONS ==
+
+CMSB 2018 also solicits poster abstracts presenting original unpublished work. The abstracts must be written in English, formatted in Springer LNCS style and should not exceed 2 pages including references. Poster abstracts should be submitted via EasyChair online submission system. PC will select best abstracts for publication in the conference proceedings.
+
+In addition to original contributions, CMSB 2018 invites poster abstracts of recent out-standing results already accepted to a recognised journal or a high-quality conference during the last year. 
+
+Additionally, CMSB 2018 offers the track of oral presentations without full paper or poster submission. We welcome submissions of work that was already published in a journal or that is currently under review or will soon be submitted. 
+
+For information on all types of contributions and relevant important dates please see the conference website.
+
+== PROGRAM COMMITTEE CHAIRS ==
+
+Milan Ceska, Brno University of Technology, CZ
+David Safranek, Masaryk University, CZ
+
+== PROGRAM COMMITTEE ==
+
+Alessandro Abate, University of Oxford, UK
+Ezio Bartocci, Vienna University of Technology, AT
+Nikola Benes, Masaryk University, CZ
+Luca Bortolussi, Univerity of Trieste, IT
+Luca Cardelli, Microsoft Research, UK
+Milan Ceska, Brno University of Technology, CZ (co-chair)
+Claudine Chaouiya, Insituto Gulbenkian de Ciência, PT
+Eugenio Cinquemani, IBIS – INRIA, Grenoble, FR
+Thao Dang, VERIMAG/CNRS, Grenoble, FR
+Hidde de Jong, IBIS – INRIA, Grenoble FR
+Francois Fages, INRIA Saclay Ile-de-France, FR
+Jerome Feret, INRIA, Paris, FR
+Christoph Flamm, University of Vienna, AT
+Tomas Gedeon, Montana State University, US
+Radu Grosu, Vienna University of Technology, AT
+Monika Heiner, Brandenburg Technical University Cottbus-Senftenberg, DE
+Jane Hillston, The University of Edinburgh, UK
+Heinz Koeppl, Technische Universitat Darmstadt, DE
+Jean Krivine, IRIF, Paris Diderot University, FR
+Oded Maler, VERIMAG/CNRS, Grenoble, FR
+Tommaso Mazza, RCCS Casa Sollievo della Sofferenza – Mendel, IT
+Satoru Miyano, The University of Tokyo, JP
+Andrzej Mizera, Luxembourg Institute of Health and Luxembourg Centre for Systems Biomedicine, LU
+Laura Nenzi, Vienna University of Technology, AT
+Nicola Paoletti, Stony Brook University, USA
+Loic Pauleve, CNRS/LRI, FR
+Ion Petre, Abo Akademi Turku, FI
+Tatjana	Petrov, Universität Konstanz, DE 
+Carla Piazza, University of Udine, IT
+Ovidiu Radulescu, University of Montpellier 2, FR
+Olivier Roux, Ecole Centrale Nantes, FR
+Guido Sanguinetti, The University of Edinburgh, UK
+Thomas Sauter, University of Luxembourg, LU
+Heike Siebert, Freie Universität Berlin, DE
+Abhyudai Singh, University of Delaware, US
+David Safranek, Masaryk University, CZ
+Carolyn Talcott, SRI International, US
+Chris Thachuk, California Institute of Technology, US
+P.S. Thiagarajan, Harvard University, US
+Adelinde Uhrmacher, University of Rostock, DE
+Verena Wolf, Saarland University, DE
+Boyan Yordanov, Microsoft Research, UK
+Paolo Zuliani, Newcastle University, UK
+
+TOOL EVALUATION COMMITTEE
+
+Giulio Caravagna, University of Edinburgh, UK
+Matej Hajnal, Masaryk University, CZ
+Juraj Kolcak, LSV, CNRS & ENS de Cachan, FR
+Luca Laurenti, University of Oxford, UK
+Jiri Matyas, Brno University of Technology, CZ
+Samuel Pastva, Masaryk University, CZ (chair)
+Fedor Shmarov, Newcastle University, UK
+Max Whitby, University of Oxford, UK
+
+== STEERING COMMITTEE ==
+
+Finn Drablos, NTNU, NO
+Francois Fages, INRIA Saclay Ile-de-France, FR
+David Harel, Weizmann Institute of Science, IL
+Monika Heiner, Brandenburg Technical University Cottbus-Senftenberg, DE
+Tommaso Mazza, RCCS Casa Sollievo della Sofferenza – Mendel, IT
+Satoru Miyano, The University of Tokyo, JP
+Gordon Plotkin, The University of Edinburgh, UK
+Corrado Priami, CoSBi / Microsoft Research, University of Trento, IT
+Carolyn Talcott, SRI International, US
+Adelinde Uhrmacher, University of Rostock, DE

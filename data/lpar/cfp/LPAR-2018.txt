@@ -1,0 +1,123 @@
+             The 22nd International Conference on 
+       Logic for Programming, Artificial Intelligence and Reasoning         
+                             LPAR-22
+
+
+                 Awassa, Ethiopia, 16-21 November 2018
+                         http://www.LPAR-22.info
+
+                            CALL FOR PAPERS
+
+The series of International Conferences on Logic for Programming, Artificial 
+Intelligence and Reasoning (LPAR) is a forum where, year after year, some of 
+the most renowned researchers in the areas of logic, automated reasoning, 
+computational logic, programming languages and their applications come to 
+present cutting-edge results, to discuss advances in these fields, and to 
+exchange ideas in a scientifically emerging part of the world. The 22nd LPAR 
+will be held will be held in Haile Resort, Awassa, Ethiopia, 16-21 November
+2018. The proceedings will be published by EasyChair Publications, in the EPiC
+Series in Computing. The volume will be open access and the authors will retain
+copyright.
+
+==Important Dates
+
+Abstract submission    6th August 2018
+Paper submission       13th August 2018
+Notification           24th September 2018
+Final version          15th October 2018
+Early registration     15th October 2018
+Workshops              16th November 2018
+Conference             17-21st November 2018 
+
+==Topics
+
+New results in the fields of computational logic and applications are welcome. 
+Also welcome are more exploratory presentations, which may examine open 
+questions and raise fundamental concerns about existing theories and practices.
+
+Topics of interest include, but are not limited to:
+
+ + Abduction and interpolation methods 
+ + Answer set programming
+ + Automated reasoning
+ + Constraint programming     
+ + Contextual reasoning 
+ + Decision procedures
+ + Description logics
+ + Foundations of security
+ + Hardware verification
+ + Implementations of logic
+ + Inconsistency- and exception tolerant reasoning
+ + Interactive theorem proving     
+ + Knowledge representation and reasoning
+ + Logic and computational complexity     
+ + Logic and databases
+ + Logic and games     
+ + Logic and machine learning
+ + Logic and the web     
+ + Logic and types
+ + Logic in artificial intelligence     
+ + Logic of distributed systems
+ + Logic of knowledge and belief
+ + Logic programming     
+ + Logical aspects of concurrency
+ + Logical foundations of programming     
+ + Modal and temporal logics
+ + Model checking     
+ + Non-monotonic reasoning
+ + Ontologies and large knowledge bases     
+ + Paraconsistent logics
+ + Probabilistic and fuzzy reasoning
+ + Program analysis     
+ + Rewriting
+ + Satisfiability checking     
+ + Satisfiability modulo theories
+ + Software verification     
+ + Specification using logic
+ + Unification theory     
+
+==Organization 
+
+ Program Chairs:
+
+Gilles Barthe (IMDEA Software Institute)
+Margus Veanes (Microsoft Research)
+Martin Hofmann (Ludwig-Maximilians-UniversitÃ¤t MÃ¼nchen, in memoriam)
+
+ Conference Chair: 
+
+Geoff Sutcliffe (University of Miami, USA)  
+
+==Submission Details
+
+Submissions of two kinds are welcome:
+
+- Regular papers that describe solid new research results. They can be
+  up to 15 pages long in EasyChair style, including figures but excluding 
+  references and appendices (that reviewers are not required to read).
+
+- Experimental and tool papers that describe implementations of
+  systems, report experiments with implemented systems, or compare
+  implemented systems. They can be up to 8 pages long in the EasyChair
+  style.
+
+Both types of papers must be electronically submitted in PDF via EasyChair:
+
+    https://easychair.org/conferences/?conf=lpar22
+
+Authors must register a title and an abstract by the abstract submission 
+deadline.
+
+==Participation
+
+Authors of accepted papers are required to ensure that at least one of
+them will be present at the conference.
+
+==Workshop Proposals
+
+Proposals for workshops to be held in conjunctionwith LPAR-22 are solicited.
+Please email proposals to the program and conference chairs.
+
+
+For more details about the venue and organization, see the conference
+webpage http://www.LPAR-22.info

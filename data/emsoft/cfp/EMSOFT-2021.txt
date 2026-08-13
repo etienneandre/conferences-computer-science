@@ -1,0 +1,210 @@
+=========================================================================
+                            EMBEDDED SYSTEMS WEEK
+         Call for Papers, Workshops, Tutorials, and Special Sessions
+
+         CASES * CODES+ISSS * EMSOFT * NOCS * Workshops * Tutorials
+
+                  Virtual Conference, October 10 - 15, 2021
+                               www.esweek.org
+=========================================================================
+
+-------------------------------------------------------------------------
+About Embedded Systems Week (ESWEEK)
+-------------------------------------------------------------------------
+Embedded Systems Week (ESWEEK) is the premier event covering all
+aspects of hardware and software design for smart, intelligent and
+connected computing systems. By bringing together three leading
+conferences (CASES, CODES+ISSS, EMSOFT), one symposium (NOCS), and
+several workshops and tutorials, ESWEEK allows attendees to benefit
+from a wide range of topics covering the state of the art in embedded
+systems research and development.
+
+https://esweek.org/esweek_2021_cfp/
+
+Registered attendees can attend sessions in any of the ESWEEK
+conferences (CASES, CODES+ISSS, EMSOFT), the NOC symposium, tutorials
+and workshops.
+
+-------------------------------------------------------------------------
+Timeline
+-------------------------------------------------------------------------
+Journal Track:
+- Abstract Submission: April 2, 2021 (firm)
+- Full Paper Submission: April 9, 2021 (firm)
+- Notification of Acceptance: July 5, 2021
+
+Work-in-Progress Track:
+- Paper Submission: June 4, 2021 (firm)
+- Notification of Acceptance: July 5, 2021
+
+Workshop Proposals: April 16, 2021
+Tutorial Proposals: April 30, 2021
+Special Session Proposals: April 30, 2021
+
+-------------------------------------------------------------------------
+Covid-19 planning
+-------------------------------------------------------------------------
+Given the continued uncertainty, the next ESWEEK is currently planned as
+a virtual event. We will, however, closely monitor the situation and if
+it improves significantly consider a hybrid in-person/virtual event in
+an appropriate location that will be announced well in advance. In all
+cases, virtual attendance and remote presentations of accepted papers
+will be possible. Please watch the website or social media channels for
+updates.
+
+-------------------------------------------------------------------------
+Paper Process
+-------------------------------------------------------------------------
+ESWEEK 2021 continues a dual publication model comprising the Journal
+track and the Work-in-Progress (WiP) track for the three conferences
+(CASES, CODES+ISSS, and EMSOFT). Journal track papers are full-length
+papers describing mature work. They will be published in the ACM
+Transactions on Embedded Computer Systems (TECS). The WiP track papers
+are short (2-page) papers representing not-yet-mature but promising
+research. They will be published in the ESWEEK proceedings and will be
+listed as regular publications within the IEEE and/or ACM digital
+libraries. Authors of WiP papers have the opportunity to publish an
+extended form of their work in any conference or journal they prefer.
+Journal and WiP papers are mutually exclusive, i.e., a work can only be
+in submission in one of the two tracks.  For more information on the
+ESWEEK dual-track publishing process, please refer to
+
+https://esweek.org/author-information
+
+-------------------------------------------------------------------------
+CASES: International Conference on Compilers, Architectures,
+and Synthesis for Embedded Systems
+-------------------------------------------------------------------------
+CASES is a premier forum where researchers, developers and practitioners
+exchange information on the latest advances in compilers and
+architectures for high-performance, low-power embedded systems. The
+conference has a long tradition of showcasing leading edge research in
+embedded processor, memory, interconnect, storage architectures and
+related compiler techniques targeting performance, power, predictability,
+security, reliability issues for both traditional and emerging application
+domains. In addition, we invite innovative papers that address design,
+synthesis, and optimization challenges in heterogeneous and accelerator-
+rich architectures.
+
+https://esweek.org/cases/
+
+CASES Program Chairs:
+Umit Ogras, University of Wisconsin-Madison, US
+Preeti Panda, IIT Delhi, IN
+
+-------------------------------------------------------------------------
+CODES+ISSS: International Conference on Hardware/Software Codesign
+and System Synthesis
+-------------------------------------------------------------------------
+The International Conference on Hardware/Software Codesign and System
+Synthesis (CODES+ISSS) is the premier event in system-level design,
+hardware/software co-design, modeling, analysis, and implementation
+of modern Embedded Systems, Cyber-Physical Systems (CPS), and Internet-
+of-Things (IoT), from system-level specification and optimization to
+system synthesis of multi-processor hardware/software implementations.
+The conference is a forum bringing together academic research and
+industrial practice for all aspects related to system-level and
+hardware/software co-design.
+
+https://esweek.org/codes-isss/
+
+CODES+ISSS Program Chairs:
+Jason Xue, City University of Hong Kong, HK
+Chengmo Yang, University of Delaware, US
+
+-------------------------------------------------------------------------
+EMSOFT: International Conference on Embedded Software
+-------------------------------------------------------------------------
+The ACM SIGBED International Conference on Embedded Software (EMSOFT)
+brings together researchers and developers from academia, industry, and
+government to advance the science, engineering, and technology of
+embedded software development. Since 2001, EMSOFT has been the premier
+venue for cutting-edge research in the design and analysis of software
+that interacts with physical processes, with a long-standing tradition
+for results on cyber-physical systems, which compose computation,
+networking, and physical dynamics.
+
+https://esweek.org/emsoft/
+
+EMSOFT Program Chairs:
+Linh Thi Xuan Phan, University of Pennsylvania, US
+David Broman, KTH Royal Institute of Technology, SE
+
+-------------------------------------------------------------------------
+International Symposium on Networks-on-Chip (NOCS)
+-------------------------------------------------------------------------
+ESWEEK 2021 will co-host the 15th International Symposium on Networks-
+on-Chip (NOCS). NOCS is the premier event dedicated to interdisciplinary
+research on on-chip, package-scale, chip-to-chip, and datacenter rack-
+scale communication technology, architecture, design methods, applica-
+tions and systems. NOCS brings together scientists and engineers working
+on NoC innovations and applications, including discrete optimization and
+algorithms, computer architecture, networking, circuits and systems,
+packaging, embedded systems, and design automation.
+
+https://esweek.org/nocs/
+
+NOCS General Chairs:
+Tushar Krishna, Georgia Institute of Technology, US
+John Kim, KAIST, KR
+
+-------------------------------------------------------------------------
+Call for Workshop Proposals
+-------------------------------------------------------------------------
+ESWEEK 2021 will host several workshops on October 14/15, 2021. ESWEEK
+workshops are excellent opportunities to bring together researchers and
+practitioners from different communities to share their experiences in an
+interactive atmosphere. We invite you to submit workshop proposals on any
+topic related to the broad set of research, education, and application
+areas in embedded systems before April 16, 2021.
+
+https://esweek.org/call-for-workshop-proposals/
+
+Workshop Chair:
+Patricia Derler, Kontrol LLC, US
+
+-------------------------------------------------------------------------
+Call for Tutorial Proposals
+-------------------------------------------------------------------------
+ESWEEK 2021 is looking for high-quality tutorials that will take place
+on Sunday, October 10, 2021. Tutorials offer a unique opportunity where
+presenters can interact with attendees and attendees can gain in-depth
+knowledge on specific topics. Tutorials on all topics related to embedded
+system design, analysis and development are welcome and can be either
+half or full day, lecture style or hands on. We invite you to submit
+tutorial proposals before April 30, 2021.
+
+https://esweek.org/call-for-tutorial-proposals/
+
+-------------------------------------------------------------------------
+Call for Special Session Proposals
+-------------------------------------------------------------------------
+ESWEEK 2021 will host several special sessions. They should cover hot,
+contemporary topics that are complementary to regular sessions and can
+constitute individual presentations, panels or other formats. Participants
+of each accepted special session will have the opportunity to co-author an
+overview paper (maximum 10 pages) of the session, published in the ESWEEK
+proceedings. We invite you to submit special session proposals on any
+topic related to the broad areas of interest of the conference or beyond
+before April 30, 2021.
+
+https://esweek.org/call-for-special-session-proposals/
+
+Special Sessions and Tutorial Chairs:
+Paul Bogdan, University of Southern California, US
+Timothy Bourke, Inria Paris, FR
+
+-------------------------------------------------------------------------
+Organization
+-------------------------------------------------------------------------
+ESWEEK 2020 General Chairs:
+Andreas Gerstlauer, University of Texas Austin, US
+Aviral Shrivastava, Arizona State University, US (Vice General Chair)
+Tulika Mitra, National University of Singapore, SG (Past Chair)
+
+Virtual Conference Chairs:
+Sudeep Pasricha, Colorado State University, US
+Hoeseok Yang, Ajou University, KR
+
+
+                               www.esweek.org

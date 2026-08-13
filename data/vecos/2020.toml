@@ -25,3 +25,15 @@ submitted = 60
 
 [extra]
 notes = "Authors of selected papers will be invited to submit extended article versions to a special issue of an index journal (ISSE or IJCCBS)."
+
+[[cfp]]
+file = "cfp/VECOS-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/VECoS-2020-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/VECoS-2020-extended2.txt"
+stage = "extended"

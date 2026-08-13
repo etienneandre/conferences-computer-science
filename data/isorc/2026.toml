@@ -24,3 +24,7 @@ blind = "single"
 
 [extra]
 notes = "Also a doctoral symposium"
+
+[[cfp]]
+file = "cfp/ISORC-2026-extended.txt"
+stage = "extended"

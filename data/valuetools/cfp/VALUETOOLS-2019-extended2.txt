@@ -1,0 +1,102 @@
+VALUETOOLS 2019
+12th EAI International Conference on Performance Evaluation Methodologies and Tools. 
+March 13-15, 2019. Palma de Mallorca, Spain
+
+CALL FOR PAPERS, POSTERS & FAST ABSTRACTS EXTENDED 
+TL; DR
+
+Regular papers (8 pages)  and Tool papers (6 pages) submission:
+* Abstract submission: October 24, 2018 (not mandatory)
+* Paper submission: October 28, 2018 (extended)
+
+Posters and Fast Abstracts submission (2 pages):   November 18, 2018 (extended)
+
+**All deadlines are Anywhere on Earth (AoE)**
+
+[** Apologies for cross-posting **]
+[** Please forward to anyone who might be interested **]
+
+=======================================================================
+---------------------
+Call for Papers
+---------------------
+You are cordially invited to submit to VALUETOOLS 2019 (http://valuetools.org/), to be held in Palma de Mallorca, Spain from 12 to 15 March 2019 with Workshops on 12 March.
+
+----------
+Topics
+----------
+ValueTools 2019 focuses on methodologies and practices in modelling, performance evaluation and optimization of complex systems. It brings together researchers from different communities including Computer Science, Networks and Telecommunications, Operations Research, Optimization, Control Theory and Manufacturing. ValueTools2019 solicits previously unpublished contributions that propose new performance evaluation methodologies and new tools.
+
+Valuetools 2019 solicits papers describing original and novel research on, but not limited to, the following topics:
+
+Methodologies
+* Stochastic processes & models
+* Queues and queueing networks
+* Asymptotic analysis (mean field, fluid approximations, large deviations)
+* Discrete event simulation
+* Software performance engineering
+* Model-checking
+* Process algebras, Petri Nets
+* Optimization and Control Theory
+* Game theory & algorithmic game theory
+* Machine Learning and data analytics
+
+Application Areas
+* Distributed systems
+* Large-scale systems
+* Communication and computer systems
+* Wireless networks (4G/5G, sensor, ad-hoc networks)
+* Cloud and Edge/Fog computing systems
+* Internet of Things
+* Energy networks and Smart grids
+* Social networks
+* Networks security
+* Biological systems
+* Manufacturing systems & supply chains
+* Transportation systems
+
+---------------------------------------------------
+Important dates and submission types
+---------------------------------------------------
+
+Please note that all deadlines are 23:59 AoE (Anywhere on Earth, UTC -12)
+
+Regular papers (8 pages)  and Tool papers (6 pages) submission:
+
+* Abstract submission: October 24, 2018 (extended, not mandatory)
+* Paper submission: October 28, 2018 (extended deadline)
+
+Posters and Fast Abstracts submission (2 pages):   November 18, 2018 (extended)
+
+Notification of acceptance:  December 20, 2018
+Camera ready: January 20th, 2019
+
+Workshops (full or half day) and Tutorials (1-3 hours) proposal submission (2 pages):   September 15th, 2018
+Notification of acceptance for Workshops and Tutorials:   September 30th, 2018
+
+Submission guidelines are available on the conference web page: http://valuetools.org/initial-submission/. 
+
+Authors of a selection of best papers will be given the opportunity to submit an extended version of their work for publication in a special issue of the journal Performance Evaluation (https://www.journals.elsevier.com/performance-evaluation).
+
+-----------------------------
+Organizing Committee
+-----------------------------
+    General Chairs:
+            Catalina M. Lladó, University of the Balearic Islands, Spain
+            Eitan Altman, INRIA, France
+    Program Chairs:
+            Giuliana A. Franceschinis, University of Eastern Piedmont, Italy
+            Balakrishna J. Prabhu, LAAS-CNRS, France
+            Mikael Touati, Orange, France
+    Publicity and Social Media Chair:
+            Ricardo J. Rodríguez, Centro Universitario de la Defensa-Zaragoza, Spain
+    Workshops Chair:
+            Carlos Guerrero, University of the Balearic Islands, Spain
+    Publications Chairs:
+            Abel Gómez, Open University of Catalonia, Spain
+    Local Arrangement Chair:
+            Manuel A. Barranco González, University of the Balearic Islands, Spain
+    Web Chair:
+            Alim Ul Gias, Imperial College London, UK
+    Conference Manager: 
+            Dominika Belisova, EAI

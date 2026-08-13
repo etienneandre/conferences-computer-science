@@ -18,3 +18,7 @@ license = "cc-by"
 
 [extra]
 notes = "Affiliated with CADE 2017."
+
+[[cfp]]
+file = "cfp/HCVS-2017.txt"
+stage = "initial"

@@ -1,0 +1,176 @@
+========================================
+CMSB 2023: 21st Conference on Computational Methods in Systems Biology
+Luxembourg City, Luxembourg
+September 13-15, 2023
+Conference website: https://cmsb2023.uni.lu/
+CMSB series website: https://cmsb.sciencesconf.org/
+========================================
+
+CMSB 2023 solicits original research articles, tool papers, posters,
+and highlight talks on the modelling and analysis of biological
+systems and networks, as well as the analysis of biological data. The
+conference brings together researchers from across biological,
+mathematical, computational, and physical sciences who are interested
+in the modelling, simulation, analysis, inference, design, and control
+of biological systems. It covers the broad field of computational
+methods and tools in systems and synthetic biology and their
+applications.
+
+************************
+LIST OF TOPICS
+************************
+Topics of interest include, but are not limited to:
+* formalisms for modelling biological processes;
+* methods and tools for biological system analysis, modelling and simulation;
+* frameworks for model verification, validation, analysis, and
+simulation of biological systems;
+* high-performance methods for computational systems biology;
+* identification of biological systems;
+* applications of machine learning and data analytics in biology;
+* network modelling, analysis, inference;
+* automated parameter and model synthesis;
+* model integration and biological databases;
+* multi-scale modelling and analysis methods;
+* design, analysis, and verification methods for synthetic biology;
+* methods for biomolecular computing and engineered molecular devices;
+* data-based approaches for systems and synthetic biology;
+* optimality and control of biological systems;
+* modelling, analysis and control of microbial communities.
+
+The conference welcomes new theoretical results with potential
+applications to systems and synthetic biology, as well as novel
+applications and case studies of existing methods, tools, or
+frameworks.
+
+The CMSB 2023 proceedings will be published in the Springer LNCS/LNBI
+series and indexed by ISI Web of Science, Scopus, ACM Digital Library,
+DBLP, and Google Scholar. A selection of best papers is planned to be
+invited after the conference to be extended and submitted to a special
+issue of a major international journal.
+
+************************
+IMPORTANT DATES (all dates are AoE)
+************************
+Abstract submission: April 16, 2023
+Paper submission: April 23, 2023
+Notification: June 9, 2023
+Camera ready: June 23, 2023
+Poster/highlight talk: July 9, 2023
+Conference: September 13-15, 2023
+
+************************
+TYPES OF CONTRIBUTIONS
+************************
+Contributions should be submitted to one of the following categories:
+
+A) REGULAR PAPERS: Regular papers should describe original work that
+has not been previously published and is not under review for
+publication elsewhere. Accepted regular papers will be published as
+part of the conference proceedings in the Springer LNCS series. Papers
+in this category should not exceed 15 pages in the Springer LNCS style
+(including main figures and tables, excluding references and possible
+appendices).
+
+B) TOOL PAPERS: Tool papers should present new tools or public
+websites, new tool components or novel extensions to existing tools or
+websites supporting biological system modelling, analysis, simulation,
+or similar. Submissions must include information on methods, tool
+availability, and selected application results. They should be
+original and not previously published in a similar form. Accepted tool
+papers will be published as part of the conference proceedings in the
+Springer LNCS series. Papers in this category should have 4-6 pages in
+the Springer LNCS style (including main figures and tables, excluding
+references and possible appendices).
+
+C) POSTERS: Extended abstracts should be submitted to propose poster
+presentation of original unpublished work, or of major results
+published or accepted in the last year in a high-quality journal or
+conference. The abstracts should be submitted in Springer LNCS style
+and should not exceed 4 pages all included. Authors of accepted
+abstracts will be invited for presentation in a poster session and/or
+for flash presentations. Poster submissions will not be included in
+the Springer LNBI proceedings.
+
+D) HIGHLIGHT TALKS: Highlight talk proposals should be submitted in
+the form of an extended abstract, for possible oral presentation
+without publication of related material in the conference proceedings.
+We particularly welcome submissions of recently published work.
+Submitted abstracts summarising the results and their relevance should
+not exceed 2 pages including references. Extended abstracts will not
+be included in the Springer LNBI proceedings.
+
+************************
+SUBMISSION INFORMATION
+************************
+All submitted papers and extended abstracts have to be written in
+English and must be submitted in the form of a PDF file using the
+EasyChair online submission system, at the following link:
+https://easychair.org/conferences/?conf=cmsb2023.
+
+Instruction for the Springer Nature LNCS style:
+http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines.
+
+Each submission will be reviewed by at least three members of the
+Program Committee (see above for specific reviewing information about
+tools). All accepted contributions must be presented at the conference
+by one of the authors.
+
+Springer Nature encourages authors to include their ORCIDs in their
+papers. In addition, the corresponding author of each paper, acting on
+behalf of all of the authors of that paper, must complete and sign a
+Consent-to-Publish form. The corresponding author signing the
+copyright form should match the corresponding author marked on the
+paper. Once the files have been sent to Springer, changes relating to
+the authorship of the papers cannot be made.
+
+If an author is interested in Open Access or Open Choice, please refer
+to Springer Nature’s webpage for prices and additional information.
+
+All CMSB authors should consult the Springer Nature Code of Conduct
+(https://www.springernature.com/gp/authors/book-authors-code-of-conduct),
+including guidelines for authorship principles, originality, redundant
+publications, conflicts of interests, etc. In particular, we draw your
+attention to the Springer Nature policies in the section Ethical
+Approval and Informed Consent.
+
+************************
+PROGRAMME COMMITTEE
+************************
+Tatsuya Akutsu – University of Kyoto (Japan)
+Claudio Altafini – University of Linköping (Sweden)
+Daniela Besozzi – University of Milan Bicocca (Italy)
+Luca Bortolussi – University of Trieste (Italy)
+Frank Bruggeman – Vrije Universiteit Amsterdam (Netherlands)
+Luca Cardelli – University of Oxford (United Kingdom)
+Milan Ceska – Brno University of Technology (Czech Republic)
+François Fages – Inria Saclay (France)
+Christoph Flamm – University of Vienna (Austria)
+Maxime Folschette – École Centrale de Lille (France)
+Anna Gambin – University of Warsaw (Poland)
+Ashutosh Gupta – Indian Institute of Technology Bombay (India)
+Monika Heiner – Brandenburg Technical University Cottbus-Senftenberg (Germany)
+Hillel Kugler – Bar-Ilan University (Israel)
+Luca Laurenti – TU Delft (Netherlands)
+Andrzej Mizera – University of Warsaw (Poland)
+Pedro T. Monteiro – University of Lisbon (Portugal)
+Joachim Niehren – Inria Lille (France) – co-chair
+Jun Pang – University of Luxembourg (Luxembourg) – co-chair
+Loïc Paulevé – CNRS, Bordeaux (France)
+Andrei Paun – University of Bucharest (Romania)
+Ion Petre – University of Turku (Finland)
+Tatjana Petrov – University of Konstanz (Germany)
+Maria Rodriguez Martinez – IBM, Zurich Research Laboratory (Switzerland)
+Jakob Ruess – Inria Paris (France)
+David Šafránek – Masaryk University (Czech Republic)
+Thomas Sauter – University of Luxembourg (Luxembourg)
+Abhyudai Singh – University of Delaware (United States)
+Chris Thachuk – University of Washington (United States)
+Andrea Vandin – Sant’Anna School of Advanced Studies, Pisa (Italy)
+Christoph Zechner – Max Planck Institute, Dresden (Germany)
+
+************************
+CONTACT
+************************
+All questions about the conference should be emailed to the organizers
+Joachim Niehren (joachim.niehren@inria.fr) and Jun Pang
+(jun.pang@uni.lu).

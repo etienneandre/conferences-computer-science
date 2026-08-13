@@ -1,0 +1,25 @@
+Dear Colleagues,
+
+International Conference on Reachability Problems (RP'22) will be organised as a physical meeting in Kaiserslautern (Germany), but also offering a possibility to authors with travel restrictions to give online presentations. 
+
+https://rp2022.mpi-sws.org/
+
+Deadline for submissions is EXTENDED to July 14, 2022.
+
+The conference is specifically aimed at gathering scholars
+from diverse disciplines and backgrounds interested in wide
+range of Theoretical Computer Science areas related to 
+various forms of reachability problems.
+
+Authors are invited to submit a full paper with at most 14 pages 
+(excluding the bibliography and potential appendices) formatted according to the LNCS guidelines.
+
+INVITED SPEAKERS:
+- Michael Benedikt (University of Oxford)
+- Sharon Shoham Buchbinder (Tel Aviv University)
+- Laura Ciobanu (Heriot-Watt University)
+- Wojciech Czerwiński (University of Warsaw)
+- Rupak Majumdar (Max Planck Institute for Software Systems, MPI-SWS)
+
+Best Regards,
+Igor Potapov

@@ -1,0 +1,95 @@
+Call for Papers: Runtime Verification (RV) 2024
+
+Runtime Verification 2024
+
+October 15-18
+
+Istanbul, Türkiye
+
+
+[Apologies for cross-postings]
+
+
+We are pleased to invite you to submit papers for the 24th International
+Conference on Runtime Verification (*RV'24*), which will take place in
+Istanbul, Türkiye, on October 15-18, 2024. The full Call for Papers,
+with submission details, is at
+https://bouncmpe.github.io/rv24/call-for-papers/
+<https://bouncmpe.github.io/rv24/call-for-papers/>
+
+
+Important Dates
+
+  * Paper submission:                   May 14, 2024
+  * Notification:   June 25, 2024
+  * Camera-ready:     July 23, 2024
+  * Conference:    October 15-18, 2024
+
+Website
+
+https://bouncmpe.github.io/rv24/ <https://bouncmpe.github.io/rv24/>
+
+Objectives and Scope
+
+Runtime verification is concerned with the monitoring and analysis of
+the runtime behavior of software, hardware, and cyber-physical systems.
+
+The topics of the conference include, but are not limited to:
+
+  * specification languages for monitoring
+  * formal requirements elicitation, specification mining, and machine
+    learning over runtime traces
+  * monitor construction techniques
+  * program instrumentation
+  * combination of static and dynamic analysis
+  * dynamic type checking and assurance cases
+  * monitoring techniques for concurrent and distributed systems
+  * runtime checking of privacy and security policies
+  * metrics and statistical information gathering
+  * fault localization, containment, resilience, recovery and repair
+  * monitoring of systems with learning-enabled components, including
+    reinforcement learning
+  * runtime verification for autonomy and runtime assurance
+
+New areas we are soliciting this year include:
+
+  * integrating the results of runtime monitoring with downstream tasks,
+    especially metareasoning, control, fault recovery, and design
+    modifications
+  * case studies of using RV in industrial settings, with lessons
+    learned and challenges faced
+
+Papers
+
+Papers can be submitted in one of four categories:
+
+  *
+    *Regular papers* (up to 16 pages +  references) should present
+    original unpublished results.
+  *
+    *Short papers* (up to 8 pages + references) should present original
+    unpublished ideas but which are not necessarily thoroughly worked out.
+  *
+    *Tool papers* (up to 8 pages + references) should present a new tool
+    or novel extensions to an existing tool supporting runtime verification.
+  *
+    *Benchmark papers* (up to 8 pages + references) should describe a
+    benchmark or benchmark generator useful for evaluating RV tools
+
+Tutorials
+
+Tutorials are two-to-three-hour presentations on a selected topic. A
+tutorial proposal is at most 2 pages, and must describe the subject and
+outline of the tutorial, relevance to RV community, schedule in some
+detail, and brief biographies of the presenters.
+
+Tutorial proposers also have the /option /to submit a Regular Paper (up
+to 16 pages) on the subject of the tutorial.
+
+The Program Committee <https://bouncmpe.github.io/rv24/committees/> will
+give a Springer-sponsored Best Paper Award to an elected regular paper.
+
+*Special Journal Issue *The Program Committee will invite a selection of
+accepted papers to submit extended versions to a special journal issue,
+currently planned to be in the International Journal on Software Tools
+for Technology Transfer (STTT <https://link.springer.com/journal/10009>).

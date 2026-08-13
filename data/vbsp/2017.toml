@@ -18,3 +18,11 @@ publisher = "None?"
 
 [extra]
 notes = "Co-located with ICSSP 2017"
+
+[[cfp]]
+file = "cfp/VBSP-2017.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/VBSP-2017-extended.txt"
+stage = "extended"

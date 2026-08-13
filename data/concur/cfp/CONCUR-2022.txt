@@ -1,0 +1,198 @@
+CONCUR 2022: the first call for papers
+
+==============================
+
+September 13-16, 2022 at the University of Warsaw, Poland
+
+Website: https://concur2022.mimuw.edu.pl/
+
+Co-located with QEST, FORMATS, FMICS (under the joint name CONFEST)
+
+The purpose of CONCUR 2022, the 33rd International Conference on Concurrency Theory, is to bring together researchers, developers, and students in order to advance the theory of concurrency, and promote its applications.
+
+
+IMPORTANT NOTE CONCERNING THE COVID-19 PANDEMIC
+
+CONCUR 2022 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not. This should be definitely decided by the end of June 2022.
+
+
+INVITED SPEAKERS
+
+Wojciech Czerwiński, University of Warsaw, Poland
+
+Philippa Gardner, Imperial College London, UK
+
+Rupak Majumdar, Max Planck Institute for Software Systems, Germany
+
+Sergio Rajsbaum, Universidad Nacional Autonoma de Mexico, Mexico
+
+
+CO-LOCATED CONFERENCES
+
+19th International Conference on Quantitative Evaluation of SysTems (QEST 2022)
+
+20th International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS 2022)
+
+27th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2022)
+
+Website: https://concur2022.mimuw.edu.pl/
+
+
+IMPORTANT DATES (all dates are AoE)
+
+Abstract Submission:    April 18, 2022
+
+Paper Submission:        April 25, 2022	
+
+Author Response:         June 6-8, 2022
+
+Notification:	            June 25, 2022
+
+Camera Ready:             July 9, 2022 
+
+Conference(s):              September 13-16, 2022
+
+Workshops:                   September 12 and 17, 2022
+
+
+PAPER SUBMISSION
+
+CONCUR 2022 solicits high quality papers reporting research results and/or experience related to the topics mentioned below. All papers must be original, unpublished, and not submitted for publication elsewhere.
+
+Each paper will undergo a thorough review process. The paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee.
+
+The CONCUR 2022 proceedings will be published by LIPIcs.
+
+Papers must be submitted electronically as PDF files via EasyChair:
+
+https://easychair.org/conferences?conf=concur2022
+
+Papers must not exceed 14 pages (excluding references and clearly marked appendices) using the LIPIcs style.
+
+
+TOPICS
+
+Submissions are solicited in semantics, logics, verification and analysis of concurrent systems. The principal topics include (but are not limited to):
+
+    Basic models of concurrency such as abstract machines, domain-theoretic models, game-theoretic models, process algebras, graph transformation systems, Petri nets, hybrid systems, mobile and collaborative systems, probabilistic systems, real-time systems, biology-inspired systems, and synchronous systems;
+
+
+    Logics for concurrency such as modal logics, probabilistic and stochastic logics, temporal logics, and resource logics;
+
+
+    Verification and analysis techniques for concurrent systems such as abstract interpretation, atomicity checking, model checking, race detection, pre-order and equivalence checking, run-time verification, state-space exploration, static analysis, synthesis, testing, theorem proving, type systems, and security analysis;
+
+
+    Distributed algorithms and data structures: design, analysis, complexity, correctness, fault tolerance, reliability, availability, consistency, self-organization, self-stabilization, protocols;
+
+
+    Theoretical foundations of architectures, execution environments, and software development for concurrent systems such as geo-replicated systems, communication networks, multiprocessor and multi-core architectures, shared and transactional memory, resource management and awareness, compilers and tools for concurrent programming, programming models such as component-based, object- and service-oriented.
+
+
+
+AWARDS
+
+In 2022, CONCUR Test-of-Time and best paper awards will be given for the third time. The winners will be announced at the conference.
+
+
+ORGANIZATION COMMITTEE
+
+Lorenzo Clemente (workshop chair)
+
+Piotrek Hofman
+
+Bartek Klin
+
+Sławek Lasota
+
+Radek Piórkowski (webmaster)
+
+
+PROGRAM COMMITTEE
+
+C. Aiswarya, Chennai Mathematical Institute, India
+
+S. Akshay, IIT Bombay, India
+
+Shaull Almagor, Technion, Israel
+
+Nathalie Bertrand, INRIA, France
+
+Ilaria Castellani, INRIA, France
+
+Constantin Enea, IRIF, Université de Paris, France
+
+Bernd Finkbeiner, CISPA Helmholtz Center for Information Security, Germany
+
+Blaise Genest, CNRS, France
+
+Rob van Glabbeek, CSIRO, Sydney, Australia
+
+Daniele Gorla, University of Rome La Sapienza, Italy
+
+Jean Goubault-Larrecq, ENS Paris-Saclay, France
+
+Ichiro Hasuo, National Institute of Informatics, Japan
+
+Marcin Jurdzinski, The University of Warwick, UK
+
+Stefan Kiefer, University of Oxford, UK
+
+Bartek Klin, University of Oxford, UK (co-chair)
+
+Barbara König, University of Duisburg-Essen, Germany
+
+Sławomir Lasota, University of Warsaw, Poland (co-chair)
+
+Martin Leucker, University of Lübeck, Germany
+
+Bas Luttik, Eindhoven University of Technology,  The Netherlands
+
+P. Madhusudan, University of Illinois at Urbana-Champaign, US
+
+Hernan Melgratti, Universidad de Buenos Aires, Argentina
+
+Anca Muscholl, Bordeaux University, France (co-chair)
+
+Jan Otop, University of Wrocław, Poland
+
+Joel Ouaknine, Max Planck Institute for Software Systems, Germany
+
+Jean-François Raskin, Université libre de Bruxelles, Belgium
+
+Grigore Rosu, University of Illinois at Urbana-Champaign, US
+
+Jurriaan Rot, Radboud University, The Netherlands
+
+Davide Sangiorgi, University of Bologna, Italy
+
+Alexandra Silva, University College London, UK and Cornell University, US
+
+Paweł Sobociński, Tallinn University of Technology, Estonia
+
+Ana Sokolova, University of Salzburg, Austria 
+
+Alwen Tiu, The Australian National University, Australia
+
+Frits Vaandrager, Radboud University, The Netherlands
+
+Nobuko Yoshida, Imperial College London, UK
+
+Lijun Zhang, Chinese Academy of Sciences, China
+
+
+STEERING COMMITTEE
+
+Javier Esparza, TU München, Germany (chair)
+
+Pedro D’Argenio, National University of Cordoba, Argentina
+
+Wan Fokkink, Vrije Universiteit Amsterdam, The Netherlands
+
+Joost-Pieter Katoen, RWTH, Germany
+
+Catuscia Palamidessi, INRIA and Ecole Polytechnique, France
+
+Davide Sangiorgi, University of Bologna, Italy
+
+Jiri Srba, Aalborg University, Denmark

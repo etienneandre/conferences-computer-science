@@ -1,0 +1,69 @@
+***********************************************************************
+
+
+TIPS Workshop
+4th International workshop on TIming Performance engineering for Safety critical systems
+31 August 2019, Amsterdam, Netherlands
+ 
+In conjunction with CONCUR and FORMAT 2019 conferences
+https://event.cwi.nl/concur2019/index.html
+https://lipn.univ-paris13.fr/formats2019/
+ 
+***********************************************************************
+ 
+Goals
+The purpose of the TIPS Workshop is to provide a forum for both practitioners and researchers to present contributions and share ideas, experiences and solutions to concretely connect or integrate performance design engineering and safety engineering activities. Industrial participants are invited to report on efforts applying timing and performance verification techniques in their context of safety or certification, share their insights, and to provide feedback to research priorities and roadmaps. This workshop will also encourage discussions about issues and opportunities to apply timing performance and safety co-engineering.
+The TIPS workshop aims to promote discussions, close interactions, cross fertilization of ideas and synergies across the breadth of the timing performance and safety (and security) research communities, as well as to attract industrials from different domains with specific interest in timing performance and safety engineering.
+ 
+Topics
+Topics include but are not limited to:
+·         Comparative evaluation of existing integrated timing performance and safety assessment or verification techniques.
+·         Design modelling languages, methods, techniques and processes for timing performance and safety engineering and combining them.
+·         New ways for timing performance certification.
+·         Design architecture evaluation approaches considering timing and safety concerns, including architecture optimizations.
+·         Performance patterns or solutions for efficient safety and security design.
+·         Performance predictability for multi-core platforms under safety concerns.
+·         Virtualization techniques for safe and efficient resource sharing.
+·         Case studies and industrial experience on integrating applications combining, timing performance and safety engineering activities and certification.
+·         Discussions on issues and opportunities to integrate, combined timing performance and safety engineering, certifications standards, rules, and authorities.
+·         Demonstrations of techniques or tools to apply timing performance in safety or certification processes.
+Reports doing dissemination of collaborative (European, National etc.) research projects results, as well as industrial experience reports from work in progress are welcome.
+ 
+Important Dates
+Submission deadline: 10 May, 2019
+Notification of acceptance: 12 June, 2019
+Final version papers: 26 June, 2019
+TIPS’19 Workshop: 31 August, 2019
+ 
+Web: http://www.es.ele.tue.nl/tips19/
+ 
+ 
+Submission Guidelines
+Papers must describe, in English, original work that has not been published or submitted elsewhere. Each paper will be reviewed by at least 3 PC members. We solicit three types of submissions:
+- Regular papers (up to 15 pages) describing original and unpublished work within the scope of the workshop.
+- Short papers (up to 6 pages) describing less mature results or preliminary results.
+- Position papers or extended abstracts (up to 2 pages) for reports on research projects, industrial experiences or challenges, innovative ideas, and work in progress.
+- Demo papers describing demonstrations to show achieved results or the application of new techniques or tools.
+Please keep your paper format according to SPRINGER LNCS style guidelines (http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) (use Microsoft Word or PDF format if possible).
+All papers should be submitted through Easychair: (https://easychair.org/conferences/?conf=tips19)
+ 
+Organizing Committee
+Laurent Rioux, Thales R&T, France
+Marc Geilen, TU Eindhoven, The Netherlands
+ 
+Program Committee Chairs
+Chokri Mraidha, CEA, France
+Julio Medina, Univ. of Cantabria, Spain
+ 
+Program Committee
+Liliana Cucu-Grosjean, INRIA – France
+Zain A. H. Hammadeh, TU Braunschweig – Germany
+Huascar Espinoza, CEA - France
+Loic Frejoz, Realtime@work – France
+Bran Selic, Malina Software Corp. – Canada
+José Merseguer, Univ. de Zaragoza – Spain
+Rafik Henia, THALES – France
+De-Jiu Chen, KTH - Sweden
+Dorina C. Petriu, Carleton University - Canada
+Yiannis Papadopoulos, University of Hull – UK
+Emmanuel Grolleau, ENSMA - France

@@ -1,0 +1,148 @@
+----------------------------------------------------------------------------------------------------
+
+            16th International Workshop on
+                  Real-Time Networks
+
+                         RTN 2018
+
+                https://www.ecrts.org/rtn2018/?id=rtn2018
+
+
+----------------------------------------------------------------------------------------------------
+
+                          CALL FOR PAPERS
+
+
+NEW: collaborative session on TSN networks and open real-time problems!
+(see workshop structure session)
+
+----------------------------------------------------------------------------------------------------
+
+PRESENTATION
+
+The Real-Time Networks (RTN) is a satellite workshop of the 30th
+Euromicro Conference on Real-Time Systems (ECRTS 2018), the premier
+European venue for presenting research into the broad area of
+real-time and embedded systems. The RTN 2018 workshop is the
+sixteenth in the series of workshops that started at the 2002 ECRTS
+conference. No edition took however place in 2015.
+
+----------------------------------------------------------------------------------------------------
+FOCUS OF THE 2018 EDITION
+
+To continue a new series of workshops, RTN 2018 focuses on the real-time
+aspects of the new IEEE standards for Time-Sensitive Networking (TSN). Besides,
+accepted papers will be published in ACM SIGBED Review unless authors
+explicitly refuse in order to submit their work to a conference or journal.
+
+A keynote on *Time-Sensitive Networking* (TSN) will be given by Wilfried Steiner
+from TTTech!
+
+----------------------------------------------------------------------------------------------------
+WORKSHOP STRUCTURE
+
+The RTN workshop provides a relaxed forum for industrial and academic
+participants to present and discuss new ideas, new research directions
+and to review current trends in the area of real-time networks and
+NoC. Schedule will provide significant time for discussions among the
+attendees.
+
+*NEW*: in addition to presentation sessions, a collaborative session
+will be setup to stimulate exchange between participants on the topic
+of TSN networks and open real-time problems. Different types of
+contributions, including demos, informal presentations, posters, are
+encouraged to animate this session!
+
+----------------------------------------------------------------------------------------------------
+TOPICS
+
+Areas of interest include, but are not limited to:
+
+- Real-time network on chips (NoC)
+- Real-time Software Defined Networks (SDN)
+- Real-time message scheduling and mapping over off and on-chip
+  networks (TSN, Ethernet, CAN, FlexRay, NoC, etc.)
+- Real-time applications (automotive, aerospace, multimedia, etc.):
+  implementation, experimentation and evaluation
+- Performance evaluation, simulation and modeling tools of real-time
+  networks (automotive, aerospace, multimedia, etc.)
+- Real-time aspects of networked embedded systems and sensors,
+  cyber-physical systems, internet of things
+- Real-time network management and time synchronization
+- Real-time aspects of Wireless technologies and
+  Sensor Networks (WSNs) and applications
+
+----------------------------------------------------------------------------------------------------
+IMPORTANT DATES
+
+Submission deadlines (extended!):
+  Papers:        24th April 2018
+  Abstracts:       24th April 2018
+Notification of acceptance:          8th May 2018
+Submission of camera-ready papers:  22nd May 2018
+Workshop:                            3rd July 2018
+
+----------------------------------------------------------------------------------------------------
+SUBMISSION INSTRUCTIONS
+
+The RTN workshop seeking regular research paper or position paper that
+should not exceed 6 pages. Research papers should present original
+research results not published or submitted for publication in other
+forums. Authors of accepted papers agree to attend the workshop and to
+present their work during the workshop.
+
+Papers submitted for the RTN workshop must be written in English,
+should conform to the typesetting requirements specified on the
+workshop's website (http://ecrts.eit.uni-kl.de/rtn2018), and must be
+submitted in PDF format using the RTN workshop paper submission
+website. Author names, affiliations and self-references should not be
+anonymized.
+
+Accepted papers will be published in SIGBED Review unless authors
+explicitly refuse in order to submit their work to a conference or
+journal. By accepting that papers are published in the ACM SIGBED
+Review, authors give permission to publish and include the papers in
+ACM Digital Library.
+
+
+*NEW!* DEMO SUBMISSION
+Proposals for Demo presentation shall be submitted by email to the
+workshop chairs following the instructions below:
+
+Email subject: "RTN18-DEMO SUBMISSION: " + demo title
+Attachment including:
+ Demo Title
+ Authors and affiliation
+ Short description (10-20 lines)
+The title and short description of accepted demos will be listed in the RTN program.
+
+*NEW!* POSTER SUBMISSION
+Proposal for Posters shall be submitted by email to the workshop chairs
+following the instructions below:
+
+Email subject: "RTN18-POSTER SUBMISSION: " + poster title
+Attachment (in ACM SIG format, see Link to ACM SIG format) including:
+ Poster Title
+ Authors and affiliation
+ Poster abstract (one page max)
+The title and abstract of accepted posters will be added in the RTN proceedings.
+
+----------------------------------------------------------------------------------------------------
+WORKSHOP CHAIRS
+
+- Ramon Serna Oliver, TTTech, Austria
+- Mathieu Jan, CEA LIST, France
+
+PROGRAM COMMITTEE
+
+- Julian Proenza, University of the Balearic Islands, Spain
+- Jean-Luc Scharbarg, University of Toulouse - IRIT - INP/ENSEEIHT, France
+- Borislav Nikolic, IDA, TU Braunschweig, Germany
+- Ye-Qiong Song, LORIA - University of Lorraine, France
+- Leandro Indrusiak, University of York, England
+- LuisAlmeida, University of Porto, Portugal
+- JörgMische, University of Augsburg, Germany
+- Frédéric Ridouard, LIAS/ENSMA, France
+- PaulPop, Technical University of Denmark, Denmark
+- AhlemMifdaoui, University of Toulouse / ISAE, France
+CONFIDENTIALITY: The contents of this e-mail are confidential and intended only for the above addressee(s). If you are not the intended recipient, or the person responsible for delivering it to the intended recipient, copying or delivering it to anyone else or using it in any unauthorized manner is prohibited and may be unlawful. If you receive this e-mail by mistake, please notify the sender and the systems administrator at straymail@tttech.com immediately.

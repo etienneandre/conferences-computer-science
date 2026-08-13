@@ -1,0 +1,114 @@
+**************************************************
+   The Twenty First Formal Methods in Computer-Aided Design Conference
+    https://fmcad.org/FMCAD21/.
+    Oct. 19-22, 2021
+    Yale University, Connecticut, USA
+**************************************************
+ 
+The conference will be held in an in-person/virtual hybrid format at Yale University, USA,
+possibly transitioning to fully virtual depending on the COVID-19 situation.
+ 
+IMPORTANT DATES
+
+Abstract Submission: May 7, 2021
+Paper Submission: May 14, 2021
+Author Response: June 23-25, 2021
+Author Notification: July 2, 2021
+Camera-Ready Version: August 16, 2021
+Early registration: September 15, 2021
+
+All deadlines are 11:59 pm AoE (Anywhere on Earth)
+
+FMCAD Tutorial Day:(TENTATIVE) Oct. 19, 2021
+Regular Program:(TENTATIVE) Oct. 20-22, 2021
+
+Part of the FMCAD 2021 program: FMCAD Student Forum
+Co-located with FMCAD: VSTTE 2021
+
+
+CONFERENCE SCOPE AND PUBLICATION
+
+FMCAD 2021 is the twenty-first in a series of conferences on the theory and applications of formal methods in hardware and system verification. FMCAD provides a leading forum to researchers in academia and industry for presenting and discussing groundbreaking methods, technologies, theoretical results, and tools for reasoning formally about computing systems. FMCAD covers formal aspects of computer-aided system design including verification, specification, synthesis, and testing.
+FMCAD employs a rigorous peer-review process. Accepted papers are published by TU Wien Academic Press under a Creative Commons license (the authors retain the copyright) and distributed through the IEEE XPlore digital library. There are no publication fees. At least one of the authors is required to register for the conference and present the accepted paper. A small number of outstanding FMCAD submissions will be considered for inclusion in a Special Issue of the journal on Formal Methods in System Design (FMSD).
+
+
+TOPICS OF INTEREST
+
+FMCAD welcomes submission of papers reporting original research on advances in all aspects of formal methods and their applications to computer- aided design. Topics of interest include (but are not limited to):* Model checking, theorem proving, equivalence checking, abstraction and reduction, compositional methods, decision procedures at the bit- and word-level, probabilistic methods, combinations of deductive methods and decision procedures.
+* Synthesis and compilation for computer system descriptions, modeling, specification, and implementation languages, formal semantics of languages and their subsets, model-based design, design derivation and transformation, correct-by-construction methods.
+* Application of formal and semi-formal methods to functional and non-functional specification and validation of hardware and software, including timing and power modeling, verification of computing systems on all levels of abstraction, system-level design and verification for embedded systems, cyber-physical systems, automotive systems and other safety-critical systems, hardware-software co-design and verification, and transaction-level verification.
+* Experience with the application of formal and semi-formal methods to industrial-scale designs; tools that represent formal verification enablement, new features, or a substantial improvement in the automation of formal methods.
+* Application of formal methods to verifying safety, connectivity and security properties of networks, distributed systems, smart contracts, block chains, and IoT devices.
+
+
+SUBMISSIONS
+
+Submissions must be made electronically in PDF format via EasyChair:  https://easychair.org/my/conference/?conf=fmcad21Two categories of papers are invited: Regular papers, and Tool & Case Study papers. Regular papers are expected to offer novel foundational ideas, theoretical results, or algorithmic improvements to existing methods, along with experimental impact validation where applicable. Tool & Case Study papers are expected to report on the design, implementation or use of verification (or related) technology in a practically relevant context (which need not be industrial), and its impact on design processes.
+
+Both Regular and Tool & Case study papers must use the IEEE Transactions format on letter-size paper with a 10-point font size. Papers in both categories can be either 8 pages (long) or 4 pages (short) in length not including references. Short papers that describe emerging results, practical experiences, or original ideas that can be described succinctly are encouraged. Authors will be required to select an appropriate paper category at abstract submission time. Submissions may contain an optional appendix, which will not appear in the final version of the paper. The reviewers should be able to assess the quality and the relevance of the results in the paper without reading the appendix.
+
+Submissions in both categories must contain original research that has not been previously published, nor is concurrently submitted for publication. Any partial overlap with published or concurrently submitted papers must be clearly indicated. If experimental results are reported, authors are strongly encouraged to provide the reviewers access to their data at submission time, so that results can be independently verified. The review process is single blind.
+
+Authors of accepted contributions will be required to sign the FMCAD copyright transfer form found here: https://fmcad.or.at/pdf/copyright.pdf.
+
+
+STUDENT FORUM
+
+Continuing the tradition of the previous years, FMCAD 2021 is hosting a Student Forum that provides a platform for graduate students at any career stage to introduce their research to the wider Formal Methods community, and solicit feedback.Submissions for the event must be short reports describing research ideas or ongoing work that the student is currently pursuing, and must be within the scope of FMCAD. Work, part of which has been previously published, will be considered; the novel aspect to be addressed in future work must be clearly described in such cases. All submissions will be reviewed by a select group of FMCAD program committee members.
+
+
+PROGRAM CHAIRS:
+
+Ruzica Piskac, Yale UniversityMichael Whalen, Amazon, Inc. and the University of Minnesota
+
+
+PC:
+
+Erika Abraham, RWTH Aachen UniversityJade Alglave, University College London
+Pranav Ashar, Real Intent
+Per Bjesse, Synopsys Inc.
+Roderick Bloem, Graz University of Technology
+Ivana Cerna, Masaryk University
+Supratik Chakraborty, IIT Bombay
+Sylvain Conchon, Universite Paris-Sud
+Leonardo de Moura, Microsoft
+Rayna Dimitrova, CISPA Helmholtz Center for Information Security
+Grigory Fedyukovich, Florida State University
+Arie Gurfinkel, University of Waterloo
+Liana Hadarean, Amazon Web Services, Inc.
+Ziyad Hanna, Cadence Design Systems
+Fei He, Tsinghua University
+Marijn Heule, Carnegie Mellon University
+Warren Hunt, The University of Texas at Austin
+Alexander Ivrii, IBM
+Dejan Jovanović, SRI International
+Alan Jovic, University of Zagreb
+Laura Kovacs, Vienna University of Technology
+Ton Chanh Le, Stevens Institute of Technology
+Rebekah Leslie-Hurd, Intel
+Kuldeep Meel, National University of Singapore
+Elizabeth Polgreen, University of California, Berkeley
+Andrew Reynolds, University of Iowa
+Cristoph Scholl, University of Freiburg
+Natasha Sharygina, Università della Svizzera italiana (USI Lugano, Switzerland)
+Anna Slobodova, Centaur Technology
+Christoph Sticksel, The Mathworks
+Murali Talupur, Amazon Web Services, Inc.
+Jean-Baptiste Tristram, Boston College
+Yakir Vizel, Technion
+Thomas Wahl, Northeastern University
+Georg Weissenbacher, Vienna University of Technology
+Thomas Wies, New York University
+Valentin Wüstholz, ConsenSys
+Lenore Zuck, University of Illinois in Chicago
+
+ 
+STUDENT FORUM CHAIR: Mark Santolucito, Barnard College
+PUBLICATION CHAIR: Georg Weissenbacher, TU Wien
+SPONSORSHIP CHAIR: Daniel Schoepe, Amazon Web Services, Inc.
+
+
+FMCAD STEERING COMMITTEE:
+
+Clark Barrett, Stanford University, CA, USAArmin Biere, Johannes Kepler University in Linz, Austria
+Georg Weissenbacher, TU Vienna, Austria

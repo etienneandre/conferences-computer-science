@@ -1,0 +1,288 @@
+NFM 2022  - FIRST CALL FOR PAPERS
+The 14th NASA Formal Methods Symposium
+
+https://shemesh.larc.nasa.gov/nfm2022/
+
+May 24-27, 2022
+
+Pasadena, California, USA
+
+The symposium is planned to be held in person at California Institute of
+Technology, but potentially transitioning to fully virtual if the COVID
+situation persists. Virtual presentations will be possible even if the
+conference is held in-person.
+The symposium has NO registration fee for presenting and attending.
+
+IMPORTANT DATES
+Abstract Submission: December 3, 2021
+Paper Submission: December 10, 2021
+Paper Notifications: February 4, 2022
+Camera-ready Papers: March 4, 2022
+Symposium: May 24-27, 2022
+
+THEME OF SYMPOSIUM
+The widespread use and increasing complexity of mission-critical and
+safety-critical systems at NASA and in the aerospace industry requires
+advanced techniques that address these systems' specification, design,
+verification, validation, and certification requirements. The NASA Formal
+Methods Symposium (NFM) is a forum to foster collaboration between
+theoreticians and practitioners from NASA, academia, and industry. NFM's
+goals are to identify challenges and to provide solutions for achieving
+assurance for such critical systems. The focus of the symposium will be on
+formal/rigorous techniques for software assurance, including their theory,
+current capabilities and limitations, as well as their potential
+application to aerospace during all stages of the software life-cycle.
+The NASA Formal Methods Symposium is an annual event organized by the NASA
+Formal Methods (NFM) Research Group, composed of researchers spanning six
+NASA centers. The organization of NFM 2022 is being led by the Jet
+Propulsion Laboratory (JPL), located in Pasadena, California.
+
+TOPICS ON INTEREST
+Topics of interest include, but are not limited to, the following aspects
+of formal methods:
+Advances in formal methods
+
+   -
+   Interactive and automated theorem proving
+   -
+   SMT and SAT solving
+   -
+   Model checking
+   -
+   Static analysis
+   -
+   Runtime verification
+   -
+   Automated testing
+   -
+   Specification languages, textual and graphical
+   -
+   Refinement
+   -
+   Code synthesis
+   -
+   Design for verification and correct-by-design techniques
+   -
+   Requirements specification and analysis
+
+Integration of formal methods techniques
+
+   -
+   Integration of diverse formal methods techniques
+   -
+   Use of machine learning and probabilistic reasoning techniques in formal
+   methods
+   -
+   Integration of formal methods into software engineering practices
+   -
+   Combination of formal methods with simulation and analysis techniques
+   -
+   Formal methods and fault tolerance, resilient computing, and self
+   healing systems
+   -
+   Formal methods and graphical modeling languages such as SysML, UML,
+   MATLAB/Simulink
+   -
+   Formal methods and autonomy, e.g., verification of systems and languages
+   for planning and scheduling (PDDL, Plexil, etc.), self-sufficient systems,
+   and fault-tolerant systems.
+
+Formal methods in practice
+
+   -
+   Experience reports of application of formal methods on real systems,
+   such as autonomous systems, safety-critical systems, concurrent and
+   distributed systems, cyber-physical, embedded, and hybrid systems,
+   fault-detection, diagnostics, and prognostics systems, and human-machine
+   interaction analysis.
+   -
+   Use of formal methods in systems engineering (including hardware
+   components)
+   -
+   Use of formal methods in education
+   -
+   Reports on negative results in the development and the application for
+   formal methods in practice.
+   -
+   Usability of formal method tools, and their infusion into industrial
+   contexts.
+   -
+   Challenge problems for future reference by the formal methods community.
+   The formulation of these papers can range from plain English description of
+   a problem over formal specifications, to specific implementations in a
+   programming language.
+
+NASA OPEN SOURCE
+Courageous authors, who want to delve in open source software being applied
+in real NASA missions, and find possible connections to and applications of
+Formal Methods, are invited to visit the open source repositories for the
+following two frameworks for programming flight software: F’ (
+https://nasa.github.io/fprime/) and cFS (https://cfs.gsfc.nasa.gov/).
+SUBMISSIONS
+There are two categories of submissions:
+
+   1.
+   Regular papers describing fully developed work and complete results
+   (maximum 15 pages, excluding references);
+
+   1.
+   Short papers on tools, experience reports, or work in progress with
+   preliminary results (maximum 6 pages, excluding references).
+
+Additional appendices can be submitted as supplementary material for
+reviewing purposes. They will not be included in the proceedings.
+All papers must be in English and describe original work that has not been
+published. All submissions will be reviewed by at least three members of
+the Program Committee.
+We encourage authors to focus on readability of their submissions.
+Papers will appear in the Formal Methods subline of Springer's Lecture
+Notes in Computer Science (LNCS) and must use LNCS style formatting (
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Papers must be submitted in PDF format at the EasyChair submission site:
+            https://easychair.org/conferences/?conf=nfm2022.
+Authors of selected best papers will be invited to submit an extended
+version to a special issue in Springer's Innovations in Systems and
+Software Engineering: A NASA Journal (https://www.springer.com/journal/11334
+).
+ARTIFACTS
+Authors are encouraged, but not strictly required, to submit artifacts that
+support the conclusions of their work (if allowed by their institutions).
+Artifacts may contain software, mechanized proofs, benchmarks, examples,
+case studies and data sets. Artifacts will be evaluated by the Program
+Committee together with the paper.
+ORGANIZERS
+PC chairs
+
+   -
+   Klaus Havelund, JPL, USA
+   -
+   Jyo Deshmukh, USC, USA
+   -
+   Ivan Perez, NIA, USA
+
+Application Advisors
+
+   -
+   Robert Bocchino, JPL, USA
+   -
+   John Day, JPL, USA
+   -
+   Maged Elasaar, JPL, USA
+   -
+   Amalaye Oyake, Blue Origin, USA
+   -
+   Nicolas Rouquette, JPL, USA
+   -
+   Vandi Verma, JPL, USA
+
+Application advisors advise the PC chairs to ensure a strong connection to
+the problems facing NASA.
+Local Organizers
+
+   -
+   Richard Murray, Caltech, USA
+   -
+   Monica Nolasco, Caltech, USA
+
+Program Committee
+
+   -
+   Aaron Dutle, NASA, USA
+   -
+   Alessandro Cimatti, Fondazione Bruno Kessler, Italy
+   -
+   Anastasia Mavridou, SGT Inc. / NASA Ames Research Center, USA
+   -
+   Anne-Kathrin Schmuck, Max-Planck-Institute for Software Systems, Germany
+   -
+   Arie Gurfinkel, University of Waterloo, Canada
+   -
+   Bardh Hoxha, Toyota Research Institute North America, USA
+   -
+   Bernd Finkbeiner, CISPA Helmholtz Center for Information Security,
+   Germany
+   -
+   Betty H.C. Cheng, Michigan State University, USA
+   -
+   Borzoo Bonakdarpour, Michigan State University, USA
+   -
+   Carolyn Talcott, SRI International, USA
+   -
+   Chuchu Fan, MIT, USA
+   -
+   Constance Heitmeyer, Naval Research Laboratory, USA
+   -
+   Corina Pasareanu, CMU, NASA, KBR, USA
+   -
+   Cristina Seceleanu, Mälardalen University, Sweden
+   -
+   Dejan Nickovic, Austrian Institute of Technology AIT, Austria
+   -
+   Dirk Beyer, LMU Munich, Germany
+   -
+   Doron Peled, Bar Ilan University, Israel
+   -
+   Erika Abraham, RWTH Aachen University, Germany
+   -
+   Ewen Denney, NASA, USA
+   -
+   Gerard Holzmann, Nimble Research, USA
+   -
+   Giles Reger, The University of Manchester, UK
+   -
+   Huafeng Yu, TOYOTA InfoTechnology Center USA, USA
+   -
+   Jean-Christophe Filliatre, CNRS, France
+   -
+   Johann Schumann, NASA, USA
+   -
+   John Day, Jet Propulsion Laboratory, USA
+   -
+   Julia Badger, NASA, USA
+   -
+   Julien Signoles, CEA LIST, France
+   -
+   Kerianne Hobbs, Air Force Research Laboratory, USA
+   -
+   Kristin Yvonne Rozier, Iowa State University, USA
+   -
+   Leonardo Mariani, University of Milano Bicocca, Italy
+   -
+   Lu Feng, University of Virginia, USA
+   -
+   Marcel Verhoef, European Space Agency, The Netherlands
+   -
+   Marie Farrell, Maynooth University, Ireland
+   -
+   Marieke Huisman, University of Twente, The Netherlands
+   -
+   Marielle Stoelinga, University of Twente, The Netherlands
+   -
+   Martin Feather, Jet Propulsion Laboratory, USA
+   -
+   Martin Leucker, University of Luebeck, Germany
+   -
+   Michael Lowry, NASA, USA
+   -
+   Misty Davies, NASA, USA
+   -
+   Natasha Neogi, NASA, USA
+   -
+   Nicolas Rouquette, Jet Propulsion Laboratory, USA
+   -
+   Nikos Arechiga, Toyota Research Institute, USA
+   -
+   Rajeev Joshi, Amazon Web Services, USA
+   -
+   Stanley Bak, Stony Brook University, USA
+   -
+   Sylvie Boldo, INRIA, France
+   -
+   Vandi Verma, NASA, USA
+   -
+   Willem Visser, Amazon Web Services, USA
+
+CONTACT
+Email: nfm2022 [at] easychair [dot] org
+LAST UPDATE
+2021-09-20

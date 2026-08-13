@@ -18,3 +18,15 @@ license = "free"
 
 [extra]
 notes = "co-located with CPS-IoT Week."
+
+[[cfp]]
+file = "cfp/SNR-2020.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SNR-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SNR-2020-extended.txt"
+stage = "extended"

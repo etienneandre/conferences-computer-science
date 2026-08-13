@@ -24,3 +24,11 @@ rate = 35.0
 
 [extra]
 notes = "Optional abstract submission deadline. The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Often in China."
+
+[[cfp]]
+file = "cfp/TASE-2020-extended.pdf"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/TASE-2020-extended.txt"
+stage = "extended"

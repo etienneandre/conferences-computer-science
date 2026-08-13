@@ -19,3 +19,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Satellite event of HEALTHINF / BIOSTEC. a selection of the best accepted papers related to the applications of Computational Intelligence / Soft Computing / Artificial Intelligence topics, suitably revised and extended, will be eligible for fast-track publication in Applied Soft Computing journal by Elsevier (Impact Factor 3.541)."
+
+[[cfp]]
+file = "cfp/AI4health-2018.txt"
+stage = "initial"

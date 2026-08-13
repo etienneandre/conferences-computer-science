@@ -1,0 +1,129 @@
+[Please accept our apologies for duplicates]
+
+=====================================================
+Call for Papers
+
+15th International Conference on Tests And Proofs
+TAP 2021 Bergen (Norway), June 21-25, 2021
+https://www.univ-orleans.fr/lifo/events/TAP2021
+
+Part of STAF 2021
+=====================================================
+
+Important Dates
+---------------
+
+Full Paper:             January 31, 2021
+Notification:           March 15, 2021
+Camera-Ready Version:   April 18, 2021
+Conference:             June 21-25, 2021
+
+
+Aim and Scope
+-------------
+
+The TAP conference promotes research in verification and formal
+methods that targets the interplay of proofs and testing: the
+advancement of techniques of each kind and their combination, with the
+ultimate goal of improving software and system dependability.
+
+Research in verification has seen a steady convergence of
+heterogeneous techniques and a synergy between the traditionally
+distinct areas of testing (and dynamic analysis) and of proving (and
+static analysis). Formal techniques for counter-example generation
+based on, for example, symbolic execution, SAT/SMT-solving or model
+checking, furnish evidence for the potential of a combination of test
+and proof. The combination of predicate abstraction with testing-like
+techniques based on exhaustive enumeration opens the perspective for
+novel techniques of proving correctness. On the practical side,
+testing offers cost-effective debugging techniques of specifications
+or crucial parts of program proofs (such as invariants).  Last but not
+least, testing is indispensable when it comes to the validation of the
+underlying assumptions of complex system models involving hardware
+and/or system environments. Over the years, there is growing
+acceptance in research communities that testing and proving are
+complementary rather than mutually exclusive techniques.
+
+The TAP conference aims to promote research in the intersection of
+testing and proving by bringing together researchers and practitioners
+from both areas of verification.
+
+
+Topics of Interest
+------------------
+
+TAP's scope encompasses many aspects of verification technology,
+including foundational work, tool development, and empirical
+research. Its topics of interest center around the connection between
+proofs (and other static techniques) and testing (and other dynamic
+techniques). Papers are solicited on, but not limited to, the
+following topics:
+
+- Verification and analysis techniques combining proofs and tests
+- Program proving with the aid of testing techniques
+- Deductive techniques supporting the automated generation of test vectors
+  and oracles (theorem proving, model checking, symbolic execution, SAT/SMT
+  solving, constraint logic programming, etc.)
+- Deductive techniques supporting novel definitions of coverage criteria,
+- Program analysis techniques combining static and dynamic analysis
+- Specification inference by deductive and dynamic methods
+- Testing and runtime analysis of formal specifications
+- Search-based technics for proving and testing
+- Verification of verification tools and environments
+- Applications of test and proof techniques in new domains,
+  such as security, configuration management, learning
+- Combined approaches of test and proof in the context of formal
+  certifications (Common Criteria, CENELEC, …)
+- Case studies, tool and framework descriptions, and experience
+  reports about combining tests and proofs
+
+
+Submission Instructions
+-----------------------
+
+TAP 2021 accepts papers of four kinds:
+
+- Regular research papers: full submissions describing original
+  research, of up to 16 pages (excluding references).
+
+- Tool demonstration papers: submissions describing the design and
+  implementation of an analysis/verification tool or framework, of up
+  to 8 pages (excluding references). The tool/framework described in a
+  tool demonstration paper should be available for public use.
+
+- Short papers: submissions describing preliminary findings, proofs of
+  concepts, and exploratory studies, of up to 6 pages (excluding
+  references).
+
+- Journal-first extended abstracts, of up to 4 pages, summarizing
+  recently published articles in high-quality journals. The aim of
+  journal-first papers is to further enrich the program of TAP, as
+  well as to provide an more flexible path to dissemination of results
+  in the field. The summarized journal article should have been
+  published (or accepted) by 1 July 2020 or later, and report new
+  results (as opposed as simply extending prior conference work with
+  'appendix' material, or minor enhancements). Journal-first
+  submissions must be marked as such in the submission’s title, and
+  must explicitly include full bibliographic details (including a DOI)
+  of the journal publication they are based on.
+
+Accepted submissions will be published in Springer's LNCS
+series. Papers have to adhere to Springer's LNCS format and must be
+submitted in PDF format at the EasyChair submission site:
+
+https://easychair.org/conferences/?conf=tap2021
+
+
+Committees
+----------
+
+Information about all committees can be found under
+https://www.univ-orleans.fr/lifo/events/TAP2021
+
+Program Chairs :
+Frederic Loulergue (University of Orleans, France)
+Franz Wotawa (Graz University of Technology, Austria)
+
+Contact
+-------
+tap2021@easychair.org

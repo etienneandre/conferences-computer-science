@@ -1,0 +1,126 @@
+ICTAC 2022 - Call for Papers.
+
+Taking into account the coronavirus pandemic and the war in Ukraine,
+the conference will be organized as a hybrid event.
+
+***************************************************************************
+The 19th International Colloquium on
+Theoretical Aspects of Computing (ICTAC)
+Held in Tbilisi, Georgia, September 27-29, 2022
+https://viam.science.tsu.ge/clas2022/ictac/
+
+
+Part of Computational Logic Autumn Summit (CLAS 2022)
+https://viam.science.tsu.ge/clas2022
+*****************************************************************************
+
+
+Overview
+
+The ICTAC conference series aims at bringing together researchers and
+practitioners from academia, industry and government to present research
+and exchange ideas and experience addressing challenges in both theoretical
+aspects of computing and the exploitation of theory through methods and
+tools for system development. ICTAC also aims to promote research
+cooperation between developing and industrial countries.
+
+The conference concerns all aspects of theoretical computer science,
+including, but not limited to:
+
+Languages and automata
+Semantics of programming languages
+Logic in computer science
+Lambda calculus, type theory and category theory
+Domain-specific languages
+Theories of concurrency and mobility
+Theories of distributed computing
+Models of objects and components
+Coordination models
+Timed, hybrid, embedded and cyber-physical systems
+Security and privacy
+Static analysis
+Probabilistic and statistical verification
+Software verification
+Software testing
+Runtime verification
+Program generation and transformation
+Model checking and theorem proving
+Applications and case studies
+AI-enabled software development
+Theory and methods of trustworthy AI
+
+Important Dates
+
+Abstract submission: May 21, 2022
+Paper Submission: May 28, 2022
+Notification: July 24, 2022
+
+Publication
+
+We solicit submissions, related to the topics of ICTAC, in the following
+categories:
+original research contributions (16 pages max, excluding references);
+applications and experiences (16 pages max, excluding references);
+short papers, with original work in progress or with proposals of new ideas
+and emerging challenges (6 pages max, excluding references); and
+tool papers (6 pages max, excluding references).
+
+All submissions must be original, unpublished, and not submitted
+concurrently for publication elsewhere. Paper submission is done via
+EasyChair at https://easychair.org/conferences/?conf=ictac2022. Papers must
+be formatted according to the guidelines for Springer LNCS papers (see
+http://www.springer.com/lncs), without modifications of margins and other
+space-saving measures. Authors should therefore consult Springerâ€™s
+authorsâ€™ instructions and use their proceedings templates, either for
+LaTeX or for Word, for the preparation of their papers. Springer encourages
+authors to include their ORCIDs in their papers.
+
+All accepted papers in categories A-D will appear in the proceedings of the
+conference that will be published as a volume in Springer's Lecture Notes
+in Computer Science (LNCS) series.
+
+Conference Chairs
+
+Besik Dundua, Kutaisi International University, and Tbilisi State
+University, Georgia
+Mikheil Rukhaia, Tbilisi State University, Georgia
+
+PC Chairs
+
+Zhiming Liu, Southwest University in Chongqing, China
+Corina Pasareanu, NASA Ames Research Center, USA
+Helmut Seidl, Technical University of Munich, Germany
+
+PC Members
+
+Luis Barbosa, University of Minho, Portugal
+Lei Bu, Nanjing University, China
+Zhenbang Chen, National University of Defense Technology, Changsha, China
+Yunwei Dong, Northwestern Polytechnical University, China
+Deepak D'Souza, Indian Institute of Science, Bangalore, India
+Maribel Fernandez, King's College London, UK
+Simon Foster, University of York, UK
+Fei He, Tsinghua University, China
+Joost-Pieter Katoen, RWTH Aachen University, German
+Johannes Kinder, Bundeswehr University Munich, Germany
+Peter Lammich, University of Twente, The Netherlands
+Guoqiang Li, Shanghai Jiao Tong University, China
+Yannic Noller, National University of Singapore
+Colin Paterson, University of York, UK
+Martina Seidl, Johannes Kepler University Linz, Austria
+Vaibhav Sharma, University of Minnesota, USA
+Volker Stolz, Høgskulen på Vestlandet, Norway
+Youcheng Sun, Queen's University Belfast, UK
+Caterina Urban, INRIA, France
+Heike Wehrheim, Paderborn University, Germany
+Naijun Zhan, Institute of Software, Chinese Academy of Sciences, China
+Miaomiao Zhang, Tongji University, China
+
+Steering Committee
+
+Martin Leucker (Chair), University of Lübeck, Germany
+Zhiming Liu, Southwest University, China
+Tobias Nipkow, Technical University of Munich, Germany
+Augusto Sampaio, Universidade Federal de Pernambuco, Brazil
+Natarajan Shankar, SRI, USA
+Tarmo Uustalu, Tallinn University of Technology, Estonia

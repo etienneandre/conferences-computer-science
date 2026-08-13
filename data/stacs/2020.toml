@@ -20,3 +20,7 @@ license = "cc-by-nd"
 
 [extra]
 notes = "Rebuttal period: Nov 26-29, 2019. PC members are excluded from submitting."
+
+[[cfp]]
+file = "cfp/STACS-2020.txt"
+stage = "initial"

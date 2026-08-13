@@ -1,0 +1,143 @@
+
+	International Workshop on Petri Nets and Software Engineering
+	PNSE’20, Paris, France, June 22-23, 2020
+    	http://www.informatik.uni-logi.de/TGI/events/pnse/
+
+
+           PNSE’20 is a satellite event of PETRI NETS’20 
+ 	https://lipn.univ-paris13.fr/petrinets2020/
+
+
+
+                                   Scope
+
+For the successful realisation of complex systems of interacting and
+reactive software and hardware components the use of a precise language at
+different stages of the development process is of crucial importance.
+
+Petri nets are becoming increasingly popular in this area, as they provide
+a uniform language supporting the tasks of modelling, validation, and
+verification. 
+
+We welcome contributions describing original research in topics related to
+Petri nets in combination with software engineering, addressing open problems
+or presenting new ideas regarding the relation of Petri nets and software
+engineering. Furthermore, we look for surveys addressing open problems and new
+applications of Petri nets and for Petri nets.
+
+
+
+                             Important Dates:
+
+Submission of Abstracts (optional):	March	9th,	2020
+Deadline for submission of papers:	March	16th,	2020
+Deadline for submission of posters:	April	24th,	2020
+
+Notification of paper acceptance:	April	20th,	2020
+Notification of poster acceptance:	April	27th,	2020
+Deadline for final revisions:		April	30th,	2020
+
+         
+
+
+                                   Topics
+
+Topics of interest include but are not limited to:
+
+ Software Engineering
+   agile development
+   product lines
+   software in business contexts
+   software development and production environments; DevOps; IDEs; continuous integration
+   programming and concurrency
+   technologies: hadoop / MapReduce; akka, Spark; Flink; STORM etc.
+   distributed database technology: redis; cassandra; CouchDB; mongoDB etc.
+   concepts for mobility, concurrency, non-determinism, distribution, embedding, flexibility
+   social concepts for norms, rules, contracts, communication, co-ordination, co-operation
+   software engineering addressing Petri nets, UML techniques, BPMN, BPEL, eEPCs, CMMN and other modelling techniques
+ 
+Modelling
+   representation of formal models by intuitive modelling concepts
+   guidelines for the construction of system models
+   representative examples
+   process-, service-, state-, event-, component-, organisation-, object-, agent- and actor-oriented approaches
+   adaption, integration, and enhancement of concepts from other disciplines
+   views and abstractions of systems
+   meta-modelling and domain specific languages (DSLs)
+   model-driven architecture
+   modelling software landscapes
+   web service-based software development
+ 
+Validation and Execution
+   prototyping
+   simulation, observation, animation
+   code generation and execution
+   testing and debugging
+   efficient implementation
+ 
+Verification
+   structural methods (e.g. place invariants, reduction rules)
+   results for structural subclasses of nets
+   relations between structure and behaviour
+   state space based approaches
+   efficient model checking
+   assertional and deductive methods (e.g. temporal logics)
+   process algebraic methods
+   model and graph transformation
+   applications of category theory, rewriting logic and linear logic
+
+ Application of Petri nets and Software Engineering, in particular in the domains of …
+   education, training and teaching at any level,
+   flexible manufacturing,
+   logistics,
+   telecommunication,
+   big data,
+   cyber-physical systems,
+   internet-of-things,
+   grid and cloud computing,
+   distributed systems,
+   workflow management and
+   embedded systems.
+
+ Tools in the fields mentioned above
+
+
+
+                              Submissions
+
+The program committee invites submissions of full contributions (15 up to 20 pages) 
+or short contributions (5 up to 8 pages). 
+Ongoing work (up to 2 pages) can also be presented in a special poster session.
+
+Papers should be submitted in electronic form (PDF) using the Springer LNCS-format
+(see http://www.springer.de/comp/lncs/authors.html).  Submissions should include title, 
+authors' addresses, E-mail addresses, keywords and an abstract. 
+
+For your submission in PDF format please use the online conference management system at
+
+	https://easychair.org/conferences/?conf=pnse20
+
+The papers will be peer reviewed by at least three members of the PC. Accepted
+contributions will be included in the workshop proceedings, which will be available
+at the workshop and published online.
+
+The best papers from the workshop will be invited for publication in a volume of the 
+journal sub-line of Lecture Notes in Computer Science entitled "Transactions on 
+Petri Nets and Other Models of Concurrency" (ToPNoC). The papers are expected 
+to be thoroughly revised and they will go through a totally new round of reviewing 
+as is standard practice for journal papers.
+
+
+
+
+			PC Chairs
+
+Ekkart Kindler, Technical University of Denmark, Denmark
+Michael Köhler-Bußmeier, University of Applied Science Hamburg, Germany
+Heiko Rölke, FH Graubünden, Austria
+
+
+In case of any problems please contact us by email at
+
+	pnse20@easychair.org
+

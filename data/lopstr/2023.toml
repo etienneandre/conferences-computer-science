@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "A best paper award will be granted, which will include a 500€ prize provided by Springer. After the symposium, a selection of the best papers will be invited for submission to a special issue of the Theory and Practice of Logic Programming (TPLP)."
+
+[[cfp]]
+file = "cfp/LOPSTR-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/LOPSTR-2023-extended.txt"
+stage = "extended"

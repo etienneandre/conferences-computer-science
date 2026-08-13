@@ -1,0 +1,68 @@
+CALL FOR PAPERS
+
+ 33rd International Conference on Real-Time Networks and Systems
+
+5-7 November 2025, PISA, Italy
+
+https://rtns2025.retis.santannapisa.it/
+
+Highlights:
+
+    Change of publisher: proceedings published through Springer LNCS
+
+    Submissions: Switch to double blind policy
+
+    Submissions: 3-round model with major revisions (see below)
+
+    Conference venue:  Campus of Scuola Superiore Sant’Anna, Pisa, Italy
+
+
+The 33rd International Conference on Real-Time Networks and Systems (RTNS) will be hosted in the vibrant city of Pisa, Italy, 5-7 November 2025.
+
+RTNS is a friendly and inclusive conference that encourages submissions of both theoretical and experimental work, covering a wide range of topics in real-time and embedded systems, including, but not limited to:
+
+    Formal specification and verification
+
+    Hardware support for real-time systems
+
+    Real-time applications design and evaluation
+
+    Real-time aspects of emerging smart systems
+
+    Real-time distributed systems
+
+    Real-time networks
+
+    Real-time system design and analysis
+
+    Software technologies for real-time systems
+
+
+Guidelines:
+
+    Papers should be submitted as a PDF, following double blind review guidelines, using the LNCS paper style, respecting a page limit of 20 pages of technical content (excluding the title page and references).
+
+    Three rounds of submissions to accommodate more high-quality research in January (closed), May, and August.
+
+
+RTNS 2nd Round
+
+    Submission Deadline: May 29, 2025
+
+    Notification: July 24, 2025
+
+    Camera ready: September 4, 2025
+
+
+RTNS 3rd Round
+
+    Submission Deadline: August 14, 2025
+
+    Notification: October 9, 2025
+
+    Camera ready: October 30, 2025
+
+
+    Authors of outstanding papers will be invited to submit an extended version of their work for a special issue of Springer Real-Time Systems journal.
+
+Submit your best work and join us in Pisa for an engaging and enlightening experience at RTNS 2025!

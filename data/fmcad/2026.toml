@@ -27,3 +27,7 @@ artifact = "FMCAD 2025 introduced optional artifact evaluation to enhance transp
 
 [extra]
 colocated = "co-located with VSTTE 2026, with shared tutorial and joint program elements"
+
+[[cfp]]
+file = "cfp/FMCAD-2026.txt"
+stage = "initial"

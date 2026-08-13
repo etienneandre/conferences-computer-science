@@ -1,0 +1,133 @@
+Subject: [FME Events] Call for papers: VSTTE 2023
+
+Call for papers: VSTTE 2023 (15th International Conference on Verified
+Software: Theories, Tools and Experiments)
+
+(Apologies for multiple copies)
+
+=== Overview
+
+The goal of the VSTTE conference series is to advance the state of the art
+in the science and technology of software verification, through the
+interaction of theory development, tool evolution, and experimental
+validation.
+
+The Verified Software Initiative (VSI), spearheaded by Tony Hoare and
+Jayadev Misra, is an ambitious research program for making large-scale
+verified software a practical reality. The International Conference on
+Verified Software: Theories, Tools and Experiments (VSTTE) is the main
+forum for advancing the initiative. VSTTE brings together experts spanning
+the spectrum of software verification in order to foster international
+collaboration on the critical research challenges. The theoretical work
+includes semantic foundations and logics for specification and
+verification, and verification algorithms and methodologies. The tools
+cover specification and annotation languages, program analyzers, model
+checkers, interactive verifiers and proof checkers, automated theorem
+provers and SAT/SMT solvers, and integrated verification environments. The
+experimental work drives the research agenda for theory and tools by taking
+on significant specification/verification exercises covering hardware,
+operating systems, compilers, computer security, parallel computing, and
+cyber-physical systems.
+
+The 2023 edition of VSTTE will be the 15th international conference in the
+series, and will be co-located with FMCAD 2023 in Ames, Iowa, USA.
+
+For details, see the VSTTE conference webpage at
+https://homepage.cs.uiowa.edu/~ajreynol/VSTTE2023/.
+
+=== Paper Submissions
+
+We welcome submissions describing significant advances in the production of
+verified software, i.e., software that has been proved to meet its
+functional specifications. Submissions of theoretical, practical, and
+experimental contributions are equally encouraged, including those that
+focus on specific problems or problem domains. We are especially interested
+in submissions describing large-scale verification efforts that involve
+collaboration, theory unification, tool integration, and formalized domain
+knowledge. We also welcome papers describing novel experiments and case
+studies evaluating verification techniques and technologies.
+
+Topics of interest for this conference include, but are not limited to,
+requirements modeling, specification languages,
+specification/verification/certification case studies, formal calculi,
+software design methods, automatic code generation, refinement
+methodologies, compositional analysis, verification tools (e.g., static
+analysis, dynamic analysis, model checking, theorem proving,
+satisfiability), tool integration, benchmarks, challenge problems, and
+integrated verification environments.
+
+VSTTE 2023 will accept both long (limited to 16 pages, excluding
+references) and short (limited to 10 pages, excluding references) paper
+submissions. Short submissions also cover Verification Pearls describing an
+elegant proof or proof technique. Submitted research papers and system
+descriptions must be original and not submitted for publication elsewhere.
+Submissions of theoretical, practical, and experimental contributions are
+equally encouraged, including those that focus on specific problems or
+problem domains.
+
+Papers will be submitted via EasyChair at the VSTTE 2023 conference page (
+https://easychair.org/conferences/?conf=vstte2023). Submissions that arrive
+late, are not in the proper format, or are too long will not be considered.
+The post-conference proceedings of VSTTE 2023 will be published as a LNCS
+volume by Springer-Verlag. Authors of accepted papers will be requested to
+sign a form transferring copyright of their contribution to
+Springer-Verlag. The use of LaTeX and the Springer LNCS class files is
+strongly encouraged.
+
+=== General Chair
+
+Supratik Chakraborty (IIT Bombay, India)
+
+=== Program Chairs
+
+Serdar Tasiran (Amazon Web Services, USA)
+Andrew Reynolds (University of Iowa, USA)
+
+=== Program Committee
+
+Ahmed Irfan (SRI International)
+Pierre-Loic Garoche (ENAC)
+Gennaro Parlato (University of Molise, Italy)
+Hiroshi Unno (University of Tsukuba)
+Yuepeng Wang (Simon Fraser University)
+Burcu Kulahcioglu Ozkan (Delft University of Technology)
+Christel Baier (TU Dresden)
+Constantin Enea (Ecole Polytechnique)
+Sergio Mover (Ecole Polytechnique)
+Haniel Barbosa (Universidade Federal de Minas Gerais)
+Supratik Chakraborty (IIT Bombay)
+Stefano Tonetta (FBK-irst)
+Kirsten Winter (The University of Queensland)
+Akash Lal (Microsoft)
+Roderick Bloem (Inst. for Applied Information Processing and
+Communications, TU Graz)
+Carlos Olarte (LIPN, Université Sorbonne Paris Nord)
+Borzoo Bonakdarpour (Michigan State University)
+Grigory Fedyukovich (Florida State University)
+Kristin Yvonne Rozier (Iowa State University)
+Pamela Zave (Princeton University)
+Yakir Vizel (The Technion)
+
+=== Invited Speakers
+
+Peter Mueller (ETH Zurich)
+Arie Gurfinkel (U Waterloo)
+
+=== Invited Tutorials
+
+VSTTE is jointly organized with FMCAD 2023. We will have two invited
+tutorials. The first, Mike Hicks (Amazon Web Services, USA), will give a
+two hour tutorial as part of the VSTTE program. The second, Robert Jones
+(Amazon Web Services, USA), will give a one hour tutorial as part of the
+FMCAD program.
+
+=== Important Dates
+
+Abstract submission: July 28, 2023 (AoE) (extended by one week)
+Paper submission: August 4, 2023 (AoE) (extended by one week)
+Notification of presentation acceptance: September 4, 2023 (AoE)
+Final pre-conference paper submission: October 9, 2023 (AoE)
+Conference: October 23, 2023
+Notification of proceedings acceptance: October 27, 2023 (AoE)
+Camera-ready for post-conference proceedings: November 27, 2023 (AoE)
+

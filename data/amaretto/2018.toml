@@ -18,3 +18,11 @@ publisher = "SCITEPRESS Digital Library"
 
 [extra]
 notes = "Double-blind. Satellite of MODELSWARD."
+
+[[cfp]]
+file = "cfp/AMARETTO-2018.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/AMARETTO-2018.txt"
+stage = "initial"

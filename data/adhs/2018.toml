@@ -26,3 +26,11 @@ submitted = 72
 
 [extra]
 notes = "Every 3 years."
+
+[[cfp]]
+file = "cfp/ADHS-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ADHS-2018-extended.txt"
+stage = "extended"

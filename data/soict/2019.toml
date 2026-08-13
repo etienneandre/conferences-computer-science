@@ -19,3 +19,7 @@ license = "acm"
 
 [extra]
 notes = "Extended versions of the selected best papers in SoICT 2017 will be invited for submission to Journal of Heuristics (IF: 1.34), but will be reviewed again."
+
+[[cfp]]
+file = "cfp/SoICT-2019.txt"
+stage = "initial"

@@ -16,3 +16,7 @@ notification = [2025-05-30]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/Sensei-2025.txt"
+stage = "initial"

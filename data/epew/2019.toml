@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Best papers will be invited to submit their extended work to the Special Issue “Queue and Stochastic Models for Operations Research” of the Mathematics journal."
+
+[[cfp]]
+file = "cfp/EPEW-2019.txt"
+stage = "initial"

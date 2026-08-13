@@ -1,0 +1,78 @@
+# Call for papers: Petri Nets 2024
+===================================
+
+PETRI NETS 2024
+45th International Conference on Application and Theory of Petri Nets and Concurrency
+
+Geneva, Switzerland, June 24-28, 2024
+
+http://conf-2024.petrinet.net
+
+====================================================================
+
+Two kinds of papers can be submitted:
+
+* Regular papers (max. 20 pages excluding references) describing original results pertaining to the development of the
+theory of Petri nets and distributed and concurrent systems in general, new results extending the applicability of Petri nets,
+or case studies, application and experience reports pertinent to the practical use of Petri nets and concurrency.
+
+* Tool papers (max. 10 pages excluding references) describing a computer tool based on Petri nets (not an application of
+the tool or the theory behind the tool). The tool should be available for use by other groups (but not necessarily for free). The
+submission should indicate how the reviewers can get access to the tool (this must be for free). The tool will be demonstrated
+in the Tool Exhibition, in addition to being presented in a conference talk.
+
+Submitted papers must:
+* be contributions that have not been published or submitted to other conferences/journals before or in parallel with this conference.
+* clearly state the problem being addressed, the goal of the work, the results achieved, and the relation to other work.
+* be in English and in the Springer LNCS-format: https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines.
+* adhere to the page limit for the relevant category (see above).
+* be sent electronically (as a PDF file) using the website
+http://easychair.org/conferences/?conf=petrinets2024  before the deadline.
+
+The title page must:
+* contain a short abstract and a classification of the topics covered, preferably using the list of topics above.
+* clearly indicate whether the paper is submitted as a regular paper or tool paper.
+
+Submissions violating the above requirements may be immediately rejected by the PC Chairs.
+
+Important Dates:
+-----------------------------------------------------------
+Abstract submission:   January 15, 2024
+Paper submission:      January 22, 2024
+Notification:          March 8, 2024
+Final version due:     March 22, 2024
+Workshops & tutorials: June 24-25, 2024
+Main conference:       June 26-28, 2024
+
+All accepted papers will be considered for an Outstanding Paper award. Authors of selected papers presented at the conference
+will be invited to submit an extended version that will be further reviewed for inclusion into a special issue of a renowned journal.
+
+General topics of interest related to concurrency
+- Application of concurrency to system design: formal models for designing computer systems with concurrent behaviour;
+applied research aimed at designing computer systems which exhibit concurrency
+- Model checking and verification of distributed systems
+- Verification of infinite-state or parametric systems
+- Causality/partial order theory of concurrency
+- Educational issues related to concurrency
+- New developments in the theory of concurrency
+- Modelling of hardware and biological systems
+
+Topics specific to Petri Nets
+- Analysis and synthesis, structure and behaviour of nets
+- System design and model-driven development using nets
+- Relationships between Petri nets and other approaches
+- Net-based semantical, logical and algebraic calculi
+- Higher-level net models (coloured nets, timed nets, etc.)
+- Stochastic net models
+- Verification and model checking using nets
+- Process discovery and conformance checking
+- Computer tools for nets
+- Standardisation of nets
+- Experience reports describing applications of nets to different kinds of systems and application domains
+
+PC chairs:
+
+- Lars Michael Kristensen (Western Norway University of Applied Sciences)
+- Jan Martijn van der Werf (Utrecht University)
+
+Contact PC chairs: pn2024-PC-chairs@petrinet.net<mailto:pn2024-PC-chairs@petrinet.net>

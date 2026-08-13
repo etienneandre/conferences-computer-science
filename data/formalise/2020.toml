@@ -20,3 +20,11 @@ license = "acm"
 
 [extra]
 notes = "Held in conjunction with ICSE."
+
+[[cfp]]
+file = "cfp/FORMALISE-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORMALISE-2020-extended.txt"
+stage = "extended"

@@ -1,0 +1,79 @@
+Call for Submissions
+————————————————
+The 12th International Workshop on 
+Numerical Software Verification co-located with CAV,&n bsp;
+13-14 July 2019, New York, NY, USA
+http://nsv19.mpi-sws.org/
+
+Important Dates:
+
+Submission deadline:          24 April 2019
+Notification of acceptance:  22 May 2019
+Final version:                     29 May 2019
+Wor kshop:                        13-14 July 2019
+
+SCOPE:
+—————————————————
+Numerical computations are ubiquitous in digital systems: supervision, prediction, simulation and signal processing rely heavily on numerical calculus to achieve desired goals. Design and verification of numerical algorithms has a unique set of challenges, which set it apart from rest of software verification. To achieve the verification and validation of global properties, numerical techniques need to precisely represent local behaviors of each component. The implementation of numerical techniques on modern hardware adds another layer of approximation because of the use of finite representations of infinite precision numbers that usually lack basic arithmetic properties such as commutativity and associativity. Finally, the development and analysis of cyber-physical systems (CPS) which involve the interacting continuous and discrete components pose a further challenge. It is hence imperative to develop logical and mathematical techniques for the reasoning about programmability and reliability. The NS V workshop is dedicated to the development of such techniques.
+
+Topics of interest:
+The  scope of the workshop in cludes, but is not restricted to, the following topics:
+
+— Quantitative and qualitative analysis of hybrid systems
+� �� Models and abstraction techniques
+— Optimal control of dynamical systems
+— Parameter identification for hybrid systems
+— Numerical optimizat ion methods
+— Hybrid systems verification 
+— Applications of hybrid systems to systems biology
+— Propagation of uncertainties, determinist ic and probabilistic models
+— Specifications of correctness for numerical programs
+— Quality of finite precision implementations
+— Numerical pr operties of control software
+— Validation for space, avionics, automotive and real-time applications
+— Validation for scientific computing programs
+
+Submission Guidelines:
+————————————————
+We solicit regular and short papers:
+
+— Regular papers describe original contributions that are neither published nor under review for publication elsewhere. They must not exceed 15 pages in LNCS style, plus possibly bibliography and appendices. However, program committee members are not required to read the appendices, thus papers must be intelligible without them.
+— Short papers present tools, benchmarks, case-studies or are extended abstracts of ongoing research. They should not exceed 6 pages, excluding extra material as above.
+
+Paper submission must be performed via the EasyChair system: https://easychair.org/conferences/?conf=nsv19.
+
+Submitted papers will be judged on the basis of significance, relevance, correctness, originality, and clarity. They should clearly identify what has been accomplished and why it is signifiant. All accepted papers will be published as Lecture Notes in Computer Science (LNCS) with Springer Verlag http://www.springer.com/lncs.
+
+Program Committee:
+————————————————
+— Matthias Althoff (Technical University of Munich, Germany)
+— Olivier Bouissou (Mathworks, France)
+— Samuel Coogan (Georgia institute of Technology, USA)
+— Sicun Gao (University of California San Diego, USA)
+— Alberto Griggio (Fondazione Bruno Kessler, Italy)
+— Ashutosh Gupta (IIT Bombay, India)
+— Ichiro Hasuo ( National Institute of Informatics, Japan)
+— Susmit Jha (SRI International, USA)
+— James Kapinski (Toyota, USA)
+— Soonho Kong (Toyota Research Institute, USA)
+— Jun Liu (University of Waterloo, Canada)
+— Manuel Mazo (Delft University of Technology, Netherlands)
+— Tatjana Petrov (University of Konstanz, Germany)
+— Ruzica Piskac (Yale University, USA)
+— Sylvie Putot (LIX, Ecole Polytechnique, France)
+— Akshay Rajhans (Mathworks, USA)
+— Stefan Ratschan (Academy of Sciences of the Czech Republic, Czech Republic)
+— Matthias Rungger (ABB Corporate Research, Germany)
+— Sadra Sadraddini (MIT, USA)
+— Krishna Shankaranarayanan (IIT Bombay, India)
+— Sadegh Soudjani (Newcastle University, UK)
+— Laura Titolo (National Institute of Aerospace, USA)
+— Ashutosh Trivedi (University of Colorado Boulder, USA)
+— Jana Tumova (KTH Royal Institute of Technology, Sweden)
+— Caterina Urban (INRIA, France)
+— Xiang Yin (Shanghai Jiao Tong University, China)
+
+Organizers and Chairs:
+————————————————
+— Majid Zamani (University of Colorado Boulder, USA)
+— Damien Zufferey (MPI-SWS, Germany)

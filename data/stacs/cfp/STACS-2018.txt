@@ -1,0 +1,138 @@
+========================================================================
+STACS 2018 - Call for Papers
+
+35th International Symposium on Theoretical Aspects of Computer Science
+February 28 — March 3, 2018, Caen, France 
+
+========================================================================
+Submission deadline: September 25, 2017
+https://stacs2018.sciencesconf.org
+========================================================================
+
+Authors are invited to submit papers presenting original and unpublished research 
+on theoretical aspects of computer science. Typical areas include (but are not limited to):
+
+	• algorithms and data structures,
+including: design of parallel, distributed, approximation,  parameterized and randomized algorithms; 
+analysis of algorithms and combinatorics of data structures; 
+computational geometry, cryptography, algorithmic learning theory, algorithmic game theory;
+	• automata and formal languages,
+including: algebraic and categorical methods, coding theory;
+	• complexity and computability,
+including: computational and structural complexity theory, parameterized complexity, randomness in computation;
+	• logic in computer science,
+including: finite model theory, database theory, semantics, specification verification, rewriting and deduction;
+	• current challenges,
+for example: natural computing, quantum computing, mobile and net computing,  computational social choice.
+
+========================================================================
+INVITED SPEAKERS
+
+Meena Mahajan (Chennai)
+Damien Pous (Lyon)
+Gerhard Woeginger (Aachen)
+
+========================================================================
+PROGRAM COMMITTEE
+
+Shweta Agrawal  (Madras)
+Markus Bläser (Sarrebrücken)
+Anne Bouillard (Paris)
+Véronique Bruyère (Mons)      
+Arnaud Carayol   (Marne-La-Vallée)
+Jérémie Chalopin (Marseille)
+Vida Dujmovic  (Ottawa)
+Samuel Fiorini    (Bruxelles)
+Eric Fusy (Palaiseau)
+Pawel Gawrychowski  (Haifa)
+Jarkko Kari (Turku)   
+Michael Kaufmann (Tübingen)
+Juha Kontinen (Helsinki)
+Daniel Král  (Warwick)
+Francois Le Gall   (Kyoto)  
+Christof Löding  (Aachen)
+Andrew McGregor (Amherst) 
+Stefan Mengel    (Lens)   
+Rolf Niedermeier (Berlin, co-chair)
+Dirk Nowotka (Kiel)
+Daniel Panario   (Carleton)
+Michal Pilipczuk (Warsaw)
+Daniel Reidenbach (Loughborough)
+Thomas Sauerwald     (Cambridge, UK)
+Sabine Storandt (Würzburg)
+Howard Straubing  (Boston)
+Szymon Torunczyk      (Warsaw)              
+Brigitte Vallée   (Caen, co-chair)    
+Virginia Vassilevska Williams (Cambridge, US)    
+
+========================================================================      
+              	
+SUBMISSIONS
+
+Submissions can be uploaded to EasyChair:
+		https://easychair.org/conferences/?conf=stacs2018
+
+Authors are invited to submit a draft of a full paper with at most 12
+pages (excluding the references section). 
+
+The usage of pdflatex and the LIPIcs style file (see below) are
+mandatory; no changes to font size, page geometry,  etc. are permitted.
+Submissions not in the correct format or submitted after the deadline
+will not be considered.
+
+The paper should contain a succinct statement of the issues and of their
+motivation, a summary of the main results, and a brief explanation of
+their significance, accessible to non-specialist readers.
+
+Proofs omitted due to space constraints must be put into an appendix, to
+be read by the program committee members at their discretion. 
+
+Simultaneous submission to other conferences with published proceedings
+or to journals is not allowed. PC members are excluded from submitting.
+
+There will be a rebuttal period for authors. Authors will receive
+the reviews of their submissions (via EasyChair) on November 21 and have
+three days to submit rebuttals (via EasyChair). These rebuttals become 
+part of the PC meeting, but entail no specific responses.
+
+
+========================================================================
+
+PROCEEDINGS
+
+Accepted papers will be published in the proceedings of the symposium.
+As usual, these proceedings will appear in the Leibniz International
+Proceedings in Informatics (LIPIcs) series, based at Schloss Dagstuhl.
+This guarantees perennial, free and easy electronic access, while the
+authors retain the rights over their work. With their submission,
+authors consent to sign a license authorizing the program committee
+chairs to organize the electronic publication of their paper, provided
+the paper is accepted.
+
+========================================================================
+
+LIPICS STYLE FILES
+
+LIPIcs homepage: http://www.dagstuhl.de/en/publications/lipics
+
+Template and style files: 
+http://drops.dagstuhl.de/styles/lipics-v2016/lipics-v2016-authors.tgz
+
+Further details are available on www.stacs-conf.org and on the
+conference website  https://stacs2018.sciencesconf.org
+
+========================================================================
+
+IMPORTANT DATES
+
+Submission deadline: September 25, 2017
+Rebuttal period: November 20-23, 2017
+Notification to authors:  December 11, 2017
+Final version due : January 7, 2018
+STACS 2018: February 28-March 3  (2018)
+
+========================================================================
+
+CONTACT INFORMATION
+
+https://stacs2018.sciencesconf.org

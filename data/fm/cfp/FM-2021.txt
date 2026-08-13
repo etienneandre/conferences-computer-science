@@ -1,0 +1,173 @@
+******************************************************************
+FM 2021: 24th International Symposium on Formal Methods
+Beijng, China, November 20-26, 2021
+http://formalmethods2021.csp.escience.cn/
+******************************************************************
+
+FM 2021 is the 24th international symposium in a series organised by
+Formal Methods Europe (FME), an independent association whose aim is
+to stimulate the use of, and research on, formal methods for software
+development. The symposia have been notably successful in bringing
+together researchers and industrial users around a programme of
+original papers on research and industrial experience, workshops,
+tutorials, reports on tools, projects, and ongoing doctoral work. FM
+2021 will be both an occasion to celebrate and a platform for
+enthusiastic researchers and practitioners from a diversity of
+backgrounds to exchange their ideas and share their experience.
+
+FM 2021 will highlight the development and application of formal
+methods in a wide range of domains including software, cyber-physical
+systems and integrated computer-based systems. We are in particular
+interested in the application of formal methods in the areas of
+systems-of-systems, security, artificial intelligence, human-computer
+interaction, manufacturing, sustainability, power, transport, smart
+cities, healthcare, biology. We also welcome papers on experiences
+from application of formal methods in industry, and on the design and
+validation of formal methods tools.
+
+----------------
+Important Dates
+----------------
+Abstract submission: April 30, 2021, 23:59 AoE
+Full paper submission: May 6, 2021, 23:59 AoE
+Notification: July 16, 2021
+Camera ready: August 16, 2021
+Conference: November 20-26, 2021
+
+----------------
+Topics of Interest
+----------------
+FM 2021 encourages submissions on formal methods in a wide range of
+domains including software, computer-based systems,
+systems-of-systems, cyber-physical systems, security, human-computer
+interaction, manufacturing, sustainability, energy, transport, smart
+cities, and healthcare. We particularly welcome papers on techniques,
+tools and experiences in interdisciplinary settings. We also welcome
+papers on experiences of formal methods in industry, and on the design
+and validation of formal methods tools. The broad topics of interest
+for FM 2021 include, but are not limited to:
+
+● Interdisciplinary formal methods: Techniques, tools and experiences
+demonstrating the use of formal methods in interdisciplinary settings.
+● Formal methods in practice: Industrial applications of formal
+methods, experience with formal methods in industry, tool usage
+reports, experiments with challenge problems. The authors are
+encouraged to explain how formal methods overcame problems, led to
+improved designs, or provided new insights.
+● Tools for formal methods: Advances in automated verification, model
+checking, and testing with formal methods, tools integration,
+environments for formal methods, and experimental validation of tools.
+The authors are encouraged to demonstrate empirically that the new
+tool or environment advances the state of the art.
+● Formal methods in software and systems engineering: Development
+processes with formal methods, usage guidelines for formal methods,
+and method integration. The authors are encouraged to evaluate process
+innovations with respect to qualitative or quantitative improvements.
+Empirical studies and evaluations are also solicited.
+● Theoretical foundations of formal methods: All aspects of theory
+related to specification, verification, refinement, and static and
+dynamic analysis. The authors are encouraged to explain how their
+results contribute to the solution of practical problems with formal
+methods or tools.
+
+----------------
+Submission Guidelines
+----------------
+Papers should be original work, not published or submitted elsewhere,
+in Springer LNCS format, written in English, submitted through
+EasyChair:
+https://easychair.org/conferences/?conf=fm2021
+
+Each paper will be evaluated by at least three members of the
+Programme Committee. Authors of papers reporting experimental work are
+strongly encouraged to make their experimental results available for
+use by the reviewers. Similarly, case study papers should describe
+significant case studies, and the complete development should be made
+available at the time of review. The usual criteria for novelty,
+reproducibility, correctness and the ability for others to build upon
+the described work apply. Tool papers and tool demonstration papers
+should explain enhancements made compared to previously published
+work. A tool demonstration paper need not present the theory behind
+the tool, but can focus on the tool’s features, how it is used, its
+evaluation, and examples and screenshots illustrating the tool’s use.
+Authors of tool and tool demonstration papers should make their tool
+available for use by the reviewers.
+
+We solicit various categories of papers:
+
+● Regular Papers (max 15 pages)
+● Long tool papers (max 15 pages)
+● Case study papers (max 15 pages)
+● Short papers (max 6 pages), including tool demonstration papers.
+Besides short tool demo papers, short papers are encouraged for any
+topic that can be described within the page limit, and in particular
+for novel ideas without an extensive experimental evaluation. Short
+papers will be given short presentations at the conference.
+
+All page limits do not count references and appendices.
+
+For all papers, an appendix can provide additional material such as
+details on proofs or experiments. The appendix is not part of the page
+count and not guaranteed to be read or taken into account by the
+reviewers. It should not contain information necessary for the
+understanding and the evaluation of the presented work. Papers will be
+accepted or rejected in the category in which they were submitted.
+
+At least one author of an accepted paper is expected to present the
+paper at the conference as a registered participant.
+
+----------------
+Best Paper Award
+----------------
+At the conference, the PC Chairs will present an award to the authors
+of the submission selected as the FM 2021 Best Paper.
+
+----------------
+Publication
+----------------
+Accepted papers will be published in the Symposium Proceedings to
+appear in Springer’s Lecture Notes in Computer Science in the subline
+on Formal Methods. Traditionally, extended versions of selected papers
+will be invited for publication in a special issue of one or more
+journals.
+
+----------------
+General Chair
+----------------
+Huimin Lin, Chinese Academy of Sciences, China
+
+----------------
+Program Committee Chairs
+----------------
+Marieke Huisman, University of Twente, Netherlands
+Corina Pasareanu, Carnegie Mellon University, USA
+Naijun Zhan, Chinese Academy of Science, China
+
+----------------
+Program Committee
+----------------
+TBD
+
+----------------
+Publicity Chair
+----------------
+Eunsuk Kang, Carnegie Mellon University, US
+Jun Pang, University of Luxembourg, Luxembourg
+
+----------------
+Local Organizers
+----------------
+Naijun Zhan (chair), Chinese Academy of Sciences, China
+Bai Xue, Chinese Academy of Sciences, China
+Bohua Zhan Chinese Academy of Sciences, China
+Zhilin Wu, Chinese Academy of Sciences, China
+Andrea Turrini, Chinese Academy of Sciences, China
+David Jansen, Chinese Academy of Sciences, China
+Peng Wu, Chinese Academy of Sciences, China
+
+----------------
+Web Team
+----------------
+Bohua Zhan, Chinese Academy of Sciences, China
+Bai Xue, Chinese Academy of Sciences, China
+

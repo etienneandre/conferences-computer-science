@@ -1,0 +1,65 @@
+------------------------------------------------------------
+Call for Informal Presentations
+**SynCoP 2025**
+
+10th International Workshop on Synthesis of Complex Parameters
+
+🗓️ 25th August 2025 — Aarhus, Denmark
+🔗 https://lipn.univ-paris13.fr/SynCoP2025/
+------------------------------------------------------------
+
+Submission  : 30th June 2025
+Notification: 7th July 2025
+
+
+We are pleased to invite informal presentations for the 10th edition of SynCoP, a satellite workshop of CONFEST 2025 dedicated to the synthesis of complex/continuous parameters in formal models.
+
+SynCoP provides a platform for researchers interested in the decidability and algorithmic synthesis of parameters in systems such as automata, games, timed systems, probabilistic models, and hybrid systems. The workshop fosters the exchange of ideas and ongoing research across formal methods, verification, and synthesis communities.
+
+# Scope (non-exhaustive)
+
+* Synthesis in models with quantitative parameters (e.g., time, probabilities, energy)
+* Parametrised verification and model checking
+* Tools and applications for parameter synthesis
+* Theoretical advances in parametric models
+* Combinations of synthesis and learning
+
+# Informal Presentation Submissions:
+
+We invite short abstracts (3 pages) describing recently published works, ongoing work, preliminary results, or promising ideas. These presentations are not intended for proceedings publication and are ideal for discussing work in progress or receiving feedback from the community.
+
+To submit, please send a PDF abstract to:
+📧 syncop25@lipn13.fr
+by 30th June 2025.
+
+Notifications: 7th July 2025
+
+We look forward to your contributions and discussions at SynCoP 2025!
+
+
+# Invited speakers
+* Laure Petrucci (Université Sorbonne Paris Nord 🇫🇷)
+* Martin Zimmermann (Aalborg University 🇩🇰)
+
+
+# Organisers
+* Étienne André (Université Sorbonne Paris Nord 🇫🇷)
+* Swen Jacobs (CISPA Helmholtz Center for Information Security, Saarbrücken 🇩🇪)
+
+
+# Steering committee
+* Étienne André (Université Sorbonne Paris Nord 🇫🇷)
+* Benoit Delahaye (Nantes Université 🇫🇷)
+* Giorgio Delzanno (Università degli Studi di Genova 🇮🇹)
+* Peter Habermehl (University Paris Cité 🇫🇷)
+* Kim Guldstrand Larsen (Aalborg University 🇩🇰)
+* Engel Lefaucheux (Loria, Inria 🇫🇷)
+* Didier Lime (École Centrale de Nantes 🇫🇷)
+* Wojciech Penczek (IPI-PAN 🇵🇱)
+* Laure Petrucci (Université Sorbonne Paris Nord 🇫🇷)
+
+
+—
+SynCoP 2025 Organizers
+Étienne André (Université Sorbonne Paris Nord 🇫🇷)
+Swen Jacobs (CISPA Helmholtz Center for Information Security, Saarbrücken 🇩🇪)

@@ -1,0 +1,41 @@
+ Call for Papers
+
+Aim and Scopes
+ The KSE conference is an open international forum for presentation, discussion and exchange of the latest advances and challenges in research of Knowledge and Systems Engineering. The main objective of the conference is to bring together researchers, academics, practitioners and students not only to share research results and practical applications but also to foster collaboration in research and education in KSE. The ninth edition of the conference, KSE 2017, will be held in Hue city, an ancient capital of Vietnam, during October 19-21, 2017, and hosted by Hue University of Education with the co-organization of HNU University of Engineering and Technology, and Hue University of Sciences.
+
+General Co-Chairs
+Thanh Thuy Nguyen, VNU HUET, Vietnam
+Anh Phuong Le, Hue University of Education, Vietnam
+Satoshi Tojo, JAIST, Japan
+Program Co-Chairs
+Ireneusz Czarnowski, Gdynia Maritime University, Poland
+Minh Le Nguyen, JAIST, Japan
+Xuan Hieu Phan, VNU HUET, Vietnam
+Keynote Speakers
+Ken Satoh, National Institute of Informatics, Japan
+Ngoc Thanh Nguyen, Wroclaw University of Science and Technology, Poland
+
+The KSE 2017 solicits contributions dealing with any aspects of Knowledge and Systems Engineering. The organizers of the conference invite the papers on the following themes, but not limited to:
+ • Natural Language Processing
+ • Evolutionary Learning
+ • Information Security
+ • Biomedical Information Processing
+ • Knowledge Representation and Reasoning
+ • Information System Engineering
+ • Knowledge Management
+ • System Engineering
+ • Software Systems Engineering
+ • Web Services
+ • Cloud Computing, Computing Models
+ • Human Machine Interaction
+ • Fuzzy Logic and Application 
+
+Each paper is to be submitted electronically as a single PDF file through EasyChair at: https://easychair.org/conferences/?conf=kse2017 by main track or special sessions . The submissions will be peer-reviewed for originality and scientific quality. The proceedings will be published by IEEE and be available at the conference. A selected number of accepted and personally presented papers will be expanded and revised for possible inclusion in special issues in high quality scientific journals including:
+	Vietnam Journal of Computer Science
+	Journal of Information and Telecommunication
+	Journal of Intelligent & Fuzzy Systems
+(ISI Journal, Impact Factor >1.0)
+Important dates:
+• Deadline for paper submission: June 15th, 2017 (Extended – STRICT !!!)
+• Notification of acceptance: July 30, 2017
+Further information will be updated on the website

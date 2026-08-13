@@ -1,0 +1,178 @@
+**************************************************
+  The Thirteenth NASA Formal Methods Symposium
+     https://shemesh.larc.nasa.gov/nfm2021/
+               24-28 May 2021
+              Norfolk, VA, USA
+**************************************************
+
+The symposium will be held in an in-person/virtual hybrid format in
+Norfolk, VA, USA, possibly transitioning to fully virtual depending on
+the COVID-19 situation.
+
+Theme of the Symposium:
+-----------------------
+The widespread use and increasing complexity of mission-critical and
+safety-critical systems at NASA and in the aerospace industry require
+advanced techniques that address these systems' specification, design,
+verification, validation, and certification requirements.  The NASA
+Formal Methods Symposium (NFM) is a forum to foster collaboration
+between theoreticians and practitioners from NASA, academia, and
+industry. NFM's goals are to identify challenges and to provide
+solutions for achieving assurance for such critical systems.  New
+developments and emerging applications like autonomous software for
+Unmanned Aerial Systems (UAS), UAS Traffic Management (UTM), advanced
+separation assurance algorithms for aircraft, and the need for
+system-wide fault detection, diagnosis, and prognostics provide new
+challenges for system specification, development, and verification
+approaches. Similar challenges need to be addressed during development
+and deployment of on-board software for both spacecraft and ground
+systems.  The focus of the symposium will be on formal techniques and
+other approaches for software assurance, including their theory,
+current capabilities and limitations, as well as their potential
+application to aerospace, robotics, and other NASA-relevant
+safety-critical systems during all stages of the software life-cycle.
+
+The NASA Formal Methods Symposium is an annual event organized by the
+NASA Formal Methods (NFM) Research Group, comprised of researchers
+spanning six NASA centers. NFM2021 is being organized by the NASA
+Langley Formal Methods Team.
+
+Topics of Interest:
+-------------------
+We encourage submissions on cross-cutting approaches that bring
+together formal methods and techniques from other domains such as
+probabilistic reasoning, machine learning, control theory, robotics,
+and quantum computing among others.  Topics of interest include, but
+are not limited to, the following aspects of formal methods:
+
+- Advances in formal methods:
+ - Formal verification, model checking, and static analysis techniques
+ - Theorem proving: advances in interactive and automated theorem
+    proving (SAT, SMT, etc.)
+ - Program and specification synthesis, code transformation and generation
+ - Run-time verification
+ - Techniques and algorithms for scaling formal methods
+ - Test case generation
+ - Design for verification and correct-by-design techniques
+ - Requirements generation, specification, and validation
+
+- Integration of formal methods techniques:
+ - Use of machine learning techniques in formal methods
+ - Integration of formal methods into software engineering practices
+ - Integration of diverse formal methods techniques
+ - Combination of formal methods with simulation and analysis techniques
+
+- Formal methods in practice:
+ - Experience report of application of formal methods in industry
+ - Use of formal methods in education
+ - Verification of machine learning techniques
+ - Applications of formal methods in the development of:
+     - autonomous systems,
+     - safety-critical systems,
+     - concurrent and distributed systems,
+     - cyber-physical, embedded, and hybrid systems
+     - fault-detection, diagnostics, and prognostics systems
+     - human-machine interaction analysis
+
+Important Dates:
+----------------
+Abstract Submission: 27 November 2020
+Paper Submission: 4 December 2020
+Paper Notifications: 19 February 2021
+Camera-ready Papers: 19 March 2021
+Symposium: 24-28 May 2021
+
+Submission Details:
+-------------------
+There are two categories of submissions:
+1. Regular papers describing fully developed work and complete results
+   (maximum 15 pages);
+2. Short papers on tools, experience reports, or work in progress with
+   preliminary results (maximum 6 pages).
+
+The submitted papers should not exceed 15 pages for regular papers and
+6 pages for short papers, including tables and figures, but excluding
+bibliography and clearly marked appendices.  The papers should be
+self-contained, as appendices will not be included in the published
+proceedings.  In addition to appendices, authors are encouraged to
+make available any other supplementary material supporting the claims
+made in the paper, such as proof scripts or experimental data, as the
+availability and reproducibility of these artifacts may be considered
+by reviewers in scoring.  All papers must be in English and describe
+original work that has not been published or submitted elsewhere.  All
+submissions will be reviewed by at least three members of the Program
+Committee in a single-blind reviewing format.
+
+Papers will appear in the Formal Methods subline of Springer's Lecture
+Notes in Computer Science (LNCS) and must use LNCS style formatting
+(https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Papers must be submitted in PDF format at the EasyChair submission
+site: https://easychair.org/conferences/?conf=nfm2021.
+
+Authors of selected best papers will be invited to submit an extended
+version to a special issue in Springer's Innovations in Systems and
+Software Engineering: A NASA Journal
+(https://www.springer.com/journal/11334).
+
+Organizers:
+-----------
+• Cesar Munoz, NASA, USA (General Co-Chair)
+• Ivan Perez, National Institute of Aerospace, USA (General Co-Chair)
+• Aaron Dutle, NASA, USA (PC Co-Chair)
+• Mariano Moscato, National Institute of Aerospace, USA (PC Co-Chair)
+• Laura Titolo, National Institute of Aerospace, USA (PC Co-Chair)
+
+Program Committee:
+------------------
+Erika Abraham, RWTH Aachen University, Germany
+Mauricio Ayala-Rincon, Universidade de Brasilia, Brazil
+Julia Badger, NASA, USA
+Nikolaj Bjorner, Microsoft Research, USA
+Jasmin Blanchette, Vrije Universiteit Amsterdam, The Netherlands
+Sylvie Boldo, INRIA, France
+Alessandro Cimatti, Fondazione Bruno Kessler, Italy
+Misty Davies, NASA, USA
+Gilles Dowek, INRIA / ENS Paris-Saclay, France
+Catherine Dubois, ENSIIE-Samovar, France
+Alexandre Duret-Lutz, LRDE/EPITA, France
+Gabriel Ebner, Vienna University of Technology, Austria
+Marco Feliu, National Institute of Aerospace, USA
+Jean-Christophe Filliatre, CNRS, France
+Pierre-Loic Garoche, ENAC, France
+Alwyn Goodloe, NASA, USA
+John Harrison, Amazon Web Services, USA
+Klaus Havelund, NASA Jet Propulsion Laboratory, USA
+Marieke Huisman, University of Twente, The Netherlands
+Brian Jalaian, ARL / Virginia Tech, USA
+Susmit Jha, SRI International, USA
+Michael Lowry, NASA, USA
+Panagiotis Manolios, Northeastern University, USA
+Paolo Masci, National Institute of Aerospace, USA
+Anastasia Mavridou, SGT Inc. / NASA Ames Research Center, USA
+Stefan Mitsch, Carnegie Mellon University, USA
+Yannick Moy, AdaCore / INRIA, France
+Natasha Neogi, NASA, USA
+Laura Panizo, University of Malaga, Spain
+Corina Pasareanu, CMU / NASA Ames Research Center, USA
+Zvonimir Rakamaric, University of Utah, USA
+Camilo Rocha, Pontificia Universidad Javeriana Cali, Colombia
+Nicolas Rosner, Amazon Web Services, USA
+Kristin-Yvonne Rozier, Iowa State University, USA
+Cristina Seceleanu, Malardalen University, Sweden
+Natarajan Shankar, SRI International, USA
+Johann  Schumann, SGT Inc./NASA Ames Research Center, USA
+Tanner Slagel, NASA, USA
+Marielle Stoelinga, University of Twente, The Netherlands
+Cesare Tinelli, University of Iowa, USA
+Caterina Urban, INRIA, France
+Virginie Wiels, ONERA / DTIM, France
+
+Registration:
+-------------
+Registration is required and free of charge.
+
+Contact:
+--------
+Email: nfm2021 [at] easychair [dot] org
+Web: https://shemesh.larc.nasa.gov/nfm2021/
+

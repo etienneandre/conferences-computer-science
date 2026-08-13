@@ -1,0 +1,161 @@
+Extension des dates limites de soumission :
+
+Résumés : 17 mai 2019
+Articles : 31 mai 2019
+
+
+******************************************************************************
+                                   MSR'19
+       12e Colloque Francophone sur la Modélisation des Systèmes Réactifs
+                      Angers, du 13 au 15 Novembre 2019
+
+                          http://msr2019.laris.univ-angers.fr/
+******************************************************************************
+
+Dates importantes:
+Echéance pour la pre-soumission des résumés : **_*17 mai, 2019*_**
+Echéance pour la soumission des articles : ****_*31 mai, 2019*_****
+Notification des articles acceptés : 13 juillet, 2019
+Echéance pour le pre-proceedings : 10 septembre, 2019
+Echéance pour la soumission "poster/démonstration" : 10 septembre, 2019
+Notification des acceptations "poster/démonstration" : 10 octobre, 2019
+Versions finales "poster/démonstration" : 20 octobre, 2019
+Conférence : 13-15 novembre, 2019
+ 
+Objectifs :
+
+MSR'19 est un colloque en langue  française qui se situe dans le cadre
+général  de la  modélisation, l'analyse  et la  commande  des systèmes
+réactifs  et  temps  réel.   Plus  particulièrement  il  concerne  les
+chercheurs et industriels  intéressés par la conception d'applications
+qui sont basées  sur des systèmes de type  soit continu, soit discret,
+soit hybride. MSR  est un lieu de rencontre  pour les automaticiens et
+les informaticiens afin de  confronter les techniques et les problèmes
+abordés par les  deux communautés. Ainsi, le colloque  MSR a pour rôle
+d'affirmer l'apport  des chercheurs francophones dans  ces domaines et
+de favoriser les échanges  entre universitaires et industriels. MSR'19
+se tient  à Angers  et fait suite  à la  série des colloques  MSR'96 à
+Brest, MSR'99  à Cachan,  MSR'01 à Toulouse,  MSR'03 à Metz,  MSR'05 à
+Autrans,   MSR'07 à Lyon,  MSR'09 à Nantes,  MSR'11 à Lille,  MSR'13 à
+Rennes,   MSR'15 à Nancy  et   MSR'17 à Marseille.    MSR sollicte des 
+contributions   théoriques  et  les   expériences pratiques   dans les
+thèmes et domaines d'application  listés ci-dessous. Cette liste n'est
+cependant pas exhaustive.
+
+
+Thèmes :
+------------
+
+- Modèles  (qualitatifs et/ou quantitatifs)  pour la  spécification de
+comportement et/ou propriétés :  automates, réseaux de Petri, Grafcet,
+algèbres de  processus, équations différentielles,  chaînes de Markov,
+Inférence  bayesienne,  files   d'attente,  algèbre  maxplus,  logique
+linéaire,  logique temporelle,  logique temporelle  probabilisée et/ou
+temporisée...
+- Aspects  méthodologiques  :  composition,  raffinement,  orientation
+objet, approches multi-modèles, apprentissage séquentiel...
+- Analyse   :  vérification,   évaluation  (performances,   sûreté  de
+fonctionnement), test...
+- Commande : synthèse de contrôleur, supervision, surveillance.
+
+
+Domaines d'application
+-----------------------
+
+- Bio-informatique
+- Circuits, systèmes sur puce
+- Energie
+- Industries du commerce
+- Intelligence ambiante
+- Robotique
+- Sécurité des systèmes
+- Systèmes embarqués, enfouis
+- Systèmes industriels
+- Systèmes Temps-réel
+- Systèmes mobiles
+- Transports
+
+Soumission des articles :
+-------------------------
+
+MSR2019 invite à soumettre des articles de recherche ou d'applications
+via la plateforme Easychair.
+
+La soumission se fera en deux  étapes  :  un résumé d'au plus 500 mots
+( date limite 30 avril 2019 )   puis la soumission d'un papier complet
+d'au plus 14 pages (date limite 14 mai 2019).  Les soumissions doivent
+être préparées en respectant le format Easychair.
+
+Les actes du colloque seront publiés dans l'archive ouverte HAL.
+
+Distinction  du meilleur article  jeune chercheur  : Un  article parmi
+ceux retenus  se verra attribuer une distinction  de "meilleur article
+jeune  chercheur".  L'auteur principal  de cet  article devra  être un
+jeune chercheur, c'est-à-dire, doctorant  ou ayant soutenu sa thèse il
+y a moins d'un an au moment de la tenue de MSR'19.
+
+Organisation
+-------------
+   
+    Jean-Louis Boimond, Univ. Angers & LARIS
+    Bertrand Cottenceau, Univ. Angers & LARIS
+    Benoît Delahaye, Univ. Nantes & LS2N (co-président)
+    Jean-Baptiste Fasquel, Univ. Angers & LARIS
+    Marie Françoise Gérard, Univ. Angers & LARIS
+    Laurent Hardouin, Univ. Angers & LARIS
+    Sébastien Lahaye, Univ. Angers & LARIS (co-président)
+    Mehdi Lhommeau, Univ. Angers & LARIS (co-président)
+
+Comité de Pilotage
+--------------------
+
+    Béatrice Bérard, Univ. Pierre et Marie Curie & LIP6
+    Jean-Louis Boimond, Univ. Angers & LARIS
+    Isabel Demongodin, Univ. Marseille, & LIS
+    Laurent Fribourg, CNRS & LSV
+    Hervé Marchand, Inria Rennes
+    Olivier H. Roux, Ecole Centrale de Nantes & LS2N
+
+Comité de programme
+--------------------
+
+    Jean-Philippe Babau, Univ. de Bretagne Occidentale & Lab-STICC
+    Kamel Barkaoui, CNAM & Cédric
+    Pascal Berruet, Univ. Bretagne Sud & Lab-STICC
+    Nathalie Bertrand, INRIA Rennes & IRISA
+    Bernard Boigelot, Univ. de Liège & Institut Montefiore, Belgique
+    Silvano Dal Zilio, CNRS & LAAS
+    Thao Dang, CNRS & VERIMAG
+    Benoît Delahaye, Univ. Nantes & L2SN (co-président)
+    Isabel Demongodin, Univ. Aix-Marseille & LIS
+    Thierry Divoux, Univ. de Lorraine & CRAN
+    Ylies Falcone, Univ. Grenoble Alpes & LIG & INRIA Grenoble
+    Stéphane Gaubert, INRIA Saclay & CMAP & Ecole Polytechnique
+    Gilles Geeraerts, Univ. Libre de Bruxelles
+    Mohamed Ghazel, IFSTTAR & ESTAS
+    Alessandro Giua, Univ. & DIEE, Univ. of Cagliari
+    Stefan Haar, INRIA et LSV, CNRS & ENS Paris-Saclay
+    Frédéric Herbreteau, Bordeaux INP & LABRI
+    Claude Jard, Univ. de Nantes & LS2N
+    Jan Komenda, Czech Academy of Sciences & Institute of Mathematics
+    Sébastien Lahaye, Univ. d'Angers & LARIS (co-président)
+    Jean-Jacques Lesage, ENS Paris-Saclay & LURPA
+    Mehdi Lhommeau, Univ. d'Angers & LARIS (co-président)
+    Stephan Merz, INRIA Nancy & LORIA
+    Patrice Moreaux, Univ. de Savoie & LISTIC
+    Eric Niel, INSA Lyon & Lab. Ampère
+    Jean-François Petin, Univ. de Lorraine & CRAN
+    Laure Petrucci, Univ. Paris 13 & LIPN
+    Laurent Piétrac, INSA Lyon & Lab. Ampère
+    Marc Pouzet, Univ. Pierre et Marie Curie Paris & INRIA
+Paris-Rocquencourt
+    Pierre-Alain Reynier, Univ. Aix-Marseille & LIS
+    Laurie Ricker, Mount Allison University, Canada
+    Bernard Riera, Univ. Reims Champagne-Ardenne & CReSTIC
+    Eric Rutten, INRIA Alpes
+    Manuel Silva, Univ. of Zaragoza
+    Audine Subias, INSA Toulouse & LAAS
+    Armand Toguyeni, Ecole Centrale Lille & CRISTAL
+    Laurent Truffet, IMT Atlantique
+    Gregory Zacharewicz, IMT Mines d'Alès & LGI2P
+    Eric Zamaï, INP Grenoble & G-SCOP

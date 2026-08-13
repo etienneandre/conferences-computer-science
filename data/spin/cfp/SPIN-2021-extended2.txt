@@ -1,0 +1,134 @@
+*******************************************************************************
+
+                                  Call for Papers (deadline extension)
+
+                                            SPIN 2021
+
+         International Symposium on Model Checking of Software
+
+                                  July 12-13, 2021  (UPDATED)
+
+                                  ONLINE from Aarhus, Denmark
+
+Conference website: https://conf.researchr.org/home/spin-2021
+
+Submission link: https://easychair.org/conferences/?conf=spin20210
+
+
+Important Dates:
+
+*** The paper submission deadline is extended to 20 April 2021 because of COVID ***
+
+Submission:        April 20, 2021 (AoE)
+Notification:         May 20, 2021
+Camera-ready:    May 30, 2021
+Conference:        July 12-13, 2021
+
+
+Scope
+
+The 27th edition of the SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software but does not exclude the analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms (classical and quantum), tool development, including for modern hardware (parallel and distributed), and empirical evaluation.
+
+
+Invited speakers
+
+ * ‪Vincenzo Ciancia‬, ISTI-CNR
+ * Mariëlle Stoelinga, Twente / Radboud University
+ * Moshe Vardi, Rice University
+
+
+Topics of Interest
+
+Topics of interest include, but are not limited to:
+* Formal verification techniques for automated analysis of software
+* Formal analysis for modeling languages, such as UML/state charts
+* Formal specification languages, temporal logic, design-by-contract
+* Model checking
+* Automated theorem proving, including SAT and SMT
+* Verifying compilers
+* Abstraction and symbolic execution techniques
+* Static analysis and abstract interpretation
+* Combination of verification techniques
+* Modular and compositional verification techniques
+* Verification of timed and probabilistic systems
+* Automated testing using advanced analysis techniques
+* Combination of static and dynamic analyses
+* Derivation of specifications, test cases, or other useful material via formal analysis
+* Case studies of interesting systems or with interesting results
+* Engineering and implementation of software verification and analysis tools
+* Benchmark and comparative studies for formal verification and analysis tools
+* Formal methods of education and training
+* Insightful surveys or historical accounts on topics of relevance to the symposium
+* Relevant tools and algorithms for modern hardware, e.g.: parallel, GPU, TPU, FPGA, cloud, and quantum
+
+
+Submission Guidelines
+
+The proceedings of SPIN 2021 will be published in Springer's Lecture Notes in Computer Science series. Submissions should adhere to the LNCS format: LNCS Information for Authors
+
+With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere. We are soliciting three categories of papers:
+
+*  Full Research / Tool Papers describing fully developed work and complete results (16 pages - references are not included in this limit);
+*  Short Papers presenting tools, technology, experiences with lessons learned, new ideas, work in progress with preliminary results, and novel contributions to formal methods (6 pages - references are not included in this limit).
+*  Tool Demo Papers presenting the foundations, capabilities, application domains and relevant examples using the tools, with a clear description of what is expected to be shown in a live demonstration (4 pages to describe the tool foundations, features and use examples, plus an appendix explaining the content of the demo).
+Papers should be submitted via the EasyChair SPIN 2021 submission website:
+https://easychair.org/conferences/?conf=spin20210
+All papers that conform to submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, the importance of contribution, soundness, evaluation, quality of presentation, and appropriate comparison to related work.
+
+At least one author of each accepted paper must attend the symposium and present the paper.
+
+
+STTT
+
+A selection of papers will be invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT).
+
+
+Program Committee Members
+
+Jiří Barnat, Masaryk University
+Maurice H. ter Beek, ISTI-CNR
+Tom van Dijk, University of Twente
+Vedran Dunjko, Leiden University
+Stefan Edelkamp, University of Koblenz
+Grigory Fedyukovich, Florida State University
+Henri Hansen, Tampere University of Technology
+Arnd Hartmanns, University of Twente
+Gerard Holzmann, Nimble research
+Antti Hyvärinen, Università della Svizzera italiana
+Nils Jansen, Radboud University Nijmegen
+Peter Gjøl Jensen, Aalborg University
+Sung-Shik Jongmans, Open University NL, CWI
+Jeroen Keiren, Eindhoven University of Technology
+Igor Konnov, Informal Systems Inc
+Alberto Lluch Lafuente, Technical University of Denmark
+Kuldeep S. Meel, National University of Singapore
+Alice Miller, University of Glasgow
+Sergio Mover, École Polytechnique
+Rajagopal Nagarajan, Middlesex University
+Doron Peled, Bar Ilan University
+Tatjana Petrov, University of Konstanz
+Jaco van de Pol, Aarhus University
+Stephen F. Siegel, University of Delaware
+Carsten Sinz, Karlsruhe Institute of Technology
+Jiří Srba, Aalborg University
+Michael Tautschnig, Amazon Web Services
+Yann Thierry-Mieg, Sorbonne University - LIP6
+Yakir Vizel, Technion
+Georg Weissenbacher, Vienna University of Technology
+Anton Wijs, Eindhoven University of Technology
+
+
+Organizing committee
+
+Alfons Laarman, Leiden University
+Ana Sokolova, University of Salzburg
+
+
+Venue
+
+The conference will take place online.
+
+
+Contact
+
+All questions about submissions should be emailed to a.w.laarman@liacs.leidenuniv.nl.

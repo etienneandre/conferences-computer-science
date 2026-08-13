@@ -1,0 +1,306 @@
+==================================================================================================
+Second Call for Papers
+
+FM 2019 - 23rd International Symposium on Formal Methods - 3rd World Congress on Formal Methods
+
+Porto, Portugal, October 7-11, 2019
+
+http://formalmethods2019.inesctec.pt/
+==================================================================================================
+
+NEW: announcement of three invited speakers and confirmation of two special issues !!!
+
+==================================================================================================
+
+FM 2019 is the 23rd international symposium in a series organised by
+Formal Methods Europe (FME), an independent association whose aim is
+to stimulate the use of, and research on, formal methods for software
+development. Every 10 years the symposium is organised as a World
+Congress. Twenty years after FM 1999 in Toulouse, and 10 years after
+FM 2009 in Eindhoven, FM 2019 is the 3rd World Congress on Formal
+Methods. This is reflected in a PC with members from over 40
+countries. Thus, FM 2019 will be both an occasion to celebrate and a
+platform for enthusiastic researchers and practitioners from a
+diversity of backgrounds to exchange their ideas and share their
+experience.
+
+FORMAL METHODS: THE NEXT 30 YEARS
+
+It is now more than 30 years since the first VDM symposium in 1987
+brought together researchers with the common goal of creating methods
+to produce high quality software based on rigour and reason. Since
+then the diversity and complexity of computer technology has changed
+enormously and the formal methods community has stepped up to the
+challenges those changes brought by adapting, generalising and
+improving the models and analysis techniques that were the focus of
+that first symposium. The theme for FM 2019 is a reflection on how far
+the community has come and the lessons we can learn for understanding
+and developing the best software for future technologies.
+
+
+Important Dates
+================
+
+Abstract submission: 28 March, 2019
+Full paper submission: 11 April, 2019, 23:59 AoE
+Notification: 11 June, 2019
+Camera ready: 9 July, 2019
+Conference: 7-11 October, 2019
+
+
+Invited Speakers
+=================
+
+- June Andronick (CSIRO/Data61 and UNSW, Sydney, Australia)
+- Shriram Krishnamurthi (Brown University, Providence, RI, USA)
+- Erik Poll (Radboud University, Nijmegen, The Netherlands)
+
+
+Topics of Interest
+======================
+
+FM 2019 encourages submissions on formal methods in a wide range of
+domains including software, computer-based systems,
+systems-of-systems, cyber-physical systems, human-computer
+interaction, manufacturing, sustainability, energy, transport, smart
+cities, and healthcare. We particularly welcome papers on techniques,
+tools and experiences in interdisciplinary settings. We also welcome
+papers on experiences of formal methods in industry, and on the design
+and validation of formal methods tools. The broad topics of interest
+for FM 2019 include, but are not limited to:
+
+- Interdisciplinary formal methods: Techniques, tools and experiences
+demonstrating the use of formal methods in interdisciplinary settings.
+
+- Formal methods in practice: Industrial applications of formal
+methods, experience with formal methods in industry, tool usage
+reports, experiments with challenge problems. The authors are
+encouraged to explain how formal methods overcame problems, led to
+improved designs, or provided new insights.
+
+- Tools for formal methods: Advances in automated verification, model
+checking, and testing with formal methods, tools integration,
+environments for formal methods, and experimental validation of
+tools. The authors are encouraged to demonstrate empirically that the
+new tool or environment advances the state of the art.
+
+- Formal methods in software and systems engineering: Development
+processes with formal methods, usage guidelines for formal methods,
+and method integration. The authors are encouraged to evaluate process
+innovations with respect to qualitative or quantitative
+improvements. Empirical studies and evaluations are also solicited.
+
+- Theoretical foundations of formal methods: All aspects of theory
+related to specification, verification, refinement, and static and
+dynamic analysis. The authors are encouraged to explain how their
+results contribute to the solution of practical problems with formal
+methods or tools.
+
+
+Submission Guidelines
+=======================
+
+Papers should be original work, not published or submitted elsewhere,
+in Springer LNCS format, written in English, submitted through
+EasyChair: https://easychair.org/conferences/?conf=fm2019
+
+Each paper will be evaluated by at least three members of the
+Programme Committee. Authors of papers reporting experimental work are
+strongly encouraged to make their experimental results available for
+use by the reviewers. Similarly, case study papers should describe
+significant case studies, and the complete development should be made
+available at the time of review. The usual criteria for novelty,
+reproducibility, correctness and the ability for others to build upon
+the described work apply. Tool papers should explain enhancements made
+compared to previously published work. A tool paper need not present
+the theory behind the tool but should focus on the tool's features,
+how it is used, its evaluation, and examples and screen shots
+illustrating the tool's use. Authors of tool papers should make their
+tool available for use by the reviewers.
+
+We solicit two categories of papers:
+
+- Regular Papers should not exceed 15 pages, not counting references
+  and appendices.
+
+- Short papers, including tool papers, should not exceed 6 pages, not
+counting references and appendices. Besides tool papers, short papers
+are encouraged for any topic that can be described within the page
+limit, and in particular for novel ideas without an extensive
+experimental evaluation. Short papers will be accompanied by short
+presentations.
+
+For regular and tool papers, an appendix can provide additional
+material such as details on proofs or experiments. The appendix is not
+part of the page count and not guaranteed to be read or taken into
+account by the reviewers. It should not contain information necessary
+to the understanding and the evaluation of the presented work. Papers
+will be accepted or rejected in the category in which they were
+submitted.
+
+At least one author of an accepted paper is expected to present the
+paper at the conference as a registered participant.
+
+
+Best Paper Award
+=================
+
+At the conference, the PC Chairs will present an award to the authors
+of the submission selected as the FM 2019 Best Paper.
+
+
+Publication
+============
+
+Accepted papers will be published in the Symposium Proceedings to
+appear in Springer's Lecture Notes in Computer Science in the subline
+on Formal Methods.
+
+Authors of selected papers will be invited to submit an extended
+version of their paper to one of the special issues in "Formal Aspects
+of Computing" and "Formal Methods in System Design".
+
+
+General Chair
+==============
+
+José Nuno Oliveira, INESC TEC & University of Minho, PT
+
+
+Program Committee Chairs
+=========================
+
+Maurice ter Beek, ISTI-CNR, Pisa, IT
+Annabelle McIver, Macquarie University, Sydney, AU
+
+
+Program Committee
+==================
+
+Bernhard Aichernig, TU Graz, AT
+Elvira Albert, Complutense University of Madrid, ES
+María Alpuente, Polytechnic University of Valencia, ES
+Dalal Alrajeh, Imperial College, UK
+Mário S. Alvim, Federal University of Minas Gerais, BR
+June Andronick, CSIRO/Data61, AU
+Christel Baier, TU Dresden, DE
+Luís Barbosa, University of Minho and UN University, PT
+Gilles Barthe, IMDEA Software Institute, ES
+Marcello Bersani, Polytechnic University of Milan, IT
+Gustavo Betarte, Tilsor SA and University of the Republic, UY
+Nikolaj Bjørner, Microsoft Research, US
+Frank de Boer, CWI, NL
+Sergiy Bogomolov, Australian National University, AU
+Julien Brunel, ONERA, FR
+Néstor Cataño, Pontifical Xavierian University of Cali, CO
+Ana Cavalcanti, University of York, UK
+Antonio Cerone, Nazarbayev University, KZ
+Marsha Chechik, University of Toronto, CA
+David Chemouil, ONERA, FR
+Alessandro Cimatti, FBK-IRST, IT
+Alcino Cunha, University of Minho, PT
+Michael Dierkes, Rockwell Collins, FR
+Alessandro Fantechi, University of Florence, IT
+Carla Ferreira, New University of Lisbon, PT
+João Ferreira, Teesside University, UK
+José Fiadeiro, Royal Holloway University of London, UK
+Marcelo Frias, Buenos Aires Institute of Technology, AR
+Fatemeh Ghassemi, University of Tehran, IR
+Silvia Ghilezan, University of Novi Sad, RS
+Stefania Gnesi, ISTI-CNR, IT
+Reiner Hähnle, TU Darmstadt, DE
+Osman Hasan, National University of Sciences and Technology, PK
+Klaus Havelund, NASA Jet Propulsion Laboratory, US
+Anne Haxthausen, TU Denmark, DK
+Ian Hayes, University of Queensland, AU
+Constance Heitmeyer, Naval Research Laboratory, US
+Jane Hillston, University of Edinburgh, UK
+Thai Son Hoang, University of Southampton, UK
+Zhenjiang Hu, National Institute of Informatics, JP
+Dang Van Hung, Vietnam National University, VN
+Atsushi Igarashi, Kyoto University, JP
+Suman Jana, Columbia University, US
+Ali Jaoua, Qatar University, QA
+Einar Broch Johnson, University of Oslo, NO
+Joost-Pieter Katoen, RWTH Aachen University, DE
+Laura Kovács, TU Vienna, AT
+Axel Legay, KU Leuven, BE
+Alberto Lluch Lafuente, TU Denmark, DK
+Malte Lochau, TU Darmstadt, DE
+Michele Loreti, University of Camerino, IT
+Gabriele Lenzini, University of Luxembourg, LU
+Yang Liu, Nanyang Technical University, SG
+Anastasia Mavridou, NASA Ames, US
+Hernán Melgratti, University of Buenos Aires, AR
+Sun Meng, Peking University, CN
+Dominique Méry, LORIA and University of Lorraine, FR
+Rosemary Monahan, Maynooth University, IE
+Olfa Mosbahi, University of Carthage, TN
+Mohammad Mousavi, University of Leicester, UK
+César Muñoz, NASA Langley, US
+Tim Nelson, Brown University, US
+Gethin Norman, University of Glasgow, UK
+Colin O'Halloran, D-RisQ Software Systems, UK
+Federico Olmedo, University of Chile, CL
+Gordon Pace, University of Malta, MT
+Jan Peleska, University of Bremen, DE
+Marielle Petit-Doche, Systerel, FR
+Alexandre Petrenko, Computer Research Institute of Montréal, CA
+Anna Philippou, University of Cyprus, CY
+Jorge Sousa Pinto, University of Minho, PT
+André Platzer, Carnegie Mellon University, US
+Jaco van de Pol, Aarhus University, DK
+Tahiry Rabehaja, Macquarie University, AU
+Steve Reeves, University of Waikato, NZ
+Matteo Rossi, Polytechnic University of Milan, IT
+Augusto Sampaio, Federal University of Pernambuco, BR
+Gerardo Schneider, Chalmers University of Gothenburg, SE
+Daniel Schwartz-Narbonne, Amazon Web Services, US
+Natasha Sharygina, University of Lugano, CH
+Nikolay Shilov, Innopolis University, RU
+Ana Sokolova, University of Salzburg, AT
+Marielle Stoelinga, University of Twente, NL
+Jun Sun, Singapore University of Technology and Design, SG
+Helen Treharne, University of Surrey, UK
+Elena Troubitsyna, Åbo Akademi University, FI
+Tarmo Uustalu, Reykjavik University, IS
+Andrea Vandin, TU Denmark, DK
+R. Venkatesh, TCS Research, IN
+Erik de Vink, TU Eindhoven and CWI, NL
+Willem Visser, Stellenbosch University, ZA
+Farn Wang, National Taiwan University, TW
+Bruce Watson, Stellenbosch University, ZA
+Tim Willemse, TU Eindhoven, NL
+Kirsten Winter, University of Queensland, AU
+Jim Woodcock, University of York, UK
+Lijun Zhang, Chinese Academy of Sciences, CN
+
+
+Publicity Chair
+================
+
+Luís Soares Barbosa, INESC TEC & University of Minho, PT
+
+
+Organizing Committee
+=====================
+
+José Creissac Campos, INESC TEC & University of Minho, PT
+João Pascoal Faria, INESC TEC and University of Porto, PT
+Sara Fernandes, University of Minho & INESC TEC, PT
+Luís Neves, Critical Software, PT
+
+
+Local Arrangements
+===================
+
+Catarina Fernandes, INESC TEC & University of Minho, PT
+Paula Rodrigues, INESC TEC, PT
+
+
+Web Team
+=========
+
+Francisco Neves, INESC TEC & University of Minho, PT
+Rogério Pontes, INESC TEC & University of Minho, PT
+Paula Rodrigues, INESC TEC, PT

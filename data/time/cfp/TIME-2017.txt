@@ -1,0 +1,180 @@
+-------------------------------------------------------------------------
+
+                                TIME 2017
+
+  24th International Symposium on Temporal Representation and Reasoning
+
+                   Mons (Belgium), 16-18 October 2017
+
+                          Final Call for Papers
+
+                http://informatique.umons.ac.be/time2017/
+
+-------------------------------------------------------------------------
+
+Aims and scope
+--------------
+TIME 2017 aims to bring together researchers interested in reasoning
+about temporal aspects of information in any area of Computer Science.
+The symposium, currently in its 24th edition, has a wide remit and
+intends to cater to both theoretical aspects and well-founded
+applications. One of the key aspects of the symposium is its
+interdisciplinarity, with attendees from distinct areas such as
+artificial intelligence, database management, logic and verification,
+and beyond. The symposium will encompass three tracks on temporal
+representation and reasoning in (1) Artificial Intelligence, (2)
+Databases and (3) Logic and Verification.
+
+
+The Artificial Intelligence track includes, but is not limited to:
+
+- temporal aspects of agent- and policy-based systems
+- spatial and temporal reasoning
+- reasoning about actions and change
+- planning and planning languages
+- ontologies of time and space-time
+- belief and uncertainty in temporal knowledge
+- temporal learning and discovery
+- time in problem solving (e.g. diagnosis, scheduling)
+- time in human-machine interaction
+- temporal information extraction
+- time in natural language processing
+- spatio-temporal knowledge representation systems
+- spatio-temporal ontologies for the semantic web
+- constraint-based temporal reasoning
+- temporal preferences
+
+
+The Database track includes, but is not limited to:
+
+- temporal data models and query languages
+- temporal query processing and indexing
+- temporal data mining
+- time series data management
+- stream data management
+- spatio-temporal data management, including moving objects
+- data currency and expiration
+- indeterminate and imprecise temporal data
+- temporal constraints
+- temporal aspects of business processes and ECA systems
+- real-time databases
+- time-dependent security policies
+- privacy in temporal and spatio-temporal data
+- temporal aspects of multimedia databases
+- temporal aspects of e-services and web applications
+- temporal aspects of distributed systems
+- temporal aspects and big data
+- temporal aspects in NoSQL databases
+- temporal data warehouses
+- temporal healthcare databases and warehouses
+- time series analysis and mining
+- semistructured temporal data
+- novel applications of temporal database management
+- novel visualizations and interfaces for temporal data
+- experiences with real applications
+
+
+The Logic and Verification track includes, but is not limited to:
+
+- specification and verification of systems
+- verification of web applications
+- synthesis and execution
+- model-checking algorithms and implementations
+- verification of infinite-state systems
+- reasoning about transition systems
+- temporal architectures
+- temporal logics for distributed systems
+- temporal logics for games and open systems
+- temporal logics of knowledge
+- hybrid systems and real-time logics
+- cyber-physical systems
+- tools and practical systems
+- temporal issues in security
+
+
+Submission and publication
+--------------------------
+Submissions of high-quality papers describing research results are
+solicited. Submitted papers should contain original, previously
+unpublished content, should be written in English, and must not be
+simultaneously submitted for publication elsewhere. Submitted papers
+will be refereed for quality, correctness, originality, and relevance.
+
+Detailed submission instructions can be found on the website of TIME 2017:
+
+                http://informatique.umons.ac.be/time2017/
+
+Accepted papers will be presented at the symposium and included in the
+proceedings, which will be published by LIPIcs-Leibniz International
+Proceedings in Informatics, which is a series of high-quality
+peer-reviewed conference proceedings, published according to the
+principle of OpenAccess. At least one author of each accepted paper must
+register at the conference and present the paper.
+
+Authors of selected papers will be invited to submit an extended version
+of their contribution to a special issue of the journal Theoretical
+Computer Science.
+
+
+Important Dates
+---------------
+Abstracts due:     May 8, 2017
+Full papers due:   May 12, 2017
+Notification:      June 27, 2017
+Final version due: July 14, 2017
+Symposium:         October 16-18, 2017
+
+
+Program Committee Chairs
+------------------------
+Sven Schewe, University of Liverpool, UK
+Thomas Schneider, University of Bremen, Germany
+Jef Wijsen, University of Mons, Belgium
+
+
+Program Committee
+-----------------
+- Johann Eder (Alpen Adria Universität Klagenfurt, Austria)
+- Fabio Grandi (University of Bologna, Italy)
+- Ernst Moritz Hahn (State Key Laboratory of Computer Science, Institute
+of Software, Chinese Academy of Sciences, China)
+- Michael R. Hansen (Technical University of Denmark, Denmark)
+- Fredrik Heintz (Linköping University, Sweden)
+- Marcin Jurdzinski (University of Warwick, UK)
+- Roman Kontchakov (Birkbeck, University of London, UK)
+- Jan Kretínský (Technical University of Munich, Germany)
+- Bart Kuijpers (Hasselt University, Belgium)
+- Martin Lange (University of Kassel, Germany)
+- Martin Leucker (University of Lübeck, Germany)
+- Cláudia Nalon (University of Brasília, Brazil)
+- Andrea Orlandini (National Research Council of Italy ISTC-CNR, Italy)
+- Doron Peled (Bar Ilan University, Israel)
+- Roberto Posenato (Università degli Studi di Verona, Italy)
+- Jean-François Raskin (Université Libre de Bruxelles, Belgium)
+- Peter Z. Revesz (University of Nebraska-Lincoln, USA)
+- Mark Reynolds (The Univeristy of Western Australia, Australia)
+- Sven Schewe (University of Liverpool, UK)
+- Renate A. Schmidt (University of Manchester, UK)
+- Thomas Schneider (University of Bremen, Germany)
+- Paolo Terenziani (University Piemonte Orientale, Italy)
+- David Toman (University of Waterloo, Canada)
+- Kristian Torp (Aalborg University, Denmark)
+- Alejandro A. Vaisman (Instituto Tecnológico de Buenos Aires, Argentina)
+- Kristen B. Venable (Tulane University, USA)
+- Jef Wijsen (University of Mons, Belgium)
+- Stefan Wölfl (University of Freiburg, Germany)
+- Martin Zimmermann (Saarland University, Germany)
+
+
+Invited Speakers
+----------------
+Alessandro Artale, Free University of Bozen-Bolzano, Italy
+Javier Esparza, Technical University of Munich, Germany
+Sheila McIlraith, University of Toronto, Canada
+
+
+Venue
+-----
+TIME 2017 will take place in Mons, a beautiful city in the
+French-speaking part of Belgium, and a former European Capital of Culture.
+

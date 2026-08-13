@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "A special issue of Science of Computer Programming (Elsevier) will publish the best papers."
+
+[[cfp]]
+file = "cfp/SBMF-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SBMF-2018-extended.txt"
+stage = "extended"

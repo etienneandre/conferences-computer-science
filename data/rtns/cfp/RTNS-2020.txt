@@ -1,0 +1,78 @@
+RTNS 2020 will be held in June 2020!
+
+******************************************************************************************************
+                       RTNS 2020 - Call for Papers
+******************************************************************************************************
+
+
+What is new
+***********
+
+The RTNS Steering Committee has decided to make some changes in the conference organization.
+    • RTNS is moving from Autumn to Spring. Therefore RTNS 2020 will take place in June 2020 with a submission deadline of 18th December 2019.
+    • An extra meeting between PC co-chairs and meta-reviewers is added to the review process to improve fairness.
+    • Transparency rules and evaluation criteria will be available on-line.
+    • Going back to the root of the conference, RTNS particularly welcomes first papers presenting early stage research with promising results.
+    • RTNS 2020 will have the option of artifact evaluation for the accepted papers.
+The Steering committee would like to emphasize that RTNS is a friendly and inclusive conference with a great sense of community that presents excellent opportunities for discussion and collaboration.
+           
+
+Scope of the conference
+***********************
+
+Original unpublished papers on all aspects of real-time systems and networks are welcome. RTNS covers a wide-spectrum of topics in real-time and embedded systems, including, but not limited to:      
+    • Real-time applications design and evaluation: automotive, avionics, space, railways, telecommunications, process control, multimedia.
+    • Real-time aspects of emerging smart systems: cyber-physical systems and emerging applications, real-time big data, real-time edge/fog and cloud computing, smart grid.
+    • Real-time system design and analysis:  real-time tasks modeling, task/message scheduling, evaluation, mixed-criticality systems, Worst-Case Execution Time (WCET) analysis, quality of service, security.
+    • Software technologies for real-time systems: model-driven engineering, programming languages, compilers, WCET-aware compilation and parallelization strategies, middleware, Real-time Operating Systems (RTOS), virtualization, hypervisors.
+    • Formal specification and verification: application of formal models, such as model checking, satisfiability modulo theories or constraint programming, to solve real-time problems.
+    • Real-time distributed systems: fault tolerance, time synchronization, task/messages allocation,  adaptability and reconfiguration, publisher/subscriber protocols, distributed real-time database   
+    • Real-time networks:  Networks on Chip (NoC), wired and wireless sensor and actuator networks, Time-Sensitive Networks (TSN), industrial IoT, SDN, 5G, end-to-end latency analysis.
+    • Hardware support for real-time systems:  hardware/software co-design, power/temperature-aware techniques, design of predictable hardware, multi-core and many-core platforms, hardware accelerators, cache related issues, interconnect and memory.
+
+
+Submission of papers
+********************
+
+The papers are limited to 10 two-column pages (not including references) in ACM conference format. The proceedings will be published by the ACM ICPS (approval pending). A selection of the best papers will receive recognition as outstanding papers, and will be highlighted as such in the proceedings. Authors of outstanding papers will be invited to submit an extended version of their work to a special issue of the Springer Real-Time Systems journal. Best papers and best student papers awards will be presented at the conference, along with an award for the best presentation.
+(Note that submissions are eligible for the best student paper award provided that the first author is a student as of the submission deadline).
+RTNS 2020 will have the artifact evaluation for the accepted papers, to guarantee the availability of source code and data to replicate the experiments.
+
+
+Organizers
+**********
+
+General chair
+
+Liliana Cucu-Grosjean, INRIA, Paris-Rocquencourt, France
+
+PC co-Chairs
+
+Sebastian Altmeyer, University of Augsburg, Germany
+Jean-Luc Scharbarg, Université de Toulouse, France
+
+Steering Committee
+
+Sanjoy Baruah, Washington University in St. Louis, USA
+Liliana Cucu-Grosjean, INRIA, Paris-Rocquencourt, France
+Robert I. Davis, University of York, United Kingdom
+Sébastien Faucou, Université de Nantes, France
+Laurent Georges, Université de Paris Est Créteil, France
+Joël Goossens, Université Libre de Bruxelles (ULB), Belgium
+Isabelle Puaut, IRISA, Université de Rennes I, France
+Emmanuel Grolleau, LIAS, ISAE-ENSMA, France
+Jean-Luc Scharbarg, Université de Toulouse, France
+
+
+Location
+********
+
+Paris, France
+
+
+Important dates
+***************
+
+Submission deadline: December 18, 2019 (firm)
+Notification: March 9, 2020
+Conference: Early June, 2020 - dates to be confirmed

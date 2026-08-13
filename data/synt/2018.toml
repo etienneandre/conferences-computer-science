@@ -18,3 +18,7 @@ license = "cc-by"
 
 [extra]
 notes = "Satellite event of FLoC. Extended versions of a selection of accepted submissions will form the basis of a special issue of Acta Informatica, to be published after the workshop."
+
+[[cfp]]
+file = "cfp/SYNT-2018.txt"
+stage = "initial"

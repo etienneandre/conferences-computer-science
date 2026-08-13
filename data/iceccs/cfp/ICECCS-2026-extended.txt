@@ -1,0 +1,62 @@
+Dear colleagues,
+
+
+
+
+
+We are pleased to announce the 30th International Conference on Engineering of Complex Computer Systems (ICECCS 2026), which will be held in Brisbane, Australia, on 23–24 November 2026.
+
+
+
+ICECCS is a well-established international conference focusing on the engineering of complex computer systems, covering a broad range of topics including:
+
+    Requirements, Modeling and Formal Methods
+    Simulation, Testing and Validation
+    Software Engineering
+    Security, Reliability and Dependability
+    Engineering of Emerging Computing Paradigms (e.g., quantum, blockchain)
+    LLMs and AI-driven systems
+
+
+
+We invite submissions in two categories:
+
+Regular papers (up to 20 pages)
+
+Short papers (up to 11 pages)
+
+
+
+Accepted papers will be published in Springer’s LNCS series, and at least one author is expected to present the work in person.
+
+
+
+Important Dates:
+
+Abstract submission: 20 July 2026 (AoE)
+
+Full paper submission: 20 July 2026 (AoE)
+
+Notification: 17 August 2026
+
+Camera-ready: 31 August 2026
+
+
+
+For more details, please refer to the official CFP:
+
+👉 https://formal-analysis.com/iceccs/2026/
+
+
+
+We warmly welcome your submissions and hope to see you in Brisbane!
+
+
+
+
+
+Best regards,
+
+Fuman Xie
+
+ICECCS‘26 Publicity Chair

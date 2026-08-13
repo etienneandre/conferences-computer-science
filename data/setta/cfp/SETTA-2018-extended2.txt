@@ -1,0 +1,89 @@
+ Dear all,
+
+    Since April 29 - May 1 is a national holiday in China for the Labor
+Day, we extend the paper submission deadline of SETTA 2018 to May 7. Note
+that this extension would not affect the following timeline (e.g., the date
+of author notification). We'll also keep the abstract submission open, so
+that new submissions can still come in. Please see the CFP below.
+
+
+---
+*********************************************************************
+SETTA 2018, Call for Papers 4th International Symposium on Dependable
+Software Engineering: Theories, Tools and Applications Beijing, China,
+September 4 - 6, 2018 <http://lcs.ios.ac.cn/setta2018/> (Co-located with
+CONCUR, FORMATS, and QEST as part of CONFESTA)
+*********************************************************************
+*IMPORTANT DATES* - Submission deadline: May 7, 2018 - Author notification:
+June 14, 2018 - Camera-ready version: June 28, 2018 - Symposium: September
+4-6, 2018 *ABOUT* SETTA aims to bring together international researchers
+and practitioners in the field of software technology. Its focus is on
+formal methods and advanced software technologies, especially for
+engineering complex, large-scale artifacts like cyber-physical systems,
+networks of things, enterprise systems, or cloud-based services.
+Contributions relating to formal methods or integrating them with software
+engineering, as well as papers advancing scalability or widening the scope
+of rigorous methods to new design goals are especially welcome. As part of
+CONFESTA ( http://confesta2018.csp.escience.cn/ ), SETTA 2018 will be
+co-located with CONCUR, FORMATS and QUEST. *TOPICS* Topics of interest
+include, but are not limited to: - Requirements specification and analysis
+- Formalisms for modeling, design and implementation - Model checking,
+theorem proving, and decision procedures - Scalable approaches to formal
+system analysis - Formal approaches to simulation and testing - Integration
+of formal methods into software engineering practice - Contract-based
+engineering of components, systems, and systems of systems - Formal and
+engineering aspects of software evolution and maintenance - Parallel and
+multicore programming - Embedded, real-time, hybrid, and cyber-physical
+systems - Mixed-critical applications and systems - Formal aspects of
+service-oriented and cloud computing - Safety, reliability, robustness, and
+fault-tolerance - Dependability of smart software and systems - Empirical
+analysis techniques and integration with formal methods - Applications and
+industrial experience reports - Tool integration *Submission* Authors are
+invited to submit papers on original research, industrial applications, or
+position papers proposing challenges in fundamental research and
+technology. The latter two types of submissions are expected to contribute
+to the development of formal methods either by substantiating the
+advantages of integrating formal methods into the development cycle or
+through delineating need for research by demonstrating weaknesses of
+existing technologies, especially when addressing new application domains.
+Submissions can take the form of either regular or short papers. Short
+papers can discuss ongoing research at an early stage, including PhD
+projects. Regular Papers should not exceed 16 pages and short papers should
+not exceed 6 pages in LNCS format. The proceedings will be published as a
+volume in Springer's LNCS series. Papers should be submitted electronically
+through the EasyChair submission web page < https://easychair.org/conferen
+ces/?conf=setta2018 >. All submissions must be in the PDF format. Papers
+should be written in English. Submitted papers must be unpublished and not
+submitted for publication elsewhere. Accepted papers must be presented at
+the conference. *Invited Speakers* - Moshe Vardi (joint keynote speaker for
+CONFESTA 2018), Rice University - Tao Xie, UIUC - Hongseok Yang, KAIST
+*ORGANIZERS* General Chair: - Chaochen Zhou (Inst. of Software, CAS, China)
+Program Co-chairs: - Xinyu Feng (Nanjing University, China) - Markus
+Müller-Olm (University of Münster, Germany) - Zijiang Yang (Western
+Michigan University, USA) Program Committee: - Farhad Arbib (CWI Amsterdam,
+Netherlands) - Sanjay Baruah (Washington University in St. Louis, USA) -
+Lei Bu (Nanjing University, China) - Michael Butler (University of
+Southampton, UK) - Yan Cai (Institute of Software, CAS, China) - Taolue
+Chen (Birkbeck, University of London, UK) - Yuxin Deng (East China Normal
+University, China) - Xinyu Feng (Nanjing University, China) - Yuan Feng
+(University of Technology Sydney, Australia) - Ernst Moritz Hahn (Institute
+of Software, CAS, China) - Dan Hao (Peking University, China) - Maritta
+Heisel (University Duisburg-Essen, Germany) - Raymond Hu (Imperial College
+London, UK) - He Jiang (Dalian Univerisyt of Technology, China) - Yu Jiang
+(Tsinghua University, China) - Einar Broch Johnsen (University of Oslo,
+Norway) - Guoqiang Li (Shanghai Jiao Tong University, China) - Ting Liu
+(Xi'an Jiaotong University, China) - Tongping Liu (University of Texas at
+San Antonio, USA) - Yang Liu (Nanyang Technological University, Singapore)
+- Xiapu Luo (Hong Kong Polytechnic University, HongKong) - Stephan Merz
+(INRIA Nancy and LORIA, France) - Markus Müller-Olm (University of Münster,
+Germany) - Jun Pang (University of Luxembourg, Luxembourg) - Davide
+Sangiorgi (University of Bologna, Italy) - Oleg Sokolsky (University of
+Pennsylvania, USA) - Fu Song (ShanghaiTech University, China) - Zhendong Su
+(University of California, Davis, USA) - Jun Sun (Singapore University of
+Technology and Design, Singapore) - Walid Mohamed Taha (Halmstad
+University, Sweden) - Sofiene Tahar (Concordia University, Canada) - Cong
+Tian (Xidian Univeristy, China) - Bow-Yaw Wang (Academia Sinica, Taiwan) -
+Chao Wang (University of Southern California, USA) - Ji Wang (NUDT, China)
+- Heike Wehrheim (University of Paderborn, Germany) - Xin Xia (Monash
+University, Australia) - Zijiang Yang (Western Michigan University, USA) -
+Shin Yoo (KAIST, Korea)

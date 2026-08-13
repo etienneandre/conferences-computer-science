@@ -19,3 +19,7 @@ license = "cc-by"
 
 [extra]
 notes = "Satellite of ETAPS. In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
+
+[[cfp]]
+file = "cfp/MARS-2020-extended.txt"
+stage = "extended"

@@ -27,3 +27,15 @@ competition = "Hosts the model checking contest"
 
 [extra]
 notes = "This year, celebration in honor of the 100th birthday of Carl Adam Petri"
+
+[[cfp]]
+file = "cfp/PetriNets-2026.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PetriNets-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/PetriNets-2026-extended.txt"
+stage = "extended"

@@ -19,3 +19,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Double blind submission. Abstract not required."
+
+[[cfp]]
+file = "cfp/ICOST-2020.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICOST-2020-extended.txt"
+stage = "extended"

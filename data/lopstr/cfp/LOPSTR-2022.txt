@@ -1,0 +1,173 @@
+Call for Papers - LOPSTR 2022 - 32nd International Symposium on Logic-based Program Synthesis and Transformation
+http://lopstr2022.webs.upv.es/
+[apologies for multiple copies]
+====== CALL FOR PAPERS ======
+  32nd International Symposium on
+  Logic-Based Program Synthesis and Transformation
+  LOPSTR 2022
+  http://lopstr2022.webs.upv.es/
+  Tbilisi, Georgia 
+  21-23 September 2022
+  (co-located with PPDP 2022 as part of CLAS 2022)
+OVERVIEW
+============================
+The aim of the LOPSTR series is to stimulate and promote 
+internationa l research and collaboration on logic-based 
+program development. LOPSTR is open to contributions in 
+logic-based program development in any language paradigm. 
+LOPSTR has a reputation for being a lively, friendly forum 
+for presenting and discussing work in progress.
+The 32nd International Symposium on Logic-based Program 
+Synthesis and Transformation (LOPSTR 2022) will be held at 
+the Ivane Javakhishvili Tbilisi State University (TSU) in 
+Tbilisi, Georgia. Previous symposia were held in Tallin 
+(hybrid event), Bologna (as a virtual meeting), Porto, 
+Frankfurt am Main, Namur, Edinburgh, Siena, Canterbury, 
+Madrid, Leuven, Odense, Hagenberg, Coimbra, Valencia, 
+Lyngby, Venice, London, Verona, Uppsala, Madrid, Paphos, 
+London, Venice, Manchester, Leuven, Stockholm, Arnhem, Pisa,
+Louvain-la-Neuve and Manchester. You might have a look at  
+the contents of past LOPSTR symposia at DBLP
+(http://www.informatik.uni-trier.de/~ley/db/conf/lopstr/index.html), 
+and at the Springer LNCS repository for past 
+Post-proceedings (https://link.springer.com/conference/lopstr).
+LOPSTR 2022 will be co-located with PPDP 2022 as part of the
+Computational Logic Autumn Summit 2022. Information about 
+venue and travel is available on the CLAS 2022 website
+(http://www.viam.science.tsu.ge/clas2022/).
+The LOPSTR 2022 proceedings will be published by Springer in 
+the Lecture Notes in Computer Science series at conference 
+time after a single round of reviewing.
+Submissions can be made in two categories: Full Papers and 
+Extended Abstracts. All submissions must be written in 
+English. Submissions of Full Papers must describe original 
+work, and must not substantially overlap with papers that  
+have been published or that are simultaneously submitted to 
+a journal, conference, or workshop with refereed 
+proceedings. Work that already appeared in unpublished or 
+informally published workshop proceedings may be submitted 
+(please contact the PC chair in case of questions). 
+Submissions of Extended Abstracts may describe 
+work-in-progress research to be presented during the 
+conference. These contributions will be published in 
+informal proceedings, if enough papers are accepted.
+After the symposium, a selection of the best papers will be 
+invited for submission to a special issue of the Fundamenta 
+Informaticae journal (https://fi.episciences.org/). Authors 
+of selected original papers will be invited to revise and/or 
+extend their submissions to be considered for publication in 
+the special issue. The papers submitted to the special issue 
+will be subject to the standard reviewing process of the 
+journal.
+Topics of interest cover all aspects of logic-based program 
+development, all stages of the software life cycle, and 
+issues of both programming-in-the-small and 
+programming-in-the-large, including, but not limited to:
+* synthesis; transformation; specialization; composition;
+  optimisation
+* specification; analysis; verification; testing;
+  certification
+* program and model manipulation; inversion
+* artificial intelligence methods for program development; 
+  verification and testing of AI-based systems
+* transformational techniques in SE
+* applications and tools
+Both full papers and extended abstracts describing 
+foundations and applications in these areas are welcome. 
+Survey papers that present some aspects of the above topics 
+from a new perspective and papers that describe experience 
+with industrial applications are also welcome.
+Important Dates
+===============================
+* Abstract submission: May 2, 2022 
+* Paper submission: May 9, 2022 
+* Notification to authors: June 20, 2022 
+* Final version: July 11, 2022 
+* Conference: September 21-23, 2022 
+Submission Guidelines
+==================================
+Authors should submit an electronic copy of the paper 
+(written in English) in PDF, formatted in the Lecture Notes 
+in Computer Science style. Each submission must include on 
+its first page the paper title; authors and their affiliations; 
+contact author's email; abstract; and three to four keywords 
+which will be used to assist the PC in selecting appropriate 
+reviewers for the paper. Authors should consult Springer's 
+authors' instructions at the author's page
+(https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), 
+and use their proceedings templates, either for LaTeX 
+(available also in Overleaf) or for Word, for the 
+preparation of their papers. Springer encourages authors to 
+include their ORCIDs in their papers. In addition, upon 
+acceptance, the corresponding author of each paper, acting 
+on behalf of all of the authors of that paper, must complete 
+and sign a Consent-to-Publish form. The corresponding author 
+signing the copyright form should match the corresponding 
+author marked on the paper. Once the files have been sent to 
+Springer, changes relating to the authorship of the papers 
+cannot be made.
+Page numbers (and, if possible, line numbers) should appear
+on the manuscript to help the reviewers in writing their
+report. So, for LaTeX, we recommend that authors use:
+\pagestyle{plain}
+\usepackage{lineno}
+\linenumbers
+Full papers cannot exceed 15 pages excluding references. 
+Extended abstracts cannot exceed 8 pages excluding 
+references. Additional pages may be used for appendices not 
+intended for publication. Reviewers are not required to read 
+the appendices, and thus papers should be intelligible 
+without them.
+Papers should be submitted via EasyChair: 
+https://easychair.org/conferences/?conf=lopstr2022
+Accepted Full Papers will be published in the formal LNCS 
+proceedings. Accepted Extended Abstracts will be included in 
+the informal proceedings if enough papers are accepted. The 
+program committee may recommend some full papers to be 
+accepted only for presentation at the symposium and to be 
+included in the informal proceedings.
+Best paper awards
+=====================================
+Thanks to Springer's sponsorship, a best paper award, which 
+will include a 1000 EUR prize, will be given at LOPSTR 2022. 
+The program committee will select the winning paper based on 
+relevance, originality and technical quality but may also 
+take authorship into account (e.g. a student paper).
+Invited Speaker
+========================================
+TBA
+Program Committee
+===========================================
+Elvira Albert -- Complutense University of Madrid (Spain)
+Roberto Amadini -- University of Bologna (Italy)
+Emanuele De Angelis -- IASI, National Research Council (Italy)
+Włodzimierz Drabent -- IPI PAN, Poland & Linköping Univers ity (Sweden)
+Catherine Dubois -- ENSIIE-Samovar (France)
+Fabio Fioravanti -- University of Chieti-Pescara (Italy)
+Gopal Gupta -- University of Texas at Dallas (USA)
+Geoff Hamilton -- Dublin City University (Ireland)
+Michael Hanus -- Kiel University (Germany)
+Maja Kirkeby -- Roskilde University (Denmark)
+Ekaterina Komendantskaya -- Heriot-Watt University (UK)
+Temur Kutsia -- RISC J. Kepler University of Linz (Austria)
+Maria Chiara Meo -- University G. D'Annunzio, Chieti Pescara (Italy)
+Fred Mesnard -- Université de la Réunion (France)
+Alberto Momigliano -- University of Milano (Italy)
+Naoki Nishida -- Nagoya University (Japan)
+Laura Panizo -- University of Málaga, Spain
+Laura Titolo -- National Institute of Aerospace (US)
+Wim Vanhoof -- University of Namur (Belgium)
+Alicia Villanueva (Chair) -- Universitat Politècnica de València (Spain)
+Organization
+=============== ===============================
+* Local organization:
+  Besik Dundua (chair)
+  Tbilisi State University / Kutaisi International University,
+  Georgia
+* Contact
+  For more information, please contact the Program Committee
+  Chair: alvilga1@upv.es
+* In coorperation with
+  Springer
+  Lecture Notes in Computer Science
+  Kurt Gödel Society

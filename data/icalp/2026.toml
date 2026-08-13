@@ -33,3 +33,7 @@ best student papers for Track A and Track B."""
 
 [extra]
 colocated = "Co-located with PODC and SPAA"
+
+[[cfp]]
+file = "cfp/ICALP-2026.txt"
+stage = "initial"

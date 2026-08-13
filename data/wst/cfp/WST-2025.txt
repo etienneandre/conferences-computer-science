@@ -1,0 +1,96 @@
+======================================================================
+                      WST 2025 - Call for Papers
+              20th International Workshop on Termination
+                https://urldefense.com/v3/__https://www.imn.htwk-leipzig.de/WST2025__;!!IBzWLUs!VYIUKPIqZSfDN-boalJ00FRnjdSoEqxPAj82vKUgsHCsFfKCpFA2akSjxH7t4MPil0I3hqhQoXk8g6A15bbnpiJ9l-oe5HM$
+                 September 3-4, 2025, Leipzig, Germany
+
+               Co-located with IWC 2025, Sept. 2-3, 2025
+======================================================================
+
+The Workshop on Termination (WST) traditionally brings together, in an
+informal   setting,  researchers   interested   in   all  aspects   of
+termination,  whether  this  interest  be  practical  or  theoretical,
+primary  or  derived.   The  workshop   also  provides  a  ground  for
+cross-fertilization of ideas from the different communities interested
+in termination (e.g., working on computational mechanisms, programming
+languages,  software  engineering,   constraint  solving,  etc.).  The
+friendly  atmosphere  enables  fruitful  exchanges  leading  to  joint
+research and subsequent publications.
+
+
+IMPORTANT DATES
+
+  - submission:          June 25, 2025
+  - notification:        July 16, 2025
+  - early registration:  July 23, 2025
+  - final version:       August 6, 2025
+  - workshop:            September 3-4, 2025
+
+
+TOPICS
+
+The 20th International Workshop on Termination  welcomes contributions
+on all aspects of  termination.  In particular,  papers  investigating
+applications  of  termination  (for example  in  complexity  analysis,
+program  analysis  and   transformation,   theorem  proving,   program
+correctness,  modeling  computational systems, etc.) are very welcome.
+
+Topics of interest include (but are not limited to):
+
+  - termination and complexity analysis in any domain (lambda
+    calculus, declarative programming, rewriting, transition systems,
+    probabilistic programs, etc.)
+  - abstraction methods in termination analysis
+  - certification of termination and complexity proofs
+  - challenging termination problems
+  - comparison and classification of termination methods
+  - implementation of termination and complexity methods
+  - non-termination analysis
+  - normalization and infinitary normalization
+  - operational termination of logic-based systems
+  - ordinal notation and subrecursive hierarchies
+  - SAT, SMT, and constraint solving for (non-)termination analysis
+  - scalability and modularity of termination methods
+  - well-founded relations and well-quasi-orders
+
+
+SUBMISSION GUIDELINES
+
+Submissions  are  short  papers/extended abstracts  which  should  not
+exceed 5 pages.  There will be no formal reviewing.  In particular, we
+welcome  short  versions  of  recently  published articles and  papers
+submitted  elsewhere.  The  program  committee  checks  relevance  and
+provides additional feedback for each submission.  The accepted papers
+will be made available electronically before the workshop.
+
+Papers should be submitted electronically via the submission page that
+will be announced here  (at beginning of June).  Please use  LaTeX and
+the LIPIcs style file from
+
+  https://urldefense.com/v3/__https://github.com/dagstuhl-publishing/styles/__;!!IBzWLUs!VYIUKPIqZSfDN-boalJ00FRnjdSoEqxPAj82vKUgsHCsFfKCpFA2akSjxH7t4MPil0I3hqhQoXk8g6A15bbnpiJ9VROyCog$
+to prepare your submission.
+
+
+PROGRAM COMMITTEE
+
+  - Carsten Fuhs, Birkbeck, University of London
+  - Jürgen Giesl, RWTH Aachen University
+  - Dieter Hofbauer (co-chair), ASW Saarland
+  - Pierre Lescanne, PLUME, ENS de Lyon
+  - Salvador Lucas, DSIC & VRAIN, Universitat Politècnica de València
+  - Aart Middeldorp, University of Innsbruck
+  - Johannes Waldmann (co-chair), HTWK Leipzig
+  - Akihisa Yamada, AIST, Japan
+
+
+TERMINATION COMPETITION
+
+Since 2003, the effect of WST to stimulate new research on termination
+has been enhanced by the Termination Competition
+
+  https://urldefense.com/v3/__https://termination-portal.org/wiki/Termination_Competition__;!!IBzWLUs!VYIUKPIqZSfDN-boalJ00FRnjdSoEqxPAj82vKUgsHCsFfKCpFA2akSjxH7t4MPil0I3hqhQoXk8g6A15bbnpiJ9-hh77Lw$
+and its continuously developing Problem Databases containing thousands
+of  programs  as  challenges  for  termination  analysis in  different
+categories.  In 2025, the Termination Competition will run during WST.
+Authors of participating  tools and benchmarks are invited to submit a
+short paper and give a presentation at the workshop.

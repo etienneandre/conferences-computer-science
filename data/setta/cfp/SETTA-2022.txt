@@ -1,0 +1,35 @@
+SETTA 2022, the Symposium on Dependable Software Engineering: Theories, Tools and Applications will be held in Beijing on October 27-29, 2022, and co-located with ATVA 2022.
+
+Formal methods emerged as an important area in computer science and software engineering about half a century ago. An international community has formed researching, developing and teaching formal theories, techniques and tools for software modeling, specification, design and verification. However, the impact of formal methods on the quality and improvement of software systems is, in practice, lagging behind. This is for instance reflected by the challenges in applying formal techniques and tools to engineering large-scale systems such as Cyber-Physical Systems (CPS), Internet-of-Things (IoT), Enterprise Systems, Cloud-Based Systems, and so forth. The purpose of the SETTA symposium is to bring international researchers together to exchange research results and ideas on bridging the gap between formal methods and software engineering. SETTA will show research interests and results from different groups so as to initiate interest-driven research collaboration. It is aiming at academic excellence and its objective is to become a flagship conference on formal software engineering in China.
+
+Topics of interest include, but are not limited to:
+ • Requirements specification and analysis
+ • Formalisms for modeling, design and implementation
+ • Model checking, theorem proving, and decision procedures
+ • Scalable approaches to formal system analysis
+ • Formal approaches to simulation, run-time verification, and testing
+ • Integration of formal methods into software engineering practice
+ • Contract-based engineering of components, systems, and systems of systems
+ • Formal and engineering aspects of software evolution and maintenance
+ • Parallel and multicore programming
+ • Embedded, real-time, hybrid, probabilistic, and cyber-physical systems
+ • Mixed-critical applications and systems
+ • Formal aspects of service-oriented and cloud computing
+ • Safety, reliability, robustness, and fault-tolerance
+ • Dependability of smart software and systems
+ • Empirical analysis techniques and integration with formal methods
+ • Applications and industrial experience reports
+ • Software tools to assist the construction or analysis of software systems
+
+Prospective authors are invited to visit the conference website for detailed information: https://lcs.ios.ac.cn/setta2022
+
+IMPORTANT DATES
+
+Abstract submission: July 23, 2022 (AoE)
+Paper submission: July 30, 2022 (AoE)
+Notification to authors: September 3, 2022 (AoE)
+Camera-ready version: September 20, 2022 (AoE)
+
+PUBLICATION
+
+Accepted research papers will be presented at the symposium and published in the SETTA 2022 post-proceedings as a volume in Springer's LNCS series. A selection of papers will be invited to special issues of the Elsevier Journal of Systems Architecture (JSA) and the IEEE Transactions on Reliability (TR).

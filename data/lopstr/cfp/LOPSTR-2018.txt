@@ -1,0 +1,129 @@
+======================================================================
+                LOPSTR 2018: First Call for Papers 
+======================================================================
+
+                   28th International Symposium on
+           Logic-Based Program Synthesis and Transformation
+                             LOPSTR 2018
+
+            http://ppdp-lopstr-18.cs.uni-frankfurt.de/index.html
+
+              Frankfurt, Germany, September 4-6, 2018
+             (co-located with PPDP 2018 and WFLP 2018)
+                                   
+
+The aim of the LOPSTR series is to stimulate and promote international
+research and collaboration on  logic-based program development. LOPSTR
+is open  to contributions  in logic-based  program development  in any
+language  paradigm.  LOPSTR  has  a reputation  for  being  a  lively,
+friendly forum for presenting and  discussing work in progress. Formal
+proceedings are produced only after  the symposium so that authors can
+incorporate this feedback in the published papers.
+
+The 28th International Symposium on Logic-based Program Synthesis  and
+Transformation  (LOPSTR  2018)  will be held at  the Goethe-University 
+Frankfurt am Main, Germany. Previous  symposia were  held  in   Siena,
+Canterbury,  Madrid,  Leuven,  Odense, Hagenberg,  Coimbra,  Valencia,
+Lyngby,  Venice,  London,  Verona, Uppsala,  Madrid,  Paphos,  London,
+Venice, Manchester, Leuven, Stockholm, Arnhem, Pisa, Louvain-la-Neuve,
+Manchester, Edinburgh,  and Namur.  LOPSTR  2018  will  be  co-located  
+with  PPDP  2018 (International  Symposium on  Principles and Practice 
+of  Declarative Programming) and WFLP 2018 (International  Workshop on 
+Functional and Logic Programming).
+
+Topics  of   interest  cover   all  aspects  of   logic-based  program
+development, all stages of the software life cycle, and issues of both
+programming-in-the-small   and  programming-in-the-large.   Both  full
+papers and  extended abstracts describing applications  in these areas
+are especially  welcome. Contributions are  welcome on all  aspects of
+logic-based program development, including, but not limited to:
+
+ * synthesis 
+ * transformation 
+ * specialization 
+ * composition 
+ * optimization 
+ * inversion 
+ * specification 
+ * analysis and verification 
+ * testing and certification 
+ * program and model manipulation 
+ * transformational techniques in SE 
+ * applications and tools 
+
+Survey papers that present some aspects of the above topics from a new
+perspective,  and application  papers  that  describe experience  with
+industrial applications are also welcome.
+
+Papers  must  describe original  work,  be  written and  presented  in
+English, and must not substantially overlap with papers that have been
+published  or   that  are  simultaneously  submitted   to  a  journal,
+conference, or  workshop with refereed proceedings.  Work that already
+appeared in  unpublished or informally published  workshop proceedings
+may be submitted (please contact the PC chairs in case of questions).
+
+
+Important Dates
+
+ Abstract submission:                              March 25, 2018
+ Paper/Extended abstract submission:               April 1, 2018
+ Notification:                                     June 1, 2018
+ Camera-ready (for electronic pre-proceedings):    June 17, 2018
+ Symposium:                                        September 4-6, 2018
+
+
+Submission Guidelines 
+
+Authors  should submit  an electronic  copy of  the paper  (written in
+English) in  PDF, formatted in  the Lecture Notes in  Computer Science
+style. Each submission must include on its first page the paper title;
+authors and their affiliations;  contact author's email; abstract; and
+three  to  four keywords  which  will  be used  to  assist  the PC  in
+selecting appropriate reviewers  for the paper. Page  numbers (and, if
+possible, line  numbers) should appear  on the manuscript to  help the
+reviewers in writing their report.  Submissions cannot exceed 15 pages
+including references but excluding well-marked appendices not intended
+for publication.  Reviewers are not  required to read  the appendices,
+and thus papers should be  intelligible without them. Papers should be
+submitted  via  the  Easychair  submission website  for  LOPSTR  2018.
+
+
+Best Paper Award and Prize
+
+A best paper award will be granted, which will include a 500 EUR prize
+provided by  Springer.  This  award will  be given  to the  best paper
+submitted to the conference, based  on the relevance, originality, and
+technical quality. The program committee may split the award among two
+or more papers, also considering authorship (e.g., student paper).
+
+
+Proceedings 
+
+The formal  post-conference proceedings will be  published by Springer
+in the  Lecture Notes in Computer  Science series. Full papers  can be
+directly  accepted  for  publication  in the  formal  proceedings,  or
+accepted  only for  presentation  at the  symposium  and inclusion  in
+informal  proceedings. After  the symposium,  all authors  of extended
+abstracts  and full  papers  accepted only  for  presentation will  be
+invited to revise and/or extend their  submissions in the light of the
+feedback  solicited at  the symposium.  Then, after  another round  of
+reviewing, these  revised papers may  also be published in  the formal
+proceedings.
+
+
+Program Committee
+
+    TBA
+
+    
+Program Chairs
+
+    Fred Mesnard, University of Reunion Island, France
+    Peter Stuckey, University of Melbourne, Australia
+
+
+Organizing Committee
+
+    David Sabel (General Chair), Computer Science Institute
+    Goethe-University Frankfurt am Main, Germany
+

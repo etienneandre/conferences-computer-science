@@ -1,0 +1,150 @@
+                                                                                       CALL FOR PAPERS
+
+                                                                                              ATVA 2025
+                          23rd International Symposium on Automated Technology for Verification and Analysis
+
+27-30 October 2025
+Bangalore, India
+https://conf.researchr.org/home/atva-2025
+
+ATVA 2025 is the 23rd in a series of symposia aimed at bringing together academics, industrial researchers and practitioners in the area of theoretical and practical aspects of automated analysis, synthesis, and verification of hardware and software systems. ATVA solicits high quality submissions in the following suggestive list of topics:
+
+* Formalisms for modeling hardware, software and embedded systems
+* Specification and verification of finite-state, infinite-state and parameterized systems
+* Program analysis and software verification
+* Analysis and verification of hardware circuits, systems-on-chip and embedded systems
+* Analysis of real-time, hybrid, priced, weighted and probabilistic systems
+* Deductive, algorithmic, compositional, and abstraction/refinement techniques for analysis and verification
+* Analytical techniques for safety, security, and dependability
+* Testing and runtime analysis based on verification technology
+* Analysis and verification of parallel and concurrent systems
+* Verification in industrial practice
+* Synthesis for hardware and software systems
+* Applications and case studies of verification
+* Automated tool support for verification
+* Testing and verification of neural networks
+* Testing and verification of autonomous systems
+
+IMPORTANT DATES
+
+* Abstract submission deadline: April 11, 2025 (AoE)
+* Paper submission deadline: April 18, 2025 (AoE)
+* Author response period: June 10 -- 13, 2025
+* Paper notification: June 25, 2025 (AoE)
+* Camera-ready deadline: July 25, 2025 (AoE)
+* Tutorials and Workshops: October 27, 2025
+* Conference: October 28 – October 30, 2025
+
+SUBMISSIONS
+
+ATVA welcomes submissions in the following two categories:
+
+* Regular research papers (18 pages, excluding references, must be anonymized)
+* Tool papers (10 pages, excluding references, not anonymized)
+
+Submissions in both categories must be in Springer's LNCS format. Formatting style files and further guidelines for formatting can be found at the Springer website https://www.springer.com/gp/computer-science/lncs. Adding line numbers (LaTeX package lineno) is highly recommended. Submissions authored or co-authored by members of the program committee are allowed and encouraged.
+
+An artifact evaluation will be undertaken, which will be optional for regular papers and mandatory for tool papers.
+
+Papers must be submitted through EasyChair: https://easychair.org/conferences/?conf=atva2025
+
+Accepted papers in both categories will be published in Springer's Lecture Notes in Computer Science series. A few outstanding papers will be selected for a distinguished paper award. At least one author of each accepted paper is expected to register and present the paper at the conference.
+
+Regular papers
+**************
+
+Regular papers should not exceed 18 pages in Springer’s LNCS format, not counting references and appendices. Additional material may be placed in an appendix, to be read at the discretion of the reviewers, and to be omitted in the final version.
+
+Regular papers at ATVA 2025 will follow a full double-blind review process, which means that author names and affiliations must be omitted from the submission. Additionally, if a submission refers to prior work done by the authors, the reference should be made in the third person. These are firm submission requirements, and any regular paper that does not conform to these requirements will be rejected without review. We strongly encourage authors to not put the work on arXiv before (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.
+
+Authors of accepted regular papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. The submission deadline for this artifact evaluation will be soon after the paper acceptance notification. All research paper authors are encouraged to include a URL to their artifact in their paper, preferably during the original submission itself, or in the camera-ready version.
+
+Tool papers
+***********
+
+Tool papers should not exceed 10 pages in Springer’s LNCS format, not counting references. Tool papers will follow a single-blind review process. They do NOT need to be anonymized.
+
+Tool paper submissions MUST include a URL to an archival site from where the tool can be downloaded or accessed online for evaluation by the artifact evaluation committee. The site must also contain a set of examples, and a user manual that describes usage of the tool through examples. If the tool needs to be downloaded and installed, the site must contain instructions for installing the tool on Linux, Windows or MacOS. Packing the artifact as a Docker container is recommended. Papers describing tools that have already been presented (in any conference) will be accepted only if significant and clear enhancements to the tool are reported and implemented.
+
+Acceptance of tool paper submissions is contingent on successful artifact evaluation at the “functional” level. In special cases, where an artifact cannot be submitted, the authors should contact the Artifact Evaluation chairs to find alternate modes of artifact evaluation. More details about artifact evaluation can be found on the conference web site.
+
+Organization
+************
+
+General Chair:
+
+Deepak D’Souza, Indian Institute of Science, Bangalore, India
+
+Program Co-Chairs:
+
+* Meenakshi D’Souza, IIIT-Bangalore, India, meenakshi@iiitb.ac.in<mailto:meenakshi@iiitb.ac.in>
+* K. V. Raghavan, Indian Institute of Science, Bangalore, India, raghavan@iisc.ac.in<mailto:raghavan@iisc.ac.in>
+* B. Srivathsan, Chennai Mathematical Institute, Chennai, India, sri@cmi.ac.in<mailto:sri@cmi.ac.in>
+
+Local Organization Chair:
+
+Sujit Kumar Chakrabarti, IIIT-Bangalore, India
+
+Artifact Evaluation Co-Chairs:
+
+* Jie An, Institute of Software, Chinese Academy of Sciences, Beijing, China
+* Priyanka Golia, IIT Delhi, India
+
+Program Committee:
+
+S. Akshay, IIT Bombay, India
+Etienne André, Université Sorbonne Paris Nord, France
+Guy Avni, University of Haifa, Israel
+Gogul Balakrishnan, Google, USA
+A R Balasubramanian, Max Planck Institute for Software Systems, Germany
+Ansuman Banerjee, Indian Statistical Institute, India
+Suguman Bansal, Georgia Institute of Technology, USA
+Dirk Beyer, Ludwig-Maximilians-Universität München (LMU Munich), Germany
+Mingshuai Chen, Zhejiang University, China
+Yu-Fang Chen, Academia Sinica, Taiwan
+Yunja Choi, Kyungpook National University, South Korea
+Christoph Csallner, University of Texas at Arlington, USA
+Meenakshi D’Souza, International Institute of Information Technology Bangalore, India
+Rayna Dimitrova, CISPA, Germany
+Susanna Donatelli, Università degli Studi di Torino, Italy
+Grigory Fedyukovich, Florida State University, USA
+Hongfei Fu, Shanghai Jiao Tong University, China
+Orna Grumberg, Technion - Israel Institute of Technology, Israel
+Shibashis Guha, Tata Institute of Fundamental Research, India
+Ashutosh Gupta, Indian Institute of Technology Bombay, India
+Ichiro Hasuo, National Institute of Informatics, Japan
+Frédéric Herbreteau, Univ. Bordeaux, CNRS, LaBRI, France
+Orna Kupferman, Hebrew Univ, Jerusalem, Israel
+Milan Lopuaa-Zwakenberg, Univ of Twente, Netherlands
+Kumar Madhukar, Indian Institute of Technology Delhi, India
+Shahar Maoz, Tel Aviv University, Israel
+Umang Mathur, National University of Singapore, Singapore
+Ashish Mishra, Indian Institute of Technology Hyderabad, India
+Benjamin Monmege, Aix-Marseille Université, France
+Sergio Mover, École Polytechnique, France
+Kartik Nagar, Indian Institute of Technology Madras, India
+Daniel Neider, Technical University of Dortmund, Germany
+Youssouf Oualhadj, Université Paris Est Créteil, France
+Andreas Pavlogiannis, Aarhus University, Denmark
+Doron Peled, Bar-Ilan University, Israel
+Lauren Pick, The Chinese University of Hong Kong, Hong Kong
+Sumanth Prabhu, Tata Consultancy Services, India
+M. Praveen, Chennai Mathematical Institute, India
+Xiaokang Qiu, Purdue University, USA
+Komondoor Raghavan, Indian Institute of Science, India
+Muralikrishna Ramanathan, Amazon, USA
+Jie-Hong Roland Jiang, National Taiwan University, Taiwan
+Subhajit Roy, Indian Institute of Technology Kanpur, India
+Krishna S, Indian Institute of Technology Bombay, India
+Prakash Saivasan, Institute of Mathematical Sciences, India
+Sriram Sankaranarayanan, Univ. Colorado Boulder, USA
+Anne-Kathrin Schmuck, Max Planck Institute for Software Systems, Germany
+Arpit Sharma, Indian Institute of Science Education and Research Bhopal, India
+B Srivathsan, Chennai Mathematical Institute, India
+Quentin Stiévenart, Université du Québec à Montréal, Canada
+Vaishnavi Sundararajan, Indian Institute of Technology Delhi, India
+Nathalie Sznajder, Sorbonne Université, CNRS, LIP6, France
+Aditya V Thakur, University of California, Davis, USA
+Yakir Vizel, Technion, Israel
+Masaki Waga, Kyoto University, Japan
+Zhilin Wu, Chinese Academy of Sciences, China

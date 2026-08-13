@@ -1,0 +1,175 @@
+
+RV 2018: 18th International Conference on Runtime Verification
+Limassol, Cyprus, Oct. 10 - 13, 2018
+
+Final call for papers: new deadline: July 8, AoE
+
+https://rv2018.isp.uni-luebeck.de/
+
+Abstract due            Jul  8, 2018 (updated, final)
+Submission deadline     Jul  8, 2018 (updated, final)
+Notification due        Sep 10, 2018
+Final version due       Sep 24, 2018
+
+# Scope
+
+Runtime verification is concerned with the monitoring and analysis of the
+runtime behaviour of software and hardware systems. Runtime verification
+techniques are crucial for system correctness, reliability, and
+robustness; they provide an additional level of rigor and effectiveness
+compared to conventional testing, and are generally more practical
+than exhaustive formal verification. Runtime verification can be used
+prior to deployment, for testing, verification, and debugging purposes,
+and after deployment for ensuring reliability, safety, and security and
+for providing fault containment and recovery as well as online system
+repair. Topics of interest to the conference include:
+
+* specification languages
+* monitor construction techniques
+* program instrumentation
+* logging, recording, and replay
+* combination of static and dynamic analysis
+* specification mining and machine learning over runtime traces
+* metrics and statistical information gathering
+* program/system execution visualization
+* fault localization, containment, recovery and repair
+* integrated vehicle health management (IVHM)
+
+Application areas of runtime verification include cyber-physical systems,
+safety/mission-critical systems, enterprise and systems software,
+autonomous and reactive control systems, health management and diagnosis
+systems, and system security and privacy.
+
+We welcome contributions exploring the combination of runtime verification
+techniques with machine learning and static analysis. Whilst these
+are highlight topics, papers falling into these categories will not be
+treated differently from other contributions.
+
+An overview of previous RV conferences and earlier workshops can be
+found at: http://www.runtime-verification.org.
+
+# Submissions
+
+All papers and tutorials will appear in the conference proceedings in an
+LNCS volume. Submitted papers and tutorials must use the LNCS/Springer
+style detailed here:
+
+http://www.springer.de/comp/lncs/authors.html
+
+Papers must be original work and not be submitted for publication
+elsewhere. Papers must be written in English and submitted electronically
+(in PDF format) using the EasyChair submission page here:
+
+https://easychair.org/conferences/?conf=rv18
+
+The page limitations mentioned below include all text and figures, but
+exclude references. Additional details omitted due to space limitations
+may be included in a clearly marked appendix, that will be reviewed at
+the discretion of reviewers, but not included in the proceedings.
+
+At least one author of each accepted paper and tutorial must attend RV
+2018 to present.
+
+# Papers
+
+There are two categories of papers which can be submitted: regular or
+short papers. Papers in each category will be reviewed by at least 3
+members of the Program Committee.
+
+* Regular Papers (up to 15 pages, not including references)
+should present original unpublished results. We welcome theoretical
+papers, system papers, papers describing domain-specific variants of RV,
+and case studies on runtime verification.
+
+* Short Papers (up to 6 pages, not including references)
+may present novel but not necessarily thoroughly worked out ideas,
+for example emerging runtime verification techniques and applications,
+or techniques and applications that establish relationships between
+runtime verification and other domains.
+
+* Tool Demonstration Papers (up to 8 pages, not including references)
+should present a new tool, a new tool component, or novel extensions to
+existing tools supporting runtime verification. The paper must include
+information on tool availability, maturity, selected experimental results
+and it should provide a link to a website containing the theoretical
+background and user guide. Furthermore, we strongly encourage authors
+to make their tools and benchmarks available with their submission.
+(Note that this is separate from the "Industrial Day" organised as part
+of ISoLA where tools can be exhibited, so participation in one does not
+preclude the other.)
+
+The Program Committee of RV 2018 will give a best paper award, and a
+selection of accepted regular papers will be invited to appear in a
+special issue of the Springer Journal on Formal Methods in System Design.
+
+# Related events
+
+The RV conference also includes an RV tool contest as well as an
+exhibition of industrial-strength runtime verification tools and
+approaches. Separate calls for contribution to these events will be
+issued soon.
+
+
+# Committees
+
+### General Chair
+* Saddek Bensalem, VERIMAG (University of Grenoble Alpes), France
+
+### Program Chairs
+* Christian Colombo, University of Malta, Malta
+* Martin Leucker, University of Lübeck, Germany
+
+### Finance Chair
+* Violet Ka I Pun, University of Oslo, Norway
+
+### Publicity Chair
+* Cyrille Artho, KTH Royal Institute of Technology, Sweden
+
+### Local Organisation Chairs
+* Anna Philippou, University of Cyprus, Cyprus
+* Panagiotis Kouvaros, University of Cyprus, Cyprus
+
+### Program Committee
+* Wolfgang Ahrendt, Chalmers University of Technology, Sweden
+* Howard Barringer, University of Manchester, United Kingdom
+* Ezio Bartocci, Vienna University of Technology, Austria
+* Andreas Bauer, KUKA Systems, Germany
+* Eric Bodden, Paderborn University, Germany
+* Borzoo Bonakdarpour, McMaster University, Canada
+* Ylies Falcone, University of Grenoble Alpes, France
+* Lu Feng, University of Virginia, USA
+* Adrian Francalanza, University of Malta
+* Jean Goubault-Larrecq, University of Paris Saclay
+* Radu Grosu, Vienna University of Technology, Austria
+* Sylvain Hallé, Université du Québec, Canada
+* Klaus Havelund, NASA, USA
+* Marieke Huisman, University of Twente, Netherlands
+* Limin Jia, Carnegie Mellon University, USA
+* Felix Klaedtke, NEC Laboratories Europe, Germany
+* Shuvendu Lahiri, Microsoft, USA
+* Kim G. Larsen, Aalborg University, Denmark
+* Insup Lee, University of Pennsylvania, USA
+* Axel Legay, Inria, France
+* David Lo, Singapore Management University, Singapore
+* Leonardo Mariani, University of Milano-Bicocca, Italy
+* Ayoub Nouri, University of Grenoble Alpes, France
+* Gordon Pace, University of Malta, Malta
+* Doron Peled, Bar Ilan University, Israel
+* Jorge A. Perez, University of Groningen, Netherlands
+* Violet Ka I Pun, University of Oslo, Norway
+* Giles Reger, University of Manchester, United Kingdom
+* Grigore Rosu, University of Illinois, USA
+* Cesar Sanchez, IMDEA Software Institute, Spain
+* Gerardo Schneider, University of Gothenburg, Sweden
+* Nastaran Shafiei, NASA, USA
+* Rahul Sharma, Stanford University, USA
+* Shin'ichi Shiraishi, Toyota, USA
+* Julien Signoles, CEA, France
+* Scott Smolka, Stony Brook University, USA
+* Oleg Sokolsky, University of Pennsylvania, USA
+* Bernhard Steffen, University of Applied Science Dortmund, Germany
+* Scott Stoller, Stony Brook University, USA
+* Volker Stolz, Western Norway Univ. of Applied Sciences, Norway
+* Neil Walkinshaw, University of Leicester, UK
+* Chao Wang, University of Southern California, USA
+* Eugen Zalinescu, TUM, Germany

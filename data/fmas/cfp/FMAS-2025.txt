@@ -1,0 +1,117 @@
+7th Workshop on Formal Methods for Autonomous Systems (FMAS 2025)
+
+Paris, France
+
+17th to 19th of November 2025
+https://fmasworkshop.github.io/FMAS2025/
+
+
+
+
+FMAS 2025 is a 2.5-day peer-reviewed international workshop that brings together researchers working on a range of techniques for the formal verification of autonomous systems, to present recent work in the area, discuss key challenges, and stimulate collaboration between autonomous systems and formal methods researchers. Previous editions are listed on DBLP: https://dblp.dagstuhl.de/db/conf/fmas/index.html.
+
+
+
+
+More details can be found on our website: https://fmasworkshop.github.io/FMAS2025/
+
+
+We can be found on BlueSky <https://bsky.app/profile/fmasworkshop.bsky.social> and Mastodon <https://mastodon.acm.org/@FMASWorkshop>, and we have a group on LinkedIn <https://www.linkedin.com/groups/10019224/>. Posts about this year's workshop use the tag #FMAS2025.
+
+Important Dates
+Submission: 22nd of August 2025 (Anywhere on Earth <https://www.timeanddate.com/time/zones/aoe>)
+Notification: 6th of October 2025
+Final version: 17th of October 2025
+Workshop: 17th to 19th of November 2025
+Scope
+
+Autonomous systems present unique challenges for formal methods. They are often embodied in robotic systems that can interact with the real world, and they make independent decisions. Amongst other categories, they can be viewed as safety-critical, cyber-physical, hybrid, and real-time systems.
+
+
+Key challenges for applying formal methods to autonomous systems include:
+
+the system's dynamic deployment environment;
+verifying the system's decision making capabilities -- including planning, ethical, and reconfiguration choices; and
+using formal methods results as evidence given to certification or regulatory organisations.
+
+FMAS welcomes submissions that use formal methods to specify, model, or verify autonomous systems; in whole or in part. We are especially interested in work using integrated formal methods, where multiple (formal or non-formal) methods are combined during the software engineering process. We encourage submissions that are advancing the applicability of formal methods for autonomous systems, for example, improving integration or explainability, automation or knowledge transfer of these techniques; a wider discussion of these principles can be found in 'A Manifesto for Applicable Formal Methods' https://arxiv.org/abs/2112.12758.
+
+
+Autonomous systems are often embedded in robotic or cyber-physical systems, and they share many features (and verification challenges) with automated systems. FMAS welcomes submissions with applications to:
+
+automated systems,
+semi-autonomous systems, or
+fully-autonomous systems.
+Topics
+
+Topics of interest include (but are not limited to):
+
+Applicable, tool-supported Formal Methods that are suited to Autonomous Systems
+Runtime Verification or other formal approaches to deal with the reality gap (the gap between models/simulations and the real world),
+Verification against safety assurance arguments or standards documents,
+Formal specification, modelling, and requirements engineering approaches for autonomous systems,
+Case Studies that identify challenges when applying formal methods to autonomous systems,
+Experience Reports that provide guidance for tackling challenges with formal methods or tools, or
+Discussions of the future directions of the field.
+
+Because the above list is not exhaustive, if you are unsure if your paper is in scope for FMAS, please feel free to email us (addresses below) to discuss it.
+
+Special Topic: Human-AI Teams
+
+In addition to the topics above, we would like to invite work on formal methods for human-AI teamwork. We are interpreting AI broadly as autonomous, intelligent, or self-learning systems.
+
+
+Papers intended for this special topic could include (but are not limited to):
+
+Formal modelling of human behaviour,
+Joint/shared cognition,
+Human-Robot Interaction and communication,
+Robot-driven teams,
+Human-controlled swarms,
+Application areas could include: aerospace, firefighting/search and rescue, infrastructure monitoring, hazardous environment inspection
+
+Papers submitted for this special topic should be within the usual scope of FMAS.
+
+Submission and Publication
+
+There are four categories of submission:
+
+Vision papers 6 pages (excluding references) describe directions for research into Formal Methods for Autonomous Systems;
+Research previews 6 pages (excluding references) describe well-defined research ideas that are in their early stages, and may not be fully developed yet. Work from PhD students is particularly welcome;
+Experience report papers 15 pages (excluding references) report on practical experiences in applying Formal Methods to Autonomous Systems, focusing on the experience and lessons to be learnt;
+Regular papers 15 pages (excluding references) describe completed applications of Formal Methods to an Autonomous System, new or improved approaches, evaluations of existing approaches, and so on.
+
+These categories are intended to help you show your intent for your paper and to allow a fairer comparison of papers. For example, a Research Preview won't be judged as not developed enough for acceptance, purely because it is compared to a Standard Paper. The category descriptions are not exhaustive and should be interpreted broadly. If you are unsure if your paper clearly fits into one of these categories, please feel free to email us (details below) to discuss it.
+
+Submission Details
+Submission Link: https://easychair.org/conferences/?conf=fmas2025
+please select one of the four submission categories during submission, under the heading 'Topics'
+Submissions must be prepared using the EPTCS LaTeX style <http://style.eptcs.org/>.
+
+Each submission will receive at least three single-blind reviews. If a paper is accepted, at least one of the authors must register for, and attend, the workshop to present their work. We intend that accepted papers will be published via EPTCS <http://www.eptcs.org/>.
+
+Best Paper
+
+FMAS 2025 will honour the best paper selected with respect to reviews, programmee committee discussions, and conference presentations with an award.
+
+Special Issue
+
+We will organise a journal special issue to collect extensions of papers accepted in FMAS 2025. Look out for more details as we announce them.
+
+Poster Session
+
+FMAS 2025 will have a session for demos and posters, co-located with iFM2025. More details will be given closer to the time.
+
+Venue
+
+FMAS 2025 will be held from the 17th to 19th of November 2025, co-located with the International Conference on Integrated Formal Methods (iFM) 2025 <https://ifm2025.ens.psl.eu/>, hosted by Inria Paris, France.
+
+
+We will accept participation in-person and remotely:
+
+At least one author per paper must register and pay for on-site attendance at FMAS, even if the paper will be presented remotely – this is to ensure we cover the costs of running FMAS as a satellite workshop at iFM.
+Presenting or participating online will be free.
+If you are planning to present remotely, please contact us at FMASWorkshop@tutanota.com to let us know so that we can make the necessary arrangements.
+
+Kind Regards,
+The Organising Committee

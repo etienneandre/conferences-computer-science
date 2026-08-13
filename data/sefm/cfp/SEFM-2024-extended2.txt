@@ -1,0 +1,101 @@
+========= FINAL CALL FOR PAPERS ============
+
+!!! Abstracts deadline extended until the
+deadline of full papers (June 28) !!!
+
+22nd International Conference on
+
+Software Engineering and Formal Methods
+      4-8 November 2024
+University of Aveiro, Portugal
+
+https://sefm-conference.github.io/2024/
+
+============================================
+
+
+
+
+The 21st edition of the International Conference on Software Engineering and Formal Methods will be held between 6 and 8 November 2024, with workshops taking place on 4 and 5 November 2024.
+
+*Important dates*
+
+Abstract submission: 28 June 2024 (AoE) -- Extended!
+Paper submission: 28 June 2024 (AoE) -- Extended!
+Author notification: 15 August 2024
+Workshops: 4-5 November 2024
+Conference: 6-8 November 2024
+
+
+*Overview and Scope*
+
+The conference aims to bring together researchers and practitioners from academia, industry and government, to advance the state of the art in formal methods, to facilitate their uptake in the software industry, and to encourage their integration within practical software engineering methods and tools.
+
+The topics of interest include, but are not limited to, the following aspects of software engineering and formal methods.
+
+-Software Development Methods
+.Formal modelling, specification, and design
+.Software evolution, maintenance, re-engineering, and reuse
+.Design Principles
+
+-Programming languages
+.Domain-specific languages
+.Type theory
+.Abstraction and refinement
+
+-Software Testing, Validation, and Verification
+
+.Model checking, theorem proving, and decision procedures
+.Testing and runtime verification
+.Statistical and probabilistic analysis
+.Synthesis
+.Performance estimation and analysis of other non-functional properties
+.Other light-weight and scalable formal methods
+.Security and Safety
+
+-Security, privacy, and trust
+.Safety-critical, fault-tolerant, and secure systems
+.Software certification
+.Applications and Technology Transfer
+
+-Service-oriented and cloud computing systems, Internet of Things
+.Component, object, multi-agent and self-adaptive systems
+.Real-time, hybrid, and cyber-physical systems
+.Intelligent systems and machine learning
+.Quantum systems
+.HCI, interactive systems, and human error analysis
+.Education
+
+-Case studies, best practices, and experience reports
+
+
+*Invited Speakers*
+
+Luís S. Barbosa, University of Minho, PT
+Paula Herber, Universitat Munster, DE
+Aleks Kissinger, University of Oxford, UK
+
+
+*Paper submission*
+
+We solicit three categories of papers:
+
+.Regular papers - describing original research results, case studies, or surveys, should not exceed 16 pages (excluding bibliography of at most two pages).
+
+.Short papers - describing original research results or case studies, maybe in an incubation phase, should not exceed 8 pages (exculuding bibliography of at most one page).
+
+.Tool papers - that describe an operational tool and its contributions should not exceed 8 pages.
+
+Papers must be formatted according to the guidelines for Springer LNCS papers. All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere.
+
+Papers can be submitted through Easychair: https://easychair.org/conferences/?conf=sefm24
+
+*Artifact Evaluation*
+
+This edition of SEFM introduces an artifact evaluation (AE). An artifact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artifact is optional for regular papers and mandatory for tool papers. The artifacts will be judged by the Artifact Evaluation Committee (AEC). More details will be available soon.
+
+*Publication*
+
+All accepted papers will appear in the proceedings of the conference that will be published as a volume in Springer’s LNCS series.
+
+The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to a special issue of the journal Software and Systems Modeling (SoSyM).

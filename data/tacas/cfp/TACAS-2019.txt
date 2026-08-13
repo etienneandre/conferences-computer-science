@@ -1,0 +1,255 @@
+*******************************************************************************
+
+Â Â Â Â Â Â Â Â Â Â Â  25th International Conference on Tools and Algorithms
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  for the Construction and Analysis of Systems
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  TACAS 2019
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  organized within
+
+Â Â Â Â  22nd European Joint Conferences on Theory And Practice of Software
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  ETAPS 2019
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Prague, Czech Republic, 6-11 April 2019
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  http://www.etaps.org/2019
+
+*******************************************************************************
+
+TACAS is a forum for researchers, developers and users interested in rigorously
+based tools and algorithms for the construction and analysis of systems. The
+conference aims to bridge the gaps between different communities with this
+common interest and to support them in their quest to improve the utility,
+reliability, flexibility, and efficiency of tools and algorithms for building
+systems. Theoretical papers with clear relevance for tool construction and
+analysis as well as tool descriptions and case studies with a conceptual message
+are all encouraged. The topics covered by the conference include but are not
+limited to:
+
+* specification and verification techniques;
+* software and hardware verification;
+* analytical techniques for real-time, hybrid, or stochastic systems;
+* analytical techniques for safety, security, or dependability;
+* SAT and SMT solving;
+* theorem-proving;
+* model-checking;
+* static and dynamic program analysis;
+* testing;
+* abstraction techniques for modelling and verification;
+* compositional and refinement-based methodologies;
+* system construction and transformation techniques;
+* machine-learning techniques for synthesis and verification;
+* tool environments and tool architectures;
+* applications and case studies.
+
+Important dates and submission
+
+* Abstracts due: 9 November 2018 23:59 AoE
+* Papers due: 16 November 2018 23:59 AoE
+* Notification: 25 January 2019
+* Camera-ready versions due: 15 February 2019
+
+TACAS 2019 will not have a rebuttal phase.
+
+Submit your paper via the TACAS 2019 author interface of EasyChair:
+http://www.easychair.org/conferences/?conf=tacas2019
+
+TACAS paper categories
+
+TACAS accepts four types of submissions: research papers, case-study papers,
+regular tool papers, and tool-demonstration papers. Papers of all four types
+will appear in the proceedings and have presentations during the conference.
+
+Research papers clearly identify and justify a principled advance to the
+theoretical foundations for the construction and analysis of systems. Where
+applicable, they are supported by experimental validation.
+
+Case-study papers report on case studies, preferably in a real-world setting.
+They should provide information about the following aspects: the system being
+studied and the reasons why it is of interest, the goals of the study, the
+challenges the system poses to automated analysis/testing/synthesis, research
+methodologies and approaches used, the degree to which the goals were met, and
+how the results can be generalized to other problems and domains.
+
+Regular tool papers present a new tool, a new tool component, or novel
+extensions to an existing tool, and are subject to an artifact submission
+requirement (see below). They should provide a short description of the
+theoretical foundations with relevant citations, and emphasize the design and
+implementation concerns, including software architecture and core data
+structures. A regular tool paper should give a clear account of the tool's
+functionality, discuss the tool's practical capabilities with reference to the
+type and size of problems it can handle, describe experience with realistic case
+studies, and where applicable, provide a rigorous experimental evaluation.
+Papers that present extensions to existing tools should clearly focus on the
+improvements or extensions with respect to previously published versions of the
+tool, preferably substantiated by data on enhancements in terms of resources and
+capabilities.
+
+Tool demonstration papers focus on the usage aspects of tools and are also
+subject to an artifact submission requirement (see below). Theoretical
+foundations and experimental evaluation are not required, however, a motivation
+as to why the tool is interesting and significant should be provided. Further,
+the paper should describe aspects such as, for example, the assumptions about
+application domain and/or extent of potential generality, demonstrate the tool
+workflow(s), explain integration and/or human interaction, evaluate the overall
+role and the impact to the development process.
+
+Paper length limits
+
+The length of research, case-study, and regular tool papers is limited to 15
+pages plus 2 pages for references in the LNCS format. The length of
+tool-demonstration papers is limited to 6 pages in the LNCS format, including
+the bibliography.
+
+Appendices going beyond the above page limits are not allowed! Additional
+(unlimited) appendices can be made available separately or as part of an
+extended version of the paper made available via arXiv, Zenodo, or a similar
+service, and cited in the paper. The reviewers are, however, not obliged to read
+such appendices.
+
+Tool paper artifact submission
+
+This year, authors of regular tool papers and tool-demonstration papers are
+required to provide an artifact (format described below) with their submission.
+The artifact will be evaluated by the artifact evaluation committee (AEC)
+independently of the paper. The results of the artifact evaluation will be taken
+into account during discussion of the paper submission. Exceptions to this rule
+may be granted by the PC chairs, but only in cases when the tool cannot be in
+any reasonable way run by the AEC. In such cases, the authors should contact the
+PC chairs as soon as possible (at least 7 days prior to abstract submission),
+ask for an exception, and explain why it is needed. An example of a case where
+an exception can be negotiated is a tool that must be run in some very special
+environment, e.g., on special hardware that cannot be virtualised in any way.
+Note that license problems are generally not an acceptable grounds for an
+exception. When an exception is granted, the authors should instead submit a
+detailed video showing their tool in action.
+
+Posters and tool demonstrations
+
+Subject to available space, authors of all accepted papers will be given an
+option to present their results in the form of a poster in addition to the talk.
+Moreover, again subject to available space, authors of regular tool papers and
+tool demonstration papers will be given an option to demonstrate their tool to
+conference participants in addition to giving their talk / presenting their
+poster. More information about the posters and demonstrations will be posted to
+the concerned authors in due time.
+
+Submission and evaluation criteria
+
+Evaluation: All papers will be evaluated by the program committee, coordinated
+by the PC chairs, aided by the case-study chair for case-study papers, and by
+the tools chair for regular tool papers and tool demonstration papers. All
+papers will be judged on novelty, significance, correctness, and clarity.
+
+Replicability of results: Reproducibility of results is of the utmost importance
+for the TACAS community. Therefore, we encourage all authors of submitted papers
+to include support for replicating the results of their papers. For theorems,
+this would mean providing proofs; for algorithms, this would mean including
+evidence of correctness and acceptable performance, either by a theoretical
+analysis or by experimentation; and for experiments, one should provide access
+to the artifacts used to generate the experimental data. Material that does not
+fit into the paper may be provided on a supplementary web site, with access
+appropriately enabled and license rights made clear. For example, the
+supplemental material for reviewing case-study papers and papers with
+experimental results could be classified as reviewer-confidential if necessary
+(e.g., if proprietary data are investigated or software is not open source). In
+general, TACAS encourages all authors to archive additional material and make it
+citable via DOI (e.g., via Zenodo or Figshare).
+
+Limit of 3 submissions: Each individual author is limited to a maximum of three
+submissions as an author or co-author. Authors of co-authored submissions are
+jointly responsible for respecting this policy. In case of violations, all
+submissions of this (co-)author will be desk-rejected.
+
+Artifact evaluation
+
+Artifact evaluation is compulsory for regular tool papers and tool-demonstration
+papers. Authors of all accepted research papers and case-study papers will be
+invited to submit (but are not required to) the relevant artifact for evaluation
+by the AEC. The AEC will read the paper and evaluate the artifact according to
+the following criteria:
+
+* consistency with and replicability of results in the paper,
+* completeness,
+* documentation, and
+* ease of use.
+
+More information can be found on the TACAS 2019 artifact evaluation web page.
+
+Competition on software verification
+
+TACAS 2019 hosts the 8th Competition on Software Verification with the goal to
+evaluate technology transfer and compare state-of-the-art software verifiers
+with respect to effectiveness and efficiency. More information can be found on
+the web page of the competition: https://sv-comp.sosy-lab.org/2019/
+
+PC Co-Chairs
+
+* Tomas Vojnar, Brno University of Technology, Czech Republic
+* Lijun Zhang, Chinese Academy of Sciences, China
+
+Tools Chair
+
+* Marius Mikucionis, Aalborg University, Denmark
+
+Case Study Chair
+
+* Radu Grosu, Vienna University of Technology, Austria
+
+Competition Chair
+
+* Dirk Beyer, LMU Munich, Germany
+
+Program Committee
+
+* Parosh Aziz Abdulla, Uppsala University, Sweden
+* Armin Biere, Johannes Kepler University Linz, Austria
+* Ahmed Bouajjani, IRIF, UniversitÃ© Paris Diderot, France
+* Patricia Bouyer, LSV, CNRS & ENS Cachan, University Paris Saclay, France
+* Yu-Fang Chen, Academia Sinica, Taiwan
+* Maria Christakis, MPI-SWS, Germany
+* Alessandro Cimatti, Fondazione Bruno Kessler, Italy
+* Rance Cleaveland, University of Maryland, United States
+* Leonardo De Moura, Microsoft Research, United States
+* Parasara Sridhar Duggirala, University of Connecticut, United States
+* Pierre Ganty, IMDEA Software Institute, Spain
+* Orna Grumberg, Technion â€“ Israel Institute of Technology, Israel
+* Klaus Havelund, NASA/Caltech Jet Propulsion Laboratory, United States
+* Holger Hermanns, Saarland University, Germany
+* Falk Howar, Technical University Dortmund, Germany
+* Marieke Huisman, University of Twente, Netherlands
+* Radu Iosif, VERIMAG, CNRS, UniversitÃ© Grenoble-Alpes, France
+* Joxan Jaffar, National University of Singapore, Singapore
+* Stefan Kiefer, University of Oxford, United Kingdom
+* Jan Kretinsky, Technical University of Munich, Germany
+* Salvatore La Torre, UniversitÃ  degli Studi di Salerno, Italy
+* Kim Larsen, Aalborg University, Denmark
+* Annabelle McIver, Macquarie University, Australia
+* Roland Meyer, Technical University of Braunschweig, Germany
+* Sebastian A. Moedersheim, Technical University of Denmark, Denmark
+* David Parker, University of Birmingham, United Kingdom
+* Corina Pasareanu, NASA Ames Research Center, United States
+* Sanjit Seshia, University of California, Berkeley, United States
+* Bernhard Steffen, Technical University Dortmund, Germany
+* Jan Strejcek, Masaryk University, Czech Republic
+* Zhendong Su, ETH Zurich, Switzerland
+* Meng Sun, Peking University, China
+* Michael Tautschnig, Amazon Web Services, United Kingdom
+* Thomas Wies, New York University, United States
+* Florian Zuleger, Vienna University of Technology, Austria
+
+Artifact Evaluation Chairs
+
+* Ernst Moritz Hahn, University of Liverpool, United Kingdom
+* Ondrej Lengal, Brno University of Technology, Czech Republic
+
+Steering Committee
+
+* Bernhard Steffen (chair), Technical University Dortmund, Germany
+* Dirk Beyer, LMU Munich, Germany
+* Rance Cleaveland, University of Maryland, United States
+* Holger Hermanns, Saarland University, Germany
+* Kim Larsen, Aalborg University, Denmark
+
+*******************************************************************************

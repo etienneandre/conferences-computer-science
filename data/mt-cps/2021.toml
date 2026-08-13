@@ -18,3 +18,7 @@ license = "free"
 
 [extra]
 colocated = "Part of CPS-IoT Week 2021"
+
+[[cfp]]
+file = "cfp/MT-CPS-2021.txt"
+stage = "initial"

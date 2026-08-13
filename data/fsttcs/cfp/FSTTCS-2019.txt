@@ -1,0 +1,193 @@
+Call for paper
+---------------------------------------------------------------
+FSTTCS 2019:
+Foundations of Software Technology and Theoretical Computer Science
+December 11-13, 2019
+Indian Institut of Technology BOMBAY, Mumbai, India
+https://www.fsttcs.org.in/2019/
+
+Submission deadline: July 17, 2019 AoE (firm).
+Notification to authors: September 13, 2019.
+---------------------------------------------------------------
+
+FSTTCS 2019 is the 39th conference on Foundations of Software Technology
+and Theoretical Computer Science. It is organised by IARCS, the Indian
+Association for Research in Computing Science. It is a forum for
+presenting original results in foundational aspects of Computer Science
+and Software Technology.
+
+List of Topics
+==============
+
+Track A
+
+  - Algorithms and Data Structures
+  - Algorithmic Graph Theory and Combinatorics
+  - Approximation Algorithms
+  - Combinatorial Optimization
+  - Communication Complexity
+  - Computational Biology
+  - Computational Complexity
+  - Computational Geometry
+  - Computational Learning Theory
+  - Cryptography and Security
+  - Data Streaming and Sublinear algorithms
+  - Game Theory and Mechanism Design
+  - Parallel, Distributed and Online Algorithms
+  - Parameterized Complexity
+  - Proof Complexity
+  - Quantum Computing
+  - Randomness in Computing
+  - Theoretical Aspects of Mobile and High-Performance Computing
+
+Track B
+
+  - Automata, Games and Formal Languages
+  - Logic in Computer Science
+  - Modal and Temporal Logics
+  - Model Checking and Reactive Synthesis
+  - Models of Concurrent, Distributed and Mobile Systems
+  - Models of Timed, Reactive, Hybrid and Stochastic Systems
+  - Model Theory
+  - Principles and Semantics of Programming Languages
+  - Program Analysis and Transformation
+  - Security protocols
+  - Theorem Proving and Decision Procedures
+
+Invited Speakers
+================
+
+  - Karthikeyan Bhargavan, INRIA Paris
+  - Ranko Lazic, Warwick University
+  - Toniann Pitassi, University of Toronto
+  - Tim Roughgarden, Columbia University
+  - Alexandra Silva, University College London
+  - Virginia Vassilevska Williams, MIT
+
+Workshops
+=========
+
+* SAT/SMT winter school
+-----------------------
+
+See http://sat-smt.in
+
+SAT and SMT solvers are the backbone of a wide range of academic and
+industrial R&D activities today.  These include software and hardware
+verification, logistics, planning, operations research, non-linear
+discrete optimization, model counting, etc.  Recent developments in the
+field suggest that these solvers may soon be leveraged in an even wider
+range of applications that touch almost all aspects of computing.
+
+This school will include basic courses on logic, and tutorials on
+solvers by eminent scientists and developers from around the world, and
+latest research and applications centered around these solvers.
+
+  - Date: December 8-10, 2019
+
+* Trends in Transformations
+---------------------------
+
+The beautiful and robust theory of regular languages is based on four
+fundamental pillars : expressions, automata, logic and algebra.
+Extensions of the pillars of language theory to transformations
+(functions or relations) from words has been a very active area of
+research recently.  The aim of this workshop is to bring together
+researchers and students interested in theory and applications of formal
+models of transformations (transducers).  The workshop will feature
+tutorial kind of talks as well as recent state of the art results in
+transducers.
+
+  - Date: December 10, 2019
+  - Organizer: S.Krishna
+
+* GALA: Gems of Automata, Logic and Algebra
+-------------------------------------------
+
+This workshop will be targeted towards the participants of FSTTCS 2019,
+consisting of academicians and graduate students broadly in the area of
+theoretical computer science, with a focus on classical and recent
+topics in automata, logic and algebraic techniques in formal methods.
+
+  - Date: December 14, 2019
+  - Organizers: C. Aiswarya, S. Akshay and Benedikt Bollig
+
+Submission Guidelines
+=====================
+
+Submissions must be in electronic form via EasyChair
+https://easychair.org/conferences/?conf=fsttcs2019
+using the LIPIcs LaTeX style file
+http://drops.dagstuhl.de/styles/lipics-v2019/lipics-v2019-authors.tgz
+
+Submissions must not exceed 12 pages (excluding bibliography), but may
+include a clearly marked appendix containing technical details.  The
+appendix will be read only at the discretion of the program committee.
+Simultaneous submissions to journals or other conferences with published
+proceedings are disallowed.
+
+Publication
+===========
+
+Accepted papers will be published as proceedings of the conference in
+the Leibniz International Proceedings in Informatics (LIPIcs) as a free,
+open, electronic archive with access to all.  Authors will retain full
+rights over their work.  The accepted papers will be published under a
+CC-BY license.  For an accepted paper to be included in the proceedings,
+one of the authors must commit to presenting the paper at the conference.
+
+Committees
+==========
+
+Program Committee
+-----------------
+
+Track A
+
+  - Arkadev Chattopadhyay (Tata Institute of Fundamental Research,
+Mumbai) – co-chair
+  - Xi Chen (Columbia University)
+  - Yuval Filmus (Technion Israel Institute of Technology)
+  - François Le Gall (Kyoto University)
+  - Amit Kumar (Indian Institute of Technology Delhi)
+  - Mrinal Kumar (University of Toronto)
+  - Satya Lokam (Microsoft Research, Bangalore)
+  - Brendan Lucier (MSR, New England)
+  - Andrew McGregor (University of Massachusetts Amherst)
+  - Or Meir (University of Haifa)
+  - Neeldhara Misra (Indian Institute of Technology Gandhinagar)
+  - Jaikumar Radhakrishnan (Tata Institute of Fundamental Research, Mumbai)
+  - Sridharan Ramanujan (University of Warwick)
+  - Atri Rudra (University at Buffalo, The State University of New York)
+  - Barna Saha (University of Massachusetts Amherst)
+  - Anastasios Sidiropoulos (University of Illinois at Chicago)
+  - Kavitha Telikepalli (Tata Institute of Fundamental Research, Mumbai)
+
+Track B
+
+  - C. Aiswarya (Chennai Mathematical Institute)
+  - Udi Boker (Interdisciplinary Center (IDC), Herzliya)
+  - Véronique Bruyère (University of Mons)
+  - Pierre Clairambault (CNRS and ENS Lyon)
+  - Paul Gastin (LSV, CNRS and ENS Paris-Saclay) – co-chair
+  - Marcin Jurdzinski (University of Warwick)
+  - Stefan Kiefer (University of Oxford)
+  - Steve Kremer (INRIA Nancy-Grand Est and LORIA)
+  - S Krishna (Indian Institute of Technology Bombay)
+  - Christof Löding (RWTH Aachen University)
+  - K. Narayan Kumar (Chennai Mathematical Institute)
+  - Catuscia Palamidessi (INRIA Saclay and LIX)
+  - Sanjiva Prasad (Indian Institute of Technology Delhi)
+  - Karin Quaas (University of Leipzig)
+  - R. Ramanujam (Institute of Mathematical Sciences, Chennai)
+
+Organizing committee
+--------------------
+
+Theory group and Formal Methods group, IIT Bombay.
+
+Contact
+=======
+
+All questions about submissions should be emailed to the PC chairs of
+Track A (fsttcs2019achair@gmail.com) or Track B (gastin@lsv.fr).

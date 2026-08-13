@@ -1,0 +1,47 @@
+********************************************************************************************************
+
+
+-- ABOUT RTSOPS 2022--
+
+
+RTSOPS 2022, July 5, 2022, Modena – Italy
+https://www.ecrts.org/rtsops-2022/
+
+Workshop in conjunction with ECRTS 2022
+
+The 11th International Real-Time Scheduling Open Problems Seminar (RTSOPS 2022) provides a venue for the exchange of ideas and the discussion of interesting unsolved problems in real-time systems.
+
+To promote a spirit of cooperation and collaboration within the real-time systems community, the seminar is organized around presentation sessions. Each session provides the opportunity to hear about a number of unsolved problems in real-time systems, highlighted via brief presentations/pitches, followed by intensive discussion.
+
+Important dates:
+
+    Submission deadline: April 27th 
+
+    Notification: May 20th
+
+    Workshop day: July 5th 
+
+********************************************************************************************************
+This year, the focus of RTSOPS would be more on practical aspects of designing and analyzing real-time systems, although theory-inclined submissions focused on challenging problems are still welcome. We particularly encourage researchers who work in industry or are collaborating with industrial partners through projects to share their challenges and open problems with us. Submissions that discuss open problems to be addressed in the context of projects funded by governmental actions (e.g., by the European Union’s Horizon 2020 and Horizon Europe Research and Innovation programmes or by the National Science Foundation) are also welcome. Of course, the authors of open problem submissions from previous years’ RTSOPS are invited to submit short status reports on progress made towards a solution to their open problem.
+Abstracts may be submitted describing well-known but as yet unsolved problems. However, all abstracts should contain some element of original work that has not been published before; for example, a new problem, a new way of looking at an existing problem, new intuition or ideas on how a problem might be solved, possible frameworks for solutions, or overviews of special cases that may be useful in solving a problem. Abstracts describing progress on an open problem presented at previous RTSOPS meetings should include a brief statement of the open problem and a description of the technical advances made towards a solution. All the instructions for authors can be found here.
+
+Authors of accepted abstracts are expected to give a brief presentation/pitch of their open problem, and be prepared to interact with the audience in the intensive discussions that follow.
+
+RTSOPS 2022 invites extended abstracts of open problems in areas such as, but not limited to:
+
+- Single-core, multi-core, and many-core scheduling and resource management
+- New models and analysis techniques for real-time systems
+- Timing analysis for heterogeneous platforms with hardware acceleration 
+- Time-constrained cyber-physical systems
+- Issues in applying real-time models and analysis to industrial applications
+- Interactions between WCET (worst-case execution time) analysis and scheduling
+********************************************************************************
+RTSOPS 2022 – Submission instructions
+
+Extended abstracts for RTSOPS 2022 must be written in English, and not exceed two A4 pages in length in single column, 10-pt font, including relevant references.
+
+    Download the LaTeX template here
+
+    Download the MS Word template here
+
+Abstract submissions should be made electronically, in PDF format, via the paper submission page for RTSOPS 2022 https://easychair.org/conferences/?conf=rtsops2022

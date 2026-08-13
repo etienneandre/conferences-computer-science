@@ -17,3 +17,7 @@ publisher = "?"
 
 [extra]
 notes = "Satellite of ECRTS"
+
+[[cfp]]
+file = "cfp/CERTS-2020.txt"
+stage = "initial"

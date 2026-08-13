@@ -1,0 +1,116 @@
+=================================================================
+
+19th International Conference on Software Engineering and Formal
+Methods (SEFM 2021)
+
+6-10 December 2021
+
+Jointly organised in virtual mode by Carnegie Mellon University (US),
+Nazarbayev University (Kazakhstan) and the University of York (UK)
+
+Website: https://sefm-conference.github.io
+Twitter: @sefm_conf
+
+=================================================================
+
+The 19th edition of the International Conference on Software Engineering
+and Formal Methods will be held between 6 and 10 December 2021.
+The conference aims to bring together researchers and practitioners
+from academia, industry and government, to advance the state of the art
+in formal methods, to facilitate their uptake in the software industry,
+and to encourage their integration within practical software engineering
+methods and tools.
+
+Because of the COVID-19 pandemic, SEFM 2021 will be organised as a
+virtual event.
+
+Authors are invited to submit full papers (up to 15 pages + references)
+describing original and unpublished research results, case studies or
+surveys; and short tool papers (up to 6 pages). The topics of interest
+include, but are not limited to, the following aspects of software
+engineering and formal methods.
+
+*** TOPICS OF INTEREST ***
+
+* Software Development Methods
+- Formal modeling, specification, and design
+- Software evolution, maintenance, re-engineering, and reuse
+
+* Design Principles
+- Programming languages
+- Domain-specific languages
+- Type theory
+- Abstraction and refinement
+
+* Software Testing, Validation, and Verification
+- Model checking, theorem proving, and decision procedures
+- Testing and runtime verification
+- Statistical and probabilistic analysis
+- Software synthesis
+- Lightweight and scalable formal methods
+- Analysis of dependability, performance and other non-functional properties
+- Resilience, security, privacy, and trust
+- Safety-critical, fault-tolerant, and secure systems
+- Software assurance and certification
+
+* Applications and Technology Transfer
+- Self-adaptive systems
+- Service-oriented and cloud computing systems, Internet of Things
+- Component-based and multi-agent systems
+- Real-time, hybrid, and cyber-physical systems
+- Intelligent systems and machine learning
+- HCI, interactive systems, and human error analysis
+- Education
+
+* SPECIAL TOPIC AT SEFM 2021: “Software Engineering and Formal
+  Methods for Resilient and Trustworthy Autonomous Systems”
+- Resilient autonomous systems
+- Verification and assurance of autonomous systems
+- Mitigation of uncertainty and disruption in autonomous systems
+- Integration of conventional software and machine learning
+- Assurance patterns and assurance cases for autonomous systems
+
+* Case studies, best practices, and experience reports
+
+*** PAPER SUBMISSION ***
+
+We solicit two categories of papers:
+
+* Regular papers describing original and unpublished research results,
+case studies, or surveys. Regular papers should not exceed 15 pages,
+excluding bibliography. Two more pages containing only references are
+permitted.
+
+* Tool papers that describe an operational tool and its contributions.
+Tool papers should not exceed 6 pages (including bibliography) and
+should include the URL of the tool.
+
+All submissions must be original, unpublished, and not submitted
+concurrently for publication elsewhere.
+
+Paper submission is done via EasyChair:
+https://easychair.org/conferences/?conf=sefm2021
+
+Papers must be formatted according to the guidelines for Springer
+LNCS papers:
+https://www.springer.com/gb/computer-science/lncs/conference-proceedings-guidelines
+
+*** PUBLICATION ***
+
+All accepted papers will appear in the proceedings of the conference,
+which will be published as a volume in Springer's Lecture Notes in
+Computer Science series.
+
+*** IMPORTANT DATES ***
+
+Abstract submission: Monday 19 July 2021 (AOE)
+Paper submission: Friday 23 July 2021 (AOE)
+Author notification: Friday 24 September 2021
+Camera-ready submission: Friday 08 October 2021
+Conference: 6-10 December 2021
+
+*** PROGRAMME COMMITTEE CHAIRS ***
+
+Radu Calinescu, University of York, UK
+Corina Pasareanu, CMU / NASA Ames Research Center, US
+

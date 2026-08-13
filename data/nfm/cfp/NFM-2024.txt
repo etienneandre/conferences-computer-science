@@ -1,0 +1,140 @@
+The 16th NASA Formal Methods Symposium, NFM 2024
+https://conf.researchr.org/home/nfm-2024
+
+
+June 4-6, 2024
+Moffett Field, California
+
+--------------------------------------------------
+Important Dates:
+--------------------------------------------------
+
+Abstract submission:   December 1, 2023
+Full paper submission: December 8, 2023
+Notification:          February 16, 2024
+Camera-ready version:  March 15, 2024
+
+--------------------------------------------------
+Theme of the Symposium:
+--------------------------------------------------
+
+The widespread use and increasing complexity of mission-critical and
+safety-critical systems at NASA and in the aerospace industry requires advanced
+technologies to address their specification, design, verification, validation,
+and certification processes. For example, there is an increasing need for
+autonomous systems in deep space missions including NASA’s Moon to Mars
+exploration plans. The NASA Formal Methods Symposium is a forum to foster
+collaboration between theoreticians and practitioners from NASA, other
+government agencies, academia, and industry, with the goal of identifying
+challenges and providing solutions towards achieving assurance for such
+critical systems. The focus of this symposium is on formal techniques for
+software and system assurance for applications in space, aviation, robotics,
+and other NASA-relevant safety-critical systems. This year’s symposium extends
+the focus to safety assurance of machine learning enabled autonomous systems,
+formal methods for digital transformation, and accessibility for new
+industries.
+
+--------------------------------------------------
+Topics of Interest:
+--------------------------------------------------
+
+Advances in Formal Methods
+* Formal verification, model checking, and static analysis
+* Interactive and automated theorem proving
+* Program and specification synthesis, code transformation and generation
+* Run-time verification and test case generation
+* Techniques and algorithms for scaling formal methods
+* Design for verification and correct-by-design techniques
+* Requirements generation, specification, and validation
+
+Safety Assurance of Autonomous Systems
+* Verification of machine learning (ML) enabled systems
+* Run-time monitoring or model checking to ensure safe operation
+* Formal specifications and modeling of ML enabled systems
+* Case-studies/experience reports exploring the application of formal methods
+  in autonomous safety-critical, cyber-physical and hybrid systems
+* Using formal evidence for certification of ML enabled systems
+
+Formal Methods in Practice
+* Experience reports of application of formal methods in industry
+* Use of formal methods in education
+* Applications of formal methods in:
+  - concurrent and distributed systems
+  - fault-detection, diagnostics, and prognostics systems
+  - human-machine interaction analysis
+
+Safety Assurance of Autonomous Systems
+* Verification of machine learning (ML) enabled systems
+* Runtime monitoring or model checking to ensure safe operation
+* Formal specifications and modeling of ML enabled systems
+* Case-studies/experience reports exploring the application of formal methods
+  in autonomous safety-critical, cyber-physical and hybrid systems
+* Using formal evidence for certification of ML enabled systems
+
+Formal Methods for Digital Transformation
+* Applications related to Digital Twin & Digital Thread
+* Verification for integrated design and manufacturing
+* AI digital assistants for system design
+* Runtime monitoring for Smart Campus & Smart Cities
+
+Accessibility of Formal Methods for New Industries
+* "New Space" markets
+* Advanced Air Mobility and Startup Aviation
+* Formal Methods as a Service
+
+--------------------------------------------------
+Submissions:
+--------------------------------------------------
+
+There are two categories of submissions:
+* Regular Papers (15 pages) including references, describing fully developed
+  work and complete results
+* Short Papers (6 pages) including references, in one of the categories below:
+  - Tool papers describing novel and publicly available tools
+  - Case studies detailing applications of formal methods
+  - New emerging ideas in the topics of interest
+
+All papers should be in English and describe original work that has not been
+published or submitted elsewhere. NFM24 will be a hybrid conference. Authors of
+accepted papers are encouraged to present their work in person at the
+conference.
+
+There will be a tool demonstration session at the conference, where tool
+developers get to showcase their tools interactively with the attendees. All
+tool papers, under the short papers category, are required to participate in
+the tool demonstration session. uthors of regular papers are also welcome to
+participate in the tool demonstration session to showcase their application.
+
+All submitters who are interested in participating in the tool demonstration
+session must include an additional appendix (maximum 4 pages and will not
+appear in the proceedings) containing the description of the proposed demo and
+the URL to a screencast demonstrating the tool. Authors of all accepted papers
+additionally have an opportunity to present a poster.
+
+All submissions will be fully reviewed by members of the Program Committee.
+Accepted regular and short papers will be published in the Formal Methods
+subline of Springer’s Lecture Notes in Computer Science (LNCS) and must use
+LNCS style formatting described on
+https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines.
+Papers must be submitted in PDF format at the EasyChair submission site,
+https://easychair.org/conferences/?conf=nfm2024.
+
+--------------------------------------------------
+Location and Cost:
+--------------------------------------------------
+
+The symposium will take place at the NASA Ames Conference Center,
+Moffett Field, California, USA.
+
+There will be no registration fee charged to participants. All
+interested individuals, including non-US citizens, are welcome to
+attend, listen to the talks, and participate in discussions. However,
+all attendees must register.
+
+
+Nathan Benz
+Divya Gopinath
+Nija Shi
+
+NFM '24 Chairs
+nfm24-chairs@lists.nasa.gov

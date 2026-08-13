@@ -1,0 +1,157 @@
+Second Call For Papers
+
+Twelfth International Conference on
+
+Fundamentals of Software Engineering 2027 - Theory and Practice (FSEN '27)
+
+https://conf.researchr.org/home/fsen-2027
+
+University of Twente, Enschede, the Netherlands
+
+May 24-25, 2027
+
+######################################################################
+
+-- About FSEN --
+
+Fundamentals of Software Engineering (FSEN) is an international conference that aims to bring together researchers, engineers, developers, and practitioners from academia and industry to present and discuss their research work in the area of formal methods for software engineering. Additionally, this conference seeks to facilitate the transfer of experience, adaptation of methods, and where possible, foster collaboration among different groups. The topics of interest cover all aspects of formal methods, especially those related to advancing the application of formal methods in the software industry and promoting their integration with practical engineering techniques. Following the success of the previous FSEN editions, the next edition of the FSEN conference will take place at the University of Twente, in Enschede, the Netherlands, May 24-25, 2027.
+
+-- Important Dates (AoE) --
+
+* Abstract Submission: October 19, 2026
+* Paper Submission:  October 28, 2026
+* Notification: December 18, 2026
+* Pre-conference Camera-ready Submission: February 22, 2027
+* Poster Submission: February 24, 2027
+* Conference: May 24-25, 2027
+
+-- Keynote Speakers --
+
+(TBA)
+
+-- Topics of Interest --
+
+The topics of this conference include, but are not restricted to, the following:
+
+* Models of programs and software systems
+* Software specification, validation, and verification
+* Software testing
+* Software architectures and their description languages
+* Object, actor and multi-agent systems
+* Coordination, feature interaction and software product lines
+* Integration of formal and informal methods
+* Integration of different formal methods and of AI methods
+* Component-based and service-oriented software systems
+* Collective, self-adaptive and cyber-physical software systems
+* Model checking and theorem proving
+* Quantitative formal methods
+* Software and hardware verification
+* CASE tools and tool integration
+* Industrial applications
+
+-- Paper Submission --
+
+Authors are invited to submit:
+
+* Full papers (up to 16 pages excluding references) describing original research, applications and tools;
+* Short papers (up to 6 pages excluding references) describing ongoing research or new ideas that have not yet been fully validated;
+* Posters (up to 4 pages excluding references) describing ongoing work.
+
+At least one of the authors should register and present the paper at the conference. Upon request, up to five papers can be accepted by the PC for which no presence on site is required.
+
+FSEN'27 will follow a single-blind reviewing process. Appendices are optional and will not be included in the proceedings. All categories of papers must be submitted electronically in PDF using the online submission process via the EasyChair conference system at the following link: https://www.easychair.org/conferences/?conf=fsen2027.
+
+Contributions must be written in English, should be formatted according to the Springer LNCS style (LaTeX2e Proceedings Templates) that can be found at the following link (http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and not exceed the page limit for the category (including figures and references). Submissions should use default font sizes and margins, and be in A4 paper size.
+
+Each submission will be thoroughly reviewed by at least three reviewers considering scientific originality, significance, relevance to the FSEN conference, technical soundness, clarity, self-containedness and discussion of appropriate related work.
+
+The reviewers will be asked to rate the submissions and evaluate whether they can be accepted as:
+
+1) Full paper for the LNCS proceedings
+2) Short paper for the LNCS proceedings
+3) Poster (not included in the proceedings)
+
+Papers accepted in the first two categories will be invited for presentation at the conference. Posters will be illustrated by the authors in separate poster sessions.
+
+-- Responsible use of generative AI --
+
+Following the tradition of previous editions of FSEN, the proceedings will published in the LNCS series of Springer. We therefore recommend to carefully check the Springer policy regarding the use of generative AI. In brief this policy does allow for the use of AI tools to support the preparation of the manuscript, but authors must ensure that human expertise is involved in the editing and fact-checking of AI-generated content. Authors must transparently declare any use of AI tools in their manuscripts and are fully responsible for the content and integrity of their work, provided that the intellectual contributions—such as ideas, analysis, and conclusions—are original and human-generated; AI cannot be listed as an author or co-author. We further expect responsible use of AI and that authors commit themselves to maintain the integrity of scholarly communication. We also require reviewers to adhere to the non-disclosure of submitted manuscripts. This includes the requirement that reviews are being performed by the reviewers themselves and that submitted manuscripts are not being uploaded to AI tools. The use of tools for correcting spelling and grammar of the review reports themselves is permitted.
+
+For further details or specific issues regarding the AI policies of associations supporting FSEN and Springer, please consult:
+
+ - Springer's policies and guidances for AI (https://group.springernature.com/gp/group/ai/ai-guidance-for-our-researchers-and-communities)
+ - IFIP's Code of Ethics/Conduct (https://www.ifip.org/ifip-code-of-ethics/)
+ - ACM's Policy on Authorship (https://www.acm.org/publications/policies/new-acm-policy-on-authorship)
+
+-- Proceedings and Special Issue --
+
+The proceedings of FSEN'27 will be published by Springer in the LNCS series. Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN'27. After the conference a selection of papers will be invited for this special issue. The invited papers should be revised and extended and will undergo a new round of review by an international program committee. Please see the websites of previous editions of FSEN for more information on proceedings and special issues related to those editions.
+
+-- General Chairs --
+
+* Mieke Massink, CNR-ISTI, Pisa, Italy
+* Mariëlle Stoelinga, University of Twente, Enschede, and Radboud University, Nijmegen, the Netherlands
+
+-- Program Chairs --
+
+* Georgiana Caltais - University of Twente, Enschede, the Netherlands
+* José Proença - University of Porto, Porto, Portugal
+
+-- Publicity Chair --
+
+* Milan Lopuhaä-Zwakenberg, University of Twente, Enschede, the Netherlands
+
+-- Poster Chair --
+
+* Mahboobeh ZangiAbady, University of Twente, Enschede, the Netherlands
+
+-- Steering Committee --
+
+* Farhad Arbab - CWI, Amsterdam; Leiden University, Leiden, the Netherlands
+* Christel Baier - University of Dresden, Dresden, Germany
+* Hossein Hojjat, Tehran Institute for Advanced Studies (TeIAS), Tehran, Iran
+* Mieke Massink, CNR-ISTI, Pisa, Italy
+* Mohammad Reza Mousavi, King's College London, London, United Kingdom
+* Ali Movaghar - IPM, Iran; Sharif University of Technology, Tehran, Iran
+* Hamid Sarbazi-azad - IPM, Iran; Sharif University of Technology, Tehran, Iran
+* Marjan Sirjani - Mälardalen University, Mälardalen, Sweden; Reykjavik University, Reykjavik, Iceland (Chair)
+* Carolyn Talcott - SRI International, Menlo Park, USA
+* Martin Wirsing - LMU Munich, Munich, Germany
+
+-- Program Committee --
+
+* Erika Abraham - RWTH Aachen University, Germany
+* Sandra Alves - University of Porto, Portugal
+* Simon Bliudze - Inria Center at the University of Lille, France
+* Marcello Bonsangue - Leiden University, the Netherlands
+* Valentina Castiglioni - Eindhoven University of Technology, the Netherlands
+* Ali Ebnenasir - Michigan Technological University, United States
+* Adrian Francalanza - University of Malta, Malta
+* Carlo A. Furia - Università della Svizzera italiana, Switzerland
+* Fatemeh Ghassemi - University of Tehran, Iran
+* Osman Hasan - National University of Sciences & Technology, Pakistan
+* Hossein Hojjat - Tehran Institute for Advanced Studies, Iran
+* Mohammad Izadi - Sharif University, Iran
+* Einar Broch-Johnsen - University of Oslo, Norway
+* Eduard Kamburjan - IT University of Copenhagen, Denmark
+* Narges Khakpour - Newcastle University, United Kingdom
+* Ramtin Khosravi - University of Tehran, Iran
+* Kim Larsen - Aalborg University, Denmark
+* Nuno Macedo - University of Porto, Portugal
+* Paolo Masci - National Institute of Aerospace, United States
+* Mieke Massink - CNR-ISTI Pisa, Italiy
+* Rosemary Monahan - National University of Ireland, Ireland
+* Mohammad Reza Mousavi - King's College London, United Kingdom
+* Luigia Petre - Åbo Akademi University, Finland
+* Asieh Salehi Fathabadi - University of Southampton, United Kingdom
+* Davide Sangiorgi - University of Bologna, Italy
+* Christina Seceleanu - Mälardalen University, Sweden
+* Marjan Sirjani - Mälardalen University, Sweden
+* Meng Sun - Peking University, China
+* Carolyn Talcott - SRI International, United States
+* Maurice ter Beek - CNR-ISTI Pisa, Italy
+* Tayssir Touili - CNRS, France
+* Martin Wirsing - Ludwig Maximillian University of Munich, Germany
+
+See website: https://conf.researchr.org/home/fsen-2027
+

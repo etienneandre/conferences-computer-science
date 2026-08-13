@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Part of QONFEST 2021. Accepted tool descriptions will appear in the conference proceedings. A selection of the best full papers will be invited to submit an extended version of their work to a special issue in the ACM Transactions on Modelling and Computer Simulation (TOMACS). Repeatability/Artifact Evaluation."
+
+[[cfp]]
+file = "cfp/QEST-2021.txt"
+stage = "initial"

@@ -1,0 +1,139 @@
+-----------------------------------------------------------------------------------------------
+CFP: SPIN 2018 -
+25th International Symposium on Model Checking of Software
+Málaga, Spain, June 20-22, 2018
+http://spin2018.uma.es
+-----------------------------------------------------------------------------------------------
+
+The 25th edition of the SPIN symposium aims at bringing together
+researchers and practitioners interested in automated tool-based techniques
+for the analysis of software as well as models of software, for the purpose
+of verification and validation. The symposium specifically focuses on
+concurrent software, but does not exclude analysis of sequential software.
+Submissions are solicited on theoretical results, novel algorithms, tool
+development, and empirical evaluation.
+
+Topics of interest include, but are not limited to:
+* Formal verification techniques for automated analysis of software
+* Formal analysis for modeling languages, such as UML/state charts
+* Formal specification languages, temporal logic, design-by-contract
+* Model checking
+* Automated theorem proving, including SAT and SMT
+* Verifying compilers
+* Abstraction and symbolic execution techniques
+* Static analysis and abstract interpretation
+* Combination of verification techniques
+* Modular and compositional verification techniques
+* Verification of timed and probabilistic systems
+* Automated testing using advanced analysis techniques
+* Combination of static and dynamic analyses
+* Derivation of specifications, test cases, or other useful material via
+   formal analysis
+* Case studies of interesting systems or with interesting results
+* Engineering and implementation of software verification and analysis
+   tools
+* Benchmark and comparative studies for formal verification and analysis
+   tools
+* Formal methods education and training
+* Insightful surveys or historical accounts on topics of relevance to the
+   symposium
+
+  Important Dates
+===============
+* Paper Submission Extended: April 3, 2018 (23:59:59 Anywhere on Earth)
+* Author Notification : April 25, 2018
+* Camera-Ready Paper: May 5, 2018
+* Symposium : June 20-22, 2018
+*
+Submission Guidelines
+=====================
+The proceedings of SPIN will be published in Springer's Lecture Notes in
+Computer Science series. A selection of papers will be invited to a special
+issue of the International Journal on Software Tools for Technology
+Transfer (STTT) (JCR 2016 - 1.612).
+
+With the exception of survey and history papers, the papers should contain
+original work which has not been submitted or accepted for publication
+elsewhere. Submissions should adhere to the LNCS format:
+
+   http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0
+
+We are soliciting three categories of papers:
+* Full Research Papers describing fully developed work and complete results
+   (16 pages - references are not included in this limit)
+* Short Papers presenting tools, technology, experiences with lessons
+   learned, new ideas, work in progress with preliminary results, and novel
+   contributions to formal methods (6 pages - references are not included in this
+   limit)
+* Tool demo papers presenting the foundations, capabilities, application domains
+   and relevant examples using the tools, with a clear description of what is
+   expected to be shown in a live demonstration (4 pages to describe the tool
+   foundations, features and use examples, plus an appendix explaining the
+   content of the demo).
+
+Papers should be submitted via the EasyChair SPIN 2018 submission website:
+https://easychair.org/conferences/?conf=spin20180
+
+All papers that conform to submission guidelines will be peer-reviewed by
+members of the program committee.  Submissions will be evaluated on the
+basis of originality, importance of contribution, soundness, evaluation,
+quality of presentation, and appropriate comparison to related work.
+
+At least one author of each accepted paper must attend the symposium and
+present the paper.
+
+Best Paper awards will be given and announced at the conference.
+
+
+Invited Tutorial
+================
+* Irina Mariuca Asavoae & Markus Roggenbach(Swansea University)
+
+Invited Speakers
+=================
+* Klaus Havelund (NASA/Caltech Jet Propulsion Laboratory)
+* Radu Iosif (Verimag)
+* Doron Peled (Bar Ilan University)
+
+Program Chairs
+==============
+* María del Mar Gallardo, University of Málaga, Spain (gallardo@lcc.uma.es)
+* Pedro Merino, University of Málaga, Spain (pedro@lcc.uma.es)
+
+Program Committee
+=================
+* María Alpuente, Technical University of Valencia, Spain
+* Dragan Bosnacki, Eindhoven University of Technology, Netherlands
+* Rance Cleaveland, University of Maryland, USA
+* Stefan Edelkamp, King's College London, UK
+* Hakan Erdogmus, Carnegie Mellon, USA
+* Stefania Gnesi, CNR, Italy
+* Patrice Godefroid, Microsoft Research, USA
+* Klaus Havelund, NASA/Caltech Jet Propulsion Laboratory, USA
+* Gerard Holzmann, Nimble Research, USA
+* Radu Iosif, Verimag, France
+* Frédéric Lang, INRIA, France
+* Kim Larsen, Aalborg University, Denmark
+* Stefan Leue, University of Konstanz, Germany
+* Alberto Lluch Lafuente, Technical University of Denmark, Denmark
+* Irina Mariuca Asavoae, Swansea University, UK
+* Alice Miller, University of Glasgow, UK
+* Corina Pasareanu, CMU/NASA Ames, USA
+* Doron Peled, Bar Ilan University, Israel
+* Charles Pecheur, Université catholique de Louvain, Belgium
+* Neha Rungta, Amazon Web Services, USA
+* Antti Valmari, University of Jyvaskyla, Finland
+* Jaco Van de Pol, University of Twente, Enschede, Netherlands
+* Willem Visser, Stellenbosch University, South Africa
+* Farn Wang, National Taiwan University, Taiwan
+
+
+Steering Committee
+==================
+* Dragan Bosnacki, Eindhoven University of Technology, Netherlands (chair)
+* Susanne Graf, Verimag, France
+* Gerard Holzmann, Nimble Research, USA
+* Stefan Leue, University of Konstanz, Germany
+* Neha Rungta, Amazon Web Services, USA
+* Jaco Van de Pol, University of Twente, Enschede, Netherlands
+* Willem Visser, Stellenbosch University, South Africa

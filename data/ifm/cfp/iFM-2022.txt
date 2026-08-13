@@ -1,0 +1,179 @@
+==========================================================
+CALL FOR PAPERS
+iFM 2022
+
+17th International Conference on integrated Formal Methods
+7-10 June 2022, Lugano, Switzerland
+
+https://ifm22.si.usi.ch/
+===========================================================
+
+
+=== COVID-19 ===
+
+We are monitoring the COVID-19 pandemic development and are prepared to run the conference virtually or in a hybrid fashion in the unfortunate situation that a physical conference is not feasible. The paper selection process will not be affected and LNCS proceedings will be prepared regardless of whether the conference is held physically, virtually or in a hybrid fashion.
+
+
+=== Important dates ===
+
+- Abstract submission: January 14, 2022
+- Paper submission: January 21, 2022
+- Paper notification: March 18, 2022
+- Artefact submission: March 28, 2022
+- Artefact notification: April 15, 2022
+- Camera-ready: April 15, 2022
+- iFM conference: June 7-10, 2022
+Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
+
+Submission site: https://easychair.org/conferences/?conf=ifm2022
+
+
+=== Objectives and scope ===
+
+In recent years, we have witnessed a proliferation of approaches that integrate several modelling, verification and simulation techniques, facilitating more versatile and efficient analysis of software-intensive systems. These approaches provide powerful support for the analysis of different functional and non-functional properties of the systems, complex interaction of components of different nature as well as validation of diverse aspects of system behaviour. The iFM conference series is a forum for discussing recent research advances in the development of integrated approaches to formal modelling and analysis. The conference covers all aspects of the design of integrated techniques, including language design, verification and validation, automated tool support and the use of such techniques in software engineering practice. To credit the effort of tool developers, we introduce EAPLS artefact badging (https://eapls.org/pages/artifact_badges/) in this edition of iFM.
+
+Areas of interest include but are not limited to:
+
+- Formal and semi-formal modelling notations
+- Combining formal methods with different performance, simulation and system analysis techniques
+- Program verification, model checking, and static analysis
+- Theorem proving, decision procedures and SAT/SMT solving
+- Runtime analysis, monitoring and testing
+- Program synthesis
+- Modelling, analysis and synthesis of cyber-physical, hybrid, embedded, probabilistic, distributed or concurrent systems
+- Abstraction and refinement
+- Model learning and inference
+- Approaches to integrating formal methods into software engineering practice or industry
+- Approaches to integrating formal methods into standardisation or certification processes
+- Formal methods for AI
+- Tools and case studies supporting the integration of formal methods
+
+
+=== Paper Categories ===
+
+iFM 2022 solicits high-quality papers reporting research results and/or experience reports related to the overall theme of formal methods integration.
+
+We accept papers in the following categories:
+
+(1) Regular papers (limit 16 pages) on
+- original scientific research results
+- tools, their foundation and evaluations
+- applications of formal methods, including rigorous evaluations
+
+(2) Short papers (limit 6 pages) on
+- any subject of interest in the area of formal methods that can be described with sufficient detail within the page limit
+
+(3) Journal-First papers (limit 4 pages)
+- summarising recently published papers in high-quality journals
+
+All page limits exclude the references. Appendices may be included, but they will only be read by a reviewer at their discretion.
+
+Regular and short papers submitted in categories (1) and (2) must be original, unpublished, and not submitted for publication elsewhere. Papers in these two categories will undergo a thorough review process. Submissions will be judged on the basis of significance, relevance, correctness, originality and clarity.
+
+The aim of journal-first papers in category (3) is to further enrich the program of iFM and to provide more visibility to an already published journal papers in the scope of the iFM conference. 
+
+Authors of published papers in high-quality journals can submit a proposal to present their journal paper in iFM. The published journal paper must adhere to the following four criteria:
+
+- It should be clearly within the scope of the conference.
+- It should be recent: it should have been accepted and made publicly available in a journal (online or in print) by 1 July 2019 or more recently.
+- It should report new research results that significantly extend prior work – as opposed to simply extending prior conference work with material such as proofs, algorithms or minor enhancements.
+- It has not been presented at, and is not under consideration for, journal-first tracks of other conferences or workshops.
+
+The 4-page submission to iFM for category (3) should provide a concise summary of the published journal paper, which makes it clear
+- why its topics fits iFM’s scope, and
+- why a presentation of its results would enrich the programme of iFM.
+
+Journal-first submissions must be marked as such in the submission’s title, and must explicitly include full bibliographic details (including a DOI) of the journal publication they are based on. Submissions will be judged on the basis of the above criteria, but also considering how well they would complement the conference’s technical programme.
+
+
+=== Submission guidelines ===
+
+Submissions for all categories should be made using the iFM 2022 EasyChair site:
+
+https://easychair.org/conferences/?conf=ifm2022
+
+Submissions must be in PDF format, using the Springer LNCS style files.
+
+Springer requires that authors should consult Springer’s authors’ guidelines (ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf) and use their proceedings templates, either for LaTeX (ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) or for Word (ftp://ftp.springernature.com/cs-proceeding/llnc/word/splnproc1703.zip), for the preparation of their papers. Springer encourages authors to include their ORCIDs (https://goo.gl/hbsa4D) in their papers. After a paper is accepted, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+
+The conference proceedings will be published in Springer's Lecture Notes in Computer Science series. A special issue of the Formal Aspects of Computing journal is planned for extended versions of selected papers from iFM 2022.
+
+All accepted papers must be presented at the conference. At least one author of each accepted paper must register to the conference by the early registration date. 
+
+
+=== EAPLS Artefact Badging ===
+
+Reproducibility of experiments is crucial to foster an atmosphere of open, reusable and trustworthy research. To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in our community, authors of accepted papers will be invited to submit possible artefacts associated with their paper for evaluation, and based on the level of reproducibility they will be awarded one or more badges. See https://eapls.org/pages/artifact_badges/ for details. Artefact submission is optional and the result of the artefact evaluation will not alter the paper's acceptance decision. Detailed guidelines for the preparation and submission of the artefacts will be made available on the iFM website.
+
+
+=== Organisation ===
+
+= General Chair =
+- Carlo A. Furia (USI Università della Svizzera Italiana, Switzerland)
+
+= PC Chairs =
+- Maurice H. ter Beek (ISTI-CNR, Italy)
+- Rosemary Monahan (Maynooth University, Ireland)
+
+= Journal First Track Chairs =
+- Ferruccio Damiani (University of Torino, Italy)
+- Marieke Huisman (University of Twente, Netherlands)
+
+= Artefact Evaluation Committee Chairs =
+- Alessio Ferrari (ISTI-CNR, Italy)
+- Marie-Christine Jakobs (TU Darmstadt, Germany)
+
+= PhD-iFM Symposium Chairs =
+- Marie Farrell (Maynooth University, Ireland)
+- João F. Ferreira (University of Lisbon, Portugal)
+
+= Program Committee =   
+- Erika Ábrahám (RWTH Aachen University)
+- Yamine Aït Ameur (University of Toulouse)	
+- Petra van den Bos (University of Twente)
+- Giovanna Broccia (ISTI-CNR, Pisa)
+- Ana Cavalcanti (University of York)
+- Ivana Černá (Masaryk University)
+- Louise A. Dennis (University of Manchester) 
+- John Derrick  (University of Sheffield)
+- Brijesh Dongol (University of Surrey)
+- Einar Broch Johnson (University of Oslo)
+- Rajeev Joshi (Amazon Web Services)
+- Nikolai Kosmatov (CEA List, Saclay)
+- Michael Leuschel (University of Düsseldorf)
+- Alberto Lluch Lafuente (Technical University of Denmark)
+- Matt Luckcuck (Maynooth University)
+- Anamaria Martins Moreira (Federal University of Rio de Janeiro)
+- Dominique Méry (LORIA and University of Lorraine)
+- Stephan Merz (INRIA Nancy)
+- Luigia Petre (Åbo Akademi University)
+- André Platzer (Carnegie Mellon University)
+- Jaco van de Pol (Aarhus University)
+- Kostis Sagonas (Uppsala University)
+- Gerhard Schellhorn (University of Augsburg)
+- Emil Sekerinski (McMaster University)
+- Marjan Sirjani (Mälardalen University)
+- Volker Stolz (Western Norway University of Applied Sciences)
+- Silvia Lizeth Tapia Tarifa (University of Oslo)
+- Helen Treharne (University of Surrey)
+- Elena Troubitsyna (KTH Royal Institute of Technology)
+- Frits W. Vaandrager (Radboud University, Nijmegen)
+- Andrea Vandin (Sant'Anna School of Advanced Studies, Pisa)
+- Heike Wehrheim (University of Oldenburg)
+- Anton Wijs (Eindhoven University of Technology)
+- Kirsten Winter (University of Queensland)
+- Burkhart Wolff (Université Paris-Saclay)
+- Naijun Zhan (Chinese Academy of Sciences)
+
+
+=== Local Organisation ===
+
+= Web Chair = 
+- Mohammad Rezaalipour (USI Università della Svizzera italiana, Switzerland)
+
+= Publicity Chair =
+- Diego Marcilio (USI Università della Svizzera italiana, Switzerland)
+
+= Finance Chairs =
+- Elisa Larghi (USI Università della Svizzera italiana, Switzerland)
+- Roberto Minelli (USI Università della Svizzera italiana, Switzerland) 

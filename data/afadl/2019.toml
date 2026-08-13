@@ -19,3 +19,15 @@ license = "pay"
 
 [extra]
 notes = "In French (?)."
+
+[[cfp]]
+file = "cfp/AFADL-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/AFADL-2019-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/AFADL-2019-extended2.txt"
+stage = "extended"

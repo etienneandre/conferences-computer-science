@@ -21,3 +21,7 @@ license = "cc-by"
 
 [extra]
 notes = "Rebuttal: 11-14 September 2023. Double blind submission. Authors are asked (but not required) to pay US$400 for journal open-access publication. At most 10% of the accepted papers of POPL 2024 will be designated as Distinguished Papers"
+
+[[cfp]]
+file = "cfp/POPL-2024.txt"
+stage = "initial"

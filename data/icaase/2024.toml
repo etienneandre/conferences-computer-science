@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Distinguished papers from ICAASE 2024 will be invited to submit a revised and extended version of their paper to a special issue of a well-indexed journal. Every two years."
+
+[[cfp]]
+file = "cfp/ICAASE-2024.pdf"
+stage = "initial"

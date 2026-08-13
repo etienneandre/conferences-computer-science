@@ -1,0 +1,154 @@
+FM 2026: Call for Papers
+------------------------
+
+May 20--22, 2026
+Tokyo, Japan
+
+FM 2026 is the 27th international symposium on Formal Methods in a
+series organized by Formal Methods Europe (FME), an independent
+association whose aim is to stimulate the use of, and research on,
+formal methods for software development. The FM symposia have been
+successful in bringing together researchers and industrial users
+around a program of original papers on research and industrial
+experience, workshops, tutorials, reports on tools, projects, and
+ongoing doctoral research. FM 2026 will be both an occasion to
+celebrate and a platform for enthusiastic researchers and
+practitioners from a diversity of backgrounds to exchange their ideas
+and share their experiences. See
+https://conf.researchr.org/home/fm-2026
+
+The FM 2026 proceedings will appear as part of the LNCS FM subline,
+with gold open access.
+
+
+## Important Dates:
+
+Abstract Submission     November 25, 2025
+Full Paper Submission   December 2, 2025
+Paper Notification      January 30, 2026
+Final Version           February 23, 2026
+Main Conference         May 20--22, 2026
+
+
+## Topics of Interest
+
+FM 2026 will highlight the development and application of formal
+methods in a wide range of domains including trustworthy AI,
+computer-based systems, systems-of-systems, cyber-physical systems,
+security, human-computer interaction, manufacturing, sustainability,
+energy, transport, smart cities, smart contracts in blockchain,
+healthcare and biology. We particularly welcome papers on techniques,
+tools, and experiences in interdisciplinary settings. We also welcome
+papers on experiences of applying formal methods in industrial
+settings, and on the design and validation of formal method tools.
+
+
+## Track: Tests & Proofs
+
+FM 2026 features a special track on Tests and Proofs (TAP) as a part
+of the conference.
+
+TAP promotes research in verification and formal methods that targets
+the interplay of static and dynamic analysis techniques with the
+ultimate goal of improving software and system dependability.
+
+Research in verification has seen an increase in heterogeneous
+techniques and a synergy between the traditionally distinct areas of
+dynamic and static analysis. There is growing awareness that dynamic
+techniques such as testing and static techniques such as proving are
+complementary rather than mutually exclusive. Notable examples that
+provide evidence for the potential of a combination of static and
+dynamic analysis are counterexample generation based on symbolic
+execution, the integration of SAT/SMT-solving in model checking, or
+the combination of predicate abstraction with exhaustive
+enumeration. The verification of systems based on machine learning
+spurs novel combinations of dynamic and static analyses, e.g.,
+property verification of surrogate models that are generated through
+testing.
+
+TAP's scope encompasses many aspects of verification technology,
+including foundational work, tool development, and empirical research.
+Topics of interest center around the combination of static techniques
+such as proving and dynamic techniques such as testing.
+
+
+## Submission Guidelines
+
+We solicit various categories of papers:
+
+-   Regular Papers (max 15 pages)
+-   Regular Papers, submitted to the TAP track (max 15 pages)
+-   Long tool papers (max 15 pages)
+-   Case study papers (max 15 pages)
+-   Short papers (max 6 pages), including tool demonstration papers
+
+All page limits do not include references and appendices.
+
+Papers should be original work, not published or submitted elsewhere,
+in Springer LNCS format, and written in English.
+
+Each paper will be evaluated by at least three members of the Program
+Committee. Authors of papers reporting experimental work are strongly
+encouraged to make their experimental results available for use by the
+reviewers.
+
+Papers submitted to the TAP track will undergo the same review process
+as other papers, by PC members with expertise in tests and proofs.
+
+Case study papers should describe significant case studies, and the
+complete development should be made available at the time of
+review. The usual criteria for novelty, reproducibility, correctness
+and the ability for others to build upon the described work apply.
+
+Tool papers and tool demonstration papers should explain enhancements
+made compared to previously published work. A tool demonstration paper
+need not present the theory behind the tool, but can focus on the
+tool's features, how it is used, its evaluation and examples and
+screenshots illustrating the tool's use. Authors of tool and tool
+demonstration papers should make their tools available for use by the
+reviewers and are highly encouraged to participate in the artifact
+evaluation once their paper is accepted.
+
+Reviewing is single-blind.
+
+For all papers, an appendix can provide additional material such as
+details on proofs or experiments. The appendix is not part of the page
+count and will only be read at the discretion of the reviewers. Thus,
+it should not contain information necessary for the understanding and
+evaluation of the presented work.
+
+Papers will be accepted or rejected in the category in which they were
+submitted and will not be moved between categories. At least one
+author of an accepted paper is expected to present the paper at the
+conference as a registered participant.
+
+### Proceedings
+
+The conference proceedings will be published open access by Springer
+in the LNCS series, as part of the FM subline, with gold open access.
+
+### Submissions
+
+Submission link: https://easychair.org/conferences/?conf=fm2026
+
+Authors of all accepted papers are invited to submit an artifact for
+evaluation by the FM 2026 Artifact Evaluation Committee after the
+paper notification. For long tool papers and tool demonstration
+papers, submission of an artifact is strongly encouraged.
+
+### Best Paper Award
+
+At the conference, the PC Chairs will present an award to the authors
+of the submission selected as the FM 2026 Best Paper.
+
+### Special Issue
+
+Extended versions of selected papers will be invited for publication
+in a special issue of a journal to be announced soon.
+
+
+## Program Committee Chairs
+
+- Augusto Sampaio, Universidade Federal de Pernambuco, Brazil
+- Marielle Stoelinga, University of Twente, the Netherlands
+

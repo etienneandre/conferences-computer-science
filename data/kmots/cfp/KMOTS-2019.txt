@@ -1,0 +1,41 @@
+Call For Papers: First International Workshop on Knowledge and MOdel-driven engineering in formal development of Trustworthy Systems (KMOTS 2019)
+Co-located with TASE 2019
+(https://kmots2019.lacl.fr)
+29th July-1st August, 2019, Guilin, China
+===================================================
+
+*************** NEW: Selected papers will be invited after the workshop to submit an extended version to the Journal of Computer Languages (https://www.journals.elsevier.com/journal-of-computer-languages)
+
+Development of trustworthy systems constitutes one of the major engineering challenges. Both functional correctness and non-functional properties such as safety, reliability and security are equally important for ensuring system trustworthiness. To efficiently cope with complexity caused by inherently heterogeneous development environment, the designers often rely on model-driven techniques that provide them with a comprehensive integrated notation. Indeed, graphical models help to bridge the gap between informal requirements and formal models.
+
+Though the benefits of using both formal and model-driven techniques in the design of trustworthy systems are widely acknowledged, several challenges remain open. In particular, there are ongoing debates about achieving a balance between flexibility and rigor in integrated modelling, analysing the interplay between functional and non-functional properties, as well as addressing trustworthiness at different architectural levels. 
+Another challenge concerns the modelling and handling of domain knowledge in formal models and formal developments. Indeed, systems are generally associated to information issued from the application domain in which these systems evolve. However most of the formal methods based on proof systems rely on the definition and use of basic theories in which domain knowledge is difficult to capture. Generally, the formalisation of this kind of knowledge is either omitted or hardcoded in the formal model. On the other hand, ontologies are formal models describing the meaning of concepts of a domain and ontology languages are most often supported by efficient reasoning tools that could help designers for discharging proofs in formal developments.
+
+*Topics of interest include, but are not limited to:
+Formal methods in model-driven development
+Knowledge- and model-driven development for formal methods
+Quality assurance for models and model transformation
+Model transformation and refinement
+Integrated analysis of functional and non-functional properties of trustworthy systems
+Methods and tools integrating knowledge based, graphical and formal approaches
+Domain-specific formal and model-driven approaches
+Handling of knowledge models, like ontologies, in formal system developments
+Formal modelling languages and techniques to model domain knowledge
+Case studies that illustrate the need to handle domain knowledge
+
+*Important Dates* 
+Full Paper Submissions: 15 May 2019
+Acceptance/Rejection Notification: 21 June 2019
+Camera-ready paper: 2 July 2019
+Workshop: 1 August 2019
+
+*Submission Guidelines*
+The proceedings are planned to be published in EPTCS (to be confirmed). Papers should be written in English and should have at least five (4) pages and not more than ten (10) pages in EPTCS format. (http://info.eptcs.org for details). Submission should be made through the KMOTS2019 submission page (https://easychair.org/conferences/?conf=kmots2019), handled by the EasyChair conference management system.
+
+*Co-Chairs*
+Régine Laleau, LACL, University of Paris-Est Créteil, France
+Shin Nakajima, National Institute of Informatics, Japan
+Elena Troubitsyna, KTH, Stockholm, Sweden
+
+Information about all committees can be found at https://kmots2019.lacl.fr
+

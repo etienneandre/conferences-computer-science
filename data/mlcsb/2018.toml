@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "A journal Special Issue, with extended and revised versions of selected papers, is currently under negotiation."
+
+[[cfp]]
+file = "cfp/MLCSB-2018.pdf"
+stage = "initial"

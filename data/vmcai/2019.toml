@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Co-located with POPL. Sponsor travel and other costs for students to attend VMCAI."
+
+[[cfp]]
+file = "cfp/VMCAI-2019.txt"
+stage = "initial"

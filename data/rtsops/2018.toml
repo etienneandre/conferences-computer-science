@@ -17,3 +17,11 @@ publisher = "none?"
 
 [extra]
 notes = "Co-located with ECRTS. The authors of the paper that will present the most interesting open problem will be rewarded with an IPad sponsored by Inria."
+
+[[cfp]]
+file = "cfp/RTSOPS-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RTSOPS-2018-extended.txt"
+stage = "extended"

@@ -1,0 +1,155 @@
+
+                          Call for Papers: FORMALISE 2019
+7th International Conference on Formal Methods in Software Engineering 
+(27th May 2019)
+   co-located with ICSE 2019 (May 25th–May 31st), Montreal, Canada
+                              http://www.formalise.org/
+
+INTRODUCTION
+
+The software industry has a long-standing and well-earned reputation for 
+failing to deliver high-quality software. Much progress has been 
+achieved from the early days of software development; still, nowadays, 
+even considering the state of the art of the technologies used, the 
+success of software projects is often not guaranteed. Many of the 
+approaches used for developing large, complex software system are still 
+not able to ensure the correct behavior -- and the general quality -- of 
+the delivered product, despite the efforts of the (often very qualified 
+and skilled) software engineers involved. This is where formal methods 
+can play a significant role. Indeed, they have been developed to provide 
+the means for greater precision and thoroughness in modeling, reasoning 
+about, validating, and documenting the various aspects of software 
+systems during their development. When carefully applied, formal methods 
+can aid all aspects of software creation: user requirement formulation, 
+design, implementation, verification/testing, and the creation of 
+documentation.
+
+However, after decades of research, and despite significant advancement, 
+formal methods are still not widely used in industrial software 
+development. We believe that a closer integration of formal methods in 
+software engineering can help increase the quality of software 
+applications, and at the same time highlight the benefits of formal 
+methods in terms also of the generated return on investment (ROI).
+
+The main objective of the conference is to foster the integration 
+between the formal methods and the software engineering communities, to 
+strengthen the -- still too weak -- links between them, and to stimulate 
+researchers to share ideas, techniques, and results, with the ultimate 
+goal to propose novel solutions to the fraught problem of improving the 
+quality of software systems.
+
+Originally a successful satellite workshop of ICSE, since 2018 FormaliSE 
+is organised as a 1-day conference co-located with ICSE. FormaliSE 2019 
+will take place on May 27th, 2019, in Montreal, Canada.
+
+Areas of interest include but are not limited to:
+
+- verification and validation of cyber-physical systems, IoT systems, 
+and autonomous systems;
+- integration of FMs with the rest of the software development lifecycle;
+- use of formal methods in Continuous Integration & Deployment contexts;
+- rigorous software engineering approaches and their tool support;
+- model-based approaches, including model-driven development;
+- scalability of FM applications;
+- prescriptive/objective guidance in the use of FMs;
+- FMs in a certification context;
+- “lightweight” or usable FMs;
+- formal approaches to safety and security-related issues;
+- requirements formalization, formal specification, and verification;
+- performance analysis based on formal approaches;
+- case studies developed/analyzed with formal approaches;
+- success stories and/or ability of FMs to handle real-world problems;
+- experimental validation;
+- application experiences.
+
+
+We invite you to submit:
+
+Full papers that must describe authors' original research work and results.
+Case study papers that should identify lessons learned, validate 
+theoretical results (such as scalability of methods) or provide specific 
+motivation for further research and development.
+Research ideas: FormaliSE encourages the submissions of new research 
+ideas in order to stimulate discussions at the conference.
+Full and case study papers are limited to 10 pages, including all text, 
+figures, tables, and appendices, while research ideas papers are limited 
+to 4 pages. Papers must conform to the IEEE Conference Proceedings 
+Formatting Guidelines (title in 24pt font and full text in 10pt type, 
+LaTEX users must use \documentclass[10pt,conference]{IEEEtran} without 
+including the compsoc or compsocconf option). See for details: 
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html.
+
+Papers must be unpublished original work and should not be under review 
+or submitted elsewhere while being under consideration. PC members will 
+review all submissions. Papers will be judged on the basis of their 
+clarity, relevance, originality, and contribution to the field. 
+Submissions must be in English and uploaded in PDF format through the 
+conference submission website at the following URL: 
+https://easychair.org/conferences/?conf=formalise2019.
+
+Proceedings
+
+All accepted publications are published as part of the ICSE 2019 
+Proceedings in the ACM and IEEE Digital Libraries. The official 
+publication date of the workshop proceedings is the date the proceedings 
+are made available in the ACM Digital Library. The official publication 
+date affects the deadline for any patent filings related to published 
+work. Purchase of additional pages in the proceedings is not allowed. 
+Authors of accepted papers must register and present their paper at the 
+conference.
+
+Important dates:
+
+Abstract submission: 18 January 2019   *** EXTENDED ***
+Paper submission: 25 January 2019   *** EXTENDED ***
+Notifications: 1 March 2019
+Camera ready copies: 15 March 2019
+FormaliSE conference: 27 May 2019
+
+General Chairs
+
+Stefania Gnesi (ISTI-CNR, Italy),
+Nico Plat (Thanos, The Netherlands)
+
+Program Chairs
+
+Nancy Day, (University of Waterloo, Canada)
+Matteo Rossi, (Politecnico di Milano, Italy)
+
+We can be reached at oc@formalise.org. If you intend to submit a paper 
+you are invited to inform us in advance.
+
+
+The program committee consists of:
+
+Marcello Bersani (Politecnico di Milano)
+Dirk Beyer (Ludwig-Maximilians-Universität München, Germany)
+Domenico Bianculli (University of Luxembourg, Luxembourg)
+Simon Bliudze (INRIA Lille, France)
+Andreas Bollin (Alpen-Adria-Universität Klagenfurt, Austria)
+Einar Broch Johnsen (Oslo University, Norway)
+Ana Cavalcanti (University of York, UK)
+Marsha Chechik (University of Toronto, Canada)
+Juergen Dingel (Queen's University, Canada)
+Amy Felty (University of Ottawa, Canada)
+Marc Frappier (Université de Sherbrooke, Canada)
+Carlo Alberto Furia (Università della Svizzera Italiana, Switzerland)
+Peter Gorm Larsen (Aarhus University, Denmark)
+Arie Gurfinkel (University of Waterloo, Canada)
+Marieke Huisman (University of Twente, The Netherlands)
+Eunsuk Kang (Carnegie Mellon University)
+Mark Lawford (McMaster University, Canada)
+Robyn Lutz (Iowa State University, USA)
+Paolo Masci (National Institute of Aerospace, USA)
+Richard Paige (University of York, UK)
+Corina Pasareanu (NASA, USA)
+Patrizio Pelliccione (University of Gothenburg | Chalmers University of 
+Technology, Sweden)
+Gerardo Schneider (Chalmers, Sweden)
+Paola Spoletini (Kennesaw State University, USA)
+Jun Sun (Singapore University of Technology and Design, Singapore)
+Maurice ter Beek (ISTI-CNR, Italy)
+Stefano Tonetta (Fondazione Bruno Kessler, Italy)
+Michael Whalen (University of Minnesota, USA)
+Kirsten Winter (University of Queensland, Australia)
+

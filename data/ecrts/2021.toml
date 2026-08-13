@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "No deadline extension for any reason. No hard page limit. Double blind. Artifact evaluation process."
+
+[[cfp]]
+file = "cfp/ECRTS-2021.txt"
+stage = "initial"

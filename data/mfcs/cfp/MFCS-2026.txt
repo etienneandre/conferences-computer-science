@@ -1,0 +1,107 @@
+========================================================
+
+MFCS 2026 - First Call for Papers
+
+========================================================
+
+The 51th conference on Mathematical Foundations of Computer Science (MFCS) will take place in:
+
+Paris, France August 24th-28th, 2026
+
+MFCS is among the conferences with the longest history in the field — the first conference in the series was held already in 1972. Traditionally, the conference moved between the Czech Republic, Poland, and Slovakia; since 2013, the conference has traveled around Europe.
+
+The conference will be preceded, on August 23, by the Young Research Forum Workshop intended for students and postdocs.
+
+
+NEW: Up to 10 papers will be accepted by the program committee, for which no presence onsite is required.
+
+========================================================
+
+Important dates and information
+
+========================================================
+
+Submissions: April 24th, 2026
+
+Author notification: June 19th, 2026
+
+Camera-ready version: June 26th, 2026
+
+Conference: August 24th-28th, 2026 (YRF Workshop on August 23rd, afternoon)
+
+Deadlines are firm; late submissions will not be considered. All dates are AoE.
+
+Conference website: https://mfcs2026.irif.fr/
+
+========================================================
+
+Submission guidelines
+
+========================================================
+
+1) Papers must present original research on the theory of computer science. No prior publication and no simultaneous submission to other publication outlets (either a conference or a journal) is allowed. Authors are encouraged to also make full versions of their submissions freely accessible in an on-line repository such as arXiv.
+
+2) Submissions take the form of an extended abstract of up-to 12 pages (LIPIcs document class), excluding title page, references and a clearly labelled appendix. The appendix may consist either of omitted proofs or of a full version of the submission, and it will be read at the discretion of program committee members. The extended abstract has to present the merits of the paper and its main contributions clearly, and describe the key concepts and technical ideas used to obtain the results. Submissions must provide the proofs which can enable the main mathematical claims of the paper to be verified.
+
+3) Submissions authored or co-authored by members of the program committee are allowed.
+
+4) At the time of submission, authors may declare that they are unable to attend the conference in Paris and therefore cannot give an in-person presentation. This choice will not influence the evaluation of submissions by the Program Committee. The Program Committee will rank all papers irrespective of their presentation status. Approximately 80 papers will be selected for in-person presentation, and up to 10 papers will be accepted without presentation. All accepted papers will be published in the same proceedings. This option is intended for authors who wish to publish their results at the conference but, for various reasons (e.g., family or financial constraints), are unable to attend the conference in person.
+
+5) At least one author of each accepted paper with presentation is expected to register for the conference, and give the talk in-person. At least one author of each accepted paper without in-person presentation is expected to register for the conference for a reduced fee, and for each such paper the authors are expected to provide a pre-recorded video of the paper presentation that will be made available on-line during the conference. (Pre-recorded videos of the other papers are optional.)
+
+6) Papers authored only by students should be marked as such at the time of submission in order to be eligible for the best student paper award.
+
+7) MFCS proceedings are published in the Leibniz International Proceedings in Informatics (LIPIcs) series. The camera-ready version of accepted papers will need to comply with the LIPIcs style.
+
+========================================================
+
+MFCS 2025 Programme Committee
+
+========================================================
+
+Michal Koucký (Charles University, Czech Republic) - chair
+Daniela Petrișan (Université Paris Cité, IRIF, France) - co-chair
+
+C. Aiswarya (Chennai Mathematical Institute, India)
+Christel Baier (Technische Universität Dresden, Germany)
+Ivona Bezáková (Rochester Institute of Technology, USA)
+Markus Bläser (Saarland University, Germany)
+Achim Blumensath (Masaryk University, Czech Republic)
+Martin Böhm (University of Wrocław, Poland)
+Édouard Bonnet (CNRS, ENS de Lyon, France)
+Joshua Brakensiek (University of California, Berkeley, USA)
+André Chailloux (Inria de Paris, France)
+Panagiotis Charalampopoulos (King's College London, UK)
+Lorenzo Clemente (University of Warsaw, Poland)
+Ugo Dal Lago (University of Bologna, Italy)
+Debarati Das (Pennsylvania State University, USA)
+Samir Datta (Chennai Mathematical Institute, India)
+Jakub Gajarský (Masaryk University and University of Warsaw, Czech Republic/Poland)
+Anna Gál (University of Texas at Austin, USA)
+Sumegha Garg (Rutgers University, USA)
+Mayank Goswami (City University of New York, USA)
+Florian Horn (Université Paris Cité, IRIF, CNRS, France)
+Dušan Knop (Czech Technical University, Czech Republic)
+Hanna Komlos (Max Planck Institute for Informatics, Germany)
+Stephan Kreutzer (TU Berlin, Germany)
+Bruno Loff (University of Lisbon, Portugal)
+Wolfgang Merkle (Heidelberg University, Germany)
+Igor Carboni Oliveira (University of Warwick, UK)
+Kristýna Pekárková (AGH University of Krakow, Poland)
+Thomas Place (University of Bordeaux, LABRI, France)
+Cécilia Pradic (Swansea University, UK)
+Jakub Przybyło (AGH University of Krakow, Poland)
+Colin Riba (ENS de Lyon, LIP, France)
+Kilian Risse (Lund University, Sweden)
+Robert Robere (McGill University, Canada)
+Michał Skrzypczak (University of Warsaw, Poland)
+Paweł Sobociński (TalTech, Estonia)
+Henning Urbat (FAU Erlangen-Nürnberg, Germany)
+Pavel Veselý (Charles University, Czech Republic)
+Philip Wellnitz (National Institute of Informatics, Japan)
+Sarah Winter (Université Paris Cite, IRIF, CNRS, France)
+James Worrell (University of Oxford, UK)
+Standa Živný (University of Oxford, UK)
+==========================================
+
+

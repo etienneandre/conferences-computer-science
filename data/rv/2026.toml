@@ -21,3 +21,11 @@ license = "pay-profit"
 [review]
 gender_balance = "mixed"
 award = "Springer-sponsored Best Paper Award to one eligible regular paper and a Formal Methods Europe-sponsored Best Tool Award to one eligible tool demonstration paper."
+
+[[cfp]]
+file = "cfp/RV-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RV-2026-extended.txt"
+stage = "extended"

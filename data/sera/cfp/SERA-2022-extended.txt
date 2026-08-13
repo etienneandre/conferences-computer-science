@@ -1,0 +1,95 @@
+The 19th IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA 2022) (Deadline Extended)
+
+May 25 - 27, 2022, Las Vegas, Nevada
+SERA 2022 brings together researchers, practitioners, and advanced graduate students to exchange and share their experiences, new ideas, and research results and research-in-progress about all aspects (theory, applications and tools) of Software Engineering Research, Management and Applications, and discuss the practical challenges encountered and the solutions adopted. There are three submission types (in IEEE Conference templates):
+
+* Full Paper (up to 8 pages)
+* Short Paper (up to 4 pages)
+* Posters
+
+## Important Dates
+
+* Full Paper Submission: March 7, 2022 (Extended)
+* Acceptance Notification: April 4, 2022 (Extended)
+* Camera-Ready Papers & Registration: April 25, 2022 (Extended)
+* Conference Dates: May 25 - 27, 2022
+
+Conference officers will select outstanding papers for publication in the following journals (www.acisinternational.org):
+
+* International Journal of Networked and Distributed Computing (IJNDC), Paris, France
+* International Journal of Software Innovation (IJSI), IGI Globe, U.S.A.
+* International Journal of Big Data Intelligence and Applications (IJBDIA)
+* Studies in Computational Intelligence (SCI), Springer, Germany
+
+The conference will cover a broad set of research topics as:
+
+* AI and Software Engineering
+* Software Testing and Analysis
+* Empirical Software Engineering
+* Software Requirements, Modeling and Design
+* Software Security and Privacy
+* Parallel and Distributed Computing
+* Data Mining and Knowledge Recovery
+* Code Repository and Configuration Analytics and Management
+* Software Performance Analysis
+* Software Evolution and Understanding
+* Software Engineering Education
+* Communication Systems and Networks
+* Blockchain and Smart Contract
+* Embedded, Automotive, Cyber-Physical Systems
+* Internet of Things (IoT)
+* Digital Forensics
+
+## Best Paper Award
+
+Conference officers will select papers for the Best Paper Award and Best Student Paper Awards. (in order to qualify for the award, the paper must be presented at the conference.)
+
+## Submission Instructions
+
+Authors who are interested in the above topics can submit their unpublished work to SERA 2022 conference via Easychair (https://easychair.org/conferences/?conf=sera2022). A clear indication of the motivation and comparison with prior related work should be presented. Simultaneous submission to a journal, conference, or a workshop with refereed proceedings is not allowed.
+
+Submissions must adhere to the following guidelines:
+
+* Papers must be formatted using IEEE Conference templates file without altering margins or the font point (https://www.ieee.org/conferences/publishing/templates.html).
+* The maximum length is 8 pages for a regular paper and is 4 pages for a short paper (including references).
+* Proofs omitted due to space constraints must be placed in an appendix to be read by the program committee members at their discretion.
+* Author names and affiliations should be anonymous in the paper. The authors should make a reasonable effort not to reveal their identity and affiliation. Author?s prior work should be referred to in the third person.
+* Submissions not following the required format may be rejected without review.
+
+## Publication
+
+SERA 2022 Proceedings will be published by IEEE Conference Publishing Services and will be submitted to be indexed by EI, INSPEC, and DBLP.
+
+Journal publication: Conference officers will select outstanding papers for publication in the following journals.
+
+* International Journal of Networked and Distributed Computing (IJNDC), Paris, France.
+* International Journal of Software Innovation (IJSI), IGI Globe, U.S.A.
+* Studies in Computational Intelligence (SCI), Springer, Germany.
+
+## Organizing Committee
+
+General Chair
+
+* Roger Lee, Central Michigan University
+
+Conference Co-Chairs
+
+* Juyeon Jo, University of Nevada, Las Vegas
+* Yeong-Tae Song, Towson University
+
+Program Co-Chairs
+
+* Lin Deng, Towson University
+* Junghwan “John” Rhee, University of Central Oklahoma
+
+Publicity Co-Chairs
+
+* Sungchul Lee, Sun Moon University
+* Chuck Tessler, University of Nevada, Las Vegas
+* Qianlong Wang, Towson University
+* Yong-ik Yoon, Sookmyung Women's University
+* Masato Oguchi, Ochanomizu University
+
+Local Arrangement Chair
+
+* Yen-Soon Kim, University of Nevada, Las Vegas

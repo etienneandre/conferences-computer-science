@@ -1,0 +1,146 @@
+                                  PNSE'18
+        International Workshop on Petri Nets and Software Engineering
+
+                     Bratislava, Slovakia, June 25-26, 2018
+
+             a satellite event of Petri Nets 2018 and ACSD 2018
+
+                       39th INTERNATIONAL CONFERENCE ON
+             APPLICATION AND THEORY OF PETRI NETS AND CONCURRENCY
+                                     and
+                       18th INTERNATIONAL CONFERENCE ON
+                 APPLICATION OF CONCURRENCY TO SYSTEM DESIGN
+
+         More information: http://interes.institute/petrinets2018/
+          http://www.informatik.uni-hamburg.de/TGI/events/pnse18/
+              Contact e-mail: pnse18@informatik.uni-hamburg.de
+
+
+                              Important Dates:
+           Deadline for Abstracts (full/short): March 30, 2018
+           Deadline for full papers:            April  5, 2018
+           Deadline for short papers:           April 15, 2018
+           Notification of paper acceptance:    May    4, 2018
+           Deadline for posters:                May    7, 2018
+           Notification of poster acceptance:   May    8, 2018
+           Deadline for final revisions:        May   10, 2018
+
+
+
+                                    Scope
+
+
+For the successful realization of complex systems of interacting and
+reactive software and hardware components the use of a precise language at
+different stages of the development process is of crucial importance.
+Petri nets are becoming increasingly popular in this area, as they provide
+a uniform language supporting the tasks of modeling, validation, and
+verification. Their popularity is due to the fact that Petri nets capture
+fundamental aspects of causality, concurrency and choice in a natural and
+mathematically precise way without compromising readability.
+At PNSE’18, submissions concerning Petri nets (P/T-nets, colored Petri nets
+and extensions) and their use in the software engineering process, covering
+modeling, validation,  verification, and code generation are welcome. This
+includes theory and concepts as well as their application and supporting tools.
+This year, we will put an emphasize on the impact of software engineering on
+Petri nets by their concepts, methods, techniques and tools. Therefore we
+invite contributions that work on subjects that could(!) be relevant for
+Petri nets, their applications or their tools. Results on other formalisms
+or semi-formal techniques, their concepts, methods, tools and experiences
+(successful or not successful) are highly welcome.
+
+                                    Topics
+We welcome contributions describing original research in topics related to
+Petri nets in combination with software engineering, addressing open problems
+or presenting new ideas regarding the relation of Petri nets and software
+engineering. Furthermore, we look for surveys addressing open problems and new
+applications of Petri nets and for Petri nets.
+As mentioned above: Any kind of insights and results in the area of software
+engineering that might be relevant for Petri nets are especially invited.
+The authors should then have one section on how they think what Petri nets
+could gain from their contribution.
+Topics of interest include but are not limited to:
+
+  Software Engineering
+    agile development
+    product lines
+    software in business contexts
+    software development and production environments; DevOps; IDEs; continuous integration
+    programming and concurrency
+    technologies: hadoop / MapReduce; akka, Spark; Flink; STORM etc.
+    distributed database technology: redis; cassandra; CouchDB; mongoDB etc.
+    concepts for mobility, concurrency, non-determinism, distribution, embedding, flexibility
+    social concepts for norms, rules, contracts, communication, co-ordination, co-operation
+    software engineering addressing Petri nets, UML techniques, BPMN, BPEL, eEPCs, CMMN and other modeling techniques
+  Modeling
+    representation of formal models by intuitive modeling concepts
+    guidelines for the construction of system models
+    representative examples
+    process-, service-, state-, event-, component-, organization-, object-, agent- and actor-oriented approaches
+    adaption, integration, and enhancement of concepts from other disciplines
+    views and abstractions of systems
+    meta-modeling and domain specific languages (DSLs)
+    model-driven architecture
+    modeling software landscapes
+    web service-based software development
+  Validation and Execution
+    prototyping
+    simulation, observation, animation
+    code generation and execution
+    testing and debugging
+    efficient implementation
+  Verification
+    structural methods (e.g. place invariants, reduction rules)
+    results for structural subclasses of nets
+    relations between structure and behavior
+    state space based approaches
+    efficient model checking
+    assertional and deductive methods (e.g. temporal logics)
+    process algebraic methods
+    model and graph transformation
+    applications of category theory, rewriting logic and linear logic
+  Application of Petri nets and Software Engineering, in particular in the domains of
+    education, training and teaching at any level,
+    flexible manufacturing,
+    logistics,
+    telecommunication,
+    big data,
+    cyber-physical systems,
+    internet-of-things,
+    grid and cloud computing,
+    distributed systems,
+    workflow management and
+    embedded systems.
+  Tools in the fields mentioned above
+
+
+                               Submissions
+
+The program committee invites submissions of full contributions
+(15 (up to 20) pages) or short contributions (5 (up to 8) pages).
+Ongoing work (up to 2 pages) can also be presented in a special poster session.
+
+Papers should be submitted in electronic form (PDF) using the Springer LNCS-format
+(see http://www.springer.de/comp/lncs/authors.html). Submissions should include
+title, authors' addresses, E-mail addresses, keywords and an abstract. For your
+submission in PDF format please use the online conference management system at
+
+      https://easychair.org/conferences/?conf=pnse2018
+
+Just create a new account and then upload your paper. (Later you will be able to
+see your reviews there.)
+The papers will be peer reviewed by at least three members of the PC. Accepted
+contributions will be included in the workshop proceedings, which will be available
+at the workshop and published online.
+In case of any problems please contact us by email at
+
+      pnse18_at_informatik_dot_uni-hamburg_dot_de.
+
+Some of the best papers from the workshop will be invited for
+publication in a volume of the journal sub-line of Lecture Notes in
+Computer Science entitled "Transactions on Petri Nets and Other Models
+of Concurrency" (ToPNoC). The papers are expected to be thoroughly
+revised and they will go through a totally new round of reviewing as is
+standard practice for journal papers.
+Papers from all previous instances of this workshop made it into
+ToPNoC volumes in the Springer LNCS series.

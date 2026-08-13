@@ -1,0 +1,99 @@
+CALL FOR PAPERS
+
+***********************************************************************
+
+12th WISTP International Conference on Information Security Theory and Practice (WISTP 2018)
+
+Brussels, Belgium -- 10-11 December 2018 www.wistp.org
+
+***********************************************************************
+
+ 
+
+The 12th WISTP International Conference on Information Security Theory and Practice (WISTP 2018) seeks original submissions from academia and
+
+industry presenting novel research on all theoretical and practical aspects of security and privacy, as well as experimental studies of
+
+fielded systems, the application of security technology, the implementation of systems, and lessons learned. 
+
+We encourage submissions from other communities such as law, business, and policy that present these communities' perspectives on technological issues.
+
+ 
+
+Topics of interest include, but are not limited to:
+
+    Security and Privacy in Smart Devices
+        Biometrics, National ID cards
+        Embedded Systems Security and TPMs
+        Interplay of TPMs and Smart Cards
+        Mobile Codes Security
+        Mobile Devices Security
+        Mobile Malware
+        Mobile OSes Security Analysis
+        RFID Systems
+        Smart Card
+        Smart Devices Applications
+        Wireless Sensor Node
+    Security and Privacy in Networks
+        Ad Hoc Networks
+        Content Defined Networks
+        Delay-Tolerant Network
+        Domestic Network
+        GSM/GPRS/UMTS Systems
+        Mobile Networks
+        Peer-to-Peer Networks
+        Pervasive and Ubiquitous Systems
+        Sensor Networks:  Campus Area, Body Area, Sensor and Metropolitan Area Networks
+        Vehicular Network
+        Wireless Communication: Bluetooth, NFC, WiFi, WiMAX, others
+    Security and Privacy in Architectures, Protocols, Policies, Systems and Applications
+        BYOD Contexts
+        Big Data Management
+        Cloud Systems
+        Critical Infrastructure (e.g. for Medical or Military Applications)
+        Crowdsourcing
+        Cyber-Physical Systems
+        Data and Computation Integrity
+        Digital Rights Management (DRM)
+        Distributed Systems
+        Grid Computing
+        Identity and Trust Management
+        Information Assurance
+        Information Filtering
+        Internet of Things
+        Intrusion Detection
+        Lightweight cryptography
+        Location Services (Tracking of People and Goods)
+        M2M (Machine to Machine), H2M (Human to Machine) and M2H (Machine to Human)
+        Mobile Commerce
+        Multimedia Applications
+        Public Administration and Governmental Services
+        Privacy Enhancing Technologies
+        Secure self-organization and self-configuration
+        Security Models, Architecture, and Protocol for Identification and Authentication, Access Control, Data Protection
+        Security Policies (Human-Computer Interaction and Human Behavior Impact)
+        Security Measurements
+        Smart Cities
+        Social Networks
+        Systems Controlling Industrial Processes
+
+     
+
+    IMPORTANT DATES
+
+    --------------------------
+
+    Deadline for paper submission: October 14, 2018 (11:59 p.m. AOE) [FIRM DEADLINE]
+    Notification to authors: November 5th, 2018
+    Author Registration: November 15th, 2018
+    Camera-ready version: December 2nd, 2018
+
+    SUBMISSION INSTRUCTIONS
+
+    --------------------------
+
+    Submissions must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or conference/workshop with proceedings. Each submission should be at most 16 pages in total in the Springer LNCS format.
+
+     
+
+    For detailed instructions please see the website.

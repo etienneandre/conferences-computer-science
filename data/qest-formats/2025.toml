@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Part of CONFEST 2025. Optional artifact evaluation. A selection of the best papers will be invited to submit an extended version of their work to special issues in internationally recognized journals."
+
+[[cfp]]
+file = "cfp/QESTFORMATS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/QESTFORMATS-2025-extended.txt"
+stage = "extended"

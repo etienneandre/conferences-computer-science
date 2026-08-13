@@ -20,3 +20,11 @@ license = "acm"
 
 [extra]
 notes = "Co-located with ICSE 2025. Light-weight double blind scheme. Artifact evaluation."
+
+[[cfp]]
+file = "cfp/FORMALISE-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FORMALISE-2025-extended.txt"
+stage = "extended"

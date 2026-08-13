@@ -1,0 +1,55 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2024 IEEE 14th International Symposium on Industrial Embedded Systems (SIES 2024)
+Chengdu, China, October 23-25, 2024
+Official Website: https://ieee-sies.org/
+
+2024 IEEE 14th International Symposium on Industrial Embedded Systems (SIES 2024) will be held from 23 to 25 October in Chengdu, China. SIES 2024 is co-sponsored by IEEE and University of Electronic Science and Technology of China, China, technically sponsored by IEEE Future Networks, EMSIG, Virginia Tech, etc.
+The aim of the symposium is to bring together researchers and practitioners from industry and academia. SIES provides a platform to report on recent developments, deployments, technology trends and research results, as well as to discuss and start initiatives related to embedded systems and their applications in a variety of industrial environments.
+* Conference History
+The SIES series were hosted by:
+- University of Nice Sophia Antipolis, France (2006)
+- Uninova, Portugal (2007)
+- LIRMM/CNRS, France (2008)
+- Ecole Polytechnique Fédérale de Lausanne, Switzerland (2009)
+- University of Trento, Italy (2010)
+- Malardalen University, Sweden (2011)
+- Karlsruhe Institute of Technology, Germany (2012)
+- Polytechnic Institute of Porto, Portugal (2013)
+- Scuola Superiore S. Anna, Italy (2014)
+- Siegen University, Germany (2015)
+- AGH UST, Poland (2016)
+- France (2017)
+- Graz University of Technology, Austria (2018)
+
+* Conference Proceedings
+All the accepted regular full papers will be included in IEEE Conference Proceedings and submitted for Ei Compendex & Scopus index.
+*Submission Types:
+- Long Paper (up to 8 double-column pages)
+- WiP Papers (up to 4 double-column pages)
+- Poster Presentation
+* Important Dates:
+SUBMISSION DEADLINE: 11th June 2024
+NOTIFICATION DATE: 28th July 2024
+REGISTRATION DEADLINE: 20th August 2024
+* Submission
+By EasyChair: https://easychair.org/my/conference?conf=sies2024
+* Call for papers
+Topics of interest include, but are not limited to:
+- EMBEDDED SYSTEMS
+- SYSTEM-ON-CHIP AND NETWORK-ON-CHIP DESIGN & TESTING
+- NETWORKED EMBEDDED SYSTEMS AND EDGE COMPUTING
+- EMBEDDED APPLICATIONS
+* SIES Awards
+OUTSTANDING PAPER AWARD
+BEST REVIEWER AWARD
+BEST PAPER AWARD
+BEST WIP PAPER AWARD
+BEST PRESENTATION AWARD
+* Venue:
+Xiangyu Hotel (pending)
+Address: No.10, North Renmin Road, Chengdu, China
+* Contact:
+Conference Secretary
+Ms. Amy J.Y.Hu
+Email: ieee-sies@academic.net
+More information, please refer to: https://ieee-sies.org/

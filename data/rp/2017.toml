@@ -24,3 +24,11 @@ submitted = 17
 
 [extra]
 notes = "Deadline extended by 2 weeks in 2012 and 2013, 1 week in 2014, 1 week in 2015 (despite \"strict\" deadline), 9+19 days (2016), 40 days (2017). Informal presentations (4 pages) not to appear in the proceedings (deadline: August 2nd; notification: August 9th). We plan also to publish selected papers in a special issue of a high quality journal following the regular referee procedure."
+
+[[cfp]]
+file = "cfp/RP-2017.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RP-2017-extended.txt"
+stage = "extended"

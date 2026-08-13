@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Fully virtual conference. Free registration. Special issue in Science of Computer Programming. Special track: “Formal Methods at Large” in 2023."
+
+[[cfp]]
+file = "cfp/FACS-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FACS-2023-extended.txt"
+stage = "extended"

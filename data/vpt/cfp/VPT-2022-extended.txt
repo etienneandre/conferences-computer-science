@@ -1,0 +1,195 @@
+The deadline for all submissions to VPT@ETAPS'22 has been extended to 31st January. The aim of the workshop is to bring together researchers working in the fields of Program Verification and Program Transformation.
+
+[Apologies for multiple copies]
+
+***************************************************************
+
+                     FINAL CALL FOR PAPERS 
+
+     *Deadline for all submissions extended to 31st January*
+
+                 Tenth International Workshop on
+
+             Verification and Program Transformation
+
+                April 2nd, 2022, München, Germany
+
+              & nbsp; http://refal.botik.ru/vpt/vpt2022
+
+    Co-Located with the 25th European joint Conference on
+
+        Theory and Practice of Software (ETAPS 2022)
+
+***************************************************************
+
+VPT-2022 Invited Speakers:
+
+Elvira Albert, Complutense University of Madrid, Spain
+
+                 
+
+Robert Glück, University of Copenhagen, Denmark
+
+***************************************************************
+
+The Tenth International Workshop on Verification and Program
+
+Transformation (VPT 2022) aims to bring together researchers
+
+working in the areas of Program Verification and Program Transformation.
+
+The previous workshops in this series were:
+
+    VPT 2013, Saint Petersburg, Russia
+
+    VPT 2014, Vienna, Austria
+
+    VPT 20 15, London, UK
+
+    VPT 2016, Eindhoven, The Netherlands
+
+    VPT 2017, Uppsala, Sweden
+
+    MARS/VPT 2018, Thessaloniki, Greece
+
+    VPT 2019, Genova, Italy
+
+    VPT 2020, Dublin, Ireland
+
+    VPT 2021, Luxembourg, Luxembourg
+
+The workshop solicits research, position, application, and
+
+system description papers with a special emphasis on case studies,
+
+demonstrating viability of the interactions between the research fields
+
+of program transformation and program verification in a broad sense.
+
+Also papers in related areas, such as program testing and program synthesis 
+
+are welcomed.
+
+Topics of interest include, but are not limited to:
+
+* Verification by Program Transformation
+
+* Verification Techniques in Program Transformation and Synthesis
+
+* Verification and Certification of Programs Transformations
+
+* Program Analysis and Transformation
+
+* Program Testing and Transformation
+
+* Verifiable Computing and Program Transformation
+
+* Case studies
+
+*Important Dates*
+
+* January 31st, 2022: Regular paper submission deadline (extended)
+
+* January 31st, 2022: Extended abstracts and presentation-only papers submission deadline
+
+* February 14th, 2022: Acceptance notification
+
+* February 28th, 2022: Camera ready version (for the informal pre-proceedings)
+
+* April 2nd, 2022: Workshop
+
+* May 16th, 2022: Revised paper submission for the formal proceedings in EPTCS deadline
+
+*Submission Guidelines*
+
+Authors should submit an electronic copy of the paper in PDF, formatted in
+
+the Electronic Proceedings in Theoretical Computer Science LaTeX Style 
+
+(http://style.eptcs.org/), via the Easychair submission website for VPT 2022: 
+
+https://easychair.org/conferences/?conf=vpt2022
+
+Regular pap ers must describe original work that has not been published,
+
+or currently submitted, to a journal, conference, or workshop with refereed proceedings.
+
+Also papers that already appeared in unpublished or informally published 
+
+workshop proceedings may be submitted.
+
+Each submission must include on its first page the paper title; authors and 
+
+their affiliations; contact author's email; abstract; and three to four keywords 
+
+that will be used to assist the PC in selecting appropriate reviewers for the paper.
+
+Page numbers should appear on the manuscript to help the reviewers in writing their report.
+
+Regular paper submissions should not exceed 15 pages including references 
+
+but excluding well-marked appendices not intended for publication.
+
+Reviewers are not required to read the appendices, and thus papers should be 
+
+intelligible without them.
+
+*Proceedings*
+
+Revise d versions of all the accepted papers and accepted extended abstracts,
+
+taking into account the feedback received at the workshop, will be published 
+
+in a volume of the Electronic Proceedings in Theoretical Computer Science (EPTCS) 
+
+series after the workshop.
+
+If the workshop attracts sufficiently many high quality papers,
+
+a special issue of a journal on the topic of the workshop will be considered.
+
+The special issue will be open to high quality papers accepted for 
+
+presentation in previous editions of the workshop.
+
+Program Committee:
+
+Grigory Fedyukovich, Princeton University, USA
+
+John P. Gallagher, Roskilde University, Denmark
+
+Geoff W. Hamilton, Dublin City University, Republic of Ireland (Chair)
+
+Michael Hanus, University of Kiel, Germany
+
+Marie-Christine Jakobs, Ludwig-Maximilians-Universitat, Munchen, Germany
+
+Alexei Lisitsa, The University of Liverpool, UK
+
+Andrei P. Nemytykh, Program Systems Institute of RAS, Russia
+
+Maurizio Proietti, IASI-CNR, Rome, Italy
+
+Gabriel Radanne, IRIF, Inria, Paris, France
+
+Philipp Rümmer, Uppsala University, Sweden
+
+Germán Vidal, Technical University of Valéncia, Spain
+
+Organisers:
+
+Alexei Lisitsa (The University of Liverpool, UK)
+
+Andrei P. Nemytykh (Program Systems Institute of RAS, Russia)
+
+Contacts
+
+E-mail:
+
+Geoff Hamilton, geoffrey.hamilton@dcu.ie
+
+Alexei Lisitsa, a.lisitsa@csc.liv.ac.uk
+
+Andrei P. Nemytykh, nemytykh@math.botik.ru
+
+Web:  http://refal.botik.ru/vpt/vpt2022/

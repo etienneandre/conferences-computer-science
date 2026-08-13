@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "The Program Committee of RV 2023 will give a Springer-sponsored Best Paper Award to one eligible regular paper."
+
+[[cfp]]
+file = "cfp/RV-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RV-2023-extended.txt"
+stage = "extended"

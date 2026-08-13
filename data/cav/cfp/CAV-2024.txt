@@ -1,0 +1,62 @@
+CAV 2024: 36th International Conference on Computer-Aided Verification
+July 22-27 2024, Montreal, Canada
+http://i-cav.org/2024/
+
+===== IMPORTANT DATES (AoE) =====
+Paper submission:		Jan 19, 2024
+Rebuttal period:		Feb 29-Mar 3, 2024
+CAV Award Nomination: 	Mar 1, 2024
+Author notification:		Mar 26, 2024
+Artifact submission: 	Apr 8, 2024 (mandatory for tool papers)
+Artifact notification:  	May 10, 2024
+Final version due: 		May 19, 2024
+Workshops:			Jul 22-23, 2024
+Main Conference: 		Jul 24-27, 2024
+
+
+================
+CALL FOR PAPERS
+================
+
+CONFERENCE
+CAV 2024 is the 36th in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, autonomous systems, and computer security. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
+
+TOPICS
+Topics of interest include but are not limited to:
+- Algorithms and tools for verifying models and implementations
+- Algorithms and tools for system synthesis
+- Algorithms and tools that combine verification and learning
+- Mathematical and logical foundations of verification and synthesis
+- Specifications and correctness criteria for programs and systems
+- Deductive verification using proof assistants
+- Hardware verification techniques
+- Program analysis and software verification
+- Software synthesis
+- Hybrid systems and embedded systems verification
+- Formal methods for cyber-physical systems
+- Compositional and abstraction-based techniques for verification
+- Probabilistic and statistical approaches to verification
+- Verification methods for parallel and concurrent systems
+- Testing and run-time analysis based on verification technology
+- Decision procedures and solvers for verification and synthesis
+- Applications and case studies in verification and synthesis
+- Verification in industrial practice
+- New application areas for algorithmic verification and synthesis
+- Formal models and methods for security
+- Formal models and methods for biological systems
+Submissions on a wide range of topics are sought, particularly ones that identify new research directions. CAV 2024 is not limited to topics discussed in previous instances of the conference. Authors concerned about the appropriateness of a topic may communicate with the conference chairs prior to submission.
+
+SUBMISSION
+Main submission site is: https://easychair.org/conferences/?conf=cav2024.
+Paper submissions in CAV fall into one of the following three categories (more information here: http://i-cav.org/2024/call-for-papers/):
+- Regular Papers (18 pages max, must be anonymized)
+- Tool Papers (10 pages max, not anonymized)
+- Industrial Experience Reports & Case Studies. (10 pages max, not anonymized)
+Papers in all three categories must be submitted by January 19th, 2024 AoE, and should be in LNCS format. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed. The review process will include a feedback/rebuttal period where authors will have the option to respond to reviewer comments. The PC chairs may solicit further reviews after the rebuttal period.
+
+
+===========
+CAV AWARD
+===========
+The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification. For details about the CAV award nomination, please see the following page: http://i-cav.org/2024/cav-award/.
+CAV Award Nomination deadline: Mar 1, 2024

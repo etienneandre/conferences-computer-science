@@ -26,3 +26,7 @@ environment = "NEW in 2026: Up to 10 papers will be accepted by the program comm
 
 [extra]
 colocated = "The conference will be preceded, on August 23, by the Young Research Forum Workshop intended for students and postdocs."
+
+[[cfp]]
+file = "cfp/MFCS-2026.txt"
+stage = "initial"

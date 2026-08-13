@@ -1,0 +1,83 @@
+-------------------------------------------------------------------------------
+   27th International Conference on Real-Time Networks and Systems
+                 Toulouse, France, November 6-8, 2019
+
+                          RTNS2019
+
+                https://www.irit.fr/rtns2019/
+--------------------------------------------------------------------------------
+                           CALL FOR PAPERS
+--------------------------------------------------------------------------------
+
+RTNS is a friendly and inclusive conference with a great sense of community
+that presents excellent opportunities for collaboration.  Original unpublished
+papers on all aspects of real-time systems and networks are welcome. RTNS
+covers a wide-spectrum of topics in real-time and embedded systems, including,
+but not limited to:
+
+- Real-time application design and evaluation: automotive, avionics, space,
+  railways, telecommunications, process control, multimedia.
+
+- Real-time aspects of emerging smart systems: cyber-physical systems and
+  emerging applications, real-time big data, real-time edge/fog/cloud
+  computing, smart grid systems.
+
+- Real-time system design and analysis: real-time tasks modeling, task/message
+  scheduling, evaluation, mixed-criticality systems, Worst-Case Execution Time
+  (WCET) analysis, QoS, security.
+
+- Software technologies for real-time systems: model-driven engineering,
+  programming languages, compilers, WCET-aware compilation/parallelization,
+  middleware, real-time OS, virtualization.
+
+- Formal specification and verification: application of formal models, such as
+  model checking, satisfiability modulo theories or constraint programming, to
+  solve real-time problems.
+
+- Real-time distributed systems: fault tolerance, time synchronization,
+  task/messages allocation,  adaptability and reconfiguration,
+  publisher/subscriber protocols, distributed real-time database.
+
+- Real-time networks:  Networks on Chip (NoC), wired and wireless sensor and
+  actuator networks, Time-Sensitive Networks (TSN), industrial IoT, SDN, 5G,
+  end-to-end latency analysis.
+
+- Hardware support for real-time systems: hardware/software co-design,
+  power/temperature-aware techniques, design of predictable hardware,
+  multi-core and many-core platforms, hardware accelerators, cache related
+  issues, interconnect and memory.
+
+The 13th Junior Researcher Workshop on Real-Time Computing also will be
+organized jointly with RTNS.
+
+----------------------------------------------------------------------------------
+SUBMISSION OF PAPERS
+
+Papers are limited to 10 pages (not including references) in ACM conference
+format. Authors of selected outstanding papers will be invited to submit
+extended versions of those papers to a special issue of the Springer Real-Time
+Systems journal.
+
+The submission Web page for RTNS 2019 is:
+
+https://easychair.org/conferences/?conf=rtns2019
+
+----------------------------------------------------------------------------------
+IMPORTANT DATES
+
+Paper submission deadline: April 30, 2019
+Notification of acceptance: June 28, 2019
+Submission of camera-ready papers: September 2, 2019
+Conference: November 6-8, 2019
+
+----------------------------------------------------------------------------------
+PROGRAM CO-CHAIRS
+Christopher Gill (Washington University in St. Louis , USA)
+Ye-Qiong Song (LORIA – Université de  Lorraine, France)
+
+PROGRAM COMMITTEE
+TBD
+
+GENERAL CHAIR
+Jérôme Ermont (IRIT, ENSEEIHT, France)
+-

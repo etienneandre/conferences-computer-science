@@ -1,0 +1,41 @@
+SEFM 2018: The 16th International Conference on Software Engineering and Formal Methods
+will be part of STAF 2018 in Toulouse, France, 27-29 June 2018.
+
+https://www.isf.cs.tu-bs.de/cms/events/sefm2018/
+Twitter: @SEFM_conf
+
+************************
+CALL FOR PAPERS
+************************
+
+SEFM aims to bring together leading researchers and practitioners from academia, industry and government, to advance the state of the art in formal methods, to facilitate their uptake in the software industry, and to encourage their integration within practical software engineering methods and tools.
+
+*** TRACKS AND TOPICS OF INTEREST ***
+
+The topics of interest for submission include, but are not limited to, the following aspects of software engineering and formal methods:
+
+- Software development methods: requirement analysis, modeling, specification and design; light-weight and scalable formal methods; software evolution, maintenance, re-engineering and reuse.
+- Design principles: programming languages; domain specific languages; type theory; abstraction and refinement, correctness-by-construction
+- Software verification and testing: model checking, theorem proving and decision procedures; verification and validation; probabilistic verification and synthesis; testing.
+- Functional and non-functional system properties, such as safety-critical, fault-tolerant and secure systems; software certification; performance analysis and management, resource-constrained computing, energy-aware computing.
+- Design principles and analysis techniques for different system paradigms, such as self-adaptive, service-oriented and cloud computing systems; component-based, object-oriented and multi-agent systems; real-time, hybrid and embedded systems; reconfigurable and variant-rich systems, intelligent systems, e.g., based on machine learning algorithms
+- Application and technology transfer: case studies, best practices and experience reports; tool integration; education; HCI, interactive systems and human error analysis.
+
+Authors are invited to submit full research papers (up to 15 pages) describing original research results, case studies and tools; and short new ideas/work-in-progress papers (up to 6 pages) describing new approaches, techniques and/or tools that are not fully validated yet. We are planning to publish the proceedings in the Formal Methods subline of Springer's LNCS series. Papers must be submitted in PDF format at the EasyChair submission site:
+
+https://easychair.org/conferences/?conf=nfm2018
+
+Information about all committees can be found at https://www.isf.cs.tu-bs.de/cms/events/sefm2018/committees/.
+
+*** IMPORTANT DATES ***
+Abstract Submission: Friday 23 February 2018
+Full Paper Submission: 2 March 2018
+Notification: Monday 9 April 2018
+Camera ready: Monday 23 April 2018
+Conference: 27-29 June 2018
+
+*** CO-CHAIRS ***
+Einar Broch Johnsen (University of Oslo, Norway)
+Ina Schaefer (Technische Universität Braunschweig, Germany)
+
+Website: https://www.isf.cs.tu-bs.de/cms/events/sefm2018

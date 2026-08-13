@@ -1,0 +1,139 @@
+==================================================================
+DaLí 2025 - 3rd Call for Papers
+
+DaLí 2025: 6th Workshop on Dynamic Logic - New trends and applications
+Shaanxi Normal University, Xi'an, Shaanxi Province, P. R. China
+October 20-21, 2025
+
+*** http://www.dali2025.cn ***
+
+!! UPDATES: Deadline Extension !!
+====================================================================
+*** Important Dates ***
+- Abstract submission deadline:  NEW *15th June, 2025*
+- Full paper submission deadline:  NEW *20th June, 2025*
+- Author notifications: NEW *25th July, 2025*
+
+
+**** Overview *****
+Building on the ideas of Floyd-Hoare logic, dynamic logic was introduced in the 70's as a formal tool for reasoning about, and verify, classic imperative programs. Over time, its aim has evolved and expanded; DL can be seen now as a general set of ideas and tools devised for representing, describing and reasoning about diverse kind of actions, including (but not limited to) frameworks tailored for specific programming problems/ paradigms (e.g., separation logics), settings for modelling new computing domains (e.g., probabilistic, continuous and quantum computation), frameworks for reasoning about information dynamics (e.g., dynamic epistemic logics) and systems for reasoning about long term information dynamics (e.g., learning theory).
+
+Both its theoretical relevance and practical potential make DLs a topic of interest in a number of scientific venues, from wide-scope software engineering conferences to modal logic specific events. The aim of the DaLí 2023 workshop is to bring together, in a single place, researchers with a shared interest in the formal study of actions (from Academia to Industry and more, from Mathematics to Computer Science and beyond) to present their work, foster discussions and encourage collaborations.
+
+Previous editions of DaLí took place in Brasília (2017), Porto (2019), online (2020, 2022) and Tblisi (2023).
+
+
+**** List of Topics ****
+Submissions are invited on the general field of dynamic logic, its variants and applications, including (but not restricted to):
+
+- Dynamic logic, foundations and applications
+- Logics with regular modalities
+- Modal/temporal/epistemic/game logics
+- Kleene and action algebras and their variants
+- The interface between logic and learning
+- Quantum dynamic logic
+- Co-algebraic modal/dynamic logics
+- Graded and fuzzy dynamic logics
+- Dynamic logics for cyber-physical systems
+- Dynamic epistemic logic
+- Complexity and decidability of variants of dynamic logics and temporal logics
+- Model checking, model generation and theorem proving for dynamic logics
+- Integration of Dynamic Logic with Machine Learning Models
+
+
+**** Submission and Proceedings ****
+
+We solicit two categories of papers:
+
+.Regular papers - describing original research results, case studies, or surveys, should not exceed 15 pages (excluding bibliography of at most two pages).
+
+.Short papers - describing original research results or case studies, maybe in an incubation phase, with 6 to 8 pages (excluding bibliography of at most one page).
+
+
+Papers must be formatted according to the guidelines for Springer LNCS papers. All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere.
+
+Papers can be submitted through Easychair: https://easychair.org/conferences/?conf=dal2025
+
+The post-proceedings will be published in a volume of Lecture Notes in Computer Science (Springer). Moreover, a special issue of the event with extended papers will be published in Journal of Logical and Algebraic Methods in Programming (Elsevier).
+
+* Best Student Paper Award:
+Awarded to the most outstanding student-authored contribution. Prize of 500 € to be shared equally among student co-authors. Sponsored by School of Philosophy, Shaanxi Normal University.
+
+
+*** Invited Speakers ***
+
+Alexandru Baltag (U. Amsterdam, NL)
+Luís S. Barbosa (Informatic Dep., U. Minho, PT)
+Fenrong Liu (Tsinghua University, CN)
+
+
+*** Program Committee Chairs ***
+
+Jing Wang (Shaanxi Normal University, China)
+Alexandre Madeira (University of Aveiro, PT)
+
+*** Organising Committee chair ***
+
+Lei Li (Shaanxi Normal University, China)
+
+*** Program Committee ***
+
+Thomas Ågotnes
+(U. of Bergen, No)
+Carlos Areces
+(FaMAF, Ar)
+Philippe Balbiani (IRIT, Fr)
+Alexandru Baltag (U Amesterdam, Nl)
+Luís Soares Barbosa (U of Minho, Pt)
+Mario Benevides (UFF, Br)
+Thomas Bolander (Technical U. of Denmark, Dk)
+Raul Fervari (U. Nacional de Córdoba,  CONICET, Ar)
+Sabine Frittella (Lab. d'Informatique Fondamentale d'Orléans, Fr)
+Xiaoxuan Fu (China U. of Political Science and Law, Ch)
+Sujata Ghosh (Indian Statistical Institute, In)
+Leandro Gomes (Lille University, Fr)
+Reiner Hähnle (TU Darmstadt, Ge)
+Asta Halkjær From (U. of Copenhagen, Dk)
+Andreas Herzig (CNRS, IRIT, Univ. Toulouse, Fr)
+Gabriele Kern-Isberner (Dortmund University, De)
+Alexander Knapp (Universität Augsburg, Ge)
+Sophia Knight (U. of Minnesota Duluth, USA)
+Katherine Kosaian (U. of Iowa, USA)
+Clemens Kupke (U. of Strathclyde, UK)
+Lei Li (Shaanxi Normal University, Ch)
+Fei Liang (School of Philosophy and Social Development, Shandong U., Ch)
+Fenrong Liu (Tsinghua University, Ch)
+Alexandre Madeira (University of Aveiro, Pt)
+Manuel A. Martins (University of Aveiro, Pt)
+Alessandra Palmigiano (Vrije Universiteit Amsterdam, Nl)
+Elaine Pimentel (UCL, UK)
+R Ramanujam (I. of Mathematical Sciences, Chennai, In)
+Katsuhiko Sano (F. of Humanities and Human Sciences, Hokkaido U., Jp)
+Igor Sedlar (Czech Academy of Sciences, Cz)
+Sonja Smets (U. Amsterdam, Nl)
+Ionuț Țuțu (IMAR, Ro)
+Johan van Benthem (U. Amsterdam, Nl)
+Jing Wang (Shaanxi Normal University, Ch)
+Yì Nicholas Wáng (Dep of Philosophy, Sun Yat-sen University, Ch)
+Zhaoqing Xu (Sichuan University, Ch)
+Fan Yang (Utrecht University, Nl)
+Zhiguang Zhao (Taishan University, Ch)
+
+
+
+*** Steering Committee ***
+
+Alexandru Baltag (U. Amsterdam, NL)
+Alexandre Madeira (U. Aveiro, PT)
+Andreas Herzig (IRIT, U. Paul Sabatier, FR)
+Fenrong Liu (Tsinghua U., CH)
+Johan van Benthem (U. Amsterdam, NL)
+Igor Sedlár (Czech Academy of Sciences, CZ)
+Luís Soares Barbosa (U. Minho, PT), Chair
+Manuel Martins (U. Aveiro, PT)
+Mário Benevides (Federal U. Rio de Janeiro, BR)
+Sonja Smets (U. Amsterdam, NL)
+
+-------------------------------------------------------
+Alexandre Madeira
+http://sweet.ua.pt/madeira/

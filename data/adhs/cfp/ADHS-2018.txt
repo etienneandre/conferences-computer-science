@@ -1,0 +1,358 @@
+-------------------------------------------------------------------------------------------
+
+ADHS 2018 Call for Papers
+
+The 6th IFAC Conference on Analysis and Design of Hybrid Systems
+
+Oxford University, UK, July 11-13, 2018.
+
+Website: http://www.cs.ox.ac.uk/conferences/ADHS18/
+
+-------------------------------------------------------------------------------------------
+
+ 
+
+* Invited Session Proposals due: December 1, 2017
+
+* Paper Submissions due: December 8, 2017
+
+* Author notification: February 2018
+
+ 
+
+The Organising Committee has the pleasure of inviting you to participate in the
+6th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 18) to be
+held at Oxford University, UK, July 11-13, 2018.
+
+ 
+
+ADHS 2018 takes place as a workshop of the Conference on Computer Aided
+Verification (CAV 2018), and within FLOC 2018. The conference happens under the
+auspices of IFAC and is sponsored by the IFAC Technical Committee on Discrete
+Event and Hybrid Systems.
+
+ 
+
+Contributions are invited in all areas pertaining to the engineering of hybrid
+systems including: modelling, specification, verification, analysis, control
+synthesis, simulation, validation, and implementation. We solicit papers and
+invited session proposals describing theoretical or applied research in the
+area. We also welcome papers describing tools, reporting case studies or
+connecting the cognate fields of control theory and formal verification.
+
+ 
+
+Contributions are encouraged on applications of hybrid methods in various
+fields, such as automotive, avionics, energy and power, mobile and autonomous
+robotics, the process and manufacture industry, transportation and
+infrastructure networks, communication networks and networked control systems,
+cyber-physical systems, safety-critical systems, systems and synthetic biology.
+
+ 
+
+-------------------------------------------------------------------------------------------
+
+Author Guidelines
+
+ 
+
+* Regular papers: Regular papers can have a length of up to 8 pages at
+submission. Accepted papers are limited to 6 pages in the conference preprints
+and on-line proceedings.
+
+ 
+
+* Invited session proposals: Invited sessions consist of 4 to 6 papers related
+to a common theme that fits within the scope of ADHS. An invited session
+proposal should contain a short description of the common theme as well as the
+list of papers in the session and their abstracts.
+
+The invited session organiser first has to submit the pdf file of the session
+proposal (without participating papers). The IFAC Conference Manuscript
+Management System then returns an acknowledgment that contains an alpha-numeric
+code for the proposed session. Subsequently, the organiser has to notify the
+contributing authors of their invited session code. The corresponding author of
+each paper then submits the paper on-line as an invited paper.
+
+ 
+
+* Invited session papers: Invited session papers can have a length of up to 8
+pages at submission. Invited session papers go through the same review process
+as regular papers. Accepted papers are limited to 6 pages in the conference
+preprints and on-line proceedings. Submission as an invited session paper
+requires the invited session code, which can be obtained from the session
+organiser.
+
+ 
+
+-------------------------------------------------------------------------------------------
+
+Submission Instructions
+
+ 
+
+* All papers submitted to ADHS 18 must be written in English and formatted in
+the standard IFAC 2-column format provided on the IFAC Conference Management
+System website (see the item "Support for Authors" above).
+
+ 
+
+* For initial submissions, all regular and invited session papers are limited
+to eight (8) pages. The submission website will not permit longer papers to be
+uploaded.
+
+ 
+
+* For the final upload all accepted and invited papers are limited to six (6)
+pages.
+
+ 
+
+* For each accepted paper at least one of the authors should have a full
+registration in order to have the paper included in the preprints and the
+post-conference on-line proceedings at IFAC-PapersOnLine.
+
+ 
+
+* Author's kits with style (.cls) files for LaTeX are available from the
+submission website. Go to http://ifac.papercept.net and select "Support" for
+these files and example files, or directly go to the support page. Please do
+not change the formatting in any way.
+
+ 
+
+-------------------------------------------------------------------------------------------
+
+Important Dates
+
+ 
+
+Papers and Invited Session Proposals due: December 2017
+
+Author notification: February 2018
+
+Final papers due: April 2018
+
+Early registration: TBA
+
+Conference: Jul. 11-13, 2018
+
+ 
+
+The reference timezone for all deadlines is UTC-12.
+
+ 
+
+-------------------------------------------------------------------------------------------
+
+Committees
+
+ 
+
+General Chair
+
+* Alessandro Abate (U. Oxford, UK)
+
+ 
+
+Program Chairs
+
+* Maurice Heemels (TU Eindhoven, NL)
+
+* Antoine Girard (CNRS, FR)
+
+ 
+
+ 
+
+Program Committee:
+
+ 
+
+Erika Abraham,
+
+Matthias Althoff,
+
+Duarte Antunes,
+
+Murat Arcak,
+
+Nikolaos Athanasopoulos,
+
+Ebru Aydin Gol,
+
+Shun-ichi Azuma,
+
+Ezio Bartocci,
+
+Sergiy Bogomolov,
+
+Luca Bortolussi,
+
+Peter E. Caines,
+
+Christos G. Cassandras,
+
+Patrizio Colaneri,
+
+Samuel Coogan,
+
+Alessandro D'Innocenzo,
+
+Jamal Daafouz,
+
+Thao Dang,
+
+Bart De Schutter,
+
+Jyotirmoy Deshmukh,
+
+Mario di Bernardo,
+
+Dimos V. Dimarogonas,
+
+Mohamed Djemai,
+
+Kerstin Eder,
+
+Sadegh Esmaeil Zadeh Soudjani,
+
+Martin Fabian,
+
+Uli Fahrenberg,
+
+Georgios Fainekos,
+
+Giancarlo Ferrari Trecate,
+
+Martin Fränzle,
+
+Goran Frehse,
+
+Sicun Gao,
+
+Alessandro Giua,
+
+Kim Guldstrand Larsen,
+
+Holger Hermanns,
+
+Laurentiu Hetel,
+
+Joao Hespanha,
+
+Jun-ichi Imura,
+
+Franjo Ivancic,
+
+Qing-Shan Jia,
+
+Karl H. Johansson,
+
+Agung Julius,
+
+Marc Jungers,
+
+Raphaël M. Jungers,
+
+Joost-Pieter Katoen,
+
+Stefan Kowalewski,
+
+Françoise Lamnabhi-Lagarrigue,
+
+Mircea Lazar,
+
+Michael Lemmon,
+
+Bengt Lennartson,
+
+Hai Lin,
+
+Jun Liu,
+
+Alessio Lomuscio,
+
+Jan Lunze,
+
+Daniele Magazzeni,
+
+Cristian Mahulea,
+
+Paolo Mason,
+
+Manuel Mazo Jr,
+
+Ian M. Mitchell,
+
+Irinel Constantin Morarescu,
+
+Chris J. Myers,
+
+Meeko Oishi,
+
+Necmiye Ozay,
+
+George J. Pappas,
+
+Mihaly Petreczky,
+
+Romain Postoyan,
+
+Pavithra Prabhakar,
+
+Maria Prandini,
+
+Christophe Prieur,
+
+Joerg Raisch,
+
+Spyros A. Reveliotis,
+
+Matthias Rungger,
+
+David Safranek,
+
+Ricardo Sanfelice,
+
+Sriram Sankaranarayanan,
+
+Carla Seatzu,
+
+Manuel Silva,
+
+Oleg Sokolsky,
+
+Paulo Tabuada,
+
+Bert Tanner,
+
+Andrew R. Teel,
+
+Ashish Tiwari,
+
+Ufuk Topcu,
+
+Stavros Tripakis,
+
+Jana Tumova,
+
+Arjan J. van der Schaft,
+
+Yorai Wardi,
+
+Rafal Wisniewski,
+
+Luca Zaccarian,
+
+Majid Zamani,
+
+Janan Zaytoon,
+
+Naijun Zhan,
+
+Qianchuan Zhao,
+
+Paolo Zuliani.
+
+ 

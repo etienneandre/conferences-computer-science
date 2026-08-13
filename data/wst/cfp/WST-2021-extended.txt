@@ -1,0 +1,94 @@
+======================================================================
+                      WST 2021 - Call for Papers
+              17th International Workshop on Termination
+                   http://costa.fdi.ucm.es/wst2021
+
+             July 16, 2021, Pittsburgh, PA, United States
+                       Co-located with CADE-28
+
+                 *** The Workshop will be Virtual ***
+======================================================================
+       
+The Workshop on Termination (WST) traditionally brings together, in an
+informal   setting,  researchers   interested   in   all  aspects   of
+termination,  whether  this  interest  be  practical  or  theoretical,
+primary  or  derived.   The  workshop   also  provides  a  ground  for
+cross-fertilization of ideas from the different communities interested
+in termination (e.g., working on computational mechanisms, programming
+languages,  software  engineering,   constraint  solving,  etc.).  The
+friendly  atmosphere  enables  fruitful  exchanges  leading  to  joint
+research and subsequent publications.
+
+
+IMPORTANT DATES:
+
+  * submission deadline:  April 25, 2021
+  * notification:         May 30, 2021
+  * final version due:    June 13, 2021
+  * workshop:             July 16, 2021
+
+
+INVITED SPEAKERS:
+
+  TBA
+
+
+TOPICS:
+
+The 17th International Workshop  on Termination welcomes contributions
+on  all aspects  of termination.  In particular,  papers investigating
+applications  of  termination  (for example  in  complexity  analysis,
+program   analysis  and   transformation,  theorem   proving,  program
+correctness, modeling computational systems, etc.)  are very welcome.
+
+Topics of interest include (but are not limited to):
+
+  * abstraction methods in termination analysis
+  * certification of termination and complexity proofs
+  * challenging termination problems
+  * comparison and classification of termination methods
+  * complexity analysis in any domain
+  * implementation of termination methods
+  * non-termination analysis and loop detection
+  * normalization and infinitary normalization
+  * operational termination of logic-based systems
+  * ordinal notation and subrecursive hierarchies
+  * SAT, SMT, and constraint solving for (non-)termination analysis
+  * scalability and modularity of termination methods
+  * termination analysis in any domain (lambda calculus, declarative
+    programming, rewriting, transition systems, etc.)
+  * well-founded relations and well-quasi-orders
+
+
+SUBMISSION GUIDELINES:
+
+Submissions  are  short  papers/extended abstracts  which  should  not
+exceed 5 pages.  There will be no formal reviewing.  In particular, we
+welcome  short  versions of  recently  published  articles and  papers
+submitted  elsewhere.  The  program  committee  checks  relevance  and
+provides additional feedback for  each submission. The accepted papers
+will be made available electronically before the workshop.
+
+Papers should be submitted electronically via the submission page:
+
+     https://easychair.org/conferences/?conf=wst2021
+
+Please, use LaTeX and the LIPIcs style file
+
+     http://drops.dagstuhl.de/styles/lipics/lipics-authors.tgz
+
+to prepare your submission.
+
+
+PROGRAM COMMITTEE:
+
+  * Martin Avanzini - INRIA Sophia, Antipolis
+  * Carsten Fuhs - Birkbeck, U. of London
+  * Samir Genaim (chair) - U. Complutense de Madrid
+  * Jürgen Giesl - RWTH Aachen
+  * Matthias Heizmann - U. of Freiburg
+  * Cynthia Kop - Radboud U. Nijmegen
+  * Salvador Lucas - U. Politècnica de València
+  * Étienne Payet - U. de La Réunion
+  * Albert Rubio -  U. Complutense de Madrid
+  * René Thiemann - U. of Innsbruck

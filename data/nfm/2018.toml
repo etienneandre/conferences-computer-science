@@ -25,3 +25,11 @@ submitted = 92
 
 [extra]
 notes = "No registration fees. Authors of selected best papers may be invited to submit an extended version to a special issue of the Journal of Automated Reasoning (Springer)."
+
+[[cfp]]
+file = "cfp/NFM-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/NFM-2018-extended.txt"
+stage = "extended"

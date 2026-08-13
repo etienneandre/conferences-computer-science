@@ -25,3 +25,11 @@ submitted = 18
 
 [extra]
 notes = "Part of STAF 2018 held in Toulouse."
+
+[[cfp]]
+file = "cfp/TAP-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TAP-2018-extended.txt"
+stage = "extended"

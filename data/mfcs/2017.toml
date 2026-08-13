@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Appendix allowed."
+
+[[cfp]]
+file = "cfp/MFCS-2017.txt"
+stage = "initial"

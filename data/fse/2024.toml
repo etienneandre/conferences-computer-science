@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "Open science policy. Double-blind. Also tutorials, doctoral symposium, tool demos and others. Author response period: 11-13 December 2023."
+
+[[cfp]]
+file = "cfp/FSE-2024.txt"
+stage = "initial"

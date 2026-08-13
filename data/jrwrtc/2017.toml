@@ -18,3 +18,11 @@ publisher = "PDF"
 
 [extra]
 notes = "In conjunction with RTNS 2017. Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012, 1 week in 2015, 6 days in 2016 (including notification deadline), ???+8 days (including notification deadline) in 2017."
+
+[[cfp]]
+file = "cfp/JRWRTC-2017-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/JRWRTC-2017-extended2.txt"
+stage = "extended"

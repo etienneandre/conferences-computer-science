@@ -19,3 +19,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Every two years."
+
+[[cfp]]
+file = "cfp/WODES-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/WODES-2018-extended.txt"
+stage = "extended"

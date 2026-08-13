@@ -1,0 +1,100 @@
+Thirteenth Haifa Verification Conference 2017
+
+https://www.research.ibm.com/haifa/conferences/hvc2017
+
+November 13 - 15, 2017
+
+Tutorials: November 13, 2017
+
+Haifa, Israel - Organized by IBM Research - Haifa
+
+HVC Facebook page
+
+----------------------------------------------------------------
+
+HVC is an annual conference dedicated to advancing the state-of the art and state-of-the-practice in verification and testing. At the conference, researchers and practitioners from academia and industry network, share ideas, and ponder the future directions of testing and verification for hardware, software, and complex hybrid systems.
+
+The common goal of the conference topics and participants is to ensure the correct functionality and performance of complex systems. HVC is the only conference that brings together experts from all verification and testing sub-fields, thereby encouraging the migration of methods and ideas among domains.
+
+HVC 2017 invites the submission of technical papers reporting original research and experience results in all sub-fields of testing and verification applicable to software and hardware. The conference includes the presentation of peer-reviewed, original technical papers, as well as lectures by guests from industry and academia.
+
+Special theme this year: verification for security
+In addition to the traditional HVC topics (see below), we plan at least one session dedicated to the research and application of verification techniques in security. At least one of our invited keynote talks will be dedicated to this topic.
+
+New this year: tool demos category
+In addition to the research and poster sessions, we plan to hold a tool demos session.
+
+The conference proceedings will be published in Springer’s Lecture Notes in Computer Science series (LNCS), and distributed in digital format to registered conference participants.
+
+----------------------------------------------------------------
+
+Important dates:
+
+·        Submission deadline (all categories): July 21, 2017 - 11.59 pm GMT
+
+·        Author acceptance notification: September 1, 2017
+
+·        Final manuscripts due: September 15, 2017
+
+·        Conference: November 13 - 15, 2017
+
+·        Tutorials: November 13, 2017
+
+----------------------------------------------------------------
+
+Topics of interest to the conference include, but are not limited to:
+·        Simulation-based verification
+·        Formal and semi-formal specification, modeling, and verification
+·        Functional and non-functional software testing
+·        Software and hardware equivalence checking
+·        SAT/SMT-based verification algorithms
+·        Static analysis
+·        Model checking
+·        High-level stimuli generation
+·        Hardware/software co-verification
+·        Cloud quality
+·        Validation of data-intensive solutions
+·        Validation of machine learning algorithms
+·        Triage and debug technologies
+·        Post-silicon validation including emulation and acceleration
+·        Coverage analysis and test minimization
+·        Testing of mobile and cloud applications
+·        Software artifacts review and inspection
+·        Test planning
+·        Empirical studies on hardware and software quality
+·        Security verification
+·        Machine learning techniques for verification
+
+----------------------------------------------------------------
+
+Submissions:
+
+Detailed instructions for electronic submissions can be found on the HVC conference web site. For additional information regarding paper submissions, please contact the HVC program chair Ofer Strichman.
+
+----------------------------------------------------------------
+
+Venue:
+
+The lovely city of Haifa resides on a mountain overlooking the Mediterranean Sea, and is home to Jews, Muslims, and Christians. Haifa is also the world center of the Baha’i faith, and the wondrous Baha’i gardens are a must-see attraction. The conference will be held at IBM Research - Haifa, situated at the top of the Carmel mountains.
+
+----------------------------------------------------------------
+
+Student grants:
+
+We anticipate a number of student grants to cover part of the travel expenses for full-time students who are authors of accepted papers. Precedence in allocation of these travel grants will be to students who are also presenting a poster at the conference.
+
+----------------------------------------------------------------
+
+General chair: Rachel Tzoref-Brill (rachelt@il.ibm.com)
+
+Program chair: Ofer Strichman (ofers@ie.technion.ac.il)
+
+Local organization: Revivit Yankovich (revivity@il.ibm.com)
+
+Publicity chair: Tali Rabetti (talis@il.ibm.com)
+
+Tutorial chair: Tom Kolan (tomk@il.ibm.com)
+
+----------------------------------------------------------------
+
+For more information, please refer to HVC2017 web page: http://www.research.ibm.com/haifa/conferences/hvc2017

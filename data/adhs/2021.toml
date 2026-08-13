@@ -19,3 +19,11 @@ license = "free-copy"
 
 [extra]
 notes = "Every 3 years. A Best Paper Award and a Best Repeatability Award (new!) will also be awarded during the conference"
+
+[[cfp]]
+file = "cfp/ADHS-2021.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ADHS-2021.txt"
+stage = "initial"

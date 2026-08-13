@@ -1,0 +1,18 @@
+
+
+IJCAR is the premier international joint conference on all aspects of automated 
+reasoning. IJCAR 2022 is the 11th edition of IJCAR. It will be held in Haifa 
+(Israel), August 7-12, 2022, as part of FLoC 2022. IJCAR 2022 is the merger 
+of the following conferences in automated reasoning: 
++ CADE (Conference on Automated Deduction)
++ FroCoS (Symposium on Frontiers of Combining Systems)
++ TABLEAUX (Conference on Analytic Tableaux and Related Methods)
+
+For more details about the conference, venue and organization, see the 
+conference webpage:
+    https://easychair.org/smart-program/FLoC2022/IJCAR-index.html
+
+      THE SUBMISSION DEADLINE HAS BEEN EXTENDED TO 18th FEBRUARY
+
+See the CFP at ... https://easychair.org/cfp/IJCAR-2022
+

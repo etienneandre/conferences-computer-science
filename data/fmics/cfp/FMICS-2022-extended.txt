@@ -1,0 +1,116 @@
+Final Call for Papers FMICS 2022: Formal Methods for Industrial Critical System
+Deadline: May 26, 2022
+ 
+Latest News: We are very pleased to announced a second invited speaker: Bas Luttik (Eindhoven University of Technology) will talk about modelling and verification in the railway domain.
+ 
+New this year! Special track papers on Formal Methods for Responsible AI
+ 
+The aim of the FMICS conference series is to provide a forum for researchers who are interested in the development and application of formal methods in industry. FMICS brings together scientists and engineers who are active in the area of formal methods and interested in exchanging their experiences in the industrial usage of these methods. The FMICS conference series also strives to promote research and development for the improvement of formal methods and tools for industrial applications.
+ 
+FMICS (http://fmics.inria.fr) is the ERCIM Working Group conference on Formal Methods for Industrial Critical Systems. FMICS is the key conference in the intersection of industrial applications and Formal Methods. This year's conference is the 27th in the series. FMICS will be held as part of CONFEST 2022 (https://confest2022.mimuw.edu.pl/).
+ 
+Topics
+Topics of interest include (but are not limited to):
+    Case studies and experience reports on industrial applications of formal methods, focusing on lessons learned or identification of new research directions.
+    Methods, techniques and tools to support automated analysis, certification, debugging, descriptions, learning, optimisation and transformation of complex, distributed, real-time, embedded, mobile and autonomous systems.
+    Verification and validation methods (model checking, theorem proving, SAT/SMT constraint solving, abstract interpretation, etc.) that address shortcomings of existing methods with respect to their industrial applicability (e.g., scalability and usability issues).
+    Impact of the adoption of formal methods on the development process and associated costs. Application of formal methods in standardisation and industrial forums.
+ 
+New this year! Special track papers on Formal Methods for Responsible AI
+We invite submissions in topics related to the use of formal methods for responsible AI, addressing challenges such as:
+    How can formal verification and analysis be used to make AI more trustworthy?
+    What kind of properties need to be guaranteed to make AI trustworthy?
+    And are existing formal analysis techniques powerful enough to provide the necessary guarantees for trustworthy AI?
+ 
+For this occasion, the Program Committee has been enlarged with people that have expertise on the use of formal methods for AI. Formatting instructions and the review procedure are the same as the ones for regular papers. However, the authors will need to specifically indicate their interest in the special track during the submission. Papers accepted for the special track will be included in a special session at FMICS 2022 along with a panel on this topic, while they will be published in the conference proceedings together with papers accepted for the regular track.
+ 
+Submission and Publication
+We welcome contributions of different categories:
+    Regular papers, regular tool papers, case study papers and experience reports that describe original research work and results. Length: 15 pages, excluding references.
+    Short papers that describe work-in-progress, or positions on the future of formal methods. Length: 6 pages, excluding references.
+    Short tool papers that describe software artefacts. Length: 6 pages, excluding references.
+ 
+Submitted papers must not have previously appeared in a journal or conference with published proceedings and must not be concurrently submitted to any other peer-reviewed workshop, symposium, conference or journal. Any partial overlap with any such published or concurrently submitted paper must be clearly indicated.
+ 
+Submissions should clearly motivate relevance to industrial application. Case-study papers and experience reports should identify lessons learned, validate theoretical results (such as scalability of methods) or provide specific motivation for further research and development.
+ 
+Submissions should be formatted according to the LNCS style (Springer). All submissions will be reviewed by the Programme Committee members who will make a selection among the submissions based on the novelty, soundness and applicability of the presented ideas and results.
+ 
+Papers must be written in English and should be submitted as Portable Document Format (PDF) files using the EasyChair submission site: https://easychair.org/conferences/?conf=fmics2022
+ 
+The conference proceedings will be published by Springer in the LNCS series.
+ 
+Authors should consult Springer’s authors guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each accepted paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+ 
+At least one author of each accepted paper is expected to present the paper at the conference as a registered participant.
+ 
+We will present an FMICS 2022 Best Paper Award selected by the Program Committee, sponsored by Springer. The Program Committee of FMICS 2022 will also invite a selection of accepted papers and tools to submit extended versions to a special issue of International Journal on Software Tools for Technology Transfer (STTT).
+ 
+Concerning the COVID-19 Pandemic
+Given the ongoing pandemic situation, the CONFEST 2022 organizers have the following plan: 
+    The conferences will be advertised as physical, in-person events.
+    We will provide support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
+    We will not require any explanation from registered participants as to why they do not wish to come in person.
+ 
+Depending on the pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not. This decision will be made by the end of June 2022 based on a quick survey of the authors of accepted papers, asking them whether they are willing to come. 
+ 
+Concerning the Russian invasion of Ukraine
+FMICS strongly condemns the Russian aggressive war against Ukraine. We express our solidarity with the Ukrainian people in their plight, and our deep respect to their courage in defending their country.
+FMICS adheres to the statement of the European University Association (EUA):
+https://eua.eu/news/835:european-university-association-statement-on-ukraine.html.
+In view of disgraceful declarations of many Russian academic institutions, we support the decision, made by several international academic organisations, to freeze  all institutional collaboration with the Russian academic establishment.
+Therefore we request academics from Russia, when submitting their work for FMICS 2022, to consider refraining from mentioning Russian affiliations and acknowledging support from Russian institutions. We know that many Russian academics are actively opposed to the war against Ukraine and we acknowledge their civil courage. 
+ 
+Important Dates
+Paper submission: May 26, 2022 (23:59:59 AoE)
+Author notification: June 24, 2022
+Camera-ready version: July 5, 2022
+Conference: September 14-16, 2022
+ 
+PC Chairs
+Jan Friso Groote, Eindhoven University of Technology, Netherlands
+Marieke Huisman, University of Twente, Netherlands
+ 
+Keynote
+Sven Schewe, University of Liverpool, UK
+Bas Luttik, Eindhoven University of Technology, Netherlands
+ 
+PC members
+​​Erika Abraham, RWTH Aachen University, DE
+Maurice ter Beek, ISTI-CNR, IT
+Simon Bliudze, INRIA, FR
+Rafael C. Cardoso, University of Manchester, UK
+Milan Ceska, Brno University of Technology, CZ
+Hubert Garavel, INRIA, FR
+Jan Friso Groote, Eindhoven University of Technology, NL (co-chair)
+Ernst Moritz Hahn, University of Twente, NL
+Paula Herber, University of Münster, DE
+Marieke Huisman, University of Twente, NL (co-chair)
+Peter Höfner, Australian National University, AU
+Nikolai Kosmatov, CEA List, FR
+Alfons Laarman, Leiden University, NL
+Peter Gorm Larsen, Aarhus University, DK
+Istvan Majzik, Budapest University of Technology and Economics, HU
+Rosemary Monahan, Maynooth University, IE
+Thomas Neele, Eindhoven University of Technology, NL   
+Wytse Oortwijn, TNO, NL   
+Paweł Parys, University of Warsaw, PO
+Wojciech Penczek, Institute of Computer Science of PAS, PO
+Jaco van de Pol, Aarhus University, DK
+Marco Roveri, DISI, IT
+Kristin Yvonne Rozier, Iowa State University, US
+Cristina Seceleanu, Mälardalen University, SE
+Martina Seidl, Johannes Kepler University Linz, AU
+Jiri Srba, Aalborg University, DK
+Alexander J. Summers, University of British Columbia, US
+Ashutosh Trivedi, University of Colorado Boulder, US
+Elena Troubitsyna, KTH, SE
+Naijun Zhan, Institute of Software, Chinese Academy of Sciences, CH
+ 
+Steering Committee
+Maurice ter Beek, ISTI-CNR, IT
+Alessandro Fantechi, University of Florence, IT
+Hubert Garavel, INRIA, FR
+Tiziana Margaria, Univ. of Limerick and LERO, IE
+Radu Mateescu, INRIA, FR
+Jaco van de Pol, Aarhus University, DK

@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Part of QONFEST with CONCUR, FORMATS and QEST. Special track papers on Formal Methods for Blockchain-based Smart Contracts, and special issue in STTT in 2020"
+
+[[cfp]]
+file = "cfp/FMICS-2021.txt"
+stage = "initial"

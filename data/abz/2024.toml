@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Firm extended abstract deadline. Deadline extended by 20 days (2014), 7 days (2018, 2021, 2023), 14 days (2024)."
+
+[[cfp]]
+file = "cfp/ABZ-2024.txt"
+stage = "initial"

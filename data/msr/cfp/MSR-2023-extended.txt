@@ -1,0 +1,80 @@
+Bonjour,
+
+Pour rappel et information à propos du 14ème colloque sur la Modélisation des Systèmes Réactifs (MSR’23) qui se tiendra à Toulouse du 22 au 24 novembre 2023.
+
+Les échéances de soumission ont été étendues !
+— Résumé : 14 juin
+— Article régulier : 28 juin
+
+Toutes les informations et actualités du colloque sont sur le site https://msr2023.sciencesconf.org/ notamment :
+— Comités (pilotage, programme, organisation)
+— Orateurs invités :
+** Claire Pagetti, Directeur de recherche ONERA, Toulouse
+** Jan Komenda, Chercheur à l'Institut des Mathématiques, Académie Tchèque des Sciences, Prague
+— Distinction meilleur article jeune chercheur.se
+— Procédure pour la soumission via SciencesConf
+— Lieu de la conférence au cœur de la ville rose !
+
+Au plaisir de vous accueillir à Toulouse,
+
+Le comité d’organisation de MSR’23
+https://msr2023.sciencesconf.org/
+msr2023@sciencesconf.org
+
+————————————————————————————————————
+MSR est un colloque en langue française qui traite de la modélisation, de l'analyse et de la commande des systèmes réactifs et temps réel. Il concerne plus particulièrement les chercheurs et industriels intéressés par la conception d'applications qui sont basées sur des systèmes de type soit continu, soit discret, soit hybride. C'est un lieu de rencontre pour les automaticiens et les informaticiens francophones afin de confronter les techniques et les problèmes abordés par les deux communautés. Ainsi, MSR a pour rôle d'affirmer l'apport des chercheurs francophones dans ces domaines et de favoriser les échanges entre universitaires et industriels.
+
+MSR sollicite des contributions théoriques et des expériences pratiques dans les thèmes et domaines d'application listés ci-dessous (liste non exhaustive).
+
+Thèmes
+————————————
+- Modèles (qualitatifs et/ou quantitatifs) pour la spécification de comportements et/ou propriétés : automates, réseaux de Petri, Grafcet, algèbres de processus, équations différentielles, chaînes de Markov, inférence bayésienne, files d'attente, algèbre maxplus, logique linéaire, logique temporelle, logique temporelle probabilisée et/ou temporisée, …
+- Aspects méthodologiques : composition, raffinement, orientation objet, approches multi-modèles, apprentissage séquentiel, raisonnement logique…
+- Analyse : vérification, évaluation (performances, sûreté de fonctionnement), test, frugalité…
+- Commande : synthèse de contrôleur, supervision, surveillance, diagnostic...
+
+Domaines d’application
+————————————
+Bio-informatique
+Circuits, systèmes sur puce
+Énergie, transport
+Industrie 4.0
+Robotique
+Santé
+Sécurité des systèmes
+Systèmes embarqués, systèmes cyber-physiques
+Systèmes industriels et industrie du commerce
+Systèmes temps-réel, systèmes mobiles
+Transition énergétique, environnement
+
+Orateurs invités
+————————————
+Claire PAGETTI
+Directeur de recherche, ONERA, Toulouse
+Jan KOMENDA
+Chercheur à l'Institut des Mathématiques, Académie Tchèque des Sciences, Prague
+
+Soumission article régulier
+————————————
+La soumission se fait en deux étapes selon le format disponible sur le site :
+- un résumé d’au plus 500 mots - date limite le 24 mai 2023 -> 14 juin 2023,
+- puis un article complet d’au plus 14 pages - date limite le 7 juin 2023 -> 28 juin 2023.
+
+Soumission "poster/démonstration"
+————————————
+Une session particulière aura pour objectif la présentation :
+- de travaux en cours qui ne seraient pas encore suffisamment matures pour faire l'objet d'un article régulier du colloque (poster) ;
+- de réalisations logicielles et/ou matérielles (démonstration).
+La soumission se fera sous la forme d’un résumé d’au plus 2 pages - date limite le 11 octobre 2023. Les "posters/démonstrations" acceptés seront présentés brièvement lors d'une session spécifique et pourront être discutés tout au long du colloque.
+
+Actes et procédure de soumission
+————————————
+Les actes du colloque (articles réguliers et résumés "poster/démonstration") seront publiés dans l'archive ouverte HAL. Les soumissions sont à déposer sur la plateforme SciencesConf via le site du colloque https://msr2023.sciencesconf.org/ rubrique « Soumission ».
+
+Distinction du "meilleur article jeune chercheur.se"
+————————————
+Un article régulier parmi ceux acceptés se verra attribuer une distinction de "meilleur article jeune chercheur.se". L'auteur.rice principal.e de cet article devra être un.e jeune chercheur.se, c'est-à-dire doctorant.e ou ayant soutenu sa thèse il y a moins d'un an au moment de la tenue de MSR'23.
+
+Lieu
+————————————
+MSR'23 aura lieu à l'espace événementiel "Le Village By CA" : https://www.levillagebyca-toulouse-evenement.fr/ situé au coeur de Toulouse (allées Jules Guesde) : https://goo.gl/maps/zSjfrhu6u1C7zJcW9?coh=178572&entry=tt.

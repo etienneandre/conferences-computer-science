@@ -21,3 +21,7 @@ license = "acm"
 
 [extra]
 notes = "Light-weight double-blind. Firm deadline (2018-2022). Two tracks: theory and application. Part of Cyber Physical Systems (CPS) Week. A distinguished paper award will be presented. A subset of accepted papers will be solicited for a Special issue of a related journal. One paper will be nominated for a Research Highlight in the Communications of the ACM. Firm deadlines in (at least) 2019-2022."
+
+[[cfp]]
+file = "cfp/ICCPS-2023.txt"
+stage = "initial"

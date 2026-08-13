@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Part of <a href=\"https://lipn.univ-paris13.fr/summer-of-love-2020/\">Paris Nord Summer of LoVe 2020</a>. Includes an ACSD special track. All accepted papers will be considered for an outstanding paper award. Some of the best papers will be invited, in an extended form, as submissions to a special issue of a well-established computer science journal."
+
+[[cfp]]
+file = "cfp/PetriNets-2020.pdf"
+stage = "initial"

@@ -1,0 +1,144 @@
+============================================================ 
+
+ 
+                      31st International Symposium on                       
+              Logic-Based Program Synthesis and Transformation 
+                               LOPSTR 2021 
+                     http://saks.iasi.cnr.it/lopstr21/ 
+
+ 
+                   Tallinn, Estonia, September 7-9, 2021 
+                       (co-located with PPDP 2021) 
+
+ 
+============================================================ 
+
+ 
+The aim of the LOPSTR series is to stimulate and promote international 
+research and collaboration on logic-based program development. LOPSTR 
+is open to contributions in logic-based program development in any 
+language paradigm. LOPSTR has a reputation for being a lively, friendly 
+forum for presenting and discussing work in progress. Formal proceedings 
+are produced only after the symposium so that authors can incorporate 
+this feedback in the published papers. 
+
+ 
+The 31st International Symposium on Logic-based Program Synthesis and 
+Transformation (LOPSTR 2021) will be held at the Teachers' House in 
+Tallinn, Estonia. 
+Previous symposia were held in Bologna (as a virtual meeting), Porto, 
+Frankfurt am Main, Namur, Edinburgh, Siena, Canterbury, Madrid, Leuven, 
+Odense, Hagenberg, Coimbra, Valencia, Kongens Lyngby, Venice, London, 
+Verona, Uppsala, Madrid, Paphos, London, Venice, Manchester, Leuven, 
+Stockholm, Arnhem, Pisa, Louvain-la-Neuve, and Manchester. 
+LOPSTR 2021 will be co-located with PPDP 2021 (International Symposium 
+on Principles and Practice of Declarative Programming). 
+
+ 
+Topics of interest cover all aspects of logic-based program development, 
+all stages of the software life cycle, and issues of both 
+programming-in-the-small and programming-in-the-large, including, 
+but not limited to: 
+
+ 
+  - synthesis 
+  - transformation 
+  - specialization 
+  - composition 
+  - optimization 
+  - inversion 
+  - specification 
+  - analysis and verification 
+  - testing and certification 
+  - program and model manipulation 
+  - machine learning for program development 
+  - verification and testing of machine learning systems 
+  - transformational techniques in SE 
+  - applications and tools 
+
+ 
+Both full papers and extended abstracts describing foundations and 
+applications in these areas are welcome. Survey papers that present 
+some aspects of the above topics from a new perspective and papers 
+that describe experience with industrial applications are also welcome. 
+
+ 
+Papers must describe original work, be written and presented in English, 
+and must not substantially overlap with papers that have been published 
+or that are simultaneously submitted to a journal, conference, or workshop 
+with refereed proceedings. Work that already appeared in unpublished or 
+informally published workshop proceedings may be submitted (please contact 
+the PC chairs in case of questions). 
+
+ 
+
+ 
+* Important Dates * 
+
+ 
+Abstract submission (optional):                   May 1, 2021 (AoE) 
+Paper/Extended abstract submission:               May 15, 2021 
+Notification:                                     July 1, 2021  
+Camera-ready (for electronic pre-proceedings):    August 20, 2021 
+Symposium:                                        September 7-9, 2021 
+Revised paper submission:                         November 1, 2021 (AoE) 
+Notification:                                     December 1, 2021 
+Final version (for post-proceedings):             January 16, 2022 
+
+ 
+
+ 
+* Submission Guidelines * 
+
+ 
+Authors should submit an electronic copy of the paper (written in English) 
+in PDF, formatted in LNCS style. Each submission must include on its first 
+page the paper title; authors and their affiliations; contact author's 
+email; abstract; and three to four keywords which will be used to assist 
+the PC in selecting appropriate reviewers for the paper. Page numbers 
+(and, if possible, line numbers) should appear on the manuscript to help 
+the reviewers in writing their report. Full papers cannot exceed 15 pages excluding references. Extended abstracts cannot exceed 8 pages excluding references. Additional pages may be used for appendices not intended for publication. Reviewers are not required to read the appendices, and thus 
+papers should be intelligible without them. Papers should be submitted 
+via EasyChair: https://easychair.org/conferences/?conf=lopstr2021 
+
+ 
+
+ 
+* Proceedings *  
+
+  
+All papers (extended abstracts and full papers) accepted for presentation 
+at the symposium will be made available through electronic pre-proceedings. 
+As is usual for LOPSTR, formal proceedings will be published only after 
+the symposium. Full papers can be directly accepted for publication in the 
+formal proceedings, or accepted only for presentation at the symposium. 
+After the symposium, all authors of extended abstracts and full papers 
+accepted only for presentation will be invited to revise and/or extend 
+their submissions. Then, after another round of reviewing, these revised 
+papers may also be published in the formal proceedings. 
+
+ 
+
+ 
+* Program Chairs * 
+
+ 
+Emanuele De Angelis, IASI-CNR, Italy 
+Wim Vanhoof, University of Namur, Belgium 
+
+ 
+
+ 
+* Local organisation * 
+
+ 
+Niccolò Veltri, Tallinn University of Technology, Estonia 
+
+ 
+
+ 
+* Contact * 
+
+ 
+For more information, please contact the Program Committee Chairs: 
+emanuele.deangelis@iasi.cnr.it, wim.vanhoof@unamur.be 

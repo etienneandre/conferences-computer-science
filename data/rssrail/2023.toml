@@ -17,3 +17,11 @@ notification = [2023-06-16, 2023-06-20]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/RSSRail-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RSSRail-2023-extended.txt"
+stage = "extended"

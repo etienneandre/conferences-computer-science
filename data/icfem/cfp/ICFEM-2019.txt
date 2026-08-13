@@ -1,0 +1,198 @@
+     ============================================================
+                             CALL FOR PAPERS
+                               ICFEM'2019
+                    http://csse.szu.edu.cn/icfem2019/index.html
+     
+
+      21st International Conference on Formal Engineering Methods
+                               ICFEM 2019
+                             November 5th-9th
+                             Shenzhen, China
+
+             http://csse.szu.edu.cn/icfem2019/index.html
+     =============================================================
+
+
+
+
+===============================
+SUBMISSION WEBSITE 
+https://easychair.org/conferences/?conf=icfem2019
+================================
+
+
+
+===============================
+IMPORTANT DATES 
+
+    Abstract Submissions Due    :  May 14th, 2019 
+    Full Paper Submissions Due  :  May 21st, 2019
+    Author Notification         :  July 6th, 2019
+    Camera-ready Papers Due     :  July 26th, 2019
+    ICFEM Conference            :  November 5-9, 2019
+================================
+
+
+
+===============================
+CONTACTS
+     Yamine Ait Ameur    yamine@enseeiht.fr
+     Shengchao Qin       S.Qin@tees.ac.uk
+
+===============================
+
+
+
+
+=============================
+Background and Objectives
+=============================
+
+Since it was started in Hiroshima, Japan in 1997, ICFEM has provided a forum for both researchers and practitioners who are interested in developing practical formal methods for software engineering or applying existing formal techniques to improve software development process in practice. Formal methods for the development of computer systems have been extensively researched and studied. We now have good theoretical understandings of how to describe what programs do, how they do it, and why they work. A range of semantic theories, specification languages, design techniques, verification methods, and supporting tools have been developed and applied to the construction of programs of moderate size that are used in critical applications. The remaining challenge now is how to deal with problems in developing and maintaining large scale and complex computer systems.
+
+The goal of this conference is to bring together industrial, academic, and government experts, from a variety of user domains and software disciplines, to help advance the state of the art. Researchers, practitioners, tool developers and users, and technology transfer experts are all welcome. We are interested in work that has been incorporated into real production systems, and in theoretical work that promises to bring practical, tangible engineering benefits.
+
+ICFEM 2019 will be organized and sponsored by Shenzhen University and will be held in the attractive and enjoyable city Shenzhen during November 5th-9th, 2019. We are looking forward to your contribution and participation.
+
+===============================
+Scope and Topics
+===============================
+
+Submissions related to the following principal themes are encouraged, but any topics relevant to the field of formal engineering methods and their practical applications will also be considered.
+    Abstraction, refinement and evolution
+    Formal specification and modeling
+    Program analysis
+    Formal verification
+    Model checking
+    Formal approaches to software testing and inspection
+    Formal methods for self-adaptive systems
+    Formal methods for object-oriented systems
+    Formal methods for component-based systems
+    Formal methods for concurrent and real-time systems
+    Formal methods for cloud computing
+    Formal methods for cyber-physical systems
+    Formal methods for software safety, security, reliability and dependability
+    Tool development, integration and experiments involving verified systems
+    Formal methods used in certifying products under international standards
+    Formal model-based development and code generation
+
+===============================
+Submission and Publication
+===============================
+
+Submissions to the conference must not have been published or be concurrently considered for publication elsewhere. All submissions will be judged on the basis of originality, contribution to the field, technical and presentation quality, and relevance to the conference. The proceedings will be published in the Springer Lecture Notes in Computer Science series.
+
+Papers should be written in English and not exceed 16 pages in LNCS format (seehttp://www.springer.de/comp/lncs/authors.htmlfor details). Submission should be made through the ICFEM 2019 submission page (https://easychair.org/conferences/?conf=icfem2019), handled by the EasyChair conference management system.
+
+
+===============================
+Conference Organising Committees
+===============================
+
+General Co-Chairs
+     Jifeng He, East China Normal University, China
+     Zhong Ming, Shenzhen University, China
+
+Program Co-Chairs
+     Yamine Ait-Ameur, INPT-ENSEEIHT, France
+     Shengchao Qin, University of Teesside, UK
+
+Workshop Chair
+     Lijun Zhang, Chinese Academy of Sciences, China
+
+Tutorial Chair
+     Jun Sun, Singapore University of Technology and Design, Singapore
+
+Doctoral Symposium Co-Chairs
+     Xin Peng, Fudan University, China
+     Yi Li, Nanyang Technological University, Singapore
+
+Finance Chair
+     Yang Liu, Nanyang Technological University, Singapore
+
+Publicity Chairs
+     Étienne André, Université Paris 13
+     Huibiao Zhu, East China Normal University
+
+Local Organization Chair
+     Zhiwu Xu, Shenzhen University, China
+
+Steering Committee
+     Keijiro Araki, Kyushu University, Japan
+     David Basin, ETH Zurich, Switzerland
+     Michael Butler, University of Southampton, UK
+     Jin Song Dong, Griffith University and NUS
+     Jifeng He, East China Normal University, China
+     Mike Hinchey, University of Limerick, Ireland
+     Shaoying Liu, Hosei University, Japan
+     Kazuhiro Ogata, JAIST, Japan
+     Shengchao Qin, University of Teesside, UK
+
+Programme Committee
+   Bernhard K.  Aichernig TU Graz
+   Yamine    Ait Ameur IRIT/National Polytechnic Institute of Toulouse
+   Étienne   André    Université Paris 13
+   Christian  Attiogbe  Université de Nantes
+   Christel  Baier    TU Dresden
+   Richard   Banach   The University of Manchester
+   Luis     Barbosa  University of Minho
+   Michael   Butler   University of Southampton
+   Franck    Cassez   Macquarie University
+   Ana      Cavalcanti  University of York
+   Zhenbang  Chen    National University of Defense Technology
+   Yuting    Chen    Shanghai Jiaotong University
+   Wei-Ngan  Chin    National University of Singapore
+   Sylvain   Conchon  Universite Paris-Sud
+   Florin    Craciun  Babes-Bolyai University
+   Frank    De Boer  Centrum Wiskunde & Informatica (CWI)
+   Yuxin    Deng    East China Normal University
+   Jin Song  Dong    National University of Singapore
+   Zhenhua   Duan    Institute of Computing Theory and Technology
+   Marc     Frappier  Université de Sherbrooke
+   Stefania  Gnesi    ISTI-CNR
+   Stefania  Gnesi    CNR, University of Pisa
+   Lindsay   Groves   Victoria University of Wellington
+   Ichiro    Hasuo    National Institute of Informatics
+   John     Hatcliff  Kansas State University
+   Xudong    He      Florida International University
+   Fuyki    Ishikawa  National Institute of Informatics
+   Jie-Hong Roland      Jiang    National Taiwan University
+   Fabrice   Kordon   LIP6/Sorbonne Université & CNRS
+   Mark     Lawford  Mc Master University
+   Michael   Leuschel  University of Düsseldorf
+   Yuan-Fang  Li      Monash University
+   Yi      Li      Nanyang Technological University of Singapore
+   Xuandong  Li      Nanjing University
+   Yang     Liu     Nanyang Technological University
+   Zhiming   Liu     Southwest University
+   Shuang    Liu     Tianjin University
+   Brendan   Mahony   Defence Science and Technology
+   Jim      McCarthy  Defence Science and Technology
+   Dominique  Méry    Loria, Université de Lorraine
+   Stephan   Merz    Inria Nancy
+   Mohammad reza  Mousavi  University of Leicester
+   Cesar    Muñoz    NASA Langley Research Center
+   Shin     Nakajima  National Institute of Informatics
+   Peter    Ölveczky  University of Oslo
+   Jun      Pang    University of Luxembourg
+   Yu      Pei     The Hong Kong Polytechnic University
+   Xin      Peng    Fudan University
+   Geguang   Pu      East China Normal University
+   Shengchao  Qin     Teesside University
+   Silvio    Ranise   FBK-Irst
+   Elvinia   Riccobene University of Milan
+   Adrian    Riesco   Universidad Complutense de Madrid
+   Klaus-Dieter  Schewe   Zhejiang University, UIUC Institute, Haining
+   Jing     Sun     The University of Auckland
+   Meng     Sun     Peking University
+   Jun      Sun     Singapore University of Technology and Design
+   Cong     Tian    Xidian University
+   Elena    Troubytsina  KTH
+   Jaco     van de Pol  University of Twente
+   Hai H.    Wang    University of Aston
+   Virginie  Wiels    Onera, French aerospace Research lab
+   Zhiwu    Xu      Shenzhen University
+   Naijun    Zhan    Institute of Software, Chinese Academy of Sciences
+   Jian     Zhang    Institute of Software, Chinese Academy of Sciences
+   Huibiao   Zhu     East China Normal University
+==================================

@@ -21,3 +21,7 @@ license = "pay-profit"
 [extra]
 colocated = "Co-located with FMCAD 2026"
 notes = "Post-conference proceedings"
+
+[[cfp]]
+file = "cfp/VSTTE-2026-extended.txt"
+stage = "extended"

@@ -1,0 +1,182 @@
+25th ACM International Systems and Software Product Line Conference (SPLC 2021)
+ 
+Consolidated Call for Papers
+ 
+Web site: http://splc2021.net/ 
+Twitter:  @splcconf
+=======================================
+ 
+The Systems and Software Product Line Conference (SPLC) is a premier forum where researchers, practitioners, and educators can present and discuss the most recent ideas, trends, experiences, and challenges in the area of software and system product lines engineering. Conference events include opportunities to hear industry leaders' real-world experiences and researchers' latest ideas and to learn from both.
+ 
+The SPLC 2021 will be held online from September 6th to 11th. We are closely monitoring the COVID19 situation and we are committed to allowing for hybrid participation (both online and physical) if the situation improves.
+ 
+ 
+ 
+=====
+Tracks
+=====
+ 
+* Research Papers
+High-quality research work that uses established scientific methodologies, written using high standards of academic technical publications.
+ 
+* Industrial Systems and Software Product Lines Papers
+We invite submission of papers presenting challenges, innovations, and solutions to concrete industrial applications of software and product line engineering methodologies and tools. Submitted papers should showcase a significant software component to the research.
+ 
+* Challenges and Solutions Papers
+We highly encourage community members to provide concrete sets of case studies and problems that showcase SPL-related challenges. First, there will be a call for cases where researchers or practitioners are encouraged to contribute a concrete case study. Then, after the accepted case studies are published, there will be a call for solutions. Both accepted case descriptions and solutions will be included in the conference proceedings.
+ 
+* Journal First Papers
+Authors of journal-first papers are invited to submit their publications to present their work at SPLC. This is an opportunity to speak directly to the community and offer SPLC attendees a richer set of presentations.
+ 
+* Workshop Proposals
+We invite the community to submit proposals for one or two- day workshops in the field. In particular, workshops on challenging, emerging areas related to conference topics.
+ 
+* Demonstrations and Tools
+This track highlights live demonstrations of product-line tools and of practices tackling current industrial challenges.
+ 
+* Doctoral Symposium Papers
+The SPLC Doctoral Symposium aims to provide a supportive environment that enables doctoral students to get constructive feedback on their research. Students will have the opportunity to discuss their work with experienced members of the community.
+ 
+* Tutorial Proposals
+Tutorials provide a valuable opportunity for participants to expand their knowledge and skills in product line engineering. Tutorials may focus on introductory product lines topics, or on advanced tools, approaches, methods, and best practices.
+ 
+ 
+==========================================
+SPLC will celebrate its silver jubilee at SPLC 2021! 
+==========================================
+ 
+At SPLC 2021, we will celebrate SPLC's silver jubilee in a dedicated session.
+Distinguished speakers will shed their light on the history of SPLC and software product lines - in research and in industry.
+We also plan to show a collection of photos/videos/stories by SPLC participants, for which we seek your help. 
+ 
+Please send any material you believe suitable to SPLC's publicity chair at splc.jubilee.25th@gmail.com
+The fact that SPLC 2021 is the 25th edition of SPLC less than 25 years after the first SPLC surely is one such a remarkable story: https://splc.net/history/ 
+ 
+ 
+ 
+=============
+Important Dates
+=============
+ 
+* Research Track 
+ 
+http://splc2021.net/call-for-papers/call-for-research-papers/
+ 
+	Abstract submission: April 16, 2021
+	Paper submission: April 23, 2021
+	Notification: June 4, 2021
+	Artifact submission: June 18, 2021
+	Artifact notification: July 1, 2021
+	Camera-ready papers: July 9, 2021
+	Conference: September 6-11, 2021
+ 
+ 
+* Industrial system and product lines tracks
+ 
+http://splc2021.net/call-for-papers/call-for-papers-industrial-systems-and-software-product-lines/ 
+	Abstract submission: June 4, 2021
+	Paper submission: June 11, 2021
+	Notification: June 25, 2021
+	Camera-ready papers: July 9, 2021
+	Conference: September 6-11, 2021
+ 
+* Workshops
+ 
+http://splc2021.net/call-for-papers/call-for-workshop-proposals 
+ 
+	Workshop proposal: March 5, 2021
+	Notification: March 19, 2021
+	Workshop papers submission: June 11, 2021
+	Workshop papers notification: June 25, 2021
+	Final version of papers + summary of the workshop: July 9, 2021
+ 
+* Journal First Track
+ 
+http://splc2021.net/call-for-papers/call-for-journal-first-papers 
+ 
+	Submission: June 11, 2021
+	Notification for invitation: June 25, 2021
+	Camera ready summary papers: July 9, 2021
+ 
+* Demonstration and Tools Track
+ 
+http://splc2021.net/call-for-papers/call-for-data-demonstrations-and-tools 
+ 
+	Abstract submission: June 4, 2021
+	Paper submission: June 11, 2021
+	Notification: June 25, 2021
+	Camera-ready papers: July 9, 2021
+ 
+* Doctoral Symposium
+ 
+http://splc2021.net/call-for-papers/call-for-doctoral-symposium-papers/
+ 
+	Paper submissions: June 11, 2021
+	Notification: June 25, 2021
+	Camera-ready papers: July 9, 2021
+ 
+* Tutorials
+ 
+http://splc2021.net/call-for-papers/call-for-tutorial-proposals 
+ 
+	Tutorial submission: May 7th, 2021
+	Notification: June 11th, 2021
+	Camera-ready tutorial summary: June 25th, 2021
+ 
+ 
+=============
+Organization
+=============
+ 
+General Chairs
+Mohammad Reza Mousavi, University of Leicester, UK
+Pierre-Yves Schobbens, University of Namur, BE
+ 
+Research Track Chairs
+Maurice H. ter Beek, National Research Council (CNR), IT
+Ina Schaefer,  Technische Universität Braunschweig, DE
+ 
+Workshops Chairs
+Xavier Devroey, TU Delft, NL
+José Miguel Rojas, University of Leicester, UK
+ 
+Doctoral Symposium Chairs
+Mahsa Varshosaz, IT University of Copenhagen, DK
+Rick Rabiser, Johannes Kepler University Linz, AT
+  
+Tutorials Chairs
+Monica Pinto, ITIS Software, University of Málaga, ES
+Leopoldo Teixeira, Federal University of Pernambuco (UFPE), BR
+ 
+Industrial Systems and Software Product Lines Chairs
+Johannes Noppen, British Telecom, UK
+Thorsten Berger, Ruhr-Universität Bochum
+ 
+Hall of Fame Chairs
+Natsuko Noda, Shibaura Institute of Technology, JP
+Goetz Botterweck, University of Limerick, IE
+ 
+Challenge Track Chairs
+Paul Temple, University of Namur, BE
+Iris Reinhartz-Berger, University of Haifa, IL
+ 
+Journal First Chairs
+Ferruccio Damiani, University of Torino, IT
+Justyna Petke, University College London, UK
+ 
+Demonstrations and Tools Chairs
+Jaejoon Lee, University of East Anglia, UK
+Tomoji Kishi,  Waseda University, JP
+ 
+Proceedings Chair
+Hugo Leonardo da Silva Araujo, Federal University of Pernambuco, BR and University of Leicester, UK
+ 
+Local Organization Chairs
+Mohammad Reza Mousavi, University of Leicester, UK
+Jan Oliver Ringert, University of Leicester, UK
+José Miguel Rojas, University of Leicester, UK
+Uraz Türker,  University of Leicester, UK
+ 
+Web and Publicity Chair
+Carlos Diego Nascimento Damasceno, Radboud University Nijmegen, NL
+ 

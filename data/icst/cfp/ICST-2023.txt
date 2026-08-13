@@ -1,0 +1,89 @@
+Call for papers: IEEE International Conference on Software Testing,
+Verification and Validation (ICST) 2023.
+------------------------------------------------------------------------------------------
+ICST 2023 (https://conf.researchr.org/home/icst-2023) invites
+high-quality submissions in all areas of software testing,
+verification, and validation. Papers for the research track should
+present novel and original work that advances the state-of-the-art.
+Case studies and empirical research papers are also welcome.
+
+*Topics of Interest*
+Topics of interest include, but are not limited to, the following:
+
+-Fuzz testing
+-Manual testing practices and techniques
+-Search-based software testing
+-Security testing
+-Model-based testing
+-Test automation
+-Static analysis and symbolic execution
+-Formal verification and model checking
+-Software reliability
+-Social aspects of software testing process
+-Testability and design
+-Testing and development processes
+-Testing education
+-Testing in specific domains, such as mobile, web, embedded,
+concurrent, distributed, cloud, GUI, and real-time systems
+-Testing for learning-enabled software, including deep learning
+-Testing video games, augmented reality
+-Testing for cyber-physical systems
+-Testing/debugging tools
+-Theory of software testing
+-Empirical studies
+-Experience reports
+
+Each submission will be reviewed by at least three members of the ICST
+Program Committee.
+
+Papers that have a strong industrial/practical component and focus
+more on impact rather than (technical) novelty are encouraged to
+consider the industry track instead.
+
+*Submission Format*
+Full Research papers, as well as Industry papers, must conform to the
+two-column IEEE conference publication format, not exceed 10 pages,
+including all text, figures, tables, and appendices; two additional
+pages containing only references are permitted. It must conform to the
+IEEE Conference Proceedings Formatting Guidelines (please use the
+letter format template and conference option). The ICST 2023 research
+track only accepts full research papers. Short papers are not accepted
+to the research track.
+
+The submission must also comply with the ACM plagiarism policy and
+procedures. In particular, it must not have been published elsewhere
+and must not be under review elsewhere while under review for ICST.
+The submission must also comply with the IEEE Policy on Authorship.
+
+Lastly, the ICST 2023 Research papers track will employ a double-blind
+review process. Thus, no submission may reveal its authors’
+identities. The authors must make every effort to honor the
+double-blind review process. In particular, the authors’ names must be
+omitted from the submission, and references to their prior work should
+be in the third person. Further advice, guidance, and explanation
+about the double-blind review process can be found in the Q&A page.
+
+Submissions to the Research Papers Track that meet the above
+requirements can be made via EasyChair
+(https://easychair.org/my/conference?conf=icst2023).
+Any submission that does not comply with the above requirements may be
+rejected by the PC Chairs without further review.
+If a submission is accepted, at least one author of the paper is
+required to attend the conference and present the paper for it to be
+published in the ICST 2023 conference proceedings.
+*Replication Material*
+Submissions must supply all information that is needed to replicate
+the results, and therefore are expected to include or point to a
+replication package with the necessary software, data, and
+instructions. Reviewers may consult these packages to resolve open
+issues. There can be good reasons for the absence of a replication
+package, such as confidential code and/or data, the research being
+mostly qualitative, or the paper being fully self-contained. If a
+paper does not come with a replication package, authors should comment
+on its absence in the submission data; reviewers will take such
+comments into account.
+*Important Dates*
+   -
+   Submission deadline: 20 Oct 2022
+   -
+   Decision notification: 16 Dec 2022

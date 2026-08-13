@@ -35,3 +35,11 @@ men = 2
 [extra]
 journal = "Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings."
 notes = "Also journal-first presentations. Doctoral symposium."
+
+[[cfp]]
+file = "cfp/ICFEM-2026.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICFEM-2026-extended.txt"
+stage = "extended"

@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "The ICTAC committee will evaluate and select the best paper award winner. The winner will receive a cash award. After the conference, authors of the best contributions are invited to submit a revised and extended version to a special issue, to be published in Elsevier’s Theoretical Computer Science."
+
+[[cfp]]
+file = "cfp/ICTAC-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICTAC-2019-extended.txt"
+stage = "extended"

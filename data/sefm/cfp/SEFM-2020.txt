@@ -1,0 +1,110 @@
+--------------------------------------------------------------------
+                    Preliminary Call for Papers
+
+                            SEFM 2020
+
+                 18th International Conference on
+              Software Engineering and Formal Methods
+
+           Amsterdam, The Netherlands, 14-18 September 2020
+
+                   https://event.cwi.nl/sefm2020/
+
+--------------------------------------------------------------------
+
+IMPORTANT DATES
+
+Abstract submission deadline:          Monday 27 April 2020 (AoE)
+Paper submission deadline:             Monday 4 May 2020 (AoE)
+Paper notification:                    Friday 26 June 2020
+Camera ready:                          Tuesday 7 July 2020 (AoE)
+
+
+OVERVIEW AND SCOPE
+
+SEFM aims to bring together leading researchers and practitioners
+from academia, industry, and government, to advance the state of
+the art in formal methods, to facilitate their uptake in the
+software industry, and to encourage their integration within
+practical software engineering methods and tools.
+
+Topics of interest include, but are not limited to, the following
+aspects of software engineering and formal methods:
+
+# Software Development Methods
+  - Formal modeling, specification, and design
+  - Software evolution, maintenance, re-engineering, and reuse
+
+# Design Principles
+  - Programming languages
+  - Domain-specific languages
+  - Type theory
+  - Abstraction and refinement
+
+# Software Testing, Validation, and Verification
+  - Model checking, theorem proving, and decision procedures
+  - Testing and runtime verification
+  - Statistical and probabilistic analysis
+  - Synthesis
+  - Performance estimation and analysis of other non-functional
+    properties
+  - Other light-weight and scalable formal methods
+
+# Security and Safety
+  - Security, privacy, and trust
+  - Safety-critical, fault-tolerant, and secure systems
+  - Software certification
+
+# Applications and Technology Transfer
+  - Service-oriented and cloud computing systems, Internet of Things
+  - Component, object, multi-agent and self-adaptive systems
+  - Real-time, hybrid, and cyber-physical systems
+  - Intelligent systems and machine learning
+  - HCI, interactive systems, and human error analysis
+  - Education
+
+# Case studies, best practices, and experience reports
+
+
+PAPER SUBMISSION
+
+We solicit two categories of papers:
+
+- Regular papers describing original research results, case studies,
+  or surveys. Regular papers should not exceed 15 pages, excluding
+  bibliography.
+
+- Tool papers that describe an operational tool and its
+  contributions. Tool papers should not exceed 6 pages (including
+  bibliography) and should include the URL of the tool.
+
+All submissions must be original, unpublished, and not submitted
+concurrently for publication elsewhere. Paper submission is done
+via EasyChair at https://easychair.org/conferences/?conf=sefm2020
+Papers must be formatted according to the guidelines for Springer
+LNCS papers (see http://www.springer.com/lncs).
+
+
+PUBLICATION
+
+All accepted papers will appear in the proceedings of the conference
+that will be published as a volume in the Formal Methods sublime of
+the Springer's LNCS series.
+
+The authors of a selected subset of accepted papers will be invited
+to submit extended versions of their papers to a journal special
+issue.
+
+
+PROGRAM CO-CHAIRS
+
+Frank de Boer (CWI, The Netherlands)
+Antonio Cerone (Nazarbayev University, Kazakhstan)
+
+
+CONTACT: sefm2020@easychair.org
+
+-- 
+Jacopo Mauro, Associate Professor
+Department of Mathematics and Computer Science (IMADA)
+University of Southern Denmark (SDU)

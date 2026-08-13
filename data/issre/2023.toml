@@ -21,3 +21,7 @@ license = "pay"
 
 [extra]
 notes = "Double-blind. Rebuttal: 5-7 July 2022."
+
+[[cfp]]
+file = "cfp/ISSRE-2023.txt"
+stage = "initial"

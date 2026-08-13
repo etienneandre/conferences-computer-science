@@ -1,0 +1,90 @@
+===================================================================
+JOINT CALL FOR PAPERS
+DisCoTec 2024
+19th International Federated Conference on Distributed Computing Techniques
+June 17-21, 2024
+Groningen, The Netherlands
+
+Sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS).
+
+Submission deadline: February 23, 2024 (Extended!)
+
+https://www.discotec.org/2024
+===================================================================
+
+DisCoTec 2024 will gather three conferences that cover a broad spectrum of distributed computing subjects: from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+== COORDINATION == (https://www.discotec.org/2024/coordination)
+26th International Conference on Coordination Models and Languages
+Chairs:
+- Ilaria Castellani (INRIA Sophia Antipolis, FR)
+- Francesco Tiezzi (University of Florence, IT)
+
+== DAIS == (https://www.discotec.org/2024/dais)
+24th International Conference on Distributed Applications and Interoperable Systems
+Chairs:
+- Rolando Martins (University of Porto, PT)
+- Mennan Selimi (South East European University, MK)
+
+== FORTE == (https://www.discotec.org/2024/forte)
+44th International Conference on Formal Techniques for Distributed Objects, Components and Systems
+Chairs:
+- Valentina Castiglioni (Eindhoven University of Technology, NL)
+- Adrian Francalanza (University of Malta, MT)
+
+
+=== Artefact Evaluation (all conferences) ===
+Chair:
+- Roberto Casadei (University of Bologna, IT)
+
+
+=== Keynote Speakers ===
+
+- Marieke Huisman (University of Twente, NL)
+- Laura Kovács (Vienna University of Technology, AT)
+- Paulo Veríssimo (KAUST, SA)
+
+
+=== Important Dates (for all main conferences) - EXTENDED ===
+
+- Abstract submission: February 16, 2024 (Extended)
+- Paper submission: February 23, 2024 (Extended)
+- Paper notification: April 5, 2024 (Extended)
+- Camera-ready: April 24, 2024
+- DisCoTec conference:  June 17-21, 2024
+
+Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
+See each conference site for topics of interest, paper categories, and submission instructions.
+
+
+=== Satellite Events ===
+
+We invite the community to submit proposals for one day workshops and tutorials on topics related to the distributed computing field. Details: http://www.discotec.org/2024/csep
+
+- Proposal submission deadline: February 12, 2024
+
+=== Proceedings ===
+
+The proceedings of COORDINATION, DAIS, and FORTE will be published as volumes in the Springer LNCS-IFIP series.
+The volumes will be open access from the IFIP digital library after a 3-year embargo.
+
+
+=== Journal Special Issues ===
+
+Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals:
+
+- Logical Methods in Computer Science (https://lmcs.episciences.org)
+- Science of Computer Programming (TBC).
+
+
+=== Organizing Committee  ===
+
+- Jorge A. Pérez (University of Groningen, NL — General Chair)
+- Ivan Bliznets (University of Groningen, NL)
+- Anton Chernev (University of Groningen, NL)
+- Dan Frumin (University of Groningen, NL — Workshops and Tutorials Co-chair)
+- Helle Hvid Hansen (University of Groningen, NL)
+- Bas van den Heuvel (Karlsruhe University of Applied Sciences and University of Freiburg, DE — Publicity Chair)
+- Juan C. Jaramillo (University of Groningen, NL)
+- Claudio Antares Mezzina (University of Urbino, IT — Workshops and Tutorials Co-chair)
+- Revantha Ramanayake (University of Groningen, NL)

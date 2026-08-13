@@ -1,0 +1,172 @@
+*************************************************************************
+14th INTERNATIONAL CONFERENCE ON LANGUAGE AND AUTOMATA THEORY AND APPLICATIONS
+ 
+LATA 2020
+ 
+Milan, Italy
+ 
+March 2-6, 2020
+ 
+Co-organized by:
+           
+Department of Informatics, Systems and Communication
+University of Milano-Bicocca
+ 
+and
+ 
+Institute for Research Development, Training and Advice
+Brussels/London
+ 
+lata2020.irdta.eu
+*************************************************************************
+ 
+AIMS:
+ 
+LATA is a conference series on theoretical computer science and its applications. LATA 2020 will reserve significant room for young scholars at the beginning of their career. It will aim at attracting contributions from classical theory fields as well as application areas.
+ 
+VENUE:
+ 
+LATA 2020 will take place in Milan, the third largest economy among European cities and one of the Four Motors for Europe.
+ 
+SCOPE:
+ 
+Topics of either theoretical or applied interest include, but are not limited to:
+ 
+algebraic language theory
+algorithms for semi-structured data mining
+algorithms on automata and words
+automata and logic
+automata for system analysis and programme verification
+automata networks
+automatic structures
+codes
+combinatorics on words
+computational complexity
+concurrency and Petri nets
+data and image compression
+descriptional complexity
+foundations of finite state technology
+foundations of XML
+grammars (Chomsky hierarchy, contextual, unification, categorial, etc.)
+grammatical inference and algorithmic learning
+graphs and graph transformation
+language varieties and semigroups
+language-based cryptography
+mathematical and logical foundations of programming methodologies
+parallel and regulated rewriting
+parsing
+patterns
+power series
+string processing algorithms
+symbolic dynamics
+term rewriting
+transducers
+trees, tree languages and tree automata
+weighted automata
+ 
+STRUCTURE:
+ 
+LATA 2020 will consist of:
+ 
+invited talks
+peer-reviewed contributions
+ 
+INVITED SPEAKERS:
+ 
+tba
+ 
+PROGRAMME COMMITTEE:
+ 
+Jorge Almeida (University of Porto, PT)
+Franz Baader (Technical University of Dresden, DE)
+Alessandro Barenghi (Polytechnic University of Milan, IT)
+Djamal Belazzougui (CERIST, DZ)
+Marcello Bonsangue (Leiden University, NL)
+Bruno Courcelle (University of Bordeaux, FR)
+Laurent Doyen (ENS Paris-Saclay, FR)
+Manfred Droste (Leipzig University, DE)
+Rudolf Freund (Technical University of Vienna, AT)
+Paweł Gawrychowski (University of Wrocław, PL)
+Tero Harju (University of Turku, FI)
+Jeffrey Heinz (Stony Brook University, US)
+Lane A. Hemaspaandra (University of Rochester, US)
+Marcin Jurdziński (University of Warwick, UK)
+Juhani Karhumäki (University of Turku, FI)
+Jarkko Kari (University of Turku, FI)
+Dexter Kozen (Cornell University, US)
+François Le Gall (Kyoto University, JP)
+Markus Lohrey (University of Siegen, DE)
+Parthasarathy Madhusudan (University of Illinois, Urbana-Champaign, US)
+Sebastian Maneth (University of Bremen, DE)
+Nicolas Markey (IRISA, Rennes, FR)
+Carlos Martín-Vide (Rovira i Virgili University, ES, chair)
+Giancarlo Mauri (University of Milano-Bicocca, IT)
+Victor Mitrana (University of Bucharest, RO)
+Paliath Narendran (University at Albany, US)
+Gennaro Parlato (University of Molise, IT)
+Dominique Perrin (University of Paris-Est, FR)
+Nir Piterman (Chalmers University of Technology, SE)
+Sanguthevar Rajasekaran (University of Connecticut, US)
+Wojciech Rytter (University of Warsaw, PL)
+Kai Salomaa (Queen’s University, CA)
+Helmut Seidl (Technical University of Munich, DE)
+William F. Smyth (McMaster University, CA)
+Jiří Srba (Aalborg University, DK)
+Edward Stabler (University of California, Los Angeles, US)
+Benjamin Steinberg (City University of New York, US)
+Frank Stephan (National University of Singapore, SG)
+Jan van Leeuwen (Utrecht University, NL)
+Margus Veanes (Microsoft Research, US)
+Tomáš Vojnar (Brno University of Technology, CZ)
+Mikhail Volkov (Ural Federal University, RU)
+James Worrell (University of Oxford, UK)
+ 
+ORGANIZING COMMITTEE:
+ 
+Alberto Leporati (Milan, co-chair)
+Sara Morales (Brussels)
+Manuel Parra-Royón (Granada)
+Dana Shapira (Ariel)
+David Silva (London, co-chair)
+Bianca Truthe (Giessen)
+Claudio Zandron (Milan, co-chair)
+ 
+SUBMISSIONS:
+ 
+Authors are invited to submit non-anonymized papers in English presenting original and unpublished research. Papers should not exceed 12 single-spaced pages (all included) and should be prepared according to the standard format for Springer Verlag's LNCS series (see http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). If necessary, exceptionally authors are allowed to provide missing proofs in a clearly marked appendix.
+ 
+Submissions have to be uploaded to:
+ 
+https://easychair.org/conferences/?conf=lata2020
+ 
+PUBLICATIONS:
+ 
+A volume of proceedings published by Springer in the LNCS series will be available by the time of the conference.
+ 
+A special issue of a major journal will be later published containing peer-reviewed substantially extended versions of some of the papers contributed to the conference. Submissions to it will be by invitation.
+ 
+REGISTRATION:
+ 
+The registration form can be found at:
+ 
+lata2020.irdta.eu/registration
+ 
+DEADLINES (all at 23:59 CET):
+ 
+Paper submission: October 18, 2019
+Notification of paper acceptance or rejection: November 25, 2019
+Final version of the paper for the LNCS proceedings: December 2, 2019
+Early registration: December 2, 2019
+Late registration: February 17, 2020
+Submission to the journal special issue: June 6, 2020
+ 
+QUESTIONS AND FURTHER INFORMATION:
+ 
+david (at) irdta.eu
+ 
+ACKNOWLEDGMENTS:
+ 
+Università degli Studi di Milano-Bicocca
+ 
+IRDTA – Institute for Research Development, Training and Advice, Brussels/London
+ 

@@ -1,0 +1,178 @@
+**** CALL FOR CONTRIBUTIONS ****
+
+=======================================
+
+29th ACM International Systems and Software Product Line Conference (SPLC)
+
+https://2025.splc.net/
+
+September 1st to 5th, 2025
+
+Venue: Facultade de Informática, Universidade da Coruña (A Coruña, Spain)
+
+=======================================
+
+The ACM International Systems and Software Product Line Conference (SPLC) is a premier forum where researchers, practitioners, and educators can present and discuss the most recent ideas, trends, experiences, and challenges in the area of software and systems product line engineering. Conference events include opportunities to hear industry leaders' real-world experiences and researchers' latest ideas and to learn from both.
+
+Authors of SPLC papers are encouraged to enhance the impact of their research by submitting an extended version of their conference publications to the special issue of the Software and Systems Modeling journal (SoSyM) following the event. This opportunity allows researchers to enrich their work with additional data, deeper analysis, and broader implications.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Research Papers
+(https://2025.splc.net/call-for-papers/call-for-research-papers/)
+
+------------------------------------------------------------------------------------------------------------------------
+
+We invite original, theoretically or empirically validated submissions addressing all areas of software product lines research (see the call for a list of topics). This year particularly emphasizes ‘Data-intensive Software Product Lines’, acknowledging the fact that modern software systems need to manage large data sets along with highly configurable software. With this theme, we encourage contributions that tackle data management problems along the software product line. For instance, DevOps and orchestrating distributed systems are crucial activities to support data-intensive product lines.
+
+Chairs: Sandra Greiner, José Galindo (sandra.greiner@unibe.ch; jagalindo@us.es)
+
+Artifact Chair: Kevin Feichtinger (kevin.feichtinger@kit.edu)
+
+Deadlines (all AoE):
+Abstract submission: April 3, 2025  April 17, 2025
+Paper submission: April 10, 2025  April 24, 2025
+Notification: May 29, 2025
+Artifact submission: June 12, 2025
+Artifact notification: July 3, 2025
+Camera-ready: July 10, 2025
+
+------------------------------------------------------------------------------------------------------------------------
+
+Industrial Systems and Software Product Lines Papers
+(https://2025.splc.net/call-for-papers/call-for-industry-papers-industrial-systems-and-software-product-lines-in-practice/)
+
+------------------------------------------------------------------------------------------------------------------------
+
+We invite submission of papers presenting challenges, innovations and solutions to concrete industrial applications of software and product line engineering methodologies and tools.
+
+Chairs: Tao Yue, Kentaro Yoshimura (taoyue@ieee.org; kentaro.yoshimura.jr@hitachi.com)
+
+Deadlines (all AoE):
+Abstract submission: April 3, 2025  April 17, 2025
+Paper submission: April 10, 2025  April 24, 2025
+Notification: May 29, 2025
+Camera-ready: July 10, 2025
+
+------------------------------------------------------------------------------------------------------------------------
+
+Challenges and Solutions Papers
+(https://2025.splc.net/call-for-papers/call-for-challenges-and-solutions/)
+
+------------------------------------------------------------------------------------------------------------------------
+
+We highly encourage community members to provide concrete sets of case studies and problems that showcase SPL-related challenges. First, there is a “call for cases” where researchers or practitioners are encouraged to contribute a concrete case study. Second, after the accepted cases are published, there is a “call for solutions”. Both, accepted case descriptions and solutions, will be included in the conference proceedings.
+
+This year, we are placing special emphasis in our call for cases on the need for actionable benchmarks and competition, akin to those prevalent in the machine learning and SAT communities, as developed on platforms like Kaggle.
+
+Chairs: Maider Azanza and Jacob Krüger (maider.azanza@ehu.eus; j.kruger@tue.nl)
+
+Deadlines (all AoE):
+Challenge case submission: March 13, 2025
+Challenge case notification: April 3, 2025
+Camera-ready of challenge case: April 10, 2025
+New challenge cases released: April 10, 2025
+Challenge solution submission: June 12, 2025
+Challenge solution notification: July 3, 2025
+Camera-ready of challenge solution: July 10, 2025
+
+------------------------------------------------------------------------------------------------------------------------
+
+Journal First Papers
+(https://2025.splc.net/call-for-papers/call-for-journal-first-track/)
+
+------------------------------------------------------------------------------------------------------------------------
+
+Authors of journal-first papers are invited to submit their publications to present their work at SPLC. This is an opportunity to speak directly to the community and offer SPLC attendees a richer set of presentations.
+
+Chairs: Jessie Galasso-Carbonnel, José Miguel Horcas
+(jessie.galasso-carbonnel@mcgill.ca; horcas@uma.es)
+
+Deadlines (all AoE):
+Paper submissions: June 12, 2025
+Notification: July 3, 2025
+Camera-ready: July 10, 2025
+
+------------------------------------------------------------------------------------------------------------------------
+
+Workshop Proposals and Contribution Papers
+(https://2025.splc.net/call-for-papers/call-for-workshop-proposals/)
+
+------------------------------------------------------------------------------------------------------------------------
+
+We invite the community to submit proposals for one or two days of workshops in the field. In particular, workshops on challenging, emerging areas related to conference topics.
+
+Chairs: Laura Semini, Maxime Cordy (semini@di.unipi.it; maxime.cordy@uni.lu)
+
+Deadlines (all AoE):
+Workshop proposal: February 20, 2025
+Workshop proposal notification: March 6, 2025
+Workshop papers submission: June 12, 2025
+Workshop papers notification: July 3, 2025
+Camera-ready: July 10, 2025
+Workshops: September 1-2, 2025
+
+------------------------------------------------------------------------------------------------------------------------
+
+Demonstrations and Tools Papers
+(https://2025.splc.net/call-for-papers/call-for-demonstrations-and-tools/)
+
+------------------------------------------------------------------------------------------------------------------------
+
+This track highlights live demonstrations of product-line tools and of practices tackling current industrial challenges.
+
+Chairs: Klaus Schmid, Francisca Pérez (schmid@uni-hildesheim.de)
+
+Deadlines (all AoE):
+Paper submissions: June 12, 2025
+Notification: July 3, 2025
+Camera-ready: July 10, 2025
+
+------------------------------------------------------------------------------------------------------------------------
+
+Doctoral Symposium Papers
+(https://2025.splc.net/call-for-papers/call-for-doctoral-symposium-papers/)
+
+------------------------------------------------------------------------------------------------------------------------
+
+This track highlights doctoral proposals, both early and mid-phase, to be reviewed and commented on by a panel of experts.
+
+Chairs: Gilles Perrouin, Sophie Fortz (gilles.perrouin@unamur.be; sophie.fortz@kcl.ac.uk)
+
+Deadlines (all AoE):
+Paper submissions: June 12, 2025
+Notifications: July 3, 2025
+Camera-ready: July 10, 2025
+
+------------------------------------------------------------------------------------------------------------------------
+
+Tutorial Proposals
+(https://2025.splc.net/call-for-papers/call-for-tutorial-proposals/)
+
+------------------------------------------------------------------------------------------------------------------------
+
+Tutorials provide a valuable opportunity for participants to expand their knowledge and skills in product line engineering. Tutorials may focus on introductory product lines topics, or on advanced tools, approaches, methods, and best practices.
+
+Chairs: Iris Groher, Daniel-Jesus Muñoz (iris.groher@jku.at; dm@uma.es)
+
+Deadlines (all AoE):
+Tutorial submission: June 12, 2025
+Notification: July 3, 2025
+Camera-ready (1 page description): July 10, 2025
+Tutorials: September 1-3, 2025
+
+===================================================================
+
+General Chair: Miguel R. Luaces (miguel.luaces@udc.es)
+
+Industry Liaison Chairs: Óscar Pedreira (oscar.pedreira@udc.es)
+
+Publicity Chairs: Juliana Alves Pereira, Delfina Ramos Vidal (juliana@inf.puc-rio.br; delfina.ramos@udc.es)
+
+Proceedings Chair: Tirso Varela Rodeiro (tirso.varela.rodeiro@udc.es)
+
+Web Chair: Victor Lamas (victor.lamas@udc.es)
+
+Local Organization: Miguel R. Luaces, Óscar Pedreira (miguel.luaces@udc.es; oscar.pedreira@udc.es)
+
+Hall of Fame Chairs: Goetz Botterweck, Natsuko Noda, Martin Becker

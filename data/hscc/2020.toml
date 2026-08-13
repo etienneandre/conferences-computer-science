@@ -19,3 +19,7 @@ license = "acm"
 
 [extra]
 notes = "Part of Cyber Physical Systems (CPS) Week. No deadline extension possible. Authors of distinguished papers may be invited to submit an extended version of their work for possible publication in a Special issue of a leading journal. Light double-blind reviewing process. Several best paper awards. Rebuttal phase: 4 to 6th December 2019"
+
+[[cfp]]
+file = "cfp/HSCC-2020.txt"
+stage = "initial"

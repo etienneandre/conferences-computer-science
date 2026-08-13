@@ -1,0 +1,188 @@
+----------------------------------------------------------------------
+31st IEEE Real-Time and Embedded Technology and Applications Symposium
+                             (RTAS 2025)
+
+                       Irvine, USA, May 6-9, 2025
+                         https://2025.rtas.org
+----------------------------------------------------------------------
+
+CALL FOR PAPERS
+===============
+
+RTAS is a top-tier conference with a focus on systems with timing
+requirements. RTAS'25 welcomes papers describing applications, case
+studies, methodologies, tools, algorithms or operating systems,
+middleware or hardware innovations that contribute to the state of the
+art in the design, implementation, validation, verification, and
+evolution of systems with timing requirements. RTAS'25 consists of two
+tracks:
+
+Track 1. Systems and Applications;
+Track 2. Applied Methodologies and Foundations.
+
+
+SCOPE AND GUIDELINES
+====================
+
+To be in scope, papers must explicitly consider at least one of the
+following:
+
+1. Some kind of timing requirements;
+2. Improvements or innovations that directly support the fundamental
+properties of systems with timing requirements.
+
+
+1. Timing requirements
+
+   The timing requirements of interest are broadly defined and include
+   not only classical hard real-time constraints, but also soft
+   real-time, probabilistic, quality-of-service (QoS), throughput or
+   latency requirements. As an example, work that makes an AI
+   algorithm run faster is not in scope, but work that provides
+   guarantees on the response time of an AI algorithm is in scope. The
+   authors should specifically state the types of timing-related
+   properties addressed by the contributions presented in their paper.
+
+2. Improvements or innovations to support the fundamental properties
+   of systems with timing requirements
+
+   Work that supports the design, implementation, validation, or
+   evaluation of deterministic, predictable, dependable, efficient, or
+   next-generation systems with timing requirements are welcome. The
+   authors should specifically state how their work can be used or
+   built upon to ultimately achieve systems with timing requirements
+   beyond the state of the arts. For example, work on verification and
+   automated test case generation of the codebase of an operating
+   system to achieve timing or timing isolation guarantees is in
+   scope. As another example, work on a compiler that reduces the WCET
+   or provides sound distributions of timing information and timing
+   variability of code is in scope. In contrast, a paper on automated
+   test case generation for functional correctness of embedded systems
+   is not in scope, as it does not provide improvements to support
+   systems with timing requirements.
+
+
+The application area can be any type of systems with timing
+requirements, including but not limited to: resource-constrained
+embedded systems, distributed cyber-physical systems (CPS),
+cloud/edge/fog computing systems, cloud data centers, Internet of
+Things (IoT), mobile computing, robotics, smart grid, and smart
+cities, as well as middleware and frameworks, machine learning and
+signal processing algorithms.
+
+RTAS welcomes both papers backed by formal proofs, as well as papers
+that focus exclusively on empirical validation of timing requirements,
+e.g., using traces or performance models inferred from data. Research
+results from fundamental research, (case-driven) applied research, and
+(pragmatic) industry practice are all in scope.
+
+In both tracks, papers must consider some kind of timing requirements.
+The timing requirements of interest are broadly defined and include
+not only classical hard real-time constraints, but also soft real-
+time, probabilistic, quality-of-service (QoS), throughput or latency
+requirements.
+
+RTAS'25 follows a double-anonymous peer reviewing process: author
+identities and affiliations will not be revealed to reviewers. Authors
+will have the opportunity to provide a response to reviews before
+acceptance decisions are made, solely to provide clarifications and
+correct misconceptions. The response will not allow authors to
+introduce new material beyond the original submission or promise such
+material for the camera-ready version. There will be an optional
+artifact evaluation process for accepted papers that assesses the
+reproducibility of the work.
+
+
+TRACK 1: SYSTEMS AND APPLICATIONS
+=================================
+
+This track focuses on research of an empirical nature pertaining to
+(system- or component-) level analysis, optimization, and
+verification, as well as applications, runtime software, and hardware
+architectures for systems with timing requirements. Topics relevant to
+this track include, but are not limited to:
+
+- applications with timing requirements
+- real-time and embedded operating systems
+- hypervisors and runtime frameworks
+- hardware architectures, memory hierarchies, FPGAs, GPUs and
+  accelerators
+- networks with timing requirements
+- CPS/IoT infrastructure
+- microservice technologies, cloud and edge computing, real-time
+  artificial intelligence and
+- machine learning
+- application profiling, WCET analysis, compilers, tools, benchmarks
+  and case studies
+
+Papers discussing design and implementation experiences on real
+industrial systems are especially encouraged. Papers submitted to this
+track should focus on specific systems and implementations. Authors
+must include a section with experimental results performed on a real
+implementation or demonstrate applicability to an industrial case
+study or working system. The experiment or case study discussions must
+highlight the key lessons learned. Simulation-based results are
+acceptable for architectural simulation, or other cases where authors
+clearly motivate why it is not feasible to develop and evaluate a real
+system.
+
+Empirical survey-based research focused on the real-time systems field
+is also welcome in this track. This type of research uses surveys,
+questionnaires, interviews, use cases or other empirical techniques to
+obtain information about the past / current / future state of play in
+the research, design, development, verification, validation, and
+deployment of systems with timing requirements.
+
+
+TRACK 2: APPLIED METHODOLOGIES AND FOUNDATIONS
+==============================================
+
+This track focuses on fundamental models and analysis
+techniques/methods applicable to systems with timing requirements to
+solve problems. The track welcomes knowledge-based models, models
+built from data, as well as a combination, and different types of
+analysis methods, including analytical, statistical, or probabilistic
+methods. Topics relevant to this track include, but are not limited
+to:
+
+- modelling languages, modelling methods, model learning, model
+  validation and calibration
+- scheduling and resource allocation
+- schedulability and response time analyses
+- system-level optimization and co-design techniques
+- design space exploration
+- verification and validation methodologies
+
+Papers must describe the main context or use case for the proposed
+methods giving clear motivating examples based on real systems. The
+system models and any assumptions used in the derivation of the
+methods must be applicable to real systems and reflect actual needs.
+Papers must include a section on experimental results, preferably
+including a case study based on information from a real system. The
+use of synthetic workloads and models is acceptable if appropriately
+motivated and used to provide a systematic evaluation.
+
+
+IMPORTANT DATES
+===============
+
+Submission Deadline (Firm):
+Thursday October 31, 2024
+
+Author Response Period:
+Wednesday January 8 - Sunday January 12, 2025
+
+Author Notification:
+Thursday January 23, 2025
+
+Camera-Ready:
+Monday March 10, 2025
+
+Conference Date:
+Tuesday May 6 - Friday May 9, 2025
+
+
+SUBMISSION SITE
+===============
+
+https://rtas25.hotcrp.com/

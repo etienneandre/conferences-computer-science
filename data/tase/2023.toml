@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Ranked \"national Chinese conference\" by CORE (since 2020). The authors of selected papers will be invited after the symposium to submit an extended version to a special issue at Science of Computer Programming (SCP). Often in China."
+
+[[cfp]]
+file = "cfp/TASE-2023.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/TASE-2023-extended.txt"
+stage = "extended"

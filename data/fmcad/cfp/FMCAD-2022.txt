@@ -1,0 +1,207 @@
+========================================================================
+ 2022 Formal Methods in Computer-Aided Design (FMCAD): Call for Papers
+========================================================================
+
+IMPORTANT DATES
+---------------
+
+Abstract Submission:    May 8, 2022
+Paper Submission:       May 15, 2022
+Author Response:        June 22 - 24, 2022
+Author Notification:    July 1, 2022
+Camera-Ready Version:   August 16, 2022
+
+All deadlines are 11:59 pm AoE (Anywhere on Earth)
+
+FMCAD Tutorial Day:     Oct. 18, 2022
+Regular Program:        Oct. 19-21, 2022
+
+Part of the FMCAD 2022 program: FMCAD Student Forum
+
+
+CONFERENCE SCOPE AND PUBLICATION
+--------------------------------
+
+FMCAD 2022 is the twenty-second in a series of conferences on the theory
+and applications of formal methods in hardware and system
+verification. FMCAD provides a leading forum to researchers in academia
+and industry for presenting and discussing groundbreaking methods,
+technologies, theoretical results, and tools for reasoning formally
+about computing systems. FMCAD covers formal aspects of computer-aided
+system design including verification, specification, synthesis, and
+testing.
+
+FMCAD employs a rigorous peer-review process. Accepted papers are
+published by TU Wien Academic Press under a Creative Commons license
+(the authors retain the copyright) and distributed through the IEEE
+XPlore digital library. There are no publication fees. At least one of
+the authors is required to register for the conference and present the
+accepted paper.
+
+
+TOPICS OF INTEREST
+------------------
+
+FMCAD welcomes submission of papers reporting original research on
+advances in all aspects of formal methods and their applications to
+computer- aided design. Topics of interest include (but are not limited
+to):
+
+- Model checking, theorem proving, equivalence checking, abstraction and
+  reduction, compositional methods, decision procedures at the bit- and
+  word-level, probabilistic methods, combinations of deductive methods
+  and decision procedures.
+
+- Synthesis and compilation for computer system descriptions, modeling,
+  specification, and implementation languages, formal semantics of
+  languages and their subsets, model-based design, design derivation and
+  transformation, correct-by-construction methods.
+
+- Application of formal and semi-formal methods to functional and
+  non-functional specification and validation of hardware and software,
+  including timing and power modeling, verification of computing systems
+  on all levels of abstraction, system-level design and verification for
+  embedded systems, cyber-physical systems, automotive systems and other
+  safety-critical systems, hardware-software co-design and verification,
+  and transaction-level verification.
+
+- Experience with the application of formal and semi-formal methods to
+  industrial-scale designs; tools that represent formal verification
+  enablement, new features, or a substantial improvement in the
+  automation of formal methods.
+
+- Application of formal methods to verifying safety, connectivity and
+  security properties of networks, distributed systems, smart contracts,
+  block chains, and IoT devices.
+
+
+SUBMISSIONS
+-----------
+
+Submissions must be made electronically in PDF format via EasyChair:
+
+   https://easychair.org/conferences/?conf=fmcad2022
+
+Two categories of papers are invited: Regular papers, and Tool & Case
+Study papers. Regular papers are expected to offer novel foundational
+ideas, theoretical results, or algorithmic improvements to existing
+methods, along with experimental impact validation where
+applicable. Tool & Case Study papers are expected to report on the
+design, implementation or use of verification (or related) technology in
+a practically relevant context (which need not be industrial), and its
+impact on design processes.
+
+Both Regular and Tool & Case study papers must use the IEEE Transactions
+format on letter-size paper with a 10-point font size. Papers in both
+categories can be either 8 pages (long) or 4 pages (short) in length not
+including references. Short papers that describe emerging results,
+practical experiences, or original ideas that can be described
+succinctly are encouraged. Authors will be required to select an
+appropriate paper category at abstract submission time. Submissions may
+contain an optional appendix, which will not appear in the final version
+of the paper. The reviewers should be able to assess the quality and the
+relevance of the results in the paper without reading the appendix.
+
+Submissions in both categories must contain original research that has
+not been previously published, nor is concurrently submitted for
+publication. Any partial overlap with published or concurrently
+submitted papers must be clearly indicated. If experimental results are
+reported, authors are strongly encouraged to provide the reviewers
+access to their data at submission time, so that results can be
+independently verified. The review process is single blind.
+
+Authors of accepted contributions will be required to sign the FMCAD
+copyright transfer form found here:
+https://fmcad.or.at/pdf/copyright.pdf.
+
+
+STUDENT FORUM
+-------------
+
+Continuing the tradition of the previous years, FMCAD 2022 is hosting a
+Student Forum that provides a platform for graduate students at any
+career stage to introduce their research to the wider Formal Methods
+community, and solicit feedback.
+
+Submissions for the event must be short reports describing research
+ideas or ongoing work that the student is currently pursuing, and must
+be within the scope of FMCAD. Work, part of which has been previously
+published, will be considered; the novel aspect to be addressed in
+future work must be clearly described in such cases. All submissions
+will be reviewed by a select group of FMCAD program committee members.
+
+
+CO-LOCATED EVENTS
+-----------------
+
+14th International Conference on Verified Software: Theories, Tools, and
+Experiments (VSTTE 2022): https://vstte22.fbk.eu/
+
+
+FMCAD 2022 COMMITTEES
+---------------------
+
+PROGRAM CHAIRS:
+
+  Alberto Griggio         Fondazione Bruno Kessler, Italy
+  Neha Rungta             Amazon Web Services, Inc., CA, USA
+
+PROGRAM COMMITTEE:
+
+  Erika Abraham           RWTH Aachen University
+  Jade Alglave            University College London
+  Josh Berdine            Facebook
+  Per Bjesse              Synopsys Inc.
+  Nikolaj Bjorner         Microsoft Research
+  Roderick Bloem          Graz University of Technology
+  Supratik Chakraborty    IIT Bombay
+  Sylvain Conchon         Universite Paris-Sud
+  Vijay D'Silva           Google
+  Rayna Dimitrova         CISPA Helmholtz Center for Information Security
+  Rohit Dureja            IBM
+  Grigory Fedukovich      Florida State University
+  Arie Gurfinkel          University of Waterloo
+  Fei He                  Tsinghua University
+  Alexander Ivrii         IBM
+  Barbara Jobstmann       EPFL
+  Tim King                Google
+  Kuldeep Meel            National University of Singapore
+  Sergio Mover            École Polytechnique
+  Alexander Nadel         Intel
+  Aina Niemetz            Stanford University
+  Elizabeth Polgreen      University of California Berkeley
+  Rahul Purandare         IIT-Delhi
+  Andrew Reynolds         University of Iowa
+  Marco Roveri            Università di Trento
+  Kristin Yvonne Rozier   Iowa State University
+  Philipp Ruemmer         Uppsala University
+  Cristoph Scholl         University of Freiburg
+  Natasha Sharygina       USI Lugano
+  Elena Sherman           University of Iowa
+  Sharon Shoham           Tel Aviv University
+  Anna Slobodova          Intel
+  Christoph Sticksel      The Mathworks
+  Michael Tautschnig      AWS
+  Nestan Tsiskaridze      Stanford University
+  Yakir Vizel             Technion
+  Georg Weissenbacher     Vienna University of Technology
+  Michael Whalen          Amazon Web Services, Inc.
+
+STUDENT FORUM CHAIR:
+
+  Mathias Preiner         Stanford University, CA, USA
+
+SPONSORSHIP AND WEB CHAIR:
+
+  Martin Jonáš            Fondazione Bruno Kessler, Italy
+
+PUBLICATION CHAIR:
+
+  Georg Weissenbacher     TU Wien
+
+FMCAD STEERING COMMITTEE:
+
+  Clark Barrett           Stanford University, CA, USA
+  Armin Biere             University of Freiburg, Germany
+  Anna Slobodova          Intel Corporation, TX, USA
+  Georg Weissenbacher     TU Vienna, Austria

@@ -1,0 +1,86 @@
+45th IEEE Real-Time Systems Symposium (RTSS 2024)
+
+December 10-13, 2024
+
+York, United Kingdom
+
+http://2024.rtss.org/
+
+----------------------------------------------------------------------------------------------------
+
+  CALL FOR PAPERS
+
+----------------------------------------------------------------------------------------------------
+
+Scope of the Conference
+
+The IEEE Real-Time Systems Symposium (RTSS) is the premier conference in the field of real-time systems, where researchers and practitioners showcase innovations covering all aspects of real-time systems including theory, design, analysis, implementation, evaluation, and experience. RTSS’24, the 45th edition of the event, continues the trend of making RTSS an expansive and inclusive event, striving to embrace new and emerging areas of real-time systems research.
+
+RTSS’24 welcomes submissions of high-quality, original research papers related to both real-time systems theory and practice. Manuscripts may be submitted to either the real-time systems track (Track 1) or the design and applications track (Track 2), which covers Cyber-Physical Systems, HW-SW integration and system-level design, and Internet of Things (IoT). To be in scope, ALL submissions must explicitly address some form of real-time requirements/constraints. Classical examples of real-time requirements include (but are not limited to) deadlines, response time, or delay/latency.  Other forms of real-time requirements may be considered in scope if the submission provides a comprehensive and compelling justification that the problem requires some non-trivial resource allocation, programming approach, scheduling, or design approach to satisfy those real-time requirements. As an example, improving the average-case performance of a program without regard to other criteria is not considered as addressing a real-time requirement. However, improving the average-case performance while simultaneous ensuring that the worst-case performance or execution time variability is not made worse, is considered as addressing a real-time requirement, since it facilitates the development of quantifiably better real-time systems.
+
+
+
+RTSS especially welcomes new and emerging topics that address aspects of real-time requirements as stated above. Such topics may include machine learning techniques for the design and analysis of real-time systems, system design approaches for achieving real-time machine learning, resource management in autonomous systems, system-level solutions for real-time applications exploiting domain-specific accelerators, etc.
+
+
+
+Note the above list of topics is intended only as a rough guide and should not be understood as an exclusive list. Papers breaking new ground, departing from established subfields, or challenging the status quo are most welcome and are encouraged.
+
+
+
+Empirical survey-based research focused on the real-time systems field is also welcome. This type of research uses surveys, questionnaires, interviews, use-cases, or other empirical techniques to obtain information about the past / current / future state of play in the research, design, development, verification, validation, and deployment of real-time systems. (Note literature surveys that classify, review, and summarize existing research papers are not considered empirical research and are not in scope of the conference).
+
+
+
+All accepted papers will appear in the main program and proceedings. A selection of papers will receive recognition as outstanding papers and will be highlighted as such in the proceedings. Best paper and best student paper awards will be presented at the conference, along with an award for the best presentation. (Note that submissions are eligible for the best student paper award provided that the first author is a student as of the submission deadline).
+
+
+
+Important Dates
+
+
+
+    Paper submission deadline: Thursday, May 23, 2024 (AoE)
+    Rebuttal period: From Friday, Jul 12 to Thursday, Jul 18, 2024
+    Author Notification of Acceptance Decision: Wednesday, July 31, 2024
+    Submission of camera-ready papers: Tuesday, Sep 24, 2024
+    Hot-Topics Day: Tuesday, Dec 10, 2024
+    Conference: Wednesday, Dec 11 to Friday Dec 13, 2024
+
+
+
+Track 1: Real-Time Systems Track
+
+
+
+The objective of this track is to promote cutting-edge research in real-time systems, especially new and emerging topics. Areas of interest include, but are not limited to, the following: operating systems, networks, middleware, compilers, tools, scheduling, QoS support, resource management, testing and debugging, design and verification, modeling, WCET analysis, performance analysis, fault tolerance, security, and system experimentation and deployment experiences.
+
+
+
+Track 2: Design and Applications Track
+
+This track aims to highlight novel research pertaining to designs, implementations and applications that attend to some aspect of real-time requirements. Continuing with the success in previous years, the track will particularly focus on three specialized areas:
+
+Cyber-Physical Systems
+
+Cyber-Physical Systems (CPS) encompass a broad scope such as safety-critical, autonomous, or robotic systems. CPS applications (such as transportation, healthcare, industrial control, etc.) interact with the physical world. Hence, they do possess real-time requirements. Papers that identify scientific foundations and technologies that advance the state-of-the-art for CPS are welcome. Topics of interest include (but are not limited to) foundations of CPS, design methods, simulation/emulation for CPS, tool chains, CPS architectures, embedded machine-learning implementation, security, performance analysis, robustness, safety assessment, and hardware/software compositions.
+
+HW-SW Integration and System–Level Design
+
+This area focuses on design methodologies and tools for hardware/software integration and co-design of modern embedded systems for real-time applications. Topics include (but are not limited to) architecture description languages and tools, hardware architectures, design space exploration, synthesis, and optimization. Of special interest are SoC design for real-time applications, special-purpose functional units, specialized memory structures, multi-core chips and communication aspects, FPGA simulation and prototyping, software simulation and compilation for novel architectures and applications, as well as power, thermal, timing and predictability analyses.
+
+Internet of Things (IoT)
+
+Grand challenges in IoT include extremely constrained resources (energy supply, storage, and computational power) in IoT devices, unprecedented scalability requirements as well as uncertain dynamics in their operating environments. Submissions that build on solid theoretical foundations, present empirical development, and experimental evaluations for empowering IoT applications with real-time requirements are welcome.
+
+Paper Submissions
+
+Submitted papers must describe original work not previously published or concurrently submitted elsewhere. Papers based on previous work presented at workshops are eligible for submission – if the workshop paper has a digital object identifier (DOI) then the submission must contain at least 30% new material. All submitted papers must comply with the double-blind submission requirements. The main body of each submitted paper is limited to 11 pages of technical content with additional pages permitted for bibliography only. Submissions must be formatted according to IEEE conference paper guidelines.
+
+Self-Nomination for Technical Program Committee
+
+With the aim of broadening active participation in TCRTS-sponsored conferences, please consider nominating yourself to be on the technical program committee.  The program chair will consult self-nominations when composing the technical program committee for RTSS’24.  More information can be found at the TCRTS webpage: https://site.ieee.org/tcrts/conferences/self-nominations/
+
+Conference Highlights
+
+The RTSS’24 Hot Topics Day showcases new trends and developments related to the real-time system field. Hot Topics Day includes special sessions, tutorials, as well as half-day and full-day workshops. The conference also includes a Brief Presentations session and RTSS@Work demonstrations.

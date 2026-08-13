@@ -1,0 +1,102 @@
+=======================
+CSL 2023
+University of Warsaw, Poland
+February 13-16, 2023
+=======================
+
+Computer Science Logic (CSL) is the annual conference of the European Association for Computer Science Logic (EACSL), see https://www.eacsl.org/. It is an interdisciplinary conference, spanning across both basic and application oriented research in mathematical logic and computer science. CSL 2023 will be held in the University of Warsaw on February 13-16, 2023 (https://csl2023.mimuw.edu.pl/)
+
+Submission guidelines
+=====================
+Submitted papers must be in English and must provide sufficient detail to allow the Program Committee to assess the merits of the paper. Full proofs may appear in a clearly marked technical appendix which will be read at the reviewers’ discretion. Authors are strongly encouraged to include a well written introduction which is directed at all members of the PC.
+
+The papers should be submitted via easychair: https://easychair.org/conferences/?conf=csl2023
+
+The CSL 2023 conference proceedings will be published in Leibniz International Proceedings in Informatics (LIPIcs), see https://submission.dagstuhl.de/documentation/authors. Authors are invited to submit contributed papers of no more than 15 pages in LIPIcs style (not including references), presenting unpublished work fitting the scope of the conference.
+
+Papers may not be submitted concurrently to another conference with refereed proceedings. The PC chairs should be informed of closely related work submitted to a conference or a journal.
+
+Papers authored or co-authored by members of the PC are not allowed.
+
+At least one of the authors of each accepted paper is expected to attend the conference in person to present their papers.
+
+Important dates
+===============
+Abstract submission: July 9, 2022 (AoE)
+Paper submission: July 16, 2022 (AoE)
+Notification: September 30, 2022
+Conference: February 13-16, 2023
+
+Invited Speakers
+================
+Claudia Faggian (Université de Paris, France)
+Nina Gierasimczuk (Danish Technical University, Denmark)
+Dale Miller (Inria Saclay, France)
+Michał Pilipczuk (University of Warsaw, Poland)
+Davide Sangiorgi (University of Bologna, Italy)
+
+
+Helena-Rasiowa-Award
+====================
+The Helena Rasiowa Award is the best student paper award for the CSL conference series, starting from CSL 2022. The award will be given to the best paper (as decided by the PC) written solely by students or for which students were the main contributors. A student in this context is any person who is currently studying for a degree or whose PhD award date is less than one year prior to the first day of the conference. Read more about the contribution of Helena Rasiowa to logic and computer science, and their interplay, here: https://www.eacsl.org/helena-rasiowa-award-2/helena-rasiowa-award/.
+
+List of topics
+==============
+- automated deduction and interactive theorem proving
+- constructive mathematics and type theory
+- equational logic and term rewriting
+- automata and games, game semantics
+- modal and temporal logic
+- model checking
+- decision procedures
+- logical aspects of computational complexity
+- finite model theory
+- computational proof theory
+- logic programming and constraints
+- lambda calculus and combinatory logic
+- domain theory
+- categorical logic and topological semantics
+- database theory
+- specification, extraction and transformation of programs
+- logical aspects of quantum computing
+- logical foundations of programming paradigms
+- verification and program analysis
+- linear logic
+- higher-order logic
+- nonmonotonic reasoning
+
+Program Committee
+=================
+Matteo Acclavio (University of Luxembourg, Luxembourg)
+Patricia Bouyer-Decitre (LSV, CNRS & ENS Paris-Saclay, France)
+Agata Ciabattoni (TU-Wien, Austria)
+Diana Costa (University of Lisbon, Portugal)
+Gilles Dowek (INRIA & ENS Paris-Saclay, France)
+Martín Escardó (University of Birmingham, UK)
+Rajeev Goré (The Australian National University, Australia)
+Giulio Guerrieri (Huawei Edinburgh Research Centre, UK)
+Shin-ya Katsumata (National Institute of Informatics, Japan)
+Delia Kesner (Université de Paris, France)
+Sandra Kiefer (RWTH Aachen University, Germany)
+Bartek Klin (University of Oxford, UK, co-chair)
+Naoki Kobayashi (The University of Tokyo, Japan)
+Stepan Kuznetsov (HSE University, Russia)
+Martin Lück (Leibniz Universität Hannover, Germany)
+Meena Mahajan (The Institute of Mathematical Sciences, India)
+Filip Murlak (University of Warsaw, Poland)
+Daniele Nantes (University of Brasília, Brazil)
+Elaine Pimentel (UCL, UK, co-chair)
+Paolo Pistone (University of Bologna, Italy)
+Ana Sokolova (University of Salzburg, Austria)
+Lutz Straßburger (Inria Saclay – Île-de-France, France)
+Pascal Schweitzer (TU Darmstadt, Germany)
+Martin Zimmermann (Aalborg University, Denmark)
+Yoni Zohar (Bar Ilan University, Israel)
+
+Organizing Committee
+====================
+Lorenzo Clemente, Wojciech Czerwiński, Radosław Piórkowski (University of Warsaw)
+
+Contact
+========
+Please send all questions about submissions to the PC co-chairs: csl2023@easychair.org

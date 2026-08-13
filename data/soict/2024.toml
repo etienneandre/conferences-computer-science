@@ -17,3 +17,7 @@ notification = [2024-10-22]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/SOICT-2024.pdf"
+stage = "initial"

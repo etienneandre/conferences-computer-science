@@ -19,3 +19,11 @@ license = "cc-by"
 
 [extra]
 notes = "Co-located with CAV 2025. HCVS 2025 is planning to host the 8th competition on constraint Horn clauses (CHC-COMP), which will compare state-of-the-art tools for CHC solving for performance and effectiveness on a set of publicly available benchmarks."
+
+[[cfp]]
+file = "cfp/HCVS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/HCVS-2025-extended.txt"
+stage = "extended"

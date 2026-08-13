@@ -18,3 +18,7 @@ notification = [2024-09-13]
 [proceedings]
 publisher = "IEEE CS"
 license = "pay"
+
+[[cfp]]
+file = "cfp/APSEC-2024.txt"
+stage = "initial"

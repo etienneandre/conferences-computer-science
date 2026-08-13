@@ -21,3 +21,11 @@ license = "pay"
 
 [extra]
 notes = "5 papers were invited to submit (30% of new material would be expected) for a special issue in Springer’s LNCS Transactions on Computational Collective Intelligence (TCCI) in 2012. Location changed to Guangzhou, China due to events in Hong-Kong."
+
+[[cfp]]
+file = "cfp/ICECCS-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICECCS-2019-extended.txt"
+stage = "extended"

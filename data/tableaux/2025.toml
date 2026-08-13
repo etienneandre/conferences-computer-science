@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "Part of FroCoS/ITP/TABLEAUX’25."
+
+[[cfp]]
+file = "cfp/TABLEAUX-2025.txt"
+stage = "initial"

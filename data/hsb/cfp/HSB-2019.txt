@@ -1,0 +1,106 @@
+=========================================================================
+CALL FOR PAPERS
+
+HSB 2019: 6th International Workshop on Hybrid Systems and Biology
+https://hsb2019.fit.vutbr.cz/
+
+April 6-7, Prague, Czech Republic. Co-located with ETAPS 2019
+
+=========================================================================
+
+HSB is a single-track workshop centring on dynamical models in biology,
+with an emphasis on both hybrid systems (in the classical sense, i.e.,
+mixed continuous/discrete/stochastic systems) and hybrid approaches that
+combine modelling, analysis, algorithmic and experimental techniques from
+different areas.
+
+Topics of interest include, but are not limited to:
+
+- Modelling and analysis of metabolic, signalling, and genetic regulatory
+networks in living cells.
+- Models of tissues, organs, physiological models.
+- Models and methods dealing with incomplete, uncertain and heterogeneous
+information including learning for biological systems, parametric
+synthesis and inference.
+- Stochastic and hybrid models in biology.
+- Hierarchical systems for multi-scale, multi-domain analysis.
+- Abstraction, approximation, discretisation, and model reduction
+techniques.
+- Modelling, analysis and design for synthetic biology, cyber-biological
+systems and biomedical studies (e.g. therapies, teleoperation).
+- Game-theoretical frameworks and population models in biology
+(e.g. Mixed-Effects and Bayesian modelling).
+- Biological applications of quantitative and formal analysis techniques
+(e.g. reachability computation, model checking, abstract interpretation,
+bifurcation theory, stability and sensitivity analysis).
+- Efficient techniques for combined and heterogeneous (stochastic/
+deterministic, spatial/non-spatial) simulations for biological models.
+- Modelling languages and logics for biological systems, with related
+analysis and simulation tools.
+- Control architectures of biological systems including
+biology-in-the-loop systems and bio-robotics.
+
+In general, the workshop is open to new theoretical results with
+potential applications to systems and synthetic biology, as well as novel
+applications and case studies of existing methods, tools, or frameworks.
+
+Post-proceedings will be published as a volume in the Springer LNCS/LNBI
+series, indexed by ISI Web of Science, Scopus, ACM Digital Library, DBLP,
+and Google Scholar.
+
+A journal special issue is under consideration.
+
+Papers should be submitted to one of the following categories:
+- Regular papers (max 15 pages + max 2 pages of references)
+- Tool papers (max 6 pages + max 2 pages of references).  Tool papers
+require the submission of an executable artifact that contains clear
+instructions for the reviewer on how to run the tool.
+
+In addition to original paper contributions, HSB 2019 also welcomes
+abstracts for poster presentation, and abstracts for non-original
+work (already published or under submission).
+See http://hsb2019.fit.vutbr.cz/call_papers.php for more details.
+
+IMPORTANT DATES
+
+Paper submission:          16.12.2018
+Poster abstract submission:    16.12.2018
+Author notification:         15.2.2019
+Final pre-proceedings version:  24.2.2019
+Final post-proceedings version: 5.5.2019
+
+=========================================================================
+
+INVITED SPEAKERS
+- Marta Kwiatkowska, University of Oxford (UK)
+- Michela Chiappalone, Istituto Italiano di Tecnologia of Genova (IT)
+- Igor Schreiber, University of Chemistry and Technology Prague (CZ)
+
+IN MEMORY OF ODED MALER
+HSB will have a special session dedicated to the memory of Oded Maler,
+very much missed member of HSB's steering committee and one of the
+founders of the workshop. The session will celebrate his life and
+scientific contributions with invited talks by:
+- Thao Dang, CNRS/VERIMAG, France,
+- Eugene Asarin, IRIF, France,
+- and more TBA.
+
+=========================================================================
+
+PC CHAIRS
+Milan Ceska, Brno University of Technology, CZ
+Nicola Paoletti, Royal Holloway, University of London, UK
+
+STEERING COMMITTEE
+Alessandro Abate, University of Oxford, UK
+Ezio Bartocci, Vienna University of Technology, Austria
+Luca Bortolussi, Univerity of Trieste, Italy
+Eugenio Cinquemani, INRIA Grenoble, France
+Thao Dang, VERIMAG/CNRS, Grenoble, France
+Alexandre Donze, University of California at Berkeley, USA/Decyphir Inc
+Adam Halasz, West Virginia University, USA
+Oded Maler, VERIMAG/CNRS, Grenoble, France
+Carla Piazza, University of Udine, Italy
+David Safranek, Masaryk University, Brno, Czech Republic
+
+=========================================================================

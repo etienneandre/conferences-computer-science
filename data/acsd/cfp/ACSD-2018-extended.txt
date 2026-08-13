@@ -1,0 +1,102 @@
+The deadlines have been extended by one week and are strict!
+
+    Submission deadline (abstracts): January 25, 2018
+    Submission deadline (papers): February 1, 2018
+
+ 
+
+CALL FOR PAPERS AND ANNOUNCEMENT
+
+18th International Conference on Application of Concurrency to System Design (ACSD 2018)
+Bratislava, Slovakia
+June 24-29, 2018
+http://interes.institute/acsd2018/
+
+The conference will be co-located with the 39th International Conference on Applications and Theory of Petri Nets and Concurrency (Petri Nets 2018).
+
+IMPORTANT DATES: DEADLINE EXTENDED
+
+ 
+
+    submission deadline (abstracts): January 25, 2018
+    submission deadline (papers): February 1, 2018
+    notification of acceptance: March 15, 2018
+    camera-ready submission deadline: April 10, 2018
+    conference: June 27-29, 2018
+
+CONFERENCE SCOPE
+
+The conference aims at cross-fertilizing both theoretical and applied research about formal approaches (in abroad sense) to designing computer systems that exhibit some kind of concurrent behaviour. In particular, the following topics are of interest:
+
+    Formal models of computation and concurrency for the above systems and problems, like data- flow models, communicating automata, Petri nets, process algebras, graph rewriting systems, state charts, MSCs, modal and temporal logics
+    Compositional design principles like modular synthesis, distributed simulation and implementation, distributed control, adaptivity, supervisory control
+    Algorithms and tools for concurrent systems, ranging from programming languages to algorithmic methods for system analysis and construction, including model checking, verification, and static analysis techniques as well as synthesis procedures
+    Synchronous and asynchronous systems on all design levels: polychronous systems, endochronous systems, globally asynchronous locally synchronous systems
+    Cyber-physical systems, hybrid systems, networked systems, and networks in biological systems
+    High-performance computer architectures like many-core processors, networks on chip, graphics processing units, instruction-level parallelism, dataflow architectures, up to ad-hoc, mobile, and wireless networks
+    Memory consistency models for multiprocessor and multicore architectures, replicated data, including software and hardware memory models, DRAM scheduling, cache coherency, memoryaware algorithms
+    Real-time aspects, including hard real-time requirements, security and safety-critical issues, functional and timing verification
+    Implementation aspects like resource management, including task and communication scheduling, network-, memory-, and power-management, energy/power distribution, fault-tolerance, quality of service, scalability, load balancing, power proportionality
+    Design principles for concurrent systems, in particular hardware/software co-design, platformbased design, component-based design, energy-aware design, refinement techniques, hardware/software abstractions, cross-layer optimization
+    Business process modelling, workflow execution systems, process (de-)composition, interorganizational and heterogeneous workflow systems, systems for computer-supported collaborative work, web services
+    Case studies of general interest, from industrial applications to consumer electronics and multimedia, automotive systems, (bio-)medical applications, neuromorphic applications, internet (of things) and grid computing, to gaming applications.
+
+PAPER SUBMISSION
+
+ACSD seeks papers describing original work which has not been previously published and is not under review for publication elsewhere. All files must be prepared using the latest IEEE Computer Society conference proceedings guidelines (8.5” × 11” two-column format). The page limit for regular papers is 10 pages. In addition to regular submissions, there will be a tools section. Tools will be presented at the conference in an interactive session. Related papers describe a tool, its functionality and interfaces as well as the underlying algorithms and implementation aspects. These tool papers are limited to 6 pages. Conference proceedings will be submitted for inclusion to IEEE Xplore. Accepted regular and tool papers will be included in the conference proceedings. At least one authors of each accepted contribution is expected to present the paper or tool at the conference, and will be required to sign the copyright release forms. Several papers will be considered for publication in extended and revised form in a special issue of a journal. All papers have to be submitted via EasyChair: https://easychair.org/conferences/?conf=acsd2018
+
+STEERING COMMITTEE
+
+    Alex Yakovlev, UK (chair)
+    Benoit Caillaud, France
+    Jordi Cortadella, Spain
+    Jörg Desel, Germany
+    Alex Kondratyev, USA
+    Luciano Lavagno, Italy
+    Antti Valmari, Finland
+
+CHAIRS
+
+    Gabriel Juhás, Slovakia (general chair)
+    Thomas Chatain, France (program committee co-chair)
+    Radu Grosu, Austria (program committee co-chair)
+
+PROGRAM COMMITTEE
+
+    S. Akshay, India
+    Étienne André, France
+    Mohamed Faouzi Atig, Sweden
+    Benoît Caillaud, France
+    Josep Carmona, Spain
+    Franck Cassez, Australia
+    Thomas Chatain, France (co-chair)
+    Rocco De Nicola, Italy
+    Jörg Desel, Germany
+    Alain Girault, France
+    Radu Grosu, Austria (co-chair)
+    Stefan Haar, France
+    Loïc Hélouët, France
+    Loïg Jézéquel, France
+    Gabriel Juhás, Slovakia
+    Jan Křetínský, Czech Republic
+    Gerald Lüttgen, Germany
+    Roland Meyer, Germany
+    Andrey Mokhov, UK
+    Dejan Nickovic, Austria
+    Claire Pagetti, France
+    Marta Pietkiewicz-Koutny, UK
+    Dumitru Potop-Butucaru, France
+    Klaus Schneider, Germany
+    Ashutosh Trivedi, India
+    Antti Valmari, Finland
+    Jaco van de Pol, The Netherlands
+    Fei Xia, UK
+
+ORGANIZING COMMITTEE
+
+ 
+
+    Gabriel Juhás (general chair)
+    Ľudovít Molnár (publicity chair)
+    Juraj Mažári (web chair)
+    Milan Mladoniczky (tools exhibition chair)

@@ -19,3 +19,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Every two years. Best student paper award."
+
+[[cfp]]
+file = "cfp/WODES-2020.pdf"
+stage = "initial"

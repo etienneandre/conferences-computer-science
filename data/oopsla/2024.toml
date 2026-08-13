@@ -18,3 +18,7 @@ license = "free"
 
 [extra]
 notes = "Part of SPLASH 2024. Gold open access, but payment not required (on a volunteer basis). Double blind. Two rounds of reviewing. Author response: 3-5 June 2024 (round 2)"
+
+[[cfp]]
+file = "cfp/OOPSLA-2024.txt"
+stage = "initial"

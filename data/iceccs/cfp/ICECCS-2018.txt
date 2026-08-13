@@ -1,0 +1,116 @@
+------------------------------------------------------------                       
+                       CALL FOR PAPERS
+
+The 23rd International Conference on Engineering Complex Systems
+                         ICECCS 2018
+
+12-14 December 2018 - Melbourne, Australia
+
+http://formal-analysis.com/iceccs/2018/
+------------------------------------------------------------
+
+Important Dates (AoE time)
+
+Abstract submission: 15th June 2018
+Paper submission: 22nd June 2018
+Notification of acceptance: 22th August 2018
+Camera ready copy due: 21th September 2017
+
+
+We have seen a rapid rising emphasis on design, implement and manage complex computer
+systems which are present in every aspect of human activities, such as manufacturing,
+communications, defense, transportation, aerospace, hazardous environments, energy,
+and health care. The complex computer systems are frequently distributed over heterogeneous
+networks and processing large amount data. Complexity arises from many factors,
+including the dynamic environments and scenarios these systems operate in; demanding and
+sometimes conflicting requirements in functionality, efficiency, scalability, security,
+dependability, inoperability  and adaptability; as well as the large variation in
+development methodology, programming languages and implementation details. The key issues
+in these systems include performance, real-time behavior, fault tolerance, security,
+adaptability, development time and cost, and long life concerns.
+
+The goal of this conference is to bring together industrial, academic, and government
+experts, from a variety of application domains and software disciplines, to discuss how
+the disciplines' problems and solution techniques interact within the whole system.
+Researchers, practitioners, tool developers and users, and technology transfer experts
+are all welcome. The scope of interest includes long-term research issues; near-term
+requirements and challenges; established complex systems; emerging promising tools; and
+retrospective and prospective reflections of research and development into complex systems.
+
+Scope and Topics
+
+Authors are invited to submit papers describing original, unpublished research results,
+case studies and tools. Papers are solicited in all areas related to complex computer-based
+systems, including the causes of complexity and means of avoiding, controlling, or coping
+with complexity. Topic areas include, but are not limited to:
+
+Requirement specification and analysis
+Verification and validation
+Security and privacy of complex systems
+Model-driven development
+Reverse engineering and refactoring
+Software architecture
+Big Data Management
+Ambient intelligence, pervasive computing
+Ubiquitous computing, context awareness, sensor networks
+Design by contract
+Agile methods
+Safety-critical & fault-tolerant architectures
+Adaptive, self-managing and multi-agent systems
+Real-time, hybrid and embedded systems
+Systems of systems
+Cyber-physical systems and Internet of Things (IoT)
+Tools and tool integration
+Industrial case studies
+
+Different kinds of contributions are sought, including novel research, lessons learned,
+experience reports, and discussions of practical problems faced by industry and user domains.
+The ultimate goal is to build a rich and comprehensive conference program that can fit the
+interests and needs of different classes of attendees: professionals, researchers, managers,
+and students. A program goal is to organize several sessions that include both academic and
+industrial papers on a given topic and culminate panels to discuss relationships between
+industrial and academic research.
+
+Full Papers
+
+Full papers are divided into two categories: Technical Papers and Experience Reports. The papers
+submitted to both categories will be reviewed by program committee members, and papers accepted
+in either category will be published in the conference proceedings. Technical papers should
+describe original research, and experience reports should present practical projects carried
+out in industry, and reflect on the lessons learnt from them.
+
+Short Papers
+
+Short paper submissions describe early-stage, ongoing or PhD research. All short papers will be
+reviewed by program committee members, and accepted short papers will be published in the
+conference proceedings.
+
+Paper Submissions
+
+Submitted manuscripts should be in English and formatted in the style of the double-column CPS
+format. Full papers should not exceed 10 pages, and short papers should not exceed 4 pages,
+including figures, references, and appendices. All submissions should be in PDF format.
+Submissions not adhering to the specified format and length may be rejected immediately,
+without review.
+
+Please prepare your manuscripts in accordance to the CPS guidelines:
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html.
+
+We invite all prospective authors to submit their manuscripts via the ICECCS'18 portal,
+hosted on EasyChair
+https://easychair.org/conferences/?conf=iceccs2018
+
+
+Conference Proceedings
+
+The conference proceedings will be published by Conference Publishing Services (CPS) and
+submitted for EI indexing.
+
+Organization:
+
+General Chair:           Yuan-Fang Li (Monash University, Australia)
+Program Chairs:          Anthony Lin (Oxford, UK) and Jun Sun (Singapore University of Technoglogy and Design, Singapore)
+Workshop/Tutorial chair: Marcel Boehme (Monash University, Australia)
+Local chair:             Xin Xia (Monash University, Australia)
+Web Chair:               Hou Zhe and Hadrien Bride (Griffith University)
+Publicity Chairs:        Étienne Andre (Université Paris 13, France) and Huibiao Zhu (East China Normal University, China)

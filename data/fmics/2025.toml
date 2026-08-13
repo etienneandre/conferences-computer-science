@@ -27,3 +27,11 @@ award = "A monetary award sponsored by Springer will be given to the authors of 
 [extra]
 journal = "The Programme Committee of FMICS 2025 will invite a selection of accepted papers to submit extended versions to a special issue of an international journal"
 colocated = "Part of CONFEST with CONCUR and QEST+FORMATS"
+
+[[cfp]]
+file = "cfp/FMICS-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FMICS-2025-extended.txt"
+stage = "extended"

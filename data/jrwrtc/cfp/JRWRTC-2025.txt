@@ -1,0 +1,18 @@
+
+Call for Paper: RTNS 2025 - Junior Researcher Workshop on Real-Time Computing (JRWRTC 2025)
+We would like to invite you to submit to the 18th Junior Researcher Workshop on Real-Time Computing (JRWRTC 2025), co-located with RTNS 2025, in Pisa, Italy,
+The workshop is a forum for junior researchers to present ideas and receive constructive feedback and discussions: if you are a PhD student, please consider submitting your work. The format includes short presentations and a poster session to encourage discussion at the conference.
+Important dates
+
+    Abstract deadline: Oct 3, 2025
+    Submission deadline: Oct 10, 2025
+    Notification: Oct 20, 2025
+    Camera-ready: Oct 30, 2025
+
+Topics include modeling, WCET, distributed systems, QoS, fault tolerance, wired/wireless communication, scheduling, middleware, OS, tools, benchmarks, and applications such as automotive, avionics, telecom, and medical systems.
+See the website for further descriptions of the topics and submission guidelines: https://rtns2025.retis.santannapisa.it/?page_id=1793
+We would be happy if you could also share this call with your PhD students and colleagues.
+Best regards,
+Kuan-Hsun Chen and Lisa Maile
+JRWRTC 2025 Organizing Committee
+

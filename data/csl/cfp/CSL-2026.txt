@@ -1,0 +1,156 @@
+=====================================
+Call for papers
+    CSL 2026
+    https://csl2026.github.io/
+    Paris, France
+    23-28 February 2026
+Abstract submission: 15 July 2025 (AoE)
+=====================================
+
+Computer Science Logic (CSL) is the annual conference of the European
+Association for Computer Science Logic (EACSL),
+see https://www.eacsl.org/.
+
+It is an interdisciplinary conference, spanning across both basic and
+application oriented research in mathematical logic and computer
+science.
+
+CSL 2026 is the 34th edition of the conference and will be held in Paris on
+the 23-28 February 2026 and is organised by the Logic and Computation
+team of the LIPN of Sorbonne Paris Nord University.
+
+Invited Speakers:
+--------------------
+- Pierre Clairambault
+- Sandra Kiefer
+- Gordon Plotkin
+- Ana Sokolova
+
+Topics:
+--------------
+Topics of interest include, but are not limited to:
+- automated deduction and interactive theorem proving
+- concurrency and distributed computation
+- constructive mathematics and type theory
+- equational logic and term rewriting
+- automata and games, game semantics
+- formal methods
+- model checking
+- decision procedures
+- modal and temporal logic
+- description logics
+- logical aspects of computational complexity
+- logical aspects of AI
+- finite model theory
+- computability
+- computational proof theory
+- logic programming and constraints
+- lambda calculus and combinatory logic
+- domain theory
+- categorical logic and topological semantics
+- database theory
+- specification, extraction and transformation of programs
+- logical aspects of quantum computing
+- logical foundations of programming paradigms
+- verification and program analysis
+- linear logic
+- higher-order logic
+- knowledge representation and reasoning
+- nonmonotonic reasoning
+
+Submission:
+--------------
+Submitted papers must be in English and must provide sufficient detail
+to allow the Programme Committee to assess the merits of the paper.
+Full proofs may appear in a clearly marked technical appendix which
+will be read at the reviewers' discretion. Authors are strongly
+encouraged to include a well written introduction which is directed at
+all members of the PC.
+
+The paper should be submitted via Easychair:
+https://easychair.org/conferences/?conf=csl2026 (the link will be
+opened in early June)
+
+The CSL 2026 conference proceedings will be published in the Leibniz
+International Proceedings in Informatics (LIPIcs), see
+https://drops.dagstuhl.de/entities/series/LIPIcs.
+
+Authors are invited to submit contributed papers of no more than
+15 pages in LIPIcs style (not including appendices or references),
+see https://submission.dagstuhl.de/series/details/LIPIcs#author,
+presenting unpublished work fitting the scope of the
+conference. Papers may not be submitted concurrently to another
+conference with refereed proceedings. The PC chairs should be
+informed of closely related work submitted to a conference or a
+journal.
+
+Papers authored or co-authored by members of the PC (but not PC
+chairs) are allowed.
+
+The submissions are double-blind:
+- Authors are not allowed to put their name on the paper, and they
+   should avoid revealing their identities in text (references to previous
+   or related work should be in third-person).
+- Authors are allowed (and even encouraged) to disseminate the work
+   on public repositories (e.g. on arXiv or their websites).
+
+At least one of the authors of each accepted paper is expected to
+register for the conference in order to present their paper.
+
+Important dates:
+--------------
+All deadlines are midnight anywhere-on-earth (AoE);
+late submissions will not be considered.
+- Abstract submission: 15 July, 2025
+- Paper submission: 21 July  2025
+- Notification: 14 October 2025
+- Final Version: 30 November 2025
+- Conference: 23-28 February 2025
+
+Committee Chairs
+--------------
+- Stefano Guerrini - Sorbonne Paris Nord University, France
+- Barbara König - University of Duisburg-Essen, Germany
+
+Program Committee
+--------------
+- Antonis Achilleos - Reykjavik University, Iceland
+- Patrick Baillot - CNRS and University of Lille, France
+- Paolo Baldan - University of Padova, Italy
+- Harsh Beohar - University of Sheffield, UK
+- Florence Clerc - Heriot-Watt University Edinburgh, UK
+- Marcelo Fiore - University of Cambridge, UK
+- Nicola Gambino - University of Manchester, UK
+- Marianna Girlando - University of Amsterdam, Netherlands
+- Stefan Göller - University of Kassel, Germany
+- Giulio Guerrieri - University of Sussex, UK
+- Luisa Herrmann - TU Dresden, Germany
+- Naoki Kobayashi - The University of Tokyo, Japan
+- Dexter Kozen - Cornell University, USA
+- Antonín Kučera - Masaryk University Brno, Czech Republic
+- Clemens Kupke - University of Strathclyde Glasgow, UK
+- Aliaume Lopez - University of Warsaw, Poland
+- Giulio Manzonetto - Paris Cité University, France
+- Paul-André Melliès - CNRS and Paris Cité University, France
+- Aart Middeldorp - University of Innsbruck, Austria
+- Matteo Mio - CNRS and ENS Lyon, France
+- Larry Moss - Indiana University Bloomington, USA
+- Sara Negri - University of Genova, Italy
+- Elaine Pimentel - University College London, UK
+- Paolo Pistone - Claude Bernard University Lyon 1, France
+- Jurriaan Rot - Radboud University Nijmegen, Netherlands
+- Sven Schewe - University of Liverpool, UK
+- Sylvain Schmitz - Paris Cité University, France
+- Lutz Schröder - FAU Erlangen-Nürnberg, Germany
+- Thomas Schwentick - TU Dortmund University, Germany
+- Thomas Seiller - CNRS and Sorbonne Paris Nord University, France
+- Peter Selinger - Dalhousie University, Canada
+- Viorica Sofronie-Stokkermans - University of Koblenz, Germany
+- Lorenzo Tortora de Falco - Roma Tre University, Italy
+- Fabio Zanasi - University College London, UK
+- Margherita Zorzi - University of Verona, Italy
+
+Organisation committee:
+--------------
+- Stefano Guerrini - Sorbonne Paris Nord University, France
+

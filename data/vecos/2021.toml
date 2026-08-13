@@ -25,3 +25,19 @@ submitted = 12
 
 [extra]
 notes = "Colocated with FM‘2021. Authors of selected papers will be invited to submit extended article versions to a special issue of an index journal (ISSE or IJCCBS)."
+
+[[cfp]]
+file = "cfp/VECoS-2021.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/VECoS-2021-extended.pdf"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/VECoS-2021-extended.txt"
+stage = "extended"
+
+[[cfp]]
+file = "cfp/VEcOS-2021-extended.txt"
+stage = "extended"

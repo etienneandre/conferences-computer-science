@@ -19,3 +19,11 @@ license = "free"
 
 [extra]
 notes = "In French (?)."
+
+[[cfp]]
+file = "cfp/AFADL-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/AFADL-2020-extended.txt"
+stage = "extended"

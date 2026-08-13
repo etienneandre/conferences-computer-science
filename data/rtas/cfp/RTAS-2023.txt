@@ -1,0 +1,84 @@
+---------------------------------------------------------------------------------------------------------------------
+
+29th IEEE Real-Time and Embedded Technology and Applications Symposium
+
+(RTAS 2023)
+
+San Antonio, Texas, USA
+
+May 9-12, 2023
+
+http://2023.rtas.org/
+
+---------------------------------------------------------------------------------------------------------------------
+
+CALL FOR PAPERS
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+RTAS is a top-tier conference with a focus on systems research related to embedded systems and time-sensitive systems. RTAS’23 invites papers describing original systems, applications, case studies, methodologies, and algorithms that contribute to the state of practice in design, implementation, verification, and validation of embedded systems or time-sensitive systems. RTAS’23 consists of two tracks:
+
+· Track 1. Systems and Applications;
+
+· Track 2. Applied Methodologies and Foundations.
+
+The broad scope of RTAS’23 ranges from traditional hard real-time systems to embedded systems without explicit timing requirements.
+
+More details can be found at http://2023.rtas.org/call-for-papers/
+
+
+Important Dates
+
+Submission Deadline (firm):
+
+
+October 31, 2022
+
+Rebuttal Period:
+
+
+January 9-13, 2023
+
+Author Notification:
+
+
+January 20, 2023
+
+BP Submission Deadline:
+
+
+February 10, 2023
+
+AE Submission Deadline:
+
+
+February 24, 2023
+
+Camera-ready:
+
+
+March 17, 2023
+
+Conference Date:
+
+
+May 9-12, 2023
+
+All times are UTC-12, or "anywhere on earth" unless otherwise stated
+
+
+
+Paper Submissions
+
+Submitted papers must describe original work not previously published or concurrently submitted elsewhere. All submitted papers must comply with the double-blind submission requirements. The main body of each submitted paper is limited to 11 pages of technical content with additional pages permitted for the bibliography and acknowledgments only. Submissions must be formatted according to IEEE conference paper guidelines.
+
+
+More details can be found at http://2023.rtas.org/submissions/
+
+
+
+Organizers
+
+See the full list of organizers at http://2023.rtas.org/organizers/

@@ -1,0 +1,57 @@
+Bonjour à toutes et tous,
+
+Nous avons le plaisir de vous annoncer que le 15ème colloque sur la Modélisation des Systèmes Réactifs (MSR’25) se tiendra à Reims du 19 au 21 novembre 2025 : https://msr2025.sciencesconf.org/.
+
+MSR est un colloque en langue française qui traite de la modélisation, de l'analyse et de la commande des systèmes réactifs et temps réel. Il concerne plus particulièrement les chercheurs et industriels intéressés par la conception d'applications qui sont basées sur des systèmes de type soit continu, soit discret, soit hybride. C'est un lieu de rencontre pour les automaticiens et les informaticiens francophones afin de confronter les techniques et les problèmes abordés par les deux communautés. Ainsi, MSR a pour rôle d'affirmer l'apport des chercheurs francophones dans ces domaines et de favoriser les échanges entre universitaires et industriels.
+
+MSR sollicite des contributions théoriques et des expériences pratiques dans les thèmes et domaines d'application listés ci-dessous (liste non exhaustive).
+
+Thèmes
+————————————
+
+    Modèles (qualitatifs et/ou quantitatifs) pour la spécification de comportements et/ou propriétés : automates, réseaux de Petri, Grafcet, algèbres de processus, équations différentielles, chaînes de Markov, inférence bayésienne, files d'attente, algèbre maxplus, logique linéaire, logique temporelle, logique temporelle probabilisée et/ou temporisée, …
+    Aspects méthodologiques : composition, raffinement, orientation objet, approches multi-modèles, apprentissage séquentiel, raisonnement logique…
+    Analyse : vérification, évaluation (performances, sûreté de fonctionnement), test, frugalité…
+    Commande : synthèse de contrôleur, supervision, surveillance, diagnostic...
+
+
+Domaines d’application
+————————————
+
+    Bio-informatique
+    Circuits, systèmes sur puce
+    Énergie, transport
+    Industrie 4.0
+    Robotique
+    Santé
+    Sécurité des systèmes
+    Systèmes embarqués, systèmes cyber-physiques
+    Systèmes industriels et industrie du commerce
+    Systèmes temps-réel, systèmes mobiles
+    Transition énergétique, environnement
+
+Soumission article régulier
+————————————
+La soumission se fait en deux étapes selon le format disponible sur le site :
+
+    un résumé d’au plus 500 mots - date limite le 16 mai 2025,
+    puis un article complet d’au plus 14 pages - date limite le 06 juin 2025.
+
+Les actes du colloques seront publiés dans l’archive ouverte HAL.
+
+Soumission "poster/démonstration"
+————————————
+Une session particulière aura pour objectif la présentation :
+
+    de travaux en cours qui ne seraient pas encore suffisamment matures pour faire l'objet d'un article régulier du colloque (poster) ;
+    de réalisations logicielles et/ou matérielles (démonstration).
+
+La soumission se fera sous la forme d’un résumé d’au plus 2 pages - date limite le 10 octobre 2025.
+
+MSR est soutenue par le CT SED de la SAGIP et le GT AFSEC du GDR GPL
+
+En espérant vous retrouver nombreux à cet événement !
+Pour le comité d’organisation de MSR’25,
+Léonardo Brenner & Alexandre Philippot
+
+https://msr2025.sciencesconf.org/

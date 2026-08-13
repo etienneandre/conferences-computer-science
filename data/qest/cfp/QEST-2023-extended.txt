@@ -1,0 +1,188 @@
+QEST 2023: Third Call for Papers with Deadline Extension
+20th International Conference on Quantitative Evaluation of SysTems (QEST)
+20-22 September 2023, Antwerp, Belgium
+
+Co-located with CONCUR, FMICS, and FORMATS as part of CONFEST 2023
+
+https://www.uantwerpen.be/en/conferences/confest-2023/
+
+
+Deadlines extended:
+
+Abstract deadline: 30 April 2023 (extended to May 8)
+Paper deadline: 7 May 2023 (extended to May 17)
+
+
+** Scope and Topics
+
+The International Conference on Quantitative Evaluation of SysTems (QEST) is the leading forum for the quantitative evaluation and verification of systems. Systems of interest include biological and chemical systems; computer networks; cyber-physical systems; critical infrastructures; data-driven AI systems; energy systems; hardware and software systems; industrial systems; and mobility networks.
+QEST 2023 is the 20th conference in the series and will be held on 19-22 September 2023 in Antwerp, Belgium, as part of the CONFEST 2023 umbrella conference.
+Topics and scientific areas of interest include:
+
+	• languages and methods for the specification of quantitative properties of systems;
+	• quantitative and probabilistic aspects of programming;
+	• stochastic, probabilistic, and non-deterministic models and
+	• metrics for the correctness,
+	  performance, reliability, safety, and security of systems;
+	• algorithms for the evaluation and verification of
+	• stochastic,
+	  probabilistic, and non-deterministic models;
+	• data-driven and machine-learning techniques for the
+	• analysis, prediction, and verification
+	  of quantitative properties of systems;
+	• case studies that highlight the role of quantitative
+	• specification, modelling,
+	  and evaluation in the design and analysis of systems, with
+	• emphasis on emerging problems
+	  and technologies;
+	• novel tools to support the practical application of research
+	  results in all of the above areas.
+
+QEST 2023 will set up an artifact evaluation process (details below). QEST 2023 is open to theoretical, experimental, and applicative research. The conference welcomes a diversity of modelling formalisms, programming languages, and methodologies that incorporate quantitative aspects such as probabilities, temporal properties, rewards, and forms of non-determinism. Papers may advance the state of the art on empirical approaches, simulation methods, analysis techniques, and applications to industrially relevant case studies.
+
+
+** Invited Speakers
+
+QEST 2023 features a list of invited speakers that are partially shared with the other CONFEST 2023 conferences.
+
+QEST invited speakers:
+
+Frans A. Oliehoek, TU Delft, Netherlands
+David Parker, Oxford University, UK
+
+CONFEST invited speakers:
+
+Ahmed Bouajjani, Paris Diderot University, France
+Joost-Pieter Katoen, RWTH Aachen, Germany
+Nicolas Markey, University of Rennes, France
+Jaco van de Pol, Aarhus University, Denmark
+Anna Slobodova, Intel, USA
+
+
+** Submissions
+
+QEST 2023 considers three types of papers (authors will be able to specify the type of contribution upon submission):
+
+	• Research papers: Theoretical, methodological, and application-based contributions that advance
+			   the understanding on a topic or issue, describe the development of new analysis
+			   processes  and techniques, or apply quantitative methods to relevant case studies.
+
+	• Tool papers: New tools and the formalisms they support. focusing on the software architecture and practical
+		       implementation and use. Tool papers must be accompanied by an artifact in the Artifact Evaluation.
+
+	• Work-in-progress papers: We offer an opportunity to present preliminary results and receive feedback from
+		       the community. Work-in-progress contributions are not required to be fully worked-out approaches,
+		       for example regarding validation or technical depth; however the presented ideas should be
+		       mature enough to appreciate soundness and how they advance our knowledge.
+
+Research and tool papers can be regular or short:
+
+	• Regular papers must not exceed 14 pages, excluding references.
+	• Short papers should be limited to 7 pages, also excluding references.
+
+All papers can have an appendix containing supporting material. Note
+that reviewers are not required to read the appendix to fully assess
+the merits of the paper. Work-in-progress papers must not exceed 4
+pages including references. All papers must be submitted in Springer’s
+LNCS format. All submitted papers must be unpublished and not be
+submitted for publication elsewhere. Papers should be submitted
+electronically using EasyChair via
+https://easychair.org/my/conference?conf=qest2023
+
+Springer encourages authors to include their ORCIDs in their papers.
+Authors should consult Springer's authors' guidelines and use Springer's LaTeX templates for the preparation of their papers.
+Submitted papers not complying with the above guidelines may be rejected without undergoing review.
+
+
+** Journal-first Presentations
+
+This year, QEST also accepts submissions for journal-first paper presentations. To further promote exchange of ideas and gather feedback from the community, authors of papers already accepted in a journal will have the opportunity to present their work in a dedicated session at QEST.
+The candidate journal-first paper should report entirely new material (i.e., extensions of previously presented papers at a conference will not be considered) and must not be under consideration for presentation under similar programs in other conferences.
+Journal papers will be accepted for presentation based on timeliness and adherence of the topic to areas of interest of QEST.
+Submissions for journal-first paper contributions will be available in Easychair by providing: list of authors; paper title; paper abstract; link to the original paper at the journal’s website.
+
+
+** Publications
+
+All accepted papers will be presented and discussed at the conference by one of the authors. The QEST 2023 proceedings will be published in the Springer LNCS series and indexed by ISI Web of Science, Scopus, ACM Digital Library, dblp, Google Scholar.
+All submitted papers will be evaluated by at least three reviewers on the basis of their originality, technical quality, scientific or practical contribution to the state of the art, methodology, clarity, and adequacy of references.
+
+
+** Artifact Evaluation
+
+Reproducibility of experimental results is crucial to foster an atmosphere of trustworthy, open, and reusable research. To improve and reward reproducibility, QEST 2023 includes a dedicated Artifact Evaluation (AE). Submission of an artifact is mandatory for tool papers (both regular and short), and optional but encouraged for research papers where it can support the results presented in the paper. Artifacts will be reviewed concurrently with the paper review process, and accepted papers with a successfully evaluated artifact will receive a badge to be shown on the published paper's title page.
+Detailed guidelines for preparation and submission of artifacts are available at this page. Exceptions to the submission guidelines may be granted by the PC chairs in cases where the tool cannot in any reasonable way be run by the AE committee.
+
+
+** Special Issues
+
+A selection of the best papers (excluding work-in-progress papers) will be invited to submit an extended version of their work to special issues in the International Journal on Software Tools for Technology Transfer (STTT) and in the Performance Evaluation (PEVA) journals.
+
+
+** Important dates
+
+Abstract deadline: 30 April 2023 (extended to May 8)
+Paper deadline: 7 May 2023 (extended to May 17)
+
+Author notification: 29 June 2023
+Conference: 20-22 September 2023
+
+
+** Committees
+
+Program Chairs
+
+Nils Jansen (The Netherlands)
+Mirco Tribastone (Italy)
+
+Artifact Evaluation Chairs
+
+Tim Quatmann (Germany)
+Carlos E. Budde (Italy)
+
+Publicity Chair
+
+David Safranek (Czech Republic)
+
+Program Committee
+
+Alessandro Abate (Oxford University, UK)
+Ezio Bartocci (TU Vienna, AT)
+Luca Bortolussi (University of Trieste, IT)
+Peter Buchholz (TU Dortmund, DE)
+Laura Carnevali (University of Florence, IT)
+Giuliano Casale (Imperial College London, UK)
+Milan Češka (Brno University of Technology, CZ)
+Pedro D'Argenio (Univ. Nacional de Córdoba, AR)
+Rayna Dimitrova (CISPA Helmholtz Center for Information Security, DE)
+Clemens Dubslaff (Eindhoven University of Technology, NL)
+Nathanaël Fijalkow (LaBRI University of Bordeaux, FR)
+Marco Gribaudo (Politecnico of Milan, IT)
+Shibashis Guha (Tata Institute of Fundamental Research, India)
+Sofie Haesaert (Eindhoven University of Technology, NL)
+Arnd Hartmanns (University of Twente, NL)
+Holger Hermanns (Saarland University, DE)
+Nils Jansen (Radboud University, NL)
+Sebastian Junges (Radboud University, NL)
+Benjamin L. Kaminski (Saarland University, DE)
+Michaela Klauck (Bosch Research, DE)
+Jan Křetínský (Technical University of Munich, DE)
+Diwakar Krishnamurthy (University of Calgary, CA)
+Luca Laurenti (Technical University Delft, NL)
+Andrea Marin (Università Ca' Foscari Venezia, IT)
+Daniel Nieder (TU Dortmund, DE)
+Gethin Norman (University of Glasgow, UK)
+David Parker (University of Birmingham, UK)
+Marco Paolieri (University of Southern California, US)
+Pavithra Prabhakar (Kansas State University, US)
+Anne Remke (University of Muenster, DE)
+Matteo Sereno (University of Turin, IT)
+Marcus Siegle (University Bundeswehr Munich, DE)
+David Šafránek (Masaryk University, CZ)
+Mirco Tribastone (IMT School for Advanced Studies, IT)
+Max Tschaikowski (Aalborg University, DK)
+Andrea Vandin (School of Advanced Studies Pisa, IT)
+Benny Van Houdt (University of Antwerp, BE)
+Matthias Volk (University of Twente, NL)
+Verena Wolf (Saarland University, DE)
+Katinka Wolter (FU Berlin, DE)

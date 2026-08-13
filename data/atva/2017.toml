@@ -23,3 +23,7 @@ rate = 37.0
 
 [extra]
 notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia. Special issue in \"Formal Methods in System Design\" (Springer)"
+
+[[cfp]]
+file = "cfp/ATVA-2017-extended.txt"
+stage = "extended"

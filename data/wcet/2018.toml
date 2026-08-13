@@ -18,3 +18,11 @@ license = "cc-by"
 
 [extra]
 notes = "Co-located with ECRTS."
+
+[[cfp]]
+file = "cfp/WCET-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/WCET-2018-extended.txt"
+stage = "extended"

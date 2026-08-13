@@ -1,0 +1,100 @@
+*------------------------------------------------*
+40th ACM/SIGAPP SAC Symposium on Applied Computing
+          March 31 - April 4, 2025
+                Sicily, Italy
+
+                 T r a c k    EMBS
+
+*------------------------------------------------*
+                EMBEDDED SYSTEMS
+                New Perspectives
+ for Hardware, System Software, and Applications
+
+      https://embs-sac.github.io/sac2025/
+
+
+              Conference (main) page
+
+        http://www.sigapp.org/sac/sac2025/
+
+*------------------------------------------------*
+IMPORTANT DATES
+
+Full paper submission:    Extended to October 4th, 2024.
+
+________________________________________________________
+
+High performance embedded computing has recently become more and more present in devices used in everyday life. A wide variety of applications, from consumer electronics to biomedical systems, require building up powerful yet cheap embedded devices. In this context, embedded software has turned out to be more and more complex, posing new challenging issues. The adoption of further flexible programming paradigms/architectures is becoming almost mandatory. Nonetheless, even nowadays the development of embedded systems must rely on a tight coupling of hardware and software components. Moreover, the market pressure calls for the employment of new methodologies for shortening the development time, and for driving the evolution of existing products. New efficient solutions to problems emerging in this setting can be put into action by means of a joint effort of academia and industry.
+
+Design of embedded systems must take into account a wide variety of constraints: performance, code size, power consumption, presence of real-time tasks, robustness, maintainability, security, and possibly scalability. The more convenient trade-off has to be found, often operating on a large number of different parameters. In this scenario, solutions can be proposed at different levels of abstraction, making use of an assortment of tools and methodologies: researchers and practitioners have a chance to propose new ideas and to compare experimentations.
+
+The focus of this conference track is on the application of both novel and well-known techniques to the embedded systems development. Particular attention is paid to solutions that require expertise in different fields (e.g. computer architecture, OS, compilers, security, software engineering, simulation). The track will benefit also from direct experiences in the employment of embedded devices in "unconventional" application areas, so to show up new challenges in the system design/development process. In this setting, researchers and practitioners from academia and industry will get a chance to keep in touch with problems, open issues and future directions in the field of development of dedicated applications for embedded systems.
+
+*-----------------------------------------------*
+               Topics of Interest
+*-----------------------------------------------*
+
+  * Embedded Systems, Cyberphysical Systems (CPS), and Internet-of-Things (IoT):
+      1. System-level specification, modeling, virtual prototyping and simulation
+      2. Embedded system synthesis and optimization
+      3. Many- and multi-core SoC architecture
+      4. HW/SW co-design, co-simulation and co-verification
+      5. Energy/power management design and energy harvesting
+  * Embedded Software:
+      1. Kernel, middleware, and virtual machine
+      2. Energy-efficient embedded software
+      3. Real-time software and operating systems
+      4. Software design for multicores, GPUs, and heterogeneous embedded architectures
+      5. Testing, debugging, profiling and performance analysis of Embedded Systems
+  * Memory Architecture and Near/In Memory Computing:
+      1. Storage system and memory architecture
+      2. On-chip memory architectures and management: Scratchpads, compiler, controlled memories, etc.
+      3. Memory and storage hierarchies with emerging memory technologies
+      4. Near-memory and in-memory computing
+      5. Memory architecture and management for emerging memory technologies
+  * Neural Network and Deep Learning System Designs:
+      1. AI and machine learning for embedded systems
+      2. Hardware and devices for neuromorphic and neural network computing
+      3. Systems for neural computing (including deep neural networks)
+      4. Neural network acceleration co-design techniques
+      5. Design techniques for AI of Things
+  * Emerging Devices, Technologies and Applications
+
+
+
+*-----------------------------------------------*
+    Important dates   (PAPERS & SRC ABSTRACTS)
+*-----------------------------------------------*
+
+Full paper submission:    October 4, 2024.
+Author notification:      October   30, 2024 (to be revised)
+Camera ready paper:       November  29, 2024 (to be revised)
+
+*-----------------------------------------------*
+               Paper Submissions
+*-----------------------------------------------*
+
+Submission of Papers: Manuscripts must be submitted electronically in PDF format, according to the instructions contained in the main Conference web site. The review process is double blind. Please anonymize the paper submitted for review. The paper length is 8 pages, with the option to add 2 additional pages at extra charge, up to a maximum of 10 pages. Contributions must contain original unpublished work. Papers that have been concurrently submitted to other conferences or journals (double submissions) will be automatically rejected. All papers must submitted through the main conference web page.
+
+Paper Acceptance: Paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings. An author or a proxy attending ACM SAC MUST present the paper: This is a requirement for the paper/poster to be included in the ACM/IEEE digital library. No-show of scheduled papers and posters will result in excluding them from the ACM/IEEE digital library.
+
+*-----------------------------------------------*
+     Student Research Competition at ACM SAC
+*-----------------------------------------------*
+
+Graduate students seeking feedback from the scientific community on their research ideas are invited to submit abstracts of their original unpublished and in-progress research work in areas of experimental computing and application development related to SAC Tracks. The Student Research Competition (SRC) program is designed to provide graduate students the opportunity to meet and exchange ideas with researcher and practitioners in their areas of interest.
+
+All research abstract submissions will be reviewed by researchers and practitioners with expertise in the track focus area to which they are submitted. Authors of selected abstracts will have the opportunity to give poster presentations of their work and compete for three top winning places. The SRC committee will evaluate and select First, Second, and Third place winners. The winners will receive cash awards and SIGAPP recognition certificates during the conference banquet dinner. Authors of selected abstracts are eligible to apply to the SIGAPP Student Travel Award program for support.
+
+Submission - Graduate students are invited to submit abstracts (minimum of two pages; maximum of four pages) of their original unpublished and in-progress research work following the instructions published at SAC web-site. The submissions must address research work related to a SAC track, with emphasis on the innovation behind the research idea, including the problem being investigated, the proposed approach and research methodology, and sample preliminary results of the work. In addition, the abstract should reflect on the originality of the work, innovation of the approach, and applicability of anticipated results to real-world problems. All SRC works must be submitted through the main conference web page.
+
+Please note SRCs and regular papers must be submitted at different pages of the START web system. Submitting the same abstract to multiple tracks is not allowed. It is recommended to refer to the official SRC Information Sheet for further details.
+
+
+*------------------------------------------*
+                 Track Chairs
+*------------------------------------------*
+
+Jalil  Boukhobza - ENSTA-Bretagne, Lab-STICC lab - France
+Marco D. Santambrogio - Politecnico di Milano - Italy
+Chien-Chung Ho - National Cheng Kung University - Taiwan

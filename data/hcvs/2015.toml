@@ -14,3 +14,7 @@ notification = [2015-06-19]
 [proceedings]
 publisher = "EPTCS"
 license = "cc-by"
+
+[[cfp]]
+file = "cfp/HCVS-2015.txt"
+stage = "initial"

@@ -25,3 +25,11 @@ gender_balance = "mixed"
 [extra]
 journal = "Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings. The best software linked to a paper will be recommended to a special issue of the Software track of Elsevier’s Science of Computer Programming journal."
 notes = "Also journal-first presentations. Doctoral symposium."
+
+[[cfp]]
+file = "cfp/ICFEM-2025.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ICFEM-2025-extended.txt"
+stage = "extended"

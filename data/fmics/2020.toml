@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Part of QONFEST with CONCUR, FORMATS and QEST. Special track on \"Formal Methods for Security in IoT\" and special issue in STTT in 2020"
+
+[[cfp]]
+file = "cfp/FMICS-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FMICS-2020-extended.txt"
+stage = "extended"

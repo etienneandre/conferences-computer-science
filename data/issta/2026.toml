@@ -26,3 +26,7 @@ artifact = "Artifact evaluation, replicability studies."
 [extra]
 colocated = "Co-located with FSE 2025."
 notes = "Major revisions. The conference proceedings will be published in the Proceedings of the ACM on Software Engineering (PACMSE), Issue: ISSTA 2026."
+
+[[cfp]]
+file = "cfp/ISSTA-2026.txt"
+stage = "initial"

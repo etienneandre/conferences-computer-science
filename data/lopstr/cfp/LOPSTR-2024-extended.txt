@@ -1,0 +1,167 @@
+LOPSTR 2024 --Deadline Extended to May 19th
+
+34th International Symposium on Logic-Based Program Synthesis
+and Transformation (LOPSTR 2024).
+Part of FM 2024 and co-located with PPDP 2024, FACS 2024, FMICS 2024, and TAP 2024.
+
+September 9-11, 2024 - Milan, Italy
+
+https://lopstr.github.io/2024/
+
+Important dates:
+- Abstract submission: May 15, 2024 (AoE)
+- Paper submission: May 19, 2024 (AoE)
+- Author notification: June 26, 2024 (AoE)
+- Camera-ready: July 17, 2024 (AoE)
+- Symposium: September 9-11, 2024
+
+OVERVIEW
+
+The aim of the LOPSTR series is to stimulate and promote international
+research and collaboration on logic-based program development. LOPSTR
+is open to contributions in logic-based program development in any
+programming language paradigm. LOPSTR has a reputation for being a
+lively, friendly forum for presenting and discussing work in progress.
+
+LOPSTR 2024 will be held at Politecnico di Milano, Milan, Italy and,
+as part of FM 2024, will be co-located with PPDP 2024, FACS 2024,
+FMICS 2024, and TAP 2024. At least one of the authors of an accepted
+paper is expected to attend the conference and present the paper.
+Information about venue and travel will be available on the FM 2024
+website.
+
+Topics of interest include all aspects of logic-based program
+development, all stages of the software life cycle, and issues of both
+programming-in-the-small and programming-in-the-large, including, but
+not limited to:
+
+ - synthesis
+ - transformation
+ - specialization
+ - inversion
+ - composition
+ - optimisation
+ - specification
+ - analysis and verification
+ - testing and certification
+ - program and model manipulation
+ - AI methods for program development
+ - verification and testing of AI-based systems
+ - transformational techniques in software engineering
+ - logic-based methods for security
+ - logic-based methods for cyber-physical and distributed systems
+ - applications, tools and industrial practice
+
+Survey papers that present some aspects of the above topics from a new
+perspective and papers that describe experience with industrial
+applications and case studies are also welcome.
+
+PAPER SUBMISSION
+
+Submissions can be made in two categories:
+
+ - Regular Papers (15 pages max.)
+ - Short Papers (8 pages max.)
+
+References will NOT count towards the page limit. Additional pages may
+be used for appendices not intended for publication. Reviewers are not
+required to read the appendices, and thus papers should be intelligible
+without them. All submissions must be written in English.
+
+Submissions must n ot substantially overlap with papers/tools that have
+been published or that are simultaneously submitted to a journal,
+conference, or workshop with refereed proceedings.
+
+Submissions of Regular Papers must describe original work. Work that
+already appeared in unpublished or informally published workshop
+proceedings may be submitted (please contact the PC Chairs in case of
+questions).
+
+Submissions of Short Papers may include presentations of exciting if
+not fully polished research and tool demonstrations that are of
+academic and industrial interest. Tool demonstrations should describe
+the relevant system, usability, and implementation aspects of a tool.
+
+All accepted papers will be included in the conference proceedings and
+published by Springer as a Lecture Notes in Computer Science (LNCS)
+volume.
+
+After the symposium, a selection of a few best papers will be invited
+for submission to rapid publication in t he Journal of Theory and
+Practice of Logic Programming (TPLP). Authors of selected papers will
+be invited to revise and/or extend their submissions to be considered
+for publication. The papers submitted to TPLP will be subject to the
+standard reviewing process of the journal.
+
+SUBMISSION GUIDELINES
+
+Authors should submit an electronic copy of the paper (written in
+English) in PDF, formatted in the Lecture Notes in Computer Science
+style. Each submission must include on its first page the paper title;
+authors and their affiliations; contact author's email; abstract; and
+three to four keywords which will be used to assist the PC in
+selecting appropriate reviewers for the paper. Authors should consult
+Springer's authors' instructions at the author's page, and use their
+proceedings templates, either for LaTeX (available also in overleaf)
+or for Word, for the preparation of their papers. Springer encourages
+author s to include their ORCIDs in their papers. In addition, upon
+acceptance, the corresponding author of each paper, acting on behalf
+of all of the authors of that paper, must complete and sign a
+Consent-to-Publish form. The corresponding author signing the
+copyright form should match the corresponding author marked on the
+paper. Once the files have been sent to Springer, changes relating to
+the authorship of the papers cannot be made.
+
+Page numbers (and, if possible, line numbers) should appear on the
+manuscript to help the reviewers in writing their report. So, for
+LaTeX, we recommend that authors use:
+
+\pagestyle{plain}
+\usepackage{lineno}
+\linenumbers
+
+Papers should be submitted via EasyChair:
+https://easychair.org/conferences/?conf=lopstr2024
+
+PROGRAM CHAIRS
+
+Juliana Bowles, University of St Andrews, Scotland and SCCH, Austria
+Harald Søndergaard, The University of Melbourne, Australia
+
+PUBLIC ITY CHAIR
+
+Daniel Jurjo Rivas, IMDEA Software Institute, Spain
+
+PROGRAM COMMITTEE MEMBERS
+
+Elvira Albert, Complutense University of Madrid, Spain
+Roberto Amadini, University of Bologna, Italy
+Juliana Bowles, University of St Andrews, Scotland and SCCH, Austria
+Maribel Fernandez, Kings College London, England
+Fabio Fioravanti, University of Chieti-Pescara, Italy
+Didier Galmiche, University of Lorraine, France
+Robert Glück, University of Copenhagen, Denmark
+Gopal Gupta, University of Texas at Dallas, TX, USA
+Michael Hanus, Kiel University, Germany
+Bishoksan Kafle, IMDEA Software Institute, Spain
+Gabriele Keller, Utrecht University, Netherlands
+Maja Kirkeby, Roskilde University, Denmark
+Ekaterina Komendantskaya, University of Southampton, England
+Fred Mesnard, University of Reunion, France
+Koji Nakazawa, Nagoya University, Japan
+Pedro Lopez-Garcia, CSIC and IMDEA Software Institute, Spain
+H arald Søndergaard, The University of Melbourne, Australia
+Theresa Swift, University Nova Lisbon, Portugal
+Laura Titolo, AMA/NASA Research, VA, USA
+Hans van Ditmarsch, CNRS Toulouse, France
+Wim Vanhoof, University of Namur, Belgium
+German Vidal, Universitat Politecnica de Valencia, Spain
+
+HISTORY
+
+LOPSTR is a renowned symposium that has been held for more than
+30 years. The first meeting was held in Manchester, UK in 1991.
+Information about previous symposia: http://lopstr.webs.upv.es/.
+You can find the contents of past LOPSTR symposia at DBLP
+(https://dblp.uni-trier.de/db/conf/lopstr/index.html) and past LNCS
+proceedings at Springer (https://link.springer.com/conference/lopstr).

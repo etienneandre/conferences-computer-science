@@ -1,0 +1,63 @@
+12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)
+Call for Papers
+22 July 2025, Zagreb, Croatia
+Co-located with CAV 2025
+
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sci.unich.it%2Fhcvs25%2F&data=05%7C02%7Cconcurrency%40listserver.tue.nl%7C10fc2d974bcf46c2a2a808dd6851821e%7Ccc7df24760ce4a0f9d75704cf60efc64%7C0%7C0%7C638781423397595043%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C80000%7C%7C%7C&sdata=VMfE9ekEo2fwLyYQ5kP5xQrGJFk6DWcZbbZP75WU57Y%3D&reserved=0
+
+---
+* Important Dates *
+
+Paper submission deadline: 16 May 2025
+Paper notification: mid June 2025
+Workshop: 22 July 2025
+
+* Scope *
+
+Many Program Verification and Synthesis problems of interest can be modeled directly using Horn clauses and many recent advances in the CLP and CAV communities have centered around efficiently solving problems presented as Horn clauses.
+
+This series of workshops aims to bring together researchers working in the communities of Constraint/Logic Programming (e.g., ICLP and CP), Program Verification (e.g., CAV, TACAS, and VMCAI), and Automated Deduction (e.g., CADE, IJCAR), on the topic of Horn clause based analysis, verification, and synthesis.
+
+Horn clauses for verification and synthesis have been advocated by these communities in different times and from different perspectives and HCVS is organized to stimulate interaction and a fruitful exchange and integration of experiences.
+
+Topics of interest include, but are not limited to the use of Horn clauses, constraints, and related formalisms in the following areas:
+
+- Analysis and verification of programs and systems of various kinds (e.g., imperative, object-oriented, functional, logic, higher-order, concurrent, transition systems, petri-nets, smart contracts)
+- Program synthesis
+- Program testing
+- Program transformation
+- Constraint solving
+- Type systems
+- Machine learning and automated reasoning
+- CHC encoding of analysis and verification problems
+- Resource analysis
+- Case studies and tools
+- Challenging problems
+
+* Submission Guidelines *
+
+We solicit regular papers describing theory and implementation of Horn-clause based analysis and tool descriptions. We also solicit extended abstracts describing work-in-progress, as well as presentations covering previously published results, extended abstracts of doctoral theses, and overviews of research projects that are of interest to the workshop. At least one author of each accepted paper will be required to attend the workshop to present the contribution.
+
+Submission has to be done in one of the following formats:
+
+- Extended abstracts (up to 3 pages in EPTCS format), which describe work in progress or aim to initiate discussions.
+- Presentation-only papers, i.e., papers already submitted or presented at a conference or another workshop. Such papers can be submitted in any format, and will not be included in the workshop post-proceedings.
+- Regular papers (up to 12 pages plus bibliography in EPTCS (https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.eptcs.org%2F&data=05%7C02%7Cconcurrency%40listserver.tue.nl%7C10fc2d974bcf46c2a2a808dd6851821e%7Ccc7df24760ce4a0f9d75704cf60efc64%7C0%7C0%7C638781423397696022%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C80000%7C%7C%7C&sdata=YcVoTzBv8BLMeiEW990ZjEnylyUQxS4SLYBYD8xGeUM%3D&reserved=0) format), which should present previously unpublished work (completed or in progress), including descriptions of research, tools, and applications.
+- Tool papers (up to 4 pages in EPTCS format), including the papers written by the CHC-COMP participants, which can outline the theoretical framework, the architecture, the usage, and experiments of the tool.
+
+All submitted papers will be refereed by the program committee and will be selected for inclusion in accordance with the referee reports. If enough regular papers are accepted, both regular papers and extended abstracts will be published electronically. The publication of a paper is not intended to preclude later publication. Full versions of extended abstracts, or substantial revisions, may later be published elsewhere.
+
+* Committees *
+
+Program Chairs:
+
+Emanuele De Angelis, IASI-CNR, Rome, Italy
+Florian Frohn, RWTH Aachen University, Aachen, Germany
+
+Program Committee:
+
+TBA
+
+* CHC Competition *
+
+HCVS 2025 is planning to host the 8th competition on constraint Horn clauses (CHC-COMP https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fchc-comp.github.io%2F&data=05%7C02%7Cconcurrency%40listserver.tue.nl%7C10fc2d974bcf46c2a2a808dd6851821e%7Ccc7df24760ce4a0f9d75704cf60efc64%7C0%7C0%7C638781423397724924%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C80000%7C%7C%7C&sdata=q4jA0A6RCtI5hU9ZrsEbLRUm7MYiZNkgHb5XVSobQd8%3D&reserved=0), which will compare state-of-the-art tools for CHC solving for performance and effectiveness on a set of publicly available benchmarks.

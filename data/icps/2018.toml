@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "Excellent papers may be invited to the IEEE Transaction on Industrial Informatics"
+
+[[cfp]]
+file = "cfp/ICPS-2018.txt"
+stage = "initial"

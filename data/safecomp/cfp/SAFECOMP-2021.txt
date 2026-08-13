@@ -1,0 +1,102 @@
+-----------------------------------------------------------------------------------------------------
+
+SAFECOMP 2021 will be hosted by the Department of Computer Science,
+University of York.
+
+https://safecomp2021.hosted.york.ac.uk/
+It takes place in York, UK, from 7th to 10th September 2021 (online
+options will be available).
+
+SAFECOMP brings together experienced and diverse delegates from
+industry and academia to discover and discuss the state-of-the-art in
+the safety, security and reliability of critical computer systems and
+applications.
+
+The theme for 2021 is safe human-robotic and autonomous system (RAS)
+interaction.
+
+Call for Papers: 
+https://safecomp2021.hosted.york.ac.uk/index.php/call-for-papers/  
+We solicit two types of papers:
+Research papers (up to 14 pages - should describe the research gap
+that is addressed and explain how the proposed contribution advances
+current knowledge)
+Practical experience reports/tool descriptions (up to 8 pages - should
+convey a clear message and lessons for practitioners)
+
+Deadline
+Abstract submission: 1 February 2021
+Full paper submission: 15 February 2021
+
+Workshops and tutorials
+Tuesday 7 September will be a day of tutorials and workshops.
+Proposals are welcomed.
+Workshop and tutorial proposal submission deadline: 25 January 2021
+
+Further information
+https://safecomp2021.hosted.york.ac.uk/
+cs-safecomp-2021@york.ac.uk
+
+Committees
+EWICS TC7 Chair
+• Francesca Saglietti (Univ. Erlangen-Nuremberg, DE)
+General Chair
+• John McDermid (Univ. of York, UK)
+Program Co-Chairs
+• Ibrahim Habli (Univ. of York, UK)
+• Mark Sujan (Human Factors Everywhere, UK)
+Publication Chair
+• Friedemann Bitsch (THALES Deutschland GmbH, DE)
+Local Organising Committee
+• Dawn Forrester (Univ. of York, UK)
+• Sarah Heathwood (Univ. of York, UK)
+• Alex King (Univ. of York, UK)
+Industry Chair
+• Simon Burton (Fraunhofer IKS, DE)
+Workshop Co-Chairs
+• Simos Gerasimou (Univ. of York, UK)
+• Erwin Schoitsch (AIT, AT)
+International Program Committee
+• Becker, U. (DE)
+• Bishop, P. (UK)
+• Bitsch, F. (DE)
+• Bologna, S. (IT)
+• Braband, J. (DE)
+• Casimiro, A. (PT)
+• Daniel, P. (UK)
+• Denney, E. (US)
+• Di Giandomenico, F. (IT)
+• Favaro, J. (IT)
+• Flammini, F. (SE)
+• Fuerst, S. (DE)
+• Gallina, B. (SE)
+• Gonçalves, B. (PT)
+• Guiochet, J. (FR)
+• Heisel, M. (DE)
+• Katoen, J. (DE)
+• Kaya, K. (TU)
+• Koopman, P. (US)
+• Lawford, M. (CA)
+• Magrabi, F. (AU)
+• Pai, G. (US)
+• Palanque, P. (FR)
+• Paulitsch, M. (DE)
+• Pfeifer, H. (DE)
+• Popov, P. (UK)
+• Rae, A. (AU)
+• Romanovsky, A. (UK)
+• Rossi, M. (IT)
+• Saglietti, F. (DE)
+• Schneider, D. (DE)
+• Schoitsch, E. (AT)
+• Seguin, C. (FR)
+• Sokolsky, O. (US)
+• Steiner, W. (AT)
+• Taguchi, K. (JP)
+• Törngren, M. (SE) 
+• Tonetta, S. (IT)
+• Trapp, M. (DE)
+• Troubitsyna, E. (SE)
+• Verhoef, M. (NL)
+• Völp, M. (LU)
+• Waeselynck, H. (FR)

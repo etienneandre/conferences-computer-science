@@ -1,0 +1,198 @@
+=====================================================================
+=============== ISORC 2026: COMBINED CALL FOR PAPERS  ===============
+=====================================================================
+
+29th International Symposium on Real-Time Distributed Computing (ISORC 2026)
+May 27 - 29, 2026
+Hamilton, Ontario, Canada
+
+https://mcscert.github.io/isorc2026/
+
+IEEE ISORC was founded in 1998 (with its first meeting in Kyoto, Japan) to address
+research into the application of real-time object-oriented distributed technology. Since
+then, ISORC has continually evolved to meet the latest challenges faced by researchers
+and practitioners in the real-time domain, with an emphasis on object-, component-
+and service-oriented systems and solutions.
+
+ISORC is a single-track conference, with a lively community. We seek to encourage diverse
+views and new approaches to all real-time issues and challenges for novel applications
+and systems in RT computing issues.
+
+
+=========== IMPORTANT DATES =====================
+- Abstract Submission Deadlines (required):
+    - research track: Feb.  24, 2026, 11:59 PM AoE (extended)
+    - doctoral track: March 14, 2026, 11:59 PM AoE
+- Paper Submission Deadlines:
+    - research track: March  3, 2026, 11:59 PM AoE (extended)
+    - doctoral track: March 21, 2026, 11:59 PM AoE
+    - poster   track: April 20, 2026, 11:59 PM AoE
+- Conference:	      May 27-29, 2026
+=================================================
+
+
+=========== DETAILED CALLS FOR PAPER ===============
+
+The conference has three active tracks accepting submissions:
+
+  - Research paper:                             https://mcscert.github.io/isorc2026/cfp/research.html
+  - Doctoral Symposium & Dissertation Digests:  https://mcscert.github.io/isorc2026/cfp/doctoral.html
+  - Posters:                                    https://mcscert.github.io/isorc2026/cfp/posters.html
+
+=========== MAIN THEME AND TOPICS ===============
+
+This year's theme is the evolution of Architectures for Next Generation Critical
+Real-Time and Distributed Systems.
+
+On the one hand Electrical and Electronic (E/E) Architectures for automotive and
+aerospace vehicles are trending towards greater integration and centralization while
+complex systems of systems such as Smart Grid and Vehicle to Vehicle and Vehicle to
+Infrastructure are increasingly distributed and decentralized with edge compute. As
+a result, long established systems and software development paradigms and supplier
+relationships are changing, creating new challenges for industry and researchers that
+are compounded by the increasing adoption of AI/ML components and workflow.
+
+We solicit high-quality papers pertaining to all aspects of ORC technology that consider
+performance, dependability, scalability, reliability, among other properties and
+those that are well aligned with the 2025 theme. Authors are encouraged to consider
+submissions with a practical orientation and validation related to Case Studies &
+Applications in this area. The specific ORC focus areas include, but are not limited to:
+
+- Hardware & Software architectures for real-time distributed computing
+     -- Programming paradigms, ORC paradigms, object/component models,
+        languages, synchronous languages, microservices architectures, soft, hard,
+        performance-aware, distributed, aspects of real-time computing, service-oriented
+        architectures, scalability, performance, event-driven, safety, reliability,
+        middleware, patterns and practices, etc.
+- Distributed real time computing and communication infrastructures:
+     -- Real-time communications, networked platforms, protocols, Internet QoS,
+        peer-to-peer computing, sensor networks, vehicle to vehicle and vehicle to
+        infrastructure communications, time-predictable systems and hardware, Time
+        Sensitive Networking, digital twin for real-time data processing, blockchain,
+        distributed ledger technology, federated learning, TinyML, and EdgeAI for
+        real-time IoT, trusted and dependable systems, complex systems of systems,
+        model maintenance.
+- Dependability, Fault tolerance, and Resilience of Distributed and Real-Time Computing:
+     -- Fault tolerance, fault detection and recovery, fault injection testing,
+        self-healing, failover, redundancy, high availability, safety, reliability,
+        autonomic reconfiguration, autonomic resilience, formal verification, DevOps
+        for distributed and real-time systems_.
+- Algorithms for Distributed and/or Real-Time Analytics:
+     -- Real-time stream processing, clustering, classification, mining and
+        inferencing, and statistical modeling, digital twins and predictive analytics,
+        stream correlation and sampling, dynamic scheduling, complex event-processing,
+        time-series and TimeFM analysis.
+- System Software:
+     -- Real-time kernels, operating systems, virtualization/containerization,
+        middleware for ORC, QoS management and performance, decentralized processing,
+        scalability, extensibility, synchronization, resource allocation, scheduling,
+        energy efficiency, timing analysis, fault tolerance and resilience, cyber
+        security, etc.
+- Distributed and Real-Time Applications:
+     -- Medical devices, intelligent transportation systems, Industry 4.0,
+        Internet of Things and smart grids, embedded and cyber-physical systems,
+        multimedia processing, real-time web-based applications, QoS aware and real-time
+        cloud/edge/fog computing, network slicing, decentralized real-time data network,
+        digital twins, time-sensitive social dispersed computing.
+- System Evaluation:
+     -- Monitoring mechanisms & infrastructures, performance & timing evaluation,
+        dependability, end-to-end QoS, system/infrastructure overheads, fault detection
+        and recovery time, large-scale evaluations and field studies.
+
+
+=========== GUIDELINES FOR MANUSCRIPTS ===========
+
+- Research Track (https://mcscert.github.io/isorc2026/cfp/research.html)
+
+     -- Regular Research Papers: Papers should describe original work and papers submitted
+        for review should be a maximum of 10 pages in length, using the IEEE conference
+        paper format. A maximum of two extra pages may be purchased during the camera-ready
+        submission of accepted papers.
+     -- Industrial Papers and Practitioner Reports: Papers describing experiences of using
+        ORC technology in application or tool development projects, are an integral part
+        of the technical program of ISORC. These papers should be no longer than 10 pages,
+        using the IEEE conference paper format and may be less formal than research papers.
+        A maximum of two extra pages may be purchased during the camera-ready submission of
+        accepted papers.  They should clearly identify and discuss in detail the issues
+        that represent notable industrial advances. Reports with project metrics supporting
+        their claims are particularly sought, as well as those that show both benefits and
+        drawbacks of the approaches used in the given project.
+     -- Short Papers: Short research papers that are no longer than 6 pages, using the IEEE
+        conference paper format, on real-time analytics are also invited, and should contain
+        enough information for the program committee to understand the scope of the project
+        and evaluate the novelty of the problem or approach.
+
+- Doctoral Track (https://mcscert.github.io/isorc2026/cfp/doctoral.html)
+
+
+     -- Early-stage Research (Position Papers): Papers intended for Ph.D. students at the
+	beginning of their doctoral studies. Submissions should clearly describe the
+	problem motivation and relevance, research questions and objectives, planned
+	methodology, and expected contributions. These papers should present a well-defined
+	research vision and identify areas where feedback from the community is sought.
+     -- Mid- to Late-stage Research (Reproducible / Replication Papers): Papers for students
+	who have made substantial progress in their Ph.D. research. Submissions may include
+	ongoing research results, reproducible or replicated studies, and supporting
+	experimental evidence. Authors are strongly encouraged to make implementations,
+	datasets, and experimental artifacts publicly available to support reproducibility
+	and facilitate community validation of results.
+     -- Dissertation Digest Papers: Papers for researchers who have completed their Ph.D.
+	between January 2025 and January 2026. These submissions serve as extended abstracts
+	of the dissertation and must be limited to 6 pages, structured similarly to a regular
+	research paper. They should summarize the main contributions of the dissertation,
+	key results and impact, as well as lessons learned and future research directions.
+
+All doctoral submissions must follow the IEEE conference paper format and may be up to 6 pages
+in length, including references. Papers must be written in English and submitted in PDF format.
+
+All papers are to be submitted through the HotCRP system: https://isorc2026.hotcrp.com/
+
+The IEEE conference paper templates can be found here:
+https://www.ieee.org/conferences/publishing/templates
+
+=========== GUIDELINES FOR POSTERS ===========
+
+Detailed call: https://mcscert.github.io/isorc2026/cfp/posters.html
+
+Authors submitting to the ISORC 2026 Poster Track are invited to prepare a visually engaging poster
+that clearly communicates the motivation, approach, and key contributions of their work.
+
+Poster submissions should present original or ongoing work relevant to real-time and distributed
+computing, clearly communicating the problem or research question, the proposed approach, system,
+or idea, as well as preliminary results, expected contributions, or lessons learned, and explicitly
+highlighting the relevance of the work to the conference scope and topics.
+
+Posters must be submitted in PDF format, with a file size not exceeding 10 MB, and must be designed
+to be printable in A1 or A0 size in portrait orientation. Submissions should prioritize clarity and
+visual communication, favouring diagrams, system architectures, and visual explanations over dense
+text, and using large, legible fonts and clear figures so the poster can be read comfortably at a
+distance. All posters must be written in English and must describe original or ongoing work that
+has not been previously presented in poster form at another major conference.
+
+Posters must be submitted electronically through this Google Form: https://forms.gle/SDLsbcwmXynWEroq6
+
+Participants with accepted contributions for the Research or Doctoral tracks will have the opportunity
+to present a poster accompanying their accepted submission, and will be contacted separately after
+acceptance of their paper.
+
+=================================================
+
+--
+  Sébastien Mosser, PEng, PhD
+  Associate Chair, Dept. of Computing and Software
+  Associate Director, McMaster Centre for Software Certification (McSCert)
+  Associate Professor of Software Engineering
+  McMaster University, http://mosser.github.io
+
+
+
+
+
+
+
+
+
+
+------
+Plus d'infos sur le GDR GPL : http://gdr-gpl.cnrs.fr
+

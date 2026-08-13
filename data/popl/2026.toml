@@ -26,3 +26,7 @@ award = "At most 10% of the accepted papers of POPL 2026 will be designated as D
 
 [extra]
 notes = "While PACMPL may ask authors who have funding for open-access fees to voluntarily cover the article processing charge, payment is not required for publication."
+
+[[cfp]]
+file = "cfp/POPL-2026.txt"
+stage = "initial"

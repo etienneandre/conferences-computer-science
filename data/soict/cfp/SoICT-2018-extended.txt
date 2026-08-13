@@ -1,0 +1,46 @@
+SoICT 2018: The Ninth International Symposium on Information and Communication Technology
+
+Danang, Vietnam, 6, 7 December 2018.
+http://soict.org/ 
+https://www.facebook.com/SoICT/
+
+Due to numerous requests from authors, the paper submission deadline has been extended to 1 September 2018.
+
+
+SoICT 2018 is an international symposium that covers four major areas of research that includes AI and Big Data Analytics, Network Communication and Security, Machine Perception and Interaction, Software Engineering and Information Systems. Following the past successful symposium SoICT 2017, which received submissions from 22 countries, the 9th International Symposium on Information and Communication Technology (SoICT 2018) will be held in Danang, Vietnam. The symposium aims at providing an academic forum for researchers and graduate students to share their latest research findings and to identify future challenges in computer science. The symposium will include tutorials and keynotes given by world-class speakers.
+SoICT 2018 proceedings will be published in the International Conference Proceedings Series by ACM as a volume in ACM ICPS (ISBN: 978-1-4503-6539-0), which will be archived in the ACM Digital Library, and indexed by DBLP, Ei Compendex, Scopus and submitted to be reviewed by Thomson Reuters Conference Proceedings Citation Index (ISI Web of Science).
+
+
+Important Dates
+===============
+
+- SUBMISSION DEADLINE: 1 September 2018 
+- AUTHOR NOTIFICATION: 13 October 2018
+- CAMERA-READY SUBMISSION: 27 October 2018
+- CONFERENCE DATES: 6, 7 December 2018
+ 
+
+General Chairs
+=============== 
+Yasushi Yagi, Osaka University, Japan
+Marc Bui, EPHE, France
+Huynh Quyet Thang, HUST, Vietnam
+
+Steering Committee
+=============== 
+Yew-Soon Ong, NTU, Singapore
+Ismal Khalil, Austria
+Eui-nam Huh, Kyunghee, Korea
+Zhenjiang Hu, NII, Japan
+
+Program Chairs 
+===============
+Ichiro IDE, Nagoya, Japan
+Michel Toulouse, VGU, Vietnam
+Biplab Sikdar, NUS, Singapore
+Huynh Thi Thanh Binh, HUST, Vietnam
+
+Contact Us 
+==========
+If you have any further questions on SoICT 2018, please feel free to contact us.
+E-mail: contact@soict.hust.edu.vn 

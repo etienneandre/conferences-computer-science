@@ -18,3 +18,7 @@ license = "cc-by"
 
 [extra]
 notes = "Satellite of ETAPS. The models related to the submission, if in machine readable form, will be archived in a repository."
+
+[[cfp]]
+file = "cfp/MARS-2018.txt"
+stage = "initial"

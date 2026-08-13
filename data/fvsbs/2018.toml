@@ -18,3 +18,7 @@ publisher = "?"
 
 [extra]
 notes = "Conference Track @ IEEE WETICE 2018."
+
+[[cfp]]
+file = "cfp/FVSBS-2018.txt"
+stage = "initial"

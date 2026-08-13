@@ -21,3 +21,7 @@ license = "pay-profit"
 
 [extra]
 notes = "Co-located with ETAPS 2024. Single-blind. Optional artifact evaluation. A Best Paper award will be announced and handed out at the conference. Traditionally, a selection of papers were invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT)."
+
+[[cfp]]
+file = "cfp/SPIN-2024.txt"
+stage = "initial"

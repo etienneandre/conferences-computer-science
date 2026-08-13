@@ -1,0 +1,190 @@
+*****************************************************
+      The Fifteenth NASA Formal Methods Symposium
+
+https://conf.researchr.org/home/nfm-2023
+
+                    16 - 18 May 2023
+University of Houston Clear Lake, Houston, Texas, USA
+*****************************************************
+
+
+Theme of the Symposium:
+-----------------------
+The widespread use and increasing complexity of mission-critical and
+safety-critical systems at NASA and in the aerospace industry require
+advanced techniques that address these systems' specification, design,
+verification, validation, and certification requirements. The NASA
+Formal Methods Symposium (NFM) is an annual forum to foster
+collaboration between theoreticians and practitioners from NASA,
+academia, and industry. NFM's goals are to identify challenges and to
+provide solutions for achieving assurance for such critical systems.
+
+New developments and emerging applications like autonomous software for
+uncrewed deep space human habitats, caretaker robotics, Unmanned Aerial
+Systems (UAS), UAS Traffic Management (UTM), and the need for
+system-wide fault detection, diagnosis, and prognostics provide new
+challenges for system specification, development, and verification
+approaches. The focus of these symposiums are on formal techniques and
+other approaches for software assurance, including their theory, current
+capabilities and limitations, as well as their potential application to
+aerospace, robotics, and other NASA-relevant safety-critical systems
+during all stages of the software life-cycle.
+
+Topics of Interest:
+-------------------
+We encourage submissions on cross-cutting approaches that bring together
+formal methods and techniques from other domains such as probabilistic
+reasoning, machine learning, control theory, robotics, and quantum
+computing among others.
+     * Formal verification, including theorem proving, model checking,
+and static analysis
+     * Advances in automated theorem proving including SAT and SMT solving
+     * Use of formal methods in software and system testing
+     * Run-time verification
+     * Techniques and algorithms for scaling formal methods, such as
+abstraction and symbolic methods, compositional techniques, as well as
+parallel and/or distributed techniques
+     * Code generation from formally verified models
+     * Safety cases and system safety
+     * Formal approaches to fault tolerance
+     * Theoretical advances and empirical evaluations of formal methods
+techniques for safety-critical systems, including hybrid and embedded
+systems
+     * Formal methods in systems engineering and model-based development
+     * Correct-by-design controller synthesis
+     * Formal assurance methods to handle adaptive systems
+
+
+Important Dates:
+----------------
+Abstract Submission:  6 Jan 2023 (firm)
+Paper Submission:     6 Jan 2023 (firm)
+Paper Notifications:  6 Mar 2023
+Camera-ready Papers: 27 Mar 2023
+Symposium:        16-18 May 2023
+
+
+Location & Cost:
+----------------
+The symposium will take place in the STEM Building at University of
+Houston Clear Lake, Houston, Texas, USA, 16-18 May 2023.
+
+There will be no registration fee for participants. All interested
+individuals, including non-US citizens, are welcome to attend, to listen
+to the talks, and to participate in discussions; however, all attendees
+must register.
+
+
+Submission Details:
+-------------------
+There are two categories of submissions:
+
+    1. Regular papers describing fully developed work and complete
+results (15 pages + references)
+    2. Two categories of short papers: (6 pages + references)
+    (a) Tool Papers describing novel, publicly-available tools
+    (b) Case Studies detailing complete applications of formal methods
+to real systems with publicly-available artifacts
+
+All papers should be in English and describe original work that has not
+been published or submitted elsewhere. All submissions will be fully
+reviewed by members of the Programme Committee. Papers will appear in
+the Formal Methods subline of Springer's Lecture Notes in Computer
+Science (LNCS) and must use LNCS style formatting
+(https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Papers must be submitted in PDF format at the EasyChair submission site:
+
+https://easychair.org/conferences/?conf=nfm2023
+
+
+Keynote Speakers:
+-----------------
+Julia Badger, NASA Johnson Space Center
+Ken McMillan, UT Austin
+Sanjit Seshia, UC Berkeley
+
+
+Organizers:
+-----------
+Swarat Chaudhuri (UT Austin)
+Jim Dabney (University of Houston Clear Lake/NASA JSC)
+Kristin Yvonne Rozier (Iowa State University/NASA JSC)
+
+
+Programme Committee:
+--------------------
+Julia Badger, NASA Johnson Space Center
+Stanley Bak, Stony Brook University
+Suguman Bansal, University of Pennsylvania
+Dirk Beyer, LMU Munich
+Nikolaj Bjørner, Microsoft Research
+Sylvie Boldo, Inria and Université Paris-Saclay
+Georgiana Caltais, University of Twente
+Swarat Chaudhuri, UT Austin
+Darren Cofer, Rockwell Collins
+Jennifer Davis, Collins Aerospace
+Ewen Denney, NASA Ames Research Center
+Catherine Dubois, ENSIIE-Samovar
+Rohit Dureja, IBM Corporation
+Alexandre Duret-Lutz, LRDE/EPITA
+Bruno Dutertre, Amazon
+Aaron Dutle, NASA Langley Research Center
+Souradeep Dutta, University of Pennsylvania
+Rüdiger Ehlers, Clausthal University of Technology
+Chuchu Fan, MIT
+Marie Farrell, The University of Manchester
+Bernd Finkbeiner, CISPA Helmholtz Center for Information Security
+Alwyn Goodloe, NASA Langley Research Center
+Arie Gurfinkel, University of Waterloo
+Klaus Havelund, NASA Jet Propulsion Laboratory
+Constance Heitmeyer, Naval Research Laboratory
+Marijn Heule, Carnegie Mellon University
+Kerianne Hobbs, Air Force Research Laboratory
+Bardh Hoxha, Toyota Research Institute North America
+Susmit Jha, SRI International
+Rajeev Joshi, Amazon Web Services
+Panagiotis Manolios, Northeastern University
+Anastasia Mavridou, SGT Inc. / NASA Ames Research Center
+Stefan Mitsch, Carnegie Mellon University
+Cesar Munoz, Amazon
+Natasha Neogi, NASA Langley Research Center
+Corina Pasareanu, CMU NASA, KBR
+Ivan Perez, KBR / NASA Ames Research Center
+Zvonimir Rakamaric, University of Utah
+Giles Reger, Amazon Web Services and The University of Manchester
+Kristin Yvonne Rozier, Iowa State University
+Johann Schumann, NASA Ames Research Center
+Cristina Seceleanu, Mälardalen University
+Yasser Shoukry, University of California Irvine
+Laura Titolo, National Institute of Aerospace
+Oksana Tkachuk, Amazon Web Services
+Aaron Tomb, Amazon
+Stefano Tonetta, FBK
+Nestan Tsiskaridze, Stanford University
+Caterina Urban, INRIA
+Cristian-Ioan Vasile, Lehigh University
+Virginie Wiels, ONERA / DTIS
+Huan Xu, University of Maryland
+Huafeng Yu, Boeing Research & Technology USA
+
+--
+  ____________________________________________________________
+                                     __
+            /\                       \ \_____
+           /  \                   ###[==_____>
+          /    \                     /_/      __
+         /  __  \                             \ \_____
+         | (  ) |                          ###[==_____>
+        /| /\/\ |\                            /_/
+       / | |  | | \
+      /  |=|==|=|  \       Kristin Yvonne Rozier, Ph.D.
+    /    | |  | |    \   Black&Veatch Associate Prof, Iowa State Univ
+   / USA | ~||~ |NASA \
+  |______|  ~~  |______|   Fall, 2022: at Carnegie Mellon
+         (__||__)          Office: GHC 7211
+         /_\  /_\
+         !!!  !!!          laboratory.temporallogic.org
+
+
+
+------------------------------

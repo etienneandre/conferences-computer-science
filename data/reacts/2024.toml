@@ -19,3 +19,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Satellite event of SEFM 2024. Extended versions of selected contributions will be published in a special issue of the Journal of Applied Logics"
+
+[[cfp]]
+file = "cfp/ReacTS-2024.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ReacTS-2024-extended.txt"
+stage = "extended"

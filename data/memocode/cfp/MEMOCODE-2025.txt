@@ -1,0 +1,71 @@
+
+–Call for Papers --
+
+MEMOCODE 2025
+23rd ACM/IEEE International Symposium on Formal Methods and Models for System Design (FMCPS)
+On its 23th edition, MEMOCODE, originally a forum on methods and models for hardware-software codesign, has become a privileged forum to discuss on formal methods and models for the design of cyber-physical system and the verification of its safety and security requirements (FMCPS).
+ October 02-03, 2025, TAIPEI, TAIWAN
+- Part of ESWEEK 2025 -
+https://memocode2025.github.io/
+https://esweek.org/memocode/
+MEMOCODE brings together researchers and practitioners interested in formal methods for system design and development, to exchange ideas, research results and lessons learned. The symposium focuses on the foundations and applications of formal methods in the development of hardware, firmware, middleware, and application software for systems, ranging from single embedded devices to highly networked cyber-physical systems and the Internet of Things.
+
+TOPICS OF INTERESTS
+
+MEMOCODE solicits research papers on formal methods in system design that address the foundations, engineering methods, tools, or experimental case studies. Research areas of interest include, but are not limited to, the following:
+Modeling Languages, Methods, and Tools
+Programming languages and models; software and system modeling languages; architecture and high-level hardware description languages; timing models; model and program synthesis methods; model transformation methods.
+Formal Methods and Tools
+Correct-by-construction methods; contract-based design and verification; static, dynamic, and type theoretic analysis; verification; validation; probabilistic model checking; test generation; refinement-based and compositional approaches to design and verification.
+Models and Methods for Developing Critical Systems
+Fault-tolerant systems; security-critical and safety-critical systems; cyber-physical systems; hybrid systems; autonomous systems; self-adapting systems; systems that merge humans, artificial intelligence, and cyber-physical systems; societal-scale cyber-physical systems, such as connected vehicles and smart grids.
+Quantitative/Qualitative Reasoning
+Power/performance/cost/latency estimation methods; system models for quantitative design space exploration
+Formal Methods/Models in Practice
+Design case studies; empirical case studies
+AI/LLM Assisted Formal Verification/testing
+Case studies or methodologies on AI/LLM guided formal verification and testing
+
+
+IMPORTANT DATES
+·       Abstract submission deadline: April 28, 2025
+·       Paper submission deadline: May 5, 2025
+·       Notification of acceptance: Jul 8, 2025
+·       Final version of papers: August 11, 2025
+·       Conference: Oct 2-3, 2025
+MEMOCODE'25 is a part of ESWEEK 2025, which will take place in Taipei, Taiwan. Registered attendees can attend sessions in any of the online events, including the conferences (CASES, CODES+ISSS, EMSOFT), symposia, tutorials, workshops, and education classes.
+
+Submissions
+MEMOCODE'25 calls for three kinds of submissions: regular papers, late-breaking results, and tool presentations. All papers must be written in English and formatted according to the ACM Sigconf style conference template. A double-blind review process will be enforced. Authors must not reveal their identity directly or indirectly. Submission of papers is handled via HotCRP.
+
+    Regular papers are no longer than ten (10) pages, excluding bibliography and appendices. They should describe original work that does not overlap with another publication or a submission under review or accepted for publication by any other conference or journal. Reviewers will check regular papers for the soundness and novelty of the proposed solutions.
+    Tool papers are no longer than eight (8) pages, excluding bibliography and appendices. They should describe an existing and publicly available tool that implements relevant methods. The methods might have been published before, but the tool should not have been described in a tool paper previously. In addition to reviewing the paper, reviewers will assess the tool itself using inputs and a user's manual provided by the authors on the tool's web page.
+    Late-breaking Results (LB) papers are no longer than four (4) pages, excluding bibliography and appendices. They should describe a promising and novel idea with a potential to get breakthrough in the field. Reviewers will judge the novelty of the idea, but do not yet expect proofs for the envisioned results.
+
+For questions regarding technical submissions, feel free to contact one of the program committee co-chairs. All accepted papers (regular papers, late-breaking results, and tool papers) will be submitted for inclusion in ACM Digital Library. Publication in the proceedings is contingent on one author registering for and presenting the paper at the conference.
+Outstanding Paper Award
+A selection of papers will be recognized as outstanding papers and will be highlighted on the symposium website.
+Special Edition for Journal
+Selected accepted papers will be invited to extend their accepted papers (at least 30% extension over the accepted version) for a special edition in a journal such as the ACM Transactions on Embedded Computing Systems (ACM TECS) or Leibniz Transactions on Embedded Systems (LITES). Kindly follow the call for submissions for the special edition to check the relevant deadlines and timeline of the review process. Note that the extended version of the paper will go through a separate review process in the journal.
+
+GENERAL CHAIRS
+
+Claire Pagetti, ONERA, France
+Nan Guan, City University of Hong Kong
+
+PROGRAM CHAIRS
+
+Srinivas Pinisetty, Indian Institute of Technology Bhubaneswar, India
+Sudipta Chattopadhyay, Singapore University of Technology and Design
+
+Web and Publicity Chair
+Geovani Benita Maldonado, Singapore University of Technology and Design
+
+Keynote Speakers
+Sanjay Lall, Stanford University
+Naijun Zhan, Peking University
+
+
+Steering Committee Chair
+
+Jean-Pierre Talpin, Inria, France

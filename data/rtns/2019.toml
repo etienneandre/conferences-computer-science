@@ -20,3 +20,7 @@ license = "acm"
 
 [extra]
 notes = "Always in France (?). A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems (Springer). Prizes will be awarded for best paper. RTNS 2018 will have the artifact evaluation for the accepted papers, to enable reproducible research."
+
+[[cfp]]
+file = "cfp/RTNS-2019.txt"
+stage = "initial"

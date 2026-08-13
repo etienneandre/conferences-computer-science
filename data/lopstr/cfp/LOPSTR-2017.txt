@@ -1,0 +1,157 @@
+  ====================================================================
+                    LOPSTR 2017: 1st Call for Papers
+  ====================================================================
+
+                      27th International Symposium on
+             Logic-Based Program Synthesis and Transformation 
+                             LOPSTR 2017
+
+                  https://www.sci.unich.it/lopstr17/
+
+                  University of Namur, Namur, Belgium
+                         October 10 – 12, 2017
+                      (co-located with PPDP 2017)
+                
+  ====================================================================
+  DEADLINES: Abstract submission:                  June 6, 2017
+             Paper/Extended abstract submission:   June 13, 2017
+  ====================================================================
+  INVITED SPEAKERS: to be announced
+  ====================================================================
+
+  The aim of the LOPSTR series is to stimulate and promote international
+  research and collaboration on logic-based program development. LOPSTR
+  is open to contributions in logic-based program development in any
+  language paradigm.  LOPSTR has a reputation for being a lively,
+  friendly forum for presenting and discussing work in progress. Formal
+  proceedings are produced only after the symposium so that authors can
+  incorporate this feedback in the published papers.
+
+  The 27th International Symposium on Logic-based Program Synthesis and
+  Transformation (LOPSTR 2017) will be held at the University of
+  Namur, Belgium; previous symposia were held in Edinburgh, Siena,
+  Canterbury, Madrid, Leuven, Odense, Hagenberg, Coimbra, Valencia,
+  Lyngby, Venice, London, Verona, Uppsala, Madrid, Paphos, London,
+  Venice, Manchester, Leuven, Stockholm, Arnhem, Pisa, Louvain-la-Neuve,
+  and Manchester.  LOPSTR 2017 will be co-located with PPDP 2017
+  (International Symposium on Principles and Practice of Declarative
+  Programming).
+
+  Topics of interest cover all aspects of logic-based program
+  development, all stages of the software life cycle, and issues of both
+  programming-in-the-small and programming-in-the-large.  Both full
+  papers and extended abstracts describing applications in these areas
+  are especially welcome. Contributions are welcome on all aspects of
+  logic-based program development, including, but not limited to:
+
+  * synthesis
+  * transformation
+  * specialization
+  * composition
+  * optimization
+  * inversion
+  * specification
+  * analysis and verification
+  * testing and certification
+  * program and model manipulation
+  * transformational techniques in SE
+  * applications and tools
+
+  Survey papers that present some aspects of the above topics from a new
+  perspective, and application papers that describe experience with
+  industrial applications are also welcome.
+
+  Papers must describe original work, be written and presented in
+  English, and must not substantially overlap with papers that have been
+  published or that are simultaneously submitted to a journal,
+  conference, or workshop with refereed proceedings.  Work that already
+  appeared in unpublished or informally published workshop proceedings
+  may be submitted (please contact the PC chair in case of questions).
+
+
+  Important Dates
+
+  Abstract submission:                             Jun  6, 2017
+  Paper/Extended abstract submission:              Jun 13, 2017 
+  Notification:                                   July 25, 2017
+  Camera-ready (for electronic pre-proceedings):      tba, 2017 
+  Symposium:                                October 10-12, 2017 
+
+
+  Submission Guidelines
+
+  Authors should submit an electronic copy of the paper (written in
+  English) in PDF, formatted in the Lecture Notes in Computer Science
+  style. Each submission must include on its first page the paper title;
+  authors and their affiliations; contact authors email; abstract; and
+  three to four keywords which will be used to assist the PC in
+  selecting appropriate reviewers for the paper. Page numbers (and, if
+  possible, line numbers) should appear on the manuscript to help the
+  reviewers in writing their report.  Submissions cannot exceed 15 pages
+  including references but excluding well-marked appendices not intended
+  for publication.  Reviewers are not required to read the appendices,
+  and thus papers should be intelligible without them. Papers should be
+  submitted via the Easychair submission website for LOPSTR 2017:
+  [http://www.easychair.org/conferences/?conf=lopstr2017] (can be
+  accessed also through the LOPSTR 2017 web site).
+
+
+  Best Paper Award and Prize
+
+  A best paper award will be granted, which will include a 500 EUR prize
+  provided by Springer.  This award will be given to the best paper
+  submitted to the conference, based on the relevance, originality, and
+  technical quality. The program committee may split the award among two
+  or more papers, also considering authorship (e.g., student paper).
+
+
+  Proceedings
+
+  The formal post-conference proceedings will be published by Springer
+  in the Lecture Notes in Computer Science series. Full papers can be
+  directly accepted for publication in the formal proceedings, or
+  accepted only for presentation at the symposium and inclusion in
+  informal proceedings. After the symposium, all authors of extended
+  abstracts and full papers accepted only for presentation will be
+  invited to revise and/or extend their submissions in the light of the
+  feedback solicited at the symposium.  Then, after another round of
+  reviewing, these revised papers may also be published in the formal
+  proceedings.
+
+  Program Committee
+
+  Roberto Bagnara, University of Parma and BUGSENG, Italy 
+  Sabine Broda, University of Porto, Portugal 
+  Henning Christiansen, Roskilde University, Denmark 
+  Emanuele De Angelis, University of Chieti-Pescara, Italy 
+  Daniel De Schreye, KU Leuven, Belgium 
+  Maribel Fernandez, King's College London, UK 
+  Laurent Fribourg, CNRS, ENS Paris-Saclay, France 
+  Miguel Gomez-Zamalloa, Complutense University of Madrid, Spain 
+  Arie Gurfinkel, University of Waterloo, Canada 
+  Geoff Hamilton, Dublin City University, Ireland 
+  Gerda Janssens, KU Leuven, Belgium
+  Bishoksan Kafle, University of Melbourne, Australia 
+  Andy King, University of Kent, UK 
+  Jacopo Mauro, University of Oslo, Norway 
+  Jose F. Morales, IMDEA Software Institute, Spain 
+  Jorge A. Navas, SRI International, USA 
+  Corneliu Popeea, CQSE GmbH, Germany 
+  Francesca Scozzari, University of Chieti-Pescara, Italy 
+  Theresa Swift, NOVALINKS, Universidade Nova de Lisboa, Portugal 
+  Alicia Villanueva, Universitat Politècnica de València, Spain
+
+  Program Chairs
+
+  Fabio Fioravanti, University of Chieti-Pescara, Italy
+  John Gallagher, Roskilde University, Denmark and IMDEA Software Institute, Spain 
+
+  Organizing Committee
+
+  Wim Vanhoof (Université de Namur, Namur, Belgium, Local Organizer)
+  
+  In cooperation with:
+
+  The European Association for Theoretical Computer Science 
+  The European Association for Programming Languages and Systems 
+  The Association for Logic Programming 

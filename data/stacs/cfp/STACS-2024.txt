@@ -1,0 +1,148 @@
+STACS 2024 CALL FOR PAPERS
+
+
+
+The 41st International Symposium on Theoretical Aspects of Computer Science is planned to take place from 12th March to 14th March 2024 in Clermont-Ferrand, France.
+
+For the second time, STACS 2024 will consist of two tracks, A and B, to facilitate the work of the program committee(s).
+
+Track A focuses on algorithms, data structures and complexity.
+Track B focuses on automata, logic, semantics, and theory of programming.
+
+Authors are invited to submit papers presenting original and unpublished research on theoretical aspects of computer science. Typical areas include:
+
+Track A. Algorithms, Data Structures and Complexity
+Design of parallel algorithms
+Distributed algorithm
+Approximation algorithms
+Parameterised algorithms
+Randomised algorithms
+Analysis of algorithms
+Combinatorics of data structures
+Computational geometry
+Cryptography
+Algorithms for machine learning
+Algorithmic game theory
+Quantum algorithms
+Computational and structural complexity theory
+Parameterised complexity
+Randomness in computation
+
+Track B. Automata, Logic, Semantics and Theory of Programming
+Automata theory
+Games and multi-agent systems
+Algebraic and categorical methods
+Models of computation
+Concurrency
+Timed systems
+Finite model theory
+Database theory
+Semantics
+Type systems
+Program analysis
+Specification and verification
+Rewriting and deduction
+Learning theory
+Logical aspects of computability and complexity
+
+** These lists are not exhaustive. In particular, both tracks also welcome submissions about current challenges.
+
+IMPORTANT DATES
+Submission	September 28, 2023 (11:59 PM AoE)
+Rebuttal	November 21-23, 2023
+Acceptance	December 13, 2023
+Final version	January 18, 2024
+STACS 2024	March 12-14, 2024
+
+
+PROGRAM COMMITTEE MEMBERS
+
+TRACK A.
+
+Mamadou Moustapha Kanté, Co-Chair (Université Clermont Auvergne, France)
+Daniel Lokshtanov, Co-Chair (University of California, Santa Barbara, USA)
+Prabhanjan Ananth (University of California, Santa Barbara)
+Edouard Bonnet (ENS Lyon)
+Zongchen Chen (MIT)
+Alex Conway (VMWare Research Lab)
+Fabien Dufoulon (University of Houston)
+Christoph Durr (CNRS, Université Paris Sorbonne)
+Sebastian Forster (University of Salzburg)
+Elena Grigorescu (Purdue University)
+Jacob Holm (University of Copenhagen)
+Tony Huynh (Sapienza Università di Roma)
+Nutan Limaye (IT University of Copenhagen)
+Or Meir (University of Haifa)
+Florin Manea (University of Göttingen)
+Benjamin Moseley (Carnegie Mellon University)
+Alanta Newman (CNRS, Université Grenoble-Alpes)
+Kim Thang Nguyen (Grenoble INP, Université Grenoble-Alpes)
+Pan Peng (University of Science and Technology of China)
+Stephen Piddock (Royal Holloway University of London)
+Saket Saurabh (Institute of Mathematical Sciences, Chennai)
+Sebastian Siebertz (University of Bremen)
+Nodari Sitchinava (University of Hawai)
+Sophie Spirkl (University of Waterloo)
+Jie Xue (New York University of Shangai)
+Hang Zhou (Ecole Polytechnique)
+
+TRACK B.
+
+Olaf Beyersdorff, Co-Chair (Friedrich Schiller University of Jena)
+Orna Kupferman, Co-Chair (The Hebrew University of Jerusalem)
+Paul Bell (Keele University)
+Ilario Bonacina (UPC Barcelona)
+Andrea Calì (University of London, Birkbeck)
+Joel Day (Loughborough University)
+Hadar Frenkel (CISPA)
+Manfred Kufleitner (University of Stuttgart)
+Markus Lohrey (University of Siegen)
+Sebastian Maneth (University of Bremen)
+Paige Randall North (Utrecht University)
+Henning Schnoor (University of Kiel)
+Ana Sokolova (University of Salzburg)
+Anthony Widjaja Lin (University of Kaiserslautern and Max-Planck Institute for Software Systems)
+
+SUBMISSIONS
+Submissions will be through EasyChair https://easychair.org/my/conference?conf=stacs2024#
+
+Authors are invited to submit an extended abstract or full paper with at most 12-15 pages, excluding a title page, the references section and a possible appendix, to the appropriate track. The title page consists, for instance, of the title of the paper, the abstract, and keywords, but *no* author information. The first section of the paper should start on the next page, and the appendix, if any, should also start on the next page after the bibliography. The PCs reserve the right to reassign a paper to a different track. The usage of the LIPIcs style file is mandatory; no changes to font size, page geometry, etc. are permitted. Please refer to LIPIcs author instructions https://www.dagstuhl.de/en/publishing/series/details/LIPIcs; Submissions not in the correct format or submitted after the deadline will not be considered.
+
+The paper should contain a succinct statement of the issues and of their motivation, a summary of the main results, and a brief explanation of their significance, accessible to non-specialist readers. Proofs omitted due to space constraints should be put into an appendix, to be read by the program committee members at their discretion. An appendix consisting of a full version of the paper is encouraged. Simultaneous submission to other conferences with published proceedings or to journals is not allowed. PC members are excluded from submitting to their own track.
+
+As in the previous years, STACS 2024 will employ a lightweight double-blind reviewing process: submissions should not reveal the identity of the authors in any way. The purpose of the double-blind reviewing is to help PC members and external reviewers come to an initial judgment about the paper without bias, not to make it impossible for them to discover the authors if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted or anonymised. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For example, authors may post drafts of their papers on the web, submit them to arXiv, and give talks on their research ideas.
+
+Authors will be invited to give a list of persons with a Conflict of Interest (COI). A Conflict of Interest is limited to the following categories:
+
+- Family member or close friend.
+- Ph.D. advisor or advisee (no time limit), or postdoctoral or undergraduate mentor or mentee within the past five years.
+- Person with the same affiliation.
+- Involved in an alleged incident of harassment. (It is not required that the incident be reported.)
+- Reviewer owes author a favour (e.g., recently requested a reference letter).
+- Frequent or recent collaborator (within last 5 years) cannot objectively review your work.
+
+If you are unsure about a conflict in which a reviewer may have positive bias towards your paper, we recommend erring on the side of not declaring it since PC members and sub-reviewers will be also asked if they feel that they can fairly evaluate your paper. If an author believes that they have a valid reason for a Conflict of Interest not listed above, then she or he can contact PC chairs. Falsely declared conflicts (i.e., do not satisfy one of the listed reasons) risk rejection without consideration of merit. When PC chairs have doubt about claimed Conflict of Interest, they may request that STACS advocates confidentially verify the conflict. If authors are uncertain, they are encouraged to email PC chairs or STACS advocates. Authors will be asked to declare conflicts with PC members during submission, but an author can contact PC chairs directly if she or he has a conflict with an individual who is likely to be asked to serve as a sub-reviewer for the paper.
+
+There will be a rebuttal period for authors, see below for the dates. Authors will receive the reviews of their submissions (via EasyChair) and have three days to submit rebuttals (via EasyChair). These rebuttals become part of the PC discussions, but entail no specific responses.
+
+At least one author of each accepted paper is expected to register at the conference. For authors who cannot present their paper in person a possibility for remote presentation will be offered.
+
+PROCEEDINGS
+Accepted papers will be published in the proceedings of the symposium. As usual, these proceedings will appear in the Leibniz International Proceedings in Informatics (LIPIcs) series, based at Schloss Dagstuhl (https://submission.dagstuhl.de/series/details/LIPIcs). This guarantees perennial, free and easy electronic access, while the authors retain the rights over their work. With their submission, authors consent to sign a license authorising the program committee chairs to organise the electronic publication of their paper, provided the paper is accepted.
+
+The final camera-ready of each accepted paper should be formatted in accordance with the LIPIcs guidelines https://submission.dagstuhl.de/series/details/LIPIcs and taking reviewer comments into account. General instructions regarding the preparation of the camera-ready version and the style can be found at LIPIcs author instructions  https://www.dagstuhl.de/en/publishing/series/details/LIPIcs.  Notice that there is a limit of 15 pages for the main body of the final camera-ready, excluding the bibliography, the front page(s) (authors, affiliation, keywords, abstract, ...) and a brief appendix (of up to 5 pages) from this page limit. Any appendices to the initial submission were officially not under review and thus should not be included in the proceedings. In general, major new content can be added only if suggested by the reviewers. You are however more than welcome to have the proceedings paper link to an extended version published elsewhere (e.g., on arXiv) – the precise link to such an extended version may even be provided later, during author approval period (expected in February).
+
+STACS CODE OF CONDUCT
+STACS 2024 intends to join http://safetoc.org. Registering for STACS 2024 thus will likely require that you agree to follow the Code of Conduct described below.
+
+STACS is committed to be a respectful forum for its participants, free from any violence, discrimination or harassment of any nature. All STACS attendees are expected to behave accordingly.
+
+If you experience or witness violence, discrimination, harassment or other unethical behaviour at the conference, we encourage you to seek advice and remedy through one or more of the following options:
+
+• Consult with the SafeToC advocates of STACS (to be named before the conference).
+• Report to the conference chair, the PC chairs or the Steering Committee chair.
+The chairs are entitled to remove registered participants from the conference (without refunding the conference fees) if they are deemed to pose an ethical risk to other participants. The conference chair may contact the local university committee dedicated to address violence, unethical behaviour or harassment of any kind. Besides having an appointment with the victim, this committee can assist with medical support and with taking legal action.
+
+CONTACT INFORMATION
+Web: http://www.stacs-conf.org
+Email: stacs2024@easychair.org

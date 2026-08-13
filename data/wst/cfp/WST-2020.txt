@@ -1,0 +1,103 @@
+==========================================================================
+                           WST 2020 - Call for Papers
+                    17th International Workshop on Termination
+                        http://costa.fdi.ucm.es/wst2020
+
+                         June 29-30, 2020, Paris, France
+                      co-located with IJCAR and FSCD 2020.
+==========================================================================
+
+The Workshop on Termination (WST) traditionally brings together, in an
+informal setting, researchers interested in all aspects of termination,
+whether this interest be practical or theoretical, primary or derived.
+The workshop also provides a ground for cross-fertilization of ideas from
+the different communities interested in termination (e.g., working on
+computational mechanisms, programming languages, software engineering,
+constraint solving, etc.). The friendly atmosphere enables fruitful
+exchanges leading to joint research and subsequent publications.
+
+The workshop is part of "Paris Nord Summer of LoVe 2020", a joint
+event on LOgic and VErification at Université Paris 13, made of Petri
+Nets 2020, IJCAR 2020, FSCD 2020, and over 20 satellite events.
+
+    https://lipn.univ-paris13.fr/summer-of-love-2020/
+
+
+IMPORTANT DATES:
+
+  * submission deadline:  April 12, 2020
+  * notification:         May 10, 2020
+  * final version due:    May 31, 2020
+  * workshop:             June 29-30, 2020
+
+TOPICS: The 17th International Workshop on Termination welcomes
+contributions on all aspects of termination. In particular, papers
+investigating applications of termination (for example in complexity
+analysis, program analysis and transformation, theorem proving, program
+correctness, modeling computational systems, etc.) are very welcome.
+
+Topics of interest include (but are not limited to):
+
+  * abstraction methods in termination analysis
+  * certification of termination and complexity proofs
+  * challenging termination problems
+  * comparison and classification of termination methods
+  * complexity analysis in any domain
+  * implementation of termination methods
+  * non-termination analysis and loop detection
+  * normalization and infinitary normalization
+  * operational termination of logic-based systems
+  * ordinal notation and subrecursive hierarchies
+  * SAT, SMT, and constraint solving for (non-)termination analysis
+  * scalability and modularity of termination methods
+  * termination analysis in any domain (lambda calculus, declarative
+    programming, rewriting, transition systems, etc.)
+  * well-founded relations and well-quasi-orders
+
+COMPETITION: Since 2003, the catalytic effect of WST to stimulate
+new research on termination has been enhanced by the celebration
+of the Termination Competition and its continuously developing
+problem databases containing thousands of programs as challenges
+for termination analysis in different categories, see
+
+    http://termination-portal.org/wiki/Termination_Competition
+
+In 2020, the Termination Competition will run shortly before WST and
+the main venues (IJCAR-FSCD), and the results will be presented at
+IJCAR or FSCD.
+
+
+PROGRAM COMMITTEE:
+
+Martin Avanzini - INRIA Sophia, Antipolis
+Florian Frohn - Max-Planck-Institut für Informatik, Saarbrücken
+Carsten Fuhs - Birkbeck, U. of London
+Samir Genaim (chair) - U. Complutense de Madrid
+Jürgen Giesl - RWTH Aachen
+Matthias Heizmann - U. of Freiburg
+Cynthia Kop - Radboud U. Nijmegen
+Salvador Lucas - U. Politècnica de València
+Étienne Payet - U. de La Réunion
+Albert Rubio -  U. Complutense de Madrid
+René Thiemann - U. of Innsbruck
+Johannes Waldmann - HTWK Leipzig
+
+INVITED SPEAKERS:
+     tba
+
+SUBMISSION: Submissions are short papers/extended abstracts which
+should not exceed 5 pages. There will be no formal reviewing. In
+particular, we welcome short versions of recently published articles
+and papers submitted elsewhere. The program committee checks relevance
+and provides additional feedback for each submission. The accepted
+papers will be made available electronically before the workshop.
+
+Papers should be submitted electronically via the submission page:
+
+     https://easychair.org/conferences/?conf=wst2020
+
+Please, use LaTeX and the LIPIcs style file
+
+     http://drops.dagstuhl.de/styles/lipics/lipics-authors.tgz
+
+to prepare your submission.

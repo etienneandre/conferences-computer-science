@@ -1,0 +1,165 @@
+International Conference on Reliability, Safety and Security of Railway Systems
+
+RSSRail 2022
+
+https://rssrail2021.univ-gustave-eiffel.fr/
+
+Call for papers
+
+ 
+
+Conference chairs:
+
+-Anne Haxthausen (Technical University of Denmark)
+
+-Simon Collart-Dutilleul (Université Gustave Eiffel)
+
+-Thierry Lecomte (CLEARSY)
+
+ 
+
+The 4th International Conference on Reliability, Safety and Security of 
+
+Railway Systems will be held on the 1st and 2nd of June 2022, in 
+
+the International Union of Railways Congress Center, Paris.
+
+ 
+
+In 2021 the RSSRail conference was replaced by a special issue of 
+
+the "Formal Aspects of Computing" journal. 
+
+ 
+
+RSSRail 2022 will address challenges currently faced by the railway 
+
+industry such as:
+
+* improving system safety
+
+* decreasing production costs and time to market
+
+* reducing carbon emissions and running costs
+
+* increasing the capacity of the railway.
+
+ 
+
+Railway systems are now being integrated into larger multi-transport networks. 
+
+Such systems require an even higher degree of automation at all levels of 
+
+operation. These trends dramatically increase the complexity of railway 
+
+applications and pose new challenges in developing novel methods of modelling, 
+
+analysis, verification and validation to ensure their reliability, 
+
+safety and security, as well as in supporting novel mechanisms and procedures 
+
+to help make the case that development processes meet the mandated standards. 
+
+ 
+
+The RSSRail 2022 conference will build on the success of RSSRail 2016
+
+(June 28-30, Paris, France) that took place in the Maison de la RATP, 
+
+RSSRail 2017 (November 14-16, Pistoia, Italy) and RSSRail 2019
+
+(June 4-6, Lille, France), and will contribute to a range of key objectives.
+
+ 
+
+Development of the complex railway systems of the future requires integrated 
+
+environments and methods that support different abstraction levels and 
+
+different views, including:
+
+* systems architecture
+
+* safety analysis
+
+* security analysis
+
+* verification tools and methods.
+
+ 
+
+The conference aims to bring together researchers and engineers interested 
+
+in building critical railway applications and systems. This will be a working 
+
+conference in which research challenges and progress will be discussed and 
+
+evaluated by both researchers and engineers, focusing on their potential 
+
+to be deployed in industrial settings.
+
+ 
+
+Topics of particular interest include:
+
+* safety in development processes and safety management
+
+* combined approaches to safety and security
+
+* system and software safety analysis
+
+* formal modelling and verification techniques
+
+* system reliability
+
+* validation according to the standards
+
+* safety and security argumentation
+
+* fault and intrusion modelling and analysis
+
+* evaluation of system capacity, energy consumption, cost 
+
+    and their interplay
+
+* tool and model integration, toolchains
+
+* domain-specific languages and modelling frameworks
+
+* model reuse for reliability, safety and security
+
+* modelling for maintenance strategy engineering.
+
+ 
+
+Submissions
+
+We can accept three types of submission:
+
+* Research papers – not more than 16 pages in length
+
+* Industrial experience reports – not more than 10 pages in length
+
+* PhD student papers – not more than 10 pages in length.
+
+ 
+
+To submit your paper please go to the conference submission site
+
+Submissions must be formatted in the Springer LNCS format
+
+Accepted papers will be published by Springer in a volume in 
+
+the LNCS series. 
+
+ 
+
+Important dates
+
+* November 25th, 2021 – abstract submission
+
+* December 2nd, 2021 – full paper submission
+
+* February 1st, 2022 – notification
+
+* March 1st, 2022 – camera-ready papers submitted

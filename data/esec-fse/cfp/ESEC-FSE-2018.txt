@@ -1,0 +1,412 @@
+CALL FOR PAPERS
+===============
+
+ESEC/FSE 2018 -- 12th Joint Meeting of
+the European Software
+Engineering Conference and the ACM SIGSOFT
+Symposium on the Foundations
+of Software Engineering
+
+November 4-9,
+Orlando, Florida, United States
+http://2018.fseconference.org
+
+Follow
+ESEC/FSE on twitter: @fseconf
+Follow ESEC/FSE on Facebook: http://facebo
+ok.com/fseconference
+Social Media Hashtag: #esecfse
+
+The ACM Joint
+European Software Engineering Conference and the ACM SIGSOFT Symposium
+on the Foundations of Software Engineering (ESEC/FSE)
+is an
+internationally renowned forum for researchers, practitioners,
+and
+educators to present and discuss the most recent innovations,
+trends,
+experiences, and challenges in the field of software
+engineering.
+Formerly the FSE conference in alternating years and
+ESEC/FSE in other
+years, ESEC/FSE is now the new name of this annual
+conference series.
+The ESEC/FSE conference brings together experts from
+academia and
+industry to exchange the latest research results and
+trends, as well as
+their practical application in all areas of software
+engineering. The
+conference is sponsored by the ACM Special Interest
+Group on Software
+Engineering (SIGSOFT).
+
+Topics of Interest
+------------------
+
+We are
+interested in submissions from both industry and academia on all
+topics
+related to software engineering. These include, but are not
+limited to:
+
+-
+  Architecture and design
+-   Autonomic computing and (self-)adaptive
+systems
+-   Big data
+-   Cloud computing
+-   Components, services, and
+middleware
+-   Computer-supported cooperative work
+-   Configuration
+management and deployment
+-   Crowdsourcing
+-   Debugging
+-  
+Dependability, safety, and reliability
+-   Development tools and
+environments
+-   Distributed, parallel, and concurrent software
+-  
+Education
+-   Embedded and real-time software
+-   Empirical software
+engineering
+-   End-user software engineering
+-   Formal methods,
+including languages, methods, and tools
+-   Green computing
+-   Human and
+social factors in software engineering
+-   Human-computer interaction
+-  
+Knowledge-based software engineering
+-   Mobile, ubiquitous, and
+pervasive software
+-   Model-driven software engineering
+-   Patterns and
+frameworks
+-   Processes and workflows
+-   Program analysis
+-   Program
+comprehension and visualization
+-   Program synthesis
+-   Refactoring
+-  
+Requirements engineering
+-   Reverse engineering
+-   Safety-critical
+systems
+-   Scientific computing
+-   Search-based software engineering
+-  
+Security and privacy
+-   Software economics and metrics
+-   Software
+evolution and maintenance
+-   Software modularity
+-   Software product
+lines
+-   Software reuse
+-   Software services
+-   Testing
+-   Traceability
+
+-   Web-based software
+
+Call for Submissions
+--------------------
+
+General
+Chair: Gary T. Leavens
+
+### Research Papers
+
+Chairs: Corina Pasareanu,
+Alessandro Garcia
+http://2018.fseconference.org/track/fse-2018-research-
+papers
+
+We invite high-quality submissions describing original and
+unpublished
+results of theoretical, empirical, conceptual, and
+experimental
+software engineering research. Contributions should
+describe innovative
+and significant original research. Papers describing
+groundbreaking
+approaches to emerging problems will also be considered.
+Submissions
+that facilitate reproducibility by using available data sets
+or making
+the described tools publicly available are especially
+encouraged.
+
+ESEC/FSE 2018 will employ a lightweight double-blind review
+process.
+Each submission will be reviewed by at least three members of
+the
+Program Committee.
+
+### Journal-First
+
+Chairs: Andrea Zisman, Ingrid
+Nunes
+https://2018.fseconference.org/track/fse-2018-Journal-First
+
+We
+invite authors of journal-first papers accepted in the partnering
+journa
+ls (IEEE TSE, ACM TOSEM, and Springer Empirical Software
+Engineering) to
+submit their work to be presented at ESEC/FSE 2018. The
+accepted paper
+version must have been submitted to a partnering journal
+no earlier than
+December 1st 2016. This will allow authors of journal-
+first papers to
+present their work to the community.
+
+### New Ideas and Emerging Results
+
+C
+hairs: Claire Le Goues, Gail Kaiser
+http://2018.fseconference.org/track/
+fse-2018-NIER
+
+ESEC/FSE-NIER 2018 seeks to challenge the status quo of
+our discipline
+by providing a venue for innovative, radical, thought-
+provoking new
+ideas, arguments, and research directions in software
+engineering. The
+NIER also incorporates the previous FSE-VaR (Visions
+and Reflections)
+track, seeking to spark conversation on the state of
+the field,
+especially in light of the 50-year anniversary of the 1968
+NATO
+conference on Software Engineering.
+
+### Tool Demonstrations
+
+Chairs:
+Tien Nguyen, Ciera Jaspan
+http://2018.fseconference.org/track/fse-2018-D
+emonstration
+
+We invite innovative research demonstrations, intended to
+show early
+implementations of novel software engineering concepts, as
+well as
+mature prototypes. The research demonstrations are intended to
+hi
+ghlight underlying scientific contributions. Whereas a regular
+research
+paper points out the scientific contribution of a new software
+engineeri
+ng approach, a demonstration paper provides the opportunity to
+show how
+a scientific contribution has been transferred into a working
+tool or
+data set. Authors of regular research papers are thus
+encouraged to
+submit an accompanying demonstration paper.
+
+### Industry
+
+Chairs: John
+Penix, Satish Chandra
+http://2018.fseconference.org/track/fse-2018-Indus
+try
+
+ESEC/FSE is widely known for its high-quality research papers in all
+
+areas of software engineering. Its industry track focuses on the same
+to
+pics and values the same rigor as its research track, yet papers
+feature
+d in the industrial track are distinct. What sets the industrial
+track
+apart is that it values impact and realism over novelty. We
+expect that
+findings from industrial track publications have the
+potential to impact
+practice in the 0-2 year range.
+
+### Workshops
+
+Chair: Damian Dechev
+https:/
+/2018.fseconference.org/track/fse-2018-Workshops
+
+ESEC/FSE 2018 solicits
+proposals for workshops to be held in
+conjunction with the main
+conference. Workshops aim to provide
+opportunities for exchanging views,
+advancing ideas, and discussing
+preliminary results in various areas of
+software engineering research
+and applications. Workshops are not an
+alternative forum for presenting
+full research papers. If you would like
+to bring together a group of
+researchers on a relevant and exciting
+topic, please submit a workshop
+proposal to ESEC/FSE. Workshops will be
+held in the days before the
+research track (Nov. 4 and 5). Proposals for
+workshops after the main
+track can be considered but are subject to the
+availability of space.
+Prospective workshop organizers are encouraged to
+contact the workshop
+chairs should any questions arise.
+
+### Artifacts
+
+Chai
+rs: Olga Baysal, Tim Menzies
+https://2018.fseconference.org/track/fse-20
+18-Artifacts
+
+Authors of accepted research papers are invited to submit
+an artifact
+to the ESEC/FSE Artifact Track. In the spirit of ACM’s
+"Result and
+Artifact Review and Badging" policy (http://www.acm.org/publ
+ications/policies/artifact-review-badging), the artifacts track exists
+to review, promote, share and catalog the research artifacts produced
+by any of the papers accepted to the research track. Apart from
+repeatability and replicability, cataloging these artifacts also allows
+reuse by other teams in reproduction or other studies.
+
+### Doctoral
+Symposium
+
+Chairs: Hridesh Rajan, Margaret-Anne Storey
+http://2018.fseconf
+erence.org/track/fse-2018-Doctorial-Symposium
+
+Doctoral students whose
+research is in Software Engineering will have a
+chance to get mentoring
+from more experienced researchers and
+academics. Participants will have
+the opportunity to present and
+discuss their doctoral research with
+senior researchers in the software
+engineering community, in a
+constructive and friendly atmosphere.
+Attendance will be by invitation
+only based on a four-page research
+proposal to provide a quality
+mentoring experience for pursuing an
+impactful research program.
+
+###
+Student Research Competition
+
+Chair: Gustavo Soares
+http://2018.fseconfere
+nce.org/track/fse-2018-Student-Research-Competition
+
+The conference will
+host an ACM Student Research Competition (http://src.acm.org; SRC).This
+competition offers undergraduate and graduate students a unique forum
+to experience the research world, present th research results to
+conference attendees, and compete for prizes.
+
+The ACM SRC consists of
+three parts: (1) research abstract submission,
+(2) poster presentation,
+and (3) a research talk. The first-place
+winners of the competition will
+be invited to participate in the ACM
+Student Research Competition Grand
+Finals.
+
+Participate in this exciting competition: Submit your work to
+the ACM
+Student Research Competition!
+
+Submission Guidelines
+--------------
+-------
+
+At the time of submission, all papers must conform to the
+ESEC/FSE 2018
+Format and Submission Guidelines (https://2018.fseconferen
+ce.org/attending/Submission+Policies), and must not exceed the page
+limits that are listed in the appropriate call for papers. All
+submissions must be in English and in PDF format. Submissions that do
+not comply with the above instructions will be desk rejected without
+review. Papers must be submitted electronically through the appropriate
+ESEC/FSE submission site (as noted in the appropriate call for papers).
+See conference website for more details about submissions for each
+track.
+
+Important Dates
+---------------
+
+### Research Papers
+
+-   Submission
+date: **March 9, 2018**
+-   Author response period: May 7-10, 2018
+-  
+Notification of acceptance: June 11, 2018
+-   Camera-ready date: July
+31, 2018
+-   Conference: **November 4-9, 2018**
+
+### Journal-First Papers
+
+-
+  Submission date: May 30, 2018
+-   Notification of acceptance: June 30,
+2018
+
+### New Ideas and Emerging Results
+
+-   Submission date: June 15,
+2018
+-   Notification of acceptance: July 25, 2018
+-   Camera ready date:
+September 10, 2018
+
+### Workshops
+
+-   Submission date: February 19, 2018
+- 
+ Notification of acceptance: March 7, 2018
+
+### Industry Papers
+
+-  
+Submission date: June 15, 2018
+-   Notification of acceptance: July 25,
+2018
+-   Camera ready date: September 10, 2018
+
+### Artifacts
+
+-  
+Submission date: June 25, 2018
+-   Notification of acceptance: July 31,
+2018
+
+### Doctoral Symposiums
+
+-   Submission date: June 29, 2018
+-  
+Notification of acceptance: July 27, 2018
+
+### Student Research
+Competition
+
+-   Submission date: June 15, 2018
+-   Notification of
+acceptance: July 25, 2018

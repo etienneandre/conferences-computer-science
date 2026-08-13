@@ -1,0 +1,105 @@
+=============================================================================
+**
+**               Final Call for Papers: FACS 2021
+**
+**    17th International Conference on Formal Aspects of Component Software
+**
+**                         Virtual Event
+**
+**                  https://facs2021.inria.fr
+**
+=============================================================================
+
+## OVERVIEW
+
+Component-based software development proposes sound engineering principles and techniques to cope with the complexity of present-day software systems. However, many challenging conceptual and technological issues remain in component-based software development theory and practice. Furthermore, the advent of service-oriented and cloud computing, cyber-physical systems, and the Internet of Things has brought to the fore new dimensions, such as quality of service and robustness to withstand faults, which require revisiting established concepts and developing new ones.
+
+FACS 2021 is concerned with how formal methods can be applied to component-based software and system development. Formal methods have provided foundations for component-based software through research on mathematical models for components, composition and adaptation, and rigorous approaches to verification, deployment, testing, and certification.
+
+## INVITED SPEAKERS
+
+* Radu Calinescu (University of York, UK)
+* Corina Pasareanu (NASA Ames, CMU, USA)
+
+## DATES
+
+* Abstract: July 9, 2021 (extended)
+* Paper: July 16, 2021 (extended)
+* Notification: August 20, 2021
+* Conference: October 28-29, 2021
+
+All deadlines are AoE.
+
+## SCOPE
+
+The conference seeks to address the application of formal methods in all aspects of software components and services. Specific topics include, but are not limited to:
+
+* formal models for software components and their interaction;
+* formal aspects of services, service-oriented architectures, business processes, cloud computing, cyber-physical systems, Internet of Things, and other artifacts;
+* formal syntax and semantics of modeling languages;
+* design and verification methods for software components and services;
+* composition and deployment: models, calculi, languages;
+* formal methods and modeling languages for components and services;
+* (behavioral) type systems for components and services;
+* models for QoS and other extra-functional properties (e.g., trust, compliance, security) of components and services;
+* components for real-time, safety-critical, secure, and/or embedded systems;
+* rigorous model-based analysis;
+* components for the Internet of things and cyber-physical systems;
+* artificial intelligence and machine learning for components and services;
+* probabilistic techniques for modeling and verification of component-based systems;
+* model-based testing of components and services;
+* case studies and experience reports;
+* tools supporting formal methods for components and services.
+
+## SUBMISSION & PUBLICATION
+
+We solicit submissions related to the topics mentioned above in the following categories:
+
+* full papers: original research, applications and experiences, surveys (16 pages max, excluding references);
+* short papers: tools and demonstrations, new ideas and emerging results, position papers (6 pages max, excluding references).
+
+Paper submission is done via EasyChair at:
+https://easychair.org/conferences/?conf=facs2021.
+
+All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. Each paper will be reviewed by at least three PC members and evaluated in terms of novelty, importance, evidence, and clarity.
+
+The proceedings of FACS 2021 will be published as a volume of LNCS. All accepted papers will be published in this LNCS volume. Authors should consult Springer???s authors??? guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+
+The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to special issue of the International Journal on Software and Systems Modeling (SoSyM).
+
+
+## CHAIRS
+
+Gwen Sala??n, University Grenoble Alpes, France
+Anton Wijs, Eindhoven University of Technology, The Netherlands
+
+## PROGRAM COMMITTEE
+
+Kyungmin Bae, Pohang University of Science and Technology, Korea
+Christel Baier, TU Dresden, Germany
+Lu??s Soares Barbosa, University of Minho, Portugal,
+Simon Bliudze, Inria Lille, France
+Javier Camara, University of York, UK
+Francisco Duran, University of Malaga, Spain
+Fatemeh Ghassemi, University of Tehran, Iran
+Sung-Shik Jongmans, Open University and CWI, the Netherlands
+Olga Kouchnarenko, University of Franche-Comt??, France
+Alfons Laarman, Leiden University, The Netherlands
+Ivan Lanese, University of Bologna, Italy
+Zhiming Liu, Southwest University, China
+Alberto Lluch-Lafuente, Technical University of Denmark, Denmark
+Markus Lumpe, Swinburne University of Technology, Australia
+Eric Madelaine, Inria Sophia Antipolis, France
+Mieke Massink, CNR ISTI, Italy
+Hern??n Melgratti, University of Buenos Aires, Argentina
+Fabrizio Montesi, University of Southern Denmark
+Peter Csaba ??lveczky, University of Oslo, Norway
+Jun Pang, University of Luxembourg
+Jos?? Proen??a, CISTER, Portugal
+Jorge P??rez, University of Groningen, The Netherlands
+Camilo Rocha, Pontificia Universidad Javeriana Cali, Colombia
+Gwen Sala??n, Universit?? Grenoble Alpes, France
+Ana Sokolova, University of Salzburg, Austria
+Jacopo Soldani, University of Pisa, Italy
+Anton Wijs, Eindhoven University of Technology, The Netherlands
+Shoji Yuen, Nagoya University, Japan

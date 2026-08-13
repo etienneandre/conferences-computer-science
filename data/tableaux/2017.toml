@@ -20,3 +20,7 @@ license = "pay-profit"
 
 [extra]
 notes = "The TABLEAUX 2017 Best Paper Award will be presented to the best submission nominated and chosen by the Program Committee among the accepted papers."
+
+[[cfp]]
+file = "cfp/TABLEAUX-2017-extended.txt"
+stage = "extended"

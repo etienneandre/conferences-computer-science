@@ -1,0 +1,35 @@
+Call for Papers
+--------------------------------------------------------------------------------------------------------------------
+         FASE 2020 - Fundamental Approaches to Software Engineering, Dublin, Ireland
+                           25. April - 1. May 2020
+                   https://www.etaps.org/2020/fase
+                              (part of ETAPS)
+
+Important dates:
+---------------------------
+- Paper submission: 24. October 2019
+
+- Notification: 23. December 2019
+
+- Camera-ready version: 22. February 2020
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+FASE is concerned with the foundations on which software engineering is built. Submissions should make novel contributions to making software engineering a more mature and soundly-based discipline. Contributions should be supported by appropriate arguments and validation. Contributions that combine the development of conceptual and methodological advances with their formal foundations and tool support are particularly encouraged. We welcome contributions on all such fundamental approaches, including:
+
+·Software engineering as an engineering discipline, including its interaction with and impact on society and economics;
+
+·Requirements engineering: capture, consistency, and change management of software requirements;
+
+·Software architectures: description and analysis of architectures, e.g. SOA, microservice architectures or software product lines;
+
+·Specification, design, and implementation of particular classes of systems: (self-)adaptive, collaborative, intelligent, embedded, distributed, mobile, pervasive, cyber-physical or service-oriented applications;
+
+·Software quality: (static or run-time) validation and verification of functional and non-functional software properties (including security and data privacy) using techniques such as theorem proving, model checking, testing, analysis, simulation, refinement methods, metrics or visualization techniques;
+
+·Model-driven development and model transformation: meta-modelling, design and semantics of domain-specific languages, consistency and transformation of models, generative architectures;
+
+·Software processes: support for iterative, agile, and open source development;
+
+·Software evolution: refactoring, reverse and re-engineering, configuration management and architectural change, or aspect-orientation.

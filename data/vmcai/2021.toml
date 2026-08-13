@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Co-located with POPL. VMCAI 2021 allows authors to submit an artifact along a paper."
+
+[[cfp]]
+file = "cfp/VMCAI-2021.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/VMCAI-2021-extended.txt"
+stage = "extended"

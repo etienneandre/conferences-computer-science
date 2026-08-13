@@ -1,0 +1,80 @@
+The 18th International Conference on Reachability Problems (RP'24)
+Sep 25, 2024 - Sep 27, 2024Vienna, Austria
+https://easychair.org/smart-program/RP24/
+
+---------------------------------------------------------
+The 18th International Conference on Reachability Problems (RP'24) is being organised
+as a physical meeting by the Formal Methods in Systems Engineering Research Unit of the Faculty of Informatics at the TU Wien.
+
+When: Sep 25, 2024 - Sep 27, 2024
+Where: TU Wien,  Vienna, Austria
+
+- Abstract submission deadline: June 24, 2024
+- Paper Submission deadline Jun 26, 2024
+- Notification: Jul 30, 2024
+- Final Version: Aug 5, 2024
+
+Keynote Speakers:
+- Ezio Bartocci, TU Wien
+- Joost-Pieter Katoen, RWTH Aachen
+- Antonín Kučera, Masaryk University
+- Ruzica Piskac, Yale University
+
+Tutorial Speaker:
+- K. S. Thejaswini, IST Austria
+
+
+Original research papers (up to 12 pages) and presentation-only contributions (short abstract), with clear relevance to reachability problems, are both encouraged.
+
+Topics of interest include (but are not limited to):
+reachability problems in infinite-state systems
+rewriting systems
+dynamical and hybrid systems
+reachability problems in logic and verification
+reachability analysis in different computational models
+counter timed/ cellular/ communicating automata
+Petri nets
+computational and combinatorial aspects of algebraic structures (semigroups, groups and rings)
+frontiers between decidable and undecidable reachability problems
+predictability in iterative maps and new computational paradigms.
+winning strategies and reachability analysis in computational games
+reachability in computational models and computability theory
+
+Submissions should be prepared using the Springer LNCS guidelines and submitted via the link https://easychair.org/conferences/?conf=rp24
+
+Accepted original papers will be published in the Springer LNCS proceedings of RP'24.
+
+Program Committee (to be completed):
+
+Parosh Aziz Abdulla (Uppsala University)
+Luca Aceto (Reykjavik University)
+Christel Baier (TU Dresden)
+Valerie Berthe (CNRS IRIF)
+Valentina Castiglioni (Eindhoven University of Technology)
+Michele Chiari (TU Wien)
+Laure Daviaud (University of East Anglia)
+Jim de Groot (The Australian National University)
+Christoph Haase (University of Oxford)
+Vesa Halava (University of Turku)
+Ichiro Hasuo (National Institute of Informatics)
+Jarkko Kari (University of Turku)
+George Kenison (Liverpool John Moores University)
+Sandra Kiefer (University of Oxford)
+Laura Kovacs (TU Wien) - chair
+Jérôme Leroux (CNRS)
+Rupak Majumdar (MPI-SWS)
+Kaushik Mallik (Institute of Science and Technology Austria)
+Tobias Meggendorfer (Lancaster University Leipzig)
+Anca Muscholl (LaBRI, Universite Bordeaux)
+Igor Potapov (University of Liverpool)
+Amaury Pouly (IRIF/CNRS - Université Paris Diderot)
+Jurriaan Rot (Radboud University)
+Martina Seidl (Johannes Kepler University Linz)
+Mahsa Shirmohammadi (CNRS)
+Ana Sokolova (University of Salzburg) - chair
+Maximilian Weininger (Institute of Science and Technology Austria)
+Thorsten Wißmann (Friedrich-Alexander-Universität Erlangen-Nürnberg)
+James Worrell (University of Oxford)
+Dmitry Zaitsev (The University of Derby, UK)
+Florian Zuleger (Technische Universität Wien)
+

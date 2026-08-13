@@ -1,0 +1,91 @@
+======================================================================
+                      WST 2022 - Call for Papers
+              18th International Workshop on Termination
+                   https://sws.cs.ru.nl/WST2022
+
+                  August 11-12, 2022, Haifa, Israel
+                Co-located with IJCAR-11 at FLoC 2022
+
+======================================================================
+
+The Workshop on Termination (WST) traditionally brings together, in an
+informal   setting,  researchers   interested   in   all aspects   of
+termination,  whether  this  interest  be  practical  or theoretical,
+primary  or  derived.   The  workshop   also  provides  a  ground for
+cross-fertilization of ideas from the different communities interested
+in termination (e.g., working on computational mechanisms, programming
+languages,  software  engineering,   constraint  solving,  etc.). The
+friendly  atmosphere  enables  fruitful  exchanges  leading  to joint
+research and subsequent publications.
+
+
+IMPORTANT DATES:
+
+  * submission deadline:  May 3, 2022
+  * notification:         June 8, 2022
+  * final version due:    June 22, 2022
+  * workshop:             August 11-12, 2022
+
+INVITED SPEAKERS:
+
+  TBA
+
+
+TOPICS:
+
+The 18th International Workshop  on Termination welcomes contributions
+on  all aspects  of termination.  In particular,  papers investigating
+applications  of  termination  (for example  in  complexity analysis,
+program   analysis  and   transformation,  theorem   proving, program
+correctness, modeling computational systems, etc.) are very welcome.
+
+Topics of interest include (but are not limited to):
+
+  * abstraction methods in termination analysis
+  * certification of termination and complexity proofs
+  * challenging termination problems
+  * comparison and classification of termination methods
+  * complexity analysis in any domain
+  * implementation of termination analysis methods
+  * non-termination analysis and loop detection
+  * normalization and infinitary normalization
+  * operational termination of logic-based systems
+  * ordinal notation and subrecursive hierarchies
+  * SAT, SMT, and constraint solving for (non-)termination analysis
+  * scalability and modularity of termination methods
+  * termination analysis in any domain (lambda calculus, declarative
+    programming, rewriting, transition systems, probabilistic
+    programs, etc.)
+  * well-founded relations and well-quasi-orders
+
+
+SUBMISSION GUIDELINES:
+
+Submissions  are  short  papers/extended abstracts  which  should not
+exceed 5 pages.  There will be no formal reviewing.  In particular, we
+welcome  short  versions of  recently  published  articles and papers
+submitted  elsewhere.  The  program  committee  checks  relevance and
+provides additional feedback for  each submission. The accepted papers
+will be made available electronically before the workshop.
+
+Papers should be submitted electronically via the submission page:
+
+      https://easychair.org/conferences/?conf=wst22
+
+Please, use LaTeX and the LIPIcs style file
+
+https://submission.dagstuhl.de/styles/download-tag/lipics/v2021.1.2/authors/tgz
+
+to prepare your submission.
+
+
+PROGRAM COMMITTEE:
+
+  * Jose Divasón - U. de La Rioja
+  * Florian Frohn - AbsInt GmbH
+  * Jera Hensel - RWTH Aachen
+  * Dieter Hofbauer - ASW Saarland
+  * Sebastiaan Joosten - Dartmouth College
+  * Cynthia Kop (chair) - Radboud U. Nijmegen
+  * Akihisa Yamada - AIST, Japan
+  * Hans Zantema - Eindhoven U. of Technology

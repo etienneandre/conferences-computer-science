@@ -1,0 +1,283 @@
+-------------------------------------------------------------------------------------------------------------------------------
+
+ Due to several requests and to provide authors with additional time to finalize their high-quality contributions,
+we are pleased to announce that the submission deadline for FORMALISE 2026 has been extended.
+
+The new submission deadline is Thursday 6, November 2025.
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Call for Papers: FORMALISE 2026
+
+14th International Conference on Formal Methods in Software Engineering
+
+12 and 13 April, 2026
+
+ co-located with ICSE 2026 (April 12 - April 18, 2026), Rio de Janeiro, Brazil
+
+https://conf.researchr.org/home/Formalise-2026
+
+oc2026@formalise.org
+
+
+Overview
+
+Historically, formal methods academic research and practical software development have had limited mutual interactions — except possibly in specialized domains such as safety-critical software. In recent times, the outlook has considerably improved: on the one hand, formal methods research has delivered more flexible techniques and tools that can support various aspects of the software development process: from user requirements elicitation, to design, implementation, verification and validation, as well as the creation of documentation. On the other hand, software engineering has developed a growing interest in rigorous techniques applied at scale.
+
+
+The FormaliSE conference series promotes work at the intersection of the formal methods and software engineering communities, providing a venue to exchange ideas, experiences, techniques, and results. We believe more collaboration between these two communities can be mutually beneficial by fostering the creation of formal methods that are practically useful and by helping develop higher-quality software.
+
+
+Originally a workshop event, since 2018, FormaliSE has been organized as a conference co-located with ICSE. The 14th edition of FormaliSE will also take place as a co-located conference of ICSE 2026.
+
+
+Areas of interest include, but are not limited to:
+
+    requirements formalization and formal specification;
+
+    approaches, methods, and tools for verification and validation;
+
+    formal approaches to safety and security-related issues;
+
+    analysis of performance and other non-functional properties based on formal approaches;
+
+    scalability of formal method applications
+
+    integration of formal methods within the software development lifecycle (e.g., change management, continuous integration, regression testing, and deployment)
+
+    model-based engineering approaches;
+
+    correctness-by-construction approaches for software and systems engineering;
+
+    application of formal methods to specific domains, e.g., autonomous, cyber-physical, intelligent, and IoT systems;
+
+    formal methods for AI-based systems (FM4AI), and AI applied in formal method approaches (AI4FM);
+
+    formal methods in a certification context
+
+    case studies developed/analyzed with formal approaches
+
+    experience reports on the application of formal methods to real-world problems;
+
+    guidelines to use formal methods in practice;
+
+    usability of formal methods.
+
+
+Important dates:
+
+    Submissions: 23 October 2025 (AoE)  Thu 6 Nov 2025
+
+    Notifications: 5 January 2026
+
+    Camera-ready copies: 26 January 2026
+
+    FormaliSE conference: 12-13 April 2026
+
+
+
+Paper submission guidelines
+
+We accept papers in four categories:
+
+    Full research papers (10 pages of content + 2 pages of references) describing original research work and results. We encourage authors to include validation of their contributions by means of a case study or experiments.  We also welcome research papers focusing on tools and tool development.
+
+    Case study papers (10 pages of content + 2 pages of references) discussing a significant application that suggests general lessons learned and motivates further research, or empirically validates theoretical results (such as a technique's scalability).
+
+    Research ideas papers (4 pages of content + 1 page of references) describing new ideas in preliminary form, in a way that can stimulate interesting discussions at the conference, and suggest future work.
+
+    (New) Extended Abstract (4 pages of content + 1 page of references) presenting ongoing research or new research ideas without a mature evaluation. While the content and evaluation are the same as research ideas papers, extended abstracts are not subject to Article Processing Charges (APCs)
+
+
+All papers submitted to the FormaliSE 2026 conference must be written in English, must be unpublished original work, and must not be under review or submitted elsewhere at the time of submission. Submissions must comply with FormaliSE's lightweight double-anonymous review process (see below).
+
+
+All submissions must be in PDF format and conform, at time of submission, to the official “ACM Primary Article Template”, which can be obtained from the ACM Proceedings Template Page. LaTeX users should use the sigconf option, as well as the review (to produce line numbers for easy reference by the reviewers) and anonymous (omitting author names) options. To that end, the following LaTeX code can be placed at the start of the LaTeX document: \documentclass[sigconf,review,anonymous]{acmart}
+
+
+To submit a paper to FormaliSE 2026 use this HotCRP link: https://formalise26.hotcrp.com/
+
+Open‬‭ Access
+
+Starting‬‭ 2026,‬‭ all‬‭ articles‬‭ published‬‭ by‬‭ ACM‬‭ will‬‭ be‬‭ made‬‭ Open‬‭ Access.‬‭ This‬‭ is‬‭ greatly‬ beneficial‬‭ to‬‭ the‬‭ advancement‬‭ of‬‭ computer‬‭ science‬‭ and‬‭ leads‬‭ to‬‭ increased‬‭ usage‬‭ and‬ citation‬‭ of‬‭ research.‬‭ Most‬‭ authors‬‭ will‬‭ be‬‭ covered‬‭ by‬‭ ACM‬‭ OPEN‬‭ agreements‬‭ by‬‭ that‬ point‬‭ and‬‭ will‬‭ not‬‭ have‬‭ to‬‭ pay‬‭ Article‬‭ Processing‬‭ Charges‬‭ (APC).‬‭ Check‬‭ if‬‭ your‬‭ institution‬ participates‬‭ in‬‭ ACM‬‭ OPEN‬‭.‬‭ Authors‬‭ not‬‭ covered‬‭ by‬‭ ACM‬‭ OPEN‬‭ agreements‬‭ may‬‭ have‬‭ to‬ pay‬‭ APC;‬‭ however,‬‭ ACM‬‭ is‬‭ offering‬‭ several‬‭ automated‬‭ and‬‭ discretionary‬‭ APC‬‭ Waivers‬ and Discounts‬‭ .‬
+
+
+Reviewers and paper authors should follow the‬‭ latest‬‭ policies‬‭ from‬‭ IEEE‬‭ and‬‭ ACM‬‭ (“‬‭ IEEE‬‭ Submission‬‭ and‬ Peer‬‭ Review‬‭ Policy‬‭” and‬‭ “ACM‬‭ Policy‬‭ on‬‭ Authorship‬‭”,‬‭ with‬‭ associated‬‭ FAQ‬‭),‬‭ which‬ includes‬‭ a‬‭ policy‬‭ specific‬‭ to‬‭ the‬‭ use‬‭ of‬‭ generative‬‭ AI‬‭ tools‬‭ and‬‭ technologies,‬‭ such‬‭ as‬ ChatGPT as follows:‬
+
+    For reviewers: According to IEEE review policy, "reviewers are not permitted to use artificial intelligence (AI) tools to help write reviews of IEEE articles. The contents of the article under review are considered confidential information and may not be submitted to any external programs. Additionally, we expect reviewers to be responsible for the comments that they provide during peer review. You were invited to review because of your personal expertise and insight, which cannot be replicated by an AI tool."
+
+    For authors: According to ACM policy on authorship, "generative AI tools and technologies, such as ChatGPT, may not be listed as authors of an ACM published Work. The use of generative AI tools and technologies to create content is permitted but must be fully disclosed in the work. Basic word processing systems that recommend and insert replacement text, perform spelling or grammar checks and corrections, or systems that do language translations are to be considered exceptions to this disclosure requirement and are generally permitted and need not be disclosed in the work."
+
+
+‭ The‬‭ official‬‭ publication‬‭ date‬‭ is‬‭ the‬‭ date‬‭ the‬‭ proceedings‬‭ are‬‭ made‬‭ available‬‭ in‬‭ the‬ ACM‬‭ Digital‬‭ Library.‬‭ This‬‭ date‬‭ may‬‭ be‬‭ up‬‭ to‬‭ two‬‭ weeks‬‭ prior‬‭ to‬‭ the‬‭ first‬‭ day‬‭ of‬‭ ICSE‬ 2026.‬‭ The‬‭ official‬‭ publication‬‭ date‬‭ affects‬‭ the‬‭ deadline‬‭ for‬‭ any‬‭ patent‬‭ filings‬‭ related‬‭ to‬ published work.‬
+
+
+Purchases of additional pages in the proceedings are not allowed.‬
+
+‭
+
+Lightweight Double-Blind Review Process for Papers
+
+As in recent editions, FormaliSE 2026 will use a lightweight double-anonymous process. Authors must omit their names and institutions from the title page, cite their own work in the third person, and omit acknowledgments that may reveal their identity or affiliation. The purpose is to reduce the chances of reviewer bias influenced by the authors’ identities. The double-anonymous process is, however, lightweight, which means that it should not pose a heavy burden for authors, nor should it make a paper's presentation weaker or more difficult to review. Also, advertising the paper as part of your usual research activities (for example, on your personal webpage, in a pre-print archive, by email, in talks or discussions with colleagues) is permitted without penalties.
+
+
+Paper selection
+Each paper will be reviewed by at least three program committee members who will judge its overall quality based on the following criteria:
+
+
+Full research papers
+
+    Novelty: the originality of the contribution compared to the state-of-the-art, and the appropriateness of the discussion of relevant related work.
+
+    Relevance: the significance and potential impact of the research on the FormaliSE community.
+
+    Soundness: the appropriateness of the research methodology and correctness of the solution.
+
+    Presentation: the quality of the presentation.
+
+    Verifiability: The extent to which the paper includes sufficient information to support independent verification and the replication of its contributions.
+
+Case study papers
+
+    Originality: the extent to which the paper advances the current state of the practice
+
+    Relevance: the significance and potential impact of the research on the FormaliSE community.
+
+    Significance: the significance of the contribution compared to the existing related works and similar industrial contexts.
+
+    Generalizability: the extent to which the paper discusses the generalizability of the results (e.g., scalability concerns).
+
+Research Ideas & Extended Abstract
+
+    Novelty: the originality of the contribution compared to the state-of-the-art, and the appropriateness of the discussion of relevant related work.
+
+    Soundness of the research plan: the appropriateness and soundness of the research plan.
+
+    Presentation: the quality of the presentation and the relevance for the audience of FormaliSE.
+
+FormaliSE 2026 will adopt a lightweight review process: if all the reviewers of a given paper agree that a clarification from the authors regarding a specific question could move the paper from "borderline" to "accept", the chairs will relay the reviewers' questions to the authors by email, and then share their reply with the reviewers in HotCRP. The goal of lightweight responses is to reduce the chance of random decisions on borderline papers. Hence, they will only be used for a minority of submissions; most papers will not require such an author response. Nevertheless, we would ask the corresponding authors of all submissions to make sure that they are available to answer questions by email upon request.
+
+
+Artifact Evaluation
+
+Reproducibility of experimental results is crucial to foster an atmosphere of trustworthy, open, and reusable research. To improve and reward reproducibility, FormaliSE 2026 continues its Artifact Evaluation (AE) procedure. An artifact is any additional material (software, data sets, machine-checkable proofs, etc.) that substantiates the claims made in the paper and ideally makes them fully reproducible.
+
+
+Submission of an artifact is optional but encouraged for all papers where it can support the results presented in the paper. Artifact review is single-anonymous (the paper corresponding to an artifact must still follow the double-anonymous submissions requirements) and will be conducted concurrently with the paper reviewing process. Artifacts will be handled by a separate Artifact Evaluation Committee, and the Artifact Evaluation process will be set up such that the anonymization of the corresponding papers will not be compromised. Accepted papers with a successfully evaluated artefact will be awarded the EAPLS Artifact Badges that apply (among "Functional", "Reusable", and "Available"). Awarded badges are to be added to the camera-ready version of the paper.
+
+
+Artifacts will be assessed with respect to their consistency with the results presented in the paper, their completeness, their documentation, and their ease of use. The Artifact Evaluation will include an initial check for technical issues; authors of artifacts may be contacted by email within the first two weeks after artifact submission to help resolve any technical problems that prevent the evaluation of an artifact, if necessary.
+
+
+The results of an artifact evaluation will not be available to the reviewers of the corresponding paper; hence, they will not affect the paper's acceptance decision. However, reviewers will know whether a paper has submitted *any* artifacts; this piece of information may be taken into account to decide whether the paper should be accepted. Thus, if there are justifiable reasons why a paper's artifacts cannot be submitted, they should be pointed out in the paper so that the reviewers can appreciate them and adjust their expectations accordingly.
+
+
+Detailed guidelines for the preparation and submission of artifacts will be described in a dedicated page on FormaliSE 2026's website.
+
+
+Publication
+
+All accepted papers are published as part of the ICSE 2026 Proceedings in the ACM and IEEE Digital Libraries.
+
+
+At least one author of each accepted paper is required to register for the conference and present the paper at the conference — physically or, if the circumstances do not allow so, virtually. Failure to register an author will result in a paper being removed from the proceedings.
+
+
+General Chairs
+
+    Stefania Gnesi, Istituto di Scienza e Tecnologie dell’Informazione, Italy
+
+    Nico Plat, Thanos, The Netherlands
+
+
+Program Chairs
+
+    Genaína Nunes Rodrigues, University of Brasília, Brazil
+
+    Menghi Claudio, University of Bergamo, Italy, and McMaster University, Canada
+
+
+Artifact Evaluation Chairs
+
+    Lina Marsso, Polytechnique Montréal, Canada
+
+    Pedro Ribeiro, University of York, UK
+
+
+Social Media Chair
+
+    Andrea Bombarda, University of Bergamo, Italy
+
+
+Program committee
+
+    Alcino Cunha, Universidade do Minho, Portugal
+
+    Alexandra Mendes, University of Porto, Portuga
+
+    Allison Sullivan, University of Texas at Arlington, USAl
+
+    Camilo Rocha, Pontificia Universidad Javeriana, Colombia
+
+    Carlo Furia, Università della Svizzera italiana, Switzerland
+
+    Carlos Lopez Pombo, Universidad Nacional de Rio Negro, Argentina
+
+    Christos Tsigkanos, University of Athens, Greece
+
+    Diego Perez-Palacin, Linnaeus University, Sweden
+
+    Domenico Bianculli, University of Luxembourg, Luxembourg
+
+    Emil Sekerinski, McMaster University, Canada
+
+    Ernst Moritz Hahn, University of Twente, Netherlands
+
+    Franco Raimondi, GSSI, Italy
+
+    Gustavo Betarte, Universidad de la República ,Uruguay
+
+    Haniel Barbosa, Universidade Federal de Minas Gerais, Brazil
+
+    Kenneth Johnson, Auckland University of Technology, New Zealand
+
+    Leopoldo Teixeira, Universidade Federal de Pernambuco, Brazil
+
+    Livia Lestingi, Politecnico di Milano, Italy
+
+    Logan Murphy, University of Toronto, Canada
+
+    Luigia Petre, Åbo Akademi University, Finland
+
+    Marsha Chechik, University of Toronto, Canada
+
+    Maurice H. ter Beek, Consiglio Nazionale delle Ricerche, Italy
+
+    Nianyu Li, ZGC National Laboratory, China
+
+    Paola Spoletini, Kennesaw State University, USA
+
+    Quentin Nivon, University Grenoble Alpes, France
+
+    Renzo Degiovanni, Luxembourg Institute of Science and Technology, Luxembourg
+
+    Rosemary Monahan, National Univeristy of Ireland, Ireland
+
+    Sanjai Rayadurgam, University of Minnesota, USA
+
+    Shahar Maoz, Tel Aviv University, Israel
+
+    Silvia Bonfanti, University of Bergamo, Italy
+
+    Simon Bliudze, University of Lille Inria Research Centre, France
+
+    Vander Alves, Universidade de Brasília, Brazil
+
+    Zhenya Zhang, Kyushu University, Japan
+
+
+Contact
+
+We can be contacted at oc2026@formalise.org.

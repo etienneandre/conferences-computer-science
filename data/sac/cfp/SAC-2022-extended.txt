@@ -1,0 +1,104 @@
+      37th Annual ACM/SIGAPP Symposium on Applied Computing
+            Software Verification and Testing Track
+                      Brno, Czech Republic
+                         April 25-29, 2022
+===== New deadline : October 24, 2021 ====
+
+
+SAC 2022 website:
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sigapp.org%2Fsac%2Fsac2022%2F&amp;data=04%7C01%7C%7C2cfa8ec9fd61499c372d08d98d59de08%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637696239376166965%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=jgmJFhsvcbUHPjtJeN3gcr98ToKzigNCCZIoJH84Xik%3D&amp;reserved=0
+
+SAC-SVT 2022 website:
+https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Flogimics.mics.centralesupelec.fr%2Fen%2FSAC-SVT-2022&amp;data=04%7C01%7C%7C2cfa8ec9fd61499c372d08d98d59de08%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637696239376166965%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=wcm%2FaQg7BJhGq8jm3l5yifE5TqntczV7lF7zBWDrOHI%3D&amp;reserved=0
+
+
+==== Important dates ====
+
+*Oct 24,* 2021 - Submission of regular papers and SRC research abstracts
+Dec. 10, 2021 - Notification
+Dec. 21, 2021 - Camera-ready version
+Dec. 21, 2021 - Author registration due date
+
+==== ACM Symposium on Applied Computing ====
+
+The ACM Symposium on Applied Computing (SAC) has gathered scientists
+from different areas of computing over the last thirty years. The forum
+represents an opportunity to interact with different communities sharing
+an interest in applied computing.
+
+SAC 2022 is sponsored by the ACM Special Interest Group on Applied
+Computing (SIGAPP), and will take place on April 25-29, 2022 in
+Brno, Czech Republic.
+
+==== Software Verification and Testing Track (SVT) ====
+
+The Software Verification and Testing track aims at contributing to the
+challenge of improving the usability of formal methods in software
+engineering. The track covers areas such as formal methods for
+verification and testing, based on theorem proving, model checking,
+static analysis, and run-time verification. We invite authors to submit
+new results in formal verification and testing, as well as development
+of technologies to improve the usability of formal methods in software
+engineering. Also are welcome detailed descriptions of applications of
+mechanical verification to large scale software.
+
+==== Topics ====
+
+Possible topics include, but are not limited to:
+
+* model checking
+* theorem proving
+* correct by construction development
+* model-based testing
+* software testing
+* symbolic execution
+* static and dynamic analysis
+* abstract interpretation
+* analysis methods for dependable systems
+* software certification and proof carrying code
+* fault diagnosis and debugging
+* verification and validation of large scale software systems
+* real world applications and case studies applying software testing
+   and verification
+* benchmarks and data sets for software testing and verification
+
+==== Submission Guidelines ====
+
+Paper submissions must report on original, unpublished work. Submitted
+papers will undergo a double-blind review process.  Author(s) name(s)
+and address(es) must not appear in the body of the paper, and self-
+reference should be avoided and made in the third person. We welcome
+research papers and posters. Research papers should have at most 8
+two-column pages in ACM format (further two pages, to a total of 10
+pages, may be available at a charge). The length of a poster is limited
+to three pages (one extra page may be available at a charge). Please
+comply to this page limitation already at submission time.
+
+Furthermore, in the context of the Student Research Competition (SRC)
+Program to provide graduate students the opportunity to meet and
+exchange ideas with researchers and practitioners in their areas of
+interest, graduate students are invited to submit research abstracts
+(maximum of 4 pages in ACM camera-ready format) following the
+instructions published at the SAC 2022 website at
+
+https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sigapp.org%2Fsac%2Fsac2022%2Fauthorkit.html&amp;data=04%7C01%7C%7C2cfa8ec9fd61499c372d08d98d59de08%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637696239376176964%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=kAQQ7VrdxrkBGNXMIaWhG4pjDantbg9oqLSpFBXcm4A%3D&amp;reserved=0
+
+Submission of the same abstract to multiple tracks is not allowed.
+
+Accepted papers will be published in the ACM SAC 2022 proceedings in the
+ACM digital library. Paper registration is required, allowing the
+inclusion of the paper/poster in the conference proceedings. An author
+or a proxy attending SAC MUST present the paper. This is a requirement
+for the paper/poster to be included in the ACM digital library. No-show
+of registered papers and posters will result in excluding them from the
+ACM digital library.
+
+Detailed submission instructions are available on the SAC 2022
+website:
+
+https://eur02.safelinks.protection.outlook.com/?url=http%3A%2F%2Flogimics.mics.centralesupelec.fr%2Fen%2FSAC-SVT-2022&amp;data=04%7C01%7C%7C2cfa8ec9fd61499c372d08d98d59de08%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637696239376176964%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=oJvPx5q9tPcmDqifjSDZw8Yb%2BxAjHHJgFrGkdfbhYQs%3D&amp;reserved=0
+
+==== Track Chairs ====
+
+Erika Abraham, RWTH Aachen University, Germany
+Pascale Le Gall, CentraleSupélec, Université Paris-Saclay, France

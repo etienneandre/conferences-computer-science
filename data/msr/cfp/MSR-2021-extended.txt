@@ -1,0 +1,58 @@
+La date limite pour les soumissions est étendue au 19 juillet 2021.
+http://msr2021.cnam.fr/
+
+******************************************************************************
+
+MSR'21
+13e Colloque Francophone sur la Modélisation des Systèmes Réactifs Paris, du 8 au 10 Novembre 2021 http://msr2021.cnam.fr/
+
+******************************************************************************
+
+Dates importantes :
+Echéance pour la soumission des articles : 19 Juillet 2021
+Notification des articles acceptés : 6 Septembre 2021
+Echéance pour les versions finales : 26 Septembre 2021
+Echéance pour la soumission "poster/démonstration" : 4 Octobre 2021 Notification des acceptations "poster/démonstration" : 18 octobre 2021 Versions finales "poster/démonstration" : 25 octobre 2021
+Conférence : 8 - 10 novembre 2021
+
+Objectifs :
+MSR est un colloque biennal en langue française qui se situe dans le cadre général de la modélisation, l’analyse et la commande des systèmes réactifs et temps réel.
+Plus particulièrement il concerne les chercheurs et industriels intéressés par la conception d'applications qui sont basées sur des systèmes de type soit continu, soit discret, soit hybride.
+
+MSR est un lieu de rencontre pour les automaticiens et les informaticiens afin de confronter les techniques et les problèmes abordés par les deux communautés. Ainsi, le colloque MSR a pour rôle d'affirmer l’apport des chercheurs francophones dans ces domaines et de favoriser les échanges entre universitaires et industriels.
+
+MSR'21 se tient à Paris et fait suite à la série des colloques MSR'96 à Brest, MSR'99 à Cachan, MSR'01 à Toulouse, MSR'03 à Metz, MSR'05 à Autrans, MSR'07 à Lyon, MSR'09 à Nantes, MSR'11 à Lille, MSR'13 à Rennes, MSR'15 à Nancy, MSR'17 à Marseille et MSR'19 à Angers.
+MSR sollicite des contributions théoriques et les expériences pratiques dans les thèmes et domaines d’application listés ci-dessous. Cette liste n'est cependant pas exhaustive.
+
+Thèmes :
+------------
+- Modèles (qualitatifs et/ou quantitatifs) pour la spécification de comportement et/ou propriétés : automates, réseaux de Petri, Grafcet, algèbres de processus, équations différentielles, chaînes de Markov, Inférence bayésienne, files d'attente, algèbre max-plus, logique linéaire, logique temporelle, logique temporelle probabilisée et/ou temporisée...
+- Aspects méthodologiques : composition, raffinement, orientation objet, approches multi-modèles, apprentissage séquentiel...
+- Analyse : vérification, évaluation (performances, sûreté de fonctionnement), test...
+- Commande : synthèse de contrôleur, supervision, surveillance.
+
+Domaines d'application :
+
+-----------------------
+
+- Bio-informatique
+- Circuits, systèmes sur puce
+- Energie
+- Industries du commerce
+- Intelligence ambiante
+- Robotique
+- Sécurité des systèmes
+- Systèmes embarqués, enfouis - Systèmes industriels
+- Systèmes Temps-réel
+- Systèmes mobiles
+- Transports
+
+Soumission des articles :
+-------------------------
+La langue officielle est le français, mais les soumissions en anglais sont autorisées. MSR2021 invite à soumettre des articles de recherche ou d'applications via la plateforme Easychair.
+La soumission se fera en deux étapes : un résumé d'au plus 500 mots (date limite 17 Mai 2021) puis la soumission d'un papier complet d'au plus 14 pages (date limite 31 Mai 2021).
+Les soumissions doivent être préparées en respectant le format Easychair.
+Les actes du colloque seront publiés dans l'archive ouverte HAL.
+Une sélection des meilleures contributions sera invitée à une soumission étendue et en anglais dans le journal Discrete Event Dynamic Systems.
+------
+Plus d'infos sur le GDR GPL : http://gdr-gpl.cnrs.fr

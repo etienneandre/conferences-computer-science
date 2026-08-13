@@ -1,0 +1,172 @@
+
+
+============================================================
+                                     The 31st Edition of ISSTA
+                                             Call for Papers
+
+                               Mon 18th - Fri 22nd July 2022
+                                     Daejeon, South Korea
+                       https://conf.researchr.org/home/issta-2022
+============================================================
+
+The ACM SIGSOFT International Symposium on Software Testing and Analysis
+(ISSTA) is the leading research symposium on software testing and analysis,
+bringing together academics, industrial researchers, and practitioners to
+exchange new ideas, problems, and experience on how to analyze and test
+software systems. 2022 will mark the 31st edition of ISSTA.
+
+ISSTA invites three kinds of submissions. The clear majority of submissions
+is expected to be “Technical Papers”, but submissions that best fit the
+description of “Experience Papers” or “Replicability Studies” should be
+submitted as such.
+
+
+Technical Papers
+===================
+Authors are invited to submit research papers describing original
+contributions in testing or analysis of computer software. Papers
+describing original theoretical or empirical research, new techniques,
+methods for emerging systems, in-depth case studies, infrastructures of
+testing and analysis, or tools are welcome.
+
+Experience Papers
+===================
+Authors are invited to submit experience papers describing a significant
+experience in applying software testing and analysis methods or tools and
+should carefully identify and discuss important lessons learned so that
+other researchers and/or practitioners can benefit from the experience. Of
+special interest are experience papers that report on industrial
+applications of software testing and analysis methods or tools.
+
+Reproducibility Studies
+===================
+ISSTA would like to encourage researchers to replicate results from
+previous papers. A replicability study must go beyond simply
+re-implementing an algorithm and/or re-running the artifacts provided by
+the original paper. It should at the very least apply the approach to new,
+significantly broadened inputs. Particularly, replicability studies are
+encouraged to target techniques that previously were evaluated only on
+proprietary subject programs or inputs. A replicability study should
+clearly report on results that the authors were able to replicate as well
+as on aspects of the work that were not replicable. In the latter case,
+authors are encouraged to make an effort to communicate or collaborate with
+the original paper’s authors to determine the cause for any observed
+discrepancies and, if possible, address them (e.g., through minor
+implementation changes). We explicitly encourage authors to not focus on a
+single paper/artifact only, but instead to perform a comparative experiment
+of multiple related approaches.
+
+In particular, replicability studies should follow the ACM guidelines on
+replicability (different team, different experimental setup): The
+measurement can be obtained with stated precision by a different team, a
+different measuring system, in a different location on multiple trials. For
+computational experiments, this means that an independent group can obtain
+the same result using artifacts which they develop completely
+independently. This means that it is also insufficient to focus on
+reproducibility (i.e., different team, same experimental setup) alone.
+Replicability Studies will be evaluated according to the following
+standards:
+
+- Depth and breadth of experiments
+- Clarity of writing
+- Appropriateness of conclusions
+- Amount of useful, actionable insights
+- Availability of artifacts
+
+We expect replicability studies to clearly point out the artifacts the
+study is built on, and to submit those artifacts to artifact evaluation
+(see below). Artifacts evaluated positively will be eligible to obtain the
+prestigious Results Reproduced badge.
+
+
+Submissions Guideline
+===================
+Submissions must be original and should not have been published previously
+or be under consideration for publication while being evaluated for ISSTA.
+Authors are required to adhere to the ACM Policy and Procedures on
+Plagiarism and the ACM Policy on Prior Publication and Simultaneous
+Submissions. More details are available at the Submission Policies page.
+
+Research and Experience Papers as well as Replicability Studies should be
+at most 10 pages in length, with at most 2 additional pages for references.
+Experience papers and replicability studies should clearly specify their
+category in the paper title upon submission, e.g., “XXX (Experience
+Paper)”. All authors should use the official “ACM Master article template”,
+which can be obtained from the ACM Proceedings Template pages [1]. Latex
+users should use the “sigconf” option, as well as the “review” (to produce
+line numbers for easy reference by the reviewers) and “anonymous” (omitting
+author names) options. To that end, the following latex code can be placed
+at the start of the latex document:
+
+\documentclass[sigconf,review, anonymous]{acmart}
+\acmConference[ISSTA 2022]{ACM SIGSOFT International Symposium on Software
+Testing and Analysis}{18-22 July, 2022}{Daejeon, South Korea}
+
+Submit your papers via the HotCRP ISSTA 2022 submission website [2].
+
+Double-blind Reviewing
+===================
+ISSTA 2022 will conduct double-blind reviewing. Submissions should not
+reveal the identity of the authors in any way. Authors should leave out
+author names and affiliations from the body of their submission. They
+should also ensure that any citations to related work by themselves are
+written in third person, that is, “the prior work of XYZ” as opposed to
+“our prior work”.
+
+Double-blind reviewing should not hinder the usual communication of
+results. But, during the review period, please don’t broadcast the work on
+social media. Also, to the extent possible, consider not publishing
+preprints of your work during or right before the review period.
+
+Authors with further questions on double-blind reviewing are encouraged to
+contact the Program Chair by email.
+
+Supplementary Material
+===================
+Authors are free to provide supplementary material if that material
+supports the claims in the paper. Such material may include proofs,
+experimental results, and/or data sets. This material should be uploaded at
+the same time as the submission. Any supplementary material must also be
+anonymized. Reviewers are not required to examine the supplementary
+material but may refer to it if they would like to find further evidence
+supporting the claims in the paper. Please prepare the supplementary
+material in the PDF format.
+
+Auhtor Responses
+===================
+Reviews will be followed by an author response. After the response, some
+papers may receive additional reviews, if necessary, to which authors can
+respond in a second author-response phase.
+
+Visa Policy
+===================
+In cases where the travel Visa is rejected or delayed for a long time
+(e.g., due to additional checks) so that the authors are not able to attend
+the conference despite best efforts, alternative presentation methods will
+be considered. However, the authors should notify the program chair at
+least one week before the conference and provide proof of visa being
+applied in time.
+
+Important Dates
+===============
+- Paper submission: 28 January 2022 (Fri)
+- Author response: 23-25 March 2022 (Wed–Fri)
+- Paper notification: 11 April 2022 (Mon)
+
+More Information
+================
+For additional information, please visit the ISSTA 2022 website [3].
+
+[1] https://www.acm.org/publications/proceedings-template
+[2] https://issta22.hotcrp.com
+[3] https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:seworld@sigsoft.org
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+

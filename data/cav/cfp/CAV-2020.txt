@@ -1,0 +1,117 @@
+*** CALL FOR PAPERS ***
+http://i-cav.org/2020/call-for-papers/
+
+*** WE APOLOGIZE FOR MULTIPLE OCCURENCES OF THIS MESSAGE ***
+
+CAV 2020: 32nd International Conference on Computer-Aided Verification
+July 19-24 2020, Los Angeles, USA
+
+***********************
+*** Important Dates ***
+***********************
+All deadlines are AOE (Anywhere on Earth).
+
+
+** Papers **
+Paper submission: January 23, 2020 (firm)
+Rebuttal period: March 10-12, 2020
+Author notification: April 3, 2020
+Artifact submission for full papers: April 14, 2020
+Artifact notification: May 10, 2020
+Final version due: May 15, 2020
+
+
+** CAV Award **
+Nomination deadline: February 20, 2020
+
+
+** Conference **
+Workshops: July 19-20, 2020
+Tutorials: July 20, 2020
+Main conference: July 21-24, 2020
+
+
+*************
+*** Scope ***
+*************
+
+CAV 2020 is the 32nd in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, autonomous systems, and computer security. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
+
+CAV 2020 will take place in Los Angeles, California, USA.
+
+Topics of interest include but are not limited to:
+
+* Algorithms and tools for verifying models and implementations
+* Algorithms and tools for system synthesis
+* Algorithms and tools that combine verification and learning
+* Mathematical and logical foundations of verification and synthesis
+* Specifications and correctness criteria for programs and systems
+* Deductive verification using proof assistants
+* Hardware verification techniques
+* Program analysis and software verification
+* Software synthesis
+* Hybrid systems and embedded systems verification
+* Formal methods for cyber-physical systems
+* Compositional and abstraction-based techniques for verification
+* Probabilistic and statistical approaches to verification
+* Verification methods for parallel and concurrent systems
+* Testing and run-time analysis based on verification technology
+* Decision procedures and solvers for verification and synthesis
+* Applications and case studies in verification and synthesis
+* Verification in industrial practice
+* New application areas for algorithmic verification and synthesis
+* Formal models and methods for security
+* Formal models and methods for biological systems
+
+Submissions on a wide range of topics are sought, particularly ones that identify new research directions. CAV 2020 is not limited to topics discussed in previous instances of the conference. Authors concerned about the appropriateness of a topic may communicate with the conference chairs prior to submission.
+
+
+*************************
+*** Program Committee ***
+*************************
+See http://cavconference.org/2020/organization/.
+
+
+*****************
+*** CAV Award ***
+*****************
+The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification.
+
+CAV Award Nomination deadline: February 20, 2020
+
+For details about the CAV award nomination, please see the following page: http://i-cav.org/2020/cav-award/.
+
+************************
+*** Paper Submission ***
+************************
+Paper submissions in CAV fall into one of the following three categories (see more information below):
+
+Regular Papers (20 pages max, must be anonymized)
+Tool Papers  (10 pages max, not anonymized, artifact submission required with paper)
+Industrial Experience Reports & Case Studies. (10 pages max, not anonymized)
+Papers in all three categories must be submitted by January 23, 2020 AOE, and should be in LNCS format. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed. The review process will include a feedback/rebuttal period where authors will have the option to respond to reviewer comments. The PC chairs may solicit further reviews after the rebuttal period.
+
+Submission site: https://easychair.org/conferences/?conf=cav2020 (opens January 2020).
+
+** Regular Papers **
+Regular Papers should not exceed 20 pages in LNCS format, not counting references and appendices.
+
+Regular papers at CAV 2020 will follow a full double blind review process, which means that author names and affiliations must be omitted from the submission. Additionally, if a submission refers to prior work done by the authors, the reference should be made in the third person. These are firm submission requirements, and any regular paper that does not conform to these requirements will be rejected without review.
+
+Authors can include a clearly marked appendix at the end of their submissions that is exempt from the page limit restrictions. However, the reviewers are not obliged to read the contents of these appendices. These papers should contain original research and sufficient detail to assess the merits and relevance of the contribution. Papers will be evaluated on basis of a combination of correctness, technical depth, significance, novelty, clarity, and elegance.
+
+Authors of accepted regular papers will be invited (but are not required) to submit the relevant artifact for evaluation by the artifact evaluation committee.
+
+** Tool Papers **
+Tool Papers should not exceed 10 pages, not counting references. Tool papers require the submission of an artifact for evaluation by the paper submission deadline.
+
+Tool papers should describe system and implementation aspects of a tool with a large (potential) user base (experiments not required, rehash of theory strongly discouraged). Papers describing tools that have already been presented (in any conference) will be accepted only if significant and clear enhancements to the tool are reported and implemented.
+
+Artifacts must be submitted separately in the artifact evaluation track (in addition to the manuscript, which needs to be submitted in the main track). In special cases, where an artifact cannot be submitted, the authors should contact the Artifact Evaluation Chairs to find alternate modes of artifact evaluation.
+
+Artifacts will be evaluated concurrently with the review process and the program committee will have access to the artifact evaluation while making their decision.
+
+** Industrial Experience Reports and Case Studies **
+Industrial Experience Reports and Case Studies should not exceed 10 pages, not counting references.
+
+These papers are expected to describe the use of formal methods techniques in industrial settings or in new application domains. Papers in this category do not necessarily need to present original research results but are expected to contain novel applications of formal methods techniques as well as an evaluation of these techniques in the chosen application domain. Such papers are encouraged to discuss the unique challenges of transferring research ideas to a real-world setting and reflect on any lessons learned from this technology transfer experience.

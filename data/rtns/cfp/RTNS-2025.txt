@@ -1,0 +1,98 @@
+The International Conference on Real-Time Networks and Systems (RTNS), renowned for its friendly and inclusive atmosphere, fosters a strong sense of community and provides unparalleled opportunities for discussion, collaboration and networking between researchers and professionals. Building on the success of the multi-round submission system introduced last year, the 33rd RTNS conference continues this innovative approach and again offers a third round of submissions to accommodate more high-quality research.
+
+
+
+This year's conference will be hosted in the vibrant city of Pisa, Italy, renowned for its rich history, cultural heritage, and stunning architecture. This provides an inspiring backdrop for the conference, which aims to bring together experts, practitioners, and students in the field of real-time and network systems.
+
+
+
+RTNS invites submissions covering a wide range of topics in real-time systems, networked systems and related areas. We encourage both theoretical and experimental works that push the boundaries of current knowledge. Accepted papers will be presented to an international audience, providing a platform for authors to share their insights and garner feedback from their peers.
+
+
+
+We welcome contributions from both established researchers and newcomers to the field in order to create a diverse and dynamic environment. Please note the important deadlines for each submission round and the specific guidelines listed below.
+
+
+
+Submit your best work and join us in Pisa for an engaging and enlightening experience at RTNS 2025!
+
+RTNS now offers 3 deadlines: January, May, and August (more details below).
+
+RTNS 1st Round
+
+Submission Deadline:
+
+
+January 30, 2025
+
+Notification:
+
+
+March 27, 2025
+
+Camera ready:
+
+
+April 27, 2025
+
+RTNS 2nd Round (Tentative)
+
+Submission Deadline:
+
+
+May 29, 2025
+
+Notification:
+
+
+July 24, 2025
+
+Camera ready:
+
+
+September 4, 2025
+
+RTNS 3rd Round (Tentative)
+
+Submission Deadline:
+
+
+August 14, 2025
+
+Notification:
+
+
+October 9, 2025
+
+Camera ready:
+
+
+October 30, 2025
+
+
+
+Conference Date:
+
+
+5-7 November, 2025
+
+Website:
+
+
+https://rtns2025.retis.santannapisa.it
+
+
+Original unpublished papers on all aspects of real-time systems and networks are welcome. RTNS prefers original results, raising questions and discussions, and advancing the state-of-the-art or practice.
+
+
+
+RTNS covers a wide-spectrum of topics in real-time and embedded systems, including, but not limited to:
+
+    Real-time applications design and evaluation: automotive, avionics, space, railways, telecommunications, process control, multimedia.
+    Real-time aspects of emerging smart systems: cyber-physical systems and emerging applications, real-time big data, real-time edge/fog and cloud computing, smart grid.
+    Real-time system design and analysis: real-time tasks modeling, task/message scheduling, evaluation, mixed-criticality systems, Worst-Case Execution Time (WCET) analysis, quality of service, security, thermal and power-aware system design.
+    Software technologies for real-time systems: model-driven engineering, programming languages, compilers, WCET-aware compilation and parallelization strategies, middleware, Real-Time Operating Systems, virtualization, hypervisors.
+    Formal specification and verification: application of formal models, such as model checking, satisfiability modulo theories or constraint programming, to solve real-time problems.
+    Real-time distributed systems: fault tolerance, time synchronization, task/messages allocation, adaptability and reconfiguration, publisher/subscriber protocols, distributed real-time database.
+    Real-time networks: Networks on Chip (NoC), wired and wireless sensor and actuator networks, Time-Sensitive Networks (TSN), industrial IoT, SDN, 5G, end-to-end latency analysis.
+    Hardware support for real-time systems: hardware/software co-design, power/temperature-aware techniques, design of predictable hardware, multi-core and many-core platforms, hardware accelerators, cache related issues, interconnect and memory.

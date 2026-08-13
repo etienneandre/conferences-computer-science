@@ -25,3 +25,11 @@ award = "FACS 2024 will recognize the most outstanding submissions with a best p
 
 [extra]
 journal = "The authors of a selected subset of accepted papers will be invited to submit an extended version of their papers to a special issue of the Science of Computer Programming journal."
+
+[[cfp]]
+file = "cfp/FACS-2024.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FACS-2024-extended.txt"
+stage = "extended"

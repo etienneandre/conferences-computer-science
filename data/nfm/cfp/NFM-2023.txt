@@ -1,0 +1,124 @@
+*****************************************************
+      The Fifteenth NASA Formal Methods Symposium
+
+https://conf.researchr.org/home/nfm-2023
+
+                    16 - 18 May 2023
+University of Houston Clear Lake, Houston, Texas, USA
+*****************************************************
+
+
+Theme of the Symposium:
+-----------------------
+The widespread use and increasing complexity of mission-critical and
+safety-critical systems at NASA and in the aerospace industry require
+advanced techniques that address these systems' specification, design,
+verification, validation, and certification requirements. The NASA
+Formal Methods Symposium (NFM) is an annual forum to foster
+collaboration between theoreticians and practitioners from NASA,
+academia, and industry. NFM's goals are to identify challenges and to
+provide solutions for achieving assurance for such critical systems.
+
+New developments and emerging applications like autonomous software for
+uncrewed deep space human habitats, caretaker robotics, Unmanned Aerial
+Systems (UAS), UAS Traffic Management (UTM), and the need for
+system-wide fault detection, diagnosis, and prognostics provide new
+challenges for system specification, development, and verification
+approaches. The focus of these symposiums are on formal techniques and
+other approaches for software assurance, including their theory, current
+capabilities and limitations, as well as their potential application to
+aerospace, robotics, and other NASA-relevant safety-critical systems
+during all stages of the software life-cycle.
+
+Topics of Interest:
+-------------------
+We encourage submissions on cross-cutting approaches that bring together
+formal methods and techniques from other domains such as probabilistic
+reasoning, machine learning, control theory, robotics, and quantum
+computing among others.
+     * Formal verification, including theorem proving, model checking,
+and static analysis
+     * Advances in automated theorem proving including SAT and SMT solving
+     * Use of formal methods in software and system testing
+     * Run-time verification
+     * Techniques and algorithms for scaling formal methods, such as
+abstraction and symbolic methods, compositional techniques, as well as
+parallel and/or distributed techniques
+     * Code generation from formally verified models
+     * Safety cases and system safety
+     * Formal approaches to fault tolerance
+     * Theoretical advances and empirical evaluations of formal methods
+techniques for safety-critical systems, including hybrid and embedded
+systems
+     * Formal methods in systems engineering and model-based development
+     * Correct-by-design controller synthesis
+     * Formal assurance methods to handle adaptive systems
+
+
+Important Dates:
+----------------
+Abstract Submission:  9 Dec 2022
+Paper Submission:    16 Dec 2022
+Paper Notifications: 20 Feb 2023
+Camera-ready Papers: 12 Mar 2023
+Symposium:        16-18 May 2023
+
+
+Location & Cost:
+----------------
+The symposium will take place in the STEM Building at University of
+Houston Clear Lake, Houston, Texas, USA, 16-18 May 2023.
+
+There will be no registration fee for participants. All interested
+individuals, including non-US citizens, are welcome to attend, to listen
+to the talks, and to participate in discussions; however, all attendees
+must register.
+
+
+Submission Details:
+-------------------
+There are two categories of submissions:
+
+    1. Regular papers describing fully developed work and complete
+results (15 pages + references)
+    2. Two categories of short papers: (6 pages + references)
+    (a) Tool Papers describing novel, publicly-available tools
+    (b) Case Studies detailing complete applications of formal methods
+to real systems with publicly-available artifacts
+
+All papers should be in English and describe original work that has not
+been published or submitted elsewhere. All submissions will be fully
+reviewed by members of the Programme Committee. Papers will appear in
+the Formal Methods subline of Springer's Lecture Notes in Computer
+Science (LNCS) and must use LNCS style formatting
+(https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Papers must be submitted in PDF format at the EasyChair submission site:
+
+https://easychair.org/conferences/?conf=nfm2023
+
+
+Organizers:
+-----------
+Swarat Chaudhuri (UT Austin)
+Jim Dabney (University of Houston Clear Lake/NASA JSC)
+Kristin Yvonne Rozier (Iowa State University/NASA JSC)
+
+--
+  ____________________________________________________________
+                                     __
+            /\                       \ \_____
+           /  \                   ###[==_____>
+          /    \                     /_/      __
+         /  __  \                             \ \_____
+         | (  ) |                          ###[==_____>
+        /| /\/\ |\                            /_/
+       / | |  | | \
+      /  |=|==|=|  \       Kristin Yvonne Rozier, Ph.D.
+    /    | |  | |    \   Black&Veatch Associate Prof, Iowa State Univ
+   / USA | ~||~ |NASA \
+  |______|  ~~  |______|   Fall, 2022: at Carnegie Mellon
+         (__||__)          Office: GHC 7211
+         /_\  /_\
+         !!!  !!!          laboratory.temporallogic.org
+
+

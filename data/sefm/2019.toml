@@ -21,3 +21,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Appendix: 2 pages allowed (not integrated in the proceedings)."
+
+[[cfp]]
+file = "cfp/SEFM-2019.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SEFM-2019-extended.txt"
+stage = "extended"

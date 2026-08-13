@@ -20,3 +20,11 @@ license = "pay-profit"
 
 [extra]
 notes = "Co-located with iFM. Selected participants will be invited to submit an extended version of their papers in a special issue of the journal of STTT after the workshop."
+
+[[cfp]]
+file = "cfp/FMICS-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/FMICS-2018-extended.txt"
+stage = "extended"

@@ -1,0 +1,169 @@
+====================================================================
+
+                            CALL FOR PAPERS                         
+
+
+       31st EUROMICRO Conference on Real-Time Systems (ECRTS 19)
+
+
+       July 9-12, 2019 | Stuttgart, Germany | ecrts.org    
+ 
+
+       Submission deadline: February 7, 2019 (23:59 UTC-12)
+
+====================================================================
+
+ECRTS is the premier European venue for presenting research into the
+broad area of real-time and embedded systems. Along with RTSS and RTAS,
+ECRTS ranks as one of the top three international conferences on
+real-time systems. ECRTS has been at the forefront of recent innovations
+in the real-time community such as artifact evaluation and open access
+proceedings.
+
+ECRTS 2019 will be held at the premises of Bosch in the Stuttgart area
+at the locations of Renningen and Feuerbach.
+
+To receive more information about ECRTS, please subscribe to the
+ecrts-info mailing list at https://www.ecrts.org/mailman/listinfo/ecrts-info
+
+=====================================================================
+
+SCOPE AND TOPICS OF INTEREST
+
+Papers on all aspects of real-time systems are welcome. This covers not
+only hard real-time systems but also time-sensitive systems in general.
+Typical applications are found in automotive, avionics, smart grids,
+telecommunications, healthcare, robotics, space...
+
+We welcome theoretical and practical contributions (including tools,
+benchmarks and case studies) to the state of the art in the design,
+implementation, verification and validation of real-time embedded
+systems. This includes, but is not limited to:
+
+- scheduling design and analysis
+- real-time operating systems, hypervizors and middleware
+- memory management and bus contention
+- worst-case execution time analysis
+- networks and communication protocols
+- formal models and analysis techniques for real-time systems
+- security, control and power/energy/thermal-aware management of
+real-time systems
+- mixed-criticality design and assurance
+- hardware/software co-design
+- programming languages and compilers
+- virtualization and timing isolation
+
+The models, assumptions and application scenarios used in the paper must
+be properly motivated. Whenever relevant, we strongly encourage authors
+to present experimental results (preferably based on real data, but
+synthetic test cases are permitted) and/or to demonstrate applicability
+of their approach to real systems (examples can be found at
+ecrts.org/industrialchallenge). We encourage open-source initiatives and
+computer-assisted proofs in order to increase confidence in practical
+and theoretical results and to improve their reusability.
+
+=====================================================================
+
+CONFERENCE HIGHLIGHTS
+
+ECRTS 2019 will feature
+- a guided tour of the Bosch research campus
+- a special focus on industrial challenges on the first day of the
+conference
+- an interactive session including work-in-progress and
+journal-to-conference talks
+- a keynote by Thomas Kropf, president of corporate research and advance
+engineering at Bosch
+- dynamic and interactive workshops
+- a special welcome for first-time attendees
+
+Open access: We believe that a conference serves the research community
+and the public best when results are accessible to the largest audience
+without restrictions. All accepted papers will be published again this
+year under open access in collaboration with LIPIcs (Leibniz
+International Proceedings in Informatics), with no additional costs.
+
+Artifact evaluation: To improve reproducibility of results, authors of
+accepted papers with a computational component will be invited to submit
+their code and/or their data to an optional artifact evaluation process.
+
+====================================================================
+
+LOCAL INFORMATION
+
+Stuttgart is the capital and largest city of the German state of
+Baden-Württemberg. Its urban area has a population of around 600,000,
+making it the sixth largest city in Germany, with another 5.3 million
+people living in its metropolitan area. Stuttgart is also a transport
+junction, and possesses the sixth-largest airport in Germany. Stuttgart
+is spread across a variety of hills (some of them covered in vineyards),
+valleys (especially around the Neckar river) and parks. This often
+surprises visitors who associate the city with its reputation as the
+"cradle of the automobile" and the
+headquarters of Daimler, Porsche and Bosch. Stuttgart has a rich
+cultural life featuring a large variety of sights and museums from art
+to automobiles. For more information, please visit:
+https://www.stuttgart-tourist.de/en.
+
+====================================================================
+
+IMPORTANT DATES
+
+  Submission deadline: February 7, 2019 (23:59 UTC-12) - firm
+  Notification: March 26, 2019
+  Workshops: July 9, 2019
+  Conference: July 10-12, 2019
+
+=====================================================================
+
+ORGANIZERS
+
+General Chairs
+  Arne Hamann and Dirk Ziegenbein, Robert Bosch GmbH, Germany
+
+Program Chair
+  Sophie Quinton, INRIA Grenoble Rhône-Alpes, France
+
+Real-Time Technical Committee Chair:
+  Gerhard Fohler, TU Kaiserslautern, Germany
+ 
+Organization Committee
+  Steve Goddard, University of Nebraska-Lincoln, USA
+  Martina Maggio, Lund University, Sweden
+
+Program Committee
+  Benny Akesson, ESI (TNO), The Netherlands
+  Sebastian Altmeyer, University of Amsterdam, The Netherlands
+  Jim Anderson, The University of North Carolina at Chapel Hill, USA
+  Andrea Bastoni, SYSGO AG, Germany
+  Marko Bertogna, University of Modena, Italy
+  Alessandro Biondi, Scuola Superiore Sant’Anna, Pisa, Italy
+  Timothy Bourke, Inria Paris, France
+  Marius Bozga, Verimag, France
+  Björn B. Brandenburg, Max Planck Institute for Software Systems
+(MPI-SWS), Germany
+  Francisco Cazorla, Barcelona Supercomputing Center, Spain
+  Robert I. Davis, University of York, UK
+  Johan Eker, Ericsson Research, Sweden
+  Rolf Ernst, TU Braunschweig, Germany
+  Sébastien Faucou, Université de Nantes, France
+  Nathan Fisher, Wayne State University, USA
+  Gerhard Fohler, TU Kaiserslautern, Germany
+  Julien Forget, University of Lille, France
+  Steve Goddard, University of Nebraska-Lincoln, USA
+  Joël Goossens, Université libre de Bruxelles, Brussels, Belgium
+  Arne Hamann, Robert Bosch GmbH, Germany
+  Angeliki Kritikakou, Univ Rennes, Inria, CNRS, IRISA, France
+  George Lima, Federal University of Bahia, Brazil
+  Martina Maggio, Lund University, Sweden
+  Julio Medina, Universidad de Cantabria, Spain
+  Patrick Meumeu Yomsi, CISTER, ISEP, Portugal
+  Geoffrey Nelissen, CISTER, ISEP, Portugal
+  Claire Pagetti, ONERA / IRIT-ENSEEIHT, France
+  Michael Paulitsch, Intel, Germany
+  Rodolfo Pellizzoni, University of Waterloo, Canada
+  Isabelle Puaut, Université de Rennes 1/IRISA, France
+  Christine Rochange, Université de Toulouse, France
+  Jean-Luc Scharbarg, Université de Toulouse – IRIT – INPT/ENSEEIHT, France
+  Marcus Völp, SnT – University of Luxembourg, Luxembourg
+  Haibo Zeng, Virginia Tech, USA

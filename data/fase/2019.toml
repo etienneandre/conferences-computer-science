@@ -20,3 +20,7 @@ license = "cc-by"
 
 [extra]
 notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc."
+
+[[cfp]]
+file = "cfp/FASE-2019.txt"
+stage = "initial"

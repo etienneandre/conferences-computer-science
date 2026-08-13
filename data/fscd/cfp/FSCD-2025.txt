@@ -1,0 +1,188 @@
+======================================================================================================================
+Updated information on: EXTENDED DEADLINES, in-cooperation status with ACM SIGLOG, anti-harassment policy, sponsorship
+======================================================================================================================
+
+                           THIRD CALL FOR PAPERS
+                     Tenth International Conference on
+        Formal Structures for Computation and Deduction (FSCD 2025)
+                      14-20 July 2025, Birmingham, UK
+                     https://fscd2025.github.io/                       In-cooperation with ACM SIGLOG
+
+
+IMPORTANT DATES
+---------------
+All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered.
+
+        Abstract:          17 February 2025 (extended)
+        Submission:       22 February 2025 (extended)
+        Rebuttal:          7-11 April  2025
+        Notification:     30 April 2025
+        Final version:     14 May 2025
+
+
+OVERVIEW
+--------
+FSCD (https://fscd2025.github.io/) covers all aspects of formal structures for computation and deduction, from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas.
+
+The suggested, but not exclusive, list of topics for submission is:
+
+1. Calculi:
+ - Rewriting systems (string, term, higher-order, nominal, graph, conditional, modulo, infinitary, etc.);
+ - Lambda calculus;
+ - Logics (first-order, higher-order, equational, modal, linear, classical, constructive, etc.);
+ - Proof theory (natural deduction, sequent calculus, proof nets, etc.);
+ - Type theory and logical frameworks;
+ - Homotopy type theory;
+ - Process algebras (synchronous, asynchronous, static and dynamic semantics with and without time, etc.)
+ - Quantum calculi.
+
+2. Methods in Computation and Deduction:
+ - Type systems (polymorphism, dependent, recursive, intersection, session, etc.);
+ - Induction, coinduction;
+ - Matching, unification, completion, orderings;
+ - Strategies (normalisation, completeness, etc.);
+ - Tree automata;
+ - Model building and model checking;
+ - Proof search and theorem proving;
+ - Constraint solving and decision procedures.
+
+3. Semantics:
+ - Operational semantics and abstract machines;
+ - Game Semantics and applications;
+ - Domain theory and categorical models;
+ - Quantitative models (timing, probabilities, etc.);
+ - Quantum computation and emerging models of computation.
+
+4. Algorithmic Analysis and Transformations of Formal Systems:
+ - Type inference and type checking;
+ - Abstract Interpretation;
+ - Complexity analysis and implicit computational complexity;
+ - Checking termination, confluence, derivational complexity and related properties;
+ - Symbolic computation.
+
+5. Tools and Applications:
+ - Programming and proof environments;
+ - Verification tools;
+ - Proof assistants and interactive theorem provers;
+ - Applications in industry;
+ - Applications of formal systems in other sciences;
+ - Applications of formal systems in education.
+
+6. Formal Systems for Modelling and Verification in new challenging areas:
+ - Certification;
+ - Security;
+ - Blockchain;
+ - Databases;
+ - Deep learning and machine learning algorithms;
+ - Planning.
+
+PUBLICATION
+-----------
+The proceedings will be published as an electronic volume in the Leibniz International Proceedings in Informatics (LIPIcs) of Schloss Dagstuhl. All LIPIcs proceedings are open access.
+
+SPECIAL ISSUE
+-------------
+There will be a special issue of Logical Methods in Computer Science of selected papers. More details will be provided later.
+
+
+SUBMISSION GUIDELINES
+---------------------
+The submission site is:
+
+    https://urldefense.com/v3/__https://easychair.org/conferences/?conf=fscd2025__;!!IBzWLUs!RzAdsbrVse-0Uaxf9Ff8PL8wpv92hS5L7uxquCVMZCy1dfkz1qVwUlcyrxKjFAah4pf5o62BxxEB2Mxm7GSEXr7eU5FNK2w$
+Submissions must be formatted using the LIPIcs style files (https://urldefense.com/v3/__https://submission.dagstuhl.de/series/details/5*author__;Iw!!IBzWLUs!RzAdsbrVse-0Uaxf9Ff8PL8wpv92hS5L7uxquCVMZCy1dfkz1qVwUlcyrxKjFAah4pf5o62BxxEB2Mxm7GSEXr7eDsuFTtI$ ) and submitted via EasyChair.
+
+Submissions can be made in two categories: regular research papers and system descriptions. Please indicate in the submission page in Easychair and in the first page of the paper in which category you are submitting.
+Regular research papers are limited to 15 pages, excluding references and appendices. They must present original research which is unpublished and not submitted elsewhere.
+System descriptions are limited to 15 pages, excluding references. Shorter papers are welcome and will be given equal consideration. A system description must present new software tools, or significantly new versions of such tools, in which FSCD topics play an important role. An archive of the code with instructions on how to install and run the tool must be submitted. In addition, a webpage where the system can be experimented with should be provided.
+
+One author of each accepted paper is expected to register and present the work in person at the conference. In case that this is not possible for some unforeseen reason, online presentation will be arranged, but in person registration will still be required.
+
+
+BEST PAPER AWARD BY JUNIOR RESEARCHERS
+--------------------------------------
+The programme committee will select a paper in which at least one author is a junior researcher, i.e. either a student or whose PhD award date is less than three years from the first day of the meeting. When submitting the paper, other authors should declare to the PC Chair that at least 50% of contribution is made by the junior researcher(s).
+
+INVITED SPEAKERS
+----------------
+Liron Cohen, Ben-Gurion University
+Mariangiola Dezani, University of Torino
+Ekaterina Komendantskaya, University of Southampton
+Jose Meseguer, University of Illinois Urbana-Champaign
+
+PROGRAMME COMMITTEE CHAIR
+-------------------------
+Maribel Fernandez, King's College London, UK
+Email: fscd2025@easychair.org
+
+PROGRAMME COMMITTEE
+-------------------
+Thorsten Altenkirch    University of Nottingham, UK
+Sandra Alves        University of Porto, Portugal
+Zena M. Ariola        University of Oregon, US
+Mauricio Ayala-Rincon    University of Brasilia, Brazil
+Kyungmin Bae        Pohang University of Science and Technology, Korea
+Frederic Blanqui     INRIA, France
+James Cheney         University of Edinburgh, UK
+Ugo De'Liguoro         University of Torino, Italy
+Santiago Escobar    Universitat Politecnica de Valencia, Spain
+Silvia Ghilezan            University of Novi Sad, Serbia
+Jean Goubault-Larrecq    ENS Paris-Saclay, France
+Masahito Hasegawa    Kyoto University, Japan
+Paul Blain Levy        University of Birmingham, UK
+Christopher Lynch     Clarkson University, US
+Assia Mahboubi        INRIA, France, and VU Amsterdam, Netherlands
+Damiano Mazza         CNRS, University Sorbonne Paris Nord, France
+Daniele Nantes-Sobrinho Imperial College, UK, and University of Brasilia, Brazil
+Naoki Nishida         Nagoya University, Japan
+Valeria de Paiva    Topos Institute, Berkeley, US
+Frank Pfenning         Carnegie Mellon University, US
+Brigitte Pientka     McGill University, Canada
+Alessandra di Pierro     University of Verona, Italy
+Femke van Raamsdonk     VU Amsterdam, Netherlands
+Simona Ronchi Della Rocca University of Torino, Italy
+Grigore Rosu        University of Illinois Urbana-Champaign, US
+Manfred Schmidt-Schauss Goethe University, Germany
+Carolyn Talcott     SRI, US
+Alvaro Tasistro     Universidad ORT Uruguay
+Jamie Vicary        University of Cambridge, UK
+Glynn Winskel         Queen Mary University of London, UK
+
+CONFERENCE CHAIRS
+-----------------
+Paul Blain Levy, University of Birmingham, UK
+Anupam Das, University of Birmingham, UK
+
+LOCAL WORKSHOPS CHAIRS
+----------------------
+Paul Blain Levy, University of Birmingham, UK
+Anupam Das, University of Birmingham, UK
+
+FSCD STEERING COMMITTEE
+-----------------------
+Patrick Baillot (Chair), CNRS, University of Lille
+Ugo Dal Lago, University of Bologna
+Amy Felty, University of Ottawa
+Carsten Fuhs, Birkbeck, University of London (Publicity Chair)
+Marco Gaboardi, Boston University
+Herman Geuvers, Radboud University Nijmegen
+Juergen Giesl, RWTH Aachen University
+Cynthia Kop, Radboud University Nijmegen (SC Workshop Chair)
+Giulio Manzonetto, University Paris Cite
+Daniele Nantes, Imperial College London / University of Brasilia
+Femke van Raamsdonk, VU Amsterdam
+Jakob Rehof, TU Dortmund University
+
+
+SPONSORSHIP
+-----------
+FSCD 2025 is proud to receive support from:
+
+University of Birmingham
+UK Research and Innovation
+The Research Institute on Verified Trustworthy Software Systems
+
+
+ANTI-HARASSMENT POLICY
+----------------------
+The open exchange of ideas and the freedom of thought and expression are central to the values and goals of SIGLOG. They require an environment that recognizes the inherent worth of every person and group. They flourish in communities that foster mutual understanding and embrace diversity. For these reasons, SIGLOG is committed to providing a harassment-free conference experience. As an event held in cooperation with SIGLOG, FSCD implements the ACM policy against harassment: https://urldefense.com/v3/__https://www.acm.org/about-acm/policy-against-harassment__;!!IBzWLUs!RzAdsbrVse-0Uaxf9Ff8PL8wpv92hS5L7uxquCVMZCy1dfkz1qVwUlcyrxKjFAah4pf5o62BxxEB2Mxm7GSEXr7eZkm1_To$

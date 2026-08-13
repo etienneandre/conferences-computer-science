@@ -1,0 +1,85 @@
+Call for Submissions
+-----------------------------------------------------
+The Fifth International Workshop on
+Symbolic-Numeric methods for Reasoning about CPS and IoT
+co-located with CPS-IoT Week, 15 April 2019, Montreal, Canada
+http://snr19.ncl.ac.uk
+
+Important Dates:
+
+Submission deadline:          January 26, 2019
+Notification of acceptance:   February 08, 2019
+Camera ready version:         February 15, 2019
+CPS-IoT Week 2019:            April 15-18, 2019
+Workshop SNR 2019:            April 15, 2019 
+Webpage of the workshop:      http://snr19.ncl.ac.uk
+
+
+SCOPE:
+------------------------------------------------------
+The workshop on Symbolic-Numeric methods for Reasoning about CPS and IoT (SNR) focuses on the combination of symbolic and numeric methods for reasoning about Cyber-Physical Systems and the Internet of Things to facilitate model identification, specification, verification, and control synthesis problems for these systems. The synergy between symbolic and numerical approaches is fruitful for two main reasons:
+
+-- Symbolic methods that operate on exact and discrete representations of systems, the set of reachable states, the distribution of model parameters or the possible gains for controller parameters.
+-- Numeric methods that operate on various forms of numerical approximations and continuous transformations of the systems, as developed in the area of continuous dynamical systems and control theory.
+
+Topics of interest:
+The SNR workshop aims to catalyse work on the interface of symbolic and numeric methods for verification, synthesis and identification problems for CPS and IoT. The scope of the workshop includes, but is not restricted to, the following topics:
+
+-- Verification, parameter identification and control synthesis for hybrid systems.
+-- Probabilistic inference and reachability for stochastic hybrid systems.
+-- Symbolic and Numerical integration techniques.
+-- Symbolic-Numeric decision procedures.
+-- Emerging applications to safe autonomous systems.
+
+We encourage submissions of papers in the following two specific areas:
+
+-- Symbolic and Numeric Methods for Artificial Intelligence.
+Learning algorithms are at the core of many engineering applications including robotics and autonomous vehicles. We invite research papers on verification of models used in machine learning and autonomous CPS. In particular, recent advances in autonomous cars require addressing challenging questions around their safety and reliability.
+
+-- Verification and Synthesis of Stochastic Models.
+Autonomous systems operate in uncertain environments. Thus, it is essential to reason about the effect of uncertainty. We invite research papers on symbolic and numerical techniques for formal synthesis of stochastic systems.
+
+
+Submission Guidelines:
+------------------------------------------------------
+We solicit two types of contributions: (a) original and unpublished contributions not under review for publication elsewhere; (b) extended abstracts that can include short descriptions of previously published papers at other venues that are being presented for the first time before a CPS audience, tool descriptions, and ideas in progress. All papers must be prepared in LaTeX using the ACM Style.
+
+-- Original and unpublished contributions should not exceed 8 pages.
+-- Short research papers should not exceed 3 pages.
+-- Tool papers should not exceed 3 pages.
+-- Work-in-progress papers should not exceed 3 pages.
+
+Papers should be submitted via Easychair at:
+https://easychair.org/conferences/?conf=snr19
+
+All contributions will be evaluated by at least three reviewers, chosen by the Program Committee. The PC will select the best papers based on their quality, relevance to the workshop, and potential to instigate discussion. All accepted papers will be included in the workshop proceedings, which will be published online on ACM digital library and IEEE Xplore.
+
+Program Committee (tentative)
+------------------------------------------------------
+-- Erika Abraham (RWTH Aachen, Germany)
+-- Matthias Althoff (TU Munich, Germany)
+-- Ezio Bartocci (TU Vienna, Austria)
+-- Stanley Bak (Air Force Research Laboratory Rome, USA)
+-- Sergiy Bogomolov (Australian National University)
+-- Parasara Sridhar Duggirala (University of Connecticut, USA)
+-- Martin Franzle (University of Oldenburg, Germany)
+-- Goran Frehse (Verimag, France)
+-- Sicun Gao (University of California, San Diego)
+-- Sofie Haesaert (TU Eindhoven, Netherlands)
+-- Ichiro Hasuo (National Institute of Informatics, Japan)
+-- Taylor T. Johnson (Vanderbilt University, USA)
+-- Sayan Mitra (UIUC, USA)
+-- Stefan Mitsch (CMU, USA)
+-- Jens Oehlerking (Robert Bosch GmbH, Germany)
+-- Corina Pasareanu (NASA Ames, USA)
+-- Stefan Ratschan (Academy of Sciences, Czech Republic)
+-- Rajarshi Ray (NIT Meghalaya, India)
+-- Ashish Tiwari (SRI International, USA)
+-- Jana Tumova (KTH, Sweden)
+-- Paolo Zuliani (Newcastle, UK)
+
+
+Organizing Committee
+------------------------------------------------------
+Sriram Sankaranarayanan (University of Colorado Boulder, USA)
+Sadegh Soudjani (Newcastle University, UK)

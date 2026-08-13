@@ -17,3 +17,11 @@ notification = [2024-04-21]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/SAFECOMP-2024.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SAFECOMP-2024-extended.txt"
+stage = "extended"

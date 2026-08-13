@@ -19,3 +19,7 @@ license = "pay"
 
 [extra]
 notes = "The journal IEEE Control Systems Letters (L-CSS) now allows one to submit and publish a paper in the Journal, but present it at CDC."
+
+[[cfp]]
+file = "cfp/CDC-2025.pdf"
+stage = "initial"

@@ -1,0 +1,71 @@
+Runtime Verification 2025 - Final Call for Papers
+
+September 15-19, 2025
+
+Graz, Austria
+
+Dear Colleagues,
+
+We are pleased to invite you to submit papers for the 25th International Conference on Runtime Verification (RV'25), which will take place in Graz, Austria, on September 15-19, 2025. The full Call for Papers, with submission details, is at https://rv25.isec.tugraz.at/call-for-papers/
+
+
+ Important Dates
+
+  *   Paper submission:                   June 6, 2025 (extended from May 30, 2025 with updates possible until June 10)
+  *   Notification:                       July 11, 2025
+  *   Camera-ready:                       July 27, 2025
+  *   Conference:                         September 15-19, 2025
+
+Website
+https://rv25.isec.tugraz.at
+
+Objectives and Scope
+
+Runtime verification is concerned with the monitoring and analysis of the runtime behavior of software, hardware, and cyber-physical systems.
+
+The topics of the conference include, but are not limited to:
+
+* specification languages for monitoring
+* monitor construction techniques
+* program instrumentation
+* logging, recording, and replay
+* combination of static and dynamic analysis
+* specification mining and machine learning over runtime traces
+* monitoring techniques for concurrent and distributed systems
+* runtime checking of privacy and security policies
+* metrics and statistical information gathering
+* program/system execution visualization
+* fault localization, containment, resilience, recovery, and repair
+* monitoring systems with learning-enabled components
+* dynamic type checking
+* runtime verification for autonomy and runtime assurance
+* runtime verification for assurance cases
+
+New areas we are soliciting this year include:
+
+* out-of-distribution and anomaly detection in ML-based systems
+* safe reinforcement learning
+
+Papers
+
+Papers can be submitted in one of four categories:
+
+  *   Regular papers (up to 16 pages +  references) should present original unpublished results.
+  *   Short papers (up to 8 pages + references) should present original unpublished ideas but which are not necessarily thoroughly worked out.
+  *   Tool papers (up to 8 pages + references) should present a new tool or novel extensions to an existing tool supporting runtime verification.
+  *   Benchmark papers (up to 8 pages + references) should describe a benchmark or benchmark generator useful for evaluating RV tools
+
+Tutorials
+
+Tutorials are up-to-two-hour presentations on a selected topic. Additionally, tutorial presenters will be offered to publish a paper of up to 20 pages in the LNCS conference proceedings. A proposal for a tutorial must contain the subject of the tutorial, a proposed timeline, a note on previous similar tutorials (if applicable) and the differences to this incarnation, and biographies of the presenters. The proposal must not exceed 2 pages. The deadline for tutorial proposals is the same as for regular papers.
+
+Workshops
+
+The Runtime Verification Conference 2025 invites proposals for 1-day workshops. The goal of workshops is to provide an opportunity for participants to discuss recent topics in the domain of runtime verification and related domains. The deadline for workshop proposals is April 15, 2025. For more information, please visit https://rv25.isec.tugraz.at/call-for-workshops/ .
+
+[Apologies if you receive multiple copies of this email.]
+
+
+Sincerely,
+Martin, Bettina, Hazem, Ezio, and Roderick,
+the RV 25 organizing committee

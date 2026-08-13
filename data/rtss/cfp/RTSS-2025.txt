@@ -1,0 +1,63 @@
+RTSS 2025 --- Call for Papers
+===========================
+
+Submission Deadline (firm): May 22, 2025 (anywhere on Earth)
+
+Further details: http://2025.rtss.org/
+
+Read the full CfP here: https://2025.rtss.org/call-for-papers/
+
+
+Scope of the Conference
+=======================
+
+The IEEE Real-Time Systems Symposium (RTSS) is the premier conference in the field of real-time systems, where researchers and practitioners showcase innovations covering all aspects of real-time systems, including theory, design, analysis, implementation, verification, evaluation, and experience.
+
+RTSS an expansive and inclusive event. RTSS’25, the 46th edition of the event, especially welcomes new and emerging topics that address novel aspects of real-time requirements. Such topics may include machine learning techniques for the design and analysis of real-time systems, system design approaches for achieving real-time machine learning, resource management in autonomous systems, system-level solutions for real-time applications exploiting domain-specific accelerators, etc.
+
+
+Track 1: Real-Time Systems and Foundations
+==========================================
+
+Track 1 focuses on the practical and theoretical foundations that enable predictable timing in computing systems.
+
+
+Practical and Theoretical Foundations of Real-Time Systems
+----------------------------------------------------------
+
+This includes core real-time operating systems components (e.g., kernels, hypervisors, middleware, and runtime environments), schedulability analysis and scheduling algorithms, theoretical foundations of real-time systems, and verification methods. Topics of interest also cover timing analysis---such as worst-case execution time (WCET) analysis and measurement-based timing analysis (MBTA)---along with research on real-time and time-sensitive networking. Contributions are encouraged in areas such as timing-predictable hardware architectures addressing general principles; modeling and analysis of stochastic real-time systems; and rigorous statistical and empirical approaches to timing predictability. The track also welcomes research on fault tolerance and security in relation to timing guarantees, including real-time systems under adversarial conditions (e.g., timing-based side-channel attacks) and secure communication in time-sensitive networks. Submissions exploring cross-layer timing predictability across hardware, operating systems, and applications are particularly encouraged, as are those on compiler techniques, system synthesis, model-driven engineering, and applied formal methods, including model checking and proof-based verification. Experimental system designs, case studies, and experience reports that provide practical insights into fundamental time-predictable system principles are also welcome.
+
+
+Artificial Intelligence for Real-Time Systems Foundations
+---------------------------------------------------------
+Artificial Intelligence (AI) and real-time systems are increasingly intertwined, creating opportunities and challenges at their intersection. RTSS invites contributions on AI for real-time systems, including the use of machine learning and other AI techniques to advance real-time scheduling, timing analysis, resource management, and system optimization under timing constraints.
+
+
+Track 2: Design and Applications
+================================
+
+Track 2 focuses on real-time systems in a broader systems context, particularly emphasizing novel research on designs, implementations, and applications where real-time requirements are an integral part of a larger system or objective. While Track 1 covers theoretical and practical foundations as well as infrastructure technologies, Track 2 explores how these tools and techniques are adapted, extended, and applied to meet the requirements of specific application domains. Areas of interest include (but are not limited to) the following.
+
+
+Cyber-Physical Systems
+----------------------
+
+Cyber-Physical Systems (CPS) span a wide range of domains, including safety-critical, autonomous, and robotic systems. These applications---such as those in transportation, healthcare, and industrial control---interact closely with the physical world, and thus inherently involve real-time requirements. RTSS welcomes papers that explore enabling technologies and application-specific solutions that push the boundaries of CPS design, analysis, and implementation. Topics of interest include (but are not limited to) theoretical foundations of CPS, design methodologies, simulation and emulation techniques, tool chains, CPS architectures, secure CPS and CPS for security, performance analysis and robustness, safety and certification, and hardware/software co-design---all with a focus on implementing real-time principles in practical CPS applications.
+
+
+Real-Time System Design for Artificial Intelligence
+---------------------------------------------------
+
+This area explores the practical implementation and integration of AI components---such as perception, planning, and decision-making---in latency-sensitive and resource-constrained environments. While Track 1 focuses on how AI can enhance real-time theory foundations, Track 2 welcomes how to design real-time systems to successfully deploy AI under real-time constraints. Topics of interest span (but are not limited to) system design, frameworks, resource management, hardware acceleration, and case studies demonstrating real-time AI in practical safety-critical applications. In addition, there is much interest in work on AI safety in CPS, including verification and validation of learning-enabled components, runtime monitoring, safe exploration, explainability, and robustness under uncertainty.
+
+
+HW-SW Integration and System-Level Design
+-----------------------------------------
+
+This area focuses on design methodologies and tools for hardware/software integration and co-design in modern embedded systems targeting specific real-time applications. Topics of interest include, but are not limited to: architecture description languages and associated tools, hardware architectures, design space exploration, synthesis, and optimization techniques. Particular emphasis is placed on System-on-Chip (SoC) design for real-time workloads, including the use of special-purpose functional units, custom memory hierarchies, multi-core architectures, and communication infrastructure. Contributions addressing FPGA-based simulation and prototyping, software simulation and compilation for emerging architectures, as well as analysis of power, thermal behavior, timing, and predictability, are especially welcome. Emerging trends such as RISC-V–based platforms, AI/ML hardware accelerators, and chiplet-based design approaches are also of strong interest.
+
+
+Internet of Things (IoT)
+------------------------
+
+The IoT domain presents unique challenges, including extreme resource constraints (in terms of energy, storage, and computation), unprecedented scalability demands, and highly dynamic and uncertain operating environments. RTSS welcomes submissions that address these challenges through solid theoretical foundations, innovative system designs, and rigorous empirical or experimental evaluations. Of particular interest are approaches that enable real-time capabilities in IoT applications, including distributed sensing and control, reliable communication, and low-latency processing in resource-constrained environments. Contributions that explore the role of edge computing, fog computing, and AI-at-the-edge---as means to bring intelligence and responsiveness closer to the data source---are especially encouraged. Application domains of interest include smart cities, industrial IoT, smart healthcare, and other mission-critical deployments operating under real-time constraints. Emerging areas such as 5G/6G for real-time and ultra-reliable low-latency communication (URLLC) and in-network computing and offloading under timing constraints are of strong interest.

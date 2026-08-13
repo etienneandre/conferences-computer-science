@@ -20,3 +20,7 @@ license = "pay"
 
 [extra]
 notes = "Rebuttal: 16-20 July 2018."
+
+[[cfp]]
+file = "cfp/RTSS-2018.pdf"
+stage = "initial"

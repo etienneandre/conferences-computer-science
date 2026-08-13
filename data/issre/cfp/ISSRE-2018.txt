@@ -1,0 +1,235 @@
+*********************************************************************
+CALL FOR SUBMISSIONS
+
+The 29th IEEE International Symposium on Software Reliability Engineering
+(ISSRE 2018)
+October 15 - 18, 2018
+Memphis, TN, USA
+http://www.issre.net/
+
+*********************************************************************
+SUMMARY OF IMPORTANT DATES (All times are AoE)
+*********************************************************************
+Research Paper Abstract Submission: May 1, 2018
+Research Papers Submission: May 5, 2018
+Workshop Proposal Submission: May 1, 2018
+Tutorial Proposal Submission: July 1, 2018
+Industry Paper Submission: July 29, 2016
+Doctoral Symposium Paper Submission: July 21, 2016
+Fast Abstract Paper Submission: July 21, 2016
+
+For further information on the call for submissions, please see
+http://www.issre.net/cfp
+
+ISSRE is the premium conference that focuses on the theory and practice of
+software systems reliability engineering. Over the past 20+ years we have
+grown to be recognized as the voice of software reliability. From its
+humble beginnings in 1990, it has become a conference that has a unique
+element to it: a rare combination of strong research and industry
+participation.
+
+Unlike the conferences which are either centred academically or
+industrially, we are a rich combination of both! In recent years, our data
+tells us that we are almost evenly split. This is a huge accomplishment
+for any conference. And, this was no accident. The core leadership of the
+conference has targeted this goal and created programs that allow the top
+tier of research and industry to interact on issues of current importance.
+That we have actually approached this target over the past five to eight
+years is of immense satisfaction to us. Our gratitude is to you, the
+participant, for helping us create this unique community.
+
+*********************************************************************
+Topics of interests
+*********************************************************************
+ISSRE 2018 is focused on innovative techniques and tools for assessing,
+predicting, and improving the reliability, safety, and security of
+software products. ISSRE also emphasizes industrial relevance, rigorous
+empirical studies and experience reports.
+
+*  Reliability, availability and safety of software systems
+*  Validation and Verification
+*  Faults, errors, failures, defects, bugs
+*  Software quality and productivity
+*  Software security
+*  Dependability, survivability, fault tolerance and resilience of
+software systems
+*  Systems (hardware + software) reliability engineering
+*  Metrics and measurements, estimation, prediction of quality/reliability
+*  Services reliability engineering
+*  Open source software reliability engineering
+*  Web 2.0 reliability, availability and security issues
+*  Supporting tools and automation
+*  Industry best practices
+*  Software as a Service
+*  Virtualization and software reliability
+*  Reliability of mobile devices and applications
+*  Green and Sustainable Software Engineering
+*  Reliability of Big Data and Internet of Things
+*  Empirical studies of any of the above topics
+*  Software Standards
+
+*********************************************************************
+Call for Research papers
+*********************************************************************
+The main research track at ISSRE 2018 is soliciting original, unpublished
+research papers in three categories: (1) full research (regular) papers,
+(2) practical experience reports, and (3) wild and provocative ideas (WAP)
+papers. Papers will be assessed with criteria appropriate to each category.
+ISSRE looks for works exploring new territory, continuing a significant
+research, or reflecting on practical experience.
+
+While full research manuscripts should explore a specific technology
+problem and propose a complete solution to it, with extensive experimental
+results, practical experience reports are expected to provide an in-depth
+exposition of practitioner experiences and empirical studies. On the other
+hand, WAP papers are expected to present less developed but highly
+innovative ideas related to areas relevant to ISSRE, aiming at inspiring
+discussion among conference attendees and getting people thinking about
+open research challenges. WAP papers are not meant to be Fast Abstracts,
+or shorter (unfinished) research papers.
+
+Submissions will be judged on originality, significance, correctness and
+(potential) impact. This year, we are debuting a review process with a
+Program Committee (which will review submissions in the same way as in
+previous ISSRE editions) and a new Program Board (PB). Each submission
+will be assigned to one member of the Program Board, who will not
+directly review the submission; instead, he/she will oversee the reviews
+by the PC, moderate the online discussion to help to reach a decision,
+and report about the paper at the PC/PB meeting.
+
+After the papers have been reviewed but prior to the PC/PB meeting, the
+reviews will be made available to the authors for rebuttal.  During the
+rebuttal period, which is from June 28th to July 1st, authors will have
+the opportunity to correct factual errors in the reviews. Please note
+that this is NOT a forum to add any additional information on the paper,
+to submit an updated or revised paper, or to list changes the authors
+promise to include in the final version. Author responses will be made
+available to all PC/PB members before the paper is discussed for selection
+in the PC/PB meeting.
+
+There will be a best paper award given to a paper in the main research
+track. Both full research papers and practical experience reports are
+eligible for the award.
+
+FORMATTING GUIDELINES
+Papers must be written in English, and be formatted according to the IEEE
+Computer Society Format Guidelines. Papers that exceed the page limits
+specified below, or are outside the scope of the symposium, or do not
+follow the formatting guidelines will be rejected without review.
+
+Manuscript page lengths (All in double column, IEEE conference style format):
+
+Research papers: 10 pages + 2 pages (for references and appendices)
+
+Experience reports: 10 pages + 2 pages (for references and appendices)
+
+WAP papers: 6 pages
+
+*********************************************************************
+ALL IMPORTANT DATES
+*********************************************************************
+Call for Research Papers
+   Abstract Submission: May 1, 2018
+   Full Research Paper Submission: May 5, 2018
+   Rebuttal Period: June 28 - July 1, 2018
+   Notification: July 15, 2018
+   Camera Ready: August 13, 2018
+
+Call for Industry Track
+   Paper Submission: July 1, 2018
+   Abstract/Presentation Submission: July 1, 2018
+   Notification Paper: July 13, 2018
+   Notification Abstract/Presentation: July 13, 2018
+   Camera Ready (Paper, Abstract): August 21, 2018
+
+Call for Workshops
+   Proposal: May 1, 2018
+   Notification: May 5, 2018
+   Paper submission: July 21, 2018
+   Paper Notification: August 13, 2018
+   Camera Ready: August 28, 2018
+
+Call for Tutorials
+   Proposal submission: July 1, 2018
+   Notification: July 13, 2018
+
+Call for Fast Abstracts
+   Fast Abstract Submission: July 21, 2018
+   Notification: August 13, 2018
+   Camera Ready: August 28, 2018
+
+Call for Doctoral Symposium
+   Submission: July 21, 2018
+   Notification: August 13, 2018
+   Camera Ready: August 28, 2018
+
+*********************************************************************
+Organization Committee
+*********************************************************************
+
+General Chair
+   Bojan Cukic, University of North Carolina at Charlotte
+   Robin Poston, University of Memphis
+
+Research Program Chairs
+   Sudipto Ghosh, Colorado State University
+   Roberto Natella, University of Naples
+
+Industry Program Chairs
+   Catello Di Martino, Nokia Bell Labs
+   Harigovind Ramasamy, IBM
+   Mike Sayres, FedEx Services
+
+Program Managers
+   Katinka Wolter, Freie Universität Berlin, Germany
+   Jong Lee, The University of Memphis
+
+Registration Chair
+   Gahangir Hossain, Texas A&M University-Kingsville
+
+Finance Chair
+   Cody Behles, FedEx Institute of Technology & University of Memphis
+
+Workshop Chair
+   Alexander Romanovsky, Newcastle University
+   Jianwen Xiang, Wuhan University of Technology
+
+Doctoral Symposium Chairs
+   Mei Naggappan, University of Waterloo
+   Nuno Antunes, University of Coimbra
+
+Tutorial Chair
+   Katerina Goseva Popstojanova, West Virginia university
+
+Fast Abstract Chairs
+   Zheng Zheng, Beihang University
+
+Publication Chair
+   Nuno Laranjeiro, University of Coimbra, Portugal
+
+Publicity Chairs
+   Tom Stafford,  Louisiana Tech University
+   Weiqiang Kong, Dalian University of Technology
+   Damiano Torre, Carleton University, Canada
+   James Hill, Indiana University-Purdue University Indianapolis
+
+Local Organization Chairs
+   Carl W. Hardeman, University of Memphis
+   Dave Miller, Fedex Services
+   Cody Behles, FedEx Institute of Technology & University of Memphis
+   Ted Lee, University of Memphis
+   Sajjan Shiva, University of Memphis
+
+Web Chair
+   Qiunan Zhang, University of Memphis, USA
+
+
+
+*********************************************************************
+Steering Committee: http://www.issre.net/node/10
+
+Organizing Committee: http://www.issre.net/organizing-committee
+
+Program Committee: http://www.issre.net/research-pc
+
+*********************************************************************

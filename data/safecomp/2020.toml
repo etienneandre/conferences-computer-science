@@ -20,3 +20,15 @@ license = "pay-profit"
 
 [extra]
 notes = "Best papers invited in a special issue of a safety-related international journal."
+
+[[cfp]]
+file = "cfp/SAFECOMP-2020.pdf"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SafeComp-2020.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/SAFECOMP-2020-extended.txt"
+stage = "extended"

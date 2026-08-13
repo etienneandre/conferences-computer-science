@@ -17,3 +17,11 @@ notification = [2018-09-10]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[[cfp]]
+file = "cfp/RV-2018.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/RV-2018-extended.txt"
+stage = "extended"
