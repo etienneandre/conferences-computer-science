@@ -25,4 +25,4 @@
 .code-workspace
 
 # NOTE: might be enabled or disabled depending on the context
-*.pdf
+# *.pdf
