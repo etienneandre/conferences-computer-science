@@ -6,10 +6,8 @@ name = "International Conference on Verification and Evaluation of Computer and 
 [core]
 id = "2213"
 
-# TODO: verify — derived from per-edition values, which recorded
-# the rank known at data-entry time, not the rank then in force.
 [[core.history]]
-from = 2015
+from = 2008
 rank = "absent"
 
 [[core.history]]
@@ -17,7 +15,7 @@ from = 2018
 rank = "unranked"
 
 [[core.history]]
-from = 2022
+from = 2021
 rank = "C"
 
 [links]

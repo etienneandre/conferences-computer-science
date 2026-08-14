@@ -2,6 +2,7 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "SBMF"
 name = "Brazilian Symposium on Formal Methods"
+# scope = "national"
 
 [core]
 rank = "absent"
