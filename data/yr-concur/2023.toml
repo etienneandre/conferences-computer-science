@@ -17,7 +17,7 @@ publisher = "informal"
 
 [extra]
 colocated = "Satellite of CONCUR."
-notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Cancelled in 2014, did not happen in 2020-21."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere."
 
 [[cfp]]
 file = "cfp/YR-CONCUR-2023.txt"

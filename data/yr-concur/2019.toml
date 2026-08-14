@@ -16,7 +16,7 @@ notification = [2019-07-19]
 publisher = "informal"
 
 [extra]
-notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR. Cancelled in 2014."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."
 
 [[cfp]]
 file = "cfp/YR-CONCUR-2019.txt"

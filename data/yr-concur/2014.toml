@@ -2,6 +2,7 @@
 edition = 6
 title = "6th International Young Researchers Workshop on Concurrency Theory"
 url = "http://cimini.info/yr-concur2014/"
+status = "cancelled"
 
 [event]
 start = 2014-09-01
@@ -16,4 +17,4 @@ notification = [2014-07-23]
 publisher = "none"
 
 [extra]
-notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR. CANCELLED this year."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."
