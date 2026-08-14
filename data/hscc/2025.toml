@@ -6,7 +6,7 @@ url = "https://hscc.acm.org/2025"
 [event]
 start = 2025-05-06
 end = 2025-05-09
-city = "Irvine, California"
+city = "Irvine, California, USA"
 
 [submission]
 tz = "AoE"

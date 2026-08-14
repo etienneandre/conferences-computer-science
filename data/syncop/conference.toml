@@ -2,15 +2,13 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "SynCoP"
 name = "International Workshop on Synthesis of Complex Parameters"
-defunct = "seemingly"
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [links]
 dblp = "syncop"
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.
-extensions = "7 days (2025)"  # from SynCoP 2026
-notes = "Deadline extension: 2 weeks (2014, 2015, 2016). Acceptance rate (2014): 5 / 8 papers."
+notes = "Deadline extension: 2 weeks (2014, 2015, 2016). Acceptance rate (2014): 5 / 8 papers. Moved to invited and informal presentations only from 2017."

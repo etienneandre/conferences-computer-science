@@ -6,7 +6,8 @@ url = "https://formal-analysis.com/atva/2021/"
 [event]
 start = 2021-10-18
 end = 2021-10-22
-city = "Gold Coast, Australia (or virtual)"
+city = "Gold Coast, Australia"
+online = true
 
 [submission]
 tz = "AoE"
@@ -23,7 +24,8 @@ rate = 31.0
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia."
+notes = "4 more days to edit the paper past the deadline in 2011."
+journal = "Selected papers from ATVA 2021 proceedings will be invited to extend and publish in a special issue of Innovations in Systems and Software Engineering - A NASA Journal (ISSE)"
 
 [[cfp]]
 file = "cfp/ATVA-2021.pdf"

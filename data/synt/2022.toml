@@ -5,7 +5,7 @@ url = "https://www.cs.technion.ac.il/~shaull/SYNT2022/"
 
 [event]
 start = 2022-08-11
-city = "Haifa, Israelf"
+city = "Haifa, Israel"
 
 [submission]
 format = "15 pages ACM (full) / 3 pages ACM (abstract)"

@@ -6,16 +6,17 @@ url = "https://cdc2020.ieeecss.org/"
 [event]
 start = 2020-12-08
 end = 2020-12-11
-city = "Jeju Island, Korea"
+city = "Jeju Island, South Korea"
 
 [submission]
 format = "6 pages IEEE (+ 2 additional for a fee)"
 paper = [2020-03-17]
 notification = [2020-07-15]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "No deadline extension. The new Journal IEEE Control Systems Letters (L-CSS) now provides a possibility to submit and publish a paper in the Journal, but present it at CDC"
+notes = "The new Journal IEEE Control Systems Letters (L-CSS) now provides a possibility to submit and publish a paper in the Journal, but present it at CDC"

@@ -39,7 +39,6 @@ display = "Vienna"
 lat = 48.2082
 lon = 16.3738
 continent = "EU"
-# 15 edition(s)
 
 ["Grenoble, France"]
 country = "FR"
@@ -353,7 +352,6 @@ display = "Austin"
 lat = 30.2672
 lon = -97.7431
 continent = "NA"
-# 5 edition(s)
 
 ["Bucharest, Romania"]
 country = "RO"
@@ -1568,11 +1566,6 @@ display = "Đà Nẵng"
 lat = 16.0544
 lon = 108.2022
 continent = "AS"
-# 2 edition(s)
-
-["?"]
-# WARNING: no place recorded; the edition files need fixing
-# 1 edition(s)
 
 ["Ahmedabad University"]
 country = "IN"
@@ -1606,20 +1599,21 @@ lon = -0.5632
 continent = "EU"
 # 1 edition(s)
 
+
+["Brescia, Italy"]
+country = "IT"
+display = "Brescia"
+lat = 45.5314
+lon = 10.2338
+continent = "EU"
+
+
 ["Auckland, New Zealand"]
 country = "NZ"
 display = "Auckland"
 lat = -36.8485
 lon = 174.7633
 continent = "OC"
-# 1 edition(s)
-
-["Austin, TX, USA"]
-country = "US"
-display = "Austin"
-lat = 30.2672
-lon = -97.7431
-continent = "NA"
 # 1 edition(s)
 
 ["Awassa, Ethiopia"]
@@ -2022,14 +2016,6 @@ lon = 127.3845
 continent = "AS"
 # 1 edition(s)
 
-["Danang, Việt Nam"]
-country = "VN"
-display = "Danang"
-lat = 16.0544
-lon = 108.2022
-continent = "AS"
-# 1 edition(s)
-
 ["Darmstadt, Germany"]
 country = "DE"
 display = "Darmstadt"
@@ -2167,9 +2153,9 @@ lon = 11.6511
 continent = "EU"
 # 1 edition(s)
 
-["Gebze-Istanbul, Türkiye"]
+["Gebze, Türkiye"]
 country = "TR"
-display = "Gebze-Istanbul"
+display = "Gebze"
 lat = 40.8028
 lon = 29.4307
 continent = "AS"
@@ -2190,14 +2176,6 @@ lat = 15.2993
 lon = 74.124
 continent = "AS"
 # WARNING: campus of BITS Pilani, in Goa
-# 1 edition(s)
-
-["Gold Coast, Australia (or virtual)"]
-country = "AU"
-display = "Gold Coast"
-lat = -28.0167
-lon = 153.4
-continent = "OC"
 # 1 edition(s)
 
 ["Granada, Spain"]
@@ -2247,23 +2225,6 @@ display = "Göttingen"
 lat = 51.5413
 lon = 9.9158
 continent = "EU"
-# 1 edition(s)
-
-["Haifa, Israel (or online)"]
-country = "IL"
-display = "Haifa"
-lat = 32.794
-lon = 34.9896
-continent = "AS"
-# 1 edition(s)
-
-["Haifa, Israelf"]
-country = "IL"
-display = "Haifa"
-lat = 32.794
-lon = 34.9896
-continent = "AS"
-# WARNING: misspelling of Israel
 # 1 edition(s)
 
 ["Halmstad, Sweden"]
@@ -2476,37 +2437,19 @@ lon = 11.4041
 continent = "EU"
 # 1 edition(s)
 
-["Irvine, California"]
-country = "US"
-display = "Irvine"
-lat = 33.6846
-lon = -117.8265
-continent = "NA"
-# WARNING: no country given
-# 1 edition(s)
-
 ["Irvine, California, USA"]
 country = "US"
 display = "Irvine"
 lat = 33.6846
 lon = -117.8265
 continent = "NA"
-# 1 edition(s)
-
-["Irvine, USA"]
-country = "US"
-display = "Irvine"
-lat = 33.6846
-lon = -117.8265
-continent = "NA"
-# 1 edition(s)
 
 ["Istanbul, Türkiye"]
 country = "TR"
-display = "Istanbul"
+display = "İstanbul"
 lat = 41.0082
 lon = 28.9784
-continent = "AS"
+continent = "EU"
 # 1 edition(s)
 
 ["Jaipur, India"]
@@ -2517,17 +2460,9 @@ lon = 75.7873
 continent = "AS"
 # 1 edition(s)
 
-["Jeju Island, Korea"]
+["Jeju Island, South Korea"]
 country = "KR"
 display = "Jeju Island"
-lat = 33.4996
-lon = 126.5312
-continent = "AS"
-# 1 edition(s)
-
-["Jeju island, South Korea"]
-country = "KR"
-display = "Jeju island"
 lat = 33.4996
 lon = 126.5312
 continent = "AS"
@@ -2613,9 +2548,9 @@ lon = 101.6869
 continent = "AS"
 # 1 edition(s)
 
-["LSV, Cachan, France"]
+["Cachan, France"]
 country = "FR"
-display = "LSV"
+display = "Cachan"
 lat = 48.7919
 lon = 2.3311
 continent = "EU"
@@ -3641,15 +3576,6 @@ lon = -0.3763
 continent = "EU"
 # 1 edition(s)
 
-["Vienne, Austria"]
-country = "AT"
-display = "Vienne"
-lat = 48.2082
-lon = 16.3738
-continent = "EU"
-# WARNING: French spelling of Vienna; Vienne is also a French town
-# 1 edition(s)
-
 ["Virtual"]
 # WARNING: online event: use event.online = true instead of a city
 # 1 edition(s)
@@ -3667,14 +3593,6 @@ country = "CH"
 display = "Virtual (Lugano"
 lat = 46.0037
 lon = 8.9511
-continent = "EU"
-# 1 edition(s)
-
-["Virtual (Paris, France)"]
-country = "FR"
-display = "Virtual (Paris"
-lat = 48.8566
-lon = 2.3522
 continent = "EU"
 # 1 edition(s)
 

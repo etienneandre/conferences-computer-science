@@ -6,7 +6,7 @@ url = "http://soict.org/"
 [event]
 start = 2018-12-06
 end = 2018-12-07
-city = "Danang, Việt Nam"
+city = "Đà Nẵng, Việt Nam"
 
 [submission]
 format = "8 pages ACM"
@@ -18,7 +18,7 @@ publisher = "ACM ICPS"
 license = "acm"
 
 [extra]
-notes = "Extended versions of the selected best papers in SoICT 2017 will be invited for submission to Journal of Heuristics (IF: 1.34), but will be reviewed again."
+journal = "Extended versions of the selected best papers in SoICT 2017 will be invited for submission to Journal of Heuristics (IF: 1.34), but will be reviewed again."
 
 [[cfp]]
 file = "cfp/SoICT-2018.txt"

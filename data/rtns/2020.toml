@@ -5,7 +5,8 @@ url = "https://rtns2020.inria.fr/"
 
 [event]
 start = 2020-06-10
-city = "Virtual (Paris, France)"
+city = "Paris, France"
+online = true
 
 [submission]
 format = "10 pages ACM 2 columns (+ references)"

@@ -1,10 +1,13 @@
 # migrated from data.php line 34374
-edition = 1
+edition = 3
 title = "Workshop on Research and Use of Multiformalism Modeling Methods"
 url = "http://www.dem.unina2.it/wrummm"
 
 [event]
-city = "?"
+start = 2014-05-27 # NOTE: actually for HiPMOS
+end = 2014-05-30
+
+city = "Brescia, Italy"
 
 [submission]
 format = "7 pages IEEE"
@@ -14,6 +17,3 @@ notification = [2014-03-14]
 [proceedings]
 publisher = "IEEE (?)"
 license = "pay"
-
-[extra]
-notes = "Deadline extended by 6 weeks in 2012 (initially 15th May)."

@@ -6,7 +6,7 @@ url = "https://ac.tuwien.ac.at/mfcs2022/"
 [event]
 start = 2022-08-22
 end = 2022-08-26
-city = "Vienne, Austria"
+city = "Vienna, Austria"
 
 [submission]
 tz = "AoE"

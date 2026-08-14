@@ -6,7 +6,7 @@ url = "https://2025.rtas.org/"
 [event]
 start = 2025-05-06
 end = 2025-05-09
-city = "Irvine, USA"
+city = "Irvine, California, USA"
 
 [submission]
 tz = "UTC-12"

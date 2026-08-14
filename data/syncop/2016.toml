@@ -18,4 +18,4 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [extra]
-notes = "Satellite workshop of ETAPS. After three successful editions, SynCoP moved to an invited speakers-only model. Everyone is welcome to attend <a href=\"https://lipn.univ-paris13.fr/SynCoPPV2017/\">SynCoP 2017</a>."
+colocated = "Satellite workshop of ETAPS."

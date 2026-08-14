@@ -6,7 +6,7 @@ url = "http://apsec2013.eng.chula.ac.th/"
 [event]
 start = 2014-12-02 # NOTE: was "2013", probably a typo
 end = 2014-12-05 # NOTE: was "2013", probably a typo
-city = "Jeju island, South Korea"
+city = "Jeju Island, South Korea"
 
 [submission]
 tz = "UTC+7"
@@ -19,4 +19,4 @@ publisher = "IEEE CPS"
 license = "pay"
 
 [extra]
-notes = "Warning: Deadline UTC+7. Best papers will be submitted to a special issue of Elsevier International Journal of Information and Software Technology (IST)."
+journal = "Best papers will be submitted to a special issue of Elsevier International Journal of Information and Software Technology (IST)."

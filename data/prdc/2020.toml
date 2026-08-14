@@ -15,8 +15,11 @@ notification = [2020-08-22, 2020-08-29]
 publisher = "IEEE"
 license = "pay"
 
+[review]
+award = "One outstanding paper will be selected to receive the Best Paper Award."
+
 [extra]
-notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."
+notes = "Also featuring: fast abstract, industry track, poster (different deadlines)."
 
 [[cfp]]
 file = "cfp/PRDC-2020.txt"

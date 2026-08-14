@@ -6,7 +6,7 @@ url = "http://gt-verif.loria.fr/2013"
 [event]
 start = 2013-06-17
 end = 2013-06-18
-city = "LSV, Cachan, France"
+city = "Cachan, France"
 
 [submission]
 format = "1 page abstract"

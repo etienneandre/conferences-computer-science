@@ -5,11 +5,11 @@ url = "https://nsv22.github.io/"
 
 [event]
 start = 2022-08-11
-city = "Haifa, Israel (or online)"
+city = "Haifa, Israel"
 
 [submission]
 format = "15 pages LNCS + references (regular) / 6 pages (short / tools / benchmark / case studies)"
-paper = [2022-05-10, 2022-05-24]
+paper = [2022-05-10, 2022-05-24, 2022-05-31]
 notification = [2022-06-15]
 
 [proceedings]
