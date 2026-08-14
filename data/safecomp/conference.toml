@@ -3,8 +3,17 @@
 acronym = "SAFECOMP"
 name = "International Conference on Computer Safety, Reliability and Security"
 
+
 [core]
-rank = "B"  # TODO: verify
+id = "961"
+
+[[core.history]]
+from = 2008
+rank = "B"
+
+[links]
+dblp = "safecomp"
+
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.

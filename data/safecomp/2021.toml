@@ -6,7 +6,8 @@ url = "https://safecomp2021.hosted.york.ac.uk/"
 [event]
 start = 2021-09-07
 end = 2021-09-10
-city = "York, UK / online"
+city = "York, England"
+hybrid = true
 
 [submission]
 format = "regular (14 pages LNCS) / practical experience reports and tools (8 pages) / position (4 pages)"
@@ -17,6 +18,11 @@ notification = [2021-04-29]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = ["10.1007/978-3-030-83903-1" , "10.1007/978-3-030-83906-2"]
+
+[stats]
+accepted = 17
+submitted = 76
 
 [extra]
 notes = "The theme for 2021 is safe human-robotic and autonomous system (RAS) interaction."

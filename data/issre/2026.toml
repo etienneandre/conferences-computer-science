@@ -11,9 +11,11 @@ city = "Limassol, Cyprus"
 [submission]
 tz = "AoE"
 format = "12 pages IEEE including references (research / experience reports) / 6-10 pages (tools and artifact)"
-abstract = [2026-04-10]
-paper = [2026-04-17]
+abstract = [2026-04-10, 2026-04-24]
+paper = [2026-04-17, 2026-04-24]
 notification = [2026-07-08]
+rebuttal_start = 2026-06-05
+rebuttal_end = 2026-06-09
 
 [proceedings]
 publisher = "IEEE CPS"
@@ -21,12 +23,11 @@ license = "pay"
 
 [review]
 blind = "double"
-rebuttal = "Author Revision Period: June 16 - July 3, 2026"
 award = "ISSRE is pleased to announce the IEEE Best Research Paper Award, awarded every year to the best paper in the Research Track."
 
 [extra]
-journal = "Authors of accepted papers will be invited to submit an extended version of their work to a special issue of the Empirical Software Engineering (EMSE) journal (under negotiation as in previous editions of the conference)."
-notes = "Includes negative results papers. Early decisions: 15th June."
+journal = "Authors of accepted papers will be invited to submit an extended version of their work to the IEEE Transactions on Reliability Special Section on Software Reliability Engineering: Emerging Trends, AI-Driven Methods, and Industrial Practices."
+notes = "Includes negative results papers (different submission dates). Early decisions: 15th June. Author Revision Period: June 16 - July 3, 2026."
 
 [[cfp]]
 file = "cfp/ISSRE-2026.txt"

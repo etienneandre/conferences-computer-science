@@ -3749,16 +3749,6 @@ display = "York"
 lat = 53.96
 lon = -1.0873
 continent = "EU"
-# 1 edition(s)
-
-["York, UK / online"]
-country = "GB"
-subdivision = "GB-ENG"
-display = "York"
-lat = 53.96
-lon = -1.0873
-continent = "EU"
-# 1 edition(s)
 
 ["Zhangjiajie, China"]
 country = "CN"
@@ -3766,10 +3756,6 @@ display = "Zhangjiajie"
 lat = 29.117
 lon = 110.4794
 continent = "AS"
-# 1 edition(s)
-
-["none"]
-# WARNING: no place recorded; the edition files need fixing
 # 1 edition(s)
 
 ["Ávila, Spain"]
