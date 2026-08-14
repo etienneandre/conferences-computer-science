@@ -2,10 +2,9 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "YR-CONCUR"
 name = "International Young Researchers Workshop on Concurrency Theory"
-defunct = "seemingly"
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.
