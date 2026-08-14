@@ -2,9 +2,11 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "NWPT"
 name = "Nordic Workshop On Programming Theory"
+scope = "regional"
+languages = ["en"]
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.

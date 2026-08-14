@@ -2,6 +2,8 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "JFLA"
 name = "37e Journées Francophones des Langages Applicatifs"
+scope = "national"
+languages = ["fr"]
 
 [core]
 rank = "absent"
