@@ -138,19 +138,26 @@ label = "C"
 css = "coreC"
 order = 4
 
+[core.national]
+key = "national"
+label = "CORE: national"
+description = "ranked as a national venue rather than an international one"
+css = "corenational"
+order = 5
+
 [core.unranked]
 key = "unranked"
 label = "CORE: unranked"
 description = "listed in the CORE portal, but not ranked"
 css = "coreunranked"
-order = 5
+order = 6
 
 [core.absent]
 key = "absent"
 label = "CORE: absent"
 description = "not listed in the CORE portal at all"
 css = "coreabsent"
-order = 6
+order = 7
 
 
 ################################################################################
@@ -256,3 +263,22 @@ render = false
 [cfp_kind.image]
 label = "Image"
 render = false
+
+
+################################################################################
+# Reach
+################################################################################
+#
+# Not every conference aims at the whole world, and saying so is useful rather
+# than dismissive: a francophone venue is exactly what some authors want.
+
+[scope.international]
+label = "International"
+
+[scope.regional]
+label = "Regional"
+description = "aimed at a continent or a language area"
+
+[scope.national]
+label = "National"
+description = "aimed at one country's community"
