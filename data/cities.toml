@@ -530,7 +530,6 @@ display = "Brussels"
 lat = 50.8476
 lon = 4.3572
 continent = "EU"
-# 4 edition(s)
 
 ["Dubrovnik, Croatia"]
 country = "HR"
@@ -740,14 +739,6 @@ country = "IT"
 display = "Bergamo"
 lat = 45.6983
 lon = 9.6773
-continent = "EU"
-# 3 edition(s)
-
-["Bruxelles, Belgium"]
-country = "BE"
-display = "Bruxelles"
-lat = 50.8476
-lon = 4.3572
 continent = "EU"
 # 3 edition(s)
 
@@ -1835,14 +1826,6 @@ country = "CZ"
 display = "Brno (Czech Republic)"
 lat = 49.1951
 lon = 16.6068
-continent = "EU"
-# 1 edition(s)
-
-["Bruxelles, Belgique"]
-country = "BE"
-display = "Bruxelles"
-lat = 50.8476
-lon = 4.3572
 continent = "EU"
 # 1 edition(s)
 
@@ -3787,14 +3770,6 @@ continent = "AS"
 
 ["none"]
 # WARNING: no place recorded; the edition files need fixing
-# 1 edition(s)
-
-["virtual? (Brussels, Belgium)"]
-country = "BE"
-display = "virtual? (Brussels"
-lat = 50.8476
-lon = 4.3572
-continent = "EU"
 # 1 edition(s)
 
 ["Ávila, Spain"]

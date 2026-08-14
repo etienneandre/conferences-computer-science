@@ -6,7 +6,7 @@ url = "http://www.ulb.ac.be/di/verif/pn2015acsd2015/"
 [event]
 start = 2015-06-24
 end = 2015-06-26
-city = "Bruxelles, Belgium"
+city = "Brussels, Belgium"
 
 [submission]
 format = "10 pages IEEE (regular) / 6 pages IEEE (tools)"

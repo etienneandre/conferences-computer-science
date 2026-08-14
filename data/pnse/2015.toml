@@ -5,7 +5,7 @@ url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse15/"
 [event]
 start = 2015-06-22
 end = 2015-06-23
-city = "Bruxelles, Belgique"
+city = "Brussels, Belgium"
 
 [submission]
 format = "LNCS 20 pages (full) although 15 pages preferred / 5 pages (short) / 2 (ongoing, poster)"

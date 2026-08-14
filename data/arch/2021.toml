@@ -5,7 +5,7 @@ url = "https://cps-vo.org/group/ARCH/submissionInstructions"
 
 [event]
 start = 2021-07-09
-city = "virtual? (Brussels, Belgium)"
+city = "Brussels, Belgium"
 
 [submission]
 format = "3-8 pages (Benchmark papers, tool presentations, tool executions, experience reports)"
@@ -16,8 +16,15 @@ notification = [2021-05-31]
 publisher = "EasyChair EPiC series"
 license = "free"
 
+[stats]
+accepted = 4
+submitted = 4
+
+[review]
+award = "The paper with the most promising benchmark results receives a prize of 500€ sponsored by Robert Bosch GmbH, Germany. The winner is preselected by the program committee and determined by an audience voting."
+
 [extra]
-notes = "Co-located with ADHS 2021. The paper with the most promising benchmark results receives a prize of 500€ sponsored by Robert Bosch GmbH, Germany. The winner is preselected by the program committee and determined by an audience voting. Free of charge in 2017."
+notes = "Co-located with ADHS 2021."
 
 [[cfp]]
 file = "cfp/ARCH-2021.pdf"
