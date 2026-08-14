@@ -4,7 +4,7 @@ acronym = "SBMF"
 name = "Brazilian Symposium on Formal Methods"
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [links]
 dblp = "sbmf"

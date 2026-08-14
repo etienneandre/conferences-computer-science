@@ -4,7 +4,7 @@ acronym = "FMAS"
 name = "Workshop on Formal Methods for Autonomous Systems"
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [links]
 dblp = "fmas"

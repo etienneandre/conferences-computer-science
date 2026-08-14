@@ -40,7 +40,7 @@ men = 2
 
 [extra]
 # colocated = "Co-located with PODC and SPAA"
-notes = "Rebuttal for Track B only."
+notes = "Rebuttal for Track B only. At least one author of each accepted paper is expected to register for the conference, and all talks are in-person. In exceptional cases, alternative arrangements may be considered by the program co-chairs."
 
 [[cfp]]
 file = "cfp/ICALP-2027.txt"

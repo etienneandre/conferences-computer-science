@@ -17,6 +17,11 @@ notification = [2025-09-26]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-032-12086-1"
+
+[stats]
+accepted = 13
+submitted = 25
 
 [extra]
 journal = "We plan to follow on last years’ tradition of organizing a special issue of the Science of Computer Programming Journal (Elsevier) with selected and extended papers from the 28th Brazilian Symposium on Formal Methods (SBMF 2025)"

@@ -20,6 +20,7 @@ extensions = false
 [proceedings]
 publisher = "LIPIcs"
 license = "cc-by"
+doi = "10.4230/LIPIcs.ICALP.2025"
 
 [review]
 blind = "lightweight-double"
@@ -28,3 +29,14 @@ award = "Best paper and best student paper awards for each track (2) of the conf
 [[cfp]]
 file = "cfp/ICALP-2025.txt"
 stage = "initial"
+
+[stats]
+[[stats.track]]
+name = "Track A"
+submitted = 445
+accepted = 135
+
+[[stats.track]]
+name = "Track B"
+submitted = 118
+accepted = 35

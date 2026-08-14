@@ -19,6 +19,7 @@ extensions = false
 [proceedings]
 publisher = "LIPIcs"
 license = "cc-by"
+doi = "10.4230/LIPIcs.ICALP.2026"
 
 [review]
 blind = "lightweight-double"
@@ -30,6 +31,17 @@ Presburger award,
 EATCS distinguished dissertation award,
 best papers for Track A and Track B,
 best student papers for Track A and Track B."""
+
+[stats]
+[[stats.track]]
+name = "Track A"
+submitted = 523
+accepted = 155
+
+[[stats.track]]
+name = "Track B"
+submitted = 105
+accepted = 35
 
 [extra]
 colocated = "Co-located with PODC and SPAA"

@@ -809,7 +809,7 @@ continent = "NA"
 
 ["Krakow, Poland"]
 country = "PL"
-display = "Krakow"
+display = "Kraków"
 lat = 50.0647
 lon = 19.945
 continent = "EU"
