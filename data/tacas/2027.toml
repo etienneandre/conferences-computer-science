@@ -1,0 +1,39 @@
+edition = 33
+title = "32nd International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+url = "https://etaps.org/2026/conferences/tacas/"
+
+[event]
+start = 2027-04-10
+end = 2027-04-15
+city = "Copenhagen, Denmark"
+colocated_with = ["fossacs/2027", "ifs/2027"]
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography (regular / regular tool / case study) / 6 pages (tool demo)"
+abstract = [2026-10-15]
+paper = [2026-10-15]
+notification = [2026-12-22]
+extensions = false
+rebuttal_start = 2026-12-07
+rebuttal_end = 2026-12-09
+
+[proceedings]
+publisher = "Springer ARCoSS LNCS"
+license = "cc-by"
+
+[review]
+blind = "double"
+artifact = "Mandatory Artifact Submission"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[extra]
+colocated = "Part of ETAPS 2027."
+
+
+[[cfp]]
+file = "cfp/ETAPS-2027-2026-08.txt"
+stage = "initial"

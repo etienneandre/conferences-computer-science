@@ -20,7 +20,7 @@ publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
 
 [extra]
-notes = "Part of ETAPS 2023, colocated with SPIN 2023. Special issues of the Springer journal Formal Methods in System Design (FMSD) and Int. J. on Software Tools for Technology Transfer (STTT) are planned for FASE 2022. Authors of the best papers that fall within the scope of the journal will be invited to submit significantly extended papers for journal review.Acceptance rate (2021): 31% (16/51) Grace period: 10 days (2022)"
+notes = "Part of ETAPS 2023, colocated with SPIN 2023. Special issues of the Springer journal Formal Methods in System Design (FMSD) and Int. J. on Software Tools for Technology Transfer (STTT) are planned for FASE 2022. Authors of the best papers that fall within the scope of the journal will be invited to submit significantly extended papers for journal review. Grace period: 10 days (2022)"
 
 [[cfp]]
 file = "cfp/FASE-2023-2022-09-06.txt"

@@ -5,7 +5,25 @@ name = "International Conference on Foundations of Software Science and Computat
 
 [core]
 id = "547"
-rank = "A"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "B"
+
+[[core.history]]
+from = 2010
+rank = "C"
+
+[[core.history]]
+from = 2014
+rank = "A"
+
+[[core.history]]
+from = 2026
+rank = "B"
+
+
+
 
 [links]
 dblp = "fossacs"

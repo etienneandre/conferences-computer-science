@@ -1,0 +1,10 @@
+acronym = "iFS"
+name = "International Conference on Foundations and Formal Methods for Software and Systems"
+predecessors = ["fase", "ifm"]
+
+[core]
+# id = "TODO"
+rank = "absent"
+
+[links]
+# dblp = "ifm"

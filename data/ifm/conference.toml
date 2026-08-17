@@ -2,10 +2,14 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "iFM"
 name = "International Conference on integrated Formal Methods"
+defunct = 2026
 
 [core]
 id = "842"
-rank = "B"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "B"
 
 [links]
 dblp = "ifm"

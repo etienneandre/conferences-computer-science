@@ -14,15 +14,43 @@ tz = "AoE"
 format = "16 pages LNCS + bibliography (regular / regular tool / case study) / 6+6 pages (tool demo)"
 paper = [2025-10-16]
 notification = [2025-12-22]
+extensions = false
+rebuttal_start = 2025-12-08
+rebuttal_end = 2025-12-10
 
 [proceedings]
 publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
+doi = ["10.1007/978-3-032-22752-2", "10.1007/978-3-032-22749-2"]
 
 [review]
 blind = "double"
-rebuttal = "8-10 December 2025 (for selected papers)"
 artifact = "Artifact evaluation"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[stats]
+[[stats.track]]
+name = "regular research papers"
+submitted = 117
+accepted = 34
+
+[[stats.track]]
+name = "case study papers"
+submitted = 11
+accepted = 3
+
+[[stats.track]]
+name = "regular tool papers"
+submitted = 33
+accepted = 15
+
+[[stats.track]]
+name = "tool demonstration papers"
+submitted = 16
+accepted = 4
 
 [extra]
 colocated = "Part of ETAPS 2026."

@@ -5,7 +5,10 @@ name = "International Conference on Tools and Algorithms for the Construction an
 
 [core]
 id = "1818"
-rank = "A"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "A"
 
 [links]
 dblp = "tacas"
@@ -19,4 +22,3 @@ In 2003: 25% (35/140) for research papers, 30% (6/20) for tool demos, 27% for al
 	In 2015: 27% (45/164), 26% for research papers (27/105).
 In 2019: 30% (50/164): 29 research papers, 2 case study papers, 11 regular tool papers, and 8 tool demo papers.
 In 2021: 33% (41 research+6 tool/141)."""  # from TACAS 2026
-extensions = "Firm deadline (2026)"  # from TACAS 2026

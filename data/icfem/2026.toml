@@ -21,16 +21,16 @@ license = "pay-profit"
 
 [review]
 [review.gender.chairs]
-women = 0
 men = 3
+women = 0
 
 [review.gender.speakers]
-women = 2
 men = 2
+women = 2
 
 # [review.gender.committee] # TODO
-# women = 12
 # men = 30
+# women = 12
 
 [extra]
 journal = "Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings."

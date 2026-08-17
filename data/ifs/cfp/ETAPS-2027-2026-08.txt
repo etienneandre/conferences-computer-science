@@ -1,0 +1,98 @@
+ABOUT ETAPS
+
+ETAPS is a primary forum for academic and industrial researchers working on topics relating to software science. ETAPS, established in 1998, is a confederation of four annual conferences accompanied by satellite workshops. ETAPS 2027 is the thirtieth event in the series.
+What is new in 2027?
+
+    iFS becomes a part of ETAPS as a merger of FASE and iFM.
+
+Why choose ETAPS?
+
+    ETAPS is one of the world’s leading fora for research on software science, with a history of more than 25 years.
+    The proceedings of ETAPS appear in gold open access, with no article processing charge for the authors specifically.
+    All constituent conferences provide artifact evaluation (AE).
+    In addition to the conference, ETAPS also unites the software science community with activities such as a blog on software sciences, a PhD mentoring workshop, sessions on diversity, equity, and inclusion, and an ask-me-anything session.
+    Poster and Tool demo sessions are organized over the week.
+    Spin Symposium and Rust Verification Workshop are colocated with ETAPS.
+    SV-Comp and Test-Comp competitions and an industry day are hosted at ETAPS.
+
+MAIN CONFERENCES (April 12–15, 2027)
+
+    ESOP: European Symposium on Programming (PC chair: Azalea Raad, Imperial College London)
+    FoSSaCS: Foundations of Software Science and Computation Structures (PC chairs: Alexandra Silva, Cornell University Joël Ouaknine, MPI-SWS)
+    iFS: International Conference on Foundations and Formal Methods for Software and Systems (PC chairs: Erika Abraham, RWTH Aachen University Marsha Chechik, University of Toronto)
+    TACAS: Tools and Algorithms for the Construction and Analysis of Systems (PC chairs: Christian Schilling, Aalborg University Najiun Zhan, Chinese Academy of Sciences)
+
+IMPORTANT DATES
+
+    Submission deadline for ESOP-round 1: May 28, 2026
+    Rebuttal for ESOP-round 1: July 20-22, 2026
+    Notification for ESOP-round 1: August 6, 2026
+    Submission deadline for ESOP-round 2, iFS, FoSSaCS, TACAS: Thursday, October 15, 2026
+    TACAS mandatory artifact submission deadline (2 weeks after paper submission): Thursday, October 29, 2026
+    Rebuttal (ESOP-round 2, FoSSaCS, TACAS): December 7-9, 2026
+    Paper notification and TACAS mandatory artifact notification: Tuesday, December 22, 2026
+    Artifact submission deadline ESOP, iFS, FoSSaCS, TACAS voluntary artifacts: Monday, January 11, 2027
+    Paper final version: Monday, January 25, 2027
+    Artifact notification ESOP, iFS, FoSSaCS, TACAS (voluntary artifacts): Thursday, February 11, 2027
+    Main Conference: April 12–15, 2027
+
+All the dates are AoE (Anywhere on Earth). Deadlines are firm and will not be extended.
+PUBLICATION
+
+The proceedings will be published in the Advanced Research in Computing and Software Science (ARCoSS) subline of Springer’s LNCS series. The proceedings volumes will appear in gold open access under CC-BY license, so the published versions of all papers will be available for everyone to download from the publisher’s website freely from the date of online publication, perpetually. The copyright of the papers will remain with the authors.
+AWARDS
+
+The strongest papers from the four conferences will be marked as distinguished papers and highlighted in the conference program. From these distinguished papers, the EAPLS, EASST, and EATCS, and the Best Tool Paper Award committees will select the best ETAPS papers.
+
+The ETAPS Test-of-Time Award will be granted, recognizing outstanding papers published at ETAPS more than ten years in the past.
+
+The ETAPS Rance Cleaveland Test-of-Time Tool Award acknowledges the importance of reliable and well-maintained research tools and the significant effort that their creation and maintenance entails.
+
+The Doctoral Dissertation Award will be granted to promote and recognize an outstanding dissertation in the research areas covered by the four main ETAPS conferences.
+SUBMISSION INSTRUCTIONS
+
+The four main conferences of ETAPS 2027 solicit contributions of the following types. All page limits are given excluding the bibliography.
+
+    ESOP: regular research papers of max 25 pp, experience reports of max 15 pp, and fresh perspectives providing new insights on programming languages and systems of max 15 pp. For the sake of flexibility, submitted research papers may be formatted in other formats. There is no page limit at the submission time. Please refer to https://etaps.org/2027/esop for more details.
+    iFS: there are two lengths of papers: long (16pp + 2pp references) and short (8pp + 1pp references). The limits for particular paper categories are: Regular research papers: long; Empirical evaluation papers: long or short; Data showcase paper: short (+ optional appendix up to 6pp); New ideas and emerging results (NIER) papers (visions, reflections): short; Tool papers: long or short (+ optional appendix up to 6pp);
+    FoSSaCS: regular research papers of max 18 pp.
+    TACAS: regular research papers, case study papers, and regular tool papers of max 18 pp, tool demonstration papers of max 6 pp.
+
+For definitions of the different paper types and specific instructions, where they are present, see the web pages of the individual conferences.
+
+All accepted papers will appear in Springer proceedings and have presentations during the conference. A condition of submission is that, if the submission is accepted, one of the authors attends the conference to give the presentation. We plan ETAPS 2027 as an on-site conference.
+
+Submitted papers must be in English, presenting original research. They must be unpublished and not submitted for publication elsewhere. In particular, simultaneous submission of the same contribution to multiple ETAPS conferences is forbidden.
+
+Submissions must follow the formatting guidelines of Springer’s LNCS (use the llncs.cls class) - except for ESOP, see above - and be submitted electronically in pdf through the Easychair author interface of the respective conference. Submissions not adhering to the specified format and length may be rejected immediately.
+
+Data availability statement in proceedings papers is mandatory for all ETAPS conference papers. It is to be placed just before the references and does not count into the page limit.
+
+ETAPS conferences will use double-blind reviewing (in the case of TACAS and iFS, only for regular research papers). Authors are asked to omit their names and institutions; refer to prior work in the third person, just as prior work by others; not to include acknowledgments that might identify them. If authors do not obey the double-blind submission policy or do not specify their conflicts of interest in the submission system, this may result in a desk rejection of the paper.
+
+ESOP, TACAS and FoSSaCS will use an author rebuttal phase.
+ARTIFACT SUBMISSION AND EVALUATION
+
+Regular tool paper and tool demonstration paper submissions to TACAS must be accompanied by an artifact submitted shortly after the paper. The artifact will be evaluated, and the outcome will be considered in the paper’s acceptance decision.
+
+For research paper and case study paper submissions at TACAS, participation in artifact evaluation is voluntary. Authors of papers of these categories may submit an artifact for evaluation after the paper has been accepted. The outcome of the artifact evaluation will not change the paper acceptance decision.
+
+ESOP, iFS, and FoSSaCS will accept artifact submissions; however, participation in it is voluntary; the artifact submission deadline is after the paper notification deadline. The outcome will not alter the paper acceptance decision.
+
+For ESOP, artifacts may be submitted with an accompanying short 5-page experience report (including a 1-page bibliography) that will appear in the conference proceedings.
+
+For specific instructions regarding artifacts, see the web pages of the individual conferences.
+SATELLITE EVENTS (April 10–11, 2027)
+
+Several satellite workshops and other events will take place during the weekend before the main conferences.
+CITY AND HOST INSTITUTION
+
+ETAPS 2027 will take place in Copenhagen, Denmark and is organized by the University of Copenhagen, IT University of Copenhagen, and Aalborg University.
+ORGANISERS
+
+Kim Guldstrand Larsen, Aalborg University
+Fritz Henglein, Copenhagen University
+Thomas Troels Hildebrandt, Copenhagen University
+Andrzej Wąsowski, IT University of Copenhagen
+Carsten Schürmann, IT University of Copenhagen
+Boris Düdder, Copenhagen University

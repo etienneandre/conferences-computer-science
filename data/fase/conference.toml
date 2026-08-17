@@ -2,15 +2,18 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "FASE"
 name = "International Conference on Fundamental Approaches to Software Engineering"
+defunct = 2026
 
 [core]
 id = "554"
-rank = "B"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "B"
 
 [links]
 dblp = "fase"
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.
-acceptance = "31% (16/51) in 2021."  # from FASE 2026
-extensions = "Grace period: 10 days (2022). Firm deadline (2026)."  # from FASE 2026
+extensions = "Grace period: 10 days (2022)."  # from FASE 2026

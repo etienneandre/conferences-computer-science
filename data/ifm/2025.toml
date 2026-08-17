@@ -18,11 +18,27 @@ notification = [2025-08-08]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-032-10794-7"
 
 [review]
-gender_balance = "mixed"
 artifact = "Optional EAPLS Artefact Badging."
 award = "Best paper award."
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+
+[stats]
+[[stats.track]]
+name = "regular papers"
+submitted = 65
+accepted = 23
+
+[[stats.track]]
+name = "short papers"
+submitted = 4
+accepted = 1
 
 [extra]
 journal = "A special issue of the Formal Aspects of Computing journal is planned for extended versions of selected papers from iFM 2025."

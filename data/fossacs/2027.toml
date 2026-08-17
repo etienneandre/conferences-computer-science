@@ -1,27 +1,27 @@
-# migrated from data.php line 10895
-edition = 29
+edition = 30
 title = "29th International Conference on Foundations of Software Science and Computation Structures"
 url = "https://etaps.org/2026/conferences/fossacs/"
 
 [event]
-start = 2026-04-11
-end = 2026-04-16
-city = "Turin, Italy"
-colocated_with = ["fase/2026", "tacas/2026"]
+start = 2027-04-10
+end = 2027-04-15
+city = "Copenhagen, Denmark"
+colocated_with = ["ifs/2027", "tacas/2027"]
 
 [submission]
 tz = "AoE"
 format = "18 pages LNCS + bibliography"
-paper = [2025-10-16]
-rebuttal_start = 2025-12-08
-rebuttal_end = 2025-12-10
-notification = [2025-12-22]
+abstract = [2026-10-15]
+paper = [2026-10-15]
+notification = [2026-12-22]
 extensions = false
+rebuttal_start = 2026-12-07
+rebuttal_end = 2026-12-09
+
 
 [proceedings]
 publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
-doi = "10.1007/978-3-032-22730-0"
 
 [review]
 blind = "double"
@@ -31,17 +31,10 @@ artifact = "Artifact evaluation."
 men = 1
 women = 1
 
-[review.gender.speakers]
-men = 0
-women = 1
-
-[stats]
-accepted = 30
-submitted = 104
-
 [extra]
-colocated = "Part of ETAPS 2026."
+colocated = "Part of ETAPS 2027."
+
 
 [[cfp]]
-file = "cfp/ETAPS-2026.txt"
+file = "cfp/ETAPS-2027-2026-08.txt"
 stage = "initial"
