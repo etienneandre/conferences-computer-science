@@ -34,4 +34,4 @@ build/
 __pycache__/
 *.pyc
 .DS_Store
-
+assets/fonts/*woff2
