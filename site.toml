@@ -1,0 +1,65 @@
+# site.toml — build configuration.
+[site]
+title = "conferences.computer.science"
+tagline = "An incomplete list of conferences in theoretical computer science, sorted by what closes next."
+base_url = "https://www.conferences-computer.science"
+language = "en"
+
+# How the compiled data may be reused. Shown on /data/ and embedded in every
+# export, so a copy carries its terms with it.
+data_licence = "CC BY-SA 4.0"
+data_licence_url = "https://creativecommons.org/licenses/by-sa/4.0/"
+
+# ---------------------------------------------------------------------------
+# The two lines that flip the site live.
+#
+# While the old site is still at index.php, the new front page is served from
+# future.php and every page carries a noindex, so search engines do not index a
+# site that is still being assembled.
+#
+# On changeover day:
+#     front_page = "index"
+#     draft = false
+# then `make deploy`. `make golive` prints this back at you with the current
+# values. Move the old site out of the way first, or index.php is overwritten.
+# ---------------------------------------------------------------------------
+front_page = "index"
+
+# While true, every generated page carries <meta name="robots" content="noindex">.
+# This matters: the new pages go online weeks before launch, and without it
+# search engines index half-finished versions that are then slow to refresh.
+draft = false
+
+[build]
+output = "public"
+data = "data"
+assets = "assets"
+
+# Deadlines with no declared time zone are treated as Anywhere on Earth
+# (UTC-12), the latest and so the most conservative reading. The assumption is
+# never stated on the page: see SCHEMA.md § 4.5.
+assumed_tz = "AoE"
+
+# A secret that lets you force the front page to rebuild from a browser:
+#     https://.../future.php?refresh=<token>
+# It bypasses the cache, rebuilds, and appends a diagnostic comment to the HTML.
+# Useful for checking the cache on the live server without waiting for midnight
+# UTC. Set it to "" to switch the feature off.
+#
+# Change this to something only you know before deploying.
+debug_token = "VRtn2S0-ffX3dyIA"
+
+[map]
+# Tiles are fetched from openstreetmap.org, which therefore learns the reader's
+# IP address. With `autoload = false` nothing is requested until the reader
+# presses a button, which sidesteps the question entirely. Setting it true is a
+# judgement call about third-party requests without consent — see the note in
+# assets/map.js.
+autoload = false
+
+# Country-to-continent scale: enough to see where in the world a venue is.
+zoom = 4
+
+[contact]
+issues = "https://github.com/etienneandre/conferences-computer-science/issues"
+form = "/submit/"

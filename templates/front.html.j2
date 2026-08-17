@@ -1,0 +1,85 @@
+{% extends "base.html.j2" %}
+
+{% block title %}{{ config.site.title }} &mdash; deadlines in theoretical computer science{% endblock %}
+
+{% block meta %}
+<meta name="description" content="{{ config.site.tagline }}">
+<link rel="canonical" href="{{ config.site.base_url }}/">
+<link rel="alternate" type="text/calendar" href="/ics/deadlines.ics" title="Upcoming deadlines">
+{# The date the list was ordered. filters.js compares it to today and warns if
+   it has stopped moving, which is the only visible sign that the front page
+   has fallen back to its static snapshot. #}
+<meta name="ordered-as-of" content="<!--ORDERED-ISO-->">
+{% endblock %}
+
+{% block tagline %}
+<p class="tagline">{{ config.site.tagline }}</p>
+{% endblock %}
+
+{% block content %}
+
+{# One definition, referenced by every row. Inlining the same twenty-line path
+   a thousand times cost a third of a megabyte. #}
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
+  <symbol id="ext" viewBox="0 0 24 24">
+    <path d="M14 4h6v6M20 4l-9 9M17 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h5"/>
+  </symbol>
+</svg>
+
+<div id="stale" class="stale" hidden></div>
+
+<div class="filters">
+  <div class="filter-group">
+    <span class="filter-label">Only</span>
+    <button class="chip" type="button" aria-pressed="true" data-filter="upcoming">Still open <span class="n">{{ counts.upcoming }}</span></button>
+    <button class="chip" type="button" aria-pressed="false" data-filter="open-access">Open access <span class="n">{{ counts['open-access'] }}</span></button>
+    <button class="chip" type="button" aria-pressed="false" data-filter="rank-a">CORE A*/A <span class="n">{{ counts['rank-a'] }}</span></button>
+    <button class="chip" type="button" aria-pressed="false" data-filter="europe">In Europe <span class="n">{{ counts.europe }}</span></button>
+    <button class="chip" type="button" aria-pressed="false" data-filter="asia">In Asia <span class="n">{{ counts.asia }}</span></button>
+  </div>
+  <div class="filter-group">
+    <span class="filter-label">Also</span>
+    <button class="chip" type="button" aria-pressed="false" data-mode="include" data-include="earlier">Earlier editions <span class="n">{{ counts.earlier }}</span></button>
+    <button class="chip" type="button" aria-pressed="false" data-mode="include" data-include="defunct">Discontinued <span class="n">{{ counts.defunct }}</span></button>
+  </div>
+  <label class="searchbox">
+    <svg viewBox="0 0 24 24" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input type="search" placeholder="Filter by name or place" aria-label="Filter by name or place">
+  </label>
+</div>
+
+<p class="resultline"><b id="count">{{ counts.total }}</b> <span id="countnoun">editions</span> shown &middot;
+  one row per conference unless you ask for earlier editions &middot;
+  deadlines in <b>Anywhere on Earth</b> unless stated</p>
+
+<table class="list">
+  <thead>
+    <tr>
+      <th><span class="visually-hidden">Time remaining</span></th>
+      <th>Conference</th>
+      <th>Submission</th>
+      <th>Held</th>
+      <th>CORE</th>
+      <th>Proceedings</th>
+      <th><span class="visually-hidden">Details</span></th>
+    </tr>
+  </thead>
+  <tbody id="rows">
+<!--ROWS-->
+  </tbody>
+</table>
+
+<p id="empty" class="detail-note" hidden>Nothing matches those filters.
+  Try removing one, or <button type="button" class="linklike" id="reset">start again</button>.</p>
+
+{% endblock %}
+
+{% block footer %}
+{{ fragment('_footer') }}
+<p class="buildinfo">List ordered <!--ORDERED-->.</p>
+{% endblock %}
+
+{% block scripts %}
+<script src="/assets/countdown.js?v={{ asset_version }}" defer></script>
+<script src="/assets/filters.js?v={{ asset_version }}" defer></script>
+{% endblock %}

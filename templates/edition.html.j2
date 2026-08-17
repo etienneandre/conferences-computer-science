@@ -1,0 +1,368 @@
+{% extends "base.html.j2" %}
+{% set place = city(edition.city_name) %}
+{% set proc = edition.proceedings %}
+{% set lic = licence(proc.get('license')) %}
+{% set pub = publisher(proc.get('publisher')) %}
+{% set paper = edition.paper %}
+{% set clock = countdown(paper) %}
+
+{% block title %}{{ edition.acronym }} &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+<meta name="description" content="{{ edition.acronym }}: submission deadlines, dates and proceedings.{% if paper %} Paper deadline {{ paper.effective | date }}.{% endif %}">
+<link rel="canonical" href="{{ config.site.base_url }}{{ edition.url }}">
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> /
+    <a href="{{ conference.url }}">{{ conference.acronym }}</a> / {{ edition.key }}</p>
+
+  <h1 class="page-title">{{ edition.acronym }}</h1>
+  <p class="page-sub">{{ edition.title }}</p>
+
+  <div class="page-meta">
+    {% if edition.held %}
+    <span class="item">Held<b>{{ edition.held }}</b></span>
+    {% endif %}
+    {% if edition.online %}
+    <span class="item">Where<b>Online</b></span>
+    {% elif place.name %}
+    <span class="item">Where<b>{{ place.display }} {{ place.flag }}</b></span>
+    {% endif %}
+    {% if edition.core_rank %}
+    <span class="item">Rank<b>CORE {{ edition.core_rank }}</b></span>
+    {% endif %}
+    {% if edition.website %}
+    <span class="item">Website<b>
+      {% if edition.website_dead %}
+      <s>{{ edition.website }}</s> <a href="https://web.archive.org/web/{{ edition.website }}">archived</a>
+      {% else %}
+      <a href="{{ edition.website }}">{{ edition.website | replace('https://', '') | replace('http://', '') }} &#8599;</a>
+      {% endif %}
+    </b></span>
+    {% endif %}
+  </div>
+
+  {% if edition.status %}
+  {% set state = enum('status', edition.status) %}
+  <div class="status-banner">
+    <span class="lead">{{ state.label | default(edition.status) }}</span>
+    <p>
+      {% if edition.status == 'joint' and edition.joint_target %}
+      {% set target = edition.joint_target %}
+      Held jointly this year. The details are on
+      <a href="/{{ target[0] }}/{{ target[1] }}/">the joint edition&rsquo;s page</a>.
+      {% else %}
+      {{ state.description | default('') }}
+      {% endif %}
+    </p>
+  </div>
+  {% elif paper %}
+  <div class="status-banner" data-step="{{ clock.step }}">
+    <span class="lead">{{ 'Open' if clock.days is not none and clock.days >= 0 else 'Closed' }}</span>
+    <p>
+      {% if clock.days is not none and clock.days >= 0 %}
+      Papers are due {{ paper.effective | date }}{% if paper.tz_shown %} ({{ paper.tz_shown }}){% endif %} &mdash;
+      <span class="countdown" data-expires="{{ clock.expires }}">{{ clock.text }}</span>.
+      {% else %}
+      Submission closed on {{ paper.effective | date }}{% if paper.extended %},
+      after an extension of {{ paper.extension_days }} days{% endif %}.
+      {% endif %}
+      {% if edition.post_proceedings %}
+      Proceedings are published after the event.
+      {% endif %}
+    </p>
+  </div>
+  {% endif %}
+</header>
+
+<div class="cols">
+  <div>
+
+    {% if edition.deadlines %}
+    <section class="panel">
+      <h2 class="panel-title">Submission timeline</h2>
+      {% for round_name, group in edition.deadline_groups %}
+      {% if round_name %}<h3 class="round-name">{{ round_name }}</h3>{% endif %}
+      <ul class="timeline">
+        {% for d in group %}
+        <li>
+          <span class="tl-date">{{ d.effective | date }}</span>
+          <span class="tl-name">{{ d.label }}
+            {% if d.tz_shown %}<span class="tz">{{ d.tz_shown }}</span>{% endif %}
+            {% if d.extended %}
+            {# Each step listed separately: "extended by 21 days across 2 steps"
+               loses which dates were actually announced, and those are the
+               interesting part. #}
+            <span class="tl-was">
+              {%- for step in d.steps %}
+              <s>{{ step.was | date }}</s> &rarr; {{ step.now | date }}
+              <i>+{{ step.days }} day{{ 's' if step.days != 1 }}</i>{% if not loop.last %}<br>{% endif %}
+              {%- endfor %}
+            </span>
+            {% endif %}
+          </span>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+      {% if edition.starts %}
+      <ul class="timeline">
+        <li><span class="tl-date">{{ edition.starts | date }}</span>
+          <span class="tl-name">Conference opens</span></li>
+      </ul>
+      {% endif %}
+      {% if edition.extensions_known_undated %}
+      <p class="chart-caption">A deadline was extended this year, but the date it moved
+        from was never recorded.</p>
+      {% elif edition.extensions_ruled_out %}
+      <p class="chart-caption">No extension: checked and confirmed.</p>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    <section class="panel">
+      <h2 class="panel-title">What to submit</h2>
+      <dl class="factlist">
+        {% if edition.format %}
+        <dt>Format</dt><dd>{{ edition.format }}</dd>
+        {% endif %}
+        {% if proc.get('none') %}
+        <dt>Proceedings</dt><dd>No formal proceedings.</dd>
+        {% elif pub.name %}
+        <dt>Proceedings</dt><dd>{{ pub.name }}{% if lic.get('label') %} &mdash;
+          <span class="lic" data-open="{{ lic.openness }}">{{ lic.label }}</span>{% endif %}
+          {% if edition.post_proceedings %}<br><small>Published after the event.</small>{% endif %}
+          {% if pub.get('note') %}<br><small>{{ pub.note }}</small>{% endif %}</dd>
+        {% endif %}
+        {% set blind = edition.review.get('blind') %}
+        {% if blind is not none and blind is not undefined %}
+        <dt>Reviewing</dt><dd>
+          {% if blind is string %}{{ enum('blind', blind).label | default(blind) }}
+          {% elif blind is sameas false %}Not blind
+          {% endif %}
+        </dd>
+        {% endif %}
+        {% set rebuttal = edition.review.get('rebuttal') %}
+        {% if edition.has_rebuttal or rebuttal is sameas false %}
+        <dt>Rebuttal</dt><dd>
+          {% if rebuttal is string %}{{ rebuttal }}
+          {% elif rebuttal is sameas false %}No rebuttal phase.
+          {% elif not edition.rebuttal_windows %}Yes.
+          {% endif %}
+          {% for name, start, end in edition.rebuttal_windows %}
+          {% if not loop.first %}<br>{% endif %}<span class="field-value data">{% if name %}{{ name }}: {% endif %}{{ start | date }}{% if end %} to {{ end | date }}{% endif %}</span>
+          {% endfor %}
+        </dd>
+        {% endif %}
+        {% for key, label in [('artifact', 'Artifacts'), ('award', 'Awards'),
+                              ('competition', 'Competition'), ('environment', 'Travel')] %}
+        {% set value = edition.review.get(key) %}
+        {% if value %}
+        <dt>{{ label }}</dt><dd>{{ value if value is string else 'Yes' }}</dd>
+        {% endif %}
+        {% endfor %}
+        {% set g = edition.gender_counts %}
+        {% if g or edition.gender_balance %}
+        <dt>Chairs and<br>invited speakers</dt><dd>
+          {% if edition.gender_balance == 'male-only' %}
+          <span class="tag" data-flag="attention"
+            title="Counted from the programme chairs and the invited speakers listed on the official site.">Only men</span>
+          {% elif edition.gender_balance == 'women-only' %}
+          <span class="tag">Only women</span>
+          {% elif edition.gender_balance == 'mixed' %}
+          <span class="tag">Mixed genders</span>
+          {% endif %}
+          {% if g %}
+          <div class="headcount">
+            {% if g.chairs.total %}<span><i>chairs</i> {{ g.chairs.phrase }}</span>{% endif %}
+            {% if g.speakers.total %}<span><i>invited speakers</i> {{ g.speakers.phrase }}</span>{% endif %}
+          </div>
+          {% endif %}
+          <small><a href="/about/#committees">How this is counted</a></small>
+        </dd>
+        {% endif %}
+        {% set pc = edition.committee_counts %}
+        {% if pc %}
+        <dt>Programme<br>committee</dt><dd>
+          {{ pc.phrase }} &mdash; {{ pc.share }}% women of {{ pc.total }}
+          <br><small>Recorded for information; it does not enter the count above.</small>
+        </dd>
+        {% endif %}
+        {% if edition.dois %}
+        <dt>Proceedings DOI</dt><dd>
+          {% for doi in edition.dois %}
+          <a href="https://doi.org/{{ doi }}" class="doi">{{ doi }}</a>{% if not loop.last %}<br>{% endif %}
+          {% endfor %}
+          {% if edition.dois | length > 1 %}<br><small>Published in {{ edition.dois | length }} volumes.</small>{% endif %}
+        </dd>
+        {% endif %}
+        {% if edition.extra.get('journal') %}
+        <dt>Journal</dt><dd>{{ edition.extra.get('journal') }}</dd>
+        {% endif %}
+        {% if edition.colocated or edition.extra.get('colocated') %}
+        <dt>Co-located with</dt><dd>
+          {% for other in edition.colocated %}
+          <a href="{{ other.url }}">{{ other.acronym }}</a>{% if not loop.last %}, {% endif %}
+          {% endfor %}
+          {% if edition.extra.get('colocated') %}
+          {% if edition.colocated %}<br><small>{% endif %}{{ edition.extra.get('colocated') }}{% if edition.colocated %}</small>{% endif %}
+          {% endif %}
+        </dd>
+        {% endif %}
+      </dl>
+      {% if edition.extra.get('notes') %}
+      <p class="detail-note">{{ edition.extra.get('notes') }}</p>
+      {% endif %}
+    </section>
+
+    {% if edition.cfps %}
+    {% set latest = edition.cfp_readable[0] if edition.cfp_readable else none %}
+    <section class="panel" id="cfp">
+      <h2 class="panel-title">Call for papers</h2>
+      <ul class="cfp-list">
+        {% for cfp in edition.cfps %}
+        {% set name = cfp.get('file', '').split('/')[-1] %}
+        <li>
+          <a href="{{ edition.url }}cfp/{{ name }}">
+            {%- if cfp.get('retrieved') %}Collected {{ cfp.retrieved | date }}
+            {%- elif cfp.get('stage') == 'extended' %}After a deadline extension
+            {%- elif cfp.get('kind') %}{{ enum('cfp_kind', cfp.kind).get('label', cfp.kind) }}
+            {%- else %}As first published{% endif -%}
+          </a>
+          {% if cfp.get('note') %} &mdash; {{ cfp.note }}{% endif %}
+          <span class="when-got">{{ name }} &middot;
+            {{ name.rsplit('.', 1)[-1] | upper }}{% if cfp is sameas latest %} &middot; shown below{% endif %}</span>
+        </li>
+        {% endfor %}
+      </ul>
+      {% if edition.cfp_attachments %}
+      <p class="chart-caption">Posters, images and calls for participation are kept
+        for the record but not reproduced here.</p>
+      {% endif %}
+    </section>
+
+    {% if latest %}
+    {% set body = cfp_text(edition, latest) %}
+    {% if body %}
+    <section class="panel">
+      <h2 class="panel-title">The call, as published</h2>
+      <p class="chart-caption">Reproduced verbatim from the organisers&rsquo; announcement
+        {%- if latest.get('retrieved') %}, collected {{ latest.retrieved | date }}{% endif -%}
+        {%- if latest.get('stage') == 'extended' %}, after a deadline extension{% endif %}.
+        {% if edition.website and not edition.website_dead %}
+        The conference&rsquo;s own page is at <a href="{{ edition.website }}">{{ edition.website | replace('https://', '') | replace('http://', '') }}</a>.
+        {% endif %}</p>
+      <pre class="cfp-body">{{ body }}</pre>
+    </section>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+
+  </div>
+
+  <aside>
+    {% if place.name and not edition.online %}
+    <section class="panel">
+      <h2 class="panel-title">Where</h2>
+      <div class="mapbox">
+        <div class="map-holder" id="map" data-city="{{ place.name }}"
+             data-zoom="{{ config.map.zoom }}"
+             data-autoload="{{ 'true' if config.map.autoload else 'false' }}"
+             {% if place.get('lat') %}data-lat="{{ place.lat }}" data-lon="{{ place.lon }}"{% endif %}>
+          {% if not config.map.autoload %}
+          <div class="map-prompt">
+            <button type="button" id="loadmap">Show map</button>
+            <p>Loads tiles from OpenStreetMap, which will see your IP address.</p>
+          </div>
+          {% endif %}
+        </div>
+        <p class="map-caption">{{ place.name }} {{ place.flag }}</p>
+        <p class="geo-hint" id="geohint" hidden></p>
+      </div>
+    </section>
+    {% endif %}
+
+    {% if edition.tracks %}
+    <section class="panel">
+      <h2 class="panel-title">Acceptance by track</h2>
+      <table class="tracks">
+        <tbody>
+          {% for t in edition.tracks %}
+          <tr><th>{{ t.name }}</th>
+            <td class="num">{{ t.accepted }} / {{ t.submitted }}</td>
+            <td class="num pct">{{ t.rate | round | int }}%</td></tr>
+          {% endfor %}
+          {% if edition.counts %}
+          <tr class="overall"><th>Overall</th>
+            <td class="num">{{ edition.counts[0] }} / {{ edition.counts[1] }}</td>
+            <td class="num pct">{{ edition.rate | round | int }}%</td></tr>
+          {% endif %}
+        </tbody>
+      </table>
+      {% if edition.counts_are_summed %}
+      <p class="chart-caption">The overall figure is the sum of the tracks; the
+        conference did not publish one.</p>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    {% if conference.rated_editions %}
+    <section class="panel">
+      <h2 class="panel-title">Acceptance rate</h2>
+      {% include "_ratechart.html.j2" with context %}
+    </section>
+    {% endif %}
+
+    <section class="panel">
+      <h2 class="panel-title">Nearby editions</h2>
+      <dl class="factlist">
+        {% if edition.previous %}
+        <dt>Previous</dt><dd><a href="{{ edition.previous.url }}">{{ edition.previous.acronym }}</a>
+          {% set p = city(edition.previous.city_name) %}
+          {% if p.name %}&mdash; {{ p.display }} {{ p.flag }}{% endif %}</dd>
+        {% endif %}
+        {% if edition.following %}
+        <dt>Next</dt><dd><a href="{{ edition.following.url }}">{{ edition.following.acronym }}</a>
+          {% set n = city(edition.following.city_name) %}
+          {% if edition.following.online %}&mdash; online
+          {% elif n.get('name') %}&mdash; {{ n.display }} {{ n.flag }}{% endif %}</dd>
+        {% else %}
+        <dt>Next</dt><dd>Not yet announced</dd>
+        {% endif %}
+        <dt>Series</dt><dd><a href="{{ conference.url }}">All {{ conference.editions | length }}
+          listed editions of {{ conference.acronym }} &rarr;</a></dd>
+      </dl>
+    </section>
+
+    <section class="panel">
+      <h2 class="panel-title">Elsewhere</h2>
+      <dl class="factlist">
+        {% if conference.links.get('dblp') %}
+        <dt>DBLP</dt><dd><a href="https://dblp.org/db/conf/{{ conference.links.get('dblp') }}/">{{ conference.links.get('dblp') }} &#8599;</a></dd>
+        {% endif %}
+        {% if conference.core_id %}
+        <dt>CORE</dt><dd><a href="https://portal.core.edu.au/conf-ranks/{{ conference.core_id }}/">portal entry {{ conference.core_id }} &#8599;</a></dd>
+        {% endif %}
+        {% if conference.links.get('wikipedia') %}
+        <dt>Wikipedia</dt><dd><a href="https://en.wikipedia.org/wiki/{{ conference.links.get('wikipedia') }}">article &#8599;</a></dd>
+        {% endif %}
+        <dt>Calendar</dt><dd><a href="/{{ conference.slug }}/{{ conference.slug }}.ics">Subscribe to {{ conference.acronym }}</a></dd>
+        <dt>Data</dt><dd><a href="/data/{{ conference.slug }}.json">This series as JSON</a></dd>
+      </dl>
+    </section>
+  </aside>
+</div>
+
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script src="/assets/countdown.js?v={{ asset_version }}" defer></script>
+{% if place.name and not edition.online %}
+<script src="/assets/map.js?v={{ asset_version }}" defer></script>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ config.site.language }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% if config.site.draft %}
+{# The new pages go online weeks before launch. Without this, search engines
+   index half-finished versions that are slow to refresh afterwards. #}
+<meta name="robots" content="noindex, nofollow">
+{% endif %}
+<title>{% block title %}{{ config.site.title }}{% endblock %}</title>
+{% block meta %}{% endblock %}
+<link rel="stylesheet" href="/assets/site.css?v={{ asset_version }}">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+{% block head %}{% endblock %}
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap masthead-row">
+    <div>
+      <p class="wordmark"><a href="/">conferences<span class="dot">.</span>computer<span class="dot">.</span>science</a></p>
+      {% block tagline %}{% endblock %}
+    </div>
+    <nav class="mainnav" aria-label="Site">
+      <a href="/ics/">Calendars</a>
+      <a href="/data/">Open data</a>
+      <a href="{{ config.contact.form }}">Submit a conference</a>
+      <a href="/about/">About</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+{% block content %}{% endblock %}
+
+{# Your words, in pages/_caveat.html. Kept out of this template so that a new
+   version of the site chrome cannot overwrite something you have rewritten. #}
+{% block caveat %}{{ fragment('_caveat') }}{% endblock %}
+</main>
+
+<footer class="wrap">
+  {# Also yours: pages/_footer.html. #}
+  {% block footer %}{{ fragment('_footer') }}{% endblock %}
+</footer>
+
+{% block scripts %}{% endblock %}
+</body>
+</html>

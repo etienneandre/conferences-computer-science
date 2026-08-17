@@ -1,0 +1,20 @@
+{# Acceptance rates as horizontal bars: full years, the value beside each bar,
+   and a scale that runs to a fixed 60% so two conferences can be compared by
+   eye. Years with no published figure are left out rather than drawn as zero,
+   which would read as a collapse in selectivity. #}
+{% set rated = conference.rated_editions %}
+{% set best = rated | map(attribute='rate') | max %}
+<div class="rate-scale"><span></span><span class="ticks"><i>0%</i><i>30%</i><i>60%</i></span></div>
+<ol class="ratechart">
+  {% for e in rated %}
+  <li{% if e.rate == best %} class="is-hi"{% endif %}>
+    <span class="ry">{{ e.year }}</span>
+    <span class="rb"><i style="--w: {{ (100 * e.rate / 60) | round | int }}%"></i></span>
+    <span class="rv">{{ e.rate | round | int }}%
+      {%- if e.counts %} <small>{{ e.counts[0] }}/{{ e.counts[1] }}</small>{% endif %}</span>
+  </li>
+  {% endfor %}
+</ol>
+{% set gaps = conference.listed_editions | rejectattr('rate') | map(attribute='year') | list %}
+<p class="chart-caption">Scale runs to 60%; the mid-line marks 30%.
+  {% if gaps %}No figure published for {{ gaps | sort | join(', ') }}.{% endif %}</p>

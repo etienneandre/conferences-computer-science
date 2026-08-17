@@ -1,0 +1,124 @@
+{# One row of the front page.
+
+   Everything here is fixed at build time except four values that depend on
+   today's date. Those are left as markers for PHP to substitute:
+
+     @@STEP@@   urgency class: d0 d1 d2 d3 d4 past
+     @@WIDTH@@  gauge length, a percentage
+     @@COUNT@@  "in 12 days", "closed 51 days ago"
+     @@PAST@@   " is-past" once the deadline has gone
+
+   PHP therefore never needs to know what a licence or a CORE rank is: it
+   sorts, substitutes four strings, and concatenates. All the modelling stays
+   in Python, where the data lives.
+#}
+{% set place = city(edition.city_name) %}
+{% set proc = edition.proceedings %}
+{% set lic = licence(proc.get('license')) %}
+{% set paper = edition.paper %}
+<tr class="row@@PAST@@{% if conference.defunct or conference.one_off %} is-defunct{% endif %}" data-tags="{{ tags }}" data-search="{{ search }}" style="--step: var(--@@STEP@@)">
+  <td class="gauge"><div class="gauge-track"><div class="gauge-fill" style="width:@@WIDTH@@"></div></div></td>
+  <td class="c-conf">
+    <span class="acro"><a href="{{ edition.url }}">{{ edition.acronym }}</a></span>
+    {% if conference.one_off %}<span class="dead-mark" title="A single event, never intended to recur">one-off</span>
+    {% elif conference.defunct %}<span class="dead-mark" title="No further editions{% if conference.defunct != 'seemingly' %}; last was {{ conference.defunct }}{% endif %}">discontinued</span>{% endif %}
+    {% if edition.website and not edition.website_dead %}
+    <a class="ext" href="{{ edition.website }}" title="Conference website (external)" aria-label="{{ edition.acronym }} website"><svg aria-hidden="true"><use href="#ext"/></svg></a>
+    {% endif %}
+  </td>
+  <td class="c-dead">
+    {% if paper %}
+    <span class="deadline">{{ paper.effective | date }}</span><span class="countdown" data-expires="@@EXPIRES@@">@@COUNT@@</span>
+    {% set abstract = edition.deadline('abstract') %}
+    {% if paper.extended %}
+    <span class="sub-date"><b>was</b> {{ paper.announced | date(false) }}<span class="extended">extended</span></span>
+    {% elif edition.extensions_known_undated %}
+    <span class="sub-date"><span class="extended">extended</span> from an unrecorded date</span>
+    {% elif abstract and abstract.effective != paper.effective %}
+    <span class="sub-date"><b>abstract</b> {{ abstract.effective | date }}</span>
+    {% elif edition.extensions_ruled_out %}
+    <span class="sub-date"><span class="firm">firm</span> no extension</span>
+    {% elif edition.has_rounds %}
+    <span class="sub-date"><b>{{ edition.deadline_groups | length }} rounds</b></span>
+    {% endif %}
+    {% else %}
+    <span class="deadline">&mdash;</span>
+    {% endif %}
+  </td>
+  <td class="c-place">
+    {% if edition.held %}<span class="when">{{ edition.held }}</span>{% endif %}
+    {% if edition.online %}
+    <span class="where">Online</span>
+    {% elif place.get('name') %}
+    <span class="where">{{ place.display }}{% if place.flag %} <span class="flag" title="{{ place.name }}" role="img" aria-label="{{ place.name }}">{{ place.flag }}</span>{% endif %}</span>
+    {% endif %}
+  </td>
+  <td class="c-meta">
+    {% if edition.core_rank %}
+    <span class="rank" data-rank="{{ edition.core_rank }}">{{ '\u2014' if edition.core_rank in ('absent', 'unranked') else edition.core_rank }}</span>
+    {% endif %}
+  </td>
+  <td class="c-proc proc">
+    {% if proc.get('none') %}No proceedings{% elif proc.get('publisher') %}{{ proc.publisher }}{% endif %}
+    {% if lic.get('label') %}<span class="lic" data-open="{{ lic.openness }}">{{ lic.label }}</span>{% endif %}
+  </td>
+  <td class="expander">
+    {% if with_detail %}
+    <button type="button" aria-expanded="false" aria-label="Show details for {{ edition.acronym }}">&#9662;</button>
+    {% else %}
+    <a href="{{ edition.url }}" class="gotopage" title="Full page for {{ edition.acronym }}">&rarr;</a>
+    {% endif %}
+  </td>
+</tr>
+{# Only the current edition of each series carries its details inline. Emitting
+   them for a thousand hidden rows as well cost megabytes and helped nobody:
+   anyone reaching for an old edition is one click from its own page. #}
+{% if with_detail %}
+<tr class="detail" hidden><td colspan="7"><div class="detail-inner">
+  <p class="detail-title">{{ edition.title }}</p>
+  <div class="detail-grid">
+    {% for key, label in [('notification', 'Notification'), ('camera_ready', 'Camera ready')] %}
+    {% set d = edition.deadline(key) %}
+    {% if d %}<div><span class="field-label">{{ label }}</span><span class="field-value data">{{ d.effective | date }}</span></div>{% endif %}
+    {% endfor %}
+    {% if edition.format %}
+    <div><span class="field-label">Format</span><span class="field-value">{{ edition.format }}</span></div>
+    {% endif %}
+    {% if conference.links.get('dblp') %}
+    <div><span class="field-label">DBLP</span><span class="field-value"><a href="https://dblp.org/db/conf/{{ conference.links.dblp }}/">{{ conference.links.dblp }} &#8599;</a></span></div>
+    {% endif %}
+  </div>
+  {% if conference.rated_editions %}
+  <div style="margin-top:.75rem">
+    <span class="field-label">Acceptance rate</span>
+    <div class="history">
+      {% for e in conference.rated_editions[:8] %}
+      <span{% if loop.first %} class="best"{% endif %}><i>{{ e.year }}</i> <b>{{ e.rate | round | int }}%</b>{% if e.counts %} <i>{{ e.counts[0] }}/{{ e.counts[1] }}</i>{% endif %}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+  {% set tagline = [] %}
+  <div class="tags">
+    {% set blind = edition.review.get('blind') %}
+    {% if blind is string %}<span class="tag">{{ enum('blind', blind).get('label', blind) }}</span>{% endif %}
+    {% if edition.review.get('rebuttal') %}<span class="tag">Rebuttal</span>{% endif %}
+    {% if edition.review.get('artifact') %}<span class="tag">Artifact evaluation</span>{% endif %}
+    {% if edition.review.get('award') %}<span class="tag">Awards</span>{% endif %}
+    {% if edition.review.get('competition') %}<span class="tag">Competition</span>{% endif %}
+    {% if edition.extra.get('journal') %}<span class="tag">Special issue</span>{% endif %}
+    {% if edition.post_proceedings %}<span class="tag">Post-proceedings</span>{% endif %}
+    {% if edition.gender_balance == 'male-only' %}
+    <span class="tag" data-flag="attention" title="No woman appears among the programme chairs or the invited speakers listed on the official site.">No women chairs or invited speakers</span>
+    {% endif %}
+  </div>
+  {% if edition.extra.get('notes') %}
+  <p class="detail-note">{{ edition.extra.notes }}</p>
+  {% endif %}
+  <div class="detail-actions">
+    <a href="{{ edition.url }}">Full page for {{ edition.acronym }} &rarr;</a>
+    <a href="{{ conference.url }}">All editions of {{ conference.acronym }}</a>
+    {% if edition.cfp_readable %}<a href="{{ edition.url }}#cfp">Call for papers</a>{% endif %}
+  </div>
+</div></td></tr>
+{% endif %}

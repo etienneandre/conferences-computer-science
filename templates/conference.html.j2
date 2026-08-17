@@ -1,0 +1,245 @@
+{% extends "base.html.j2" %}
+{% set ext = conference.extension_summary %}
+
+{% block title %}{{ conference.acronym }} &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+<meta name="description" content="{{ conference.acronym }}: {{ conference.name }}. Deadlines, venues and acceptance rates across {{ conference.editions | length }} editions.">
+<link rel="canonical" href="{{ config.site.base_url }}{{ conference.url }}">
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / {{ conference.acronym }}</p>
+  <h1 class="page-title">{{ conference.acronym }}</h1>
+  <p class="page-sub">{{ conference.name }}</p>
+
+  <div class="page-meta">
+    <span class="item">Editions listed<b>{{ conference.editions | length }}</b></span>
+    {% if conference.listed_editions %}
+    <span class="item">Covered<b>{{ conference.first_year }}&ndash;{{ conference.last_year }}</b></span>
+    {% endif %}
+    {% if conference.current_rank %}
+    <span class="item">Rank now<b>CORE {{ conference.current_rank }}
+      {%- if conference.current_rank == 'national' and conference.core_national_of %}
+      ({{ conference.core_national_of }}){% endif %}</b></span>
+    {% endif %}
+    {% if conference.frequency %}
+    <span class="item">Frequency<b>{{ conference.frequency }}</b></span>
+    {% endif %}
+    {% if conference.scope and conference.scope != 'international' %}
+    <span class="item">Reach<b>{{ enum('scope', conference.scope).get('label', conference.scope) }}
+      {%- if conference.languages %} &middot; {{ conference.languages | join(', ') }}{% endif %}</b></span>
+    {% endif %}
+  </div>
+
+  {% if conference.defunct or conference.one_off or conference.successors %}
+  <div class="status-banner">
+    <span class="lead">
+      {%- if conference.one_off %}Single event
+      {%- elif conference.successors %}Continued
+      {%- else %}Discontinued{% endif -%}
+    </span>
+    <p>
+      {% if conference.one_off %}
+      A one-off event, never intended to recur.
+      {% elif conference.successors %}
+      Continues as
+      {% for s in conference.successors %}<a href="{{ s.url }}">{{ s.acronym }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.
+      {% elif conference.defunct == 'seemingly' %}
+      Seemingly discontinued: no edition has been announced for some years.
+      {% else %}
+      Discontinued after {{ conference.defunct }}.
+      {% endif %}
+      {% if conference.predecessors %}
+      Formed from
+      {% for p in conference.predecessors %}<a href="{{ p.url }}">{{ p.acronym }}</a>{% if not loop.last %} and {% endif %}{% endfor %}.
+      {% endif %}
+    </p>
+  </div>
+  {% elif conference.predecessors %}
+  <div class="status-banner">
+    <span class="lead">Merger</span>
+    <p>Formed from
+      {% for p in conference.predecessors %}<a href="{{ p.url }}">{{ p.acronym }}</a>{% if not loop.last %} and {% endif %}{% endfor %}.
+      Figures from before the merger belong to those conferences.</p>
+  </div>
+  {% endif %}
+</header>
+
+<div class="cols">
+  <div>
+    <section class="panel">
+      <h2 class="panel-title">Editions</h2>
+      <table class="editions">
+        <thead>
+          <tr><th>Year</th><th class="num">Ed.</th><th>Held</th><th>Where</th>
+            <th>Paper deadline</th><th class="num">Accepted</th><th class="num">Rate</th></tr>
+        </thead>
+        <tbody>
+          {# Consecutive edition numbers across a gap year mean the conference simply
+   did not meet: nothing is missing from our records, so say nothing. This
+   also covers series running every 18 months. #}
+          {% set ns = namespace(previous=None, previous_edition=None) %}
+          {% for e in conference.listed_editions %}
+          {% if ns.previous and ns.previous - e.year > 1 %}
+          {% set missing = range(e.year + 1, ns.previous) | list %}
+          {% set contiguous = ns.previous_edition and e.raw.get('edition')
+                              and ns.previous_edition - e.raw.edition == 1 %}
+          {% if not contiguous %}
+          <tr class="gap"><td colspan="7">
+            {% if conference.complete_since and missing | min >= conference.complete_since %}
+            no edition in {{ missing | join(', ') }}
+            {% else %}
+            {{ missing | join(', ') }} &mdash; not recorded here, which does not mean
+            the conference did not meet
+            {% endif %}
+          </td></tr>
+          {% endif %}
+          {% endif %}
+          {% set ns.previous = e.year %}
+          {% set ns.previous_edition = e.raw.get('edition') %}
+          {% set p = city(e.city_name) %}
+          {# e.paper picks the round that is still open; e.deadline('paper')
+             would return round 1 and call the edition closed. #}
+          {% set paper = e.paper %}
+          {% set clock = countdown(paper) %}
+          {% set open = clock.days is not none and clock.days >= 0 %}
+          <tr{% if e.status in ('cancelled', 'no-edition', 'postponed') %} class="struck"{% endif %}>
+            <td class="yr"><a href="{{ e.url }}">{{ e.key }}</a>
+              {% if e.status %}
+              {% set st = enum('status', e.status) %}
+              <span class="statemark" data-state="{{ e.status }}" title="{{ st.get('description', '') }}">{{ st.get('label', e.status) }}</span>
+              {% elif open %}
+              <span class="statemark" data-state="open" title="Papers are still being accepted">open</span>
+              {% endif %}
+            </td>
+            <td class="num">{% if e.raw.get('edition') %}{{ e.raw.edition }}{% else %}&mdash;{% endif %}</td>
+            <td>{{ e.held }}</td>
+            <td>{% if e.online %}Online{% elif p.name %}{{ p.display }} {{ p.flag }}{% else %}&mdash;{% endif %}</td>
+            <td>
+              {% if e.status in ('cancelled', 'no-edition') %}&mdash;
+              {% elif paper %}{{ paper.effective | date(false) }}
+                {% if paper.extended %}<span class="extended">+{{ paper.extension_days }}&nbsp;days</span>
+                {% elif e.extensions_known_undated %}<span class="extended">ext.</span>
+                {% elif e.extensions_ruled_out %}<span class="firm" title="Checked: this deadline was not extended">firm</span>
+                {% endif %}
+              {% else %}&mdash;{% endif %}
+            </td>
+            <td class="num">
+              {%- if e.counts -%}{{ e.counts[0] }} / {{ e.counts[1] }}
+              {%- else -%}&mdash;{%- endif -%}
+            </td>
+            <td class="num">{% if e.rate %}{{ e.rate | round | int }}%{% else %}&mdash;{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% if not conference.complete_since %}
+      <p class="detail-note">A missing year does not mean the conference did not meet:
+        coverage before {{ conference.first_year }} has not been verified.</p>
+      {% endif %}
+    </section>
+
+    {% if conference.rated_editions %}
+    <section class="panel">
+      <h2 class="panel-title">Acceptance rate over time</h2>
+      {% include "_ratechart.html.j2" with context %}
+    </section>
+    {% endif %}
+  </div>
+
+  <aside>
+    {% if conference.core_history %}
+    <section class="panel">
+      <h2 class="panel-title">CORE rank over time</h2>
+      <div class="rank-run">
+        {% set history = conference.core_history %}
+        {% set newest = conference.last_year %}
+        {% for h in history %}
+        {% set until = history[loop.index]['from'] if not loop.last else newest + 1 %}
+        <span class="seg" data-rank="{{ h.rank }}" style="--w: {{ [until - h['from'], 1] | max }}">
+          {{ h.rank }} <small>{{ h['from'] }}{% if not loop.last %}&ndash;{{ until - 1 }}{% else %}&ndash;{% endif %}</small>
+        </span>
+        {% endfor %}
+      </div>
+      <p class="chart-caption">
+        {% if conference.core_history[0].get('assumed') %}
+        Only the current rank is recorded; earlier rounds have not been checked.
+        {% elif conference.rank_predates_core %}
+        Ranked since the first CORE round.
+        {% else %}
+        Ranks before {{ conference.core_history[0]['from'] }} are unknown.
+        {% endif %}
+      </p>
+    </section>
+    {% endif %}
+
+    {% if ext.known or ext.unknown %}
+    <section class="panel">
+      <h2 class="panel-title">Deadline habits</h2>
+      <dl class="factlist">
+        {% if ext.known %}
+        <dt>Extended</dt><dd>{{ ext.extended }} of {{ ext.known }} editions
+          {%- if ext.firm %} ({{ ext.firm }} confirmed firm){% endif %}</dd>
+        {% endif %}
+        {% if ext.typical %}<dt>Typical</dt><dd>{{ ext.typical }}</dd>{% endif %}
+        {% if ext.longest and ext.varied %}<dt>Longest</dt><dd>{{ ext.longest }} days</dd>{% endif %}
+        {% if ext.unknown %}
+        <dt>Not known</dt><dd>{{ ext.unknown }} edition{{ 's' if ext.unknown != 1 }}</dd>
+        {% endif %}
+      </dl>
+      <p class="chart-caption">An edition counts as firm only when it was checked;
+        a deadline with no earlier date recorded is counted as not known, not as
+        firm.</p>
+    </section>
+    {% endif %}
+
+    <section class="panel">
+      <h2 class="panel-title">Elsewhere</h2>
+      <dl class="factlist">
+        {% if conference.links.get('dblp') %}
+        <dt>DBLP</dt><dd><a href="https://dblp.org/db/conf/{{ conference.links.get('dblp') }}/">{{ conference.links.get('dblp') }} &#8599;</a></dd>
+        {% endif %}
+        {% if conference.core_id %}
+        <dt>CORE</dt><dd><a href="https://portal.core.edu.au/conf-ranks/{{ conference.core_id }}/">portal entry {{ conference.core_id }} &#8599;</a></dd>
+        {% endif %}
+        {% if conference.links.get('wikipedia') %}
+        <dt>Wikipedia</dt><dd><a href="https://en.wikipedia.org/wiki/{{ conference.links.get('wikipedia') }}">article &#8599;</a></dd>
+        {% endif %}
+        {% if conference.links.get('mastodon') %}
+        <dt>Mastodon</dt><dd><a href="{{ conference.links.get('mastodon') }}" rel="me">account &#8599;</a></dd>
+        {% endif %}
+        {% if conference.links.get('bluesky') %}
+        <dt>Bluesky</dt><dd><a href="https://bsky.app/profile/{{ conference.links.get('bluesky') }}">{{ conference.links.get('bluesky') }} &#8599;</a></dd>
+        {% endif %}
+        {% if not (conference.defunct or conference.one_off) %}
+        <dt>Calendar</dt><dd><a href="/{{ conference.slug }}/{{ conference.slug }}.ics">Subscribe to {{ conference.acronym }}</a></dd>
+        {% endif %}
+        <dt>Data</dt><dd><a href="/data/{{ conference.slug }}.json">All editions as JSON</a></dd>
+      </dl>
+    </section>
+
+    {% if conference.legacy %}
+    <section class="panel">
+      <h2 class="panel-title">Notes carried over</h2>
+      {% if conference.legacy.get('acceptance') %}
+      <p class="detail-note"><b>Acceptance:</b> {{ conference.legacy.acceptance }}</p>
+      {% endif %}
+      {% if conference.legacy.get('extensions') %}
+      <p class="detail-note"><b>Extensions:</b> {{ conference.legacy.extensions }}</p>
+      {% endif %}
+      {% if conference.legacy.get('notes') %}
+      <p class="detail-note">{{ conference.legacy.notes }}</p>
+      {% endif %}
+      <p class="chart-caption">Kept verbatim from the old site while it is being
+        turned into structured data.</p>
+    </section>
+    {% endif %}
+  </aside>
+</div>
+
+</article>
+{% endblock %}

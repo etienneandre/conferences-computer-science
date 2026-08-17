@@ -1,0 +1,13 @@
+{% extends "base.html.j2" %}
+
+{% block title %}{{ page_title }} &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+<link rel="canonical" href="{{ config.site.base_url }}/{{ slug }}/">
+{% endblock %}
+
+{% block content %}
+<article class="prose">
+{{ page_body }}
+</article>
+{% endblock %}
