@@ -1,12 +1,12 @@
 # migrated from data.php line 4947
 edition = 6
 title = "6th International Symposium for Cyber Security, Cryptology and Machine Learning"
-url = "https://www.cscml.org/"
+url = "https://www.cscml.org/cscml2022"
 
 [event]
 start = 2022-06-30
 end = 2022-07-01
-city = "Virtual"
+online = true
 
 [submission]
 format = "15 pages LNCS (+ references)"
@@ -14,6 +14,18 @@ abstract = [2022-02-07]
 paper = [2022-02-07, 2022-02-11, 2022-02-15, 2022-02-18]
 notification = [2022-03-14]
 
+[review]
+[review.gender.chairs]
+men = 3
+women = 0
+
+[review.gender.speakers]
+men = 3
+women = 0
+
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+[extra]
+notes = "Moved online due to Coronavirus"

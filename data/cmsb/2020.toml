@@ -6,7 +6,8 @@ url = "http://www.cmsb2020-uni.saarland.de/"
 [event]
 start = 2020-09-23
 end = 2020-09-25
-city = "Virtual (Konstanz, Germany)"
+city = "Konstanz, Germany"
+online = true
 
 [submission]
 format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
@@ -18,8 +19,11 @@ notification = [2020-07-15]
 publisher = "Springer LNCS/LNBI"
 license = "pay-profit"
 
+[review]
+artifact = "Reproducibility recommended."
+
 [extra]
-notes = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal. Reproducibility recommended."
+journal = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal."
 
 [[cfp]]
 file = "cfp/CMSB-2020-extended.txt"

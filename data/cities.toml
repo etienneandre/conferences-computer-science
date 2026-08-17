@@ -3559,42 +3559,19 @@ lon = 5.1214
 continent = "EU"
 # 1 edition(s)
 
-["Valencia, France"]
-country = "FR"
-display = "Valencia"
-lat = 44.9333
-lon = 4.8917
-continent = "EU"
-# WARNING: probably Valence, France — Valencia is in Spain. CHECK
-# 1 edition(s)
-
 ["Valencia, Spain"]
 country = "ES"
 display = "Valencia"
 lat = 39.4699
 lon = -0.3763
 continent = "EU"
-# 1 edition(s)
 
-["Virtual"]
-# WARNING: online event: use event.online = true instead of a city
-# 1 edition(s)
-
-["Virtual (Konstanz, Germany)"]
+["Konstanz, Germany"]
 country = "DE"
-display = "Virtual (Konstanz"
+display = "Konstanz"
 lat = 47.6603
 lon = 9.1758
 continent = "EU"
-# 1 edition(s)
-
-["Virtual (Lugano, Switzerland)"]
-country = "CH"
-display = "Virtual (Lugano"
-lat = 46.0037
-lon = 8.9511
-continent = "EU"
-# 1 edition(s)
 
 ["Vitória - Espírito Santo, Brazil"]
 country = "BR"
@@ -3602,14 +3579,6 @@ display = "Vitória - Espírito Santo"
 lat = -20.3155
 lon = -40.3128
 continent = "SA"
-# 1 edition(s)
-
-["Warsaw, Poland (hybrid)"]
-country = "PL"
-display = "Warsaw"
-lat = 52.2297
-lon = 21.0122
-continent = "EU"
 # 1 edition(s)
 
 ["Wellington, New Zealand"]

@@ -6,7 +6,8 @@ url = "https://fmics2022.fsa.win.tue.nl/"
 [event]
 start = 2022-09-14
 end = 2022-09-16
-city = "Warsaw, Poland (hybrid)"
+city = "Warsaw, Poland"
+hybrid = true
 
 [submission]
 tz = "AoE"
@@ -25,7 +26,8 @@ submitted = 22
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Part of CONFEST with CONCUR, FORMATS and QEST. Special track papers on Formal Methods for Responsible AI"
+colocated = "Part of CONFEST with CONCUR, FORMATS and QEST."
+notes = "Special track papers on Formal Methods for Responsible AI"
 
 [[cfp]]
 file = "cfp/FMICS-2022.txt"
