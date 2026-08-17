@@ -32,6 +32,10 @@ women = 2
 # men = 30
 # women = 12
 
+[stats]
+accepted = 22
+submitted = 63
+
 [extra]
 journal = "Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings."
 notes = "Also journal-first presentations. Doctoral symposium."

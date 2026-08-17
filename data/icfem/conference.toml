@@ -19,5 +19,5 @@ dblp = "icfem"
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.
-acceptance = "29% (2009, 36/121), 30% (2011, 31/103), 36% (2012), 30% (2014), 32.9% (2015, 27/82), 42% (2016, 27/64), 35% (2017, 28/80), 33% (2018, 22/66), 38% (2022, 23/61), 38% (2023, 13/34), 44% (2024, 22/50)"  # from ICFEM 2026
-extensions = "1 week (2013), 2 weeks (2014), 1 week (2015, 2016, 2017), 4 weeks (2019), 16 days (2020), 20 days (2022), 7 days (2023), 6+8 days (2024), 14 days (2025, 2026). Notification date extended by 18+4 days in 2015 (and 4 days in 2016), after the submission deadline and without announcement."  # from ICFEM 2026
+acceptance = "Old data: 29% (2009, 36/121), 30% (2011, 31/103), 36% (2012), 30% (2014), 32.9% (2015, 27/82), 42% (2016, 27/64), 35% (2017, 28/80), 33% (2018, 22/66), 38% (2022, 23/61), 38% (2023, 13/34)"  # from ICFEM 2026
+extensions = "Old data: 1 week (2013), 2 weeks (2014), 1 week (2015, 2016, 2017), 4 weeks (2019), 16 days (2020), 20 days (2022), 7 days (2023), 6+8 days (2024). Notification date extended by 18+4 days in 2015 (and 4 days in 2016), after the submission deadline and without announcement."  # from ICFEM 2026

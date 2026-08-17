@@ -18,9 +18,20 @@ notification = [2025-08-01]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-981-95-4213-0"
 
 [review]
-gender_balance = "mixed"
+[review.gender.chairs]
+men = 3
+women = 0
+
+[review.gender.speakers]
+men = 3
+women = 1
+
+[stats]
+accepted = 20
+submitted = 47
 
 [extra]
 journal = "Invited extended versions of selected papers will be recommended to a special issue of Formal Aspects of Computing after the conference proceedings. The best software linked to a paper will be recommended to a special issue of the Software track of Elsevier’s Science of Computer Programming journal."
