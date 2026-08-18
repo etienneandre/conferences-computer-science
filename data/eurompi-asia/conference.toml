@@ -1,8 +1,0 @@
-# EuroMPI / Asia — migrated from the legacy data file
-# Review: complete_since is unset, meaning coverage is unknown.
-acronym = "EuroMPI / Asia"
-name = "European MPI Users’ Group Meeting"
-
-[legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-notes = "Deadline extension: 1 week (2014). Acceptance rate (2014): 48% (18/39)."

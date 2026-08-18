@@ -1,6 +1,27 @@
-# stub: this edition is known only from the acceptance history.
-# TODO: verify
+# migrated from data.php line 7245
+edition = 21
+title = "21st European MPI Users’ Group Meeting (EuroMPI/Asia)"
+url = "http://www.eurompi2014.org/"
 
+[event]
+start = 2014-09-09
+end = 2014-09-12
+city = "Kyoto, Japan"
+
+[submission]
+format = "6 pages ACM ICPS"
+paper = [2014-05-19, 2014-05-26] # NOTE: one week extension, originally only "2014-05-26", arbitrarily set original deadline to 1 week *earlier*
+notification = [2014-06-20]
+
+[proceedings]
+publisher = "ACM"
+license = "pay"
+
+# stub: known only from the acceptance history.
+# TODO: verify
 [stats]
 accepted = 18
 submitted = 39
+
+[extra]
+notes = "New work that is not yet mature for a full paper is invited for the poster session. Contributions to the poster session should be submitted in the form of a two page abstract. Warning: notification date extended after submission, and without notice (2014)."

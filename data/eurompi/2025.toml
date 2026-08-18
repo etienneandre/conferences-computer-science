@@ -1,6 +1,6 @@
 # migrated from data.php line 7433
 edition = 32
-title = "EuroMPI Conference"
+title = "EuroMPI/USA"
 url = "https://eurompi.org/"
 
 [event]
@@ -22,4 +22,3 @@ license = "pay-profit"
 [extra]
 journal = "Among the papers selected for presentation, a few of the best papers will, as has been the tradition in past years, be selected by the program committee and recommended for publication in a EuroMPI/USA 2025 Special Issue of a Journal."
 colocated = "co-located with the 21th International Workshop on OpenMP (IWOMP 2025)"
-notes = "Warning: notification date extended after submission, and without notice (2014)."

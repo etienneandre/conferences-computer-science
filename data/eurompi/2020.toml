@@ -1,6 +1,6 @@
 # migrated from data.php line 7372
 edition = 27
-title = "27th European MPI Users’ Group Meeting"
+title = "27th European MPI Users’ Group Meeting (EuroMPI/USA)"
 url = "https://eurompi.github.io/"
 
 [event]
@@ -19,6 +19,5 @@ license = "pay"
 doi = "10.1145/3416315"
 
 [extra]
-colocated = "In-cooperation status with ACM and SIGHPC."
-notes = "Warning: notification date extended after submission, and without notice (2014)."
+notes = "In-cooperation status with ACM and SIGHPC."
 journal = "The best papers of the conference will be considered for inclusion in a special issue of Elsevier’s Parallel Computing."
