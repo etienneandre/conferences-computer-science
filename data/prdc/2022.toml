@@ -6,7 +6,8 @@ url = "https://prdc.dependability.org/PRDC2022/"
 [event]
 start = 2022-11-28
 end = 2022-12-01
-city = "Beijing, China (+ virtual options)"
+city = "Beijing, China"
+hybrid = true
 
 [submission]
 tz = "AoE"
@@ -18,8 +19,11 @@ notification = [2022-08-22, 2022-08-29]
 publisher = "IEEE"
 license = "pay"
 
+[review]
+award = "One outstanding paper will be selected to receive the Best Paper Award."
+
 [extra]
-notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."
+notes = "Also featuring: fast abstract, industry track, poster (different deadlines)."
 
 [[cfp]]
 file = "cfp/PRDC-2022.txt"

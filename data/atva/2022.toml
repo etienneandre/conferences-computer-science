@@ -6,7 +6,8 @@ url = "https://atva-conference.org/2022/"
 [event]
 start = 2022-10-25
 end = 2022-10-28
-city = "Beijing, China (hybrid)"
+city = "Beijing, China"
+hybrid = true
 
 [submission]
 tz = "AoE"
@@ -22,9 +23,6 @@ license = "pay-profit"
 [stats]
 rate = 31.0
 # TODO: verify — extracted from the cross-year acceptance string.
-
-[extra]
-notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia."
 
 [[cfp]]
 file = "cfp/ATVA-2022.txt"

@@ -24,7 +24,6 @@ rate = 31.0
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "4 more days to edit the paper past the deadline in 2011."
 journal = "Selected papers from ATVA 2021 proceedings will be invited to extend and publish in a special issue of Innovations in Systems and Software Engineering - A NASA Journal (ISSE)"
 
 [[cfp]]

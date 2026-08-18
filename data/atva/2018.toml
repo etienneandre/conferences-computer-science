@@ -22,4 +22,4 @@ rate = 40.0
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia. Special issue in \"Formal Methods in System Design\" (Springer)"
+journal = "Special issue in \"Formal Methods in System Design\" (Springer)"

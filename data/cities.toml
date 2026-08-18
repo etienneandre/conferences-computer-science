@@ -1544,14 +1544,6 @@ lon = 12.3155
 continent = "EU"
 # 2 edition(s)
 
-["Virtual (Vienna, Austria)"]
-country = "AT"
-display = "Virtual (Vienna"
-lat = 48.2082
-lon = 16.3738
-continent = "EU"
-# 2 edition(s)
-
 ["Xi’An, China"]
 country = "CN"
 display = "Xi’An"
@@ -1663,22 +1655,6 @@ display = "Bariloche"
 lat = -41.1335
 lon = -71.3103
 continent = "SA"
-# 1 edition(s)
-
-["Beijing, China (+ virtual options)"]
-country = "CN"
-display = "Beijing"
-lat = 39.9042
-lon = 116.4074
-continent = "AS"
-# 1 edition(s)
-
-["Beijing, China (hybrid)"]
-country = "CN"
-display = "Beijing"
-lat = 39.9042
-lon = 116.4074
-continent = "AS"
 # 1 edition(s)
 
 ["Bejaïa, Algeria"]

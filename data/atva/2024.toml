@@ -13,6 +13,8 @@ tz = "AoE"
 format = "18 pages LNCS + references (regular) / 10 (tool)"
 abstract = [2024-04-19]
 paper = [2024-04-19, 2024-04-25]
+rebuttal_start = 2024-06-11
+rebuttal_end = 2024-06-14
 notification = [2024-06-19, 2024-06-26]
 
 [proceedings]
@@ -24,8 +26,12 @@ accepted = 24
 submitted = 73
 # TODO: verify — extracted from the cross-year acceptance string.
 
+[review]
+blind = "double"
+artifact = "Artifact evaluation (optional for regular papers, mandatory for tool)."
+
 [extra]
-notes = "Double-blind. Co-located with APLAS 2024. Artifact evaluation (optional for regular papers, mandatory for tool). Rebuttal: 11-14 June 2024. 4 more days to edit the paper past the deadline in 2011."
+colocated = "Co-located with APLAS 2024."
 
 [[cfp]]
 file = "cfp/ATVA-2024.txt"

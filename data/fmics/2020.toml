@@ -6,7 +6,9 @@ url = "https://fmics20.ait.ac.at/"
 [event]
 start = 2020-09-02
 end = 2020-09-03
-city = "Virtual (Vienna, Austria)"
+city = "Vienna, Austria"
+online = true
+colocated_with = ["concur/2020", "formats/2020"]
 
 [submission]
 format = "15 pages LNCS + 2p references"

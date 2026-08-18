@@ -22,8 +22,8 @@ license = "pay-profit"
 rate = 42.0
 # TODO: verify — extracted from the cross-year acceptance string.
 
-[extra]
-notes = "4 more days to edit the paper past the deadline in 2011. Almost always in Asia. ATVA 2019 will have an artifact evaluation stage."
+[review]
+artifact = "ATVA 2019 will have an artifact evaluation stage."
 
 [[cfp]]
 file = "cfp/ATVA-2019.txt"

@@ -6,7 +6,9 @@ url = "https://formats-2020.cs.ru.nl/"
 [event]
 start = 2020-09-01
 end = 2020-09-03
-city = "Virtual (Vienna, Austria)"
+city = "Vienna, Austria"
+online = true
+colocated_with = ["concur/2020", "fmics/2020"]
 
 [submission]
 format = "15 pages LNCS + references + appendix (regular) / 5 pages (tools)"
@@ -18,8 +20,12 @@ notification = [2020-06-29]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+award = "Best paper award in the honor of Oded Maler (since 2018)."
+
 [extra]
-notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020. Part of QONFEST with CONCUR, FMICS and QEST. Best paper award in the honor of Oded Maler (since 2018)."
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020. Part of QONFEST with CONCUR, FMICS and QEST."
+
 
 [[cfp]]
 file = "cfp/FORMATS-2020.txt"

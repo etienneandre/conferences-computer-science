@@ -35,9 +35,6 @@ men = 2
 women = 1
 men = 4
 
-[extra]
-notes = "4 more days to edit the paper past the deadline in 2011."
-
 [[cfp]]
 file = "cfp/ATVA-2023.pdf"
 stage = "initial"
