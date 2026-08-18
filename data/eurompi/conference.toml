@@ -5,7 +5,14 @@ name = "EuroMPI Conference"
 
 [core]
 id = "505"
-rank = "C"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "A"
+
+[[core.history]]
+from = 2010
+rank = "C"
 
 [links]
 dblp = "pvm"
