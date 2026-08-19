@@ -104,6 +104,31 @@ notification = [2026-08-15]
 copyright transferred), `pay`, and `pay-profit`. If you are unsure, name
 the publisher and leave the licence out.
 
+**Acceptance rate.** By default, the syntax is easy:
+
+```toml
+[stats]
+submitted = 47
+accepted = 20
+```
+
+
+**Acceptance rate per track/category.** When the conference gives detailed figures by track (Track A, Track B) or category (regular papers, short papers…), the syntax is
+
+```toml
+[stats]
+[[stats.track]]
+name = "Track A"
+submitted = 523
+accepted = 155
+
+[[stats.track]]
+name = "Track B"
+submitted = 105
+accepted = 35
+```
+
+
 ## A whole conference, not just one edition
 
 If the conference is not here at all, add a second file describing the series itself, named `conference.toml`:
