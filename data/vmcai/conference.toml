@@ -5,7 +5,13 @@ name = "International Conference on Verification, Model Checking, and Abstract I
 
 [core]
 id = "1847"
-rank = "B"  # TODO: verify
+[[core.history]]
+from = 2008
+rank = "A"
+
+[[core.history]]
+from = 2010
+rank = "B"
 
 [links]
 dblp = "vmcai"

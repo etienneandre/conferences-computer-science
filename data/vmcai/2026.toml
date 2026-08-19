@@ -7,6 +7,7 @@ url = "https://conf.researchr.org/home/VMCAI-2026"
 start = 2026-01-12
 end = 2026-01-13
 city = "Rennes, Bretagne, France"
+colocated_with = ["popl/2026"]
 
 [submission]
 tz = "AoE"
@@ -17,14 +18,24 @@ notification = [2025-11-06]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-032-15700-3"
 
 [review]
 blind = "single"
-gender_balance = "male-only"
 artifact = "VMCAI 2026 makes available the option to submit an artifact along with a paper."
 
-[extra]
-colocated = "Co-located with POPL."
+[review.gender.chairs]
+men = 3
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 1
+
+[stats]
+submitted = 54
+accepted = 18
+# NOTE: "…of which 18 papers were accepted (acceptance rate 33%), comprising 15 regular papers, 2 tool papers, and 1 case-study paper"
 
 [[cfp]]
 file = "cfp/VMCAI-2026.txt"

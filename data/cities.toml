@@ -3628,3 +3628,11 @@ lat = 40.6566
 lon = -4.6818
 continent = "EU"
 # 1 edition(s)
+
+
+["Mexico City, Mexico"]
+country = "MX"
+display = "Mexico City"
+lat = 19.4303
+lon = -99.1324
+continent = "NA"

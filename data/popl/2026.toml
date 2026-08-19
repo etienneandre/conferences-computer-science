@@ -14,15 +14,30 @@ format = "25 pages PACMPL + references"
 abstract = [2025-07-10]
 paper = [2025-07-10]
 notification = [2025-10-02]
+extensions = false
 
 [proceedings]
 publisher = "PACMPL"
 license = "cc-by"
+doi = "10.1145/3833372" # NOTE: editorial message, not whole volume
 
 [review]
 blind = "double"
 artifact = "Authors of conditionally accepted papers will be invited to formally submit supporting materials to the Artifact Evaluation process."
 award = "At most 10% of the accepted papers of POPL 2026 will be designated as Distinguished Papers."
+
+
+[review.gender.chairs]
+men = 1
+women = 1 # NOTE: general chair
+
+[review.gender.speakers]
+men = 1
+women = 1
+
+[stats]
+submitted = 114
+accepted = 38
 
 [extra]
 notes = "While PACMPL may ask authors who have funding for open-access fees to voluntarily cover the article processing charge, payment is not required for publication."
