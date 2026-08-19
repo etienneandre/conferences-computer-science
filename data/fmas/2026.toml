@@ -13,7 +13,7 @@ colocated_with = ["icfem/2026"]
 tz = "AoE"
 format = "15 pages + references (regular / Experience report) / 6 pages + references (vision / research previews)"
 abstract = [2026-08-14]
-paper = [2026-08-17]
+paper = [2026-08-17, 2026-08-20]
 notification = [2026-10-06]
 
 [proceedings]
@@ -24,6 +24,15 @@ license = "cc-by"
 blind = "single"
 gender_balance = "mixed"
 environment = "Remote presentation allowed. Free online participation."
+award = "FMAS 2026 will honor the best paper selected with respect to reviews, program committee discussions, and conference presentations with an award."
+
+[review.gender.chairs]
+men = 0
+women = 2
+
+[review.gender.speakers]
+men = 1
+women = 1
 
 [extra]
 journal = "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2026."

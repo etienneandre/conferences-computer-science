@@ -13,7 +13,7 @@ colocated_with = ["ifm/2025"]
 [submission]
 tz = "AoE"
 format = "15 pages + references (regular / Experience report) / 6 pages + references (vision / research previews)"
-paper = [2025-08-22]
+paper = [2025-08-22, 2025-08-28]
 notification = [2025-10-06]
 
 [proceedings]
@@ -22,6 +22,14 @@ license = "cc-by"
 
 [review]
 award = "FMAS 2025 will honour the best paper selected with respect to reviews, programme committee discussions, and conference presentations with an award."
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 0
+women = 1
 
 [extra]
 journal = "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2025."
