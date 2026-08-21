@@ -1,0 +1,33 @@
+edition = 35
+title = "The ACM Web Conference 2026"
+url = "https://www2026.thewebconf.org/"
+
+[event]
+start = 2026-06-29
+end = 2026-07-03
+city = "Dubai, United Arab Emirates"
+
+[submission]
+tz = "AoE"
+format = "8 + references + appendix"
+abstract = [2025-09-30]
+paper = [2025-10-07]
+rebuttal_start = 2025-11-24
+rebuttal_end = 2025-12-01
+notification = [2026-01-13]
+extensions = false
+
+[proceedings]
+publisher = "ACM Digital Library + conference Web site"
+license = "free"
+doi = "10.1145/3774904"
+
+
+[review]
+blind = "double"
+gender_balance = "mixed"
+competition = "Competition Track"
+
+[stats]
+submitted = 3112
+accepted = 676

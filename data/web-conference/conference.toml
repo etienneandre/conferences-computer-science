@@ -1,11 +1,22 @@
 # Web Conference — migrated from the legacy data file
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "Web Conference"
-name = "ACM Web Conference"
+name = "ACM Web Conference (formerly WWW)"
 
 [core]
 id = "1548"
-rank = "A*"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "A*"
+
+[[core.history]]
+from = 2010
+rank = "A"
+
+[[core.history]]
+from = 2013
+rank = "A*"
 
 [links]
 dblp = "www"

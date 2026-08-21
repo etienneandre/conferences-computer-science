@@ -13,10 +13,11 @@ format = "8 pages ACM SIG 2 columns (+ references)"
 abstract = [2016-10-19]
 paper = [2016-10-24]
 notification = [2016-12-21]
+tz = "HST"
 
 [proceedings]
 publisher = "ACM Digital Library + conference Web site"
 license = "free-copy"
 
 [extra]
-notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…). Deadlines all Hawaii Standard Time."
+notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…)."

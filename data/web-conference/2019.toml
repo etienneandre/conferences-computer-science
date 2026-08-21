@@ -13,10 +13,14 @@ format = "6 pages (short) / 10 pages (long) + references + appendix"
 abstract = [2018-10-29]
 paper = [2018-11-05]
 notification = [2019-01-21]
+tz = "HST"
 
 [proceedings]
 publisher = "ACM Digital Library + conference Web site"
 license = "free-copy"
 
+[review]
+blind = "double"
+
 [extra]
-notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…). Deadlines all Hawaii Standard Time. Double-blind."
+notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…)."

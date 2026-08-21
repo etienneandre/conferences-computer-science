@@ -1,7 +1,7 @@
 # migrated from data.php line 34820
 edition = 34
 title = "ACM Web Conference"
-url = "https://www2025.thewebconf.org/"
+url = "https://archives.iw3c2.org/www2025/"
 
 [event]
 start = 2025-04-28
@@ -13,17 +13,21 @@ tz = "AoE"
 format = "8 + references + appendix"
 abstract = [2024-10-07]
 paper = [2024-10-14]
+rebuttal_start = 2024-12-01
+rebuttal_end = 2024-12-14
 notification = [2025-01-27]
+extensions = false
 
 [proceedings]
 publisher = "ACM Digital Library + conference Web site"
-license = "free-copy"
+license = "free"
+doi = "10.1145/3696410"
 
 [review]
 blind = "double"
 gender_balance = "mixed"
-rebuttal = "Author and reviewer discussion: December 1-14, 2024"
 competition = "Competition Track"
 
-[extra]
-notes = "Formerly WWW."
+[stats]
+submitted = 2062
+accepted = 409
