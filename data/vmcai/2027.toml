@@ -1,0 +1,39 @@
+edition = 28
+title = "28th International Conference on Verification, Model Checking, and Abstract Interpretation"
+url = "https://conf.researchr.org/home/VMCAI-2027"
+
+[event]
+start = 2027-01-11
+end = 2027-01-12
+city = "Mexico City, Mexico"
+colocated_with = ["popl/2027"]
+
+[submission]
+tz = "AoE"
+format = "20 pages LNCS + references + appendix (regular / case studies) / 12 pages + references (tool)"
+paper = [2026-09-15]
+notification = [2026-11-06]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "double"
+artifact = "VMCAI 2027 offers authors the option to submit an artifact alongside their paper"
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 0 # TODO
+women = 0
+
+[stats]
+# submitted = 54
+# accepted = 18
+
+[[cfp]]
+file = "cfp/VMCAI-2027-2026-07-28.txt"
+stage = "initial"

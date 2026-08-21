@@ -1,0 +1,155 @@
+POPL 2027 Call for Papers
+
+PACMPL Issue POPL 2027 seeks contributions on all aspects of programming languages and programming systems, both theoretical and practical. Authors of papers published in PACMPL Issue POPL 2027 will be invited – but not required – to present their work in the POPL conference in January 2027, which is sponsored by ACM SIGPLAN, in cooperation with ACM SIGACT and ACM SIGLOG.
+
+NEW FOR 2027:
+
+    Clarification about expectations concerning mechanized proofs (see Submission Guidelines)
+
+    At least one author of each paper submission must be registered as a Reserve Reviewer as per the Reserve Reviewer Policy below.
+
+Scope
+
+Principles of Programming Languages (POPL) is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome, on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation, or application of programming languages.
+Evaluation Criteria
+
+The Review Committee (aka Program Committee, PC) will evaluate the technical contribution of each submission as well as its accessibility to both experts and the general POPL audience. All papers will be judged on significance, originality, relevance, correctness, and clarity. Each paper must explain its scientific contribution in both general and technical terms, identifying what has been accomplished, explaining why it is significant and comparing it with previous work. Advice on writing technical papers can be found on the SIGPLAN author information page.
+
+Deadlines and formatting requirements, detailed below, will be strictly enforced.
+Double-Blind Reviewing
+
+POPL 2027 will use a full double-blind reviewing process (similar to the one used in recent years (POPL 2023 - 2026) but different from the lightweight double-blind process used before then). This means that identities of authors will not be made visible to reviewers until after conditional-acceptance decisions have been made, and then only for the conditionally-accepted papers. The use of full double-blind reviewing has several consequences for authors.
+
+    Submissions: Authors must omit their names and institutions from their paper submissions. In addition, references to authors’ own prior work should be in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”).
+
+    Supplementary material: Authors are permitted to provide supplementary material (e.g., detailed proofs, proof scripts, system implementations, or experimental data) along with their submission, which reviewers may (but are not required to) examine. This material may take the form of a single file, such as a PDF or a tarball. Authors must fully anonymize any supplementary material, and there is no option to submit non-anonymized material.
+
+    Author response: In responding to reviews, authors should not say anything that reveals their identity, since author identities will not be revealed to reviewers at that stage of the reviewing process.
+
+    Dissemination of work under submission: Authors are welcome to disseminate their ideas and post draft versions of their paper(s) on their personal website, institutional repository, or arXiv (reviewers will be asked to turn off arXiv notifications during the review period). But authors should not take steps that would almost certainly reveal their identities to members of the Review Committee, e.g., directly contacting PC members or publicizing the work on widely-visible social media or major mailing lists used by the community.
+
+The purpose of the above restrictions is to help the Review Committee and external reviewers come to a judgment about the paper without bias, not to make it impossible for them to discover the authors’ identities if they were to try. In particular, nothing should be done in the name of anonymity that weakens the quality of the submission.
+
+However, there are occasionally cases where adhering to the above restrictions is truly difficult or impossible for one reason or another. In such cases, the authors should contact the Program Chair to discuss the situation and how to handle it.
+
+The FAQ on Double-Blind Reviewing addresses many common scenarios and answers many common questions about this topic. But there remain many grey areas and trade-offs. If you have any doubts about how to interpret the double-blind rules or you encounter a complex case that is not clearly covered by the FAQ, please contact the Program Chair for guidance.
+Evaluation Process
+
+POPL 2027 will have six Associate Chairs who will help the Program Chair monitor reviews, solicit external expert reviews for submissions when there is not enough expertise on the committee, and facilitate reviewer discussions.
+
+As in previous years, authors will have a multi-day period to respond to reviews, as indicated in the Important Dates table. Responses are optional. A response must be concise, addressing specific points raised in the reviews.
+
+The Review Committee will discuss papers electronically, and will use synchronous virtual meetings to discuss any papers for which there is disagreement among reviewers, in some cases soliciting additional input from other experts in the committee. There is no formal External Review Committee, though experts outside the committee may be consulted for some papers. Reviews will be accompanied by a short summary of the reasons behind the committee’s decision with the goal of clarifying the reasons behind the decision.
+
+To conform with ACM requirements for journal publication, all POPL papers will be conditionally accepted; authors will be required to submit a short description of the changes made to the final version of the paper, including how the changes address any requirements imposed by the Review Committee. That the changes are sufficient will be confirmed by the original reviewers prior to acceptance to POPL. Authors of conditionally accepted papers must submit a satisfactory revision to the Review Committee by the requested deadline or risk rejection.
+
+For additional information about the reviewing process, see: Principles of POPL, a presentation of the underlying organizational and reviewing policies for POPL. For POPL 2027, policies specified in this Call for Papers supersede those in the Principles of POPL document.
+Submission Site Information
+
+The submission site is https://popl27.hotcrp.com.
+
+Papers may be resubmitted to the submission site multiple times up until the deadline, but only the last version submitted before the deadline will be reviewed. There is no abstract deadline. The submission site requires entering author names and affiliations, relevant topics, and potential conflicts. Addition or removal of authors after the submission deadline will need to be approved by the Program Chair (as this kind of change potentially undermines the goal of eliminating conflicts during paper assignment).
+
+The submission deadline is 11:59PM July 9, 2026 anywhere on earth: https://en.wikipedia.org/wiki/Anywhere_on_Earth
+Conflicts of Interest
+
+For each submission, the authors must make sure that they properly declare all potential conflicts of interest for all of the authors of that submission. This includes marking PC conflicts as well as “Other Conflicts (external)”. A conflict caught late in the reviewing process leads to a voided review which may be infeasible to replace.
+
+Conflicts should be declared between an adviser and an advisee (e.g., Ph.D., post-doc; forever), between an author and a co-author (papers and proposals; for two years), between people at the same institution (branches of large companies or different locations of research institutes are considered to be the same institution; for two years after leaving an institution), between people with financial conflicts of interest, and between friends or relatives.
+
+If a possible reviewer does not meet the above criteria, please do not identify him/her as conflicted. Doing so could be viewed as an attempt to prevent a qualified, but possibly skeptical reviewer from reviewing your paper. If you nevertheless believe that a reviewer who does not meet the above criteria is conflicted, or if you are unsure about a possible conflict, you may identify the person and send a note to the PC Chair. Declaring a spurious conflict with the aim of excluding otherwise qualified reviewers can be grounds for rejection.
+Submission Guidelines
+
+Prior to the paper submission deadline, authors should upload their full anonymized paper. Here are some key requirements concerning paper submissions:
+
+    Each paper should have no more than 25 pages of text, excluding bibliography, using the PACMPL format (specifically, the acmart LaTeX class with acmsmall option). It is a single-column page layout with a 10 pt font, 12 pt line spacing, and wider margins than recent POPL page layouts. In this format, the main text block is 5.478 in (13.91 cm) wide and 7.884 in (20.03 cm) tall. Use of a different format (e.g., smaller fonts or a larger text block) is grounds for summary rejection. The PACMPL template for LaTeX can be found at the SIGPLAN author information page, and further information about PACMPL submissions can be found on the PACMPL author guidelines page. PACMPL does not support submissions in Microsoft Word.
+
+    We strongly encourage use of the review and screen options in order to make submissions easier to review, e.g.:\documentclass[acmsmall,screen,review,anonymous,nonacm]{acmart}
+
+    Authors may choose which citation format they wish to use, which can be either author-year (the mandate for final versions in previous years) or numeric. We encourage authors to include DOIs in bibliographic entries (when available) to simplify verification of citations.
+
+    Submissions should be in PDF and printable on both US Letter and A4 paper.
+
+    Submitted papers must adhere to the SIGPLAN Republication Policy and the ACM Policy on Plagiarism. Concurrent paper submissions to other conferences, workshops, journals, or similar forums of publication are not allowed.
+
+    Authors may submit supplementary material along with their submissions, but it must be fully anonymized. Supplementary material cannot be included in the main submission text. All appendices must be submitted as supplemental material, not as part of the main submission PDF.
+
+    New for 2027: If mechanized proofs constitute a main contribution of a paper, authors are strongly encouraged to provide the proof scripts together with the paper (as anonymized supplementary material) at the time of submission so that reviewers can inspect them — regardless of whether they ultimately plan to submit the proofs for artifact evaluation. This is to allow reviewers to inspect the correspondence between the claims reported in the paper and their formalization. If authors fail to present the proofs of results claimed in the paper at the time of submission, they will not be permitted to present them at author response time. Authors are also strongly encouraged to make it clear in the paper if any non-standard axioms are used. (“Standard” axioms are those that appear in many proof developments, such as classical or extensionality axioms.)
+
+    Authors must list all their conflicts of interest (both PC conflicts and external conflicts) in the HotCRP submission form.
+
+    New for 2027: Authors must register an author as a reserve reviewer (see Reserve Reviewer Policy).
+
+    Authors may include additional information in a field of the HotCRP submission form labeled “Confidential Comments for the Program Chair”. This information need not be anonymized. It can be used to inform the Program Chair, for example, about sensitive issues concerning a conflict with a PC member or about supplementary material that cannot be anonymized. It is left to the discretion of the Program Chair what to do with this information.
+
+    If for some reason an author feels uncomfortable discussing a sensitive issue with the Program Chair (or communicating via the “Confidential Comments” field in HotCRP), they should feel free to get in touch instead with any of the Associate Chairs, with whom they can discuss the issue in confidence.
+
+    Submissions from PC members and Associate Chairs (except the Program Chair) are permitted and will not be handled any differently than other submissions. This is in accordance with a recent change in policy approved by the SIGPLAN Executive Committee: SIGPLAN conferences that use full double-blind review and whose PCs have at least 50 members need not hold PC submissions to a higher standard.
+
+    New: The ACM Policy on Authorship has recently been updated regarding the use of generative AI tools and when and if disclosure of such use is required. With the new policy, ACM no longer requires disclosure of the use of AI in writing a submission and instead places further emphasis on the authors’ responsibility for the reliability and correctness of their submissions. For detailed information, see the “Use of Artificial Intelligence” section of the ACM Policy on Authorship.
+
+Reserve Reviewer Policy
+
+To prepare for the possibility of a higher volume of submissions, we are implementing the “reserve reviewer” policy introduced in OOPSLA’25: for each paper, at least one senior author must — unless exempt under the criteria below — register as a reserve reviewer. They must list their information on the submission form, and they must register themselves on TPMS. Failure to comply may result in desk-rejection.
+
+Instructions: Log into TPMS with the same email address as for your HotCRP account. The system will ask you to upload (or provide URLs for) 5-10 of your previous papers, to base your matching on. Uploading papers/URLs is pretty straightforward; here’s also a step-by-step video. You get to choose which papers you want to upload; these determine what papers you are most likely to be asked to review. So please go for both depth and breadth. In particular, please provide papers on topics for which you are a relatively rare expert.
+
+The goal of this policy is to uphold the high standard of reviews within the SIGPLAN community. To achieve this, we must ensure manageable review loads. High-quality reviews are one of the community’s greatest assets, playing a crucial role in elevating the quality of research for everyone.
+
+Our hope is that these reserve reviewers won’t be needed at all! They will only be called upon as ad hoc reviewers if our projections fall significantly short or if additional expert reviewers are needed. Even in that case, their review load will be far lighter than that of PC members, and we will do our best to assign papers that closely match expertise (hence the need for TPMS registration).
+
+We define “senior” authors as those who completed their PhD in 2021 or earlier. A paper is exempt from the reserve reviewer policy if:
+
+    the paper has no senior authors,
+
+    at least one senior author is already in the PC for this conference, or
+
+    every senior author of the paper satisfies one or more of the following criteria:
+
+        is new to SIGPLAN, meaning they have published less than 3 papers at major SIGPLAN conferences (PLDI, POPL, OOPSLA, ICFP);
+
+        is chairing a major SIGPLAN conference in 2026-2028;
+
+        has some other exceptional circumstance that didn’t prevent writing the paper but prevents doing any reviewing. This must be cleared at least three days before submission with the PC Chair.
+
+It is possible for one person to serve as the reserve reviewer for more than one paper. Please enter their information for each such paper (preferably identically).
+Artifact Evaluation for Accepted Papers
+
+Authors of conditionally accepted papers will be invited to formally submit supporting materials to the Artifact Evaluation process. Artifact Evaluation is run by a separate committee whose task is to assess how the artifacts support the work described in the papers. Artifact submission is strongly encouraged but voluntary and will not influence the final decision regarding the papers. Papers that go through the Artifact Evaluation process successfully will receive a seal of approval printed on the papers themselves. Authors of accepted papers are encouraged to make these materials publicly available upon publication of the proceedings, by including them as “source materials” in the ACM Digital Library.
+Copyright, Publication, and Presentation
+
+As a Gold Open Access journal, PACMPL is committed to making peer-reviewed scientific research free of restrictions on both access and (re-)use. Authors are strongly encouraged to support liberal open access by licensing their work with the Creative Commons Attribution 4.0 International (CC BY) license, which grants readers liberal (re-)use rights.
+
+Authors of accepted papers will be required to provide an ORCID for each co-author and choose one of the following publication rights:
+
+    Author licenses the work with a Creative Commons license, retains copyright, and (implicitly) grants ACM non-exclusive permission to publish (suggested choice).
+
+    Author retains copyright of the work and grants ACM a non-exclusive permission to publish license.
+
+    Author retains copyright of the work and grants ACM an exclusive permission to publish license.
+
+    Author transfers copyright of the work to ACM.
+
+These choices follow from ACM Copyright Policy and ACM Author Rights.
+
+All papers will be archived by the ACM Digital Library. Authors will have the option of including supplementary material with their paper. The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.
+
+Authors of accepted papers are encouraged to give a short talk (roughly 25 minutes long) at the conference, according to the conference schedule. Authors who wish to present but who cannot attend in person will be provided with some option for remote presentation.
+Important update on ACM’s open access publishing model for 2027 ACM Conferences
+
+All ACM publications, including those from ACM-sponsored conferences, are 100% Open Access. Authors have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). With ~3,000 institutions already part of ACM Open, the majority of ACM-sponsored conference papers will not require APCs from authors or conferences (currently, around 76%).
+
+Authors from institutions not participating in ACM Open will need to pay an APC to publish their papers, unless they qualify for a financial or discretionary waiver. To find out whether an APC applies to your article, please consult the list of participating institutions in ACM Open and review the APC Waivers and Discounts Policy. Please keep in mind that waivers are rare and are granted based on specific criteria set by ACM.
+
+Update To support authors and institutions as they continue to adapt to ACM’s Open Access publishing model, the ACM Council has approved subsidized APC rates for calendar year 2027 allowing more time for institutions to join ACM Open. The subsidy will offer:
+
+    $500 APC for ACM/SIG members
+
+    $750 for non-members
+
+This represents a 29% discount off current APC list pricing, funded directly by ACM. Authors are encouraged to help advocate for their institutions to join ACM Open during this transition period.
+
+This temporary subsidized pricing will apply to all conferences scheduled for 2027.
+Distinguished Paper Awards
+
+At most 10% of the accepted papers of POPL 2027 will be designated as Distinguished Papers. This award highlights papers that the Review Committee thinks should be read by a broad audience due to their relevance, originality, significance, and clarity.

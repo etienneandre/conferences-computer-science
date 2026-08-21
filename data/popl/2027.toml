@@ -1,0 +1,48 @@
+edition = 54
+title = "54th ACM SIGPLAN Symposium on Principles of Programming Languages"
+url = "https://popl27.sigplan.org/"
+
+[event]
+start = 2027-01-10
+end = 2027-01-16
+city = "Mexico City, Mexico"
+
+[submission]
+tz = "AoE"
+format = "25 pages PACMPL + references"
+abstract = [2026-07-09]
+paper = [2026-07-09]
+rebuttal_start = 2026-09-07
+rebuttal_end = 2026-09-10
+notification = [2026-10-05]
+extensions = false
+
+[proceedings]
+publisher = "PACMPL"
+license = "cc-by"
+# doi = "10.1145/3833372" # NOTE: editorial message, not whole volume
+
+[review]
+blind = "double"
+artifact = "Authors of conditionally accepted papers will be invited to formally submit supporting materials to the Artifact Evaluation process."
+award = "At most 10% of the accepted papers of POPL 2027 will be designated as Distinguished Papers."
+
+
+[review.gender.chairs]
+men = 0
+women = 2
+
+[review.gender.speakers]
+# men = 1
+# women = 1 # TODO
+
+[stats]
+# submitted = 114
+# accepted = 38
+
+[extra]
+notes = "While PACMPL may ask authors who have funding for open-access fees to voluntarily cover the article processing charge, payment is not required for publication."
+
+[[cfp]]
+file = "cfp/POPL-2026.txt"
+stage = "initial"

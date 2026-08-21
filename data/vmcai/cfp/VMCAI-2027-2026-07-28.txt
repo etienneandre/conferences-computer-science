@@ -1,0 +1,56 @@
+VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas.
+
+VMCAI 2027 will take place on January 11–12, 2027 in Mexico City, Mexico, co-located with POPL 2027.
+
+Topics of interest include, but are not limited to:
+* program verification
+* model checking
+* abstract interpretation
+* abstract domains
+* program synthesis
+* static analysis
+* type systems
+* deductive methods
+* program logics
+* first-order theories
+* decision procedures
+* interpolation
+* Horn clause solving
+* program certification
+* separation logic
+* probabilistic programming and analysis
+* error diagnosis
+* detection of bugs and security vulnerabilities
+* program transformations
+* hybrid and cyber-physical systems
+* concurrent and distributed systems
+* verification for quantum computation
+* analysis of numerical properties
+* analysis of smart contracts
+* analysis of neural networks
+* case studies in all of the above areas
+
+Submissions must follow the Springer LNCS format and will be handled through EasyChair: https://easychair.org/conferences/?conf=vmcai2027
+
+Important dates (AoE):
+Paper submission: September 16, 2026
+Notification: November 6, 2026
+
+All accepted papers will be published in Springer’s Lecture Notes in Computer Science (LNCS) series.
+
+Paper categories and page limits (excluding references):
+Regular papers: 20 pages
+Tool papers: 12 pages
+Case studies: 20 pages
+
+Regular papers should present significant advances in verification, model checking, or abstract interpretation, supported by technical development and, where applicable, experimental evaluation.
+
+Tool papers should describe new tools or significant extensions of existing tools, including their foundations, implementation, capabilities, and evaluation. Authors are encouraged to make tools publicly available and submit artifacts.
+
+Case studies should describe novel applications of formal methods in new domains or industrial settings, including evaluations and lessons learned from technology transfer.
+
+Regular paper submissions will undergo double-blind review. VMCAI 2027 also offers optional artifact submission to support reproducibility and evaluation of results.
+
+We look forward to receiving your submissions and welcoming you to VMCAI 2027 in Mexico City!
+
+Conference website: https://conf.researchr.org/home/VMCAI-2027
