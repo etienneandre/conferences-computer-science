@@ -1,4 +1,9 @@
 # MMRP — migrated from the legacy data file
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "MMRP"
-name = "First International Workshop on Models and Methods for Reliability and Performance of computer networks"
+name = "International Workshop on Models and Methods for Reliability and Performance of computer networks"
+complete_since = 2012
+defunct = 2012
+
+[core]
+rank = "absent"

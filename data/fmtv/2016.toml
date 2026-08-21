@@ -17,4 +17,5 @@ publisher = "PDF online"
 license = "free"
 
 [extra]
-notes = "Papers must describe a (possibly partial) solution to the FMTV proposed by Bosch. Held as part of WATERS’16 in conjunction with ECRTS’16. Depending on the participation, a joint publication of the challenge solutions will be considered."
+colocated = "Held as part of WATERS’16 in conjunction with ECRTS’16."
+notes = "Papers must describe a (possibly partial) solution to the FMTV proposed by Bosch. Depending on the participation, a joint publication of the challenge solutions will be considered."

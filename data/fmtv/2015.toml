@@ -17,4 +17,5 @@ publisher = "PDF online"
 license = "free"
 
 [extra]
-notes = "Papers must describe a (possibly partial) solution to the FMTV challenge presented in 2014. Held as part of WATERS’15 in conjunction with ECRTS’15. Depending on the participation, a joint publication of the challenge solutions will be considered."
+colocated = "Held as part of WATERS’15 in conjunction with ECRTS’15."
+notes = "Papers must describe a (possibly partial) solution to the FMTV challenge presented in 2014. Depending on the participation, a joint publication of the challenge solutions will be considered."

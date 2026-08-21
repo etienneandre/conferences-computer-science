@@ -9,7 +9,7 @@ city = "Singapore"
 
 [submission]
 format = "6-10 pages LNCS"
-paper = [2014-03-04]
+paper = [2014-02-25, 2014-03-04] # NOTE: original deadline re-computed in 2026 from "2 weeks extension"
 notification = [2014-03-24]
 
 [proceedings]
@@ -17,4 +17,5 @@ publisher = "PDF online"
 license = "free"
 
 [extra]
-notes = "In conjunction with FM 2014. The particularity of the FMTV’14 workshop will be the presentation of a challenge to the formal timing verification community with scientific stakes issued from a real industrial case study."
+colocated = "In conjunction with FM 2014"
+notes = "The particularity of the FMTV’14 workshop will be the presentation of a challenge to the formal timing verification community with scientific stakes issued from a real industrial case study."

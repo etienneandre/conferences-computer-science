@@ -1799,14 +1799,6 @@ lon = 16.6068
 continent = "EU"
 # 1 edition(s)
 
-["CNAM, Paris, France"]
-country = "FR"
-display = "CNAM"
-lat = 48.8566
-lon = 2.3522
-continent = "EU"
-# 1 edition(s)
-
 ["Caen, France"]
 country = "FR"
 display = "Caen"
