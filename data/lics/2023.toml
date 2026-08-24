@@ -6,7 +6,7 @@ url = "https://lics.siglog.org/lics22/"
 [event]
 start = 2023-06-26
 end = 2023-06-29
-city = "Boston, USA"
+city = "Boston, Massachusetts, USA"
 
 [submission]
 tz = "AoE"

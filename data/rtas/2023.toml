@@ -13,6 +13,7 @@ tz = "UTC-12"
 format = "11 pages IEEE 2 columns (+ references)"
 paper = [2022-10-31]
 notification = [2023-01-20]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"

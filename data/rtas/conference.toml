@@ -5,12 +5,12 @@ name = "IEEE Real-Time and Embedded Technology and Applications Symposium"
 
 [core]
 id = "725"
-rank = "A"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "A"
 
 [links]
 dblp = "rtas"
 twitter = "RTAS2020"
 
-[legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-extensions = "Firm deadline in 2016, 2017, 2018, 2020, 2023, 2025, 2026"  # from RTAS 2026

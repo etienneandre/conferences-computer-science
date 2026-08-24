@@ -1716,37 +1716,19 @@ lon = -0.5792
 continent = "EU"
 # 1 edition(s)
 
-["Boston, MA, USA"]
+["Boston, Massachusetts, USA"]
 country = "US"
 display = "Boston"
 lat = 42.3601
 lon = -71.0589
 continent = "NA"
-# 1 edition(s)
 
-["Boston, Massachusetts, United States"]
-country = "US"
-display = "Boston"
-lat = 42.3601
-lon = -71.0589
-continent = "NA"
-# 1 edition(s)
-
-["Boston, USA"]
-country = "US"
-display = "Boston"
-lat = 42.3601
-lon = -71.0589
-continent = "NA"
-# 1 edition(s)
-
-["Boulder, USA"]
+["Boulder, Colorado, USA"]
 country = "US"
 display = "Boulder"
 lat = 40.015
 lon = -105.2705
 continent = "NA"
-# 1 edition(s)
 
 ["Bozen-Bolzano, Italy"]
 country = "IT"

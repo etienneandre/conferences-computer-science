@@ -6,7 +6,7 @@ url = "https://2025.rtss.org/"
 [event]
 start = 2025-12-02
 end = 2025-12-05
-city = "Boston, MA, USA"
+city = "Boston, Massachusetts, USA"
 
 [submission]
 tz = "AoE"

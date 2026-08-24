@@ -6,7 +6,7 @@ url = "https://vmcai-2023.github.io/"
 [event]
 start = 2023-01-15
 end = 2023-01-17
-city = "Boston, Massachusetts, United States"
+city = "Boston, Massachusetts, USA"
 
 [submission]
 tz = "AoE"
@@ -18,13 +18,16 @@ notification = [2022-10-13]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+artifact = "Authors are strongly encouraged to make their tools publicly available and submit an artifact."
+
 [stats]
 accepted = 17
 submitted = 34
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Co-located with POPL. Authors are strongly encouraged to make their tools publicly available and submit an artifact."
+colocated = "Co-located with POPL."
 
 [[cfp]]
 file = "cfp/VMCAI-2023.txt"

@@ -1,0 +1,42 @@
+edition = 33
+title = "33rd IEEE Real-Time and Embedded Technology and Applications Symposium"
+url = "https://2027.rtas.org/"
+
+[event]
+start = 2027-05-17
+end = 2027-05-20
+city = "Boulder, Colorado, USA"
+
+[submission]
+tz = "AoE"
+format = "11 pages IEEE 2 columns (+ references)"
+paper = [2026-11-05]
+rebuttal_start = 2027-01-11
+rebuttal_end = 2027-01-15
+notification = [2027-01-28]
+extensions = false
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+artifact = "Optional Artifact Evaluation process for accepted papers that assesses the reproducibility of the work."
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+
+
+[stats]
+
+
+[extra]
+colocated = "Part of CPS-IoT Week."
+notes = "Two tracks (Systems and Applications / Applied Methodologies and Foundations)."
+
+[[cfp]]
+file = "cfp/RTAS-2026.txt"
+stage = "initial"

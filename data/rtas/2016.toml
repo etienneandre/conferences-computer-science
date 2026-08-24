@@ -12,6 +12,7 @@ city = "Vienna, Austria"
 format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
 paper = [2015-10-15]
 notification = [2015-12-14]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"

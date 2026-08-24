@@ -15,6 +15,7 @@ paper = [2024-11-14]
 rebuttal_start = 2025-01-08
 rebuttal_end = 2025-01-12
 notification = [2025-01-23]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"

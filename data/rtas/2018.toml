@@ -12,6 +12,7 @@ city = "Porto, Portugal"
 format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
 paper = [2017-10-06]
 notification = [2017-12-19]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"

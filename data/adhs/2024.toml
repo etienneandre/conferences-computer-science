@@ -6,7 +6,7 @@ url = "https://www.colorado.edu/conference/adhs2024"
 [event]
 start = 2024-07-01
 end = 2024-07-03
-city = "Boulder, USA"
+city = "Boulder, Colorado, USA"
 
 [submission]
 format = "6 pages IFAC (8 pages for submission)"

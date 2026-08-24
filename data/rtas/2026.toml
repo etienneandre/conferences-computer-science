@@ -15,15 +15,22 @@ paper = [2025-11-13]
 rebuttal_start = 2026-01-14
 rebuttal_end = 2026-01-18
 notification = [2026-01-29]
+extensions = false
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
+doi = "10.1109/RTAS68450.2026"
 
 [review]
 blind = "double"
 gender_balance = "mixed"
 artifact = "Optional Artifact Evaluation (AE) to assess reproducibility."
+
+[stats]
+# NOTE: 59 submissions to track 1, 49 submissions to track 2
+submitted = 108
+accepted = 27
 
 [extra]
 colocated = "Part of CPS-IoT Week."
