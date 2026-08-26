@@ -26,7 +26,7 @@ artifact = "To promote research reproducibility, the authors of the accepted res
 award = "The conference Award Committee will recognize the best submissions, judged by multiple relevant factors, with an ACM/SPEC Best Paper Award award."
 
 [extra]
-notes = "Double blind. Several other tracks such as: industry, journal-first, artifact, data challenge…"
+notes = "Several other tracks such as: industry, journal-first, artifact, data challenge…"
 
 [[cfp]]
 file = "cfp/ICPE-2025-extended.txt"
