@@ -17,9 +17,14 @@ notification = [2025-10-31, 2025-11-21]
 [proceedings]
 publisher = "ACM"
 license = "free"
+doi = "10.1145/3748522"
 
 [review]
 blind = "double"
+
+[stats]
+submitted = 961
+accepted = 225
 
 [extra]
 notes = "39 tracks, student abstracts, Student Research Competition, etc."
