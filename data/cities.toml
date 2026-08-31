@@ -17,6 +17,15 @@ lon = 2.3522
 continent = "EU"
 # 43 edition(s)
 
+
+["Gwangju, South Korea"]
+country = "KR"
+display = "Gwangju"
+lat = 35.1693
+lon = 126.9168
+continent = "AS"
+
+
 ["Toulouse, France"]
 country = "FR"
 display = "Toulouse"

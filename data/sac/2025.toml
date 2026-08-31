@@ -17,9 +17,17 @@ notification = [2024-10-30, 2024-11-20]
 [proceedings]
 publisher = "ACM"
 license = "acm"
+doi = "10.1145/3672608"
+
+[review]
+blind = "double"
+
+[stats]
+submitted = 939
+accepted = 216
 
 [extra]
-notes = "Double-blind. 42 tracks, student abstracts, Student Research Competition, etc."
+notes = "42 tracks, student abstracts, Student Research Competition, etc."
 
 [[cfp]]
 file = "cfp/SAC-2025.txt"

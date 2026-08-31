@@ -1,0 +1,29 @@
+edition = 42
+title = "42nd ACM/SIGAPP Symposium On Applied Computing"
+url = "https://www.sigapp.org/sac/sac2027/"
+
+[event]
+start = 2027-04-05
+end = 2027-04-09
+city = "Gwangju, South Korea"
+
+[submission]
+tz = "EST"
+format = "8+2 pages ACM"
+paper = [2026-10-26]
+notification = [2026-11-13]
+
+[proceedings]
+publisher = "ACM"
+license = "free"
+
+[review]
+blind = "double"
+
+[extra]
+notes = "39 tracks, student abstracts, Student Research Competition, etc."
+
+[[cfp]]
+file = "cfp/SAC-CPS-2027-2026-07-03.pdf"
+stage = "initial"
+
