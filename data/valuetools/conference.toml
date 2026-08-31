@@ -4,12 +4,12 @@ acronym = "VALUETOOLS"
 name = "EAI International Conference on Performance Evaluation Methodologies and Tools"
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [links]
 dblp = "valuetools"
 
 [legacy]
+notes = "No edition in 2018."
 # TODO: extract — cross-year prose kept once, verbatim.
-acceptance = "37% (2023)"  # from VALUETOOLS 2025
-extensions = "4 weeks in 2016, 2 weeks in 2017, 14+9 days in 2019, 33 days in 2025."  # from VALUETOOLS 2025
+extensions = "4 weeks in 2016, 2 weeks in 2017, 14+9 days in 2019"  # from VALUETOOLS 2025

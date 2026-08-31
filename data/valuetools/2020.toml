@@ -20,4 +20,4 @@ publisher = "ACM"
 license = "acm"
 
 [extra]
-notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Best papers of VALUETOOLS 2019 will be given the opportunity to submit an extended version of their work for publication in a Special Issue of the Performance Evaluation (PEVA) journal of Elsevier. Fast Abstracts will be published as a Technical Report. Note: no edition in 2018."
+notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Best papers of VALUETOOLS 2019 will be given the opportunity to submit an extended version of their work for publication in a Special Issue of the Performance Evaluation (PEVA) journal of Elsevier. Fast Abstracts will be published as a Technical Report."

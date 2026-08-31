@@ -18,7 +18,7 @@ publisher = "ACM"
 license = "acm"
 
 [extra]
-notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Additionally, a special issue in Performance Evaluation is planned. Fast Abstracts will be published as a Technical Report. Fast Abstract Submissions: 22nd July 2016."
+notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Additionally, a special issue in Performance Evaluation is planned. Fast Abstracts will be published as a Technical Report."
 
 [[cfp]]
 file = "cfp/VALUETOOLS-2017-extended.txt"

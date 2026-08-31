@@ -14,9 +14,21 @@ format = "12-20 pages + references (full) / 10 pages (WiP/tools/visio)"
 paper = [2024-09-15]
 notification = [2024-10-15]
 
+[review]
+[review.gender.chairs]
+men = 2
+women = 1
+
 [proceedings]
 publisher = "Springer LNICST series"
 license = "pay-profit"
+doi = "10.1007/978-3-032-06818-7"
+
+[stats]
+submitted = 29
+accepted = 18
+# NOTE: + 5 short papers in oral presentation sessions
+
 
 [extra]
-notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Fast Abstracts will be published as a Technical Report. Note: no edition in 2018."
+notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Fast Abstracts will be published as a Technical Report."

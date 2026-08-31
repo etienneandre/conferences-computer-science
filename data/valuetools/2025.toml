@@ -18,14 +18,21 @@ notification = [2025-09-30, 2025-10-27]
 [proceedings]
 publisher = "Springer LNICST series"
 license = "pay-profit"
+doi = "10.1007/978-3-032-23901-3"
 
 [review]
 blind = "single"
-gender_balance = "mixed"
+
+[review.gender.chairs]
+men = 1
+women = 2
+
+[stats]
+submitted = 46
+accepted = 18
 
 [extra]
 journal = "Additional publication opportunities: EAI Transactions series (Open Access) and EAI/Springer Innovations in Communications and Computing Book Series"
-notes = "No edition in 2018."
 
 [[cfp]]
 file = "cfp/VALUETOOLS-2025-extended.txt"
