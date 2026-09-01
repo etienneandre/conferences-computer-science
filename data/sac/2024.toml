@@ -16,14 +16,17 @@ notification = [2023-10-30, 2023-11-17]
 [proceedings]
 publisher = "ACM"
 license = "acm"
+doi = "10.1145/3605098"
 
 [stats]
-accepted = 180
 submitted = 773
-# TODO: verify — extracted from the cross-year acceptance string.
+accepted = 180
+
+[review]
+blind = "double"
 
 [extra]
-notes = "Double-blind. 35 tracks, student abstracts, Student Research Competition, etc."
+notes = "35 tracks, student abstracts, Student Research Competition, etc."
 
 [[cfp]]
 file = "cfp/SAC-SVT-2024.txt"
