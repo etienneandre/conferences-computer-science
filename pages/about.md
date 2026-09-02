@@ -83,7 +83,7 @@ use it for anything, credit the source, and keep what you build on it open under
 ## Colophon
 
 Static HTML generated from plain text files.
-No framework, no analytics, no cookies, no advertising, and nothing loaded from anyone else's server — except the map on an edition page, which fetches tiles from OpenStreetMap only after you ask it to.
+No framework, no cookies, no advertising, and nothing loaded from anyone else's server — except the map on an edition page, which fetches tiles from OpenStreetMap only after you ask it to, and a tiny Matomo analytics tool (running on a local server, not sharing any data with anyone else).
 
 The data is entirely managed by hand.
 This Web site in itself was, well, I must admit, only partially human-written 🤖
