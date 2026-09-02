@@ -87,3 +87,23 @@ No framework, no analytics, no cookies, no advertising, and nothing loaded from 
 
 The data is entirely managed by hand.
 This Web site in itself was, well, I must admit, only partially human-written 🤖
+
+## External links
+
+### Some similar initiatives
+
+- [Real-Time & Embedded, Cyber-Physical Systems and Robotics Conferences](https://automaticdai.github.io/realtime-embedded-conferences/)
+- [My list of journals in computer science](https://www.conferences-computer.science/old/journals.php)
+- [WikiCFP](http://www.wikicfp.com/cfp/call?conference=formal%20methods)
+- [Upcoming formal methods Conferences on FMEurope](https://www.fmeurope.org/feature/upcoming_conferences/)
+- [Conferences by  Miki Hermann & Martin Krejca](https://tcs-conf.github.io/)
+- [Computer Science conferences timeline](https://lucjaulmes.github.io/cfp-timeline/)
+- [Acceptance ratio of some Theoretical Computer Science Conferences](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php)
+- [Software Engineering Conferences with acceptance rates (outdated but useful)](https://taoxie.cs.illinois.edu/seconferences.htm)
+- [Conferences in Software Testing, and more](https://www.cs.ru.nl/~tretmans/TestConferences.html)
+
+### Towards less environmental impact?
+
+- My small [Event Carbon Footprint Calculator](https://www.etienne-andre.fr/event-carbon-calculator/)
+- Let’s go to conferences by train: [How to reach major European and Asian cities by train from Paris](https://www.lemondeentrain.fr/) (in French)
+
