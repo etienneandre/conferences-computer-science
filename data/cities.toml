@@ -73,6 +73,13 @@ lon = -3.7038
 continent = "EU"
 # 13 edition(s)
 
+["Gran Canaria, Spain"]
+country = "ES"
+display = "Gran Canaria"
+lat = 27.966
+lon = -15.6
+continent = "EU"
+
 ["Montréal, Québec, Canada"]
 country = "CA"
 display = "Montréal"

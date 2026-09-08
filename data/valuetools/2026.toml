@@ -1,0 +1,30 @@
+edition = 19
+title = "19th EAI International Conference on Performance Evaluation Methodologies and Tools"
+url = "https://valuetools.eai-conferences.org/2026/"
+
+[event]
+start = 2026-12-10
+end = 2026-12-11
+city = "Gran Canaria, Spain"
+
+[submission]
+tz = "AoE"
+format = "12-20 pages + references (full) / 6-11 pages (short)"
+abstract = [2026-09-10]
+paper = [2026-09-10]
+notification = [2026-10-10]
+
+[proceedings]
+publisher = "Springer LNICST series"
+license = "pay-profit"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[extra]
+journal = "Authors of selected papers will be invited to submit an extended version to: Springer Mobile Networks and Applications (MONET) Journal"
+

@@ -18,13 +18,32 @@ notification = [2023-07-31]
 [proceedings]
 publisher = "ACM"
 license = "acm"
+doi = "10.1007/978-3-031-48885-6"
 
 [stats]
-rate = 37.0
-# TODO: verify — extracted from the cross-year acceptance string.
+[[stats.track]]
+name = "Research papers"
+submitted = 19
+accepted = 9
+
+[[stats.track]]
+name = "Tool papers"
+submitted = 4
+accepted = 1
+
+[[stats.track]]
+name = "Work-in-progress papers"
+submitted = 3
+accepted = 1
+
+[[stats.track]]
+name = "Vision papers"
+submitted = 1
+accepted = 0
 
 [extra]
-notes = "Regular papers, tool papers, and short papers presented at the conference will be submitted to the ACM Digital Library. Best papers of VALUETOOLS 2019 will be given the opportunity to submit an extended version of their work for publication in a Special Issue of the Performance Evaluation (PEVA) journal of Elsevier. Fast Abstracts will be published as a Technical Report."
+notes = "Fast Abstracts will be published as a Technical Report."
+journal = "The conference best papers will be considered for a submission of extended versions to the Elsevier Performance Evaluation journal."
 
 [[cfp]]
 file = "cfp/VALUETOOLS-2023.txt"
