@@ -18,6 +18,13 @@ notification = [2024-08-31]
 [proceedings]
 publisher = "IEEE"
 license = "pay"
+doi = "10.1109/PRDC63035.2024"
+
+[review]
+blind = "double"
+
+# [stats]
+# "In the final program, we accepted 14 full research papers and 2 short research papers"
 
 [extra]
 notes = "One outstanding paper will be selected to receive the Best Paper Award. Also featuring: fast abstract, industry track, poster (different deadlines)."

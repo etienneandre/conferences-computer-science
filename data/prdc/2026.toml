@@ -1,0 +1,25 @@
+edition = 31
+title = "31st IEEE Pacific Rim International Symposium on Dependable Computing"
+url = "https://prdc-symposium.org/2026/"
+
+[event]
+start = 2026-12-02
+end = 2026-12-04
+city = "Hong Kong, China"
+
+[submission]
+tz = "AoE"
+format = "10 pages IEEE (regular) / 6 pages (case studies/industry), excluding references"
+paper = [2026-08-21,2026-09-04]
+notification = [2026-10-05,2026-10-12]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+
+[review.gender.chairs]
+men = 2
+women = 1
