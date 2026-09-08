@@ -25,7 +25,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [review]
-blind = "double"
+blind = "lightweight-double"
 
 award = """
 EATCS award,
