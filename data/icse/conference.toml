@@ -5,7 +5,18 @@ name = "International Conference on Software Engineering"
 
 [core]
 id = "1209"
-rank = "A*"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "A*"
+
+[[core.history]]
+from = 2010
+rank = "A"
+
+[[core.history]]
+from = 2013
+rank = "A*"
 
 [links]
 dblp = "icse"
@@ -13,4 +24,3 @@ dblp = "icse"
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.
 acceptance = "18.5% (85/461) in 2013"  # from ICSE 2027
-extensions = "Firm (…-2026-2027)"  # from ICSE 2027

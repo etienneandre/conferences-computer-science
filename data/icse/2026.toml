@@ -12,6 +12,7 @@ city = "Rio de Janeiro, Brazil"
 format = "10 pages ACM + 2p references"
 abstract = [2025-07-18]
 paper = [2025-07-18]
+extensions = false
 notification = [2025-12-19]
 
 [proceedings]
