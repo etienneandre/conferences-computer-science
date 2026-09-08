@@ -7,6 +7,7 @@ url = "http://www.formalise.org/"
 start = 2021-05-17
 end = 2021-05-21
 online = true
+colocated_with = ["icse/2021"]
 
 [submission]
 format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
@@ -17,9 +18,6 @@ notification = [2021-02-22]
 [proceedings]
 publisher = "IEEE/ACM"
 license = "acm"
-
-[extra]
-notes = "Held in conjunction with ICSE."
 
 [[cfp]]
 file = "cfp/FORMALISE-2021.txt"

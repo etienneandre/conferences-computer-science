@@ -1,0 +1,32 @@
+edition = 15
+title = "15th International Conference on Formal Methods in Software Engineering"
+url = "https://2027.formalise.org/"
+
+[event]
+start = 2027-04-26
+end = 2027-04-27
+city = "Dublin, Ireland"
+colocated_with = ["icse/2027"]
+
+[submission]
+format = "10 pages ACM + references (full papers / case study papers), 4 pages (research ideas / extended abstracts)"
+abstract = [2026-10-30]
+paper = [2026-11-06]
+notification = [2027-01-11]
+
+[proceedings]
+publisher = "IEEE/ACM"
+license = "pay"
+
+[review]
+blind = "lightweight-double"
+artifact = "Submission of an artifact is optional but encouraged for all papers where it can support the results presented in the paper."
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[[cfp]]
+file = "cfp/FormaliSE-2027-2026-09-08.txt"
+stage = "initial"
+

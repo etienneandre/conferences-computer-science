@@ -6,6 +6,7 @@ url = "http://www.formalise.org/"
 [event]
 start = 2019-05-27
 city = "Montréal, Québec, Canada"
+colocated_with = ["icse/2019"]
 
 [submission]
 format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
@@ -16,9 +17,6 @@ notification = [2019-03-01]
 [proceedings]
 publisher = "IEEE/ACM"
 license = "acm"
-
-[extra]
-notes = "Held in conjunction with ICSE."
 
 [[cfp]]
 file = "cfp/FORMALISE-2019.txt"

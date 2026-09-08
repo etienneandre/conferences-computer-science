@@ -7,6 +7,7 @@ url = "https://conf.researchr.org/home/Formalise-2025"
 start = 2025-04-27
 end = 2025-04-28
 city = "Ottawa, Ontario, Canada"
+colocated_with = ["icse/2025"]
 
 [submission]
 format = "10 pages ACM + references (full papers / case study papers), 4 pages (research ideas)"
@@ -16,10 +17,16 @@ notification = [2025-01-13]
 
 [proceedings]
 publisher = "IEEE/ACM"
-license = "acm"
+license = "pay"
+doi = "10.1109/FormaliSE66629.2025"
 
-[extra]
-notes = "Co-located with ICSE 2025. Light-weight double blind scheme. Artifact evaluation."
+[review]
+blind = "lightweight-double"
+artifact = "Optional artifact evaluation"
+
+[stats]
+submitted = 48
+accepted = 15
 
 [[cfp]]
 file = "cfp/FORMALISE-2025.txt"

@@ -1,0 +1,94 @@
+Call for Papers
+
+We accept papers in six categories:
+
+    Full research papers (10 pages of content + 2 pages of references) describing original research work and results. We encourage authors to include validation of their contributions by means of a case study or experiments. We also welcome research papers focusing on tools and tool development.
+    Experience report papers (10 pages of content + 2 pages of references) discussing a significant application that suggests general lessons learned and motivates further research, or empirically validates theoretical results (such as a technique’s scalability).
+    Research ideas papers (4 pages of content + 1 page of references) describing new ideas in preliminary form with an early evaluation. These papers should also include a plan for future studies.
+    Vision papers (5 pages of content + 1 page of references) outlining mid- and long-term visions or roadmaps on a (potentially controversial) topic relevant to the conference. These papers should be presented in a way that can stimulate interesting discussions at the conference.
+    Tool demo papers (4 pages including references) describing novel tools, outlining usage scenarios, including main screenshots, and a link to the tool or a video demo. The tools are expected to be demonstrated at the conference.
+    Posters (2 pages of content including references) - describing work in progress. These contributions are NOT included in the proceedings, but authors will have dedicated panels for poster presentation during the conference.
+
+All papers submitted to the FormaliSE 2027 conference must be written in English, must be unpublished original work, and must not be under review or submitted elsewhere at the time of submission. Submissions must comply with FormaliSE’s lightweight double-anonymous review process (see below).
+
+To submit a paper to FormaliSE 2027 use this HotCRP link
+
+If a submission is accepted, at least one author of the paper is required to register for FormaliSE 2027 and present the paper in-person.
+Paper selection
+
+Each paper will be reviewed by at least three program committee members who will judge its overall quality based on the following criteria:
+
+Full research papers
+- Novelty: the originality of the contribution compared to the state-of-the-art, and the appropriateness of the discussion of relevant related work.
+- Relevance: the significance of the contribution for the FormaliSE community.
+- Soundness: the appropriateness of the research methodology and correctness of the solution.
+- Verifiability: The extent to which the paper includes sufficient information to support independent verification and the replication of its contributions.
+
+Experience report papers
+- Novelty: the extent to which the paper advances the current state of the practice
+- Relevance: the significance of the contribution compared to the existing related works and similar industrial contexts.
+- Actionability of the lessons learned: to what extent the lessons learned can be useful to other authors and practitioners.
+
+Research ideas papers
+- Novelty: the originality of the contribution compared to the state-of-the-art, and the appropriateness of the discussion of relevant related work.
+- Relevance: the significance of the contribution for the FormaliSE community.
+- Quality of the preliminary evaluation: How compelling is the proof-of-concept provided, and to what extent do the preliminary findings or exemplary case demonstrate the viability/effectiveness of the proposed approach.
+- Feasibility of the research plan: the appropriateness and feasibility of the research plan.
+
+Vision papers
+- Novelty: the originality of the contribution compared to the state-of-the-art, and the appropriateness of the discussion of relevant related work.
+- Relevance: the significance of the contribution for the FormaliSE community.
+- Quality of the roadmap: the appropriateness and soundness of the roadmap.
+- Discussion potential: to what extent the contribution can trigger discussion during the conference, providing arguments that resonate with the audience or thought provoking claims.
+
+Tool Demo
+- Novelty: the originality of the contribution compared to state-of-the-art tools. If appropriate, we recommend a comparison table, where the features of other solutions are compared with the proposed one.
+- Relevance: the significance of the contribution for the FormaliSE community.
+- Usefulness: to what extent the authors provide convincing arguments explaining how community members can benefit from the tool, e.g., with usage scenarios.
+
+Posters
+- Novelty: the originality of the contribution compared to the state-of-the-art.
+- Relevance: the significance of the contribution for the FormaliSE community.
+
+Besides these criteria, all contributions will be evaluated also based on the Quality of the Presentation, in terms of clarity and structure.
+Submission Process
+
+All submissions must conform to the IEEE conference proceedings template, specified in the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt type, LaTeX users must use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf options). Note that IEEE format is being used this year, whereas last year it was ACM format.
+
+Submissions must strictly conform to the IEEE conference proceedings formatting instructions specified above. Alterations of spacing, font size, and other changes that deviate from the instructions may result in desk rejection without further review.
+
+The official publication date is the date the proceedings are made available in the ACM or IEEE Digital Libraries. This date may be up to two weeks prior to the first day of ICSE 2027. The official publication date affects the deadline for any patent filings related to published work.
+
+Purchases of additional pages in the proceedings is not allowed.
+
+Lightweight double-anonymous review process: as in recent editions, FormaliSE 2027 will use a lightweight double-anonymous process. Authors must omit their names and institutions from the title page, cite their own work in the third person, and omit acknowledgments that may reveal their identity or affiliation. The purpose is to reduce the chances of reviewer bias influenced by the authors’ identities. The double-anonymous process is, however, lightweight, which means that it should not pose a heavy burden for authors, nor should it make a paper’s presentation weaker or more difficult to review. Also, advertising the paper as part of your usual research activities (for example, on your personal webpage, in a pre-print archive, by email, in talks or discussions with colleagues) is permitted without penalties. Further advice, guidance, and explanation about the double-anonymous review process can be found on the ICSE 2027 Q&A page.
+Authorship Policy and Use of Generative AI
+
+Submissions to FormaliSE 2027 must comply with the ACM Policy and Procedures on Plagiarism and the IEEE Plagiarism FAQ. In particular, papers submitted to FormaliSE 2027 must not have been published elsewhere and must not be under review or submitted for review elsewhere while under consideration for FormaliSE 2027.
+
+If the research involves human participants/subjects, the authors must adhere to the ACM Publications Policy on Research Involving Human Participants and Subjects. Upon submission, authors will declare their compliance with this policy.
+
+Please ensure that you and your co-authors obtain an ORCID ID so that you can complete the publishing process for your accepted paper. IEEE has been involved in ORCID and may collect ORCID IDs from all published authors. We are committed to improving author discoverability, ensuring proper attribution, and contributing to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
+
+Authors must also comply with the IEEE authorship policy, the IEEE submission policy, and the ACM authorship policy and associated FAQ. In particular, authors should follow the applicable policies regarding the use of Generative AI:
+
+    “Generative AI tools and technologies, such as ChatGPT, may not be listed as authors. The use of generative AI tools and technologies to create content is permitted but must be fully disclosed in the Work. For example, the authors could include the following statement in the Acknowledgements section of the Work: “ChatGPT was utilized to generate sections of this Work, including text, tables, graphs, code, data, citations, etc.” If you are uncertain about the need to disclose the use of a particular tool, err on the side of caution, and include a disclosure in the acknowledgements section of the Work.” - ACM
+
+    “The use of artificial intelligence (AI)-generated text in an article shall be disclosed in the acknowledgements section of any paper submitted to an IEEE Conference or Periodical. The sections of the paper that use AI-generated text shall have a citation to the AI system used to generate the text.” - IEEE
+
+    “If you are using generative AI software tools to edit and improve the quality of your existing text in much the same way you would use a typing assistant like Grammarly to improve spelling, grammar, punctuation, clarity, engagement or to use a basic word processing system to correct spelling or grammar, it is not necessary to disclose such usage of these tools in your Work.” - ACM
+
+Open Science Policy
+
+FormaliSE 2027 is governed by the FormaliSE 2027 Open Science policies. The guiding principle is that all research results should be accessible to the public and, if possible, empirical studies should be reproducible. In particular, we actively support the adoption of open artifacts and open source principles. We encourage all contributing authors to disclose (anonymized and curated) data/artifacts to increase reproducibility and replicability. Note that sharing research artifacts is not mandatory for submission or acceptance. However, sharing is highly encouraged and increases the chances of acceptance. We recognize that reproducibility or replicability is not a goal in qualitative research and that, similar to industrial studies, qualitative studies often face challenges in sharing research data. For guidelines on how to report qualitative research to ensure the assessment of the reliability and credibility of research results, see this curated ICSE 2027 Q&A page.
+Artifact Evaluation
+
+Reproducibility of experimental results is crucial to foster an atmosphere of trustworthy, open, and reusable research. To improve and reward reproducibility, FormaliSE 2027 continues its Artifact Evaluation (AE) procedure. An artifact is any additional material (software, data sets, machine-checkable proofs, etc.) that substantiates the claims made in the paper and ideally makes them fully reproducible.
+
+Submission of an artifact is optional but encouraged for all papers where it can support the results presented in the paper. Artifact review is single-anonymous (the paper corresponding to an artifact must still follow the double-anonymous submissions requirements) and will be conducted concurrently with the paper reviewing process. Artifacts will be handled by a separate Artifact Evaluation Committee, and the Artifact Evaluation process will be set up such that the anonymization of the corresponding papers will not be compromised. Accepted papers with a successfully evaluated artefact will be awarded the EAPLS Artifact Badges that apply (among “Functional”, “Reusable”, and “Available”). Awarded badges are to be added to the camera-ready version of the paper.
+
+Artifacts will be assessed with respect to their consistency with the results presented in the paper, their completeness, their documentation, and their ease of use. The Artifact Evaluation will include an initial check for technical issues; authors of artifacts may be contacted by email within the first two weeks after artifact submission to help resolve any technical problems that prevent the evaluation of an artifact, if necessary.
+
+The results of an artifact evaluation will not be available to the reviewers of the corresponding paper; hence, they will not affect the paper’s acceptance decision. However, reviewers will know whether a paper has submitted any artifacts; this piece of information may be taken into account to decide whether the paper should be accepted. Thus, if there are justifiable reasons why a paper’s artifacts cannot be submitted, they should be pointed out in the paper so that the reviewers can appreciate them and adjust their expectations accordingly.
+
+Detailed guidelines for the preparation and submission of artifacts will be described in a dedicated page on FormaliSE 2027’s website.

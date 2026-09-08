@@ -6,6 +6,7 @@ url = "http://www.formalise.org/"
 [event]
 start = 2018-06-02
 city = "Gothenburg, Sweden"
+colocated_with = ["icse/2018"]
 
 [submission]
 format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
@@ -16,6 +17,3 @@ notification = [2018-03-04]
 [proceedings]
 publisher = "IEEE/ACM"
 license = "acm"
-
-[extra]
-notes = "Held in conjunction with ICSE."

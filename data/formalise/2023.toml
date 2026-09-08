@@ -18,8 +18,12 @@ notification = [2023-02-21]
 publisher = "IEEE/ACM"
 license = "acm"
 
+[review]
+blind = "lightweight-double"
+artifact = "Optional artifact evaluation"
+
 [extra]
-notes = "Light-weight rebuttal scheme. Artifact evaluation. Held in conjunction with ICSE."
+colocated = "Held in conjunction with ICSE."
 
 [[cfp]]
 file = "cfp/FormaliSE-2023.txt"

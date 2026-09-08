@@ -7,6 +7,7 @@ url = "http://www.formalise.org/"
 start = 2020-05-25
 end = 2020-05-26
 city = "Seoul, South Korea"
+colocated_with = ["icse/2020"]
 
 [submission]
 format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
@@ -17,9 +18,6 @@ notification = [2020-03-01]
 [proceedings]
 publisher = "IEEE/ACM"
 license = "acm"
-
-[extra]
-notes = "Held in conjunction with ICSE."
 
 [[cfp]]
 file = "cfp/FORMALISE-2020.txt"

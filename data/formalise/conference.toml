@@ -4,7 +4,7 @@ acronym = "FormaliSE"
 name = "International Conference on Formal Methods in Software Engineering"
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [links]
 dblp = "icse-formalise"

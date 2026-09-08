@@ -6,6 +6,7 @@ url = "http://www.formalise.org/"
 [event]
 start = 2016-05-15
 city = "Austin, Texas, USA"
+colocated_with = ["icse/2016"]
 
 [submission]
 format = "7 pages ACM"
@@ -15,6 +16,3 @@ notification = [2016-02-19]
 [proceedings]
 publisher = "IEEE/ACM"
 license = "pay"
-
-[extra]
-notes = "Held in conjunction with ICSE. All ACCEPTED CONTRIBUTIONS will be PUBLISHED in the ICSE 2016 Proceedings or the ICSE 2016 Companion Proceedings and in both the ACM Digital Library and the IEEE Digital Library."

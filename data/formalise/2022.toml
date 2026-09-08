@@ -7,6 +7,7 @@ url = "http://www.formalise.org/"
 start = 2022-05-22
 end = 2022-05-23
 city = "Pittsburgh, PA, USA"
+colocated_with = ["icse/2022"]
 
 [submission]
 format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"
@@ -18,8 +19,8 @@ notification = [2022-03-04]
 publisher = "IEEE/ACM"
 license = "acm"
 
-[extra]
-notes = "Light-weight rebuttal scheme in 2022. Held in conjunction with ICSE."
+[review]
+blind = "lightweight-double"
 
 [[cfp]]
 file = "cfp/FORMALISE-2022.txt"

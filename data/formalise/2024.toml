@@ -17,9 +17,18 @@ notification = [2024-01-12]
 [proceedings]
 publisher = "IEEE/ACM"
 license = "acm"
+doi = "10.1145/3644033"
+
+[review]
+blind = "lightweight-double"
+artifact = "Optional artifact evaluation"
+
+[stats]
+submitted = 41
+accepted = 14 #  11 full research papers, one case study paper, and two research ideas papers.
 
 [extra]
-notes = "Light-weight rebuttal scheme. Artifact evaluation. Held in conjunction with ICSE."
+colocated = "Held in conjunction with ICSE."
 
 [[cfp]]
 file = "cfp/FormaliSE-2024.txt"
