@@ -1030,6 +1030,7 @@ def build_environment(site: Site) -> Environment:
     env.filters["daterange"] = lambda pair: fmt_range(pair[0], pair[1])
     env.filters["ordinal"] = ordinal
     env.globals.update(
+        jsonld=lambda edition: event_jsonld(site, edition),
         fragment=lambda name: load_fragment(site, name),
         cfp_text=lambda edition, cfp: read_cfp_text(site, edition, cfp),
         asset_version=asset_version(site),
@@ -1949,6 +1950,143 @@ def render_calendars(site: Site) -> int:
     return written
 
 
+def event_jsonld(site: Site, edition: Edition) -> str | None:
+    """schema.org markup for an edition.
+
+    This is the one piece of SEO worth real effort here: a search engine can
+    read a page and guess it is about a conference, but it cannot reliably tell
+    the submission deadline from the notification date from the dates it meets.
+    Stating them removes the guess.
+
+    Written only where the dates are actually known — marking up an edition
+    whose dates we do not have would be asserting something we have avoided
+    asserting everywhere else.
+    """
+    if not edition.starts or edition.status in ("cancelled", "no-edition"):
+        return None
+
+    base = site.config["site"]["base_url"]
+    place = site.city(edition.city_name)
+
+    data: dict = {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": edition.acronym,
+        "startDate": edition.starts.isoformat(),
+        "eventStatus": "https://schema.org/EventScheduled",
+        "url": f"{base}{edition.url}",
+        "isAccessibleForFree": False,
+    }
+    if edition.title and edition.title != edition.acronym:
+        data["description"] = edition.title
+
+    end = edition.event.get("end")
+    if isinstance(end, date):
+        data["endDate"] = end.isoformat()
+
+    if edition.online:
+        data["eventAttendanceMode"] = "https://schema.org/OnlineEventAttendanceMode"
+        data["location"] = {"@type": "VirtualLocation", "url": edition.website or f"{base}{edition.url}"}
+    elif place.get("name"):
+        data["eventAttendanceMode"] = (
+            "https://schema.org/MixedEventAttendanceMode" if edition.event.get("hybrid")
+            else "https://schema.org/OfflineEventAttendanceMode")
+        location: dict = {"@type": "Place", "name": place["name"],
+                          "address": {"@type": "PostalAddress",
+                                      "addressLocality": place.get("display") or place["name"]}}
+        if place.get("country"):
+            location["address"]["addressCountry"] = place["country"]
+        if place.get("lat") is not None and place.get("lon") is not None:
+            location["geo"] = {"@type": "GeoCoordinates",
+                               "latitude": place["lat"], "longitude": place["lon"]}
+        data["location"] = location
+
+    organizer = edition.website
+    if organizer:
+        data["sameAs"] = organizer
+
+    # The whole point: naming which date is which.
+    paper = edition.deadline("paper")
+    if paper:
+        data["subEvent"] = [{
+            "@type": "Event",
+            "name": f"{edition.acronym} — paper submission deadline",
+            "startDate": paper.effective.isoformat(),
+            "url": f"{base}{edition.url}",
+            "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+            "location": {"@type": "VirtualLocation",
+                         "url": edition.website or f"{base}{edition.url}"},
+        }]
+
+    return json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+
+
+def render_sitemap(site: Site) -> int:
+    """A sitemap, and a robots.txt that agrees with it.
+
+    Crawlers reach almost everything here by following links — the front page
+    lists every live series, each series lists its editions. What a sitemap
+    adds is `lastmod`: a crawler that knows a page has not changed since March
+    can spend its budget elsewhere, which matters at fifteen hundred pages.
+
+    While `draft` is set, the sitemap is still written but robots.txt refuses
+    everything. Belt and braces alongside the noindex on each page: a stray
+    link into a half-built site should not get it indexed.
+    """
+    base = site.config["site"]["base_url"].rstrip("/")
+    draft = bool(site.config["site"].get("draft"))
+
+    entries: list[tuple[str, str | None, str]] = [("/", None, "daily")]
+    for name in ("about", "submit", "data", "ics"):
+        folder = site.root / "pages"
+        if (folder / f"{name}.md").exists() or (folder / f"{name}.html").exists():
+            entries.append((f"/{name}/", None, "monthly"))
+
+    for conference in site.conferences.values():
+        newest = max((e.source_mtime for e in conference.editions if e.source_mtime),
+                     default=None)
+        entries.append((conference.url,
+                        newest.date().isoformat() if newest else None, "weekly"))
+        for edition in conference.editions:
+            stamp = (edition.source_mtime.date().isoformat()
+                     if edition.source_mtime else None)
+            # A closed edition will not change again; a live one might.
+            paper = edition.paper
+            changes = "weekly" if (paper and paper.effective >= date.today()) else "yearly"
+            entries.append((edition.url, stamp, changes))
+
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for path, modified, frequency in entries:
+        lines.append("  <url>")
+        lines.append(f"    <loc>{base}{path}</loc>")
+        if modified:
+            lines.append(f"    <lastmod>{modified}</lastmod>")
+        lines.append(f"    <changefreq>{frequency}</changefreq>")
+        lines.append("  </url>")
+    lines.append("</urlset>")
+    write(site.out_dir / "sitemap.xml", "\n".join(lines) + "\n")
+
+    if draft:
+        robots = ("# The site is still being assembled: nothing here is ready to be\n"
+                  "# indexed. Set draft = false in site.toml to open it up.\n"
+                  "User-agent: *\n"
+                  "Disallow: /\n")
+    else:
+        robots = ("User-agent: *\n"
+                  "Allow: /\n"
+                  "\n"
+                  "# Build artefacts and the previous version of the site.\n"
+                  "Disallow: /cache/\n"
+                  "Disallow: /_data/\n"
+                  "Disallow: /old/\n"
+                  "\n"
+                  f"Sitemap: {base}/sitemap.xml\n")
+    write(site.out_dir / "robots.txt", robots)
+
+    return len(entries)
+
+
 def render_server_files(site: Site, env: Environment) -> None:
     """The 404 page and the .htaccess, generated so they are deployed.
 
@@ -2104,6 +2242,7 @@ def main() -> int:
     feeds = render_calendars(site)
     exported = export_data(site)
     render_server_files(site, env)
+    urls = render_sitemap(site)
     handwritten = render_pages(site, env)
     copy_assets(site)
 
@@ -2129,6 +2268,7 @@ def main() -> int:
         print(f"  calls filed : {calls}", file=sys.stderr)
         print(f"  pages/      : {handwritten}", file=sys.stderr)
         print(f"  calendars   : {feeds}", file=sys.stderr)
+        print(f"  sitemap     : {urls} URLs", file=sys.stderr)
         print(f"  open data   : {exported['rows']} rows in "
               f"{exported['files']} files", file=sys.stderr)
         print(f"  front page  : {listed} editions listed "

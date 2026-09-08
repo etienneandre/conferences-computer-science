@@ -1,7 +1,10 @@
 # site.toml — build configuration.
+#
+# From here on this file is yours. Nothing in the generator writes to it.
+
 [site]
 title = "conferences.computer.science"
-tagline = "An incomplete list of conferences in theoretical computer science, sorted by what closes next."
+tagline = "Submission deadlines for theoretical computer science, sorted by what closes next."
 base_url = "https://www.conferences-computer.science"
 language = "en"
 
@@ -19,16 +22,16 @@ data_licence_url = "https://creativecommons.org/licenses/by-sa/4.0/"
 #
 # On changeover day:
 #     front_page = "index"
-#     draft = false
+#     draft = true
 # then `make deploy`. `make golive` prints this back at you with the current
 # values. Move the old site out of the way first, or index.php is overwritten.
 # ---------------------------------------------------------------------------
-front_page = "index"
+front_page = "future"
 
 # While true, every generated page carries <meta name="robots" content="noindex">.
 # This matters: the new pages go online weeks before launch, and without it
 # search engines index half-finished versions that are then slow to refresh.
-draft = false
+draft = true
 
 [build]
 output = "public"
@@ -47,7 +50,7 @@ assumed_tz = "AoE"
 # UTC. Set it to "" to switch the feature off.
 #
 # Change this to something only you know before deploying.
-debug_token = "VRtn2S0-ffX3dyIA"
+debug_token = "CHANGE-ME-BEFORE-DEPLOYING"
 
 [map]
 # Tiles are fetched from openstreetmap.org, which therefore learns the reader's
@@ -58,8 +61,9 @@ debug_token = "VRtn2S0-ffX3dyIA"
 autoload = false
 
 # Country-to-continent scale: enough to see where in the world a venue is.
-zoom = 4
+zoom = 5
 
 [contact]
-issues = "https://github.com/etienneandre/conferences-computer-science/issues"
+# Used in the footer and on the Submit page. Replace with your own.
+issues = "https://github.com/YOURNAME/conferences-computer-science/issues"
 form = "/submit/"

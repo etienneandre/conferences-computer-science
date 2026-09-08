@@ -6,11 +6,20 @@
 {% set paper = edition.paper %}
 {% set clock = countdown(paper) %}
 
-{% block title %}{{ edition.acronym }} &mdash; {{ config.site.title }}{% endblock %}
+{% block title %}{{ edition.acronym }}
+  {%- if paper %} &mdash; deadline {{ paper.effective | date }}{% endif %}
+  {%- if place.get('display') %} &mdash; {{ place.display }}{% endif %}{% endblock %}
 
 {% block meta %}
-<meta name="description" content="{{ edition.acronym }}: submission deadlines, dates and proceedings.{% if paper %} Paper deadline {{ paper.effective | date }}.{% endif %}">
+<meta name="description" content="{{ edition.title }}.
+  {%- if paper %} Paper deadline {{ paper.effective | date }}{% if paper.extended %}, extended from {{ paper.announced | date }}{% endif %}.{% endif %}
+  {%- if edition.held %} Held {{ edition.held }}{% if place.get('display') %} in {{ place.display }}{% endif %}.{% endif %}
+  {%- if proc.get('publisher') %} Proceedings: {{ proc.publisher }}.{% endif %}">
 <link rel="canonical" href="{{ config.site.base_url }}{{ edition.url }}">
+{% set structured = jsonld(edition) %}
+{% if structured %}
+<script type="application/ld+json">{{ structured | safe }}</script>
+{% endif %}
 {% endblock %}
 
 {% block content %}
