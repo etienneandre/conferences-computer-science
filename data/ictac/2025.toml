@@ -18,6 +18,23 @@ notification = [2025-08-30]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-032-11176-0"
+
+[stats]
+[[stats.track]]
+name = "Regular papers"
+submitted = 54
+accepted = 21
+
+[[stats.track]]
+name = "Short papers"
+submitted = 5
+accepted = 2
+
+[[stats.track]]
+name = "Tool papers"
+submitted = 5
+accepted = 2
 
 [extra]
 journal = "A special issue of selected papers in Elsevier’s journal Theoretical Computer Science is under negotiation."

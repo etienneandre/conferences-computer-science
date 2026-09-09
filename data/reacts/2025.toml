@@ -7,6 +7,7 @@ url = "https://reacts-workshop.github.io/2025/"
 start = 2025-11-10
 end = 2025-11-11
 city = "Toledo, Spain"
+colocated_with = ["sefm/2025"]
 
 [submission]
 format = "12 pages LNCS (+ references) / 4 pages (short)"
@@ -18,9 +19,12 @@ notification = [2025-09-22]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[stats]
+submitted = 8 #  4 to be accepted as regular papers and 4 to be accepted as short paper
+accepted = 8
+
 [extra]
 journal = "Similarly to the last edition of ReacTS, we plan to invite authors of selected contributions to submit extended versions to a special issue, e.g. to the Journal of Applied Logics."
-colocated = "Satellite event of SEFM 2025"
 
 [[cfp]]
 file = "cfp/ReacTS-2025.txt"

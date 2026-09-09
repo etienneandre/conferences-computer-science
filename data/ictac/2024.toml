@@ -18,9 +18,14 @@ notification = [2024-09-01]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-031-77019-7"
+
+[stats]
+submitted = 46
+accepted = 21
 
 [extra]
-notes = "We plan to have a special issue for selected accepted papers from ICTAC 2024."
+journal = "We plan to have a special issue for selected accepted papers from ICTAC 2024."
 
 [[cfp]]
 file = "cfp/ICTAC-2024.txt"

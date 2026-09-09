@@ -4,8 +4,4 @@ acronym = "ReacTS"
 name = "International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications"
 
 [core]
-rank = "absent"  # TODO: verify
-
-[legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-extensions = "7 days (2025)"  # from ReacTS 2025
+rank = "absent"

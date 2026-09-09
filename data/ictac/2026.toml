@@ -32,3 +32,8 @@ stage = "initial"
 [[cfp]]
 file = "cfp/ICTAC-2026-extended.txt"
 stage = "extended"
+
+[[cfp]]
+file = "cfp/ICTAC-2026-CfPart.txt"
+kind = "participation"
+

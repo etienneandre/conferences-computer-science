@@ -1,0 +1,142 @@
+Final Call for Papers
+
+Third International Workshop on Reconfigurable Transition Systems (ReacTS 2026)
+
+Satellite Workshop of the 24th International Conference on Software Engineering and Formal Methods (SEFM 2026), 24 November 2026 • Valletta, Malta
+
+Workshop website: https://reacts-workshop.github.io/2026/
+
+⸻
+
+Important Deadlines and Dates
+
+* Abstract submission: 8 September 2026 (AoE)
+* Paper submission: 13 September 2026 (AoE) 16 September 2026 (AoE)
+* Author notification: 16 October 2026 (AoE)
+* Informal pre-proceedings: 6 November 2026 (AoE)
+* Workshop: 24 November 2026
+
+⸻
+
+Invited Speakers
+
+* Manuel A. Martins, University of Aveiro (Portugal)
+* TBA
+
+⸻
+
+Overview
+
+Reconfigurable Transition Systems (RTSs) are dynamic relational structures whose underlying graph evolves during execution. As transitions are traversed, the accessibility relation, the set of nodes, or their labelling may change, making RTSs a natural formalism for modelling systems whose structure evolves over time.
+
+The ability of systems to react and adapt to changing conditions is a defining characteristic of many modern applications. Examples include autonomous vehicles dynamically rerouting in response to traffic disruptions, software components reconfiguring after resource failures, and biological systems evolving through genetic mutations. These and many other scenarios highlight the need for rigorous models and formal reasoning techniques capable of capturing dynamic and reconfigurable behaviour.
+
+The growing relevance of such applications has sparked significant interest in developing logical and formal methods for reasoning about reconfigurable systems. Research in this area spans a wide range of approaches, from foundational theories to practical modelling frameworks and verification techniques.
+
+The workshop aims to bring together researchers working on the formal modelling, analysis, and verification of reconfigurable and reactive systems. The workshop welcomes contributions on theoretical foundations—including hybrid logics, reactive frames, model-update logics, topological and algebraic semantics—as well as domain-specific formalisms such as separation logic for software verification, dynamic epistemic logic for AI planning, and related approaches. Our goal is to foster discussion between different research communities, encourage new collaborations, and explore emerging applications and future directions in the field.
+
+⸻
+
+Submission Guidelines
+
+Authors are invited to submit original research papers and experience reports via EasyChair:
+
+https://easychair.org/conferences/?conf=reacts2026
+
+All submissions must be written in English and prepared using the Springer LNCS format, available at:
+
+https://link.springer.com/series/558/information-for-authors-and-editors
+
+We solicit two categories of submissions:
+
+* Full Papers (up to 12 pages, excluding references), presenting original and unpublished research.
+* Short Presentations (up to 4 pages, excluding references), presenting work in progress, preliminary results, or promising new ideas.
+
+Both submission categories welcome system descriptions, including new tools, tool components, extensions to existing tools, and case studies describing the application or customisation of tools in the context of reconfigurable transition systems.
+
+All submissions will undergo single-blind peer review by members of the Programme Committee.
+
+Accepted full papers will be included in the workshop programme and published in the LNCS post-proceedings of the SEFM workshops.
+
+Accepted short presentations will be included in the workshop programme and published in the informal online proceedings available from the workshop website, but will not appear in the LNCS post-proceedings.
+
+⸻
+
+Topics of Interest
+
+The workshop welcomes contributions on topics including, but not limited to:
+
+Reconfigurable Transition Systems
+
+* Models for the analysis of reconfigurable systems
+* Applications of formal models for reconfigurable systems
+* Computational tools for modelling, analysing, and animating RTSs
+* Generalisations of RTSs, including fuzzy, weighted, stochastic, and paraconsistent RTSs
+* Featured transition systems
+* Reconfigurable cyber-physical systems
+
+Logical Methods
+
+* Dynamic logics, separation logics, and dynamic epistemic logics for RTSs
+* Bisimulation and algebraic methods
+* Model checking and verification tools
+* Reactive systems and process algebras
+* Logics for cyber-physical systems
+* Topological and algebraic semantics
+* AI techniques and applications for RTSs
+
+⸻
+
+Programme Co-Chairs
+
+* Daniel Figueiredo, University of Aveiro (Portugal)
+* Duncan Paul Attard, University of Malta (Malta)
+
+⸻
+
+Programme Committee
+
+* Elli Anastasiadi, Aalborg University (Denmark)
+* Luís Soares Barbosa, Universidade do Minho (Portugal)
+* Benjamin Bedregal, Universidade Federal do Rio Grande do Norte (Brazil)
+* Mario Benevides, Universidade Federal Fluminense (Brazil)
+* Valentín Cassano, Universidad Nacional de Río Cuarto and CONICET (Argentina)
+* Valentina Castiglioni, Eindhoven University of Technology (The Netherlands)
+* Madalena Chaves, Centre Inria d’Université Côte d’Azur (France)
+* Gabriel Ciobanu, Institute of Computer Science, Romanian Academy (Romania)
+* Raúl Fervari, Universidad Nacional de Córdoba and CONICET (Argentina)
+* Sabine Frittella, Université d’Orléans (France)
+* Andreas Herzig, CNRS, Université Paul Sabatier (France)
+* Omar Inverso, Gran Sasso Science Institute (GSSI), (Italy)
+* Juha Kontinen, University of Helsinki (Finland)
+* Alexandre Madeira, University of Aveiro (Portugal)
+* Sérgio Marcelino, Instituto Superior Técnico, University of Lisbon (Portugal)
+* Vanina Martínez, IIIA-CSIC, Barcelona (Spain)
+* Alessandra Palmigiano, Vrije Universiteit Amsterdam (The Netherlands)
+* José Proença, FCUP, University of Porto (Portugal)
+* Fernando R. Velázquez-Quesada, University of Bergen (Norway)
+* Umberto Rivieccio, Universidad Nacional de Educación a Distancia (Spain)
+* Regivan Santiago, Universidade Federal do Rio Grande do Norte (Brazil)
+* François Schwarzentruber, ENS Rennes (France)
+* Sonja Smets, ILLC, University of Amsterdam (The Netherlands)
+* Ionuț Țuțu, Simion Stoilow Institute of Mathematics of the Romanian Academy (Romania)
+* Amanda Vidal, Czech Academy of Sciences (Czech Republic)
+* Fan Yang, Utrecht University (The Netherlands)
+
+⸻
+
+Publication
+
+Accepted full papers will be published by Springer in a volume of the Lecture Notes in Computer Science (LNCS) series, collecting the proceedings of selected SEFM 2026 workshops.
+
+A paper will be included in the proceedings only if at least one author registers for the workshop and presents the paper.
+
+As in previous editions of ReacTS, selected contributions may be invited to submit substantially extended versions to a journal special issue.
+
+⸻
+
+Contact
+
+For any questions regarding the workshop, please contact:
+* Daniel Figueiredo — daniel.figueiredo@ua.pt
+* Duncan Paul Attard — duncan.attard@um.edu.mt

@@ -6,6 +6,7 @@ url = "https://reacts2024.github.io/"
 [event]
 start = 2024-11-05
 city = "Aveiro, Portugal"
+colocated_with = ["sefm/2024"]
 
 [submission]
 format = "12 pages LNCS (+ references) / 4 pages (short)"
@@ -18,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Satellite event of SEFM 2024. Extended versions of selected contributions will be published in a special issue of the Journal of Applied Logics"
+journal = "Extended versions of selected contributions will be published in a special issue of the Journal of Applied Logics"
 
 [[cfp]]
 file = "cfp/ReacTS-2024.txt"
