@@ -11,8 +11,8 @@ city = "Dinard, Bretagne, France"
 tz = "GMT+2"
 format = "18 pages LaTeX jflart (research) + references / 9 pages (short). No appendix"
 paper = [2026-10-16]
-notification = [2026-12-02]
 extensions = false
+notification = [2026-12-02]
 
 [proceedings]
 publisher = "HAL"
@@ -31,3 +31,7 @@ men = 1
 
 [extra]
 notes = "Presentations preferably given in French."
+
+[[cfp]]
+file = "cfp/JFLA-2027.txt"
+stage = "initial"
