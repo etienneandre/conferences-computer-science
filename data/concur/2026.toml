@@ -21,11 +21,25 @@ notification = [2026-06-15]
 [proceedings]
 publisher = "LIPIcs"
 license = "cc-by"
+doi = "10.4230/LIPIcs.CONCUR.2026"
 
 [review]
 blind = "single"
 gender_balance = "mixed"
 award = "CONCUR Test-of-Time award, Best Paper award, and Best Student Paper award in 2026."
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 3
+women = 2
+
+
+[stats]
+accepted = 43
+submitted = 114
 
 [extra]
 journal = "A special issue dedicated to selected papers from CONCUR’2026 will appear in Logical Methods in Computer Science."
