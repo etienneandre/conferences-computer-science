@@ -165,15 +165,15 @@ order = 7
 ################################################################################
 
 [blind.single]
-label = "Single blind"
+label = "Single anonymous"
 icon = "👁"
 
 [blind.double]
-label = "Double blind"
+label = "Double anonymous"
 icon = "🧑‍🦯"
 
 [blind.lightweight-double]
-label = "Lightweight double blind"
+label = "Lightweight double anonymous"
 icon = "🧑‍🦯"
 
 
