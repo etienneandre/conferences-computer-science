@@ -12,6 +12,7 @@ tz = "AoE"
 format = "12-20 pages + references (full) / 6-11 pages (short)"
 abstract = [2026-09-10]
 paper = [2026-09-10]
+extensions = false
 notification = [2026-10-10]
 
 [proceedings]
