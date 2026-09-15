@@ -47,7 +47,8 @@ assumed_tz = "AoE"
 # UTC. Set it to "" to switch the feature off.
 #
 # Change this to something only you know before deploying.
-debug_token = "VRtn2S0-ffX3dyIA"
+# debug_token = "VRtn2S0-ffX3dyIA"
+debug_token = "" # Not token: switched off
 
 [map]
 # Tiles are fetched from openstreetmap.org, which therefore learns the reader's
