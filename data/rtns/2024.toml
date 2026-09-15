@@ -18,5 +18,9 @@ notification = [2024-10-07]
 publisher = "ACM ICPS"
 license = "acm"
 
+[review]
+award = "Prizes will be awarded for best paper."
+
 [extra]
-notes = "3 rounds of submissions in 2024. Two rounds in 2022 (September 2022 and January 2023). Authors of outstanding papers will be invited to submit an extended version of their work for a special issue of Springer Real-Time Systems journal. Prizes will be awarded for best paper."
+journal = "Authors of outstanding papers will be invited to submit an extended version of their work for a special issue of Springer Real-Time Systems journal."
+notes = "3 rounds of submissions in 2024."

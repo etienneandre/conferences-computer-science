@@ -12,14 +12,20 @@ city = "Dortmund, Germany"
 format = "10 pages ACM 2 columns (+ references)"
 abstract = [2023-01-23]
 paper = [2023-01-25]
+extensions = false
 notification = [2023-03-04]
 
 [proceedings]
 publisher = "ACM ICPS"
 license = "acm"
 
+[review]
+award = "Prizes will be awarded for best paper."
+
 [extra]
-notes = "A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems (Springer). Two rounds in 2022 (September 2022 and January 2023). Prizes will be awarded for best paper."
+journal = "A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems (Springer)"
+
+notes = "Two rounds (September 2022 and January 2023)."
 
 [[cfp]]
 file = "cfp/RTNS-2023.txt"

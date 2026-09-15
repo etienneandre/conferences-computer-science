@@ -11,6 +11,7 @@ city = "Versailles, France"
 [submission]
 format = "10 pages ACM 2 columns"
 paper = [2014-06-28]
+extensions = false
 notification = [2014-08-05]
 
 [proceedings]
@@ -22,5 +23,3 @@ accepted = 32
 submitted = 63
 # TODO: verify — extracted from the cross-year acceptance string.
 
-[extra]
-notes = "The submission deadline has been set as late as possible and will not be extended."

@@ -11,6 +11,7 @@ city = "Brest, Bretagne, France"
 [submission]
 format = "10 pages ACM 2 columns"
 paper = [2016-07-25]
+extensions = false
 notification = [2016-09-08]
 
 [proceedings]
@@ -22,5 +23,8 @@ accepted = 34
 submitted = 75
 # TODO: verify — extracted from the cross-year acceptance string.
 
+[review]
+award = "Prizes will be awarded for best paper, best student paper, and best presentation."
+
 [extra]
-notes = "Always in France (?). No deadline extension (2014, 2015, 2016). A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems. Prizes will be awarded for best paper, best student paper, and best presentation."
+journal = "A selection of the best papers will be identified as outstanding papers; the authors of these papers are invited to submit extended versions to a special issue of the journal Real-Time Systems."
