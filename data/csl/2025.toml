@@ -6,7 +6,7 @@ url = "https://csl2025.github.io/"
 [event]
 start = 2025-02-10
 end = 2025-02-14
-city = "Amsterdam, Netherlands"
+city = "Amsterdam, The Netherlands"
 
 [submission]
 tz = "AoE"

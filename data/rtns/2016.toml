@@ -6,7 +6,7 @@ url = "http://rtns16.univ-brest.fr"
 [event]
 start = 2016-10-19
 end = 2016-10-21
-city = "Brest, France"
+city = "Brest, Bretagne, France"
 
 [submission]
 format = "10 pages ACM 2 columns"

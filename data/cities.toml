@@ -193,14 +193,6 @@ lon = 4.9041
 continent = "EU"
 # 7 edition(s)
 
-["Barcelona, Spain"]
-country = "ES"
-display = "Barcelona"
-lat = 41.3851
-lon = 2.1734
-continent = "EU"
-# 7 edition(s)
-
 ["Florence, Italy"]
 country = "IT"
 display = "Florence"
@@ -980,29 +972,12 @@ lon = -93.6319
 continent = "NA"
 # 2 edition(s)
 
-["Amsterdam, Netherlands"]
-country = "NL"
-display = "Amsterdam"
-lat = 52.3676
-lon = 4.9041
-continent = "EU"
-# 2 edition(s)
-
 ["Aveiro, Portugal"]
 country = "PT"
 display = "Aveiro"
 lat = 40.6405
 lon = -8.6538
 continent = "EU"
-# 2 edition(s)
-
-["Barcelona, Catalonia"]
-country = "ES"
-display = "Barcelona"
-lat = 41.3851
-lon = 2.1734
-continent = "EU"
-# WARNING: no country given
 # 2 edition(s)
 
 ["Barcelona, Catalonia, Spain"]
@@ -1037,7 +1012,7 @@ lon = -47.8828
 continent = "SA"
 # 2 edition(s)
 
-["Brest, France"]
+["Brest, Bretagne, France"]
 country = "FR"
 display = "Brest"
 lat = 48.3904
@@ -3300,29 +3275,12 @@ lon = -122.3321
 continent = "NA"
 # 1 edition(s)
 
-["Seoul, Korea"]
-country = "KR"
-display = "Seoul"
-lat = 37.5665
-lon = 126.978
-continent = "AS"
-# 1 edition(s)
-
-["Sevilla, Spain"]
-country = "ES"
-display = "Sevilla"
-lat = 37.3891
-lon = -5.9845
-continent = "EU"
-# 1 edition(s)
-
 ["Seville, Spain"]
 country = "ES"
 display = "Seville"
 lat = 37.3891
 lon = -5.9845
 continent = "EU"
-# 1 edition(s)
 
 ["Siegen, Germany"]
 country = "DE"
