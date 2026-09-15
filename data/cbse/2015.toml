@@ -6,7 +6,7 @@ url = "http://cbse-conferences.org/2015/"
 [event]
 start = 2015-05-04
 end = 2015-05-08
-city = "Montréal, Québec"
+city = "Montréal, Québec, Canada"
 
 [submission]
 format = "10 pages ACM including appendix (regular / case studies) / 6 pages ACM (short / tools)"

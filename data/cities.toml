@@ -393,15 +393,6 @@ lon = 9.9937
 continent = "EU"
 # 5 edition(s)
 
-["London, UK"]
-country = "GB"
-subdivision = "GB-ENG"
-display = "London"
-lat = 51.5074
-lon = -0.1278
-continent = "EU"
-# 5 edition(s)
-
 ["Lund, Sweden"]
 country = "SE"
 display = "Lund"
@@ -413,14 +404,6 @@ continent = "EU"
 ["Luxembourg"]
 country = "LU"
 display = "Luxembourg"
-lat = 49.6116
-lon = 6.1319
-continent = "EU"
-# 5 edition(s)
-
-["Luxembourg City, Luxembourg"]
-country = "LU"
-display = "Luxembourg City"
 lat = 49.6116
 lon = 6.1319
 continent = "EU"
@@ -1108,15 +1091,6 @@ lon = 6.7735
 continent = "EU"
 # 2 edition(s)
 
-["Edinburgh, UK"]
-country = "GB"
-subdivision = "GB-SCT"
-display = "Edinburgh"
-lat = 55.9533
-lon = -3.1883
-continent = "EU"
-# 2 edition(s)
-
 ["Fukuoka, Japan"]
 country = "JP"
 display = "Fukuoka"
@@ -1253,15 +1227,6 @@ display = "Moffett Field"
 lat = 37.4144
 lon = -122.048
 continent = "NA"
-# 2 edition(s)
-
-["Montréal, Québec"]
-country = "CA"
-display = "Montréal"
-lat = 45.5019
-lon = -73.5674
-continent = "NA"
-# WARNING: no country given
 # 2 edition(s)
 
 ["Málaga, Spain"]
@@ -1431,14 +1396,6 @@ lon = -122.3321
 continent = "NA"
 # 2 edition(s)
 
-["Shanghai, China (hybrid)"]
-country = "CN"
-display = "Shanghai"
-lat = 31.2304
-lon = 121.4737
-continent = "AS"
-# 2 edition(s)
-
 ["Shenzhen, China"]
 country = "CN"
 display = "Shenzhen"
@@ -1461,14 +1418,6 @@ display = "Taormina"
 lat = 37.8516
 lon = 15.2853
 continent = "EU"
-# 2 edition(s)
-
-["Tbilisi, Georgia (hybrid)"]
-country = "GE"
-display = "Tbilisi"
-lat = 41.7151
-lon = 44.8271
-continent = "AS"
 # 2 edition(s)
 
 ["Timișoara, Romania"]
@@ -1673,15 +1622,7 @@ continent = "EU"
 # WARNING: misspelling of Besançon
 # 1 edition(s)
 
-["Berlin, Germany (or online)"]
-country = "DE"
-display = "Berlin"
-lat = 52.52
-lon = 13.405
-continent = "EU"
-# 1 edition(s)
-
-["Birmingham, UK"]
+["Birmingham, England"]
 country = "GB"
 subdivision = "GB-ENG"
 display = "Birmingham"
@@ -1697,14 +1638,6 @@ lat = 19.076
 lon = 72.8777
 continent = "AS"
 # WARNING: former name of Mumbai
-# 1 edition(s)
-
-["Bordeaux, France or online"]
-country = "FR"
-display = "Bordeaux"
-lat = 44.8378
-lon = -0.5792
-continent = "EU"
 # 1 edition(s)
 
 ["Boston, Massachusetts, USA"]
@@ -1737,7 +1670,7 @@ lon = -8.4265
 continent = "EU"
 # 1 edition(s)
 
-["Brighton, UK"]
+["Brighton, England"]
 country = "GB"
 subdivision = "GB-ENG"
 display = "Brighton"
@@ -1753,24 +1686,6 @@ display = "Bristol"
 lat = 51.4545
 lon = -2.5879
 continent = "EU"
-# 1 edition(s)
-
-["Bristol, UK"]
-country = "GB"
-subdivision = "GB-ENG"
-display = "Bristol"
-lat = 51.4545
-lon = -2.5879
-continent = "EU"
-# 1 edition(s)
-
-["Brno (Czech Republic)"]
-country = "CZ"
-display = "Brno (Czech Republic)"
-lat = 49.1951
-lon = 16.6068
-continent = "EU"
-# 1 edition(s)
 
 ["Caen, France"]
 country = "FR"
@@ -1836,21 +1751,12 @@ lon = 112.9388
 continent = "AS"
 # 1 edition(s)
 
-["Charlotte, NC, USA"]
+["Charlotte, North Carolina, USA"]
 country = "US"
 display = "Charlotte"
 lat = 35.2271
 lon = -80.8431
 continent = "NA"
-# 1 edition(s)
-
-["Charlotte, NC, USA (hybrid)"]
-country = "US"
-display = "Charlotte"
-lat = 35.2271
-lon = -80.8431
-continent = "NA"
-# 1 edition(s)
 
 ["Chengdu, China"]
 country = "CN"
@@ -2158,15 +2064,6 @@ display = "Göttingen"
 lat = 51.5413
 lon = 9.9158
 continent = "EU"
-# 1 edition(s)
-
-["Göttingen, Germany (hybrid)"]
-country = "DE"
-display = "Göttingen"
-lat = 51.5413
-lon = 9.9158
-continent = "EU"
-# 1 edition(s)
 
 ["Halmstad, Sweden"]
 country = "SE"
@@ -2538,24 +2435,6 @@ lon = 14.2858
 continent = "EU"
 # 1 edition(s)
 
-["Liverpool, England (hybrid or virtual)"]
-country = "GB"
-subdivision = "GB-ENG"
-display = "Liverpool"
-lat = 53.4084
-lon = -2.9916
-continent = "EU"
-# 1 edition(s)
-
-["Liverpool, UK"]
-country = "GB"
-subdivision = "GB-ENG"
-display = "Liverpool"
-lat = 53.4084
-lon = -2.9916
-continent = "EU"
-# 1 edition(s)
-
 ["Los Angeles, California, USA"]
 country = "US"
 display = "Los Angeles"
@@ -2629,29 +2508,12 @@ lon = -2.2426
 continent = "EU"
 # 1 edition(s)
 
-["Manchester, UK"]
-country = "GB"
-subdivision = "GB-ENG"
-display = "Manchester"
-lat = 53.4808
-lon = -2.2426
-continent = "EU"
-# 1 edition(s)
-
 ["Marne-la-Vallée, France"]
 country = "FR"
 display = "Marne-la-Vallée"
 lat = 48.84
 lon = 2.5872
 continent = "EU"
-# 1 edition(s)
-
-["Marrakech, Morocco (hybrid)"]
-country = "MA"
-display = "Marrakech"
-lat = 31.6295
-lon = -7.9811
-continent = "AF"
 # 1 edition(s)
 
 ["Maun, Botswana"]
@@ -2889,22 +2751,6 @@ lon = 7.6167
 continent = "EU"
 # 1 edition(s)
 
-["Online (Boston, MA, USA)"]
-country = "US"
-display = "Online (Boston"
-lat = 42.3601
-lon = -71.0589
-continent = "NA"
-# 1 edition(s)
-
-["Online (Vienna, Austria)"]
-country = "AT"
-display = "Online (Vienna"
-lat = 48.2082
-lon = 16.3738
-continent = "EU"
-# 1 edition(s)
-
 ["Orlando, Florida, United States"]
 country = "US"
 display = "Orlando"
@@ -2953,39 +2799,7 @@ lon = 32.4218
 continent = "EU"
 # 1 edition(s)
 
-["Parc Alvisse Hotel, Luxembourg"]
-country = "LU"
-display = "Parc Alvisse Hotel"
-lat = 49.6116
-lon = 6.1319
-continent = "EU"
-# 1 edition(s)
-
-["Paris, France (hybrid)"]
-country = "FR"
-display = "Paris"
-lat = 48.8566
-lon = 2.3522
-continent = "EU"
-# 1 edition(s)
-
 ["Pasadena, California, USA"]
-country = "US"
-display = "Pasadena"
-lat = 34.1478
-lon = -118.1445
-continent = "NA"
-# 1 edition(s)
-
-["Pasadena, California, USA (hybrid)"]
-country = "US"
-display = "Pasadena"
-lat = 34.1478
-lon = -118.1445
-continent = "NA"
-# 1 edition(s)
-
-["Pasadena, California, United States"]
 country = "US"
 display = "Pasadena"
 lat = 34.1478
@@ -3298,14 +3112,6 @@ lon = 11.3308
 continent = "EU"
 # 1 edition(s)
 
-["Singapore (+ virtual options)"]
-country = "SG"
-display = "Singapore (+ virtual options)"
-lat = 1.3521
-lon = 103.8198
-continent = "AS"
-# 1 edition(s)
-
 ["Sokcho, South Korea"]
 country = "KR"
 display = "Sokcho"
@@ -3537,9 +3343,9 @@ lon = 114.3055
 continent = "AS"
 # 1 edition(s)
 
-["Yale University, Connecticut, USA (or virtual)"]
+["New Haven, Connecticut, USA"]
 country = "US"
-display = "Yale University"
+display = "New Haven"
 lat = 41.3083
 lon = -72.9279
 continent = "NA"

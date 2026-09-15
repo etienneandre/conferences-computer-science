@@ -6,21 +6,25 @@ url = "https://easyconferences.eu/icalp2021/"
 [event]
 start = 2022-07-04
 end = 2022-07-08
-city = "Paris, France (hybrid)"
+city = "Paris, France"
+hybrid = true
 
 [submission]
 tz = "AoE"
 format = "15 pages LIPIcs + ref"
 paper = [2022-02-10]
-notification = [2022-04-11]
 extensions = false
+notification = [2022-04-11]
 
 [proceedings]
 publisher = "LIPIcs"
 license = "cc-by"
 
+[review]
+award = "Best paper and best student paper awards for each track (3) of the conference."
+
 [extra]
-notes = "Rebuttal: March 21-23 2022. Best paper and best student paper awards for each track (3) of the conference. Deadlines are firm (6 days in 2020 due to relocation)."
+notes = "Rebuttal: March 21-23 2022."
 
 [[cfp]]
 file = "cfp/ICALP-2022.txt"

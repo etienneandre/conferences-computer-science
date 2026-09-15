@@ -6,7 +6,8 @@ url = "http://www.qest.org/qest2020/"
 [event]
 start = 2020-09-01
 end = 2020-09-03
-city = "Online (Vienna, Austria)"
+city = "Vienna, Austria"
+online = true
 
 [submission]
 tz = "AoE"
@@ -20,7 +21,8 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Accepted tool descriptions will appear in the conference proceedings. Extended versions of the best papers will be considered for possible fast-track publication in a journal special issue."
+notes = "Accepted tool descriptions will appear in the conference proceedings."
+journal = "Extended versions of the best papers will be considered for possible fast-track publication in a journal special issue."
 
 [[cfp]]
 file = "cfp/QEST-2020.txt"

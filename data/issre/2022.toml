@@ -6,7 +6,8 @@ url = "https://issre.net/"
 [event]
 start = 2022-10-24
 end = 2022-10-27
-city = "Charlotte, NC, USA (hybrid)"
+city = "Charlotte, North Carolina, USA"
+hybrid = true # From the CfP
 
 [submission]
 tz = "AoE"
@@ -19,8 +20,11 @@ notification = [2022-07-29]
 publisher = "IEEE (?)"
 license = "pay"
 
+[review]
+blind = "double"
+
 [extra]
-notes = "Double-blind. Rebuttal: 7-9 July 2022. Moved from Wuhan (China) to Coimbra, Portugal in 2020 due to coronavirus."
+notes = "Rebuttal: 7-9 July 2022. Moved from Wuhan (China) to Coimbra, Portugal in 2020 due to coronavirus."
 
 [[cfp]]
 file = "cfp/ISSRE-2022.txt"

@@ -13,6 +13,7 @@ tz = "AoE"
 format = "12 pages in IEEE two-column format"
 abstract = [2024-03-24]
 paper = [2024-03-31]
+extensions = false
 notification = [2024-07-14]
 
 [proceedings]
@@ -25,7 +26,7 @@ submitted = 129
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Double blind process. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021-2024)."
+notes = "Double blind process. Part of ESWEEK (with CODES and CASES)."
 
 [[cfp]]
 file = "cfp/EMSOFT-2024.txt"

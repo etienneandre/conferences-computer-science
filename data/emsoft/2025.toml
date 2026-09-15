@@ -13,6 +13,7 @@ tz = "AoE"
 format = "20 pages in ACM Transactions format (25 pages after 1st round acceptance)"
 abstract = [2025-03-23]
 paper = [2025-03-30]
+extensions = false
 notification = [2025-07-13]
 
 [proceedings]
@@ -20,4 +21,4 @@ publisher = "ACM/IEEE"
 license = "acm"
 
 [extra]
-notes = "Double blind process. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021-2025)."
+notes = "Double blind process. Part of ESWEEK (with CODES and CASES)."

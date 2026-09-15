@@ -6,7 +6,8 @@ url = "http://rp2021.csc.liv.ac.uk/"
 [event]
 start = 2021-10-25
 end = 2021-10-27
-city = "Liverpool, England (hybrid or virtual)"
+city = "Liverpool, England"
+online = true
 
 [submission]
 format = "12 pages LNCS (+ ref + appendix)"

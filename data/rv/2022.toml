@@ -6,7 +6,8 @@ url = "https://rv22.gitlab.io/"
 [event]
 start = 2022-09-28
 end = 2022-09-30
-city = "Tbilisi, Georgia (hybrid)"
+city = "Tbilisi, Georgia"
+hybrid = true # From the CfP
 
 [submission]
 tz = "AoE"
@@ -19,8 +20,8 @@ notification = [2022-06-22]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
-[extra]
-notes = "The Program Committee of RV 2022 will give a Springer-sponsored Best Paper Award to one eligible regular paper."
+[review]
+award = "The Program Committee of RV 2022 will give a Springer-sponsored Best Paper Award to one eligible regular paper."
 
 [[cfp]]
 file = "cfp/RV-2022.txt"

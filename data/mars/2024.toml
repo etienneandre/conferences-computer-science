@@ -5,7 +5,8 @@ url = "http://mars-workshop.org/mars2024/"
 
 [event]
 start = 2024-04-06
-city = "Luxembourg City, Luxembourg"
+city = "Luxembourg"
+venue = "Parc Alvisse Hotel"
 
 [submission]
 tz = "AoE"

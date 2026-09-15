@@ -6,7 +6,9 @@ url = "https://prdc.dependability.org/PRDC2023/"
 [event]
 start = 2023-10-24
 end = 2023-10-27
-city = "Singapore (+ virtual options)"
+city = "Singapore"
+hybrid = true
+
 
 [submission]
 tz = "AoE"

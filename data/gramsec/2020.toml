@@ -5,7 +5,8 @@ url = "http://gramsec.uni.lu/"
 
 [event]
 start = 2020-06-22
-city = "Online (Boston, MA, USA)"
+city = "Boston, Massachusetts, USA"
+online = true
 
 [submission]
 format = "18 pages LNCS + references (regular) / 10 pages (short)"

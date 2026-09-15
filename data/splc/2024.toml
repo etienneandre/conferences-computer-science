@@ -6,7 +6,8 @@ url = "https://2024.splc.net/"
 [event]
 start = 2024-09-02
 end = 2024-09-06
-city = "Parc Alvisse Hotel, Luxembourg"
+city = "Luxembourg"
+venue = "Parc Alvisse Hotel"
 
 [submission]
 format = "10 pages ACM + 2 pages references (full) / 5+2 pages (short)"
@@ -18,8 +19,11 @@ notification = [2024-05-30]
 publisher = "ACM digital library"
 license = "acm"
 
+[review]
+artifact = "Optional artifact evaluation."
+
 [extra]
-notes = "Optional artifact evaluation. Also journal-first, demo papers, doctoral symposium…."
+notes = "Also journal-first, demo papers, doctoral symposium…."
 
 [[cfp]]
 file = "cfp/SPLC-2024.txt"

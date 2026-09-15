@@ -6,7 +6,7 @@ url = "http://cliplab.org/Conferences/LOPSTR16/"
 [event]
 start = 2016-09-06
 end = 2016-09-08
-city = "Edinburgh, UK"
+city = "Edinburgh, Scotland"
 
 [submission]
 format = "15 pages Springer + Appendix"
@@ -19,4 +19,5 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "co-located with PPDP 2016 and SAS 2016. Full papers can be directly accepted for publication in the formal proceedings, or accepted only for presentation at the symposium and inclusion in informal proceedings (and then possibly accepted after another round)."
+colocated = "co-located with PPDP 2016 and SAS 2016."
+notes = "Full papers can be directly accepted for publication in the formal proceedings, or accepted only for presentation at the symposium and inclusion in informal proceedings (and then possibly accepted after another round)."

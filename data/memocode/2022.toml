@@ -6,7 +6,8 @@ url = "https://esweek.org/memocode/"
 [event]
 start = 2022-10-13
 end = 2022-10-14
-city = "Shanghai, China (hybrid)"
+city = "Shanghai, China"
+hybrid = true # announced in the CfP
 
 [submission]
 format = "10 pages IEEE (regular) + bibliography / 4 pages (work in progress) / 8 pages (tool)"

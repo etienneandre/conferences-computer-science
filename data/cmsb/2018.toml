@@ -6,7 +6,7 @@ url = "https://cmsb2018.fi.muni.cz/"
 [event]
 start = 2018-09-12
 end = 2018-09-14
-city = "Brno (Czech Republic)"
+city = "Brno, Czech Republic"
 
 [submission]
 format = "15 pages LNCS + ref (regular) / 6 pages (tool)"
@@ -19,7 +19,7 @@ publisher = "Springer LNCS/LNBI"
 license = "pay-profit"
 
 [extra]
-notes = "A selection of papers will be invited to be extended an submitted to a special issue of the journal IEEE/ACM Transactions on Computational Biology and Bioinformatics."
+journal = "A selection of papers will be invited to be extended an submitted to a special issue of the journal IEEE/ACM Transactions on Computational Biology and Bioinformatics."
 
 [[cfp]]
 file = "cfp/CMSB-2018.txt"

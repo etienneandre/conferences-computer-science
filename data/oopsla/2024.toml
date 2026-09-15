@@ -5,7 +5,7 @@ url = "https://2024.splashcon.org/track/splash-2024-oopsla"
 [event]
 start = 2024-10-20
 end = 2024-10-25
-city = "Pasadena, California, United States"
+city = "Pasadena, California, USA"
 
 [submission]
 format = "23 pages (+ references)"
@@ -16,8 +16,12 @@ notification = [2024-06-21]
 publisher = "PACMPL"
 license = "free"
 
+[review]
+blind = "double"
+
 [extra]
-notes = "Part of SPLASH 2024. Gold open access, but payment not required (on a volunteer basis). Double blind. Two rounds of reviewing. Author response: 3-5 June 2024 (round 2)"
+colocated = "Part of SPLASH 2024."
+notes = " Gold open access, but payment not required (on a volunteer basis). Two rounds of reviewing. Author response: 3-5 June 2024 (round 2)"
 
 [[cfp]]
 file = "cfp/OOPSLA-2024.txt"

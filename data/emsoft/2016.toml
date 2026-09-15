@@ -12,6 +12,7 @@ city = "Pittsburgh, PA, USA"
 format = "10 pages in ACM two-column format"
 abstract = [2016-04-01]
 paper = [2016-04-08]
+extensions = false
 notification = [2016-07-01]
 
 [proceedings]
@@ -19,4 +20,4 @@ publisher = "ACM"
 license = "acm"
 
 [extra]
-notes = "Up to 10 pages appendix. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016)."
+notes = "Up to 10 pages appendix. Part of ESWEEK (with CODES and CASES)."

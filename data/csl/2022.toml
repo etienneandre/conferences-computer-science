@@ -6,7 +6,8 @@ url = "http://csl2022.uni-goettingen.de/"
 [event]
 start = 2022-02-14
 end = 2022-02-19
-city = "Göttingen, Germany (hybrid)"
+city = "Göttingen, Germany"
+hybrid = true
 
 [submission]
 tz = "AoE"

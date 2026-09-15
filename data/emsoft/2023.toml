@@ -13,6 +13,7 @@ tz = "AoE"
 format = "20 pages in ACM one-column format"
 abstract = [2023-03-16]
 paper = [2023-03-23]
+extensions = false
 notification = [2023-06-30]
 
 [proceedings]
@@ -25,7 +26,7 @@ submitted = 90
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "EMSOFT 2023 has a dual publication model with two tracks. Journal track papers will be published in ACM Transactions on Embedded Computing Systems (TECS) and Work-in-Progress track papers will be published in the ESWEEK Proceedings. Double blind process. No appendix. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021, 2022, 2023)."
+notes = "EMSOFT 2023 has a dual publication model with two tracks. Journal track papers will be published in ACM Transactions on Embedded Computing Systems (TECS) and Work-in-Progress track papers will be published in the ESWEEK Proceedings. Double blind process. No appendix. Part of ESWEEK (with CODES and CASES)."
 
 [[cfp]]
 file = "cfp/EMSOFT-2023.pdf"

@@ -6,13 +6,15 @@ url = "https://esweek.org/emsoft/"
 [event]
 start = 2022-10-07
 end = 2022-10-14
-city = "Shanghai, China (hybrid)"
+city = "Shanghai, China"
+hybrid = true # announced in the CfP
 
 [submission]
 tz = "AoE"
 format = "12 pages in ACM two-column format (including references)"
 abstract = [2022-03-31]
 paper = [2022-04-07]
+extensions = false
 notification = [2022-07-05]
 
 [proceedings]
@@ -20,4 +22,4 @@ publisher = "ACM/IEEE"
 license = "acm"
 
 [extra]
-notes = "Double blind process. No appendix. Part of ESWEEK (with CODES and CASES). Firm deadline (2015, 2016, 2018, 2019, 2021, 2022). This year EMSOFT will follow a two-stage review process, in which papers passing the first stage of reviews will be asked to revise their work based on reviewer comments within a short time frame of around two weeks. ESWEEK 2017 will introduce a journal-integrated publication model where the majority of papers will be published in the ACM Transactions on Embedded Computing Systems (TECS)."
+notes = "Double blind process. No appendix. Part of ESWEEK (with CODES and CASES). This year EMSOFT will follow a two-stage review process, in which papers passing the first stage of reviews will be asked to revise their work based on reviewer comments within a short time frame of around two weeks. ESWEEK 2017 will introduce a journal-integrated publication model where the majority of papers will be published in the ACM Transactions on Embedded Computing Systems (TECS)."

@@ -6,7 +6,8 @@ url = "http://vecos-world.org/2023/"
 [event]
 start = 2023-10-18
 end = 2023-10-20
-city = "Marrakech, Morocco (hybrid)"
+city = "Marrakech, Morocco"
+hybrid = true # announced in the CfP
 
 [submission]
 tz = "AoE"
@@ -24,7 +25,7 @@ submitted = 36
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Authors of selected papers will be invited to submit extended article versions to a special issue of an index journal (ISSE or IJCCBS)."
+journal = "Authors of selected papers will be invited to submit extended article versions to a special issue of an index journal (ISSE or IJCCBS)."
 
 [[cfp]]
 file = "cfp/VECoS-2023.txt"

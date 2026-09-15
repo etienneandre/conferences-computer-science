@@ -5,7 +5,7 @@ url = "http://compare2012.verifythis.org/"
 
 [event]
 start = 2012-06-30
-city = "Manchester, UK"
+city = "Manchester, England"
 
 [submission]
 format = "Regular papers (6-15 pages LNCS) / discussion papers (2-4 pages)"
@@ -17,4 +17,5 @@ publisher = "CEUR-WS"
 license = "free"
 
 [extra]
-notes = "Part of IJCAR 2012. Deadline extended by two weeks in 2012."
+colocated = "Part of IJCAR 2012."
+notes = "Deadline extended by two weeks in 2012."

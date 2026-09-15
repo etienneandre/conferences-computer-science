@@ -6,7 +6,7 @@ url = "https://fscd2025.github.io/"
 [event]
 start = 2025-07-15
 end = 2025-07-18
-city = "Birmingham, UK"
+city = "Birmingham, England"
 
 [submission]
 tz = "AoE"
@@ -19,8 +19,11 @@ notification = [2025-04-30]
 publisher = "LIPIcs"
 license = "cc-by"
 
+[review]
+award = "Best paper award by junior researchers."
+
 [extra]
-notes = "Rebuttal: 7-11 April 2025. Best paper award by junior researchers."
+notes = "Rebuttal: 7-11 April 2025"
 
 [[cfp]]
 file = "cfp/FSCD-2025.txt"

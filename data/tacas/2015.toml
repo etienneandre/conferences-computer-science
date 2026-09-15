@@ -6,7 +6,7 @@ url = "http://www.etaps.org/2015"
 [event]
 start = 2015-04-11
 end = 2015-04-18
-city = "London, UK"
+city = "London, England"
 
 [submission]
 format = "15 pages LNCS (regular / regular tool / case study) / 4+6 pages (tool demo)"
@@ -19,4 +19,4 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc."
+colocated = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc."

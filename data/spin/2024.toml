@@ -6,7 +6,8 @@ url = "https://spin-web.github.io/SPIN2024/"
 [event]
 start = 2024-04-06
 end = 2024-04-11
-city = "Luxembourg City, Luxembourg"
+city = "Luxembourg"
+venue = "Parc Alvisse Hotel"
 
 [submission]
 tz = "AoE"

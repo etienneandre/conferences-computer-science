@@ -6,20 +6,24 @@ url = "https://cmsb2021.labri.fr/"
 [event]
 start = 2021-09-22
 end = 2021-09-24
-city = "Bordeaux, France or online"
+city = "Bordeaux, France"
+hybrid = true
 
 [submission]
 tz = "AoE"
 format = "15 pages LNCS + references + appendix (regular) / 6 pages (tool)"
-paper = [2021-04-12]
-notification = [2021-06-07]
+paper = [2021-04-12, 2021-04-30]
+notification = [2021-06-07, 2021-06-11]
 
 [proceedings]
 publisher = "Springer LNCS/LNBI"
 license = "pay-profit"
 
+[review]
+artifact = "Reproducibility recommended."
+
 [extra]
-notes = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal. Reproducibility recommended."
+journal = "A selection of best papers will be invited to be extended and submitted to a special issue of a Bioinformatics journal."
 
 [[cfp]]
 file = "cfp/CMSB-2021.txt"

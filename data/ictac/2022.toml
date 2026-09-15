@@ -6,7 +6,8 @@ url = "https://viam.science.tsu.ge/clas2022/ictac/"
 [event]
 start = 2022-09-27
 end = 2022-09-29
-city = "Tbilisi, Georgia (hybrid)"
+city = "Tbilisi, Georgia"
+hybrid = true # from the CfP
 
 [submission]
 format = "16 pages LNCS (original research / applications) + bibliography / 6 pages LNCS (short / tool)"

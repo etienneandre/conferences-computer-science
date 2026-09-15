@@ -6,7 +6,7 @@ url = "http://qapl15.inria.fr"
 [event]
 start = 2015-04-11
 end = 2015-04-12
-city = "London, UK"
+city = "London, England"
 
 [submission]
 format = "15 pages EPTCS + appendix (regular) / 4 pages (ongoing)"
@@ -19,4 +19,6 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [extra]
-notes = "Co-located with ETAPS. Ongoing work will not be published. Publication of a selection of the papers in a special issue of a journal is under consideration."
+colocated = "Co-located with ETAPS."
+notes = "Ongoing work will not be published."
+journal = "Publication of a selection of the papers in a special issue of a journal is under consideration."

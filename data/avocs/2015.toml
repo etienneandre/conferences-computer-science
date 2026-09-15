@@ -6,7 +6,7 @@ url = "https://sites.google.com/site/avocs15/"
 [event]
 start = 2015-09-01
 end = 2015-09-04
-city = "Edinburgh, UK"
+city = "Edinburgh, Scotland"
 
 [submission]
 format = "15 pages"
@@ -19,4 +19,5 @@ publisher = "EASST"
 license = "free"
 
 [extra]
-notes = "Also \"Research ideas\" (2 pages, not in proceedings; submission: 7th August; notification: 14th August). Open Access Journal; best papers in a special issue of Elsevier’s journal Science of Computer Programming. Studenships for PhD in 2013."
+notes = "Also \"Research ideas\" (2 pages, not in proceedings; submission: 7th August; notification: 14th August). Studenships for PhD in 2013."
+journal = "Open Access Journal; best papers in a special issue of Elsevier’s journal Science of Computer Programming."

@@ -6,7 +6,7 @@ url = "https://eurompi23.github.io/"
 [event]
 start = 2023-09-11
 end = 2023-09-13
-city = "Bristol, UK"
+city = "Bristol, England"
 
 [submission]
 tz = "AoE"
