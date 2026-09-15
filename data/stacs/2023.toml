@@ -16,7 +16,7 @@ notification = [2022-12-04]
 
 [proceedings]
 publisher = "LIPIcs"
-license = "cc-by-nd"
+license = "cc-by"
 
 [extra]
 notes = "Double-blind. Rebuttal period: 14-16 November 2022. PC members are excluded from submitting."

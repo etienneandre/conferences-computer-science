@@ -16,7 +16,7 @@ notification = [2023-12-13]
 
 [proceedings]
 publisher = "LIPIcs"
-license = "cc-by-nd"
+license = "cc-by"
 
 [extra]
 notes = "Lightweight double-blind. Rebuttal period: 21-23 November 2023. PC members are excluded from submitting. Track A focuses on algorithms, data structures and complexity. Track B focuses on automata, logic, semantics, and theory of programming."

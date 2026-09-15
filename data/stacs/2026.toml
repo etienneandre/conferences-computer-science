@@ -18,7 +18,7 @@ notification = [2025-12-12]
 
 [proceedings]
 publisher = "LIPIcs"
-license = "cc-by-nd"
+license = "cc-by"
 
 [review]
 blind = "lightweight-double"

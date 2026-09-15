@@ -1,6 +1,10 @@
 # stub: this edition is known only from the acceptance history.
 # TODO: verify
 
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+
 [stats]
 accepted = 54
 submitted = 210

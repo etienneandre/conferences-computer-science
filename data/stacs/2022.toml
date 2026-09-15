@@ -16,7 +16,7 @@ notification = [2021-12-20]
 
 [proceedings]
 publisher = "LIPIcs"
-license = "cc-by-nd"
+license = "cc-by"
 
 [extra]
 notes = "Rebuttal period: 23-26 November 2021. PC members are excluded from submitting."

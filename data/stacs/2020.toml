@@ -16,7 +16,7 @@ notification = [2019-12-20]
 
 [proceedings]
 publisher = "LIPIcs"
-license = "cc-by-nd"
+license = "cc-by"
 
 [extra]
 notes = "Rebuttal period: Nov 26-29, 2019. PC members are excluded from submitting."

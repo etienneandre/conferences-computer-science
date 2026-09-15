@@ -15,7 +15,7 @@ notification = [2014-12-05]
 
 [proceedings]
 publisher = "LIPIcs"
-license = "cc-by-nd"
+license = "cc-by"
 
 [stats]
 accepted = 55
