@@ -9,20 +9,33 @@ server: one Python script reads a tree of TOML files and writes the site.
 
 ---
 
+
+## Important: about this git repository
+
+⚠️ This repository contains both the interface for the Web site **and** the data (conferences).
+
+Most probably, what you will need to know and modify is related to the **data**, and can be found at [www.conferences-computer.science/submit/](https://www.conferences-computer.science/submit/)
+
+You can **add/edit a conference**, either by sending an email, or by **directly modifying some data in `data/` and making a pull request** (highly preferred).
+
+*The rest of this document is mainly for the developer(s), and can be ignored by most users.*
+
+---
+
+
 ## Who does what
 
-The important thing to know about this repository is which parts are yours,
-which are the machine's, and which must never be edited by hand.
+The important thing to know about this repository is which parts can be edited manually, and which must never be edited by hand.
 
 | Path | Who writes it | Notes |
 |---|---|---|
-| `data/` | **You** | The corpus. One directory per conference, one file per edition. |
-| `pages/` | **You** | Prose: the About and Submit pages, the footer, the disclaimer. Never touched by the build. |
-| `site.toml` | **You** | Configuration, and the two lines that flip the site live. |
-| `.env` | **You** | Host credentials. Never committed. |
-| `templates/`, `assets/`, `*.py` | Generated, then edited by hand | The machinery. Regenerate or patch, but read the comments first. |
-| `public/` | **The build** | Deleted and rewritten at will. Nothing here is a source. |
-| `legacy/data.php` | Nobody, ever | The old site's 35,000-line data file, kept as the reference for anything the migration could not interpret. |
+| `data/` | 🟢 **Any conference organiser** | The corpus. One directory per conference, one file per edition. |
+| `pages/` | 🟡 **Developer** | Prose: the About and Submit pages, the footer, the disclaimer. Never touched by the build. |
+| `site.toml` | 🟡 **Developer** | Configuration, and the two lines that flip the site live. |
+| `.env` | 🟠 **Web host** | Host credentials. Never committed. |
+| `templates/`, `assets/`, `*.py` | 🟡 Generated, then edited by hand | The machinery. Regenerate or patch, but read the comments first. |
+| `public/` | 🤖 **The build** | Deleted and rewritten at will. Nothing here is a source. |
+| `legacy/data.php` | ⛔️ Nobody, ever | The old site's 35,000-line data file, kept as the reference for anything the migration could not interpret. |
 
 If you are about to edit something in `public/`, stop: the change will be gone
 at the next build. The source is in `data/` or `pages/`.
@@ -50,7 +63,7 @@ will not do — the front page is PHP.
 
 ```sh
 make check          # validate data/ against SCHEMA.md
-make               # check, then build into public/
+make                # check, then build into public/
 make preview        # build and serve
 make one SLUG=icfem # build a single conference, to iterate quickly
 make stats          # what is left to tidy up
@@ -128,7 +141,7 @@ away from a site that is still being assembled.
 
 ## How the front page works
 
-Every other page is static HTML. The front page cannot be: it is ordered by what
+Every other page is static HTML. The front page cannot be static: it is ordered by what
 closes next, so it changes daily.
 
 The build pre-renders each row with four markers standing in for the parts that
@@ -161,8 +174,8 @@ It bypasses the cache and appends a diagnostic comment to the HTML.
 ## Repository layout
 
 ```
-data/            the corpus: TOML, one file per edition, plus cfp/ archives
-pages/           your prose, rendered into the site chrome
+data/            the corpus: TOML, one file per edition, plus cfp/ archives. Anyone is welcome to edit.
+pages/           maintained by the developer(s), rendered into the site chrome
 templates/       Jinja2
 assets/          CSS, JavaScript, self-hosted fonts
 legacy/          the old data.php, archived and read-only
@@ -211,6 +224,9 @@ work better than a clause that would also block a university spin-off.
 
 The code is under **MIT**: nobody is served by making the generator harder to
 reuse than the data.
+
+The code was partially AI-generated.
+All the data were manually retrieved from call for papers and public Web sites.
 
 Calls for papers under `data/*/cfp/` belong to their authors and are kept as
 published.
