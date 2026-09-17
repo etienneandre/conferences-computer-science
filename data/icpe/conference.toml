@@ -6,8 +6,6 @@ name = "ACM/SPEC International Conference on Performance Engineering"
 [core]
 id = "2278"
 
-# TODO: verify — derived from per-edition values, which recorded
-# the rank known at data-entry time, not the rank then in force.
 [[core.history]]
 from = 2008
 rank = "absent"
@@ -18,7 +16,4 @@ rank = "B"
 
 [links]
 dblp = "wosp"
-
-[legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-extensions = "7 days (2018, 2019, 2020), 14 days (2024), 7 days (2025)"  # from ICPE 2025
+# linkedin = "https://www.linkedin.com/groups/15362050/"

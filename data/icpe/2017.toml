@@ -19,4 +19,4 @@ publisher = "ACM Digital Library"
 license = "acm"
 
 [extra]
-notes = "After the conference, there will be a call for a special issue of a journal."
+journal = "After the conference, there will be a call for a special issue of a journal."

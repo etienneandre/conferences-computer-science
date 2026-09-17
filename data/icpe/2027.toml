@@ -1,0 +1,31 @@
+edition = 17
+title = "17th ACM/SPEC International Conference on Performance Engineering"
+url = "https://icpe2026.spec.org/"
+
+[event]
+start = 2027-05-24
+end = 2027-05-28
+city = "Gothenburg, Sweden"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM (+2 after acceptance)"
+abstract = [2026-11-09]
+paper = [2026-11-16]
+notification = [2027-01-25]
+
+[proceedings]
+publisher = "ACM"
+license = "free"
+
+[review]
+blind = "double"
+artifact = "Artifact Track."
+award = "The conference Award Committee will recognize the best submissions, judged by multiple relevant factors, with an ACM/SPEC Best Paper Award award."
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[extra]
+notes = "Also Workshops, Artifact Track, Journal-First Track, Poster and Demo Track, Tutorials Track, Data Challenge Track"

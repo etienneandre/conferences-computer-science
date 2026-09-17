@@ -1,0 +1,93 @@
+--------------------------------------------------------------------------------
+Call for Contributions
+--------------------------------------------------------------------------------
+ICPE 2027
+18th ACM/SPEC International Conference on Performance Engineering
+May 24 - 28, 2027
+Gothenburg, Sweden
+Web: https://icpe2027.spec.org
+LinkedIn: https://www.linkedin.com/groups/15362050/
+--------------------------------------------------------------------------------
+IMPORTANT DATES
+--------------------------------------------------------------------------------
+Research track abstracts:               Nov 09, 2026 (AoE)
+Research track papers:                  Nov 16, 2026 (AoE)
+Research track notification:            Jan 25, 2027 (AoE)
+Industry track abstracts:               Nov 09, 2026 (AoE)
+Industry track papers:                  Nov 16, 2026 (AoE)
+Industry track notification:            Jan 25, 2027 (AoE)
+
+Workshops, Artifact Track, Journal-First Track, Poster and Demo Track,
+Tutorials Track, Data Challenge Track: TBA
+--------------------------------------------------------------------------------
+SCOPE AND TOPICS
+--------------------------------------------------------------------------------
+The ACM/SPEC International Conference on Performance Engineering (ICPE)
+is the
+leading international forum for presenting and discussing novel ideas,
+innovations, trends, and experiences in the field of performance
+engineering.
+Performance, energy efficiency, reliability, sustainability, and
+trustworthiness
+are central to the acceptance and long-term viability of modern computing
+systems. Digitalization brings computing technology closer to people and
+manages many aspects of their lives. In turn, human interaction, automation,
+and increasingly AI-enabled decision-making shape the behaviour of computing
+systems. As a result, our systems become more complex, more adaptive, and
+more difficult to engineer, observe, and understand.
+
+ICPE brings together researchers and practitioners to report on open
+problems,
+state-of-the-art solutions, and in-progress research in performance
+engineering
+of software and systems, targeting performance and associated quality
+attributes
+such as efficiency, reliability, scalability, sustainability, and cost
+in all
+phases of the computing system lifecycle, from specification and
+development to
+run time and maintenance.
+
+ICPE deals with performance and associated quality attributes across
+application
+domains. Examples include, but are not limited to:
+- cyber-physical systems, IoT, industrial Internet, robotic systems, and
+  autonomous systems
+- communication networks, wireless systems, mobile systems, and distributed
+  systems
+- peer-to-peer environments and ad-hoc networks
+- service-oriented architectures, microservices, web-based environments,
+  cloud-native systems, and serverless applications
+- big data systems, stream processing, graph processing, data analytics, and
+  data science
+- machine learning, artificial intelligence, LLM-based systems, AI
+  infrastructure, and agentic AI applications
+- HPC systems, cloud platforms, edge platforms, grid systems, fog computing,
+  and accelerator-based platforms
+- multimedia systems and applications
+- resilient, adaptive, and self-managing systems and applications
+- production software systems, observability platforms, and large-scale
+  operational environments
+
+ICPE 2027 invites contributions across the following tracks:
+- **Research Track** for novel research on the conference topics
+- **Industry Track** for research involving industry and production
+  performance-engineering practice
+- **Industry Presentation Track** for presentations from industry
+practitioners
+  showcasing their views and experiences in performance engineering
+- **Journal-first Track** for contributions from recent journal publications
+- **Artifact Track** for sharing software, data, benchmarks, traces, and
+other
+  reusable research artifacts
+- **Emerging Research Track** for preliminary, exploratory, or vision
+contributions
+- **Poster and Demo Track** for short interactive contributions
+- **Tutorials Track** for presentations by leading scientists and
+practitioners
+- **Workshops Track** for focused communities and specific aspects of
+performance
+  engineering
+- **Data Challenge Track** for addressing challenges presented by
+performance
+  datasets

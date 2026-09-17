@@ -7,6 +7,7 @@ url = "https://icpe2020.spec.org/"
 start = 2020-04-20
 end = 2020-04-24
 city = "Edmonton, Canada"
+online = true
 
 [submission]
 format = "12 pages ACM (research / industry) / 6 pages (short)"
@@ -18,5 +19,8 @@ notification = [2019-12-10]
 publisher = "ACM Digital Library"
 license = "acm"
 
+[review]
+award = "The highest quality papers, judged by multiple relevant factors, will be recognized with an award."
+
 [extra]
-notes = "The highest quality papers, judged by multiple relevant factors, will be recognized with an award. Authors of selected papers will be invited to submit an extended version of their work to a journal."
+journal = "Authors of selected papers will be invited to submit an extended version of their work to a journal."
