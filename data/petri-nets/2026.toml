@@ -1,7 +1,7 @@
 # migrated from data.php line 22345
 edition = 47
 title = "47th International Conference on Application and Theory of Petri Nets and Concurrency"
-url = "https://conf-2026.petrinet.net"
+url = "https://petrinets2026.informatik.uni-hamburg.de/"
 
 [event]
 start = 2026-06-22
@@ -18,12 +18,31 @@ notification = [2026-03-08]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-032-27879-1"
 
 [review]
 blind = "single"
-gender_balance = "mixed"
 award = "Best paper award"
 competition = "Hosts the model checking contest"
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 1
+women = 1
+
+[stats]
+[[stats.track]]
+name = "Regular papers"
+submitted = 34
+accepted = 14
+
+[[stats.track]]
+name = "Tool papers	"
+submitted = 8
+accepted = 6
 
 [extra]
 notes = "This year, celebration in honor of the 100th birthday of Carl Adam Petri"

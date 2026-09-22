@@ -18,17 +18,31 @@ notification = [2025-03-10]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-031-94634-9"
 
 [review]
 blind = "single"
-gender_balance = "mixed"
 award = "Best paper award"
 competition = "Hosts the model checking contest"
 
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 1
+
 [stats]
+[[stats.track]]
+name = "Regular papers"
+submitted = 38
 accepted = 22
-submitted = 41
-# TODO: verify — extracted from the cross-year acceptance string.
+
+[[stats.track]]
+name = "Tool papers	"
+submitted = 3
+accepted = 1
 
 [extra]
 journal = "Some of the best papers will be invited, in an extended form, as submissions to a special issue of Fundamenta Informaticae."

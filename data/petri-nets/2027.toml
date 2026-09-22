@@ -1,0 +1,28 @@
+edition = 48
+title = "48th International Conference on Application and Theory of Petri Nets and Concurrency"
+url = "https://petrinets2027.inria.fr/"
+
+[event]
+start = 2027-06-21
+end = 2027-06-25
+city = "Rennes, Bretagne, France"
+
+[submission]
+tz = "AoE"
+format = "regular papers: max 20 pages + references in Springer LNCS-format; tool papers: max 10 pages + ref in Springer LNCS-format"
+abstract = [2027-01-15]
+paper = [2027-01-22]
+notification = [2027-03-08]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+award = "Best paper award"
+competition = "Hosts the model checking contest"
+
+[review.gender.chairs]
+men = 2
+women = 0
