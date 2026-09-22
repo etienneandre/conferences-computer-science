@@ -6,7 +6,7 @@ url = "http://crisys.cs.umn.edu/nfm2016/"
 [event]
 start = 2016-06-07
 end = 2016-06-09
-city = "Minneapolis, MN, USA"
+city = "Minneapolis, Minnesota, USA"
 
 [submission]
 format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report)"

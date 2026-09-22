@@ -6,7 +6,7 @@ url = "http://www.icost-society.org/"
 [event]
 start = 2019-10-14
 end = 2019-10-16
-city = "New York, USA"
+city = "New York City, USA"
 
 [submission]
 format = "12 pages LNCS"

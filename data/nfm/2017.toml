@@ -6,7 +6,7 @@ url = "http://ti.arc.nasa.gov/events/nfm-2017/"
 [event]
 start = 2017-05-16
 end = 2017-05-18
-city = "Moffett Field, CA, USA"
+city = "Moffett Field, California, USA"
 
 [submission]
 format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report)"

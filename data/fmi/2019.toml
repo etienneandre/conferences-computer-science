@@ -6,7 +6,7 @@ url = "http://www.sis.pitt.edu/iri2017/workshop_fmi.html"
 [event]
 start = 2019-07-30
 end = 2019-08-01
-city = "Los Angeles, CA, USA"
+city = "Los Angeles, California, USA"
 
 [submission]
 format = "8 pages IEEE"
@@ -19,4 +19,5 @@ publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Satellite of 18th IEEE IRI 2017. As for previous editions of the workshop, authors of best papers will be invited to expand and submit their papers for possible publication in a book or in a journal special issue."
+colocated = "Satellite of 18th IEEE IRI 2017."
+journal = "As for previous editions of the workshop, authors of best papers will be invited to expand and submit their papers for possible publication in a book or in a journal special issue."

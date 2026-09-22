@@ -6,7 +6,7 @@ url = "https://shemesh.larc.nasa.gov/NFM2018/"
 [event]
 start = 2018-04-17
 end = 2018-04-19
-city = "Newport News, VA, USA"
+city = "Newport News, Virginia, USA"
 
 [submission]
 format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report)"

@@ -6,17 +6,17 @@ url = "http://2017.rtas.org/"
 [event]
 start = 2017-04-18
 end = 2017-04-21
-city = "Pittsburgh, PA, USA"
+city = "Pittsburgh, Pennsylvania, USA"
 
 [submission]
 format = "10 pages IEEE 2 columns (+ 1-2 pages appendix)"
 paper = [2016-10-13]
-notification = [2016-12-20]
 extensions = false
+notification = [2016-12-20]
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Three tracks (Applications, RTOSs, Run-Time Software and Tools / Applied Methodologies and Foundations / Embedded Systems Design for Real-Time Applications). Part of the Cyber-Physical Systems Week. Firm deadline."
+notes = "Three tracks (Applications, RTOSs, Run-Time Software and Tools / Applied Methodologies and Foundations / Embedded Systems Design for Real-Time Applications). Part of the Cyber-Physical Systems Week."

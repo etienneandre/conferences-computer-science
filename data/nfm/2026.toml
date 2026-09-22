@@ -6,7 +6,7 @@ url = "https://nfm2026.github.io/"
 [event]
 start = 2026-05-05
 end = 2026-05-07
-city = "Los Angeles, CA, USA"
+city = "Los Angeles, California, USA"
 
 [submission]
 format = "18 pages LNCS + references (regular) / 6 pages (short/tool/experience report)"

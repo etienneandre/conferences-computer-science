@@ -6,7 +6,8 @@ url = "http://nsv19.mpi-sws.org/"
 [event]
 start = 2019-07-13
 end = 2019-07-14
-city = "New York, NY, USA"
+city = "New York City, USA"
+colocated_with = ["cav/2019"]
 
 [submission]
 format = "15 pages LNCS + references (regular) / 6 pages (short / tools / benchmark / case studies)"
@@ -16,9 +17,6 @@ notification = [2019-05-22]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
-
-[extra]
-notes = "Co-located with CAV 2019."
 
 [[cfp]]
 file = "cfp/NSV-2019.txt"

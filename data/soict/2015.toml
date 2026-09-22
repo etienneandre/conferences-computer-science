@@ -6,7 +6,7 @@ url = "http://acm-soict.org/"
 [event]
 start = 2015-12-03
 end = 2015-12-04
-city = "Hanoi, Vietnam"
+city = "Hà Nội, Việt Nam"
 
 [submission]
 format = "8 pages ACM"

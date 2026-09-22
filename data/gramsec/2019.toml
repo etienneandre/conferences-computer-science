@@ -5,7 +5,7 @@ url = "http://gramsec.uni.lu/"
 
 [event]
 start = 2019-06-24
-city = "Hoboken, NJ, USA"
+city = "Hoboken, New Jersey, USA"
 
 [submission]
 format = "15 pages LNCS + references (regular) / 7 pages (short)"

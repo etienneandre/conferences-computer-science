@@ -10,6 +10,7 @@ rank = "absent"  # TODO: verify
 dblp = "acomp"
 
 [legacy]
+notes = "Named ACOMP until 2021."
 # TODO: extract — cross-year prose kept once, verbatim.
 acceptance = "33% (32/96) in 2013"  # from ACOMPA 2025
 extensions = "1 week in 2013, 20 days in 2014 (and notification extended by 10 days)"  # from ACOMPA 2025

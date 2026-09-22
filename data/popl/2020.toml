@@ -6,7 +6,7 @@ url = "https://popl20.sigplan.org"
 [event]
 start = 2020-01-19
 end = 2020-01-25
-city = "New Orleans, Louisiana, United States"
+city = "New Orleans, Louisiana, USA"
 
 [submission]
 format = "25 pages new ACM format + references"

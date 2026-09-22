@@ -6,7 +6,7 @@ url = "https://www.mcs.anl.gov/eurompi2017/"
 [event]
 start = 2017-09-25
 end = 2017-09-28
-city = "Chicago, IL, USA"
+city = "Chicago, Illinois, USA"
 
 [submission]
 format = "10 pages ACM ICPS (long), ≤ 4 pages (short)"

@@ -6,12 +6,13 @@ url = "http://ljk.imag.fr/hscc2015/"
 [event]
 start = 2015-04-14 # NOTE: was "2014", certainly a typo
 end = 2015-04-16# NOTE: was "2014", certainly a typo
-city = "Seattle, USA"
+city = "Seattle, Washington, USA"
 
 [submission]
 format = "10 pages ACM (regular) / 6 pages (tools and case studies)"
 abstract = [2014-10-13]
 paper = [2014-10-20]
+extensions = false
 notification = [2014-12-27]
 
 [proceedings]
@@ -19,4 +20,4 @@ publisher = "ACM"
 license = "pay"
 
 [extra]
-notes = "Rebuttal phase (December 4th-7th). Part of Cyber Physical Systems (CPS) Week. No deadline extension possible."
+notes = "Rebuttal phase (December 4th-7th). Part of Cyber Physical Systems (CPS) Week."

@@ -209,13 +209,12 @@ lon = 33.0226
 continent = "EU"
 # 7 edition(s)
 
-["Los Angeles, CA, USA"]
+["Los Angeles, California, USA"]
 country = "US"
 display = "Los Angeles"
 lat = 34.0522
 lon = -118.2437
 continent = "NA"
-# 7 edition(s)
 
 ["Oslo, Norway"]
 country = "NO"
@@ -233,13 +232,12 @@ lon = -43.1729
 continent = "SA"
 # 7 edition(s)
 
-["San Francisco, CA, USA"]
+["San Francisco, California, USA"]
 country = "US"
 display = "San Francisco"
 lat = 37.7749
 lon = -122.4194
 continent = "NA"
-# 7 edition(s)
 
 ["Taipei, Taiwan"]
 country = "TW"
@@ -610,21 +608,12 @@ lon = 14.2681
 continent = "EU"
 # 4 edition(s)
 
-["Pittsburgh, PA, USA"]
+["Pittsburgh, Pennsylvania, USA"]
 country = "US"
 display = "Pittsburgh"
 lat = 40.4406
 lon = -79.9959
 continent = "NA"
-# 4 edition(s)
-
-["Pittsburgh, USA"]
-country = "US"
-display = "Pittsburgh"
-lat = 40.4406
-lon = -79.9959
-continent = "NA"
-# 4 edition(s)
 
 ["Prag, Czech Republic"]
 country = "CZ"
@@ -802,14 +791,6 @@ lon = 6.6323
 continent = "EU"
 # 3 edition(s)
 
-["Los Angeles, USA"]
-country = "US"
-display = "Los Angeles"
-lat = 34.0522
-lon = -118.2437
-continent = "NA"
-# 3 edition(s)
-
 ["Macao, China"]
 country = "MO"
 display = "Macao"
@@ -866,7 +847,7 @@ lon = 6.9969
 continent = "EU"
 # 3 edition(s)
 
-["Seattle, WA, USA"]
+["Seattle, Washington, USA"]
 country = "US"
 display = "Seattle"
 lat = 47.6062
@@ -1074,7 +1055,7 @@ lon = 12.5683
 continent = "EU"
 # 2 edition(s)
 
-["Denver, Colorado, United States"]
+["Denver, Colorado, USA"]
 country = "US"
 display = "Denver"
 lat = 39.7392
@@ -1140,7 +1121,7 @@ lon = 110.29
 continent = "AS"
 # 2 edition(s)
 
-["Hoboken, NJ, USA"]
+["Hoboken, New Jersey, USA"]
 country = "US"
 display = "Hoboken"
 lat = 40.744
@@ -1172,7 +1153,7 @@ lon = 33.6201
 continent = "EU"
 # 2 edition(s)
 
-["Las Vegas, USA"]
+["Las Vegas, Nevada, USA"]
 country = "US"
 display = "Las Vegas"
 lat = 36.1699
@@ -1220,7 +1201,7 @@ lon = 9.19
 continent = "EU"
 # 2 edition(s)
 
-["Moffett Field, CA, USA"]
+["Moffett Field, California, USA"]
 country = "US"
 display = "Moffett Field"
 lat = 37.4144
@@ -1244,19 +1225,11 @@ lon = -86.7816
 continent = "NA"
 # 2 edition(s)
 
-["New Orleans, Louisiana, United States"]
+["New Orleans, Louisiana, USA"]
 country = "US"
 display = "New Orleans"
 lat = 29.9511
 lon = -90.0715
-continent = "NA"
-# 2 edition(s)
-
-["New York, NY, USA"]
-country = "US"
-display = "New York"
-lat = 40.7128
-lon = -74.006
 continent = "NA"
 # 2 edition(s)
 
@@ -1308,7 +1281,7 @@ lon = -0.3708
 continent = "EU"
 # 2 edition(s)
 
-["Philadelphia, Pennsylvania, United States"]
+["Philadelphia, Pennsylvania, USA"]
 country = "US"
 display = "Philadelphia"
 lat = 39.9526
@@ -1379,19 +1352,11 @@ lon = -2.0257
 continent = "EU"
 # 2 edition(s)
 
-["San Diego, CA, USA"]
+["San Diego, California, USA"]
 country = "US"
 display = "San Diego"
 lat = 32.7157
 lon = -117.1611
-continent = "NA"
-# 2 edition(s)
-
-["Seattle, Washington, USA"]
-country = "US"
-display = "Seattle"
-lat = 47.6062
-lon = -122.3321
 continent = "NA"
 # 2 edition(s)
 
@@ -1773,14 +1738,6 @@ lon = 140.1065
 continent = "AS"
 # 1 edition(s)
 
-["Chicago, IL, USA"]
-country = "US"
-display = "Chicago"
-lat = 41.8781
-lon = -87.6298
-continent = "NA"
-# 1 edition(s)
-
 ["Christchurch, New Zealand"]
 country = "NZ"
 display = "Christchurch"
@@ -1975,7 +1932,7 @@ lon = -16.9241
 continent = "EU"
 # 1 edition(s)
 
-["Gaithersburg, MD, USA"]
+["Gaithersburg, Maryland, USA"]
 country = "US"
 display = "Gaithersburg"
 lat = 39.1434
@@ -2105,14 +2062,6 @@ lon = 9.732
 continent = "EU"
 # 1 edition(s)
 
-["Hanoi, Vietnam"]
-country = "VN"
-display = "Hanoi"
-lat = 21.0285
-lon = 105.8542
-continent = "AS"
-# 1 edition(s)
-
 ["Heidelberg Germany"]
 country = "DE"
 display = "Heidelberg Germany"
@@ -2146,7 +2095,7 @@ continent = "AS"
 # WARNING: a prefecture; coordinates are Sapporo
 # 1 edition(s)
 
-["Honolulu, USA"]
+["Honolulu, Hawaii, USA"]
 country = "US"
 display = "Honolulu"
 lat = 21.3069
@@ -2167,22 +2116,6 @@ country = "IR"
 display = "Hybrid (Tehran"
 lat = 35.6892
 lon = 51.389
-continent = "AS"
-# 1 edition(s)
-
-["Hồ-Chí-Minh City, Việt Nam"]
-country = "VN"
-display = "Hồ-Chí-Minh City"
-lat = 10.8231
-lon = 106.6297
-continent = "AS"
-# 1 edition(s)
-
-["Hồ-Chí-Minh-City, Việt Nam"]
-country = "VN"
-display = "Hồ-Chí-Minh-City"
-lat = 10.8231
-lon = 106.6297
 continent = "AS"
 # 1 edition(s)
 
@@ -2426,14 +2359,6 @@ lon = 14.2858
 continent = "EU"
 # 1 edition(s)
 
-["Los Angeles, California, USA"]
-country = "US"
-display = "Los Angeles"
-lat = 34.0522
-lon = -118.2437
-continent = "NA"
-# 1 edition(s)
-
 ["Lucca, Italy"]
 country = "IT"
 display = "Lucca"
@@ -2547,31 +2472,14 @@ lon = -90.049
 continent = "NA"
 # 1 edition(s)
 
-["Menlo Park, CA, USA"]
-country = "US"
-display = "Menlo Park"
-lat = 37.453
-lon = -122.1817
-continent = "NA"
-# 1 edition(s)
-
-["Menlo Park, California, US"]
-country = "US"
-display = "Menlo Park"
-lat = 37.453
-lon = -122.1817
-continent = "NA"
-# 1 edition(s)
-
 ["Menlo Park, California, USA"]
 country = "US"
 display = "Menlo Park"
 lat = 37.453
 lon = -122.1817
 continent = "NA"
-# 1 edition(s)
 
-["Miami Beach, FL, USA"]
+["Miami Beach, Florida, USA"]
 country = "US"
 display = "Miami Beach"
 lat = 25.7907
@@ -2579,21 +2487,12 @@ lon = -80.13
 continent = "NA"
 # 1 edition(s)
 
-["Minneapolis, MN, USA"]
+["Minneapolis, Minnesota, USA"]
 country = "US"
 display = "Minneapolis"
 lat = 44.9778
 lon = -93.265
 continent = "NA"
-# 1 edition(s)
-
-["Moffett Field, California"]
-country = "US"
-display = "Moffett Field"
-lat = 37.4144
-lon = -122.048
-continent = "NA"
-# WARNING: no country given
 # 1 edition(s)
 
 ["Mons, Belgium"]
@@ -2612,7 +2511,7 @@ lon = -73.5674
 continent = "NA"
 # 1 edition(s)
 
-["Mountain View, CA, USA"]
+["Mountain View, California, USA"]
 country = "US"
 display = "Mountain View"
 lat = 37.3861
@@ -2661,14 +2560,6 @@ lon = 135.8048
 continent = "AS"
 # 1 edition(s)
 
-["Nashville, TN, USA"]
-country = "US"
-display = "Nashville"
-lat = 36.1627
-lon = -86.7816
-continent = "NA"
-# 1 edition(s)
-
 ["Natal, Rio Grande do Norte, Brazil"]
 country = "BR"
 display = "Natal"
@@ -2702,15 +2593,7 @@ lon = 77.209
 continent = "AS"
 # 1 edition(s)
 
-["New York, USA"]
-country = "US"
-display = "New York"
-lat = 40.7128
-lon = -74.006
-continent = "NA"
-# 1 edition(s)
-
-["Newport News, VA, USA"]
+["Newport News, Virginia, USA"]
 country = "US"
 display = "Newport News"
 lat = 37.0871
@@ -2726,7 +2609,7 @@ lon = 115.227
 continent = "AS"
 # 1 edition(s)
 
-["Oakland, California, United States"]
+["Oakland, California, USA"]
 country = "US"
 display = "Oakland"
 lat = 37.8044
@@ -2742,7 +2625,7 @@ lon = 7.6167
 continent = "EU"
 # 1 edition(s)
 
-["Orlando, Florida, United States"]
+["Orlando, Florida, USA"]
 country = "US"
 display = "Orlando"
 lat = 28.5383
@@ -2879,13 +2762,12 @@ lon = -8.6291
 continent = "EU"
 # 1 edition(s)
 
-["Portsmouth, USA"]
+["Portsmouth, New Hampshire, USA"]
 country = "US"
 display = "Portsmouth"
-lat = 43.0718
-lon = -70.7626
+lat = 43.0749
+lon = -70.7602
 continent = "NA"
-# 1 edition(s)
 
 ["Poznań, Poland"]
 country = "PL"
@@ -2984,7 +2866,7 @@ lon = 2.17
 continent = "EU"
 # 1 edition(s)
 
-["Sacramento, California, United States"]
+["Sacramento, California, USA"]
 country = "US"
 display = "Sacramento"
 lat = 38.5816
@@ -3008,35 +2890,11 @@ lon = -38.5016
 continent = "SA"
 # 1 edition(s)
 
-["San Diego, USA"]
-country = "US"
-display = "San Diego"
-lat = 32.7157
-lon = -117.1611
-continent = "NA"
-# 1 edition(s)
-
-["San Francisco, USA"]
-country = "US"
-display = "San Francisco"
-lat = 37.7749
-lon = -122.4194
-continent = "NA"
-# 1 edition(s)
-
 ["San Jose, California, USA"]
 country = "US"
 display = "San Jose"
 lat = 37.3382
 lon = -121.8863
-continent = "NA"
-# 1 edition(s)
-
-["Santa Barbara, CA, USA"]
-country = "US"
-display = "Santa Barbara"
-lat = 34.4208
-lon = -119.6982
 continent = "NA"
 # 1 edition(s)
 
@@ -3048,7 +2906,7 @@ lon = -119.6982
 continent = "NA"
 # 1 edition(s)
 
-["Santa Cruz, CA, USA"]
+["Santa Cruz, California, USA"]
 country = "US"
 display = "Santa Cruz"
 lat = 36.9741
@@ -3062,14 +2920,6 @@ display = "Santiago"
 lat = -33.4489
 lon = -70.6693
 continent = "SA"
-# 1 edition(s)
-
-["Seattle, USA"]
-country = "US"
-display = "Seattle"
-lat = 47.6062
-lon = -122.3321
-continent = "NA"
 # 1 edition(s)
 
 ["Seville, Spain"]

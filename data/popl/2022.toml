@@ -6,7 +6,7 @@ url = "https://popl22.sigplan.org/"
 [event]
 start = 2022-01-16
 end = 2022-01-22
-city = "Philadelphia, Pennsylvania, United States"
+city = "Philadelphia, Pennsylvania, USA"
 
 [submission]
 format = "25 pages new ACM format + references"

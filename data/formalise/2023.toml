@@ -6,7 +6,7 @@ url = "https://formalise2023.github.io/"
 [event]
 start = 2023-05-14
 end = 2023-05-15
-city = "Pittsburgh, PA, USA"
+city = "Pittsburgh, Pennsylvania, USA"
 
 [submission]
 format = "10 pages ACM (full papers / case study papers), 4 pages (research ideas)"

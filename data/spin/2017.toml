@@ -6,7 +6,7 @@ url = "http://conf.researchr.org/home/spin-2017"
 [event]
 start = 2017-07-13
 end = 2017-07-14
-city = "Santa Barbara, CA, USA"
+city = "Santa Barbara, California, USA"
 
 [submission]
 format = "10 pages ACM (full research paper) / 4 pages (idea / tool)"

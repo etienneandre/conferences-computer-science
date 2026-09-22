@@ -6,7 +6,8 @@ url = "https://popl22.sigplan.org/home/VMCAI-2022"
 [event]
 start = 2022-01-16
 end = 2022-01-18
-city = "Philadelphia, Pennsylvania, United States"
+city = "Philadelphia, Pennsylvania, USA"
+colocated_with = ["popl/2022"]
 
 [submission]
 tz = "AoE"
@@ -19,4 +20,4 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Co-located with POPL. Authors are strongly encouraged to make their tools publicly available and submit an artifact."
+notes = "Authors are strongly encouraged to make their tools publicly available and submit an artifact."

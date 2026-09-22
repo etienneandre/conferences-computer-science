@@ -6,12 +6,13 @@ url = "http://cavconference.org/"
 [event]
 start = 2015-07-18
 end = 2015-07-24
-city = "San Francisco, CA, USA"
+city = "San Francisco, California, USA"
 
 [submission]
 format = "15 pages LNCS + ref + appendix (regular) / 6 pages LNCS + ref + appendix (short)"
 abstract = [2015-01-30]
 paper = [2015-02-06]
+extensions = false
 notification = [2015-04-17]
 
 [proceedings]
@@ -19,4 +20,4 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Rebuttal phase (23-26th March). Firm deadline (2015). A selection of papers will be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+notes = "Rebuttal phase (23-26th March). A selection of papers will be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

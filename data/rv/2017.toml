@@ -6,7 +6,7 @@ url = "http://rv2017.cs.manchester.ac.uk"
 [event]
 start = 2017-09-13
 end = 2017-09-16
-city = "Seattle, WA, USA"
+city = "Seattle, Washington, USA"
 
 [submission]
 format = "regular (15 pages LNCS) / short (6 pages) / tool demonstration (8 pages)"

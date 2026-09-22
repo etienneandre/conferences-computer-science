@@ -6,7 +6,7 @@ url = "http://popl18.sigplan.org/"
 [event]
 start = 2018-01-08
 end = 2018-01-13
-city = "Los Angeles, CA, USA"
+city = "Los Angeles, California, USA"
 
 [submission]
 format = "26 pages new ACM format"

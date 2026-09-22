@@ -6,7 +6,7 @@ url = "https://web.stevens.edu/csf2019/"
 [event]
 start = 2019-06-25
 end = 2019-06-28
-city = "Hoboken, NJ, USA"
+city = "Hoboken, New Jersey, USA"
 
 [submission]
 tz = "UTC-12"

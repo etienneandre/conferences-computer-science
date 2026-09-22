@@ -6,7 +6,7 @@ url = "https://ti.arc.nasa.gov/events/nfm-2020/"
 [event]
 start = 2020-05-11
 end = 2020-05-15
-city = "Moffett Field, CA, USA"
+city = "Moffett Field, California, USA"
 online = true
 
 [submission]

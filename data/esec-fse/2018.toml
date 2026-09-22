@@ -6,7 +6,7 @@ url = "http://2018.fseconference.org"
 [event]
 start = 2018-11-04
 end = 2018-11-09
-city = "Orlando, Florida, United States"
+city = "Orlando, Florida, USA"
 
 [submission]
 format = "10 ACM SIG (+ 2 pages references)"

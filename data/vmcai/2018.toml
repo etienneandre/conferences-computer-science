@@ -6,7 +6,8 @@ url = "http://popl18.sigplan.org/track/VMCAI-2018-papers"
 [event]
 start = 2018-01-07
 end = 2018-01-09
-city = "Los Angeles, CA, USA"
+city = "Los Angeles, California, USA"
+colocated_with = ["popl/2018"]
 
 [submission]
 tz = "UTC+3"
@@ -24,4 +25,4 @@ submitted = 43
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Co-located with POPL. Sponsor travel and other costs for students to attend VMCAI"
+notes = "Sponsor travel and other costs for students to attend VMCAI"

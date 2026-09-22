@@ -6,7 +6,7 @@ url = "http://www.formalise.org/"
 [event]
 start = 2022-05-22
 end = 2022-05-23
-city = "Pittsburgh, PA, USA"
+city = "Pittsburgh, Pennsylvania, USA"
 colocated_with = ["icse/2022"]
 
 [submission]

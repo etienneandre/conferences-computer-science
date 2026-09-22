@@ -6,7 +6,7 @@ url = "https://rv20.ait.ac.at"
 [event]
 start = 2020-10-06
 end = 2020-10-09
-city = "Los Angeles, CA, USA"
+city = "Los Angeles, California, USA"
 
 [submission]
 format = "regular (16 pages LNCS + references) / short (8 pages) / tool demonstration (8 pages)"
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "The Program Committee of RV 2019 will give a best paper award, and a selection of accepted regular papers will be invited to appear in a special journal issue."
+journal = "The Program Committee of RV 2019 will give a best paper award, and a selection of accepted regular papers will be invited to appear in a special journal issue."
 
 [[cfp]]
 file = "cfp/RV-2020.txt"

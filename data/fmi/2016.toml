@@ -6,7 +6,7 @@ url = "http://www.sis.pitt.edu/iri2016/workshop_fmi.html"
 [event]
 start = 2016-07-28
 end = 2016-07-30
-city = "Pittsburgh, USA"
+city = "Pittsburgh, Pennsylvania, USA"
 
 [submission]
 format = "8 pages IEEE"

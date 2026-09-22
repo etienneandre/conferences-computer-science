@@ -6,7 +6,7 @@ url = "https://popl25.sigplan.org/"
 [event]
 start = 2025-01-19
 end = 2025-01-25
-city = "Denver, Colorado, United States"
+city = "Denver, Colorado, USA"
 
 [submission]
 tz = "AoE"

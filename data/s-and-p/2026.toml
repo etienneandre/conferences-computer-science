@@ -6,7 +6,7 @@ url = "https://sp2026.ieee-security.org/"
 [event]
 start = 2026-05-18
 end = 2026-05-21
-city = "San Francisco, CA, USA"
+city = "San Francisco, California, USA"
 
 [submission]
 tz = "AoE"

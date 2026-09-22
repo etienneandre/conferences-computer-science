@@ -6,7 +6,7 @@ url = "https://ti.arc.nasa.gov/events/nfm-2017/workshops/"
 [event]
 start = 2017-05-19
 end = 2017-05-20
-city = "Menlo Park, CA, USA"
+city = "Menlo Park, California, USA"
 
 [submission]
 format = "position / research / reports on work in progress (8 pages ACM SIG)"

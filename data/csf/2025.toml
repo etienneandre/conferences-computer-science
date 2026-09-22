@@ -6,7 +6,7 @@ url = "https://csf2025.ieee-security.org/"
 [event]
 start = 2025-06-16
 end = 2025-06-20
-city = "Santa Cruz, CA, USA"
+city = "Santa Cruz, California, USA"
 
 [submission]
 format = "12 pages IEEE (+ references + appendix)"

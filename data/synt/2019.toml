@@ -5,7 +5,8 @@ url = "https://cs.nyu.edu/acsys/synt2019/"
 
 [event]
 start = 2019-07-14
-city = "New York, NY, USA"
+city = "New York City, USA"
+colocated_with = ["cav/2019"]
 
 [submission]
 format = "3 pages ACM"
@@ -15,6 +16,3 @@ notification = [2019-06-03]
 [proceedings]
 publisher = "informal"
 license = "free"
-
-[extra]
-colocated = "Satellite event of CAV."

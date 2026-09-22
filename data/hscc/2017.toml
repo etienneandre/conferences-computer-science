@@ -6,11 +6,12 @@ url = "http://hscc2017.ece.illinois.edu/"
 [event]
 start = 2017-04-18
 end = 2017-04-20
-city = "Pittsburgh, USA"
+city = "Pittsburgh, Pennsylvania, USA"
 
 [submission]
 format = "10 pages ACM (regular) / 6 pages (tools and case studies) / 2 pages (demo/posters, not published)"
 paper = [2016-10-13]
+extensions = false
 notification = [2016-12-20]
 
 [proceedings]
@@ -18,4 +19,4 @@ publisher = "ACM"
 license = "acm"
 
 [extra]
-notes = "Rebuttal phase (TBA). Part of Cyber Physical Systems (CPS) Week. No deadline extension possible. Authors of distinguished papers may be invited to submit an extended version of their work for possible publication in a Special issue of a leading journal. Light double-blind reviewing process."
+notes = "Rebuttal phase (TBA). Part of Cyber Physical Systems (CPS) Week. Authors of distinguished papers may be invited to submit an extended version of their work for possible publication in a Special issue of a leading journal. Light double-blind reviewing process."

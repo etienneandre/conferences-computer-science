@@ -6,7 +6,7 @@ url = "https://acompa.live/"
 [event]
 start = 2025-11-27
 end = 2025-11-29
-city = "Hồ-Chí-Minh City, Việt Nam"
+city = "Hồ Chí Minh City, Việt Nam"
 
 [submission]
 format = "8 pages IEEE (regular, industry) / 4-5 pages (short)"
@@ -20,6 +20,3 @@ license = "pay"
 [review]
 blind = "double"
 gender_balance = "male-only"
-
-[extra]
-notes = "Named ACOMP until 2021."

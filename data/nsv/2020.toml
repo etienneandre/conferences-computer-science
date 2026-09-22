@@ -5,7 +5,8 @@ url = "https://nsv2020.github.io/"
 
 [event]
 start = 2020-07-19
-city = "Los Angeles, CA, USA"
+city = "Los Angeles, California, USA"
+colocated_with = ["cav/2020"]
 
 [submission]
 format = "15 pages LNCS + references (regular) / 6 pages (short / tools / benchmark / case studies)"
@@ -19,9 +20,6 @@ license = "pay-profit"
 [stats]
 rate = 57.0
 # TODO: verify — extracted from the cross-year acceptance string.
-
-[extra]
-notes = "Co-located with CAV 2020."
 
 [[cfp]]
 file = "cfp/NSV-2020.txt"

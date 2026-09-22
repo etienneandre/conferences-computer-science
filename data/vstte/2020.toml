@@ -6,7 +6,8 @@ url = "https://sri-csl.github.io/VSTTE20/"
 [event]
 start = 2020-07-19
 end = 2020-07-20
-city = "Los Angeles, USA"
+city = "Los Angeles, California, USA"
+colocated_with = ["cav/2020"]
 
 [submission]
 format = "16 pages LNCS + references (long) / 10 pages (short)"
@@ -17,14 +18,16 @@ notification = [2020-06-05]
 [proceedings]
 publisher = "LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-030-63618-0"
+
+[review]
+[review.gender.chairs]
+men = 1
+women = 2
 
 [stats]
 accepted = 9
 submitted = 14
-# TODO: verify — extracted from the cross-year acceptance string.
-
-[extra]
-notes = "Co-located with CAV 2020. Firm in 2019."
 
 [[cfp]]
 file = "cfp/VSTTE-2020.txt"

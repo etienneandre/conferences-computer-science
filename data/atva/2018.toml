@@ -6,7 +6,7 @@ url = "http://atva-conference.org/"
 [event]
 start = 2018-10-07
 end = 2018-10-10
-city = "Los Angeles, USA"
+city = "Los Angeles, California, USA"
 
 [submission]
 format = "16 pages in Springer’s LNCS format (regular) / 6 (tool)"
@@ -22,4 +22,4 @@ rate = 40.0
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-journal = "Special issue in \"Formal Methods in System Design\" (Springer)"
+journal = "Special issue in Formal Methods in System Design (Springer)"

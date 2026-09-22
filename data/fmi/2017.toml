@@ -6,7 +6,7 @@ url = "http://www.sis.pitt.edu/iri2017/workshop_fmi.html"
 [event]
 start = 2017-08-04
 end = 2017-08-06
-city = "San Diego, CA, USA"
+city = "San Diego, California, USA"
 
 [submission]
 format = "8 pages IEEE"
@@ -19,4 +19,5 @@ publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Satellite of 18th IEEE IRI 2017. Papers will also be invited to be expanded and submitted for possible publication in a special issue of the Information Systems Frontiers journal published by Springer (confirmed)."
+colocated = "Satellite of 18th IEEE IRI 2017."
+journal = "Papers will also be invited to be expanded and submitted for possible publication in a special issue of the Information Systems Frontiers journal published by Springer (confirmed)."

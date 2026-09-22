@@ -6,7 +6,7 @@ url = "http://2015.issre.net/"
 [event]
 start = 2015-11-02
 end = 2015-11-05
-city = "Gaithersburg, MD, USA"
+city = "Gaithersburg, Maryland, USA"
 
 [submission]
 format = "10 pages IEEE + 2 appendix/ref (research / experience reports) / 6 pages (wild and provocative ideas)"

@@ -6,7 +6,7 @@ url = "https://2019.ase-conferences.org/"
 [event]
 start = 2019-11-11
 end = 2019-11-15
-city = "San Diego, CA, USA"
+city = "San Diego, California, USA"
 
 [submission]
 tz = "AoE"
@@ -20,4 +20,4 @@ publisher = "ACM"
 license = "acm"
 
 [extra]
-notes = "Double-blind submissions. Deadlines AoE."
+notes = "Double-blind submissions."

@@ -6,7 +6,7 @@ url = "http://www.ieee-iri.org"
 [event]
 start = 2015-08-12
 end = 2015-08-14
-city = "San Francisco, USA"
+city = "San Francisco, California, USA"
 
 [submission]
 format = "8 pages IEEE"
@@ -19,4 +19,4 @@ publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "In conjunction with the 16th IEEE IRI 2015."
+colocated = "In conjunction with the 16th IEEE IRI 2015."

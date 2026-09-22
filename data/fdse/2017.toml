@@ -6,7 +6,7 @@ url = "http://www.cse.hcmut.edu.vn/fdse2017/"
 [event]
 start = 2017-11-29
 end = 2017-12-01
-city = "Hồ-Chí-Minh-City, Việt Nam"
+city = "Hồ Chí Minh City, Việt Nam"
 
 [submission]
 format = "20 pages LNCS"

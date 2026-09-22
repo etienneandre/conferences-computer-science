@@ -6,16 +6,17 @@ url = "http://control.disp.uniroma2.it/cdc2014/"
 [event]
 start = 2014-12-15
 end = 2014-12-17
-city = "Los Angeles, CA, USA"
+city = "Los Angeles, California, USA"
 
 [submission]
 format = "6 pages IEEE"
 paper = [2014-03-20]
-notification = [2014-07-15]
+extensions = false
+notification = [2014-07-15] # NOTE: Notification: mid-July.
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "No deadline extension. Notification: mid-July. 2 more pages are allowed for US$200 each."
+notes = "2 more pages are allowed for US$200 each."

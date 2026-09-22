@@ -5,7 +5,7 @@ url = "http://cps-vo.org/group/ARCH/"
 
 [event]
 start = 2015-04-13
-city = "Seattle, WA, USA"
+city = "Seattle, Washington, USA"
 
 [submission]
 format = "3-8 pages (Benchmark papers, tool presentations, tool executions, experience reports)"

@@ -6,7 +6,7 @@ url = "https://acisinternational.org/conferences/sera-2025/"
 [event]
 start = 2025-05-29
 end = 2025-05-31
-city = "Las Vegas, USA"
+city = "Las Vegas, Nevada, USA"
 
 [submission]
 format = "8 pages IEEE (full) / 4 pages (short)"
@@ -17,8 +17,11 @@ notification = [2025-03-21]
 publisher = "IEEE CPS"
 license = "pay"
 
+[review]
+award = "Best Paper Award and Best Student Paper Awards."
+
 [extra]
-notes = "Best Paper Award and Best Student Paper Awards. Conference officers will select outstanding papers for publication in three journals."
+journal = "Conference officers will select outstanding papers for publication in three journals."
 
 [[cfp]]
 file = "cfp/SERA-2025.pdf"

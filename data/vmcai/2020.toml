@@ -6,7 +6,8 @@ url = "https://popl20.sigplan.org/home/VMCAI-2020"
 [event]
 start = 2020-01-19
 end = 2020-01-21
-city = "New Orleans, Louisiana, United States"
+city = "New Orleans, Louisiana, USA"
+colocated_with = ["popl/2020"]
 
 [submission]
 tz = "AoE"
@@ -20,7 +21,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Co-located with POPL. Sponsor travel and other costs for students to attend VMCAI."
+notes = "Sponsor travel and other costs for students to attend VMCAI."
 
 [[cfp]]
 file = "cfp/VMCAI-2020.txt"

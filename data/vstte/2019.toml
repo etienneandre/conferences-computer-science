@@ -7,11 +7,13 @@ url = "https://sri-csl.github.io/VSTTE19/"
 start = 2019-07-18
 end = 2019-07-19
 city = "New York City, USA"
+colocated_with = ["cav/2019"]
 
 [submission]
 format = "16 pages LNCS + references (long) / 10 pages (short)"
 abstract = [2019-04-23]
 paper = [2019-04-29]
+extensions = false
 notification = [2019-06-03]
 
 [proceedings]
@@ -22,9 +24,6 @@ license = "pay-profit"
 accepted = 9
 submitted = 17
 # TODO: verify — extracted from the cross-year acceptance string.
-
-[extra]
-notes = "Co-located with CAV 2019. Firm in 2019."
 
 [[cfp]]
 file = "cfp/VSTTE-2019.txt"

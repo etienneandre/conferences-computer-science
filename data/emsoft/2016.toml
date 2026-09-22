@@ -6,7 +6,7 @@ url = "http://esweek.acm.org/"
 [event]
 start = 2016-10-02
 end = 2016-10-07
-city = "Pittsburgh, PA, USA"
+city = "Pittsburgh, Pennsylvania, USA"
 
 [submission]
 format = "10 pages in ACM two-column format"

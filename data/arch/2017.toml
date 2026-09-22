@@ -5,7 +5,7 @@ url = "http://cps-vo.org/group/ARCH"
 
 [event]
 start = 2017-04-17
-city = "Pittsburgh, USA"
+city = "Pittsburgh, Pennsylvania, USA"
 
 [submission]
 format = "3-8 pages (Benchmark papers, tool presentations, tool executions, experience reports)"

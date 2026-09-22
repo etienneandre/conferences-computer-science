@@ -6,16 +6,14 @@ url = "https://cdc2018.ieeecss.org/"
 [event]
 start = 2018-12-17
 end = 2018-12-19
-city = "Miami Beach, FL, USA"
+city = "Miami Beach, Florida, USA"
 
 [submission]
 format = "6 pages IEEE (+ 2 additional for a fee)"
 paper = [2018-03-20]
+extensions = false
 notification = [2018-07-15]
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
-
-[extra]
-notes = "No deadline extension."
