@@ -2154,14 +2154,6 @@ lon = -157.8583
 continent = "NA"
 # 1 edition(s)
 
-["Houston, USA"]
-country = "US"
-display = "Houston"
-lat = 29.7604
-lon = -95.3698
-continent = "NA"
-# 1 edition(s)
-
 ["Huế, Việt Nam"]
 country = "VN"
 display = "Huế"
@@ -2974,14 +2966,6 @@ display = "Rhodes"
 lat = 36.4341
 lon = 28.2176
 continent = "EU"
-# 1 edition(s)
-
-["Rice University, Houston, Texas, USA"]
-country = "US"
-display = "Rice University"
-lat = 29.7604
-lon = -95.3698
-continent = "NA"
 # 1 edition(s)
 
 ["Rold Storkro, Skoerping (Aalborg), Denmark"]
