@@ -18,8 +18,12 @@ notification = [2023-02-20, 2023-03-06]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+artifact = "Authors are encouraged, but not strictly required, to submit artifacts that support the conclusions of their work"
+
 [extra]
-notes = "No registration fees. Authors of selected best papers will be invited to submit an extended version to a special issue in Springer’s Innovations in Systems and Software Engineering: A NASA Journal. Authors are encouraged, but not strictly required, to submit artifacts that support the conclusions of their work"
+notes = "No registration fees."
+journal = "Authors of selected best papers will be invited to submit an extended version to a special issue in Springer’s Innovations in Systems and Software Engineering: A NASA Journal."
 
 [[cfp]]
 file = "cfp/NFM-2023.txt"

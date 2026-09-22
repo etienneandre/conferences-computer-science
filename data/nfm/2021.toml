@@ -19,7 +19,8 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "No registration fees. Authors of selected best papers will be invited to submit an extended version to a special issue in Springer’s Innovations in Systems and Software Engineering: A NASA Journal"
+notes = "No registration fees."
+journal = "Authors of selected best papers will be invited to submit an extended version to a special issue in Springer’s Innovations in Systems and Software Engineering: A NASA Journal"
 
 [[cfp]]
 file = "cfp/NFM-2021.txt"

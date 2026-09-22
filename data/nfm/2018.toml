@@ -24,7 +24,8 @@ submitted = 92
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "No registration fees. Authors of selected best papers may be invited to submit an extended version to a special issue of the Journal of Automated Reasoning (Springer)."
+notes = "No registration fees."
+journal = "Authors of selected best papers may be invited to submit an extended version to a special issue of the Journal of Automated Reasoning (Springer)."
 
 [[cfp]]
 file = "cfp/NFM-2018.txt"

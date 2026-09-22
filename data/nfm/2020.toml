@@ -7,6 +7,7 @@ url = "https://ti.arc.nasa.gov/events/nfm-2020/"
 start = 2020-05-11
 end = 2020-05-15
 city = "Moffett Field, CA, USA"
+online = true
 
 [submission]
 format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report) + references"

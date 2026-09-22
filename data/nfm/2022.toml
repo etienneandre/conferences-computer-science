@@ -11,20 +11,33 @@ hybrid = true
 
 [submission]
 format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report) + references"
-abstract = [2021-12-03, 2022-01-03]
+abstract = [2021-12-03, 2022-01-03, 2022-01-10]
 paper = [2021-12-10, 2022-01-10]
 notification = [2022-02-04, 2022-02-28, 2022-03-10, 2022-03-14]
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-031-06773-0"
 
 [review]
 artifact = "Authors are encouraged, but not strictly required, to submit artifacts that support the conclusions of their work"
 
+[review.gender.chairs]
+men = 3
+women = 0
+
+# NOTE: extracted from legacy "35% in 2022 for long papers (33/93) and 25% for short papers"
 [stats]
-rate = 35.0
-# TODO: verify — extracted from the cross-year acceptance string.
+[[stats.track]]
+name = "Regular papers"
+submitted = 93
+accepted = 33
+
+[[stats.track]]
+name = "Short papers"
+submitted = 25
+accepted = 6
 
 [extra]
 notes = "No registration fees."

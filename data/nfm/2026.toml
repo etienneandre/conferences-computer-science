@@ -10,17 +10,29 @@ city = "Los Angeles, CA, USA"
 
 [submission]
 format = "18 pages LNCS + references (regular) / 6 pages (short/tool/experience report)"
-paper = [2026-01-10, 2026-01-18]
+paper = [2026-01-10, 2026-01-18, 2026-01-24]
 notification = [2026-03-10]
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-032-28079-4"
+
+[stats]
+submitted = 60
+accepted = 25 # NOTE 25 papers including 23 regular papers and 2 short paper
 
 [review]
 blind = "single"
-gender_balance = "male-only"
 artifact = "Courageous authors, who want to delve in open source software being applied in real NASA missions, and find possible connections to, and applications of Formal Methods, are invited to visit the open source repositories for two frameworks for programming flight software."
+
+[review.gender.chairs]
+men = 3
+women = 0
+
+[review.gender.speakers]
+men = 5
+women = 1
 
 [extra]
 notes = "No registration fees. Gen AI mostly allowed. Remote participation allowed."

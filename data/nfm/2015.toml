@@ -10,7 +10,7 @@ city = "Pasadena, California, USA"
 
 [submission]
 format = "15 pages LNCS (regular) / 6 pages (short)"
-paper = [2014-11-18]
+paper = [2014-11-10, 2014-11-18] # NOTE: former date inferred from "8 days (2015)"
 notification = [2015-01-12]
 
 [proceedings]

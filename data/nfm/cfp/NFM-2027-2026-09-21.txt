@@ -1,0 +1,126 @@
+*****************************************************
+      The Nineteenth NASA Formal Methods Symposium
+
+https://conf.researchr.org/home/nfm-2027
+
+                    11 - 13 May 2027
+University of Houston Clear Lake, Houston, Texas, USA
+*****************************************************
+
+
+Theme of the Symposium:
+-----------------------
+The widespread use and increasing complexity of mission-critical and
+safety-critical systems at NASA and in the aerospace industry require
+advanced techniques that address these systems' specification, design,
+verification, validation, and certification requirements. The NASA
+Formal Methods Symposium (NFM) is an annual forum to foster
+collaboration between theoreticians and practitioners from NASA,
+academia, and industry. NFM's goals are to identify challenges and to
+provide solutions for achieving assurance for such critical systems.
+
+New developments and emerging applications like autonomous software for
+uncrewed deep space human habitats, caretaker robotics, Unmanned Aerial
+Systems (UAS), UAS Traffic Management (UTM), and the need for
+system-wide fault detection, diagnosis, and prognostics provide new
+challenges for system specification, development, and verification
+approaches. The focus of these symposiums are on formal techniques and
+other approaches for software assurance, including their theory, current
+capabilities and limitations, as well as their potential application to
+aerospace, robotics, and other NASA-relevant safety-critical systems
+during all stages of the software life-cycle.
+
+Topics of Interest:
+-------------------
+We encourage submissions on cross-cutting approaches that bring together
+formal methods and techniques from other domains such as probabilistic
+reasoning, machine learning, control theory, robotics, and quantum
+computing among others.
+     * Formal verification, including theorem proving, model checking,
+and static analysis
+     * Advances in automated theorem proving including SAT and SMT solving
+     * Use of formal methods in software and system testing
+     * Run-time verification
+     * Techniques and algorithms for scaling formal methods, such as
+abstraction and symbolic methods, compositional techniques, as well as
+parallel and/or distributed techniques
+     * Code generation from formally verified models
+     * Safety cases and system safety
+     * Formal approaches to fault tolerance
+     * Theoretical advances and empirical evaluations of formal methods
+techniques for safety-critical systems, including hybrid and embedded
+systems
+     * Formal methods in systems engineering and model-based development
+     * Correct-by-design controller synthesis
+     * Formal assurance methods to handle adaptive systems
+
+
+Important Dates:
+----------------
+Abstract Submission:  4 Jan 2027
+Paper Submission:    11 Jan 2027
+Paper Notifications: 26 Feb 2027
+Camera-ready Papers: 19 Mar 2027
+Symposium:        11-13 May 2027
+
+
+Location & Cost:
+----------------
+The symposium will take place at University of Houston Clear Lake,
+Houston, Texas, USA, 11-13 May 2027.
+
+There will be no registration fee for participants. All interested
+individuals, including non-US citizens, are welcome to attend, to listen
+to the talks, and to participate in discussions; however, all attendees
+must register.
+
+
+Submission Details:
+-------------------
+There are two categories of submissions:
+
+    1. Regular papers describing fully developed work and complete
+results (16 pages + references)
+    2. Two categories of short papers: (8 pages + references)
+    (a) Tool Papers describing novel, publicly-available tools
+    (b) Case Studies detailing complete applications of formal methods
+to real systems with publicly-available artifacts
+
+All papers should be in English and describe original work that has not
+been published or submitted elsewhere. All submissions will be fully
+reviewed by members of the Programme Committee, who will evaluate them
+for novelty, significance, correctness, and reproducibility. For all
+papers with experimental results, we strongly recommend providing
+reviewers with an artifact that they can use to reproduce results.
+
+Papers will appear in the Formal Methods subline of Springer's Lecture
+Notes in Computer Science (LNCS) and must use LNCS style formatting
+(https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Papers must be submitted in PDF format at the submission site:
+
+https://cmt3.research.microsoft.com/NFM2027/Submission/Index
+
+
+Organizers:
+-----------
+Jim Dabney (University of Houston Clear Lake/NASA JSC)
+Brian Kempa (NASA Ames Research Center)
+Kristin Yvonne Rozier (Iowa State University/NASA JSC)
+
+--
+  ____________________________________________________________
+                                     __
+            /\                       \ \_____
+           /  \                   ###[==_____>
+          /    \                     /_/      __
+         /  __  \                             \ \_____
+         | (  ) |                          ###[==_____>
+        /| /\/\ |\                            /_/
+       / | |  | | \
+      /  |=|==|=|  \       Kristin Yvonne Rozier, Ph.D.
+    /    | |  | |    \     Associate Professor, Iowa State Univ
+   / USA | ~||~ |NASA \    Departments of Aerospace Engineering,
+  |______|  ~~  |______|     Computer Science, Mathematics, and
+         (__||__)            Electrical and Computer Engineering
+         /_\  /_\
+         !!!  !!!https://laboratory.temporallogic.org

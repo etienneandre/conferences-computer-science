@@ -6,7 +6,8 @@ url = "https://robonaut.jsc.nasa.gov/R2/pages/nfm2019.html"
 [event]
 start = 2019-05-07
 end = 2019-05-09
-city = "Rice University, Houston, Texas, USA"
+city = "Houston, Texas, USA"
+venue = "Rice University"
 
 [submission]
 format = "15 pages LNCS (regular) / 6 pages (short/tool/experience report) + references"
@@ -17,6 +18,18 @@ notification = [2019-02-22]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+
+# NOTE: extracted from legacy "39% (20 long + 8 short / 54 long + 18 short) in 2019, "
+[stats]
+[[stats.track]]
+name = "Regular papers"
+submitted = 54
+accepted = 20
+
+[[stats.track]]
+name = "Short papers"
+submitted = 18
+accepted = 8
 
 [extra]
 notes = "No registration fees."

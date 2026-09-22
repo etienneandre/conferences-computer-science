@@ -23,6 +23,10 @@ blind = "single"
 gender_balance = "mixed"
 award = "Best Paper Award, sponsored by Springer"
 
+[stats]
+submitted = 65
+accepted = 24
+
 [extra]
 journal = "A selection of papers will be invited to submit extended versions to an special issue on Springer’s Innovations in Systems and Software Engineering: A NASA Journal."
 notes = "No registration fees."

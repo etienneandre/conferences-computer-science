@@ -1,0 +1,38 @@
+edition = 19
+title = "19th NASA Formal Methods Symposium"
+url = "https://conf.researchr.org/home/nfm-2027"
+
+[event]
+start = 2027-05-11
+end = 2027-05-13
+city = "Houston, Texas, USA"
+venue = "University of Houston Clear Lake"
+
+[submission]
+format = "16 pages LNCS + references (regular) / 8 pages (short/tool)"
+abstract = [2027-01-04]
+paper = [2027-01-11]
+notification = [2027-02-26]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+blind = "single"
+artifact = "For all papers with experimental results, we strongly recommend providing reviewers with an artifact that they can use to reproduce results."
+
+[review.gender.chairs]
+men = 3
+women = 0
+
+[review.gender.speakers]
+men = 5
+women = 1
+
+[extra]
+notes = "No registration fees."
+
+[[cfp]]
+file = "cfp/NFM-2027-2026-09-21.txt"
+stage = "initial"

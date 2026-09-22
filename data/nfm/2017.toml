@@ -18,5 +18,18 @@ notification = [2017-02-03]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+# NOTE: extracted from legacy "40% (23 regular + 8 short / 60 regular + 17 short) in 2017"
+[stats]
+[[stats.track]]
+name = "Regular papers"
+submitted = 60
+accepted = 23
+
+[[stats.track]]
+name = "Short papers	"
+submitted = 17
+accepted = 8
+
 [extra]
-notes = "No registration fees. Authors of selected best papers may be invited to submit an extended version to a special issue of the Journal of Automated Reasoning (Springer)."
+notes = "No registration fees."
+journal = "Authors of selected best papers may be invited to submit an extended version to a special issue of the Journal of Automated Reasoning (Springer)."
