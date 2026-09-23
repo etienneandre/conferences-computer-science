@@ -5,7 +5,7 @@ url = "https://hscc.acm.org/2027"
 [event]
 start = 2027-05-17
 end = 2027-05-20
-city = "/home/etienne/git/Web/conferences-computer-science/data/hscc-iccps/2026.toml"
+city = "Boulder, Colorado, USA"
 
 [submission]
 tz = "AoE"
