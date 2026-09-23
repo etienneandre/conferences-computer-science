@@ -12,6 +12,7 @@ city = "Hong Kong, China"
 tz = "AoE"
 format = "10 pages ACM + references (long) / 6 pages (short)"
 paper = [2023-10-31]
+extensions = false
 notification = [2024-01-20]
 
 [proceedings]
@@ -24,4 +25,4 @@ submitted = 58
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Firm deadline. Part of CPS-IoT Week. Double-blind reviewing process. Several best paper awards. Rebuttal phase: 18-22 December 2023. Regular papers and tool/case study papers can both be long or short."
+notes = "Part of CPS-IoT Week. Double-blind reviewing process. Several best paper awards. Rebuttal phase: 18-22 December 2023. Regular papers and tool/case study papers can both be long or short."

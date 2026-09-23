@@ -1,5 +1,5 @@
 # migrated from data.php line 13450
-edition = 29
+edition = 1
 title = "29th ACM International Conference on Hybrid Systems: Computation and Control, and 17th ACM/IEEE International Conference on Cyber-Physical Systems"
 url = "https://hscc.acm.org/2026/"
 
@@ -13,6 +13,7 @@ tz = "AoE"
 format = "10 pages ACM + references (long) / 6 pages (short)"
 abstract = [2025-11-06]
 paper = [2025-11-13]
+extensions = false
 rebuttal_start = 2026-01-07
 rebuttal_end = 2026-01-11
 notification = [2026-01-29]
@@ -20,12 +21,31 @@ notification = [2026-01-29]
 [proceedings]
 publisher = "ACM"
 license = "free"
+doi = "10.1109/ICCPS68698.2026"
 
 [review]
 blind = "double"
-gender_balance = "mixed"
 artifact = "Authors of accepted papers are encouraged to participate in artifact evaluation."
 award = "Best paper awards for HSCC and ICCPS, Best Student Paper Award, Best Tool Paper Award"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 3
+women = 0
+
+[stats]
+[[stats.track]]
+name = "Regular papers"
+submitted = 145
+accepted = 41
+
+[[stats.track]]
+name = "Short papers"
+submitted = 36
+accepted = 10
 
 [extra]
 journal = "Selected papers will be invited to submit extended versions to: ACM Transactions on Cyber-Physical Systems and to Non-Linear Analysis: Hybrid Systems"

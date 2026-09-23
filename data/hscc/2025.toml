@@ -11,7 +11,7 @@ city = "Irvine, California, USA"
 [submission]
 tz = "AoE"
 format = "10 pages ACM + references (long) / 6 pages (short)"
-paper = [2024-11-14]
+paper = [2024-10-31,2024-11-14]
 rebuttal_start = 2025-01-06
 rebuttal_end = 2025-01-10
 notification = [2025-01-23]

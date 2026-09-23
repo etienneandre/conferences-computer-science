@@ -1,0 +1,64 @@
+CALL FOR PAPERS
+
+ACM/IEEE International Conference on Cyber-Physical and Autonomous Systems (HSCC+ICCPS) 2027
+Boulder, Colorado, USA | 17-20 May 2027
+Part of Cyber-Physical Systems and Internet-of-Things Week (CPS-IoT Week 2027)
+
+Conference website: https://hscc.acm.org/2027
+
+Full call for papers: https://hscc.acm.org/2027/call-for-papers/
+
+HSCC+ICCPS brings together researchers advancing the foundations, design,
+implementation, evaluation, and deployment of cyber-physical systems,
+hybrid systems, and trustworthy AI-enabled autonomous systems. The 2027
+conference continues two established conference lineages as one unified event:
+
+    30th ACM International Conference on Hybrid Systems: Computation and Control (HSCC).
+    18th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS).
+
+These iterations refer to the predecessor conference lineages.
+
+The conference has three coordinated tracks:
+
+    Foundations
+    Systems and Applications
+    AI-enabled Autonomy
+
+Regular research papers may use up to 10 pages, excluding references, for contributions featuring mature original research and a comprehensive evaluation.
+
+Short research papers may use up to 6 pages, including references, and welcome position papers, tool papers, and focused contributions.
+
+Both categories use the ACM two-column conference format.
+
+Accepted papers in both categories will appear in the conference's ACM proceedings. Reviews will be light double-anonymous.
+
+REPEATABILITY EVALUATION
+
+Authors of accepted Regular and Short papers are encouraged to submit supporting artifacts for voluntary, separate repeatability evaluation after paper notifications. Tool-oriented Short papers are especially encouraged to provide artifacts. Package requirements are available on the website; the submission portal and badge terminology will be announced separately.
+
+https://hscc.acm.org/2027/authors/repeatability-evaluation/
+
+IMPORTANT DATES
+
+Abstract registration: 29 October 2026
+Paper submission: 5 November 2026
+Author response: 11-15 January 2027
+Paper notification: 28 January 2027
+Conference: 17-20 May 2027
+Submission deadlines close at 23:59:59 Anywhere on Earth (AoE, UTC-12).
+
+Submission site: https://hscc-iccps27.hotcrp.com/
+Author information: https://hscc.acm.org/2027/authors/
+CPS-IoT Week 2027: https://cps-iot-week-2027.sigbed.org/
+Questions: taylor.johnson@vanderbilt.edu
+
+Program Chairs
+
+Taylor T. Johnson, Vanderbilt University - Foundations
+Jonathan Sprinkle, Vanderbilt University - Systems and Applications
+Mykel J. Kochenderfer, Stanford University - AI-enabled Autonomy
+
+=========================================================
+
+Cheers,
+Ben Wooding (Publicity Chair)
