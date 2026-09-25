@@ -997,7 +997,8 @@ def asset_version(site: Site) -> str:
     """
     digest = hashlib.sha256()
     folder = site.root / site.config["build"]["assets"]
-    for name in sorted(("site.css", "filters.js", "map.js", "countdown.js")):
+    for name in sorted(("site.css", "filters.js", "map.js", "seriesmap.js",
+                        "countdown.js")):
         path = folder / name
         if path.exists():
             digest.update(path.read_bytes())
@@ -1074,6 +1075,47 @@ def write(path: Path, text: str) -> None:
     WRITTEN["written"] += 1
 
 
+def series_map_points(site: Site, conference: Conference) -> list[dict]:
+    """One pin per city for the map on a conference page.
+
+    Editions grouped by city, not listed one by one: a series that met three
+    times in Paris is one place on a map, and three markers on the same spot
+    would simply hide each other. Each group carries the year of its most
+    recent visit, which is what colours the pin.
+
+    Left out: editions held online, editions that were cancelled or never
+    took place, and cities the gazetteer has no coordinates for. Returned
+    oldest first, so the drawing order puts recent pins on top.
+    """
+    groups: dict[str, dict] = {}
+    for edition in sorted(conference.editions, key=lambda e: e.year):
+        if edition.online or edition.status in ("cancelled", "no-edition"):
+            continue
+        name = edition.city_name
+        if not name:
+            continue
+        place = site.city(name)
+        if place.get("lat") is None or place.get("lon") is None:
+            continue
+        point = groups.setdefault(name, {
+            "lat": float(place["lat"]),
+            "lon": float(place["lon"]),
+            "city": place.get("display") or name,
+            "flag": place.get("flag", ""),
+            "acronym": conference.acronym,
+            "editions": [],
+            "newest": edition.year,
+        })
+        point["editions"].append({"label": edition.key, "url": edition.url})
+        point["newest"] = max(point["newest"], edition.year)
+
+    points = sorted(groups.values(), key=lambda p: p["newest"])
+    for point in points:
+        years = ", ".join(e["label"] for e in point["editions"])
+        point["label"] = f"{conference.acronym} {years}"
+    return points
+
+
 def render(site: Site, env: Environment) -> int:
     pages = 0
     edition_tpl = env.get_template("edition.html.j2")
@@ -1081,7 +1123,9 @@ def render(site: Site, env: Environment) -> int:
 
     for conference in site.conferences.values():
         out = site.out_dir / conference.slug / "index.html"
-        write(out, conference_tpl.render(conference=conference))
+        write(out, conference_tpl.render(
+            conference=conference,
+            map_points=series_map_points(site, conference)))
         pages += 1
 
         # Renamed conferences keep their old URLs alive.

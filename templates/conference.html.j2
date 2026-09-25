@@ -152,6 +152,32 @@
   </div>
 
   <aside>
+    {% if map_points %}
+    <section class="panel">
+      <h2 class="panel-title">Where it has met</h2>
+      <div class="mapbox">
+        <div class="map-holder is-series" id="seriesmap"
+             data-zoom="{{ config.map.zoom }}"
+             data-autoload="{{ 'true' if config.map.autoload else 'false' }}"
+             data-points='{{ map_points | tojson }}'>
+          {% if not config.map.autoload %}
+          <div class="map-prompt">
+            <button type="button" id="loadseriesmap">Show map</button>
+            <p>Loads tiles from OpenStreetMap, which will see your IP address.</p>
+          </div>
+          {% endif %}
+        </div>
+        <p class="map-caption">
+          {{ map_points | length }} cit{{ 'y' if map_points | length == 1 else 'ies' }}.
+          {% if map_points | length > 1 %}
+          <span class="map-scale"><i>{{ map_points[0].newest }}</i><span
+            class="ramp" aria-hidden="true"></span><i>{{ map_points[-1].newest }}</i></span>
+          {% endif %}
+        </p>
+      </div>
+    </section>
+    {% endif %}
+
     {% if conference.core_history %}
     <section class="panel">
       <h2 class="panel-title">CORE rank over time</h2>
@@ -242,4 +268,10 @@
 </div>
 
 </article>
+{% endblock %}
+
+{% block scripts %}
+{% if map_points %}
+<script src="/assets/seriesmap.js?v={{ asset_version }}" defer></script>
+{% endif %}
 {% endblock %}

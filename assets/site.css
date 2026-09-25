@@ -334,6 +334,17 @@ a:hover { text-decoration-thickness: 2px; }
 }
 .map-holder p { margin: .5rem 0 0; font: 400 .74rem var(--font-data); color: var(--ink-faint); text-align: center; max-width: 24ch; }
 .map-caption { font: 400 .74rem/1.4 var(--font-data); color: var(--ink-faint); padding: .4rem .55rem; border-top: 1px solid var(--rule); }
+/* A whole series needs more room than one venue: the pins can be a world
+   apart, and at that scale 210px leaves nothing but ocean. */
+.map-holder.is-series { height: 300px; }
+/* Legend for the pin colours. The stops repeat the ramp in seriesmap.js —
+   change one and change the other. */
+.map-scale { display: inline-flex; align-items: center; gap: .3rem; vertical-align: -1px; }
+.map-scale i { font-style: normal; }
+.map-scale .ramp {
+  width: 3.5rem; height: .5rem; border-radius: 2px; border: 1px solid var(--rule);
+  background: linear-gradient(to right, hsl(212, 60%, 72%), hsl(212, 60%, 24%));
+}
 
 /* Series page ------------------------------------------------------------- */
 .editions { width: 100%; border-collapse: collapse; }
