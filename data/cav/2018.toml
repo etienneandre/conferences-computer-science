@@ -12,11 +12,21 @@ city = "Oxford, England"
 tz = "AoE"
 format = "15 pages LNCS + ref + appendix (regular) / 6 pages LNCS + ref + appendix (tool)"
 paper = [2018-01-31]
+rebuttal_start = 2018-03-15
+rebuttal_end = 2018-03-17
 notification = [2018-03-31]
+
+[review]
+blind = "lightweight"
+artifact = "Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions."
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[stats]
+submitted = 215
+accepted = 65 # NOTE: 52 regular + 13 tool / 215
+
 [extra]
-notes = "Deadlines are AoE. WARNING: Double-blind submissions (\"lightweight\"). Rebuttal phase (15-17 March). Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

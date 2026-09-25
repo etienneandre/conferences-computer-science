@@ -1,0 +1,8 @@
+# stub: this edition is known only from the acceptance history.
+# TODO: verify
+
+[stats]
+submitted = 209
+accepted = 70 # NOTE 54 regular + 16 tool / 209
+
+# NOTE: Deadline extension (1 week) in 2013, + 48 extra hours to edit the paper"

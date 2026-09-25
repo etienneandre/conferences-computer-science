@@ -12,14 +12,25 @@ city = "Paris, France"
 tz = "AoE"
 format = "18 pages LNCS + ref + appendix (regular) / 10 pages LNCS + ref + appendix (tool)"
 paper = [2023-02-03]
+extensions = false
+rebuttal_start = 2023-03-29
+rebuttal_end = 2023-03-31
 notification = [2023-04-21]
+
+[review]
+blind = "double"
+artifact = "Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions."
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "cc-by"
 
+[stats]
+submitted = 261
+accepted = 68
+
 [extra]
-notes = "Firm deadline. Double-blind submissions. Open access since 2018. Rebuttal period (29-31 March 2023). Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
 
 [[cfp]]
 file = "cfp/CAV-2023.txt"

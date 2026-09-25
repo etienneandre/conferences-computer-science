@@ -11,19 +11,24 @@ city = "Lisbon, Portugal"
 tz = "AoE"
 format = "18 pages LNCS + ref + appendix (regular) / 10 pages LNCS + ref + appendix (Short Tool Papers/Short Application Papers/Industrial Experience Reports & Case Studies)"
 paper = [2026-01-28]
+extensions = false
 rebuttal_start = 2026-03-30
 rebuttal_end = 2026-04-02
 notification = [2026-04-17]
-extensions = false
-
-[proceedings]
-publisher = "Springer LNCS"
-license = "cc-by"
 
 [review]
 blind = "double"
 artifact = "Authors of accepted papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN’s Empirical Evaluation Guidelines when reporting on empirical results."
 award = "The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification."
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "cc-by"
+doi = "10.1007/978-3-032-32519-8"
+
+[stats]
+submitted = 319
+accepted = 79 # NOTE We accepted a total of 81 papers, consisting of 54 regular papers, 21 short tool papers, and 6 industrial experience reports and case studies.
 
 [review.gender.chairs]
 women = 1

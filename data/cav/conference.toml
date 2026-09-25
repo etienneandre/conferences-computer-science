@@ -12,7 +12,3 @@ rank = "A*"
 
 [links]
 dblp = "cav"
-
-[legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-notes = "Open access since 2018. Acceptance rate: (38 regular + 20 tool) / 185 = 31% (2012), 54 regular + 16 tool / 209 = 33% (2013), 52 regular + 13 tool / 215 = 30% (2018), (60+16+3)/290 (27%) in 2021, 68/262 (26%) in 2023. Deadline extension (1 week) in 2013, + 48 extra hours to edit the paper, none in 2016, 1 week to edit paper (2024)."

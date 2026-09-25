@@ -13,11 +13,18 @@ tz = "EST"
 format = "15 pages LNCS + ref + appendix (regular) / 6 pages LNCS + ref + appendix (tool)"
 abstract = [2016-01-24]
 paper = [2016-01-29]
+rebuttal_start = 2016-03-23
+rebuttal_end = 2016-03-25
+extensions = false
 notification = [2016-04-15]
+
+[review]
+blind = "lightweight"
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Deadlines are 4pm EST. WARNING: NEW this year: Double-blind submissions (\"lightweight\"). Rebuttal phase (23-25th March). A selection of papers will be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+notes = "Deadlines are 4pm EST."
+journal = "A selection of papers will be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

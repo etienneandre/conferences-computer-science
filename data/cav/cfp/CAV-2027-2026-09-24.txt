@@ -1,0 +1,134 @@
+# First Call for Papers — CAV 2027
+
+**39th International Conference on Computer Aided Verification**
+**Amsterdam, The Netherlands**
+
+---
+
+## IMPORTANT DATES
+
+*All deadlines are AoE (Anywhere on Earth)* and in 2027
+
+- Full papers due: **Wed, 20 January**
+- Early reject notification: **Fri, 4 March**
+- Artifact registration (Tool papers): **Mon, 8 March**
+- Author response period: **Mon, 5 April – Thu, 8 April**
+- Author notification: **Fri, 23 April**
+- Artifact registration (non-Tool papers): **Mon, 26 April**
+- Camera-ready deadline: **Tue, 18 May**
+- Early registration deadline: **Tue, 18 May**
+- Main conference: **19–23 July, Amsterdam**
+
+Note that the artefact registration for tool papers has changed w.r.t. CAV 2026.
+
+## SUBMISSION SITE
+
+Submissions will be due via HotCRP (exact link TBD)
+
+## SCOPE
+
+CAV 2027 is the 39th in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
+
+Topics of interest include but are not limited to:
+
+- Foundations of verification and synthesis
+       (mathematical, logical, automata, games)
+- Verification algorithms (model checking, deductive verification)
+- Proof assistants and deductive methods
+- Specifications and correctness criteria for programs and systems
+- SAT, SMT, constraint solving, decision procedures
+- Synthesis algorithms (software, hardware, systems)
+- Program and software verification (including analysis)
+- Hardware verification
+- Verification of concurrent and distributed systems
+- Verification of hybrid, embedded, and cyber-physical systems
+- Abstraction and compositional techniques
+- Verification of probabilistic and quantum systems
+- Testing and run-time analysis based on verification technology
+- Formal methods for AI safety, explainability, and machine learning
+- Formal methods for security
+- Emerging domains for verification and synthesis, e.g., biology
+- Applications and case studies in practice (esp. in industry)
+
+CAV welcomes submissions on theory, algorithms, practice and/or tools.
+
+Submissions on a wide range of topics are sought, particularly ones that identify new research directions. CAV 2027 is not limited to topics discussed in previous instances of the conference. Authors concerned about the appropriateness of a topic may communicate with the conference chairs prior to submission.
+
+## PAPER SUBMISSION
+
+Paper submissions to CAV fall into one of the following three categories (see more information below):
+
+1. Regular Papers (18 pages max, must be anonymized)
+2. Tool Papers (18 pages max, need not be anonymized)
+3. Application/Industrial Experience/Case Study Papers
+   (10 pages max, need not be anonymized)
+
+Papers can include a clearly marked appendix, however, the reviewers are not obliged to read the contents of these appendices. All page limits do not include references and appendices.
+
+Requirements on the artifact evaluation for these categories is described below.
+
+Papers in all categories must be submitted by **January 20, 2027** AoE, and should be in LNCS format. Note [Springer's guidelines regarding AI Authorship](https://www.springer.com/gp/editorial-policies/artificial-intelligence--ai-/25428500). Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed.
+
+The number of submissions per author is limited to 5 (five). This refers to the total number of paper submissions over all three paper categories.
+
+## CAMERA-READY VERSIONS
+
+Detailed instructions will be provided by mail to authors of accepted papers.
+
+Page Limits (excl. bibliography and data availability statement):
+
+- Regular papers and tool papers: up to 20 pages
+- Application papers: up to 12 pages
+
+These limits include 2 extra pages to help incorporate reviewer feedback.
+
+## TWO-STAGE REVIEW PROCESS
+
+CAV 2027 continues to implement a two-stage reviewing process. In the first stage, each paper will get two reviews. Papers with sufficient support by the reviewers will proceed to the next stage, where they will receive two additional reviews; other papers will be rejected early. Authors whose papers will go into the second stage will have the option to respond to reviewer comments in a rebuttal phase.
+
+## ARTIFACTS
+
+Authors are encouraged to consult SIGPLAN's Empirical Evaluation Guidelines when reporting on empirical results.
+
+A. Regular papers and application/industrial/case-study papers.
+
+Authors of accepted papers in these categories will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation (AE) committee. The final acceptance of these papers is _not_ conditional on the AE outcome. Authors should indicate, however, at paper submission time whether or not they plan to submit an artifact if their paper is accepted. Information on artifact intent will be shared with reviewers.
+
+B. Tool papers *note the change wrt. the previous CAV*
+
+Submission of an artifact is **mandatory** for tool papers. A tool paper will only be accepted if it passes both the regular paper review process and the AE process. An exemption from the mandatory AE requirement may be granted in exceptional cases, but must be explicitly applied for by the authors at submission time, stating the reasons why an artifact cannot be provided. The exemption is at the discretion of the PC chairs and AE chairs.
+
+## REGULAR PAPERS
+
+Regular papers should contain original research and sufficient detail to assess the merits and relevance of the contribution. Papers will be evaluated on the basis of a combination of correctness, technical depth, significance, novelty, clarity, and transparency.
+
+Regular papers are subject to a double-blind review process, which means that author names and affiliations must be omitted from the submission. Additionally, if a submission refers to prior work done by the authors, the reference should be made in the third person. These are firm submission requirements, and any submission that does not conform to these requirements will be rejected without review.
+
+Authors may put their submission on arXiv, but we strongly encourage authors not to put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, as potential reviewers may be subscribed to receive updates on recently posted papers.
+
+## TOOL PAPERS
+
+*Please note that the criteria and requirements for tool papers have changed this year.*
+
+Tool papers should describe a novel, or a new version of a software tool, that is of wide interest and usefulness to the CAV community. Tool papers do not have to include novel research. The expectation is that the correctness and utility of the tool is backed up by citation(s) to refereed original work. Reports of significant impact, applications of tools, or significant tool updates since their original publication are strongly encouraged. Reports about tools in an industrial setting are strongly encouraged. We welcome tool papers with a solid validation.
+
+A tool paper should clearly describe the importance of the tool and the problem it is solving, brief related work, any distinctive features, and (if possible) an empirical evaluation, comparing with other work as appropriate. The paper should describe the relevant features in sufficient detail to enable their integration or reuse in other tools.
+
+Tool papers have the same page limit as regular papers (18 pages max at submission, up to 20 pages camera-ready) and follow a single-blind review process. They do NOT need to be anonymized.
+
+**Artifact evaluation is mandatory for this category**: acceptance requires passing both the paper review process and the AE process. Authors unable to submit an artifact must apply for an exemption at submission time.
+
+## APPLICATION/INDUSTRIAL EXPERIENCE/CASE STUDY PAPERS
+
+This category covers both practical applications of algorithms or previously published theoretical results, and reports on the use of formal verification techniques in industrial settings or application domains. Papers do not necessarily need to present original research results but are expected to contain a novel application, extension, or transfer of formal methods techniques, together with an evaluation of these techniques in the chosen setting. Reports of significant impact since a technique's original publication are strongly encouraged, as are papers discussing the unique challenges of transferring research ideas to a real-world setting and reflecting on lessons learned from the technology transfer experience.
+
+Papers in this category should clearly describe the importance of the problem being addressed, brief related work, any distinctive features, and, where applicable, an empirical evaluation comparing with other work. Artifacts for papers in this category are encouraged, but not mandatory.
+
+Papers in this category follow a single-blind review process. They do NOT need to be anonymized.
+
+## CONTACT
+
+For questions please contact the PC chairs by sending an e-mail to: Cav2027@lists.utwente.nl
+
+Marieke Huisman, University of Twente
+Joost-Pieter Katoen, RWTH Aachen University & University of Twente

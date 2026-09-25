@@ -12,18 +12,23 @@ city = "Zagreb, Croatia"
 tz = "AoE"
 format = "18 pages LNCS + ref + appendix (regular) / 10 pages LNCS + ref + appendix (tool/industry)"
 paper = [2025-01-31]
+extensions = false
 rebuttal_start = 2025-03-11
 rebuttal_end = 2025-03-14
 notification = [2025-04-02]
-
-[proceedings]
-publisher = "Springer LNCS"
-license = "cc-by"
 
 [review]
 blind = "double"
 artifact = "Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions."
 
+[proceedings]
+publisher = "Springer LNCS"
+license = "cc-by"
+doi = "10.1007/978-3-031-98679-6"
+
+[stats]
+submitted = 305
+accepted = 79 # NOTE We accepted 24 tool papers, 4 case-study papers, and 51 regular papers
 
 [extra]
 journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

@@ -12,14 +12,24 @@ online = true
 tz = "AoE"
 format = "20 pages LNCS + ref + appendix (regular) / 10 pages LNCS + ref + appendix (tool)"
 paper = [2021-01-28]
+rebuttal_start = 2021-03-29
+rebuttal_end = 2021-03-31
 notification = [2021-04-19]
+
+[review]
+blind = "double"
+artifact = "Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions."
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "cc-by"
 
+[stats]
+submitted = 290
+accepted = 79 # NOTE: (60+16+3)/290 (27%)
+
 [extra]
-notes = "Deadlines are AoE. WARNING: Double-blind submissions. Open access since 2018. Rebuttal phase (March 29-31, 2021). Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
 
 [[cfp]]
 file = "cfp/CAV-2021.txt"

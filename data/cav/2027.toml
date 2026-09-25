@@ -1,0 +1,40 @@
+edition = 39
+title = "39th International Conference on Computer Aided Verification"
+# url = "https://conferences.i-cav.org/2027/" # TODO
+
+[event]
+start = 2027-07-19
+end = 2027-07-23
+city = "Amsterdam, The Netherlands"
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + ref + appendix (regular/tool) / 10 pages LNCS + ref + appendix (Application Papers/Industrial Experience Reports/Case Studies)"
+paper = [2027-01-20]
+extensions = false
+rebuttal_start = 2027-04-05
+rebuttal_end = 2027-04-08
+notification = [2027-04-23]
+
+[review]
+blind = "double"
+artifact = "Submission of an artifact is mandatory for tool papers, and optional for other categories."
+# award = "The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification." # TODO
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "cc-by"
+# doi = "10.1007/978-3-032-32519-8"
+
+# TODO
+# [review.gender.chairs]
+# women = 1
+# men = 2
+#
+# [review.gender.speakers]
+# women = 1
+# men = 1
+
+[extra]
+journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+notes = "Early rejection notification: 4th March 2027. The number of submissions per author is limited to 5."

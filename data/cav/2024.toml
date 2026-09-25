@@ -12,14 +12,21 @@ city = "Montreal, Québec, Canada"
 tz = "AoE"
 format = "18 pages LNCS + ref + appendix (regular) / 10 pages LNCS + ref + appendix (tool/industry)"
 paper = [2024-01-19, 2024-01-26]
+rebuttal_start = 2024-02-29
+rebuttal_end = 2024-03-03
 notification = [2024-03-26]
+
+[review]
+blind = "double"
+artifact = "Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions."
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "cc-by"
 
 [extra]
-notes = "Firm deadline but one week to edit papers. Double-blind submissions. Open access since 2018. Rebuttal period (29 Feb-3 March 2024). Tool papers require a concurrent artifact submission together with the paper submission. Artifact evaluation occurs concurrently with the review process and the PC gets access to the artifact evaluation during the PC discussions. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
+notes = "Firm deadline but one week to edit papers."
+journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."
 
 [[cfp]]
 file = "cfp/CAV-2024.txt"
