@@ -1,0 +1,122 @@
+ **CALL  FOR  PAPERS**
+
+15th International Conference on Formal Methods in Software Engineering (FormaliSE 2027)
+https://2027.formalise.org/
+
+26–27 April 2027
+Dublin, Ireland
+
+*Co-located with ICSE 2027*
+
+SUBMISSION LINK: https://formalise27.hotcrp.com/u/0/
+
+FormaliSE brings together the formal methods and software engineering communities to exchange ideas, experiences, techniques, and results, with the goal of fostering the development and application of formal methods that are both practically useful and capable of supporting high-quality software engineering.
+
+
+**Topics of interest:**
+We welcome contributions on all aspects of formal methods and software engineering, including, but not limited to:
+ - requirements formalization and formal specification;
+ - verification and validation approaches, methods, and tools;
+ - integration of formal methods into the software development lifecycle;
+ - model-based engineering;
+ - formal methods for AI-based systems (FM4AI) and AI applied to formal methods (AI4FM);
+ - synergies between LLMs/Agentic AI and formal methods;
+ - correctness-by-construction approaches;
+ - formal methods for safety, security, certification, and non-functional properties;
+ - scalability and practical application of formal methods;
+ - case studies, experience reports, guidelines, and usability of formal methods.
+
+
+**Submission categories:**
+FormaliSE 2027 welcomes the following categories of contributions:
+ - *Full Research Papers* (10 pages + 2 pages of references): describing original research work and results.
+ - *Experience Report Papers* (10 pages + 2 pages of references): discussing a significant application that suggests general lessons learned and motivates further research, or empirically validates theoretical results
+ - *Research Ideas Papers* (4 pages + 1 page of references): describing new ideas in preliminary form with an early evaluation and including a plan for future studies
+ - *Vision Papers* (5 pages + 1 page of references): outlining mid- and long-term visions or roadmaps on a (potentially controversial) topic relevant to the conference.
+ - *Tool Demo Papers* (4 pages including references): describing novel tools, outlining usage scenarios, including main screenshots, and a link to the tool or a video demo.
+ - *Posters* (2 pages including references): describing work in progress.
+
+
+Submissions must follow the IEEE conference proceedings format.
+
+All papers submitted to the FormaliSE 2027 conference must be written in English, double-blind, must be unpublished original work, and must not be under review or submitted elsewhere at the time of submission.
+
+The official publication date is the date the proceedings are made available in the ACM or IEEE Digital Libraries. This date may be up to two weeks prior to the first day of ICSE 2027. The official publication date affects the deadline for any patent filings related to published work.
+
+Purchases of additional pages in the proceedings is not allowed.
+
+**Artifact Evaluation:**
+FormaliSE 2027 continues its Artifact Evaluation (AE) process to promote reproducibility, transparency, and reuse of research results. Authors are encouraged to submit supporting artifacts such as software, datasets, models, proofs, or other materials that substantiate the claims made in their papers.
+
+Artifact submission is optional, but strongly encouraged whenever applicable. Artifacts will be evaluated separately with respect to their consistency, completeness, documentation, and ease of use. Successfully evaluated artifacts will be awarded the EAPLS Artifact Badges that apply (among “Functional”, “Reusable”, and “Available”)
+
+**Important Dates (AoE):**
+ - 30 October 2026 – Abstract submission
+ - 6 November 2026 – Paper submission
+ - 10 November 2026 – Artifact submission
+ - 11 January 2027 – Paper notification
+ - 15 January 2027 – Artifact notification
+ - 29 January 2027 – Camera-ready submission
+
+
+**Program Committee Chairs**
+Alessio Ferrari, Trinity College Dublin, Ireland and CNR, Italy
+Alexandra Mendes, Faculty of Engineering, University of Porto, Portugal
+
+**General Chairs**
+Stefania Gnesi, Consiglio Nazionale delle Ricerche (CNR), Italy
+Nico Plat, The Netherlands
+
+**Program Committee**
+Alessandro Cimatti, Fondazione Bruno Kessler, Italy
+Allison Sullivan, The University of Texas at Arlington, USA
+Anastasia Mavridou, KBR Inc. / NASA Ames Research Center, USA
+Arnd Hartmanns, University of Twente, Netherlands
+Camilo Rocha, Pontificia Universidad Javeriana, Colombia
+Carla Ferreira, NOVA University Lisbon, Portugal
+Carlo A. Furia, USI Università della Svizzera italiana, Switzerland
+Carlos Gustavo Lopez Pombo, Consejo Nacional de Investigaciones Científicas y Técnicas, Argentina
+Claudio Menghi, University of Bergamo, Italy & McMaster University, Canada
+Cristina Seceleanu, Mälardalen University, Sweden
+Dominique Méry, Université de Lorraine and LORIA, France
+Emily First, Rutgers University, New Brunswick, USA
+Ernst Moritz, University of Twente, Netherlands
+Federico Mora, University of Waterloo, Canada
+Graeme Smith, The University of Queensland, Australia
+Gustavo Betarte, Universidad de la República, Uruguay
+Gwen Salaün, University Grenoble Alpes, LIG, Inria, France
+HeikeWehrheim, Carl von Ossietzky Universität Oldenburg, Germany
+Hernán Melgratti, Universidad de Buenos Aires, Argentina
+Hugo A. López, Technical University of Denmark, Denmark
+Kenneth Johnson, Auckland University of Technology, New Zealand
+Kyungmin Bae, Pohang University of Science and Technology (POSTECH), South Korea
+Laura Semini, Dipartimento di Informatica, Università di Pisa, Italy
+Logan Murphy, University of Toronto, Canada
+Luigia Petre, Åbo Akademi University, Finland
+Luís Soares Barbosa, Universidade do Minho and INESC TEC, Portugal
+Marie-Christine Jakobs, LMU Munich, Germany
+Marjan Sirjani, Mälardalen University, Sweden
+Marsha Chechik, University of Toronto, Canada
+Matteo Rossi, Politecnico di Milano, Italy
+Maurice H. ter Beek, CNR-ISTI, Pisa, Italy
+Michael Whalen, Amazon Web Services, Inc. and the University of Minnesota, USA
+Mohammad Reza Mousavi,King's College London, UK
+Nancy Day, University of Waterloo, Canada
+Nianyu Li, ZGC Lab, China
+Oana Andrei, University of Glasgow, UK
+Quentin Nivon, Independent Researcher
+Rosemary Monahan, Maynooth University, Ireland
+Shahar Maoz, Tel Aviv University, Israel
+Silvia Bonfanti, University of Bergamo, Italy
+Silvia Lizeth Tapia Tarifa, University of Oslo, Norway
+Simão Melo de Sousa, Universidade do Algarve, NOVA-LINCS, Portugal
+Simon Bliudze, Centre Inria de l'Université de Lille, France
+Simon Foster, University of York, UK
+Stefan Zetzsche, Amazon Web Services, UK
+Taylor Johnson, Vanderbilt University, USA
+Timothy Bourke, Inria/ENS, France
+Tiziana Margaria,University of Limerick, Ireland
+ToshiakiAoki, JAIST, Japan
+Wolfgang Ahrendt, Chalmers University of Technology, Sweden
+Yasmeen Rafiq, University of Manchester, UK
+Zhenya Zhang, Kyushu University, Japan
