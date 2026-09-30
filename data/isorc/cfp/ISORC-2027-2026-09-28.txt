@@ -1,0 +1,164 @@
+30th IEEE ISORC 2027 Call for Papers IIT Ropar, Punjab, India April  07-09.
+2027. https://isorc-conference.org/
+We are pleased to announce the 30th IEEE International Symposium on
+Real-Time Distributed Computing (IEEE ISORC 2027), to be held at the Indian
+Institute of Technology Ropar (IIT Ropar), Punjab, India, in March 2027.
+Exact conference dates will be announced soon.
+
+About IEEE ISORC
+IEEE ISORC was established in 1998 to advance research in real-time
+distributed computing. For nearly three decades, ISORC has provided an
+intimate forum for researchers and practitioners to address fundamental and
+emerging challenges in timing, predictability, determinism, and
+dependability in modern computing systems.
+Today, real-time constraints extend well beyond traditional embedded
+systems and play a central role in autonomous vehicles, edge AI, medical
+devices, industrial control systems, robotics, and next-generation
+communications infrastructure. IEEE ISORC 2027 welcomes high-quality
+research that places real-time constraints, timing analysis, determinism,
+dependability, or embedded-system concerns at the center of the
+contribution.
+AI/ML, IoT, distributed systems, and autonomous computing topics are
+welcome when they are grounded in explicit real-time, timing,
+predictability, or embedded-system requirements.
+IEEE ISORC 2027 marks the symposium’s 30th anniversary and its first
+edition in India, hosted by IIT Ropar. Consistent with the ISORC tradition,
+the technical program will maintain a single-track format, providing
+participants with opportunities to engage with the complete technical
+program, exchange ideas, and interact with researchers from the real-time
+and distributed computing community.
+
+Topics of Interest
+IEEE ISORC 2027 invites original research papers and practitioner
+contributions in all areas of real-time distributed computing, including,
+but not limited to:
+1. Real-Time and Embedded System Architectures
+• Hardware/software co-design
+• Real-time operating systems and hypervisors
+• Time-predictable processors and memory systems
+• Microcontroller and SoC platforms
+• Multicore and heterogeneous embedded architectures
+2. AI/ML on the Edge
+• TinyML scheduling and real-time inference
+• Neural network inference and WCET analysis
+• LLM inference on constrained hardware
+• Real-time-aware model compression
+• Edge AI hardware, including NPUs and GPUs
+• Deterministic and predictable AI/ML execution
+3. Medical IoT and Healthcare Embedded Systems
+• Real-time sensor fusion in medical devices
+• Closed-loop control systems
+• Wearable and implantable systems
+• Real-time constraints in medical IoT
+• Real-time telemedicine
+• Timing requirements in safety-critical healthcare systems
+4. Autonomous and Safety-Critical Systems
+• Autonomous vehicles and UAVs
+• Real-time perception and decision-making
+• Real-time robotics
+• Safety-critical software systems
+• ISO 26262 and DO-178C timing considerations
+• Predictable execution in autonomous systems
+5. Real-Time Communications and Networking
+• 5G/6G Ultra-Reliable Low-Latency Communications (URLLC)
+• Time-Sensitive Networking (TSN)
+• Deterministic networking
+• V2X and C-V2X communications
+• Real-time communication protocols
+• Quality-of-Service and latency guarantees
+6. Distributed Real-Time Computing Infrastructures
+• Real-time cloud, edge, and fog computing
+• Real-time containerization and orchestration
+• Distributed real-time middleware
+• Digital twins and real-time data pipelines
+• Real-time resource allocation across distributed infrastructures
+7. Scheduling, Resource Management, and Timing Analysis
+• Static and dynamic scheduling
+• Worst-Case Execution Time (WCET) analysis
+• Mixed-criticality systems
+• Real-time task models
+• Energy-aware real-time scheduling
+• Timing predictability and analysis
+• Resource management for heterogeneous systems
+8. Dependability, Fault Tolerance, and Resilience
+• Fault detection and recovery in real-time systems
+• Redundancy and failover mechanisms
+• Formal verification
+• Real-time DevOps and CI/CD
+• Cybersecurity for real-time embedded systems
+• Resilient distributed real-time systems
+9. Real-Time AI Certification and Formal Verification
+• Timing verification of ML components
+• Formal methods for neural network safety
+• Verification of AI-enabled real-time systems
+• Certification workflows for real-time AI
+• Safety assurance for AI in critical systems
+10. Sustainable and Green Real-Time Computing
+• Energy-aware real-time scheduling
+• Dynamic Voltage and Frequency Scaling (DVFS)
+• Power-constrained embedded systems
+• Energy-efficient real-time architectures
+• Carbon-aware real-time infrastructure
+• Sustainable edge and embedded computing
+11. Industry 4.0, Smart Manufacturing, and Cyber-Physical Systems
+• Real-time industrial control
+• Cyber-physical systems
+• Industrial IoT
+• Real-time SCADA systems
+• Digital factories
+• Smart manufacturing systems
+12. Operating Systems, Middleware, and System Software
+• Real-time kernels and operating systems
+• Linux RT, Zephyr, and FreeRTOS
+• Real-time operating systems for multicore platforms
+• DDS and ROS 2
+• Distributed real-time middleware
+• Real-time hypervisors
+13. Real-Time Analytics and Stream Processing
+• Complex event processing
+• Real-time time-series analysis
+• Online machine learning with latency constraints
+• Real-time stream processing
+• Stream correlation and event detection
+• Low-latency distributed analytics
+14. Case Studies and Industrial Applications
+• Real-world deployment studies
+• Industrial experiences
+• Real-time system implementations
+• Application and tool development
+• Empirical evaluations of real-time distributed systems
+
+Paper Submission
+
+All full-length papers should be prepared using the standard IEEE
+double-column conference format. Submissions will undergo peer review and
+will be evaluated based on factors including originality, technical
+quality, significance, methodological rigor, clarity of presentation, and
+relevance to the scope of IEEE ISORC.
+Submission details and the online submission system will be announced on
+the conference website.
+
+Important Dates
+Call for Papers Released: September 16 2026 Paper Submission Deadline:15
+October 2026 Acceptance Notification: December 1, 2026 Author Registration
+Deadline: January 2027 Camera-Ready Papers Due: January 2027 Conference
+Dates:  April  07-09.   2027, IIT Ropar, India
+
+Venue and Format
+IEEE ISORC 2027 will be held at the Indian Institute of Technology Ropar
+(IIT Ropar), Punjab, India, marking the symposium’s first edition in India.
+In keeping with the ISORC tradition, the technical program will follow a
+single-track format, allowing participants to attend the complete technical
+program. The symposium will also include dedicated opportunities for
+networking and cultural engagement reflecting the host region.
+
+For further information, please visit:
+https://isorc-conference.org/
+
+We look forward to welcoming researchers, practitioners, and students to
+IIT Ropar for IEEE ISORC 2027.
+
+--
+----
+Dr. Nitin Auluck / डॉ. नितिन औलक
+Professor / प्राध्यापक

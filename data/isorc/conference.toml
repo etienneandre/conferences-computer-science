@@ -5,11 +5,10 @@ name = "IEEE International Symposium on Real-Time Distributed Computing"
 
 [core]
 id = "703"
-rank = "C"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "C"
 
 [links]
 dblp = "isorc"
-
-[legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-extensions = "7+5 days (2018), 10 days (2019), 21 days (2023), 21+7 days (2024), 18+7 days (2025), 29 days (2026)"  # from ISORC 2026

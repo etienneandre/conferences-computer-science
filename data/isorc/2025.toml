@@ -17,9 +17,17 @@ notification = [2025-03-05]
 [proceedings]
 publisher = "IEEE"
 license = "pay"
+doi = "10.1109/ISORC65339.2025"
+
+[review]
+award = "Best Paper and Student Paper Awards will be delivered during the conference"
+
+[stats]
+submitted = 82
+accepted = 24
 
 [extra]
-notes = "Best Paper and Student Paper Awards will be delivered during the conference. Authors of selected papers from ISORC 2025 will be invited to submit an extended version of their work for the Special Issue on AI-Driven Real-Time Distributed Computing for the Edge-Cloud Continuum review and possible publication in the Elsevier Journal of Systems Architecture: Embedded Software Design (JSA)."
+journal = "Authors of selected papers from ISORC 2025 will be invited to submit an extended version of their work for the Special Issue on AI-Driven Real-Time Distributed Computing for the Edge-Cloud Continuum review and possible publication in the Elsevier Journal of Systems Architecture: Embedded Software Design (JSA)."
 
 [[cfp]]
 file = "cfp/ISORC-2025.txt"

@@ -7,18 +7,18 @@ url = "https://isorc.github.io/2020/"
 start = 2020-05-19
 end = 2020-05-21
 city = "Nashville, Tennessee, USA"
+online = true
 
 [submission]
 format = "8 pages IEEE (regular / industrial / practitioner) / 4 pages IEEE (short research)"
-paper = [2020-01-17]
+paper = [2020-01-17, 2020-01-31]
+rebuttal_start = 2020-03-09
+rebuttal_end = 2020-03-11
 notification = [2020-03-20]
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
-
-[extra]
-notes = "Rebuttal period: March 9-11, 2020"
 
 [[cfp]]
 file = "cfp/ISORC-2020.txt"

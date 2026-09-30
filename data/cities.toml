@@ -17,6 +17,12 @@ lon = 2.3522
 continent = "EU"
 # 43 edition(s)
 
+["Rupnagar, India"]
+country = "IN"
+display = "Rupnagar"
+lat = 30.9658
+lon = 76.5335
+continent = "AS"
 
 ["Gwangju, South Korea"]
 country = "KR"
@@ -24,7 +30,6 @@ display = "Gwangju"
 lat = 35.1693
 lon = 126.9168
 continent = "AS"
-
 
 ["Toulouse, France"]
 country = "FR"

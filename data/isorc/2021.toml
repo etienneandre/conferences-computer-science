@@ -12,14 +12,13 @@ online = true
 tz = "AoE"
 format = "8 pages IEEE (regular / industrial / practitioner) / 4 pages IEEE (short research)"
 paper = [2021-01-15, 2021-01-25, 2021-02-05]
+rebuttal_start = 2021-03-29
+rebuttal_end = 2021-03-31
 notification = [2021-03-29, 2021-04-09]
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
-
-[extra]
-notes = "Rebuttal period: 29-31 March 2021"
 
 [[cfp]]
 file = "cfp/ISORC-2021.txt"

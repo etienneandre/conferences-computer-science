@@ -12,14 +12,19 @@ city = "Västerås, Sweden"
 tz = "AoE"
 format = "8 pages IEEE (regular / industrial / practitioner) / 4 pages IEEE (short research)"
 paper = [2022-01-23, 2022-02-12]
+rebuttal_start = 2022-03-23
+rebuttal_end = 2022-03-25
 notification = [2022-04-04]
+
+[review]
+blind = "double"
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
 
 [extra]
-notes = "Double blind. Rebuttal period: 23-25 March 2022. Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing."
+journal = "Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing."
 
 [[cfp]]
 file = "cfp/ISORC-2022.pdf"

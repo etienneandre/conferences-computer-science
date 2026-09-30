@@ -17,9 +17,13 @@ notification = [2024-03-05]
 [proceedings]
 publisher = "IEEE"
 license = "pay"
+doi = "10.1109/ISORC61049.2024"
+
+[review]
+blind = "double"
 
 [extra]
-notes = "Double blind (?). Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing."
+journal = "Ten best selected papers based on the review process will be invited to submit extended versions to the special issue of the Journal of Systems Architecture (JSA) on Real-Time Distributed Computing."
 
 [[cfp]]
 file = "cfp/ISORC-2024.txt"
