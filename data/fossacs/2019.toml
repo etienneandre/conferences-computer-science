@@ -6,7 +6,7 @@ url = "https://conf.researchr.org/track/etaps-2019/fossacs-2019-papers"
 [event]
 start = 2019-04-08
 end = 2019-04-11
-city = "Prag, Czech Republic"
+city = "Prague, Czech Republic"
 colocated_with = ["fase/2019", "post/2019", "tacas/2019"]
 
 [submission]

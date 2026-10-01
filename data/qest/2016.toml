@@ -6,7 +6,7 @@ url = "http://www.qest.org/qest2016/"
 [event]
 start = 2016-08-23
 end = 2016-08-25
-city = "Québec City, Canada"
+city = "Québec City, Québec, Canada"
 
 [submission]
 format = "16 pages LNCS (Theoretical / Methodological and technical / Application / Tools); 4 pages LNCS (Tool demonstration)"
@@ -19,4 +19,5 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Co-located with CONCUR 2016. Accepted tool descriptions will appear in the conference proceedings. Selected papers will appear in a special issue of a journal."
+notes = "Co-located with CONCUR 2016. Accepted tool descriptions will appear in the conference proceedings."
+journal = "Selected papers will appear in a special issue of a journal."

@@ -6,7 +6,8 @@ url = "https://dlt2021.dcc.fc.up.pt/"
 [event]
 start = 2021-08-16
 end = 2021-08-20
-city = "Porto, Portugal (hybrid?)"
+city = "Porto, Portugal"
+hybrid = true
 
 [submission]
 format = "12 pages LNCS"
@@ -18,4 +19,4 @@ publisher = "LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Selected papers will appear in a special issue of the International Journal of Foundations of Computer Science."
+journal = "Selected papers will appear in a special issue of the International Journal of Foundations of Computer Science."

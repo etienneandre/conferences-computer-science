@@ -452,6 +452,13 @@ lat = 35.2271
 lon = -80.8431
 continent = "NA"
 
+["Chasseneuil-du-Poitou, France"]
+country = "FR"
+display = "Chasseneuil-du-Poitou"
+lat = 46.6513
+lon = 0.3735
+continent = "EU"
+
 ["Chengdu, China"]
 country = "CN"
 display = "Chengdu"

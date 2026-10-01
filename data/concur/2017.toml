@@ -6,7 +6,7 @@ url = "http://www.concur2016.ulaval.ca"
 [event]
 start = 2016-08-23
 end = 2016-08-26
-city = "Québec City, Québec"
+city = "Québec City, Québec, Canada"
 
 [submission]
 format = "13 pages LIPIcs (+ appendix)"

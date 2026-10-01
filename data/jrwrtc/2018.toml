@@ -6,7 +6,8 @@ url = "https://rtns2018.ensma.fr/workshop.html"
 [event]
 start = 2018-10-10
 end = 2018-10-12
-city = "Poitiers/Futuroscope, France"
+city = "Chasseneuil-du-Poitou, France"
+venue = "Futuroscope"
 
 [submission]
 format = "4 pages IEEE"

@@ -6,7 +6,7 @@ url = "https://lipn.univ-paris13.fr/fvsbs19/"
 [event]
 start = 2019-06-12
 end = 2019-06-14
-city = "Napoly, Italy"
+city = "Naples, Italy"
 
 [submission]
 format = "6 pages IEEE (full) / 4 pages IEEE (short)"
@@ -17,7 +17,7 @@ notification = [2019-03-15, 2019-03-20, 2019-03-22]
 publisher = "?"
 
 [extra]
-notes = "Conference Track @ IEEE WETICE 2019."
+colocated = "Conference Track @ IEEE WETICE 2019."
 
 [[cfp]]
 file = "cfp/FVSBS-2019.txt"
