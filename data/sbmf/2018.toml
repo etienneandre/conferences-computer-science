@@ -6,7 +6,7 @@ url = "http://www.sbmf2018.ufba.br/"
 [event]
 start = 2018-11-26
 end = 2018-11-30
-city = "Salvador-BA, Brazil"
+city = "Salvador de Bahia, Brazil"
 
 [submission]
 format = "16 pages LNCS"

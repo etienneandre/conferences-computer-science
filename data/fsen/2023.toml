@@ -6,7 +6,8 @@ url = "http://fsen.ir/2023"
 [event]
 start = 2023-05-03
 end = 2023-05-05
-city = "Hybrid (Tehran, Iran)"
+city = "Tehran, Iran"
+hybrid = true
 
 [submission]
 tz = "AoE"

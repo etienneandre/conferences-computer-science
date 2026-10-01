@@ -6,7 +6,9 @@ url = "https://gandalf2021.math.unipd.it/"
 [event]
 start = 2021-09-20
 end = 2021-09-22
-city = "Padua, Italy (hybrid?)"
+city = "Padua, Italy"
+# NOTE: check whether hybrid or virtual
+hybrid = true
 
 [submission]
 tz = "AoE"

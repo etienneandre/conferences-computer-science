@@ -6,7 +6,7 @@ url = "http://www.fsttcs.org/"
 [event]
 start = 2014-12-15
 end = 2014-12-17
-city = "New Dehli, India"
+city = "New Delhi, India"
 
 [submission]
 format = "12 pages in LIPIcs"

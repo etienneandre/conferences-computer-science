@@ -6,7 +6,7 @@ url = "https://2025.splc.net/"
 [event]
 start = 2025-09-01
 end = 2025-09-05
-city = "Coruña, Spain"
+city = "A Coruña, Spain"
 
 [submission]
 format = "10 pages ACM + 2 pages references (full) / 5+2 pages (short)"

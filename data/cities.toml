@@ -86,6 +86,7 @@ continent = "EU"
 country = "BE"
 display = "Antwerp"
 native = "Antwerpen"
+native_lang = "nl"
 lat = 51.2194
 lon = 4.4025
 continent = "EU"
@@ -124,9 +125,11 @@ lon = -8.6538
 continent = "EU"
 # 2 edition(s)
 
-["Awassa, Ethiopia"]
+["Hawassa, Ethiopia"]
 country = "ET"
-display = "Awassa"
+display = "Hawassa"
+native = "ሀዋሳ"
+native_lang = "am"
 lat = 7.0621
 lon = 38.4764
 continent = "AF"
@@ -135,6 +138,8 @@ continent = "AF"
 ["Baku, Azerbaijan"]
 country = "AZ"
 display = "Baku"
+native = "Bakı"
+native_lang = "az"
 lat = 40.4093
 lon = 49.8671
 continent = "AS"
@@ -150,6 +155,8 @@ continent = "NA"
 ["Bangalore, India"]
 country = "IN"
 display = "Bangalore"
+native = "ಬೆಂಗಳೂರು"
+native_lang = "kn"
 lat = 12.9716
 lon = 77.5946
 continent = "AS"
@@ -157,7 +164,9 @@ continent = "AS"
 
 ["Bangkok, Thailand"]
 country = "TH"
-display = "Bangkok - Thailand"
+display = "Bangkok"
+native = "กรุงเทพมหานคร"
+native_lang = "th"
 lat = 13.7563
 lon = 100.5018
 continent = "AS"
@@ -166,6 +175,8 @@ continent = "AS"
 ["Bar-Ilan, Israel"]
 country = "IL"
 display = "Bar-Ilan"
+native = "בר-אילן"
+native_lang = "he"
 lat = 32.07
 lon = 34.8433
 continent = "AS"
@@ -182,6 +193,8 @@ continent = "EU"
 ["Bariloche, Argentina"]
 country = "AR"
 display = "Bariloche"
+native = "San Carlos de Bariloche"
+native_lang = "es"
 lat = -41.1335
 lon = -71.3103
 continent = "SA"
@@ -199,6 +212,8 @@ continent = "AS"
 ["Bejaïa, Algeria"]
 country = "DZ"
 display = "Bejaïa"
+native = "بجاية"
+native_lang = "ar"
 lat = 36.7509
 lon = 5.0567
 continent = "AF"
@@ -207,6 +222,8 @@ continent = "AF"
 ["Bengaluru, India"]
 country = "IN"
 display = "Bengaluru"
+native = "ಬೆಂಗಳೂರು"
+native_lang = "kn"
 lat = 12.9716
 lon = 77.5946
 continent = "AS"
@@ -285,7 +302,7 @@ continent = "NA"
 
 ["Bozen-Bolzano, Italy"]
 country = "IT"
-display = "Bozen-Bolzano"
+display = "Bolzano"
 lat = 46.4983
 lon = 11.3548
 continent = "EU"
@@ -368,6 +385,7 @@ continent = "EU"
 country = "BE"
 display = "Brussels"
 native = "Bruxelles"
+native_lang = "fr"
 lat = 50.8476
 lon = 4.3572
 continent = "EU"
@@ -376,6 +394,7 @@ continent = "EU"
 country = "RO"
 display = "Bucharest"
 native = "București"
+native_lang = "ro"
 lat = 44.4268
 lon = 26.1025
 continent = "EU"
@@ -424,8 +443,10 @@ continent = "SA"
 ["Carthage, Tunisia"]
 country = "TN"
 display = "Carthage"
-lat = 36.8065
-lon = 10.1815
+native = "قرطاج"
+native_lang = "ar"
+lat = 36.855
+lon = 10.3306
 continent = "AF"
 # 1 edition(s)
 
@@ -446,6 +467,8 @@ continent = "EU"
 ["Changsha, China"]
 country = "CN"
 display = "Changsha"
+native = "长沙"
+native_lang = "zh-Hans"
 lat = 28.2282
 lon = 112.9388
 continent = "AS"
@@ -468,6 +491,8 @@ continent = "EU"
 ["Chengdu, China"]
 country = "CN"
 display = "Chengdu"
+native = "成都"
+native_lang = "zh-Hans"
 lat = 30.5728
 lon = 104.0668
 continent = "AS"
@@ -476,6 +501,8 @@ continent = "AS"
 ["Chennai, India"]
 country = "IN"
 display = "Chennai"
+native = "சென்னை"
+native_lang = "ta"
 lat = 13.0827
 lon = 80.2707
 continent = "AS"
@@ -484,6 +511,8 @@ continent = "AS"
 ["Chiba, Japan"]
 country = "JP"
 display = "Chiba"
+native = "千葉"
+native_lang = "ja"
 lat = 35.6074
 lon = 140.1065
 continent = "AS"
@@ -500,6 +529,8 @@ continent = "NA"
 ["Chongqing, China"]
 country = "CN"
 display = "Chongqing"
+native = "重庆"
+native_lang = "zh-Hans"
 lat = 29.563
 lon = 106.5516
 continent = "AS"
@@ -541,6 +572,7 @@ continent = "EU"
 country = "DZ"
 display = "Constantine"
 native = "قسنطينة"
+native_lang = "ar"
 lat = 36.365
 lon = 6.6147
 continent = "AF"
@@ -550,6 +582,7 @@ continent = "AF"
 country = "DK"
 display = "Copenhagen"
 native = "København"
+native_lang = "da"
 lat = 55.6761
 lon = 12.5683
 continent = "EU"
@@ -558,6 +591,8 @@ continent = "EU"
 ["Corfu, Greece"]
 country = "GR"
 display = "Corfu"
+native = "Κέρκυρα"
+native_lang = "el"
 lat = 39.6243
 lon = 19.9217
 continent = "EU"
@@ -566,14 +601,16 @@ continent = "EU"
 ["Cork, Ireland"]
 country = "IE"
 display = "Cork"
+native = "Corcaigh"
+native_lang = "ga"
 lat = 51.8985
 lon = -8.4756
 continent = "EU"
 # 1 edition(s)
 
-["Coruña, Spain"]
+["A Coruña, Spain"]
 country = "ES"
-display = "Coruña"
+display = "A Coruña"
 lat = 43.3623
 lon = -8.4115
 continent = "EU"
@@ -582,6 +619,8 @@ continent = "EU"
 ["Crete, Greece"]
 country = "GR"
 display = "Crete"
+native = "Κρήτη"
+native_lang = "el"
 lat = 35.2401
 lon = 24.8093
 continent = "EU"
@@ -599,6 +638,8 @@ continent = "AS"
 ["Daegu, Korea"]
 country = "KR"
 display = "Daegu"
+native = "대구"
+native_lang = "ko"
 lat = 35.8714
 lon = 128.6014
 continent = "AS"
@@ -607,6 +648,8 @@ continent = "AS"
 ["Daejeon, South Korea"]
 country = "KR"
 display = "Daejeon"
+native = "대전"
+native_lang = "ko"
 lat = 36.3504
 lon = 127.3845
 continent = "AS"
@@ -640,6 +683,7 @@ continent = "NA"
 country = "FR"
 display = "Dinard, Bretagne"
 native = "Dinarzh"
+native_lang = "br"
 lat = 48.6325
 lon = -2.0617
 continent = "EU"
@@ -647,6 +691,8 @@ continent = "EU"
 ["Djerba, Tunisia"]
 country = "TN"
 display = "Djerba"
+native = "جربة"
+native_lang = "ar"
 lat = 33.8076
 lon = 10.8451
 continent = "AF"
@@ -671,6 +717,8 @@ continent = "EU"
 ["Dubai, United Arab Emirates"]
 country = "AE"
 display = "Dubai"
+native = "دبي"
+native_lang = "ar"
 lat = 25.2048
 lon = 55.2708
 continent = "AS"
@@ -680,6 +728,7 @@ continent = "AS"
 country = "IE"
 display = "Dublin"
 native = "Baile Átha Cliath"
+native_lang = "ga"
 lat = 53.3498
 lon = -6.2603
 continent = "EU"
@@ -705,6 +754,8 @@ continent = "EU"
 country = "GB"
 subdivision = "GB-SCT"
 display = "Edinburgh"
+native = "Dùn Èideann"
+native_lang = "gd"
 lat = 55.9533
 lon = -3.1883
 continent = "EU"
@@ -762,6 +813,7 @@ continent = "EU"
 country = "IT"
 display = "Florence"
 native = "Firenze"
+native_lang = "it"
 lat = 43.7696
 lon = 11.2558
 continent = "EU"
@@ -778,6 +830,8 @@ continent = "EU"
 ["Fukuoka, Japan"]
 country = "JP"
 display = "Fukuoka"
+native = "福岡"
+native_lang = "ja"
 lat = 33.5904
 lon = 130.4017
 continent = "AS"
@@ -802,6 +856,8 @@ continent = "NA"
 ["Gangneung, South Korea"]
 country = "KR"
 display = "Gangneung"
+native = "강릉"
+native_lang = "ko"
 lat = 37.7519
 lon = 128.8761
 continent = "AS"
@@ -826,6 +882,8 @@ continent = "AS"
 ["Geneva, Switzerland"]
 country = "CH"
 display = "Geneva"
+native = "Genève"
+native_lang = "fr"
 lat = 46.2044
 lon = 6.1432
 continent = "EU"
@@ -834,6 +892,8 @@ continent = "EU"
 ["Genoa, Italy"]
 country = "IT"
 display = "Genoa"
+native = "Genova"
+native_lang = "it"
 lat = 44.4056
 lon = 8.9463
 continent = "EU"
@@ -843,6 +903,8 @@ continent = "EU"
 country = "GB"
 subdivision = "GB-SCT"
 display = "Glasgow"
+native = "Glaschu"
+native_lang = "gd"
 lat = 55.8642
 lon = -4.2518
 continent = "EU"
@@ -860,6 +922,7 @@ continent = "OC"
 country = "SE"
 display = "Gothenburg"
 native = "Göteborg"
+native_lang = "sv"
 lat = 57.7089
 lon = 11.9746
 continent = "EU"
@@ -870,6 +933,7 @@ display = "Gran Canaria"
 lat = 27.966
 lon = -15.6
 continent = "EU"
+# WARNING: an island, not a town; coordinates are its centre
 
 ["Granada, Spain"]
 country = "ES"
@@ -906,6 +970,8 @@ continent = "EU"
 ["Guangzhou, China"]
 country = "CN"
 display = "Guangzhou"
+native = "广州"
+native_lang = "zh-Hans"
 lat = 23.1291
 lon = 113.2644
 continent = "AS"
@@ -914,6 +980,8 @@ continent = "AS"
 ["Guilin, China"]
 country = "CN"
 display = "Guilin"
+native = "桂林"
+native_lang = "zh-Hans"
 lat = 25.2736
 lon = 110.29
 continent = "AS"
@@ -922,6 +990,8 @@ continent = "AS"
 ["Guiyang City, China"]
 country = "CN"
 display = "Guiyang City"
+native = "贵阳"
+native_lang = "zh-Hans"
 lat = 26.647
 lon = 106.6302
 continent = "AS"
@@ -946,8 +1016,8 @@ continent = "EU"
 ["Haifa, Israel"]
 country = "IL"
 display = "Haifa"
-native = "חֵיפָה"
-native_lang = "il"
+native = "חיפה"
+native_lang = "he"
 lat = 32.794
 lon = 34.9896
 continent = "AS"
@@ -988,6 +1058,8 @@ continent = "NA"
 ["Hammamet, Tunisia"]
 country = "TN"
 display = "Hammamet"
+native = "الحمامات"
+native_lang = "ar"
 lat = 36.4
 lon = 10.6167
 continent = "AF"
@@ -1005,6 +1077,8 @@ continent = "NA"
 ["Hangzhou, China"]
 country = "CN"
 display = "Hangzhou"
+native = "杭州"
+native_lang = "zh-Hans"
 lat = 30.2741
 lon = 120.1551
 continent = "AS"
@@ -1029,6 +1103,8 @@ continent = "EU"
 ["Heraklion, Crete, Greece"]
 country = "GR"
 display = "Heraklion"
+native = "Ηράκλειο"
+native_lang = "el"
 lat = 35.3387
 lon = 25.1442
 continent = "EU"
@@ -1037,6 +1113,8 @@ continent = "EU"
 ["Hiroshima, Japan"]
 country = "JP"
 display = "Hiroshima"
+native = "広島"
+native_lang = "ja"
 lat = 34.3853
 lon = 132.4553
 continent = "AS"
@@ -1053,6 +1131,8 @@ continent = "NA"
 ["Hokkaido, Japan"]
 country = "JP"
 display = "Hokkaido"
+native = "北海道"
+native_lang = "ja"
 lat = 43.0642
 lon = 141.3469
 continent = "AS"
@@ -1114,14 +1194,6 @@ lon = 107.5909
 continent = "AS"
 # 1 edition(s)
 
-["Hybrid (Tehran, Iran)"]
-country = "IR"
-display = "Hybrid (Tehran"
-lat = 35.6892
-lon = 51.389
-continent = "AS"
-# 1 edition(s)
-
 ["Hà Nội, Việt Nam"]
 country = "VN"
 display = "Hà Nội"
@@ -1134,6 +1206,7 @@ continent = "AS"
 country = "VN"
 display = "Hồ Chí Minh City"
 native = "Thành phố Hồ Chí Minh"
+native_lang = "vi"
 lat = 10.8231
 lon = 106.6297
 continent = "AS"
@@ -1221,6 +1294,8 @@ continent = "EU"
 ["Jaipur, India"]
 country = "IN"
 display = "Jaipur"
+native = "जयपुर"
+native_lang = "hi"
 lat = 26.9124
 lon = 75.7873
 continent = "AS"
@@ -1229,6 +1304,8 @@ continent = "AS"
 ["Jeju Island, South Korea"]
 country = "KR"
 display = "Jeju Island"
+native = "제주도"
+native_lang = "ko"
 lat = 33.4996
 lon = 126.5312
 continent = "AS"
@@ -1245,6 +1322,8 @@ continent = "EU"
 ["Jerusalem, Israel"]
 country = "IL"
 display = "Jerusalem"
+native = "ירושלים"
+native_lang = "he"
 lat = 31.7683
 lon = 35.2137
 continent = "AS"
@@ -1261,6 +1340,8 @@ continent = "EU"
 ["Kanazawa, Japan"]
 country = "JP"
 display = "Kanazawa"
+native = "金沢"
+native_lang = "ja"
 lat = 36.5613
 lon = 136.6562
 continent = "AS"
@@ -1269,6 +1350,8 @@ continent = "AS"
 ["Kanpur, India"]
 country = "IN"
 display = "Kanpur"
+native = "कानपुर"
+native_lang = "hi"
 lat = 26.4499
 lon = 80.3319
 continent = "AS"
@@ -1293,6 +1376,8 @@ continent = "NA"
 ["Kirchberg, Luxembourg"]
 country = "LU"
 display = "Kirchberg"
+native = "Kierchbierg"
+native_lang = "lb"
 lat = 49.6294
 lon = 6.1611
 continent = "EU"
@@ -1340,7 +1425,7 @@ continent = "AS"
 ["Kyōto, Japan"]
 country = "JP"
 display = "Kyoto"
-native = "京都市"
+native = "京都"
 native_lang = "ja"
 lat = 35.0116
 lon = 135.7681
@@ -1349,6 +1434,8 @@ continent = "AS"
 ["Larnaca, Cyprus"]
 country = "CY"
 display = "Larnaca"
+native = "Λάρνακα"
+native_lang = "el"
 lat = 34.9182
 lon = 33.6201
 continent = "EU"
@@ -1433,6 +1520,7 @@ continent = "EU"
 country = "PT"
 display = "Lisbon"
 native = "Lisboa"
+native_lang = "pt"
 lat = 38.7223
 lon = -9.1393
 continent = "EU"
@@ -1490,6 +1578,8 @@ continent = "EU"
 ["Luxembourg"]
 country = "LU"
 display = "Luxembourg"
+native = "Lëtzebuerg"
+native_lang = "lb"
 lat = 49.6116
 lon = 6.1319
 continent = "EU"
@@ -1529,14 +1619,16 @@ continent = "EU"
 ["Macao, China"]
 country = "MO"
 display = "Macao"
+native = "澳門"
+native_lang = "zh-Hant"
 lat = 22.1987
 lon = 113.5439
 continent = "AS"
 # 3 edition(s)
 
-["Maceio, Brazil"]
+["Maceió, Brazil"]
 country = "BR"
-display = "Maceio"
+display = "Maceió"
 lat = -9.6658
 lon = -35.7353
 continent = "SA"
@@ -1594,6 +1686,8 @@ continent = "EU"
 ["Marrakech, Morocco"]
 country = "MA"
 display = "Marrakech"
+native = "مراكش"
+native_lang = "ar"
 lat = 31.6295
 lon = -7.9811
 continent = "AF"
@@ -1626,6 +1720,8 @@ continent = "AF"
 ["Maynooth University, Ireland"]
 country = "IE"
 display = "Maynooth University"
+native = "Ollscoil Mhá Nuad"
+native_lang = "ga"
 lat = 53.3811
 lon = -6.5911
 continent = "EU"
@@ -1634,6 +1730,8 @@ continent = "EU"
 ["Maynooth, Ireland"]
 country = "IE"
 display = "Maynooth"
+native = "Maigh Nuad"
+native_lang = "ga"
 lat = 53.3811
 lon = -6.5911
 continent = "EU"
@@ -1665,9 +1763,12 @@ continent = "NA"
 ["Mexico City, Mexico"]
 country = "MX"
 display = "Mexico City"
+native = "Ciudad de México"
+native_lang = "es"
 lat = 19.4303
 lon = -99.1324
 continent = "NA"
+
 ["Miami Beach, Florida, USA"]
 country = "US"
 display = "Miami Beach"
@@ -1680,6 +1781,7 @@ continent = "NA"
 country = "IT"
 display = "Milan"
 native = "Milano"
+native_lang = "it"
 lat = 45.4642
 lon = 9.19
 continent = "EU"
@@ -1751,6 +1853,8 @@ continent = "NA"
 ["Mumbai, India"]
 country = "IN"
 display = "Mumbai"
+native = "मुंबई"
+native_lang = "mr"
 lat = 19.076
 lon = 72.8777
 continent = "AS"
@@ -1760,6 +1864,7 @@ continent = "AS"
 country = "DE"
 display = "Munich"
 native = "München"
+native_lang = "de"
 lat = 48.1351
 lon = 11.582
 continent = "EU"
@@ -1800,6 +1905,8 @@ continent = "EU"
 ["Nanjing, China"]
 country = "CN"
 display = "Nanjing"
+native = "南京"
+native_lang = "zh-Hans"
 lat = 32.0603
 lon = 118.7969
 continent = "AS"
@@ -1817,6 +1924,7 @@ continent = "EU"
 country = "IT"
 display = "Naples"
 native = "Napoli"
+native_lang = "it"
 lat = 40.8518
 lon = 14.2681
 continent = "EU"
@@ -1825,6 +1933,8 @@ continent = "EU"
 ["Nara, Japan"]
 country = "JP"
 display = "Nara"
+native = "奈良"
+native_lang = "ja"
 lat = 34.6851
 lon = 135.8048
 continent = "AS"
@@ -1854,22 +1964,14 @@ lon = 6.9293
 continent = "EU"
 # 1 edition(s)
 
-["New Dehli, India"]
-country = "IN"
-display = "New Dehli"
-lat = 28.6139
-lon = 77.209
-continent = "AS"
-# WARNING: misspelling of New Delhi
-# 1 edition(s)
-
 ["New Delhi, India"]
 country = "IN"
 display = "New Delhi"
+native = "नई दिल्ली"
+native_lang = "hi"
 lat = 28.6139
 lon = 77.209
 continent = "AS"
-# 1 edition(s)
 
 ["New Haven, Connecticut, USA"]
 country = "US"
@@ -1970,6 +2072,8 @@ continent = "EU"
 ["Osaka, Japan"]
 country = "JP"
 display = "Osaka"
+native = "大阪"
+native_lang = "ja"
 lat = 34.6937
 lon = 135.5023
 continent = "AS"
@@ -2016,9 +2120,11 @@ lon = 8.7575
 continent = "EU"
 # 2 edition(s)
 
-["Padua, Italy (hybrid?)"]
+["Padua, Italy"]
 country = "IT"
 display = "Padua"
+native = "Padova"
+native_lang = "it"
 lat = 45.4064
 lon = 11.8768
 continent = "EU"
@@ -2035,6 +2141,8 @@ continent = "EU"
 ["Palma de Mallorca, Spain"]
 country = "ES"
 display = "Palma de Mallorca"
+native = "Palma"
+native_lang = "ca"
 lat = 39.5696
 lon = 2.6502
 continent = "EU"
@@ -2043,6 +2151,8 @@ continent = "EU"
 ["Panaji, India"]
 country = "IN"
 display = "Panaji"
+native = "पणजी"
+native_lang = "kok"
 lat = 15.4907
 lon = 73.8171
 continent = "AS"
@@ -2050,6 +2160,8 @@ continent = "AS"
 ["Paphos, Cyprus"]
 country = "CY"
 display = "Paphos"
+native = "Πάφος"
+native_lang = "el"
 lat = 34.7754
 lon = 32.4218
 continent = "EU"
@@ -2074,6 +2186,8 @@ continent = "NA"
 ["Patras, Greece"]
 country = "GR"
 display = "Patras"
+native = "Πάτρα"
+native_lang = "el"
 lat = 38.2466
 lon = 21.7346
 continent = "EU"
@@ -2090,6 +2204,8 @@ continent = "EU"
 ["Penang, Malaysia"]
 country = "MY"
 display = "Penang"
+native = "Pulau Pinang"
+native_lang = "ms"
 lat = 5.4141
 lon = 100.3288
 continent = "AS"
@@ -2156,6 +2272,8 @@ continent = "NA"
 ["Pohang, South Korea"]
 country = "KR"
 display = "Pohang"
+native = "포항"
+native_lang = "ko"
 lat = 36.019
 lon = 129.3435
 continent = "AS"
@@ -2204,6 +2322,7 @@ continent = "EU"
 country = "CZ"
 display = "Prague"
 native = "Praha"
+native_lang = "cs"
 lat = 50.0755
 lon = 14.4378
 continent = "EU"
@@ -2211,6 +2330,8 @@ continent = "EU"
 ["Pune, India"]
 country = "IN"
 display = "Pune"
+native = "पुणे"
+native_lang = "mr"
 lat = 18.5204
 lon = 73.8567
 continent = "AS"
@@ -2226,6 +2347,8 @@ continent = "AS"
 ["Qingdao, China"]
 country = "CN"
 display = "Qingdao"
+native = "青岛"
+native_lang = "zh-Hans"
 lat = 36.0671
 lon = 120.3826
 continent = "AS"
@@ -2234,6 +2357,8 @@ continent = "AS"
 ["Québec City, Québec, Canada"]
 country = "CA"
 display = "Québec City"
+native = "Québec"
+native_lang = "fr"
 lat = 46.8139
 lon = -71.208
 continent = "NA"
@@ -2249,6 +2374,8 @@ continent = "NA"
 ["Recife - Pernambuco, Brazil"]
 country = "BR"
 display = "Recife - Pernambuco"
+native = "Recife"
+native_lang = "pt"
 lat = -8.0476
 lon = -34.877
 continent = "SA"
@@ -2274,6 +2401,7 @@ continent = "EU"
 country = "FR"
 display = "Rennes, Bretagne"
 native = "Roazhon"
+native_lang = "br"
 lat = 48.1173
 lon = -1.6778
 continent = "EU"
@@ -2289,6 +2417,8 @@ continent = "EU"
 ["Rhodes, Greece"]
 country = "GR"
 display = "Rhodes"
+native = "Ρόδος"
+native_lang = "el"
 lat = 36.4341
 lon = 28.2176
 continent = "EU"
@@ -2305,8 +2435,8 @@ continent = "SA"
 ["Rold Storkro, Skoerping (Aalborg), Denmark"]
 country = "DK"
 display = "Rold Storkro"
-lat = 57.0488
-lon = 9.9217
+lat = 56.8279
+lon = 9.8182
 continent = "EU"
 # 1 edition(s)
 
@@ -2314,6 +2444,7 @@ continent = "EU"
 country = "IT"
 display = "Rome"
 native = "Roma"
+native_lang = "it"
 lat = 41.9028
 lon = 12.4964
 continent = "EU"
@@ -2355,6 +2486,8 @@ continent = "NA"
 ["Saint Petersburg, Russia"]
 country = "RU"
 display = "Saint Petersburg"
+native = "Санкт-Петербург"
+native_lang = "ru"
 lat = 59.9311
 lon = 30.3609
 continent = "EU"
@@ -2364,6 +2497,7 @@ continent = "EU"
 country = "FR"
 display = "Saint-Malo, Bretagne"
 native = "Sant-Maloù"
+native_lang = "br"
 lat = 48.6493
 lon = -2.0257
 continent = "EU"
@@ -2377,13 +2511,12 @@ lon = -5.6635
 continent = "EU"
 # 1 edition(s)
 
-["Salvador-BA, Brazil"]
+["Salvador de Bahia, Brazil"]
 country = "BR"
-display = "Salvador-BA"
+display = "Salvador de Bahia"
 lat = -12.9777
 lon = -38.5016
 continent = "SA"
-# 1 edition(s)
 
 ["San Antonio, Texas, USA"]
 country = "US"
@@ -2461,6 +2594,8 @@ continent = "AS"
 ["Seville, Spain"]
 country = "ES"
 display = "Seville"
+native = "Sevilla"
+native_lang = "es"
 lat = 37.3891
 lon = -5.9845
 continent = "EU"
@@ -2477,6 +2612,8 @@ continent = "AS"
 ["Shenzhen, China"]
 country = "CN"
 display = "Shenzhen"
+native = "深圳"
+native_lang = "zh-Hans"
 lat = 22.5431
 lon = 114.0579
 continent = "AS"
@@ -2506,11 +2643,14 @@ native_lang = "zh-Hans"
 lat = 1.3521
 lon = 103.8198
 continent = "AS"
+# TODO: native is Chinese, but Singapore has four official languages (en, ms, zh, ta); consider "Singapura" (ms)
 # 13 edition(s)
 
 ["Sokcho, South Korea"]
 country = "KR"
 display = "Sokcho"
+native = "속초"
+native_lang = "ko"
 lat = 38.207
 lon = 128.5918
 continent = "AS"
@@ -2524,9 +2664,9 @@ lon = 7.05
 continent = "EU"
 # 1 edition(s)
 
-["Sorrento Coast, Italy"]
+["Sorrento, Italy"]
 country = "IT"
-display = "Sorrento Coast"
+display = "Sorrento"
 lat = 40.6263
 lon = 14.3757
 continent = "EU"
@@ -2544,6 +2684,8 @@ continent = "EU"
 ["Spetses, Greece"]
 country = "GR"
 display = "Spetses"
+native = "Σπέτσες"
+native_lang = "el"
 lat = 37.2667
 lon = 23.15
 continent = "EU"
@@ -2676,6 +2818,8 @@ continent = "EU"
 ["Tianjin, China"]
 country = "CN"
 display = "Tianjin"
+native = "天津"
+native_lang = "zh-Hans"
 lat = 39.3434
 lon = 117.3616
 continent = "AS"
@@ -2772,6 +2916,8 @@ continent = "EU"
 ["Tsukuba, Japan"]
 country = "JP"
 display = "Tsukuba"
+native = "つくば"
+native_lang = "ja"
 lat = 36.0835
 lon = 140.0764
 continent = "AS"
@@ -2780,6 +2926,8 @@ continent = "AS"
 ["Tunis, Tunisia"]
 country = "TN"
 display = "Tunis"
+native = "تونس"
+native_lang = "ar"
 lat = 36.8065
 lon = 10.1815
 continent = "AF"
@@ -2788,6 +2936,8 @@ continent = "AF"
 ["Turin, Italy"]
 country = "IT"
 display = "Turin"
+native = "Torino"
+native_lang = "it"
 lat = 45.0703
 lon = 7.6869
 continent = "EU"
@@ -2837,6 +2987,8 @@ continent = "EU"
 ["University of Calabria, Rende, Italy"]
 country = "IT"
 display = "University of Calabria"
+native = "Università della Calabria"
+native_lang = "it"
 lat = 39.3333
 lon = 16.1833
 continent = "EU"
@@ -2877,6 +3029,8 @@ continent = "EU"
 ["Valencia, Spain"]
 country = "ES"
 display = "Valencia"
+native = "València"
+native_lang = "ca"
 lat = 39.4699
 lon = -0.3763
 continent = "EU"
@@ -2884,6 +3038,8 @@ continent = "EU"
 ["Valletta, Malta"]
 country = "MT"
 display = "Valletta"
+native = "Il-Belt Valletta"
+native_lang = "mt"
 lat = 35.8989
 lon = 14.5146
 continent = "EU"
@@ -2900,6 +3056,8 @@ continent = "NA"
 ["Vannes, France"]
 country = "FR"
 display = "Vannes"
+native = "Gwened"
+native_lang = "br"
 lat = 47.6587
 lon = -2.7603
 continent = "EU"
@@ -2908,6 +3066,8 @@ continent = "EU"
 ["Venice, Italy"]
 country = "IT"
 display = "Venice"
+native = "Venezia"
+native_lang = "it"
 lat = 45.4408
 lon = 12.3155
 continent = "EU"
@@ -2933,6 +3093,7 @@ continent = "EU"
 country = "AT"
 display = "Vienna"
 native = "Wien"
+native_lang = "de"
 lat = 48.2082
 lon = 16.3738
 continent = "EU"
@@ -2940,6 +3101,8 @@ continent = "EU"
 ["Vitória - Espírito Santo, Brazil"]
 country = "BR"
 display = "Vitória - Espírito Santo"
+native = "Vitória"
+native_lang = "pt"
 lat = -20.3155
 lon = -40.3128
 continent = "SA"
@@ -2957,6 +3120,7 @@ continent = "EU"
 country = "PL"
 display = "Warsaw"
 native = "Warszawa"
+native_lang = "pl"
 lat = 52.2297
 lon = 21.0122
 continent = "EU"
@@ -2973,6 +3137,8 @@ continent = "OC"
 ["Wonju, South Korea"]
 country = "KR"
 display = "Wonju"
+native = "원주"
+native_lang = "ko"
 lat = 37.3422
 lon = 127.9202
 continent = "AS"
@@ -2989,6 +3155,8 @@ continent = "EU"
 ["Wuhan, China"]
 country = "CN"
 display = "Wuhan"
+native = "武汉"
+native_lang = "zh-Hans"
 lat = 30.5928
 lon = 114.3055
 continent = "AS"
@@ -2997,6 +3165,8 @@ continent = "AS"
 ["Xi’An, China"]
 country = "CN"
 display = "Xi’An"
+native = "西安"
+native_lang = "zh-Hans"
 lat = 34.3416
 lon = 108.9398
 continent = "AS"
@@ -3005,6 +3175,8 @@ continent = "AS"
 ["Yokohama, Japan"]
 country = "JP"
 display = "Yokohama"
+native = "横浜"
+native_lang = "ja"
 lat = 35.4437
 lon = 139.638
 continent = "AS"
@@ -3037,6 +3209,8 @@ continent = "EU"
 ["Zhangjiajie, China"]
 country = "CN"
 display = "Zhangjiajie"
+native = "张家界"
+native_lang = "zh-Hans"
 lat = 29.117
 lon = 110.4794
 continent = "AS"

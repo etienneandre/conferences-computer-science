@@ -6,7 +6,7 @@ url = "http://cbsoft.org/sbmf2015/brazilian-symposium-on-formal-methods-sbmf"
 [event]
 start = 2015-09-21
 end = 2015-09-26
-city = "Maceio, Brazil"
+city = "Maceió, Brazil"
 
 [submission]
 tz = "UTC-03"

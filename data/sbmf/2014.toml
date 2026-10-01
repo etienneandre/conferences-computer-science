@@ -6,7 +6,7 @@ url = "http://www.ic.ufal.br/evento/cbsoft2014/"
 [event]
 start = 2014-09-29
 end = 2014-09-30
-city = "Maceio, Brazil"
+city = "Maceió, Brazil"
 
 [submission]
 tz = "UTC-03"
