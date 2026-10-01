@@ -998,7 +998,7 @@ def asset_version(site: Site) -> str:
     digest = hashlib.sha256()
     folder = site.root / site.config["build"]["assets"]
     for name in sorted(("site.css", "filters.js", "map.js", "seriesmap.js",
-                        "countdown.js")):
+                        "frontmap.js", "countdown.js")):
         path = folder / name
         if path.exists():
             digest.update(path.read_bytes())
@@ -1242,6 +1242,53 @@ def front_rows(site: "Site", env: Environment) -> list[dict]:
     return rows
 
 
+def front_map_points(site: "Site") -> list[dict]:
+    """One pin per city for the map above the front-page list.
+
+    The same set as the rows tagged `upcoming` — every call still open at
+    build time — grouped by city and carrying each call's expiry, so the
+    browser can drop the ones that have closed since. Nothing has to be added
+    later: a call that has closed cannot reopen without a rebuild, so the set
+    only ever shrinks between deploys.
+
+    Left out: calls held online, and venues the gazetteer has no coordinates
+    for. The caption under the map says so rather than quietly omitting them.
+    """
+    now_ts = int(site.now.timestamp())
+    groups: dict[str, dict] = {}
+    for edition in site.editions:
+        if not edition.listed or edition.online:
+            continue
+        paper = edition.paper
+        if paper is None:
+            continue
+        ts = int(deadline_instant(paper.effective, paper.tz).timestamp())
+        if ts < now_ts:
+            continue
+        name = edition.city_name
+        if not name:
+            continue
+        place = site.city(name)
+        if place.get("lat") is None or place.get("lon") is None:
+            continue
+        point = groups.setdefault(name, {
+            "lat": float(place["lat"]),
+            "lon": float(place["lon"]),
+            "city": place.get("display") or name,
+            "flag": place.get("flag", ""),
+            "calls": [],
+        })
+        # The date is formatted here, not in the browser: wording lives in one
+        # place, and this one cannot drift from the list beside it.
+        point["calls"].append({"label": edition.acronym, "url": edition.url,
+                               "ts": ts, "date": fmt_date(paper.effective)})
+
+    points = sorted(groups.values(), key=lambda p: min(c["ts"] for c in p["calls"]))
+    for point in points:
+        point["calls"].sort(key=lambda c: c["ts"])
+    return points
+
+
 def order_rows(rows: list[dict], now_ts: int) -> list[dict]:
     """Soonest deadline first; once past, most recently closed first.
 
@@ -1297,7 +1344,8 @@ def render_front(site: "Site", env: Environment) -> int:
     counts["earlier"] = len(ordered) - sum(
         1 for r in ordered if "latest" in r["tags"].split())
 
-    shell = env.get_template("front.html.j2").render(counts=counts)
+    shell = env.get_template("front.html.j2").render(
+        counts=counts, map_points=front_map_points(site))
     name = site.config["site"]["front_page"]
 
     payload = shell + "".join(r["html"] for r in ordered)

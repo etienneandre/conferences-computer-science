@@ -28,6 +28,31 @@
 
 <div id="stale" class="stale" hidden></div>
 
+{% if map_points %}
+{# Closed on load, and above the filters rather than below them: this is an
+   overview of everything open, not a view of whatever the chips are showing.
+   Opening it is also what fetches the first tile — see assets/frontmap.js. #}
+<details class="mapdrop" id="mapdrop">
+  <summary>
+    <span class="mapdrop-label"><span aria-hidden="true">&#128506;&#65039;</span>
+      <span class="when-shut">Show</span><span class="when-open">Hide</span>
+      open calls on a map</span>
+    {# Not counts.upcoming: that includes calls held online, which have no pin.
+       The number on the button should describe what the button opens. #}
+    <span class="n">{{ map_points | map(attribute='calls') | map('length') | sum }}</span>
+    {% if not config.map.autoload %}
+    <span class="mapdrop-hint">loads tiles from OpenStreetMap</span>
+    {% endif %}
+  </summary>
+  <div class="mapbox">
+    <div class="map-holder is-front" id="frontmap"
+         data-zoom="{{ config.map.zoom }}"
+         data-points='{{ map_points | tojson }}'></div>
+    <p class="map-caption" id="frontmap-caption">Loading map&hellip;</p>
+  </div>
+</details>
+{% endif %}
+
 <div class="filters">
   <div class="filter-group">
     <span class="filter-label">Only</span>
@@ -82,4 +107,7 @@
 {% block scripts %}
 <script src="/assets/countdown.js?v={{ asset_version }}" defer></script>
 <script src="/assets/filters.js?v={{ asset_version }}" defer></script>
+{% if map_points %}
+<script src="/assets/frontmap.js?v={{ asset_version }}" defer></script>
+{% endif %}
 {% endblock %}

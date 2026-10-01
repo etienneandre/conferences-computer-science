@@ -346,6 +346,42 @@ a:hover { text-decoration-thickness: 2px; }
   background: linear-gradient(to right, hsl(212, 60%, 72%), hsl(212, 60%, 24%));
 }
 
+/* The front page map, folded away until asked for. The whole world fits in
+   it, so it needs the most room of the three — but only once it is open, and
+   closed it costs a single line above the filters. */
+.map-holder.is-front { height: 360px; }
+.mapdrop { margin: .9rem 0 0; }
+.mapdrop > summary {
+  display: flex; align-items: baseline; gap: .45rem; flex-wrap: wrap;
+  font: 500 .82rem/1.4 var(--font-ui); color: var(--ink-soft);
+  cursor: pointer; list-style: none; width: fit-content;
+  border: 1px solid var(--rule); border-radius: 100px; padding: .38rem .8rem;
+  transition: background .12s, border-color .12s, color .12s;
+}
+.mapdrop > summary::-webkit-details-marker { display: none; }
+.mapdrop > summary:hover { border-color: var(--ink-faint); color: var(--ink); }
+.mapdrop[open] > summary {
+  background: var(--accent-dim); border-color: var(--accent); color: var(--accent);
+  margin-bottom: .6rem;
+}
+/* One flex item holding the whole phrase, so "Show"/"Hide" cannot be split
+   off onto a line of its own; it may shrink, but not below the pill. */
+.mapdrop-label { flex: 0 1 auto; min-width: 0; }
+.mapdrop .n { font: 400 .72rem var(--font-data); opacity: .65; }
+.mapdrop-hint { font: 400 .72rem/1.4 var(--font-ui); color: var(--ink-faint); }
+.mapdrop .when-open { display: none; }
+.mapdrop[open] .when-open { display: inline; }
+.mapdrop[open] .when-shut { display: none; }
+
+/* Leaflet paints its popups and tooltips white whatever the page theme, so
+   what goes inside them cannot use the ink tokens: in dark mode those are
+   pale, and pale on white is unreadable. Fixed values, deliberately. */
+.leaflet-popup-content, .leaflet-tooltip { color: #151a23; }
+.leaflet-popup-content a { color: #1f4f8f; }
+/* The popup lists every call for papers in that city, soonest first. */
+.pin-calls { margin-top: .3rem; line-height: 1.7; }
+.pin-when { font: 400 .72rem var(--font-data); color: #5b6473; white-space: nowrap; }
+
 /* Series page ------------------------------------------------------------- */
 .editions { width: 100%; border-collapse: collapse; }
 .editions th { font: 500 .7rem/1 var(--font-data); text-transform: uppercase; letter-spacing: .07em; color: var(--ink-faint); text-align: left; padding: .5rem; border-bottom: 1px solid var(--rule); }
