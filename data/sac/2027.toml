@@ -10,8 +10,8 @@ city = "Gwangju, South Korea"
 [submission]
 tz = "EST"
 format = "8+2 pages ACM"
-paper = [2026-10-02]
-notification = [2026-11-13]
+paper = [2026-10-02, 2026-10-16]
+notification = [2026-11-13, 2026-11-20]
 
 [proceedings]
 publisher = "ACM"
