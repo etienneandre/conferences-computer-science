@@ -679,6 +679,7 @@ continent = "AS"
 ["Dublin, Ireland"]
 country = "IE"
 display = "Dublin"
+native = "Baile Átha Cliath"
 lat = 53.3498
 lon = -6.2603
 continent = "EU"
@@ -858,6 +859,7 @@ continent = "OC"
 ["Gothenburg, Sweden"]
 country = "SE"
 display = "Gothenburg"
+native = "Göteborg"
 lat = 57.7089
 lon = 11.9746
 continent = "EU"
@@ -928,6 +930,8 @@ continent = "AS"
 ["Gwangju, South Korea"]
 country = "KR"
 display = "Gwangju"
+native = "광주"
+native_lang = "ko"
 lat = 35.1693
 lon = 126.9168
 continent = "AS"
@@ -2119,6 +2123,8 @@ continent = "NA"
 ["Phnom Penh, Cambodia"]
 country = "KH"
 display = "Phnom Penh"
+native = "ភ្នំពេញ"
+native_lang = "km"
 lat = 11.5564
 lon = 104.9282
 continent = "AS"
@@ -2316,6 +2322,8 @@ continent = "EU"
 ["Rupnagar, India"]
 country = "IN"
 display = "Rupnagar"
+native = "ਰੂਪਨਗਰ"
+native_lang = "pa"
 lat = 30.9658
 lon = 76.5335
 continent = "AS"
