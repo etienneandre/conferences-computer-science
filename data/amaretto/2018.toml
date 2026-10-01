@@ -6,7 +6,7 @@ url = "http://www.modelsward.org/AMARETTO.aspx"
 [event]
 start = 2018-01-22
 end = 2018-01-24
-city = "Funchal, Madeira"
+city = "Funchal, Madeira, Portugal"
 
 [submission]
 format = "around 8-10 pages"
@@ -16,8 +16,11 @@ notification = [2017-11-21]
 [proceedings]
 publisher = "SCITEPRESS Digital Library"
 
+[review]
+blind = "double"
+
 [extra]
-notes = "Double-blind. Satellite of MODELSWARD."
+colocated = "Satellite of MODELSWARD."
 
 [[cfp]]
 file = "cfp/AMARETTO-2018.pdf"

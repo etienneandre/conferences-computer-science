@@ -6,7 +6,7 @@ url = "http://www.cse.iitb.ac.in/~icla15/"
 [event]
 start = 2015-01-08
 end = 2015-01-10
-city = "Bombay, India"
+city = "Mumbai, India"
 
 [submission]
 format = "12 pages LNCS"

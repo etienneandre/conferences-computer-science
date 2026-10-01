@@ -137,14 +137,12 @@ lon = 49.8671
 continent = "AS"
 # 1 edition(s)
 
-["Baltimore, Maryland"]
+["Baltimore, Maryland, USA"]
 country = "US"
 display = "Baltimore"
 lat = 39.2904
 lon = -76.6122
 continent = "NA"
-# WARNING: no country given
-# 1 edition(s)
 
 ["Bangalore, India"]
 country = "IN"
@@ -154,7 +152,7 @@ lon = 77.5946
 continent = "AS"
 # 3 edition(s)
 
-["Bangkok - Thailand"]
+["Bangkok, Thailand"]
 country = "TH"
 display = "Bangkok - Thailand"
 lat = 13.7563
@@ -210,15 +208,6 @@ lon = 77.5946
 continent = "AS"
 # 1 edition(s)
 
-["Bensançon, France"]
-country = "FR"
-display = "Bensançon"
-lat = 47.2378
-lon = 6.0241
-continent = "EU"
-# WARNING: misspelling of Besançon
-# 1 edition(s)
-
 ["Bergamo, Italy"]
 country = "IT"
 display = "Bergamo"
@@ -266,15 +255,6 @@ display = "Birmingham"
 lat = 52.4862
 lon = -1.8904
 continent = "EU"
-# 1 edition(s)
-
-["Bombay, India"]
-country = "IN"
-display = "Bombay"
-lat = 19.076
-lon = 72.8777
-continent = "AS"
-# WARNING: former name of Mumbai
 # 1 edition(s)
 
 ["Bordeaux, France"]
@@ -435,20 +415,12 @@ lon = -76.532
 continent = "SA"
 # 1 edition(s)
 
-["Carthage, Tunis, Tunisia"]
+["Carthage, Tunisia"]
 country = "TN"
 display = "Carthage"
 lat = 36.8065
 lon = 10.1815
 continent = "AF"
-# 1 edition(s)
-
-["Cascais, Lisbon, Portugal"]
-country = "PT"
-display = "Cascais"
-lat = 38.6979
-lon = -9.4215
-continent = "EU"
 # 1 edition(s)
 
 ["Cascais, Portugal"]
@@ -457,23 +429,6 @@ display = "Cascais"
 lat = 38.6979
 lon = -9.4215
 continent = "EU"
-# 1 edition(s)
-
-["Cascais/Lisbon, Portugal"]
-country = "PT"
-display = "Cascais/Lisbon"
-lat = 38.6979
-lon = -9.4215
-continent = "EU"
-# 1 edition(s)
-
-["Catania, Italy"]
-country = "IT"
-display = "Catania"
-lat = 37.5079
-lon = 15.083
-continent = "EU"
-# 2 edition(s)
 
 ["Catania, Sicily, Italy"]
 country = "IT"
@@ -481,7 +436,6 @@ display = "Catania"
 lat = 37.5079
 lon = 15.083
 continent = "EU"
-# 1 edition(s)
 
 ["Changsha, China"]
 country = "CN"
@@ -787,14 +741,6 @@ lon = 2.4411
 continent = "EU"
 # 1 edition(s)
 
-["Firenze, Italy"]
-country = "IT"
-display = "Firenze"
-lat = 43.7696
-lon = 11.2558
-continent = "EU"
-# 1 edition(s)
-
 ["Florence, Italy"]
 country = "IT"
 display = "Florence"
@@ -817,14 +763,6 @@ display = "Fukuoka"
 lat = 33.5904
 lon = 130.4017
 continent = "AS"
-# 2 edition(s)
-
-["Funchal, Madeira"]
-country = "PT"
-display = "Funchal"
-lat = 32.6669
-lon = -16.9241
-continent = "EU"
 # 2 edition(s)
 
 ["Funchal, Madeira, Portugal"]

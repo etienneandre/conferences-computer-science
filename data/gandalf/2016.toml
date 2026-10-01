@@ -6,7 +6,7 @@ url = "http://gandalf2016.dmi.unict.it/"
 [event]
 start = 2016-09-14 # NOTE: was "2015", certainly a typo
 end = 2016-09-16 # NOTE: was "2015", certainly a typo
-city = "Catania, Italy"
+city = "Catania, Sicily, Italy"
 
 [submission]
 format = "14 pages EPTCS"
@@ -19,4 +19,4 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [extra]
-notes = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of an international leading journal."
+journal = "Authors of the best papers will be invited to submit a revised version of their work to a special issue of an international leading journal."

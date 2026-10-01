@@ -5,7 +5,7 @@ url = "https://epew-workshop.github.io/"
 
 [event]
 start = 2025-06-26
-city = "Catania, Italy"
+city = "Catania, Sicily, Italy"
 
 [submission]
 tz = "AoE"
@@ -18,8 +18,12 @@ notification = [2025-05-15]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+award = "Best paper presentation award."
+
 [extra]
-notes = "Co-located with ECMS 2025. Post-proceedings. Best paper presentation award."
+notes = "Post-proceedings."
+colocated = "Co-located with ECMS 2025."
 
 [[cfp]]
 file = "cfp/EPEW-2025.txt"

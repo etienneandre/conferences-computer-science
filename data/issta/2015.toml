@@ -5,7 +5,7 @@ url = "http://issta2015.cs.uoregon.edu/"
 [event]
 start = 2015-07-12
 end = 2015-07-17
-city = "Baltimore, Maryland"
+city = "Baltimore, Maryland, USA"
 
 [submission]
 format = "10 pages ACM (+ references)"

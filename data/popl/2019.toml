@@ -6,7 +6,7 @@ url = "https://popl19.sigplan.org/"
 [event]
 start = 2019-01-13
 end = 2019-01-19
-city = "Cascais/Lisbon, Portugal"
+city = "Cascais, Portugal"
 
 [submission]
 format = "25 pages new ACM format + references"
@@ -17,5 +17,9 @@ notification = [2018-10-10]
 publisher = "PACMPL"
 license = "cc-by"
 
+[review]
+award = "At most 10% of the accepted papers of POPL 2019 will be designated as Distinguished Papers"
+blind = "double"
+
 [extra]
-notes = "Rebuttal: 17-20 September. Double blind submission. Authors are asked (but not required) to pay US$400 for journal open-access publication. At most 10% of the accepted papers of POPL 2019 will be designated as Distinguished Papers"
+notes = "Rebuttal: 17-20 September. Authors are asked (but not required) to pay US$400 for journal open-access publication."

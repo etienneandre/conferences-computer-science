@@ -6,7 +6,7 @@ url = "http://2015.icse-conferences.org/"
 [event]
 start = 2015-05-16
 end = 2015-05-24
-city = "Firenze, Italy"
+city = "Florence, Italy"
 
 [submission]
 format = "10 pages IEEE"

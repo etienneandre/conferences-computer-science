@@ -6,18 +6,20 @@ url = "http://certs2017.uni.lu"
 [event]
 start = 2018-01-22
 end = 2018-01-24
-city = "Funchal, Madeira"
+city = "Funchal, Madeira, Portugal"
+colocated_with = ["rtss/2018"]
 
 [submission]
 format = "2 pages IEEE (short) / 6 pages IEEE (long)"
 paper = [2017-10-01]
+extensions = false
 notification = [2017-10-17]
 
 [proceedings]
 publisher = "?"
 
 [extra]
-notes = "Firm deadline. Satellite of the IEEE Real-Time Systems Symposium"
+colocated = "Satellite of the IEEE Real-Time Systems Symposium"
 
 [[cfp]]
 file = "cfp/CERTS-2017.pdf"

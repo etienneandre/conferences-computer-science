@@ -6,7 +6,7 @@ url = "https://lopstr.github.io/2023/"
 [event]
 start = 2023-10-23
 end = 2023-10-24
-city = "Cascais, Lisbon, Portugal"
+city = "Cascais, Portugal"
 
 [submission]
 tz = "AoE"
@@ -19,8 +19,11 @@ notification = [2023-07-18, 2023-07-24]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+award = "A best paper award will be granted, which will include a 500€ prize provided by Springer."
+
 [extra]
-notes = "A best paper award will be granted, which will include a 500€ prize provided by Springer. After the symposium, a selection of the best papers will be invited for submission to a special issue of the Theory and Practice of Logic Programming (TPLP)."
+journal = "After the symposium, a selection of the best papers will be invited for submission to a special issue of the Theory and Practice of Logic Programming (TPLP)."
 
 [[cfp]]
 file = "cfp/LOPSTR-2023.txt"
