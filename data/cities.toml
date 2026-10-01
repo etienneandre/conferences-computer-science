@@ -837,24 +837,6 @@ lon = -4.2518
 continent = "EU"
 # 2 edition(s)
 
-["Goa Campus, India"]
-country = "IN"
-display = "Goa Campus"
-lat = 15.2993
-lon = 74.124
-continent = "AS"
-# WARNING: campus of BITS Pilani, in Goa
-# 1 edition(s)
-
-["Goa, India"]
-country = "IN"
-display = "Goa"
-lat = 15.2993
-lon = 74.124
-continent = "AS"
-# WARNING: a state; coordinates are Panaji
-# 2 edition(s)
-
 ["Gold Coast, Australia"]
 country = "AU"
 display = "Gold Coast"
@@ -892,15 +874,6 @@ lat = 47.0707
 lon = 15.4395
 continent = "EU"
 # 5 edition(s)
-
-["Greenwich, London, United Kingdom"]
-country = "GB"
-subdivision = "GB-ENG"
-display = "Greenwich"
-lat = 51.4834
-lon = 0.0098
-continent = "EU"
-# 1 edition(s)
 
 ["Grenoble, France"]
 country = "FR"
@@ -980,14 +953,6 @@ lon = 9.9937
 continent = "EU"
 # 5 edition(s)
 
-["Hamilton, Canada"]
-country = "CA"
-display = "Hamilton"
-lat = 43.2557
-lon = -79.8711
-continent = "NA"
-# 4 edition(s)
-
 ["Hamilton, New Zealand"]
 country = "NZ"
 display = "Hamilton"
@@ -1034,14 +999,6 @@ country = "DE"
 display = "Hannover"
 lat = 52.3759
 lon = 9.732
-continent = "EU"
-# 1 edition(s)
-
-["Heidelberg Germany"]
-country = "DE"
-display = "Heidelberg Germany"
-lat = 49.3988
-lon = 8.6724
 continent = "EU"
 # 1 edition(s)
 
@@ -2086,6 +2043,13 @@ lat = 39.5696
 lon = 2.6502
 continent = "EU"
 # 1 edition(s)
+
+["Panaji, India"]
+country = "IN"
+display = "Panaji"
+lat = 15.4907
+lon = 73.8171
+continent = "AS"
 
 ["Paphos, Cyprus"]
 country = "CY"

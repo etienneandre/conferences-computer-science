@@ -6,7 +6,7 @@ url = "https://etaps.org/2025/conferences/tacas/"
 [event]
 start = 2025-05-03
 end = 2025-05-08
-city = "Hamilton, Canada"
+city = "Hamilton, Ontario, Canada"
 colocated_with = ["fase/2025", "fossacs/2025"]
 
 [submission]

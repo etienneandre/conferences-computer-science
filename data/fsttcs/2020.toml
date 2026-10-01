@@ -6,7 +6,8 @@ url = "https://www.fsttcs.org.in/2020/"
 [event]
 start = 2020-12-15
 end = 2020-12-17
-city = "Goa, India"
+city = "Panaji, India"
+venue = "Goa Campus"
 
 [submission]
 tz = "AoE"
@@ -20,7 +21,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [extra]
-notes = "Always in India. Also features a PhD poster session. 2 more days to edit the paper past the deadline in 2012 and 2016."
+notes = "Also features a PhD poster session."
 
 [[cfp]]
 file = "cfp/FSTTCS-2020.txt"

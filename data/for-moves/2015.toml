@@ -5,7 +5,8 @@ url = "http://lipn.univ-paris13.fr/for-moves15/"
 
 [event]
 start = 2015-11-16
-city = "Goa, India"
+city = "Panaji, India"
+venue = "Goa University"
 
 [submission]
 format = "12 pages LNCS (regular) / 6 pages (short / position)"
@@ -17,4 +18,5 @@ publisher = "No formal proceedings (PDF online)"
 license = "free"
 
 [extra]
-notes = "Co-located with ICSOC 2015. For this second edition of this workshop, we would like to put the emphasis on discussions rather than on conventional publications."
+colocated = "Co-located with ICSOC 2015."
+notes = "For this second edition of this workshop, we would like to put the emphasis on discussions rather than on conventional publications."

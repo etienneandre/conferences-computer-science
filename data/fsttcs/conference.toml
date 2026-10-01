@@ -10,6 +10,7 @@ rank = "absent"  # TODO: verify
 dblp = "fsttcs"
 
 [legacy]
+notes = "Always in India."
 # TODO: extract — cross-year prose kept once, verbatim.
 acceptance = "< 33% (2014), 39% (27+20 / 73+49) in 2021, not given in 2022-2025."  # from FSTTCS 2026
 extensions = "2 more days to edit the paper past the deadline in 2012 and 2016. 7 days (2017); firm in 2019-2026."  # from FSTTCS 2026

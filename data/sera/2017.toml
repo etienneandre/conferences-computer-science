@@ -6,7 +6,8 @@ url = "http://www.acisinternational.org/sera2016/"
 [event]
 start = 2017-06-07
 end = 2017-06-09
-city = "Greenwich, London, United Kingdom"
+city = "London, England"
+venue = "Greenwich"
 
 [submission]
 format = "8 pages IEEE 2 columns"
