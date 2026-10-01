@@ -33,6 +33,7 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlencode
 
 import calendars
 
@@ -988,6 +989,58 @@ class Site:
 # Rendering
 # --------------------------------------------------------------------------
 
+def oneline(text: str) -> str:
+    """Collapse the whitespace a multi-line template expression leaves behind.
+
+    Page descriptions are written across several lines for the sake of whoever
+    reads the template; a social card shows them as a single sentence.
+
+    Markup in, Markup out. A `{% set %}…{% endset %}` capture arrives already
+    escaped, so returning a plain string would have Jinja escape it a second
+    time and put `&amp;amp;` in front of every conference with an ampersand in
+    its name.
+    """
+    joined = " ".join(str(text).split())
+    return Markup(joined) if hasattr(text, "__html__") else joined
+
+
+def correction_link(site: Site, thing) -> str | None:
+    """A pre-filled issue for the page a reader is looking at.
+
+    Readers find mistakes we never will, and the cheapest way to hear about
+    one is to hand them a form already filled in: which page, which file, and
+    a prompt for the source they checked against. Without the source a
+    correction is one person's word against another's, which is no basis for
+    changing a record.
+
+    Returns None when [contact].issues is unset or still the placeholder, so a
+    fresh checkout cannot advertise somebody else's tracker.
+    """
+    base = str((site.config.get("contact", {}) or {}).get("issues") or "").strip()
+    if not base or "YOURNAME" in base:
+        return None
+
+    if isinstance(thing, Edition):
+        label, page = thing.acronym, thing.url
+        source = f"data/{thing.slug}/{thing.key}.toml"
+    else:
+        label, page = thing.acronym, thing.url
+        source = f"data/{thing.slug}/conference.toml"
+
+    # GitHub and GitLab both open a new issue at <tracker>/new with the title
+    # and body as query parameters. Anything else is linked to as given.
+    target = base.rstrip("/")
+    if target.endswith("/issues"):
+        target += "/new"
+
+    body = (f"Page: {site.config['site']['base_url']}{page}\n"
+            f"Data file: {source}\n\n"
+            "What is wrong:\n\n\n"
+            "Where the right answer can be checked "
+            "(a link to the call for papers or the conference site, if you have one):\n")
+    return f"{target}?{urlencode({'title': f'{label}: ', 'body': body})}"
+
+
 def asset_version(site: Site) -> str:
     """A short hash of the CSS and JavaScript, appended to their URLs.
 
@@ -1030,7 +1083,9 @@ def build_environment(site: Site) -> Environment:
     env.filters["date"] = fmt_date
     env.filters["daterange"] = lambda pair: fmt_range(pair[0], pair[1])
     env.filters["ordinal"] = ordinal
+    env.filters["oneline"] = oneline
     env.globals.update(
+        correction=lambda thing: correction_link(site, thing),
         jsonld=lambda edition: event_jsonld(site, edition),
         fragment=lambda name: load_fragment(site, name),
         cfp_text=lambda edition, cfp: read_cfp_text(site, edition, cfp),
@@ -1989,6 +2044,22 @@ def export_data(site: Site) -> dict:
             "json_kb": len(json.dumps(payload, default=str)) // 1024}
 
 
+# The calendars that mirror the front-page chips: slug, tag, name, blurb. The
+# region feeds follow the edition, not the series — a conference that meets in
+# Lisbon one year and Kyoto the next belongs in both, which is what somebody
+# subscribing to "deadlines for conferences in Europe" is asking for.
+FILTERED_FEEDS = (
+    ("core-a", "rank-a", "CS deadlines — CORE A* and A",
+     "Submission deadlines for conferences ranked CORE A* or A in the year they met."),
+    ("open-access", "open-access", "CS deadlines — open access",
+     "Submission deadlines for conferences whose proceedings are free to read."),
+    ("europe", "europe", "CS deadlines — Europe",
+     "Submission deadlines for conferences meeting in Europe."),
+    ("asia", "asia", "CS deadlines — Asia",
+     "Submission deadlines for conferences meeting in Asia."),
+)
+
+
 def render_calendars(site: Site) -> int:
     """Write the .ics feeds. Paths are permanent so they can be subscribed to."""
     base = site.config["site"]["base_url"]
@@ -2024,6 +2095,21 @@ def render_calendars(site: Site) -> int:
     calendars.deadline_events(site, both, site.editions)
     calendars.event_events(site, both, site.editions)
     emit(site.out_dir / "ics" / "all.ics", both)
+
+    # One feed per filter on the front page. "Every deadline in theoretical
+    # computer science" is more than anyone wants in their calendar; "the A*
+    # ones" is the real request, and doing it by hand means subscribing to
+    # forty per-conference feeds. The selection comes from tags_for(), the
+    # same function that writes the chips, so a feed cannot come to disagree
+    # with the chip that describes it.
+    tagged = {id(e): tags_for(site, e).split() for e in site.editions}
+    for slug, tag, name, blurb in FILTERED_FEEDS:
+        chosen = [e for e in site.editions if tag in tagged[id(e)]]
+        if not chosen:
+            continue
+        feed = calendars.Calendar(name, blurb + " " + base, site.now)
+        calendars.deadline_events(site, feed, chosen)
+        emit(site.out_dir / "ics" / f"{slug}.ics", feed)
 
     # One per conference, with no window: subscribing to a series is a way of
     # keeping its whole history to hand.

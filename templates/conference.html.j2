@@ -4,8 +4,12 @@
 {% block title %}{{ conference.acronym }} &mdash; {{ config.site.title }}{% endblock %}
 
 {% block meta %}
-<meta name="description" content="{{ conference.acronym }}: {{ conference.name }}. Deadlines, venues and acceptance rates across {{ conference.editions | length }} editions.">
-<link rel="canonical" href="{{ config.site.base_url }}{{ conference.url }}">
+{% set social_title = conference.acronym ~ ' — ' ~ conference.name %}
+{% set social_url = config.site.base_url ~ conference.url %}
+{% set social_description %}{{ conference.acronym }}: {{ conference.name }}. Deadlines, venues and acceptance rates across {{ conference.editions | length }} editions.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
 {% endblock %}
 
 {% block content %}
@@ -267,6 +271,11 @@
   </aside>
 </div>
 
+{% set fix = correction(conference) %}
+{% if fix %}
+<p class="correction">Spotted something wrong on this page?
+  <a href="{{ fix }}">Tell us, with a source if you have one &#8599;</a></p>
+{% endif %}
 </article>
 {% endblock %}
 

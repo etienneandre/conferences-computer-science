@@ -11,11 +11,17 @@
   {%- if place.get('display') %} &mdash; {{ place.display }}{% endif %}{% endblock %}
 
 {% block meta %}
-<meta name="description" content="{{ edition.title }}.
+{% set social_url = config.site.base_url ~ edition.url %}
+{% set social_title %}{{ edition.acronym }}
+  {%- if paper %} — deadline {{ paper.effective | date }}{% endif %}
+  {%- if place.get('display') %} — {{ place.display }}{% endif %}{% endset %}
+{% set social_description %}{{ edition.title }}.
   {%- if paper %} Paper deadline {{ paper.effective | date }}{% if paper.extended %}, extended from {{ paper.announced | date }}{% endif %}.{% endif %}
   {%- if edition.held %} Held {{ edition.held }}{% if place.get('display') %} in {{ place.display }}{% endif %}.{% endif %}
-  {%- if proc.get('publisher') %} Proceedings: {{ proc.publisher }}.{% endif %}">
-<link rel="canonical" href="{{ config.site.base_url }}{{ edition.url }}">
+  {%- if proc.get('publisher') %} Proceedings: {{ proc.publisher }}.{% endif %}{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
 {% set structured = jsonld(edition) %}
 {% if structured %}
 <script type="application/ld+json">{{ structured | safe }}</script>
@@ -76,6 +82,10 @@
       {% if clock.days is not none and clock.days >= 0 %}
       Papers are due {{ paper.effective | date }}{% if paper.tz_shown %} ({{ paper.tz_shown }}){% endif %} &mdash;
       <span class="countdown" data-expires="{{ clock.expires }}">{{ clock.text }}</span>.
+      {# countdown.js fills this in and unhides it. Hidden by default so that
+         without JavaScript nothing claims to know where the reader is. #}
+      <span class="localtime-note" hidden>That is <span class="localtime"
+        data-expires="{{ clock.expires }}"></span> where you are.</span>
       {% else %}
       Submission closed on {{ paper.effective | date }}{% if paper.extended %},
       after an extension of {{ paper.extension_days }} days{% endif %}.
@@ -366,6 +376,11 @@
   </aside>
 </div>
 
+{% set fix = correction(edition) %}
+{% if fix %}
+<p class="correction">Spotted something wrong on this page?
+  <a href="{{ fix }}">Tell us, with a source if you have one &#8599;</a></p>
+{% endif %}
 </article>
 {% endblock %}
 

@@ -3,7 +3,12 @@
 {% block title %}{{ page_title }} &mdash; {{ config.site.title }}{% endblock %}
 
 {% block meta %}
-<link rel="canonical" href="{{ config.site.base_url }}/{{ slug }}/">
+{% set social_title = page_title %}
+{% set social_description = config.site.tagline %}
+{% set social_url = config.site.base_url ~ '/' ~ slug ~ '/' %}
+<meta name="description" content="{{ page_title }} &mdash; {{ config.site.tagline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
 {% endblock %}
 
 {% block content %}

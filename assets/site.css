@@ -262,6 +262,17 @@ a:hover { text-decoration-thickness: 2px; }
 }
 .tag[data-flag="attention"]::before { content: "! "; font-weight: 700; opacity: .85; }
 .detail-note { font: 400 .84rem/1.5 var(--font-ui); color: var(--ink-soft); margin: .7rem 0 0; max-width: 68ch; }
+/* The invitation to report an error. Quiet enough not to compete with the
+   record, present enough that somebody who spotted a mistake finds it. */
+.correction {
+  font: 400 .8rem/1.5 var(--font-ui); color: var(--ink-faint);
+  border-top: 1px solid var(--rule-soft); padding-top: .7rem; margin: 1.6rem 0 0;
+}
+.correction a { color: var(--ink-soft); }
+.correction a:hover { color: var(--accent); }
+/* The same deadline in the reader's own time zone, written by countdown.js. */
+.localtime-note { color: var(--ink-soft); }
+.localtime { font-family: var(--font-data); white-space: nowrap; }
 .detail-actions { margin-top: .8rem; display: flex; gap: 1.1rem; flex-wrap: wrap; font-size: .82rem; }
 
 /* Pages ------------------------------------------------------------------- */

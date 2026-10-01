@@ -16,6 +16,18 @@ URLs are permanent; the files behind them are rebuilt whenever the site is.
 Each covers everything upcoming plus the past year. Every conference also has
 its own feed, linked from its page, covering all its recorded editions.
 
+### By filter
+
+Four feeds matching the filters on the front page. Same deadlines, fewer of them.
+
+- `/ics/core-a.ics` — conferences ranked CORE A* or A in the year they met
+- `/ics/open-access.ics` — proceedings free to read
+- `/ics/europe.ics` — meeting in Europe
+- `/ics/asia.ics` — meeting in Asia
+
+The region feeds follow the edition, not the series: a conference that meets in
+Lisbon one year and Kyōto the next appears in both.
+
 ## How to subscribe
 
 Use *subscribe to calendar*, not *import*: importing copies the events once and
@@ -45,3 +57,4 @@ on the conference's own page before relying on the last afternoon of it.
 The event is updated in place rather than replaced, so an extension moves the
 entry already in your calendar instead of leaving a duplicate behind. That is
 what the site is for.
+

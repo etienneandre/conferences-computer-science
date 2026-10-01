@@ -3,8 +3,12 @@
 {% block title %}{{ config.site.title }} &mdash; deadlines in theoretical computer science{% endblock %}
 
 {% block meta %}
+{% set social_title = config.site.title %}
+{% set social_description = config.site.tagline %}
+{% set social_url = config.site.base_url ~ '/' %}
 <meta name="description" content="{{ config.site.tagline }}">
-<link rel="canonical" href="{{ config.site.base_url }}/">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
 <link rel="alternate" type="text/calendar" href="/ics/deadlines.ics" title="Upcoming deadlines">
 {# The date the list was ordered. filters.js compares it to today and warns if
    it has stopped moving, which is the only visible sign that the front page

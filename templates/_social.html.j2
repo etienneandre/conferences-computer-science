@@ -1,0 +1,21 @@
+{# Link previews, on Mastodon, Bluesky, Slack, Signal and the rest.
+
+   A page from this site mostly gets found because somebody pasted a link to
+   it; without these tags that paste shows a bare URL. Three variables must be
+   set by the template that includes this, before the include:
+
+     social_title        what the card says, usually the <h1>, not the <title>
+     social_description  one sentence; whitespace is collapsed here
+     social_url          the canonical URL
+
+   No image. The site has no artwork that would survive being cropped to
+   1200×630, and an empty og:image is worse than none: it reserves the space
+   and then shows a blank. Cards without one fall back to a title-and-text
+   layout, which is what this site is anyway.
+#}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ config.site.title }}">
+<meta property="og:title" content="{{ social_title | oneline }}">
+<meta property="og:description" content="{{ social_description | oneline }}">
+<meta property="og:url" content="{{ social_url }}">
+<meta name="twitter:card" content="summary">

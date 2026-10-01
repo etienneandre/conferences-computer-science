@@ -66,7 +66,46 @@
     });
   }
 
+  // Anywhere on Earth is UTC-12, which is the whole point of it: a deadline
+  // stated in AoE is still open everywhere until it is closed everywhere. But
+  // "23:59 AoE" is not a time anybody can act on without doing the arithmetic,
+  // and the arithmetic is where people get it wrong by a day.
+  //
+  // So we say it again in the reader's own zone. This can only be done here —
+  // the server has no idea where the reader is, and the page is cached for
+  // everybody alike. Written only when it succeeds, and the element stays
+  // hidden otherwise: without JavaScript the page claims nothing about where
+  // anyone is.
+  function localise() {
+    var now = Date.now();
+    Array.prototype.forEach.call(
+      document.querySelectorAll('.localtime[data-expires]'),
+      function (element) {
+        var expires = Date.parse(element.getAttribute('data-expires') || '');
+        if (isNaN(expires)) return;
+        // A deadline that has gone needs no translating.
+        if (expires < now) return;
+
+        var text;
+        try {
+          text = new Date(expires).toLocaleString(undefined, {
+            day: 'numeric', month: 'short', year: 'numeric',
+            hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
+          });
+        } catch (e) {
+          return;
+        }
+        element.textContent = text;
+
+        // Unhide whatever wrapper was holding it back — a grid cell on the
+        // front page, a sentence on an edition page.
+        var holder = element.closest('[hidden]');
+        if (holder) holder.hidden = false;
+      });
+  }
+
   refresh();
+  localise();
   // A page left open on the morning of a deadline should not keep saying
   // "in 9 hours" all afternoon.
   setInterval(refresh, 60000);

@@ -87,6 +87,21 @@
     {% if conference.links.get('dblp') %}
     <div><span class="field-label">DBLP</span><span class="field-value"><a href="https://dblp.org/db/conf/{{ conference.links.dblp }}/">{{ conference.links.dblp }} &#8599;</a></span></div>
     {% endif %}
+    {# The question an author has at two in the morning: does this one move?
+       Already computed for the series page; it belongs here too, where the
+       deadline is actually being read. #}
+    {% set ext = conference.extension_summary %}
+    {% if ext.known %}
+    <div><span class="field-label">Extensions</span><span class="field-value">Extended
+      {{ ext.extended }} of {{ ext.known }} recorded
+      {%- if ext.typical %}, {{ 'usually' if ext.varied else 'always' }} by {{ ext.typical }}{% endif %}</span></div>
+    {% endif %}
+    {# Filled in by countdown.js, which unhides the wrapper. A reader without
+       JavaScript is never shown a time zone we had to guess at. #}
+    {% if paper %}
+    <div hidden><span class="field-label">Where you are</span><span
+      class="field-value data localtime" data-expires="@@EXPIRES@@"></span></div>
+    {% endif %}
   </div>
   {% if conference.rated_editions %}
   <div style="margin-top:.75rem">

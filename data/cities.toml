@@ -1862,15 +1862,6 @@ lon = 14.2681
 continent = "EU"
 # 4 edition(s)
 
-["Napoly, Italy"]
-country = "IT"
-display = "Napoly"
-lat = 40.8518
-lon = 14.2681
-continent = "EU"
-# WARNING: misspelling of Napoli / Naples
-# 1 edition(s)
-
 ["Nara, Japan"]
 country = "JP"
 display = "Nara"
@@ -2209,14 +2200,6 @@ lon = 0.3404
 continent = "EU"
 # 2 edition(s)
 
-["Poitiers/Futuroscope, France"]
-country = "FR"
-display = "Poitiers/Futuroscope"
-lat = 46.5802
-lon = 0.3404
-continent = "EU"
-# 1 edition(s)
-
 ["Porto de Galinhas, Brazil"]
 country = "BR"
 display = "Porto de Galinhas"
@@ -2233,14 +2216,6 @@ lon = -8.6291
 continent = "EU"
 # 17 edition(s)
 
-["Porto, Portugal (hybrid?)"]
-country = "PT"
-display = "Porto"
-lat = 41.1579
-lon = -8.6291
-continent = "EU"
-# 1 edition(s)
-
 ["Portsmouth, New Hampshire, USA"]
 country = "US"
 display = "Portsmouth"
@@ -2256,22 +2231,12 @@ lon = 16.9252
 continent = "EU"
 # 1 edition(s)
 
-["Prag, Czech Republic"]
-country = "CZ"
-display = "Prag"
-lat = 50.0755
-lon = 14.4378
-continent = "EU"
-# WARNING: German spelling of Prague
-# 4 edition(s)
-
 ["Prague, Czech Republic"]
 country = "CZ"
 display = "Prague"
 lat = 50.0755
 lon = 14.4378
 continent = "EU"
-# 8 edition(s)
 
 ["Pune, India"]
 country = "IN"
@@ -2287,7 +2252,6 @@ display = "Putrajaya"
 lat = 2.9264
 lon = 101.6964
 continent = "AS"
-# 1 edition(s)
 
 ["Qingdao, China"]
 country = "CN"
@@ -2297,22 +2261,12 @@ lon = 120.3826
 continent = "AS"
 # 1 edition(s)
 
-["Québec City, Canada"]
+["Québec City, Québec, Canada"]
 country = "CA"
 display = "Québec City"
 lat = 46.8139
 lon = -71.208
 continent = "NA"
-# 2 edition(s)
-
-["Québec City, Québec"]
-country = "CA"
-display = "Québec City"
-lat = 46.8139
-lon = -71.208
-continent = "NA"
-# WARNING: no country given
-# 1 edition(s)
 
 ["Raleigh, North Carolina, USA"]
 country = "US"
