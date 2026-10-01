@@ -287,21 +287,18 @@
     {% if place.name and not edition.online %}
     <section class="panel">
       <h2 class="panel-title">Where</h2>
-      <div class="mapbox">
-        <div class="map-holder" id="map" data-city="{{ place.name }}"
-             data-zoom="{{ config.map.zoom }}"
-             data-autoload="{{ 'true' if config.map.autoload else 'false' }}"
-             {% if place.get('lat') %}data-lat="{{ place.lat }}" data-lon="{{ place.lon }}"{% endif %}>
-          {% if not config.map.autoload %}
-          <div class="map-prompt">
-            <button type="button" id="loadmap">Show map</button>
-            <p>Loads tiles from OpenStreetMap, which will see your IP address.</p>
-          </div>
-          {% endif %}
-        </div>
-        <p class="map-caption">{{ place.name }} {{ place.flag }}</p>
-        <p class="geo-hint" id="geohint" hidden></p>
-      </div>
+      {% if map_points %}
+      {% set map_mode = 'one' %}
+      {# The city as the gazetteer records it, plus the name the place calls
+         itself: there is room for both here, and nowhere in a dense list. #}
+      {% set map_caption %}{% if place.get('url') %}<a href="{{ place.url }}">{{ place.name }}</a>{% else %}{{ place.name }}{% endif %} {{ place.flag }}
+        {%- if place.get('native') %} &middot; <span class="native" {% if place.get('native_lang') %}lang="{{ place.native_lang }}"{% endif %}>{{ place.native }}</span>{% endif %}{% endset %}
+      {% include "_mapbox.html.j2" %}
+      {% else %}
+      <p class="detail-note">{{ place.name }} {{ place.flag }}
+        {%- if place.get('native') %} &middot; <span class="native" {% if place.get('native_lang') %}lang="{{ place.native_lang }}"{% endif %}>{{ place.native }}</span>{% endif %}
+        &mdash; no coordinates on file, so no map.</p>
+      {% endif %}
     </section>
     {% endif %}
 
@@ -386,7 +383,7 @@
 
 {% block scripts %}
 <script src="/assets/countdown.js?v={{ asset_version }}" defer></script>
-{% if place.name and not edition.online %}
-<script src="/assets/map.js?v={{ asset_version }}" defer></script>
+{% if map_points %}
+<script src="/assets/maps.js?v={{ asset_version }}" defer></script>
 {% endif %}
 {% endblock %}

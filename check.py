@@ -32,6 +32,8 @@ from collections import Counter, defaultdict
 from datetime import date, timedelta
 from pathlib import Path
 
+from slugs import slugify
+
 # --------------------------------------------------------------------------
 # Schema declaration
 #
@@ -198,6 +200,12 @@ CHRONOLOGY = ("abstract", "paper", "notification", "camera_ready")
 # --------------------------------------------------------------------------
 # Reporting
 # --------------------------------------------------------------------------
+
+# A BCP-47 language tag, loosely: a language subtag and any number of
+# refinements. Loose on purpose — this is here to catch `japanese` and
+# `zh_Hans`, not to adjudicate the registry.
+RE_LANG_TAG = re.compile(r"[A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*")
+
 
 class Report:
     def __init__(self, quiet: bool = False) -> None:
@@ -746,6 +754,72 @@ class Checker:
 
     # -- pass 2: cross-file references ------------------------------------
 
+    def check_gazetteer(self) -> None:
+        """Validate cities.toml itself, not just the editions that cite it.
+
+        Two things matter here that nothing else catches. A misspelt key — a
+        `nativ` or a `lng` — is silently ignored by the build, so the name
+        never appears and nothing says why. And two entries whose names reduce
+        to the same URL are, nine times out of ten, the same city entered
+        twice; the build still gives both a page, but one of them is a
+        duplicate that will slowly drift out of step with the other.
+        """
+        known = {"country", "subdivision", "display", "native", "native_lang",
+                 "lat", "lon", "continent"}
+        slugs: dict[str, str] = {}
+
+        for key in sorted(self.cities):
+            entry = self.cities[key]
+            where = f"cities.toml [{key}]"
+            if not isinstance(entry, dict):
+                self.report.error(where, "should be a table")
+                continue
+
+            for field in sorted(set(entry) - known):
+                self.report.error(where, f"unknown key `{field}`")
+
+            country = entry.get("country")
+            if country is not None and not (
+                    isinstance(country, str) and len(country) == 2
+                    and country.isalpha() and country.isupper()):
+                self.report.error(where, f"`country` should be a two-letter "
+                                         f"uppercase ISO code, not {country!r}")
+
+            for field in ("display", "native", "native_lang"):
+                if field in entry and not isinstance(entry[field], str):
+                    self.report.error(where, f"`{field}` should be text")
+
+            lang = entry.get("native_lang")
+            if isinstance(lang, str) and lang and not RE_LANG_TAG.fullmatch(lang):
+                self.report.error(where, f"`native_lang` should be a language "
+                                         f"tag such as ja or zh-Hans, not {lang!r}")
+            if lang and not entry.get("native"):
+                self.report.warn(where, "`native_lang` with no `native` to label")
+
+            for field in ("lat", "lon"):
+                value = entry.get(field)
+                if value is not None and not isinstance(value, (int, float)):
+                    self.report.error(where, f"`{field}` should be a number")
+            lat, lon = entry.get("lat"), entry.get("lon")
+            if isinstance(lat, (int, float)) and not -90 <= lat <= 90:
+                self.report.error(where, f"`lat` {lat} is outside -90..90")
+            if isinstance(lon, (int, float)) and not -180 <= lon <= 180:
+                self.report.error(where, f"`lon` {lon} is outside -180..180")
+            if (lat is None) != (lon is None):
+                self.report.error(where, "one coordinate without the other")
+
+            if not country:
+                continue
+            slug = slugify(key)
+            if not slug:
+                self.report.warn(where, "no Latin letters to build a /city/ "
+                                        "address from")
+            elif slug in slugs:
+                self.report.warn(where, f"shares the address /city/{slug}/ with "
+                                        f"[{slugs[slug]}] — the same place twice?")
+            else:
+                slugs[slug] = key
+
     def check_references(self) -> None:
         for slug, conf in self.slugs.items():
             where = f"{slug}/conference.toml"
@@ -918,6 +992,7 @@ def main() -> int:
     report = Report(quiet=args.quiet)
     checker = Checker(args.data, report, network=args.network)
     checker.read(args.only)
+    checker.check_gazetteer()
     checker.check_references()
     checker.count_markers(args.only)
     if args.network:

@@ -1,0 +1,110 @@
+{% extends "base.html.j2" %}
+
+{% block title %}Conferences in {{ place.display }}
+  {%- if country %}, {{ country.name }}{% endif %} &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title %}Conferences in {{ place.display }}{% if place.native %} ({{ place.native }}){% endif %}{% endset %}
+{% set social_url = config.site.base_url ~ place.url %}
+{% set social_description %}
+  {%- if place.editions %}{{ place.editions | length }} edition{{ 's' if place.editions | length != 1 }}
+  of {{ place.conferences | length }} computer science conference{{ 's' if place.conferences | length != 1 }}
+  held in {{ place.display }}{% if country %}, {{ country.name }}{% endif %},
+  between {{ place.first_year }} and {{ place.last_year }}.
+  {%- else %}{{ place.display }}{% if country %}, {{ country.name }}{% endif %}:
+  no conference edition is recorded here yet.{% endif %}{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / <a href="/city/">Cities</a>
+    {%- if country %} / <a href="{{ country.url }}">{{ country.name }}</a>{% endif %}
+    / {{ place.display }}</p>
+  <h1 class="page-title">{{ place.display }} {{ place.flag }}</h1>
+  {% if place.native %}
+  {# The name the city calls itself. Marked up with its language so a screen
+     reader switches voice and the browser picks a font that has the glyphs. #}
+  <p class="page-sub native" {% if place.native_lang %}lang="{{ place.native_lang }}"{% endif %}>{{ place.native }}</p>
+  {% endif %}
+
+  <div class="page-meta">
+    {% if country %}
+    <span class="item">Country<b><a href="{{ country.url }}">{{ country.name }}</a></b></span>
+    {% endif %}
+    <span class="item">Editions<b>{{ place.editions | length }}</b></span>
+    <span class="item">Series<b>{{ place.conferences | length }}</b></span>
+    {% if place.first_year %}
+    <span class="item">Covered<b>{{ place.first_year }}&ndash;{{ place.last_year }}</b></span>
+    {% endif %}
+  </div>
+</header>
+
+<div class="cols">
+  <div>
+    {% if place.editions %}
+    <section class="panel">
+      <h2 class="panel-title">Editions held here</h2>
+      <table class="editions">
+        <thead>
+          <tr><th>Year</th><th>Conference</th><th>Held</th><th>Paper deadline</th></tr>
+        </thead>
+        <tbody>
+          {% for e in place.listed_editions %}
+          <tr{% if e.status in ('cancelled', 'no-edition', 'postponed') %} class="struck"{% endif %}>
+            <td class="yr"><a href="{{ e.url }}">{{ e.key }}</a></td>
+            <td><a href="{{ e.conference.url }}">{{ e.conference.acronym }}</a>
+              <span class="where">{{ e.conference.name }}</span></td>
+            <td>{{ e.held }}</td>
+            <td>{% if e.paper %}{{ e.paper.effective | date }}{% else %}&mdash;{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+    {% else %}
+    <section class="panel">
+      <p class="detail-note">No edition is recorded as having been held here.
+        The gazetteer sometimes runs ahead of the records &mdash; a city is
+        added when a venue is first checked, which is not always the same day
+        an edition is filed.</p>
+    </section>
+    {% endif %}
+  </div>
+
+  <aside>
+    {% if map_points %}
+    <section class="panel">
+      <h2 class="panel-title">Where</h2>
+      {% set map_mode = 'one' %}
+      {% set map_caption %}{{ place.key }}{% if place.native %} &middot; {{ place.native }}{% endif %}{% endset %}
+      {% include "_mapbox.html.j2" %}
+    </section>
+    {% endif %}
+
+    {% if place.conferences %}
+    <section class="panel">
+      <h2 class="panel-title">Series that have met here</h2>
+      <dl class="factlist">
+        {% for c in place.conferences %}
+        <dt><a href="{{ c.url }}">{{ c.acronym }}</a></dt>
+        <dd>{{ place.visits(c) }} time{{ 's' if place.visits(c) != 1 }}</dd>
+        {% endfor %}
+      </dl>
+    </section>
+    {% endif %}
+  </aside>
+</div>
+
+</article>
+{% endblock %}
+
+{% block scripts %}
+{% if map_points %}
+<script src="/assets/maps.js?v={{ asset_version }}" defer></script>
+{% endif %}
+{% endblock %}

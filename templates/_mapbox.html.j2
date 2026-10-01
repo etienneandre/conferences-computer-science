@@ -1,0 +1,34 @@
+{# The map panel, in all four of its forms.
+
+   Expects, from the including template:
+
+     map_mode     one | series | calls | places   (see assets/maps.js)
+     map_points   the points, already in the shared shape
+     map_tall     true for a map that has to hold a continent or the world
+     map_caption  fixed text under it; omit for a caption the script writes
+
+   Nothing here fetches a tile. The reader asks first — by pressing the
+   button, or by opening the <details> this sits inside — unless site.toml
+   says otherwise.
+#}
+<div class="mapbox">
+  <div class="map-holder{% if map_tall | default(false) %} is-tall{% endif %}"
+       data-map="{{ map_mode }}"
+       data-zoom="{{ config.map.zoom }}"
+       data-autoload="{{ 'true' if config.map.autoload else 'false' }}"
+       data-points='{{ map_points | tojson }}'>
+    {% if not config.map.autoload and not in_details | default(false) %}
+    <div class="map-prompt">
+      <button type="button">Show map</button>
+      <p>Loads tiles from OpenStreetMap, which will see your IP address.</p>
+    </div>
+    {% endif %}
+  </div>
+  {% if map_caption | default(none) %}
+  <p class="map-caption">{{ map_caption }}</p>
+  {% else %}
+  {# Empty and hidden until the script has something to say: a caption
+     reading "Loading map" above a map nobody has asked for is a lie. #}
+  <p class="map-caption" data-live hidden></p>
+  {% endif %}
+</div>

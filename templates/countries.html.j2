@@ -1,0 +1,58 @@
+{% extends "base.html.j2" %}
+
+{% block title %}Every country &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title = 'Every country' %}
+{% set social_url = config.site.base_url ~ '/country/' %}
+{% set social_description %}The {{ countries | length }} countries where
+  theoretical computer science conferences have met, with how many editions
+  each has hosted.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / Countries</p>
+  <h1 class="page-title">Every country</h1>
+  <p class="page-sub">Grouped by ISO code, so a country spelled two ways in the
+    gazetteer is still one country here. <a href="/city/">By city instead</a>.</p>
+</header>
+
+<section class="panel">
+  <table class="editions sortable" id="countrytable">
+    <thead>
+      <tr>
+        <th data-sort="text">Country</th>
+        <th class="num" data-sort="number" aria-sort="descending">Editions</th>
+        <th class="num" data-sort="number">Cities</th>
+        <th class="num" data-sort="number">Series</th>
+        <th class="num" data-sort="number">First</th>
+        <th class="num" data-sort="number">Last</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for c in countries %}
+      <tr>
+        <td><a href="{{ c.url }}">{{ c.name }}</a> {{ c.flag }}</td>
+        <td class="num">{{ c.editions | length }}</td>
+        <td class="num">{{ c.cities | length }}</td>
+        <td class="num">{{ c.conferences | length }}</td>
+        <td class="num">{{ c.first_year }}</td>
+        <td class="num">{{ c.last_year }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script src="/assets/places.js?v={{ asset_version }}" defer></script>
+{% endblock %}

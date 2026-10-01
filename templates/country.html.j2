@@ -1,0 +1,93 @@
+{% extends "base.html.j2" %}
+
+{% block title %}Conferences in {{ country.name }} &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title %}Conferences in {{ country.name }}{% endset %}
+{% set social_url = config.site.base_url ~ country.url %}
+{% set social_description %}{{ country.editions | length }} edition{{ 's' if country.editions | length != 1 }}
+  of {{ country.conferences | length }} computer science conference{{ 's' if country.conferences | length != 1 }}
+  held in {{ country.cities | length }} cit{{ 'ies' if country.cities | length != 1 else 'y' }}
+  across {{ country.name }}{% if country.first_year %}, between {{ country.first_year }} and {{ country.last_year }}{% endif %}.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / <a href="/country/">Countries</a>
+    / {{ country.name }}</p>
+  <h1 class="page-title">{{ country.name }} {{ country.flag }}</h1>
+
+  <div class="page-meta">
+    <span class="item">Cities<b>{{ country.cities | length }}</b></span>
+    <span class="item">Editions<b>{{ country.editions | length }}</b></span>
+    <span class="item">Series<b>{{ country.conferences | length }}</b></span>
+    {% if country.first_year %}
+    <span class="item">Covered<b>{{ country.first_year }}&ndash;{{ country.last_year }}</b></span>
+    {% endif %}
+  </div>
+</header>
+
+<div class="cols">
+  <div>
+    <section class="panel">
+      <h2 class="panel-title">Cities</h2>
+      <table class="editions">
+        <thead>
+          <tr><th>City</th><th class="num">Editions</th><th class="num">Series</th><th>Covered</th></tr>
+        </thead>
+        <tbody>
+          {% for c in country.listed_cities %}
+          <tr>
+            <td><a href="{{ c.url }}">{{ c.display }}</a>
+              {%- if c.native %} <span class="native" {% if c.native_lang %}lang="{{ c.native_lang }}"{% endif %}>{{ c.native }}</span>{% endif %}</td>
+            <td class="num">{{ c.editions | length }}</td>
+            <td class="num">{{ c.conferences | length }}</td>
+            <td>{% if c.first_year %}{{ c.first_year }}&ndash;{{ c.last_year }}{% else %}&mdash;{% endif %}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+  </div>
+
+  <aside>
+    {% if map_points %}
+    <section class="panel">
+      <h2 class="panel-title">Where</h2>
+      {% set map_mode = 'places' %}
+      {% set map_tall = true %}
+      {% include "_mapbox.html.j2" %}
+    </section>
+    {% endif %}
+
+    {% if country.conferences %}
+    <section class="panel">
+      <h2 class="panel-title">Series that have met here</h2>
+      <dl class="factlist">
+        {% for c in country.conferences[:30] %}
+        <dt><a href="{{ c.url }}">{{ c.acronym }}</a></dt>
+        <dd>{{ c.name }}</dd>
+        {% endfor %}
+      </dl>
+      {% if country.conferences | length > 30 %}
+      <p class="chart-caption">The thirty most frequent, of
+        {{ country.conferences | length }}.</p>
+      {% endif %}
+    </section>
+    {% endif %}
+  </aside>
+</div>
+
+</article>
+{% endblock %}
+
+{% block scripts %}
+{% if map_points %}
+<script src="/assets/maps.js?v={{ asset_version }}" defer></script>
+{% endif %}
+{% endblock %}

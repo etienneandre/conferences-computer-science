@@ -36,6 +36,8 @@ from pathlib import Path
 from urllib.parse import urlencode
 
 import calendars
+import countries
+from slugs import slugify
 
 try:
     from jinja2 import Environment, FileSystemLoader, StrictUndefined
@@ -806,6 +808,136 @@ def ordinal(n: int | None) -> str:
     return f"{n}{suffix}"
 
 
+@dataclass
+class Place:
+    """A city in the gazetteer, with the editions that met there.
+
+    Built from cities.toml and never stored: the file is a gazetteer, not a
+    model, and nothing here is written back to it.
+    """
+    key: str
+    slug: str
+    raw: dict
+    editions: list[Edition] = field(default_factory=list)
+
+    @property
+    def url(self) -> str:
+        return f"/city/{self.slug}/"
+
+    @property
+    def display(self) -> str:
+        return self.raw.get("display") or self.key.split(",")[0].strip()
+
+    @property
+    def native(self) -> str | None:
+        """The name in the language of the place, when it is worth saying.
+
+        Worth saying means different from the English name: recording
+        `native = "Paris"` under "Paris, France" would print the same word
+        twice, so it is dropped here rather than having to be left out of the
+        data.
+        """
+        value = (self.raw.get("native") or "").strip()
+        return value if value and value != self.display else None
+
+    @property
+    def native_lang(self) -> str | None:
+        return (self.raw.get("native_lang") or "").strip() or None
+
+    @property
+    def country_code(self) -> str | None:
+        return self.raw.get("country")
+
+    @property
+    def subdivision(self) -> str | None:
+        return self.raw.get("subdivision")
+
+    @property
+    def flag(self) -> str:
+        return flag_emoji(self.country_code, self.subdivision)
+
+    @property
+    def lat(self):
+        return self.raw.get("lat")
+
+    @property
+    def lon(self):
+        return self.raw.get("lon")
+
+    @property
+    def located(self) -> bool:
+        return self.lat is not None and self.lon is not None
+
+    @property
+    def listed_editions(self) -> list[Edition]:
+        return sorted(self.editions, key=lambda e: (e.year, e.key), reverse=True)
+
+    @property
+    def conferences(self) -> list["Conference"]:
+        """Distinct series that have met here, most visits first."""
+        counts = Counter(e.slug for e in self.editions)
+        by_slug = {e.slug: e.conference for e in self.editions}
+        return [by_slug[slug] for slug, _ in
+                sorted(counts.items(), key=lambda p: (-p[1], by_slug[p[0]].acronym.lower()))]
+
+    def visits(self, conference: "Conference") -> int:
+        return sum(1 for e in self.editions if e.slug == conference.slug)
+
+    @property
+    def first_year(self) -> int | None:
+        return min((e.year for e in self.editions), default=None)
+
+    @property
+    def last_year(self) -> int | None:
+        return max((e.year for e in self.editions), default=None)
+
+
+@dataclass
+class Country:
+    """Cities grouped by ISO code, not by what the gazetteer key happens to say.
+
+    Grouping on the code is what keeps "Oxford, England", "Oxford, UK" and
+    "Egham, United Kingdom" on one page.
+    """
+    code: str
+    name: str
+    slug: str
+    cities: list[Place] = field(default_factory=list)
+
+    @property
+    def url(self) -> str:
+        return f"/country/{self.slug}/"
+
+    @property
+    def flag(self) -> str:
+        return flag_emoji(self.code)
+
+    @property
+    def editions(self) -> list[Edition]:
+        return [e for city in self.cities for e in city.editions]
+
+    @property
+    def listed_cities(self) -> list[Place]:
+        return sorted(self.cities,
+                      key=lambda c: (-len(c.editions), c.display.lower()))
+
+    @property
+    def conferences(self) -> list["Conference"]:
+        editions = self.editions
+        counts = Counter(e.slug for e in editions)
+        by_slug = {e.slug: e.conference for e in editions}
+        return [by_slug[slug] for slug, _ in
+                sorted(counts.items(), key=lambda p: (-p[1], by_slug[p[0]].acronym.lower()))]
+
+    @property
+    def first_year(self) -> int | None:
+        return min((e.year for e in self.editions), default=None)
+
+    @property
+    def last_year(self) -> int | None:
+        return max((e.year for e in self.editions), default=None)
+
+
 # --------------------------------------------------------------------------
 # Site
 # --------------------------------------------------------------------------
@@ -823,6 +955,8 @@ class Site:
 
         self.conferences: dict[str, Conference] = {}
         self.editions: list[Edition] = []
+        self.places: dict[str, Place] = {}        # gazetteer key -> Place
+        self.countries: dict[str, Country] = {}   # ISO code -> Country
         self.now = datetime.now(timezone.utc)
         self.warnings: list[str] = []
 
@@ -878,6 +1012,60 @@ class Site:
             edition.deadlines = self._deadlines(edition)
 
         self._link_colocated()
+        self._resolve_places()
+
+    def _resolve_places(self) -> None:
+        """Turn the gazetteer into pages, and group those pages by country.
+
+        Only entries with an ISO country code become pages. The gazetteer also
+        holds a few placeholders — "Virtual", "?", "none" — which record that a
+        venue was asked about and found not to be a place; they have no
+        country, and a page about them would say nothing.
+
+        Slugs are derived, never stored, so renaming a key in cities.toml moves
+        its page. Two keys that reduce to the same slug are almost always the
+        same city spelled twice, which is worth saying out loud: the warning
+        below has been the quickest way to find spelling variants in the
+        gazetteer. The later key still gets a page, at a suffixed address, so a
+        duplicate never silently swallows another city's editions.
+        """
+        taken: dict[str, str] = {}
+        for key in sorted(self.cities):
+            entry = self.cities[key] or {}
+            if not entry.get("country"):
+                continue
+            slug = slugify(key)
+            if not slug:
+                self.warn(f"city {key!r} has no Latin letters to build an "
+                          f"address from; give it a `display` that does")
+                continue
+            if slug in taken:
+                self.warn(f"cities {taken[slug]!r} and {key!r} both reduce to "
+                          f"/city/{slug}/ — the same place under two spellings?")
+                suffix = 2
+                while f"{slug}-{suffix}" in taken:
+                    suffix += 1
+                slug = f"{slug}-{suffix}"
+            taken[slug] = key
+            self.places[key] = Place(key=key, slug=slug, raw=entry)
+
+        for edition in self.editions:
+            place = self.places.get(edition.city_name)
+            if place is not None:
+                place.editions.append(edition)
+
+        for place in self.places.values():
+            code = place.country_code
+            country = self.countries.get(code)
+            if country is None:
+                name = countries.name(code)
+                if name is None:
+                    self.warn(f"country code {code!r} (from {place.key!r}) is "
+                              f"not in countries.py; no country page for it")
+                    continue
+                country = Country(code=code, name=name, slug=slugify(name))
+                self.countries[code] = country
+            country.cities.append(place)
 
     def _link_colocated(self) -> None:
         """Resolve `event.colocated_with`, and make the relation symmetric.
@@ -938,6 +1126,17 @@ class Site:
         entry.setdefault("display", name.split(",")[0].strip())
         entry["flag"] = flag_emoji(entry.get("country"), entry.get("subdivision"))
         entry["name"] = name
+
+        # The place page, when this city has one. Added here rather than
+        # through a second lookup so that every template already holding a
+        # `place` dict can link to it without being changed.
+        place = self.places.get(name)
+        entry["url"] = place.url if place else None
+        entry["native"] = place.native if place else None
+        entry["native_lang"] = place.native_lang if place else None
+        country = self.countries.get(entry.get("country")) if place else None
+        entry["country_name"] = country.name if country else None
+        entry["country_url"] = country.url if country else None
         return entry
 
     def licence(self, key: str | None) -> dict:
@@ -1050,8 +1249,8 @@ def asset_version(site: Site) -> str:
     """
     digest = hashlib.sha256()
     folder = site.root / site.config["build"]["assets"]
-    for name in sorted(("site.css", "filters.js", "map.js", "seriesmap.js",
-                        "frontmap.js", "countdown.js")):
+    for name in sorted(("site.css", "filters.js", "maps.js", "countdown.js",
+                        "places.js")):
         path = folder / name
         if path.exists():
             digest.update(path.read_bytes())
@@ -1130,6 +1329,42 @@ def write(path: Path, text: str) -> None:
     WRITTEN["written"] += 1
 
 
+# --------------------------------------------------------------------------
+# Map points
+#
+# Every map on the site is drawn by assets/maps.js from the same point shape:
+#
+#   {lat, lon, title, note, tip, rank, links: [{label, url, note, ts}]}
+#
+# `rank` is the number the mode colours by, and `links` is what a popup
+# offers. Keeping one shape means the modes differ only in what they mean,
+# never in how they are read.
+# --------------------------------------------------------------------------
+
+def _point(place: dict | Place, **extra) -> dict:
+    """The common half of a point: where it is and what it is called."""
+    if isinstance(place, Place):
+        lat, lon, title, flag = place.lat, place.lon, place.display, place.flag
+    else:
+        lat, lon = place.get("lat"), place.get("lon")
+        title, flag = place.get("display") or place.get("name"), place.get("flag", "")
+    point = {"lat": float(lat), "lon": float(lon), "title": title, "note": flag}
+    point.update(extra)
+    return point
+
+
+def venue_point(site: Site, name: str | None) -> list[dict]:
+    """The single pin on an edition page or a city page."""
+    if not name:
+        return []
+    place = site.city(name)
+    if place.get("lat") is None or place.get("lon") is None:
+        return []
+    native = place.get("native")
+    return [_point(place, rank=0, links=[],
+                   tip=f"{place['display']} \u2014 {native}" if native else place["display"])]
+
+
 def series_map_points(site: Site, conference: Conference) -> list[dict]:
     """One pin per city for the map on a conference page.
 
@@ -1138,9 +1373,8 @@ def series_map_points(site: Site, conference: Conference) -> list[dict]:
     would simply hide each other. Each group carries the year of its most
     recent visit, which is what colours the pin.
 
-    Left out: editions held online, editions that were cancelled or never
-    took place, and cities the gazetteer has no coordinates for. Returned
-    oldest first, so the drawing order puts recent pins on top.
+    Left out: editions held online, editions that were cancelled or never took
+    place, and cities the gazetteer has no coordinates for.
     """
     groups: dict[str, dict] = {}
     for edition in sorted(conference.editions, key=lambda e: e.year):
@@ -1152,23 +1386,78 @@ def series_map_points(site: Site, conference: Conference) -> list[dict]:
         place = site.city(name)
         if place.get("lat") is None or place.get("lon") is None:
             continue
-        point = groups.setdefault(name, {
-            "lat": float(place["lat"]),
-            "lon": float(place["lon"]),
-            "city": place.get("display") or name,
-            "flag": place.get("flag", ""),
-            "acronym": conference.acronym,
-            "editions": [],
-            "newest": edition.year,
-        })
-        point["editions"].append({"label": edition.key, "url": edition.url})
-        point["newest"] = max(point["newest"], edition.year)
+        point = groups.setdefault(name, _point(place, links=[], rank=edition.year))
+        point["links"].append({"label": edition.key, "url": edition.url})
+        point["rank"] = max(point["rank"], edition.year)
 
-    points = sorted(groups.values(), key=lambda p: p["newest"])
+    points = sorted(groups.values(), key=lambda p: p["rank"])
     for point in points:
-        years = ", ".join(e["label"] for e in point["editions"])
-        point["label"] = f"{conference.acronym} {years}"
+        years = ", ".join(link["label"] for link in point["links"])
+        point["tip"] = f"{conference.acronym} {years} \u00b7 {point['title']}"
     return points
+
+
+def front_map_points(site: "Site") -> list[dict]:
+    """One pin per city for the map above the front-page list.
+
+    The same set as the rows tagged `upcoming` — every call still open at
+    build time — grouped by city and carrying each call's expiry, so the
+    browser can drop the ones that have closed since. Nothing has to be added
+    later: a call that has closed cannot reopen without a rebuild, so the set
+    only ever shrinks between deploys.
+
+    Left out: calls held online, and venues the gazetteer has no coordinates
+    for. The caption under the map says so rather than quietly omitting them.
+    """
+    now_ts = int(site.now.timestamp())
+    groups: dict[str, dict] = {}
+    for edition in site.editions:
+        if not edition.listed or edition.online:
+            continue
+        paper = edition.paper
+        if paper is None:
+            continue
+        ts = int(deadline_instant(paper.effective, paper.tz).timestamp())
+        if ts < now_ts:
+            continue
+        name = edition.city_name
+        if not name:
+            continue
+        place = site.city(name)
+        if place.get("lat") is None or place.get("lon") is None:
+            continue
+        point = groups.setdefault(name, _point(place, links=[], rank=ts))
+        # The date is formatted here, not in the browser: wording lives in one
+        # place, and this one cannot drift from the list beside it.
+        point["links"].append({"label": edition.acronym, "url": edition.url,
+                               "ts": ts, "note": fmt_date(paper.effective)})
+        point["rank"] = min(point["rank"], ts)
+
+    return sorted(groups.values(), key=lambda p: p["rank"])
+
+
+def place_map_points(places: list[Place]) -> list[dict]:
+    """One pin per city, linked to its own page, shaded by how busy it is.
+
+    Used for the map of every city, and for a country's own map. Darker means
+    more editions held there, which is the same reading as the conference map
+    where darker means more recent: more of whatever the page is about.
+    """
+    points = []
+    for place in places:
+        if not place.located or not place.editions:
+            continue
+        native = place.native
+        points.append(_point(
+            place,
+            rank=len(place.editions),
+            tip=(f"{place.display} \u2014 {native}" if native else place.display)
+                + f" \u00b7 {len(place.editions)}",
+            links=[{"label": f"{len(place.editions)} edition"
+                             f"{'s' if len(place.editions) != 1 else ''}"
+                             f", {len(place.conferences)} series",
+                    "url": place.url}]))
+    return sorted(points, key=lambda p: p["rank"])
 
 
 def render(site: Site, env: Environment) -> int:
@@ -1191,10 +1480,53 @@ def render(site: Site, env: Environment) -> int:
 
         for edition in conference.editions:
             out = site.out_dir / conference.slug / edition.key / "index.html"
-            write(out, edition_tpl.render(edition=edition, conference=conference))
+            write(out, edition_tpl.render(
+                edition=edition, conference=conference,
+                map_points=venue_point(site, edition.city_name)))
             pages += 1
 
     return pages
+
+
+def render_places(site: Site, env: Environment) -> int:
+    """A page per city, a page per country, and an index of each.
+
+    These answer a question the rest of the site cannot: not "when is this
+    conference" but "what comes to this town". For somebody who would rather
+    not fly, that is the more useful question, and the data to answer it has
+    been sitting in the gazetteer all along.
+
+    Cities with no editions still get a page — the gazetteer sometimes runs
+    ahead of the records — but they are kept out of the indexes, where a row
+    reading "0 editions" is noise.
+    """
+    city_tpl = env.get_template("city.html.j2")
+    country_tpl = env.get_template("country.html.j2")
+    pages = 0
+
+    for place in site.places.values():
+        write(site.out_dir / "city" / place.slug / "index.html",
+              city_tpl.render(place=place,
+                              country=site.countries.get(place.country_code),
+                              map_points=venue_point(site, place.key)))
+        pages += 1
+
+    for country in site.countries.values():
+        write(site.out_dir / "country" / country.slug / "index.html",
+              country_tpl.render(country=country,
+                                 map_points=place_map_points(country.cities)))
+        pages += 1
+
+    visited = [p for p in site.places.values() if p.editions]
+    write(site.out_dir / "city" / "index.html",
+          env.get_template("cities.html.j2").render(
+              places=sorted(visited, key=lambda p: (-len(p.editions), p.display.lower())),
+              map_points=place_map_points(visited)))
+    write(site.out_dir / "country" / "index.html",
+          env.get_template("countries.html.j2").render(
+              countries=sorted((c for c in site.countries.values() if c.editions),
+                               key=lambda c: (-len(c.editions), c.name.lower()))))
+    return pages + 2
 
 
 # --------------------------------------------------------------------------
@@ -1295,53 +1627,6 @@ def front_rows(site: "Site", env: Environment) -> list[dict]:
                                                  and "defunct" not in tags.split())),
         })
     return rows
-
-
-def front_map_points(site: "Site") -> list[dict]:
-    """One pin per city for the map above the front-page list.
-
-    The same set as the rows tagged `upcoming` — every call still open at
-    build time — grouped by city and carrying each call's expiry, so the
-    browser can drop the ones that have closed since. Nothing has to be added
-    later: a call that has closed cannot reopen without a rebuild, so the set
-    only ever shrinks between deploys.
-
-    Left out: calls held online, and venues the gazetteer has no coordinates
-    for. The caption under the map says so rather than quietly omitting them.
-    """
-    now_ts = int(site.now.timestamp())
-    groups: dict[str, dict] = {}
-    for edition in site.editions:
-        if not edition.listed or edition.online:
-            continue
-        paper = edition.paper
-        if paper is None:
-            continue
-        ts = int(deadline_instant(paper.effective, paper.tz).timestamp())
-        if ts < now_ts:
-            continue
-        name = edition.city_name
-        if not name:
-            continue
-        place = site.city(name)
-        if place.get("lat") is None or place.get("lon") is None:
-            continue
-        point = groups.setdefault(name, {
-            "lat": float(place["lat"]),
-            "lon": float(place["lon"]),
-            "city": place.get("display") or name,
-            "flag": place.get("flag", ""),
-            "calls": [],
-        })
-        # The date is formatted here, not in the browser: wording lives in one
-        # place, and this one cannot drift from the list beside it.
-        point["calls"].append({"label": edition.acronym, "url": edition.url,
-                               "ts": ts, "date": fmt_date(paper.effective)})
-
-    points = sorted(groups.values(), key=lambda p: min(c["ts"] for c in p["calls"]))
-    for point in points:
-        point["calls"].sort(key=lambda c: c["ts"])
-    return points
 
 
 def order_rows(rows: list[dict], now_ts: int) -> list[dict]:
@@ -2220,6 +2505,27 @@ def render_sitemap(site: Site) -> int:
         if (folder / f"{name}.md").exists() or (folder / f"{name}.html").exists():
             entries.append((f"/{name}/", None, "monthly"))
 
+    # Place pages change only when an edition moves, so they get the newest
+    # mtime of the editions they list, and "yearly" for a city nothing is
+    # scheduled in. A crawler that spends its budget on 475 static city pages
+    # has none left for the deadlines.
+    entries.append(("/city/", None, "weekly"))
+    entries.append(("/country/", None, "weekly"))
+    for place in site.places.values():
+        if not place.editions:
+            continue
+        newest = max((e.source_mtime for e in place.editions if e.source_mtime),
+                     default=None)
+        entries.append((place.url,
+                        newest.date().isoformat() if newest else None, "monthly"))
+    for country in site.countries.values():
+        if not country.editions:
+            continue
+        newest = max((e.source_mtime for e in country.editions if e.source_mtime),
+                     default=None)
+        entries.append((country.url,
+                        newest.date().isoformat() if newest else None, "monthly"))
+
     for conference in site.conferences.values():
         newest = max((e.source_mtime for e in conference.editions if e.source_mtime),
                      default=None)
@@ -2414,6 +2720,10 @@ def main() -> int:
 
     env = build_environment(site)
     pages = render(site, env)
+    # --only is for looking at one conference quickly. The place pages cover
+    # the whole gazetteer whatever is selected, so building them would mean
+    # four hundred near-empty pages between you and the one you asked for.
+    places = 0 if args.only else render_places(site, env)
     listed = render_front(site, env)
     calls = copy_cfps(site)
     prose = render_pages(site, env)
@@ -2443,6 +2753,9 @@ def main() -> int:
         print(f"  conferences : {len(site.conferences)}", file=sys.stderr)
         print(f"  editions    : {len(site.editions)}", file=sys.stderr)
         print(f"  pages       : {pages}", file=sys.stderr)
+        print(f"  places      : {places} "
+              f"({len(site.places)} cities, {len(site.countries)} countries)",
+              file=sys.stderr)
         print(f"  calls filed : {calls}", file=sys.stderr)
         print(f"  pages/      : {handwritten}", file=sys.stderr)
         print(f"  calendars   : {feeds}", file=sys.stderr)

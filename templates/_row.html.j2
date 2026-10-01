@@ -28,14 +28,19 @@
   </td>
   <td class="c-dead">
     {% if paper %}
-    <span class="deadline">{{ paper.effective | date }}</span><span class="countdown" data-expires="@@EXPIRES@@">@@COUNT@@</span>
     {% set abstract = edition.deadline('abstract') %}
+    {# Above the paper deadline, because that is the order they fall in, and
+       quieter than it, because the paper deadline is the one being sorted on.
+       Only when it is a separate date: a great many conferences record the
+       abstract as the same day, and repeating it says nothing. #}
+    {% if abstract and abstract.effective != paper.effective %}
+    <span class="pre-date"><b>abstract</b> {{ abstract.effective | date }}</span>
+    {% endif %}
+    <span class="deadline">{{ paper.effective | date }}</span><span class="countdown" data-expires="@@EXPIRES@@">@@COUNT@@</span>
     {% if paper.extended %}
     <span class="sub-date"><b>was</b> {{ paper.announced | date(false) }}<span class="extended">extended</span></span>
     {% elif edition.extensions_known_undated %}
     <span class="sub-date"><span class="extended">extended</span> from an unrecorded date</span>
-    {% elif abstract and abstract.effective != paper.effective %}
-    <span class="sub-date"><b>abstract</b> {{ abstract.effective | date }}</span>
     {% elif edition.extensions_ruled_out %}
     <span class="sub-date"><span class="firm">firm</span> no extension</span>
     {% elif edition.has_rounds %}

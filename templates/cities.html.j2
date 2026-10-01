@@ -1,0 +1,68 @@
+{% extends "base.html.j2" %}
+
+{% block title %}Every city &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title = 'Every city' %}
+{% set social_url = config.site.base_url ~ '/city/' %}
+{% set social_description %}The {{ places | length }} cities where theoretical
+  computer science conferences have met, with how many editions each has
+  hosted.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / Cities</p>
+  <h1 class="page-title">Every city</h1>
+  <p class="page-sub">Where these conferences have actually met, and how often.
+    <a href="/country/">By country instead</a>.</p>
+</header>
+
+<section class="panel">
+  {% set map_mode = 'places' %}
+  {% set map_tall = true %}
+  {% include "_mapbox.html.j2" %}
+</section>
+
+<section class="panel">
+  <h2 class="panel-title">All {{ places | length }} cities</h2>
+  <table class="editions sortable" id="citytable">
+    <thead>
+      <tr>
+        <th data-sort="text">City</th>
+        <th data-sort="text">Country</th>
+        <th class="num" data-sort="number" aria-sort="descending">Editions</th>
+        <th class="num" data-sort="number">Series</th>
+        <th class="num" data-sort="number">First</th>
+        <th class="num" data-sort="number">Last</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for p in places %}
+      {% set country = site.countries.get(p.country_code) %}
+      <tr>
+        <td><a href="{{ p.url }}">{{ p.display }}</a>
+          {%- if p.native %} <span class="native" {% if p.native_lang %}lang="{{ p.native_lang }}"{% endif %}>{{ p.native }}</span>{% endif %}</td>
+        <td>{% if country %}<a href="{{ country.url }}">{{ country.name }}</a>{% endif %} {{ p.flag }}</td>
+        <td class="num">{{ p.editions | length }}</td>
+        <td class="num">{{ p.conferences | length }}</td>
+        <td class="num">{{ p.first_year }}</td>
+        <td class="num">{{ p.last_year }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script src="/assets/maps.js?v={{ asset_version }}" defer></script>
+<script src="/assets/places.js?v={{ asset_version }}" defer></script>
+{% endblock %}

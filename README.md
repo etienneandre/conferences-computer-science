@@ -183,6 +183,8 @@ legacy/          the old data.php, archived and read-only
 build.py         the generator
 check.py         the validator — run before every build
 calendars.py     iCalendar feeds
+countries.py     ISO country codes to English names, for the /country/ pages
+slugs.py         names to URL fragments, shared by the generator and validator
 import_cfps.py   files a folder of collected calls into data/
 dev-server.php   local preview router, never deployed
 
