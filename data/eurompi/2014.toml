@@ -6,7 +6,7 @@ url = "http://www.eurompi2014.org/"
 [event]
 start = 2014-09-09
 end = 2014-09-12
-city = "Kyoto, Japan"
+city = "Kyōto, Japan"
 
 [submission]
 format = "6 pages ACM ICPS"

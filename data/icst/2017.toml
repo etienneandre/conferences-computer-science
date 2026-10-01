@@ -6,7 +6,7 @@ url = "http://www.aster.or.jp/conference/icst2017/"
 [event]
 start = 2017-03-13
 end = 2017-03-18
-city = "Tokyo, Japan"
+city = "Tōkyō, Japan"
 
 [submission]
 format = "10 pages IEEE (+ 2 pages for references)"

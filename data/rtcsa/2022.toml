@@ -6,20 +6,21 @@ url = "https://rtcsa2022.github.io/"
 [event]
 start = 2022-08-23
 end = 2022-08-25
-city = "Taipei, Taiwan (hybrid)"
+city = "Taipei, Taiwan"
 
 [submission]
 format = "10 pages IEEE 2 columns (full) / 6 pages (short), including bibliography"
-abstract = [2022-04-08]
-paper = [2022-04-15]
-notification = [2022-05-31]
+abstract = [2022-04-08, 2022-04-22]
+paper = [2022-04-15, 2022-04-22]
+notification = [2022-05-31, 2022-06-10]
 
 [proceedings]
 publisher = "IEEE Xplore"
 license = "pay"
 
 [extra]
-notes = "Co-located with NVMSA 2022. 3 tracks: embedded systems, real-time systems, and IoT, CPS, AND EMERGING APPLICATIONS."
+colocated = "Co-located with NVMSA 2022."
+notes = "3 tracks: embedded systems, real-time systems, and IoT, CPS, AND EMERGING APPLICATIONS."
 
 [[cfp]]
 file = "cfp/RTCSA-2022.pdf"

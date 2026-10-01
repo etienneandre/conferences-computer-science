@@ -6,7 +6,7 @@ url = "https://icetcs.github.io/frocos-itp-tableaux25/tableaux/"
 [event]
 start = 2025-09-27
 end = 2025-10-03
-city = "Reykjavik, Iceland"
+city = "Reykjavík, Iceland"
 
 [submission]
 format = "15 pages LNCS + references (research) / 9 pages + references (system descriptions, user experiences, case studies and domain models)"

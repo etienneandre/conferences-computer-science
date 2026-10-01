@@ -6,7 +6,7 @@ url = "http://www.kurims.kyoto-u.ac.jp/icalp2015/"
 [event]
 start = 2015-07-06
 end = 2015-07-10
-city = "Kyoto, Japan"
+city = "Kyōto, Japan"
 
 [submission]
 tz = "UTC-8"

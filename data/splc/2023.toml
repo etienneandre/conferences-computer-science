@@ -6,7 +6,7 @@ url = "https://2023.splc.net/"
 [event]
 start = 2023-08-29
 end = 2023-09-01
-city = "Tokyo, Japan"
+city = "Tōkyō, Japan"
 
 [submission]
 format = "10 pages ACM + 2 pages references (full) / 5+2 pages (short)"

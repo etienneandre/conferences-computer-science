@@ -6,7 +6,7 @@ url = "https://berkeleylearnverify.github.io/HSCC_2020/"
 [event]
 start = 2020-04-21
 end = 2020-04-24
-city = "Sydney Australia"
+city = "Sydney, Australia"
 
 [submission]
 format = "10 pages ACM (regular) / 6 pages (tools and case studies) / 2 pages (demo/posters, not published)"

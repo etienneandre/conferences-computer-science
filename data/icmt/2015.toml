@@ -6,7 +6,7 @@ url = "http://www.model-transformation.org"
 [event]
 start = 2015-07-20
 end = 2015-07-24
-city = "L’Aquila (Italy)"
+city = "L’Aquila, Italy"
 
 [submission]
 format = "15 pages LNCS (research/applications) / 10 pages (exploratory) / 7 pages (tool demo)"

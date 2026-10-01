@@ -6,7 +6,7 @@ url = "https://scool24.github.io/GandALF/"
 [event]
 start = 2024-06-19
 end = 2024-06-21
-city = "Reykjavik, Iceland"
+city = "Reykjavík, Iceland"
 
 [submission]
 tz = "AoE"

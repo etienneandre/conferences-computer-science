@@ -6,7 +6,8 @@ url = "http://icetcs.ru.is/nwpt21/"
 [event]
 start = 2021-11-04
 end = 2021-11-06
-city = "Reykjavík, Iceland (hybrid)"
+city = "Reykjavík, Iceland"
+hybrid = true
 
 [submission]
 format = "2-3 pages Easychair"

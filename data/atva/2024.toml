@@ -6,7 +6,7 @@ url = "https://atva-conference.org/2024/"
 [event]
 start = 2024-10-21
 end = 2024-10-24
-city = "Kyoto, Japan"
+city = "Kyōto, Japan"
 
 [submission]
 tz = "AoE"

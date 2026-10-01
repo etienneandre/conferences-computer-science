@@ -6,7 +6,7 @@ url = "http://lics.rwth-aachen.de/lics15/"
 [event]
 start = 2015-07-06
 end = 2015-07-10
-city = "Kyoto, Japan"
+city = "Kyōto, Japan"
 
 [submission]
 format = "10 pages IEEE"
