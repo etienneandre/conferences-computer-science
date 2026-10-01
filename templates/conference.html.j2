@@ -122,7 +122,12 @@
             </td>
             <td class="num">{% if e.raw.get('edition') %}{{ e.raw.edition }}{% else %}&mdash;{% endif %}</td>
             <td>{{ e.held }}</td>
-            <td>{% if e.online %}Online{% elif p.name %}{{ p.display }} {{ p.flag }}{% else %}&mdash;{% endif %}</td>
+            <td>
+              {%- if e.online %}Online
+              {%- elif p.name %}
+                {%- if p.get('url') %}<a class="placelink" href="{{ p.url }}">{{ p.display }}</a>
+                {%- else %}{{ p.display }}{% endif %} {{ p.flag }}
+              {%- else %}&mdash;{% endif %}</td>
             <td>
               {% if e.status in ('cancelled', 'no-edition') %}&mdash;
               {% elif paper %}{{ paper.effective | date(false) }}

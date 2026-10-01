@@ -595,6 +595,16 @@ class Edition:
         return self.event.get("city")
 
     @property
+    def venue(self) -> str | None:
+        """The building, when it is recorded: a university, a congress centre.
+
+        Finer grained than the city and not always known, so it is shown only
+        where there is room for it — the Where panel on an edition page — and
+        never in a list.
+        """
+        return (self.event.get("venue") or "").strip() or None
+
+    @property
     def format(self) -> str | None:
         return self.submission.get("format")
 
@@ -1140,11 +1150,21 @@ class Site:
         return entry
 
     def licence(self, key: str | None) -> dict:
+        """Always the same shape, so templates can test one key.
+
+        Including the unknown-key case. This used to return a dict without
+        `openness`, and the template that reads it then died on an
+        UndefinedError naming neither the licence nor the edition — a cryptic
+        failure for a one-character typo. check.py catches an unknown key
+        first, but the generator should not be the thing that punishes you for
+        skipping it.
+        """
         if not key:
             return {"label": None, "openness": "no"}
         found = (self.enums.get("license", {}) or {}).get(key)
         if not found:
-            return {"label": key, "css": ""}
+            self.warn(f"licence {key!r} is not in enums.toml; shown as-is")
+            return {"key": key, "label": key, "css": "", "openness": "no"}
         entry = dict(found)
         entry["key"] = key
         entry["openness"] = ("yes" if entry.get("open_license")
@@ -1948,42 +1968,6 @@ def front_php(name: str) -> str:
 # --------------------------------------------------------------------------
 # Hand-written pages
 #
-# Everything in pages/ is yours. The generator reads it and never writes there,
-# so editing about.html cannot be undone by a rebuild, and adding a new file is
-# all it takes to add a page.
-# --------------------------------------------------------------------------
-
-RE_PAGE_TITLE = re.compile(r"<!--\s*title:\s*(.+?)\s*-->")
-RE_PAGE_DESC = re.compile(r"<!--\s*description:\s*(.+?)\s*-->")
-
-
-def render_pages(site: "Site", env: Environment) -> int:
-    folder = site.root / "pages"
-    if not folder.is_dir():
-        return 0
-
-    template = env.get_template("page.html.j2")
-    count = 0
-    for path in sorted(folder.glob("*.html")):
-        body = path.read_text(encoding="utf-8")
-        title = RE_PAGE_TITLE.search(body)
-        description = RE_PAGE_DESC.search(body)
-        body = RE_PAGE_TITLE.sub("", body)
-        body = RE_PAGE_DESC.sub("", body)
-
-        slug = path.stem
-        write(site.out_dir / slug / "index.html",
-              template.render(body=body.strip(),
-                              page_title=title.group(1) if title else slug.title(),
-                              page_description=description.group(1) if description else "",
-                              slug=slug))
-        count += 1
-    return count
-
-
-# --------------------------------------------------------------------------
-# Hand-written pages
-#
 # Files in pages/ are yours. The build renders them into the site chrome and
 # never writes to them, so nothing here can overwrite your prose.
 #
@@ -2454,7 +2438,11 @@ def event_jsonld(site: Site, edition: Edition) -> str | None:
         data["eventAttendanceMode"] = (
             "https://schema.org/MixedEventAttendanceMode" if edition.event.get("hybrid")
             else "https://schema.org/OfflineEventAttendanceMode")
-        location: dict = {"@type": "Place", "name": place["name"],
+        # The venue names the Place when we have it; the city stays in the
+        # address, where a search engine expects to find it. Without a venue
+        # the city has to do both jobs.
+        location: dict = {"@type": "Place",
+                          "name": edition.venue or place["name"],
                           "address": {"@type": "PostalAddress",
                                       "addressLocality": place.get("display") or place["name"]}}
         if place.get("country"):
@@ -2726,7 +2714,6 @@ def main() -> int:
     places = 0 if args.only else render_places(site, env)
     listed = render_front(site, env)
     calls = copy_cfps(site)
-    prose = render_pages(site, env)
     feeds = render_calendars(site)
     exported = export_data(site)
     render_server_files(site, env)

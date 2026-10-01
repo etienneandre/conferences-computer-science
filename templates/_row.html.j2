@@ -55,7 +55,10 @@
     {% if edition.online %}
     <span class="where">Online</span>
     {% elif place.get('name') %}
-    <span class="where">{{ place.display }}{% if place.flag %} <span class="flag" title="{{ place.name }}" role="img" aria-label="{{ place.name }}">{{ place.flag }}</span>{% endif %}</span>
+    <span class="where">
+      {%- if place.get('url') %}<a class="placelink" href="{{ place.url }}">{{ place.display }}</a>
+      {%- else %}{{ place.display }}{% endif %}
+      {%- if place.flag %} <span class="flag" title="{{ place.name }}" role="img" aria-label="{{ place.name }}">{{ place.flag }}</span>{% endif %}</span>
     {% endif %}
   </td>
   <td class="c-meta">

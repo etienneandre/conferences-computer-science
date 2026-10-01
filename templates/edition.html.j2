@@ -45,7 +45,9 @@
     {% if edition.online %}
     <span class="item">Where<b>Online</b></span>
     {% elif place.name %}
-    <span class="item">Where<b>{{ place.display }} {{ place.flag }}</b></span>
+    <span class="item">Where<b>
+      {%- if place.get('url') %}<a class="placelink" href="{{ place.url }}">{{ place.display }}</a>
+      {%- else %}{{ place.display }}{% endif %} {{ place.flag }}</b></span>
     {% endif %}
     {% if edition.core_rank %}
     <span class="item">Rank<b>CORE {{ edition.core_rank }}</b></span>
@@ -287,6 +289,11 @@
     {% if place.name and not edition.online %}
     <section class="panel">
       <h2 class="panel-title">Where</h2>
+      {% if edition.venue %}
+      {# The building. Too fine-grained for any list, and often unknown, but
+         this is the page somebody reads before booking a train. #}
+      <p class="venue">{{ edition.venue }}</p>
+      {% endif %}
       {% if map_points %}
       {% set map_mode = 'one' %}
       {# The city as the gazetteer records it, plus the name the place calls
