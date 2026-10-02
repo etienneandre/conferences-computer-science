@@ -27,6 +27,11 @@ artifact = "Voluntary Artifact"
 men = 0
 women = 2
 
+# NOTE: whole ETAPS 2027
+[review.gender.speakers]
+men = 2
+women = 3
+
 [extra]
 journal = "iFS’27 will organize journal special issues in STTT and FAC, for which the authors of selected papers will be invited to submit."
 

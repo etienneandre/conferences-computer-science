@@ -27,8 +27,15 @@ blind = "double"
 artifact = "Mandatory Artifact Submission"
 
 [review.gender.chairs]
+men = 5
+women = 2
+# NOTE: includes 3+2 area chairs
+
+# NOTE: whole ETAPS 2027
+[review.gender.speakers]
 men = 2
-women = 0
+women = 3
+
 
 [extra]
 colocated = "Part of ETAPS 2027."

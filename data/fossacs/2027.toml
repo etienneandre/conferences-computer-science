@@ -31,6 +31,11 @@ artifact = "Artifact evaluation."
 men = 1
 women = 1
 
+# NOTE: whole ETAPS 2027
+[review.gender.speakers]
+men = 2
+women = 3
+
 [extra]
 colocated = "Part of ETAPS 2027."
 
