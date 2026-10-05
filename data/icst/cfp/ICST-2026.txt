@@ -1,0 +1,44 @@
+Call for Papers
+
+ICST 2026 invites high-quality submissions in all software testing, verification, and validation areas. Topics of interest include, but are not limited to, the following:
+
+    AI-assisted software testing
+    Automated test generation
+    Formal verification
+    Manual and social aspects of the software testing process
+    Replications, empirical studies, case studies, experience reports
+    Software reliability
+    Static and dynamic analysis
+    Test automation
+    Test-driven development and Agile testing
+    Testability, test design, and adequacy criteria
+    Testing AI-based systems
+    Testing and development processes
+    Testing, debugging, and repair tools
+    Testing education
+    Testing in specific domains, such as mobile, web, embedded/cyber-physical systems, concurrent, distributed, cloud, GUI, context-aware, IoT, real-time systems, video games, augmented/virtual reality applications
+    Testing of non-functional properties such as security, accessibility, and performance
+    Theory of software testing
+    Validation and user acceptance techniques
+
+Papers for the research track should present novel and original work that advances the state-of-the-art. Case studies, replication studies, and empirical research papers are also welcome.
+Papers with a strong industrial/practical component and focus more on impact than (technical) novelty are encouraged to consider the industry track instead.
+Submission Format
+
+Full research papers must conform to the two-column IEEE conference publication format, and not exceed 10 pages, including all text, figures, tables, and appendices; two additional pages containing only references are permitted. It must conform to the IEEE Conference Proceedings Formatting Guidelines (use the letter format template and conference option). The ICST 2026 research track only accepts full research papers. Short papers are not accepted to the research track.
+Authors must comply with the IEEE Plagiarism Guidelines. In particular, a submission must not have been published elsewhere and must not be under review elsewhere while under review for ICST. The submission must also comply with the IEEE Policy on Authorship.
+Double-blind Reviewing
+
+Each submission will be reviewed by at least three members of the ICST 2026 Program Committee. We employ a double-blind reviewing process. No submission may reveal its authors’ identities. Authors must make every effort to honour the double-anonymous review process. In particular, the authors’ names must be omitted from the submission, and references to their prior work should be in the third person. All artifacts, such as replication packages and tools, associated with the submission must also be anonymized. Any submission that does not comply with the above requirements may be rejected by the PC Chairs without further review. Authors with further questions on double-blind reviewing are encouraged to contact the Program Chairs by email.
+Submissions
+
+Submissions to the Research Papers Track that meet the above requirements can be made via HotCRP at https://icst2026.hotcrp.com/.
+If a submission is accepted, at least one author of the paper is required to register for ICST 2026 and present the paper. We expect that the conference will be in-person.
+Replication Material
+
+Submissions must supply all information needed to replicate the results and therefore are expected to include or point to an anonymized replication package with the necessary software, data, and instructions. The program committee may consult these packages to resolve open issues. If a paper does not come with a replication package, authors should comment on its absence.
+Important Dates
+
+    Full paper submission: 22 December 2025
+    Author notification: 20 February 2026
+    Camera ready: 6 March 2026

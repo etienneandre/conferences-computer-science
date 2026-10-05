@@ -18,8 +18,12 @@ notification = [2019-12-10]
 publisher = "IEEE"
 license = "pay"
 
+[review]
+blind = "double"
+artifact = "Experimental data must be replicable."
+
 [extra]
-notes = "Double-blind reviewing. Experimental data must be replicable. Also doctoral symposium, software testing contest, tool demos, industry track papers … Deadline extension: 7 days (2017), 4 days (2018), 2 days (2019)"
+notes = "Also doctoral symposium, software testing contest, tool demos, industry track papers…"
 
 [[cfp]]
 file = "cfp/ICST-2020.txt"

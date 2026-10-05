@@ -18,5 +18,8 @@ notification = [2017-12-18]
 publisher = "IEEE"
 license = "pay"
 
+[review]
+blind = "double"
+
 [extra]
-notes = "Double-blind reviewing. Also doctoral symposium, software testing contest, tool demos, industry track papers … Deadline extension: 7 days (2017), 4 days (2018)"
+notes = "Also doctoral symposium, software testing contest, tool demos, industry track papers…"

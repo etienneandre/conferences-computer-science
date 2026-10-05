@@ -2547,7 +2547,13 @@ display = "San Jose"
 lat = 37.3382
 lon = -121.8863
 continent = "NA"
-# 1 edition(s)
+
+["San Sebastián, Spain"]
+country = "ES"
+display = "San Sebastián"
+lat = 43.3222
+lon = -1.9858
+continent = "EU"
 
 ["Santa Barbara, California, USA"]
 country = "US"

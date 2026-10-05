@@ -1,0 +1,42 @@
+edition = 20
+title = "20th IEEE International Conference on Software Testing, Verification and Validation"
+url = "https://conf.researchr.org/track/icst-2027/"
+
+[event]
+start = 2027-05-17
+end = 2027-05-21
+city = "San Sebastián, Spain"
+
+[submission]
+format = "10 pages IEEE (+ 2 pages for references)"
+paper = [2026-11-02]
+# NOTE
+# Initial notification (Accept, Reject or Major revision): 22nd December 2026
+# Major revision submission deadline: 31st January 2027
+notification = [2027-02-20]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+
+[review]
+blind = "double"
+award = "IEEE Computer Society TCSE Distinguished Paper Award and IEEE Computer Society TCSE Best Student Award"
+artifact = "Submissions must supply all information needed to replicate the results and therefore are expected to include or point to an anonymized replication package with the necessary software, data, and instructions. The program committee may consult these packages to resolve open issues. If a paper does not come with a replication package, authors should comment on its absence."
+competition = "Tool competition"
+
+[review.gender.chairs]
+men = 0
+women = 2
+
+# TODO
+# [review.gender.speakers]
+# men = 3
+# women = 0
+
+
+[extra]
+notes = "Initial notification will be Accept, Major Revision or Reject for the first time in ICST. This will allow authors of papers with comments that can be addressed within a 5-weeks period a chance to improve their papers. Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers…"
+
+[[cfp]]
+file = "cfp/ICST-2027.txt"

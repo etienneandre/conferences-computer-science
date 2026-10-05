@@ -1,26 +1,25 @@
-# migrated from data.php line 16430
-edition = 18
-title = "18th IEEE International Conference on Software Testing, Verification and Validation"
-url = "https://conf.researchr.org/home/icst-2025"
+edition = 19
+title = "19th IEEE International Conference on Software Testing, Verification and Validation"
+url = "https://conf.researchr.org/home/icst-2026"
 
 [event]
-start = 2025-03-31
-end = 2025-04-04
-city = "Naples, Italy"
+start = 2026-05-18
+end = 2026-05-22
+city = "Daejeon, South Korea"
 
 [submission]
 format = "10 pages IEEE (+ 2 pages for references)"
-abstract = [2024-09-18, 2024-09-25]
-paper = [2024-09-25, 2024-10-02]
-notification = [2024-12-11, 2024-12-18]
+paper = [2025-12-22]
+notification = [2026-02-20]
 
 [proceedings]
 publisher = "IEEE"
 license = "pay"
-doi = ["10.1109/ICST62969.2025", "10.1109/ICSTW64639.2025"]
+doi = ["10.1109/ICST69053.2026", "10.1109/ICSTW72326.2026"]
 
 [review]
 blind = "double"
+award = "IEEE Computer Society TCSE Distinguished Paper Award and IEEE Computer Society TCSE Best Student Award"
 artifact = "Submissions must supply all information needed to replicate the results and therefore are expected to include or point to an anonymized replication package with the necessary software, data, and instructions."
 competition = "Tool competition"
 
@@ -29,16 +28,15 @@ men = 1
 women = 1
 
 [review.gender.speakers]
-men = 1
-women = 1
+men = 3
+women = 0
 
 [stats]
-submitted = 107
-accepted = 32
+submitted = 151
+accepted = 44
 
 [extra]
 notes = "Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers…"
 
 [[cfp]]
-file = "cfp/ICST-2025-extended.txt"
-stage = "extended"
+file = "cfp/ICST-2026.txt"
