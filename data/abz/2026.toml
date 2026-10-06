@@ -1,12 +1,13 @@
 # migrated from data.php line 504
 edition = 12
 title = "12th International Conference on Rigorous State Based Methods"
-url = "https://abz-conf.org/site/2025/"
+url = "https://abz-conf.org/site/2026/"
 
 [event]
 start = 2026-05-18
 end = 2026-05-20
 city = "Tōkyō, Japan"
+colocated_with = ["fm/2026"]
 
 [submission]
 tz = "AoE"
@@ -18,9 +19,22 @@ notification = [2026-03-13]
 [proceedings]
 publisher = "Springer"
 license = "pay-profit"
+doi = "10.1007/978-3-032-26752-8"
 
 [review]
-gender_balance = "mixed"
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 3
+women = 0
+
+[stats]
+submitted = 25
+accepted = 20
+# NOTE: 13 long papers covering a broad spectrum of research, from fundamental to applied work, 4 short papers on work in progress, and 2 papers on the ABZ 2026 case study about an autonomous planetary rover. One journal-first talk was accepted in addition to the papers
+
 
 [[cfp]]
 file = "cfp/ABZ-2026.txt"

@@ -1,0 +1,30 @@
+edition = 13
+title = "13th International Conference on Rigorous State Based Methods"
+url = "https://abz-conf.org/site/2027/"
+
+[event]
+start = 2027-06-14
+end = 2027-06-18
+city = "Braga, Portugal"
+venue = "University of Minho"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS + references (research, case study) / 6 pages (short / work in progress / tool / journal-first) / 8 pages (application in industry)"
+abstract = [2027-02-08]
+paper = [2027-02-15]
+notification = [2027-03-22]
+
+[proceedings]
+publisher = "Springer"
+license = "pay-profit"
+
+[review]
+[review.gender.chairs]
+men = 1
+women = 1
+
+
+[[cfp]]
+file = "cfp/ABZ-2027-2026-10-06.txt"
+stage = "initial"

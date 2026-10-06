@@ -18,9 +18,22 @@ notification = [2025-03-29]
 [proceedings]
 publisher = "Springer"
 license = "pay-profit"
+doi = "10.1007/978-3-031-94533-5"
 
-[extra]
-notes = "Deadline extended by 20 days (2014), 7 days (2018, 2021, 2023), 14 days (2024), 20 days (2025)."
+[review]
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 3
+women = 0
+
+[stats]
+submitted = 33
+accepted = 21
+# NOTE: 10 long papers covering a broad spectrum of research, from fundamental to applied work, 4 short papers of work in progress, industrial experience reports and tool development, 2 papers of PhD students working on topics related to state-based formal methods, and 5 papers on the ABZ 2025 case study, which was dedicated to the specification and analysis of how to control autonomous vehicles on a highway. A paper in this volume is dedicated to describing the case study.
+
 
 [[cfp]]
 file = "cfp/ABZ-2025.txt"

@@ -1,0 +1,135 @@
+
+
+[ The Types Forum (announcements only),
+     http://lists.seas.upenn.edu/mailman/listinfo/types-announce ]
+----------------------------------------
+First Call for Papers
+ABZ 2027: 13th International Conference on Rigorous State Based Methods
+Braga, Portugal, June 14-18, 2027
+https://abz-conf.org/site/2027/
+----------------------------------------
+
+The ABZ conference is dedicated to the cross-fertilization of
+state-based and machine-based formal methods, like Abstract State
+Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common
+conceptual foundation and are widely used in both academia and
+industry for the design and analysis of hardware and software systems.
+The conference aims for a vital exchange of knowledge and experience
+among the research communities around different formal methods.
+
+ABZ 2027 will have a main conference track, a case study track, a
+doctoral symposium, tutorials and workshops.
+
+-------------------
+Important Dates
+-------------------
+
+Abstract submission (all papers): February 8, 2027 AOE
+Paper submission: February 15, 2027 AOE
+Notification: March 22, 2027
+Final version: April 5, 2027
+
+Workshop proposals: December 7, 2026 AOE
+Notification: January 11, 2027
+Tutorial proposals: February 8, 2027 AOE
+Notification: March 22, 2027
+
+--------------------
+Research Track (Main Track)
+--------------------
+
+Contributions are solicited on all aspects of the theory and
+applications of ASMs, Alloy, B, TLA, VDM, Z and other state-based
+rigour approaches in software/hardware engineering, including the
+development of tools and industrial applications. The program spans
+from theoretical and methodological foundations to practical
+applications, emphasizing system engineering methods and tools that
+are distinguished by mathematical rigor and have proved to be
+industrially viable. The main goal of the conference is to contribute
+to the integration of accurate state- and machine-based system
+development methods, clarifying their commonalities and differences to
+better understand how to combine different approaches for
+accomplishing the various tasks in modeling, experimental validation,
+mathematical verification of reliable high-quality hardware/software
+systems. Although organized to host several formal methods in a single
+event, editorial control of the joint conference is vested in one
+integrated program committee.
+
+Paper Categories
+- Full research papers
+- Short papers
+- Application in industry papers
+- Journal-First papers
+
+See more details on the web site:
+https://abz-conf.org/site/2027/maintrack/
+
+--------------------
+Case Study Track:
+--------------------
+
+The objective of this track is to enrich the set of case studies (
+https://abz-conf.org/case-studies/) developed with Rigorous State
+Based Methods with a practical and real-life case study. Its goal is
+also cross-fertilisation, enabling practitioners of the individual
+formal methods to better understand each other.
+
+The case study of ABZ 2027 is related to the 1961 UN Convention
+for the Reduction of Statelessness.
+
+See more details on the web site:
+https://abz-conf.org/site/2027/casestudy/
+
+--------------------
+Doctoral Symposium:
+--------------------
+
+ABZ 2027 will include a doctoral symposium. PhD students are encouraged
+to report on their ongoing work or research plans and receive a valuable
+feedback from the ABZ community. Accepted papers will be included
+in the ABZ proceedings.
+
+See more details on the web site:
+https://abz-conf.org/site/2027/doctoralsymposium/
+
+--------------------
+Workshops and Tutorials
+--------------------
+
+Researchers and practitioners are invited to submit proposals for
+workshops and tutorials held in conjunction with ABZ 2027. Proposals are
+solicited in areas related to the conference topics.
+
+See more details on the web site:
+https://abz-conf.org/site/2027/tutorialworkshops/
+
+-------------------
+Submissions
+-------------------
+
+Papers should be original work, not published or submitted elsewhere, in
+Springer LNCS format, written in English, and submitted through EasyChair
+at https://easychair.org/conferences/?conf=abz2027.
+Workshop and tutorial proposals should also be submitted through
+EasyChair.
+For page limits see above web sites.
+
+-------------------
+Organization
+-------------------
+
+Program Chairs
+Alcino Cunha, INESC TEC & University of Minho, Braga, Portugal
+Marie Farrell, The University of Manchester, Manchester, UK
+
+Case Study Track Chairs
+Nuno Macedo, INESC TEC & University of Minho, Braga, Portugal
+Patrícia Jerónimo, Law School, University of Minho, Braga, Portugal
+
+For further questions concerning ABZ 2027, please contact us at
+abz2027@inesctec.pt.
+
+
+
+
+

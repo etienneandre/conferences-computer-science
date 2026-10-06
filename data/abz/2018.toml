@@ -18,9 +18,6 @@ notification = [2018-03-05]
 publisher = "Springer"
 license = "pay-profit"
 
-[extra]
-notes = "Deadline extended by 20 days (2014), 7 days (2018). Every two years."
-
 [[cfp]]
 file = "cfp/ABZ-2018.txt"
 stage = "initial"

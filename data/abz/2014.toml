@@ -9,12 +9,9 @@ city = "Toulouse, France"
 
 [submission]
 format = "14 pages LNCS (research) / 4 pages (short / work in progress / tool) / 14 pages (answer to case studies) / 4 pages extended abstract (industry)"
-paper = [2014-02-03]
+paper = [2014-01-14,2014-02-03]
 notification = [2014-03-01]
 
 [proceedings]
 publisher = "Springer"
 license = "pay-profit"
-
-[extra]
-notes = "Deadline extended by 20 days (2014). Every two years (?)"

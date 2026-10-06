@@ -19,7 +19,8 @@ publisher = "Springer"
 license = "pay-profit"
 
 [extra]
-notes = "Deadline extended by 20 days (2014), 7 days (2018, 2021). ABZ 2021 will have a main conference track, a case study track, a doctoral symposium, tutorials and workshops. It is planned to continue the cooperation with the journals SCP and STTT. Every two years."
+notes = "ABZ 2021 will have a main conference track, a case study track, a doctoral symposium, tutorials and workshops."
+journal = "It is planned to continue the cooperation with the journals SCP and STTT."
 
 [[cfp]]
 file = "cfp/ABZ-2021.txt"
