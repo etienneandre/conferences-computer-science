@@ -20,6 +20,7 @@
 
 # Temporary backup files
 *~
+*.kate-swp
 
 # IDEs
 .code-workspace
