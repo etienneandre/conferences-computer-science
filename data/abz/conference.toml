@@ -8,7 +8,3 @@ rank = "absent"  # TODO: verify
 
 [links]
 dblp = "zum"
-
-[legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-extensions = "Deadline extended by 20 days (2014), 7 days (2018, 2021, 2023), 14 days (2024), 20 days (2025)"  # from ABZ 2026
