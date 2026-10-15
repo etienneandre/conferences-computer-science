@@ -1,0 +1,35 @@
+edition = 28
+title = "28th International Symposium on Formal Methods"
+# url = "https://conf.researchr.org/home/fm-2026" # TODO
+
+[event]
+start = 2027-10-18
+end = 2027-10-22
+city = "Athens, Greece"
+
+[submission]
+format = "Springer 15 pages + references (regular / long tool / case study) / 6 pages (short / tool demo)" # TODO
+abstract = [2027-04-08]
+paper = [2027-04-15]
+notification = [2027-07-01]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "free"
+
+[review]
+# blind = "single" # TODO
+artifact = "Artifact evaluation."
+award = "Best paper award."
+
+[review.gender.chairs]
+men = 2
+women = 3
+
+[extra]
+journal = "Extended versions of selected papers will be invited for publication in a special issue of a journal to be announced soon." # TODO
+notes = "Three tracks: regular, TAP and tutorial. Also a doctoral symposium and industry day."
+
+# [[cfp]]
+# file = "cfp/FM-2026.txt"
+# stage = "initial"

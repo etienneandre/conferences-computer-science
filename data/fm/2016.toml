@@ -14,9 +14,13 @@ abstract = [2016-05-16]
 paper = [2016-05-30]
 notification = [2016-08-08]
 
+[review]
+award = "During the conference, the Programme Committee Chairs will present an award to the authors of the submission selected as the FM 2016 Best Paper."
+
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014). During the conference, the Programme Committee Chairs will present an award to the authors of the submission selected as the FM 2016 Best Paper. Extended versions of selected papers will be invited for publication in a special issue of one or more journals."
+journal = "Extended versions of selected papers will be invited for publication in a special issue of one or more journals."
+notes = "Also a doctoral symposium."

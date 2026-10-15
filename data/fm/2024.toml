@@ -15,12 +15,55 @@ abstract = [2024-04-15]
 paper = [2024-04-19]
 notification = [2024-06-10]
 
+[review]
+blind = "single"
+
 [proceedings]
 publisher = "Springer LNCS"
 license = "free"
+doi = ["10.1007/978-3-031-71162-6", "10.1007/978-3-031-71177-0"]
+
+[stats]
+[[stats.track]]
+name = "Main track: regular research papers"
+submitted = 143
+accepted = 31
+
+[[stats.track]]
+name = "Main track: case study papers"
+submitted = 8
+accepted = 1
+
+[[stats.track]]
+name = "Main track: long tool papers"
+submitted = 21
+accepted = 8
+
+[[stats.track]]
+name = "Main track: short tool papers"
+submitted = 6
+accepted = 4
+
+[[stats.track]]
+name = "Embedded systems track"
+submitted = 17
+accepted = 6
+
+[[stats.track]]
+name = "Industry track"
+submitted = 10
+accepted = 6 # NOTE:  6 papers (3 regular papers, 2 case study papers, 1 extended abstract).
+
+[[stats.track]]
+name = "Tutorial track"
+submitted = 14
+accepted = 10
+
+# NOTE: Finally, 5 papers were selected for the Journal First track, and the Doctoral Symposium received 15 sub- missions (neither the journal first track papers nor the doctoral symposium ones appear in these proceedings)
+
 
 [extra]
-notes = "Single blind in 2024. Also a doctoral symposium. Deadline extended: one week (2012), 48 hours (2014)."
+notes = "Also a doctoral symposium."
 
 [[cfp]]
 file = "cfp/FM-2024.txt"

@@ -7,6 +7,7 @@ url = "https://conf.researchr.org/home/fm-2026"
 start = 2026-05-20
 end = 2026-05-22
 city = "Tōkyō, Japan"
+colocated_with = ["abz/2026", "tap/2026"]
 
 [submission]
 format = "Springer 15 pages + references (regular / long tool / case study) / 6 pages (short / tool demo)"
@@ -17,15 +18,31 @@ notification = [2026-02-06]
 [proceedings]
 publisher = "Springer LNCS"
 license = "free"
+doi = ["10.1007/978-3-032-26204-2", "10.1007/978-3-032-26220-2"]
 
 [review]
 blind = "single"
 artifact = "Artifact evaluation."
 award = "Best paper award."
 
+[stats]
+[[stats.track]]
+name = "Research track"
+submitted = 239
+accepted = 49 # NOTE: 43 papers in the Main track and 6 papers in the TAP track
+
+[[stats.track]]
+name = "Industry track"
+submitted = 17
+accepted = 9
+
+[[stats.track]]
+name = "Tutorial track"
+submitted = 16
+accepted = 8
+
 [extra]
 journal = "Extended versions of selected papers will be invited for publication in a special issue of a journal to be announced soon."
-colocated = "Colocated with ABZ 2026 and TAP 2026."
 notes = "Also a doctoral symposium and industry day."
 
 [[cfp]]
