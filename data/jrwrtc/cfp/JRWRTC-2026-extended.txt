@@ -1,0 +1,30 @@
+Dear Colleagues,
+
+We are pleased to announce the Call for Papers for the 19th Junior Researcher Workshop on Real-Time Computing (JRWRTC 2026), held as part of RTNS 2026.
+
+JRWRTC is an interactive workshop designed to bring together early-career researchers (undergraduate/Master's students, PhD candidates, interns, and early-stage postdocs) with the broader real-time systems community while sharing their work in progress. Note that every paper must include at
+least one junior researcher as a co-author.
+
+Key Details & Scope
+- Topics: Real-time system design & analysis, hardware/infrastructure, software technologies, and applications (automotive, avionics, medical, etc.) of real-time systems.
+- Format: Papers up to 4 pages (excluding references) using a double-column format.
+- Presentation: Accepted papers require in-person oral and poster presentations during RTNS. An online proceedings booklet will be published, and a Best Paper Award will be presented.
+
+Important Dates
+- Abstract Deadline: October 2, 2026 → October 9, 2026
+- Submission Deadline: October 9, 2026 → October 16, 2026
+- Max Notification Date: October 19, 2026 → October 21, 2026
+- Camera-Ready: October 29, 2026
+
+NB: Authors are encouraged to submit as early as possible. Submissions will be reviewed in rolling
+windows of 3–5 days based on the submission date.
+
+Links
+- Submission site: https://easychair.org/conferences/?conf=19thjrwrtc
+- Webpage: https://2026.rtns-conference.org/jrwrtc/
+
+Best regards,
+Workshop Chairs:
+- Iryna De Albuquerque Silva (CEA List)
+- Santiago Torres-Borda (ISAE SUPAERO)
+

@@ -7,6 +7,7 @@ url = "http://jrwrtc2016.gforge.inria.fr"
 start = 2016-10-19
 end = 2016-10-21
 city = "Brest, Bretagne, France"
+colocated_with = ["rtns/2016"]
 
 [submission]
 format = "4 pages IEEE"
@@ -15,6 +16,3 @@ notification = [2016-09-21, 2016-09-27]
 
 [proceedings]
 publisher = "PDF"
-
-[extra]
-notes = "In conjunction with RTNS 2015. Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012, 1 week in 2015, 6 days in 2016 (including notification deadline)."

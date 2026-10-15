@@ -1,0 +1,30 @@
+edition = 19
+title = "19th Junior Researcher Workshop on Real-Time Computing"
+url = "https://2026.rtns-conference.org/jrwrtc/"
+
+[event]
+start = 2026-11-04
+end = 2026-11-06
+city = "Toulouse, France"
+colocated_with = ["rtns/2026"]
+
+[submission]
+format = "4 pages IEEE + references"
+abstract = [2026-10-02,2026-10-09]
+paper = [2026-10-09, 2026-10-16]
+notification = [2026-10-19, 2026-10-21]
+
+[proceedings]
+publisher = "Booklet"
+license = "free"
+
+[review]
+award = "The best JRWRTC paper will be awarded during the conference."
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[[cfp]]
+file = "cfp/JRWRTC-2026-extended.txt"
+stage = "extended"

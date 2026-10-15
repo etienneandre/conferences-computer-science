@@ -7,6 +7,7 @@ url = "https://rtns2025.retis.santannapisa.it/?page_id=1793"
 start = 2025-11-05
 end = 2025-11-07
 city = "Pisa, Italy"
+colocated_with = ["rtns/2025"]
 
 [submission]
 format = "4 pages IEEE + references"
@@ -21,10 +22,6 @@ license = "free"
 [review]
 gender_balance = "mixed"
 award = "The best JRWRTC paper will be awarded during the conference."
-
-[extra]
-colocated = "In conjunction with RTNS 2025."
-notes = "Must be co-authored by at least one junior (i.e., PhD student) researcher."
 
 [[cfp]]
 file = "cfp/JRWRTC-2025.txt"

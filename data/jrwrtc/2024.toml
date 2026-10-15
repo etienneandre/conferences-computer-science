@@ -7,6 +7,7 @@ url = "https://cister-labs.pt/rtns24/jrwrtc"
 start = 2024-11-06
 end = 2024-11-08
 city = "Porto, Portugal"
+colocated_with = ["rtns/2024"]
 
 [submission]
 format = "4 pages IEEE + references"
@@ -22,6 +23,3 @@ license = "free"
 gender_balance = "mixed"
 award = "JRWRTC 2024 Best Paper Award."
 
-[extra]
-colocated = "In conjunction with RTNS 2024."
-notes = "Must be co-authored by at least one junior (PhD student or post-doc) researcher."

@@ -7,6 +7,7 @@ url = "http://rtns2015.lifl.fr/jrwrtc2015/"
 start = 2015-11-08
 end = 2015-11-10
 city = "Versailles, France"
+colocated_with = ["rtns/2015"]
 
 [submission]
 format = "4 pages IEEE"
@@ -15,6 +16,3 @@ notification = [2015-10-01]
 
 [proceedings]
 publisher = "PDF"
-
-[extra]
-notes = "In conjunction with RTNS 2015. Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012, 1 week in 2015."

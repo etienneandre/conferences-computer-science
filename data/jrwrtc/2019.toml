@@ -7,6 +7,7 @@ url = "https://www.irit.fr/rtns2019/jrwrtc/"
 start = 2019-11-06
 end = 2019-11-08
 city = "Toulouse, France"
+colocated_with = ["rtns/2019"]
 
 [submission]
 format = "4 pages IEEE"
@@ -16,5 +17,3 @@ notification = [2019-09-27]
 [proceedings]
 publisher = "PDF"
 
-[extra]
-notes = "In conjunction with RTNS. Must be co-authored by at least one junior (PhD student or post-doc) researcher. Deadline postponed (2 days) in 2012, 1 week in 2015, 6 days in 2016 (including notification deadline), ???+8 days (including notification deadline) in 2017, firm in 2018 but eventually postponed by 14 days, 9 days (2019)."
