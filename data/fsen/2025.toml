@@ -21,6 +21,11 @@ license = "pay-profit"
 
 [review]
 gender_balance = "mixed"
+blind = "single"
+
+[stats]
+submitted = 30
+accepted = 12 # NOTE: 11 regular + 1 short
 
 [extra]
 journal = "Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN 2025 (to be confirmed)."

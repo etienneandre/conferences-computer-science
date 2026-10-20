@@ -19,8 +19,13 @@ notification = [2018-12-18]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[stats]
+submitted = 47
+accepted = 17 # NOTE: 14 regular + 3 short
+
 [extra]
-notes = "Optional abstract submission. Claim from the conference that no one ever got visa problems (in Iran). Special issue of Science of Computer Programming journal devoted to FSEN’19 (to be confirmed). Every two years."
+journal = "Special issue of Science of Computer Programming journal devoted to FSEN’19 (to be confirmed)."
+notes = "Optional abstract submission. Claim from the conference that no one ever got visa problems (in Iran)."
 
 [[cfp]]
 file = "cfp/FSEN-2019.txt"

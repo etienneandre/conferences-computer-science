@@ -19,8 +19,21 @@ notification = [2020-12-18]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+blind = "single"
+
+[stats]
+submitted = 38
+accepted = 16 # NOTE: 12 regular + 4 short
+
+[review.gender.speakers]
+women = 2
+men = 0
+
+
 [extra]
-notes = "Optional abstract submission. Claim from the conference that no one ever got visa problems (in Iran). Special issue of Science of Computer Programming journal devoted to FSEN’19 (to be confirmed). Every two years."
+journal = "Special issue of Science of Computer Programming journal devoted to FSEN’19 (to be confirmed)."
+notes = "Optional abstract submission. Claim from the conference that no one ever got visa problems (in Iran)."
 
 [[cfp]]
 file = "cfp/FSEN-2021.txt"

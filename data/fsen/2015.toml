@@ -10,13 +10,18 @@ city = "Tehran, Iran"
 
 [submission]
 format = "15 pages LNCS"
-abstract = [2014-11-07]
-paper = [2014-11-14]
+abstract = [2014-10-24,2014-11-07]
+paper = [2014-10-31,2014-11-14]
 notification = [2014-12-26]
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[stats]
+submitted = 62
+accepted = 19 # NOTE: 14 regular + 5 short + 6 posters
+
 [extra]
-notes = "Claim from the conference that no one ever got visa problems (in Iran). Special issue of Science of Computer Programming journal devoted to FSEN’15 (to be confirmed)."
+journal = "Special issue of Science of Computer Programming journal devoted to FSEN’15 (to be confirmed)."
+notes = "Claim from the conference that no one ever got visa problems (in Iran)."
