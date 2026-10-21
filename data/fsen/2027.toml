@@ -11,8 +11,8 @@ city = "Enschede, The Netherlands"
 [submission]
 tz = "AoE"
 format = "16 pages LNCS + ref (full) / 6 pages + ref (short) / 4 pages + ref (posters)"
-abstract = [2026-10-19]
-paper = [2026-10-28]
+abstract = [2026-10-19, 2026-11-02]
+paper = [2026-10-28, 2026-11-11]
 notification = [2026-12-18]
 
 [proceedings]
@@ -36,3 +36,7 @@ journal = "Following the tradition of FSEN, we plan to have a special issue of t
 [[cfp]]
 file = "cfp/FSEN-2027.txt"
 stage = "initial"
+
+[[cfp]]
+file = "cfp/FSEN-2027-extended-2026-10-21.txt"
+stage = "extended"
