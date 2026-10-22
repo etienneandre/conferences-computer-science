@@ -87,7 +87,7 @@
       {# countdown.js fills this in and unhides it. Hidden by default so that
          without JavaScript nothing claims to know where the reader is. #}
       <span class="localtime-note" hidden>That is <span class="localtime"
-        data-expires="{{ clock.expires }}"></span> where you are.</span>
+        data-expires="{{ clock.expires }}"></span> (presumably) where you are.</span>
       {% else %}
       Submission closed on {{ paper.effective | date }}{% if paper.extended %},
       after an extension of {{ paper.extension_days }} days{% endif %}.
@@ -180,7 +180,7 @@
         </dd>
         {% endif %}
         {% for key, label in [('artifact', 'Artifacts'), ('award', 'Awards'),
-                              ('competition', 'Competition'), ('environment', 'Travel')] %}
+                              ('competition', 'Competition'), ('environment', '🌱 Environment')] %}
         {% set value = edition.review.get(key) %}
         {% if value %}
         <dt>{{ label }}</dt><dd>{{ value if value is string else 'Yes' }}</dd>
