@@ -26,3 +26,7 @@ competition = "Hosts the model checking contest"
 [review.gender.chairs]
 men = 2
 women = 0
+
+[[cfp]]
+file = "cfp/PetriNets-2027.txt"
+stage = "initial"

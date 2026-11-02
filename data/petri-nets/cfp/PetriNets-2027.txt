@@ -1,0 +1,95 @@
+                   48th International Conference on
+         Application and Theory of Petri Nets and Concurrency
+                  Rennes, France. June 21 – 25, 2027
+
+
+The Petri Nets Conference 2027 will take place in Rennes, at the
+Faculty of Economical Science.
+
+We seek papers presenting original research on the application or
+theory of Petri nets, as well as contributions addressing concurrent
+systems more broadly, or applications of concurrency to system design.
+
+Topics specific to Petri Nets:
+- Analysis and synthesis, structure and behaviour of nets
+- System design and model-driven development using nets
+- Relationships between Petri nets and other approaches
+- Net-based semantical, logical and algebraic calculi
+- Higher-level net models (coloured nets, timed nets, etc.)
+- Stochastic net models
+- Verification and model checking using nets
+- Process discovery and conformance checking
+- Computer tools for nets
+- Standardisation of nets
+- Experience reports describing applications of nets to various domains
+
+General Topics related to Concurrency:
+- Application of concurrency to system design
+- Model checking and verification of distributed systems
+- Verification of infinite-state or parametric systems
+- Causality/partial order theory of concurrency
+- Educational issues related to concurrency
+- New developments in the theory of concurrency
+- Modelling of hardware and biological systems
+
+Important Dates:
+- Abstract submission: January 15, 2027
+- Paper submission: January 22, 2027
+- Notification: March 8, 2027
+- Final version due: March 22, 2027
+- Workshops and Tutorials: June 21–22, 2027
+- Main Conference: June 23–25, 2027
+Deadlines are AoE (Anywhere on Earth)
+
+Two kinds of papers can be submitted:
+
+- Regular papers (max. 20 pages excluding references) describing
+original results pertaining to the development of the theory of Petri
+nets and distributed and concurrent systems in general, new results
+extending the applicability of Petri nets, or case studies,
+application and experience reports pertinent to the practical use of
+Petri nets and concurrency.
+
+- Tool papers (max. 10 pages excluding references) describing a
+computer tool based on Petri nets (not an application of the tool or
+the theory behind the tool). The tool should be available for use by
+other groups (but not necessarily for free). The submission should
+indicate how the reviewers can get access to the tool (this must be
+free). The tool will be demonstrated at the Tool Exhibition.
+
+Submissions must use the Springer LNCS format and include line numbers
+(use the lineno LATEX package).  Submit via EasyChair:
+https://easychair.org/conferences/?conf=petrinets2027
+
+Workshops, Courses, Tutorials and Tools
+
+The main conference will take place from Wednesday, June 23 to Friday,
+June 25. The two days before the main conference also offer a wide
+range of activities including workshops and tutorials. The Petri Net
+Courses take place from Monday June 21 to Tuesday June 22. They offer
+a thorough introduction to Petri nets in half-day and full-day
+modules. Detailed descriptions of workshops and tutorials will be made
+available via the conference website. An exhibition of Petri net tools
+will take place on Thursday, June 24. It consists of informal
+demonstrations for small groups/individuals, and there are no
+scheduled talks.
+
+Organisation
+
+Organisation Committee Chairs:
+- Loïc Hélouët, Inria Rennes, France
+- Nathalie Bertrand, Inria Rennes, France
+- Uli Fahrenberg, Univ. Paris-Saclay, France
+
+Program Committee Chairs:
+- Andrew Miner, Iowa State University of Science and Technology, USA
+- Marco Montali, Free University of Bozen-Bolzano, Italy
+
+Workshops Chairs:
+- Jan Martijn van der Werf, Utrecht University, The Netherlands
+- Michael Köhler-Bußmeier, Hamburg University of Applied Sciences, Germany
+
+Information & Contact
+
+                    http://conf-2027.petrinet.net
+                         pn2027@petrinet.net
