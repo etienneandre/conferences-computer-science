@@ -7,6 +7,7 @@ url = "https://www.discotec.org/2025/forte"
 start = 2025-06-16
 end = 2025-06-20
 city = "Lille, France"
+colocated_with = ["coordination/2025"]
 
 [submission]
 tz = "AoE"

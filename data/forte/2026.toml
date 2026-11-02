@@ -7,6 +7,7 @@ url = "https://www.discotec.org/2026/forte"
 start = 2026-06-08
 end = 2026-06-12
 city = "Urbino, Italy"
+colocated_with = ["coordination/2026"]
 
 [submission]
 tz = "AoE"
