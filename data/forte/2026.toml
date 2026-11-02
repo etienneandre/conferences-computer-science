@@ -19,11 +19,17 @@ notification = [2026-03-24]
 [proceedings]
 publisher = "Springer LNCS IFIP"
 license = "pay-profit"
+doi = "10.1007/978-3-032-28187-6"
 
 [review]
 blind = "single"
 gender_balance = "mixed"
 artifact = "Artifact evaluation mandatory for tool papers, optional for regular papers"
+
+[stats]
+accepted = 15
+submitted = 27
+# NOTE: 12 regular papers, 2 tool papers, and 1 short paper
 
 [extra]
 journal = "Selected papers will be invited to a special issue of Logical Methods in Computer Science."

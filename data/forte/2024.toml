@@ -18,6 +18,7 @@ notification = [2024-03-29, 2024-04-05]
 [proceedings]
 publisher = "Springer LNCS IFIP"
 license = "pay-profit"
+doi = "10.1007/978-3-031-95497-9"
 
 [extra]
 colocated = "A DisCoTec Member Conference" # TODO

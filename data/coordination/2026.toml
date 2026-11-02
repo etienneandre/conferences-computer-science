@@ -19,11 +19,24 @@ notification = [2026-03-27]
 [proceedings]
 publisher = "LNCS-IFIP"
 license = "pay-profit"
+doi = "10.1007/978-3-032-28358-0"
 
 [review]
 blind = "single"
 gender_balance = "mixed"
 artifact = "Artifact evaluation mandatory for tool papers, optional for regular/survey"
+# NOTE: The selection of the papers was entrusted to the Programme Committee (PC), consisting of 32 members from 15 different countries (with gender balance F/M = 12/20).
+
+[stats]
+[[stats.track]]
+name = "regular papers"
+submitted = 23
+accepted = 11
+
+[[stats.track]]
+name = "tool papers"
+submitted = 5
+accepted = 2
 
 [extra]
 journal = "A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP)"

@@ -15,9 +15,18 @@ abstract = [2025-01-31, 2025-02-14]
 paper = [2025-02-07, 2025-02-21]
 notification = [2025-03-28, 2025-04-04]
 
+[review]
+blind = "single"
+
 [proceedings]
 publisher = "LNCS-IFIP"
 license = "pay-profit-embargo"
+doi = ["10.1007/978-3-031-95589-1"]
+
+[stats]
+submitted = 27
+accepted = 12
+# NOTE: 10 regular papers, 2 tool papers
 
 [extra]
 colocated = "Member of DisCoTec 2025." # TODO
