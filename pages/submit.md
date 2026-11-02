@@ -5,12 +5,14 @@ A link to the call for papers and the deadline is already better than nothing â€
 
 ## The quickest version for you (and longest to me)
 
-Email the call for papers, or a link to it, to [my email address](https://www.etienne-andre.fr/).
+Email the call for papers, or a link to it, to [my email address](https://www.etienne-andre.fr/en/contact.html).
 Put the acronym and year in the subject line so it is easy to find later.
 
 But ideally, send (semi-)structured data, see below.
 
 ## If you would rather send structured data (preferred)
+
+Please, refer to the instructions below, and either [send me an email](https://www.etienne-andre.fr/en/contact.html) or [make a pull request](https://github.com/etienneandre/conferences-computer-science#important-about-this-git-repository) (preferred, but require a github account).
 
 Every edition here is one small text file. If you send one in this shape it can
 be dropped straight in, which saves a round trip. The format is
