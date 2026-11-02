@@ -35,7 +35,17 @@ free_to_read = true
 open_license = true
 authors_keep_rights = true
 image = "by.png"
-url = "https://creativecommons.org/licenses/by/3.0/"
+url = "https://creativecommons.org/licenses/by/4.0/"
+
+[license.cc-by-sa]
+label = "CC BY-SA"
+description = "open access, authors keep their rights"
+css = "proccc"
+free_to_read = true
+open_license = true
+authors_keep_rights = true
+# image = "by-sa.png" # NOTE: unused ?
+url = "https://creativecommons.org/licenses/by-sa/4.0/"
 
 [license.cc-by-nd]
 label = "CC BY-ND"
@@ -45,7 +55,7 @@ free_to_read = true
 open_license = true
 authors_keep_rights = true
 image = "by-nd.png"
-url = "https://creativecommons.org/licenses/by-nd/3.0/"
+url = "https://creativecommons.org/licenses/by-nd/4.0/"
 
 [license.cc-by-nc-nd]
 label = "CC BY-NC-ND"
@@ -55,7 +65,7 @@ free_to_read = true
 open_license = true
 authors_keep_rights = true
 image = "by-nc-nd.png"
-url = "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+url = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 
 [license.free]
 label = "Free access"
