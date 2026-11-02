@@ -28,8 +28,6 @@ artifact = "Optional Artifact Evaluation process for accepted papers that assess
 men = 1
 women = 1
 
-
-
 [stats]
 
 
@@ -38,5 +36,5 @@ colocated = "Part of CPS-IoT Week."
 notes = "Two tracks (Systems and Applications / Applied Methodologies and Foundations)."
 
 [[cfp]]
-file = "cfp/RTAS-2026.txt"
-stage = "initial"
+file = "cfp/RTAS-2027-2026-10-23.txt"
+# stage = "final"

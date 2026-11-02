@@ -1,0 +1,36 @@
+Dear colleagues,
+
+The **final call for papers for RTAS 2027**, the 33rd IEEE Real-Time and Embedded Technology and Applications Symposium, is open. The symposium will take place in **Boulder, Colorado, USA, May 17–20, 2027**, as part of CPS-IoT Week.
+
+**Paper submission deadline: Thursday, November 5, 2026 (firm).**
+
+RTAS 2027 welcomes contributions advancing the design, implementation, validation, verification, and evolution of **systems with timing requirements**. Submissions from distributed systems, cloud/edge computing, computer architecture, systems software, computer security, and artificial intelligence are encouraged.
+
+Timing requirements are broadly defined, encompassing hard and soft real-time constraints, probabilistic guarantees, quality of service, throughput, and latency requirements. Contributions must explicitly address these requirements or explain how their innovations support predictable, dependable, or efficient systems with timing requirements.
+
+The conference features two technical tracks:
+
+- **Track 1 — Systems and Applications:** Applications and deployments, operating systems, middleware, virtualization, hardware architectures and accelerators, networking, distributed infrastructures, predictable AI/ML pipelines, profiling, timing analysis, and compilers. This track emphasizes implementations, experimental evaluation, and practical experience.
+- **Track 2 — Applied Methodologies and Foundations:** Modeling, scheduling, resource management and isolation, optimization, verification and validation, and AI-driven methodologies for time-sensitive systems. This track emphasizes rigorous methods motivated by real systems and supported by experimental evaluation.
+
+Both formal and empirical contributions are welcome, including fundamental research, applied research, and industry practice. RTAS 2027 follows a **double-anonymous review process**, includes an author response phase, and offers optional artifact evaluation for accepted papers.
+
+**Important dates**
+
+- Paper submission: **November 5, 2026 (firm)**
+- Author response period: January 11–15, 2027
+- Author notification: January 28, 2027 (tentative)
+- Brief presentation submission: February 11, 2027
+- Artifact evaluation submission: February 18, 2027
+- Camera-ready submission: March 30, 2027
+- Conference: May 17–20, 2027
+
+Full call and submission guidelines: https://2027.rtas.org/
+Submission site: https://rtas27.hotcrp.com/
+
+For questions, please contact the Program Chair, Linh Thi Xuan Phan, at linhphan@cis.upenn.edu.
+
+Please circulate this call to colleagues and relevant research communities.
+
+Best regards,
+Nassim AMALOU
