@@ -24,7 +24,6 @@ license = "acm"
 [stats]
 accepted = 89
 submitted = 224
-# TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
 notes = "Papers authored or co-authored by members of the program committee are not allowed." # TODO

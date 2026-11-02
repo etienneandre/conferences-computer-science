@@ -25,7 +25,6 @@ license = "acm"
 [stats]
 accepted = 72
 submitted = 236
-# TODO: verify — extracted from the cross-year acceptance string.
 
 [review]
 blind = "double"
