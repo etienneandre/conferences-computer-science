@@ -1,7 +1,7 @@
 # migrated from data.php line 20063
 edition = 7
 title = "7th Workshop on Models for Formal Analysis of Real Systems"
-url = "http://mars-workshop.org/mars2026/"
+url = "https://mars-workshop.org/mars2026/"
 
 [event]
 start = 2026-04-12
@@ -15,10 +15,17 @@ notification = [2026-03-11]
 
 [proceedings]
 publisher = "EPTCS"
-license = "cc-by-nd"
+license = "cc-by-sa"
 
 [review]
-gender_balance = "mixed"
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 1
+women = 1
+
 
 [extra]
 colocated = "Satellite of ETAPS."

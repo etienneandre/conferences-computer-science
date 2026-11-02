@@ -1,0 +1,35 @@
+edition = 8
+title = "8th Workshop on Models for Formal Analysis of Real Systems"
+url = "https://mars-workshop.org/mars2027/"
+
+[event]
+start = 2027-04-11
+city = "Copenhagen, Denmark"
+colocated_with = ["tacas/2027"]
+
+[submission]
+tz = "AoE"
+format = "15 pages EPTCS + references"
+paper = [2027-01-22]
+notification = [2027-03-05]
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by-sa"
+
+[review]
+[review.gender.chairs]
+men = 1
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 0
+
+[extra]
+colocated = "Satellite of ETAPS."
+notes = "In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
+
+[[cfp]]
+file = "cfp/MARS-2027.txt"
+stage = "initial"
