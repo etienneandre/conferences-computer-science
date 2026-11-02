@@ -12,14 +12,21 @@ city = "Vancouver, Canada"
 format = "12 IEEE"
 abstract = [2019-01-04]
 paper = [2019-01-11]
+extensions = false
+rebuttal_start = 2019-03-04
+rebuttal_end = 2019-03-08
 notification = [2019-03-29]
 
 [proceedings]
 publisher = "ACM SIGPLAN Proceedings (?)"
 license = "acm"
 
+[review]
+award = "An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee."
+
 [extra]
-notes = "Author Feedback/Rebuttal Period 4-8 March, 2019. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science. An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee."
+notes = "Papers authored or co-authored by members of the program committee are not allowed." # TODO
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
 
 [[cfp]]
 file = "cfp/LICS-2019.txt"

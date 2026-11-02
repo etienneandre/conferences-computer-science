@@ -1,0 +1,48 @@
+edition = 42
+title = "Forty-Second Annual Symposium on Logic in Computer Science (LiCS)"
+url = "https://lics.siglog.org/lics27"
+
+[event]
+start = 2027-06-21
+end = 2027-06-24
+city = "Montréal, Québec, Canada"
+venue = "Université du Québec à Montréal (UQAM)"
+
+[submission]
+tz = "AoE"
+format = "22 pages LIPIcs + references + appendix"
+abstract = [2027-01-14]
+paper = [2027-01-21]
+extensions = false
+rebuttal_start = 2027-03-25
+rebuttal_end = 2027-03-28
+notification = [2027-04-15]
+
+[review]
+award = "An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee. Around 10% of accepted papers will be selected as distinguished papers."
+blind = "single"
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 3
+women = 1
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+doi = "10.4230/LIPIcs.LICS.2026"
+
+# [stats]
+# submitted = 293
+# accepted = 82
+
+[[cfp]]
+file = "cfp/LiCS-2027.txt"
+# stage = "Web page"
+
+[extra]
+notes = "Papers authored or co-authored by members of the PC are allowed. Each person may be an author or co-author of at most one submission in which none of the authors has previously published a paper at LiCS." # TODO
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

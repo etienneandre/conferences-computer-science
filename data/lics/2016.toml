@@ -12,6 +12,9 @@ city = "New York City, USA"
 format = "10 pages ACM SIGPLAN"
 abstract = [2016-01-11]
 paper = [2016-01-18]
+extensions = false
+rebuttal_start = 2016-03-14
+rebuttal_end = 2016-03-18
 notification = [2016-04-04]
 
 [proceedings]
@@ -19,4 +22,5 @@ publisher = "ACM SIGPLAN Proceedings"
 license = "acm"
 
 [extra]
-notes = "Author Feedback/Rebuttal Period March 14-18, 2016. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
+notes = "Papers authored or co-authored by members of the program committee are not allowed." # TODO
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

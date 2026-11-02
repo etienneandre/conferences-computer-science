@@ -10,17 +10,39 @@ city = "Lisbon, Portugal"
 
 [submission]
 tz = "AoE"
-format = "12 pages IEEE + references"
+format = "12 pages ACM SIGCONF + references"
 abstract = [2026-01-15]
 paper = [2026-01-22]
+extensions = false
+rebuttal_start = 2026-03-26
+rebuttal_end = 2026-03-29
 notification = [2026-04-16]
 
-[proceedings]
-publisher = "ACM SIGPLAN Proceedings"
-license = "acm"
-
 [review]
-blind = "double"
+award = "An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee. Around 10% of accepted papers will be selected as distinguished papers."
+blind = "lightweight"
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 0
+women = 2
+
+[proceedings]
+publisher = "LIPIcs"
+license = "cc-by"
+doi = "10.4230/LIPIcs.LICS.2026"
+
+[stats]
+submitted = 293
+accepted = 82
+
+[[cfp]]
+file = "cfp/LiCS-2026.txt"
+# stage = "Web page"
 
 [extra]
 colocated = "Part of FLOC 2026"
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

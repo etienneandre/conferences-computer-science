@@ -1,0 +1,160 @@
+Forty-Second Annual Symposium on
+Logic in Computer Science (LICS)
+Montreal • 21–24 June 2027
+
+Call for Papers
+
+The 42nd Annual Symposium on Logic in Computer Science (LICS 2027) will be held during 21–24 June 2027, at the Université du Québec à Montréal (UQAM).
+
+The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly construed. We invite submissions on topics that fit under that rubric. Suggested, but not exclusive, topics of interest include:
+
+    automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification.
+
+New for 2027
+
+Due to the rapid advances in AI and its impact on research, LICS’27 has some policy changes:
+
+    LICS 2027 submissions will be single-blind, i.e., submissions will not be anonymous.
+    Each person may be an author or co-author of at most three submissions.
+    Each person may be an author or co-author of at most one submission in which none of the authors has previously published a paper at LICS.
+    Papers must be submitted through HotCRP by the submission deadline. No later than one week after the deadline, the authors must make the submitted version publicly available on arXiv.
+    Authors may use large language models (LLMs) and other generative AI tools when preparing their papers. Any substantive use, such as generating text, proofs, code, or ideas, must be disclosed in the paper, in a well-marked heading at the end of the paper (before references). Minor edits to the authors’ own text, such as correcting grammar or improving clarity, do not need to be disclosed.
+
+Exceptions to these policies: If an author requires an exception to any of these policies, they should email the PC chairs with a justification for the requested exception.
+Important Dates
+
+The exact deadline time on all dates is anywhere on earth (AoE). Submission deadlines are firm; late submissions will not be considered.
+Titles and Short Abstracts Due	14 January 2027
+Full Papers Due	21 January 2027
+Author Response Period	25–28 March 2027
+Author Notification	15 April 2027
+Conference	21–24 June 2027
+Instructions to Authors
+
+Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the full paper. All submissions will be electronic; the submission link will be announced in due course.
+
+Formatting: Papers must be submitted in the LIPIcs format, the page limit for submission is 22 pages excluding references. A clearly marked appendix can be included but reviewers will read it at their discretion. See https://drops.dagstuhl.de/entities/series/LIPIcs for instructions.
+
+Publication: The LICS 2027 proceedings will be published open access by LIPIcs. No publication charges apply. The official publication date may differ from the first day of the conference and may affect the deadline for any patent filings related to published work.
+
+Content and scope: The paper must be in English and provide sufficient detail to allow the program committee to assess the merits of the paper. It should begin with a succinct problem statement, a summary of the main results, and a brief explanation of their significance and relevance to the conference and to computer science, related work, and overview of the approach (main ideas), all phrased for the non-specialist. Technical development directed to the specialist should follow. References and comparisons with related work must be included. If necessary, detailed proofs of technical results may be included in a clearly labeled appendix, to be consulted at the discretion of program committee members. Submissions not conforming to the above requirements will be rejected without further consideration.
+
+Papers authored or co-authored by members of the PC are allowed.
+
+Originality: Results must be unpublished and not submitted for publication elsewhere, including the proceedings of other symposia or workshops. The program chairs must be informed, in advance of submission, of any closely related work submitted or about to be submitted to a conference or journal. Authors of accepted papers are expected to sign copyright release forms. One author of each accepted paper is expected to register and present the paper at the conference. Remote presentations can be organized for authors who are not able to attend.
+Review Process
+
+LICS will have Associate Chairs within the Programme Committee, to help coordinate reviews and strengthen the review process.
+
+Conflict of Interest Policy: The submission process will include declaration of conflicts of interest (COI). Authors should limit their COI declaration to the following categories (cf. SafeToC):
+
+    Family member or close friend.
+    Ph.D. advisor or advisee (no time limit), or postdoctoral or undergraduate mentor or mentee within the past five years.
+    Person with the same affiliation.
+    Person involved in an alleged incident of harassment. (It is not required that the incident be reported.)
+    The reviewer owes the author a favor (e.g., recently requested a reference letter).
+    Frequent/recent collaborator, or recipients of joint funding (within the last 2 years or reasonably expected within the next year).
+
+If an author believes they have a valid reason for a conflict of interest not listed above, they can contact the PC chairs to discuss if it is appropriate to declare such conflict.
+Kleene Award, Distinguished Papers, and Special Issues
+
+An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee.
+
+Around 10% of accepted papers will be selected as distinguished papers — papers that make an exceptionally strong contribution to the field and should be read by a broad audience due to their relevance, originality, significance, and clarity.
+
+Full versions of papers selected by the program committee will be invited for submissions to JACM, TheoretiCS, and to a special issue of LMCS.
+Program Committee Chairs
+
+    Pablo Barceló Pontificia Universidad Católica de Chile
+    Alexandra Silva Cornell University
+
+Associate Chairs
+
+    Gilles Barthe MPI-SWS & IMDEA Software Institute
+    Michael Benedikt Oxford University
+    Barbara König Universität Duisburg-Essen
+    Anca Muscholl University of Bordeaux
+
+Program Committee
+
+    Samson Abramsky University College London
+    C Aiswarya Chennai Mathematical Institute
+    S. Akshay IIT Bombay
+    Carlo Angiuli Indiana University
+    Zena M. Ariola University of Oregon
+    A. R. Balasubramanian MPI-SWS
+    Stephanie Balzer Carnegie Mellon University
+    Jialu Bao Northeastern University
+    Kevin Batz University of Muenster
+    Michael Blondin Université de Sherbrooke
+    Mikolaj Bojanczyk University of Warsaw
+    Silvia Butti King’s College London
+    Antonio Casares LIS, Aix-Marseille University
+    Evan Cavallo University of Gothenburg & Chalmers University of Technology
+    Lorenzo Clemente University of Warsaw
+    Liron Cohen Ben-Gurion University
+    Thomas Colcombet IRIF, CNRS, Université Paris Cité
+    Victor Dalmau Universitat Pompeu Fabra
+    Stéphane Demri LMF, CNRS, ENS Paris-Saclay
+    Rayna Dimitrova CISPA Helmholtz Center for Information Security
+    Elena Di Lavore Tallinn University of Technology
+    Raul Fervari CONICET & Universidad Nacional de Córdoba
+    Dana Fisman Ben-Gurion University of the Negev
+    Marie Fortin IRIF, CNRS, Université Paris Cité
+    Nate Foster EPFL & Jane Street
+    Cameron Freer MIT
+    Sergey Goncharov University of Birmingham
+    Daniel Gratzer Aarhus University
+    Chris Heunen University of Edinburgh
+    Patricia Johann Appalachian State University
+    Sebastian Junges Radboud University
+    Benjamin Lucien Kaminski Saarland University & University College London
+    Edon Kelmendi Queen Mary University of London
+    Katherine Kosaian University of Iowa
+    Angeliki Koutsoukou-Argyraki Royal Holloway, University of London and University of Cambridge
+    Nicolai Kraus University of Nottingham
+    Clemens Kupke University of Strathclyde
+    Matthias Lanzinger TU Wien
+    Anthony Lin TU Kaiserslautern & MPI-SWS
+    Moritz Lichter RWTH Aachen University
+    Sonia Marin University of Birmingham
+    Cristina Matache University of Birmingham
+    Filip Mazowiecki University of Warsaw
+    Aart Middeldorp University of Innsbruck
+    Mikaël Monet Inria Lille
+    Rémi Morvan Université de Lille
+    Antoine Mottet Hamburg University of Technology
+    Yoshiki Nakamura Chiba University
+    Renato Neves University of Minho
+    Peter O’Hearn Meta & University College London
+    Jakub Opršal University of Birmingham
+    Prakash Panangaden University of Edinburgh & McGill University
+    Michał Pilipczuk University of Warsaw
+    Miguel Romero Pontificia Universidad Católica de Chile
+    Benjamin Rossman Duke University
+    Sylvain Schmitz Université Paris Cité
+    Peter Selinger Dalhousie University
+    Cristina Sirangelo IRIF, Université Paris Cité & RelationalAI
+    Femke van Raamsdonk Vrije Universiteit Amsterdam
+    Niels van der Weide Radboud University & Eötvös Loránd University
+    Henning Urbat FAU Erlangen-Nürnberg
+    Marc Zeitoun LaBRI, University of Bordeaux
+    Thomas Zeume Ruhr University Bochum
+    Standa Živný University of Oxford
+    Florian Zuleger TU München
+
+Publicity and Proceedings Chair
+
+    Sam Staton, Univ. Oxford
+
+LICS Workshop Chair
+
+    Valentin Blot, Inria and Nantes Université, France
+
+Local Organizer
+
+    Ryan Kavanagh, Université du Québec à Montréal
+
+Steering Committee
+
+Pablo Barceló, Lars Birkedal, Valentin Blot, Ugo Dal Lago, Javier Esparza, Claudia Faggian, Joost-Pieter Katoen, Ryan Kavanagh, Naoki Kobayashi, Barbara König, Orna Kupferman, Dale Miller, Joël Ouaknine, Brigitte Pientka, Alexandra Silva, Pawel Sobocinski, Sam Staton, Frank Stephan, Alwen Tiu, Bernardo Toninho, Igor Walukiewicz (chair).

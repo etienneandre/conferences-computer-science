@@ -12,6 +12,9 @@ city = "Reykjavík, Iceland"
 format = "12 pages IEEE"
 abstract = [2017-01-03]
 paper = [2017-01-09]
+extensions = false
+rebuttal_start = 2017-02-28
+rebuttal_end = 2017-03-04
 notification = [2017-03-21]
 
 [proceedings]
@@ -24,4 +27,5 @@ submitted = 224
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Author Feedback/Rebuttal Period Feb 28 - 4 March, 2017. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
+notes = "Papers authored or co-authored by members of the program committee are not allowed." # TODO
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

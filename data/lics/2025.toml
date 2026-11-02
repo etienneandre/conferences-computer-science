@@ -13,14 +13,26 @@ tz = "AoE"
 format = "12 pages IEEE + references"
 abstract = [2025-01-16]
 paper = [2025-01-23]
+extensions = false
+rebuttal_start = 2025-03-17
+rebuttal_end = 2025-03-20
 notification = [2025-04-08]
 
 [proceedings]
 publisher = "ACM SIGPLAN Proceedings"
 license = "acm"
+doi = "10.1109/LICS65433.2025"
+
+[review]
+blind = "double"
+award = "An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee. Around 10% of accepted papers will be selected as distinguished papers."
+
+[stats]
+submitted = 215
+accepted = 66
 
 [extra]
-notes = "Double-blind (since 2020). Author Feedback/Rebuttal: 17-20 March 2025. Deadlines are firm. An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee. Around 10% of accepted papers will be selected as distinguished papers. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
 
 [[cfp]]
 file = "cfp/LiCS-2025.txt"

@@ -7,20 +7,30 @@ url = "https://lics.siglog.org/lics22/"
 start = 2022-08-02
 end = 2022-08-05
 city = "Haifa, Israel"
+colocated_with = ["icalp/2022"]
+# TODO: part of FLOC 2022
 
 [submission]
 tz = "AoE"
 format = "12 pages IEEE + references"
 abstract = [2022-01-17]
 paper = [2022-01-21]
+extensions = false
+rebuttal_start = 2022-03-10
+rebuttal_end = 2022-03-13
 notification = [2022-04-14]
 
 [proceedings]
 publisher = "ACM SIGPLAN Proceedings"
 license = "acm"
 
+[review]
+blind = "double"
+award = "An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee."
+
 [extra]
-notes = "Part of FLOC 2022. Double-blind (since 2020). Co-located with ICALP. Author Feedback/Rebuttal: 10-13 March 2022. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science. An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee."
+notes = "Papers authored or co-authored by members of the program committee are not allowed. " # TODO
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
 
 [[cfp]]
 file = "cfp/LICS-2022.txt"

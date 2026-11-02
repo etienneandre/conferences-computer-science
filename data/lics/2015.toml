@@ -12,6 +12,9 @@ city = "Kyōto, Japan"
 format = "10 pages IEEE"
 abstract = [2015-01-12]
 paper = [2015-01-19]
+extensions = false
+rebuttal_start = 2015-03-12
+rebuttal_end = 2015-03-16
 notification = [2015-03-30]
 
 [proceedings]
@@ -19,4 +22,5 @@ publisher = "IEEE (?)"
 license = "pay"
 
 [extra]
-notes = "Author Feedback/Rebuttal Period March 12-16, 2015. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
+notes = "Papers authored or co-authored by members of the program committee are not allowed." # TODO
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

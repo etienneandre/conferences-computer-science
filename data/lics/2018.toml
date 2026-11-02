@@ -12,11 +12,18 @@ city = "Oxford, England"
 format = "10 pages ACM SIGPLAN"
 abstract = [2018-01-24]
 paper = [2018-01-31]
+extensions = false
+rebuttal_start = 2018-03-14
+rebuttal_end = 2018-03-18
 notification = [2018-03-31]
 
 [proceedings]
 publisher = "ACM SIGPLAN Proceedings"
 license = "acm"
 
+[review]
+award = "An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee."
+
 [extra]
-notes = "Author Feedback/Rebuttal Period 14-18 March, 2018. Papers authored or co-authored by members of the program committee are not allowed. Deadlines are firm. Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science. An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee."
+notes = "Papers authored or co-authored by members of the program committee are not allowed." # TODO
+journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."
