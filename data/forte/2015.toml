@@ -1,7 +1,7 @@
 # migrated from data.php line 10194
 edition = 35
 title = "35th IFIP International Conference on Formal Techniques for Distributed Objects, Components and Systems"
-url = "http://discotec2015.inria.fr/"
+url = "https://discotec2015.inria.fr/"
 
 [event]
 start = 2015-06-02
@@ -11,12 +11,25 @@ city = "Grenoble, France"
 [submission]
 format = "15 pages LNCS (regular / tool) / 7 pages (short / tool demo) / 3 pages (poster)"
 abstract = [2015-02-15]
-paper = [2015-02-22]
+paper = [2015-01-25, 2015-02-22] # NOTE: initial date retrieved from "4 week extension"
 notification = [2015-03-23]
 
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[stats]
+submitted = 53
+accepted = 15
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 3
+women = 0
+
 [extra]
-notes = "A DisCoTec Member Conference. The best papers will be invited after the conference to contribute to a special issue of a top-level journal (e.g. TCS or Information & Computation)."
+colocated = "A DisCoTec Member Conference" # TODO
+journal = "The best papers will be invited after the conference to contribute to a special issue of a top-level journal (e.g. TCS or Information & Computation)."

@@ -18,5 +18,10 @@ notification = [2016-03-21, 2016-03-29]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[stats]
+submitted = 44
+accepted = 18
+
 [extra]
-notes = "A DisCoTec Member Conference. The best papers will be invited after the conference to contribute to a special issue of a top-level journal."
+colocated = "A DisCoTec Member Conference" # TODO
+journal = "The best papers will be invited after the conference to contribute to a special issue of a top-level journal."
