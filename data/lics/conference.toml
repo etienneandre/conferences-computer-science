@@ -5,7 +5,19 @@ name = "Annual ACM/IEEE Symposium on Logic in Computer Science (LiCS)"
 
 [core]
 id = "748"
-rank = "A*"  # TODO: verify
+
+[[core.history]]
+from = 2008
+rank = "A*"
+
+[[core.history]]
+from = 2010
+rank = "A"
+
+[[core.history]]
+from = 2013
+rank = "A*"
+
 
 [links]
 dblp = "lics"
