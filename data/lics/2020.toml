@@ -7,6 +7,7 @@ url = "https://lics.siglog.org/lics20/"
 start = 2020-07-08
 end = 2020-07-12
 city = "Beijing, China"
+online = true
 colocated_with = ["icalp/2020"]
 
 [submission]
