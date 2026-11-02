@@ -1023,6 +1023,15 @@ lon = 34.9896
 continent = "AS"
 # 8 edition(s)
 
+["Hakodate, Japan"]
+country = "JP"
+display = "Hakodate"
+native = "函館市"
+native_lang = "ja"
+lat = 41.799
+lon = 140.7431
+continent = "AS"
+
 ["Halmstad, Sweden"]
 country = "SE"
 display = "Halmstad"
@@ -1127,17 +1136,6 @@ lat = 40.744
 lon = -74.0324
 continent = "NA"
 # 2 edition(s)
-
-["Hokkaido, Japan"]
-country = "JP"
-display = "Hokkaido"
-native = "北海道"
-native_lang = "ja"
-lat = 43.0642
-lon = 141.3469
-continent = "AS"
-# WARNING: a prefecture; coordinates are Sapporo
-# 1 edition(s)
 
 ["Hong Kong"]
 country = "HK"
@@ -1424,7 +1422,7 @@ continent = "AS"
 
 ["Kyōto, Japan"]
 country = "JP"
-display = "Kyoto"
+display = "Kyōto"
 native = "京都"
 native_lang = "ja"
 lat = 35.0116
@@ -2069,9 +2067,9 @@ lon = 1.9093
 continent = "EU"
 # 1 edition(s)
 
-["Osaka, Japan"]
+["Ōsaka, Japan"]
 country = "JP"
-display = "Osaka"
+display = "Ōsaka"
 native = "大阪"
 native_lang = "ja"
 lat = 34.6937
