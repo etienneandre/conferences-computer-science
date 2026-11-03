@@ -4,6 +4,7 @@ title = "5th Workshop on Models for Formal Analysis of Real Systems"
 url = "http://mars-workshop.org/mars2022/"
 
 [event]
+part_of = "etaps/2022"
 start = 2022-04-02
 end = 2022-04-03
 city = "Munich, Germany"
@@ -19,7 +20,7 @@ publisher = "EPTCS"
 license = "cc-by-nd"
 
 [extra]
-notes = "Satellite of ETAPS. In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
+notes = "In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
 
 [[cfp]]
 file = "cfp/MARS-2022.txt"

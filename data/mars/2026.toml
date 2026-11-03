@@ -4,8 +4,9 @@ title = "7th Workshop on Models for Formal Analysis of Real Systems"
 url = "https://mars-workshop.org/mars2026/"
 
 [event]
+part_of = "etaps/2026"
 start = 2026-04-12
-city = "Milan, Italy"
+city = "Turin, Italy"
 
 [submission]
 tz = "AoE"
@@ -28,7 +29,6 @@ women = 1
 
 
 [extra]
-colocated = "Satellite of ETAPS."
 notes = "In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
 
 [[cfp]]

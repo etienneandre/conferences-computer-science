@@ -2,8 +2,10 @@
 edition = 4
 title = "4th Workshop on Models for Formal Analysis of Real Systems"
 url = "http://www.mars-workshop.org/mars2020/"
+status = "cancelled"
 
 [event]
+part_of = "etaps/2020"
 start = 2020-04-26
 city = "Dublin, Ireland"
 
@@ -18,7 +20,7 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [extra]
-notes = "Satellite of ETAPS. In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
+notes = "In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
 
 [[cfp]]
 file = "cfp/MARS-2020-extended.txt"

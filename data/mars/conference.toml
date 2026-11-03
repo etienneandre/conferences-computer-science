@@ -3,6 +3,7 @@
 acronym = "MARS"
 name = "Workshop on Models for Formal Analysis of Real Systems"
 frequency = "Every two years (?)"
+workshop = true
 
 [core]
 rank = "absent"  # TODO: verify

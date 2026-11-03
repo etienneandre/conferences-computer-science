@@ -4,6 +4,7 @@ title = "6th Workshop on Models for Formal Analysis of Real Systems"
 url = "http://mars-workshop.org/mars2024/"
 
 [event]
+part_of = "etaps/2024"
 start = 2024-04-06
 city = "Luxembourg"
 venue = "Parc Alvisse Hotel"
@@ -19,7 +20,6 @@ publisher = "EPTCS"
 license = "cc-by-nd"
 
 [extra]
-colocated = "Satellite of ETAPS."
 notes = "In addition to the workshop proceedings, the formal models presented at the workshop will be archived in the MARS Repository."
 
 [[cfp]]
