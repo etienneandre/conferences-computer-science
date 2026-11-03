@@ -1,7 +1,7 @@
 {# Gender balance over the life of a series, drawn like the acceptance rates:
    the pooled total first, then one row per year, most recent at the top.
 
-   Expects `rows`, `total` and `label` to be set by the including template, so
+   Expects `rows`, `total`, `label` and `band` from the including template, so
    that the leadership and the programme committee render the same way without
    ever being added together.
 
@@ -9,9 +9,11 @@
    carries a title, and the counts are written out beside it — because a
    reader who cannot separate the hues must still be able to read the row.
 
-   The total row carries the same three colours at full strength while the
-   per-year rows are held back a little. One palette, one emphasis: a second
-   set of brighter hues would be a second set to keep in step. #}
+   When the corpus has enough data to have a rate of its own, a hairline is
+   drawn across every bar at that rate. It is the same device the acceptance
+   chart uses for its 30% line, and it does the work a colour code would do
+   less honestly: the reader sees which years fall short of what this field
+   actually does, rather than being told. #}
 {% macro bar(r) -%}
 {%- if r.women %}<i class="g-w" style="--w: {{ (100 * r.women / r.total) | round(2) }}%"
   title="{{ r.women }} of {{ r.total }} women"></i>{% endif %}
@@ -20,20 +22,33 @@
 {%- if r.men %}<i class="g-m" style="--w: {{ (100 * r.men / r.total) | round(2) }}%"
   title="{{ r.men }} of {{ r.total }} men"></i>{% endif %}
 {%- endmacro %}
-<ol class="ratechart genderchart">
-  <li class="is-total">
+<ol class="ratechart genderchart"
+    {%- if band %} style="--base: {{ band.rate }}%"{% endif %}>
+  <li class="is-total"{% if band %} data-band="{{ band.band }}"{% endif %}>
     <span class="ry">all {{ total.editions }}</span>
-    <span class="rb">{{ bar(total) }}</span>
+    <span class="rb{% if band %} has-base{% endif %}">{{ bar(total) }}</span>
     <span class="rv">{{ total.share }}%<small> of {{ total.total }}</small></span>
   </li>
   {% for r in rows %}
   <li>
     <span class="ry"><a href="{{ r.url }}">{{ r.year }}</a></span>
-    <span class="rb">{{ bar(r) }}</span>
+    <span class="rb{% if band %} has-base{% endif %}">{{ bar(r) }}</span>
     <span class="rv">{{ r.women + r.other }}<small> of {{ r.total }}</small></span>
   </li>
   {% endfor %}
 </ol>
 <p class="chart-caption genderpooled">Across {{ total.editions }} editions,
   <b>{{ total.women + total.other }} of {{ total.total }}</b> {{ label }}
-  were women or of another gender &mdash; {{ total.share }}%.</p>
+  were women or of another gender &mdash; {{ total.share }}%.
+  {%- if band %}
+  At this site's own rate of {{ band.rate }}%, {{ band.expected }} would be the
+  expectation.
+  {%- if band.none and band.unlikely %}
+  <b>Not one of the {{ total.total }} was.</b> A platform this size drawn at
+  that rate would be all men less than once in twenty times.
+  {%- elif band.unlikely %}
+  A shortfall this large would happen by chance less than once in twenty times.
+  {%- elif band.below %}
+  The gap is within what chance would produce at these numbers.
+  {%- endif %}
+  {%- endif %}</p>

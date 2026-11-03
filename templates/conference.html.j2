@@ -225,7 +225,6 @@
     </section>
     {% endif %}
 
-    {% set gender = conference.gender_history %}
     {% if gender %}
     <section class="panel">
       <h2 class="panel-title">Who led each edition</h2>
@@ -242,6 +241,7 @@
       {% set rows = gender.years %}
       {% set total = gender.total %}
       {% set label = 'chairs and invited speakers' %}
+      {% set band = gender.leaders_band %}
       {% include "_genderchart.html.j2" with context %}
       {% endif %}
 
@@ -250,6 +250,7 @@
       {% set rows = gender.committee_years %}
       {% set total = gender.committee_total %}
       {% set label = 'committee members' %}
+      {% set band = gender.committee_band %}
       {% include "_genderchart.html.j2" with context %}
       {% endif %}
 
@@ -259,7 +260,20 @@
         {{ 'is' if gender.unquantified == 1 else 'are' }} left out on that
         ground{% endif %}. The total counts people, not years, so an edition
         with eight chairs weighs more than one with two. The committee is
-        reported beside the platform, never added to it.</p>
+        reported beside the platform, never added to it.
+        {%- if gender.baseline and gender.baseline.leaders %} The rate this is
+        set against, {{ (100 * gender.baseline.leaders) | round | int }}%, is
+        pooled from {{ gender.baseline.leaders_people }} chairs and invited
+        speakers across {{ gender.baseline.leaders_editions }} editions on
+        this site &mdash; an observation about the field as recorded here, not
+        a target.{% endif %}</p>
+    </section>
+    {% endif %}
+
+    {% if practices %}
+    <section class="panel">
+      <h2 class="panel-title">How it has reviewed and published</h2>
+      {% include "_practices.html.j2" with context %}
     </section>
     {% endif %}
   </div>

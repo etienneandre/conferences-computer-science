@@ -1,0 +1,49 @@
+{# How the series has reviewed and published, year by year.
+
+   The same grid as an umbrella's membership, for the same reason: adoption is
+   not one-way. A conference that went double blind in 2016 and came back in
+   2021 is badly described by a date and well described by a row.
+
+   Three states per cell. A blank is "nobody has checked", not "no" — the
+   distinction § 1.2 of the schema exists to protect, and the one that would
+   be lost by drawing an empty cell the same as a negative one. #}
+<table class="editions grid practices">
+  <thead>
+    <tr><th>Practice</th>
+      {% for year in practices.years %}<th class="num yr-col" title="{{ year }}">{{ year % 100 }}</th>{% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in practices.rows %}
+    <tr>
+      <td>{{ row.label }}</td>
+      {% for year in practices.years %}
+      {% set v = row.cells.get(year) %}
+      <td class="num cell">
+        {%- if v is none %}<span class="p-unknown" title="Not recorded">&nbsp;</span>
+        {%- elif row.kind == 'licence' %}
+          {%- if v == 'none' %}<span class="p-mark" data-open="none" title="No formal proceedings">&times;</span>
+          {%- else %}<span class="p-mark" data-open="{{ v }}" title="{{ {'yes': 'Open licence', 'free': 'Free to read', 'no': 'Paywalled'}.get(v, v) }}">&bull;</span>{% endif %}
+        {%- elif row.kind == 'blind' %}
+          {%- if v is sameas false %}<span class="p-no" title="Not blind">&ndash;</span>
+          {%- else %}{% set b = enum('blind', v) %}<span class="p-text" title="{{ b.get('label', v) }}">
+            {{- {'single': 'S', 'double': 'D', 'lightweight-double': 'LD'}.get(v, '?') -}}</span>{% endif %}
+        {%- elif v == 'yes' %}<span class="p-mark" data-open="yes" title="Yes">&bull;</span>
+        {%- else %}<span class="p-no" title="No">&ndash;</span>{% endif %}
+      </td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<p class="practicekey" aria-hidden="true">
+  <span><b class="p-mark" data-open="yes">&bull;</b> yes, or an open licence</span>
+  <span><b class="p-mark" data-open="free">&bull;</b> free to read</span>
+  <span><b class="p-mark" data-open="no">&bull;</b> paywalled</span>
+  <span><b class="p-no">&ndash;</b> no</span>
+  <span><b class="p-text">D</b> double, <b class="p-text">S</b> single</span>
+  <span>blank: not recorded</span>
+</p>
+<p class="chart-caption">A blank cell means nobody has checked that year, not
+  that the answer is no. Licences are read as recorded on the edition, never
+  inherited from the publisher.</p>

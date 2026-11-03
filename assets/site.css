@@ -619,7 +619,7 @@ footer .disclaimer { color: var(--ink-soft); }
    brighter palette, which would be a second palette to keep in step. */
 .genderchart li.is-total { padding-bottom: .35rem; border-bottom: 1px solid var(--rule); margin-bottom: .25rem; }
 .genderchart li.is-total .rb { height: 18px; }
-.genderchart li.is-total .ry { color: var(--ink); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; font-size: .64rem; }
+.genderchart li.is-total .ry { color: var(--ink); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; font-size: .64rem; white-space: nowrap; }
 .genderchart li.is-total .rv { font-weight: 700; }
 .genderchart li:not(.is-total) .rb i { opacity: .78; }
 
@@ -630,6 +630,41 @@ footer .disclaimer { color: var(--ink-soft); }
 .volumechart .ry a:hover { color: var(--accent); text-decoration: underline; }
 .factlist small { color: var(--ink-faint); font-weight: 400; white-space: nowrap; }
 .reach { font-family: var(--font-data); }
+
+/* The corpus rate, drawn across every gender bar as a hairline — the same
+   device the acceptance chart uses for its 30% line. A reader sees which
+   years fall short of what the field actually does, instead of being told. */
+.genderchart .rb.has-base::after {
+  content: ""; position: absolute; top: -2px; bottom: -2px;
+  left: var(--base, 50%); width: 1px; background: var(--ink-faint); opacity: .7;
+}
+.genderchart .rb { position: relative; }
+/* The verdict on the pooled row. Never colour alone: the caption beneath
+   says the same thing in numbers, and says when it is only chance. */
+.genderchart li.is-total[data-band="below"] .rv { color: var(--d2); }
+.genderchart li.is-total[data-band="far-below"] .rv,
+.genderchart li.is-total[data-band="none"] .rv { color: var(--d0); font-weight: 700; }
+.genderchart li.is-total[data-band="far-below"] .ry::after,
+.genderchart li.is-total[data-band="none"] .ry::after {
+  content: " !"; color: var(--d0); font-weight: 700;
+}
+.genderchart li.is-total[data-band="none"] { background: var(--accent-dim); }
+
+/* Practices ---------------------------------------------------------------- */
+.practices td:first-child { white-space: nowrap; font-size: .8rem; }
+.p-mark { font-size: 1.15rem; line-height: 1; color: var(--past); }
+.p-mark[data-open="yes"]  { color: var(--open); }
+.p-mark[data-open="free"] { color: #7fa8a0; }
+.p-mark[data-open="no"]   { color: var(--closed); }
+.p-mark[data-open="none"] { color: var(--ink-faint); font-size: .9rem; }
+.p-no { color: var(--ink-faint); }
+.p-text { font: 600 .66rem/1 var(--font-data); color: var(--accent); }
+.p-unknown { display: inline-block; width: 1px; }
+.practicekey {
+  display: flex; flex-wrap: wrap; gap: .25rem .9rem; margin: .5rem 0 0;
+  font: 400 .72rem/1.6 var(--font-data); color: var(--ink-faint);
+}
+.practicekey span { display: inline-flex; align-items: baseline; gap: .25rem; }
 
 .chart-caption {
   font: 400 .74rem/1.5 var(--font-ui); color: var(--ink-faint); margin: .55rem 0 0;

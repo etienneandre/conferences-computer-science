@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import math
 import json
 import re
 import shutil
@@ -1309,6 +1310,7 @@ class Site:
         self.countries: dict[str, Country] = {}   # ISO code -> Country
         self.now = datetime.now(timezone.utc)
         self.warnings: list[str] = []
+        self._baseline: dict | None = None
 
     def _side(self, name: str) -> dict:
         path = self.data_dir / name
@@ -1538,6 +1540,49 @@ class Site:
         entry["country_name"] = country.name if country else None
         entry["country_url"] = country.url if country else None
         return entry
+
+    @property
+    def gender_baseline(self) -> dict:
+        """What the corpus actually does, pooled over every counted edition.
+
+        The yardstick the conference pages compare against. Derived rather
+        than quoted: a number from a paper would be about a different
+        population and would age, whereas this one is an observation about
+        the records on this site and moves as they grow.
+
+        Returned empty below a floor — a rate drawn from four editions is
+        not a rate, and a page comparing itself to it would be comparing
+        itself to noise. The pages then simply say nothing.
+        """
+        if self._baseline is None:
+            leaders = {"women": 0, "men": 0, "other": 0, "editions": 0}
+            committee = dict(leaders)
+            for edition in self.editions:
+                counts = edition.gender_counts
+                if counts:
+                    for key in ("women", "men", "other"):
+                        leaders[key] += counts[key]
+                    leaders["editions"] += 1
+                seats = edition.committee_counts
+                if seats:
+                    for key in ("women", "men", "other"):
+                        committee[key] += seats[key]
+                    committee["editions"] += 1
+
+            def rate(block: dict) -> float | None:
+                total = block["women"] + block["men"] + block["other"]
+                if block["editions"] < 8 or total < 60:
+                    return None
+                return (block["women"] + block["other"]) / total
+
+            self._baseline = {
+                "leaders": rate(leaders), "committee": rate(committee),
+                "leaders_people": leaders["women"] + leaders["men"] + leaders["other"],
+                "leaders_editions": leaders["editions"],
+                "committee_people": committee["women"] + committee["men"] + committee["other"],
+                "committee_editions": committee["editions"],
+            }
+        return self._baseline
 
     def licence(self, key: str | None) -> dict:
         """Always the same shape, so templates can test one key.
@@ -1775,6 +1820,123 @@ def venue_point(site: Site, name: str | None) -> list[dict]:
                    tip=f"{place['display']} \u2014 {native}" if native else place["display"])]
 
 
+def binomial_at_most(observed: int, trials: int, rate: float) -> float:
+    """P(X <= observed) for X ~ Binomial(trials, rate).
+
+    Written out rather than pulled from a library: it is six lines, the
+    numbers here are small, and a dependency that exists only to answer one
+    question on one panel is a dependency to install on every machine that
+    builds the site.
+    """
+    if trials <= 0 or not 0 < rate < 1:
+        return 1.0
+    return min(1.0, sum(math.comb(trials, k) * rate ** k * (1 - rate) ** (trials - k)
+                        for k in range(0, min(observed, trials) + 1)))
+
+
+def gender_report(site: Site, conference: Conference) -> dict | None:
+    """The series' own figures, set against what the corpus actually does.
+
+    Fifty-fifty is the wrong yardstick and would make every conference look
+    the same shade of bad, which tells a reader nothing. The comparison here
+    is against this site's own pooled rate across every edition that has
+    counted people — not a figure from the literature that would age, and not
+    a target, but an observation about the field as this corpus records it.
+    It is stated on the page, so a reader can disagree with it.
+
+    Chairs and speakers are compared against the chairs-and-speakers rate,
+    committees against the committee rate: they are different populations
+    with different numbers, and crossing them would be arithmetic theatre.
+
+    Small numbers are where this kind of comparison goes wrong, so the band
+    is set by a binomial tail rather than by the share alone. Two women of
+    four is above the corpus rate and means almost nothing; none of fifteen
+    is a result. The wording follows the same line — the page says how many
+    the corpus rate would have predicted, and only calls a gap unlikely when
+    the arithmetic says it is.
+    """
+    history = conference.gender_history
+    if history is None:
+        return None
+
+    def band(block: dict | None, rate: float | None) -> dict | None:
+        if not block or not rate:
+            return None
+        seen = block["women"] + block["other"]
+        expected = rate * block["total"]
+        tail = binomial_at_most(seen, block["total"], rate)
+        return {
+            "rate": round(100 * rate),
+            "expected": round(expected),
+            "tail": tail,
+            # `unlikely` is the claim the page is allowed to make out loud.
+            "unlikely": seen < expected and tail < 0.05,
+            "below": seen < expected,
+            "none": seen == 0,
+            "band": ("none" if seen == 0 and tail < 0.05 else
+                     "far-below" if seen < expected and tail < 0.05 else
+                     "below" if seen < expected else "at"),
+        }
+
+    baseline = site.gender_baseline
+    report = dict(history)
+    report["baseline"] = baseline
+    report["leaders_band"] = band(history.get("total"), baseline.get("leaders"))
+    report["committee_band"] = band(history.get("committee_total"),
+                                    baseline.get("committee"))
+    return report
+
+
+def practice_timeline(site: Site, conference: Conference) -> dict | None:
+    """How the series has reviewed and published, edition by edition.
+
+    A grid rather than a set of adoption dates, because adoption is not
+    one-way: conferences have gone double blind and come back, and a
+    rebuttal phase comes and goes with the programme chairs. A date would
+    assert a permanence the record does not support; a row of cells shows
+    what actually happened, reversals included.
+
+    Three states per cell, as § 1.2 requires: known true, known false,
+    and nothing recorded. Collapsing the last two would turn every year
+    nobody has checked into a year the conference did not do it, which is
+    the one reading the schema exists to prevent.
+
+    Licences are read as written. `publishers.toml` documents a
+    `default_license` that the generator does not in fact apply anywhere,
+    so inheriting it here alone would make this grid disagree with the
+    edition pages.
+    """
+    def openness(edition: Edition) -> str | None:
+        key = edition.proceedings.get("license")
+        if edition.proceedings.get("none"):
+            return "none"
+        if not isinstance(key, str) or not key:
+            return None
+        return site.licence(key).get("openness")
+
+    def flag(value) -> str | None:
+        if value is None:
+            return None
+        return "no" if value is False else "yes"
+
+    rows = [
+        {"key": "access", "label": "Proceedings", "kind": "licence",
+         "cells": {e.year: openness(e) for e in conference.editions}},
+        {"key": "blind", "label": "Blind review", "kind": "blind",
+         "cells": {e.year: e.review.get("blind") for e in conference.editions}},
+        {"key": "rebuttal", "label": "Rebuttal", "kind": "flag",
+         "cells": {e.year: flag(e.review.get("rebuttal")) for e in conference.editions}},
+        {"key": "artifact", "label": "Artifact evaluation", "kind": "flag",
+         "cells": {e.year: flag(e.review.get("artifact")) for e in conference.editions}},
+    ]
+    rows = [r for r in rows if any(v is not None for v in r["cells"].values())]
+    years = sorted({e.year for e in conference.editions
+                    if any(r["cells"].get(e.year) is not None for r in rows)})
+    if len(years) < 2 or not rows:
+        return None
+    return {"years": years, "rows": rows}
+
+
 def series_reach(site: Site, conference: Conference) -> dict | None:
     """How far a series roams, in three numbers.
 
@@ -1911,7 +2073,9 @@ def render(site: Site, env: Environment) -> int:
         write(out, conference_tpl.render(
             conference=conference,
             map_points=series_map_points(site, conference),
-            reach=series_reach(site, conference)))
+            reach=series_reach(site, conference),
+            practices=practice_timeline(site, conference),
+            gender=gender_report(site, conference)))
         pages += 1
 
         # Renamed conferences keep their old URLs alive.
