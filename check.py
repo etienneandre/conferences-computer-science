@@ -939,13 +939,21 @@ class Checker:
                 containers[f"{slug}/{key}"] = ref
                 members[ref].append(f"{slug}/{key}")
 
+                # The role has to come from somewhere. It is stated outright
+                # by `part_of_role`, or by `workshop = true` on the member's
+                # own series — the usual way, since being a workshop is a
+                # property of the series and is said once — or it is inferred
+                # from an umbrella container. With none of the three, the
+                # inference still lands on `workshop`, but nothing in the data
+                # says so, and that is the only case worth a word.
                 host = self.slugs.get(target_slug, {})
-                if not host.get("umbrella") and not event.get("part_of_role"):
-                    # Not an error: a workshop inside an ordinary conference is
-                    # the common case and needs no ceremony. Worth saying once,
-                    # because the inferred role is what the page will print.
+                member = self.slugs.get(slug, {})
+                if not (host.get("umbrella") or member.get("workshop")
+                        or event.get("part_of_role")):
                     self.report.warn(where, f"`part_of` names `{ref}`, which is "
-                                            f"not an umbrella; treated as a workshop")
+                                            f"not an umbrella, and {slug} is not "
+                                            f"marked `workshop = true`; the role "
+                                            f"is inferred as a workshop")
 
                 target_event = target.get("event", {}) or {}
                 city, target_city = event.get("city"), target_event.get("city")
