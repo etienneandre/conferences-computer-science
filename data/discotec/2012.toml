@@ -1,0 +1,4 @@
+edition = 7
+
+[event]
+city = "Stockholm, Sweden"

@@ -1,0 +1,4 @@
+edition = 9
+
+[event]
+city = "Berlin, Germany"

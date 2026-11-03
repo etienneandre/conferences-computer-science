@@ -1,0 +1,7 @@
+edition = 30
+url = "https://etaps.org/2027/"
+
+[event]
+city = "Copenhagen, Denmark"
+start = 2027-04-10
+end = 2027-04-15

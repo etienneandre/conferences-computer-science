@@ -1,0 +1,16 @@
+edition = 19
+title = "19th International Symposium on Formal Methods"
+url = "https://www.comp.nus.edu.sg/~pat/FM2014/"
+
+[event]
+start = 2014-05-12
+end = 2014-05-16
+city = "Singapore"
+
+[proceedings]
+doi = "10.1007/978-3-319-06410-9"
+
+[stats]
+submitted = 150
+accepted = 45
+# NOTE: for the Main Stream 38 papers were selected and seven for the Industry Stream

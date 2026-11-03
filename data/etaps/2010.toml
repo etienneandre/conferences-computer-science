@@ -1,0 +1,6 @@
+edition = 13
+
+[event]
+city = "Paphos, Cyprus"
+start = 2010-03-20
+end = 2010-03-28

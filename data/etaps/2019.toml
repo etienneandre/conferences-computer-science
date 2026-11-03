@@ -1,0 +1,6 @@
+edition = 22
+
+[event]
+city = "Prague, Czech Republic"
+start = 2019-04-06
+end = 2019-04-11

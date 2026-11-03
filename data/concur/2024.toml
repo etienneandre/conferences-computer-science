@@ -4,6 +4,7 @@ title = "35th International Conference on Concurrency Theory"
 url = "https://confest2024.github.io/"
 
 [event]
+part_of = "confest/2024"
 start = 2024-09-09
 end = 2024-09-13
 city = "Calgary, Canada"

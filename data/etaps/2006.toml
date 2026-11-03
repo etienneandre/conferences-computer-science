@@ -1,0 +1,6 @@
+edition = 9
+
+[event]
+city = "Vienna, Austria"
+start = 2006-03-25
+end = 2006-04-02

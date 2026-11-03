@@ -1,0 +1,16 @@
+# data/confest/conference.toml
+#
+# The federated event that CONCUR meets inside. Its name moves with its
+# roster: CONFEST normally, CONFESTA the year SETTA joined, QONFEST in 2021.
+# Per-edition `acronym` carries that.
+#
+# TODO: verify — this directory holds only the years for which the federated
+# name could be sourced. CONCUR ran in Vienna (2020) and Warsaw (2022) with no
+# federated name in evidence, so those years are deliberately absent rather
+# than invented. Edition numbers are unknown and therefore omitted.
+#
+# Cities come from the CONCUR edition list:
+# https://en.wikipedia.org/wiki/International_Conference_on_Concurrency_Theory
+acronym = "CONFEST"
+name = "Federated Conference on Concurrency Theory and Quantitative Evaluation of Systems"
+umbrella = "hosted"

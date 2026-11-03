@@ -1,11 +1,12 @@
 # migrated from data.php line 22975
 edition = 7
 title = "7th International Conference on Principles of Security and Trust"
-url = "http://www.etaps.org/index.php/2018/post"
+url = "https://www.etaps.org/2018/post.html"
 
 [event]
+part_of = "etaps/2018"
 start = 2018-04-14
-end = 2018-04-21
+end = 2018-04-20
 city = "Thessaloniki, Greece"
 
 [submission]

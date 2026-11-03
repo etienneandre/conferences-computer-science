@@ -1,0 +1,6 @@
+edition = 3
+
+[event]
+city = "Berlin, Germany"
+start = 2000-03-25
+end = 2000-04-02

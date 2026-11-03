@@ -4,6 +4,7 @@ title = "24th International Conference on Fundamental Approaches to Software Eng
 url = "https://etaps.org/2021/fase"
 
 [event]
+part_of = "etaps/2021"
 start = 2021-03-27
 end = 2021-04-01
 online = true

@@ -1,11 +1,12 @@
 # migrated from data.php line 30600
 edition = 24
 title = "24th International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
-url = "http://www.etaps.org/index.php/2018/tacas"
+url = "https://www.etaps.org/2018/tacas.html"
 
 [event]
+part_of = "etaps/2018"
 start = 2018-04-14
-end = 2018-04-21
+end = 2018-04-20
 city = "Thessaloniki, Greece"
 
 [submission]
@@ -19,4 +20,4 @@ publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
 
 [extra]
-notes = "Each individual author is limited to a maximum of three submissions as an author or co-author. ETAPS: Multi-conference including ESOP, FASE, FOSSACS, POST, TACAS, etc."
+notes = "Each individual author is limited to a maximum of three submissions as an author or co-author."

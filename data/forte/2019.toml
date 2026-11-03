@@ -4,9 +4,10 @@ title = "39th IFIP International Conference on Formal Techniques for Distributed
 url = "https://www.discotec.org/2019/forte"
 
 [event]
+part_of = "discotec/2019"
 start = 2019-06-18
 end = 2019-06-21
-city = "Lyngby, Denmark"
+city = "Kongens Lyngby, Denmark"
 
 [submission]
 format = "15 pages LNCS (regular / tool) / 7 pages (short / tool demo) / 3 pages (poster)"

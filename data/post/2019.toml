@@ -4,6 +4,7 @@ title = "8th International Conference on Principles of Security and Trust"
 url = "http://www.etaps.org/index.php/2018/post"
 
 [event]
+part_of = "etaps/2019"
 start = 2019-04-08
 end = 2019-04-11
 city = "Prague, Czech Republic"

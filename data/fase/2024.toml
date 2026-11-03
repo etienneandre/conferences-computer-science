@@ -4,6 +4,7 @@ title = "27th International Conference on Fundamental Approaches to Software Eng
 url = "https://etaps.org/2024/fase"
 
 [event]
+part_of = "etaps/2024"
 start = 2024-04-08
 end = 2024-04-11
 city = "Luxembourg"

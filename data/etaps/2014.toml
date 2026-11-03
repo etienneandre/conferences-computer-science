@@ -1,0 +1,6 @@
+edition = 17
+
+[event]
+city = "Grenoble, France"
+start = 2014-04-05
+end = 2014-04-13

@@ -4,6 +4,7 @@ title = "28th International Conference on Coordination Models and Languages"
 url = "https://www.discotec.org/2026/coordination"
 
 [event]
+part_of = "discotec/2026"
 start = 2026-06-08
 end = 2026-06-12
 city = "Urbino, Italy"

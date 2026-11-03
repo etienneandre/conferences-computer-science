@@ -4,6 +4,7 @@ title = "22nd International Conference on Fundamental Approaches to Software Eng
 url = "https://conf.researchr.org/track/etaps-2019/fase-2019-papers"
 
 [event]
+part_of = "etaps/2019"
 start = 2019-04-08
 end = 2019-04-11
 city = "Prague, Czech Republic"

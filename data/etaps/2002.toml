@@ -1,0 +1,6 @@
+edition = 5
+
+[event]
+city = "Grenoble, France"
+start = 2002-04-06
+end = 2002-04-14

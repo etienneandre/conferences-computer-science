@@ -1,11 +1,12 @@
 # migrated from data.php line 10693
 edition = 21
 title = "21st International Conference on Foundations of Software Science and Computation Structures"
-url = "http://www.etaps.org/index.php/2018/fossacs"
+url = "https://www.etaps.org/2018/fossacs.html"
 
 [event]
+part_of = "etaps/2018"
 start = 2018-04-14
-end = 2018-04-21
+end = 2018-04-20
 city = "Thessaloniki, Greece"
 
 [submission]
@@ -19,4 +20,4 @@ publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
 
 [extra]
-notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc. Rebuttal phase: 6-8 December 2017."
+notes = "Rebuttal phase: 6-8 December 2017."

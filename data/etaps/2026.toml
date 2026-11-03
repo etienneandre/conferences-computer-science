@@ -1,0 +1,6 @@
+edition = 29
+
+[event]
+city = "Turin, Italy"
+start = 2026-04-11
+end = 2026-04-16

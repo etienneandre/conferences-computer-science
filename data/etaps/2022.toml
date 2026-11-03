@@ -1,0 +1,6 @@
+edition = 25
+
+[event]
+city = "Munich, Germany"
+start = 2022-04-02
+end = 2022-04-07

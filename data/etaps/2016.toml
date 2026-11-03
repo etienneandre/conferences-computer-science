@@ -1,0 +1,6 @@
+edition = 19
+
+[event]
+city = "Eindhoven, The Netherlands"
+start = 2016-04-02
+end = 2016-04-08

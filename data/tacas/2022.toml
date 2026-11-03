@@ -4,6 +4,7 @@ title = "28th International Conference on Tools and Algorithms for the Construct
 url = "https://etaps.org/2022/tacas"
 
 [event]
+part_of = "etaps/2022"
 start = 2022-04-02
 end = 2022-04-07
 city = "Munich, Germany"

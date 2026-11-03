@@ -1,0 +1,6 @@
+edition = 15
+
+[event]
+city = "Tallinn, Estonia"
+start = 2012-03-24
+end = 2012-04-01

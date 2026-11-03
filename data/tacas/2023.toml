@@ -4,6 +4,7 @@ title = "29th International Conference on Tools and Algorithms for the Construct
 url = "https://etaps.org/2023/tacas"
 
 [event]
+part_of = "etaps/2023"
 start = 2023-04-22
 end = 2023-04-27
 city = "Paris, France"

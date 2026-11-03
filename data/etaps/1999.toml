@@ -1,0 +1,6 @@
+edition = 2
+
+[event]
+city = "Amsterdam, The Netherlands"
+start = 1999-03-20
+end = 1999-03-28

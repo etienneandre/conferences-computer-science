@@ -4,6 +4,7 @@ title = "26th International Conference on Fundamental Approaches to Software Eng
 url = "https://etaps.org/2023/fase"
 
 [event]
+part_of = "etaps/2023"
 start = 2023-04-22
 end = 2023-04-27
 city = "Paris, France"

@@ -4,6 +4,7 @@ title = "36th IFIP International Conference on Formal Techniques for Distributed
 url = "http://forte2016.discotec.org"
 
 [event]
+part_of = "discotec/2016"
 start = 2016-06-06
 end = 2016-06-09
 city = "Heraklion, Crete, Greece"

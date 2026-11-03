@@ -3,6 +3,7 @@ title = "29th International Conference on Coordination Models and Languages"
 url = "https://www.discotec.org/2027/coordination"
 
 [event]
+part_of = "discotec/2027"
 start = 2027-06-14
 end = 2027-06-18
 city = "Augsburg, Germany" 

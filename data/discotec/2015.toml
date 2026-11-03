@@ -1,0 +1,4 @@
+edition = 10
+
+[event]
+city = "Grenoble, France"

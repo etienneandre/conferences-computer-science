@@ -1,0 +1,4 @@
+edition = 17
+
+[event]
+city = "Lucca, Italy"

@@ -1,0 +1,8 @@
+edition = 22
+title = "22nd International Federated Conference on Distributed Computing Techniques"
+url = "https://www.discotec.org/2027/"
+
+[event]
+start = 2027-06-14
+end = 2027-06-18
+city = "Augsburg, Germany"

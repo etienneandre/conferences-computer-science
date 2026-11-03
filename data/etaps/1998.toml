@@ -1,0 +1,6 @@
+edition = 1
+
+[event]
+city = "Lisbon, Portugal"
+start = 1998-03-28
+end = 1998-04-04

@@ -1,0 +1,6 @@
+edition = 18
+
+[event]
+city = "London, England"
+start = 2015-04-11
+end = 2015-04-18

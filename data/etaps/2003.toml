@@ -1,0 +1,6 @@
+edition = 6
+
+[event]
+city = "Warsaw, Poland"
+start = 2003-04-05
+end = 2003-04-13

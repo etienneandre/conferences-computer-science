@@ -3,10 +3,10 @@ title = "First International Conference on Foundations and Formal Methods for So
 url = "https://etaps.org/2027/conferences/ifs/"
 
 [event]
-start = 2027-04-10 
+part_of = "etaps/2027"
+start = 2027-04-10
 end = 2027-04-15
 city = "Copenhagen, Denmark"
-colocated_with = ["fossacs/2027", "tacas/2027"]
 
 [submission]
 tz = "AoE"
@@ -34,7 +34,6 @@ women = 3
 
 [extra]
 journal = "iFS’27 will organize journal special issues in STTT and FAC, for which the authors of selected papers will be invited to submit."
-
 
 [[cfp]]
 file = "cfp/ETAPS-2027-2026-08.txt"

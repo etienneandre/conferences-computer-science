@@ -1,0 +1,4 @@
+edition = 6
+
+[event]
+city = "Reykjavík, Iceland"

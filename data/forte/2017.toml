@@ -4,6 +4,7 @@ title = "37th IFIP International Conference on Formal Techniques for Distributed
 url = "http://2017.discotec.org/"
 
 [event]
+part_of = "discotec/2017"
 start = 2017-06-19
 end = 2017-06-22
 city = "Neuchâtel, Switzerland"

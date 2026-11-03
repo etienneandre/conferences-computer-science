@@ -1,0 +1,16 @@
+# data/discotec/conference.toml
+#
+# Cities are taken from the COORDINATION proceedings volumes, which name the
+# host city for every year DisCoTec has run:
+# https://link.springer.com/conference/coordination
+# Edition numbers are anchored on two statements — DisCoTec 2024 is the 19th
+# and 2025 the 20th — which put the first edition in 2006.
+#
+# TODO: verify — dates are known for only a few years, and the per-year
+# membership of DAIS and FORTE/FMOODS has not been checked edition by edition.
+acronym = "DisCoTec"
+name = "International Federated Conference on Distributed Computing Techniques"
+umbrella = "hosted"
+complete_since = 2006
+frequency = "Annual since 2006"
+homepage = "http://www.discotec.org/"

@@ -4,6 +4,7 @@ title = "19th International Conference on Foundations of Software Science and Co
 url = "http://www.etaps.org/index.php/2016/fossacs"
 
 [event]
+part_of = "etaps/2016"
 start = 2016-04-02
 end = 2016-04-08
 city = "Eindhoven, The Netherlands"

@@ -1,0 +1,6 @@
+edition = 11
+
+[event]
+city = "Budapest, Hungary"
+start = 2008-03-29
+end = 2008-04-06

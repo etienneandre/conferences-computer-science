@@ -1,0 +1,4 @@
+edition = 2
+
+[event]
+city = "Paphos, Cyprus"

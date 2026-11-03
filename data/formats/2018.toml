@@ -4,6 +4,7 @@ title = "16th International Conference on Formal Modeling and Analysis of Timed 
 url = "http://lcs.ios.ac.cn/formats2018/"
 
 [event]
+part_of = "confest/2018"
 start = 2018-09-04
 end = 2018-09-06
 city = "Beijing, China"

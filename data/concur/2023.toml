@@ -4,6 +4,7 @@ title = "34th International Conference on Concurrency Theory"
 url = "http://www.uantwerpen.be/en/conferences/confest-2023/concur/"
 
 [event]
+part_of = "confest/2023"
 start = 2023-09-17
 end = 2023-09-22
 city = "Antwerp, Belgium"

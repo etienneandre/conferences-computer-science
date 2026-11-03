@@ -3,10 +3,10 @@ title = "33rd International Conference on Tools and Algorithms for the Construct
 url = "https://etaps.org/2027/conferences/tacas/"
 
 [event]
+part_of = "etaps/2027"
 start = 2027-04-10
 end = 2027-04-15
 city = "Copenhagen, Denmark"
-colocated_with = ["fossacs/2027", "ifs/2027"]
 
 [submission]
 tz = "AoE"
@@ -35,11 +35,6 @@ women = 2
 [review.gender.speakers]
 men = 2
 women = 3
-
-
-[extra]
-colocated = "Part of ETAPS 2027."
-
 
 [[cfp]]
 file = "cfp/ETAPS-2027-2026-08.txt"

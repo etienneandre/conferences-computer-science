@@ -4,6 +4,7 @@ title = "36th International Conference on Concurrency Theory"
 url = "https://conferences.au.dk/confest2025/concur"
 
 [event]
+part_of = "confest/2025"
 start = 2025-08-26
 end = 2025-08-29
 city = "Aarhus, Denmark"

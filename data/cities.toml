@@ -284,6 +284,13 @@ lon = -1.8904
 continent = "EU"
 # 1 edition(s)
 
+["Bologna, Italy"]
+country = "IT"
+display = "Bologna"
+continent = "EU"
+lat = 44.4949
+lon = 11.3426
+
 ["Bordeaux, France"]
 country = "FR"
 display = "Bordeaux"
@@ -405,6 +412,13 @@ lat = 44.4268
 lon = 26.1025
 continent = "EU"
 # 5 edition(s)
+
+["Budapest, Hungary"]
+country = "HU"
+display = "Budapest"
+continent = "EU"
+lat = 47.4979
+lon = 19.0402
 
 ["Buenos Aires, Argentina"]
 country = "AR"
@@ -1401,7 +1415,6 @@ display = "Kongens Lyngby"
 lat = 55.7704
 lon = 12.503
 continent = "EU"
-# 1 edition(s)
 
 ["Konstanz, Germany"]
 country = "DE"
@@ -1588,14 +1601,6 @@ lat = 49.6116
 lon = 6.1319
 continent = "EU"
 # 5 edition(s)
-
-["Lyngby, Denmark"]
-country = "DK"
-display = "Lyngby"
-lat = 55.7704
-lon = 12.503
-continent = "EU"
-# 1 edition(s)
 
 ["Lyon, France"]
 country = "FR"

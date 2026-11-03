@@ -1,0 +1,6 @@
+edition = 26
+
+[event]
+city = "Paris, France"
+start = 2023-04-22
+end = 2023-04-27

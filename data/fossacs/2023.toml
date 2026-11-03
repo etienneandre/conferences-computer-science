@@ -4,6 +4,7 @@ title = "26th International Conference on Foundations of Software Science and Co
 url = "https://etaps.org/2023/fossacs"
 
 [event]
+part_of = "etaps/2023"
 start = 2023-04-22
 end = 2023-04-27
 city = "Paris, France"

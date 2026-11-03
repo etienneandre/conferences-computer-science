@@ -4,6 +4,7 @@ title = "18th International Conference on Quantitative Evaluation of SysTems"
 url = "https://www.qest.org/qest2021/"
 
 [event]
+part_of = "confest/2021"
 start = 2021-08-23
 end = 2021-08-27
 online = true

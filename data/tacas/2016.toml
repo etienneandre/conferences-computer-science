@@ -4,6 +4,7 @@ title = "22nd International Conference on Tools and Algorithms for the Construct
 url = "http://www.etaps.org/index.php/2016/tacas"
 
 [event]
+part_of = "etaps/2016"
 start = 2016-04-02
 end = 2016-04-08
 city = "Eindhoven, The Netherlands"

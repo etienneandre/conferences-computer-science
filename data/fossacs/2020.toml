@@ -4,6 +4,7 @@ title = "23rd International Conference on Foundations of Software Science and Co
 url = "https://etaps.org/2020/fossacs"
 
 [event]
+part_of = "etaps/2020"
 start = 2020-04-25
 end = 2020-05-01
 city = "Dublin, Ireland"

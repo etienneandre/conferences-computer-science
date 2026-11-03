@@ -1,0 +1,6 @@
+edition = 19
+
+[event]
+city = "Groningen, The Netherlands"
+start = 2024-06-17
+end = 2024-06-21

@@ -1,0 +1,6 @@
+edition = 7
+
+[event]
+city = "Barcelona, Catalonia, Spain"
+start = 2004-03-27
+end = 2004-04-04

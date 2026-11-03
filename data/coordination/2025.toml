@@ -4,6 +4,7 @@ title = "27th International Conference on Coordination Models and Languages"
 url = "https://www.discotec.org/2025/coordination"
 
 [event]
+part_of = "discotec/2025"
 start = 2025-06-16
 end = 2025-06-20
 city = "Lille, France"

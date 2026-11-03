@@ -1,0 +1,7 @@
+edition = 24
+
+[event]
+city = "Luxembourg"
+start = 2021-03-27
+end = 2021-04-01
+online = true

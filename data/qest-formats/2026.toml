@@ -4,6 +4,7 @@ title = "Third joint event for International Conference on Quantitative Evaluati
 url = "https://www.qest-formats.org/"
 
 [event]
+part_of = "confest/2026"
 start = 2026-09-02
 end = 2026-09-04
 city = "Liverpool, England"

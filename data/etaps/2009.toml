@@ -1,0 +1,6 @@
+edition = 12
+
+[event]
+city = "York, England"
+start = 2009-03-22
+end = 2009-03-29

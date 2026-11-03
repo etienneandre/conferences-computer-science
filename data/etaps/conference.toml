@@ -1,0 +1,15 @@
+# data/etaps/conference.toml
+#
+# Years, cities and dates: https://www.etaps.org/past-editions/
+# Membership: https://etaps.org/about/proceedings/ — a conference counts as a
+# member in a year when it has a proceedings volume that year.
+acronym = "ETAPS"
+name = "European Joint Conferences on Theory and Practice of Software"
+umbrella = "constituent"
+complete_since = 1998
+frequency = "Annual since 1998"
+homepage = "https://etaps.org/"
+
+[links]
+dblp = "etaps"
+wikipedia = "ETAPS_International_Joint_Conferences_on_Theory_and_Practice_of_Software"

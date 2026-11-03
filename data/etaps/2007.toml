@@ -1,0 +1,6 @@
+edition = 10
+
+[event]
+city = "Braga, Portugal"
+start = 2007-03-24
+end = 2007-04-01

@@ -4,6 +4,7 @@ title = "Second joint event for International Conference on Quantitative Evaluat
 url = "https://www.qest-formats.org/"
 
 [event]
+part_of = "confest/2025"
 start = 2025-08-25
 end = 2025-08-30
 city = "Aarhus, Denmark"

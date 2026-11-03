@@ -1,0 +1,4 @@
+edition = 18
+
+[event]
+city = "Lisbon, Portugal"

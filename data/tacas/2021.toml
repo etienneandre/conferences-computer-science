@@ -4,6 +4,7 @@ title = "27th International Conference on Tools and Algorithms for the Construct
 url = "https://etaps.org/2021/tacas"
 
 [event]
+part_of = "etaps/2021"
 start = 2021-03-27
 end = 2021-04-01
 online = true

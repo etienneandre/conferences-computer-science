@@ -1,0 +1,6 @@
+edition = 27
+
+[event]
+city = "Luxembourg"
+start = 2024-04-06
+end = 2024-04-11

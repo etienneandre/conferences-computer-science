@@ -1,0 +1,6 @@
+edition = 3
+
+[event]
+city = "Oslo, Norway"
+start = 2008-06-04
+end = 2008-06-06

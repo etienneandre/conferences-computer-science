@@ -4,6 +4,7 @@ title = "4th Symposium on Dependable Software Engineering: Theories, Tools and A
 url = "http://lcs.ios.ac.cn/setta2018/"
 
 [event]
+part_of = "confest/2018"
 start = 2018-09-04
 end = 2018-09-06
 city = "Beijing, China"

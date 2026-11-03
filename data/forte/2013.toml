@@ -4,3 +4,7 @@ title = "33rd IFIP International Conference on Formal Techniques for Distributed
 [stats]
 submitted = 49
 accepted = 20
+
+
+[event]
+part_of = "discotec/2013"

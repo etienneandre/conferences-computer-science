@@ -4,6 +4,7 @@ title = "29th International Conference on Foundations of Software Science and Co
 url = "https://etaps.org/2026/conferences/fossacs/"
 
 [event]
+part_of = "etaps/2026"
 start = 2026-04-11
 end = 2026-04-16
 city = "Turin, Italy"

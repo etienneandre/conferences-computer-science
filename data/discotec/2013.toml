@@ -1,0 +1,4 @@
+edition = 8
+
+[event]
+city = "Florence, Italy"

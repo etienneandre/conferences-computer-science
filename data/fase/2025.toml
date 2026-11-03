@@ -4,6 +4,7 @@ title = "28th International Conference on Fundamental Approaches to Software Eng
 url = "https://etaps.org/2025/conferences/fase/"
 
 [event]
+part_of = "etaps/2025"
 start = 2025-05-03
 end = 2025-05-08
 city = "Hamilton, Ontario, Canada"

@@ -1,0 +1,4 @@
+edition = 20
+
+[event]
+city = "Lille, France"
