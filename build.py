@@ -27,6 +27,7 @@ import hashlib
 import json
 import re
 import shutil
+import statistics
 import sys
 import tomllib
 from collections import Counter, defaultdict
@@ -861,6 +862,102 @@ class Conference:
         return sorted(self.editions, key=lambda e: e.year, reverse=True)
 
     @property
+    def lead_times(self) -> dict | None:
+        """How long the wait is, measured rather than promised.
+
+        Two gaps: deadline to notification, and notification to the event.
+        Both are facts an author needs before choosing where to send a paper,
+        and neither is published anywhere as a number — you are expected to
+        work it out from four dates on a website that will be gone next year.
+
+        The median, not the mean: one edition that slipped by two months
+        would otherwise move the figure more than it should, and the range is
+        given beside it so the spread is visible rather than smoothed away.
+
+        None below two editions. A single year is on its own page already.
+        """
+        def summarise(gaps: list[int]) -> dict | None:
+            if len(gaps) < 2:
+                return None
+            return {"median": int(statistics.median(gaps)),
+                    "low": min(gaps), "high": max(gaps), "editions": len(gaps)}
+
+        decide, wait = [], []
+        for edition in self.editions:
+            paper = edition.deadline("paper")
+            notice = edition.deadline("notification")
+            if paper and notice and notice.effective >= paper.effective:
+                decide.append((notice.effective - paper.effective).days)
+            if notice and edition.starts and edition.starts >= notice.effective:
+                wait.append((edition.starts - notice.effective).days)
+
+        verdict, event = summarise(decide), summarise(wait)
+        if verdict is None and event is None:
+            return None
+        return {"decision": verdict, "event": event}
+
+    @property
+    def deadline_season(self) -> dict | None:
+        """When in the year this conference closes, from its recent record.
+
+        Only the last six editions with a paper deadline: a series that has
+        drifted from June to September over twenty years is not well
+        described by "between June and September", and the recent window is
+        the one worth acting on.
+
+        Dates are compared on the circle of the year, not on the number of
+        days since January: a conference closing on 28 December one year and
+        3 January the next spans six days, and naive arithmetic calls it 360.
+
+        `settled` is false when the window is wider than two months, which is
+        the honest answer for a conference whose deadline really does move —
+        better than a range so wide it predicts nothing.
+        """
+        REFERENCE = 2001          # a non-leap year, so 29 February cannot appear
+        recent = []
+        for edition in sorted(self.editions, key=lambda e: e.year, reverse=True):
+            paper = edition.deadline("paper")
+            if paper:
+                recent.append((edition.year, paper.effective))
+            if len(recent) == 6:
+                break
+        if len(recent) < 3:
+            return None
+
+        days = [d.timetuple().tm_yday for _, d in recent]
+        # Unwrap across New Year: anything in the first half of the year, when
+        # the set also reaches into the last quarter, belongs to the next lap.
+        if max(days) - min(days) > 182:
+            days = [d + 365 if d < 182 else d for d in days]
+        low, high = min(days), max(days)
+
+        def label(day: int) -> str:
+            return fmt_date(date(REFERENCE, 1, 1) + timedelta(days=(day - 1) % 365),
+                            with_year=False)
+
+        return {
+            "from": label(low), "to": label(high),
+            "spread": high - low,
+            "settled": high - low <= 62,
+            "editions": len(recent),
+            "first_year": min(y for y, _ in recent),
+            "last_year": max(y for y, _ in recent),
+            # True when no deadline on file is still ahead — the case where
+            # this window is all a reader has to go on.
+            "nothing_announced": not any(
+                paper.effective >= date.today()
+                for paper in (e.deadline("paper") for e in self.editions)
+                if paper is not None),
+        }
+
+    @property
+    def volume_editions(self) -> list[Edition]:
+        """Editions with a submission count, most recent first."""
+        return [e for e in sorted(self.editions, key=lambda e: e.year, reverse=True)
+                if isinstance(e.stats.get("submitted"), int)
+                or (e.counts and e.counts[1])]
+
+    @property
     def gender_history(self) -> dict | None:
         """Who led each edition, counted, and pooled across the series.
 
@@ -894,7 +991,10 @@ class Conference:
                     "editions": len(rows)}
 
         leaders, committee = [], []
-        for edition in sorted(self.editions, key=lambda e: e.year):
+        # Most recent first, as the acceptance rates are: the question a
+        # reader brings to this chart is "where is it now", and the answer
+        # should not be at the bottom.
+        for edition in sorted(self.editions, key=lambda e: e.year, reverse=True):
             counts = edition.gender_counts
             if counts:
                 leaders.append({"year": edition.year, "url": edition.url,
@@ -919,6 +1019,10 @@ class Conference:
             "unquantified": sum(1 for e in self.editions
                                 if e.gender_counts is None
                                 and e.review.get("gender_balance")),
+            # Whether anyone in this series is recorded as of another gender.
+            # When nobody is, the key says so by saying nothing: a legend
+            # entry for a category with no members is noise, not inclusion.
+            "has_other": any(r["other"] for r in leaders + committee),
         }
 
     @property
@@ -1671,6 +1775,37 @@ def venue_point(site: Site, name: str | None) -> list[dict]:
                    tip=f"{place['display']} \u2014 {native}" if native else place["display"])]
 
 
+def series_reach(site: Site, conference: Conference) -> dict | None:
+    """How far a series roams, in three numbers.
+
+    A module function rather than a property because it needs the gazetteer,
+    which a Conference has no handle on — the same reason the map points are
+    built out here.
+
+    Online editions have no place in a count of places, and are reported
+    separately rather than silently dropped: "met online twice" is itself a
+    fact about a series.
+    """
+    cities, countries, continents, online = set(), set(), set(), 0
+    for edition in conference.editions:
+        if edition.online:
+            online += 1
+            continue
+        name = edition.city_name
+        if not name:
+            continue
+        cities.add(name)
+        entry = site.cities.get(name) or {}
+        if entry.get("country"):
+            countries.add(entry["country"])
+        if entry.get("continent"):
+            continents.add(entry["continent"])
+    if not cities and not online:
+        return None
+    return {"cities": len(cities), "countries": len(countries),
+            "continents": len(continents), "online": online}
+
+
 def series_map_points(site: Site, conference: Conference) -> list[dict]:
     """One pin per city for the map on a conference page.
 
@@ -1775,7 +1910,8 @@ def render(site: Site, env: Environment) -> int:
         out = site.out_dir / conference.slug / "index.html"
         write(out, conference_tpl.render(
             conference=conference,
-            map_points=series_map_points(site, conference)))
+            map_points=series_map_points(site, conference),
+            reach=series_reach(site, conference)))
         pages += 1
 
         # Renamed conferences keep their old URLs alive.

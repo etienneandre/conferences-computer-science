@@ -611,8 +611,25 @@ footer .disclaimer { color: var(--ink-soft); }
 }
 .genderkey span { display: inline-flex; align-items: center; gap: .3rem; }
 .genderkey i { width: 10px; height: 10px; border-radius: 2px; flex: none; }
-.genderpooled { margin: .5rem 0 1rem; }
-.genderpooled dd { color: var(--ink-soft); }
+.genderpooled { margin: .4rem 0 1.1rem; }
+.genderpooled b { color: var(--ink); font-weight: 600; }
+/* The pooled row leads, and reads louder than the years beneath it: a taller
+   bar at full strength, a rule under it, and the share rather than the raw
+   count. The per-year bars are held back instead of the total being given a
+   brighter palette, which would be a second palette to keep in step. */
+.genderchart li.is-total { padding-bottom: .35rem; border-bottom: 1px solid var(--rule); margin-bottom: .25rem; }
+.genderchart li.is-total .rb { height: 18px; }
+.genderchart li.is-total .ry { color: var(--ink); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; font-size: .64rem; }
+.genderchart li.is-total .rv { font-weight: 700; }
+.genderchart li:not(.is-total) .rb i { opacity: .78; }
+
+/* The submission volume, under the acceptance rates. No mid-line: the scale
+   is this conference's own busiest year, so a fixed tick would mean nothing. */
+.volumechart .rb { background-image: none; }
+.volumechart .ry a { color: var(--ink-soft); text-decoration: none; }
+.volumechart .ry a:hover { color: var(--accent); text-decoration: underline; }
+.factlist small { color: var(--ink-faint); font-weight: 400; white-space: nowrap; }
+.reach { font-family: var(--font-data); }
 
 .chart-caption {
   font: 400 .74rem/1.5 var(--font-ui); color: var(--ink-faint); margin: .55rem 0 0;

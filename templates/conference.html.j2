@@ -202,6 +202,26 @@
     <section class="panel">
       <h2 class="panel-title">Acceptance rate over time</h2>
       {% include "_ratechart.html.j2" with context %}
+      {% set volume = conference.volume_editions %}
+      {% if volume | length > 1 %}
+      {# The denominator, under the rate. A rate that falls while submissions
+         double is not the same story as one that falls at constant volume,
+         and the rate alone cannot tell the two apart. #}
+      {% set peak = volume | map(attribute='counts') | map(attribute=1) | max %}
+      <p class="field-label">Submissions</p>
+      <ol class="ratechart volumechart">
+        {% for e in volume %}
+        <li>
+          <span class="ry"><a href="{{ e.url }}">{{ e.year }}</a></span>
+          <span class="rb"><i style="--w: {{ (100 * e.counts[1] / peak) | round(2) }}%"></i></span>
+          <span class="rv">{{ e.counts[1] }}{% if e.counts_are_summed %}<small> summed</small>{% endif %}</span>
+        </li>
+        {% endfor %}
+      </ol>
+      <p class="chart-caption">Scaled to this conference's own busiest year
+        ({{ peak }}), so the shape is comparable across its editions but not
+        between conferences.</p>
+      {% endif %}
     </section>
     {% endif %}
 
@@ -211,7 +231,9 @@
       <h2 class="panel-title">Who led each edition</h2>
       <p class="genderkey" aria-hidden="true">
         <span><i class="g-w"></i> women</span>
-        <span><i class="g-o"></i> another gender</span>
+        {# Only when somebody is recorded as such: a key entry for an empty
+           category is noise rather than inclusion. #}
+        {% if gender.has_other %}<span><i class="g-o"></i> another gender</span>{% endif %}
         <span><i class="g-m"></i> men</span>
       </p>
 
@@ -254,6 +276,15 @@
           class="ramp" aria-hidden="true"></span><i>{{ map_points[-1].rank }}</i></span>
         {% endif %}{% endset %}
       {% include "_mapbox.html.j2" %}
+      {% if reach %}
+      <p class="chart-caption reach">
+        {{ reach.cities }} cit{{ 'y' if reach.cities == 1 else 'ies' }}{% if reach.countries %},
+        {{ reach.countries }} countr{{ 'y' if reach.countries == 1 else 'ies' }}{% endif %}
+        {%- if reach.continents %}, {{ reach.continents }}
+        continent{{ 's' if reach.continents != 1 }}{% endif %}.
+        {%- if reach.online %} Met online {{ reach.online }}
+        time{{ 's' if reach.online != 1 }}.{% endif %}</p>
+      {% endif %}
     </section>
     {% endif %}
 
@@ -292,6 +323,47 @@
           &middot; {{ home.count }} edition{{ 's' if home.count != 1 }}</dd>
         {% endfor %}
       </dl>
+    </section>
+    {% endif %}
+
+    {% set lead = conference.lead_times %}
+    {% set season = conference.deadline_season %}
+    {% if lead or season %}
+    <section class="panel">
+      <h2 class="panel-title">Timing</h2>
+      <dl class="factlist">
+        {% if season %}
+        <dt>Closes</dt>
+        <dd>{% if season.settled %}between {{ season.from }} and {{ season.to }}
+          {%- else %}anywhere between {{ season.from }} and {{ season.to }}{% endif %},
+          over the last {{ season.editions }} editions.</dd>
+        {% endif %}
+        {% if lead and lead.decision %}
+        <dt>Decision</dt>
+        <dd>{{ lead.decision.median }} days after the deadline
+          {%- if lead.decision.high > lead.decision.low %}
+          <small>({{ lead.decision.low }}&ndash;{{ lead.decision.high }} over
+            {{ lead.decision.editions }} editions)</small>{% endif %}</dd>
+        {% endif %}
+        {% if lead and lead.event %}
+        <dt>Then</dt>
+        <dd>{{ lead.event.median }} days to the conference
+          {%- if lead.event.high > lead.event.low %}
+          <small>({{ lead.event.low }}&ndash;{{ lead.event.high }})</small>{% endif %}</dd>
+        {% endif %}
+      </dl>
+      {% if season and season.nothing_announced %}
+      {# Stated as a pattern, never as a date. Nothing here is a deadline, and
+         the wording has to keep saying so. #}
+      <p class="chart-caption">No call is open. If it runs again and keeps to
+        its habits, expect the next one to close
+        {% if season.settled %}in the same window{% else %}somewhere in that
+        range{% endif %} &mdash; but that is this page reading a pattern, not
+        an announcement.</p>
+      {% elif season and not season.settled %}
+      <p class="chart-caption">{{ season.spread }} days between the earliest
+        and the latest of the last {{ season.editions }}: this one moves.</p>
+      {% endif %}
     </section>
     {% endif %}
 
