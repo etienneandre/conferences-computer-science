@@ -3,6 +3,7 @@ title = "International Workshop on Petri Nets and Software Engineering"
 url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse/index.html/"
 
 [event]
+part_of = "petri-nets/2022"
 start = 2022-06-21
 city = "Bergen, Norway"
 
@@ -16,4 +17,4 @@ notification = [2022-04-25]
 publisher = "CEUR-WS"
 
 [extra]
-notes = "A satellite event of Petri Nets. Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."
+notes = "Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."

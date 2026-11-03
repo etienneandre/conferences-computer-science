@@ -3,6 +3,7 @@ title = "International Workshop on Petri Nets and Software Engineering"
 url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse17/"
 
 [event]
+part_of = "petri-nets/2017"
 start = 2017-06-26
 end = 2017-06-27
 city = "Zaragoza, Spain"
@@ -18,4 +19,4 @@ publisher = "CEUR-WS"
 license = "free"
 
 [extra]
-notes = "A satellite event of Petri Nets and ACSD. Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."
+notes = "Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."

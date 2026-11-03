@@ -1,0 +1,23 @@
+edition = 14
+title = "14th International Conference on Application of Concurrency to System Design"
+url = "http://petrinets2014.cnam.fr/acsd.php"
+
+[event]
+start = 2014-06-25
+end = 2014-06-27
+city = "Tunis, Tunisia"
+colocated_with = ["petri-nets/2025"]
+
+[submission]
+format = "10 pages IEEE (regular) / 6 pages IEEE (tools)"
+abstract = [2014-01-10]
+paper = [2014-01-22] # NOTE: extended, from…?
+notification = [2014-03-21]
+
+[proceedings]
+publisher = "IEEE Xplore Digital Library"
+license = "pay"
+
+[extra]
+notes = "Deadline extended: 9 days in 2013"
+journal = "Several papers will be considered for publication in extended and revised form in a special section of ACM Transactions on Embedded Computing Systems journal."

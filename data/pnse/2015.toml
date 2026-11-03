@@ -3,6 +3,7 @@ title = "International Workshop on Petri Nets and Software Engineering"
 url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse15/"
 
 [event]
+part_of = "petri-nets/2015"
 start = 2015-06-22
 end = 2015-06-23
 city = "Brussels, Belgium"
@@ -17,4 +18,4 @@ publisher = "CEUR-WS"
 license = "free"
 
 [extra]
-notes = "Dealine for posters: May 21st (notification: May 21st). A satellite event of Petri Nets and ACSD. Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."
+notes = "Dealine for posters: May 21st (notification: May 21st). Some of the best papers will be invited for publication in LNCS \"Transactions on Petri Nets and Other Models of Concurrency\" (ToPNoC)."

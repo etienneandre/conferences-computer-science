@@ -3,6 +3,7 @@ title = "International Workshop on Petri Nets and Software Engineering"
 url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse14/"
 
 [event]
+part_of = "petri-nets/2014"
 start = 2014-06-23
 end = 2014-06-24
 city = "Tunis, Tunisia"
