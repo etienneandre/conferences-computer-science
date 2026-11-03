@@ -1,0 +1,34 @@
+edition = 29
+title = "29th International Conference on Coordination Models and Languages"
+url = "https://www.discotec.org/2027/coordination"
+
+[event]
+start = 2027-06-14
+end = 2027-06-18
+city = "Augsburg, Germany" 
+
+[submission]
+tz = "AoE"
+format = "18 pages LNCS + bibliography (regular paper)"
+abstract = [2027-01-28]
+paper = [2027-02-04]
+notification = [2027-03-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+artifact = "Other submission category are proposed, and an Artefact Evaluation Committee will review submitted artefacts."
+award = "Best paper award"
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 0
+women = 1
+
+[extra]
+journal = "Invited extended versions of selected papers will be considered for a special issue (to be confirmed)."
