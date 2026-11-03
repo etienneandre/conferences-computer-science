@@ -183,16 +183,3 @@ acceptance of their paper.
   Associate Director, McMaster Centre for Software Certification (McSCert)
   Associate Professor of Software Engineering
   McMaster University, http://mosser.github.io
-
-
-
-
-
-
-
-
-
-
-------
-Plus d'infos sur le GDR GPL : http://gdr-gpl.cnrs.fr
-
