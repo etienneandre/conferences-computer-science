@@ -1,0 +1,20 @@
+edition = 7
+title = "7th International Workshop on Synthesis of Complex Parameters"
+url = "https://project.inria.fr/syncop22/"
+
+[event]
+part_of = "etaps/2022"
+start = 2022-04-02
+city = "Munich, Germany"
+
+[review]
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 5
+women = 1
+
+[proceedings]
+publisher = "informal"

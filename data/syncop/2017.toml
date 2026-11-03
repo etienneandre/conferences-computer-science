@@ -1,0 +1,21 @@
+edition = 4
+title = "4th International Workshop on Synthesis of Complex Parameters + 3rd International Workshop on Parameterized Verification"
+url = "https://lipn.univ-paris13.fr/SynCoPPV2017/"
+
+[event]
+part_of = "etaps/2017"
+start = 2017-04-22
+end = 2017-04-23
+city = "Uppsala, Sweden"
+
+[review]
+[review.gender.chairs]
+men = 1
+women = 0
+
+[review.gender.speakers]
+men = 9
+women = 1
+
+[proceedings]
+publisher = "informal"

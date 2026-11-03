@@ -14,8 +14,14 @@ format = "3 pages"
 paper = [2018-01-15, 2018-01-29, 2018-02-12]
 notification = [2018-01-22, 2018-02-05, 2018-02-19]
 
+[review]
+[review.gender.chairs]
+men = 1
+women = 0
+
+[review.gender.speakers]
+men = 3
+women = 3
+
 [proceedings]
 publisher = "informal"
-
-[extra]
-colocated = "Satellite workshop of ETAPS."

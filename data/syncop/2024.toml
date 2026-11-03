@@ -18,8 +18,14 @@ notification = [2024-02-26]
 [proceedings]
 publisher = "informal"
 
-[extra]
-notes = "Since 2017, SynCoP moved to informal presentations and invited talks only (no formal proceedings)."
+[review]
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 4
+women = 0
 
 [[cfp]]
 file = "cfp/SynCoP-2024-extended.txt"

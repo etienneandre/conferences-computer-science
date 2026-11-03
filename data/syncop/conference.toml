@@ -1,4 +1,3 @@
-# SynCoP — migrated from the legacy data file
 acronym = "SynCoP"
 name = "International Workshop on Synthesis of Complex Parameters"
 workshop = true
@@ -10,5 +9,4 @@ rank = "absent"
 dblp = "syncop"
 
 [legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-notes = "Deadline extension: 2 weeks (2014, 2015, 2016). Acceptance rate (2014): 5 / 8 papers. Moved to invited and informal presentations only from 2017."
+notes = "From 2015, extended to both continuous and discrete parameters. Moved to invited and informal presentations only from 2017."

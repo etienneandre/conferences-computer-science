@@ -10,14 +10,23 @@ city = "London, England"
 
 [submission]
 format = "12 pages OASIcs (regular) / 4 pages (tool)"
-abstract = [2015-02-02]
-paper = [2015-02-02]
+abstract = [2015-01-12, 2015-02-02]
+paper = [2015-01-19, 2015-02-02]
 notification = [2015-02-27]
+
+[review]
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 1
+women = 1
 
 [proceedings]
 publisher = "OASIcs"
 license = "cc-by"
+doi = "10.4230/OASIcs.SynCoP.2015"
 
 [extra]
-colocated = "Co-located with ETAPS."
 notes = "2015 edition extended to both continuous and discrete parameters."

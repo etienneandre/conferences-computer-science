@@ -1,0 +1,10 @@
+edition = 7
+title = "7th International Workshop on Synthesis of Complex Parameters"
+status = "cancelled"
+
+[event]
+part_of = "etaps/2020"
+city = "Dublin, Ireland"
+
+[proceedings]
+publisher = "informal"

@@ -18,7 +18,13 @@ notification = [2025-07-07, 2025-07-14]
 publisher = "informal"
 
 [review]
-gender_balance = "mixed"
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 1
 
 [extra]
 notes = "Informal presentations only (no formal proceedings)."

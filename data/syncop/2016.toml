@@ -14,9 +14,16 @@ abstract = [2016-01-10, 2016-02-01]
 paper = [2016-01-17, 2016-02-01]
 notification = [2016-02-22]
 
+[review]
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 0
+
 [proceedings]
 publisher = "EPTCS"
 license = "cc-by"
-
-[extra]
-colocated = "Satellite workshop of ETAPS."
+doi = "10.4204/EPTCS.220"

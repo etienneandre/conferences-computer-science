@@ -1,0 +1,32 @@
+edition = 1
+title = "1st International Workshop on Synthesis of Complex Parameters"
+url = "https://lipn.univ-paris13.fr/SynCoP2014/"
+
+[event]
+part_of = "etaps/2014"
+start = 2014-04-06
+city = "Grenoble, France"
+
+[submission]
+format = "12 pages OASIcs (regular) / 4 pages (tool)"
+abstract = [2014-01-13, 2014-02-03]
+paper = [2014-01-20, 2014-02-03]
+notification = [2014-02-20, 2014-02-27]
+
+[review]
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 0
+
+[proceedings]
+publisher = "EPTCS"
+license = "cc-by"
+doi = "10.4204/EPTCS.145"
+
+[stats]
+submitted = 8
+accepted = 5

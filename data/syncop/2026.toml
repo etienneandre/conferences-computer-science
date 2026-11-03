@@ -19,12 +19,12 @@ publisher = "informal"
 
 [review]
 [review.gender.chairs]
-women = 0
 men = 2
+women = 0
 
 [review.gender.speakers]
-women = 1
 men = 3
+women = 1
 
 [extra]
 notes = "Informal presentations only (no formal proceedings)."
