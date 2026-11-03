@@ -2028,7 +2028,15 @@ display = "Nice"
 lat = 43.7102
 lon = 7.262
 continent = "EU"
-# 3 edition(s)
+
+["Nijmegen, The Netherlands"]
+country = "NL"
+display = "Nijmegen"
+native = "Nimwéêge"
+lat = 51.8475
+lon = 5.8625
+continent = "EU"
+
 
 ["Nusa Dua, Bali, Indonesia"]
 country = "ID"

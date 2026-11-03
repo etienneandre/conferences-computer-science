@@ -1,9 +1,10 @@
 # migrated from data.php line 11166
-edition = 10
-title = "10th International Conference on Formal Structures for Computation and Deduction"
+edition = 11
+title = "11th International Conference on Formal Structures for Computation and Deduction"
 url = "https://fscd2026.github.io/"
 
 [event]
+part_of = "floc/2026"
 start = 2026-07-20
 end = 2026-07-23
 city = "Lisbon, Portugal"
@@ -13,6 +14,7 @@ tz = "AoE"
 format = "15 pages LIPIcs + references"
 abstract = [2026-01-23]
 paper = [2026-01-30]
+extensions = false
 rebuttal_start = 2026-03-23
 rebuttal_end = 2026-03-27
 notification = [2026-04-16]
@@ -20,15 +22,25 @@ notification = [2026-04-16]
 [proceedings]
 publisher = "LIPIcs"
 license = "cc-by"
+doi = "10.4230/LIPIcs.FSCD.2026"
 
 [review]
-gender_balance = "mixed"
-rebuttal = true
+
 award = "Best paper award by junior researchers. FSCD test-of-time award 2026."
+[review.gender.chairs]
+men = 1
+women = 0
+
+[review.gender.speakers]
+men = 1
+women = 1
+
+[stats]
+submitted = 76
+accepted = 32
 
 [extra]
 journal = "Special issue of Logical Methods in Computer Science of selected papers."
-colocated = "Part of the Ninth Federated Logic Conference (FLoC 2026)"
 
 [[cfp]]
 file = "cfp/FSCD-2026.txt"

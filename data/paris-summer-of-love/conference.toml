@@ -1,3 +1,4 @@
 name = "Paris Summer of LoVe"
 acronym = "PS-LoVe"
 umbrella = "hosted"
+one_off = true

@@ -1,0 +1,38 @@
+edition = 12
+title = "12th International Conference on Formal Structures for Computation and Deduction"
+url = "https://fscd-conference.org/2027"
+
+[event]
+start = 2027-08-23
+end = 2027-08-26
+city = "Nijmegen, The Netherlands"
+venue = "Radboud University"
+
+[submission]
+tz = "AoE"
+format = "15 pages LIPIcs + references"
+abstract = [2027-04-19]
+paper = [2027-04-26]
+rebuttal_start = 2027-06-08
+rebuttal_end = 2027-06-12
+notification = [2027-06-28]
+
+[review]
+
+award = "The programme committee will select a paper in which at least one author is a junior researcher"
+
+[review.gender.chairs]
+men = 0
+women = 2
+
+# TODO
+# [review.gender.speakers]
+# men = 1
+# women = 1
+
+[extra]
+journal = "There will be a special issue of Logical Methods in Computer Science of selected papers. More details will be provided later."
+
+[[cfp]]
+file = "cfp/FSCD-2027.txt"
+stage = "initial"

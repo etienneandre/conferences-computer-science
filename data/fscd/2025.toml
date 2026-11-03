@@ -13,17 +13,29 @@ tz = "AoE"
 format = "15 pages LIPIcs + references"
 abstract = [2025-02-10, 2025-02-17]
 paper = [2025-02-17, 2025-02-22]
+rebuttal_start = 2025-04-07
+rebuttal_end = 2025-04-11
 notification = [2025-04-30]
 
 [proceedings]
 publisher = "LIPIcs"
 license = "cc-by"
+doi = "10.4230/LIPIcs.FSCD.2025"
 
 [review]
 award = "Best paper award by junior researchers."
+[review.gender.chairs]
+men = 0
+women = 1
 
-[extra]
-notes = "Rebuttal: 7-11 April 2025"
+[review.gender.speakers]
+men = 1
+women = 3
+
+[stats]
+submitted = 77
+accepted = 31
+
 
 [[cfp]]
 file = "cfp/FSCD-2025.txt"
