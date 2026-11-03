@@ -7,6 +7,7 @@ url = "https://lipn.univ-paris13.fr/petrinets2020/"
 start = 2020-06-24
 end = 2020-06-25
 online = true
+part_of = "paris-summer-of-love/2020"
 
 [submission]
 format = "regular papers (max 20 pages in Springer LNCS-format); tool papers (max 10 pages in Springer LNCS-format)"
