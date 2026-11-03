@@ -3,7 +3,7 @@
 Reference document for the site's data format. Any discrepancy between this file
 and the generator's behaviour is a bug — in one or the other.
 
-- **Schema version**: 1.3
+- **Schema version**: 1.4
 - **Format**: [TOML 1.0](https://toml.io/) (read with `tomllib`, standard library since Python 3.11)
 - **Encoding**: UTF-8, no BOM, LF line endings
 - **Indentation**: 2 spaces inside multi-line tables
@@ -169,7 +169,12 @@ predecessors = ["qest", "formats"]
 | `homepage` | string | | Series portal, distinct from an edition's URL. |
 | `defunct` | int or `"seemingly"` | | See § 3.2. |
 | `one_off` | bool | | `true` for a single event with no further editions planned (§ 3.2). |
+| `scope` | enum | | `international` (the default, and omitted), `regional`, `national`. |
+| `languages` | array(string) | | Languages the conference accepts. Shown only when `scope` is not `international`. |
+| `umbrella` | enum | | Marks the series as an umbrella and says what its members are: `constituent` or `hosted` (§ 4.3.2). |
+| `workshop` | bool | | `true` for a workshop series rather than a conference (§ 4.3.2). Mutually exclusive with `umbrella`. |
 | `core.id` | string | | CORE portal identifier. Stable across rounds. |
+| `core.national_of` | string | | For `rank = "national"`, which country. CORE writes these as "National: China". |
 | `core.rank` | enum | | Shorthand: current rank, no history known (§ 3.1). |
 | `core.history` | array of tables | | See § 3.1. |
 | `links.dblp` | string | | DBLP series key, not a URL. |
@@ -318,6 +323,7 @@ rate = 36.0
 | Key | Type | Notes |
 |---|---|---|
 | `edition` | int | Edition number (27 for the 27th). Drives the "age" styling. |
+| `acronym` | string | Overrides the series acronym **for this edition alone**: CONFEST becomes CONFESTA in the years SETTA joins it. |
 | `title` | string | Full title **of this edition**, including its ordinal. Falls back to `edition` + `conference.name`. |
 | `url` | string | Edition website. May die: see `url_dead`. |
 | `url_dead` | bool | `true` → link shown struck through, with an archive.org fallback. |
@@ -371,10 +377,88 @@ Do not confuse this with a **merger**, where the parent series end for good
 | `venue` | string | Building, campus. Optional. |
 | `online` | bool | `true` = fully online (`city` then optional). |
 | `hybrid` | bool | |
+| `colocated_with` | array(ref) | `slug/year` references, made symmetric at build time (§ 4.3.1). |
+| `part_of` | ref | The edition this one took place **inside** (§ 4.3.2). |
+| `part_of_role` | enum | Overrides the inferred role: `constituent`, `hosted`, `workshop` (§ 4.3.2). |
+| `dates_text` | string | Transitional: free-text dates the migration could not parse ("Early July 2021"). Displayed verbatim when `start` is absent. |
 
-**Reserved, not implemented**: `colocated_with = ["fmas/2026"]`, using
-`slug/year` references made symmetric at build time. Until then, co-location
-stays in `extra.notes`.
+#### 4.3.1 Co-location
+
+```toml
+[event]
+colocated_with = ["fmas/2026", "fmes/2026"]
+```
+
+Each entry is a `slug/year` reference, and an edition may name several.
+
+**Declare the relation once, on either side.** Co-location is mutual, so the
+generator adds the reverse link itself; writing it twice only creates the
+opportunity for the two halves to disagree, and a page must never claim a
+partnership the partner denies.
+
+`extra.colocated` remains available for events that have no page here — a
+workshop attached to a conference the site does not track. Both may be
+present: the references render as links, the prose follows as a note.
+
+#### 4.3.2 Umbrella events and affiliation
+
+ETAPS, FLoC, DisCoTec and CONFEST are not co-location between equals: they are
+named events with their own identity, their own years and a membership that
+changes. An umbrella is an **ordinary series** carrying one extra key, which
+says what its members are by default:
+
+```toml
+# data/etaps/conference.toml
+umbrella = "constituent"   # ETAPS: its conferences do not meet separately
+# data/floc/conference.toml
+umbrella = "hosted"        # FLoC: independent conferences, meeting together
+```
+
+Membership is declared on the **inner** edition, never as a roster on the
+container:
+
+```toml
+# data/tacas/2026.toml
+[event]
+part_of = "etaps/2026"
+```
+
+**Declare it once, on the member.** A roster kept on the umbrella has to be
+pruned in a file you are not editing, and membership changes — a conference
+leaving ETAPS, a new one joining — are exactly what goes stale that way. Here,
+leaving is the absence of a line. It is also linear rather than quadratic:
+four members need four declarations, where pairwise co-location between them
+would need six, and five would need ten.
+
+The target may be **any** edition, not only an umbrella's. A workshop
+affiliated to an ordinary conference uses the same key; only the role differs,
+and the role is inferred in this order:
+
+1. `part_of_role`, if stated;
+2. `workshop`, if the member's series carries `workshop = true`;
+3. the container's declared `umbrella` kind;
+4. `workshop`.
+
+So in the ordinary case neither key is written: a workshop series says so
+once, in its own `conference.toml`, and every edition of it is understood.
+
+**Nesting is allowed.** An edition inside a conference inside an umbrella
+resolves one step at a time and renders as a path. A loop is a validation
+error, and the generator drops the offending link rather than hanging.
+
+**City and dates are repeated**, not inherited. A file says what it says, and
+the dates genuinely differ — at a federated conference the member conferences
+run on different days inside the same fortnight. The validator warns when a
+member disagrees with its container, which is the price of that choice.
+
+`part_of` is not `colocated_with`. The test: **is it announced in the
+container's own programme?** Then `part_of`. Is it merely at the same place in
+the same week, under its own banner? Then `colocated_with` — which is how SPIN
+sits beside ETAPS rather than inside it.
+
+An umbrella normally has no `[submission]` of its own, and then it never
+appears in the front-page list: you do not submit to ETAPS, you submit to
+TACAS. Give it a `paper` deadline and it is listed like anything else.
 
 ### 4.4 `[submission]`
 
@@ -469,6 +553,8 @@ use it today.
 | `publisher` | string | A key in `publishers.toml`, or free text if unknown there. |
 | `license` | enum | A key in `enums.toml`. **Optional**: inherited from the publisher when omitted. |
 | `none` | bool | `true` = no published proceedings. |
+| `post` | bool | `true` = the volume is assembled **after** the event, so notification and camera-ready legitimately fall after `event.start`. Without it, those dates are a validation error. |
+| `doi` | string or array(string) | DOI of the proceedings. An array when a single edition was published across several volumes. |
 
 **Inheritance.** Most publishers use the same licence everywhere, so
 `publishers.toml` carries a `default_license` and edition files stay silent. An
@@ -491,8 +577,16 @@ four different licences, and some of those differences are real.
 | `artifact` | bool or string | |
 | `award` | bool or string | |
 | `competition` | bool or string | |
-| `diversity` | enum | `male-only`, `mixed`, `women-only`. |
+| `gender_balance` | enum | `male-only`, `mixed`, `women-only`. Summarises the chairs and invited speakers. |
+| `gender.chairs` | table | `women`, `men`, `other`, as integers. |
+| `gender.speakers` | table | Same shape, for invited speakers. |
+| `gender.committee` | table | Same shape, for the programme committee. |
 | `environment` | bool or string | Environmental or travel policy. |
+
+`gender_balance` is the claim the site displays; the `gender` counts are the
+evidence for it. Record either, or both. Counting is the slow part, so most
+editions will carry only the summary, and that is enough — per § 1.2, an
+absent key says nothing rather than asserting balance.
 
 Every key here accepts a descriptive string wherever a bare `true` would lose
 information. Per § 1.2, these keys are simply **absent** for most older editions,
@@ -550,13 +644,20 @@ Computation rules:
 ```toml
 [[cfp]]
 file = "cfp/2026-04-12.txt"
-retrieved = 2026-04-12
+retrieved = 2026-04-12       # optional: see below
+stage = "extended"           # optional: initial | extended
+kind = "participation"       # optional: participation | poster | image
 note = "after extension"     # optional
 source = "https://..."       # optional, original URL
 ```
 
 - `file` is relative to the conference directory and must exist (checked at
   build time).
+- `retrieved` is **optional**: the calls collected before 2026 carry no date
+  at all, and inventing one would be worse than leaving it out. Order in the
+  array is what tells the versions apart.
+- `stage` distinguishes the original call from the one reissued after an
+  extension; `kind` marks a call that is not a call for papers.
 - Naming: `YYYY-MM-DD.ext`, the date being the day of **collection**, not of
   publication. Accepted extensions: `.txt`, `.pdf`, `.md`, `.html`.
 - Several entries mean several versions over time, displayed chronologically.
@@ -568,7 +669,7 @@ source = "https://..."       # optional, original URL
 | Key | Type | Notes |
 |---|---|---|
 | `journal` | string | Special issue, invited extended versions. |
-| `colocated` | string | Co-located events, as prose. Superseded by `event.colocated_with` when that lands (§ 4.3), with nothing lost. |
+| `colocated` | string | Co-located events that have no page here, as prose. Complements `event.colocated_with` (§ 4.3.1) rather than being replaced by it. |
 | `notes` | string | Catch-all. Trusted HTML fragment — see below. |
 
 `notes` and `colocated` are rendered as **HTML**, not Markdown: the legacy page
@@ -664,10 +765,35 @@ already displayed, which makes filling it in gradual and painless.
 ```toml
 ["Southampton, England"]
 country = "GB"
+display = "Southampton"
 continent = "EU"
 lat = 50.9097
 lon = -1.4044
+
+["Beijing, China"]
+country = "CN"
+display = "Beijing"
+native = "北京"
+native_lang = "zh-Hans"
+continent = "AS"
+lat = 39.9042
+lon = 116.4074
 ```
+
+| Key | Type | Notes |
+|---|---|---|
+| `country` | string | Two-letter uppercase ISO 3166-1 code. Names come from `countries.py`, never from the key. |
+| `subdivision` | string | Only where a country has its own recognised flags: `GB-ENG`, `GB-SCT`, `GB-WLS`. |
+| `display` | string | Short form for dense lists. Defaults to the part of the key before the first comma. |
+| `native` | string | The name the city uses for itself. A `native` identical to `display` is dropped rather than printed twice, so it is safe to fill in everywhere. |
+| `native_lang` | string | BCP-47 tag labelling that name's language. Set it whenever the script is not Latin: it switches a screen reader's voice and lets the browser pick a font that has the glyphs. |
+| `lat`, `lon` | float | Both or neither. |
+| `continent` | string | `EU`, `AS`, `NA`, `SA`, `AF`, `OC`. |
+
+The key doubles as the address of the city's own page: it is transliterated
+to ASCII, so `Besançon, France` becomes `/city/besancon-france/`. Two keys
+that reduce to the same address are reported — in practice this is the
+quickest way to find the same city spelled twice.
 
 - A `city` referenced but missing here produces a **warning**, never an error:
   the edition renders normally, with the text as-is.
@@ -704,13 +830,28 @@ The build fails on any **error** and reports **warnings** without blocking.
 15. `core.history` entries not strictly increasing by `from`.
 16. `joint_with` pointing at a non-existent edition, or at an edition that is
     itself `status = "joint"`.
+17. `colocated_with` or `part_of` malformed, pointing at a non-existent
+    edition, or naming the edition itself.
+18. `part_of` forming a loop.
+19. Both `workshop` and `umbrella` on one series.
+20. In `cities.toml`: an unknown key, a `country` that is not two uppercase
+    letters, a malformed `native_lang`, a coordinate out of range, or one
+    coordinate without the other.
 
 ### Warnings
 
-- `city` missing from `cities.toml`.
+- `city` missing from `cities.toml`, or two gazetteer keys sharing one
+  `/city/` address.
 - `publisher` missing from `publishers.toml`.
+- A member's city or date range disagreeing with the edition it is
+  `part_of` (§ 4.3.2).
+- `part_of` naming a series that is not an umbrella and no `part_of_role`
+  given — the role is inferred as `workshop`, which is worth saying once.
+- An umbrella edition that no member names.
+- `license` missing from `enums.toml`: the key is shown as-is, unstyled.
 - Track sums differing from global figures (unless `[stats].note` is present).
-- A future edition with neither `paper` nor `status`.
+- A future edition with neither `paper` nor `status` — except on an umbrella,
+  which has no call of its own.
 - `url` returning HTTP ≥ 400 (only under `make check --network`).
 - More than **365 days** between `notification` and `event.start`. Long gaps are
   normal in this field, so this threshold targets one specific mistake: a
@@ -725,13 +866,12 @@ The build fails on any **error** and reports **warnings** without blocking.
 None of the following may be added without also updating this document, the
 validator, and the schema version:
 
-- structured co-location (`event.colocated_with`, § 4.3) — the prose field
-  `extra.colocated` holds this meanwhile;
 - multiple submission categories (§ 4.6);
 - two editions in one year (§ 2.2 — the naming is accepted, the rendering is not);
-- programme committees, chairs, invited speakers;
+- named programme committees, chairs and invited speakers — only their
+  counts by gender are recorded (§ 4.8);
 - registration fees;
-- persistent identifiers (DOI, per-edition DBLP keys).
+- per-edition DBLP keys.
 
 ---
 
@@ -764,6 +904,7 @@ part of this schema.
 
 | Version | Change |
 |---|---|
+| 1.4 | Umbrella events and affiliation: `umbrella` and `workshop` on a series, `event.part_of` and `part_of_role` on an edition, per-edition `acronym` (§ 4.3.2). Co-location documented as implemented (§ 4.3.1). Catching up with the generator, which had moved ahead of this document: `scope`, `languages`, `core.national_of` (§ 3); `event.dates_text` (§ 4.3); `proceedings.post` and `proceedings.doi` (§ 4.7); `diversity` renamed `gender_balance` and the `gender` counts added (§ 4.8); `cfp.stage` and `cfp.kind`, `retrieved` made optional (§ 4.10); `display`, `subdivision`, `native`, `native_lang` in the gazetteer, which now also addresses the per-city pages (§ 7). Structured co-location and DOIs leave § 9. |
 | 1.3 | `extensions` accepts `true` for an extension whose earlier date is unknown (§ 4.4.1). `rebuttal_start` / `rebuttal_end` added (§ 4.8). |
 | 1.2 | `complete_since` becomes optional (§ 1.4, § 3). Joint editions get `status = "joint"` and `joint_with` (§ 4.2.1). `one_off` added (§ 3.2). `extra.colocated` added and `notes` declared as trusted HTML (§ 4.11). `[legacy]` documented (§ 4.12). `links.twitter` added. Slug rule relaxed for leading digits, with transliteration and `&` → `and` spelled out (§ 2.1). Redundant-licence warning removed (§ 4.7). |
 | 1.1 | CORE ranks become an open-ended interval history (§ 3.1); per-edition CORE field removed. Licences inherited from `publishers.toml` with override (§ 4.7, § 6). `defunct` accepts a year or `"seemingly"` (§ 3.2). `blind` and `rebuttal` accept free text (§ 4.8). `frequency` is free text. CORE `absent` and `unranked` distinguished; invented `national` rank removed. |
