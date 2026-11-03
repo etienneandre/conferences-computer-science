@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018. Co-located with QEST and CONCUR as CONFESTA. New this year: Best paper award."
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018. New this year: Best paper award."
 
 [[cfp]]
 file = "cfp/FORMATS-2018.txt"

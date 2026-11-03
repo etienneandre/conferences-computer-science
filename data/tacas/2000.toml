@@ -1,0 +1,5 @@
+edition = 6
+
+[event]
+city = "Berlin, Germany"
+part_of = "etaps/2000"

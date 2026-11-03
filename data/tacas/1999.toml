@@ -1,0 +1,5 @@
+edition = 5
+
+[event]
+city = "Amsterdam, The Netherlands"
+part_of = "etaps/1999"

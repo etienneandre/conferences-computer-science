@@ -1,0 +1,5 @@
+edition = 12
+
+[event]
+city = "Vienna, Austria"
+part_of = "etaps/2006"

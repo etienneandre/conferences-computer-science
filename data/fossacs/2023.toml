@@ -8,7 +8,6 @@ part_of = "etaps/2023"
 start = 2023-04-22
 end = 2023-04-27
 city = "Paris, France"
-colocated_with = ["fase/2023", "tacas/2023"]
 
 [submission]
 tz = "AoE"

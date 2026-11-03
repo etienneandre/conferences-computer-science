@@ -25,9 +25,6 @@ accepted = 35
 submitted = 96
 # TODO: verify — extracted from the cross-year acceptance string.
 
-[extra]
-notes = "Part of QONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials."
-
 [[cfp]]
 file = "cfp/CONCUR-2021.txt"
 stage = "initial"

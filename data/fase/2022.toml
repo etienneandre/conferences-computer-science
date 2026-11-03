@@ -8,7 +8,6 @@ part_of = "etaps/2022"
 start = 2022-04-02
 end = 2022-04-07
 city = "Munich, Germany"
-colocated_with = ["fossacs/2022", "tacas/2022"]
 
 [submission]
 tz = "AoE"
@@ -21,4 +20,4 @@ publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
 
 [extra]
-notes = "Part of ETAPS 2022. Special issues of the Springer journal Formal Methods in System Design (FMSD) and Int. J. on Software Tools for Technology Transfer (STTT) are planned for FASE 2022. Authors of the best papers that fall within the scope of the journal will be invited to submit significantly extended papers for journal review. Grace period: 10 days (2022)"
+notes = "Special issues of the Springer journal Formal Methods in System Design (FMSD) and Int. J. on Software Tools for Technology Transfer (STTT) are planned for FASE 2022. Authors of the best papers that fall within the scope of the journal will be invited to submit significantly extended papers for journal review. Grace period: 10 days (2022)"

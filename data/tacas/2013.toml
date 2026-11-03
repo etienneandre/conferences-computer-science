@@ -1,0 +1,5 @@
+edition = 19
+
+[event]
+city = "Rome, Italy"
+part_of = "etaps/2013"

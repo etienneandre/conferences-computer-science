@@ -6,7 +6,8 @@ url = "https://spin-web.github.io/SPIN2025/"
 [event]
 start = 2026-04-15
 end = 2026-04-16
-city = "Torino, Italy"
+city = "Turin, Italy"
+colocated_with = ["etaps/2026"]
 
 [submission]
 tz = "AoE"
@@ -23,9 +24,6 @@ license = "pay-profit"
 blind = "single"
 artifact = "Optional artifact evaluation, mandatory for tool papers"
 award = "A Best Paper award will be announced and handed out at the conference."
-
-[extra]
-colocated = "Co-located with ETAPS 2026"
 
 [[cfp]]
 file = "cfp/SPIN-2026.txt"

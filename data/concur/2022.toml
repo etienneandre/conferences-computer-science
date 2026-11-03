@@ -4,6 +4,7 @@ title = "33rd International Conference on Concurrency Theory"
 url = "https://concur2022.mimuw.edu.pl/"
 
 [event]
+part_of = "confest/2022"
 start = 2022-09-13
 end = 2022-09-16
 city = "Warsaw, Poland"
@@ -25,7 +26,7 @@ submitted = 90
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Author response: June 6-8, 2022. Part of CONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials."
+notes = "Author response: June 6-8, 2022."
 
 [[cfp]]
 file = "cfp/CONCUR-2022.txt"

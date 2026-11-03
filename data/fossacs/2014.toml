@@ -1,0 +1,5 @@
+edition = 17
+
+[event]
+city = "Grenoble, France"
+part_of = "etaps/2014"

@@ -1,4 +1,8 @@
 edition = 21
+title = "21st International Federated Conference on Distributed Computing Techniques"
+url = "https://www.discotec.org/2026/"
 
 [event]
+start = 2026-06-08
+end = 2026-06-12
 city = "Urbino, Italy"

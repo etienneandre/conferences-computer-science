@@ -3,6 +3,9 @@ edition = 5
 title = "5th International workshop UML and Formal Methods"
 url = "http://www-public.int-evry.fr/~gibson/Workshops/UML-FM-2012.html"
 
+# [event]
+# part_of = "fm/2012" # TODO
+
 [submission]
 format = "Short versions will be published in the ACM Software Engineering; 8 pages in SEN Format."
 paper = [2012-03-12]

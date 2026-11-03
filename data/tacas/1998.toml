@@ -1,0 +1,5 @@
+edition = 4
+
+[event]
+city = "Lisbon, Portugal"
+part_of = "etaps/1998"

@@ -1,0 +1,6 @@
+edition = 26
+
+[event]
+city = "Paris, France"
+start = 2006-09-26
+end = 2006-09-29

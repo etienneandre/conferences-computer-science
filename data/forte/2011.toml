@@ -1,0 +1,11 @@
+edition = 31
+
+[event]
+city = "Reykjavík, Iceland"
+start = 2011-06-06
+end = 2011-06-09
+part_of = "discotec/2011"
+
+[extra]
+notes = "Held jointly with FMOODS."
+# TODO: extract — if FMOODS has its own directory here, this is a joint edition in the sense of SCHEMA.md 4.2.1 rather than two separate ones.

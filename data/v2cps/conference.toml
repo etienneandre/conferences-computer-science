@@ -2,6 +2,7 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "V2CPS"
 name = "International Workshop on Verification and Validation of Cyber-Physical Systems"
+workshop = true
 defunct = "seemingly"
 
 [core]

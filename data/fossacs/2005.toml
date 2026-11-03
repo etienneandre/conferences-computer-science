@@ -1,0 +1,5 @@
+edition = 8
+
+[event]
+city = "Edinburgh, Scotland"
+part_of = "etaps/2005"

@@ -4,11 +4,11 @@ title = "31st International Conference on Concurrency Theory"
 url = "https://concur2020.forsyte.at/"
 
 [event]
+part_of = "confest/2020"
 start = 2020-09-01
 end = 2020-09-04
 city = "Vienna, Austria"
 online = true
-colocated_with = ["fmics/2020", "formats/2020"]
 
 [submission]
 tz = "AoE"
@@ -22,7 +22,6 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [extra]
-notes = "Part of QONFEST with FORMATS, FMICS and QEST, and several workshops and tutorials."
 journal = "A special issue dedicated to selected papers from CONCUR 2020 will appear in Logical Methods in Computer Science."
 
 [[cfp]]

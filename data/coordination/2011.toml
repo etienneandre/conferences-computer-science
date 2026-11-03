@@ -1,0 +1,7 @@
+edition = 13
+
+[event]
+city = "Reykjavík, Iceland"
+start = 2011-06-06
+end = 2011-06-09
+part_of = "discotec/2011"

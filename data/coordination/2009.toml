@@ -1,0 +1,7 @@
+edition = 11
+
+[event]
+city = "Lisbon, Portugal"
+start = 2009-06-09
+end = 2009-06-12
+part_of = "discotec/2009"

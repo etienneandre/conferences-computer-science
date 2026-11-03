@@ -1,0 +1,5 @@
+edition = 10
+
+[event]
+city = "Barcelona, Catalonia, Spain"
+part_of = "etaps/2004"

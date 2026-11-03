@@ -3,6 +3,7 @@ acronym = "FMTV"
 name = "Formal Methods for Timing Verification Workshop"
 complete_since = 2014
 defunct = 2016
+workshop = true
 
 [core]
 rank = "absent"

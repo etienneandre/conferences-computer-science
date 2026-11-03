@@ -1,0 +1,5 @@
+edition = 10
+
+[event]
+city = "Oslo, Norway"
+part_of = "discotec/2008"

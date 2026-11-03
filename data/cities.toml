@@ -2856,29 +2856,12 @@ lon = -4.0273
 continent = "EU"
 # 2 edition(s)
 
-["Torino, Italy"]
-country = "IT"
-display = "Torino"
-lat = 45.0703
-lon = 7.6869
-continent = "EU"
-# 5 edition(s)
-
-["Toronto, Canada"]
-country = "CA"
-display = "Toronto"
-lat = 43.6532
-lon = -79.3832
-continent = "NA"
-# 3 edition(s)
-
 ["Toronto, Ontario, Canada"]
 country = "CA"
 display = "Toronto"
 lat = 43.6532
 lon = -79.3832
 continent = "NA"
-# 1 edition(s)
 
 ["Toruń, Poland"]
 country = "PL"

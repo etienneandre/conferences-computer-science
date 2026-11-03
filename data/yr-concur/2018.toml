@@ -4,6 +4,7 @@ title = "8th International Young Researchers Workshop on Concurrency Theory"
 url = "https://www.irif.fr/~cenea/yr-concur2018/"
 
 [event]
+part_of = "concur/2018"
 start = 2018-09-03
 city = "Beijing, China"
 
@@ -16,7 +17,7 @@ notification = [2018-07-06, 2018-07-15]
 publisher = "informal"
 
 [extra]
-notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere."
 
 [[cfp]]
 file = "cfp/YR-CONCUR-2018.txt"

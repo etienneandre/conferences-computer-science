@@ -1,0 +1,10 @@
+edition = 32
+
+[event]
+city = "Stockholm, Sweden"
+start = 2012-06-13
+end = 2012-06-16
+part_of = "discotec/2012"
+
+[extra]
+notes = "Held jointly with FMOODS. # TODO: extract — if FMOODS has its own directory here, this is a joint edition in the sense of SCHEMA.md 4.2.1 rather than two separate ones."

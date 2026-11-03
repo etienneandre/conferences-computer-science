@@ -4,6 +4,7 @@ title = "27th International Conference on Formal Methods for Industrial Critical
 url = "https://fmics2022.fsa.win.tue.nl/"
 
 [event]
+part_of = "confest/2022"
 start = 2022-09-14
 end = 2022-09-16
 city = "Warsaw, Poland"
@@ -26,7 +27,6 @@ submitted = 22
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-colocated = "Part of CONFEST with CONCUR, FORMATS and QEST."
 notes = "Special track papers on Formal Methods for Responsible AI"
 
 [[cfp]]

@@ -4,6 +4,7 @@ title = "12th International Young Researchers Workshop on Concurrency Theory"
 url = "https://confest-2026.github.io/workshops/yr-concur/"
 
 [event]
+part_of = "concur/2026"
 start = 2026-09-05
 city = "Liverpool, England"
 
@@ -19,7 +20,6 @@ publisher = "informal"
 blind = "single"
 
 [extra]
-colocated = "Satellite of CONCUR."
 notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere."
 
 [[cfp]]

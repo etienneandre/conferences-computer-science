@@ -4,6 +4,7 @@ title = "10th International Young Researchers Workshop on Concurrency Theory"
 url = "https://yrconcur2022.mimuw.edu.pl/"
 
 [event]
+part_of = "concur/2022"
 start = 2022-09-12
 city = "Warsaw, Poland"
 
@@ -16,7 +17,7 @@ notification = [2022-07-12]
 publisher = "informal"
 
 [extra]
-notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere."
 
 [[cfp]]
 file = "cfp/YR-CONCUR-2022.txt"

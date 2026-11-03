@@ -3,6 +3,3 @@ edition = 16
 [event]
 city = "Valletta, Malta"
 online = true
-
-[extra]
-notes = "# TODO: verify — held online because of COVID-19."

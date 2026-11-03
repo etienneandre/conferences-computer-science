@@ -4,6 +4,7 @@ title = "6th International Workshop on Synthesis of Complex Parameters"
 url = "https://lipn.univ-paris13.fr/SynCoP2019/"
 
 [event]
+part_of = "etaps/2019"
 start = 2019-04-06
 end = 2019-04-07
 city = "Prague, Czech Republic"

@@ -1,0 +1,5 @@
+edition = 9
+
+[event]
+city = "Paphos, Cyprus"
+part_of = "discotec/2007"

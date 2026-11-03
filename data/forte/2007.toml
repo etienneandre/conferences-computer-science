@@ -1,0 +1,6 @@
+edition = 27
+
+[event]
+city = "Tallinn, Estonia"
+start = 2007-06-27
+end = 2007-06-29

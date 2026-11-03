@@ -7,6 +7,7 @@ url = "https://spin-web.github.io/SPIN2023/"
 start = 2023-04-26
 end = 2023-04-27
 city = "Paris, France"
+colocated_with = ["etaps/2023"]
 
 [submission]
 tz = "AoE"
@@ -19,8 +20,8 @@ notification = [2023-02-16]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
-[extra]
-notes = "co-located with ETAPS 2023. Single-blind."
+[review]
+blind = "single"
 
 [[cfp]]
 file = "cfp/SPIN-2023.txt"

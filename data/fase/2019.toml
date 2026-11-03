@@ -8,7 +8,6 @@ part_of = "etaps/2019"
 start = 2019-04-08
 end = 2019-04-11
 city = "Prague, Czech Republic"
-colocated_with = ["fossacs/2019", "post/2019", "tacas/2019"]
 
 [submission]
 format = "15 pages LNCS + 2 pages bibliography"
@@ -19,9 +18,6 @@ notification = [2019-01-25]
 [proceedings]
 publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
-
-[extra]
-notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, POST, TACAS, etc."
 
 [[cfp]]
 file = "cfp/FASE-2019.txt"

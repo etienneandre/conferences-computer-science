@@ -1,0 +1,5 @@
+edition = 11
+
+[event]
+city = "Budapest, Hungary"
+part_of = "etaps/2008"

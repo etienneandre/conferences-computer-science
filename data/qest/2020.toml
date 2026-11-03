@@ -4,6 +4,7 @@ title = "17th International Conference on Quantitative Evaluation of SysTems"
 url = "http://www.qest.org/qest2020/"
 
 [event]
+part_of = "confest/2020"
 start = 2020-09-01
 end = 2020-09-03
 city = "Vienna, Austria"

@@ -4,6 +4,7 @@ title = "2nd International Workshop on Synthesis of Complex Parameters"
 url = "http://lipn.univ-paris13.fr/SynCoP2015/"
 
 [event]
+part_of = "etaps/2015"
 start = 2015-04-11
 city = "London, England"
 

@@ -1,0 +1,6 @@
+edition = 28
+
+[event]
+city = "Tōkyō, Japan"
+start = 2008-06-10
+end = 2008-06-13

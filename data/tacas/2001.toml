@@ -1,0 +1,5 @@
+edition = 7
+
+[event]
+city = "Genoa, Italy"
+part_of = "etaps/2001"

@@ -4,6 +4,7 @@ title = "9th International Young Researchers Workshop on Concurrency Theory"
 url = "https://yr-concur2019.fsa.win.tue.nl/"
 
 [event]
+part_of = "concur/2019"
 start = 2019-08-31
 city = "Amsterdam, The Netherlands"
 
@@ -16,7 +17,7 @@ notification = [2019-07-19]
 publisher = "informal"
 
 [extra]
-notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere."
 
 [[cfp]]
 file = "cfp/YR-CONCUR-2019.txt"

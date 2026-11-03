@@ -8,7 +8,6 @@ part_of = "etaps/2020"
 start = 2020-04-25
 end = 2020-05-01
 city = "Dublin, Ireland"
-colocated_with = ["fossacs/2020", "post/2020", "tacas/2020"]
 
 [submission]
 tz = "AoE"
@@ -20,9 +19,6 @@ notification = [2019-12-23]
 [proceedings]
 publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
-
-[extra]
-notes = "ETAPS: Multi-conference including CC, ESOP, FASE, FOSSACS, TACAS, etc."
 
 [[cfp]]
 file = "cfp/FASE-2020.txt"

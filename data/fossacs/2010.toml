@@ -1,0 +1,5 @@
+edition = 13
+
+[event]
+city = "Paphos, Cyprus"
+part_of = "etaps/2010"

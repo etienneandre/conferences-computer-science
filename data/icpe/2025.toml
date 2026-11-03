@@ -6,7 +6,7 @@ url = "https://icpe2025.spec.org/"
 [event]
 start = 2025-05-05
 end = 2025-05-09
-city = "Toronto, Canada"
+city = "Toronto, Ontario, Canada"
 
 [submission]
 tz = "AoE"

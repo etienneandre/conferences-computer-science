@@ -5,6 +5,7 @@ url = "http://cimini.info/yr-concur2014/"
 status = "cancelled"
 
 [event]
+part_of = "concur/2014"
 start = 2014-09-01
 city = "Rome, Italy"
 
@@ -17,4 +18,4 @@ notification = [2014-07-23]
 publisher = "none"
 
 [extra]
-notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere."

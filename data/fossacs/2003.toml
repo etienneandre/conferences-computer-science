@@ -1,0 +1,5 @@
+edition = 6
+
+[event]
+city = "Warsaw, Poland"
+part_of = "etaps/2003"

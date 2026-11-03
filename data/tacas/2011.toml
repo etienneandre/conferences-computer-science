@@ -1,0 +1,5 @@
+edition = 17
+
+[event]
+city = "Saarbrücken, Germany"
+part_of = "etaps/2011"

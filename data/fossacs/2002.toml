@@ -1,0 +1,5 @@
+edition = 5
+
+[event]
+city = "Grenoble, France"
+part_of = "etaps/2002"

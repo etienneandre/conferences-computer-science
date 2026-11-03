@@ -4,6 +4,7 @@ title = "10th International Workshop on Synthesis of Complex Parameters"
 url = "https://lipn.univ-paris13.fr/SynCoP2025/"
 
 [event]
+part_of = "confest/2025"
 start = 2025-08-25
 city = "Aarhus, Denmark"
 
@@ -20,7 +21,6 @@ publisher = "informal"
 gender_balance = "mixed"
 
 [extra]
-colocated = "Satellite workshop of CONFEST 2025."
 notes = "Informal presentations only (no formal proceedings)."
 
 [[cfp]]

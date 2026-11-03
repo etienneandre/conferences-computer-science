@@ -1,0 +1,5 @@
+edition = 8
+
+[event]
+city = "Bologna, Italy"
+part_of = "discotec/2006"

@@ -4,6 +4,7 @@ title = "9th International Workshop on Synthesis of Complex Parameters"
 url = "https://sites.lipn.univ-paris13.fr/workshops/syncop24"
 
 [event]
+part_of = "etaps/2024"
 start = 2024-04-06
 end = 2024-04-07
 city = "Luxembourg"
@@ -18,7 +19,7 @@ notification = [2024-02-26]
 publisher = "informal"
 
 [extra]
-notes = "Satellite workshop of ETAPS. Since 2017, SynCoP moved to informal presentations and invited talks only (no formal proceedings)."
+notes = "Since 2017, SynCoP moved to informal presentations and invited talks only (no formal proceedings)."
 
 [[cfp]]
 file = "cfp/SynCoP-2024-extended.txt"

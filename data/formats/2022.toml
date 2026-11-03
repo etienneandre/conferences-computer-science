@@ -4,6 +4,7 @@ title = "20th International Conference on Formal Modeling and Analysis of Timed 
 url = "https://conferences.ncl.ac.uk/formats2022/"
 
 [event]
+part_of = "confest/2022"
 start = 2022-09-12
 end = 2022-09-17
 city = "Warsaw, Poland"
@@ -19,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020, 14+13 days in 2021, 14 days in 2022. Part of CONFEST with CONCUR, FMICS and QEST. Best paper award in the honor of Oded Maler (since 2018)."
+notes = "One week deadline extension in 2012, none in 2013, one week in 2014, one week in 2015 (+4 days to edit the paper), one week in 2016, one week in 2017, 12+7 days in 2018, 7 days in 2019, 14+10 days in 2020, 14+13 days in 2021, 14 days in 2022. Best paper award in the honor of Oded Maler (since 2018)."
 
 [[cfp]]
 file = "cfp/FORMATS-2022.txt"

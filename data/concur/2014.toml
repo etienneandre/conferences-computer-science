@@ -1,0 +1,5 @@
+edition = 25
+title = "25th International Conference on Concurrency Theory"
+
+[event]
+city = "Rome, Italy"

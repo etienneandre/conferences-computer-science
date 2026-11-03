@@ -1,0 +1,5 @@
+edition = 15
+
+[event]
+city = "York, England"
+part_of = "etaps/2009"

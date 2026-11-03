@@ -4,8 +4,9 @@ title = "5th Workshop on Synthesis"
 url = "http://formal.epfl.ch/synt/2016/"
 
 [event]
+part_of = "cav/2016"
 start = 2016-07-17
-city = "Toronto, Canada"
+city = "Toronto, Ontario, Canada"
 
 [submission]
 format = "15 pages EPTCS + references (long) / 7 pages + references (tool)"

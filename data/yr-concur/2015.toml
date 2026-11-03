@@ -4,6 +4,7 @@ title = "6th International Young Researchers Workshop on Concurrency Theory"
 url = "http://cimini.info/yr-concur2015/"
 
 [event]
+part_of = "concur/2015"
 start = 2015-09-05
 city = "Madrid, Spain"
 
@@ -16,4 +17,4 @@ notification = [2015-07-18]
 publisher = "informal"
 
 [extra]
-notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere. Satellite of CONCUR."
+notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere."

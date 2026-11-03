@@ -1,0 +1,5 @@
+edition = 10
+
+[event]
+city = "Braga, Portugal"
+part_of = "etaps/2007"

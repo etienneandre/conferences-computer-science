@@ -1,0 +1,5 @@
+edition = 15
+
+[event]
+city = "Tallinn, Estonia"
+part_of = "etaps/2012"

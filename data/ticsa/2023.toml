@@ -4,6 +4,7 @@ title = "First Workshop on Trends in Configurable Systems Analysis"
 url = "https://ticsa.edgecloud.de/"
 
 [event]
+part_of = "etaps/2023"
 start = 2023-04-23
 city = "Paris, France"
 

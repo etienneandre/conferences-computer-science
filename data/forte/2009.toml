@@ -1,0 +1,11 @@
+edition = 29
+
+[event]
+city = "Lisbon, Portugal"
+start = 2009-06-09
+end = 2009-06-12
+part_of = "discotec/2009"
+
+[extra]
+notes = "Held jointly with FMOODS."
+# TODO: extract — if FMOODS has its own directory here, this is a joint edition in the sense of SCHEMA.md 4.2.1 rather than two separate ones.

@@ -4,6 +4,7 @@ title = "18th International Conference on Formal Modeling and Analysis of Timed 
 url = "https://formats-2020.cs.ru.nl/"
 
 [event]
+part_of = "confest/2020"
 start = 2020-09-01
 end = 2020-09-03
 city = "Vienna, Austria"
