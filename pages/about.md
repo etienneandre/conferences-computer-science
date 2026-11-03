@@ -98,7 +98,7 @@ This Web site in itself was, well, I must admit, only partially human-written ðŸ
 - [Upcoming formal methods Conferences on FMEurope](https://www.fmeurope.org/feature/upcoming_conferences/)
 - [Conferences by  Miki Hermann & Martin Krejca](https://tcs-conf.github.io/)
 - [Computer Science conferences timeline](https://lucjaulmes.github.io/cfp-timeline/)
-- [Acceptance ratio of some Theoretical Computer Science Conferences](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php)
+- [Acceptance ratio of some Theoretical Computer Science Conferences](https://www.lamsade.dauphine.fr/~sikora/ratio/)
 - [Software Engineering Conferences with acceptance rates (outdated but useful)](https://taoxie.cs.illinois.edu/seconferences.htm)
 - [Conferences in Software Testing, and more](https://www.cs.ru.nl/~tretmans/TestConferences.html)
 
