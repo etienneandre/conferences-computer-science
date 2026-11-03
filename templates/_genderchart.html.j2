@@ -1,0 +1,31 @@
+{# Gender balance over the life of a series, drawn like the acceptance rates:
+   one row per year, the figures beside the bar, and a pooled total.
+
+   Expects `rows`, `total` and `label` to be set by the including template, so
+   that the leadership and the programme committee render the same way without
+   ever being added together.
+
+   Each bar is three segments. Colour alone says nothing here — every segment
+   carries a title, and the counts are written out beside it — because a
+   reader who cannot separate the hues must still be able to read the row. #}
+<ol class="ratechart genderchart">
+  {% for r in rows %}
+  <li>
+    <span class="ry"><a href="{{ r.url }}">{{ r.year }}</a></span>
+    <span class="rb">
+      {%- if r.women %}<i class="g-w" style="--w: {{ (100 * r.women / r.total) | round(2) }}%"
+        title="{{ r.women }} of {{ r.total }} women"></i>{% endif %}
+      {%- if r.other %}<i class="g-o" style="--w: {{ (100 * r.other / r.total) | round(2) }}%"
+        title="{{ r.other }} of {{ r.total }} another gender"></i>{% endif %}
+      {%- if r.men %}<i class="g-m" style="--w: {{ (100 * r.men / r.total) | round(2) }}%"
+        title="{{ r.men }} of {{ r.total }} men"></i>{% endif %}
+    </span>
+    <span class="rv">{{ r.women + r.other }}<small> of {{ r.total }}</small></span>
+  </li>
+  {% endfor %}
+</ol>
+<dl class="factlist genderpooled">
+  <dt>Across {{ total.editions }} editions</dt>
+  <dd><b>{{ total.women + total.other }} of {{ total.total }}</b> {{ label }}
+    were women or of another gender &mdash; {{ total.share }}%.</dd>
+</dl>
