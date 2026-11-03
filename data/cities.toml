@@ -108,7 +108,13 @@ display = "Auckland"
 lat = -36.8485
 lon = 174.7633
 continent = "OC"
-# 1 edition(s)
+
+["Augsburg, Germany"]
+country = "DE"
+display = "Augsburg"
+lat = 48.3699
+lon = 10.8984
+continent = "EU"
 
 ["Austin, Texas, USA"]
 country = "US"
