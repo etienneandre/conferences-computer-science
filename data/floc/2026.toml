@@ -1,0 +1,8 @@
+edition = 9
+title = "Ninth Federated Logic Conference"
+url = "https://www.floc26.org/"
+
+[event]
+start = 2026-07-20
+end = 2026-07-29
+city = "Lisbon, Portugal"
