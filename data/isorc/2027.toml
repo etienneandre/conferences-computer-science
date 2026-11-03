@@ -4,7 +4,6 @@ url = "https://isorc-conference.org/"
 # TODO
 
 [event]
-# NOTE: Exact conference dates will be announced soon.
 start = 2027-04-07
 end = 2027-04-09
 city = "Rupnagar, India"
@@ -13,7 +12,7 @@ venue = "IIT Ropar"
 [submission]
 tz = "AoE"
 format = "10 pages IEEE (regular / Industrial Papers and Practitioner Reports) / 6 pages IEEE (short) + 2 paid pages for references and appendix"
-paper = [2026-10-15]
+paper = [2026-10-15, 2026-10-31, 2026-11-09]
 notification = [2026-12-01]
 
 [proceedings]
@@ -28,5 +27,13 @@ women = 0
 notes = "Also a doctoral symposium, Dissertation Digest, lightning talks, posters, demos…"
 
 [[cfp]]
+file = "cfp/ISORC-2027-extended-2026-10-15.txt"
+stage = "extended"
+
+[[cfp]]
 file = "cfp/ISORC-2027-2026-09-28.txt"
+stage = "initial"
+
+[[cfp]]
+file = "cfp/ISORC-2027.pdf"
 stage = "initial"
