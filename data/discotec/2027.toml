@@ -6,3 +6,7 @@ url = "https://www.discotec.org/2027/"
 start = 2027-06-14
 end = 2027-06-18
 city = "Augsburg, Germany"
+
+[[cfp]]
+file = "cfp/DisCoTec-2027.txt"
+stage = "initial"
