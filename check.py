@@ -221,6 +221,28 @@ CHRONOLOGY = ("abstract", "paper", "notification", "camera_ready")
 RE_LANG_TAG = re.compile(r"[A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*")
 
 
+# How far outside its host's dates a satellite may sit before it looks like a
+# mistake rather than a satellite. A workshop the day before or the day after
+# is the norm; a fortnight is not, and a mistyped year is hundreds of days out.
+SATELLITE_SLACK_DAYS = 7
+
+
+def membership_role(event: dict, member: dict, host: dict) -> str:
+    """What an edition is, inside the one that contains it.
+
+    Mirrors `Edition.role` in build.py, which cannot be imported here: this
+    file must run and report on a machine where Jinja2 was never installed.
+    Change one and change the other — the order of the four cases is the
+    schema's, and is documented in SCHEMA.md § 4.3.2.
+    """
+    declared = (event.get("part_of_role") or "").strip()
+    if declared:
+        return declared
+    if member.get("workshop"):
+        return "workshop"
+    return (host.get("umbrella") or "").strip() or "workshop"
+
+
 class Report:
     def __init__(self, quiet: bool = False) -> None:
         self.errors: list[tuple[str, str]] = []
@@ -939,15 +961,17 @@ class Checker:
                 containers[f"{slug}/{key}"] = ref
                 members[ref].append(f"{slug}/{key}")
 
-                # The role has to come from somewhere. It is stated outright
-                # by `part_of_role`, or by `workshop = true` on the member's
-                # own series — the usual way, since being a workshop is a
-                # property of the series and is said once — or it is inferred
-                # from an umbrella container. With none of the three, the
-                # inference still lands on `workshop`, but nothing in the data
-                # says so, and that is the only case worth a word.
                 host = self.slugs.get(target_slug, {})
                 member = self.slugs.get(slug, {})
+                role = membership_role(event, member, host)
+
+                # The role has to come from somewhere. It is stated outright by
+                # `part_of_role`, or by `workshop = true` on the member's own
+                # series — the usual way, since being a workshop is a property
+                # of the series and is said once — or it is inferred from an
+                # umbrella container. With none of the three, the inference
+                # still lands on `workshop`, but nothing in the data says so,
+                # and that is the only case worth a word.
                 if not (host.get("umbrella") or member.get("workshop")
                         or event.get("part_of_role")):
                     self.report.warn(where, f"`part_of` names `{ref}`, which is "
@@ -964,11 +988,27 @@ class Checker:
                 start, end = event.get("start"), event.get("end") or event.get("start")
                 outer_start = target_event.get("start")
                 outer_end = target_event.get("end") or outer_start
-                if (isinstance(start, date) and isinstance(outer_start, date)
-                        and isinstance(end, date) and isinstance(outer_end, date)
-                        and (start < outer_start or end > outer_end)):
-                    self.report.warn(where, f"runs {start}–{end}, outside "
-                                            f"{ref}'s {outer_start}–{outer_end}")
+                if all(isinstance(d, date)
+                       for d in (start, end, outer_start, outer_end)):
+                    if role == "workshop":
+                        # A satellite is adjacent, not contained. It routinely
+                        # runs the day before its host opens or the day after
+                        # it closes, and half the satellites in this corpus do.
+                        # What is still worth catching is a mistyped year or
+                        # month, which lands hundreds of days away, so the test
+                        # is the distance rather than containment.
+                        gap = max((outer_start - end).days, (start - outer_end).days, 0)
+                        if gap > SATELLITE_SLACK_DAYS:
+                            self.report.warn(
+                                where, f"runs {start}–{end}, {gap} days from "
+                                       f"{ref}'s {outer_start}–{outer_end}")
+                    elif start < outer_start or end > outer_end:
+                        # An umbrella covers its members: a constituent or a
+                        # hosted conference falling outside the week is either
+                        # a date mistake or an umbrella span that was never
+                        # widened to fit.
+                        self.report.warn(where, f"runs {start}–{end}, outside "
+                                                f"{ref}'s {outer_start}–{outer_end}")
 
         # A loop would hang anything that walks the chain.
         for start_ref in containers:
