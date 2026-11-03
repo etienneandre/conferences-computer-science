@@ -861,6 +861,67 @@ class Conference:
         return sorted(self.editions, key=lambda e: e.year, reverse=True)
 
     @property
+    def gender_history(self) -> dict | None:
+        """Who led each edition, counted, and pooled across the series.
+
+        Only counts. `gender_balance = "mixed"` on its own is a verdict with
+        no arithmetic behind it, and averaging verdicts would invent a
+        precision the data does not have — so an edition that records only
+        the word is left out of both the chart and the total.
+
+        Chairs and invited speakers are pooled, as they are on an edition
+        page: the claim is about who was chosen to lead. The programme
+        committee is a different population — tens of people rather than a
+        handful — and is reported beside, never added in, because a large
+        mixed committee must not be able to offset an all-male platform.
+
+        The total is people-weighted: every chair and speaker counts once,
+        so a year with eight of them weighs more than a year with two. The
+        alternative, averaging each year's share, would let a single edition
+        with two chairs move the figure as much as one with ten. The caption
+        says which of the two the reader is looking at.
+
+        None below two editions: a single year is already on its own page,
+        and a trend drawn through one point is not a trend.
+        """
+        def pooled(rows: list[dict]) -> dict:
+            women = sum(r["women"] for r in rows)
+            men = sum(r["men"] for r in rows)
+            other = sum(r["other"] for r in rows)
+            total = women + men + other
+            return {"women": women, "men": men, "other": other, "total": total,
+                    "share": round(100 * (women + other) / total) if total else 0,
+                    "editions": len(rows)}
+
+        leaders, committee = [], []
+        for edition in sorted(self.editions, key=lambda e: e.year):
+            counts = edition.gender_counts
+            if counts:
+                leaders.append({"year": edition.year, "url": edition.url,
+                                "women": counts["women"], "men": counts["men"],
+                                "other": counts["other"], "total": counts["total"],
+                                "chairs": counts["chairs"], "speakers": counts["speakers"]})
+            seats = edition.committee_counts
+            if seats:
+                committee.append({"year": edition.year, "url": edition.url,
+                                  "women": seats["women"], "men": seats["men"],
+                                  "other": seats["other"], "total": seats["total"]})
+
+        if len(leaders) < 2 and len(committee) < 2:
+            return None
+        return {
+            "years": leaders if len(leaders) >= 2 else [],
+            "total": pooled(leaders) if len(leaders) >= 2 else None,
+            "committee_years": committee if len(committee) >= 2 else [],
+            "committee_total": pooled(committee) if len(committee) >= 2 else None,
+            # Editions that say "mixed" and nothing more: counted, so the
+            # caption can say how much of the series the figures cover.
+            "unquantified": sum(1 for e in self.editions
+                                if e.gender_counts is None
+                                and e.review.get("gender_balance")),
+        }
+
+    @property
     def membership_grid(self) -> dict:
         """Who was in this umbrella, year by year.
 

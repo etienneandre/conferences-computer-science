@@ -204,6 +204,42 @@
       {% include "_ratechart.html.j2" with context %}
     </section>
     {% endif %}
+
+    {% set gender = conference.gender_history %}
+    {% if gender %}
+    <section class="panel">
+      <h2 class="panel-title">Who led each edition</h2>
+      <p class="genderkey" aria-hidden="true">
+        <span><i class="g-w"></i> women</span>
+        <span><i class="g-o"></i> another gender</span>
+        <span><i class="g-m"></i> men</span>
+      </p>
+
+      {% if gender.years %}
+      <p class="field-label">Chairs and invited speakers</p>
+      {% set rows = gender.years %}
+      {% set total = gender.total %}
+      {% set label = 'chairs and invited speakers' %}
+      {% include "_genderchart.html.j2" with context %}
+      {% endif %}
+
+      {% if gender.committee_years %}
+      <p class="field-label">Programme committee</p>
+      {% set rows = gender.committee_years %}
+      {% set total = gender.committee_total %}
+      {% set label = 'committee members' %}
+      {% include "_genderchart.html.j2" with context %}
+      {% endif %}
+
+      <p class="chart-caption">Only editions with counted people appear: an
+        edition recorded as mixed and nothing more has no arithmetic behind it
+        {%- if gender.unquantified %}, and {{ gender.unquantified }} of them
+        {{ 'is' if gender.unquantified == 1 else 'are' }} left out on that
+        ground{% endif %}. The total counts people, not years, so an edition
+        with eight chairs weighs more than one with two. The committee is
+        reported beside the platform, never added to it.</p>
+    </section>
+    {% endif %}
   </div>
 
   <aside>

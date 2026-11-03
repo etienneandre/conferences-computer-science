@@ -584,6 +584,36 @@ footer .disclaimer { color: var(--ink-soft); }
 }
 .rv small { font-weight: 400; color: var(--ink-faint); font-size: .82em; }
 
+/* Gender balance ----------------------------------------------------------- */
+/* The same row layout as the acceptance rates, but the bar is divided rather
+   than filled, so the three segments sit side by side instead of stacking on
+   top of each other at the left edge. */
+.genderchart .rb {
+  display: flex; overflow: hidden;
+  background-image: none;     /* the 30% mid-line belongs to the rate chart */
+}
+.genderchart .rb i {
+  position: static; inset: auto; width: auto;
+  flex: 0 0 var(--w, 0); border-radius: 0; opacity: 1;
+}
+.genderchart .ry a { color: var(--ink-soft); text-decoration: none; }
+.genderchart .ry a:hover { color: var(--accent); text-decoration: underline; }
+/* Three tones from the existing palette, and never the only signal: every
+   segment carries a title and the counts are written beside the bar.
+   Scoped to two classes deep on purpose: `.rb i` already sets a background
+   for the acceptance bars, and a bare `.g-w` loses to it. */
+.genderchart .g-w, .genderkey .g-w { background: var(--accent); }
+.genderchart .g-o, .genderkey .g-o { background: var(--d2); }
+.genderchart .g-m, .genderkey .g-m { background: var(--past); }
+.genderkey {
+  display: flex; flex-wrap: wrap; gap: .25rem .9rem; margin: 0 0 .6rem;
+  font: 400 .72rem/1.4 var(--font-data); color: var(--ink-faint);
+}
+.genderkey span { display: inline-flex; align-items: center; gap: .3rem; }
+.genderkey i { width: 10px; height: 10px; border-radius: 2px; flex: none; }
+.genderpooled { margin: .5rem 0 1rem; }
+.genderpooled dd { color: var(--ink-soft); }
+
 .chart-caption {
   font: 400 .74rem/1.5 var(--font-ui); color: var(--ink-faint); margin: .55rem 0 0;
 }
