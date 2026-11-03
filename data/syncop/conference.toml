@@ -1,7 +1,7 @@
 # SynCoP — migrated from the legacy data file
-# Review: complete_since is unset, meaning coverage is unknown.
 acronym = "SynCoP"
 name = "International Workshop on Synthesis of Complex Parameters"
+workshop = true
 
 [core]
 rank = "absent"

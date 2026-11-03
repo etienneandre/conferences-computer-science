@@ -25,6 +25,13 @@
     {% if edition.website and not edition.website_dead %}
     <a class="ext" href="{{ edition.website }}" title="Conference website (external)" aria-label="{{ edition.acronym }} website"><svg aria-hidden="true"><use href="#ext"/></svg></a>
     {% endif %}
+    {# Which week this one belongs to: an umbrella for a member conference,
+       the host conference for an affiliated workshop. The reader scanning
+       for ETAPS should find its four conferences without opening anything. #}
+    {% if edition.inside %}
+    <a class="under" href="{{ edition.inside.url }}"
+       title="{{ 'Part of' if edition.role != 'workshop' else 'Affiliated to' }} {{ edition.inside.acronym }}">{{ edition.inside.acronym }}</a>
+    {% endif %}
   </td>
   <td class="c-dead">
     {% if paper %}

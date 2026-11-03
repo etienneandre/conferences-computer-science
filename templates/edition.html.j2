@@ -146,7 +146,9 @@
     {% endif %}
 
     <section class="panel">
-      <h2 class="panel-title">What to submit</h2>
+      {# Nothing is submitted to an umbrella: the call belongs to its members.
+         The panel still carries the facts that are not about submitting. #}
+      <h2 class="panel-title">{{ 'This event' if conference.umbrella else 'What to submit' }}</h2>
       <dl class="factlist">
         {% if edition.format %}
         <dt>Format</dt><dd>{{ edition.format }}</dd>
@@ -286,6 +288,41 @@
   </div>
 
   <aside>
+    {% if edition.inside %}
+    <section class="panel">
+      <h2 class="panel-title">{{ 'Affiliated to' if edition.role == 'workshop' else 'Part of' }}</h2>
+      {# The chain, not just the parent: CAV 2014 was inside FLoC 2014, which
+         was inside the Summer of Logic. Innermost first, as a path reads. #}
+      <p class="chain">
+        {%- for step in edition.chain %}
+        <a href="{{ step.url }}">{{ step.acronym }}</a>{% if not loop.last %} <span class="sep">&rarr;</span> {% endif %}
+        {%- endfor %}
+      </p>
+      {% if edition.siblings %}
+      <p class="detail-note">Alongside
+        {% for other in edition.siblings | sort(attribute='conference.acronym') -%}
+        <a href="{{ other.url }}">{{ other.acronym }}</a>{% if not loop.last %}, {% endif %}
+        {%- endfor %}.</p>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    {% if edition.members %}
+    <section class="panel">
+      <h2 class="panel-title">What met here</h2>
+      {% for role, group in edition.members_by_role %}
+      {% set label = enum('membership', role) %}
+      <p class="field-label">{{ label.get('plural', label.get('label', role)) }}</p>
+      <ul class="memberlist">
+        {% for member in group %}
+        <li><a href="{{ member.url }}">{{ member.acronym }}</a>
+          <span class="where">{{ member.conference.name }}</span></li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </section>
+    {% endif %}
+
     {% if place.name and not edition.online %}
     <section class="panel">
       <h2 class="panel-title">Where</h2>

@@ -55,9 +55,15 @@
         </thead>
         <tbody>
           {% for e in place.listed_editions %}
-          <tr{% if e.status in ('cancelled', 'no-edition', 'postponed') %} class="struck"{% endif %}>
+          {# An umbrella and its members are five rows for one week. Kept as
+             five, because each is a real edition with its own page, but the
+             umbrella is marked so the week reads as a week. #}
+          <tr class="{% if e.status in ('cancelled', 'no-edition', 'postponed') %}struck {% endif %}
+                     {%- if e.conference.umbrella %}is-umbrella{% endif %}">
             <td class="yr"><a href="{{ e.url }}">{{ e.key }}</a></td>
             <td><a href="{{ e.conference.url }}">{{ e.conference.acronym }}</a>
+              {%- if e.conference.umbrella %} <span class="umbrella-mark" title="An umbrella event: several conferences under one banner">umbrella</span>{% endif %}
+              {%- if e.inside %} <span class="under-mark">in {{ e.inside.acronym }}</span>{% endif %}
               <span class="where">{{ e.conference.name }}</span></td>
             <td>{{ e.held }}</td>
             <td>{% if e.paper %}{{ e.paper.effective | date }}{% else %}&mdash;{% endif %}</td>

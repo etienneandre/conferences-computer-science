@@ -2,6 +2,7 @@
 # Review: complete_since is unset, meaning coverage is unknown.
 acronym = "PNSE"
 name = "International Workshop on Petri Nets and Software Engineering"
+workshop = true
 
 [core]
 rank = "absent"  # TODO: verify

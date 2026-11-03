@@ -292,3 +292,30 @@ description = "aimed at a continent or a language area"
 [scope.national]
 label = "National"
 description = "aimed at one country's community"
+
+
+################################################################################
+# Membership and relationship
+################################################################################
+
+# ---------------------------------------------------------------------------
+# membership — what an edition is, inside the one that contains it.
+#
+# Used twice: on a conference as `umbrella`, to say what its members are by
+# default, and on an edition as `event.part_of_role`, to override that.
+# ---------------------------------------------------------------------------
+
+[membership.constituent]
+label = "Constituent conference"
+plural = "Constituent conferences"
+description = "Part of the umbrella itself; it does not meet separately."
+
+[membership.hosted]
+label = "Hosted conference"
+plural = "Hosted conferences"
+description = "An independent conference, meeting inside the umbrella this year."
+
+[membership.workshop]
+label = "Affiliated workshop"
+plural = "Affiliated workshops"
+description = "A workshop attached to the event."

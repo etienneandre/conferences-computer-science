@@ -261,6 +261,12 @@ class Edition:
     previous: "Edition | None" = None
     following: "Edition | None" = None
     colocated: list["Edition"] = field(default_factory=list)
+    # The edition this one took place inside — an umbrella event, or the
+    # conference a workshop is affiliated to — and the editions inside this
+    # one. Both are resolved in pass 2 from `event.part_of`, which is declared
+    # on the inner edition only.
+    inside: "Edition | None" = None
+    members: list["Edition"] = field(default_factory=list)
     # When the file this came from was last edited. Used as DTSTAMP, so a
     # calendar entry only changes when its data does — not on every build.
     source_mtime: datetime | None = None
@@ -308,7 +314,15 @@ class Edition:
     # -- identity --------------------------------------------------------
     @property
     def acronym(self) -> str:
-        return f"{self.conference.acronym} {self.key}"
+        """Usually the series acronym and the year, but not always.
+
+        CONFEST becomes CONFESTA in the years SETTA joins it. The name is a
+        fact about that edition, not something derivable from its membership:
+        deriving it would be wrong the first year they keep the roster and
+        change the name, or the reverse.
+        """
+        own = (self.raw.get("acronym") or "").strip()
+        return f"{own or self.conference.acronym} {self.key}"
 
     @property
     def url(self) -> str:
@@ -638,6 +652,81 @@ class Edition:
         return [r for r in refs if isinstance(r, str)]
 
     @property
+    def part_of_ref(self) -> str | None:
+        """`slug/key` of the edition this one took place inside, if any.
+
+        One target, not a list: a workshop belongs to one conference, and an
+        edition sits under one umbrella. Nesting is what covers the rest —
+        CAV 2014 inside FLoC 2014 inside the Summer of Logic — and it is
+        resolved by following this one step at a time.
+        """
+        ref = self.event.get("part_of")
+        return ref if isinstance(ref, str) and ref.strip() else None
+
+    @property
+    def declared_role(self) -> str | None:
+        role = (self.event.get("part_of_role") or "").strip()
+        return role or None
+
+    @property
+    def role(self) -> str:
+        """What this edition is, inside the one that contains it.
+
+        Declared if it says so; otherwise inferred from the container. A
+        series marked as an umbrella says what its members are — ETAPS has
+        constituents, FLoC hosts independent conferences. Anything inside an
+        ordinary conference is a workshop, which is what it almost always is.
+        """
+        if self.declared_role:
+            return self.declared_role
+        # Being a workshop is a property of the series, not of one year of it:
+        # VORTEX is a workshop at ETAPS and a workshop anywhere else. Declared
+        # once on the series, it needs saying in no edition file.
+        if self.conference.is_workshop:
+            return "workshop"
+        if self.inside is not None:
+            return self.inside.conference.umbrella or "workshop"
+        return "workshop"
+
+    @property
+    def chain(self) -> list["Edition"]:
+        """The containers above this edition, innermost first.
+
+        Bounded rather than recursive: a cycle is reported by check.py, but
+        the generator must not hang on data that reaches it anyway.
+        """
+        out: list[Edition] = []
+        current, seen = self.inside, {id(self)}
+        while current is not None and id(current) not in seen and len(out) < 8:
+            out.append(current)
+            seen.add(id(current))
+            current = current.inside
+        return out
+
+    @property
+    def siblings(self) -> list["Edition"]:
+        """The other editions under the same container, if any."""
+        if self.inside is None:
+            return []
+        return [e for e in self.inside.members if e is not self]
+
+    @property
+    def members_by_role(self) -> list[tuple[str, list["Edition"]]]:
+        """Members grouped for display, in a deliberate order.
+
+        Constituents first — they are what the umbrella is — then conferences
+        merely hosted this year, then workshops, which are the long tail.
+        """
+        order = ("constituent", "hosted", "workshop")
+        groups: dict[str, list[Edition]] = {}
+        for member in self.members:
+            groups.setdefault(member.role, []).append(member)
+        for bucket in groups.values():
+            bucket.sort(key=lambda e: e.conference.acronym.lower())
+        known = [(role, groups.pop(role)) for role in order if role in groups]
+        return known + sorted(groups.items())
+
+    @property
     def joint_target(self) -> tuple[str, str] | None:
         ref = self.raw.get("joint_with")
         if isinstance(ref, str) and "/" in ref:
@@ -661,6 +750,28 @@ class Conference:
     @property
     def name(self) -> str:
         return self.raw["name"]
+
+    @property
+    def is_workshop(self) -> bool:
+        """A workshop series rather than a conference.
+
+        Absent means a conference, in the usual tri-state way. It decides how
+        the series is described wherever it appears inside something else —
+        and it is a fact about the series, so it is recorded once rather than
+        on every edition.
+        """
+        return bool(self.raw.get("workshop"))
+
+    @property
+    def umbrella(self) -> str | None:
+        """What this series' members are, when it is an umbrella at all.
+
+        `constituent` for ETAPS, whose conferences have no life outside it;
+        `hosted` for FLoC, where independent annual conferences meet together
+        every few years. Absent for an ordinary conference — which can still
+        contain things, but those are workshops.
+        """
+        return (self.raw.get("umbrella") or "").strip() or None
 
     @property
     def url(self) -> str:
@@ -748,6 +859,70 @@ class Conference:
     @property
     def listed_editions(self) -> list[Edition]:
         return sorted(self.editions, key=lambda e: e.year, reverse=True)
+
+    @property
+    def membership_grid(self) -> dict:
+        """Who was in this umbrella, year by year.
+
+        The question somebody actually has about ETAPS is not "who is in it"
+        but "when did FoSSaCS join, and when did CC leave". A roster for the
+        current year cannot answer that; a grid can, and it is derived
+        entirely from the `part_of` lines on the member editions, so it cannot
+        disagree with them.
+
+        Years run oldest first, which is how a timeline reads.
+        """
+        years = sorted({e.year for e in self.editions if e.members})
+        if not years:
+            return {"years": [], "rows": []}
+
+        seen: dict[str, dict] = {}
+        for edition in self.editions:
+            for member in edition.members:
+                row = seen.setdefault(member.slug, {
+                    "conference": member.conference,
+                    "role": member.role,
+                    "years": {},
+                })
+                row["years"][edition.year] = member
+
+        rows = sorted(
+            seen.values(),
+            key=lambda r: (("constituent", "hosted", "workshop").index(r["role"])
+                           if r["role"] in ("constituent", "hosted", "workshop") else 9,
+                           min(r["years"]), r["conference"].acronym.lower()))
+        for row in rows:
+            row["first"] = min(row["years"])
+            row["last"] = max(row["years"])
+            # A gap inside a run is a conference that left and came back, which
+            # is worth seeing; one at the ends is simply when it joined or left.
+            row["gaps"] = [y for y in years
+                           if row["first"] < y < row["last"] and y not in row["years"]]
+        return {"years": years, "rows": rows}
+
+    @property
+    def homes(self) -> list[dict]:
+        """The umbrellas this series has met under, with the span.
+
+        For TACAS this is the whole story of the series; for CAV it is an
+        occasional episode. Either way it belongs on the conference page, and
+        it is derived rather than declared.
+        """
+        found: dict[str, dict] = {}
+        for edition in self.editions:
+            container = edition.inside
+            if container is None:
+                continue
+            entry = found.setdefault(container.slug, {
+                "conference": container.conference,
+                "role": edition.role,
+                "years": [],
+            })
+            entry["years"].append(edition.year)
+        for entry in found.values():
+            entry["first"], entry["last"] = min(entry["years"]), max(entry["years"])
+            entry["count"] = len(entry["years"])
+        return sorted(found.values(), key=lambda e: (-e["count"], e["first"]))
 
     @property
     def rated_editions(self) -> list[Edition]:
@@ -1022,6 +1197,7 @@ class Site:
             edition.deadlines = self._deadlines(edition)
 
         self._link_colocated()
+        self._link_umbrellas()
         self._resolve_places()
 
     def _resolve_places(self) -> None:
@@ -1076,6 +1252,55 @@ class Site:
                 country = Country(code=code, name=name, slug=slugify(name))
                 self.countries[code] = country
             country.cities.append(place)
+
+    def _link_umbrellas(self) -> None:
+        """Resolve `event.part_of`, and derive everything that follows.
+
+        Declared on the inner edition only, for the same reason co-location is
+        declared once: a roster kept on the umbrella has to be pruned in a
+        file you are not editing, and membership changes — a conference
+        leaving ETAPS, a new one joining — are precisely what goes stale that
+        way. Here, leaving is the absence of a line.
+
+        Siblinghood falls out for free: everything under one umbrella edition
+        sits beside everything else under it, so four members need four
+        declarations rather than six pairwise ones, and five need five rather
+        than ten. It is kept separate from `colocated` all the same — under
+        the same banner and merely next door are different facts, and a page
+        that conflates them tells the reader less, not more.
+        """
+        by_key = {f"{e.slug}/{e.key}": e for e in self.editions}
+
+        for edition in self.editions:
+            ref = edition.part_of_ref
+            if ref is None:
+                continue
+            target = by_key.get(ref)
+            if target is None:
+                self.warn(f"{edition.slug}/{edition.key}: part_of names "
+                          f"{ref!r}, which does not exist")
+                continue
+            if target is edition:
+                self.warn(f"{edition.slug}/{edition.key}: part of itself")
+                continue
+            edition.inside = target
+            target.members.append(edition)
+
+        # A cycle would make `chain` and every page that walks it meaningless.
+        # Break it here, after reporting, so the rest of the build is sane.
+        for edition in self.editions:
+            seen, current = {id(edition)}, edition.inside
+            while current is not None:
+                if id(current) in seen:
+                    self.warn(f"{edition.slug}/{edition.key}: part_of forms a "
+                              f"loop through {current.slug}/{current.key}; "
+                              f"the link has been dropped")
+                    if edition.inside is not None:
+                        edition.inside.members.remove(edition)
+                        edition.inside = None
+                    break
+                seen.add(id(current))
+                current = current.inside
 
     def _link_colocated(self) -> None:
         """Resolve `event.colocated_with`, and make the relation symmetric.

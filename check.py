@@ -58,6 +58,12 @@ CONFERENCE_SPEC: dict = {
     "aliases": ("list", "str"),
     "topics": ("list", "str"),
     "frequency": "str",
+    # Marks the series as an umbrella, and says what its members are by
+    # default: `constituent` for ETAPS, `hosted` for FLoC.
+    "umbrella": ("enum", "membership"),
+    # A workshop series rather than a conference. Decides how it is described
+    # wherever it appears inside something else.
+    "workshop": "bool",
     "scope": ("enum", "scope"),
     "languages": ("list", "str"),
     "homepage": "str",
@@ -102,6 +108,9 @@ _ROUND_SPEC = {"name": "str", "rebuttal_start": "date", "rebuttal_end": "date",
 
 EDITION_SPEC: dict = {
     "edition": "int",
+    # Overrides the series acronym for this edition alone: CONFEST becomes
+    # CONFESTA in the years SETTA joins it.
+    "acronym": "str",
     "title": "str",
     "url": "str",
     "url_dead": "bool",
@@ -115,6 +124,11 @@ EDITION_SPEC: dict = {
         "online": "bool",
         "hybrid": "bool",
         "colocated_with": ("list", "str"),
+        # The edition this one took place inside: an umbrella event, or the
+        # conference a workshop is affiliated to. Declared here only, never
+        # on the container.
+        "part_of": "str",
+        "part_of_role": ("enum", "membership"),
         # Transitional: free-text dates the migration could not parse.
         "dates_text": "str",
     }),
@@ -738,8 +752,11 @@ class Checker:
                 self.report.error(where, f"cfp[{i}] refers to `{name}`, "
                                          f"which does not exist")
 
-        # A future edition with nothing to show is usually an oversight.
-        if year >= date.today().year and "status" not in edition:
+        # A future edition with nothing to show is usually an oversight —
+        # except for an umbrella, which has no call of its own. You do not
+        # submit to ETAPS, you submit to TACAS.
+        if (year >= date.today().year and "status" not in edition
+                and not self.slugs.get(slug, {}).get("umbrella")):
             has_deadline = any(effective(g, "paper")
                                for _, g in deadline_groups(edition))
             if not has_deadline:
@@ -831,6 +848,10 @@ class Checker:
                 elif other == slug:
                     self.report.error(where, "`predecessors` names the conference itself")
 
+            if conf.get("workshop") and conf.get("umbrella"):
+                self.report.error(where, "`workshop` and `umbrella` are "
+                                         "mutually exclusive")
+
             if slug in self.aliases:
                 self.report.error(where, f"slug `{slug}` is also an alias of "
                                          f"`{self.aliases[slug]}`")
@@ -878,6 +899,88 @@ class Checker:
                 elif edition.get("status") != "joint":
                     self.report.warn(where, "`joint_with` without "
                                             "`status = \"joint\"`")
+
+    def check_umbrellas(self) -> None:
+        """Validate `part_of`, and the facts that have to agree with it.
+
+        The reference itself is checked like any other, but two of these are
+        consistency warnings rather than errors: the point of repeating the
+        city and the dates on every member — rather than inheriting them — is
+        that each file says what it says, and the price of that is somebody
+        has to notice when two files disagree. This is that somebody.
+        """
+        containers: dict[str, str] = {}   # "slug/key" -> its own part_of, if any
+        members: dict[str, list[str]] = defaultdict(list)
+
+        for slug, editions in self.editions.items():
+            for key, edition in editions.items():
+                where = f"{slug}/{key}.toml"
+                event = edition.get("event", {}) or {}
+                ref = event.get("part_of")
+                if ref is None:
+                    continue
+
+                match = RE_REF.match(ref) if isinstance(ref, str) else None
+                if not match:
+                    self.report.error(where, f"`part_of` must look like "
+                                             f"`slug/year`, got {ref!r}")
+                    continue
+                if ref == f"{slug}/{key}":
+                    self.report.error(where, "`part_of` names this edition")
+                    continue
+
+                target_slug, target_key = match.groups()
+                target = self.editions.get(target_slug, {}).get(target_key)
+                if target is None:
+                    self.report.error(where, f"`part_of` names `{ref}`, which "
+                                             f"does not exist")
+                    continue
+
+                containers[f"{slug}/{key}"] = ref
+                members[ref].append(f"{slug}/{key}")
+
+                host = self.slugs.get(target_slug, {})
+                if not host.get("umbrella") and not event.get("part_of_role"):
+                    # Not an error: a workshop inside an ordinary conference is
+                    # the common case and needs no ceremony. Worth saying once,
+                    # because the inferred role is what the page will print.
+                    self.report.warn(where, f"`part_of` names `{ref}`, which is "
+                                            f"not an umbrella; treated as a workshop")
+
+                target_event = target.get("event", {}) or {}
+                city, target_city = event.get("city"), target_event.get("city")
+                if city and target_city and city != target_city:
+                    self.report.warn(where, f"city {city!r} differs from "
+                                            f"{ref}'s {target_city!r}")
+
+                start, end = event.get("start"), event.get("end") or event.get("start")
+                outer_start = target_event.get("start")
+                outer_end = target_event.get("end") or outer_start
+                if (isinstance(start, date) and isinstance(outer_start, date)
+                        and isinstance(end, date) and isinstance(outer_end, date)
+                        and (start < outer_start or end > outer_end)):
+                    self.report.warn(where, f"runs {start}–{end}, outside "
+                                            f"{ref}'s {outer_start}–{outer_end}")
+
+        # A loop would hang anything that walks the chain.
+        for start_ref in containers:
+            seen, current = {start_ref}, containers.get(start_ref)
+            while current is not None:
+                if current in seen:
+                    self.report.error(f"{start_ref}.toml",
+                                      f"`part_of` forms a loop through `{current}`")
+                    break
+                seen.add(current)
+                current = containers.get(current)
+
+        for slug, conf in self.slugs.items():
+            if not conf.get("umbrella"):
+                continue
+            empty = [key for key in self.editions.get(slug, {})
+                     if not members.get(f"{slug}/{key}")]
+            for key in sorted(empty):
+                self.report.warn(f"{slug}/{key}.toml",
+                                 "umbrella edition with no member naming it")
 
     # -- pass 3: whole-corpus counters ------------------------------------
 
@@ -994,6 +1097,7 @@ def main() -> int:
     checker.read(args.only)
     checker.check_gazetteer()
     checker.check_references()
+    checker.check_umbrellas()
     checker.count_markers(args.only)
     if args.network:
         checker.check_urls()

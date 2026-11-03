@@ -79,8 +79,12 @@
       <h2 class="panel-title">Editions</h2>
       <table class="editions">
         <thead>
+          {# An umbrella has no call, no acceptance rate and no proceedings of
+             its own — three columns of em dashes. What it has instead is a
+             roster, which is the thing worth a column. #}
           <tr><th>Year</th><th class="num">Ed.</th><th>Held</th><th>Where</th>
-            <th>Paper deadline</th><th class="num">Accepted</th><th class="num">Rate</th></tr>
+            {% if conference.umbrella %}<th>What met</th>
+            {% else %}<th>Paper deadline</th><th class="num">Accepted</th><th class="num">Rate</th>{% endif %}</tr>
         </thead>
         <tbody>
           {# Consecutive edition numbers across a gap year mean the conference simply
@@ -93,7 +97,7 @@
           {% set contiguous = ns.previous_edition and e.raw.get('edition')
                               and ns.previous_edition - e.raw.edition == 1 %}
           {% if not contiguous %}
-          <tr class="gap"><td colspan="7">
+          <tr class="gap"><td colspan="{{ 5 if conference.umbrella else 7 }}">
             {% if conference.complete_since and missing | min >= conference.complete_since %}
             no edition in {{ missing | join(', ') }}
             {% else %}
@@ -128,6 +132,14 @@
                 {%- if p.get('url') %}<a class="placelink" href="{{ p.url }}">{{ p.display }}</a>
                 {%- else %}{{ p.display }}{% endif %} {{ p.flag }}
               {%- else %}&mdash;{% endif %}</td>
+            {% if conference.umbrella %}
+            <td>
+              {%- if e.members %}
+              {%- for member in e.members_by_role %}{% for m in member[1] %}
+              <a href="{{ m.url }}">{{ m.conference.acronym }}</a>{% if not loop.last %}, {% endif %}
+              {%- endfor %}{% if not loop.last %}; {% endif %}{% endfor %}
+              {%- else %}&mdash;{% endif %}</td>
+            {% else %}
             <td>
               {% if e.status in ('cancelled', 'no-edition') %}&mdash;
               {% elif paper %}{{ paper.effective | date(false) }}
@@ -142,6 +154,7 @@
               {%- else -%}&mdash;{%- endif -%}
             </td>
             <td class="num">{% if e.rate %}{{ e.rate | round | int }}%{% else %}&mdash;{% endif %}</td>
+            {% endif %}
           </tr>
           {% endfor %}
         </tbody>
@@ -151,6 +164,39 @@
         coverage before {{ conference.first_year }} has not been verified.</p>
       {% endif %}
     </section>
+
+    {% if conference.umbrella and conference.membership_grid.years %}
+    {% set grid = conference.membership_grid %}
+    <section class="panel">
+      <h2 class="panel-title">Who was in it, year by year</h2>
+      <table class="editions grid">
+        <thead>
+          <tr><th>Conference</th>
+            {% for year in grid.years %}<th class="num yr-col" title="{{ year }}">{{ year % 100 }}</th>{% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in grid.rows %}
+          <tr>
+            <td><a href="{{ row.conference.url }}">{{ row.conference.acronym }}</a>
+              {%- if row.role == 'workshop' %} <span class="role">workshop</span>{% endif %}</td>
+            {% for year in grid.years %}
+            {% set member = row.years.get(year) %}
+            <td class="num cell">
+              {%- if member %}<a href="{{ member.url }}" title="{{ member.acronym }}">&bull;</a>
+              {%- elif row.first < year < row.last %}<span class="gap-cell" title="Not part of it that year">&ndash;</span>
+              {%- endif %}</td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <p class="chart-caption">Derived from the member editions themselves, so
+        it cannot disagree with them. A dash inside a run is a conference that
+        left and came back; nothing at the ends is simply when it joined or
+        stopped.</p>
+    </section>
+    {% endif %}
 
     {% if conference.rated_editions %}
     <section class="panel">
@@ -197,6 +243,19 @@
         Ranks before {{ conference.core_history[0]['from'] }} are unknown.
         {% endif %}
       </p>
+    </section>
+    {% endif %}
+
+    {% if conference.homes %}
+    <section class="panel">
+      <h2 class="panel-title">Met under</h2>
+      <dl class="factlist">
+        {% for home in conference.homes %}
+        <dt><a href="{{ home.conference.url }}">{{ home.conference.acronym }}</a></dt>
+        <dd>{{ home.first }}{% if home.last != home.first %}&ndash;{{ home.last }}{% endif %}
+          &middot; {{ home.count }} edition{{ 's' if home.count != 1 }}</dd>
+        {% endfor %}
+      </dl>
     </section>
     {% endif %}
 
