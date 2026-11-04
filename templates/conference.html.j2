@@ -37,6 +37,20 @@
     <span class="item">Reach<b>{{ enum('scope', conference.scope).get('label', conference.scope) }}
       {%- if conference.languages %} &middot; {{ conference.languages | join(', ') }}{% endif %}</b></span>
     {% endif %}
+    {% if licensing %}
+    {# A badge rather than a word: whether a reader will be able to read what
+       they publish is one of the few things they decide on at a glance. #}
+    <span class="item">Proceedings<b><span class="lic badge" data-open="{{ licensing.openness }}"
+      title="{{ licensing.licence }}, as of {{ licensing.year }}">{{ licensing.label }}</span>
+      {%- if licensing.changed %} <small>since {{ licensing.since }}</small>{% endif %}</b></span>
+    {% endif %}
+    {% if gender and gender.leaders_band %}
+    {# Carried up here because a reader who never scrolls should still see it,
+       and because a figure buried four panels down is a figure nobody acts on. #}
+    <span class="item">Chairs &amp; speakers<b class="genderflag"
+      data-band="{{ gender.leaders_band.band }}">{{ gender.total.women + gender.total.other }}
+      of {{ gender.total.total }} <small>women, {{ gender.leaders_band.expected }} expected</small></b></span>
+    {% endif %}
   </div>
 
   {% if conference.defunct or conference.one_off or conference.successors %}
@@ -228,6 +242,28 @@
     {% if gender %}
     <section class="panel">
       <h2 class="panel-title">Who led each edition</h2>
+      {% set band = gender.leaders_band %}
+      {% if band and band.band in ('none', 'far-below') %}
+      {# The house banner, in the register the numbers earn. The wording stays
+         factual and the arithmetic is given, because the point is that the
+         reader can check it rather than take our word. #}
+      <div class="status-banner" data-band="{{ band.band }}">
+        <span class="lead">{{ 'None at all' if band.band == 'none' else 'Well below' }}</span>
+        <p>{% if band.band == 'none' %}
+          Not one of the {{ gender.total.total }} chairs and invited speakers
+          recorded here was a woman or of another gender. At this site's own
+          rate of {{ band.rate }}%, {{ band.expected }} would be the
+          expectation, and a platform this size would be all men less than
+          once in twenty times.
+          {% else %}
+          {{ gender.total.women + gender.total.other }} of
+          {{ gender.total.total }} chairs and invited speakers were women or
+          of another gender, against {{ band.expected }} at this site's own
+          rate of {{ band.rate }}%. A shortfall this large would happen by
+          chance less than once in twenty times.
+          {% endif %}</p>
+      </div>
+      {% endif %}
       <p class="genderkey" aria-hidden="true">
         <span><i class="g-w"></i> women</span>
         {# Only when somebody is recorded as such: a key entry for an empty

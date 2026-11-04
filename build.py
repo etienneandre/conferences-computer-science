@@ -1887,6 +1887,47 @@ def gender_report(site: Site, conference: Conference) -> dict | None:
     return report
 
 
+def series_licence(site: Site, conference: Conference) -> dict | None:
+    """How this series publishes, as of its most recent recorded licence.
+
+    The most recent, not the most frequent: somebody deciding where to send a
+    paper wants to know what will happen to it now, and a conference that
+    went open access last year is an open-access conference whatever the
+    twenty volumes behind it say. The grid lower down carries the history,
+    which is where a reader goes to see that the change is recent.
+
+    `since` is the first year of the current run — the year it last changed
+    to this — so the page can say "open access since 2021" rather than
+    implying it always was.
+    """
+    recorded = [e for e in sorted(conference.editions, key=lambda e: e.year, reverse=True)
+                if isinstance(e.proceedings.get("license"), str)
+                and e.proceedings["license"]]
+    if not recorded:
+        return None
+
+    newest = recorded[0]
+    entry = site.licence(newest.proceedings["license"])
+    openness = entry.get("openness")
+
+    since = newest.year
+    for edition in recorded[1:]:
+        if site.licence(edition.proceedings["license"]).get("openness") != openness:
+            break
+        since = edition.year
+
+    return {
+        "openness": openness,
+        "label": {"yes": "Open access", "free": "Free to read",
+                  "no": "Paywalled"}.get(openness, entry.get("label") or "Unknown"),
+        "licence": entry.get("label"),
+        "year": newest.year,
+        "since": since,
+        # Only worth saying when it is not simply how it has always been.
+        "changed": since > min(e.year for e in recorded),
+    }
+
+
 def practice_timeline(site: Site, conference: Conference) -> dict | None:
     """How the series has reviewed and published, edition by edition.
 
@@ -2075,6 +2116,7 @@ def render(site: Site, env: Environment) -> int:
             map_points=series_map_points(site, conference),
             reach=series_reach(site, conference),
             practices=practice_timeline(site, conference),
+            licensing=series_licence(site, conference),
             gender=gender_report(site, conference)))
         pages += 1
 
