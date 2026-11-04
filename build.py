@@ -1932,7 +1932,7 @@ def practice_timeline(site: Site, conference: Conference) -> dict | None:
     """How the series has reviewed and published, edition by edition.
 
     A grid rather than a set of adoption dates, because adoption is not
-    one-way: conferences have gone double blind and come back, and a
+    one-way: conferences have gone double-anonymous and come back, and a
     rebuttal phase comes and goes with the programme chairs. A date would
     assert a permanence the record does not support; a row of cells shows
     what actually happened, reversals included.
@@ -1963,7 +1963,9 @@ def practice_timeline(site: Site, conference: Conference) -> dict | None:
     rows = [
         {"key": "access", "label": "Proceedings", "kind": "licence",
          "cells": {e.year: openness(e) for e in conference.editions}},
-        {"key": "blind", "label": "Blind review", "kind": "blind",
+        # The data key stays `blind` — it names a field in every edition file
+        # and an enum family — but nothing a reader sees says it.
+        {"key": "blind", "label": "Anonymity", "kind": "blind",
          "cells": {e.year: e.review.get("blind") for e in conference.editions}},
         {"key": "rebuttal", "label": "Rebuttal", "kind": "flag",
          "cells": {e.year: flag(e.review.get("rebuttal")) for e in conference.editions}},

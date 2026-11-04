@@ -165,7 +165,7 @@
         {% if blind is not none and blind is not undefined %}
         <dt>Reviewing</dt><dd>
           {% if blind is string %}{{ enum('blind', blind).label | default(blind) }}
-          {% elif blind is sameas false %}Not blind
+          {% elif blind is sameas false %}Not anonymous
           {% endif %}
         </dd>
         {% endif %}
