@@ -11,7 +11,7 @@ colocated_with = ["popl/2027"]
 [submission]
 tz = "AoE"
 format = "20 pages LNCS + references + appendix (regular / case studies) / 12 pages + references (tool)"
-paper = [2026-09-15]
+paper = [2026-09-15,2026-09-30]
 notification = [2026-11-06]
 
 [proceedings]
