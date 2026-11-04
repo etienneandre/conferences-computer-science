@@ -14,9 +14,19 @@ abstract = [2023-01-16]
 paper = [2023-01-23, 2023-01-30]
 notification = [2023-03-06]
 
+[review]
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 2
+
 [proceedings]
 publisher = "Springer"
 license = "pay-profit"
+doi = "10.1007/978-3-031-33163-3"
 
 [[cfp]]
 file = "cfp/ABZ-2023.txt"
