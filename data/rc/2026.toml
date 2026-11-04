@@ -1,0 +1,40 @@
+edition = 18
+title = "18th Conference on Reversible Computation"
+url = "https://reversible-computation.github.io/2026/"
+
+[event]
+start = 2026-07-09
+end = 2026-07-10
+city = "Torino, Italy"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS + references + appendix (full research papers / tutorials) / 6 pages + references (work-in-progress / tool demonstration papers)"
+abstract = [2026-02-06, 2026-02-21]
+paper = [2026-02-13, 2026-02-28]
+notification = [2026-04-21]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+doi = "10.1007/978-3-032-30839-9"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 1
+women = 1
+
+[stats]
+submitted = 38
+accepted = 17
+# Source: Clément Aubert was co-chairing and edited this file.
+
+[[cfp]]
+file = "cfp/RC-2026.txt"
+stage = "final"

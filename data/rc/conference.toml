@@ -1,0 +1,11 @@
+acronym = "RC"
+name = "International Conference on Reversible Computation"
+
+[core]
+id = "2309"
+[[core.history]]
+from = 2023
+rank = "C"
+
+[links]
+dblp = "rc"

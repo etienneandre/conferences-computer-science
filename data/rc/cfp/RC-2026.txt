@@ -1,0 +1,136 @@
+CfP: REVERSIBLE COMPUTATION 2026 –18th International Conference on Reversible Computation, July 9–10, 2026, Torino, Italy
+
++---------------------------------------------------------+
+|                     Call for papers                     |
++---------------------------------------------------------+
+| REVERSIBLE COMPUTATION 2026                             |
+| 18th International Conference on Reversible Computation |
+| July 9th - July 10th, 2026, Torino, Italy               |
+| <https://reversible-computation.github.io/>             |
++---------------------------------------------------------+
+
+Purpose & Scope
+===============
+
+Reversible computation has a growing number of promising application areas such as low-power electronics, encoding/decoding, debugging, testing and verification, database recovery, discrete event simulation, the modeling of biochemical systems, and reversible algorithms, specification formalisms, programming languages and process algebras. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional CMOS technology.
+
+The 18th edition of the Reversible Computation conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation, including applications of reversibility to quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Contributions on all areas of Reversible Computation are welcome, including---but not limited to---the following topics:
+
+- Applications
+- Architectures
+- Algorithms
+- Bidirectional transformations
+- Circuit Design
+- Debugging
+- Fault Tolerance and Error Correction
+- Hardware
+- Information Theory
+- Physical Realizations
+- Programming Languages
+- Program Transformation and Optimisation
+- Quantum Computation
+- Software
+- Synthesis
+- Theoretical Results
+- Testing
+- Verification
+
+
+Important dates
+===============
+
+Abstract submission: February 21st, 2026 AOE (extended)
+Submission deadline: February 26th, 2026 AOE (extended)
+Notification to authors: April 22nd, 2026 AOE
+Final version: May 13th, 2026 AOE
+Conference: July 9th - July 10th, 2026
+
+
+Submission guidelines
+=====================
+
+The Reversible Computation conference welcomes the following types of submissions:
+
+- full research papers (15 pages maximum, not including references),
+- tutorials (15 pages maximum, not including references),
+- work-in-progress (6 pages maximum, not including references),
+- tool demonstration papers (6 pages maximum, not including references),
+
+to be submitted at <https://easychair.org/conferences?conf=rc2026>. 
+
+Please do not forget to clearly indicate the type of your submission by choosing the proper category on the submission page. Additional material intended for reviewers but not for publication in the final version---for example, details of proofs---may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.
+
+The paper submission will be accepted as a PDF file using Springer's LNCS style (<https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines>).
+Authors are encouraged to include their ORCID (<https://orcid.org/>) number in the paper.
+
+At least one author of each accepted paper is expected to register and present the paper at the conference. We would appreciate if one person would not present more than two papers at the conference: if more than two papers are accepted by a group of authors, we kindly ask that the papers be presented by different co-authors, as far as possible. 
+
+All accepted papers will be included in the conference proceedings and published by Springer as a LNCS volume.
+Proceedings authors will be expected to adhere to Springer's Book Authors' Code of Conduct (<https://www.springernature.com/gp/authors/book-authors-code-of-conduct>). 
+
+Invited Talks
+==============
+
+Reversible Computation 2026 will feature invited talks by Hannah Earley (<https://ha.nnah.io/>) and Prakash Panangaden (<https://www.cs.mcgill.ca/~prakash/>), titled respectively "Reversing the history of computing" and "Quantum Alternation". Abstracts are below, and details can be found at <https://reversible-computation.github.io/invited/>.
+
+Hannah Earley - Reversing the history of computing
+--------------------------------------------------
+
+It is 90 years on from Church and Turing's first publications, changing the world as we know it. Unfortunately, gaps in our knowledge of physics, thermodynamics, and information have baked in inefficiencies alongside these innovations. We are now suffering the consequences. But how can we extirpate them, sustainably and one step at a time, without overhauling the entirety of our technological infrastructure at once? What can we keep? What must we change? What future will this enable? And why now?
+
+Prakash Panangaden - Quantum Alternation
+----------------------------------------
+
+The by now standard paradigm for imperative quantum programming languages is based on Selinger's slogan of quantum data and classical control.  Crucially conditionals are based on testing Booleans, i.e. classical bits.  There have been suggestions that we should "move on" to quantum control constructs where the conditional is based on qubits.  My former student Costin Badescu and I showed that these are problematic: there is no semantics based on the traditional superoperators, the constructs are non-compositional and non-monotone.  In this talk I will give an account of these problems and what we can do about it.
+
+
+Programme Committee
+===================
+
+- Clément Aubert (co-chair) (Augusta University)
+- Bogdan Aman (Academia Română Filiala Iași)
+- Jacques Carette (McMaster University)
+- Kostia Chardonnet (INRIA)
+- Kamalika Datta (Universität Bremen)
+- Alessandra Di Pierro (Università di Verona)
+- Stefano Gogioso (University of Oxford)
+- Anna Gogolińska (Nicolaus Copernicus University in Torun)
+- Robin Kaarsgaard (Syddansk Universitet)
+- Jarkko Kari (Turun yliopisto)
+- Ivan Lanese (Università di Bologna & INRIA)
+- Doriana Medić (Università degli studi di Torino)
+- Uwe Meyer (Universität Gießen)
+- Torben Mogensen (Københavns Universitet)
+- Mathys Rennela
+- Neil J. Ross (Dalhousie University)
+- Luca Roversi (co-chair) (Università degli studi di Torino)
+- Amr Sabry (Indiana University)
+- Irek Ulidowski (University of Leicester & AGH University of Science and Technology)
+- Yasuhiro Takahashi (University of Tsukuba)
+- Shoji Yuen (Nagoya daigaku)
+
+
+Organizing Committee
+====================
+
+- Luca Paolini (chair) (Università degli studi di Torino)
+- Doriana Medić (Università degli studi di Torino)
+- Mario Bifulco (Università degli studi di Torino)
+- Matteo Palazzo (Università degli studi di Torino)
+- Luca Roversi (Università degli studi di Torino)
+
+
+Steering Committee
+==================
+
+- Robert Glück (Københavns Universitet)
+- Ivan Lanese (Università di Bologna & INRIA)
+- Łukasz Mikulski (Uniwersytet Mikołaja Kopernika w Toruniu)
+- Irek Ulidowski (University of Leicester & AGH University of Science and Technology)
+- Germán Vidal (Universitat Politècnica de València)
+
+
+Sponsor & Patronages
+====================
+
+Reversible Computation 2026 is under the patronage of the Università degli studi di Torino (<https://www.unito.it/>) and its Dipartimento di Informatica (<https://informatica.unito.it/do/home.pl>), and is sponsored by Vaire (<https://vaire.co/>).
