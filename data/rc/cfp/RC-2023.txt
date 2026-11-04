@@ -1,0 +1,97 @@
+
+======================================
+           *Call for Papers*
+      *Reversible Computation 2023*
+======================================
+
+  July 18th – 19th, Giessen, Germany
+
+  https://reversible-computation-2023.github.io/site/
+
+------------
+| Scope    |
+------------
+
+Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, debugging, testing and verification, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional CMOS technology.
+
+The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Invited talks by leading international experts will complete the program.
+
+Contributions on all areas of Reversible Computation are welcome, including — but not limited to — the following topics:
+    - Applications
+    - Architectures
+    - Algorithms
+    - Bidirectional transformations
+    - Circuit Design
+    - Debugging
+    - Fault Tolerance and Error Correction
+    - Hardware
+    - Information Theory
+    - Physical Realizations
+    - Programming Languages
+    - Quantum Computation
+    - Software
+    - Synthesis
+    - Theoretical Results
+    - Testing
+    - Verification
+
+-------------------
+| Important dates |
+-------------------
+
+Abstract submission: February 13th, 2023 AOE (extended and strict)
+Submission deadline:  February 20th, 2023 AOE (extended and strict)
+Notification to authors: April 10th, 2023
+Final version: May 1st, 2023
+Conference: July 18 - July 19, 2023
+
+---------------------
+| Program Committee |
+---------------------
+
+Programme Chairs
+
+    Martin Kutrib (Justus-Liebig-Universität Giessen, Germany, kutrib@informatik.uni-giessen.de)
+    Uwe Meyer (Technische Hochschule Mittelhessen, Germany, uwe.meyer@mni.thm.de)
+
+Programme Committee Members
+
+    Clément Aubert (Augusta University, USA)
+    Kamalika Datta (Deutsches Forschungszentrum für künstliche Intelligenz, Bremen, Germany)
+    Reobert Drechsler (Deutsches Forschungszentrum für künstliche Intelligenz, Bremen, Germany)
+    Robert Glück (University of Copenhagen, Denmark)
+    James Hoey (University of Leicester, UK)
+    Ivan Lanese (Università di Bologna/INRIA, Italy)
+    Sylvain Lombardy (Université de Bordeaux, France)
+    Andreas Malcher (Justus-Liebig-Universität Giessen, Germany)
+    Claudio Mezzina (Università di Urbino, Italy)
+    Torben Mogensen (University of Copenhagen, Denmark)
+    Iain Phillips (Imperial College, UK)
+    Giovanni Pighizzini (Università di Milano, Italy)
+    Himanshu Thapliyal(University of Tennessee, Knoxville, USA)
+    Irek Ulidowski (University of Leicester, UK)
+    Robert Wille (Technische Universität München, Germany)
+    Shigeru Yamashita (Ritsumeikan University, Kyoto, Japan
+    Tetsuo Yokoyama (Nanzan University, Japan)
+    Shoji Yuen (Nagoya University, Japan)
+
+---------------------
+| How to Submit     |
+---------------------
+
+To submit a paper to the Reversible Computation conference, please follow these guidelines:
+You can submit (page limit is including references)
+    - Full research papers (16 pages maximum),
+    - Tutorials (16 pages maximum),
+    - Work-in-progress or tool demonstration papers (6 pages maximum).
+
+
+Please do not forget to clearly indicate the type of your submission by choosing the proper category on the submission page. Additional material intended for reviewers but not for publication in the final version — for example, details of proofs — may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.
+
+The paper submission will be accepted as a PDF file using the LNCS style. Further information and templates are available at https://www.springer.com/gp/computerscience/lncs/conference-proceedings-guidelines.
+
+Authors are encouraged to include their ORCID's in the paper.
+Author(s) of accepted papers are expected to participate in the conference and to present their papers. We would appreciate if one person would not present more than two papers at the conference. If more than two papers are accepted by a group of authors, we kindly ask that the papers be presented by different co-authors, as far as possible. PC chairs and general chairs are not permitted to submit papers to the conference.
+All accepted papers will be included in the conference proceedings and published by Springer as a Lecture Notes in Computer Science (LNCS) volume.
+
+Papers are to be submitted via https://easychair.org/my/conference?conf=rc2023.

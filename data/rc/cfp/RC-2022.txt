@@ -1,0 +1,96 @@
+14th Conference on Reversible Computation (RC 2022)
+
+https://reversible-computation-2022.github.io/
+
+July 5th-6th, 2022, Urbino, Italy
+Abstract Submission: Mon, February 7th, 2022
+Submission Deadline: Mon, February 21st, 2022
+
+=======================================================================
+
+Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, debugging, testing and verification, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional CMOS technology.
+
+The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Invited talks by leading international experts will complete the program.
+
+Contributions on all areas of Reversible Computation are welcome, including---but not limited to---the following topics:
+
+* Applications
+* Architectures
+* Algorithms
+* Bidirectional transformations
+* Circuit Design
+* Debugging
+* Fault Tolerance and Error Correction
+* Hardware
+* Information Theory
+* Physical Realizations
+* Programming Languages
+* Quantum Computation
+* Software
+* Synthesis
+* Theoretical Results
+* Testing
+* Verification
+
+===== Important Dates =====
+
+- Abstract Submission: Mon, February 7th, 2022
+
+- Submission Deadline: Mon, February 21st, 2022
+
+- Notification to Authors: Mon, April 4th, 2022
+
+- Final Version: Mon, April 25th, 2022
+
+- Conference: Tue-Wed, July 5th-6th, 2022
+
+===== Invited speakers =====
+
+TBA
+
+===== Paper submission =====
+
+Interested researchers are invited to submit
+
+- full research papers (16 pages maximum),
+- tutorials (16 pages maximum), as well as
+- work-in-progress or tool demonstration papers (6 pages maximum)
+
+in Springer LNCS format. Additional material intended for reviewers but not for publication in the final version---for example, details of proofs---may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them. Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere. Submissions not adhering to the specified constraints may be rejected without review. Each paper will undergo a peer review of at least 3 anonymous reviewers. All accepted papers will be included in the conference proceedings. Papers can be submitted electronically in PDF via the RC 2022 interface of the EasyChair system:
+
+https://easychair.org/conferences/?conf=rc2022
+
+SPECIAL ISSUE
+Selected papers will be invited to a special issue on the Journal of Logical and Algebraic Methods in Programming
+
+===== Organizers =====
+
+* Program co-chairs
+
+Claudio Antares Mezzina
+University of Urbino, Italy
+
+Krzysztof Podlaski
+University of Łódź, Poland
+
+
+===== Program Committee =====
+
+Clément Aubert (Augusta University, US)
+Kamila Barylska (Nicolaus Copernicus University, Poland)
+Robert Glück (University of Copenhagen, Denmark)
+Ivan Lanese (University of Bologna/INRIA, Italy)
+Hernan Melgratti (ICC - Universidad de Buenos Aires / Conicet, Argentina)
+Keisuke Nakano (Tohoku University, Japan)
+Alexandru Paler (Aalto University, Finland)
+Iain Phillips (Imperial College, UK)
+G. Michele Pinna (University of Cagliari, Italy)
+Neil (Julien) Ross (Dalhousie University, Canada)
+Bruno Schmitt (EPFL, Switzerland)
+Harun Siljak (Trinity College Dublin, Ireland)
+Yasuhiro Takahashi (NTT Communication Science Laboratories, Japan)
+Irek Ulidowski (University of Leicester, UK)
+Benoît Valiron (LRI - CentraleSupelec, Univ. Paris Saclay)
+Robert Wille (Johannes Kepler University Linz, Austria)
+Shigeru Yamashita (Ritsumeikan University, Japan)
+Shoji Yuen (Nagoya University, Japan)

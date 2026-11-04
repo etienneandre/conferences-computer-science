@@ -1,0 +1,40 @@
+edition = 17
+title = "17th Conference on Reversible Computation"
+url = "https://reversible-computation-2025.github.io/"
+
+[event]
+start = 2025-07-03
+end = 2025-07-04
+city = "Odense, Denmark"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS (not including references) (full research papers / tutorials) / 6 pages LNCS (not including references) (work-in-progress / tool demonstration papers)"
+abstract = [2025-02-07, 2025-02-21]
+paper = [2025-02-13, 2025-02-28]
+notification = [2025-04-11]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+doi = "10.1007/978-3-031-97063-4"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 1
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 0
+
+[stats]
+submitted = 22
+accepted = 12
+# The 7 full papers and 5 short papers included in this book were carefully reviewed and selected from 22 submissions.
+
+[[cfp]]
+file = "cfp/RC-2025.txt"
+stage = "extended"

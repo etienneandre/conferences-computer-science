@@ -1,0 +1,117 @@
+=======================================================================
+
+2nd Call for Papers
+13th Conference on Reversible Computation
+(RC 2021)
+
+July 7th-8th, 2021, Nagoya, Japan (the conference will be held online)
+Abstract Submission: Sun, February 14th, 2021
+Submission Deadline: Sun, February 21st, 2021
+http://www.reversible-computation.org
+
+=======================================================================
+
+Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, debugging, testing and verification, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional CMOS technology.
+
+The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Invited talks by leading international experts will complete the program.
+
+Contributions on all areas of Reversible Computation are welcome, including---but not limited to---the following topics:
+
+* Applications
+* Architectures
+* Algorithms
+* Bidirectional transformations
+* Circuit Design
+* Debugging
+* Fault Tolerance and Error Correction
+* Hardware
+* Information Theory
+* Physical Realizations
+* Programming Languages
+* Quantum Computation
+* Software
+* Synthesis
+* Theoretical Results
+* Testing
+* Verification
+
+===== Important Dates =====
+
+- Abstract Submission: Sun, February 14th, 2021
+- Submission Deadline: Sun, February 21st, 2021
+- Notification to Authors: Sat, March 27th, 2021
+- Final Version: Sat, April 17th, 2021
+- Conference: Wed-Thu, July 7th-8th, 2021 (the conference will be held online)
+
+===== Invited speakers =====
+
+TBA
+
+===== Paper submission =====
+
+In order to submit a paper to Reversible Computation conference, please follow these guidelines:
+
+* You can submit full research papers (16 pages maximum), tutorials (16 pages maximum), as well as work-in-progress or tool demonstration papers (6 pages maximum). Please do not forget to clearly indicate the type of your submission by choosing the proper category on the submission page.
+
+* Additional material intended for reviewers but not for publication in the final version—for example, details of proofs—may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.
+
+* The paper submission will be accepted as a PDF file using the LNCS style. Further information on the style is available at
+
+http://www.springer.com/gb/computer-science/lncs/conference-proceedings-guidelines
+
+* All accepted research papers will be published in Springer's Lecture Notes in Computer Science (LNCS).
+
+* Author(s) of accepted papers are expected to participate in the conference and to present their papers. We would appreciate if one person would not present more than two papers at the conference. If more than two papers are accepted by a group of authors, we kindly ask that the papers be presented by different co-authors, as far as possible.
+
+* PC chairs and general chairs are not permitted to submit papers to the conference.
+
+If you have further questions, please do not hesitate to ask us (info@reversible-computation.org).
+
+===== Submission system =====
+
+The papers will be submitted via EasyChair. In order to submit your paper, please use EasyChair:
+https://easychair.org/conferences/?conf=rc2021
+
+===== Organizers =====
+
+* General Chair
+
+Shoji Yuen
+Nagoya University, Japan
+
+* Program co-chairs
+
+Shigeru Yamashita
+Ritsumeikan University, Japan
+
+Tetsuo Yokoyama
+Nanzan University, Japan
+
+===== Program Committee =====
+
+Gerhard Dueck (University of New Brunswic, Canada)
+Michael P. Frank (Sandia National Laboratories, US)
+Robert Glück (University of Copenhagen, Denmark)
+Eva Graversen (Imperial College London, UK)
+James Hoey (University of Leicester, UK)
+Jarkko Kari (University of Turku, Finland)
+Jean Krivine (CNRS, France)
+Ivan Lanese (University of Bologna/INRIA, Italy)
+Martin Lukac (Nazarbayev University, Kazakhstan)
+Claudio Antares Mezzina (Università di Urbino, Italy)
+Claudio Moraga (TU Dortmund University, Germany)
+Keisuke Nakano (Tohoku University, Japan)
+Luca Paolini (Universita degli Studi di Torino, Italy)
+Krzysztof Podlaski (University of Lodz, Poland)
+Mariusz Rawski (Warsaw University of Technology, Poland)
+Markus Schordan (Lawrence Livermore National Laboratory, US)
+Mathias Soeken (Ecole Polytechnique Fédérale de Lausanne, Switzerland)
+Milena Stankovic (University of Nis, Serbia)
+Himanshu Thapliyal (University of Kentucky, US)
+Michael Kirkedal Thomsen (University of Copenhagen, Denmark)
+Irek Ulidowski (University of Leicester, UK)
+Rodney Van Meter (Keio University, Japan)
+Robert Wille (Johannes Kepler University Linz, Austria)
+
+info@reversible-computation.org
+http://www.reversible-computation.org

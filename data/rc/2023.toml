@@ -1,0 +1,40 @@
+edition = 15
+title = "15th Conference on Reversible Computation"
+url = "https://reversible-computation-2023.github.io/site/"
+
+[event]
+start = 2023-07-18
+end = 2023-07-19
+city = "Giessen, Germany"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (not including references) (full research papers / tutorials) / 6 pages LNCS (not including references) (work-in-progress / tool demonstration papers)"
+abstract = [2023-02-06, 2023-02-13]
+paper = [2023-02-13, 2023-02-20]
+notification = [2023-04-03]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+doi = "10.1007/978-3-031-38100-3"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 0
+
+[stats]
+submitted = 19
+accepted = 14
+# The 11 full papers and 3 short papers included in this book were carefully reviewed and selected from 19 submissions.
+
+[[cfp]]
+file = "cfp/RC-2023.txt"
+stage = "extended"
