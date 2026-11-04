@@ -5,7 +5,7 @@ url = "https://reversible-computation.github.io/2026/"
 [event]
 start = 2026-07-09
 end = 2026-07-10
-city = "Torino, Italy"
+city = "Turin, Italy"
 
 [submission]
 tz = "AoE"
@@ -37,4 +37,4 @@ accepted = 17
 
 [[cfp]]
 file = "cfp/RC-2026.txt"
-stage = "final"
+stage = "extended"
