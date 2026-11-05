@@ -6,7 +6,7 @@ url = "http://www.www2017.com.au/"
 [event]
 start = 2017-04-03
 end = 2017-04-07
-city = "Perth, Western Australia"
+city = "Perth, Australia"
 
 [submission]
 format = "8 pages ACM SIG 2 columns (+ references)"

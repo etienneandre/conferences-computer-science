@@ -838,8 +838,6 @@ native_lang = "de"
 lat = 50.5872
 lon = 8.6755
 continent = "EU"
-# 1 edition(s)
-
 
 ["Glasgow, Scotland"]
 country = "GB"
@@ -1725,7 +1723,6 @@ native_lang = "ja"
 lat = 35.1815
 lon = 136.9066
 continent = "AS"
-# 1 edition(s)
 
 ["Namur, Belgium"]
 country = "BE"
@@ -2038,14 +2035,6 @@ display = "Perth"
 lat = -31.9505
 lon = 115.8605
 continent = "OC"
-
-["Perth, Western Australia"]
-country = "AU"
-display = "Perth"
-lat = -31.9505
-lon = 115.8605
-continent = "OC"
-# WARNING: no country given
 
 ["Philadelphia, Pennsylvania, USA"]
 country = "US"
