@@ -830,6 +830,17 @@ lat = 44.4056
 lon = 8.9463
 continent = "EU"
 
+["Giessen, Germany"]
+country = "DE"
+display = "Giessen"
+native = "Gießen"
+native_lang = "de"
+lat = 50.5872
+lon = 8.6755
+continent = "EU"
+# 1 edition(s)
+
+
 ["Glasgow, Scotland"]
 country = "GB"
 subdivision = "GB-SCT"
@@ -1706,6 +1717,16 @@ lat = 51.9607
 lon = 7.6261
 continent = "EU"
 
+["Nagoya, Japan"]
+country = "JP"
+display = "Nagoya"
+native = "名古屋市"
+native_lang = "ja"
+lat = 35.1815
+lon = 136.9066
+continent = "AS"
+# 1 edition(s)
+
 ["Namur, Belgium"]
 country = "BE"
 display = "Namur"
@@ -1861,6 +1882,13 @@ country = "AT"
 display = "Obergurgl"
 lat = 46.8703
 lon = 11.0272
+continent = "EU"
+
+["Odense, Denmark"]
+country = "DK"
+display = "Odense"
+lat = 55.3959
+lon = 10.3883
 continent = "EU"
 
 ["Orlando, Florida, USA"]

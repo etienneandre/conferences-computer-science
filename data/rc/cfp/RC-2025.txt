@@ -1,0 +1,102 @@
+Call for papers
+REVERSIBLE COMPUTATION 2025
+17th International Conference on Reversible Computation
+
+July 3rd - July 4th, 2025, Odense, Denmark
+
+https://reversible-computation-2025.github.io/
+
+Scope
+=====
+
+Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, debugging, testing and verification, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional CMOS technology.
+
+The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Invited talks by leading international experts will complete the program.
+
+Contributions on all areas of Reversible Computation are welcome, including---but not limited to---the following topics:
+
+* Applications
+* Architectures
+* Algorithms
+* Bidirectional transformations
+* Circuit Design
+* Debugging
+* Fault Tolerance and Error Correction
+* Hardware
+* Information Theory
+* Physical Realizations
+* Programming Languages
+* Program Transformation and Optimisation
+* Quantum Computation
+* Software
+* Synthesis
+* Theoretical Results
+* Testing
+* Verification
+
+
+Important dates
+===============
+
+Abstract submission: February 21st, 2025 AOE [*EXTENDED*]
+Submission deadline: February 28th, 2025 AOE [*EXTENDED*]
+Notification to authors: April 11th, 2025 AOE
+Final version: May 1st, 2025 AOE
+Conference: July 3rd - July 4th, 2025
+
+
+Submission guidelines
+=====================
+
+In order to submit a paper to the Reversible Computation conference, please follow these guidelines:
+
+You can submit
+
+* full research papers (15 pages maximum),
+* tutorials (15 pages maximum),
+* work-in-progress or tool demonstration papers (6 pages maximum).
+
+The stated page limits do not include references. Additional material intended for reviewers but not for publication in the final version — for example, details of proofs — may be placed in a clearly marked appendix that is not included in the page limit.
+
+The paper submission will be accepted as a PDF file using the LNCS style.
+
+At least one author of an accepted paper is expected to register and present the paper at the conference. We would appreciate if one person would not present more than two papers at the conference: if more than two papers are accepted by a group of authors, we kindly ask that the papers be presented by different co-authors, as far as possible. PC chairs and general chairs are not permitted to submit papers to the conference.
+
+All accepted papers will be included in the conference proceedings and published by Springer as a Lecture Notes in Computer Science (LNCS) volume.
+
+
+Program committee
+=================
+
+Program chairs
+
+  Robert Glück (University of Copenhagen, Denmark)
+  Robin Kaarsgaard (University of Southern Denmark, Denmark)
+
+Program committee members
+
+  Bogdan Aman (Romanian Academy, Romania)
+  Clément Aubert (Augusta University, USA)
+  Jacques Carette (McMaster University, Canada)
+  Gerhard Dueck (University of New Brunswick, Canada)
+  Jarkko Kari (University of Turku, Finland)
+  Jean Krivine (CNRS, France)
+  Martin Kutrib (Justus Liebig-Universität Giessen, Germany)
+  Ivan Lanese (Università di Bologna/INRIA, Italy)
+  Louis Lemonnier (University of Edinburgh, UK)
+  Uwe Meyer (Technische Hochschule Mittelhessen, Germany)
+  Łukasz Mikulski (Nicolaus Copernicus University, Poland)
+  Keisuke Nakano (Tohoku University, Japan)
+  Kalyan Perumalla (Office of Science, Department of Energy, USA)
+  Iain Phillips (Imperial College, UK)
+  Neil J. Ross (Dalhousie University, Canada)
+  Luca Roversi (Università di Torino, Italy)
+  Amr Sabry (Indiana University, USA)
+  Michael Kirkedal Thomsen (University of Oslo, Norway)
+  Irek Ulidowski (University of Leicester, UK)
+  Benoît Valiron (CentraleSupelec, Université Paris-Saclay, France)
+  German Vidal (Universitat Politècnica de València, Spain)
+  John van de Wetering (University of Amsterdam, The Netherlands)
+  Robert Wille (Technical University of Munich, Germany, and SCCH GmbH, Austria)
+  Tetsuo Yokoyama (Nanzan University, Japan)
+  Shoji Yuen (Nagoya University, Japan)

@@ -1,0 +1,40 @@
+edition = 16
+title = "16th Conference on Reversible Computation"
+url = "https://rc2024.mat.umk.pl/"
+
+[event]
+start = 2024-07-04
+end = 2024-07-05
+city = "Toruń, Poland"
+
+[submission]
+tz = "AoE"
+format = "15 pages LNCS (not including references) (full research papers / tutorials) / 6 pages LNCS (not including references) (work-in-progress / tool demonstration papers)"
+abstract = [2024-02-04, 2024-02-18]
+paper = [2024-02-11, 2024-02-25]
+notification = [2024-03-22]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+doi = "10.1007/978-3-031-62076-8"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 1
+women = 0
+
+[stats]
+submitted = 18
+accepted = 13
+# The 10 full papers and 3 short papers included along with two invited papers in this book were carefully reviewed and selected from 18 submissions. 
+
+[[cfp]]
+file = "cfp/RC-2024.txt"
+stage = "extended"

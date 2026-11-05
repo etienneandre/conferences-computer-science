@@ -1,0 +1,40 @@
+edition = 13
+title = "13th Conference on Reversible Computation"
+url = "https://reversible-computation-2021.github.io/"
+
+[event]
+start = 2021-07-07
+end = 2021-07-08
+city = "Nagoya, Japan"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (not including references) (full research papers / tutorials) / 6 pages LNCS (not including references) (work-in-progress / tool demonstration papers)"
+abstract = [2021-02-14, 2021-03-14]
+paper = [2021-02-21, 2021-03-21]
+notification = [2021-04-24]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+doi = "10.1007/978-3-030-79837-6"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 3
+women = 0
+
+[stats]
+submitted = 21
+accepted = 11
+# The 11 papers included in this book were carefully reviewed and selected from 21 submissions.
+
+[[cfp]]
+file = "cfp/RC-2021.txt"
+stage = "initial"
