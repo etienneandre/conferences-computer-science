@@ -44,9 +44,7 @@ Some editions are recorded as having no women among their chairs and invited
 speakers. The criterion is deliberately narrow and stated here so it can be
 checked, and argued with:
 
-> An edition is counted as having only men when at least one programme chair or
-> invited speaker is recorded, and none of them is a woman or a person of
-> another gender.
+> An edition is counted as having only men when at least one programme chair or invited speaker is recorded, and none of them is a woman or a person of another gender.
 
 Only **programme chairs and invited speakers** are counted — the people an
 edition chose to put in front of it. The programme committee is recorded
@@ -71,7 +69,11 @@ outright should not be described as if it were.
 ## Corrections
 
 Corrections are very welcome and are the main way this stays accurate. Anything at all — a wrong date, a missing edition, a conference that should be here — is worth reporting.
-Please feel free to send (ideally structured) data about past editions (acceptance rates, deadline extensions, etc.).
+Please feel free to either
+
+- [send structured data about past editions](/submit/#if-you-would-rather-send-structured-data-preferred) (acceptance rates, deadline extensions, etc.),
+- [send an email](/submit/#the-quickest-version-for-you-and-longest-to-me),
+- [create an issue on the git repository](https://github.com/etienneandre/conferences-computer-science/issues/new).
 
 ## Reusing the data
 
@@ -101,9 +103,9 @@ This Web site in itself was, well, I must admit, only partially human-written �
 - [Acceptance ratio of some Theoretical Computer Science Conferences](https://www.lamsade.dauphine.fr/~sikora/ratio/)
 - [Software Engineering Conferences with acceptance rates (outdated but useful)](https://taoxie.cs.illinois.edu/seconferences.htm)
 - [Conferences in Software Testing, and more](https://www.cs.ru.nl/~tretmans/TestConferences.html)
+- [Acceptance rates for the ~~major~~ test top-tier AI-related conferences](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 
 ### Towards less environmental impact?
 
 - My small [Event Carbon Footprint Calculator](https://www.etienne-andre.fr/event-carbon-calculator/)
-- Let’s go to conferences by train: [How to reach major European and Asian cities by train from Paris](https://www.lemondeentrain.fr/) (in French)
-
+- Let's go to conferences by train: [How to reach major European and Asian cities by train from Paris](https://www.lemondeentrain.fr/) (in French)
