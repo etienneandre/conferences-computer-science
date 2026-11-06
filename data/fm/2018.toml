@@ -26,7 +26,6 @@ license = "pay-profit"
 [stats]
 accepted = 35
 submitted = 110
-# TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
 colocated = "Part of FLoC 2018"
