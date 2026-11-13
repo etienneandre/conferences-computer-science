@@ -32,6 +32,7 @@ women = 2
 men = 2
 
 [extra]
+notes = "5-day grace period for submitted papers following the extended deadline"
 journal = "Following the tradition of FSEN, we plan to have a special issue of the Science of Computer Programming journal devoted to FSEN 2027."
 
 [[cfp]]
