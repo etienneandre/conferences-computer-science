@@ -103,7 +103,7 @@ This Web site in itself was, well, I must admit, only partially human-written ðŸ
 - [Acceptance ratio of some Theoretical Computer Science Conferences](https://www.lamsade.dauphine.fr/~sikora/ratio/)
 - [Software Engineering Conferences with acceptance rates (outdated but useful)](https://taoxie.cs.illinois.edu/seconferences.htm)
 - [Conferences in Software Testing, and more](https://www.cs.ru.nl/~tretmans/TestConferences.html)
-- [Acceptance rates for the ~~major~~ test top-tier AI-related conferences](https://github.com/lixin4ever/Conference-Acceptance-Rate)
+- [Acceptance rates for the test top-tier AI-related conferences](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 
 ### Towards less environmental impact?
 
