@@ -7,6 +7,8 @@ part_of = "discotec/2027"
 start = 2027-06-14
 end = 2027-06-18
 city = "Augsburg, Germany" 
+colocated_with = ["forte/2027"]
+
 
 [submission]
 tz = "AoE"
@@ -16,10 +18,11 @@ paper = [2027-02-04]
 notification = [2027-03-22]
 
 [proceedings]
-publisher = "Springer LNCS"
+publisher = "Springer LNCS IFIP"
 license = "pay-profit"
 
 [review]
+blind = "single"
 artifact = "Other submission category are proposed, and an Artefact Evaluation Committee will review submitted artefacts."
 award = "Best paper award"
 
@@ -33,3 +36,8 @@ women = 1
 
 [extra]
 journal = "Invited extended versions of selected papers will be considered for a special issue (to be confirmed)."
+
+[[cfp]]
+file = "cfp/COORDINATION-2027.txt"
+stage = "initial"
+
