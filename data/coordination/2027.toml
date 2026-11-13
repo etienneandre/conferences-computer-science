@@ -33,3 +33,8 @@ women = 1
 
 [extra]
 journal = "Invited extended versions of selected papers will be considered for a special issue (to be confirmed)."
+
+[[cfp]]
+file = "cfp/COORDINATION-2027.txt"
+stage = "initial"
+
