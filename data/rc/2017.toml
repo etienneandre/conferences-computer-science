@@ -10,7 +10,7 @@ city = "Kolkata, India"
 [submission]
 tz = "AoE"
 format = "16 pages LNCS (full research papers / tutorials) / 6 pages LNCS (work-in-progress / tool demonstration papers)"
-abstract = [, 2017-02-14]
+abstract = [2017-02-14]
 paper = [2017-02-20]
 notification = [2017-03-20]
 
