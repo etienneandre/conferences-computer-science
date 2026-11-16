@@ -1,0 +1,105 @@
+Call for Papers
+
+11th International Conference on Reversible Computation (RC 2019)
+
+
+June 24-25, 2019, Lausanne, Switzerland
+
+Abstract Submission: Februrary 04, 2019
+
+Submission Deadline: February 11, 2019
+
+http://www.reversible-computation.org
+
+
+=======================================================================
+
+Research in reversible computation has drawn the attention of researchers over the years.
+Reversible computation has a growing number of promising application areas such as low
+power design, coding/decoding, testing and verification, database recovery, discrete event
+simulation, reversible specification formalisms, reversible programming languages, process
+algebras, quantum computation, etc. First reversible circuits and quantum circuits have
+been implemented and are seen as promising alternatives to conventional CMOS technology.
+
+The conference will bring together researchers from computer science, mathematics, and
+physics to discuss new developments and directions for future research in Reversible
+Computation. This includes applications of reversibility in quantum computation. Research
+papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope
+of the conference. Invited talks by leading international experts will complete the programme.
+
+Contributions on all areas of Reversible Computation are welcome, including - but not
+limited to - the following topics:
+
+
+* Applications
+* Architectures
+* Algorithms
+* Circuit Design
+* Debugging
+* Fault Tolerance and Error Correction
+* Hardware
+* Information Theory
+* Physical Realizations
+* Programming Languages
+* Quantum Computation
+* Software
+* Synthesis
+* Theoretical Results
+* Testing
+* Verification
+
+
+===== Important Dates =====
+
+- Abstract Submission: February 04, 2019
+
+- Submission Deadline: February 11, 2019
+
+- Notification to Authors: April 01, 2019
+
+- Final Version: April 15, 2019
+
+- Conference: June 24 - 25, 2019
+
+===== Paper submission =====
+
+Interested researchers are invited to submit full research papers (16
+pages maximum), as well as work-in-progress or tool demonstration
+papers (6 pages maximum) in Springer LNCS format. Contributions must
+be written in English and report on original, unpublished work, not
+submitted for publication elsewhere.  Additional material intended for
+reviewers but not for publication in the final version - for example,
+details of proofs - may be placed in a clearly marked appendix that is
+not included in the page limit. Reviewers are at liberty to ignore
+appendices and papers must be understandable without them.
+
+All submitted papers will be peer-reviewed by at least three reviewers
+for technical merit, originality, significance and relevance to the
+scope of the conference. All accepted papers will be included in the
+conference proceedings and published by Springer as an Lecture Notes
+in Computer Science (LNCS) volume.
+
+Authors are invited to submit their papers via the EasyChair system at
+
+https://easychair.org/conferences/?conf=rc19
+
+At least an abstract of the work needs to be pre-submitted by the abstract submission
+deadline.
+
+
+===== Chairs =====
+
+Michael Kirkedal Thomsen  (University of Copenhagen, Denmark)
+
+Mathias Soeken  (EPFL, Switzerland)
+
+
+===== Contact =====
+
+mathias.soeken@epfl.ch
+
+m.kirkedal@di.ku.dk
+
+info@reversible-computation.org
+
+http://www.reversible-computation.org

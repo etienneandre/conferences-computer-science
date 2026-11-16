@@ -1,0 +1,40 @@
+edition = 12
+title = "12th Conference on Reversible Computation"
+url = "https://reversible-computation-2020.github.io/"
+
+[event]
+start = 2020-07-09
+end = 2020-07-10
+city = "Oslo, Norway"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (full research papers / tutorials) / 6 pages LNCS (work-in-progress / tool demonstration papers)"
+abstract = [2020-01-31, 2020-02-07]
+paper = [2020-02-07, 2020-02-14]
+notification = [2020-03-20, 2020-03-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+doi = "10.1007/978-3-030-52482-1"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 1
+women = 1
+
+[stats]
+submitted = 23
+accepted = 17
+# The conference received 23 submissions with authors from 16 countries. All papers were reviewed by at least three members of the Program Committee. After careful deliberations, the Program Committee selected 17 papers for presentation
+
+[[cfp]]
+file = "cfp/RC-2020.txt"
+stage = "initial"
