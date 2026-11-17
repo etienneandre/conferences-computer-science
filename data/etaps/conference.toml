@@ -8,7 +8,7 @@ name = "European Joint Conferences on Theory and Practice of Software"
 umbrella = "constituent"
 complete_since = 1998
 frequency = "Annual since 1998"
-homepage = "https://etaps.org/"
+homepage = "https://www.etaps.org/"
 
 [links]
 dblp = "etaps"
