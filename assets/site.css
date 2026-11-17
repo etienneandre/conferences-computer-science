@@ -596,8 +596,6 @@ footer .disclaimer { color: var(--ink-soft); }
   position: static; inset: auto; width: auto;
   flex: 0 0 var(--w, 0); border-radius: 0; opacity: 1;
 }
-.genderchart .ry a { color: var(--ink-soft); text-decoration: none; }
-.genderchart .ry a:hover { color: var(--accent); text-decoration: underline; }
 /* Three tones from the existing palette, and never the only signal: every
    segment carries a title and the counts are written beside the bar.
    Scoped to two classes deep on purpose: `.rb i` already sets a background
@@ -626,8 +624,9 @@ footer .disclaimer { color: var(--ink-soft); }
 /* The submission volume, under the acceptance rates. No mid-line: the scale
    is this conference's own busiest year, so a fixed tick would mean nothing. */
 .volumechart .rb { background-image: none; }
-.volumechart .ry a { color: var(--ink-soft); text-decoration: none; }
-.volumechart .ry a:hover { color: var(--accent); text-decoration: underline; }
+/* The year is the way back to the edition it describes, in all three charts. */
+.ratechart .ry a { color: inherit; text-decoration: none; }
+.ratechart .ry a:hover { color: var(--accent); text-decoration: underline; }
 .factlist small { color: var(--ink-faint); font-weight: 400; white-space: nowrap; }
 .reach { font-family: var(--font-data); }
 

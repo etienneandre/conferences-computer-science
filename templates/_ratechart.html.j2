@@ -8,7 +8,7 @@
 <ol class="ratechart">
   {% for e in rated %}
   <li{% if e.rate == best %} class="is-hi"{% endif %}>
-    <span class="ry">{{ e.year }}</span>
+    <span class="ry"><a href="{{ e.url }}">{{ e.year }}</a></span>
     <span class="rb"><i style="--w: {{ (100 * e.rate / 60) | round | int }}%"></i></span>
     <span class="rv">{{ e.rate | round | int }}%
       {%- if e.counts %} <small>{{ e.counts[0] }}/{{ e.counts[1] }}</small>{% endif %}</span>
