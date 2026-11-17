@@ -6,7 +6,7 @@ url = "https://shemesh.larc.nasa.gov/nfm2025/"
 [event]
 start = 2025-06-11
 end = 2025-06-13
-city = "Hampton Roads, VA, USA"
+city = "Williamsburg, Virginia, USA"
 
 [submission]
 format = "15 pages LNCS + references (regular) / 6 pages (short/tool/experience report)"

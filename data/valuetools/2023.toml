@@ -6,14 +6,13 @@ url = "https://valuetools.eai-conferences.org/2023"
 [event]
 start = 2023-09-06
 end = 2023-09-08
-city = "Crete, Greece"
+city = "Heraklion, Crete, Greece"
 
 [submission]
 tz = "AoE"
 format = "8 pages ACM (regular) / 6 pages (tool papers) / 2 pages (Fast Abstracts)"
-abstract = [2023-06-21]
-paper = [2023-06-21]
-notification = [2023-07-31]
+paper = [2023-06-21, 2023-07-05]
+notification = [2023-07-31, 2023-08-04]
 
 [proceedings]
 publisher = "ACM"

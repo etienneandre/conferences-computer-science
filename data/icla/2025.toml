@@ -6,7 +6,8 @@ url = "https://logicindia.org/icla/icla2025/"
 [event]
 start = 2025-02-03
 end = 2025-02-05
-city = "Indian Statistical Institute Kolkata, India"
+venue = "Indian Statistical Institute Kolkata"
+city = "Kolkata, India"
 
 [submission]
 format = "12 pages + references"

@@ -6,7 +6,8 @@ url = "https://www.fsttcs.org.in/2026/"
 [event]
 start = 2026-12-15
 end = 2026-12-20
-city = "IIT Delhi, New Delhi, India"
+venue = "IIT Delhi"
+city = "New Delhi, India"
 
 [submission]
 tz = "AoE"
@@ -23,7 +24,11 @@ license = "cc-by"
 
 [review]
 blind = "double"
-gender_balance = "male-only"
 
-[extra]
-notes = "Always in India."
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 5
+women = 0

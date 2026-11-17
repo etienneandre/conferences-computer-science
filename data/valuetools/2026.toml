@@ -5,7 +5,7 @@ url = "https://valuetools.eai-conferences.org/2026/"
 [event]
 start = 2026-12-10
 end = 2026-12-11
-city = "Gran Canaria, Spain"
+online = true
 
 [submission]
 tz = "AoE"
@@ -13,7 +13,7 @@ format = "12-20 pages + references (full) / 6-11 pages (short)"
 abstract = [2026-09-10]
 paper = [2026-09-10]
 extensions = false
-notification = [2026-10-10]
+notification = [2026-10-19]
 
 [proceedings]
 publisher = "Springer LNICST series"
@@ -27,5 +27,6 @@ men = 2
 women = 0
 
 [extra]
+notes = "Initially planned in Gran Canaria, Spain to online"
 journal = "Authors of selected papers will be invited to submit an extended version to: Springer Mobile Networks and Applications (MONET) Journal"
 

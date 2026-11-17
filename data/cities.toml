@@ -30,9 +30,11 @@ lat = 56.1629
 lon = 10.2039
 continent = "EU"
 
-["Ahmedabad University"]
+["Ahmedabad, India"]
 country = "IN"
-display = "Ahmedabad University"
+display = "Ahmedabad"
+native = "ਅਹਿਮਦਾਬਾਦ"
+native_lang = "gu"
 lat = 23.0225
 lon = 72.5714
 continent = "AS"
@@ -577,16 +579,6 @@ lat = 43.3623
 lon = -8.4115
 continent = "EU"
 
-["Crete, Greece"]
-country = "GR"
-display = "Crete"
-native = "Κρήτη"
-native_lang = "el"
-lat = 35.2401
-lon = 24.8093
-continent = "EU"
-# WARNING: an island, not a town; coordinates are its centre
-
 ["Cần Thơ, Việt Nam"]
 country = "VN"
 display = "Cần Thơ"
@@ -865,14 +857,6 @@ lat = 57.7089
 lon = 11.9746
 continent = "EU"
 
-["Gran Canaria, Spain"]
-country = "ES"
-display = "Gran Canaria"
-lat = 27.966
-lon = -15.6
-continent = "EU"
-# WARNING: an island, not a town; coordinates are its centre
-
 ["Granada, Spain"]
 country = "ES"
 display = "Granada"
@@ -999,14 +983,6 @@ lat = 36.4
 lon = 10.6167
 continent = "AF"
 
-["Hampton Roads, VA, USA"]
-country = "US"
-display = "Hampton Roads"
-lat = 36.9312
-lon = -76.3452
-continent = "NA"
-# WARNING: a metropolitan area; coordinates are Norfolk
-
 ["Hangzhou, China"]
 country = "CN"
 display = "Hangzhou"
@@ -1127,7 +1103,7 @@ lat = 47.1585
 lon = 27.6014
 continent = "EU"
 
-["IIT Delhi, New Delhi, India"]
+["IIT Delhi NO, New Delhi, India"]
 country = "IN"
 display = "IIT Delhi"
 lat = 28.6139
@@ -1160,13 +1136,6 @@ country = "IN"
 display = "IIT Madras"
 lat = 13.0827
 lon = 80.2707
-continent = "AS"
-
-["Indian Statistical Institute Kolkata, India"]
-country = "IN"
-display = "Indian Statistical Institute Kolkata"
-lat = 22.5726
-lon = 88.3639
 continent = "AS"
 
 ["Innsbruck, Austria"]
@@ -2855,6 +2824,13 @@ display = "Wellington"
 lat = -41.2866
 lon = 174.7756
 continent = "OC"
+
+["Williamsburg, Virginia, USA"]
+country = "US"
+display = "Williamsburg"
+lat = 37.270833
+lon = -76.706944
+continent = "NA"
 
 ["Wonju, South Korea"]
 country = "KR"
