@@ -3,7 +3,7 @@
 Reference document for the site's data format. Any discrepancy between this file
 and the generator's behaviour is a bug — in one or the other.
 
-- **Schema version**: 1.4
+- **Schema version**: 1.5
 - **Format**: [TOML 1.0](https://toml.io/) (read with `tomllib`, standard library since Python 3.11)
 - **Encoding**: UTF-8, no BOM, LF line endings
 - **Indentation**: 2 spaces inside multi-line tables
@@ -664,7 +664,74 @@ source = "https://..."       # optional, original URL
   The generator renders `/icfem/2026/cfp/` as HTML from the most recent version
   (for indexing) and serves the raw files alongside.
 
-### 4.11 `[extra]` — free text
+### 4.11 `[[special_issue]]` — special issues that were published
+
+`extra.journal` (§ 4.12) is an *announcement*, in prose, usually copied from the
+call: "selected papers will be invited to a special issue of …". This key
+records what actually appeared, which is a different claim and arrives years
+later.
+
+```toml
+[[special_issue]]
+journal = "Science of Computer Programming"
+publisher = "Elsevier"
+title = "Special Issue on Formal Methods for Industrial Critical Systems"
+volume = "204"
+issue = "S1"
+year = 2021
+papers = 6
+doi = "10.1016/j.scico.2021.102600"
+url = "https://www.sciencedirect.com/journal/science-of-computer-programming/vol/204"
+note = "guest-edited with the programme chairs"
+```
+
+| Key | Type | Notes |
+|---|---|---|
+| `journal` | string | ✅ The one thing an issue cannot be found without. |
+| `publisher` | string | Free text, **not** a key in `publishers.toml`: a journal's publisher is rarely the proceedings'. |
+| `title` | string | The issue's own title, where it has one beyond "Selected papers from …". |
+| `volume` | string | A string, not an integer — see below. |
+| `issue` | string | A string, not an integer — see below. |
+| `year` | int | Year of publication. Normally later than the edition's. |
+| `papers` | int | How many of the edition's papers it carries. |
+| `doi` | string | Bare identifier, never a URL. Same rule as `proceedings.doi` (§ 4.7). |
+| `url` | string | Full URL to the issue. |
+| `note` | string | Free text. |
+
+An **array** because several per edition is ordinary: a joint edition often
+produces one issue per constituent, and a conference can place its papers in
+two journals a year apart. Order is not significant; the page shows them as
+written.
+
+**Why `volume` and `issue` are strings.** Journals number them `3-4`, `S1` and
+`36(4)` as readily as `4`. An integer would silently drop whichever half of
+those carries the information, and nothing here does arithmetic on them, so
+there is nothing to gain in exchange.
+
+**Three states, as everywhere else (§ 1.2).** No key at all: nobody has looked.
+`special_issue = false`: somebody looked, and nothing was published — which is
+worth recording precisely when the call promised otherwise. One or more
+`[[special_issue]]` tables: here is what came out.
+
+```toml
+# the call promised an issue; it never appeared
+special_issue = false
+
+[extra]
+journal = "Selected papers will be invited to a special issue of …"
+```
+
+**The announcement is not deleted once the record exists.** An edition can
+announce two issues and publish one, so the edition page shows what appeared
+and demotes the prose beneath it, labelled as the announcement. Deleting
+`extra.journal` would close the gap between promise and outcome, which is the
+part worth keeping.
+
+The conference page carries a **Special issue** row in the practices grid, built
+from this key alone. An announcement with no recorded outcome leaves that year
+blank rather than marking it as a no.
+
+### 4.12 `[extra]` — free text
 
 | Key | Type | Notes |
 |---|---|---|
@@ -681,7 +748,7 @@ These are the only unstructured fields. Anything added here should be considered
 temporary: once a pattern recurs five or six times, it deserves a proper key and
 an entry in this document.
 
-### 4.12 `[legacy]` — migration residue
+### 4.13 `[legacy]` — migration residue
 
 Present only on migrated conferences, in `conference.toml`:
 
@@ -837,6 +904,9 @@ The build fails on any **error** and reports **warnings** without blocking.
 20. In `cities.toml`: an unknown key, a `country` that is not two uppercase
     letters, a malformed `native_lang`, a coordinate out of range, or one
     coordinate without the other.
+21. `special_issue` set to anything other than `false` or an array of tables.
+22. A `[[special_issue]]` with no `journal`, a `doi` written as a URL, a `url`
+    that is not one, or `papers` below 1.
 
 ### Warnings
 
@@ -856,6 +926,10 @@ The build fails on any **error** and reports **warnings** without blocking.
 - More than **365 days** between `notification` and `event.start`. Long gaps are
   normal in this field, so this threshold targets one specific mistake: a
   mistyped year.
+- A `[[special_issue]]` with neither `doi` nor `url` (nothing to follow), one
+  published before the edition it collects, one carrying more papers than the
+  edition accepted, a repeated journal/volume/issue, or an empty
+  `special_issue = []` where `false` was meant (§ 4.11).
 - Presence of `TODO: extract` or `TODO: verify` (informational count, never
   blocking).
 
@@ -904,8 +978,9 @@ part of this schema.
 
 | Version | Change |
 |---|---|
+| 1.5 | `[[special_issue]]`: special issues actually published, as against the announcement in `extra.journal` (§ 4.11). `[extra]` and `[legacy]` renumbered to § 4.12 and § 4.13. |
 | 1.4 | Umbrella events and affiliation: `umbrella` and `workshop` on a series, `event.part_of` and `part_of_role` on an edition, per-edition `acronym` (§ 4.3.2). Co-location documented as implemented (§ 4.3.1). Catching up with the generator, which had moved ahead of this document: `scope`, `languages`, `core.national_of` (§ 3); `event.dates_text` (§ 4.3); `proceedings.post` and `proceedings.doi` (§ 4.7); `diversity` renamed `gender_balance` and the `gender` counts added (§ 4.8); `cfp.stage` and `cfp.kind`, `retrieved` made optional (§ 4.10); `display`, `subdivision`, `native`, `native_lang` in the gazetteer, which now also addresses the per-city pages (§ 7). Structured co-location and DOIs leave § 9. |
 | 1.3 | `extensions` accepts `true` for an extension whose earlier date is unknown (§ 4.4.1). `rebuttal_start` / `rebuttal_end` added (§ 4.8). |
-| 1.2 | `complete_since` becomes optional (§ 1.4, § 3). Joint editions get `status = "joint"` and `joint_with` (§ 4.2.1). `one_off` added (§ 3.2). `extra.colocated` added and `notes` declared as trusted HTML (§ 4.11). `[legacy]` documented (§ 4.12). `links.twitter` added. Slug rule relaxed for leading digits, with transliteration and `&` → `and` spelled out (§ 2.1). Redundant-licence warning removed (§ 4.7). |
+| 1.2 | `complete_since` becomes optional (§ 1.4, § 3). Joint editions get `status = "joint"` and `joint_with` (§ 4.2.1). `one_off` added (§ 3.2). `extra.colocated` added and `notes` declared as trusted HTML (§ 4.12). `[legacy]` documented (§ 4.13). `links.twitter` added. Slug rule relaxed for leading digits, with transliteration and `&` → `and` spelled out (§ 2.1). Redundant-licence warning removed (§ 4.7). |
 | 1.1 | CORE ranks become an open-ended interval history (§ 3.1); per-edition CORE field removed. Licences inherited from `publishers.toml` with override (§ 4.7, § 6). `defunct` accepts a year or `"seemingly"` (§ 3.2). `blind` and `rebuttal` accept free text (§ 4.8). `frequency` is free text. CORE `absent` and `unranked` distinguished; invented `national` rank removed. |
 | 1.0 | Initial version. |

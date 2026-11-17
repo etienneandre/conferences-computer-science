@@ -187,6 +187,21 @@ EDITION_SPEC: dict = {
         "note": "str",
         "source": "str",
     }),
+    # Either `false` — checked, nothing was published — or one table per
+    # issue that appeared. `volume` and `issue` are strings because journals
+    # write "3-4" and "S1" as often as "4". See § 4.11.
+    "special_issue": [("literal", False), ("tables", {
+        "journal": "str",
+        "publisher": "str",
+        "title": "str",
+        "volume": "str",
+        "issue": "str",
+        "year": "int",
+        "papers": "int",
+        "doi": "str",
+        "url": "str",
+        "note": "str",
+    })],
     "extra": ("table", {
         "journal": "str",
         "colocated": "str",
@@ -292,9 +307,12 @@ def describe(spec) -> str:
         if kind == "list":
             return f"a list of {describe(spec[1])}"
         if kind == "literal":
-            return f'"{spec[1]}"'
-        if kind in ("table", "tables"):
+            # TOML spelling, not Python's: the file says `false`, not `False`.
+            return str(spec[1]).lower() if isinstance(spec[1], bool) else f'"{spec[1]}"'
+        if kind == "table":
             return "a table"
+        if kind == "tables":
+            return "an array of tables"
     return {"str": "a string", "int": "an integer", "float": "a number",
             "bool": "true or false", "date": "a date"}.get(spec, str(spec))
 
@@ -361,6 +379,13 @@ class Validator:
                     f"`{full}` should be {describe(keyspec)}, "
                     f"got {type_name(value)} ({value!r:.40})")
                 continue
+
+            if isinstance(keyspec, list):
+                # An alternative spec: carry on into whichever branch matched,
+                # so a key that may be either `false` or an array of tables
+                # still gets its entries checked for unknown keys.
+                keyspec = next((s for s in keyspec if self.matches(value, s)),
+                               keyspec)
 
             if isinstance(keyspec, tuple):
                 if keyspec[0] == "table":
@@ -607,17 +632,85 @@ RGI_SUBDIVISIONS = {"GB-ENG", "GB-SCT", "GB-WLS"}
 RE_DOI = re.compile(r"^10\.\d{4,9}/\S+$")
 
 
+def check_one_doi(doi, where: str, label: str, report: Report) -> None:
+    if not isinstance(doi, str):
+        return
+    clean = doi.strip()
+    if clean.startswith(("http://", "https://", "doi:")):
+        report.error(where, f"`{label}` must be the bare identifier, "
+                            f"not a URL: {doi!r}")
+    elif not RE_DOI.match(clean):
+        report.warn(where, f"{doi!r} does not look like a DOI (expected 10.xxxx/...)")
+
+
 def check_doi(edition: dict, where: str, report: Report) -> None:
     value = edition.get("proceedings", {}).get("doi")
     items = [value] if isinstance(value, str) else (value or [])
     for doi in items:
-        if not isinstance(doi, str):
+        check_one_doi(doi, where, "doi", report)
+
+
+def check_special_issues(edition: dict, where: str, year: int | None,
+                         report: Report) -> None:
+    """Published special issues: one entry per issue, or `false` for none.
+
+    The expensive mistake here is a dead reference. A special issue is found
+    again years later, by which time the publisher has reorganised its site,
+    so the DOI is what has to be right and the URL is a convenience. Hence a
+    hard error on a DOI written as a URL, the same rule the proceedings DOI
+    has always had.
+    """
+    value = edition.get("special_issue")
+    if value is None:
+        return
+    if not isinstance(value, list):
+        if value is not False:
+            report.error(where, "`special_issue` is either `false` — checked, "
+                                "none published — or an array of `[[special_issue]]` "
+                                "tables; `true` says nothing findable")
+        return
+    if not value:
+        report.warn(where, "`special_issue` is an empty array; write "
+                           "`special_issue = false` to mean none was published")
+
+    accepted = (edition.get("stats") or {}).get("accepted")
+    seen: set[tuple] = set()
+    for i, issue in enumerate(value):
+        if not isinstance(issue, dict):
             continue
-        clean = doi.strip()
-        if clean.startswith(("http://", "https://", "doi:")):
-            report.error(where, f"`doi` must be the bare identifier, not a URL: {doi!r}")
-        elif not RE_DOI.match(clean):
-            report.warn(where, f"{doi!r} does not look like a DOI (expected 10.xxxx/...)")
+        label = f"special_issue[{i}]"
+        journal = issue.get("journal")
+        if not isinstance(journal, str) or not journal.strip():
+            report.error(where, f"`{label}` has no `journal`; the journal is the "
+                                f"one thing an issue cannot be found without")
+        check_one_doi(issue.get("doi"), where, f"{label}.doi", report)
+
+        url = issue.get("url")
+        if isinstance(url, str) and url and not url.startswith(("http://", "https://")):
+            report.error(where, f"`{label}.url` should be a full URL: {url!r}")
+        if not issue.get("doi") and not issue.get("url"):
+            report.warn(where, f"`{label}` has neither `doi` nor `url`, so the "
+                               f"issue cannot be reached from the page")
+
+        published = issue.get("year")
+        if isinstance(published, int) and year and published < year:
+            report.warn(where, f"`{label}.year` is {published}, before the "
+                               f"{year} edition it collects")
+
+        papers = issue.get("papers")
+        if isinstance(papers, int):
+            if papers < 1:
+                report.error(where, f"`{label}.papers` should be a positive count")
+            elif isinstance(accepted, int) and papers > accepted:
+                report.warn(where, f"`{label}.papers` ({papers}) exceeds the "
+                                   f"{accepted} papers the edition accepted")
+
+        fingerprint = (str(journal).strip().lower(),
+                       str(issue.get("volume") or ""), str(issue.get("issue") or ""))
+        if fingerprint in seen:
+            report.warn(where, f"`{label}` repeats {journal} {fingerprint[1]}"
+                               f"{fingerprint[2] and '/' + fingerprint[2]}")
+        seen.add(fingerprint)
 
 
 def check_event(edition: dict, where: str, report: Report,
@@ -757,6 +850,7 @@ class Checker:
         check_stats(edition, where, self.report)
         check_review(edition, where, self.report)
         check_doi(edition, where, self.report)
+        check_special_issues(edition, where, year, self.report)
         check_rebuttal(edition, where, self.report)
         check_event(edition, where, self.report, self.cities, self.seen_cities)
 

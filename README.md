@@ -206,9 +206,10 @@ with words, so the list works in black and white and for a colour-blind reader.
 subdivision flags that fonts actually draw — anything else falls back to the
 national flag.
 
-**Nothing is loaded from a third party** except the venue map, which fetches
-OpenStreetMap tiles only after the reader asks. Fonts are self-hosted precisely
-so that reading a page tells nobody else anything.
+**Nothing is loaded from a third party** except the maps — on an edition, a
+conference, a city and the front page — which fetch OpenStreetMap tiles only
+once the reader asks for one. Fonts are self-hosted precisely so that reading a
+page tells nobody else anything.
 
 **The site never asserts what it does not know.** Where a conference states no
 time zone, sorting assumes Anywhere on Earth — the latest reading, so nothing

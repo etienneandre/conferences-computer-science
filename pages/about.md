@@ -13,6 +13,13 @@ notification dates, whether the deadline was extended and by how much, the page
 limit, who publishes the proceedings and under what licence, where it is held,
 and the acceptance rate.
 
+Journal special issues are recorded twice over, because they are two different
+facts: what the call promised, and what was eventually published. The second is
+the one that is nearly impossible to find again a few years later, so where it
+is known the issue is recorded with its volume and its DOI — and an issue that
+was announced and never appeared is recorded as such rather than quietly
+dropped.
+
 Deadlines are given in **Anywhere on Earth** unless the conference says
 otherwise. Where a conference states no time zone, this site assumes AoE for
 sorting — the latest reading, so that nothing is ever shown as closed when it
@@ -85,7 +92,7 @@ use it for anything, credit the source, and keep what you build on it open under
 ## Colophon
 
 Static HTML generated from plain text files.
-No framework, no cookies, no advertising, and nothing loaded from anyone else's server — except the map on an edition page, which fetches tiles from OpenStreetMap only after you ask it to, and a tiny Matomo analytics tool (running on a local server, not sharing any data with anyone else).
+No framework, no cookies, no advertising, and nothing loaded from anyone else's server — except the maps, which fetch tiles from OpenStreetMap only once you ask for one, and a tiny Matomo analytics tool (running on a local server, not sharing any data with anyone else).
 
 The data is entirely managed by hand.
 This Web site in itself was, well, I must admit, only partially human-written 🤖

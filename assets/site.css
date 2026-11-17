@@ -435,7 +435,16 @@ a:hover { text-decoration-thickness: 2px; }
 .grid .cell { padding: .3rem .2rem; font-family: var(--font-data); }
 .grid .cell a { color: var(--accent); text-decoration: none; font-size: 1.1rem; line-height: 1; }
 .grid .cell a:hover { color: var(--ink); }
-.grid .gap-cell { color: var(--ink-faint); }
+/* A year the member met somewhere else. It links to that edition, so it has
+   to beat `.grid .cell a` on specificity, or an absence is drawn in exactly
+   the colour and weight of a presence. */
+.grid .cell .gap-cell, .grid .cell a.gap-cell {
+  color: var(--ink-faint); font-size: 1rem; text-decoration: none;
+}
+.grid .cell a.gap-cell:hover { color: var(--ink); text-decoration: underline; }
+/* The key has to use the table's own colours, or it explains a table the
+   reader is not looking at. */
+.practicekey b.in-it { color: var(--accent); }
 
 /* An umbrella among ordinary editions, on a city page. Colour plus a word:
    the tint alone would be one more thing to learn. */
@@ -568,7 +577,8 @@ footer .disclaimer { color: var(--ink-soft); }
 .rb {
   position: relative; height: 13px; border-radius: 2px;
   background-color: var(--wash-deep);
-  /* the 30% mid-line, drawn as a hairline in the track itself */
+  /* the mid-line, drawn as a hairline in the track itself: at half the track
+     it marks half of whatever the chart's scale is, 30% or 50% */
   background-image: linear-gradient(90deg,
     transparent calc(50% - .5px), var(--rule) calc(50% - .5px),
     var(--rule) calc(50% + .5px), transparent calc(50% + .5px));
@@ -590,7 +600,7 @@ footer .disclaimer { color: var(--ink-soft); }
    top of each other at the left edge. */
 .genderchart .rb {
   display: flex; overflow: hidden;
-  background-image: none;     /* the 30% mid-line belongs to the rate chart */
+  background-image: none;     /* the mid-line belongs to the rate chart */
 }
 .genderchart .rb i {
   position: static; inset: auto; width: auto;
@@ -631,7 +641,7 @@ footer .disclaimer { color: var(--ink-soft); }
 .reach { font-family: var(--font-data); }
 
 /* The corpus rate, drawn across every gender bar as a hairline — the same
-   device the acceptance chart uses for its 30% line. A reader sees which
+   device the acceptance chart uses for its mid-line. A reader sees which
    years fall short of what the field actually does, instead of being told. */
 .genderchart .rb.has-base::after {
   content: ""; position: absolute; top: -2px; bottom: -2px;
@@ -889,6 +899,24 @@ footer .disclaimer { color: var(--ink-soft); }
 .prose td { padding: .45rem .5rem; border-bottom: 1px solid var(--rule-soft); vertical-align: top; }
 
 .doi { font: 400 .82rem/1.5 var(--font-data); word-break: break-all; }
+
+/* Published special issues. Several per edition is normal, so each one is a
+   block rather than a line: journal, where in it, and the DOI that will still
+   resolve once the publisher has reorganised its site. */
+.sissue { display: block; }
+.sissue + .sissue { margin-top: .5rem; padding-top: .5rem; border-top: 1px solid var(--rule-soft); }
+.sissue .data { font: 400 .8rem var(--font-data); color: var(--ink-soft); }
+/* .factlist small is nowrap, which is right for "since 2019" and wrong for a
+   sentence about who guest-edited. */
+.sissue small { white-space: normal; }
+.sissue i { font-style: italic; color: var(--ink-soft); }
+/* The announcement, once the record exists: kept, because an edition can
+   promise two issues and publish one, and pushed below what did appear. */
+.si-announced {
+  font: 400 .8rem/1.5 var(--font-ui); color: var(--ink-faint);
+  margin: .5rem 0 0; max-width: 60ch;
+}
+.si-announced i { font-style: normal; text-transform: uppercase; letter-spacing: .05em; font-size: .9em; }
 
 /* Per-track acceptance. The overall row is set apart because it is often a sum
    rather than a figure the conference published. */

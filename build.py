@@ -649,6 +649,50 @@ class Edition:
                and bool(self.tracks)
 
     @property
+    def special_issues(self) -> list[dict]:
+        """Special issues that actually came out, one entry each.
+
+        `extra.journal` announces one in prose; this records what appeared.
+        The two are kept apart on purpose: an edition can announce two issues
+        and publish one, and an announcement that never materialised is itself
+        worth being able to see.
+
+        An array because several is normal — a joint edition often produces
+        one issue per constituent — and because an edition's issues can land
+        in different journals years apart.
+        """
+        raw = self.raw.get("special_issue")
+        if not isinstance(raw, list):
+            return []
+        issues = []
+        for entry in raw:
+            if not isinstance(entry, dict) or not entry.get("journal"):
+                continue
+            # A fixed shape, so the template asks `si.doi` rather than
+            # `si.get('doi')` under StrictUndefined. Every optional field is
+            # present and falsy when the data does not have it.
+            issues.append({
+                "journal": entry["journal"],
+                "publisher": entry.get("publisher"),
+                "title": entry.get("title"),
+                "year": entry.get("year"),
+                "papers": entry.get("papers"),
+                "doi": entry.get("doi"),
+                "url": entry.get("url"),
+                "note": entry.get("note"),
+                "where": special_issue_where(entry),
+            })
+        return issues
+
+    @property
+    def special_issue_none(self) -> bool:
+        """`special_issue = false`: somebody checked, and there was none.
+
+        Distinct from no key at all, which is the usual "nobody has looked".
+        """
+        return self.raw.get("special_issue") is False
+
+    @property
     def colocated_refs(self) -> list[str]:
         refs = self.event.get("colocated_with") or []
         return [r for r in refs if isinstance(r, str)]
@@ -778,6 +822,16 @@ class Conference:
     @property
     def url(self) -> str:
         return f"/{self.slug}/"
+
+    @property
+    def homepage(self) -> str | None:
+        """The series portal, as distinct from any one edition's site.
+
+        In the schema since the first version and read by nothing until now.
+        It matters most for an umbrella: a member's site answers questions
+        about the member, and nothing at all about ETAPS.
+        """
+        return (self.raw.get("homepage") or "").strip() or None
 
     @property
     def links(self) -> dict:
@@ -1060,10 +1114,29 @@ class Conference:
         for row in rows:
             row["first"] = min(row["years"])
             row["last"] = max(row["years"])
-            # A gap inside a run is a conference that left and came back, which
-            # is worth seeing; one at the ends is simply when it joined or left.
-            row["gaps"] = [y for y in years
-                           if row["first"] < y < row["last"] and y not in row["years"]]
+            # An empty year is one of two quite different things, and the grid
+            # used to draw them alike. Either the member met that year and not
+            # here — a real absence, and the member's own edition file says so
+            # and where it was — or no edition of it is recorded at all, which
+            # asserts nothing: coverage of the member series may simply not go
+            # back that far. § 1.2, applied to a hole in a table.
+            row["elsewhere"] = elsewhere = {}
+            for year in years:
+                if year in row["years"]:
+                    continue
+                for other in row["conference"].editions:
+                    if other.year != year:
+                        continue
+                    container = other.inside
+                    if container is not None and container.conference is self:
+                        continue
+                    note = f"{other.acronym} met"
+                    if container is not None:
+                        note += f" inside {container.acronym}"
+                    if other.city_name:
+                        note += f" in {other.city_name}"
+                    elsewhere[year] = {"edition": other, "note": note + ", not here"}
+                    break
         return {"years": years, "rows": rows}
 
     @property
@@ -1928,6 +2001,25 @@ def series_licence(site: Site, conference: Conference) -> dict | None:
     }
 
 
+def special_issue_where(entry: dict) -> str:
+    """"vol. 36, no. 4 (2024)", from whichever parts are recorded.
+
+    Volume and issue are strings in the schema rather than integers, which is
+    deliberate: journals number them "3-4", "S1" and "36(4)", and an integer
+    would quietly drop the half of those that carry information. Nothing here
+    does arithmetic on them, so there is nothing to gain in exchange.
+    """
+    bits = []
+    if entry.get("volume"):
+        bits.append(f"vol. {entry['volume']}")
+    if entry.get("issue"):
+        bits.append(f"no. {entry['issue']}")
+    text = ", ".join(bits)
+    if entry.get("year"):
+        return f"{text} ({entry['year']})" if text else str(entry["year"])
+    return text
+
+
 def practice_timeline(site: Site, conference: Conference) -> dict | None:
     """How the series has reviewed and published, edition by edition.
 
@@ -1971,6 +2063,13 @@ def practice_timeline(site: Site, conference: Conference) -> dict | None:
          "cells": {e.year: flag(e.review.get("rebuttal")) for e in conference.editions}},
         {"key": "artifact", "label": "Artifact evaluation", "kind": "flag",
          "cells": {e.year: flag(e.review.get("artifact")) for e in conference.editions}},
+        # Published, not announced. An edition whose call promised a special
+        # issue and whose outcome nobody has checked belongs in the blank
+        # column with everything else unknown.
+        {"key": "special", "label": "Special issue", "kind": "flag",
+         "cells": {e.year: "yes" if e.special_issues
+                   else "no" if e.special_issue_none else None
+                   for e in conference.editions}},
     ]
     rows = [r for r in rows if any(v is not None for v in r["cells"].values())]
     years = sorted({e.year for e in conference.editions

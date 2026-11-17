@@ -101,10 +101,49 @@ paper = [2026-07-01]
 notification = [2026-08-15]
 ```
 
-**Proceedings.** For `license`, the useful values are `cc-by`, `cc-by-nd`,
-`free` (free to read, authors keep their rights), `free-copy` (free to read,
-copyright transferred), `pay`, and `pay-profit`. If you are unsure, name
-the publisher and leave the licence out.
+**Proceedings.** For `license`, the values are:
+
+- `cc-by`, `cc-by-sa`, `cc-by-nd`, `cc-by-nc-nd` — an open licence, authors keep their rights
+- `free` — free to read, authors keep their rights
+- `free-copy` — free to read, copyright transferred
+- `acm` — ACM Digital Library
+- `pay` — paywalled
+- `pay-profit` — paywalled, for-profit publisher
+- `pay-profit-embargo` — paywalled and for-profit, open after an embargo
+
+If you are unsure, name the publisher and leave the licence out: most
+publishers have a usual one, and a guess here is worse than a blank.
+
+**Special issues.** `[extra] journal` is for what the call *promises*:
+
+```toml
+[extra]
+journal = "Selected papers will be invited to a special issue of Formal Aspects of Computing."
+```
+
+Once an issue has actually come out, it gets recorded properly, which is far
+more useful — it is almost impossible to find again otherwise. An edition can
+have several, in different journals and different years, so each one is its own
+block:
+
+```toml
+[[special_issue]]
+journal = "Science of Computer Programming"
+volume = "204"
+issue = "S1"
+year = 2021
+papers = 6
+doi = "10.1016/j.scico.2021.102600"
+```
+
+Everything except `journal` is optional, but a `doi` or a `url` is what makes
+it findable. `volume` and `issue` are quoted, because journals number them
+`3-4` and `S1` as often as `4`. And if the promised issue never appeared, that
+is worth knowing too:
+
+```toml
+special_issue = false
+```
 
 **Acceptance rate.** By default, the syntax is easy:
 

@@ -1,20 +1,32 @@
 {# Acceptance rates as horizontal bars: full years, the value beside each bar,
-   and a scale that runs to a fixed 60% so two conferences can be compared by
-   eye. Years with no published figure are left out rather than drawn as zero,
-   which would read as a collapse in selectivity. #}
+   and a scale that normally runs to a fixed 60% so two conferences can be
+   compared by eye. Years with no published figure are left out rather than
+   drawn as zero, which would read as a collapse in selectivity. #}
 {% set rated = conference.rated_editions %}
 {% set best = rated | map(attribute='rate') | max %}
-<div class="rate-scale"><span></span><span class="ticks"><i>0%</i><i>30%</i><i>60%</i></span></div>
+{# Two scales, not one fitted to the data. 60% covers almost every conference
+   and keeps the bars comparable between pages; anything above it switches the
+   whole chart to 100%, because a workshop that accepts three papers in four
+   is not well served by a bar that runs off the right edge. Fitting the scale
+   to the maximum instead would make every page's axis different, which is the
+   one thing a fixed scale is for. #}
+{% set top = 60 if best <= 60 else 100 %}
+<div class="rate-scale"><span></span><span class="ticks"><i>0%</i>
+  <i>{{ (top / 2) | int }}%</i><i>{{ top }}%</i></span></div>
 <ol class="ratechart">
   {% for e in rated %}
   <li{% if e.rate == best %} class="is-hi"{% endif %}>
     <span class="ry"><a href="{{ e.url }}">{{ e.year }}</a></span>
-    <span class="rb"><i style="--w: {{ (100 * e.rate / 60) | round | int }}%"></i></span>
+    {# Clamped as well as scaled: a mistyped rate above the scale should look
+       like a full bar, never like a bar through the page margin. #}
+    <span class="rb"><i style="--w: {{ [100 * e.rate / top, 100] | min | round | int }}%"></i></span>
     <span class="rv">{{ e.rate | round | int }}%
       {%- if e.counts %} <small>{{ e.counts[0] }}/{{ e.counts[1] }}</small>{% endif %}</span>
   </li>
   {% endfor %}
 </ol>
 {% set gaps = conference.listed_editions | rejectattr('rate') | map(attribute='year') | list %}
-<p class="chart-caption">Scale runs to 60%; the mid-line marks 30%.
+<p class="chart-caption">Scale runs to {{ top }}%
+  {%- if top != 60 %}, wider than the usual 60% because at least one edition
+  accepted more than that{% endif %}; the mid-line marks {{ (top / 2) | int }}%.
   {% if gaps %}No figure published for {{ gaps | sort | join(', ') }}.{% endif %}</p>

@@ -223,8 +223,36 @@
           {% if edition.dois | length > 1 %}<br><small>Published in {{ edition.dois | length }} volumes.</small>{% endif %}
         </dd>
         {% endif %}
-        {% if edition.extra.get('journal') %}
-        <dt>Journal</dt><dd>{{ edition.extra.get('journal') }}</dd>
+        {% set issues = edition.special_issues %}
+        {% set announced = edition.extra.get('journal') %}
+        {% if issues or edition.special_issue_none or announced %}
+        {# The record first, the announcement after it. An edition can promise
+           two issues and publish one, so the prose is not dropped once the
+           issues are known: it is demoted. And `special_issue = false` says
+           something the absence of this block cannot — that somebody looked. #}
+        <dt>Special issue{{ 's' if issues | length != 1 }}</dt><dd>
+          {% for si in issues %}
+          <span class="sissue">
+            {%- if si.url %}<a href="{{ si.url }}">{{ si.journal }}</a>
+            {%- else %}{{ si.journal }}{% endif %}
+            {%- if si.where %} <span class="data">{{ si.where }}</span>{% endif %}
+            {%- if si.publisher %} <small>{{ si.publisher }}</small>{% endif %}
+            {%- if si.title %}<br><i>{{ si.title }}</i>{% endif %}
+            {%- if si.doi %}<br><a href="https://doi.org/{{ si.doi }}" class="doi">{{ si.doi }}</a>{% endif %}
+            {%- if si.papers or si.note %}<br><small>
+              {%- if si.papers %}{{ si.papers }} paper{{ 's' if si.papers != 1 }}
+                {%- if si.note %} &mdash; {% endif %}{% endif %}
+              {%- if si.note %}{{ si.note }}{% endif %}</small>{% endif %}
+          </span>
+          {% endfor %}
+          {% if not issues and edition.special_issue_none %}
+          <span class="sissue">None published.</span>
+          {% endif %}
+          {% if announced %}
+          <p class="si-announced">{% if issues or edition.special_issue_none %}
+            <i>Announced:</i> {% endif %}{{ announced }}</p>
+          {% endif %}
+        </dd>
         {% endif %}
         {% if edition.colocated or edition.extra.get('colocated') %}
         <dt>Co-located with</dt><dd>

@@ -21,6 +21,15 @@
   <p class="page-sub">{{ conference.name }}</p>
 
   <div class="page-meta">
+    {% if conference.homepage %}
+    {# The series' own portal, as against any one edition's site. Recorded in
+       conference.toml since the first version of the schema and read by
+       nothing until now; it matters most on an umbrella page, where every
+       member's site answers questions about the member and none about the
+       umbrella. Same shape as Website on an edition page, deliberately. #}
+    <span class="item">Website<b><a href="{{ conference.homepage }}">{{ conference.homepage
+      | replace('https://', '') | replace('http://', '') }} &#8599;</a></b></span>
+    {% endif %}
     <span class="item">Editions listed<b>{{ conference.editions | length }}</b></span>
     {% if conference.listed_editions %}
     <span class="item">Covered<b>{{ conference.first_year }}&ndash;{{ conference.last_year }}</b></span>
@@ -196,19 +205,28 @@
               {%- if row.role == 'workshop' %} <span class="role">workshop</span>{% endif %}</td>
             {% for year in grid.years %}
             {% set member = row.years.get(year) %}
+            {% set away = row.elsewhere.get(year) %}
             <td class="num cell">
               {%- if member %}<a href="{{ member.url }}" title="{{ member.acronym }}">&bull;</a>
-              {%- elif row.first < year < row.last %}<span class="gap-cell" title="Not part of it that year">&ndash;</span>
+              {%- elif away %}<a class="gap-cell" href="{{ away.edition.url }}"
+                title="{{ away.note }}">&ndash;</a>
               {%- endif %}</td>
             {% endfor %}
           </tr>
           {% endfor %}
         </tbody>
       </table>
+      <p class="practicekey" aria-hidden="true">
+        <span><b class="in-it">&bull;</b> part of it that year</span>
+        <span><b class="gap-cell">&ndash;</b> met that year, elsewhere</span>
+        <span>blank: no edition recorded</span>
+      </p>
       <p class="chart-caption">Derived from the member editions themselves, so
-        it cannot disagree with them. A dash inside a run is a conference that
-        left and came back; nothing at the ends is simply when it joined or
-        stopped.</p>
+        it cannot disagree with them. A dash is a year the conference is
+        recorded as meeting somewhere else, which is a real absence &mdash;
+        follow it to see where. An empty cell claims nothing: no edition of
+        that conference is recorded here for that year, which may mean it did
+        not meet, or only that this site does not cover it yet.</p>
     </section>
     {% endif %}
 
