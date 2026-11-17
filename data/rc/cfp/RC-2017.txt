@@ -1,0 +1,89 @@
+CALL FOR PAPERS
+================
+
+9th International Conference on Reversible Computation (RC-2017)
+July 6-7, 2017, Pride Plaza Hotel, Kolkata, India
+http://www.reversible-computation.org
+
+Research in reversible computation has drawn the attention of researchers over the years.
+Reversible computation has a growing number of promising application areas such as low
+power design, testing and verification, database recovery, discrete event simulation,
+reversible specification formalisms, reversible programming languages, process algebras,
+quantum computation, etc. Initial implementations of reversible and quantum circuits have
+been reported recently and are seen as promising alternatives to CMOS technology.
+
+The 9th Conference on Reversible Computation will take place during July 6-7, 2017, in
+Kolkata, India and will be jointly organised by: (a) Indian Institute of Technology,
+Kharagpur, (b) Indian Institute of Engineering Science and Technology (IIEST), (c)
+University of Calcutta, (d) Indian Statistical Institute Calcutta, and (e) Jadavpur
+University. Previous editions of this event took place as workshop in York (2009), Bremen
+(2010), Gent (2011), Copenhagen (2012) and was upgraded to a conference subsequently and
+held in Victoria (2013), Kyoto (2014), Grenoble (2015), and Bologna (2016).
+
+The conference will bring together researchers, academicians and students from computer
+science, electrical engineering, mathematics, and physics to discuss new developments and
+directions for future research in reversible computation. This particularly includes
+applications of reversibility in quantum computation. Research papers, tool
+demonstrations, work-in-progress reports and poster presentations are within the scope of
+the conference. Invited talks by leading international experts will complete the program.
+A summer school shall be conducted on July 5, 2017 specifically targeting the beginners in
+this area. The Conference Banquet dinner shall be organised on July 6th evening, while a
+Social Event followed by dinner shall be organised on July 7 evening, which are open to
+all the conference delegates.
+
+Contributions, not necessarily restricted to the following topics, in Reversible
+Computation are invited from prospective authors:
+ a) Architectures
+ b) Algorithms
+ c) Circuit Design
+ d) Debugging
+ e) Fault Tolerance and Error Correction
+ f) Hardware
+ g) Information Theory
+ h) Physical Realisations
+ i) Programming Languages
+ j) Quantum Computation
+ k) Software
+ l) Synthesis
+ m) Theoretical Results
+ n) Testing
+ o) Verification
+
+
+SUBMISSION AND PUBLICATION:
+Interested researchers are invited to submit full research papers and tutorials (16 pages
+maximum), as well as work-in-progress or tool demonstration papers (6 pages maximum) in
+Springer LNCS format through the Conference website. All submitted papers will be
+peer-reviewed by at least three reviewers for technical merit, originality, significance
+and relevance to the scope of the conference. All accepted papers will be included in the
+conference proceedings and published by Springer as an Lecture Notes in Computer Science
+volume.
+
+IMPORTANT DATES:
+ * Abstract Submission: February 14, 2017 (EXTENDED)
+ * Full-paper Submission: February 20, 2017 (EXTENDED)
+ * Notification to Authors: March 20, 2017
+ * Camera-ready Copy: April 10, 2017
+ * Author Registration: April 7, 2017
+
+Organising Committee:
+ a) General Chairs
+    - Indranil Sen Gupta, Indian Institute of Technology Kharagpur, India
+    - Rolf Drechsler, University of Bremen/DFKI, Germany
+ b) Program Chairs
+    - Iain Phillips, Imperial College, London, UK
+    - Hafizur Rahaman, IIEST Shibpur, India
+ c) Organising Chair
+    - Amlan Chakrabarti, University of Calcutta, India
+ d) Finance Chair
+    - Chandan Giri, IIEST Shibpur, India
+
+
+=======================================
+Prof. Indranil Sen Gupta
+Professor
+Department of Computer Science & Engg.
+Indian Institute of Technology Kharagpur
+Kharagpur 721302, INDIA
+Phone: +91-32222-283496 (O), 283497(R)
+Web: http://www.facweb.iitkgp.ernet.in/~isg

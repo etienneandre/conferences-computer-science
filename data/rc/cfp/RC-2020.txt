@@ -1,0 +1,111 @@
+=======================================================================
+
+12th Conference on Reversible Computation
+(RC 2020)
+
+July 9th-10th, 2020, Oslo, Norway
+Abstract Submission: January 31th, 2020
+Submission Deadline: February 7th, 2020
+https://reversible-computation-2020.github.io/
+
+=======================================================================
+
+Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, debugging, testing and verification, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional CMOS technology.
+
+The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Invited talks by leading international experts will complete the program. Contributions on all areas of Reversible Computation are welcome, including---but not limited to---the following topics:
+
+* Applications
+* Architectures
+* Algorithms
+* Bidirectional transformations
+* Circuit Design
+* Debugging
+* Fault Tolerance and Error Correction
+* Hardware
+* Information Theory
+* Physical Realizations
+* Programming Languages
+* Quantum Computation
+* Software
+* Synthesis
+* Theoretical Results
+* Testing
+* Verification
+
+===== Important Dates =====
+
+Abstract submission:     January 31, 2020
+Submission deadline:     February 7, 2020
+Notification to authors: March 20, 2020
+Final version:           April 10, 2020
+Conference:              July 9 - July 10, 2020
+
+===== Invited speakers =====
+
+TO BE ANNOUNCED
+
+===== Paper submission =====
+
+Interested researchers are invited to submit full research papers (16
+pages maximum), tutorials (16 pages maximum), as well as
+work-in-progress or tool demonstration papers (6 pages maximum) in
+Springer LNCS format.  Additional material intended for reviewers but
+not for publication in the final version - for example, details of
+proofs - may be placed in a clearly marked appendix that is not
+included in the page limit. Reviewers are at liberty to ignore
+appendices and papers must be understandable without them.
+Contributions must be written in English and report on original,
+unpublished work, not submitted for publication elsewhere. Submissions
+not adhering to the specified constraints may be rejected without
+review. Each paper will undergo a peer review of at least 3 anonymous
+reviewers. All accepted papers will be included in the conference
+proceedings and published by Springer as a Lecture Notes in Computer
+Science (LNCS) volume. Papers can be submitted electronically in pdf
+via the RC 2020 interface of the EasyChair system:
+
+https://easychair.org/conferences/?conf=rc2020
+
+===== General Chair =====
+
+Rudolf Schlatte
+University of Oslo
+Norway
+
+===== Program Chairs =====
+
+Ivan Lanese
+University of Bologna/INRIA
+Italy
+
+Mariusz Rawski
+Warsaw University of Technology
+Poland
+
+===== Program Committee =====
+
+ * Gerhard Dueck (University of New Brunswick, Canada)
+ * Robert Glück (University of Copenhagen, Denmark)
+ * Jarkko Kari (University of Turku, Finland)
+ * Jean Krivine (CNRS, France)
+ * Martin Lukac (Nazarbayev University, Kazakhstan)
+ * Kazutaka Matsuda (Tohoku University, Japan)
+ * Claudio Antares Mezzina (Università di Urbino, Italy)
+ * Lukasz Mikulski (Nicolaus Copernicus University, Poland)
+ * Torben Ægidius Mogensen (University of Copenhagen, Denmark)
+ * Claudio Moraga (TU Dortmund University, Germany)
+ * Iain Phillips (Imperial College London, UK)
+ * Krzysztof Podlaski (University Of Lodz, Poland)
+ * Markus Schordan (Lawrence Livermore National Laboratory, US)
+ * Peter Selinger (Dalhousie University, Canada)
+ * Mathias Soeken (Ecole Polytechnique Fédérale de Lausanne, Switzerland)
+ * Milena Stankovic (University of Nis, Serbia)
+ * Himanshu Thapliyal (University of Kentucky, US)
+ * Irek Ulidowski (University of Leicester, UK)
+ * German Vidal (Universitat Politecnica de Valencia, Spain)
+ * Robert Wille (Johannes Kepler University Linz, Austria)
+ * Tetsuo Yokoyama (Nanzan University, Japan)
+
+===== Contacts =====
+
+rc2020@easychair.org
+https://reversible-computation-2020.github.io/ 

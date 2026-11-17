@@ -1,0 +1,39 @@
+edition = 10
+title = "10th Conference on Reversible Computation"
+url = "https://web.archive.org/web/20240715194108/https://reversible-computation.org/2017/"
+
+[event]
+start = 2017-07-06
+end = 2017-07-07
+city = "Kolkata, India"
+
+[submission]
+tz = "AoE"
+format = "16 pages LNCS (full research papers / tutorials) / 6 pages LNCS (work-in-progress / tool demonstration papers)"
+abstract = [2017-02-14]
+paper = [2017-02-20]
+notification = [2017-03-20]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+doi = "10.1007/978-3-319-59936-6"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 0
+
+[stats]
+submitted = 47
+accepted = 18
+
+[[cfp]]
+file = "cfp/RC-2017.txt"
+stage = "extended"

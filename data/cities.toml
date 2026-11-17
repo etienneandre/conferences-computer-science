@@ -1279,6 +1279,15 @@ lat = 46.6247
 lon = 14.305
 continent = "EU"
 
+["Kolkata, India"]
+country = "IN"
+display = "Kolkata"
+native = "Calcutta"
+native_lang = "mr"
+lat = 22.5675
+lon = 88.37
+continent = "AS"
+
 ["Kongens Lyngby, Denmark"]
 country = "DK"
 display = "Kongens Lyngby"
