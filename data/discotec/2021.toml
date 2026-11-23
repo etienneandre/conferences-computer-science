@@ -3,3 +3,24 @@ edition = 16
 [event]
 city = "Valletta, Malta"
 online = true
+
+[[special_issue]]
+journal = "Logical Methods in Computer Science"
+title = "Selected Papers of the 23rd International Conference on Coordination Models and Languages (COORDINATION 2021)"
+url = "https://lmcs.episciences.org/volume/view/id/449"
+note = "Edited by Ferruccio Damiani and Ornela Dardha."
+papers = 4
+# TODO: move to Coordination? 
+# TODO: year
+
+
+[[special_issue]]
+journal = "Science of Computer Programming"
+publisher = "Elsevier"
+title = "Special Issue on Selected Tool Papers of the 22nd and 23rd International Conference on Coordination Models and Languages, COORDINATION 2020 and 2021"
+url = "https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD"
+note = "Edited by Hugo Vieira, Omar Inverso, and Giorgio Audrito."
+papers = 6
+# TODO: year
+# TODO: move to Coordination?
+# WARNING: Duplicate in coordination/2020.toml

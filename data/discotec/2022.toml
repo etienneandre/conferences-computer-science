@@ -2,3 +2,20 @@ edition = 17
 
 [event]
 city = "Lucca, Italy"
+
+[[special_issue]]
+journal = "Logical Methods in Computer Science"
+title = "Selected Papers of Coordination 2022"
+url = "https://lmcs.episciences.org/volume/view/id/654"
+papers = 4
+note = "Edited by Maurice ter Beek and Marjan Sirjani."
+# TODO: year + move to Coordination?
+
+[[special_issue]]
+journal = "Science of Computer Programming"
+publisher = "Elsevier"
+title = "Selected Software Artefacts from the Papers of DisCoTec 2022"
+url = "https://www.sciencedirect.com/special-issue/10CVGJGQP0Z"
+note = "Edited by Ferruccio Damiani, David Eyers, and Anna Philippou."
+papers = 9
+# TODO: year

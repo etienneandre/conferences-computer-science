@@ -2,3 +2,20 @@ edition = 18
 
 [event]
 city = "Lisbon, Portugal"
+
+[[special_issue]]
+journal = "Logical Methods in Computer Science"
+title = "Selected Papers of the 43rd International Conference on Formal Techniques for Distributed Objects, Components and Systems and the 25th International Conference on Coordination Models and Languages (FORTE and COORDINATION 2023)"
+url = "https://lmcs.episciences.org/volume/view/id/756"
+year = 2026
+papers = 7
+note = "Edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara."
+
+[[special_issue]]
+journal = "Science of Computer Programming"
+publisher = "Elsevier"
+title = "Selected Software Artefacts from the Papers of DisCoTec 2023"
+url = "https://www.sciencedirect.com/special-issue/106HX5T86G0"
+year = 2025
+papers = 9
+note = "Edited by Roberto Casadei, Vinicius Vielmo Cogo, Tom van Dijk, and Alceste Scalas."
