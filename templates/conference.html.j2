@@ -272,13 +272,15 @@
           recorded here was a woman or of another gender. At this site's own
           rate of {{ band.rate }}%, {{ band.expected }} would be the
           expectation, and a platform this size would be all men less than
-          once in twenty times.
+          <span class="odds" title="p = {{ band.exact }}">once in
+          {{ band.odds or 'twenty' }} times</span>.
           {% else %}
           {{ gender.total.women + gender.total.other }} of
           {{ gender.total.total }} chairs and invited speakers were women or
           of another gender, against {{ band.expected }} at this site's own
           rate of {{ band.rate }}%. A shortfall this large would happen by
-          chance less than once in twenty times.
+          chance less than <span class="odds" title="p = {{ band.exact }}">once
+          in {{ band.odds or 'twenty' }} times</span>.
           {% endif %}</p>
       </div>
       {% endif %}

@@ -640,6 +640,11 @@ footer .disclaimer { color: var(--ink-soft); }
 .factlist small { color: var(--ink-faint); font-weight: 400; white-space: nowrap; }
 .reach { font-family: var(--font-data); }
 
+/* The odds phrase carries the exact probability in its title, so it gets the
+   conventional hint that there is something to read. Dotted rather than
+   dashed, and never the link colour: there is nowhere to go. */
+.odds { border-bottom: 1px dotted currentColor; cursor: help; }
+
 /* The corpus rate, drawn across every gender bar as a hairline — the same
    device the acceptance chart uses for its mid-line. A reader sees which
    years fall short of what the field actually does, instead of being told. */

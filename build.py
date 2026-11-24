@@ -1907,6 +1907,45 @@ def binomial_at_most(observed: int, trials: int, rate: float) -> float:
                         for k in range(0, min(observed, trials) + 1)))
 
 
+def odds_in_words(tail: float) -> str | None:
+    """"40", "2,000", "3 million": how rarely chance alone would do this.
+
+    The band is drawn at one in twenty, and the page used to say "less than
+    once in twenty times" for every gap that crossed it — the same words for
+    one chance in 21 and one chance in fifty thousand. That was the one place
+    this panel was vaguer than its own arithmetic.
+
+    Rounded *down* to one significant figure, which is what keeps "less than
+    once in N times" true: N is at most 1/tail, so the probability really is
+    below 1/N. Rounding down also keeps the figure honest about its own
+    precision, since the baseline underneath it is an observation about this
+    corpus rather than a constant, and a second digit would be false
+    confidence about the third.
+    """
+    if not 0 < tail < 1:
+        return None
+    # Integer arithmetic for the rounding, not log10: 1/1e-5 is 99999.99…,
+    # whose log10 floats up to exactly 5, and the magnitude then overshoots
+    # the number it is meant to round.
+    floor = int(1 / tail)
+    if floor < 20:
+        return None          # inside the band: the page claims nothing here
+    magnitude = 10 ** (len(str(floor)) - 1)
+    n = (floor // magnitude) * magnitude
+    # Rounding down normally leaves `tail < 1/n`, which is what the sentence
+    # claims; on an exact boundary such as p = 0.05 it leaves equality, and
+    # "less than" would then be false by a hair. Step down once if so.
+    step = magnitude if n > magnitude else magnitude // 10
+    if step and 1 / n <= tail:
+        n -= step
+    if n < 20:
+        return None          # inside the band: the page claims nothing here
+    # Past a million the figure stops telling a reader anything they cannot
+    # already see, and the tail itself is down among the rounding errors of a
+    # float. "Once in a million" is both true and the end of the argument.
+    return "a million" if n >= 1_000_000 else f"{n:,}"
+
+
 def gender_report(site: Site, conference: Conference) -> dict | None:
     """The series' own figures, set against what the corpus actually does.
 
@@ -1942,6 +1981,10 @@ def gender_report(site: Site, conference: Conference) -> dict | None:
             "rate": round(100 * rate),
             "expected": round(expected),
             "tail": tail,
+            # The odds in the page's own words, and the probability itself for
+            # the reader who wants to check the arithmetic rather than take it.
+            "odds": odds_in_words(tail),
+            "exact": f"{tail:.2g}",
             # `unlikely` is the claim the page is allowed to make out loud.
             "unlikely": seen < expected and tail < 0.05,
             "below": seen < expected,

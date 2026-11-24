@@ -45,9 +45,13 @@
   expectation.
   {%- if band.none and band.unlikely %}
   <b>Not one of the {{ total.total }} was.</b> A platform this size drawn at
-  that rate would be all men less than once in twenty times.
+  that rate would be all men less than
+  <span class="odds" title="p = {{ band.exact }}">once in
+  {{ band.odds or 'twenty' }} times</span>.
   {%- elif band.unlikely %}
-  A shortfall this large would happen by chance less than once in twenty times.
+  A shortfall this large would happen by chance less than
+  <span class="odds" title="p = {{ band.exact }}">once in
+  {{ band.odds or 'twenty' }} times</span>.
   {%- elif band.below %}
   The gap is within what chance would produce at these numbers.
   {%- endif %}
