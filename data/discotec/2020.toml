@@ -3,3 +3,22 @@ edition = 15
 [event]
 city = "Valletta, Malta"
 online = true
+
+[[special_issue]]
+journal = "Science of Computer Programming"
+publisher = "Elsevier"
+title = "Special Issue on Selected Tool Papers of the 22nd and 23rd International Conference on Coordination Models and Languages, COORDINATION 2020 and 2021"
+url = "https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD"
+note = "Edited by Hugo Vieira, Omar Inverso, and Giorgio Audrito."
+papers = 6
+# TODO: year
+# TODO: move to Coordination?
+# WARNING: Duplicate in coordination/2021.toml
+
+[[special_issue]]
+journal = "Logical Methods in Computer Science"
+title = "Selected Papers of the 22nd International Conference on Coordination Models and Languages (COORDINATION 2020)"
+url = "https://lmcs.episciences.org/volume/view/id/415"
+note = "Edited by Simon Bliudze and Laura Bocchi."
+papers = 6
+# TODO: year

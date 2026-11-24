@@ -4,3 +4,12 @@ edition = 19
 city = "Groningen, The Netherlands"
 start = 2024-06-17
 end = 2024-06-21
+
+[[special_issue]]
+journal = "Science of Computer Programming"
+publisher = "Elsevier"
+title = "Selected Software Artefacts from the Papers of DisCoTec 2024"
+url = "https://www.sciencedirect.com/special-issue/10WV5F3DZBD"
+note = "Edited by Roberto Casadei, Duncan Paul Attard, Rumyana Neykova, and Emanuele D'Osualdo."
+papers = 6
+# TODO: year

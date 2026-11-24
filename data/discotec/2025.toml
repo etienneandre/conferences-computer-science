@@ -2,3 +2,12 @@ edition = 20
 
 [event]
 city = "Lille, France"
+
+[[special_issue]]
+journal = "Science of Computer Programming"
+publisher = "Elsevier"
+title = "Selected Software Artifacts from the Papers of DisCoTec 2025 - 20th International Federated Conference on Distributed Computing Techniques"
+url = "https://www.sciencedirect.com/special-issue/10722KLWN0B"
+note = "Edited by Roberto Casadei, Duncan Paul Attard, Vinicius Vielmo Cogo, and Emilio Incerto."
+papers = 3
+# TODO: year

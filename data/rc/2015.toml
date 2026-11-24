@@ -1,0 +1,41 @@
+edition = 7
+title = "7th Conference on Reversible Computation"
+url = "http://www.reversible-computation.org"
+# https://web.archive.org/web/20190823215639/http://www.reversible-computation.org/2015/cfp.php
+
+[event]
+start = 2015-07-16
+end = 2015-07-17
+city = "Grenoble, France"
+
+[submission]
+format = "16 pages LNCS (full research papers / surveys or tutorials)"
+abstract = [2015-02-08, 2015-02-15]
+paper = [2015-02-15, 2015-02-22]
+notification = [2015-03-31]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+doi = "10.1007/978-3-319-20860-2"
+
+[review]
+blind = "single"
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 1
+women = 1
+# Keynotes listed at https://web.archive.org/web/20190823215701/http://www.reversible-computation.org/2015/program.php
+
+[stats]
+submitted = 30
+accepted = 19
+# The 19 papers presented together with 1 invited talk were carefully reviewed and selected from 30 submissions.
+
+[[cfp]]
+file = "cfp/RC-2015.txt"
+stage = "initial"
