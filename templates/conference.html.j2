@@ -154,6 +154,7 @@
               {%- elif p.name %}
                 {%- if p.get('url') %}<a class="placelink" href="{{ p.url }}">{{ p.display }}</a>
                 {%- else %}{{ p.display }}{% endif %} {{ p.flag }}
+                {%- if e.hybrid %} <span title="Also held online">{{ online_emoji }}</span>{% endif %}
               {%- else %}&mdash;{% endif %}</td>
             {% if conference.umbrella %}
             <td>

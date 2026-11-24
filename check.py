@@ -151,6 +151,8 @@ EDITION_SPEC: dict = {
         "license": ("enum", "license"),
         "none": "bool",
         "doi": ["str", ("list", "str")],
+        # Named because the volume names them, in its own order. § 4.7.
+        "editors": ("list", "str"),
     }),
     "review": ("table", {
         "blind": [("enum", "blind"), "str", "bool"],
@@ -203,6 +205,7 @@ EDITION_SPEC: dict = {
         "doi": "str",
         "url": "str",
         "note": "str",
+        "editors": ("list", "str"),
     })],
     "extra": ("table", {
         "journal": "str",
@@ -691,6 +694,50 @@ def check_doi(edition: dict, where: str, report: Report) -> None:
         check_one_doi(doi, where, "doi", report)
 
 
+def check_proceedings_editors(edition: dict, where: str, report: Report) -> None:
+    proceedings = edition.get("proceedings")
+    if not isinstance(proceedings, dict):
+        return
+    editors = proceedings.get("editors")
+    if editors is not None and proceedings.get("none"):
+        report.warn(where, "`proceedings.none` is set, but editors are "
+                           "recorded; a volume nobody published has none")
+    check_editor_names(editors, where, "proceedings.editors", report)
+
+
+RE_PASTED_LIST = re.compile(r"\bet al\b|\band\b|[;&]|,.*,", re.I)
+
+
+def check_editor_names(names, where: str, label: str, report: Report) -> None:
+    """One name per entry, as the volume prints them.
+
+    The mistake this catches is a whole editor line pasted into a single
+    string — "Doe, J., Smith, K. and Martin, A." — which looks fine in TOML
+    and comes out as one person on the page. A comma is legitimate inside
+    one name ("Doe, Jane"); two of them, or an "and", are not.
+    """
+    if not isinstance(names, list):
+        return
+    if not names:
+        report.warn(where, f"`{label}` is empty; omit it rather than record "
+                           f"that a volume has no editors")
+    seen = set()
+    for name in names:
+        if not isinstance(name, str):
+            continue
+        clean = name.strip()
+        if not clean:
+            report.error(where, f"`{label}` has an empty name")
+            continue
+        if RE_PASTED_LIST.search(clean):
+            report.warn(where, f"`{label}` entry {clean!r} looks like several "
+                               f"names in one string; `editors` takes one name "
+                               f"per entry")
+        if clean.lower() in seen:
+            report.warn(where, f"`{label}` repeats {clean!r}")
+        seen.add(clean.lower())
+
+
 def check_special_issues(edition: dict, where: str, year: int | None,
                          report: Report) -> None:
     """Published special issues: one entry per issue, or `false` for none.
@@ -725,6 +772,8 @@ def check_special_issues(edition: dict, where: str, year: int | None,
             report.error(where, f"`{label}` has no `journal`; the journal is the "
                                 f"one thing an issue cannot be found without")
         check_one_doi(issue.get("doi"), where, f"{label}.doi", report)
+        check_editor_names(issue.get("editors"), where,
+                           f"{label}.editors", report)
 
         url = issue.get("url")
         if isinstance(url, str) and url and not url.startswith(("http://", "https://")):
@@ -766,13 +815,20 @@ def check_event(edition: dict, where: str, report: Report,
     if end is not None and start is None:
         report.error(where, "`event.end` without `event.start`")
 
+    if event.get("online") and event.get("hybrid"):
+        report.error(where, "`online` and `hybrid` contradict each other: "
+                            "`online` is nobody in the room, `hybrid` is a city "
+                            "and a stream; pick one")
+
     city = event.get("city")
     if isinstance(city, str):
         seen_cities[city] += 1
         if cities and city not in cities:
             report.warn(where, f"city {city!r} is not in cities.toml")
     elif not event.get("online") and start is not None:
-        report.warn(where, "no city and not marked online")
+        report.warn(where, "no city and not marked online"
+                           + (" (`hybrid` needs the city people travelled to)"
+                              if event.get("hybrid") else ""))
 
 
 # --------------------------------------------------------------------------
@@ -893,6 +949,7 @@ class Checker:
         check_review(edition, where, self.report)
         check_doi(edition, where, self.report)
         check_special_issues(edition, where, year, self.report)
+        check_proceedings_editors(edition, where, self.report)
         check_rebuttal(edition, where, self.report)
         check_event(edition, where, self.report, self.cities, self.seen_cities)
 

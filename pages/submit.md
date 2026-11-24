@@ -39,6 +39,7 @@ notification = [2026-08-08]
 [proceedings]
 publisher = "Springer LNCS"
 license = "pay-profit"
+editors = ["Jing Liu", "Sofia Marchetti"]
 
 [review]
 [review.gender.chairs]
@@ -127,6 +128,11 @@ notification = [2026-08-15]
 If you are unsure, name the publisher and leave the licence out: most
 publishers have a usual one, and a guess here is worse than a blank.
 
+**Editors.** `editors` takes one name per entry, written as the volume prints
+them and in the same order — not alphabetised. A whole line pasted into one
+string (`"Liu, J., Marchetti, S."`) comes out as one person, so please split
+them. Special issues take the same key for their guest editors.
+
 **Special issues.** `[extra] journal` is for what the call *promises*:
 
 ```toml
@@ -142,6 +148,7 @@ block:
 ```toml
 [[special_issue]]
 journal = "Science of Computer Programming"
+editors = ["Jing Liu"]
 volume = "204"
 issue = "S1"
 year = 2021

@@ -3,7 +3,7 @@
 Reference document for the site's data format. Any discrepancy between this file
 and the generator's behaviour is a bug — in one or the other.
 
-- **Schema version**: 1.6
+- **Schema version**: 1.7
 - **Format**: [TOML 1.0](https://toml.io/) (read with `tomllib`, standard library since Python 3.11)
 - **Encoding**: UTF-8, no BOM, LF line endings
 - **Indentation**: 2 spaces inside multi-line tables
@@ -376,7 +376,7 @@ Do not confuse this with a **merger**, where the parent series end for good
 | `city` | string | **A key in `cities.toml`**, though it looks like free text (§ 7). |
 | `venue` | string | Building, campus. Optional. |
 | `online` | bool | `true` = fully online (`city` then optional). |
-| `hybrid` | bool | |
+| `hybrid` | bool | `true` = held in `city` **and** online. Mutually exclusive with `online`, which is the fully remote case; setting both is an error. The city is then required, since it is the one people travelled to. |
 | `colocated_with` | array(ref) | `slug/year` references, made symmetric at build time (§ 4.3.1). |
 | `part_of` | ref | The edition this one took place **inside** (§ 4.3.2). |
 | `part_of_role` | enum | Overrides the inferred role: `constituent`, `hosted`, `workshop` (§ 4.3.2). |
@@ -583,6 +583,17 @@ use it today.
 | `none` | bool | `true` = no published proceedings. |
 | `post` | bool | `true` = the volume is assembled **after** the event, so notification and camera-ready legitimately fall after `event.start`. Without it, those dates are a validation error. |
 | `doi` | string or array(string) | DOI of the proceedings. An array when a single edition was published across several volumes. |
+| `editors` | array(string) | The volume's editors, one name per entry, in the order the volume prints them. See below. |
+
+**Editors are a bibliographic field, not a roster.** These names are printed
+on the cover of a published volume and are how it is cited, which is what sets
+them apart from the committees that § 9 keeps out. The consequences are worth
+stating: the order is the volume's own and is never alphabetised, one entry
+holds one name — `"Doe, J., Smith, K. and Martin, A."` is one string and will
+be shown as one person — and **nothing here reaches the gender statistics**,
+which count programme chairs and invited speakers only, by the criterion the
+About page states. The same key, with the same rules, records the guest editors
+of a special issue (§ 4.11).
 
 **Inheritance.** Most publishers use the same licence everywhere, so
 `publishers.toml` carries a `default_license` and edition files stay silent. An
@@ -724,6 +735,7 @@ note = "guest-edited with the programme chairs"
 | `papers` | int | How many of the edition's papers it carries. |
 | `doi` | string | Bare identifier, never a URL. Same rule as `proceedings.doi` (§ 4.7). |
 | `url` | string | Full URL to the issue. |
+| `editors` | array(string) | The issue's guest editors, one name per entry, in the printed order. Same rules as `proceedings.editors` (§ 4.7). |
 | `note` | string | Free text. |
 
 An **array** because several per edition is ordinary: a joint edition often
@@ -918,23 +930,24 @@ The build fails on any **error** and reports **warnings** without blocking.
 8. `paper` present both at the `[submission]` level and inside rounds.
 9. `extensions` naming something that is not a deadline key, or naming a
    deadline the edition does not record.
-10. `accepted > submitted`.
-11. A referenced CFP file missing from disk.
-12. `predecessors` pointing at a non-existent slug.
-13. Edition file name not matching `YYYY.toml` or `YYYYx.toml`.
-14. Both `core.rank` and `core.history` present.
-15. `core.history` entries not strictly increasing by `from`.
-16. `joint_with` pointing at a non-existent edition, or at an edition that is
+10. `event.online` and `event.hybrid` both set.
+11. `accepted > submitted`.
+12. A referenced CFP file missing from disk.
+13. `predecessors` pointing at a non-existent slug.
+14. Edition file name not matching `YYYY.toml` or `YYYYx.toml`.
+15. Both `core.rank` and `core.history` present.
+16. `core.history` entries not strictly increasing by `from`.
+17. `joint_with` pointing at a non-existent edition, or at an edition that is
     itself `status = "joint"`.
-17. `colocated_with` or `part_of` malformed, pointing at a non-existent
+18. `colocated_with` or `part_of` malformed, pointing at a non-existent
     edition, or naming the edition itself.
-18. `part_of` forming a loop.
-19. Both `workshop` and `umbrella` on one series.
-20. In `cities.toml`: an unknown key, a `country` that is not two uppercase
+19. `part_of` forming a loop.
+20. Both `workshop` and `umbrella` on one series.
+21. In `cities.toml`: an unknown key, a `country` that is not two uppercase
     letters, a malformed `native_lang`, a coordinate out of range, or one
     coordinate without the other.
-21. `special_issue` set to anything other than `false` or an array of tables.
-22. A `[[special_issue]]` with no `journal`, a `doi` written as a URL, a `url`
+22. `special_issue` set to anything other than `false` or an array of tables.
+23. A `[[special_issue]]` with no `journal`, a `doi` written as a URL, a `url`
     that is not one, or `papers` below 1.
 
 ### Warnings
@@ -955,6 +968,9 @@ The build fails on any **error** and reports **warnings** without blocking.
 - More than **365 days** between `notification` and `event.start`. Long gaps are
   normal in this field, so this threshold targets one specific mistake: a
   mistyped year.
+- An `editors` entry that looks like several names in one string, a repeated
+  name, an empty array, or editors recorded against `proceedings.none`
+  (§ 4.7).
 - `extensions` naming a deadline whose own dates already show the extension
   (the earlier date is not missing, so the name adds nothing), or an empty
   `extensions = []` where `false` was meant (§ 4.4.1).
@@ -975,7 +991,9 @@ validator, and the schema version:
 - multiple submission categories (§ 4.6);
 - two editions in one year (§ 2.2 — the naming is accepted, the rendering is not);
 - named programme committees, chairs and invited speakers — only their
-  counts by gender are recorded (§ 4.8);
+  counts by gender are recorded (§ 4.8). The editors of a published volume or
+  special issue are not covered by this: they are a citation field printed on
+  the work itself (§ 4.7), and they feed no statistic;
 - registration fees;
 - per-edition DBLP keys.
 
@@ -1010,6 +1028,7 @@ part of this schema.
 
 | Version | Change |
 |---|---|
+| 1.7 | `editors` on `[proceedings]` and `[[special_issue]]` (§ 4.7). `event.hybrid` documented and made exclusive with `event.online` (§ 4.3). |
 | 1.6 | `extensions` accepts an array naming which deadlines moved from an unknown date (§ 4.4.1). |
 | 1.5 | `[[special_issue]]`: special issues actually published, as against the announcement in `extra.journal` (§ 4.11). `[extra]` and `[legacy]` renumbered to § 4.12 and § 4.13. |
 | 1.4 | Umbrella events and affiliation: `umbrella` and `workshop` on a series, `event.part_of` and `part_of_role` on an edition, per-edition `acronym` (§ 4.3.2). Co-location documented as implemented (§ 4.3.1). Catching up with the generator, which had moved ahead of this document: `scope`, `languages`, `core.national_of` (§ 3); `event.dates_text` (§ 4.3); `proceedings.post` and `proceedings.doi` (§ 4.7); `diversity` renamed `gender_balance` and the `gender` counts added (§ 4.8); `cfp.stage` and `cfp.kind`, `retrieved` made optional (§ 4.10); `display`, `subdivision`, `native`, `native_lang` in the gazetteer, which now also addresses the per-city pages (§ 7). Structured co-location and DOIs leave § 9. |

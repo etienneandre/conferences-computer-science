@@ -48,7 +48,9 @@
     {% elif place.name %}
     <span class="item">Where<b>
       {%- if place.get('url') %}<a class="placelink" href="{{ place.url }}">{{ place.display }}</a>
-      {%- else %}{{ place.display }}{% endif %} {{ place.flag }}</b></span>
+      {%- else %}{{ place.display }}{% endif %} {{ place.flag }}
+      {%- if edition.hybrid %} <span class="flag" title="Also held online"
+        role="img" aria-label="and online">{{ online_emoji }}</span>{% endif %}</b></span>
     {% endif %}
     {% if edition.core_rank %}
     <span class="item">Rank<b>CORE {{ edition.core_rank }}</b></span>
@@ -170,6 +172,11 @@
           {% if edition.post_proceedings %}<br><small>Published after the event.</small>{% endif %}
           {% if pub.get('note') %}<br><small>{{ pub.note }}</small>{% endif %}</dd>
         {% endif %}
+        {% if edition.editors %}
+        {# On the volume's cover, and how it is cited. Listed in the order the
+           volume prints them, which is itself information. #}
+        <dt>Edited by</dt><dd>{{ edition.editors | namelist }}</dd>
+        {% endif %}
         {% set blind = edition.review.get('blind') %}
         {% if blind is not none and blind is not undefined %}
         <dt>Reviewing</dt><dd>
@@ -247,6 +254,8 @@
             {%- if si.where %} <span class="data">{{ si.where }}</span>{% endif %}
             {%- if si.publisher %} <small>{{ si.publisher }}</small>{% endif %}
             {%- if si.title %}<br><i>{{ si.title }}</i>{% endif %}
+            {%- if si.editors %}<br><small>Guest-edited by
+              {{ si.editors | namelist }}</small>{% endif %}
             {%- if si.doi %}<br><a href="https://doi.org/{{ si.doi }}" class="doi">{{ si.doi }}</a>{% endif %}
             {%- if si.papers or si.note %}<br><small>
               {%- if si.papers %}{{ si.papers }} paper{{ 's' if si.papers != 1 }}
@@ -367,6 +376,11 @@
       {# The building. Too fine-grained for any list, and often unknown, but
          this is the page somebody reads before booking a train. #}
       <p class="venue">{{ edition.venue }}</p>
+      {% endif %}
+      {% if edition.hybrid %}
+      {# Worth saying in words here, where somebody is deciding whether the
+         journey is necessary. The globe beside the flag is the short form. #}
+      <p class="detail-note">Hybrid: also held online.</p>
       {% endif %}
       {% if map_points %}
       {% set map_mode = 'one' %}

@@ -392,6 +392,15 @@ class Edition:
     def online(self) -> bool:
         return bool(self.event.get("online"))
 
+    @property
+    def hybrid(self) -> bool:
+        """Held in a city *and* online, so both belong on the page.
+
+        Mutually exclusive with `online`, which is the fully remote case: an
+        edition nobody could attend in person has no flag to show.
+        """
+        return bool(self.event.get("hybrid")) and not self.online
+
     # -- submission ------------------------------------------------------
     @property
     def submission(self) -> dict:
@@ -701,6 +710,18 @@ class Edition:
                and bool(self.tracks)
 
     @property
+    def editors(self) -> list[str]:
+        """Who edited the proceedings volume, in the order it prints them.
+
+        A bibliographic field, not a roster: these names are on the cover of a
+        published book and are how the volume is cited. That is what keeps it
+        clear of § 9, which rules out naming committees — and it is also why
+        nothing here feeds the gender statistics, which count chairs and
+        invited speakers only, by a criterion the About page states.
+        """
+        return editor_names(self.proceedings)
+
+    @property
     def special_issues(self) -> list[dict]:
         """Special issues that actually came out, one entry each.
 
@@ -732,6 +753,7 @@ class Edition:
                 "doi": entry.get("doi"),
                 "url": entry.get("url"),
                 "note": entry.get("note"),
+                "editors": editor_names(entry),
                 "where": special_issue_where(entry),
             })
         return issues
@@ -1868,6 +1890,7 @@ def build_environment(site: Site) -> Environment:
     env.filters["daterange"] = lambda pair: fmt_range(pair[0], pair[1])
     env.filters["ordinal"] = ordinal
     env.filters["oneline"] = oneline
+    env.filters["namelist"] = name_list
     env.globals.update(
         correction=lambda thing: correction_link(site, thing),
         jsonld=lambda edition: event_jsonld(site, edition),
@@ -2100,6 +2123,27 @@ def series_licence(site: Site, conference: Conference) -> dict | None:
         # Only worth saying when it is not simply how it has always been.
         "changed": since > min(e.year for e in recorded),
     }
+
+
+def name_list(names) -> str:
+    """"A", "A and B", "A, B and C": the form a citation prints.
+
+    No serial comma, in keeping with the rest of the site's prose. The order
+    is the one the volume gives, never alphabetised — on a proceedings volume
+    that order is itself information.
+    """
+    clean = [str(n).strip() for n in (names or []) if str(n).strip()]
+    if len(clean) < 2:
+        return clean[0] if clean else ""
+    return f"{', '.join(clean[:-1])} and {clean[-1]}"
+
+
+def editor_names(container: dict) -> list[str]:
+    """`editors` as a list of names, from proceedings or a special issue."""
+    value = container.get("editors")
+    if not isinstance(value, list):
+        return []
+    return [n.strip() for n in value if isinstance(n, str) and n.strip()]
 
 
 def special_issue_where(entry: dict) -> str:
