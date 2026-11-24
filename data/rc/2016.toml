@@ -39,7 +39,7 @@ accepted = 23
 journal = "Science of Computer Programming"
 publisher = "Elsevier"
 title = "Special issue of the 8th Conference on Reversible Computation (RC2016)"
-note = "Authors of best papers invited to submit extended versions. Edited by Ivan Lanese and Simon Devitt."
+editors = ["Ivan Lanese", "Simon Devitt"]
 url = "https://www.sciencedirect.com/journal/science-of-computer-programming/vol/151/suppl/C"
 papers = 3
 
