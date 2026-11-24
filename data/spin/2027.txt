@@ -1,0 +1,37 @@
+edition = 33
+title = "33rd International Symposium on Model Checking Software"
+url = "https://spin-web.github.io/SPIN2027/"
+
+[event]
+start = 2027-04-14
+end = 2027-04-15
+city = "Copenhagen, Denmark"
+colocated_with = ["etaps/2027"]
+
+[submission]
+tz = "AoE"
+format = "16 pages + bibliography and appendices excluded (full research / full tool) / 6 pages + bibliography and appendices excluded (short), LNCS format"
+abstract = [2027-01-21]
+paper = [2027-01-28]
+notification = [2027-03-05]
+
+[proceedings]
+publisher = "Springer LNCS"
+license = "pay-profit"
+
+[review]
+artifact = "Optional artifact evaluation (artifact submission deadline: 4 February 2027), strongly encouraged for full tool papers"
+award = "A Best Paper award will be announced and handed out at the conference."
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 1
+women = 2
+
+[[cfp]]
+file = "cfp/SPIN-2027.txt"
+retrieved = 2026-11-19
+stage = "initial"

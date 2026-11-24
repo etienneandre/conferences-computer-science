@@ -1,0 +1,28 @@
+SPIN 2027: The 33rd International Symposium on Model Checking Software
+April 14–15, 2027, co-located with ETAPS 2027 in Copenhagen, Denmark
+
+First Call for Papers
+
+https://spin-web.github.io/SPIN2027/cfp
+
+The SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium focuses on software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution. Submissions are called on theoretical results, novel algorithms, tool development, and empirical evaluation. With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere.
+
+Important Dates
+  January 21, 2027: Abstract submission deadline
+  January 28, 2027: Paper submission deadline
+  February 04, 2027: Artifact submission deadline (optional)
+  March 05, 2027: Notification of acceptance
+
+Papers are solicited in three categories:
+  * Full Research Papers (16 pages, excluding bibliography and appendices);
+  * Full Tool Papers (16 pages, excluding bibliography and appendices; providing an accompanying artifact is strongly encouraged);
+  * Short Papers (6 pages, excluding bibliography and appendices).
+
+Papers should be submitted via the EasyChair SPIN 2027 submission website at https://easychair.org/conferences/?conf=spin2027
+
+Submissions should adhere to Springer's LNCS format. At least one author of each accepted paper must attend the symposium and present the paper. A Best Paper award will be announced and handed out at the conference.
+
+For more details, see the SPIN 2027 website at https://spin-web.github.io/SPIN2027/cfp, or contact the SPIN 2027 PC chairs:
+
+Emily Yu <z.yu@liacs.leidenuniv.nl>
+Carlos E. Budde <cesbu@dtu.dk>
