@@ -1,0 +1,106 @@
+=======================================================================
+
+Final Call for Papers
+8th Conference on Reversible Computation
+(RC 2016)
+
+July 7th-8th, 2016, Bologna, Italy
+Abstract Submission: Sun, February 7th, 2016
+Submission Deadline: Sun, February 14th, 2016
+http://www.reversible-computation.org
+
+Highlights: LNCS proceedings confirmed and SCP special issue
+
+=======================================================================
+
+Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, program debugging, testing, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented recently and are seen as promising alternatives to conventional CMOS technology.
+
+The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Contributions on the following topics in Reversible Computation are welcome:
+
+* Applications
+* Architectures
+* Algorithms
+* Circuit Design
+* Debugging
+* Fault Tolerance and Error Correction
+* Hardware
+* Information Theory
+* Physical Realizations
+* Programming Languages
+* Quantum Computation
+* Software
+* Synthesis
+* Theoretical Results
+* Testing
+* Verification
+
+===== Important Dates =====
+
+- Abstract Submission: Sun, February 7th, 2016
+- Submission Deadline: Sun, February 14th, 2016
+- Notification to Authors: Sun, March 21st, 2016
+- Final Version: Sun, April 10th, 2016
+- Conference: Thu-Fri, July 7th and 8th, 2016
+
+===== Invited speakers =====
+
+* Samson Abramsky (University of Oxford)
+* Adam Whiteside (University of Melbourne & Google), presenting joint work with Austin Fowler (Google)
+
+===== Paper submission =====
+
+Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere. The submissions must be prepared using Springer's LNCS style. Submissions not adhering to the specified constraints may be rejected without review. Papers can be submitted electronically in pdf via the RC 2016 interface of the EasyChair system:
+https://easychair.org/conferences/?conf=rc2016
+
+We solicit the following kinds of submissions:
+- full research papers (16 pages maximum)
+- tutorials (16 pages maximum),
+- work-in-progress or tool demonstration papers (6 pages maximum).
+
+Additional material intended for reviewers but not for publication in the final version - for example, details of proofs - may be placed in a clearly marked appendix that is not included in the page limit. Reviewers are at liberty to ignore appendices and papers must be understandable without them.
+
+Each paper will undergo a peer review of at least 3 anonymous reviewers. The conference proceedings will be published by Springer in the LNCS Series.
+
+===== Special Issue =====
+
+Authors of best papers will be invited to submit an extended version of their work to a special issue to be published in Science of Computer Programming (Elsevier).
+
+===== Program Chairs =====
+
+Ivan Lanese
+University of Bologna/INRIA
+Italy
+
+Simon Devitt
+National Institute of Informatics
+Japan
+
+===== Program Committee =====
+
+* Michael Bremner (University of Technology Sydney, Australia)
+* Andrew Cross (IBM T. J. Watson Research Center, US)
+* Gerhard Dueck (University of New Brunswick, Canada)
+* Simon Gay (University of Glasgow, UK)
+* Robert Glueck (University of Copenhagen, Denmark)
+* Jarkko Kari (University of Turku, Finland)
+* Rodney Van Meter (Keio University, Japan)
+* Michael Miller (University of Victoria, Canada)
+* Alexandru Paler (University of Passau, Germany)
+* Markus Schordan (Lawrence Livermore National Laboratory, US)
+* Ulrik Schultz (University of Southern Denmark, Denmark)
+* Peter Selinger (Dalhousie University, Canada)
+* Indranil Sengupta (Indian Institute of Technology, Kharagpur, India)
+* Mathias Soeken (EPFL, Switzerland)
+* Jean-Bernard Stefani (INRIA, France)
+* Irek Ulidowski (University of Leicester, UK)
+* Benoit Valiron (CentraleSupelec, France)
+* Robert Wille (University of Bremen, Denmark)
+* Tetsuo Yokoyama (Nanzan University, Japan)
+
+===== Conference Organizer =====
+
+Ivan Lanese (University of Bologna/INRIA, Bologna, Italy)
+ivan.lanese@gmail.com
+
+info@reversible-computation.org
+http://www.reversible-computation.org

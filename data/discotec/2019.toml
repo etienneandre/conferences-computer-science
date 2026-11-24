@@ -2,3 +2,22 @@ edition = 14
 
 [event]
 city = "Kongens Lyngby, Denmark"
+
+[[special_issue]]
+journal = "Logical Methods in Computer Science"
+title = "Selected Papers of the 21st International Conference on Coordination Models and Languages (COORDINATION 2019)"
+url = "https://lmcs.episciences.org/volume/view/id/377"
+papers = 5
+note = "Edited by Emilio Tuosto and Hanne Riis Nielsen."
+# TODO: year
+# TODO: move to COORDINATION 2019?
+
+[[special_issue]]
+journal = "Science of Computer Programming"
+publisher = "Elsevier"
+title = "Special Issue on Selected Tool Papers of the 21st International Conference on Coordination Models and Languages, COORDINATION 2019"
+url = "https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9"
+note = "Edited by Hugo Torres Vieira and Omar Inverso."
+papers = 4
+# TODO: year
+# TODO: move to COORDINATION 2019?

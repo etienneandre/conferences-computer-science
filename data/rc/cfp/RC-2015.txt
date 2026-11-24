@@ -1,0 +1,92 @@
+=======================================================================
+Call for Papers
+
+7th Conference on Reversible Computation
+(RC 2015)
+
+July 16th-17th, 2015, Grenoble, France
+Abstract Submission: Sun, February 8th, 2015
+Submission Deadline: Sun, February 15th, 2015
+
+http://www.reversible-computation.org
+=======================================================================
+
+Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, program debugging, testing, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented recently and are seen as promising alternatives to conventional CMOS technology.
+
+The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This particularly includes applications of reversibility in quantum computation. Research papers, tutorials, tool demonstrations, and work-in-progress reports are within the scope of the conference. Contributions on the following topics in Reversible Computation are welcome:
+
+* Applications
+* Architectures
+* Algorithms
+* Circuit Design
+* Debugging
+* Fault Tolerance and Error Correction
+* Hardware
+* Information Theory
+* Physical Realizations
+* Programming Languages
+* Quantum Computation
+* Software
+* Synthesis
+* Theoretical Results
+* Testing
+* Verification 
+
+===== Important Dates =====
+
+- Abstract Submission: Sun, February 8th, 2015
+- Submission Deadline: Sun, February 15th, 2015
+- Notification to Authors: Tue, March 31st, 2015
+- Final Version: Sun, April 21st, 2015
+- Conference: Thu-Fri, July 16th and 17th, 2015
+
+===== Paper submission =====
+
+Interested researchers are invited to submit full research papers (16 pages maximum in LNCS format) as well as surveys or tutorials (16 pages maximum in LNCS format). All accepted papers will be published at the conference in Springer's Lecture Notes in Computer Science (LNCS).
+
+Paper can be submitted through the following webpage:
+http://reversible-computation.org/2015/papersubmission.php
+
+===== Program Chairs =====
+
+Jean-Bernard Stefani
+INRIA, Grenoble, France
+
+Jean Krivine
+CNRS and University Paris
+Diderot, France
+
+===== Program Committee =====
+
+* Holger Bock Axelsen (U. Copenhagen, Denmark)
+* Bob Coecke (U. Oxford, UK)
+* Vincent Danos (CNRS & U. Edinburgh, UK)
+* Alexis De Vos (U. Gent, Belgium)
+* Gerhard Dueck (U. New Brunswick, Canada)
+* Simon Gay (U. Glasgow, UK)
+* Markus Grassl (MPI Erlangen, Germany)
+* Matthew Hennessy (TC Dublin, Ireland)
+* Niraj Jha (Princeton U., USA)
+* Cosimo Laneve (U. Bologna, Italy)
+* Ivan Lanese (U. Bologna, Italy)
+* Michael Miller (U. Victoria, Canada)
+* Iain Phillips (Imperial College London, UK)
+* Ilia Polian (U. Freiburg, Germany)
+* Indranil Sengupta (IIT Kharagpur, India)
+* Michael Kirkedal Thomsen (U. Bremen, Germany)
+* Irek Ulidowski (U. Leicester, UK)
+* Daniele Varacca (U. Paris Est - Créteil, France)
+* Paul Vitanyi (CWI & U. Amsterdam, Netherlands)
+* Janis Voigtlander (U. Bonn, Germany)
+* Robert Wille (U. Bremen, Germany)
+* Shigeru Yamashita (Ritsumeikan U., Japan)
+* Tetsuo Yokohama (Nanzan U., Japan)
+
+===== Conference Organizer =====
+
+Jean-Bernard Stefani (INRIA, Grenoble, France)
+PC Chair
+jean-bernard.stefani@inria.fr
+
+info@reversible-computation.org
+http://www.reversible-computation.org
