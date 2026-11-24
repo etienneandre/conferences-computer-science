@@ -76,6 +76,19 @@ paper = [2026-06-22]
 extensions = false
 ```
 
+And if you know it *was* extended but not from when — which happens often, as
+the original date vanishes from the call the moment it is updated — say that
+instead, naming the deadline that moved:
+
+```toml
+abstract = [2022-02-28]
+paper = [2022-03-07]
+extensions = ["abstract"]
+```
+
+That records an extension on the abstract deadline whose earlier date is lost,
+and claims nothing at all about the paper deadline.
+
 **Leave out what you do not know.** An absent field means "nobody has checked",
 which is honest. Writing `false` means "checked, and there is nothing", which is
 a stronger claim. Please do not use one for the other.

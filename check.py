@@ -135,7 +135,9 @@ EDITION_SPEC: dict = {
     "submission": ("table", {
         "tz": "str",
         "format": "str",
-        "extensions": "bool",
+        # `false` (never extended), `true` (extended, earlier date lost)
+        # or the deadlines that moved. See SCHEMA § 4.4.1.
+        "extensions": ["bool", ("list", "str")],
         "rebuttal_start": "date",
         "rebuttal_end": "date",
         "round": ("tables", _ROUND_SPEC),
@@ -532,6 +534,45 @@ def check_rounds(edition: dict, where: str, report: Report) -> None:
                             + ", ".join(f"`{k}`" for k in clash))
 
 
+def check_extensions(edition: dict, where: str, report: Report) -> None:
+    """`extensions` as an array: which deadlines moved from an unknown date.
+
+    `true` claims an extension happened somewhere in the edition; the array
+    says which deadlines it was. What it never does is claim anything about
+    the deadlines it leaves out — those stay unknown, as always.
+    """
+    submission = edition.get("submission")
+    if not isinstance(submission, dict):
+        return
+    named = submission.get("extensions")
+    if not isinstance(named, list):
+        return
+    if not named:
+        report.warn(where, "`extensions = []` says nothing; write `false` for "
+                           "an edition checked and never extended, or name the "
+                           "deadlines that moved")
+        return
+
+    groups = [submission] + [r for r in (submission.get("round") or [])
+                             if isinstance(r, dict)]
+    for key in named:
+        if not isinstance(key, str):
+            continue
+        if key not in DEADLINE_KEYS:
+            report.error(where, f"`extensions` names {key!r}, which is not a "
+                                f"deadline: expected one of "
+                                + ", ".join(f"`{k}`" for k in DEADLINE_KEYS))
+            continue
+        dates = [g[key] for g in groups if isinstance(g.get(key), list) and g[key]]
+        if not dates:
+            report.error(where, f"`extensions` names `{key}`, but this edition "
+                                f"records no `{key}` deadline to have extended")
+        elif all(len(d) > 1 for d in dates):
+            report.warn(where, f"`extensions` names `{key}`, but its dates "
+                               f"already show the extension; the earlier date "
+                               f"is not missing, so the name is redundant")
+
+
 def check_stats(edition: dict, where: str, report: Report) -> None:
     stats = edition.get("stats")
     if not isinstance(stats, dict):
@@ -846,6 +887,7 @@ class Checker:
                     check_date_list(values, prefix + key, where, self.report)
 
         check_rounds(edition, where, self.report)
+        check_extensions(edition, where, self.report)
         check_chronology(edition, where, self.report)
         check_stats(edition, where, self.report)
         check_review(edition, where, self.report)

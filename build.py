@@ -86,6 +86,13 @@ def load_toml(path: Path) -> dict:
 # flag it would replace.
 RGI_SUBDIVISIONS = {"GB-ENG", "GB-SCT", "GB-WLS"}
 
+# What stands in the flag's place when an edition was held online. A globe
+# rather than a laptop or a camera: the slot holds a country, and the honest
+# answer for an online meeting is "no country", not "a computer". Defined once
+# so it can be changed once; it is always rendered next to the word "Online",
+# never on its own, like every other symbol on this site.
+ONLINE_EMOJI = "\N{GLOBE WITH MERIDIANS}"
+
 
 def flag_emoji(country: str | None, subdivision: str | None = None) -> str:
     """Derive a flag from an ISO code. Never store the emoji itself.
@@ -214,6 +221,10 @@ class Deadline:
     dates: list[date]
     tz: str | None
     round_name: str | None = None
+    # `extensions` named this deadline: it moved, and the date it moved from
+    # was never recorded. Kept apart from `extended`, which has both ends and
+    # can therefore be measured.
+    undated_extension: bool = False
 
     @property
     def effective(self) -> date:
@@ -230,6 +241,15 @@ class Deadline:
     @property
     def extension_days(self) -> int:
         return (self.dates[-1] - self.dates[0]).days if self.extended else 0
+
+    @property
+    def extended_unknown(self) -> bool:
+        """Known to have moved, with nothing to measure the move against.
+
+        A list of two or more dates already tells the story, so this is only
+        ever true of a single-date deadline that `extensions` has named.
+        """
+        return self.undated_extension and not self.extended
 
     @property
     def steps(self) -> list[dict]:
@@ -427,7 +447,39 @@ class Edition:
 
     @property
     def extensions_known_undated(self) -> bool:
-        return self.submission.get("extensions") is True
+        """An extension happened and the date it moved from was never recorded.
+
+        True for the bare `extensions = true` — something moved, nobody knows
+        what — and for the array form, which names the deadlines it applies to.
+        """
+        value = self.submission.get("extensions")
+        return value is True or bool(isinstance(value, list) and value)
+
+    @property
+    def extensions_named(self) -> set[str]:
+        """Which deadlines `extensions = ["abstract", …]` is talking about.
+
+        Empty when the edition says only `extensions = true`, which is a claim
+        about the edition and not about any one deadline. Naming them says
+        nothing about the deadlines left out: as everywhere else, silence is
+        silence (§ 1.2).
+        """
+        value = self.submission.get("extensions")
+        if not isinstance(value, list):
+            return set()
+        return {v for v in value if isinstance(v, str)}
+
+    def extension_undated_for(self, key: str) -> bool:
+        """Does the undated-extension claim cover *this* deadline?
+
+        `extensions = true` is a claim about the edition and stands wherever
+        the page shows a deadline, which is how it has always been read. The
+        array form names its deadlines, and a claim about the abstract must
+        not be repainted onto the paper line — which is the whole reason for
+        naming them.
+        """
+        named = self.extensions_named
+        return self.extensions_known_undated and (not named or key in named)
 
     @property
     def extensions_ruled_out(self) -> bool:
@@ -1195,7 +1247,7 @@ class Conference:
             if paper and paper.extended:
                 extended += 1
                 spans.append(paper.extension_days)
-            elif edition.extensions_known_undated:
+            elif edition.extension_undated_for("paper"):
                 extended += 1
             elif edition.extensions_ruled_out:
                 firm += 1
@@ -1579,13 +1631,18 @@ class Site:
         for index, group in enumerate(submission.get("round", []) or []):
             groups.append((group.get("name") or f"Round {index + 1}", group))
 
+        # `extensions` sits at the [submission] level and is shared by every
+        # round, like `tz` and `format`.
+        named = edition.extensions_named
+
         found: list[Deadline] = []
         for name, group in groups:
             for key in DEADLINE_KEYS:
                 dates = group.get(key)
                 if isinstance(dates, list) and dates:
                     found.append(Deadline(key=key, label=DEADLINE_LABELS[key],
-                                          dates=list(dates), tz=tz, round_name=name))
+                                          dates=list(dates), tz=tz, round_name=name,
+                                          undated_extension=key in named))
         return found
 
     # -- lookups used by templates --------------------------------------
@@ -1817,6 +1874,7 @@ def build_environment(site: Site) -> Environment:
         fragment=lambda name: load_fragment(site, name),
         cfp_text=lambda edition, cfp: read_cfp_text(site, edition, cfp),
         asset_version=asset_version(site),
+        online_emoji=ONLINE_EMOJI,
         site=site,
         config=site.config,
         now=site.now,

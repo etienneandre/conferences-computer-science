@@ -150,7 +150,7 @@
             <td class="num">{% if e.raw.get('edition') %}{{ e.raw.edition }}{% else %}&mdash;{% endif %}</td>
             <td>{{ e.held }}</td>
             <td>
-              {%- if e.online %}Online
+              {%- if e.online %}Online {{ online_emoji }}
               {%- elif p.name %}
                 {%- if p.get('url') %}<a class="placelink" href="{{ p.url }}">{{ p.display }}</a>
                 {%- else %}{{ p.display }}{% endif %} {{ p.flag }}
@@ -167,7 +167,8 @@
               {% if e.status in ('cancelled', 'no-edition') %}&mdash;
               {% elif paper %}{{ paper.effective | date(false) }}
                 {% if paper.extended %}<span class="extended">+{{ paper.extension_days }}&nbsp;days</span>
-                {% elif e.extensions_known_undated %}<span class="extended">ext.</span>
+                {% elif e.extension_undated_for('paper') %}<span class="extended"
+                  title="Extended from a date that was never recorded">+?&nbsp;days</span>
                 {% elif e.extensions_ruled_out %}<span class="firm" title="Checked: this deadline was not extended">firm</span>
                 {% endif %}
               {% else %}&mdash;{% endif %}

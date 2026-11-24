@@ -3,7 +3,7 @@
 Reference document for the site's data format. Any discrepancy between this file
 and the generator's behaviour is a bug — in one or the other.
 
-- **Schema version**: 1.5
+- **Schema version**: 1.6
 - **Format**: [TOML 1.0](https://toml.io/) (read with `tomllib`, standard library since Python 3.11)
 - **Encoding**: UTF-8, no BOM, LF line endings
 - **Indentation**: 2 spaces inside multi-line tables
@@ -471,7 +471,7 @@ TACAS. Give it a `paper` deadline and it is listed like anything else.
 | `notification` | array(date) | |
 | `camera_ready` | array(date) | |
 | `registration` | array(date) | Optional, rarely known. |
-| `extensions` | bool | `false` = verified, no extension ever happened. `true` = an extension happened but the earlier date is unknown (§ 4.4.1). Omit when nothing is known. |
+| `extensions` | bool \| array(string) | `false` = verified, no extension ever happened. `true` = one happened but the earlier date is unknown. An array names *which* deadlines moved from an unknown date, e.g. `["abstract"]` (§ 4.4.1). Omit when nothing is known. |
 
 Lists must be strictly increasing. A date earlier than its predecessor is a data
 entry mistake. Real-world exception: a notification date brought *forward* — put
@@ -496,6 +496,34 @@ This completes the three-state pattern of § 1.2 across the whole field: absent
 means nothing is known, `false` means no extension ever happened, `true` means
 one did and its earlier date is missing. A list of two or more dates is already
 self-evident and needs no `extensions` key.
+
+`true` is a claim about the edition and not about any one deadline, so the site
+reads it against whichever deadline it is showing. Where it is known *which*
+deadline moved, name it instead:
+
+```toml
+[submission]
+abstract = [2022-02-28]
+paper = [2022-03-07]
+extensions = ["abstract"]
+```
+
+This says the abstract deadline was extended to 28 February from a date nobody
+recorded. It says **nothing** about the paper deadline: a name left out of the
+array is unknown, as silence is everywhere else in this document, and only
+`extensions = false` is a claim about all of them. The names allowed are the
+deadline keys of § 4.4, and each one must be a deadline the edition actually
+records.
+
+Note what this is not: an empty slot inside the date list. `abstract = [,
+2022-02-28]` is not valid TOML, and a sentinel such as `["?", 2022-02-28]`
+would put a string into a list that the exports, the calendar feeds and the
+front page all read as dates. The unknown is recorded beside the list rather
+than inside it.
+
+On the page, a deadline named this way is drawn in the same shape as a measured
+extension, with a question mark where the earlier date would be: ~~?~~ → 28 Feb
+2022 +? days.
 
 ### 4.5 Time zones
 
@@ -888,7 +916,8 @@ The build fails on any **error** and reports **warnings** without blocking.
 7. Chronological inconsistency: `abstract ≤ paper ≤ notification ≤ camera_ready ≤
    event.start`, evaluated on effective dates (the last element of each list).
 8. `paper` present both at the `[submission]` level and inside rounds.
-9. `extensions` set to anything other than `false`.
+9. `extensions` naming something that is not a deadline key, or naming a
+   deadline the edition does not record.
 10. `accepted > submitted`.
 11. A referenced CFP file missing from disk.
 12. `predecessors` pointing at a non-existent slug.
@@ -926,6 +955,9 @@ The build fails on any **error** and reports **warnings** without blocking.
 - More than **365 days** between `notification` and `event.start`. Long gaps are
   normal in this field, so this threshold targets one specific mistake: a
   mistyped year.
+- `extensions` naming a deadline whose own dates already show the extension
+  (the earlier date is not missing, so the name adds nothing), or an empty
+  `extensions = []` where `false` was meant (§ 4.4.1).
 - A `[[special_issue]]` with neither `doi` nor `url` (nothing to follow), one
   published before the edition it collects, one carrying more papers than the
   edition accepted, a repeated journal/volume/issue, or an empty
@@ -978,6 +1010,7 @@ part of this schema.
 
 | Version | Change |
 |---|---|
+| 1.6 | `extensions` accepts an array naming which deadlines moved from an unknown date (§ 4.4.1). |
 | 1.5 | `[[special_issue]]`: special issues actually published, as against the announcement in `extra.journal` (§ 4.11). `[extra]` and `[legacy]` renumbered to § 4.12 and § 4.13. |
 | 1.4 | Umbrella events and affiliation: `umbrella` and `workshop` on a series, `event.part_of` and `part_of_role` on an edition, per-edition `acronym` (§ 4.3.2). Co-location documented as implemented (§ 4.3.1). Catching up with the generator, which had moved ahead of this document: `scope`, `languages`, `core.national_of` (§ 3); `event.dates_text` (§ 4.3); `proceedings.post` and `proceedings.doi` (§ 4.7); `diversity` renamed `gender_balance` and the `gender` counts added (§ 4.8); `cfp.stage` and `cfp.kind`, `retrieved` made optional (§ 4.10); `display`, `subdivision`, `native`, `native_lang` in the gazetteer, which now also addresses the per-city pages (§ 7). Structured co-location and DOIs leave § 9. |
 | 1.3 | `extensions` accepts `true` for an extension whose earlier date is unknown (§ 4.4.1). `rebuttal_start` / `rebuttal_end` added (§ 4.8). |

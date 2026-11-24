@@ -43,7 +43,8 @@
     <span class="item">Held<b>{{ edition.held }}</b></span>
     {% endif %}
     {% if edition.online %}
-    <span class="item">Where<b>Online</b></span>
+    <span class="item">Where<b>Online <span class="flag" title="Held online"
+      role="img" aria-label="Online">{{ online_emoji }}</span></b></span>
     {% elif place.name %}
     <span class="item">Where<b>
       {%- if place.get('url') %}<a class="placelink" href="{{ place.url }}">{{ place.display }}</a>
@@ -124,6 +125,12 @@
               <i>+{{ step.days }} day{{ 's' if step.days != 1 }}</i>{% if not loop.last %}<br>{% endif %}
               {%- endfor %}
             </span>
+            {% elif d.extended_unknown %}
+            {# Same shape as a measured extension, with a question mark where
+               the earlier date would be. The arrow says the move happened;
+               nothing is invented to fill the gap it left. #}
+            <span class="tl-was" title="Extended from a date that was never recorded">
+              <s>?</s> &rarr; {{ d.effective | date }} <i>+? days</i></span>
             {% endif %}
           </span>
         </li>
@@ -136,7 +143,9 @@
           <span class="tl-name">Conference opens</span></li>
       </ul>
       {% endif %}
-      {% if edition.extensions_known_undated %}
+      {% if edition.extensions_known_undated and not edition.extensions_named %}
+      {# Only when `extensions = true` leaves the deadline unnamed. Once the
+         data names them, each line says it for itself and this would repeat. #}
       <p class="chart-caption">A deadline was extended this year, but the date it moved
         from was never recorded.</p>
       {% elif edition.extensions_ruled_out %}

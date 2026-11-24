@@ -46,7 +46,7 @@
     <span class="deadline">{{ paper.effective | date }}</span><span class="countdown" data-expires="@@EXPIRES@@">@@COUNT@@</span>
     {% if paper.extended %}
     <span class="sub-date"><b>was</b> {{ paper.announced | date(false) }}<span class="extended">extended</span></span>
-    {% elif edition.extensions_known_undated %}
+    {% elif edition.extension_undated_for('paper') %}
     <span class="sub-date"><span class="extended">extended</span> from an unrecorded date</span>
     {% elif edition.extensions_ruled_out %}
     <span class="sub-date"><span class="firm">firm</span> no extension</span>
@@ -60,7 +60,8 @@
   <td class="c-place">
     {% if edition.held %}<span class="when">{{ edition.held }}</span>{% endif %}
     {% if edition.online %}
-    <span class="where">Online</span>
+    <span class="where">Online <span class="flag" title="Held online"
+      role="img" aria-label="Online">{{ online_emoji }}</span></span>
     {% elif place.get('name') %}
     <span class="where">
       {%- if place.get('url') %}<a class="placelink" href="{{ place.url }}">{{ place.display }}</a>
