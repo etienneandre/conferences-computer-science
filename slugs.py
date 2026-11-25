@@ -41,3 +41,30 @@ def slugify(text: str) -> str:
     folded = unicodedata.normalize("NFKD", text.translate(TRANSLITERATE))
     stripped = "".join(c for c in folded if not unicodedata.combining(c))
     return re.sub(r"-{2,}", "-", re.sub(r"[^a-z0-9]+", "-", stripped.lower())).strip("-")
+
+
+def sort_key(text: str) -> tuple:
+    """An ordering key that files an accented letter under its plain letter.
+
+    Codepoint order puts Arhus, Evry, Osaka and Da Nang after Zurich, which is
+    not an alphabet anybody reads. The folding the slugs already use does the
+    right thing, and using it for both means a city sorts where its own URL
+    says it lives: Da Nang is at /city/da-nang/ and sorts under D.
+
+    Not `locale.strxfrm`, which depends on a locale having been generated on
+    whichever machine runs the build, and not PyICU, which would be a second
+    dependency for a generator that has one. This matches what the browser's
+    own `localeCompare` does for these names, which matters because the city
+    and country tables are sorted again in the browser when a reader clicks a
+    column: the two orders have to agree.
+
+    Accents still separate names that fold alike, as the second element, so
+    Montreal comes before Montreal-with-an-accent rather than either order by
+    chance. A name with no Latin letters at all sorts after those that have
+    them, which is where a reader of an A-Z list looks for it.
+    """
+    folded = unicodedata.normalize("NFKD", text.translate(TRANSLITERATE))
+    letters = "".join(c for c in folded if not unicodedata.combining(c)).casefold()
+    if any("a" <= c <= "z" for c in letters):
+        return (0, letters, text.casefold())
+    return (1, letters or text.casefold(), text.casefold())

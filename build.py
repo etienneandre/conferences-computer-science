@@ -39,7 +39,7 @@ from urllib.parse import urlencode
 
 import calendars
 import countries
-from slugs import slugify
+from slugs import slugify, sort_key
 
 try:
     from jinja2 import Environment, FileSystemLoader, StrictUndefined
@@ -887,7 +887,7 @@ class Edition:
         for member in self.members:
             groups.setdefault(member.role, []).append(member)
         for bucket in groups.values():
-            bucket.sort(key=lambda e: e.conference.acronym.lower())
+            bucket.sort(key=lambda e: sort_key(e.conference.acronym))
         known = [(role, groups.pop(role)) for role in order if role in groups]
         return known + sorted(groups.items())
 
@@ -1229,7 +1229,7 @@ class Conference:
             seen.values(),
             key=lambda r: (("constituent", "hosted", "workshop").index(r["role"])
                            if r["role"] in ("constituent", "hosted", "workshop") else 9,
-                           min(r["years"]), r["conference"].acronym.lower()))
+                           min(r["years"]), sort_key(r["conference"].acronym)))
         for row in rows:
             row["first"] = min(row["years"])
             row["last"] = max(row["years"])
@@ -1421,7 +1421,7 @@ class Place:
         counts = Counter(e.slug for e in self.editions)
         by_slug = {e.slug: e.conference for e in self.editions}
         return [by_slug[slug] for slug, _ in
-                sorted(counts.items(), key=lambda p: (-p[1], by_slug[p[0]].acronym.lower()))]
+                sorted(counts.items(), key=lambda p: (-p[1], sort_key(by_slug[p[0]].acronym)))]
 
     def visits(self, conference: "Conference") -> int:
         return sum(1 for e in self.editions if e.slug == conference.slug)
@@ -1462,7 +1462,7 @@ class Country:
     @property
     def listed_cities(self) -> list[Place]:
         return sorted(self.cities,
-                      key=lambda c: (-len(c.editions), c.display.lower()))
+                      key=lambda c: (-len(c.editions), sort_key(c.display)))
 
     @property
     def conferences(self) -> list["Conference"]:
@@ -1470,7 +1470,7 @@ class Country:
         counts = Counter(e.slug for e in editions)
         by_slug = {e.slug: e.conference for e in editions}
         return [by_slug[slug] for slug, _ in
-                sorted(counts.items(), key=lambda p: (-p[1], by_slug[p[0]].acronym.lower()))]
+                sorted(counts.items(), key=lambda p: (-p[1], sort_key(by_slug[p[0]].acronym)))]
 
     @property
     def first_year(self) -> int | None:
@@ -1688,7 +1688,7 @@ class Site:
                     other.colocated.append(edition)
 
         for edition in self.editions:
-            edition.colocated.sort(key=lambda e: e.acronym)
+            edition.colocated.sort(key=lambda e: sort_key(e.acronym))
 
     @staticmethod
     def _deadlines(edition: Edition) -> list[Deadline]:
@@ -2460,12 +2460,12 @@ def render_places(site: Site, env: Environment) -> int:
     visited = [p for p in site.places.values() if p.editions]
     write(site.out_dir / "city" / "index.html",
           env.get_template("cities.html.j2").render(
-              places=sorted(visited, key=lambda p: (-len(p.editions), p.display.lower())),
+              places=sorted(visited, key=lambda p: (-len(p.editions), sort_key(p.display))),
               map_points=place_map_points(visited)))
     write(site.out_dir / "country" / "index.html",
           env.get_template("countries.html.j2").render(
               countries=sorted((c for c in site.countries.values() if c.editions),
-                               key=lambda c: (-len(c.editions), c.name.lower()))))
+                               key=lambda c: (-len(c.editions), sort_key(c.name)))))
     return pages + 2
 
 

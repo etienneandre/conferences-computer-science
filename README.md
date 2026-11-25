@@ -207,6 +207,14 @@ subdivision flags that fonts actually draw — anything else falls back to the
 national flag. The name a flag shows on hover comes from the same code, through
 one filter used everywhere a flag is drawn, so the two can never disagree.
 
+**Alphabetical order folds accents, and does it in one place.** `slugs.sort_key`
+files Århus under A and Đà Nẵng under D; plain `.lower()` puts both after
+Zurich, which is not an alphabet anybody reads. It reuses the folding the slugs
+use, so a city sorts where its own URL says it lives — and it agrees with the
+browser's `localeCompare`, which re-sorts the city and country tables when a
+reader clicks a column. Replace it with `.lower()` and the two orders part
+company on about one name in ten.
+
 **Nothing is loaded from a third party** except the maps — on an edition, a
 conference, a city and the front page — which fetch OpenStreetMap tiles only
 once the reader asks for one. Fonts are self-hosted precisely so that reading a
