@@ -82,6 +82,8 @@ Please feel free to either
 
 Everything here is available as [JSON](/data/conferences.json) and [CSV](/data/conferences.csv), and as [calendar feeds](/ics/) you can subscribe to.
 
+[The field, year by year](/trends/) reads the same records sideways: submissions, acceptance rates, open access, anonymous reviewing and artifact evaluation, one line per year. Every figure there is a rate among the editions that record the fact rather than a count, because coverage varies far too much between years for a count to mean anything — and the page says plainly what it can and cannot be read as.
+
 The compilation is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/):
 use it for anything, credit the source, and keep what you build on it open under the same terms. Calls for papers are reproduced as their organisers published them and belong to them.
 

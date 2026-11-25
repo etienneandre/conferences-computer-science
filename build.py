@@ -2270,6 +2270,174 @@ def practice_timeline(site: Site, conference: Conference) -> dict | None:
     return {"years": years, "rows": rows}
 
 
+CORPUS_TREND_FLOOR = 5      # below this many records, a rate is noise, not a rate
+
+
+def corpus_trends(site: Site) -> dict | None:
+    """The field year by year, as far as this corpus can honestly say.
+
+    Every series here is a **rate among the editions that record the fact**,
+    never a count. That is not fussiness, it is the only thing that makes the
+    page mean anything: coverage varies enormously by year, so a count of
+    editions doing artifact evaluation would rise through the 2010s whatever
+    the field did, purely because recent years are better covered. A rate
+    among records moves only when the records move.
+
+    It still is not a sample of the field. It is what one person had time to
+    enter, weighted towards formal methods and towards conferences that
+    publish their numbers — the page says so itself rather than leaving the
+    reader to work it out.
+
+    The predicates come from the same reading of an edition as the
+    per-conference practices grid: `review.get(k) is None` means nobody
+    looked, `False` means somebody looked and the answer was no. Collapsing
+    the two would turn every unexamined year into a year the field did not
+    do it, which is the one reading the schema exists to prevent.
+    """
+    def openness(edition: Edition) -> str | None:
+        if edition.proceedings.get("none"):
+            return None          # no proceedings is not a licence
+        key = edition.proceedings.get("license")
+        if not isinstance(key, str) or not key:
+            return None
+        return site.licence(key).get("openness")
+
+    years: dict[int, dict] = {}
+    for edition in site.editions:
+        if not edition.year:
+            continue
+        bucket = years.setdefault(edition.year, {
+            "year": edition.year, "editions": 0, "series": set(),
+            "submitted": [], "rates": [],
+            "women": 0, "people": 0, "gender_editions": 0,
+            "free": [0, 0], "open": [0, 0], "double": [0, 0],
+            "rebuttal": [0, 0], "artifact": [0, 0],
+        })
+        bucket["editions"] += 1
+        bucket["series"].add(edition.slug)
+
+        stats = edition.stats
+        if isinstance(stats.get("submitted"), int) and stats["submitted"] > 0:
+            bucket["submitted"].append(stats["submitted"])
+        if edition.rate is not None:
+            bucket["rates"].append(edition.rate)
+
+        counts = edition.gender_counts
+        if counts:
+            total = counts["women"] + counts["men"] + counts["other"]
+            if total:
+                bucket["women"] += counts["women"] + counts["other"]
+                bucket["people"] += total
+                bucket["gender_editions"] += 1
+
+        access = openness(edition)
+        if access is not None:
+            # Two axes, kept apart here as everywhere else on the site: a
+            # publisher handing out free PDFs it owns outright is not running
+            # an open-access venue, and merging them would say it was.
+            bucket["free"][1] += 1
+            bucket["free"][0] += access in ("yes", "free")
+            bucket["open"][1] += 1
+            bucket["open"][0] += access == "yes"
+
+        blind = edition.review.get("blind")
+        if blind is not None:
+            bucket["double"][1] += 1
+            bucket["double"][0] += isinstance(blind, str) and "double" in blind
+        for key in ("rebuttal", "artifact"):
+            value = edition.review.get(key)
+            if value is not None:
+                bucket[key][1] += 1
+                bucket[key][0] += bool(value)
+
+    if not years:
+        return None
+
+    def share(pair: list[int]) -> dict:
+        hits, seen = pair
+        return {"n": seen,
+                "pct": round(100 * hits / seen) if seen >= CORPUS_TREND_FLOOR else None}
+
+    rows = []
+    for year in sorted(years):
+        b = years[year]
+        rows.append({
+            "year": year,
+            "editions": b["editions"],
+            "series": len(b["series"]),
+            "submitted": {
+                "n": len(b["submitted"]),
+                "value": (round(statistics.median(b["submitted"]))
+                          if len(b["submitted"]) >= CORPUS_TREND_FLOOR else None)},
+            "rate": {
+                "n": len(b["rates"]),
+                "value": (round(statistics.median(b["rates"]))
+                          if len(b["rates"]) >= CORPUS_TREND_FLOOR else None)},
+            "women": {
+                "n": b["gender_editions"], "people": b["people"],
+                "pct": (round(100 * b["women"] / b["people"])
+                        if b["gender_editions"] >= CORPUS_TREND_FLOOR and b["people"]
+                        else None)},
+            "free": share(b["free"]), "open": share(b["open"]),
+            "double": share(b["double"]), "rebuttal": share(b["rebuttal"]),
+            "artifact": share(b["artifact"]),
+        })
+
+    # Trim the long tail of years holding one or two editions: a chart that
+    # starts in 1974 because somebody entered a single edition that year says
+    # more about the gazetteer than about the field.
+    while rows and rows[0]["editions"] < CORPUS_TREND_FLOOR:
+        rows.pop(0)
+    if len(rows) < 3:
+        return None
+
+    metrics = [
+        {"key": "submitted", "label": "Submissions per conference", "unit": "",
+         "kind": "value",
+         "note": "Median across the editions publishing a figure. The set of "
+                 "conferences that publish one changes from year to year, so "
+                 "read the shape rather than any single step."},
+        {"key": "rate", "label": "Acceptance rate", "unit": "%", "kind": "value",
+         "note": "Median across the editions publishing both numbers."},
+        {"key": "women", "label": "Women among chairs and invited speakers",
+         "unit": "%", "kind": "pct",
+         "note": "Counted per person, not per edition, so a large committee "
+                 "weighs more than a small one. Programme committees are "
+                 "counted separately and are not in this line."},
+        {"key": "free", "label": "Free to read", "unit": "%", "kind": "pct",
+         "note": "The reader can obtain the paper without paying, whoever "
+                 "owns it."},
+        {"key": "open", "label": "Published under an open licence", "unit": "%",
+         "kind": "pct",
+         "note": "Stricter, and the gap between this line and the one above "
+                 "is the point: free to read is not the same as open."},
+        {"key": "double", "label": "Double-anonymous reviewing", "unit": "%",
+         "kind": "pct",
+         "note": "Among editions whose reviewing model is recorded, counting "
+                 "the lightweight variant."},
+        {"key": "rebuttal", "label": "Rebuttal phase", "unit": "%", "kind": "pct"},
+        {"key": "artifact", "label": "Artifact evaluation", "unit": "%",
+         "kind": "pct"},
+    ]
+    for metric in metrics:
+        metric.setdefault("note", "")
+        field = "pct" if metric["kind"] == "pct" else "value"
+        values = [r[metric["key"]][field] for r in rows]
+        drawn = [v for v in values if v is not None]
+        metric["peak"] = max(drawn) if drawn else 0
+        metric["thin"] = sum(1 for v in values if v is None)
+        # A metric nobody has recorded for at least three years cannot be
+        # drawn as a trend, and an almost-empty strip invites the reader to
+        # see a shape in two bars.
+        metric["drawn"] = len(drawn)
+    metrics = [m for m in metrics if m["drawn"] >= 3]
+
+    return {"rows": rows, "metrics": metrics,
+            "first": rows[0]["year"], "last": rows[-1]["year"],
+            "editions": sum(r["editions"] for r in rows),
+            "floor": CORPUS_TREND_FLOOR}
+
+
 def series_reach(site: Site, conference: Conference) -> dict | None:
     """How far a series roams, in three numbers.
 
@@ -2466,7 +2634,18 @@ def render_places(site: Site, env: Environment) -> int:
           env.get_template("countries.html.j2").render(
               countries=sorted((c for c in site.countries.values() if c.editions),
                                key=lambda c: (-len(c.editions), sort_key(c.name)))))
-    return pages + 2
+    pages += 2
+
+    # The corpus read sideways: not one conference over time, but the whole
+    # record year by year. It lives here because it is the same kind of page
+    # as the city and country indexes — a question the per-conference pages
+    # cannot answer, out of data that was already sitting there.
+    trends = corpus_trends(site)
+    if trends:
+        write(site.out_dir / "trends" / "index.html",
+              env.get_template("trends.html.j2").render(trends=trends))
+        pages += 1
+    return pages
 
 
 # --------------------------------------------------------------------------
