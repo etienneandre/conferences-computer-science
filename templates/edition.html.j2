@@ -48,7 +48,7 @@
     {% elif place.name %}
     <span class="item">Where<b>
       {%- if place.get('url') %}<a class="placelink" href="{{ place.url }}">{{ place.display }}</a>
-      {%- else %}{{ place.display }}{% endif %} {{ place.flag }}
+      {%- else %}{{ place.display }}{% endif %} {{ place | flagmark }}
       {%- if edition.hybrid %} <span class="flag" title="Also held online"
         role="img" aria-label="and online">{{ online_emoji }}</span>{% endif %}</b></span>
     {% endif %}
@@ -386,11 +386,11 @@
       {% set map_mode = 'one' %}
       {# The city as the gazetteer records it, plus the name the place calls
          itself: there is room for both here, and nowhere in a dense list. #}
-      {% set map_caption %}{% if place.get('url') %}<a href="{{ place.url }}">{{ place.name }}</a>{% else %}{{ place.name }}{% endif %} {{ place.flag }}
+      {% set map_caption %}{% if place.get('url') %}<a href="{{ place.url }}">{{ place.name }}</a>{% else %}{{ place.name }}{% endif %} {{ place | flagmark }}
         {%- if place.get('native') %} &middot; <span class="native" {% if place.get('native_lang') %}lang="{{ place.native_lang }}"{% endif %}>{{ place.native }}</span>{% endif %}{% endset %}
       {% include "_mapbox.html.j2" %}
       {% else %}
-      <p class="detail-note">{{ place.name }} {{ place.flag }}
+      <p class="detail-note">{{ place.name }} {{ place | flagmark }}
         {%- if place.get('native') %} &middot; <span class="native" {% if place.get('native_lang') %}lang="{{ place.native_lang }}"{% endif %}>{{ place.native }}</span>{% endif %}
         &mdash; no coordinates on file, so no map.</p>
       {% endif %}
@@ -434,13 +434,13 @@
         {% if edition.previous %}
         <dt>Previous</dt><dd><a href="{{ edition.previous.url }}">{{ edition.previous.acronym }}</a>
           {% set p = city(edition.previous.city_name) %}
-          {% if p.name %}&mdash; {{ p.display }} {{ p.flag }}{% endif %}</dd>
+          {% if p.name %}&mdash; {{ p.display }} {{ p | flagmark }}{% endif %}</dd>
         {% endif %}
         {% if edition.following %}
         <dt>Next</dt><dd><a href="{{ edition.following.url }}">{{ edition.following.acronym }}</a>
           {% set n = city(edition.following.city_name) %}
           {% if edition.following.online %}&mdash; online
-          {% elif n.get('name') %}&mdash; {{ n.display }} {{ n.flag }}{% endif %}</dd>
+          {% elif n.get('name') %}&mdash; {{ n.display }} {{ n | flagmark }}{% endif %}</dd>
         {% else %}
         <dt>Next</dt><dd>Not yet announced</dd>
         {% endif %}

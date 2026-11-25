@@ -25,7 +25,7 @@
   <p class="crumbs"><a href="/">All conferences</a> / <a href="/city/">Cities</a>
     {%- if country %} / <a href="{{ country.url }}">{{ country.name }}</a>{% endif %}
     / {{ place.display }}</p>
-  <h1 class="page-title">{{ place.display }} {{ place.flag }}</h1>
+  <h1 class="page-title">{{ place.display }} {{ place | flagmark }}</h1>
   {% if place.native %}
   {# The name the city calls itself. Marked up with its language so a screen
      reader switches voice and the browser picks a font that has the glyphs. #}

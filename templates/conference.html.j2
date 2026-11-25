@@ -153,7 +153,7 @@
               {%- if e.online %}Online {{ online_emoji }}
               {%- elif p.name %}
                 {%- if p.get('url') %}<a class="placelink" href="{{ p.url }}">{{ p.display }}</a>
-                {%- else %}{{ p.display }}{% endif %} {{ p.flag }}
+                {%- else %}{{ p.display }}{% endif %} {{ p | flagmark }}
                 {%- if e.hybrid %} <span title="Also held online">{{ online_emoji }}</span>{% endif %}
               {%- else %}&mdash;{% endif %}</td>
             {% if conference.umbrella %}

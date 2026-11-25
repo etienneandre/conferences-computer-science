@@ -117,6 +117,51 @@ def flag_emoji(country: str | None, subdivision: str | None = None) -> str:
     return ""
 
 
+SUBDIVISION_NAMES = {"GB-ENG": "England", "GB-SCT": "Scotland", "GB-WLS": "Wales"}
+
+
+def flag_label(country: str | None, subdivision: str | None = None) -> str:
+    """The name behind a flag: "Sweden", or "Scotland" where the flag is one.
+
+    Read from the same ISO code the emoji is derived from, so the two cannot
+    drift apart — the point of not storing the emoji in the first place.
+    """
+    if subdivision and subdivision.upper() in RGI_SUBDIVISIONS:
+        named = SUBDIVISION_NAMES.get(subdivision.upper())
+        if named:
+            return named
+    return countries.name(country) or ""
+
+
+def flag_mark(place) -> Markup:
+    """A flag that says which country it is when the reader hovers it.
+
+    One filter rather than the same markup copied into every template that
+    draws a flag: an emoji nobody can read is a small puzzle, and 🇸🇪 only
+    answers itself for people who already knew. `title` carries it for a
+    mouse, `aria-label` for a screen reader, and `role="img"` stops the
+    reader from spelling out the two regional-indicator letters.
+
+    Takes a `Place`, a `Country` or the dict `Site.city()` returns, since all
+    three reach templates and all three are asked for a flag.
+    """
+    if place is None:
+        return Markup("")
+    get = place.get if isinstance(place, dict) else lambda k: getattr(place, k, None)
+    emoji = get("flag") or ""
+    if not emoji:
+        return Markup("")
+    label = flag_label(get("country") or get("country_code") or get("code"),
+                       get("subdivision"))
+    if not label:
+        # A flag we cannot name is still worth drawing; a tooltip repeating
+        # the code would only say the same thing twice.
+        return Markup(f'<span class="flag">{emoji}</span>')
+    label = Markup.escape(label)
+    return Markup(f'<span class="flag" title="{label}" role="img" '
+                  f'aria-label="{label}">{emoji}</span>')
+
+
 def fmt_date(value: date | None, with_year: bool = True) -> str:
     if not isinstance(value, date):
         return ""
@@ -1891,6 +1936,7 @@ def build_environment(site: Site) -> Environment:
     env.filters["ordinal"] = ordinal
     env.filters["oneline"] = oneline
     env.filters["namelist"] = name_list
+    env.filters["flagmark"] = flag_mark
     env.globals.update(
         correction=lambda thing: correction_link(site, thing),
         jsonld=lambda edition: event_jsonld(site, edition),

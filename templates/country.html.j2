@@ -20,7 +20,7 @@
 <header class="page-head">
   <p class="crumbs"><a href="/">All conferences</a> / <a href="/country/">Countries</a>
     / {{ country.name }}</p>
-  <h1 class="page-title">{{ country.name }} {{ country.flag }}</h1>
+  <h1 class="page-title">{{ country.name }} {{ country | flagmark }}</h1>
 
   <div class="page-meta">
     <span class="item">Cities<b>{{ country.cities | length }}</b></span>

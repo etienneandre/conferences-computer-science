@@ -48,7 +48,7 @@
       <tr>
         <td><a href="{{ p.url }}">{{ p.display }}</a>
           {%- if p.native %} <span class="native" {% if p.native_lang %}lang="{{ p.native_lang }}"{% endif %}>{{ p.native }}</span>{% endif %}</td>
-        <td>{% if country %}<a href="{{ country.url }}">{{ country.name }}</a>{% endif %} {{ p.flag }}</td>
+        <td>{% if country %}<a href="{{ country.url }}">{{ country.name }}</a>{% endif %} {{ p | flagmark }}</td>
         <td class="num">{{ p.editions | length }}</td>
         <td class="num">{{ p.conferences | length }}</td>
         <td class="num">{{ p.first_year }}</td>

@@ -204,7 +204,8 @@ with words, so the list works in black and white and for a colour-blind reader.
 **Flags are derived from ISO codes, never stored.** `cities.toml` holds
 `country = "GB"`; the emoji is computed. Only England, Scotland and Wales have
 subdivision flags that fonts actually draw — anything else falls back to the
-national flag.
+national flag. The name a flag shows on hover comes from the same code, through
+one filter used everywhere a flag is drawn, so the two can never disagree.
 
 **Nothing is loaded from a third party** except the maps — on an edition, a
 conference, a city and the front page — which fetch OpenStreetMap tiles only

@@ -38,7 +38,7 @@
     <tbody>
       {% for c in countries %}
       <tr>
-        <td><a href="{{ c.url }}">{{ c.name }}</a> {{ c.flag }}</td>
+        <td><a href="{{ c.url }}">{{ c.name }}</a> {{ c | flagmark }}</td>
         <td class="num">{{ c.editions | length }}</td>
         <td class="num">{{ c.cities | length }}</td>
         <td class="num">{{ c.conferences | length }}</td>
