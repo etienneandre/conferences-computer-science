@@ -6,7 +6,7 @@ url = "https://easychair.org/smart-program/TAP22/"
 [event]
 start = 2022-07-04
 end = 2022-07-08
-city = "Nantes, France"
+city = "Nantes, Bretagne, France"
 
 [submission]
 format = "16 pages LNCS + references (research) / 8 pages + ref (tool) / 6 pages + ref (short)"

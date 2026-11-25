@@ -1725,9 +1725,10 @@ lat = 32.0603
 lon = 118.7969
 continent = "AS"
 
-["Nantes, France"]
+["Nantes, Bretagne, France"]
 country = "FR"
-display = "Nantes"
+display = "Nantes, Bretagne"
+native = "Naoned"
 lat = 47.2184
 lon = -1.5536
 continent = "EU"
