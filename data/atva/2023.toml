@@ -26,6 +26,9 @@ submitted = 115
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [review]
+artifact = false
+blind = "single"
+
 [review.gender.chairs]
 women = 0
 men = 2

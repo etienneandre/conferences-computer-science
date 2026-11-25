@@ -20,8 +20,8 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [review]
+artifact = false
 blind = "single"
 
 [extra]
-colocated = "Colocated with FM 2014."
 notes = "No restriction on author citizenship or affiliation. PhD session."

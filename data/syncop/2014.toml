@@ -14,6 +14,9 @@ paper = [2014-01-20, 2014-02-03]
 notification = [2014-02-20, 2014-02-27]
 
 [review]
+artifact = false
+blind = "single"
+
 [review.gender.chairs]
 men = 2
 women = 0

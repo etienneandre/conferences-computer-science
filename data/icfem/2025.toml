@@ -21,6 +21,9 @@ license = "pay-profit"
 doi = "10.1007/978-981-95-4213-0"
 
 [review]
+artifact = false
+blind = "single"
+
 [review.gender.chairs]
 men = 3
 women = 0

@@ -19,6 +19,10 @@ notification = [2024-09-09]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+blind = "single"
+artifact = false
+
 [stats]
 accepted = 22
 submitted = 50
