@@ -18,8 +18,11 @@ notification = [2022-04-29]
 publisher = "Springer LNCS"
 license = "pay-profit"
 
+[review]
+award = "Best Paper awards will be given and announced at the conference."
+
 [extra]
-notes = "Best Paper awards will be given and announced at the conference. Traditionally, a selection of papers were invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT)."
+journal = "Traditionally, a selection of papers were invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT)."
 
 [[cfp]]
 file = "cfp/SPIN-2022.txt"

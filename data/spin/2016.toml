@@ -7,6 +7,7 @@ url = "http://www.spin2016.info"
 start = 2016-04-07
 end = 2016-04-08
 city = "Eindhoven, The Netherlands"
+colocated_with = ["etaps/2016"]
 
 [submission]
 format = "18 pages LNCS (technical) / 6 pages (idea / tool)"
@@ -18,4 +19,4 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Colocated with ETAPS 2016. Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."
+journal = "Selection of the best papers in a special issue of the International Journal on Software Tools for Software Technology Transfer (STTT)."

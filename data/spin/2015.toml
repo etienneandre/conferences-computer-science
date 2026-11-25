@@ -10,10 +10,20 @@ city = "Stellenbosch, South Africa"
 
 [submission]
 format = "18 pages LNCS (research / survey / history) / 6 pages (idea / tool)"
+tz = "AoE"
 abstract = [2015-04-17]
-paper = [2015-05-04]
+paper = [2015-04-23,2015-05-04]
 notification = [2015-06-15]
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[review.gender.speakers]
+men = 2
+women = 0
 
 [proceedings]
 publisher = "ACM Digital Library"
 license = "pay"
+
