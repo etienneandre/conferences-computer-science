@@ -2,10 +2,6 @@
 
 This is a list of submission deadlines for conferences in theoretical computer science, sorted by what closes next. It exists mostly because I need it, hoping it is useful to others as well.
 
-## Who maintains it
-
-[One person](https://www.etienne-andre.fr), by hand. There is no scraper: a human (me) reads each call for papers and types the dates in. That is why the list is opinionated about what it covers, and why it is occasionally wrong.
-
 ## What is recorded
 
 For every edition, where the information can be found: the submission and
@@ -88,6 +84,17 @@ Everything here is available as [JSON](/data/conferences.json) and [CSV](/data/c
 
 The compilation is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/):
 use it for anything, credit the source, and keep what you build on it open under the same terms. Calls for papers are reproduced as their organisers published them and belong to them.
+
+
+## Who maintains the Website
+
+The site has been maintained since 2014 by [Étienne André](https://www.etienne-andre.fr), with all data collected by hand. There is no scraper: a human reads each call for papers and types the dates in. That is why the list is opinionated about what it covers, and why it is occasionally wrong.
+
+### Data contributors
+- [Étienne André](https://www.etienne-andre.fr)
+- [Clément Aubert](https://aubert.info/)
+- Any contributor is welcome to add data (see the submit page).
+
 
 ## Colophon
 
