@@ -1,0 +1,32 @@
+edition = 20
+title = "20th International Conference on Advanced Computing and Analytics"
+url = "https://acompa.live/"
+
+[event]
+start = 2026-11-26
+end   = 2026-11-27
+city = "Hồ Chí Minh City, Việt Nam"
+venue = "Hồ Chí Minh City University of Science"
+
+[submission]
+format = "8 pages IEEE (regular, industry) / 4-5 pages (short)"
+paper = [2026-07-15,2026-07-31]
+notification = [2026-08-30,2026-09-09]
+
+[proceedings]
+publisher = "IEEE CPS"
+license = "pay"
+
+[review]
+blind = "double"
+
+[review.gender.chairs]
+men   = 2
+women = 0
+
+[review.gender.speakers]
+men   = 1
+women = 0
+
+[extra]
+journal = "Post-conference publication opportunities include a special issue with Springer Nature of Computer Science."

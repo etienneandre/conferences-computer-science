@@ -18,4 +18,5 @@ notification = [2014-08-25]
 publisher = "Journal of Science and Technology (Vietnam Academy of Science and Technology)"
 
 [extra]
-notes = "in conjunction with FDSE 2014. Selected papers (at least 50% new material) consider for publication in special issues of LNCS Transactions on Large Scale Data and Knowledge Centered Systems / International Journal of Pervasive Computing and Communications (Emerald Publisher)."
+colocated = "in conjunction with FDSE 2014"
+journal = "Selected papers (at least 50% new material) consider for publication in special issues of LNCS Transactions on Large Scale Data and Knowledge Centered Systems / International Journal of Pervasive Computing and Communications (Emerald Publisher)."

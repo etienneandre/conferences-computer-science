@@ -16,7 +16,11 @@ notification = [2025-09-15]
 [proceedings]
 publisher = "IEEE CPS"
 license = "pay"
+doi = "10.1109/ACOMPA69200.2025"
 
 [review]
 blind = "double"
-gender_balance = "male-only"
+
+[review.gender.chairs]
+men   = 3
+women = 0
