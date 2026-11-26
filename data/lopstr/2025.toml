@@ -6,7 +6,8 @@ url = "https://lopstr.github.io/2025/"
 [event]
 start = 2025-09-09
 end = 2025-09-10
-city = "University of Calabria, Rende, Italy"
+city = "Arcavacata, Italy"
+venue = "University of Calabria"
 
 [submission]
 tz = "AoE"
@@ -20,7 +21,8 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Part of ICLP 2025 and co-located with PPDP 2025. After the symposium, a selection of a few best papers will be invited for submission to rapid publication in the Journal of Theory and Practice of Logic Programming (TPLP). Authors of selected papers will be invited to revise and/or extend their submissions to be considered for publication."
+notes = "Part of ICLP 2025 and co-located with PPDP 2025."
+journal = "After the symposium, a selection of a few best papers will be invited for submission to rapid publication in the Journal of Theory and Practice of Logic Programming (TPLP). Authors of selected papers will be invited to revise and/or extend their submissions to be considered for publication."
 
 [[cfp]]
 file = "cfp/LOPSTR-2025.txt"

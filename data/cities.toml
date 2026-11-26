@@ -83,6 +83,13 @@ lat = 51.2194
 lon = 4.4025
 continent = "EU"
 
+["Arcavacata, Italy"]
+country = "IT"
+display = "Arcavacata"
+lat = 39.358056
+lon = 16.211389
+continent = "EU"
+
 ["Athens, Greece"]
 country = "GR"
 display = "Athens"
@@ -1541,15 +1548,6 @@ lat = -20.1609
 lon = 57.5012
 continent = "AF"
 
-["Maynooth University, Ireland"]
-country = "IE"
-display = "Maynooth University"
-native = "Ollscoil Mhá Nuad"
-native_lang = "ga"
-lat = 53.3811
-lon = -6.5911
-continent = "EU"
-
 ["Maynooth, Ireland"]
 country = "IE"
 display = "Maynooth"
@@ -2689,15 +2687,6 @@ country = "SE"
 display = "Umeå"
 lat = 63.8258
 lon = 20.263
-continent = "EU"
-
-["University of Calabria, Rende, Italy"]
-country = "IT"
-display = "University of Calabria"
-native = "Università della Calabria"
-native_lang = "it"
-lat = 39.3333
-lon = 16.1833
 continent = "EU"
 
 ["Uppsala, Sweden"]
