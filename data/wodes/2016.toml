@@ -1,0 +1,19 @@
+edition = 13
+title = "13th Workshop on Discrete Event Systems"
+
+[event]
+start = 2016-05-30
+end = 2016-06-01
+city = "Xi’An, China"
+
+[submission]
+paper = [2016-01-08]
+notification = [2016-03-15]
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+[stats]
+submitted = 112
+accepted = 76

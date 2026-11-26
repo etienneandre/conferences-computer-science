@@ -17,8 +17,8 @@ notification = [2020-02-17, 2020-02-21]
 publisher = "ScienceDirect (Elsevier)"
 license = "pay-profit"
 
-[extra]
-notes = "Every two years. Best student paper award."
+[review]
+award = "Best student paper award."
 
 [[cfp]]
 file = "cfp/WODES-2020.pdf"

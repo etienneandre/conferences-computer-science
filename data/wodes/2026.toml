@@ -1,0 +1,41 @@
+edition = 18
+title = "18th Workshop on Discrete Event Systems"
+url = "https://wodes2026.events.tue.nl/"
+
+[event]
+start = 2026-06-08
+end = 2026-06-10
+city = "Eindhoven, The Netherlands"
+venue = "Eindhoven University of Technology (TU/e)"
+
+[submission]
+format = "6 pages IEEE two-column (regular / invited / demonstrator papers); journal-first: 1 page, not published in the proceedings"
+paper = [2025-12-19, 2026-01-18]
+notification = [2026-03-13]
+camera_ready = [2026-04-17]
+registration = [2026-04-17]
+
+[proceedings]
+publisher = "IEEE"
+license = "pay"
+doi = "10.1109/WODES69290.2026"
+
+[review]
+award = "Best Student Paper Award (sponsored by the IEEE CSS Technical Committee on Discrete Event Systems). Papers whose primary author is a student at submission time are automatically nominated; the student must present the paper."
+
+[review.gender.chairs]
+men = 2
+women = 1
+
+[review.gender.speakers]
+men = 1
+women = 2
+
+[extra]
+notes = "Sponsored by TU/e and the IEEE Control Systems Society. Special session proposals were due 7 November 2025 (decision 21 November 2025). Journal-first papers are also accepted (one-page summary)."
+
+[[cfp]]
+file = "cfp/WODES-2026.pdf"
+retrieved = 2026-11-26
+stage = "initial"
+source = "https://wodes2026.events.tue.nl/wp-content/uploads/2025/08/WODES_2026_announcement_flyer_plus_CFP-1.pdf"

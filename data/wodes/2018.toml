@@ -17,9 +17,6 @@ notification = [2018-02-28]
 publisher = "ScienceDirect (Elsevier)"
 license = "pay-profit"
 
-[extra]
-notes = "Every two years."
-
 [[cfp]]
 file = "cfp/WODES-2018.txt"
 stage = "initial"
