@@ -2988,7 +2988,13 @@ def search_text(site: "Site", edition: Edition) -> str:
 
 TIMELINE_HORIZON_DAYS = 182       # six months, the reader-facing promise
 TIMELINE_EMIT_DAYS = 300          # what is embedded, so the set self-corrects
-OVERDUE_BACK_DAYS = 182           # how far behind the overdue view looks
+# Eighteen months behind rather than six. Six turned up almost nothing on the
+# real corpus, because a call that closed last spring is just as unentered as
+# one that closed in September and there is no reason to hide it. The far end
+# of the strip holds more series that have quietly ended than series anyone
+# forgot to type in, but they sit at the left where they are easy to skim past,
+# and each row says how overdue it is.
+OVERDUE_BACK_DAYS = 548
 OVERDUE_AHEAD_DAYS = 62           # and how far ahead, for calls due any week
 
 
