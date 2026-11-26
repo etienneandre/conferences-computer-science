@@ -5,7 +5,7 @@ url = "http://fse22.gatech.edu/"
 
 [event]
 start = 2014-11-16
-end = 2014-11-22
+end   = 2014-11-22
 city = "Hong Kong"
 
 [submission]

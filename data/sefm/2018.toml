@@ -5,7 +5,7 @@ url = "https://www.isf.cs.tu-bs.de/cms/events/sefm2018/"
 
 [event]
 start = 2018-06-27
-end = 2018-06-29
+end   = 2018-06-29
 city = "Toulouse, France"
 
 [submission]

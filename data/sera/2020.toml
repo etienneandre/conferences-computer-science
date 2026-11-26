@@ -5,7 +5,7 @@ url = "http://acisinternational.org/conferences/sera-2020/"
 
 [event]
 start = 2020-11-30
-end = 2020-12-02
+end   = 2020-12-02
 city = "Kanazawa, Japan"
 
 [submission]

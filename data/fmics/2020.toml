@@ -6,7 +6,7 @@ url = "https://fmics20.ait.ac.at/"
 [event]
 part_of = "confest/2020"
 start = 2020-09-02
-end = 2020-09-03
+end   = 2020-09-03
 city = "Vienna, Austria"
 online = true
 

@@ -5,7 +5,7 @@ url = "https://mfcs2026.irif.fr/"
 
 [event]
 start = 2026-08-24
-end = 2026-08-28
+end   = 2026-08-28
 city = "Paris, France"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://www.iaria.org/conferences2015/SOFTENG15.html"
 
 [event]
 start = 2015-04-19
-end = 2015-04-24
+end   = 2015-04-24
 city = "Barcelona, Catalonia, Spain"
 
 [submission]

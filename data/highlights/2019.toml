@@ -5,7 +5,7 @@ url = "http://highlights-conference.org"
 
 [event]
 start = 2019-09-17
-end = 2019-09-20
+end   = 2019-09-20
 city = "Warsaw, Poland"
 
 [submission]

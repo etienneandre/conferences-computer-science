@@ -5,7 +5,7 @@ url = "https://sac2020.cs.nctu.edu.tw/"
 
 [event]
 start = 2020-03-30
-end = 2020-04-03
+end   = 2020-04-03
 city = "Brno, Czech Republic"
 
 [submission]

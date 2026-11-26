@@ -5,7 +5,7 @@ url = "http://hsb2020.conf.tuwien.ac.at/"
 
 [event]
 start = 2020-04-15
-end = 2020-04-16
+end   = 2020-04-16
 city = "Vienna, Austria"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://www.fm24.polimi.it"
 
 [event]
 start = 2024-09-09
-end = 2024-09-13
+end   = 2024-09-13
 city = "Milan, Italy"
 
 [submission]
@@ -27,37 +27,37 @@ doi = ["10.1007/978-3-031-71162-6", "10.1007/978-3-031-71177-0"]
 [[stats.track]]
 name = "Main track: regular research papers"
 submitted = 143
-accepted = 31
+accepted  = 31
 
 [[stats.track]]
 name = "Main track: case study papers"
 submitted = 8
-accepted = 1
+accepted  = 1
 
 [[stats.track]]
 name = "Main track: long tool papers"
 submitted = 21
-accepted = 8
+accepted  = 8
 
 [[stats.track]]
 name = "Main track: short tool papers"
 submitted = 6
-accepted = 4
+accepted  = 4
 
 [[stats.track]]
 name = "Embedded systems track"
 submitted = 17
-accepted = 6
+accepted  = 6
 
 [[stats.track]]
 name = "Industry track"
 submitted = 10
-accepted = 6 # NOTE:  6 papers (3 regular papers, 2 case study papers, 1 extended abstract).
+accepted  = 6 # NOTE:  6 papers (3 regular papers, 2 case study papers, 1 extended abstract).
 
 [[stats.track]]
 name = "Tutorial track"
 submitted = 14
-accepted = 10
+accepted  = 10
 
 # NOTE: Finally, 5 papers were selected for the Journal First track, and the Doctoral Symposium received 15 sub- missions (neither the journal first track papers nor the doctoral symposium ones appear in these proceedings)
 

@@ -5,7 +5,7 @@ url = "http://atva2015.ios.ac.cn/"
 
 [event]
 start = 2015-10-12
-end = 2015-10-15
+end   = 2015-10-15
 city = "Shanghai, China"
 
 [submission]

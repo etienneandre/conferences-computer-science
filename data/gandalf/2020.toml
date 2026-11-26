@@ -5,7 +5,7 @@ url = "https://gametheorynetwork.com/"
 
 [event]
 start = 2020-09-23
-end = 2020-09-24
+end   = 2020-09-24
 online = true
 
 [submission]

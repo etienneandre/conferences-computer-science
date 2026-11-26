@@ -5,7 +5,7 @@ url = "http://sbmf2016.imd.ufrn.br/"
 
 [event]
 start = 2016-11-21
-end = 2016-11-25
+end   = 2016-11-25
 city = "Natal, Rio Grande do Norte, Brazil"
 
 [submission]
@@ -19,6 +19,6 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 12
+accepted  = 12
 submitted = 22
 # TODO: verify — extracted from the cross-year acceptance string.

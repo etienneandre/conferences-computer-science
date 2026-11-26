@@ -5,7 +5,7 @@ url = "https://valuetools.eai-conferences.org/2024/"
 
 [event]
 start = 2024-12-12
-end = 2024-12-13
+end   = 2024-12-13
 city = "Milan, Italy"
 
 [submission]
@@ -26,7 +26,7 @@ doi = "10.1007/978-3-032-06818-7"
 
 [stats]
 submitted = 29
-accepted = 18
+accepted  = 18
 # NOTE: + 5 short papers in oral presentation sessions
 
 

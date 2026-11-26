@@ -5,7 +5,7 @@ url = "http://isorc.github.io/2024/"
 
 [event]
 start = 2024-05-22
-end = 2024-05-25
+end   = 2024-05-25
 city = "Carthage, Tunisia"
 
 [submission]

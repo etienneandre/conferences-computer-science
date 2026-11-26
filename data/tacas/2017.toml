@@ -6,7 +6,7 @@ url = "http://www.etaps.org/index.php/2017/tacas"
 [event]
 part_of = "etaps/2017"
 start = 2017-04-22
-end = 2017-04-29
+end   = 2017-04-29
 city = "Uppsala, Sweden"
 
 [submission]

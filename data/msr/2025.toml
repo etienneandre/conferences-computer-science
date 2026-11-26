@@ -5,7 +5,7 @@ url = "https://msr2025.sciencesconf.org/"
 
 [event]
 start = 2025-11-19
-end = 2025-11-21
+end   = 2025-11-21
 city = "Reims, France"
 
 [submission]

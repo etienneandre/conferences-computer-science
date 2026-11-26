@@ -5,7 +5,7 @@ url = "https://issre.net/"
 
 [event]
 start = 2024-10-28
-end = 2024-10-31
+end   = 2024-10-31
 city = "Tsukuba, Japan"
 
 [submission]

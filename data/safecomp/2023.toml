@@ -5,7 +5,7 @@ url = "https://safecomp2023.cnrs.fr/"
 
 [event]
 start = 2023-09-20
-end = 2023-09-22
+end   = 2023-09-22
 city = "Toulouse, France"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://formalmethods2019.inesctec.pt/"
 
 [event]
 start = 2019-10-07
-end = 2019-10-11
+end   = 2019-10-11
 city = "Porto, Portugal"
 
 [submission]

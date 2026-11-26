@@ -5,7 +5,7 @@ url = "https://www.cs.bgu.ac.il/~rv21/"
 
 [event]
 start = 2021-10-11
-end = 2021-10-14
+end   = 2021-10-14
 online = true
 
 [submission]

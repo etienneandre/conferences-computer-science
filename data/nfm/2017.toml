@@ -5,7 +5,7 @@ url = "http://ti.arc.nasa.gov/events/nfm-2017/"
 
 [event]
 start = 2017-05-16
-end = 2017-05-18
+end   = 2017-05-18
 city = "Moffett Field, California, USA"
 
 [submission]
@@ -23,12 +23,12 @@ license = "pay-profit"
 [[stats.track]]
 name = "Regular papers"
 submitted = 60
-accepted = 23
+accepted  = 23
 
 [[stats.track]]
 name = "Short papers	"
 submitted = 17
-accepted = 8
+accepted  = 8
 
 [extra]
 notes = "No registration fees."

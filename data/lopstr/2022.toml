@@ -5,7 +5,7 @@ url = "http://lopstr2022.webs.upv.es/"
 
 [event]
 start = 2022-09-21
-end = 2022-09-23
+end   = 2022-09-23
 city = "Tbilisi, Georgia"
 
 [submission]

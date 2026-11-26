@@ -5,7 +5,7 @@ url = "https://lipn.univ-paris13.fr/SynCoPPV2017/"
 [event]
 part_of = "etaps/2017"
 start = 2017-04-22
-end = 2017-04-23
+end   = 2017-04-23
 city = "Uppsala, Sweden"
 
 [review]

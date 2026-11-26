@@ -5,7 +5,7 @@ url = "https://afadl2019.sciencesconf.org/"
 
 [event]
 start = 2019-06-12
-end = 2019-06-13
+end   = 2019-06-13
 city = "Toulouse, France"
 
 [submission]

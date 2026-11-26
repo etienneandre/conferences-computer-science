@@ -5,7 +5,7 @@ url = "https://ifm2024.cs.manchester.ac.uk/"
 
 [event]
 start = 2024-11-13
-end = 2024-11-15
+end   = 2024-11-15
 city = "Manchester, England"
 
 [submission]

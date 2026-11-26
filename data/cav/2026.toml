@@ -4,7 +4,7 @@ url = "https://conferences.i-cav.org/2026/"
 
 [event]
 start = 2026-07-26
-end = 2026-07-29
+end   = 2026-07-29
 city = "Lisbon, Portugal"
 
 [submission]
@@ -28,7 +28,7 @@ doi = "10.1007/978-3-032-32519-8"
 
 [stats]
 submitted = 319
-accepted = 79 # NOTE We accepted a total of 81 papers, consisting of 54 regular papers, 21 short tool papers, and 6 industrial experience reports and case studies.
+accepted  = 79 # NOTE We accepted a total of 81 papers, consisting of 54 regular papers, 21 short tool papers, and 6 industrial experience reports and case studies.
 
 [review.gender.chairs]
 women = 1

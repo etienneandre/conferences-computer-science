@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/fse-2025"
 
 [event]
 start = 2025-06-23
-end = 2025-06-27
+end   = 2025-06-27
 city = "Trondheim, Norway"
 
 [submission]

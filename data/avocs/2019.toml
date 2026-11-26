@@ -5,7 +5,7 @@ url = "http://avocs19.imag.fr/"
 
 [event]
 start = 2019-09-30
-end = 2019-10-01
+end   = 2019-10-01
 city = "Grenoble, France"
 
 [submission]

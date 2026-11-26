@@ -5,7 +5,7 @@ url = "http://ciaa17.univ-mlv.fr/"
 
 [event]
 start = 2017-06-27
-end = 2017-06-30
+end   = 2017-06-30
 city = "Marne-la-Vallée, France"
 
 [submission]

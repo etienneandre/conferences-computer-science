@@ -5,7 +5,7 @@ url = "https://easychair.org/smart-program/LPAR2024/"
 
 [event]
 start = 2024-05-26
-end = 2024-05-31
+end   = 2024-05-31
 city = "Mauritius"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://pn2017.unizar.es"
 
 [event]
 start = 2017-06-25
-end = 2017-06-30
+end   = 2017-06-30
 city = "Zaragoza, Spain"
 
 [submission]

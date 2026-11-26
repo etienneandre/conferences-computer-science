@@ -5,7 +5,7 @@ url = "https://kse2024.kse-conferences.org/"
 
 [event]
 start = 2024-11-05
-end = 2024-11-07
+end   = 2024-11-07
 city = "Kuala Lumpur, Malaysia"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://rp25.software.imdea.org/"
 
 [event]
 start = 2025-10-01
-end = 2025-10-03
+end   = 2025-10-03
 city = "Madrid, Spain"
 
 [submission]

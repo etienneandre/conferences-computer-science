@@ -5,7 +5,7 @@ url = "http://www.aston.ac.uk/eas/about-eas/academic-groups/computer-science/ice
 
 [event]
 start = 2016-11-06
-end = 2016-11-08
+end   = 2016-11-08
 city = "Dubai, United Arab Emirates"
 
 [submission]

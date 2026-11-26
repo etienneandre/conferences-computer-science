@@ -5,7 +5,7 @@ url = "https://petrinets25.github.io/web/"
 
 [event]
 start = 2025-06-23
-end = 2025-06-27
+end   = 2025-06-27
 city = "Paris, France"
 
 [submission]
@@ -37,12 +37,12 @@ women = 1
 [[stats.track]]
 name = "Regular papers"
 submitted = 38
-accepted = 22
+accepted  = 22
 
 [[stats.track]]
 name = "Tool papers	"
 submitted = 3
-accepted = 1
+accepted  = 1
 
 [extra]
 journal = "Some of the best papers will be invited, in an extended form, as submissions to a special issue of Fundamenta Informaticae."

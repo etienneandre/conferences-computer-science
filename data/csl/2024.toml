@@ -5,7 +5,7 @@ url = "https://csl2024.github.io/Home/"
 
 [event]
 start = 2024-02-19
-end = 2024-02-23
+end   = 2024-02-23
 city = "Naples, Italy"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 46
+accepted  = 46
 submitted = 82
 # TODO: verify — extracted from the cross-year acceptance string.
 

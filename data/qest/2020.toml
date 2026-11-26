@@ -6,7 +6,7 @@ url = "http://www.qest.org/qest2020/"
 [event]
 part_of = "confest/2020"
 start = 2020-09-01
-end = 2020-09-03
+end   = 2020-09-03
 city = "Vienna, Austria"
 online = true
 

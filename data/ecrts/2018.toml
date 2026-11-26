@@ -5,7 +5,7 @@ url = "http://www.ecrts.org/ecrts18"
 
 [event]
 start = 2018-07-03
-end = 2018-07-06
+end   = 2018-07-06
 city = "Barcelona, Catalonia, Spain"
 
 [submission]

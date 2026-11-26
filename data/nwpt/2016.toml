@@ -5,7 +5,7 @@ url = "http://nwpt2016.cs.aau.dk/"
 
 [event]
 start = 2016-10-31
-end = 2016-11-02
+end   = 2016-11-02
 city = "Rold Storkro, Skoerping (Aalborg), Denmark"
 
 [submission]

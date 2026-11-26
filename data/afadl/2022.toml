@@ -5,7 +5,7 @@ url = "https://afadl2022.ls2n.fr/"
 
 [event]
 start = 2022-06-08
-end = 2022-06-10
+end   = 2022-06-10
 city = "Vannes, France"
 
 [submission]

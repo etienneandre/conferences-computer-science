@@ -5,7 +5,7 @@ url = "https://formalise2024.github.io"
 
 [event]
 start = 2024-04-14
-end = 2024-04-15
+end   = 2024-04-15
 city = "Lisbon, Portugal"
 
 [submission]
@@ -25,7 +25,7 @@ artifact = "Optional artifact evaluation"
 
 [stats]
 submitted = 41
-accepted = 14 #  11 full research papers, one case study paper, and two research ideas papers.
+accepted  = 14 #  11 full research papers, one case study paper, and two research ideas papers.
 
 [extra]
 colocated = "Held in conjunction with ICSE."

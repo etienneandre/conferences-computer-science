@@ -5,7 +5,7 @@ url = "http://jrwrtc2016.gforge.inria.fr"
 
 [event]
 start = 2016-10-19
-end = 2016-10-21
+end   = 2016-10-21
 city = "Brest, Bretagne, France"
 colocated_with = ["rtns/2016"]
 

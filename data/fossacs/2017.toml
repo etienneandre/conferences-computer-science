@@ -6,7 +6,7 @@ url = "http://www.etaps.org/index.php/2017/fossacs"
 [event]
 part_of = "etaps/2017"
 start = 2017-04-22
-end = 2017-04-29
+end   = 2017-04-29
 city = "Uppsala, Sweden"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 32
+accepted  = 32
 submitted = 101
 # TODO: verify — extracted from the cross-year acceptance string.
 

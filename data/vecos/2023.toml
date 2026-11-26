@@ -5,7 +5,7 @@ url = "http://vecos-world.org/2023/"
 
 [event]
 start = 2023-10-18
-end = 2023-10-20
+end   = 2023-10-20
 city = "Marrakech, Morocco"
 hybrid = true # announced in the CfP
 
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay"
 
 [stats]
-accepted = 12
+accepted  = 12
 submitted = 36
 # TODO: verify — extracted from the cross-year acceptance string.
 

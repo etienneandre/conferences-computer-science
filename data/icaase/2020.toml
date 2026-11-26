@@ -5,7 +5,7 @@ url = "https://www.univ-constantine2.dz/icaase2020/"
 
 [event]
 start = 2020-11-28
-end = 2020-11-30
+end   = 2020-11-30
 city = "Constantine, Algeria"
 
 [submission]

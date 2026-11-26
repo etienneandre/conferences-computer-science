@@ -5,7 +5,7 @@ url = "https://fromsymposium.github.io/"
 
 [event]
 start = 2025-09-17
-end = 2025-09-19
+end   = 2025-09-19
 city = "Iași, Romania"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://www.ictac.org.za/"
 
 [event]
 start = 2018-10-16
-end = 2018-10-19
+end   = 2018-10-19
 city = "Stellenbosch, South Africa"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 25
+accepted  = 25
 submitted = 59
 # TODO: verify — extracted from the cross-year acceptance string.
 

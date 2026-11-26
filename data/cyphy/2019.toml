@@ -5,7 +5,7 @@ url = "http://www.cyphy.org/"
 
 [event]
 start = 2019-10-17
-end = 2019-10-18
+end   = 2019-10-18
 city = "New York City, USA"
 
 [submission]

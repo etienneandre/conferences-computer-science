@@ -6,7 +6,7 @@ url = "http://2017.discotec.org/"
 [event]
 part_of = "discotec/2017"
 start = 2017-06-19
-end = 2017-06-22
+end   = 2017-06-22
 city = "Neuchâtel, Switzerland"
 
 [submission]
@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [stats]
 submitted = 42
-accepted = 17
+accepted  = 17
 # NOTE: (13 long + 3 short + 1 tool/42)
 
 

@@ -6,7 +6,7 @@ url = "http://2018.discotec.org/"
 [event]
 part_of = "discotec/2018"
 start = 2018-06-18
-end = 2018-06-21
+end   = 2018-06-21
 city = "Madrid, Spain"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 10
+accepted  = 10
 submitted = 28
 
 [extra]

@@ -5,7 +5,7 @@ url = "http://www.esweek.org/emsoft/about"
 
 [event]
 start = 2020-09-20
-end = 2020-09-25
+end   = 2020-09-25
 city = "Hamburg, Germany"
 
 [submission]

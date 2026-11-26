@@ -5,7 +5,7 @@ url = "http://fmi.unibuc.ro/ictac2014"
 
 [event]
 start = 2014-09-17
-end = 2014-09-20
+end   = 2014-09-20
 city = "Bucharest, Romania"
 
 [submission]

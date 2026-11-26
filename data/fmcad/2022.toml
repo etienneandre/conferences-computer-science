@@ -5,7 +5,7 @@ url = "https://fmcad.forsyte.at/FMCAD22/"
 
 [event]
 start = 2022-10-19
-end = 2022-10-21
+end   = 2022-10-21
 city = "Trento, Italy"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://kse2019.ued.udn.vn/"
 
 [event]
 start = 2019-10-24
-end = 2019-10-26
+end   = 2019-10-26
 city = "Đà Nẵng, Việt Nam"
 
 [submission]

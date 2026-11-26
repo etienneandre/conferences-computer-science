@@ -5,7 +5,7 @@ url = "http://www.irit.fr/ABZ2014/"
 
 [event]
 start = 2014-06-02
-end = 2014-06-06
+end   = 2014-06-06
 city = "Toulouse, France"
 
 [submission]

@@ -6,7 +6,7 @@ url = "https://etaps.org/2021/fase"
 [event]
 part_of = "etaps/2021"
 start = 2021-03-27
-end = 2021-04-01
+end   = 2021-04-01
 online = true
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
 
 [stats]
-accepted = 16
+accepted  = 16
 submitted = 51
 # TODO: verify — extracted from the cross-year acceptance string.
 

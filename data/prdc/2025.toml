@@ -5,7 +5,7 @@ url = "https://prdc.dependability.org/PRDC2025/"
 
 [event]
 start = 2025-11-03
-end = 2025-11-05
+end   = 2025-11-05
 city = "Seoul, South Korea"
 
 [submission]
@@ -26,7 +26,7 @@ award = "One outstanding paper will be selected to receive the Best Paper Award,
 
 [stats]
 submitted = 27
-accepted = 11
+accepted  = 11
 
 
 [extra]

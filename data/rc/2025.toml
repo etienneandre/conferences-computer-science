@@ -4,7 +4,7 @@ url = "https://reversible-computation-2025.github.io/"
 
 [event]
 start = 2025-07-03
-end = 2025-07-04
+end   = 2025-07-04
 city = "Odense, Denmark"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 22
-accepted = 12
+accepted  = 12
 # The 7 full papers and 5 short papers included in this book were carefully reviewed and selected from 22 submissions.
 
 [[cfp]]

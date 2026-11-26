@@ -5,7 +5,7 @@ url = "http://time2014.di.univr.it/"
 
 [event]
 start = 2014-09-08
-end = 2014-09-10
+end   = 2014-09-10
 city = "Verona, Italy"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "IEEE"
 license = "pay"
 
 [stats]
-accepted = 17
+accepted  = 17
 submitted = 32
 # TODO: verify — extracted from the cross-year acceptance string.
 

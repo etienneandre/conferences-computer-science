@@ -5,7 +5,7 @@ url = "https://abz2020.uni-ulm.de"
 
 [event]
 start = 2020-05-27
-end = 2020-05-29
+end   = 2020-05-29
 city = "Ulm, Germany"
 
 [submission]

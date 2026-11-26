@@ -5,7 +5,7 @@ url = "https://fmcad.org/FMCAD21/"
 
 [event]
 start = 2021-10-20
-end = 2021-10-22
+end   = 2021-10-22
 venue = "Yale University"
 city = "New Haven, Connecticut, USA"
 online = true

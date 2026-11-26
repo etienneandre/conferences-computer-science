@@ -5,7 +5,7 @@ url = "http://lics.rwth-aachen.de/lics17/"
 
 [event]
 start = 2017-06-20
-end = 2017-06-23
+end   = 2017-06-23
 city = "Reykjavík, Iceland"
 
 [submission]
@@ -22,7 +22,7 @@ publisher = "ACM SIGPLAN Proceedings"
 license = "acm"
 
 [stats]
-accepted = 89
+accepted  = 89
 submitted = 224
 
 [extra]

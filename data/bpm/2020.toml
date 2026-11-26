@@ -5,7 +5,7 @@ url = "https://congreso.us.es/bpm2020/"
 
 [event]
 start = 2020-09-13
-end = 2020-09-18
+end   = 2020-09-18
 city = "Seville, Spain"
 
 [submission]

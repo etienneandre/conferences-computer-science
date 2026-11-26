@@ -5,7 +5,7 @@ url = "https://lipn.univ-paris13.fr/fvsbs19/"
 
 [event]
 start = 2019-06-12
-end = 2019-06-14
+end   = 2019-06-14
 city = "Naples, Italy"
 
 [submission]

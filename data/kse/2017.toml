@@ -5,7 +5,7 @@ url = "http://kse2017.dhsphue.edu.vn/"
 
 [event]
 start = 2017-10-19
-end = 2017-10-21
+end   = 2017-10-21
 city = "Huế, Việt Nam"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://conf.researchr.org/home/VMCAI-2016"
 
 [event]
 start = 2016-01-17
-end = 2016-01-19
+end   = 2016-01-19
 city = "St. Petersburg, Florida, USA"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 24
+accepted  = 24
 submitted = 67
 # TODO: verify — extracted from the cross-year acceptance string.
 

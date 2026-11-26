@@ -5,7 +5,7 @@ url = "https://abz-conf.org/site/2024/"
 
 [event]
 start = 2024-06-25
-end = 2024-06-28
+end   = 2024-06-28
 city = "Bergamo, Italy"
 
 [submission]

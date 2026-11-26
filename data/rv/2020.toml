@@ -5,7 +5,7 @@ url = "https://rv20.ait.ac.at"
 
 [event]
 start = 2020-10-06
-end = 2020-10-09
+end   = 2020-10-09
 city = "Los Angeles, California, USA"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://2015.issre.net/"
 
 [event]
 start = 2015-11-02
-end = 2015-11-05
+end   = 2015-11-05
 city = "Gaithersburg, Maryland, USA"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://acompa.live/"
 
 [event]
 start = 2025-11-27
-end = 2025-11-29
+end   = 2025-11-29
 city = "Hồ Chí Minh City, Việt Nam"
 
 [submission]

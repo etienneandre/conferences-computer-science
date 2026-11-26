@@ -5,7 +5,7 @@ url = "http://icfem2014.uni.lu"
 
 [event]
 start = 2014-11-03
-end = 2014-11-07
+end   = 2014-11-07
 city = "Luxembourg"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://lpar-26.info"
 
 [event]
 start = 2026-10-25
-end = 2026-10-30
+end   = 2026-10-30
 city = "Spetses, Greece"
 
 [submission]

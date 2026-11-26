@@ -5,7 +5,7 @@ url = "http://www.ftscs.org"
 
 [event]
 start = 2016-11-14
-end = 2016-11-15
+end   = 2016-11-15
 city = "Tōkyō, Japan"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "Springer CCIS"
 license = "pay-profit"
 
 [stats]
-accepted = 9
+accepted  = 9
 submitted = 23
 # TODO: verify — extracted from the cross-year acceptance string.
 

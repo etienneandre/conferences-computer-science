@@ -4,7 +4,7 @@ url = "https://2027.formalise.org/"
 
 [event]
 start = 2027-04-26
-end = 2027-04-27
+end   = 2027-04-27
 city = "Dublin, Ireland"
 colocated_with = ["icse/2027"]
 

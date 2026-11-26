@@ -5,7 +5,7 @@ url = "http://lata2019.irdta.eu/"
 
 [event]
 start = 2019-03-25
-end = 2019-03-29
+end   = 2019-03-29
 city = "Saint Petersburg, Russia"
 
 [submission]

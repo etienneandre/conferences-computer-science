@@ -5,7 +5,7 @@ url = "https://isorc2022.github.io/cfp.html"
 
 [event]
 start = 2022-05-17
-end = 2022-05-19
+end   = 2022-05-19
 city = "Västerås, Sweden"
 
 [submission]

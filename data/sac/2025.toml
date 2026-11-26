@@ -5,7 +5,7 @@ url = "https://www.sigapp.org/sac/sac2025/"
 
 [event]
 start = 2025-03-31
-end = 2025-04-04
+end   = 2025-04-04
 city = "Catania, Sicily, Italy"
 
 [submission]
@@ -24,7 +24,7 @@ blind = "double"
 
 [stats]
 submitted = 939
-accepted = 216
+accepted  = 216
 
 [extra]
 notes = "42 tracks, student abstracts, Student Research Competition, etc."

@@ -5,7 +5,7 @@ url = "http://www.cs.ox.ac.uk/conferences/NSV17"
 
 [event]
 start = 2017-07-22
-end = 2017-07-23
+end   = 2017-07-23
 city = "Heidelberg, Germany"
 
 [submission]

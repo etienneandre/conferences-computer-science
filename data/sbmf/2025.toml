@@ -5,7 +5,7 @@ url = "http://sbmf2025.ufrpe.br/"
 
 [event]
 start = 2025-12-03
-end = 2025-12-05
+end   = 2025-12-05
 city = "Recife - Pernambuco, Brazil"
 
 [submission]
@@ -20,7 +20,7 @@ license = "pay-profit"
 doi = "10.1007/978-3-032-12086-1"
 
 [stats]
-accepted = 13
+accepted  = 13
 submitted = 25
 
 [extra]

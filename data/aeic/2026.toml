@@ -4,7 +4,7 @@ url = "https://www.ada-europe.org/conference2026/"
 
 [event]
 start = 2026-06-09
-end = 2026-06-12
+end   = 2026-06-12
 city = "Västerås, Sweden"
 venue = "Mälardalen University"
 

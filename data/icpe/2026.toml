@@ -4,7 +4,7 @@ url = "https://icpe2026.spec.org/"
 
 [event]
 start = 2026-05-04
-end = 2026-05-08
+end   = 2026-05-08
 city = "Florence, Italy"
 
 [submission]
@@ -35,7 +35,7 @@ women = 2
 
 [stats]
 submitted = 81
-accepted = 28 # 23 full + 5 short
+accepted  = 28 # 23 full + 5 short
 
 [extra]
 notes = "Several other tracks such as: industry, journal-first, artifact, data challenge…"

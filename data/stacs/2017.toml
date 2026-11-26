@@ -5,7 +5,7 @@ url = "https://stacs2017.thi.uni-hannover.de"
 
 [event]
 start = 2017-03-08
-end = 2017-03-11
+end   = 2017-03-11
 city = "Hannover, Germany"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 54
+accepted  = 54
 submitted = 212
 # TODO: verify — extracted from the cross-year acceptance string.
 

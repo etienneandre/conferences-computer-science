@@ -5,7 +5,7 @@ url = "http://fmics-avocs.isti.cnr.it/"
 
 [event]
 start = 2016-09-26
-end = 2016-09-29
+end   = 2016-09-29
 city = "Pisa, Italy"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://icaps14.icaps-conference.org/workshops_tutorials/mochap.html"
 
 [event]
 start = 2014-06-22
-end = 2014-06-23
+end   = 2014-06-23
 city = "Portsmouth, New Hampshire, USA"
 
 [submission]

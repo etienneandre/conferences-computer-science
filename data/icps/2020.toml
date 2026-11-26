@@ -5,7 +5,7 @@ url = "https://events.tuni.fi/icps2020/"
 
 [event]
 start = 2020-06-09
-end = 2020-06-12
+end   = 2020-06-12
 city = "Tampere, Finland"
 
 [submission]

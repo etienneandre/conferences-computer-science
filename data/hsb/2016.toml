@@ -5,7 +5,7 @@ url = "http://hsb2016.imag.fr/"
 
 [event]
 start = 2016-10-20
-end = 2016-10-21
+end   = 2016-10-21
 city = "Grenoble, France"
 
 [submission]

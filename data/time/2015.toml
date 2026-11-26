@@ -5,7 +5,7 @@ url = "http://time2015.uni-kassel.de"
 
 [event]
 start = 2015-09-23
-end = 2015-09-25
+end   = 2015-09-25
 city = "Kassel, Germany"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "IEEE CPS"
 license = "pay"
 
 [stats]
-accepted = 17
+accepted  = 17
 submitted = 23
 # TODO: verify — extracted from the cross-year acceptance string.
 

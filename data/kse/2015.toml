@@ -5,7 +5,7 @@ url = "http://kse2015.uit.edu.vn/"
 
 [event]
 start = 2015-10-08
-end = 2015-10-10
+end   = 2015-10-10
 city = "Hồ Chí Minh City, Việt Nam"
 
 [submission]

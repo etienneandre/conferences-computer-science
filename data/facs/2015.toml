@@ -5,7 +5,7 @@ url = "http://facs2015.ic.uff.br"
 
 [event]
 start = 2015-10-14
-end = 2015-10-16
+end   = 2015-10-16
 city = "Rio de Janeiro, Brazil"
 
 [submission]

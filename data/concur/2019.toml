@@ -5,7 +5,7 @@ url = "https://event.cwi.nl/concur2019/"
 
 [event]
 start = 2019-08-27
-end = 2019-08-30
+end   = 2019-08-30
 city = "Amsterdam, The Netherlands"
 
 [submission]

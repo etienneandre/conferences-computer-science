@@ -6,7 +6,7 @@ url = "https://www.discotec.org/2020/forte"
 [event]
 part_of = "discotec/2020"
 start = 2020-06-15
-end = 2020-06-19
+end   = 2020-06-19
 city = "Valletta, Malta"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS IFIP"
 license = "pay-profit"
 
 [stats]
-accepted = 11
+accepted  = 11
 submitted = 25
 
 [extra]

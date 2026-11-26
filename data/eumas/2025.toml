@@ -5,7 +5,7 @@ url = "https://euramas.github.io/eumas2024/"
 
 [event]
 start = 2025-09-03
-end = 2025-09-05
+end   = 2025-09-05
 city = "Bucharest, Romania"
 
 [submission]

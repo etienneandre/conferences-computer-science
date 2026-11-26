@@ -6,7 +6,7 @@ url = "https://conferences.au.dk/confest2025/concur"
 [event]
 part_of = "confest/2025"
 start = 2025-08-26
-end = 2025-08-29
+end   = 2025-08-29
 city = "Aarhus, Denmark"
 colocated_with = ["qest-formats/2025", "fmics/2025"]
 
@@ -28,7 +28,7 @@ blind = "single"
 gender_balance = "mixed"
 
 [stats]
-accepted = 36
+accepted  = 36
 submitted = 83
 # TODO: verify — extracted from the cross-year acceptance string.
 

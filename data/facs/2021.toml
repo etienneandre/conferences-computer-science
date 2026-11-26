@@ -5,7 +5,7 @@ url = "https://facs2021.inria.fr/"
 
 [event]
 start = 2021-10-28
-end = 2021-10-29
+end   = 2021-10-29
 online = true
 
 [submission]

@@ -3,4 +3,4 @@ edition = 4
 [event]
 city = "Genoa, Italy"
 start = 2001-03-31
-end = 2001-04-08
+end   = 2001-04-08

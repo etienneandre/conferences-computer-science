@@ -5,7 +5,7 @@ url = "http://fsen.ir/2019/"
 
 [event]
 start = 2019-05-01
-end = 2019-05-03
+end   = 2019-05-03
 city = "Tehran, Iran"
 
 [submission]
@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [stats]
 submitted = 47
-accepted = 17 # NOTE: 14 regular + 3 short
+accepted  = 17 # NOTE: 14 regular + 3 short
 
 [extra]
 journal = "Special issue of Science of Computer Programming journal devoted to FSEN’19 (to be confirmed)."

@@ -5,7 +5,7 @@ url = "https://memocode.github.io/2019"
 
 [event]
 start = 2019-10-09
-end = 2019-10-11
+end   = 2019-10-11
 city = "San Diego, California, USA"
 
 [submission]

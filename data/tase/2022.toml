@@ -5,7 +5,7 @@ url = "https://www.cs.ubbcluj.ro/tase2022/"
 
 [event]
 start = 2022-07-08
-end = 2022-07-10
+end   = 2022-07-10
 city = "Cluj-Napoca, Romania"
 
 [submission]

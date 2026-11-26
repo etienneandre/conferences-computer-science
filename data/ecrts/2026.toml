@@ -5,7 +5,7 @@ url = "https://www.ecrts.org/"
 
 [event]
 start = 2026-07-07
-end = 2026-07-10
+end   = 2026-07-10
 city = "Lund, Sweden"
 
 [submission]

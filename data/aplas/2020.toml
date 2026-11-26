@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/aplas-2020"
 
 [event]
 start = 2020-12-01
-end = 2020-12-04
+end   = 2020-12-04
 city = "Fukuoka, Japan"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://www.bpm2025seville.org/calls/research-papers/"
 
 [event]
 start = 2025-08-31
-end = 2025-09-05
+end   = 2025-09-05
 city = "Seville, Spain"
 
 [submission]

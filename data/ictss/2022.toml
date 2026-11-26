@@ -5,7 +5,7 @@ url = "http://indalog.ual.es/ICTSS2022/"
 
 [event]
 start = 2022-09-27
-end = 2022-09-29
+end   = 2022-09-29
 city = "Almería, Spain"
 
 [submission]

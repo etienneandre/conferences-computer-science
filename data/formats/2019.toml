@@ -5,7 +5,7 @@ url = "https://lipn.univ-paris13.fr/formats2019/"
 
 [event]
 start = 2019-08-27
-end = 2019-08-29
+end   = 2019-08-29
 city = "Amsterdam, The Netherlands"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://www.onera.fr/fr/fortress-2017"
 
 [event]
 start = 2017-08-16
-end = 2017-08-18
+end   = 2017-08-18
 city = "Hsinchu, Taiwan"
 
 [submission]

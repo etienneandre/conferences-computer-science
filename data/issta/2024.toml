@@ -5,7 +5,7 @@ url = "https://2024.issta.org/"
 
 [event]
 start = 2024-09-16
-end = 2024-09-20
+end   = 2024-09-20
 city = "Vienna, Austria"
 
 [submission]

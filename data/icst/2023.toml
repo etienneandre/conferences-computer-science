@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/icst-2023"
 
 [event]
 start = 2023-04-16
-end = 2023-04-20
+end   = 2023-04-20
 city = "Dublin, Ireland"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://www.cse.hcmut.edu.vn/acomp2014/"
 
 [event]
 start = 2014-11-19
-end = 2014-11-21
+end   = 2014-11-21
 city = "Hồ Chí Minh City, Việt Nam"
 
 [submission]

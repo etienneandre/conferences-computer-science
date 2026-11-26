@@ -5,7 +5,7 @@ url = "http://macis2019.gtu.edu.tr/"
 
 [event]
 start = 2019-11-13
-end = 2019-11-15
+end   = 2019-11-15
 city = "Gebze, Türkiye"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://www.comp.hkbu.edu.hk/~rtcsa2015/"
 
 [event]
 start = 2015-08-19
-end = 2015-08-21
+end   = 2015-08-21
 city = "Hong Kong, China"
 
 [submission]

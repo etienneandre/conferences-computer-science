@@ -5,7 +5,7 @@ url = "http://grammars.grlmc.com/lata2016/"
 
 [event]
 start = 2017-03-06
-end = 2017-03-09
+end   = 2017-03-09
 city = "Umeå, Sweden"
 
 [submission]

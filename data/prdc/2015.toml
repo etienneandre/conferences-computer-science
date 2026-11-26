@@ -5,7 +5,7 @@ url = "http://prdc.dependability.org/PRDC2015/"
 
 [event]
 start = 2015-11-18
-end = 2015-11-20
+end   = 2015-11-20
 city = "Zhangjiajie, China"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "IEEE"
 license = "pay"
 
 [stats]
-accepted = 44
+accepted  = 44
 submitted = 114
 # TODO: verify — extracted from the cross-year acceptance string.
 

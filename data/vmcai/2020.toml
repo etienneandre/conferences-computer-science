@@ -5,7 +5,7 @@ url = "https://popl20.sigplan.org/home/VMCAI-2020"
 
 [event]
 start = 2020-01-19
-end = 2020-01-21
+end   = 2020-01-21
 city = "New Orleans, Louisiana, USA"
 colocated_with = ["popl/2020"]
 

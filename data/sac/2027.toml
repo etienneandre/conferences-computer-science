@@ -4,7 +4,7 @@ url = "https://www.sigapp.org/sac/sac2027/"
 
 [event]
 start = 2027-04-05
-end = 2027-04-09
+end   = 2027-04-09
 city = "Gwangju, South Korea"
 
 [submission]

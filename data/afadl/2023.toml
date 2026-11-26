@@ -5,7 +5,7 @@ url = "https://gdrgpl2023.sciencesconf.org/"
 
 [event]
 start = 2023-06-05
-end = 2023-06-08
+end   = 2023-06-08
 city = "Rennes, Bretagne, France"
 
 [submission]

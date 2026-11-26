@@ -5,7 +5,7 @@ url = "http://afadl2016.conf.citi-lab.fr/"
 
 [event]
 start = 2016-06-07
-end = 2016-06-08
+end   = 2016-06-08
 city = "Besançon, France"
 
 [submission]

@@ -6,7 +6,7 @@ url = "https://etaps.org/2026/conferences/fossacs/"
 [event]
 part_of = "etaps/2026"
 start = 2026-04-11
-end = 2026-04-16
+end   = 2026-04-16
 city = "Turin, Italy"
 
 [submission]
@@ -36,7 +36,7 @@ men = 0
 women = 1
 
 [stats]
-accepted = 30
+accepted  = 30
 submitted = 104
 
 [extra]

@@ -6,7 +6,7 @@ url = "https://www.discotec.org/2024/forte"
 [event]
 part_of = "discotec/2024"
 start = 2024-06-17
-end = 2024-06-21
+end   = 2024-06-21
 city = "Groningen, The Netherlands"
 
 [submission]

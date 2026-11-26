@@ -6,7 +6,7 @@ url = "https://www.discotec.org/2022/forte"
 [event]
 part_of = "discotec/2022"
 start = 2022-06-13
-end = 2022-06-17
+end   = 2022-06-17
 city = "Lucca, Italy"
 
 [submission]
@@ -21,7 +21,7 @@ publisher = "Springer LNCS IFIP"
 license = "pay-profit"
 
 [stats]
-accepted = 12
+accepted  = 12
 submitted = 28
 
 [extra]

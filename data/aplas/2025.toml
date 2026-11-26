@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/track/aplas-2025/aplas-2025-aplas-2025"
 
 [event]
 start = 2025-10-27
-end = 2025-10-30
+end   = 2025-10-30
 city = "Bangalore, India"
 
 [submission]

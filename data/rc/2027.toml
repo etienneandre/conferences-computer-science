@@ -4,7 +4,7 @@ url = "https://reversible-computation.github.io/"
 
 [event]
 start = 2027-07-08
-end = 2027-07-09
+end   = 2027-07-09
 city = "Nancy, France"
 
 [submission]

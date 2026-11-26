@@ -5,7 +5,7 @@ url = "http://cliplab.org/Conferences/LOPSTR16/"
 
 [event]
 start = 2016-09-06
-end = 2016-09-08
+end   = 2016-09-08
 city = "Edinburgh, Scotland"
 
 [submission]

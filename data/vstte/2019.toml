@@ -5,7 +5,7 @@ url = "https://sri-csl.github.io/VSTTE19/"
 
 [event]
 start = 2019-07-18
-end = 2019-07-19
+end   = 2019-07-19
 city = "New York City, USA"
 colocated_with = ["cav/2019"]
 
@@ -21,7 +21,7 @@ publisher = "LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 9
+accepted  = 9
 submitted = 17
 # TODO: verify — extracted from the cross-year acceptance string.
 

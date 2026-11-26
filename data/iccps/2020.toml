@@ -5,7 +5,7 @@ url = "http://iccps.acm.org/2020/"
 
 [event]
 start = 2020-04-22
-end = 2020-04-24
+end   = 2020-04-24
 city = "Sydney, Australia"
 
 [submission]

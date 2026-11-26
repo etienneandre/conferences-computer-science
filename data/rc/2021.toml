@@ -4,7 +4,7 @@ url = "https://reversible-computation-2021.github.io/"
 
 [event]
 start = 2021-07-07
-end = 2021-07-08
+end   = 2021-07-08
 city = "Nagoya, Japan"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 21
-accepted = 11
+accepted  = 11
 # The 11 papers included in this book were carefully reviewed and selected from 21 submissions.
 
 [[cfp]]

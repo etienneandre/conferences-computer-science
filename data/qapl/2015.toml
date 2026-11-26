@@ -5,7 +5,7 @@ url = "http://qapl15.inria.fr"
 
 [event]
 start = 2015-04-11
-end = 2015-04-12
+end   = 2015-04-12
 city = "London, England"
 
 [submission]

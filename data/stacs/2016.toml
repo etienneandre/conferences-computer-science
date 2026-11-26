@@ -5,7 +5,7 @@ url = "http://www.univ-orleans.fr/lifo/events/STACS2016/"
 
 [event]
 start = 2016-02-17
-end = 2016-02-20
+end   = 2016-02-20
 city = "Orléans, France"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 54
+accepted  = 54
 submitted = 205
 # TODO: verify — extracted from the cross-year acceptance string.
 

@@ -5,7 +5,7 @@ url = "http://fsen.ir/2021/"
 
 [event]
 start = 2021-05-19
-end = 2021-05-21
+end   = 2021-05-21
 online = true
 
 [submission]
@@ -24,7 +24,7 @@ blind = "single"
 
 [stats]
 submitted = 38
-accepted = 16 # NOTE: 12 regular + 4 short
+accepted  = 16 # NOTE: 12 regular + 4 short
 
 [review.gender.speakers]
 women = 2

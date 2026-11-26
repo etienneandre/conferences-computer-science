@@ -5,7 +5,7 @@ url = "https://tap2015.in.tum.de/"
 
 [event]
 start = 2015-07-22
-end = 2015-07-24
+end   = 2015-07-24
 city = "L’Aquila, Italy"
 
 [submission]

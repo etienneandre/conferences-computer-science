@@ -5,7 +5,7 @@ url = "https://tap.sosy-lab.org/2020/"
 
 [event]
 start = 2020-06-22
-end = 2020-06-26
+end   = 2020-06-26
 city = "Bergen, Norway"
 
 [submission]

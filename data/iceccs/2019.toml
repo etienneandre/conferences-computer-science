@@ -5,7 +5,7 @@ url = "http://www.formal-analysis.com/iceccs/2019/"
 
 [event]
 start = 2019-11-10
-end = 2019-11-13
+end   = 2019-11-13
 city = "Hong Kong"
 
 [submission]

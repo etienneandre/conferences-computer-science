@@ -5,7 +5,7 @@ url = "https://setta2024.cs.cityu.edu.hk/"
 
 [event]
 start = 2024-11-26
-end = 2024-11-28
+end   = 2024-11-28
 city = "Hong Kong, China"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 21
+accepted  = 21
 submitted = 47
 
 [extra]

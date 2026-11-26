@@ -5,7 +5,7 @@ url = "https://www.sigapp.org/sac/sac2024/"
 
 [event]
 start = 2024-04-08
-end = 2024-04-12
+end   = 2024-04-12
 city = "Ávila, Spain"
 
 [submission]
@@ -20,7 +20,7 @@ doi = "10.1145/3605098"
 
 [stats]
 submitted = 773
-accepted = 180
+accepted  = 180
 
 [review]
 blind = "double"

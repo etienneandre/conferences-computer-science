@@ -5,7 +5,7 @@ url = "https://ifm22.si.usi.ch/"
 
 [event]
 start = 2022-06-07
-end = 2022-06-10
+end   = 2022-06-10
 city = "Lugano, Switzerland"
 
 [submission]

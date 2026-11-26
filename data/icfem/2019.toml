@@ -5,7 +5,7 @@ url = "http://csse.szu.edu.cn/icfem2019/"
 
 [event]
 start = 2019-11-05
-end = 2019-11-09
+end   = 2019-11-09
 city = "Shenzhen, China"
 
 [submission]

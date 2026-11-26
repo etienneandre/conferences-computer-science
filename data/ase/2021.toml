@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/ase-2021"
 
 [event]
 start = 2021-09-15
-end = 2021-09-19
+end   = 2021-09-19
 city = "Melbourne, Australia"
 
 [submission]

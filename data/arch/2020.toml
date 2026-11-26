@@ -17,7 +17,7 @@ publisher = "EasyChair EPiC series"
 license = "free"
 
 [stats]
-accepted = 6
+accepted  = 6
 submitted = 7
 # TODO: verify — extracted from the cross-year acceptance string.
 

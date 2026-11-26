@@ -5,7 +5,7 @@ url = "https://time2020.inf.unibz.it/"
 
 [event]
 start = 2020-09-23
-end = 2020-09-25
+end   = 2020-09-25
 city = "Bozen-Bolzano, Italy"
 
 [submission]

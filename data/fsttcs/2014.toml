@@ -5,7 +5,7 @@ url = "http://www.fsttcs.org/"
 
 [event]
 start = 2014-12-15
-end = 2014-12-17
+end   = 2014-12-17
 city = "New Delhi, India"
 
 [submission]

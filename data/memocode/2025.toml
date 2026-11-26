@@ -5,7 +5,7 @@ url = "https://memocode2025.github.io/"
 
 [event]
 start = 2025-10-02
-end = 2025-10-03
+end   = 2025-10-03
 city = "Taipei, Taiwan"
 
 [submission]

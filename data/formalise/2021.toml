@@ -5,7 +5,7 @@ url = "http://www.formalise.org/"
 
 [event]
 start = 2021-05-17
-end = 2021-05-21
+end   = 2021-05-21
 online = true
 colocated_with = ["icse/2021"]
 

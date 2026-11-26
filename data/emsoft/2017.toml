@@ -5,7 +5,7 @@ url = "http://www.esweek.org/emsoft/about"
 
 [event]
 start = 2017-10-15
-end = 2017-10-20
+end   = 2017-10-20
 city = "Seoul, South Korea"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://robonaut.jsc.nasa.gov/R2/pages/nfm2019.html"
 
 [event]
 start = 2019-05-07
-end = 2019-05-09
+end   = 2019-05-09
 city = "Houston, Texas, USA"
 venue = "Rice University"
 
@@ -24,12 +24,12 @@ license = "pay-profit"
 [[stats.track]]
 name = "Regular papers"
 submitted = 54
-accepted = 20
+accepted  = 20
 
 [[stats.track]]
 name = "Short papers"
 submitted = 18
-accepted = 8
+accepted  = 8
 
 [extra]
 notes = "No registration fees."

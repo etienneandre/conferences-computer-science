@@ -5,7 +5,7 @@ url = "https://fmasworkshop.github.io/FMAS2025/"
 
 [event]
 start = 2025-11-17
-end = 2025-11-19
+end   = 2025-11-19
 city = "Paris, France"
 hybrid = true
 colocated_with = ["ifm/2025"]

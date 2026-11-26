@@ -5,7 +5,7 @@ url = "http://tableaux2017.cic.unb.br/"
 
 [event]
 start = 2017-09-25
-end = 2017-09-28
+end   = 2017-09-28
 city = "Brasília, Brazil"
 
 [submission]

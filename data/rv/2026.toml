@@ -5,7 +5,7 @@ url = "https://rv2026.smithengineering.queensu.ca/"
 
 [event]
 start = 2026-10-06
-end = 2026-10-09
+end   = 2026-10-09
 city = "Kingston, Canada"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://ifm2017.di.unito.it/"
 
 [event]
 start = 2017-09-20
-end = 2017-09-22
+end   = 2017-09-22
 city = "Turin, Italy"
 
 [submission]

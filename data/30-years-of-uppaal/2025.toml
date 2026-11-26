@@ -5,7 +5,7 @@ url = "https://2025-aisola.isola-conference.org/"
 
 [event]
 start = 2025-11-01
-end = 2025-11-04
+end   = 2025-11-04
 city = "Rhodes, Greece"
 
 [submission]

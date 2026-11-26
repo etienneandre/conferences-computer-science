@@ -5,7 +5,7 @@ url = "http://acm-soict.org/"
 
 [event]
 start = 2016-12-08
-end = 2016-12-09
+end   = 2016-12-09
 city = "Hồ Chí Minh City, Việt Nam"
 
 [submission]

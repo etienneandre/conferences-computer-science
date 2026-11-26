@@ -5,7 +5,7 @@ url = "https://conference-erts.org/"
 
 [event]
 start = 2026-02-05
-end = 2026-02-06
+end   = 2026-02-06
 city = "Toulouse, France"
 
 [submission]

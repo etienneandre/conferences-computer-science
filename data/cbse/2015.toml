@@ -5,7 +5,7 @@ url = "http://cbse-conferences.org/2015/"
 
 [event]
 start = 2015-05-04
-end = 2015-05-08
+end   = 2015-05-08
 city = "Montréal, Québec, Canada"
 
 [submission]

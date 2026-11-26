@@ -5,7 +5,7 @@ url = "http://www-inf.it-sudparis.eu/WETICE/FVSBS/"
 
 [event]
 start = 2015-06-15
-end = 2015-06-17
+end   = 2015-06-17
 city = "Larnaca, Cyprus"
 
 [submission]

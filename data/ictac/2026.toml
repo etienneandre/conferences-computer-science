@@ -5,7 +5,7 @@ url = "https://ictac2026.github.io/"
 
 [event]
 start = 2026-11-11
-end = 2026-11-13
+end   = 2026-11-13
 city = "Bariloche, Argentina"
 
 [submission]

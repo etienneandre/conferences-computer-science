@@ -5,7 +5,7 @@ url = "http://www.acisinternational.org/sera2016/"
 
 [event]
 start = 2016-06-08
-end = 2016-06-10
+end   = 2016-06-10
 city = "Towson, Maryland, USA"
 
 [submission]

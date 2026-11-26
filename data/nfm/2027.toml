@@ -4,7 +4,7 @@ url = "https://conf.researchr.org/home/nfm-2027"
 
 [event]
 start = 2027-05-11
-end = 2027-05-13
+end   = 2027-05-13
 city = "Houston, Texas, USA"
 venue = "University of Houston Clear Lake"
 

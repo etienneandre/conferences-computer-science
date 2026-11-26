@@ -5,7 +5,7 @@ url = "http://formats17.ulb.be/"
 
 [event]
 start = 2017-09-05
-end = 2017-09-07
+end   = 2017-09-07
 city = "Berlin, Germany"
 
 [submission]

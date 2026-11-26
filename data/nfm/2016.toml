@@ -5,7 +5,7 @@ url = "http://crisys.cs.umn.edu/nfm2016/"
 
 [event]
 start = 2016-06-07
-end = 2016-06-09
+end   = 2016-06-09
 city = "Minneapolis, Minnesota, USA"
 
 [submission]

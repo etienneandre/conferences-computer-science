@@ -5,7 +5,7 @@ url = "https://bristolpl.github.io/tase2023/"
 
 [event]
 start = 2023-07-04
-end = 2023-07-06
+end   = 2023-07-06
 city = "Bristol, England"
 
 [submission]

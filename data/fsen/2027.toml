@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/fsen-2027"
 
 [event]
 start = 2027-05-24
-end = 2027-05-25
+end   = 2027-05-25
 city = "Enschede, The Netherlands"
 
 [submission]

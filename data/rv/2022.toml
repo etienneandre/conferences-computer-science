@@ -5,7 +5,7 @@ url = "https://rv22.gitlab.io/"
 
 [event]
 start = 2022-09-28
-end = 2022-09-30
+end   = 2022-09-30
 city = "Tbilisi, Georgia"
 hybrid = true # From the CfP
 

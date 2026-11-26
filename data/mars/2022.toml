@@ -6,7 +6,7 @@ url = "http://mars-workshop.org/mars2022/"
 [event]
 part_of = "etaps/2022"
 start = 2022-04-02
-end = 2022-04-03
+end   = 2022-04-03
 city = "Munich, Germany"
 
 [submission]

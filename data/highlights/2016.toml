@@ -5,7 +5,7 @@ url = "http://highlights-conference.org"
 
 [event]
 start = 2016-09-06
-end = 2016-09-09
+end   = 2016-09-09
 city = "Brussels, Belgium"
 
 [submission]

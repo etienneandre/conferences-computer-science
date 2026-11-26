@@ -5,7 +5,7 @@ url = "http://www.icost-society.org/"
 
 [event]
 start = 2020-06-24
-end = 2020-06-26
+end   = 2020-06-26
 city = "Hammamet, Tunisia"
 
 [submission]

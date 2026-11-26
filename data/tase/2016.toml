@@ -5,7 +5,7 @@ url = "http://tase2016.ecnu.edu.cn"
 
 [event]
 start = 2016-07-17
-end = 2016-07-19
+end   = 2016-07-19
 city = "Shanghai, China"
 
 [submission]

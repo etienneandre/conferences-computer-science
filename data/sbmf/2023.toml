@@ -5,7 +5,7 @@ url = "http://sbmf2021.computacao.ufcg.edu.br/"
 
 [event]
 start = 2023-12-04
-end = 2023-12-08
+end   = 2023-12-08
 city = "Manaus, Brazil"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 9
+accepted  = 9
 submitted = 16
 # TODO: verify — extracted from the cross-year acceptance string.
 

@@ -5,7 +5,7 @@ url = "http://www.florence2014.org/"
 
 [event]
 start = 2014-09-08
-end = 2014-09-10
+end   = 2014-09-10
 city = "Florence, Italy"
 
 [submission]

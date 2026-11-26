@@ -5,7 +5,7 @@ url = "http://www.valuetools.org/2020/"
 
 [event]
 start = 2020-05-18
-end = 2020-05-20
+end   = 2020-05-20
 city = "Tsukuba, Japan"
 
 [submission]

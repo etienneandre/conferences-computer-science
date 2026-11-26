@@ -5,7 +5,7 @@ url = "http://www.ic.ufal.br/evento/cbsoft2014/"
 
 [event]
 start = 2014-09-29
-end = 2014-09-30
+end   = 2014-09-30
 city = "Maceió, Brazil"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 13
+accepted  = 13
 submitted = 34
 # TODO: verify — extracted from the cross-year acceptance string.
 

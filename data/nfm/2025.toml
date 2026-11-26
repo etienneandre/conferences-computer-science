@@ -5,7 +5,7 @@ url = "https://shemesh.larc.nasa.gov/nfm2025/"
 
 [event]
 start = 2025-06-11
-end = 2025-06-13
+end   = 2025-06-13
 city = "Williamsburg, Virginia, USA"
 
 [submission]
@@ -25,7 +25,7 @@ award = "Best Paper Award, sponsored by Springer"
 
 [stats]
 submitted = 65
-accepted = 24
+accepted  = 24
 
 [extra]
 journal = "A selection of papers will be invited to submit extended versions to an special issue on Springer’s Innovations in Systems and Software Engineering: A NASA Journal."

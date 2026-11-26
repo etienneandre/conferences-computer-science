@@ -5,7 +5,7 @@ url = "http://formats2015.unifi.it"
 
 [event]
 start = 2015-09-02
-end = 2015-09-04
+end   = 2015-09-04
 city = "Madrid, Spain"
 
 [submission]

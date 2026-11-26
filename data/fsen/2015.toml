@@ -5,7 +5,7 @@ url = "http://fsen.ir/2015/"
 
 [event]
 start = 2015-04-22
-end = 2015-04-24
+end   = 2015-04-24
 city = "Tehran, Iran"
 
 [submission]
@@ -20,7 +20,7 @@ license = "pay-profit"
 
 [stats]
 submitted = 62
-accepted = 19 # NOTE: 14 regular + 5 short + 6 posters
+accepted  = 19 # NOTE: 14 regular + 5 short + 6 posters
 
 [extra]
 journal = "Special issue of Science of Computer Programming journal devoted to FSEN’15 (to be confirmed)."

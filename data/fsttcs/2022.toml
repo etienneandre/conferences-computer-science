@@ -5,7 +5,7 @@ url = "https://www.fsttcs.org.in/2022/"
 
 [event]
 start = 2022-12-18
-end = 2022-12-20
+end   = 2022-12-20
 city = "IIT Madras, India"
 
 [submission]

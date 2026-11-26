@@ -5,7 +5,7 @@ url = "http://www.petrae.org/"
 
 [event]
 start = 2022-06-29
-end = 2022-07-01
+end   = 2022-07-01
 city = "Corfu, Greece"
 
 [submission]

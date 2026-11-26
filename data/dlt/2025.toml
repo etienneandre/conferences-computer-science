@@ -5,7 +5,7 @@ url = "https://cida.uos.ac.kr/dlt2025/"
 
 [event]
 start = 2025-08-19
-end = 2025-08-22
+end   = 2025-08-22
 city = "Seoul, South Korea"
 
 [submission]

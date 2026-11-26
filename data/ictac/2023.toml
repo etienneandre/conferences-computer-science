@@ -5,7 +5,7 @@ url = "https://ictac2023.compsust.utec.edu.pe/"
 
 [event]
 start = 2023-12-04
-end = 2023-12-08
+end   = 2023-12-08
 city = "Lima, Peru"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 22
+accepted  = 22
 submitted = 39
 # TODO: verify — extracted from the cross-year acceptance string.
 

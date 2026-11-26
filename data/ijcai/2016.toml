@@ -5,7 +5,7 @@ url = "http://ijcai-16.org/"
 
 [event]
 start = 2016-07-09
-end = 2016-07-15
+end   = 2016-07-15
 city = "New York City, USA"
 
 [submission]

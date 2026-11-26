@@ -5,7 +5,7 @@ url = "https://sri-csl.github.io/VSTTE20/"
 
 [event]
 start = 2020-07-19
-end = 2020-07-20
+end   = 2020-07-20
 city = "Los Angeles, California, USA"
 colocated_with = ["cav/2020"]
 
@@ -26,7 +26,7 @@ men   = 1
 women = 2
 
 [stats]
-accepted = 9
+accepted  = 9
 submitted = 14
 
 [[cfp]]

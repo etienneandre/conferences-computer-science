@@ -5,7 +5,7 @@ url = "http://msr2019.laris.univ-angers.fr/"
 
 [event]
 start = 2019-11-13
-end = 2019-11-15
+end   = 2019-11-15
 city = "Angers, France"
 
 [submission]

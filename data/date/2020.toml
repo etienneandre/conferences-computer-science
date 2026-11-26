@@ -5,7 +5,7 @@ url = "http://www.date-conference.com/"
 
 [event]
 start = 2020-03-09
-end = 2020-03-13
+end   = 2020-03-13
 city = "Grenoble, France"
 
 [submission]

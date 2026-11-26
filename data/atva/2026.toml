@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/track/aplas-atva-2026/atva-2026"
 
 [event]
 start = 2026-12-01
-end = 2026-12-05
+end   = 2026-12-05
 city = "Hong Kong, China"
 
 [submission]

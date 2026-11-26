@@ -5,7 +5,7 @@ url = "https://fmcad.org/FMCAD25/"
 
 [event]
 start = 2025-10-06
-end = 2025-10-10
+end   = 2025-10-10
 city = "Menlo Park, California, USA"
 
 [submission]

@@ -6,7 +6,7 @@ url = "https://sites.lipn.univ-paris13.fr/workshops/syncop24"
 [event]
 part_of = "etaps/2024"
 start = 2024-04-06
-end = 2024-04-07
+end   = 2024-04-07
 city = "Luxembourg"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://rp16.cs.aau.dk/"
 
 [event]
 start = 2016-09-19
-end = 2016-09-21
+end   = 2016-09-21
 city = "Aalborg, Denmark"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 11
+accepted  = 11
 submitted = 18
 # TODO: verify — extracted from the cross-year acceptance string.
 

@@ -5,7 +5,7 @@ url = "http://msr2021.cnam.fr/"
 
 [event]
 start = 2021-11-08
-end = 2021-11-10
+end   = 2021-11-10
 city = "Paris, France"
 
 [submission]

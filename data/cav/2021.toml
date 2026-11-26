@@ -5,7 +5,7 @@ url = "http://i-cav.org/2021/"
 
 [event]
 start = 2021-07-18
-end = 2021-07-23
+end   = 2021-07-23
 online = true
 
 [submission]
@@ -26,7 +26,7 @@ license = "cc-by"
 
 [stats]
 submitted = 290
-accepted = 79 # NOTE: (60+16+3)/290 (27%)
+accepted  = 79 # NOTE: (60+16+3)/290 (27%)
 
 [extra]
 journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

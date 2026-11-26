@@ -5,7 +5,7 @@ url = "https://abz-conf.org/site/2026/"
 
 [event]
 start = 2026-05-18
-end = 2026-05-20
+end   = 2026-05-20
 city = "Tōkyō, Japan"
 colocated_with = ["fm/2026"]
 
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 25
-accepted = 20
+accepted  = 20
 # NOTE: 13 long papers covering a broad spectrum of research, from fundamental to applied work, 4 short papers on work in progress, and 2 papers on the ABZ 2026 case study about an autonomous planetary rover. One journal-first talk was accepted in addition to the papers
 
 

@@ -5,7 +5,7 @@ url = "https://ciaa2025.unipa.it/"
 
 [event]
 start = 2025-09-22
-end = 2025-09-25
+end   = 2025-09-25
 city = "Palermo, Italy"
 
 [submission]

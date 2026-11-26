@@ -4,7 +4,7 @@ url = "https://2023.splashcon.org/track/splash-2023-oopsla"
 
 [event]
 start = 2023-10-23
-end = 2023-10-27
+end   = 2023-10-27
 city = "Lisbon, Portugal"
 
 [submission]

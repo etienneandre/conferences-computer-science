@@ -5,7 +5,7 @@ url = "http://2016.rtss.org"
 
 [event]
 start = 2016-11-29
-end = 2016-12-02
+end   = 2016-12-02
 city = "Porto, Portugal"
 
 [submission]

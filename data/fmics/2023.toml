@@ -6,7 +6,7 @@ url = "https://www.uantwerpen.be/en/conferences/confest-2023/fmics/"
 [event]
 part_of = "confest/2023"
 start = 2023-09-20
-end = 2023-09-22
+end   = 2023-09-22
 city = "Antwerp, Belgium"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 14
+accepted  = 14
 submitted = 24
 # TODO: verify — extracted from the cross-year acceptance string.
 

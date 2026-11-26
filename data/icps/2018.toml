@@ -5,7 +5,7 @@ url = "https://icps2018.net/"
 
 [event]
 start = 2018-05-15
-end = 2018-05-18
+end   = 2018-05-18
 city = "Saint Petersburg, Russia"
 
 [submission]

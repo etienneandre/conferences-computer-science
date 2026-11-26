@@ -4,7 +4,7 @@ url = "https://reversible-computation-2020.github.io/"
 
 [event]
 start = 2020-07-09
-end = 2020-07-10
+end   = 2020-07-10
 city = "Oslo, Norway"
 
 [submission]
@@ -32,7 +32,7 @@ women = 1
 
 [stats]
 submitted = 23
-accepted = 17
+accepted  = 17
 # The conference received 23 submissions with authors from 16 countries. All papers were reviewed by at least three members of the Program Committee. After careful deliberations, the Program Committee selected 17 papers for presentation
 
 [[cfp]]

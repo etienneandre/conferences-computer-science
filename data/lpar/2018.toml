@@ -5,7 +5,7 @@ url = "http://www.lpar-22.info/"
 
 [event]
 start = 2018-11-16
-end = 2018-11-21
+end   = 2018-11-21
 city = "Hawassa, Ethiopia"
 
 [submission]

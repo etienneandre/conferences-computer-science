@@ -4,7 +4,7 @@ url = "http://conf.researchr.org/home/issta-2017"
 
 [event]
 start = 2017-07-10
-end = 2017-07-14
+end   = 2017-07-14
 city = "Santa Barbara, California, USA"
 
 [submission]

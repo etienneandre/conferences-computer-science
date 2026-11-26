@@ -5,7 +5,7 @@ url = "http://www.uc.pt/en/congressos/ijcar2016"
 
 [event]
 start = 2016-06-27
-end = 2016-07-02
+end   = 2016-07-02
 city = "Coimbra, Portugal"
 
 [submission]

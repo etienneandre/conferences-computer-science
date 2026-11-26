@@ -5,7 +5,7 @@ url = "http://icost.cs.iastate.edu/"
 
 [event]
 start = 2017-08-29
-end = 2017-08-31
+end   = 2017-08-31
 city = "Paris, France"
 
 [submission]

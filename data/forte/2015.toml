@@ -6,7 +6,7 @@ url = "https://discotec2015.inria.fr/"
 [event]
 part_of = "discotec/2015"
 start = 2015-06-02
-end = 2015-06-04
+end   = 2015-06-04
 city = "Grenoble, France"
 
 [submission]
@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [stats]
 submitted = 53
-accepted = 15
+accepted  = 15
 
 [review.gender.chairs]
 men   = 1

@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/fse-2024"
 
 [event]
 start = 2024-07-15
-end = 2024-07-19
+end   = 2024-07-19
 city = "Porto de Galinhas, Brazil"
 
 [submission]

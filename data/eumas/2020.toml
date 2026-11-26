@@ -5,7 +5,7 @@ url = "https://eumas2020.csd.auth.gr/eumas2020/"
 
 [event]
 start = 2020-04-22
-end = 2020-04-23
+end   = 2020-04-23
 city = "Thessaloniki, Greece"
 
 [submission]

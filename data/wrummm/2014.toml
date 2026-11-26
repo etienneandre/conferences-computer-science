@@ -5,7 +5,7 @@ url = "http://www.dem.unina2.it/wrummm"
 
 [event]
 start = 2014-05-27 # NOTE: actually for HiPMOS
-end = 2014-05-30
+end   = 2014-05-30
 
 city = "Brescia, Italy"
 

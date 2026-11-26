@@ -5,7 +5,7 @@ url = "https://aplas2019.cs.ui.ac.id/"
 
 [event]
 start = 2019-12-01
-end = 2019-12-04
+end   = 2019-12-04
 city = "Nusa Dua, Bali, Indonesia"
 
 [submission]

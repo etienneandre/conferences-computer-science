@@ -5,7 +5,7 @@ url = "https://www.setta2025.uk/"
 
 [event]
 start = 2025-12-01
-end = 2025-12-03
+end   = 2025-12-03
 city = "Oxford, England"
 
 [submission]
@@ -24,7 +24,7 @@ blind = "double"
 
 [stats]
 submitted = 46
-accepted = 18
+accepted  = 18
 
 [extra]
 journal = "As in previous iterations of SETTA, extended versions of selected papers will be recommended to special issues of a reputable journal (TBA) after the proceedings of the conference."

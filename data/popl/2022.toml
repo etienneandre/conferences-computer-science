@@ -5,7 +5,7 @@ url = "https://popl22.sigplan.org/"
 
 [event]
 start = 2022-01-16
-end = 2022-01-22
+end   = 2022-01-22
 city = "Philadelphia, Pennsylvania, USA"
 
 [submission]

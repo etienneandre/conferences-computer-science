@@ -5,7 +5,7 @@ url = "https://www.fsttcs.org.in/2021/"
 
 [event]
 start = 2021-12-15
-end = 2021-12-18
+end   = 2021-12-18
 online = true
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 47
+accepted  = 47
 submitted = 122
 # TODO: verify — extracted from the cross-year acceptance string.
 

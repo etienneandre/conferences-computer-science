@@ -4,7 +4,7 @@ url = "https://reversible-computation.github.io/2026/"
 
 [event]
 start = 2026-07-09
-end = 2026-07-10
+end   = 2026-07-10
 city = "Turin, Italy"
 
 [submission]
@@ -32,7 +32,7 @@ women = 1
 
 [stats]
 submitted = 38
-accepted = 17
+accepted  = 17
 # Source: Clément Aubert was co-chairing and edited this file.
 
 [[cfp]]

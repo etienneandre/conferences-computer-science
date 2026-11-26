@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/atva-2025"
 
 [event]
 start = 2025-10-27
-end = 2025-10-30
+end   = 2025-10-30
 city = "Bangalore, India"
 
 [submission]
@@ -28,7 +28,7 @@ gender_balance = "mixed"
 artifact = "Artifact evaluation (optional for regular papers, mandatory for tool)."
 
 [stats]
-accepted = 21
+accepted  = 21
 submitted = 59
 # TODO: verify — extracted from the cross-year acceptance string.
 

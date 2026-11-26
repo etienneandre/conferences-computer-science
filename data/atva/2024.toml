@@ -5,7 +5,7 @@ url = "https://atva-conference.org/2024/"
 
 [event]
 start = 2024-10-21
-end = 2024-10-24
+end   = 2024-10-24
 city = "Kyōto, Japan"
 
 [submission]
@@ -22,7 +22,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 24
+accepted  = 24
 submitted = 73
 # TODO: verify — extracted from the cross-year acceptance string.
 

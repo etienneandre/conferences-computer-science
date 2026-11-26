@@ -5,7 +5,7 @@ url = "https://conferences.au.dk/icalp2025"
 
 [event]
 start = 2025-07-08
-end = 2025-07-11
+end   = 2025-07-11
 city = "Aarhus, Denmark"
 
 [submission]
@@ -34,9 +34,9 @@ stage = "initial"
 [[stats.track]]
 name = "Track A"
 submitted = 445
-accepted = 135
+accepted  = 135
 
 [[stats.track]]
 name = "Track B"
 submitted = 118
-accepted = 35
+accepted  = 35

@@ -5,7 +5,7 @@ url = "https://msr2023.sciencesconf.org/"
 
 [event]
 start = 2023-11-22
-end = 2023-11-24
+end   = 2023-11-24
 city = "Toulouse, France"
 
 [submission]

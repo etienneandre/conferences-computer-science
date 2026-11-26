@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/track/icse-2025/icse-2025-research-track"
 
 [event]
 start = 2025-04-26
-end = 2025-05-04
+end   = 2025-05-04
 city = "Ottawa, Ontario, Canada"
 
 [submission]

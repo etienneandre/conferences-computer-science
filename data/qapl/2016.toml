@@ -5,7 +5,7 @@ url = "http://qapl16.doc.ic.ac.uk/"
 
 [event]
 start = 2016-04-02
-end = 2016-04-03
+end   = 2016-04-03
 city = "Eindhoven, The Netherlands"
 
 [submission]

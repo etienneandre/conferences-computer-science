@@ -5,7 +5,7 @@ url = "https://www.iaria.org/conferences2025/ICSEA25.html"
 
 [event]
 start = 2025-09-28
-end = 2025-10-02
+end   = 2025-10-02
 city = "Lisbon, Portugal"
 
 [submission]

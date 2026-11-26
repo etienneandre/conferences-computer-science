@@ -5,7 +5,7 @@ url = "https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/"
 
 [event]
 start = 2026-07-07
-end = 2026-07-10
+end   = 2026-07-10
 city = "Egham, England"
 
 [submission]
@@ -36,12 +36,12 @@ best student papers for Track A and Track B."""
 [[stats.track]]
 name = "Track A"
 submitted = 523
-accepted = 155
+accepted  = 155
 
 [[stats.track]]
 name = "Track B"
 submitted = 105
-accepted = 35
+accepted  = 35
 
 [extra]
 colocated = "Co-located with PODC and SPAA"

@@ -5,7 +5,7 @@ url = "https://vecos-world.org/2026/"
 
 [event]
 start = 2026-11-19
-end = 2026-11-20
+end   = 2026-11-20
 city = "Amsterdam, The Netherlands"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://www.ase2017.org/"
 
 [event]
 start = 2017-10-30
-end = 2017-11-03
+end   = 2017-11-03
 city = "Urbana-Champaign, Illinois, USA"
 
 [submission]

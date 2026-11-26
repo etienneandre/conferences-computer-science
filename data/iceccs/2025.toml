@@ -5,7 +5,7 @@ url = "https://iceccs2025-hangzhou.github.io/"
 
 [event]
 start = 2025-07-02
-end = 2025-07-04
+end   = 2025-07-04
 city = "Hangzhou, China"
 
 [submission]

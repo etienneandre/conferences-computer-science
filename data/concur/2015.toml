@@ -5,7 +5,7 @@ url = "http://mafalda.fdi.ucm.es/concur2015/"
 
 [event]
 start = 2015-09-01
-end = 2015-09-04
+end   = 2015-09-04
 city = "Madrid, Spain"
 
 [submission]

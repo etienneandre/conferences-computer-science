@@ -4,7 +4,7 @@ url = "http://www.concur2016.ulaval.ca"
 
 [event]
 start = 2016-08-23
-end = 2016-08-26
+end   = 2016-08-26
 city = "Québec City, Québec, Canada"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 34
+accepted  = 34
 submitted = 100
 
 [extra]

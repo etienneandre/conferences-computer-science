@@ -5,7 +5,7 @@ url = "https://cdc2018.ieeecss.org/"
 
 [event]
 start = 2018-12-17
-end = 2018-12-19
+end   = 2018-12-19
 city = "Miami Beach, Florida, USA"
 
 [submission]

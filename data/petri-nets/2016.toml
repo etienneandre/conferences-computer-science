@@ -5,7 +5,7 @@ url = "http://pn2016.mat.umk.pl"
 
 [event]
 start = 2016-06-19
-end = 2016-06-24
+end   = 2016-06-24
 city = "Toruń, Poland"
 
 [submission]

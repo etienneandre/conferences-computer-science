@@ -5,7 +5,7 @@ url = "https://icfem2024.info/"
 
 [event]
 start = 2024-12-02
-end = 2024-12-06
+end   = 2024-12-06
 city = "Hiroshima, Japan"
 
 [submission]
@@ -24,7 +24,7 @@ blind = "single"
 artifact = false
 
 [stats]
-accepted = 22
+accepted  = 22
 submitted = 50
 # TODO: verify — extracted from the cross-year acceptance string.
 

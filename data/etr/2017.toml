@@ -5,7 +5,7 @@ url = "https://etr2017.sciencesconf.org/"
 
 [event]
 start = 2017-08-28
-end = 2017-09-01
+end   = 2017-09-01
 city = "Paris, France"
 
 [submission]

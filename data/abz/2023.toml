@@ -5,7 +5,7 @@ url = "https://abz2023.loria.fr/"
 
 [event]
 start = 2023-05-30
-end = 2023-06-02
+end   = 2023-06-02
 city = "Nancy, France"
 
 [submission]

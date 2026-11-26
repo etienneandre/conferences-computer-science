@@ -5,7 +5,7 @@ url = "https://eumas2017.ibisc.univ-evry.fr"
 
 [event]
 start = 2017-12-14
-end = 2017-12-15
+end   = 2017-12-15
 city = "Evry, France"
 
 [submission]

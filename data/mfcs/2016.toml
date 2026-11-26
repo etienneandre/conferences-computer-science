@@ -5,7 +5,7 @@ url = "http://mfcs.ki.agh.edu.pl"
 
 [event]
 start = 2016-08-22
-end = 2016-08-26
+end   = 2016-08-26
 city = "Krakow, Poland"
 
 [submission]

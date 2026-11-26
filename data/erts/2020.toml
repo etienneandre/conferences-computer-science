@@ -5,7 +5,7 @@ url = "https://www.erts2020.org/"
 
 [event]
 start = 2020-01-29
-end = 2020-01-31
+end   = 2020-01-31
 city = "Toulouse, France"
 
 [submission]

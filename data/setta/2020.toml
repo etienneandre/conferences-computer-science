@@ -5,7 +5,7 @@ url = "http://lcs.ios.ac.cn/setta2020/"
 
 [event]
 start = 2020-11-24
-end = 2020-11-27
+end   = 2020-11-27
 city = "Guangzhou, China"
 
 [submission]

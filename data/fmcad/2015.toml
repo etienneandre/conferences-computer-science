@@ -5,7 +5,7 @@ url = "https://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD15"
 
 [event]
 start = 2015-09-27
-end = 2015-09-30
+end   = 2015-09-30
 city = "Austin, Texas, USA"
 
 [submission]

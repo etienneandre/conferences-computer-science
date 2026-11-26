@@ -5,7 +5,7 @@ url = "http://sefm2019.inria.fr"
 
 [event]
 start = 2019-09-16
-end = 2019-09-20
+end   = 2019-09-20
 city = "Oslo, Norway"
 
 [submission]

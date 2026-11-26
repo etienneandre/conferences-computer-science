@@ -5,7 +5,7 @@ url = "https://lopstr.github.io/2023/"
 
 [event]
 start = 2024-09-09
-end = 2024-09-11
+end   = 2024-09-11
 city = "Milan, Italy"
 
 [submission]

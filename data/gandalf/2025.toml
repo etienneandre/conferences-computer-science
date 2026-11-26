@@ -5,7 +5,7 @@ url = "https://gandalfsymposium.github.io/2025/"
 
 [event]
 start = 2025-09-15
-end = 2025-09-18
+end   = 2025-09-18
 city = "Valletta, Malta"
 
 [submission]

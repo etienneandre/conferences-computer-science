@@ -5,7 +5,7 @@ url = "https://hsb2019.fit.vutbr.cz/"
 
 [event]
 start = 2019-04-06
-end = 2019-04-07
+end   = 2019-04-07
 city = "Prague, Czech Republic"
 
 [submission]

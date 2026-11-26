@@ -3,4 +3,4 @@ edition = 12
 [event]
 city = "Neuchâtel, Switzerland"
 start = 2017-06-19
-end = 2017-06-22
+end   = 2017-06-22

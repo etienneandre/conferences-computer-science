@@ -5,7 +5,7 @@ url = "https://issre.net/"
 
 [event]
 start = 2023-10-09
-end = 2023-10-12
+end   = 2023-10-12
 city = "Florence, Italy"
 
 [submission]

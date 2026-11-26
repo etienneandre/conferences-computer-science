@@ -5,7 +5,7 @@ url = "https://icpe2021.spec.org/"
 
 [event]
 start = 2021-04-17
-end = 2021-04-23
+end   = 2021-04-23
 online = true
 
 [submission]

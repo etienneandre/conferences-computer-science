@@ -5,7 +5,7 @@ url = "https://icalp2023.cs.upb.de/"
 
 [event]
 start = 2023-07-10
-end = 2023-07-14
+end   = 2023-07-14
 city = "Paderborn, Germany"
 
 [submission]

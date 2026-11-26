@@ -3,4 +3,4 @@ edition = 14
 [event]
 city = "Saarbrücken, Germany"
 start = 2011-03-26
-end = 2011-04-03
+end   = 2011-04-03

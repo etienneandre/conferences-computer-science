@@ -5,7 +5,7 @@ url = "https://icpe2020.spec.org/"
 
 [event]
 start = 2020-04-20
-end = 2020-04-24
+end   = 2020-04-24
 city = "Edmonton, Canada"
 online = true
 

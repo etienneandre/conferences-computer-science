@@ -5,7 +5,7 @@ url = "http://www.sis.pitt.edu/iri2017/workshop_fmi.html"
 
 [event]
 start = 2019-07-30
-end = 2019-08-01
+end   = 2019-08-01
 city = "Los Angeles, California, USA"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://2020.rtas.org/"
 
 [event]
 start = 2020-04-21
-end = 2020-04-24
+end   = 2020-04-24
 city = "Sydney, Australia"
 
 [submission]

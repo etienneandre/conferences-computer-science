@@ -5,7 +5,7 @@ url = "https://ictac2024.cs.ait.ac.th/"
 
 [event]
 start = 2024-11-25
-end = 2024-11-29
+end   = 2024-11-29
 city = "Bangkok, Thailand"
 
 [submission]
@@ -22,7 +22,7 @@ doi = "10.1007/978-3-031-77019-7"
 
 [stats]
 submitted = 46
-accepted = 21
+accepted  = 21
 
 [extra]
 journal = "We plan to have a special issue for selected accepted papers from ICTAC 2024."

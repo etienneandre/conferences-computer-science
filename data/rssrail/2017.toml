@@ -5,7 +5,7 @@ url = "https://conferences.ncl.ac.uk/rssrail/"
 
 [event]
 start = 2017-11-14
-end = 2017-11-16
+end   = 2017-11-16
 city = "Pistoia, Italy"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://event.cwi.nl/sefm2020/"
 
 [event]
 start = 2020-09-14
-end = 2020-09-18
+end   = 2020-09-18
 online = true
 
 [submission]

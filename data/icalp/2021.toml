@@ -5,7 +5,7 @@ url = "https://easyconferences.eu/icalp2021/"
 
 [event]
 start = 2021-07-12
-end = 2021-07-16
+end   = 2021-07-16
 online = true
 
 [submission]

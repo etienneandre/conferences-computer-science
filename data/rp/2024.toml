@@ -5,7 +5,7 @@ url = "https://easychair.org/smart-program/RP24/"
 
 [event]
 start = 2024-09-25
-end = 2024-09-27
+end   = 2024-09-27
 city = "Vienna, Austria"
 
 [submission]

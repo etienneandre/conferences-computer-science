@@ -5,7 +5,7 @@ url = "https://safecomp2022.org/"
 
 [event]
 start = 2022-09-06
-end = 2022-09-09
+end   = 2022-09-09
 city = "Munich, Germany"
 
 [submission]

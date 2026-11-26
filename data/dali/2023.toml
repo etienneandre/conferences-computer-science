@@ -5,7 +5,7 @@ url = "https://dali2023.compute.dtu.dk/"
 
 [event]
 start = 2023-09-15
-end = 2023-09-16
+end   = 2023-09-16
 city = "Tbilisi, Georgia"
 
 [submission]

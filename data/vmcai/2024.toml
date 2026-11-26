@@ -5,7 +5,7 @@ url = "https://popl24.sigplan.org/home/VMCAI-2024"
 
 [event]
 start = 2024-01-15
-end = 2024-01-16
+end   = 2024-01-16
 city = "London, England"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 30
+accepted  = 30
 submitted = 74
 # TODO: verify — extracted from the cross-year acceptance string.
 

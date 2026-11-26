@@ -5,7 +5,7 @@ url = "http://www.emsoft.org/"
 
 [event]
 start = 2015-10-04
-end = 2015-10-09
+end   = 2015-10-09
 city = "Amsterdam, The Netherlands"
 
 [submission]

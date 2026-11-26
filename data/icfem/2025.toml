@@ -5,7 +5,7 @@ url = "https://icfem2025.github.io/"
 
 [event]
 start = 2025-11-10
-end = 2025-11-13
+end   = 2025-11-13
 city = "Hangzhou, China"
 
 [submission]
@@ -33,7 +33,7 @@ men = 3
 women = 1
 
 [stats]
-accepted = 20
+accepted  = 20
 submitted = 47
 
 [extra]

@@ -4,7 +4,7 @@ url = "https://conf.researchr.org/home/icst-2026"
 
 [event]
 start = 2026-05-18
-end = 2026-05-22
+end   = 2026-05-22
 city = "Daejeon, South Korea"
 
 [submission]
@@ -33,7 +33,7 @@ women = 0
 
 [stats]
 submitted = 151
-accepted = 44
+accepted  = 44
 
 [extra]
 notes = "Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers…"

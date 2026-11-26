@@ -5,7 +5,7 @@ url = "http://www.uet.vnu.edu.vn/kse2014"
 
 [event]
 start = 2014-10-09
-end = 2014-10-11
+end   = 2014-10-11
 city = "Hà Nội, Việt Nam"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 51
+accepted  = 51
 submitted = 97
 # TODO: verify — extracted from the cross-year acceptance string.
 

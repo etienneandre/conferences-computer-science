@@ -4,7 +4,7 @@ url = "https://web.archive.org/web/20240715194108/https://reversible-computation
 
 [event]
 start = 2017-07-06
-end = 2017-07-07
+end   = 2017-07-07
 city = "Kolkata, India"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 47
-accepted = 18
+accepted  = 18
 
 [[cfp]]
 file = "cfp/RC-2017.txt"

@@ -5,7 +5,7 @@ url = "http://cbsoft.org/sbmf2015/brazilian-symposium-on-formal-methods-sbmf"
 
 [event]
 start = 2015-09-21
-end = 2015-09-26
+end   = 2015-09-26
 city = "Maceió, Brazil"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 11
+accepted  = 11
 submitted = 25
 # TODO: verify — extracted from the cross-year acceptance string.
 

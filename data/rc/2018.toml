@@ -4,7 +4,7 @@ url = "https://web.archive.org/web/20190116083313/http://reversible-computation.
 
 [event]
 start = 2018-09-13
-end = 2018-09-14
+end   = 2018-09-14
 city = "Leicester, England"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 28
-accepted = 21
+accepted  = 21
 
 [[cfp]]
 file = "cfp/RC-2018.txt"

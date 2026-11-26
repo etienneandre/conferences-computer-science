@@ -5,7 +5,7 @@ url = "http://interes.institute/petrinets2018/"
 
 [event]
 start = 2018-06-24
-end = 2018-06-29
+end   = 2018-06-29
 city = "Bratislava, Slovakia"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://apsec2013.eng.chula.ac.th/"
 
 [event]
 start = 2014-12-02 # NOTE: was "2013", probably a typo
-end = 2014-12-05 # NOTE: was "2013", probably a typo
+end   = 2014-12-05 # NOTE: was "2013", probably a typo
 city = "Jeju Island, South Korea"
 
 [submission]

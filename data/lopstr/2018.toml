@@ -5,7 +5,7 @@ url = "http://ppdp-lopstr-18.cs.uni-frankfurt.de/index.html"
 
 [event]
 start = 2018-10-04
-end = 2018-10-06
+end   = 2018-10-06
 city = "Frankfurt, Germany"
 
 [submission]

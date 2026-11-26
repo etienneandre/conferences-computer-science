@@ -5,7 +5,7 @@ url = "https://esweek.org/emsoft/"
 
 [event]
 start = 2021-10-10
-end = 2021-10-15
+end   = 2021-10-15
 online = true
 
 [submission]

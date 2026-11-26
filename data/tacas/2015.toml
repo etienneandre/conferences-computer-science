@@ -6,7 +6,7 @@ url = "http://www.etaps.org/2015"
 [event]
 part_of = "etaps/2015"
 start = 2015-04-11
-end = 2015-04-18
+end   = 2015-04-18
 city = "London, England"
 
 [submission]

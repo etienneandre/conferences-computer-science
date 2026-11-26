@@ -5,7 +5,7 @@ url = "https://spin-web.github.io/SPIN2025/"
 
 [event]
 start = 2025-05-07
-end = 2025-05-08
+end   = 2025-05-08
 city = "Hamilton, Ontario, Canada"
 colocated_with = ["etaps/2025"]
 
@@ -37,17 +37,17 @@ women = 1
 [[stats.track]]
 name = "Research papers"
 submitted = 15
-accepted = 8
+accepted  = 8
 
 [[stats.track]]
 name = "Full tool papers"
 submitted = 4
-accepted = 1
+accepted  = 1
 
 [[stats.track]]
 name = "Short tool papers"
 submitted = 1
-accepted = 0
+accepted  = 0
 
 [[cfp]]
 file = "cfp/SPIN-2025.txt"

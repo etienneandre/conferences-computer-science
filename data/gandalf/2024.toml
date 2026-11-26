@@ -5,7 +5,7 @@ url = "https://scool24.github.io/GandALF/"
 
 [event]
 start = 2024-06-19
-end = 2024-06-21
+end   = 2024-06-21
 city = "Reykjavík, Iceland"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [stats]
-accepted = 10
+accepted  = 10
 submitted = 20
 # TODO: verify — extracted from the cross-year acceptance string.
 

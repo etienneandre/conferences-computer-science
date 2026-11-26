@@ -5,7 +5,7 @@ url = "https://icps2025.ieee-ies.org/"
 
 [event]
 start = 2025-05-12
-end = 2025-05-15
+end   = 2025-05-15
 city = "Emden, Germany"
 
 [submission]

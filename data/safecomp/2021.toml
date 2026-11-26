@@ -5,7 +5,7 @@ url = "https://safecomp2021.hosted.york.ac.uk/"
 
 [event]
 start = 2021-09-07
-end = 2021-09-10
+end   = 2021-09-10
 city = "York, England"
 hybrid = true
 
@@ -21,7 +21,7 @@ license = "pay-profit"
 doi = ["10.1007/978-3-030-83903-1" , "10.1007/978-3-030-83906-2"]
 
 [stats]
-accepted = 17
+accepted  = 17
 submitted = 76
 
 [extra]

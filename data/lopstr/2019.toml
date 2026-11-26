@@ -5,7 +5,7 @@ url = "http://www.cs.unibo.it/projects/lopstr19/"
 
 [event]
 start = 2019-10-08
-end = 2019-10-10
+end   = 2019-10-10
 city = "Porto, Portugal"
 
 [submission]

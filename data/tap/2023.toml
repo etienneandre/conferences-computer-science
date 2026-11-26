@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/tap-2023"
 
 [event]
 start = 2023-07-18
-end = 2023-07-19
+end   = 2023-07-19
 city = "Leicester, England"
 
 [submission]

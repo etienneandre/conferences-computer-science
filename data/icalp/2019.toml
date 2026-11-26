@@ -5,7 +5,7 @@ url = "https://icalp2019.upatras.gr/"
 
 [event]
 start = 2019-07-08
-end = 2019-07-12
+end   = 2019-07-12
 city = "Patras, Greece"
 
 [submission]

@@ -4,7 +4,7 @@ url = "https://prdc-symposium.org/2026/"
 
 [event]
 start = 2026-12-02
-end = 2026-12-04
+end   = 2026-12-04
 city = "Hong Kong, China"
 
 [submission]

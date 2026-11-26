@@ -5,7 +5,7 @@ url = "http://popl18.sigplan.org/track/VMCAI-2018-papers"
 
 [event]
 start = 2018-01-07
-end = 2018-01-09
+end   = 2018-01-09
 city = "Los Angeles, California, USA"
 colocated_with = ["popl/2018"]
 
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 24
+accepted  = 24
 submitted = 43
 # TODO: verify — extracted from the cross-year acceptance string.
 

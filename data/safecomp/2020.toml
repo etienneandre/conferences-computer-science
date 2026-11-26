@@ -5,7 +5,7 @@ url = "http://safecomp2020.di.fc.ul.pt/"
 
 [event]
 start = 2020-09-15
-end = 2020-09-18
+end   = 2020-09-18
 city = "Lisbon, Portugal"
 
 [submission]

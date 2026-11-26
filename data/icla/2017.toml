@@ -5,7 +5,7 @@ url = "http://www.cse.iitk.ac.in/users/icla/"
 
 [event]
 start = 2017-01-05
-end = 2017-01-07
+end   = 2017-01-07
 city = "IIT Kanpur, India"
 
 [submission]

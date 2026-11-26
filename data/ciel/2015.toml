@@ -5,7 +5,7 @@ url = "http://share-irisa.univ-ubs.fr/ciel2015/"
 
 [event]
 start = 2015-06-09
-end = 2015-06-11
+end   = 2015-06-11
 city = "Bordeaux, France"
 
 [submission]

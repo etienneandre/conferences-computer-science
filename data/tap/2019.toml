@@ -5,7 +5,7 @@ url = "https://tap.sosy-lab.org/2019/"
 
 [event]
 start = 2019-10-09
-end = 2019-10-11
+end   = 2019-10-11
 city = "Porto, Portugal"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 10
+accepted  = 10
 submitted = 19
 # TODO: verify — extracted from the cross-year acceptance string.
 

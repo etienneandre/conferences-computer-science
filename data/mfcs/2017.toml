@@ -5,7 +5,7 @@ url = "http://mfcs2017.cs.aau.dk/"
 
 [event]
 start = 2017-08-21
-end = 2017-08-25
+end   = 2017-08-25
 city = "Aalborg, Denmark"
 
 [submission]

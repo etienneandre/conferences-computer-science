@@ -5,7 +5,7 @@ url = "http://fmics2015.org/"
 
 [event]
 start = 2015-06-22
-end = 2015-06-23
+end   = 2015-06-23
 city = "Oslo, Norway"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://nfm2026.github.io/"
 
 [event]
 start = 2026-05-05
-end = 2026-05-07
+end   = 2026-05-07
 city = "Los Angeles, California, USA"
 
 [submission]
@@ -20,7 +20,7 @@ doi = "10.1007/978-3-032-28079-4"
 
 [stats]
 submitted = 60
-accepted = 25 # NOTE 25 papers including 23 regular papers and 2 short paper
+accepted  = 25 # NOTE 25 papers including 23 regular papers and 2 short paper
 
 [review]
 blind = "single"

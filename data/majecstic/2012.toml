@@ -5,7 +5,7 @@ url = "http://www.lifl.fr/majecstic12/"
 
 [event]
 start = 2012-10-29
-end = 2012-10-31
+end   = 2012-10-31
 city = "Lille, France"
 
 [submission]

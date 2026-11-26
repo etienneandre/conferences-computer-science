@@ -5,7 +5,7 @@ url = "https://cister-labs.pt/rtns24/jrwrtc"
 
 [event]
 start = 2024-11-06
-end = 2024-11-08
+end   = 2024-11-08
 city = "Porto, Portugal"
 colocated_with = ["rtns/2024"]
 

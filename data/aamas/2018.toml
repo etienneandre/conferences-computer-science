@@ -5,7 +5,7 @@ url = "http://celweb.vuse.vanderbilt.edu/aamas18/"
 
 [event]
 start = 2018-07-10
-end = 2018-07-15
+end   = 2018-07-15
 city = "Stockholm, Sweden"
 
 [submission]

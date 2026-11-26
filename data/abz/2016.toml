@@ -5,7 +5,7 @@ url = "http://www.cdcc.faw.jku.at/ABZ2016/"
 
 [event]
 start = 2016-05-23
-end = 2016-05-27
+end   = 2016-05-27
 city = "Linz, Austria"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://splc2019.net/"
 
 [event]
 start = 2019-09-09
-end = 2019-09-13
+end   = 2019-09-13
 city = "Paris, France"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://conferences.i-cav.org/2025/"
 
 [event]
 start = 2025-07-21
-end = 2025-07-25
+end   = 2025-07-25
 city = "Zagreb, Croatia"
 
 [submission]
@@ -28,7 +28,7 @@ doi = "10.1007/978-3-031-98679-6"
 
 [stats]
 submitted = 305
-accepted = 79 # NOTE We accepted 24 tool papers, 4 case-study papers, and 51 regular papers
+accepted  = 79 # NOTE We accepted 24 tool papers, 4 case-study papers, and 51 regular papers
 
 [extra]
 journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

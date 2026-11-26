@@ -5,7 +5,7 @@ url = "http://www.cs.upc.edu/csl2020/"
 
 [event]
 start = 2020-01-13
-end = 2020-01-16
+end   = 2020-01-16
 city = "Barcelona, Catalonia, Spain"
 
 [submission]

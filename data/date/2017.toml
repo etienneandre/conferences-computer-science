@@ -5,7 +5,7 @@ url = "http://www.date-conference.com/"
 
 [event]
 start = 2017-03-27
-end = 2017-03-31
+end   = 2017-03-31
 city = "Lausanne, Switzerland"
 
 [submission]

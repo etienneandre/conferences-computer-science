@@ -6,7 +6,7 @@ url = "https://confest-2026.github.io/concur/"
 [event]
 part_of = "confest/2026"
 start = 2026-09-01
-end = 2026-09-04
+end   = 2026-09-04
 city = "Liverpool, England"
 colocated_with = ["qest-formats/2026", "fmics/2026"]
 
@@ -39,7 +39,7 @@ women = 2
 
 
 [stats]
-accepted = 43
+accepted  = 43
 submitted = 114
 
 [extra]

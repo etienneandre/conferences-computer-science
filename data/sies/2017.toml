@@ -5,7 +5,7 @@ url = "http://sies2017.onera.fr"
 
 [event]
 start = 2017-06-07
-end = 2017-06-09
+end   = 2017-06-09
 city = "Toulouse, France"
 
 [submission]

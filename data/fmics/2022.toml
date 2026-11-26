@@ -6,7 +6,7 @@ url = "https://fmics2022.fsa.win.tue.nl/"
 [event]
 part_of = "confest/2022"
 start = 2022-09-14
-end = 2022-09-16
+end   = 2022-09-16
 city = "Warsaw, Poland"
 hybrid = true
 
@@ -22,7 +22,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 13
+accepted  = 13
 submitted = 22
 # TODO: verify — extracted from the cross-year acceptance string.
 

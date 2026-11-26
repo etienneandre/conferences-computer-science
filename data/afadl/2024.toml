@@ -5,7 +5,7 @@ url = "https://gdrgpl2024.sciencesconf.org/"
 
 [event]
 start = 2024-06-03
-end = 2024-06-06
+end   = 2024-06-06
 city = "Strasbourg, France"
 
 [submission]

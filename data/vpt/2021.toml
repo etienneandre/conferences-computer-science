@@ -5,7 +5,7 @@ url = "http://refal.botik.ru/vpt/vpt2021"
 
 [event]
 start = 2021-04-27
-end = 2021-04-28
+end   = 2021-04-28
 online = true
 
 [submission]

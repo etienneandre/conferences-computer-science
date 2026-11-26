@@ -5,7 +5,7 @@ url = "https://www.fsttcs.org.in/2020/"
 
 [event]
 start = 2020-12-15
-end = 2020-12-17
+end   = 2020-12-17
 city = "Panaji, India"
 venue = "Goa Campus"
 

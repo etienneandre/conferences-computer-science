@@ -4,7 +4,7 @@ url = "https://petrinets2027.inria.fr/"
 
 [event]
 start = 2027-06-21
-end = 2027-06-25
+end   = 2027-06-25
 city = "Rennes, Bretagne, France"
 
 [submission]

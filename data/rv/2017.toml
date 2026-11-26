@@ -5,7 +5,7 @@ url = "http://rv2017.cs.manchester.ac.uk"
 
 [event]
 start = 2017-09-13
-end = 2017-09-16
+end   = 2017-09-16
 city = "Seattle, Washington, USA"
 
 [submission]

@@ -4,7 +4,7 @@ url = "https://www2026.thewebconf.org/"
 
 [event]
 start = 2026-06-29
-end = 2026-07-03
+end   = 2026-07-03
 city = "Dubai, United Arab Emirates"
 
 [submission]
@@ -30,4 +30,4 @@ competition = "Competition Track"
 
 [stats]
 submitted = 3112
-accepted = 676
+accepted  = 676

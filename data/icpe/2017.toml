@@ -5,7 +5,7 @@ url = "https://icpe2017.spec.org/"
 
 [event]
 start = 2017-04-22
-end = 2017-04-26
+end   = 2017-04-26
 city = "L’Aquila, Italy"
 
 [submission]

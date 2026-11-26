@@ -5,7 +5,7 @@ url = "https://cmsb2019.units.it/"
 
 [event]
 start = 2019-09-18
-end = 2019-09-20
+end   = 2019-09-20
 city = "Trieste, Italy"
 
 [submission]

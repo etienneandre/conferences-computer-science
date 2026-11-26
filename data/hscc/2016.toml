@@ -5,7 +5,7 @@ url = "https://www.cs.ox.ac.uk/conferences/hscc2016/"
 
 [event]
 start = 2016-04-12
-end = 2016-04-14
+end   = 2016-04-14
 city = "Vienna, Austria"
 
 [submission]

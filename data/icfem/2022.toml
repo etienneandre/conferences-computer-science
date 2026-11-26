@@ -5,7 +5,7 @@ url = "http://maude.ucm.es/ICFEM22/"
 
 [event]
 start = 2022-10-24
-end = 2022-10-27
+end   = 2022-10-27
 city = "Madrid, Spain"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 23
+accepted  = 23
 submitted = 61
 # TODO: verify — extracted from the cross-year acceptance string.
 

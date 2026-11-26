@@ -5,7 +5,7 @@ url = "http://2020.issre.net/"
 
 [event]
 start = 2020-10-12
-end = 2020-10-15
+end   = 2020-10-15
 city = "Coimbra, Portugal"
 
 [submission]

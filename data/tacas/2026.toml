@@ -6,7 +6,7 @@ url = "https://etaps.org/2026/conferences/tacas/"
 [event]
 part_of = "etaps/2026"
 start = 2026-04-11
-end = 2026-04-16
+end   = 2026-04-16
 city = "Turin, Italy"
 colocated_with = ["fase/2026", "fossacs/2026"]
 
@@ -36,22 +36,22 @@ women = 0
 [[stats.track]]
 name = "regular research papers"
 submitted = 117
-accepted = 34
+accepted  = 34
 
 [[stats.track]]
 name = "case study papers"
 submitted = 11
-accepted = 3
+accepted  = 3
 
 [[stats.track]]
 name = "regular tool papers"
 submitted = 33
-accepted = 15
+accepted  = 15
 
 [[stats.track]]
 name = "tool demonstration papers"
 submitted = 16
-accepted = 4
+accepted  = 4
 
 [extra]
 colocated = "Part of ETAPS 2026."

@@ -5,7 +5,7 @@ url = "https://conference.cs.cityu.edu.hk/rtcsa2016/"
 
 [event]
 start = 2016-08-17
-end = 2016-08-19
+end   = 2016-08-19
 city = "Daegu, Korea"
 
 [submission]

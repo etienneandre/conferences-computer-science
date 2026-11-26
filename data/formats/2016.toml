@@ -5,7 +5,7 @@ url = "http://formats2016.lsv.fr"
 
 [event]
 start = 2016-08-24
-end = 2016-08-26
+end   = 2016-08-26
 city = "Québec City, Québec, Canada"
 
 [submission]

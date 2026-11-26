@@ -5,7 +5,7 @@ url = "http://icfem2015.lri.fr/"
 
 [event]
 start = 2015-11-03
-end = 2015-11-06
+end   = 2015-11-06
 city = "Paris, France"
 
 [submission]
@@ -19,6 +19,6 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 27
+accepted  = 27
 submitted = 82
 # TODO: verify — extracted from the cross-year acceptance string.

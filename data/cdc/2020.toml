@@ -5,7 +5,7 @@ url = "https://cdc2020.ieeecss.org/"
 
 [event]
 start = 2020-12-08
-end = 2020-12-11
+end   = 2020-12-11
 city = "Jeju Island, South Korea"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://spin-web.github.io/SPIN2024/"
 
 [event]
 start = 2024-04-06
-end = 2024-04-11
+end   = 2024-04-11
 city = "Luxembourg"
 venue = "Parc Alvisse Hotel"
 colocated_with = ["etaps/2024"]
@@ -39,17 +39,17 @@ women = 1
 [[stats.track]]
 name = "Research papers"
 submitted = 16
-accepted = 9
+accepted  = 9
 
 [[stats.track]]
 name = "Short papers"
 submitted = 5
-accepted = 3
+accepted  = 3
 
 [[stats.track]]
 name = "Anniversary papers"
 submitted = 2
-accepted = 2
+accepted  = 2
 
 [extra]
 journal = "Traditionally, a selection of papers were invited to a special issue of the International Journal on Software Tools for Technology Transfer (STTT)."

@@ -5,7 +5,7 @@ url = "https://stacs2027.uni-goettingen.de/"
 
 [event]
 start = 2027-03-08
-end = 2027-03-12
+end   = 2027-03-12
 city = "Göttingen, Germany"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://cs.nju.edu.cn/setta/"
 
 [event]
 start = 2015-11-04
-end = 2015-11-06
+end   = 2015-11-06
 city = "Nanjing, China"
 
 [submission]
@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [stats]
 submitted = 60
-accepted = 20
+accepted  = 20
 
 [extra]
 journal = "The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue of the Formal Aspect Computing journal."

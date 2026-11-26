@@ -6,7 +6,7 @@ url = "https://etaps.org/2026/conferences/fase/"
 [event]
 part_of = "etaps/2026"
 start = 2026-04-11
-end = 2026-04-16
+end   = 2026-04-16
 city = "Turin, Italy"
 colocated_with = ["fossacs/2026", "tacas/2026"]
 
@@ -31,22 +31,22 @@ competition = "FASE 2026 hosts the 8th edition of the Competition on Software Te
 [[stats.track]]
 name = "research papers"
 submitted = 45
-accepted = 15
+accepted  = 15
 
 [[stats.track]]
 name = "empirical evaluation papers"
 submitted = 9
-accepted = 3
+accepted  = 3
 
 [[stats.track]]
 name = "NIER papers"
 submitted = 8
-accepted = 2
+accepted  = 2
 
 [[stats.track]]
 name = "tool and data"
 submitted = 3
-accepted = 1
+accepted  = 1
 
 [extra]
 journal = "Selected papers from the FASE 2026 proceedings will be invited to submit an extended version to the open access Elsevier journal Science of Computer Programming (SCP)."

@@ -5,7 +5,7 @@ url = "http://icfem2016.xyz/"
 
 [event]
 start = 2016-11-14
-end = 2016-11-18
+end   = 2016-11-18
 city = "Tōkyō, Japan"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 27
+accepted  = 27
 submitted = 64
 # TODO: verify — extracted from the cross-year acceptance string.
 

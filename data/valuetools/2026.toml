@@ -4,7 +4,7 @@ url = "https://valuetools.eai-conferences.org/2026/"
 
 [event]
 start = 2026-12-10
-end = 2026-12-11
+end   = 2026-12-11
 online = true
 
 [submission]

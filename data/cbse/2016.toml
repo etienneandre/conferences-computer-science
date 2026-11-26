@@ -5,7 +5,7 @@ url = "http://cbse-conferences.org/2016/"
 
 [event]
 start = 2016-04-05
-end = 2016-04-08
+end   = 2016-04-08
 city = "Venice, Italy"
 
 [submission]

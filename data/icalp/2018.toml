@@ -5,7 +5,7 @@ url = "http://iuuk.mff.cuni.cz/~icalp2018/"
 
 [event]
 start = 2018-07-10
-end = 2018-07-13
+end   = 2018-07-13
 city = "Prague, Czech Republic"
 
 [submission]

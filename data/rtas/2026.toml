@@ -5,7 +5,7 @@ url = "https://2026.rtas.org/"
 
 [event]
 start = 2026-05-12
-end = 2026-05-14
+end   = 2026-05-14
 city = "Saint-Malo, Bretagne, France"
 
 [submission]
@@ -30,7 +30,7 @@ artifact = "Optional Artifact Evaluation (AE) to assess reproducibility."
 [stats]
 # NOTE: 59 submissions to track 1, 49 submissions to track 2
 submitted = 108
-accepted = 27
+accepted  = 27
 
 [extra]
 colocated = "Part of CPS-IoT Week."

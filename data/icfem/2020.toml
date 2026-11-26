@@ -5,7 +5,7 @@ url = "https://formal-analysis.com/icfem/2020/"
 
 [event]
 start = 2020-11-02
-end = 2020-11-06
+end   = 2020-11-06
 city = "Singapore"
 
 [submission]

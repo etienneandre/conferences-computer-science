@@ -5,7 +5,7 @@ url = "https://math.utu.fi/rp26/"
 
 [event]
 start = 2026-10-21
-end = 2026-10-23
+end   = 2026-10-23
 city = "Turku, Finland"
 
 [submission]

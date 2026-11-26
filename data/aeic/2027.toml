@@ -4,7 +4,7 @@ url = "https://www.ada-europe.org/conference2027/"
 
 [event]
 start = 2027-06-08
-end = 2027-06-11
+end   = 2027-06-11
 city = "Berlin, Germany"
 venue = "Holiday Inn Berlin City-West"
 

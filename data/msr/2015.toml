@@ -5,7 +5,7 @@ url = "http://msr2015.loria.fr/"
 
 [event]
 start = 2015-11-18
-end = 2015-11-20
+end   = 2015-11-20
 city = "Nancy, France"
 
 [submission]

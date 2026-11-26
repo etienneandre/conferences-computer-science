@@ -5,7 +5,7 @@ url = "http://www.ecrts.org/"
 
 [event]
 start = 2021-07-07
-end = 2021-07-09
+end   = 2021-07-09
 online = true
 
 [submission]

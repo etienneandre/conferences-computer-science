@@ -5,7 +5,7 @@ url = "https://stacs2020.sciencesconf.org/"
 
 [event]
 start = 2020-03-10
-end = 2020-03-13
+end   = 2020-03-13
 city = "Montpellier, France"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://ciel2017.sciencesconf.org/"
 
 [event]
 start = 2017-06-15
-end = 2017-06-16
+end   = 2017-06-16
 city = "Montpellier, France"
 
 [submission]

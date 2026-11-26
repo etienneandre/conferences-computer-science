@@ -5,7 +5,7 @@ url = "https://atva-conference.org/2022/"
 
 [event]
 start = 2022-10-25
-end = 2022-10-28
+end   = 2022-10-28
 city = "Beijing, China"
 hybrid = true
 

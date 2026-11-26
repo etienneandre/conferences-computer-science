@@ -5,7 +5,7 @@ url = "https://mfcs2023.labri.fr/"
 
 [event]
 start = 2023-08-28
-end = 2023-09-01
+end   = 2023-09-01
 city = "Bordeaux, France"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 84
+accepted  = 84
 submitted = 209
 # TODO: verify — extracted from the cross-year acceptance string.
 

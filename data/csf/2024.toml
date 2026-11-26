@@ -5,7 +5,7 @@ url = "https://csf2024.ieee-security.org/"
 
 [event]
 start = 2024-07-08
-end = 2024-07-12
+end   = 2024-07-12
 city = "Enschede, The Netherlands"
 
 [submission]

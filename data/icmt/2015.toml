@@ -5,7 +5,7 @@ url = "http://www.model-transformation.org"
 
 [event]
 start = 2015-07-20
-end = 2015-07-24
+end   = 2015-07-24
 city = "L’Aquila, Italy"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://wistp2024.roc.cnam.fr/"
 
 [event]
 start = 2024-02-29
-end = 2024-03-01
+end   = 2024-03-01
 city = "Paris, France"
 
 [submission]

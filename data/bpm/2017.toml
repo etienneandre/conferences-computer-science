@@ -5,7 +5,7 @@ url = "https://bpm2017.cs.upc.edu/"
 
 [event]
 start = 2017-09-10
-end = 2017-09-15
+end   = 2017-09-15
 city = "Barcelona, Catalonia, Spain"
 
 [submission]

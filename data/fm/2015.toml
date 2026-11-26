@@ -5,7 +5,7 @@ url = "http://fm2015.ifi.uio.no/"
 
 [event]
 start = 2015-06-22
-end = 2015-06-26
+end   = 2015-06-26
 city = "Oslo, Norway"
 
 [submission]

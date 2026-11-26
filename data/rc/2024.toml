@@ -4,7 +4,7 @@ url = "https://rc2024.mat.umk.pl/"
 
 [event]
 start = 2024-07-04
-end = 2024-07-05
+end   = 2024-07-05
 city = "Toruń, Poland"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 18
-accepted = 13
+accepted  = 13
 # The 10 full papers and 3 short papers included along with two invited papers in this book were carefully reviewed and selected from 18 submissions. 
 
 [[cfp]]

@@ -17,7 +17,7 @@ publisher = "EasyChair EPiC series"
 license = "free"
 
 [stats]
-accepted = 4
+accepted  = 4
 submitted = 4
 
 [review]

@@ -5,7 +5,7 @@ url = "https://aamas2023.soton.ac.uk/"
 
 [event]
 start = 2023-05-29
-end = 2023-06-02
+end   = 2023-06-02
 city = "London, England"
 
 [submission]

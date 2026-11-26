@@ -5,7 +5,7 @@ url = "https://valuetools.eai-conferences.org/2025/"
 
 [event]
 start = 2025-12-11
-end = 2025-12-12
+end   = 2025-12-12
 city = "Glasgow, Scotland"
 
 [submission]
@@ -29,7 +29,7 @@ women = 2
 
 [stats]
 submitted = 46
-accepted = 18
+accepted  = 18
 
 [extra]
 journal = "Additional publication opportunities: EAI Transactions series (Open Access) and EAI/Springer Innovations in Communications and Computing Book Series"

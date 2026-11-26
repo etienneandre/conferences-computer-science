@@ -5,7 +5,7 @@ url = "https://archives.iw3c2.org/www2025/"
 
 [event]
 start = 2025-04-28
-end = 2025-05-02
+end   = 2025-05-02
 city = "Sydney, Australia"
 
 [submission]
@@ -30,4 +30,4 @@ competition = "Competition Track"
 
 [stats]
 submitted = 2062
-accepted = 409
+accepted  = 409

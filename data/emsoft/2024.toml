@@ -5,7 +5,7 @@ url = "https://esweek.org/emsoft/"
 
 [event]
 start = 2024-09-29
-end = 2024-10-04
+end   = 2024-10-04
 city = "Raleigh, North Carolina, USA"
 
 [submission]
@@ -21,7 +21,7 @@ publisher = "ACM/IEEE"
 license = "acm"
 
 [stats]
-accepted = 28
+accepted  = 28
 submitted = 129
 # TODO: verify — extracted from the cross-year acceptance string.
 

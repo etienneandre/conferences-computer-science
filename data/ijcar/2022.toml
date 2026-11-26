@@ -5,7 +5,7 @@ url = "https://easychair.org/smart-program/IJCAR2022/"
 
 [event]
 start = 2022-08-07
-end = 2022-08-12
+end   = 2022-08-12
 city = "Haifa, Israel"
 
 [submission]

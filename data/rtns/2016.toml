@@ -5,7 +5,7 @@ url = "http://rtns16.univ-brest.fr"
 
 [event]
 start = 2016-10-19
-end = 2016-10-21
+end   = 2016-10-21
 city = "Brest, Bretagne, France"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "ACM ICPS"
 license = "acm"
 
 [stats]
-accepted = 34
+accepted  = 34
 submitted = 75
 # TODO: verify — extracted from the cross-year acceptance string.
 

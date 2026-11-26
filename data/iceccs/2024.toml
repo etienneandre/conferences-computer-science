@@ -5,7 +5,7 @@ url = "https://cyprusconferences.org/iceccs2024/"
 
 [event]
 start = 2024-06-19
-end = 2024-06-21
+end   = 2024-06-21
 city = "St. Raphael Resort and Marina, Limassol, Cyprus"
 
 [submission]

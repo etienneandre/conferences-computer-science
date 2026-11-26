@@ -5,7 +5,7 @@ url = "http://cavconference.org/2018/"
 
 [event]
 start = 2018-07-14
-end = 2018-07-17
+end   = 2018-07-17
 city = "Oxford, England"
 
 [submission]
@@ -26,7 +26,7 @@ license = "pay-profit"
 
 [stats]
 submitted = 215
-accepted = 65 # NOTE: 52 regular + 13 tool / 215
+accepted  = 65 # NOTE: 52 regular + 13 tool / 215
 
 [extra]
 journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

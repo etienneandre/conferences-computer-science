@@ -5,7 +5,7 @@ url = "https://formal-analysis.com/iceccs/2020/"
 
 [event]
 start = 2020-10-28
-end = 2020-10-31
+end   = 2020-10-31
 online = true
 
 [submission]

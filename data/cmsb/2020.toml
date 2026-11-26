@@ -5,7 +5,7 @@ url = "http://www.cmsb2020-uni.saarland.de/"
 
 [event]
 start = 2020-09-23
-end = 2020-09-25
+end   = 2020-09-25
 city = "Konstanz, Germany"
 online = true
 

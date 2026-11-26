@@ -5,7 +5,7 @@ url = "https://fct2025.cs.uni.wroc.pl/"
 
 [event]
 start = 2025-09-15
-end = 2025-09-17
+end   = 2025-09-17
 city = "Wrocław, Poland"
 
 [submission]

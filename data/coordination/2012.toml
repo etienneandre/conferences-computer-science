@@ -3,5 +3,5 @@ edition = 14
 [event]
 city = "Stockholm, Sweden"
 start = 2012-06-14
-end = 2012-06-15
+end   = 2012-06-15
 part_of = "discotec/2012"

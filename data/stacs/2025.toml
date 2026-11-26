@@ -5,7 +5,7 @@ url = "https://www.stacs2025.de"
 
 [event]
 start = 2025-03-04
-end = 2025-03-07
+end   = 2025-03-07
 city = "Jena, Germany"
 
 [submission]
@@ -25,7 +25,7 @@ blind = "lightweight-double"
 gender_balance = "mixed"
 
 [stats]
-accepted = 72
+accepted  = 72
 submitted = 259
 # TODO: verify — extracted from the cross-year acceptance string.
 

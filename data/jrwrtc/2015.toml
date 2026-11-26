@@ -5,7 +5,7 @@ url = "http://rtns2015.lifl.fr/jrwrtc2015/"
 
 [event]
 start = 2015-11-08
-end = 2015-11-10
+end   = 2015-11-10
 city = "Versailles, France"
 colocated_with = ["rtns/2015"]
 

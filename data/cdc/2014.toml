@@ -5,7 +5,7 @@ url = "http://control.disp.uniroma2.it/cdc2014/"
 
 [event]
 start = 2014-12-15
-end = 2014-12-17
+end   = 2014-12-17
 city = "Los Angeles, California, USA"
 
 [submission]

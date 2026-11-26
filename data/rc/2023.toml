@@ -4,7 +4,7 @@ url = "https://reversible-computation-2023.github.io/site/"
 
 [event]
 start = 2023-07-18
-end = 2023-07-19
+end   = 2023-07-19
 city = "Giessen, Germany"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 19
-accepted = 14
+accepted  = 14
 # The 11 full papers and 3 short papers included in this book were carefully reviewed and selected from 19 submissions.
 
 [[cfp]]

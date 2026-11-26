@@ -5,7 +5,7 @@ url = "http://www.lsis.org/msr2017/"
 
 [event]
 start = 2017-11-15
-end = 2017-11-17
+end   = 2017-11-17
 city = "Marseille, France"
 
 [submission]

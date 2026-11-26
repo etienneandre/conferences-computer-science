@@ -5,7 +5,7 @@ url = "https://rssrail2025.isti.cnr.it/"
 
 [event]
 start = 2025-11-26
-end = 2025-11-28
+end   = 2025-11-28
 city = "Pisa, Italy"
 
 [submission]

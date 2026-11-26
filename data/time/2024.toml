@@ -5,7 +5,7 @@ url = "https://www.lirmm.fr/time2024/"
 
 [event]
 start = 2024-10-28
-end = 2024-10-30
+end   = 2024-10-30
 city = "Montpellier, France"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/track/fm-2026/fm-2026-tap"
 
 [event]
 start = 2026-05-18
-end = 2026-05-22
+end   = 2026-05-22
 city = "Tōkyō, Japan"
 
 [submission]

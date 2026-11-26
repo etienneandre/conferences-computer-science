@@ -6,7 +6,7 @@ url = "https://concur2022.mimuw.edu.pl/"
 [event]
 part_of = "confest/2022"
 start = 2022-09-13
-end = 2022-09-16
+end   = 2022-09-16
 city = "Warsaw, Poland"
 
 [submission]
@@ -21,7 +21,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 32
+accepted  = 32
 submitted = 90
 # TODO: verify — extracted from the cross-year acceptance string.
 

@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/spin-2021"
 
 [event]
 start = 2021-07-12
-end = 2021-07-13
+end   = 2021-07-13
 online = true
 
 [submission]

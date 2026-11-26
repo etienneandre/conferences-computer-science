@@ -5,7 +5,7 @@ url = "https://gandalf23.uniud.it"
 
 [event]
 start = 2023-09-18
-end = 2023-09-20
+end   = 2023-09-20
 city = "Udine, Italy"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "EPTCS"
 license = "cc-by"
 
 [stats]
-accepted = 15
+accepted  = 15
 submitted = 26
 # TODO: verify — extracted from the cross-year acceptance string.
 

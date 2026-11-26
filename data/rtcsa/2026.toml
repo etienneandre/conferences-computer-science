@@ -5,7 +5,7 @@ url = "https://rtcsa2026.github.io/"
 
 [event]
 start = 2026-08-11
-end = 2026-08-13
+end   = 2026-08-13
 city = "Qingdao, China"
 
 [submission]

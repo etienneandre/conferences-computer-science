@@ -4,7 +4,7 @@ url = "http://jfla.eu/jfla2027.html"
 
 [event]
 start = 2027-01-26
-end = 2027-01-29
+end   = 2027-01-29
 city = "Dinard, Bretagne, France"
 
 [submission]

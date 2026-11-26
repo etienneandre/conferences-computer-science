@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/dates/icse-2027"
 
 [event]
 start = 2027-04-25
-end = 2027-05-01
+end   = 2027-05-01
 city = "Dublin, Ireland"
 
 [submission]

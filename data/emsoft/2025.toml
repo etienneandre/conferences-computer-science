@@ -5,7 +5,7 @@ url = "https://esweek.org/emsoft/"
 
 [event]
 start = 2025-09-28
-end = 2025-10-03
+end   = 2025-10-03
 city = "Taipei, Taiwan"
 
 [submission]

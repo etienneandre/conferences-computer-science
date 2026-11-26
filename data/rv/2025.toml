@@ -5,7 +5,7 @@ url = "https://rv25.isec.tugraz.at"
 
 [event]
 start = 2025-09-15
-end = 2025-09-19
+end   = 2025-09-19
 city = "Graz, Austria"
 
 [submission]

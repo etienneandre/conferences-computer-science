@@ -6,7 +6,7 @@ status = "cancelled"
 
 [event]
 start = 2020-02-18
-end = 2020-02-21
+end   = 2020-02-21
 city = "York, England"
 
 [submission]

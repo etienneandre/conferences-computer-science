@@ -5,7 +5,7 @@ url = "https://www.irit.fr/iceccs2023/"
 
 [event]
 start = 2023-06-12
-end = 2023-06-16
+end   = 2023-06-16
 city = "Toulouse, France"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "IEEE Conference Publishing Services"
 license = "pay"
 
 [stats]
-accepted = 22
+accepted  = 22
 submitted = 52
 # TODO: verify — extracted from the cross-year acceptance string.
 

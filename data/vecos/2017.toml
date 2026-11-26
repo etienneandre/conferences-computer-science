@@ -5,7 +5,7 @@ url = "http://vecos.ensta-paristech.fr/2017/"
 
 [event]
 start = 2017-08-24
-end = 2017-08-25
+end   = 2017-08-25
 city = "Montréal, Québec, Canada"
 
 [submission]

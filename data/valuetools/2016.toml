@@ -5,7 +5,7 @@ url = "http://valuetools.org/2016"
 
 [event]
 start = 2016-10-26
-end = 2016-10-28
+end   = 2016-10-28
 city = "Taormina, Italy"
 
 [submission]

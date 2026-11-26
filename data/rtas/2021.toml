@@ -5,7 +5,7 @@ url = "http://2021.rtas.org/"
 
 [event]
 start = 2021-05-18
-end = 2021-05-21
+end   = 2021-05-21
 online = true
 
 [submission]

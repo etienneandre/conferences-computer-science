@@ -5,7 +5,7 @@ url = "http://events.femto-st.fr/afadl-2015"
 
 [event]
 start = 2015-06-11
-end = 2015-06-12
+end   = 2015-06-12
 city = "Paris, France"
 
 [submission]

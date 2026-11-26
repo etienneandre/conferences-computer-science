@@ -6,7 +6,7 @@ url = "https://www.etaps.org/2018/fossacs.html"
 [event]
 part_of = "etaps/2018"
 start = 2018-04-14
-end = 2018-04-20
+end   = 2018-04-20
 city = "Thessaloniki, Greece"
 
 [submission]

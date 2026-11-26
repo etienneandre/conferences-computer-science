@@ -5,7 +5,7 @@ url = "http://www.acisinternational.org/sera2016/"
 
 [event]
 start = 2017-06-07
-end = 2017-06-09
+end   = 2017-06-09
 city = "London, England"
 venue = "Greenwich"
 

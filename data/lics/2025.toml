@@ -5,7 +5,7 @@ url = "https://lics.siglog.org/lics25/"
 
 [event]
 start = 2025-06-23
-end = 2025-06-26
+end   = 2025-06-26
 city = "Singapore"
 
 [submission]
@@ -29,7 +29,7 @@ award = "An award in honor of the late Stephen C. Kleene will be given for the b
 
 [stats]
 submitted = 215
-accepted = 66
+accepted  = 66
 
 [extra]
 journal = "Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science."

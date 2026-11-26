@@ -5,7 +5,7 @@ url = "https://hscc.acm.org/2024/"
 
 [event]
 start = 2024-05-13
-end = 2024-05-16
+end   = 2024-05-16
 city = "Hong Kong, China"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "ACM"
 license = "acm"
 
 [stats]
-accepted = 26
+accepted  = 26
 submitted = 58
 # TODO: verify — extracted from the cross-year acceptance string.
 

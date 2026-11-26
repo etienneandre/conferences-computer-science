@@ -5,7 +5,7 @@ url = "http://www.cmsb2017.tu-darmstadt.de"
 
 [event]
 start = 2017-09-27
-end = 2017-09-29
+end   = 2017-09-29
 city = "Darmstadt, Germany"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://wsfm2014.haifa.ac.il/"
 
 [event]
 start = 2014-09-11
-end = 2014-09-12
+end   = 2014-09-12
 city = "Eindhoven, The Netherlands"
 
 [submission]

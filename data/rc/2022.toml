@@ -4,7 +4,7 @@ url = "https://reversible-computation-2022.github.io/"
 
 [event]
 start = 2022-07-05
-end = 2022-07-06
+end   = 2022-07-06
 city = "Urbino, Italy"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 20
-accepted = 16
+accepted  = 16
 # The 10 full papers and 6 short papers included in this book were carefully reviewed and selected from 20 submissions.
 
 [[cfp]]

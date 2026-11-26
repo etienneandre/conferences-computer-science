@@ -5,7 +5,7 @@ url = "http://atva2019.iis.sinica.edu.tw/"
 
 [event]
 start = 2019-10-28
-end = 2019-10-31
+end   = 2019-10-31
 city = "Taipei, Taiwan"
 
 [submission]

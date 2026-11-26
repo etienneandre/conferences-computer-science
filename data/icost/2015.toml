@@ -5,7 +5,7 @@ url = "http://www.icostconference.org"
 
 [event]
 start = 2015-06-10
-end = 2015-06-12
+end   = 2015-06-12
 city = "Geneva, Switzerland"
 
 [submission]

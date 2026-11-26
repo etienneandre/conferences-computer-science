@@ -5,7 +5,7 @@ url = "http://iccps.acm.org/2019/"
 
 [event]
 start = 2019-04-16
-end = 2019-04-18
+end   = 2019-04-18
 city = "Montréal, Québec, Canada"
 
 [submission]

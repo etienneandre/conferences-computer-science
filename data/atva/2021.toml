@@ -5,7 +5,7 @@ url = "https://formal-analysis.com/atva/2021/"
 
 [event]
 start = 2021-10-18
-end = 2021-10-22
+end   = 2021-10-22
 city = "Gold Coast, Australia"
 online = true
 

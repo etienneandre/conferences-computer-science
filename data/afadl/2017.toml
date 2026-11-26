@@ -5,7 +5,7 @@ url = "http://afadl2017.imag.fr"
 
 [event]
 start = 2017-06-13
-end = 2017-06-14
+end   = 2017-06-14
 city = "Montpellier, France"
 
 [submission]

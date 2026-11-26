@@ -5,7 +5,7 @@ url = "https://iitjammu.ac.in/conferences/memocode2020/"
 
 [event]
 start = 2020-12-02
-end = 2020-12-04
+end   = 2020-12-04
 city = "Jaipur, India"
 
 [submission]

@@ -6,7 +6,7 @@ url = "https://etaps.org/2023/fossacs"
 [event]
 part_of = "etaps/2023"
 start = 2023-04-22
-end = 2023-04-27
+end   = 2023-04-27
 city = "Paris, France"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer ARCoSS LNCS"
 license = "cc-by"
 
 [stats]
-accepted = 26
+accepted  = 26
 submitted = 85
 # TODO: verify — extracted from the cross-year acceptance string.
 

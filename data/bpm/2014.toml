@@ -5,7 +5,7 @@ url = "http://bpm2014.haifa.ac.il"
 
 [event]
 start = 2014-09-07
-end = 2014-09-12
+end   = 2014-09-12
 city = "Haifa, Israel"
 
 [submission]

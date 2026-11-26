@@ -5,7 +5,7 @@ url = "https://stacs2022.sciencesconf.org"
 
 [event]
 start = 2022-03-15
-end = 2022-03-18
+end   = 2022-03-18
 city = "Marseille, France"
 
 [submission]

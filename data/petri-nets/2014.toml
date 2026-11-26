@@ -4,7 +4,7 @@ url = "http://petrinets2014.cnam.fr/petrinets.php"
 
 [event]
 start = 2014-06-23
-end = 2014-06-27
+end   = 2014-06-27
 city = "Tunis, Tunisia"
 colocated_with = ["acsd/2014"]
 

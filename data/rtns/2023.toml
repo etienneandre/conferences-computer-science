@@ -5,7 +5,7 @@ url = "https://rtns2023.cs.tu-dortmund.de/"
 
 [event]
 start = 2023-06-07
-end = 2023-06-08
+end   = 2023-06-08
 city = "Dortmund, Germany"
 
 [submission]

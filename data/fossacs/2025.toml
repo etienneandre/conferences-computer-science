@@ -6,7 +6,7 @@ url = "https://etaps.org/2025/conferences/fossacs/"
 [event]
 part_of = "etaps/2025"
 start = 2025-05-03
-end = 2025-05-08
+end   = 2025-05-08
 city = "Hamilton, Ontario, Canada"
 
 [submission]

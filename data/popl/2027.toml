@@ -4,7 +4,7 @@ url = "https://popl27.sigplan.org/"
 
 [event]
 start = 2027-01-10
-end = 2027-01-16
+end   = 2027-01-16
 city = "Mexico City, Mexico"
 
 [submission]

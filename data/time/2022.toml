@@ -5,7 +5,7 @@ url = "https://time2022.time-symposium.org"
 
 [event]
 start = 2022-11-07
-end = 2022-11-09
+end   = 2022-11-09
 online = true
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 12
+accepted  = 12
 submitted = 29
 # TODO: verify — extracted from the cross-year acceptance string.
 

@@ -5,7 +5,7 @@ url = "https://valuetools.eai-conferences.org/2023"
 
 [event]
 start = 2023-09-06
-end = 2023-09-08
+end   = 2023-09-08
 city = "Heraklion, Crete, Greece"
 
 [submission]
@@ -23,22 +23,22 @@ doi = "10.1007/978-3-031-48885-6"
 [[stats.track]]
 name = "Research papers"
 submitted = 19
-accepted = 9
+accepted  = 9
 
 [[stats.track]]
 name = "Tool papers"
 submitted = 4
-accepted = 1
+accepted  = 1
 
 [[stats.track]]
 name = "Work-in-progress papers"
 submitted = 3
-accepted = 1
+accepted  = 1
 
 [[stats.track]]
 name = "Vision papers"
 submitted = 1
-accepted = 0
+accepted  = 0
 
 [extra]
 notes = "Fast Abstracts will be published as a Technical Report."

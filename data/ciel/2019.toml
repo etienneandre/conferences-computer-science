@@ -5,7 +5,7 @@ url = "http://gdr-gpl-2019.enseeiht.fr/index.html"
 
 [event]
 start = 2019-06-13
-end = 2019-06-14
+end   = 2019-06-14
 city = "Toulouse, France"
 
 [submission]

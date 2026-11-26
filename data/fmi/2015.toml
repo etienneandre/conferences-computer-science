@@ -5,7 +5,7 @@ url = "http://www.ieee-iri.org"
 
 [event]
 start = 2015-08-12
-end = 2015-08-14
+end   = 2015-08-14
 city = "San Francisco, California, USA"
 
 [submission]

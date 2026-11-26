@@ -5,7 +5,7 @@ url = "https://bpm2023.sites.uu.nl/"
 
 [event]
 start = 2023-09-11
-end = 2023-09-15
+end   = 2023-09-15
 city = "Utrecht, The Netherlands"
 
 [submission]

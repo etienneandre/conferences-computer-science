@@ -5,7 +5,7 @@ url = "http://vecos.ensta-paristech.fr/2015/"
 
 [event]
 start = 2015-09-10
-end = 2015-09-11
+end   = 2015-09-11
 city = "Bucharest, Romania"
 
 [submission]

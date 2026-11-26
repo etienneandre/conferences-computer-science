@@ -5,7 +5,7 @@ url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse/index.html/"
 [event]
 part_of = "petri-nets/2023"
 start = 2023-06-25
-end = 2023-06-26
+end   = 2023-06-26
 city = "Lisbon, Portugal"
 
 [submission]

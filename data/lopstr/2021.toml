@@ -5,7 +5,7 @@ url = "http://saks.iasi.cnr.it/lopstr21/"
 
 [event]
 start = 2021-09-07
-end = 2021-09-09
+end   = 2021-09-09
 city = "Tallinn, Estonia"
 hybrid = true
 

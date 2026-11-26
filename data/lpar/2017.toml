@@ -5,7 +5,7 @@ url = "http://www.lpar-21.info"
 
 [event]
 start = 2017-05-08
-end = 2017-05-12
+end   = 2017-05-12
 city = "Maun, Botswana"
 
 [submission]

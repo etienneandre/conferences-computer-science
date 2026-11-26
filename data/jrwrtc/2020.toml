@@ -6,7 +6,7 @@ status = "cancelled"
 
 [event]
 start = 2020-06-09
-end = 2020-06-10
+end   = 2020-06-10
 city = "Paris, France"
 colocated_with = ["rtns/2020"]
 

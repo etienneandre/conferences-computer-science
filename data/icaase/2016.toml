@@ -5,7 +5,7 @@ url = "http://www.univ-constantine2.dz/icaase2016/"
 
 [event]
 start = 2016-10-29
-end = 2016-10-30
+end   = 2016-10-30
 city = "Constantine, Algeria"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://spin2022chi.web.illinois.edu"
 
 [event]
 start = 2022-05-21
-end = 2022-05-22
+end   = 2022-05-22
 city = "Chicago, Illinois, USA"
 
 [submission]

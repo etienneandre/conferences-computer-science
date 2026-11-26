@@ -5,7 +5,7 @@ url = "https://isorc-conference.org/"
 
 [event]
 start = 2027-04-07
-end = 2027-04-09
+end   = 2027-04-09
 city = "Rupnagar, India"
 venue = "IIT Ropar"
 

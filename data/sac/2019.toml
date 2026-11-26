@@ -5,7 +5,7 @@ url = "https://www.sigapp.org/sac/sac2019"
 
 [event]
 start = 2019-04-08
-end = 2019-04-12
+end   = 2019-04-12
 city = "Limassol, Cyprus"
 
 [submission]

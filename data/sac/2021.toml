@@ -5,7 +5,7 @@ url = "http://www.sigapp.org/sac/sac2021/"
 
 [event]
 start = 2021-03-22
-end = 2021-03-26
+end   = 2021-03-26
 online = true
 
 [submission]

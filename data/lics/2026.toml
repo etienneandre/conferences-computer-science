@@ -5,7 +5,7 @@ url = "https://lics.siglog.org/lics26/"
 
 [event]
 start = 2026-07-20
-end = 2026-07-23
+end   = 2026-07-23
 city = "Lisbon, Portugal"
 
 [submission]
@@ -37,7 +37,7 @@ doi = "10.4230/LIPIcs.LICS.2026"
 
 [stats]
 submitted = 293
-accepted = 82
+accepted  = 82
 
 [[cfp]]
 file = "cfp/LiCS-2026.txt"

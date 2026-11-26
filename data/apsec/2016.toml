@@ -5,7 +5,7 @@ url = "http://apsec2016.org/"
 
 [event]
 start = 2016-12-06
-end = 2016-12-09
+end   = 2016-12-09
 city = "Hamilton, New Zealand"
 
 [submission]

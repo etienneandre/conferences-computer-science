@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/Formalise-2026"
 
 [event]
 start = 2026-04-12
-end = 2026-04-13
+end   = 2026-04-13
 city = "Rio de Janeiro, Brazil"
 colocated_with = ["icse/2026"]
 
@@ -26,7 +26,7 @@ artifact = "Submission of an artifact is optional but encouraged for all papers 
 
 [stats]
 submitted = 28 # + 5 desk-rejected
-accepted = 19 # nine full research papers, one case study paper, eight extended abstract papers, and one research ideas paper.
+accepted  = 19 # nine full research papers, one case study paper, eight extended abstract papers, and one research ideas paper.
 
 [[cfp]]
 file = "cfp/FORMALISE-2026.txt"

@@ -5,7 +5,7 @@ url = "http://ictt.xidian.edu.cn/icfem2017/"
 
 [event]
 start = 2017-11-13
-end = 2017-11-17
+end   = 2017-11-17
 city = "Xi’An, China"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 28
+accepted  = 28
 submitted = 80
 # TODO: verify — extracted from the cross-year acceptance string.
 

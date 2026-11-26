@@ -5,7 +5,7 @@ url = "http://www.date-conference.com/"
 
 [event]
 start = 2022-03-14
-end = 2022-03-23
+end   = 2022-03-23
 city = "Antwerp, Belgium"
 
 [submission]

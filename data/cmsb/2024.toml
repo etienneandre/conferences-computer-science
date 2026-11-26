@@ -5,7 +5,7 @@ url = "https://biomedinfo.di.unipi.it/cmsb2024/"
 
 [event]
 start = 2024-09-16
-end = 2024-09-18
+end   = 2024-09-18
 city = "Pisa, Italy"
 
 [submission]

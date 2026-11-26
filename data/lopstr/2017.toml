@@ -5,7 +5,7 @@ url = "https://www.sci.unich.it/lopstr17/"
 
 [event]
 start = 2017-10-10
-end = 2017-10-12
+end   = 2017-10-12
 city = "Namur, Belgium"
 
 [submission]

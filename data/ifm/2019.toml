@@ -5,7 +5,7 @@ url = "http://ifm2019.hvl.no/"
 
 [event]
 start = 2019-12-04
-end = 2019-12-06
+end   = 2019-12-06
 city = "Bergen, Norway"
 
 [submission]

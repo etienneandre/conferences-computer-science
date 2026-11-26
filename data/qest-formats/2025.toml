@@ -6,7 +6,7 @@ url = "https://www.qest-formats.org/"
 [event]
 part_of = "confest/2025"
 start = 2025-08-25
-end = 2025-08-30
+end   = 2025-08-30
 city = "Aarhus, Denmark"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://termination-portal.org/wiki/19th_International_Workshop_on_Termin
 
 [event]
 start = 2023-08-24
-end = 2023-08-25
+end   = 2023-08-25
 city = "Obergurgl, Austria"
 
 [submission]

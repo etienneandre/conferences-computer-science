@@ -4,7 +4,7 @@ url = "https://wodes2026.events.tue.nl/"
 
 [event]
 start = 2026-06-08
-end = 2026-06-10
+end   = 2026-06-10
 city = "Eindhoven, The Netherlands"
 venue = "Eindhoven University of Technology (TU/e)"
 

@@ -5,7 +5,7 @@ url = "http://costa.fdi.ucm.es/wst2020/"
 
 [event]
 start = 2020-06-29
-end = 2020-06-30
+end   = 2020-06-30
 city = "Paris, France"
 
 [submission]

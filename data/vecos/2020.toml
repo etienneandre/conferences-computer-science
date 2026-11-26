@@ -5,7 +5,7 @@ url = "http://vecos-world.org/2020/"
 
 [event]
 start = 2020-09-24
-end = 2020-09-25
+end   = 2020-09-25
 city = "Xi’An, China"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay"
 
 [stats]
-accepted = 20
+accepted  = 20
 submitted = 60
 # TODO: verify — extracted from the cross-year acceptance string.
 

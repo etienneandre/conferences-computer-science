@@ -5,7 +5,7 @@ url = "https://www.epew19.deib.polimi.it/"
 
 [event]
 start = 2019-11-28
-end = 2019-11-29
+end   = 2019-11-29
 city = "Milano, Italy"
 
 [submission]

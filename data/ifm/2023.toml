@@ -5,7 +5,7 @@ url = "https://ifm23.liacs.nl"
 
 [event]
 start = 2023-11-13
-end = 2023-11-15
+end   = 2023-11-15
 city = "Leiden, the Netherlands"
 
 [submission]

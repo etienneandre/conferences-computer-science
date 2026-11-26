@@ -5,7 +5,7 @@ url = "https://www.irit.fr/rtns2019/jrwrtc/"
 
 [event]
 start = 2019-11-06
-end = 2019-11-08
+end   = 2019-11-08
 city = "Toulouse, France"
 colocated_with = ["rtns/2019"]
 

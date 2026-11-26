@@ -5,7 +5,7 @@ url = "https://stacs2019.akt.tu-berlin.de/"
 
 [event]
 start = 2019-03-13
-end = 2019-03-16
+end   = 2019-03-16
 city = "Berlin, Germany"
 
 [submission]

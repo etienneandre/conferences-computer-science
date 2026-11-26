@@ -5,7 +5,7 @@ url = "https://esweek.org/emsoft/"
 
 [event]
 start = 2022-10-07
-end = 2022-10-14
+end   = 2022-10-14
 city = "Shanghai, China"
 hybrid = true # announced in the CfP
 

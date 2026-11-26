@@ -5,7 +5,7 @@ url = "http://bpm2015.q-e.at/"
 
 [event]
 start = 2015-08-31
-end = 2015-09-03
+end   = 2015-09-03
 city = "Innsbruck, Austria"
 
 [submission]

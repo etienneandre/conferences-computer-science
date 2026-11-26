@@ -5,7 +5,7 @@ url = "http://www.etfa2019.org/ws02-workshop-on-formal-techniques-for-real-time-
 
 [event]
 start = 2019-09-10
-end = 2019-09-13
+end   = 2019-09-13
 city = "Zaragoza, Spain"
 
 [submission]

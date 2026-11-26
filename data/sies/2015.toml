@@ -5,7 +5,7 @@ url = "http://www.sies2015.com"
 
 [event]
 start = 2015-06-08
-end = 2015-06-10
+end   = 2015-06-10
 city = "Siegen, Germany"
 
 [submission]

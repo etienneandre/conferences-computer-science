@@ -5,7 +5,7 @@ url = "http://research.microsoft.com/vmcai2015"
 
 [event]
 start = 2015-01-12
-end = 2015-01-14
+end   = 2015-01-14
 city = "Mumbai, India"
 
 [submission]
@@ -19,6 +19,6 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 24
+accepted  = 24
 submitted = 53
 # TODO: verify — extracted from the cross-year acceptance string.

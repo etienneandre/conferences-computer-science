@@ -5,7 +5,7 @@ url = "http://2020.rtss.org/"
 
 [event]
 start = 2020-12-01
-end = 2020-12-04
+end   = 2020-12-04
 city = "Houston, Texas, USA"
 
 [submission]

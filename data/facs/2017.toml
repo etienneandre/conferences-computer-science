@@ -5,7 +5,7 @@ url = "http://facs2017.di.uminho.pt"
 
 [event]
 start = 2017-10-10
-end = 2017-10-13
+end   = 2017-10-13
 city = "Braga, Portugal"
 
 [submission]

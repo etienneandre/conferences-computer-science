@@ -5,7 +5,7 @@ url = "https://2021.esec-fse.org/"
 
 [event]
 start = 2021-08-23
-end = 2021-08-27
+end   = 2021-08-27
 city = "Athens, Greece"
 
 [submission]

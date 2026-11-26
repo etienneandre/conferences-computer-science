@@ -5,7 +5,7 @@ url = "https://from2023.cs.unibuc.ro/"
 
 [event]
 start = 2023-09-21
-end = 2023-09-22
+end   = 2023-09-22
 city = "Bucharest, Romania"
 
 [submission]

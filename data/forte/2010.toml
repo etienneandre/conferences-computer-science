@@ -3,7 +3,7 @@ edition = 30
 [event]
 city = "Amsterdam, The Netherlands"
 start = 2010-06-07
-end = 2010-06-09
+end   = 2010-06-09
 part_of = "discotec/2010"
 
 [extra]

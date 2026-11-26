@@ -5,7 +5,7 @@ url = "https://lics.siglog.org/lics19/"
 
 [event]
 start = 2019-06-24
-end = 2019-06-27
+end   = 2019-06-27
 city = "Vancouver, Canada"
 
 [submission]

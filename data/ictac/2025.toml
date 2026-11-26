@@ -5,7 +5,7 @@ url = "https://ictac2025.digital-hub.sh/"
 
 [event]
 start = 2025-11-24
-end = 2025-11-28
+end   = 2025-11-28
 city = "Marrakech, Morocco"
 
 [submission]
@@ -24,17 +24,17 @@ doi = "10.1007/978-3-032-11176-0"
 [[stats.track]]
 name = "Regular papers"
 submitted = 54
-accepted = 21
+accepted  = 21
 
 [[stats.track]]
 name = "Short papers"
 submitted = 5
-accepted = 2
+accepted  = 2
 
 [[stats.track]]
 name = "Tool papers"
 submitted = 5
-accepted = 2
+accepted  = 2
 
 [extra]
 journal = "A special issue of selected papers in Elsevier’s journal Theoretical Computer Science is under negotiation."

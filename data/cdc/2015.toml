@@ -5,7 +5,7 @@ url = "http://www.cdc2015.ctrl.titech.ac.jp/"
 
 [event]
 start = 2015-12-15
-end = 2015-12-18
+end   = 2015-12-18
 city = "Ōsaka, Japan"
 
 [submission]

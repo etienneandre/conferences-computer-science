@@ -5,7 +5,7 @@ url = "http://www.www2015.it/"
 
 [event]
 start = 2015-05-18
-end = 2015-05-22
+end   = 2015-05-22
 city = "Florence, Italy"
 
 [submission]
@@ -21,7 +21,7 @@ license = "free-copy"
 
 [stats]
 submitted = 929
-accepted = 131
+accepted  = 131
 
 [extra]
 notes = "Many different calls (posters, demos, PhD symposium, workshops, tutorials…). Deadlines all Hawaii Standard Time."

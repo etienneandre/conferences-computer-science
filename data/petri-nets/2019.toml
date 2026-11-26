@@ -5,7 +5,7 @@ url = "http://www.petrinets2019.de/"
 
 [event]
 start = 2019-06-26
-end = 2019-06-28
+end   = 2019-06-28
 city = "Aachen, Germany"
 
 [submission]

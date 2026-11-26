@@ -5,7 +5,7 @@ url = "https://cps-research-group.github.io/ISORC2018/"
 
 [event]
 start = 2018-05-29
-end = 2018-05-31
+end   = 2018-05-31
 city = "Singapore"
 
 [submission]

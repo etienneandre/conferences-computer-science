@@ -5,7 +5,7 @@ url = "http://rtcsa2017.cs.nctu.edu.tw/"
 
 [event]
 start = 2017-08-16
-end = 2017-08-18
+end   = 2017-08-18
 city = "Hsinchu, Taiwan"
 
 [submission]

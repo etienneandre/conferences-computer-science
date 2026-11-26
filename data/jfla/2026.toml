@@ -5,7 +5,7 @@ url = "http://jfla.inria.fr/jfla2026.html"
 
 [event]
 start = 2026-01-27
-end = 2026-01-30
+end   = 2026-01-30
 city = "Oberbronn, France"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://cdc2017.ieeecss.org/"
 
 [event]
 start = 2017-12-12
-end = 2017-12-15
+end   = 2017-12-15
 city = "Melbourne, Australia"
 
 [submission]

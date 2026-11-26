@@ -17,7 +17,7 @@ publisher = "Springer CCIS"
 license = "pay-profit"
 
 [stats]
-accepted = 10
+accepted  = 10
 submitted = 22
 # TODO: verify — extracted from the cross-year acceptance string.
 

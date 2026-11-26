@@ -5,7 +5,7 @@ url = "http://www.pnse.de/"
 [event]
 part_of = "petri-nets/2020"
 start = 2020-06-22
-end = 2020-06-23
+end   = 2020-06-23
 online = true
 
 [submission]

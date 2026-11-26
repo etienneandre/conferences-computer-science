@@ -5,7 +5,7 @@ url = "https://icfem2026.github.io/"
 
 [event]
 start = 2026-11-17
-end = 2026-11-20
+end   = 2026-11-20
 city = "Southampton, England"
 
 [submission]
@@ -36,7 +36,7 @@ women = 2
 # women = 12
 
 [stats]
-accepted = 22
+accepted  = 22
 submitted = 63
 
 [extra]

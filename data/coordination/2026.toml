@@ -6,7 +6,7 @@ url = "https://www.discotec.org/2026/coordination"
 [event]
 part_of = "discotec/2026"
 start = 2026-06-08
-end = 2026-06-12
+end   = 2026-06-12
 city = "Urbino, Italy"
 colocated_with = ["forte/2026"]
 
@@ -32,12 +32,12 @@ artifact = "Artifact evaluation mandatory for tool papers, optional for regular/
 [[stats.track]]
 name = "regular papers"
 submitted = 23
-accepted = 11
+accepted  = 11
 
 [[stats.track]]
 name = "tool papers"
 submitted = 5
-accepted = 2
+accepted  = 2
 
 [extra]
 journal = "A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP)"

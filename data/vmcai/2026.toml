@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/VMCAI-2026"
 
 [event]
 start = 2026-01-12
-end = 2026-01-13
+end   = 2026-01-13
 city = "Rennes, Bretagne, France"
 colocated_with = ["popl/2026"]
 
@@ -34,7 +34,7 @@ women = 1
 
 [stats]
 submitted = 54
-accepted = 18
+accepted  = 18
 # NOTE: "…of which 18 papers were accepted (acceptance rate 33%), comprising 15 regular papers, 2 tool papers, and 1 case-study paper"
 
 [[cfp]]

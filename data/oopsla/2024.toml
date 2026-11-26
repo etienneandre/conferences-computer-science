@@ -4,7 +4,7 @@ url = "https://2024.splashcon.org/track/splash-2024-oopsla"
 
 [event]
 start = 2024-10-20
-end = 2024-10-25
+end   = 2024-10-25
 city = "Pasadena, California, USA"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://www.iaria.org/conferences2017/ICSEA17.html"
 
 [event]
 start = 2017-10-08
-end = 2017-10-12
+end   = 2017-10-12
 city = "Athens, Greece"
 
 [submission]

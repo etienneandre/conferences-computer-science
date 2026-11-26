@@ -5,7 +5,7 @@ url = "http://cc.ee.ntu.edu.tw/~ictac2016"
 
 [event]
 start = 2016-10-24
-end = 2016-10-31
+end   = 2016-10-31
 city = "Taipei, Taiwan"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 23
+accepted  = 23
 submitted = 60
 # TODO: verify — extracted from the cross-year acceptance string.
 

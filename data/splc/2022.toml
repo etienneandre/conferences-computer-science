@@ -5,7 +5,7 @@ url = "http://2022.splc.net/"
 
 [event]
 start = 2022-09-12
-end = 2022-09-16
+end   = 2022-09-16
 city = "Graz, Austria"
 
 [submission]

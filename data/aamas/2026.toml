@@ -5,7 +5,7 @@ url = "https://cyprusconferences.org/aamas2026/"
 
 [event]
 start = 2026-05-25
-end = 2026-05-29
+end   = 2026-05-29
 city = "Paphos, Cyprus"
 
 [submission]

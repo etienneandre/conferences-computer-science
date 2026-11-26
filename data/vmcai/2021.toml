@@ -5,7 +5,7 @@ url = "https://popl21.sigplan.org/home/VMCAI-2021"
 
 [event]
 start = 2021-01-17
-end = 2021-01-19
+end   = 2021-01-19
 online = true
 
 [submission]

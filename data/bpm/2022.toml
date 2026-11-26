@@ -5,7 +5,7 @@ url = "https://bpm2022.uni-muenster.de/"
 
 [event]
 start = 2022-09-13
-end = 2022-09-15
+end   = 2022-09-15
 city = "Münster, Germany"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://spin2015.org/"
 
 [event]
 start = 2015-08-24
-end = 2015-08-26
+end   = 2015-08-26
 city = "Stellenbosch, South Africa"
 
 [submission]

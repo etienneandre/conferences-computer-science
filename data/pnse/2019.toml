@@ -5,7 +5,7 @@ url = "http://www.informatik.uni-hamburg.de/TGI/events/pnse19/"
 [event]
 part_of = "petri-nets/2019"
 start = 2019-06-24
-end = 2019-06-25
+end   = 2019-06-25
 city = "Aachen, Germany"
 
 [submission]

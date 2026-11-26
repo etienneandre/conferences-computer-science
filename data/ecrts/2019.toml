@@ -5,7 +5,7 @@ url = "http://www.ecrts.org/ecrts19"
 
 [event]
 start = 2019-07-09
-end = 2019-07-12
+end   = 2019-07-12
 city = "Stuttgart, Germany"
 
 [submission]

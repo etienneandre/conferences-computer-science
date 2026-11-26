@@ -5,7 +5,7 @@ url = "https://etr2021.ensma.fr/"
 
 [event]
 start = 2021-09-20
-end = 2021-09-24
+end   = 2021-09-24
 city = "Poitiers, France"
 
 [submission]

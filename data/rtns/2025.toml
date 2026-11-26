@@ -5,7 +5,7 @@ url = "https://rtns2025.retis.santannapisa.it/"
 
 [event]
 start = 2025-11-05
-end = 2025-11-07
+end   = 2025-11-07
 city = "Pisa, Italy"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://systemf.epfl.ch/etc/vstte2025/"
 
 [event]
 start = 2025-10-06
-end = 2025-10-07
+end   = 2025-10-07
 city = "Menlo Park, California, USA"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 6
+accepted  = 6
 submitted = 15
 # TODO: verify — extracted from the cross-year acceptance string.
 

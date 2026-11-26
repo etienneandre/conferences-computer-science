@@ -5,7 +5,7 @@ url = "https://www.informatik.uni-hamburg.de/TGI/events/pnse17/"
 [event]
 part_of = "petri-nets/2017"
 start = 2017-06-26
-end = 2017-06-27
+end   = 2017-06-27
 city = "Zaragoza, Spain"
 
 [submission]

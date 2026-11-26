@@ -5,7 +5,7 @@ url = "https://cmsb2021.labri.fr/"
 
 [event]
 start = 2021-09-22
-end = 2021-09-24
+end   = 2021-09-24
 city = "Bordeaux, France"
 hybrid = true
 

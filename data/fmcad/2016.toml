@@ -5,7 +5,7 @@ url = "http://www.fmcad.org/FMCAD16"
 
 [event]
 start = 2016-10-03
-end = 2016-10-06
+end   = 2016-10-06
 city = "Mountain View, California, USA"
 
 [submission]

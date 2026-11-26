@@ -5,7 +5,7 @@ url = "http://www.mfcs.sk/"
 
 [event]
 start = 2024-08-26
-end = 2024-08-30
+end   = 2024-08-30
 city = "Bratislava, Slovakia"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 80
+accepted  = 80
 submitted = 239
 # TODO: verify — extracted from the cross-year acceptance string.
 

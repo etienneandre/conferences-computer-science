@@ -5,7 +5,7 @@ url = "http://cs.tju.edu.cn/iceccs/2014/"
 
 [event]
 start = 2014-08-04
-end = 2014-08-07
+end   = 2014-08-07
 city = "Tianjin, China"
 
 [submission]

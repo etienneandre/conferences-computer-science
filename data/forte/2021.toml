@@ -6,7 +6,7 @@ url = "https://www.discotec.org/2021/forte"
 [event]
 part_of = "discotec/2021"
 start = 2021-06-14
-end = 2021-06-18
+end   = 2021-06-18
 city = "Valletta, Malta"
 
 [submission]

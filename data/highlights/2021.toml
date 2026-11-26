@@ -5,7 +5,7 @@ url = "http://highlights-conference.org"
 
 [event]
 start = 2021-09-15
-end = 2021-09-17
+end   = 2021-09-17
 online = true
 
 [submission]

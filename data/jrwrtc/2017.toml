@@ -5,7 +5,7 @@ url = "http://www.rtns17.org/#page=juniorworkshop"
 
 [event]
 start = 2017-10-04
-end = 2017-10-06
+end   = 2017-10-06
 city = "Grenoble, France"
 colocated_with = ["rtns/2017"]
 

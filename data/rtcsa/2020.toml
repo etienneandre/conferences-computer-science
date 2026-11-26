@@ -5,7 +5,7 @@ url = "https://rtcsa2020.github.io/index/"
 
 [event]
 start = 2020-08-19
-end = 2020-08-21
+end   = 2020-08-21
 city = "Gangneung, South Korea"
 
 [submission]

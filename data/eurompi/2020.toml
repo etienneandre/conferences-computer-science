@@ -5,7 +5,7 @@ url = "https://eurompi.github.io/"
 
 [event]
 start = 2020-09-21
-end = 2020-09-24
+end   = 2020-09-24
 city = "Austin, Texas, USA"
 
 [submission]

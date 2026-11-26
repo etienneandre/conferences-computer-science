@@ -5,7 +5,7 @@ url = "http://vecos-world.org/2021/"
 
 [event]
 start = 2021-11-22
-end = 2021-11-23
+end   = 2021-11-23
 online = true
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay"
 
 [stats]
-accepted = 6
+accepted  = 6
 submitted = 12
 # TODO: verify — extracted from the cross-year acceptance string.
 

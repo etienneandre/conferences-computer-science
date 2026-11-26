@@ -5,7 +5,7 @@ url = "https://nfm2022.caltech.edu/"
 
 [event]
 start = 2022-05-24
-end = 2022-05-27
+end   = 2022-05-27
 city = "Pasadena, California, USA"
 hybrid = true
 
@@ -32,12 +32,12 @@ women = 0
 [[stats.track]]
 name = "Regular papers"
 submitted = 93
-accepted = 33
+accepted  = 33
 
 [[stats.track]]
 name = "Short papers"
 submitted = 25
-accepted = 6
+accepted  = 6
 
 [extra]
 notes = "No registration fees."

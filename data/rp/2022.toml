@@ -5,7 +5,7 @@ url = "https://rp2022.mpi-sws.org"
 
 [event]
 start = 2022-10-17
-end = 2022-10-19
+end   = 2022-10-19
 city = "Kaiserslautern, Germany"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 8
+accepted  = 8
 submitted = 14
 # TODO: verify — extracted from the cross-year acceptance string.
 

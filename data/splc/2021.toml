@@ -5,7 +5,7 @@ url = "http://splc2021.net/"
 
 [event]
 start = 2021-09-06
-end = 2021-09-11
+end   = 2021-09-11
 online = true
 
 [submission]

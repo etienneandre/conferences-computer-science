@@ -5,7 +5,7 @@ url = "http://http://www.seceng.de/tap2017"
 
 [event]
 start = 2017-07-19
-end = 2017-07-20
+end   = 2017-07-20
 city = "Marburg, Germany"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 9
+accepted  = 9
 submitted = 16
 # TODO: verify — extracted from the cross-year acceptance string.
 

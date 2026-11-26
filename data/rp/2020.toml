@@ -5,7 +5,7 @@ url = "https://www.irif.fr/~rp2020/"
 
 [event]
 start = 2020-10-19
-end = 2020-10-21
+end   = 2020-10-21
 city = "Paris, France"
 
 [submission]

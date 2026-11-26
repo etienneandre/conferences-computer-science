@@ -5,7 +5,7 @@ url = "http://sefm17.fbk.eu/"
 
 [event]
 start = 2017-09-06
-end = 2017-09-10
+end   = 2017-09-10
 city = "Trento, Italy"
 
 [submission]

@@ -5,7 +5,7 @@ url = "http://vsl2014.at/wst/"
 
 [event]
 start = 2014-07-17
-end = 2014-07-18
+end   = 2014-07-18
 city = "Vienna, Austria"
 
 [submission]

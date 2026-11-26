@@ -5,7 +5,7 @@ url = "https://wodes2024.eventos.ufrj.br/"
 
 [event]
 start = 2024-04-29
-end = 2024-05-01
+end   = 2024-05-01
 city = "Rio de Janeiro, Brazil"
 
 [submission]

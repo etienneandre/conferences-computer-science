@@ -6,5 +6,5 @@ publisher = "LIPIcs"
 license = "cc-by-nd"
 
 [stats]
-accepted = 54
+accepted  = 54
 submitted = 254

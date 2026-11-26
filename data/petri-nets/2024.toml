@@ -5,7 +5,7 @@ url = "http://conf-2024.petrinet.net"
 
 [event]
 start = 2024-06-26
-end = 2024-06-28
+end   = 2024-06-28
 city = "Geneva, Switzerland"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 19
+accepted  = 19
 submitted = 42
 # TODO: verify — extracted from the cross-year acceptance string.
 

@@ -5,7 +5,7 @@ url = "https://www.react.uni-saarland.de/gandalf2018/index.html"
 
 [event]
 start = 2018-09-26
-end = 2018-09-28
+end   = 2018-09-28
 city = "Saarbrücken, Germany"
 
 [submission]

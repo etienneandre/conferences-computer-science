@@ -5,7 +5,7 @@ url = "https://icst2020.info/"
 
 [event]
 start = 2020-03-23
-end = 2020-03-27
+end   = 2020-03-27
 city = "Porto, Portugal"
 
 [submission]

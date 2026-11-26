@@ -5,7 +5,7 @@ url = "http://gandalf2017.istc.cnr.it"
 
 [event]
 start = 2017-09-20
-end = 2017-09-22
+end   = 2017-09-22
 city = "Rome, Italy"
 
 [submission]

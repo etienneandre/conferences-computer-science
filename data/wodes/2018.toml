@@ -5,7 +5,7 @@ url = "http://wodes2018.unisa.it/"
 
 [event]
 start = 2018-05-30
-end = 2018-06-01
+end   = 2018-06-01
 city = "Sorrento, Italy"
 
 [submission]

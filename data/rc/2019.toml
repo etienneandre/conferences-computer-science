@@ -4,7 +4,7 @@ url = "https://reversible-computation.github.io/2019/"
 
 [event]
 start = 2019-06-24
-end = 2019-06-25
+end   = 2019-06-25
 city = "Lausanne, Switzerland"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 22
-accepted = 15
+accepted  = 15
 # Inconsistency: the preface reads:
 # > The conference received 22 submissions … After careful reviewing and extensive discussions, the Program Committee (PC) accepted 13 full papers, and two short papers for presentation at the conference.
 # but the preface on-line reads:

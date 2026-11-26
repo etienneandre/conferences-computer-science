@@ -5,7 +5,7 @@ url = "http://www.imsc.res.in/~icla/"
 
 [event]
 start = 2013-01-10
-end = 2013-01-12
+end   = 2013-01-12
 city = "Chennai, India"
 
 [submission]

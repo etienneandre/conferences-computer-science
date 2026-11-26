@@ -5,7 +5,7 @@ url = "https://rssrail2021.univ-gustave-eiffel.fr/"
 
 [event]
 start = 2021-11-15
-end = 2021-11-16
+end   = 2021-11-16
 city = "Paris, France"
 
 [submission]

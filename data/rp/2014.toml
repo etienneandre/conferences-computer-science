@@ -5,7 +5,7 @@ url = "http://www.cs.ox.ac.uk/RP2014/"
 
 [event]
 start = 2014-09-22
-end = 2014-09-24
+end   = 2014-09-24
 city = "Oxford, England"
 
 [submission]

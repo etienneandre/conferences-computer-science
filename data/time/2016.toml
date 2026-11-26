@@ -5,7 +5,7 @@ url = "http://time2016.compute.dtu.dk"
 
 [event]
 start = 2016-10-17
-end = 2016-10-19
+end   = 2016-10-19
 city = "Kongens Lyngby, Denmark"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "IEEE CPS"
 license = "pay"
 
 [stats]
-accepted = 21
+accepted  = 21
 submitted = 45
 # TODO: verify — extracted from the cross-year acceptance string.
 

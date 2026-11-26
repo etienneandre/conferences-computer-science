@@ -5,7 +5,7 @@ url = "https://www.sigapp.org/sac/sac2026/"
 
 [event]
 start = 2026-03-23
-end = 2026-03-27
+end   = 2026-03-27
 city = "Thessaloniki, Greece"
 
 [submission]
@@ -24,7 +24,7 @@ blind = "double"
 
 [stats]
 submitted = 961
-accepted = 225
+accepted  = 225
 
 [extra]
 notes = "39 tracks, student abstracts, Student Research Competition, etc."

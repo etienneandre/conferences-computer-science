@@ -5,7 +5,7 @@ url = "https://www.soundandcomplete.org/vstte2024.html"
 
 [event]
 start = 2024-10-14
-end = 2024-10-15
+end   = 2024-10-15
 city = "Prague, Czech Republic"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 6
+accepted  = 6
 submitted = 6
 # TODO: verify — extracted from the cross-year acceptance string.
 

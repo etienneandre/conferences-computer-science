@@ -5,7 +5,7 @@ url = "http://lcs.ios.ac.cn/setta/"
 
 [event]
 start = 2016-11-09
-end = 2016-11-11
+end   = 2016-11-11
 city = "Beijing, China"
 
 [submission]
@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [stats]
 submitted = 45
-accepted = 20
+accepted  = 20
 # TODO: 17 long + 3 short
 
 

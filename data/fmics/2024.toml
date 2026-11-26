@@ -5,7 +5,7 @@ url = "https://fmics.inria.fr/2024"
 
 [event]
 start = 2024-09-09
-end = 2024-09-11
+end   = 2024-09-11
 city = "Milan, Italy"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 14
+accepted  = 14
 submitted = 22
 # TODO: verify — extracted from the cross-year acceptance string.
 

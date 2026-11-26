@@ -5,7 +5,7 @@ url = "http://www.ftscs.org"
 
 [event]
 start = 2014-11-06
-end = 2014-11-07
+end   = 2014-11-07
 city = "Luxembourg"
 
 [submission]
@@ -18,7 +18,7 @@ publisher = "Springer CCIS"
 license = "pay-profit"
 
 [stats]
-accepted = 14
+accepted  = 14
 submitted = 40
 # TODO: verify — extracted from the cross-year acceptance string.
 

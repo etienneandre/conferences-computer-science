@@ -5,7 +5,7 @@ url = "https://fmics2025.uni-muenster.de"
 
 [event]
 start = 2025-08-25
-end = 2025-08-30
+end   = 2025-08-30
 city = "Aarhus, Denmark"
 
 [submission]

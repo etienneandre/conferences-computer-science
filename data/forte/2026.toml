@@ -6,7 +6,7 @@ url = "https://www.discotec.org/2026/forte"
 [event]
 part_of = "discotec/2026"
 start = 2026-06-08
-end = 2026-06-12
+end   = 2026-06-12
 city = "Urbino, Italy"
 colocated_with = ["coordination/2026"]
 
@@ -28,7 +28,7 @@ gender_balance = "mixed"
 artifact = "Artifact evaluation mandatory for tool papers, optional for regular papers"
 
 [stats]
-accepted = 15
+accepted  = 15
 submitted = 27
 # NOTE: 12 regular papers, 2 tool papers, and 1 short paper
 

@@ -5,7 +5,7 @@ url = "https://icpe2023.spec.org"
 
 [event]
 start = 2023-04-15
-end = 2023-04-19
+end   = 2023-04-19
 city = "Coimbra, Portugal"
 
 [submission]

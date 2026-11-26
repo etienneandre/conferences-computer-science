@@ -5,7 +5,7 @@ url = "http://nwpt2018.ifi.uio.no/"
 
 [event]
 start = 2018-10-24
-end = 2018-10-26
+end   = 2018-10-26
 city = "Oslo, Norway"
 
 [submission]

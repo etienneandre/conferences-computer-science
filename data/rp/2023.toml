@@ -5,7 +5,7 @@ url = "https://www.lix.polytechnique.fr/RP2023"
 
 [event]
 start = 2023-10-11
-end = 2023-10-13
+end   = 2023-10-13
 city = "Nice, France"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 13
+accepted  = 13
 submitted = 17
 # TODO: verify — extracted from the cross-year acceptance string.
 

@@ -5,7 +5,7 @@ url = "https://www.corelab.ntua.gr/fct2021"
 
 [event]
 start = 2021-09-12
-end = 2021-09-15
+end   = 2021-09-15
 city = "Athens, Greece"
 
 [submission]

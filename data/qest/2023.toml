@@ -6,7 +6,7 @@ url = "https://www.qest.org/qest2023"
 [event]
 part_of = "confest/2023"
 start = 2023-09-20
-end = 2023-09-22
+end   = 2023-09-22
 city = "Antwerp, Belgium"
 
 [submission]

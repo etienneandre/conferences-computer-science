@@ -5,7 +5,7 @@ url = "http://alpha.diism.unisi.it/lopstr15/"
 
 [event]
 start = 2015-07-13
-end = 2015-07-15
+end   = 2015-07-15
 city = "Siena, Italy"
 
 [submission]

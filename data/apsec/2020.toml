@@ -5,7 +5,7 @@ url = "https://formal-analysis.com/apsec/2020/"
 
 [event]
 start = 2020-12-01
-end = 2020-12-04
+end   = 2020-12-04
 online = true
 
 [submission]

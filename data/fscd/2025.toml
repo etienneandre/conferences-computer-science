@@ -5,7 +5,7 @@ url = "https://fscd2025.github.io/"
 
 [event]
 start = 2025-07-15
-end = 2025-07-18
+end   = 2025-07-18
 city = "Birmingham, England"
 
 [submission]
@@ -34,7 +34,7 @@ women = 3
 
 [stats]
 submitted = 77
-accepted = 31
+accepted  = 31
 
 
 [[cfp]]

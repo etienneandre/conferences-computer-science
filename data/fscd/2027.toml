@@ -4,7 +4,7 @@ url = "https://fscd-conference.org/2027"
 
 [event]
 start = 2027-08-23
-end = 2027-08-26
+end   = 2027-08-26
 city = "Nijmegen, The Netherlands"
 venue = "Radboud University"
 

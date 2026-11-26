@@ -5,7 +5,7 @@ url = "https://serene.disim.univaq.it/2022/index.html"
 
 [event]
 start = 2022-09-12
-end = 2022-09-15
+end   = 2022-09-15
 city = "Zaragoza, Spain"
 
 [submission]

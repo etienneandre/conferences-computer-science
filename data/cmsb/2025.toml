@@ -5,7 +5,7 @@ url = "https://cmsb2025.sciencesconf.org/"
 
 [event]
 start = 2025-09-10
-end = 2025-09-12
+end   = 2025-09-12
 city = "Lyon, France"
 
 [submission]

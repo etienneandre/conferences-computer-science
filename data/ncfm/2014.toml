@@ -4,7 +4,7 @@ url = "http://www.csibc.org/index.php/about-csi/national-workshop-conference-on-
 
 [event]
 start = 2014-10-15
-end = 2014-10-17
+end   = 2014-10-17
 city = "Bengaluru, India"
 
 [submission]

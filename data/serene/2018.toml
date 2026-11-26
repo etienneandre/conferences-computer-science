@@ -5,7 +5,7 @@ url = "http://serene.disim.univaq.it/2018/home"
 
 [event]
 start = 2018-09-10
-end = 2018-09-11
+end   = 2018-09-11
 city = "Iași, Romania"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://ijcar2024.loria.fr/"
 
 [event]
 start = 2024-07-01
-end = 2024-07-06
+end   = 2024-07-06
 city = "Nancy, France"
 
 [submission]

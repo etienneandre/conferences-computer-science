@@ -6,7 +6,7 @@ url = "https://formats-2020.cs.ru.nl/"
 [event]
 part_of = "confest/2020"
 start = 2020-09-01
-end = 2020-09-03
+end   = 2020-09-03
 city = "Vienna, Austria"
 online = true
 colocated_with = ["concur/2020", "fmics/2020"]

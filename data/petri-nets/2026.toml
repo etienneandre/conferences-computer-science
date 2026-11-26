@@ -5,7 +5,7 @@ url = "https://petrinets2026.informatik.uni-hamburg.de/"
 
 [event]
 start = 2026-06-22
-end = 2026-06-26
+end   = 2026-06-26
 city = "Hamburg, Germany"
 
 [submission]
@@ -37,12 +37,12 @@ women = 1
 [[stats.track]]
 name = "Regular papers"
 submitted = 34
-accepted = 14
+accepted  = 14
 
 [[stats.track]]
 name = "Tool papers	"
 submitted = 8
-accepted = 6
+accepted  = 6
 
 [extra]
 notes = "This year, celebration in honor of the 100th birthday of Carl Adam Petri"

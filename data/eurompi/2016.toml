@@ -5,7 +5,7 @@ url = "http://www.eurompi2016.ed.ac.uk/"
 
 [event]
 start = 2016-09-25
-end = 2016-09-28
+end   = 2016-09-28
 city = "Edinburgh, Scotland"
 
 [submission]

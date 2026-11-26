@@ -5,7 +5,7 @@ url = "http://www-rtns2014.cea.fr/"
 
 [event]
 start = 2014-10-08
-end = 2014-10-10
+end   = 2014-10-10
 city = "Versailles, France"
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "ACM"
 license = "pay"
 
 [stats]
-accepted = 32
+accepted  = 32
 submitted = 63
 # TODO: verify — extracted from the cross-year acceptance string.
 

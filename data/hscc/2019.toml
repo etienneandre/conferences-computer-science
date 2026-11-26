@@ -5,7 +5,7 @@ url = "http://hscc2019.eecs.umich.edu/"
 
 [event]
 start = 2019-04-16
-end = 2019-04-19
+end   = 2019-04-19
 city = "Montréal, Québec, Canada"
 
 [submission]

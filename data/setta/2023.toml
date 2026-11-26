@@ -5,7 +5,7 @@ url = "https://lcs.ios.ac.cn/setta2022/"
 
 [event]
 start = 2023-11-27
-end = 2023-11-29
+end   = 2023-11-29
 city = "Nanjing, China"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 24
+accepted  = 24
 submitted = 80
 
 [extra]

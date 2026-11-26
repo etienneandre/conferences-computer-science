@@ -5,7 +5,7 @@ url = "http://ecrts17.ecrts.org"
 
 [event]
 start = 2017-06-27
-end = 2017-06-30
+end   = 2017-06-30
 city = "Dubrovnik, Croatia"
 
 [submission]

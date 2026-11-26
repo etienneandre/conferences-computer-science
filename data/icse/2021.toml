@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/icse-2021"
 
 [event]
 start = 2021-05-23
-end = 2021-05-29
+end   = 2021-05-29
 city = "Madrid, Spain"
 
 [submission]

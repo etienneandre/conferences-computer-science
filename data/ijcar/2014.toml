@@ -5,7 +5,7 @@ url = "http://cs.nyu.edu/ijcar2014/"
 
 [event]
 start = 2014-07-19
-end = 2014-07-22
+end   = 2014-07-22
 city = "Vienna, Austria"
 
 [submission]

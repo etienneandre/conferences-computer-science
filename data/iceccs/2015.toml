@@ -5,7 +5,7 @@ url = "http://iceccs2015.monash.edu.au/"
 
 [event]
 start = 2015-12-09
-end = 2015-12-12
+end   = 2015-12-12
 city = "Gold Coast, Australia"
 
 [submission]

@@ -4,7 +4,7 @@ url = "https://lics.siglog.org/lics27"
 
 [event]
 start = 2027-06-21
-end = 2027-06-24
+end   = 2027-06-24
 city = "Montréal, Québec, Canada"
 venue = "Université du Québec à Montréal (UQAM)"
 

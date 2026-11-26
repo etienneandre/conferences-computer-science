@@ -5,7 +5,7 @@ url = "http://www.reversible-computation.org"
 
 [event]
 start = 2015-07-16
-end = 2015-07-17
+end   = 2015-07-17
 city = "Grenoble, France"
 
 [submission]
@@ -33,7 +33,7 @@ women = 1
 
 [stats]
 submitted = 30
-accepted = 19
+accepted  = 19
 # The 19 papers presented together with 1 invited talk were carefully reviewed and selected from 30 submissions.
 
 [[cfp]]

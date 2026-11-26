@@ -5,7 +5,7 @@ url = "https://ifm2025.ens.psl.eu/"
 
 [event]
 start = 2025-11-19
-end = 2025-11-21
+end   = 2025-11-21
 city = "Paris, France"
 
 [submission]
@@ -33,12 +33,12 @@ women = 1
 [[stats.track]]
 name = "regular papers"
 submitted = 65
-accepted = 23
+accepted  = 23
 
 [[stats.track]]
 name = "short papers"
 submitted = 4
-accepted = 1
+accepted  = 1
 
 [extra]
 journal = "A special issue of the Formal Aspects of Computing journal is planned for extended versions of selected papers from iFM 2025."

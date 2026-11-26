@@ -5,7 +5,7 @@ url = "https://www.research.ibm.com/haifa/conferences/hvc2016"
 
 [event]
 start = 2016-11-14
-end = 2016-11-17
+end   = 2016-11-17
 city = "Haifa, Israel"
 
 [submission]

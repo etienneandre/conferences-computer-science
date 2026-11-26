@@ -5,7 +5,7 @@ url = "https://reacts-workshop.github.io/2025/"
 
 [event]
 start = 2025-11-10
-end = 2025-11-11
+end   = 2025-11-11
 city = "Toledo, Spain"
 colocated_with = ["sefm/2025"]
 
@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [stats]
 submitted = 8 #  4 to be accepted as regular papers and 4 to be accepted as short paper
-accepted = 8
+accepted  = 8
 
 [extra]
 journal = "Similarly to the last edition of ReacTS, we plan to invite authors of selected contributions to submit extended versions to a special issue, e.g. to the Journal of Applied Logics."

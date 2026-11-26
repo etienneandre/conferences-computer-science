@@ -5,7 +5,7 @@ url = "http://mmrp12.wp.it-sudparis.eu/"
 
 [event]
 start = 2012-08-27
-end = 2012-08-31
+end   = 2012-08-31
 city = "Paris, France"
 
 [submission]

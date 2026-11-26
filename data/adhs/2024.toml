@@ -5,7 +5,7 @@ url = "https://www.colorado.edu/conference/adhs2024"
 
 [event]
 start = 2024-07-01
-end = 2024-07-03
+end   = 2024-07-03
 city = "Boulder, Colorado, USA"
 venue = "University of Colorado Boulder"
 

@@ -5,7 +5,7 @@ url = "https://issre.net/"
 
 [event]
 start = 2022-10-24
-end = 2022-10-27
+end   = 2022-10-27
 city = "Charlotte, North Carolina, USA"
 hybrid = true # From the CfP
 

@@ -4,7 +4,7 @@ url = "https://2026.rtns-conference.org/jrwrtc/"
 
 [event]
 start = 2026-11-04
-end = 2026-11-06
+end   = 2026-11-06
 city = "Toulouse, France"
 colocated_with = ["rtns/2026"]
 

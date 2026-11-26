@@ -5,7 +5,7 @@ url = "http://lipn.univ-paris13.fr/fvsbs/"
 
 [event]
 start = 2017-06-21
-end = 2017-06-23
+end   = 2017-06-23
 city = "Poznań, Poland"
 
 [submission]

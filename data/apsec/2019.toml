@@ -5,7 +5,7 @@ url = "https://seminar.utmspace.edu.my/apsec2019/"
 
 [event]
 start = 2019-12-02
-end = 2019-12-05
+end   = 2019-12-05
 city = "Putrajaya, Malaysia"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://sp2025.ieee-security.org/"
 
 [event]
 start = 2025-05-12
-end = 2025-05-14
+end   = 2025-05-14
 city = "San Francisco, California, USA"
 
 [submission]

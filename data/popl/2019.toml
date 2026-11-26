@@ -5,7 +5,7 @@ url = "https://popl19.sigplan.org/"
 
 [event]
 start = 2019-01-13
-end = 2019-01-19
+end   = 2019-01-19
 city = "Cascais, Portugal"
 
 [submission]

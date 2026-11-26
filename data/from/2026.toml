@@ -5,7 +5,7 @@ url = "https://from2026.uvt.ro/"
 
 [event]
 start = 2026-09-15
-end = 2026-09-17
+end   = 2026-09-17
 city = "Timișoara, Romania"
 
 [submission]

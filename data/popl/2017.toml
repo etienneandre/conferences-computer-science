@@ -5,7 +5,7 @@ url = "http://conf.researchr.org/home/POPL-2017"
 
 [event]
 start = 2017-01-18
-end = 2017-01-20
+end   = 2017-01-20
 city = "Paris, France"
 
 [submission]

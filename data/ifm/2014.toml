@@ -5,7 +5,7 @@ url = "http://ifm2014.cs.unibo.it/"
 
 [event]
 start = 2014-09-09
-end = 2014-09-11
+end   = 2014-09-11
 city = "Bertinoro, Italy"
 
 [submission]

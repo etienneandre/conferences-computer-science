@@ -5,7 +5,7 @@ url = "https://www.fsttcs.org.in/2023/"
 
 [event]
 start = 2023-12-18
-end = 2023-12-20
+end   = 2023-12-20
 city = "IIT Hyderabad, India"
 
 [submission]

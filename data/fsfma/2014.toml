@@ -6,7 +6,7 @@ url = "http://lipn.univ-paris13.fr/fsfma2014/"
 [event]
 part_of = "fm/2014"
 start = 2014-05-12
-end = 2014-05-13
+end   = 2014-05-13
 city = "Singapore"
 
 [submission]

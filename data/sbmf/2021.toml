@@ -5,7 +5,7 @@ url = "http://sbmf2021.computacao.ufcg.edu.br/"
 
 [event]
 start = 2021-12-06
-end = 2021-12-10
+end   = 2021-12-10
 online = true
 
 [submission]

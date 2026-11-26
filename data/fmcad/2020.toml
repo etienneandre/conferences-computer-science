@@ -5,7 +5,7 @@ url = "https://fmcad.forsyte.at/FMCAD20/"
 
 [event]
 start = 2020-09-21
-end = 2020-09-24
+end   = 2020-09-24
 online = true
 
 [submission]

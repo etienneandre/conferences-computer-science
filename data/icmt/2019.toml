@@ -5,7 +5,7 @@ url = "http://www.model-transformation.org/"
 
 [event]
 start = 2019-07-15
-end = 2019-07-19
+end   = 2019-07-19
 city = "Eindhoven, The Netherlands"
 
 [submission]

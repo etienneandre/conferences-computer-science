@@ -5,7 +5,7 @@ url = "https://lics.siglog.org/lics22/"
 
 [event]
 start = 2022-08-02
-end = 2022-08-05
+end   = 2022-08-05
 city = "Haifa, Israel"
 colocated_with = ["icalp/2022"]
 # TODO: part of FLOC 2022

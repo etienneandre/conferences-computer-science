@@ -5,7 +5,7 @@ url = "https://viam.science.tsu.ge/clas2022/ictac/"
 
 [event]
 start = 2022-09-27
-end = 2022-09-29
+end   = 2022-09-29
 city = "Tbilisi, Georgia"
 hybrid = true # from the CfP
 
@@ -20,7 +20,7 @@ publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 25
+accepted  = 25
 submitted = 52
 # TODO: verify — extracted from the cross-year acceptance string.
 

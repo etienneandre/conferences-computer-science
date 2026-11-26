@@ -5,7 +5,7 @@ url = "https://csl2021.fmf.uni-lj.si/"
 
 [event]
 start = 2021-01-25
-end = 2021-01-28
+end   = 2021-01-28
 online = true
 
 [submission]
@@ -19,7 +19,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 34
+accepted  = 34
 submitted = 82
 # TODO: verify — extracted from the cross-year acceptance string.
 

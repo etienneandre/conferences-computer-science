@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/icst-2025"
 
 [event]
 start = 2025-03-31
-end = 2025-04-04
+end   = 2025-04-04
 city = "Naples, Italy"
 
 [submission]
@@ -34,7 +34,7 @@ women = 1
 
 [stats]
 submitted = 107
-accepted = 32
+accepted  = 32
 
 [extra]
 notes = "Also journal-first, doctoral symposium, software testing contest, tool demos, industry track papers…"

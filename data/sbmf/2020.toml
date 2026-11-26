@@ -5,7 +5,7 @@ url = "http://sbmf2020.ufop.br/"
 
 [event]
 start = 2020-11-25
-end = 2020-11-27
+end   = 2020-11-27
 online = true
 
 [submission]

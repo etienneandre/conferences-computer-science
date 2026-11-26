@@ -5,7 +5,7 @@ url = "https://conf.researchr.org/home/fm-2026"
 
 [event]
 start = 2026-05-20
-end = 2026-05-22
+end   = 2026-05-22
 city = "Tōkyō, Japan"
 colocated_with = ["abz/2026", "tap/2026"]
 
@@ -29,17 +29,17 @@ award = "Best paper award."
 [[stats.track]]
 name = "Research track"
 submitted = 239
-accepted = 49 # NOTE: 43 papers in the Main track and 6 papers in the TAP track
+accepted  = 49 # NOTE: 43 papers in the Main track and 6 papers in the TAP track
 
 [[stats.track]]
 name = "Industry track"
 submitted = 17
-accepted = 9
+accepted  = 9
 
 [[stats.track]]
 name = "Tutorial track"
 submitted = 16
-accepted = 8
+accepted  = 8
 
 [extra]
 journal = "Extended versions of selected papers will be invited for publication in a special issue of a journal to be announced soon."

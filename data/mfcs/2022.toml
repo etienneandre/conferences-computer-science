@@ -5,7 +5,7 @@ url = "https://ac.tuwien.ac.at/mfcs2022/"
 
 [event]
 start = 2022-08-22
-end = 2022-08-26
+end   = 2022-08-26
 city = "Vienna, Austria"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 78
+accepted  = 78
 submitted = 221
 # TODO: verify — extracted from the cross-year acceptance string.
 

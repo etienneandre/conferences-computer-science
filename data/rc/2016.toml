@@ -5,7 +5,7 @@ url = "http://www.reversible-computation.org"
 
 [event]
 start = 2016-07-07
-end = 2016-07-08
+end   = 2016-07-08
 city = "Bologna, Italy"
 
 [submission]
@@ -32,7 +32,7 @@ women = 0
 
 [stats]
 submitted = 38
-accepted = 23
+accepted  = 23
 #  The 18 full and 5 short papers included in this volume were carefully reviewed and selected from 38 submissions.
 
 [[special_issue]]

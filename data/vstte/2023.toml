@@ -18,7 +18,7 @@ publisher = "LNCS"
 license = "pay-profit"
 
 [stats]
-accepted = 6
+accepted  = 6
 submitted = 13
 # TODO: verify — extracted from the cross-year acceptance string.
 

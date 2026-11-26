@@ -5,7 +5,7 @@ url = "https://cer.iit.demokritos.gr/events/time23/"
 
 [event]
 start = 2023-09-25
-end = 2023-09-26
+end   = 2023-09-26
 city = "Athens, Greece"
 
 [submission]
@@ -20,7 +20,7 @@ publisher = "LIPIcs"
 license = "cc-by"
 
 [stats]
-accepted = 12
+accepted  = 12
 submitted = 16
 # TODO: verify — extracted from the cross-year acceptance string.
 

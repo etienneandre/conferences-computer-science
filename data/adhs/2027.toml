@@ -4,7 +4,7 @@ url = "https://adhs2027.disim.univaq.it/"
 
 [event]
 start = 2027-07-21
-end = 2027-07-23
+end   = 2027-07-23
 city = "L’Aquila, Italy"
 
 [submission]

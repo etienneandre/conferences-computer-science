@@ -5,7 +5,7 @@ url = "https://ciel2020.wp.imt.fr"
 
 [event]
 start = 2020-06-18
-end = 2020-06-19
+end   = 2020-06-19
 city = "Vannes, France"
 
 [submission]

@@ -4,7 +4,7 @@ url = "http://issta2016.cispa.saarland/"
 
 [event]
 start = 2016-07-18
-end = 2016-07-20
+end   = 2016-07-20
 city = "Saarbrücken, Germany"
 
 [submission]

@@ -5,7 +5,7 @@ url = "https://rtns2018.ensma.fr/workshop.html"
 
 [event]
 start = 2018-10-10
-end = 2018-10-12
+end   = 2018-10-12
 city = "Chasseneuil-du-Poitou, France"
 venue = "Futuroscope"
 colocated_with = ["rtns/2018"]
