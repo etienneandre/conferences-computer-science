@@ -21,33 +21,33 @@ you leave out simply stays unknown rather than being guessed at.
 
 ```toml
 edition = 27
-title = "27th International Conference on Formal Engineering Methods"
-url = "https://icfem2026.github.io/"
+title   = "27th International Conference on Formal Engineering Methods"
+url     = "https://icfem2026.github.io/"
 
 [event]
 start = 2026-11-17
-end = 2026-11-20
-city = "Southampton, England"
+end   = 2026-11-20
+city  = "Southampton, England"
 
 [submission]
-tz = "AoE"
-format = "16 pages LNCS + bibliography (regular paper)"
-abstract = [2026-06-01, 2026-06-22]
-paper = [2026-06-08, 2026-06-22]
+tz           = "AoE"
+format       = "16 pages LNCS + bibliography (regular paper)"
+abstract     = [2026-06-01, 2026-06-22]
+paper        = [2026-06-08, 2026-06-22]
 notification = [2026-08-08]
 
 [proceedings]
 publisher = "Springer LNCS"
-license = "pay-profit"
-editors = ["Jing Liu", "Sofia Marchetti"]
+license   = "pay-profit"
+editors   = ["Jing Liu", "Sofia Marchetti"]
 
 [review]
 [review.gender.chairs]
-men = 3
+men   = 3
 women = 0
 
 [review.gender.speakers]
-men = 2
+men   = 2
 women = 2
 
 [extra]
@@ -73,7 +73,7 @@ And if you know for certain that the deadline held, say so — it is useful, and
 it cannot be inferred:
 
 ```toml
-paper = [2026-06-22]
+paper      = [2026-06-22]
 extensions = false
 ```
 
@@ -82,8 +82,8 @@ the original date vanishes from the call the moment it is updated — say that
 instead, naming the deadline that moved:
 
 ```toml
-abstract = [2022-02-28]
-paper = [2022-03-07]
+abstract   = [2022-02-28]
+paper      = [2022-03-07]
 extensions = ["abstract"]
 ```
 
@@ -105,13 +105,13 @@ gets its own block:
 tz = "AoE"
 
 [[submission.round]]
-name = "Round 1"
-paper = [2026-04-01]
+name         = "Round 1"
+paper        = [2026-04-01]
 notification = [2026-05-15]
 
 [[submission.round]]
-name = "Round 2"
-paper = [2026-07-01]
+name         = "Round 2"
+paper        = [2026-07-01]
 notification = [2026-08-15]
 ```
 
@@ -136,8 +136,8 @@ one, not a `doi.org` address in `url`:
 ```toml
 [proceedings]
 publisher = "Springer LNCS"
-doi = "10.1007/978-3-031-27481-7"
-url = "https://link.springer.com/book/10.1007/978-3-031-27481-7"
+doi       = "10.1007/978-3-031-27481-7"
+url       = "https://link.springer.com/book/10.1007/978-3-031-27481-7"
 ```
 
 **Editors.** `editors` takes one name per entry, written as the volume prints
@@ -161,11 +161,11 @@ block:
 [[special_issue]]
 journal = "Science of Computer Programming"
 editors = ["Jing Liu"]
-volume = "204"
-issue = "S1"
-year = 2021
-papers = 6
-doi = "10.1016/j.scico.2021.102600"
+volume  = "204"
+issue   = "S1"
+year    = 2021
+papers  = 6
+doi     = "10.1016/j.scico.2021.102600"
 ```
 
 Everything except `journal` is optional, but a `doi` or a `url` is what makes
@@ -182,7 +182,7 @@ special_issue = false
 ```toml
 [stats]
 submitted = 47
-accepted = 20
+accepted  = 20
 ```
 
 
@@ -191,14 +191,14 @@ accepted = 20
 ```toml
 [stats]
 [[stats.track]]
-name = "Track A"
+name      = "Track A"
 submitted = 523
-accepted = 155
+accepted  = 155
 
 [[stats.track]]
-name = "Track B"
+name      = "Track B"
 submitted = 105
-accepted = 35
+accepted  = 35
 ```
 
 
