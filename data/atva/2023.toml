@@ -36,7 +36,7 @@ men   = 2
 # NOTE: includes tutorials
 [review.gender.speakers]
 women = 1
-men = 4
+men   = 4
 
 [[cfp]]
 file = "cfp/ATVA-2023.pdf"

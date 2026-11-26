@@ -29,7 +29,7 @@ men   = 1
 
 [review.gender.speakers]
 women = 2
-men = 2
+men   = 2
 
 [extra]
 notes = "5-day grace period for submitted papers following the extended deadline"

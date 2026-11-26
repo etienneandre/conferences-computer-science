@@ -24,7 +24,7 @@ men   = 2
 
 [review.gender.speakers]
 women = 0
-men = 1
+men   = 1
 
 [extra]
 journal = "Similarly to the last editions of ReacTS, we are exploring the possibility of inviting selected contributions' authors to submit extended versions to a special issue, e.g. to the Journal of Applied Logics."

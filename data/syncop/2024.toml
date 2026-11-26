@@ -24,7 +24,7 @@ men   = 2
 women = 0
 
 [review.gender.speakers]
-men = 4
+men   = 4
 women = 0
 
 [[cfp]]

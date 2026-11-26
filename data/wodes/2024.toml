@@ -21,7 +21,7 @@ license = "pay-profit"
 award = "Best student paper award."
 
 [review.gender.speakers]
-men = 2
+men   = 2
 women = 1
 
 [[cfp]]

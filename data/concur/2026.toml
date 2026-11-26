@@ -34,7 +34,7 @@ men   = 1
 women = 1
 
 [review.gender.speakers]
-men = 3
+men   = 3
 women = 2
 
 

@@ -28,7 +28,7 @@ accepted  = 16 # NOTE: 12 regular + 4 short
 
 [review.gender.speakers]
 women = 2
-men = 0
+men   = 0
 
 
 [extra]

@@ -31,7 +31,7 @@ men   = 3
 women = 0
 
 [review.gender.speakers]
-men = 5
+men   = 5
 women = 1
 
 [extra]

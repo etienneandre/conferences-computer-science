@@ -33,7 +33,7 @@ men   = 2
 women = 0
 
 [review.gender.speakers]
-men = 3
+men   = 3
 women = 0
 
 [stats]

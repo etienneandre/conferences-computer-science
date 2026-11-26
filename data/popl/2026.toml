@@ -32,7 +32,7 @@ men   = 1
 women = 1 # NOTE: general chair
 
 [review.gender.speakers]
-men = 1
+men   = 1
 women = 1
 
 [stats]

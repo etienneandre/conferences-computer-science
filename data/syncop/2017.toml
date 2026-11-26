@@ -14,7 +14,7 @@ men   = 1
 women = 0
 
 [review.gender.speakers]
-men = 9
+men   = 9
 women = 1
 
 [proceedings]

@@ -36,7 +36,7 @@ men   = 2
 
 [review.gender.speakers]
 women = 1
-men = 1
+men   = 1
 
 [extra]
 journal = "A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM."

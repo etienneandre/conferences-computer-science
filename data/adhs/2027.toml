@@ -20,7 +20,7 @@ men   = 1
 women = 1
 
 [review.gender.speakers]
-men = 2
+men   = 2
 women = 1
 
 [review]
