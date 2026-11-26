@@ -1,0 +1,23 @@
+acronym = "AEiC"
+name = "Ada-Europe International Conference on Reliable Software Technologies"
+frequency = "Annual"
+homepage = "https://www.ada-europe.org/"
+
+[core]
+id = "1191"
+
+[[core.history]]
+from = 2008
+rank = "A"
+
+[[core.history]]
+from = 2017
+rank = "B"
+
+[[core.history]]
+from = 2023
+rank = "absent" # NOTE: journal published
+
+[links]
+dblp = "adaEurope"
+

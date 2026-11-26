@@ -1,0 +1,57 @@
+edition = 30
+title = "30th Ada-Europe International Conference on Reliable Software Technologies"
+url = "https://www.ada-europe.org/conference2026/"
+
+[event]
+start = 2026-06-09
+end = 2026-06-12
+city = "Västerås, Sweden"
+venue = "Mälardalen University"
+
+[submission]
+format = "Journal track: up to 25 pages (Journal of Systems Architecture) / regular track: full paper (OASIcs) / industrial track: abstract / work-in-progress: short paper"
+
+[[submission.round]]
+name = "Journal track"
+paper = [2026-01-16, 2026-02-20]
+notification = [2026-04-03]
+
+[[submission.round]]
+name = "Regular, industrial and work-in-progress tracks, tutorial and workshop proposals"
+paper = [2026-02-27, 2026-03-13]
+notification = [2026-04-03]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+doi = "10.4230/OASIcs.AEiC.2026"
+editors = ["Antonio Filieri", "Peter Backeman"]
+
+[review]
+award = "Honorary award for the best technical presentation, announced in the closing session."
+
+[review.gender.chairs]
+men = 2
+women = 0
+
+
+[extra]
+journal = "Accepted journal track papers are published in a special issue of the Journal of Systems Architecture (Elsevier). Expanded industrial and work-in-progress contributions are published in the Ada User Journal."
+colocated = "Tutorials (9 June) and workshops (12 June): 3rd Ada Developers Workshop, 22nd A-MOST (model-based testing), Workshop on Digital Twin Experiences (DTE)."
+
+# NOTE: no submission data
+# [[stats.track]]
+# name = "journal"
+# accepted = 9
+#
+# [[stats.track]]
+# name = "regular"
+# accepted = 7
+#
+# [[stats.track]]
+# name = "work-in-progress"
+# accepted = 3
+#
+# [[stats.track]]
+# name = "industrial"
+# accepted = 4

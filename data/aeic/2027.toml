@@ -1,4 +1,3 @@
-
 edition = 31
 title = "31st Ada-Europe International Conference on Reliable Software Technologies"
 url = "https://www.ada-europe.org/conference2027/"
@@ -7,8 +6,10 @@ url = "https://www.ada-europe.org/conference2027/"
 start = 2027-06-08
 end = 2027-06-11
 city = "Berlin, Germany"
+venue = "Holiday Inn Berlin City-West"
 
 [submission]
+format = "Journal track: up to 25 pages (Journal of Systems Architecture) / regular track: up to 16 pages excluding references, one column (OASIcs) / industrial track: 2-page abstract / work-in-progress: 4 pages (research) or 1 page (idea)"
 
 [[submission.round]]
 name = "Journal track"
@@ -29,3 +30,19 @@ notification = [2027-03-15]
 name = "Work-in-progress"
 paper = [2027-03-22]
 notification = [2027-04-05]
+
+[proceedings]
+publisher = "OASIcs"
+license = "cc-by"
+
+[review]
+award = "Honorary award for the best technical presentation, announced in the closing session."
+
+[extra]
+journal = "Accepted journal track papers are published in a special issue of the Journal of Systems Architecture (Elsevier), as a virtual special issue with rolling decisions. Expanded industrial and work-in-progress contributions are published in the Ada User Journal."
+notes = "Journal-track notifications are first-round notifications; authors passing the first round (including major revision) must present at the conference. Regular-track papers are published in OASIcs."
+
+[[cfp]]
+file = "cfp/AEiC-2027.pdf"
+stage = "initial"
+source = "https://www.ada-europe.org/conference2027/media/CfP-AEiC2027.pdf"
