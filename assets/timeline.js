@@ -169,9 +169,13 @@
         centre.style.left = pct((from + to) / 2) + '%';
         track.appendChild(centre);
 
-        title = r.d.label + ' — no call announced. Its last ' + r.d.editions
-          + ' editions (' + r.d.first_year + '–' + r.d.last_year + ') closed between '
-          + fmt(parse(r.d.from)) + ' and ' + fmt(parse(r.d.to))
+        var every = r.d.cadence === 1 ? 'yearly'
+          : r.d.cadence === 2 ? 'every two years'
+          : 'every ' + r.d.cadence + ' years';
+        title = r.d.label + ' — no call announced. It has met ' + every
+          + ', so the next edition is due in ' + r.d.year + '. Its last '
+          + r.d.editions + ' editions (' + r.d.first_year + '–' + r.d.last_year
+          + ') closed between ' + fmt(parse(r.d.from)) + ' and ' + fmt(parse(r.d.to))
           + '. This band is that habit, not a date.';
       }
 

@@ -1292,6 +1292,43 @@ class Conference:
                 if e.rate is not None]
 
     @property
+    def cadence(self) -> int | None:
+        """Years between editions, when the recent record is unanimous.
+
+        Derived rather than declared. `frequency` is prose for a reader —
+        "Every two years." — and parsing English to decide where a marker
+        goes would be fragile, besides putting the same fact in two places
+        that can disagree. The years are already here and cannot drift.
+
+        Unanimous or nothing: a series whose recent gaps run 1, 1, 2, 1 has
+        either skipped a year or changed its mind, and either way its next
+        year is not something to assert. Years recorded as `no-edition` or
+        `cancelled` are not editions and do not count as a gap of their own.
+        """
+        years = sorted({e.year for e in self.editions if e.year
+                        and e.status not in ("no-edition", "cancelled")})
+        if len(years) < 3:
+            return None
+        recent = years[-6:]
+        gaps = {later - earlier for earlier, later in zip(recent, recent[1:])}
+        if len(gaps) != 1:
+            return None
+        gap = gaps.pop()
+        # Beyond five years the next edition is too far off to be worth
+        # asserting from a handful of past ones.
+        return gap if 1 <= gap <= 5 else None
+
+    @property
+    def next_edition_year(self) -> int | None:
+        """The year the next edition would fall in, if the habit holds."""
+        cadence = self.cadence
+        if not cadence:
+            return None
+        years = [e.year for e in self.editions if e.year
+                 and e.status not in ("no-edition", "cancelled")]
+        return max(years) + cadence if years else None
+
+    @property
     def missing_years(self) -> list[int]:
         """Years with no file, inside the range we claim to cover."""
         if not self.complete_since or not self.editions:
@@ -2952,16 +2989,29 @@ def front_timeline(site: "Site") -> dict:
         if conference.defunct or conference.one_off:
             continue            # no call is coming, so none is predicted
         season = conference.deadline_season
-        if not season or not season["settled"] or not season["nothing_announced"]:
+        target = conference.next_edition_year
+        if not season or not target or not season["settled"] \
+                or not season["nothing_announced"]:
             continue
-        # Project the recent window onto whichever year puts it ahead of us.
-        # `high` can exceed 365 where the window wraps New Year; the offset
-        # arithmetic carries that over without a special case.
-        for year in (today.year, today.year + 1):
-            opens = date(year, 1, 1) + timedelta(days=season["low"] - 1)
-            closes = date(year, 1, 1) + timedelta(days=season["high"] - 1)
-            if closes >= today:
-                break
+        # Which year the window belongs in is the cadence's answer, not
+        # "whichever one is still ahead of us": a biennial series whose last
+        # edition was in 2026 closes again in 2028, and projecting it onto
+        # 2027 was wrong in exactly the way that costs trust.
+        #
+        # The deadline's own year is offset from its edition's — a call that
+        # closes in January of the conference year and one that closes the
+        # previous autumn are both ordinary, and the difference is read off
+        # the most recent edition that has both.
+        anchor = max((e for e in conference.editions
+                      if e.year and e.deadline("paper")),
+                     key=lambda e: e.year, default=None)
+        if anchor is None:
+            continue
+        year = target + anchor.deadline("paper").effective.year - anchor.year
+        # `high` can exceed 365 where the window wraps New Year; adding it as
+        # a day offset rolls into the following year without a special case.
+        opens = date(year, 1, 1) + timedelta(days=season["low"] - 1)
+        closes = date(year, 1, 1) + timedelta(days=season["high"] - 1)
         if closes < today or opens > horizon:
             continue
         predicted.append({
@@ -2973,6 +3023,7 @@ def front_timeline(site: "Site") -> dict:
             "url": conference.url,
             "from": iso(opens), "to": iso(closes),
             "editions": season["editions"],
+            "cadence": conference.cadence, "year": target,
             "first_year": season["first_year"], "last_year": season["last_year"],
         })
     predicted.sort(key=lambda p: (p["to"], sort_key(p["label"])))

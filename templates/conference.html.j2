@@ -427,11 +427,16 @@
       {% if season and season.nothing_announced %}
       {# Stated as a pattern, never as a date. Nothing here is a deadline, and
          the wording has to keep saying so. #}
+      {% set every = {2: 'two', 3: 'three', 4: 'four', 5: 'five'} %}
       <p class="chart-caption">No call is open. If it runs again and keeps to
         its habits, expect the next one to close
         {% if season.settled %}in the same window{% else %}somewhere in that
-        range{% endif %} &mdash; but that is this page reading a pattern, not
-        an announcement.</p>
+        range{% endif %}
+        {%- if conference.next_edition_year %}, for an edition in
+        {{ conference.next_edition_year }}
+        {%- if conference.cadence > 1 %}, since it has met every
+        {{ every[conference.cadence] }} years{% endif %}{% endif %}.
+        But that is this page reading a pattern, not an announcement.</p>
       {% elif season and not season.settled %}
       <p class="chart-caption">{{ season.spread }} days between the earliest
         and the latest of the last {{ season.editions }}: this one moves.</p>
