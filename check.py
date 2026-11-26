@@ -151,6 +151,9 @@ EDITION_SPEC: dict = {
         "license": ("enum", "license"),
         "none": "bool",
         "doi": ["str", ("list", "str")],
+        # Where the volume sits, for proceedings that carry no DOI. A list for
+        # the same reason `doi` is one. § 4.7.
+        "url": ["str", ("list", "str")],
         # Named because the volume names them, in its own order. § 4.7.
         "editors": ("list", "str"),
     }),
@@ -694,6 +697,36 @@ def check_doi(edition: dict, where: str, report: Report) -> None:
         check_one_doi(doi, where, "doi", report)
 
 
+def check_proceedings_links(edition: dict, where: str, report: Report) -> None:
+    """`url` on the proceedings: a full URL, and not a DOI in disguise.
+
+    A doi.org link in `url` is the one mistake worth catching: it works, so
+    nothing looks wrong, but the identifier then lives in the field that does
+    not survive the publisher moving the page — which is the whole reason
+    `doi` is a field of its own.
+    """
+    proceedings = edition.get("proceedings")
+    if not isinstance(proceedings, dict):
+        return
+    value = proceedings.get("url")
+    urls = [value] if isinstance(value, str) else (value or [])
+    for url in urls:
+        if not isinstance(url, str):
+            continue
+        clean = url.strip()
+        if not clean:
+            report.error(where, "`proceedings.url` has an empty entry")
+        elif not clean.startswith(("http://", "https://")):
+            report.error(where, f"`proceedings.url` should be a full URL: {url!r}")
+        elif "doi.org/" in clean:
+            report.warn(where, "`proceedings.url` points at doi.org; record the "
+                               "bare identifier in `doi` instead, which outlives "
+                               "the publisher's own links")
+    if urls and proceedings.get("none"):
+        report.warn(where, "`proceedings.none` is set, but a `url` is recorded; "
+                           "a volume nobody published has no page")
+
+
 def check_proceedings_editors(edition: dict, where: str, report: Report) -> None:
     proceedings = edition.get("proceedings")
     if not isinstance(proceedings, dict):
@@ -950,6 +983,7 @@ class Checker:
         check_doi(edition, where, self.report)
         check_special_issues(edition, where, year, self.report)
         check_proceedings_editors(edition, where, self.report)
+        check_proceedings_links(edition, where, self.report)
         check_rebuttal(edition, where, self.report)
         check_event(edition, where, self.report, self.cities, self.seen_cities)
 

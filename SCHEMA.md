@@ -3,7 +3,7 @@
 Reference document for the site's data format. Any discrepancy between this file
 and the generator's behaviour is a bug — in one or the other.
 
-- **Schema version**: 1.7
+- **Schema version**: 1.8
 - **Format**: [TOML 1.0](https://toml.io/) (read with `tomllib`, standard library since Python 3.11)
 - **Encoding**: UTF-8, no BOM, LF line endings
 - **Indentation**: 2 spaces inside multi-line tables
@@ -583,7 +583,18 @@ use it today.
 | `none` | bool | `true` = no published proceedings. |
 | `post` | bool | `true` = the volume is assembled **after** the event, so notification and camera-ready legitimately fall after `event.start`. Without it, those dates are a validation error. |
 | `doi` | string or array(string) | DOI of the proceedings. An array when a single edition was published across several volumes. |
+| `url` | string or array(string) | Where the volume sits, for proceedings that carry no DOI. An array for the same reason as `doi`. Never a `doi.org` link — see below. |
 | `editors` | array(string) | The volume's editors, one name per entry, in the order the volume prints them. See below. |
+
+**`doi` first, `url` second, and never the same thing twice.** A DOI still
+resolves after a publisher has reorganised its site, which is the whole reason
+it is a field of its own; a `doi.org` address written into `url` works today
+and strands the identifier in the field that does not survive. So the bare
+identifier goes in `doi`, and `url` is for the many volumes that have no DOI at
+all — older proceedings, institutional series, anything a university hosts
+itself. Recording a `url` where a DOI exists is allowed and sometimes useful,
+since a publisher's landing page can carry the front matter, but it is never a
+substitute. The edition page lists the DOI above the URL for the same reason.
 
 **Editors are a bibliographic field, not a roster.** These names are printed
 on the cover of a published volume and are how it is cited, which is what sets
@@ -949,6 +960,7 @@ The build fails on any **error** and reports **warnings** without blocking.
 22. `special_issue` set to anything other than `false` or an array of tables.
 23. A `[[special_issue]]` with no `journal`, a `doi` written as a URL, a `url`
     that is not one, or `papers` below 1.
+24. `proceedings.url` that is not a full URL, or is empty.
 
 ### Warnings
 
@@ -968,6 +980,8 @@ The build fails on any **error** and reports **warnings** without blocking.
 - More than **365 days** between `notification` and `event.start`. Long gaps are
   normal in this field, so this threshold targets one specific mistake: a
   mistyped year.
+- `proceedings.url` pointing at doi.org, or recorded alongside
+  `proceedings.none` (§ 4.7).
 - An `editors` entry that looks like several names in one string, a repeated
   name, an empty array, or editors recorded against `proceedings.none`
   (§ 4.7).
@@ -1028,6 +1042,7 @@ part of this schema.
 
 | Version | Change |
 |---|---|
+| 1.8 | `url` on `[proceedings]`, for volumes with no DOI (§ 4.7). |
 | 1.7 | `editors` on `[proceedings]` and `[[special_issue]]` (§ 4.7). `event.hybrid` documented and made exclusive with `event.online` (§ 4.3). |
 | 1.6 | `extensions` accepts an array naming which deadlines moved from an unknown date (§ 4.4.1). |
 | 1.5 | `[[special_issue]]`: special issues actually published, as against the announcement in `extra.journal` (§ 4.11). `[extra]` and `[legacy]` renumbered to § 4.12 and § 4.13. |

@@ -231,12 +231,21 @@
           <br><small>Recorded for information; it does not enter the count above.</small>
         </dd>
         {% endif %}
-        {% if edition.dois %}
-        <dt>Proceedings DOI</dt><dd>
+        {% if edition.dois or edition.proceedings_urls %}
+        {# The DOI first where there is one: it is the reference that still
+           resolves after the publisher has rearranged its site. A plain URL is
+           what the many volumes with no DOI at all have instead, and a working
+           link beats a field left blank for tidiness. #}
+        <dt>Find it</dt><dd>
           {% for doi in edition.dois %}
-          <a href="https://doi.org/{{ doi }}" class="doi">{{ doi }}</a>{% if not loop.last %}<br>{% endif %}
+          <a href="https://doi.org/{{ doi }}" class="doi">{{ doi }}</a><br>
           {% endfor %}
-          {% if edition.dois | length > 1 %}<br><small>Published in {{ edition.dois | length }} volumes.</small>{% endif %}
+          {% for url in edition.proceedings_urls %}
+          <a href="{{ url }}">{{ url | replace('https://', '') | replace('http://', '') }}
+            &#8599;</a>{% if not loop.last %}<br>{% endif %}
+          {% endfor %}
+          {% set volumes = edition.dois | length or edition.proceedings_urls | length %}
+          {% if volumes > 1 %}<br><small>Published in {{ volumes }} volumes.</small>{% endif %}
         </dd>
         {% endif %}
         {% set issues = edition.special_issues %}

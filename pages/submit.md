@@ -128,6 +128,18 @@ notification = [2026-08-15]
 If you are unsure, name the publisher and leave the licence out: most
 publishers have a usual one, and a guess here is worse than a blank.
 
+**Where to find it.** A `doi` is the best reference, because it keeps working
+after a publisher reorganises its site. Plenty of proceedings have none, so a
+plain link is fine instead — but put the bare identifier in `doi` when there is
+one, not a `doi.org` address in `url`:
+
+```toml
+[proceedings]
+publisher = "Springer LNCS"
+doi = "10.1007/978-3-031-27481-7"
+url = "https://link.springer.com/book/10.1007/978-3-031-27481-7"
+```
+
 **Editors.** `editors` takes one name per entry, written as the volume prints
 them and in the same order — not alphabetised. A whole line pasted into one
 string (`"Liu, J., Marchetti, S."`) comes out as one person, so please split

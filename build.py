@@ -553,6 +553,21 @@ class Edition:
         return [d for d in (value or []) if isinstance(d, str)]
 
     @property
+    def proceedings_urls(self) -> list[str]:
+        """Where the volume sits, for the many editions that have no DOI.
+
+        A list for the same reason `doi` is one: a volume split in two has two
+        landing pages. The DOI is still the better reference where there is
+        one, because it survives a publisher reorganising its site — but
+        plenty of proceedings have no DOI at all, and a working link is worth
+        more than a field left blank out of tidiness.
+        """
+        value = self.proceedings.get("url")
+        if isinstance(value, str):
+            return [value] if value.strip() else []
+        return [u for u in (value or []) if isinstance(u, str) and u.strip()]
+
+    @property
     def post_proceedings(self) -> bool:
         return bool(self.proceedings.get("post"))
 
@@ -2523,8 +2538,10 @@ def coverage_report(site: Site) -> dict:
                                 or e.proceedings.get("none"))},
         {"key": "licence", "label": "Proceedings licence", "test": has_licence,
          "note": "The one field that lets the open-access lines be drawn."},
-        {"key": "doi", "label": "Proceedings DOI",
-         "test": lambda e: bool(e.proceedings.get("doi"))},
+        {"key": "doi", "label": "A way to reach the proceedings",
+         "test": lambda e: bool(e.dois or e.proceedings_urls),
+         "note": "A DOI, which outlives the publisher's own links, or failing "
+                 "that a URL."},
         {"key": "gender", "label": "Gender of chairs or speakers",
          "test": has_gender,
          "note": "Counts only; no names are recorded, by design."},
