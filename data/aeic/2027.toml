@@ -1,0 +1,31 @@
+
+edition = 31
+title = "31st Ada-Europe International Conference on Reliable Software Technologies"
+url = "https://www.ada-europe.org/conference2027/"
+
+[event]
+start = 2027-06-08
+end = 2027-06-11
+city = "Berlin, Germany"
+
+[submission]
+
+[[submission.round]]
+name = "Journal track"
+paper = [2027-01-25]
+notification = [2027-03-15]
+
+[[submission.round]]
+name = "Regular and industrial tracks"
+paper = [2027-02-08]
+notification = [2027-03-15]
+
+[[submission.round]]
+name = "Tutorial and workshop proposals"
+paper = [2027-02-08]
+notification = [2027-03-15]
+
+[[submission.round]]
+name = "Work-in-progress"
+paper = [2027-03-22]
+notification = [2027-04-05]
