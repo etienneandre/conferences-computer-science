@@ -9,19 +9,51 @@ end   = 2025-12-05
 city = "Macao, China"
 
 [submission]
-tz = "AoE"
-format = "12 pages IEEE (including references)"
-abstract = [2025-07-06]
-paper = [2025-07-13]
+tz           = "AoE"
+format       = "12 pages IEEE (including references)"
+abstract     = [2025-07-06]
+paper        = [2025-07-13]
 notification = [2025-09-13]
 
 [proceedings]
 publisher = "IEEE CS"
 license = "pay"
+doi = "10.1109/APSEC66846.2025"
 
 [review]
 blind = "double"
-gender_balance = "mixed"
+
+[review.gender.chairs]
+men   = 1
+women = 1
+
+[review.gender.speakers]
+men   = 3
+women = 0
+
+[stats]
+[[stats.track]]
+name      = "Research track"
+submitted = 241
+accepted  = 68
+
+[[stats.track]]
+name      = "Software Engineering in Practice (SEIP)"
+submitted = 12
+accepted  = 6
+
+[[stats.track]]
+name      = "Early Research Achievements (ERA)"
+submitted = 39
+accepted  = 28
+
+[[stats.track]]
+name      = "Tool Demonstration track"
+submitted = 12
+accepted  = 10
+
+# NOTE: Among all rejected papers, there are 18 technical track papers with good scores were recommended to be included in the ERA track. Moreover, there are 5 papers that were the winners of the student research competition
+
 
 [[cfp]]
 file = "cfp/APSEC-2025.txt"

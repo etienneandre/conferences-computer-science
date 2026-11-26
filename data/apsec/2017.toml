@@ -12,10 +12,11 @@ format = "10 pages IEEE (research) / 6 pages (short) / posters (2 pages)"
 abstract = [2017-06-30]
 paper = [2017-07-07]
 notification = [2017-09-04]
+extensions = false
 
 [proceedings]
 publisher = "IEEE CPS"
 license = "pay"
 
 [extra]
-notes = "Deadline AoE. A selective set of accepted papers will be invited by the Program Committee to submit an extended version for publication in the special issue of Elsevier’s Journal of Systems and Software (10 in 2014, 6 in 2016)."
+journal = "A selective set of accepted papers will be invited by the Program Committee to submit an extended version for publication in the special issue of Elsevier’s Journal of Systems and Software (10 in 2014, 6 in 2016)."

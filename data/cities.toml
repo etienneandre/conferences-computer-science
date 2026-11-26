@@ -1292,6 +1292,16 @@ lat = 3.139
 lon = 101.6869
 continent = "AS"
 
+["Kuta, Indonesia"]
+country = "ID"
+display = "Kuta, Bali"
+native = "ᬓᬸᬢ"
+native_lang = "bal"
+lat = -8.733333
+lon = 115.166667
+continent = "AS"
+
+
 ["Kyōto, Japan"]
 country = "JP"
 display = "Kyōto"

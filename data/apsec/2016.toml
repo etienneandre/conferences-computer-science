@@ -19,4 +19,4 @@ publisher = "IEEE CPS"
 license = "pay"
 
 [extra]
-notes = "Deadline AoE. Best papers will be submitted to a special issue of Elsevier International Journal of Information and Software Technology (IST)."
+journal = "Best papers will be submitted to a special issue of Elsevier International Journal of Information and Software Technology (IST)."

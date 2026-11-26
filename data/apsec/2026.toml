@@ -1,0 +1,31 @@
+edition = 32
+title = "33rd Asia-Pacific Software Engineering Conference"
+url = "https://conf.researchr.org/home/apsec-2026"
+
+[event]
+start = 2026-12-07
+end   = 2026-12-10
+city = "Kuta, Indonesia"
+venue = "Sheraton Bali Kuta Resort"
+
+[submission]
+tz           = "AoE"
+format       = "12 pages IEEE (including references)"
+abstract     = [2026-07-13]
+paper        = [2026-07-20]
+notification = [2026-09-14]
+
+[proceedings]
+publisher = "IEEE CS"
+license   = "pay"
+
+[review]
+blind = "double"
+
+[review.gender.chairs]
+men   = 2
+women = 0
+
+[review.gender.speakers]
+men   = 3
+women = 0

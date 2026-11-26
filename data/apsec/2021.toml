@@ -19,9 +19,6 @@ notification = [2021-09-02, 2021-09-09]
 publisher = "IEEE CPS"
 license = "pay"
 
-[extra]
-notes = "Deadline AoE."
-
 [[cfp]]
 file = "cfp/APSEC-2021.txt"
 stage = "initial"
