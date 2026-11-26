@@ -157,3 +157,8 @@
 
 </article>
 {% endblock %}
+
+{% block scripts %}
+{# The tables carry `sortable`, which does nothing without this. #}
+<script src="/assets/places.js?v={{ asset_version }}" defer></script>
+{% endblock %}

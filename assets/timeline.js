@@ -50,6 +50,45 @@
     return node;
   }
 
+  /* The month axis, shared by both strips. The step comes from the width the
+     strip actually has: eight month labels fit a desk and collide into one
+     grey smear on a phone, and a label nobody can read is worse than a gap.
+     Every marker carries its own date in a title, so thinning loses nothing.
+  */
+  function monthAxis(holder, from, to, pct, nowTs) {
+    var axis = el('div', 'timeline-axis');
+    var months = [];
+    var cursor = new Date(from);
+    cursor.setUTCDate(1);
+    cursor.setUTCMonth(cursor.getUTCMonth() + 1);
+    while (cursor.getTime() <= to) {
+      months.push(cursor.getTime());
+      cursor.setUTCMonth(cursor.getUTCMonth() + 1);
+    }
+    var room = Math.max((holder.clientWidth || 700) - 210, 140);
+    var step = Math.max(1, Math.ceil(months.length / Math.max(1, Math.floor(room / 46))));
+    months.forEach(function (ts, i) {
+      if (i % step) return;
+      var at = pct(ts);
+      if (at < 0 || at > 100) return;
+      var tick = el('span', 'timeline-tick', MONTHS[new Date(ts).getUTCMonth()]);
+      tick.style.left = at + '%';
+      axis.appendChild(tick);
+    });
+    if (nowTs != null) {
+      /* A month tick under the "today" label is unreadable, and today is the
+         more useful of the two. */
+      var here = pct(nowTs);
+      axis.querySelectorAll('.timeline-tick').forEach(function (t) {
+        if (Math.abs(parseFloat(t.style.left) - here) < 5) t.remove();
+      });
+      var now = el('span', 'timeline-now', 'today');
+      now.style.left = here + '%';
+      axis.appendChild(now);
+    }
+    return axis;
+  }
+
   function build(holder, data) {
     var today = new Date();
     var origin = Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate());
@@ -91,20 +130,7 @@
 
     var table = el('div', 'timeline');
 
-    var axis = el('div', 'timeline-axis');
-    var cursor = new Date(origin);
-    cursor.setUTCDate(1);
-    cursor.setUTCMonth(cursor.getUTCMonth() + 1);
-    while (cursor.getTime() <= last) {
-      var at = pct(cursor.getTime());
-      if (at >= 0 && at <= 100) {
-        var tick = el('span', 'timeline-tick', MONTHS[cursor.getUTCMonth()]);
-        tick.style.left = at + '%';
-        axis.appendChild(tick);
-      }
-      cursor.setUTCMonth(cursor.getUTCMonth() + 1);
-    }
-    table.appendChild(axis);
+    table.appendChild(monthAxis(holder, origin, last, pct, null));
 
     rows.forEach(function (r) {
       var row = el('div', 'timeline-row' + (r.kind === 'guess' ? ' is-guess' : ''));
@@ -219,6 +245,99 @@
     holder.appendChild(note);
   }
 
+  /* The same projection the front page draws, read backwards: windows that
+   * have gone by with nothing recorded against them, plus the couple of
+   * months ahead so a call due any week is in view before it is late. The
+   * axis is fixed to the range rather than fitted to the data, because the
+   * whole point is reading each band against today.
+   */
+  function buildOverdue(holder, data) {
+    var today = new Date();
+    var origin = Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate());
+    var from = origin - data.back * DAY;
+    var to = origin + data.ahead * DAY;
+    var span = to - from;
+    var pct = function (ts) { return ((ts - from) / span) * 100; };
+
+    var rows = (data.rows || []).filter(function (r) {
+      var closes = parse(r.to);
+      return closes >= from && closes <= to;
+    }).sort(function (a, b) { return parse(a.to) - parse(b.to); });
+
+    holder.textContent = '';
+    if (!rows.length) {
+      holder.appendChild(el('p', 'timeline-empty',
+        'Nothing is overdue: every series whose habits can be read has either '
+        + 'announced its next call or is not due one yet.'));
+      return;
+    }
+
+    var table = el('div', 'timeline is-overdue');
+
+    table.appendChild(monthAxis(holder, from, to, pct, origin));
+
+    rows.forEach(function (r) {
+      var opens = Math.max(parse(r.from), from);
+      var closes = parse(r.to);
+      var late = closes < origin;
+      var row = el('div', 'timeline-row' + (late ? ' is-late' : ' is-guess'));
+
+      var name = el('div', 'timeline-name');
+      var link = el('a', null, r.label);
+      link.href = r.url;
+      name.appendChild(link);
+      row.appendChild(name);
+
+      var track = el('div', 'timeline-track');
+      var rule = el('i', 'timeline-nowline');
+      rule.style.left = pct(origin) + '%';
+      track.appendChild(rule);
+      var band = el('i', late ? 'timeline-lateband' : 'timeline-band');
+      band.style.left = pct(opens) + '%';
+      band.style.width = Math.max(pct(closes) - pct(opens), 0.8) + '%';
+      track.appendChild(band);
+      var mark = el('i', late ? 'timeline-latemark' : 'timeline-guessmark');
+      mark.style.left = pct((opens + closes) / 2) + '%';
+      track.appendChild(mark);
+      row.appendChild(track);
+
+      var days = Math.round((closes - origin) / DAY);
+      var when = el('div', 'timeline-when');
+      when.textContent = late ? away(-days) + ' ago' : 'in ' + away(days);
+      row.appendChild(when);
+
+      var every = r.cadence === 1 ? 'yearly'
+        : r.cadence === 2 ? 'every two years'
+        : 'every ' + r.cadence + ' years';
+      row.title = r.label + ' — ' + r.name + '. It has met ' + every
+        + ', last in ' + r.last_held + ', so an edition was due in ' + r.year
+        + ' and its call would have closed between ' + fmt(parse(r.from))
+        + ' and ' + fmt(parse(r.to)) + '. Nothing is recorded for it'
+        + (r.skipped > 1 ? ', nor for the ' + (r.skipped - 1) + ' expected before it'
+           : '')
+        + '. Either the call went out and was never entered here, or the series '
+        + 'has stopped — this cannot tell which.';
+      table.appendChild(row);
+    });
+
+    holder.appendChild(table);
+
+    var legend = el('p', 'timeline-legend');
+    legend.innerHTML =
+      '<span><i class="timeline-latemark"></i><span>its window has passed and '
+      + 'nothing is recorded</span></span>' +
+      '<span><i class="timeline-guessmark"></i><span>due within the next couple '
+      + 'of months</span></span>';
+    holder.appendChild(legend);
+
+    var over = rows.filter(function (r) { return parse(r.to) < origin; }).length;
+    holder.appendChild(el('p', 'timeline-note',
+      over + ' series ' + (over === 1 ? 'has' : 'have')
+      + ' passed an expected deadline with nothing on record, and '
+      + (rows.length - over) + ' more fall due shortly. Hover a row for what it '
+      + 'rests on.'));
+  }
+
   function start(holder) {
     if (holder.dataset.drawn) return;
     holder.dataset.drawn = '1';
@@ -229,25 +348,26 @@
       holder.textContent = '';
       return;                  // the list below says everything this would
     }
-    build(holder, data);
-    /* Redraw on a resize only to recompute nothing — positions are
-       percentages — but the month ticks can collide, so the axis is rebuilt
-       at a new width. Debounced, because resize fires continuously. */
+    var draw = holder.dataset.mode === 'overdue' ? buildOverdue : build;
+    draw(holder, data);
+    /* Redrawing recomputes no position — they are percentages — but the month
+       ticks can collide at a new width, so the axis is rebuilt. Debounced,
+       because resize fires continuously. */
     var pending;
     window.addEventListener('resize', function () {
       clearTimeout(pending);
-      pending = setTimeout(function () { build(holder, data); }, 200);
+      pending = setTimeout(function () { draw(holder, data); }, 200);
     });
   }
 
   function init() {
-    var holder = document.querySelector('[data-timeline]');
-    if (!holder) return;
-    var drop = holder.closest('details');
-    if (!drop) { start(holder); return; }
-    if (drop.open) start(holder);
-    drop.addEventListener('toggle', function () {
+    document.querySelectorAll('[data-timeline]').forEach(function (holder) {
+      var drop = holder.closest('details');
+      if (!drop) { start(holder); return; }
       if (drop.open) start(holder);
+      drop.addEventListener('toggle', function () {
+        if (drop.open) start(holder);
+      });
     });
   }
 

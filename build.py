@@ -2652,12 +2652,51 @@ def coverage_report(site: Site) -> dict:
             nearly.append({"label": field, "rows": rows[:COVERAGE_NEARLY_CAP],
                            "more": max(0, len(rows) - COVERAGE_NEARLY_CAP)})
 
+    # The same projection the front page uses, read backwards: a window that
+    # has gone by with nothing recorded against it. Either the call went out
+    # and nobody entered it — the case worth an evening — or the series has
+    # stopped, which is worth knowing too and is not something this can tell
+    # apart. A couple of months ahead as well, so a call due any week now is
+    # in view before it is late.
+    today = site.now.date()
+    back = today - timedelta(days=OVERDUE_BACK_DAYS)
+    ahead = today + timedelta(days=OVERDUE_AHEAD_DAYS)
+    overdue = []
+    for conference in site.conferences.values():
+        windows = expected_windows(conference, ahead)
+        if not windows:
+            continue
+        inside = [w for w in windows if back <= w["closes"] <= ahead]
+        if not inside:
+            continue
+        window = inside[-1]
+        last_held = max((e.year for e in conference.editions if e.year
+                         and e.status not in ("no-edition", "cancelled")), default=None)
+        overdue.append({
+            "label": conference.acronym,
+            "name": conference.name,
+            "url": conference.url,
+            "from": window["opens"].isoformat(),
+            "to": window["closes"].isoformat(),
+            "year": window["year"],
+            # How many expected editions have gone by with no file at all:
+            # one is a call that may just not have been entered yet, four is
+            # a series that has probably ended.
+            "skipped": len([w for w in windows if w["closes"] < today]),
+            "last_held": last_held,
+            "cadence": conference.cadence,
+            "editions": season["editions"] if (season := conference.deadline_season) else 0,
+        })
+    overdue.sort(key=lambda o: o["to"])
+
     return {
         "total": total, "recent": len(recent), "recent_from": COVERAGE_RECENT_FROM,
         "fields": fields,
         "gaps": gaps, "missing_total": missing_total,
         "claimed": claimed, "nearly": nearly,
         "conferences": len(site.conferences),
+        "overdue": {"rows": overdue, "back": OVERDUE_BACK_DAYS,
+                    "ahead": OVERDUE_AHEAD_DAYS},
     }
 
 
@@ -2949,6 +2988,53 @@ def search_text(site: "Site", edition: Edition) -> str:
 
 TIMELINE_HORIZON_DAYS = 182       # six months, the reader-facing promise
 TIMELINE_EMIT_DAYS = 300          # what is embedded, so the set self-corrects
+OVERDUE_BACK_DAYS = 182           # how far behind the overdue view looks
+OVERDUE_AHEAD_DAYS = 62           # and how far ahead, for calls due any week
+
+
+def expected_windows(conference: Conference, through: date) -> list[dict]:
+    """Where this series' next deadlines fall, if its habits hold.
+
+    One projection, used by both timelines, so the front page and the missing
+    page cannot come to disagree about when a call is due. Each entry is the
+    window for one expected edition: a band rather than a date, because a band
+    is what a handful of past editions supports.
+
+    Nothing is projected without a cadence (§ `Conference.cadence`) and a
+    settled window. A series that has already announced something is left
+    alone — its real dates are better than any guess about them.
+    """
+    season = conference.deadline_season
+    cadence = conference.cadence
+    first = conference.next_edition_year
+    if not season or not cadence or not first or not season["settled"] \
+            or not season["nothing_announced"]:
+        return []
+    if conference.defunct or conference.one_off:
+        return []               # no edition is coming, so none is expected
+
+    # The deadline's year is offset from its edition's: a call closing in
+    # January of the conference year and one closing the previous autumn are
+    # both ordinary, and the difference is read off the most recent edition
+    # that records both.
+    anchor = max((e for e in conference.editions if e.year and e.deadline("paper")),
+                 key=lambda e: e.year, default=None)
+    if anchor is None:
+        return []
+    offset = anchor.deadline("paper").effective.year - anchor.year
+
+    windows = []
+    year = first
+    while len(windows) < 12:
+        # `high` can exceed 365 where the window wraps New Year; adding it as
+        # a day offset rolls into the following year without a special case.
+        opens = date(year + offset, 1, 1) + timedelta(days=season["low"] - 1)
+        closes = date(year + offset, 1, 1) + timedelta(days=season["high"] - 1)
+        if opens > through:
+            break
+        windows.append({"year": year, "opens": opens, "closes": closes})
+        year += cadence
+    return windows
 
 
 def front_timeline(site: "Site") -> dict:
@@ -3003,33 +3089,17 @@ def front_timeline(site: "Site") -> dict:
 
     predicted = []
     for conference in site.conferences.values():
-        if conference.defunct or conference.one_off:
-            continue            # no call is coming, so none is predicted
         season = conference.deadline_season
-        target = conference.next_edition_year
-        if not season or not target or not season["settled"] \
-                or not season["nothing_announced"]:
+        # The first window still ahead of us. One that has already gone by
+        # unrecorded is not this page's business; it belongs on the missing
+        # page, which reads the same projection backwards.
+        upcoming = [w for w in expected_windows(conference, horizon)
+                    if w["closes"] >= today]
+        if not season or not upcoming:
             continue
-        # Which year the window belongs in is the cadence's answer, not
-        # "whichever one is still ahead of us": a biennial series whose last
-        # edition was in 2026 closes again in 2028, and projecting it onto
-        # 2027 was wrong in exactly the way that costs trust.
-        #
-        # The deadline's own year is offset from its edition's — a call that
-        # closes in January of the conference year and one that closes the
-        # previous autumn are both ordinary, and the difference is read off
-        # the most recent edition that has both.
-        anchor = max((e for e in conference.editions
-                      if e.year and e.deadline("paper")),
-                     key=lambda e: e.year, default=None)
-        if anchor is None:
-            continue
-        year = target + anchor.deadline("paper").effective.year - anchor.year
-        # `high` can exceed 365 where the window wraps New Year; adding it as
-        # a day offset rolls into the following year without a special case.
-        opens = date(year, 1, 1) + timedelta(days=season["low"] - 1)
-        closes = date(year, 1, 1) + timedelta(days=season["high"] - 1)
-        if closes < today or opens > horizon:
+        window = upcoming[0]
+        opens, closes, target = window["opens"], window["closes"], window["year"]
+        if opens > horizon:
             continue
         predicted.append({
             # The acronym alone, with no year: which edition this will be is

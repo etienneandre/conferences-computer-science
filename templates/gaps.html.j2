@@ -42,6 +42,27 @@
   </div>
 </section>
 
+{% if coverage.overdue.rows %}
+<section class="panel">
+  <h2 class="panel-title">Calls that should have gone out</h2>
+  <p class="chart-caption">The same reading of a series' habits the front page
+    uses, turned around: an edition that was due, whose call would have closed
+    in the last {{ (coverage.overdue.back / 30.4) | round | int }} months or
+    falls due in the next {{ (coverage.overdue.ahead / 30.4) | round | int }},
+    with nothing recorded against it. A band that has crossed today is the
+    useful kind of suspicious &mdash; either the call went out and nobody
+    entered it, or the series has stopped, and nothing here can tell those
+    apart. Hover a row for what it rests on.</p>
+  {# Drawn in the browser: every band is read against today, and a static
+     picture would be wrong by however long since the last deploy. #}
+  <div class="timeline-holder" data-mode="overdue"
+       data-timeline='{{ coverage.overdue | tojson }}'>
+    <p class="timeline-empty">Drawing this needs JavaScript. The lists below
+      do not, and cover the rest of what is missing.</p>
+  </div>
+</section>
+{% endif %}
+
 {% if coverage.gaps %}
 <section class="panel">
   <h2 class="panel-title">Editions known to be missing</h2>
@@ -154,4 +175,12 @@
 </section>
 
 </article>
+{% endblock %}
+
+{% block scripts %}
+{# places.js for the sortable tables; timeline.js for the overdue strip. #}
+<script src="/assets/places.js?v={{ asset_version }}" defer></script>
+{% if coverage.overdue.rows %}
+<script src="/assets/timeline.js?v={{ asset_version }}" defer></script>
+{% endif %}
 {% endblock %}
