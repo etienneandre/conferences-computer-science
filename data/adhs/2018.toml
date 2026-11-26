@@ -24,9 +24,6 @@ accepted = 50
 submitted = 72
 # TODO: verify — extracted from the cross-year acceptance string.
 
-[extra]
-notes = "Every 3 years."
-
 [[cfp]]
 file = "cfp/ADHS-2018.txt"
 stage = "initial"

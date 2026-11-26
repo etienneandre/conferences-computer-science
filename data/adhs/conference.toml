@@ -5,12 +5,7 @@ name = "IFAC Conference on Analysis and Design of Hybrid Systems"
 frequency = "Every 3 years."
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [links]
 dblp = "adhs"
-
-[legacy]
-# TODO: extract — cross-year prose kept once, verbatim.
-acceptance = "69% (50/72) in 2018"  # from ADHS 2024
-extensions = "14 days (2018), 16 days (2021)"  # from ADHS 2024

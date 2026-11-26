@@ -16,9 +16,10 @@ notification = [2021-02-15]
 [proceedings]
 publisher = "Science Direct"
 license = "free-copy"
+url = "https://www.sciencedirect.com/journal/ifac-papersonline/vol/54/issue/5"
 
-[extra]
-notes = "Every 3 years. A Best Paper Award and a Best Repeatability Award (new!) will also be awarded during the conference"
+[review]
+award = "A Best Paper Award and a Best Repeatability Award (new!) will also be awarded during the conference"
 
 [[cfp]]
 file = "cfp/ADHS-2021.pdf"

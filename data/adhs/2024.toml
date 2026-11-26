@@ -7,18 +7,32 @@ url = "https://www.colorado.edu/conference/adhs2024"
 start = 2024-07-01
 end = 2024-07-03
 city = "Boulder, Colorado, USA"
+venue = "University of Colorado Boulder"
 
 [submission]
 format = "6 pages IFAC (8 pages for submission)"
 paper = [2023-12-22]
 notification = [2024-02-28]
 
+
 [proceedings]
 publisher = "Science Direct"
 license = "cc-by"
+url = "https://www.sciencedirect.com/journal/ifac-papersonline/vol/58/issue/11"
 
 [review]
 award = "A Best Paper Award and a Best Repeatability Award (new!) will also be awarded during the conference"
+
+[review.gender.chairs]
+men = 1
+women = 1
+
+[review.gender.speakers]
+men = 2
+women = 1
+
+[extra]
+journal = "Special issue of extended ADHS conference papers in NAHS"
 
 [[cfp]]
 file = "cfp/ADHS-2024.txt"
