@@ -10,7 +10,7 @@ city = "Uppsala, Sweden"
 
 [review]
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 0
 
 [review.gender.speakers]

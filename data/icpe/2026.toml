@@ -25,7 +25,7 @@ artifact = "Artifact Track."
 award = "The conference Award Committee will recognize the best submissions, judged by multiple relevant factors, with an ACM/SPEC Best Paper Award award."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

@@ -25,7 +25,7 @@ artifact = false
 blind = "single"
 
 [review.gender.chairs]
-men = 3
+men   = 3
 women = 0
 
 [review.gender.speakers]

@@ -36,7 +36,7 @@ best student papers for Track A and Track B."""
 
 [review.gender.chairs]
 women = 0
-men = 2
+men   = 2
 
 [extra]
 # colocated = "Co-located with PODC and SPAA"

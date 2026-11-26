@@ -25,7 +25,7 @@ doi = "10.4230/LIPIcs.FSCD.2025"
 [review]
 award = "Best paper award by junior researchers."
 [review.gender.chairs]
-men = 0
+men   = 0
 women = 1
 
 [review.gender.speakers]

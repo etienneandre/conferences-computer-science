@@ -29,7 +29,7 @@ blind = "double"
 artifact = "Artifact evaluation"
 
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 0
 
 [stats]

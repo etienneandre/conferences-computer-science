@@ -27,7 +27,7 @@ blind = "double"
 artifact = "Mandatory Artifact Submission"
 
 [review.gender.chairs]
-men = 5
+men   = 5
 women = 2
 # NOTE: includes 3+2 area chairs
 

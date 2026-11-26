@@ -22,7 +22,7 @@ license = "pay"
 blind = "single"
 [review.gender.chairs]
 women = 1
-men = 1
+men   = 1
 
 [review.gender.speakers]
 women = 0

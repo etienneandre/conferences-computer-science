@@ -16,7 +16,7 @@ notification = [2022-03-14]
 
 [review]
 [review.gender.chairs]
-men = 3
+men   = 3
 women = 0
 
 [review.gender.speakers]

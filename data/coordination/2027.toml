@@ -27,7 +27,7 @@ artifact = "Other submission category are proposed, and an Artefact Evaluation C
 award = "Best paper award"
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

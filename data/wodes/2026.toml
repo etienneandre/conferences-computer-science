@@ -24,7 +24,7 @@ doi = "10.1109/WODES69290.2026"
 award = "Best Student Paper Award (sponsored by the IEEE CSS Technical Committee on Discrete Event Systems). Papers whose primary author is a student at submission time are automatically nominated; the student must present the paper."
 
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 1
 
 [review.gender.speakers]

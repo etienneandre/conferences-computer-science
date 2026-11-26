@@ -25,7 +25,7 @@ award = "A Best Paper Award and a Best Repeatability Award (new!) will also be a
 artifact = "Submission of an RE package is optional, i.e., availability of a RE package will not affect the final publication of the corresponding paper. Papers whose RE packages pass the repeatability evaluation will be listed online and in the final proceedings with an RE stamp."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

@@ -21,5 +21,5 @@ license = "pay"
 blind = "double"
 
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 1

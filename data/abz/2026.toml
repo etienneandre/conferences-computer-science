@@ -23,7 +23,7 @@ doi = "10.1007/978-3-032-26752-8"
 
 [review]
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 0
 
 [review.gender.speakers]

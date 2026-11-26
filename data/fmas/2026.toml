@@ -27,7 +27,7 @@ environment = "Remote presentation allowed. Free online participation."
 award = "FMAS 2026 will honor the best paper selected with respect to reviews, program committee discussions, and conference presentations with an award."
 
 [review.gender.chairs]
-men = 0
+men   = 0
 women = 2
 
 [review.gender.speakers]

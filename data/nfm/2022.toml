@@ -24,7 +24,7 @@ doi = "10.1007/978-3-031-06773-0"
 artifact = "Authors are encouraged, but not strictly required, to submit artifacts that support the conclusions of their work"
 
 [review.gender.chairs]
-men = 3
+men   = 3
 women = 0
 
 # NOTE: extracted from legacy "35% in 2022 for long papers (33/93) and 25% for short papers"

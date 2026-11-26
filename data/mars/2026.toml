@@ -20,7 +20,7 @@ license = "cc-by-sa"
 
 [review]
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 0
 
 [review.gender.speakers]

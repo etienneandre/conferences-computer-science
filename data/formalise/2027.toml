@@ -23,7 +23,7 @@ blind = "lightweight-double"
 artifact = "Submission of an artifact is optional but encouraged for all papers where it can support the results presented in the paper."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [[cfp]]

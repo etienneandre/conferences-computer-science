@@ -24,7 +24,7 @@ artifact = "Optional artifact evaluation (artifact submission deadline: 4 Februa
 award = "A Best Paper award will be announced and handed out at the conference."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

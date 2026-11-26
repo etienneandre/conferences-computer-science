@@ -23,7 +23,7 @@ license = "pay-profit"
 blind = "single"
 
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 0
 
 [extra]

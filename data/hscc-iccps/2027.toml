@@ -27,7 +27,7 @@ artifact = "Authors of accepted Regular and Short papers are encouraged to submi
 award = "The merged 2027 conference will announce its exact award categories before the program is finalized."
 
 [review.gender.chairs]
-men = 3
+men   = 3
 women = 0
 
 # TODO

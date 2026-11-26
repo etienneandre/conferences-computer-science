@@ -26,7 +26,7 @@ artifact = "Submissions must supply all information needed to replicate the resu
 competition = "Tool competition"
 
 [review.gender.chairs]
-men = 0
+men   = 0
 women = 2
 
 # TODO

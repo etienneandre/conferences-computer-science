@@ -25,7 +25,7 @@ blind = "double"
 artifact = "Optional Artifact Evaluation process for accepted papers that assesses the reproducibility of the work."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [stats]

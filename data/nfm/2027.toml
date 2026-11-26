@@ -23,7 +23,7 @@ blind = "single"
 artifact = "For all papers with experimental results, we strongly recommend providing reviewers with an artifact that they can use to reproduce results."
 
 [review.gender.chairs]
-men = 3
+men   = 3
 women = 0
 
 [review.gender.speakers]

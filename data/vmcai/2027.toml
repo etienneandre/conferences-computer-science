@@ -23,7 +23,7 @@ blind = "double"
 artifact = "VMCAI 2027 offers authors the option to submit an artifact alongside their paper"
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

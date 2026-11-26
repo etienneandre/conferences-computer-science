@@ -25,7 +25,7 @@ artifact = "Optional EAPLS Artefact Badging."
 award = "Best paper award."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 

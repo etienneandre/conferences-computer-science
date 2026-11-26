@@ -24,7 +24,7 @@ award = "Best paper award"
 competition = "Hosts the model checking contest"
 
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 0
 
 [[cfp]]

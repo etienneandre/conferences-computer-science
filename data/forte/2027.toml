@@ -25,7 +25,7 @@ blind = "single"
 artifact = "Artifact evaluation mandatory for tool papers, optional for regular papers"
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 # [review.gender.speakers]

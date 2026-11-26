@@ -32,7 +32,7 @@ accepted = 79 # NOTE We accepted a total of 81 papers, consisting of 54 regular 
 
 [review.gender.chairs]
 women = 1
-men = 2
+men   = 2
 
 [review.gender.speakers]
 women = 1

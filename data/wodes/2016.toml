@@ -11,7 +11,7 @@ paper = [2016-01-08]
 notification = [2016-03-15]
 
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 0
 
 [stats]

@@ -22,7 +22,7 @@ notification = [2027-06-28]
 award = "The programme committee will select a paper in which at least one author is a junior researcher"
 
 [review.gender.chairs]
-men = 0
+men   = 0
 women = 2
 
 # TODO

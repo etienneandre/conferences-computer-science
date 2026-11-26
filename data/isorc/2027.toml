@@ -20,7 +20,7 @@ publisher = "IEEE"
 license = "pay"
 
 [review.gender.chairs]
-men = 6
+men   = 6
 women = 0
 
 [extra]

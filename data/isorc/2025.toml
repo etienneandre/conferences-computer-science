@@ -23,7 +23,7 @@ doi = "10.1109/ISORC65339.2025"
 award = "Best Paper and Student Paper Awards will be delivered during the conference"
 
 [review.gender.chairs]
-men = 3
+men   = 3
 women = 0
 
 [review.gender.speakers]

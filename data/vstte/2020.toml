@@ -22,7 +22,7 @@ doi = "10.1007/978-3-030-63618-0"
 
 [review]
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 2
 
 [stats]

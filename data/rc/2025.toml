@@ -23,7 +23,7 @@ doi = "10.1007/978-3-031-97063-4"
 blind = "single"
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 0
 
 [review.gender.speakers]

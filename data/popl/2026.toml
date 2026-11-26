@@ -28,7 +28,7 @@ award = "At most 10% of the accepted papers of POPL 2026 will be designated as D
 
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1 # NOTE: general chair
 
 [review.gender.speakers]

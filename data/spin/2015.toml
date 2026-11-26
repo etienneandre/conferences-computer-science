@@ -16,7 +16,7 @@ paper = [2015-04-23,2015-05-04]
 notification = [2015-06-15]
 
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 0
 
 [review.gender.speakers]

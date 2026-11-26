@@ -20,7 +20,7 @@ license = "pay-profit"
 [review]
 [review.gender.chairs]
 women = 0
-men = 2
+men   = 2
 
 [review.gender.speakers]
 women = 0

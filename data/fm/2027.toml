@@ -23,7 +23,7 @@ artifact = "Artifact evaluation."
 award = "Best paper award."
 
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 3
 
 [extra]

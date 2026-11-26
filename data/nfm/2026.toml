@@ -27,7 +27,7 @@ blind = "single"
 artifact = "Courageous authors, who want to delve in open source software being applied in real NASA missions, and find possible connections to, and applications of Formal Methods, are invited to visit the open source repositories for two frameworks for programming flight software."
 
 [review.gender.chairs]
-men = 3
+men   = 3
 women = 0
 
 [review.gender.speakers]

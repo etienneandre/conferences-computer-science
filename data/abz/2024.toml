@@ -16,7 +16,7 @@ notification = [2024-04-06]
 
 [review]
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

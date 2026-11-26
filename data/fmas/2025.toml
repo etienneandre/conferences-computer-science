@@ -24,7 +24,7 @@ license = "cc-by"
 award = "FMAS 2025 will honour the best paper selected with respect to reviews, programme committee discussions, and conference presentations with an award."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

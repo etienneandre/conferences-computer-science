@@ -30,7 +30,7 @@ gender_balance = "mixed"
 award = "CONCUR Test-of-Time award, Best Paper award, and Best Student Paper award in 2026."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

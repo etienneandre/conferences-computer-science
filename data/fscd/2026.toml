@@ -28,7 +28,7 @@ doi = "10.4230/LIPIcs.FSCD.2026"
 
 award = "Best paper award by junior researchers. FSCD test-of-time award 2026."
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 0
 
 [review.gender.speakers]

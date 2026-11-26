@@ -22,7 +22,7 @@ license = "free"
 award = "The best JRWRTC paper will be awarded during the conference."
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [[cfp]]

@@ -29,7 +29,7 @@ award = "At most 10% of the accepted papers of POPL 2027 will be designated as D
 
 
 [review.gender.chairs]
-men = 0
+men   = 0
 women = 2
 
 [review.gender.speakers]

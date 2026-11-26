@@ -16,7 +16,7 @@ notification = [2024-10-15]
 
 [review]
 [review.gender.chairs]
-men = 2
+men   = 2
 women = 1
 
 [proceedings]

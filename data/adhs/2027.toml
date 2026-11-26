@@ -16,7 +16,7 @@ camera_ready = [2027-05-30]
 registration = [2027-05-21]
 
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 [review.gender.speakers]

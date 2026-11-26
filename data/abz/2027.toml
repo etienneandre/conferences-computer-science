@@ -21,7 +21,7 @@ license = "pay-profit"
 
 [review]
 [review.gender.chairs]
-men = 1
+men   = 1
 women = 1
 
 
