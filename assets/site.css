@@ -645,6 +645,29 @@ footer .disclaimer { color: var(--ink-soft); }
 .factlist small { color: var(--ink-faint); font-weight: 400; white-space: nowrap; }
 .reach { font-family: var(--font-data); }
 
+/* The missing-editions table. Compact on purpose: the numbers are the point,
+   and the years they fall between live in each one's title, because a column
+   repeating "between 2010 and 2012" would be unreadable at any width. */
+.gapnums { line-height: 1.9; }
+.gapnum {
+  display: inline-block; margin: 0 .25em .15em 0; padding: .05em .4em;
+  font: 400 .8rem var(--font-data); color: var(--ink-soft);
+  background: var(--wash); border-radius: 2px; cursor: help;
+  white-space: nowrap;
+}
+
+/* One-or-two-short lists, and the years inside a completeness claim. Flowed
+   rather than tabulated: each line is a conference and a handful of years. */
+.nearly { list-style: none; margin: .6rem 0 0; padding: 0; }
+.nearly li {
+  display: flex; flex-wrap: wrap; gap: .3rem .6rem; align-items: baseline;
+  padding: .35rem 0; border-top: 1px solid var(--rule-soft);
+}
+.nearly li > a:first-child { font-weight: 600; }
+.nearly .data { font: 400 .78rem var(--font-data); color: var(--ink-faint); }
+.nearly-holes { font: 400 .82rem var(--font-data); margin-left: auto; }
+.nearly-holes a { color: var(--accent); }
+
 /* Year strips on the trends page. Columns rather than the horizontal bars the
    conference pages use: twenty-five years do not fit as rows, and a year axis
    reads left to right or not at all. */

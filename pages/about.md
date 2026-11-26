@@ -78,6 +78,8 @@ Please feel free to either
 - [send an email](/submit/#the-quickest-version-for-you-and-longest-to-me),
 - [create an issue on the git repository](https://github.com/etienneandre/conferences-computer-science/issues/new).
 
+If you would rather be handed something concrete, [what is missing](/gaps/) lists the editions that are known to exist and are not here yet — their numbers sit between editions that are — and the series that record a figure for their whole run bar one edition. Those are the gaps where an hour goes furthest.
+
 ## Reusing the data
 
 Everything here is available as [JSON](/data/conferences.json) and [CSV](/data/conferences.csv), and as [calendar feeds](/ics/) you can subscribe to.

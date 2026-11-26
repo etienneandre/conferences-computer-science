@@ -2438,6 +2438,171 @@ def corpus_trends(site: Site) -> dict | None:
             "floor": CORPUS_TREND_FLOOR}
 
 
+COVERAGE_RECENT_FROM = 2020      # "recent" for the purpose of what is worth chasing
+COVERAGE_NEARLY_SLACK = 2        # a series missing this many values or fewer
+COVERAGE_NEARLY_CAP = 15         # how many of those to list per field
+COVERAGE_ABSURD_EDITION = 150    # above this, `edition` is a typo, not a count
+
+
+def coverage_report(site: Site) -> dict:
+    """Where the record stops, in the two forms that are actually useful.
+
+    Listing every edition missing every field would be a thousand rows of
+    nothing: most editions will never have an acceptance rate, because most
+    conferences never published one, and a list that cannot be finished is
+    not a task but a reproach.
+
+    So this page answers two narrower questions instead. How much of each
+    field is here at all, which is a fact about the corpus a reader deserves
+    before trusting any chart built on it. And which specific gaps are worth
+    somebody's evening: an edition that is *known to exist* because its
+    neighbours are numbered around it, and a field that a series records
+    everywhere but once or twice, where filling the hole completes a chart.
+    """
+    editions = [e for e in site.editions if e.year]
+    total = len(editions)
+    recent = [e for e in editions if e.year >= COVERAGE_RECENT_FROM]
+
+    def has_gender(e: Edition) -> bool:
+        return e.gender_counts is not None
+
+    def has_licence(e: Edition) -> bool:
+        return isinstance(e.proceedings.get("license"), str) \
+            and bool(e.proceedings.get("license"))
+
+    def recorded(key: str):
+        return lambda e: e.review.get(key) is not None
+
+    fields = [
+        {"key": "rate", "label": "Acceptance figures",
+         "test": lambda e: e.rate is not None,
+         "note": "Submitted and accepted, or a published rate."},
+        {"key": "publisher", "label": "Proceedings publisher",
+         "test": lambda e: bool(e.proceedings.get("publisher")
+                                or e.proceedings.get("none"))},
+        {"key": "licence", "label": "Proceedings licence", "test": has_licence,
+         "note": "The one field that lets the open-access lines be drawn."},
+        {"key": "doi", "label": "Proceedings DOI",
+         "test": lambda e: bool(e.proceedings.get("doi"))},
+        {"key": "gender", "label": "Gender of chairs or speakers",
+         "test": has_gender,
+         "note": "Counts only; no names are recorded, by design."},
+        {"key": "blind", "label": "Reviewing model", "test": recorded("blind")},
+        {"key": "rebuttal", "label": "Rebuttal phase", "test": recorded("rebuttal")},
+        {"key": "artifact", "label": "Artifact evaluation", "test": recorded("artifact")},
+        {"key": "tz", "label": "Deadline time zone",
+         "test": lambda e: bool(e.submission.get("tz")),
+         "note": "Absent means the page assumes Anywhere on Earth for sorting, "
+                 "without claiming the organisers meant it."},
+        {"key": "format", "label": "Page limit",
+         "test": lambda e: bool(e.submission.get("format"))},
+        {"key": "extensions", "label": "Extension status settled",
+         "test": lambda e: (e.extensions_ruled_out or e.extensions_known_undated
+                            or any(d.extended for d in e.deadlines)),
+         "note": "Either an extension is on record, or `extensions = false` "
+                 "says somebody checked. Anything else is unexamined."},
+        {"key": "venue", "label": "Venue", "test": lambda e: bool(e.venue)},
+    ]
+    for field in fields:
+        test = field.pop("test")
+        field["all"] = sum(1 for e in editions if test(e))
+        field["recent"] = sum(1 for e in recent if test(e))
+        field["all_pct"] = round(100 * field["all"] / total) if total else 0
+        field["recent_pct"] = (round(100 * field["recent"] / len(recent))
+                               if recent else 0)
+        field.setdefault("note", "")
+
+    # Editions known to exist and not here, because their neighbours are
+    # numbered around them. A gap in the numbering is far better evidence
+    # than a gap in the years: a series can skip a year without skipping a
+    # number, and biennial conferences do it on purpose.
+    gaps = []
+    missing_total = 0
+    for conference in site.conferences.values():
+        numbered = sorted(
+            (e.raw["edition"], e.year) for e in conference.editions
+            if isinstance(e.raw.get("edition"), int) and e.year)
+        if len(numbered) < 2 or numbered[-1][0] > COVERAGE_ABSURD_EDITION:
+            continue
+        present = {n for n, _ in numbered}
+        absent = [n for n in range(numbered[0][0], numbered[-1][0] + 1)
+                  if n not in present]
+        if not absent:
+            continue
+        runs = []
+        for number in absent:
+            if runs and number == runs[-1]["to"] + 1:
+                runs[-1]["to"] = number
+                continue
+            # The years of the editions on either side bound the gap. That is
+            # a fact, unlike "it was probably 2007", which assumes the series
+            # has always been annual.
+            before = max((y for n, y in numbered if n < number), default=None)
+            after = min((y for n, y in numbered if n > number), default=None)
+            runs.append({"from": number, "to": number,
+                         "after": before, "before": after})
+        missing_total += len(absent)
+        gaps.append({"conference": conference, "missing": len(absent),
+                     "recorded": len(numbered), "runs": runs})
+    gaps.sort(key=lambda g: (-g["missing"], sort_key(g["conference"].acronym)))
+
+    # A series that claims to be complete from a given year, with years
+    # inside that claim holding no file. Either the record is missing or the
+    # conference did not meet — the schema has no way to say the second, so
+    # the page does not pretend to know which.
+    claimed = []
+    for conference in site.conferences.values():
+        holes = conference.missing_years
+        if holes:
+            claimed.append({"conference": conference, "years": holes,
+                            "since": conference.complete_since})
+    claimed.sort(key=lambda c: (-len(c["years"]), sort_key(c["conference"].acronym)))
+
+    # Where one evening's work finishes something: a series that records a
+    # field everywhere but once or twice. Filling those completes a chart,
+    # which is worth more than the same effort spread over strangers.
+    nearly = []
+    for field, test in (("Acceptance figures", lambda e: e.rate is not None),
+                        ("Gender of chairs or speakers", has_gender),
+                        ("Proceedings licence", has_licence)):
+        rows = []
+        for conference in site.conferences.values():
+            held = [e for e in conference.editions if e.year]
+            if len(held) < 4:
+                continue        # too short for a hole to be conspicuous
+            have = [e for e in held if test(e)]
+            holes = [e for e in held if not test(e)]
+            # A series has to be in the habit of recording this before a hole
+            # in it means anything. Three editions and half the run is the
+            # line: below that, the field is simply not collected there.
+            if len(have) < 3 or len(have) < len(held) / 2 or not holes:
+                continue
+            newest = max(e.year for e in held)
+            recent = [e for e in holes if e.year >= newest - 1]
+            # The newest edition is where the work pays: the figures are still
+            # on the conference's own site, and it is the end of the chart
+            # everybody looks at. Failing that, a series one or two short.
+            if not recent and len(holes) > COVERAGE_NEARLY_SLACK:
+                continue
+            rows.append({"conference": conference, "have": len(have),
+                         "of": len(held), "fresh": bool(recent),
+                         "holes": sorted(recent or holes,
+                                         key=lambda e: e.year, reverse=True)})
+        rows.sort(key=lambda r: (not r["fresh"], -r["have"],
+                                 sort_key(r["conference"].acronym)))
+        if rows:
+            nearly.append({"label": field, "rows": rows[:COVERAGE_NEARLY_CAP],
+                           "more": max(0, len(rows) - COVERAGE_NEARLY_CAP)})
+
+    return {
+        "total": total, "recent": len(recent), "recent_from": COVERAGE_RECENT_FROM,
+        "fields": fields,
+        "gaps": gaps, "missing_total": missing_total,
+        "claimed": claimed, "nearly": nearly,
+        "conferences": len(site.conferences),
+    }
+
+
 def series_reach(site: Site, conference: Conference) -> dict | None:
     """How far a series roams, in three numbers.
 
@@ -2645,7 +2810,11 @@ def render_places(site: Site, env: Environment) -> int:
         write(site.out_dir / "trends" / "index.html",
               env.get_template("trends.html.j2").render(trends=trends))
         pages += 1
-    return pages
+
+    # Where the record stops, which is the other half of the same question.
+    write(site.out_dir / "gaps" / "index.html",
+          env.get_template("gaps.html.j2").render(coverage=coverage_report(site)))
+    return pages + 1
 
 
 # --------------------------------------------------------------------------
