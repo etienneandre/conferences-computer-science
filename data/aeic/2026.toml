@@ -31,9 +31,12 @@ editors = ["Antonio Filieri", "Peter Backeman"]
 award = "Honorary award for the best technical presentation, announced in the closing session."
 
 [review.gender.chairs]
-men = 2
-women = 0
+men   = 0
+women = 2
 
+[review.gender.speakers]
+men   = 2
+women = 0
 
 [extra]
 journal = "Accepted journal track papers are published in a special issue of the Journal of Systems Architecture (Elsevier). Expanded industrial and work-in-progress contributions are published in the Ada User Journal."

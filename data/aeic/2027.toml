@@ -38,6 +38,11 @@ license = "cc-by"
 [review]
 award = "Honorary award for the best technical presentation, announced in the closing session."
 
+
+[review.gender.chairs]
+men   = 3
+women = 1
+
 [extra]
 journal = "Accepted journal track papers are published in a special issue of the Journal of Systems Architecture (Elsevier), as a virtual special issue with rolling decisions. Expanded industrial and work-in-progress contributions are published in the Ada User Journal."
 notes = "Journal-track notifications are first-round notifications; authors passing the first round (including major revision) must present at the conference. Regular-track papers are published in OASIcs."
