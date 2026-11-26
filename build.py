@@ -1112,6 +1112,10 @@ class Conference:
         return {
             "from": label(low), "to": label(high),
             "spread": high - low,
+            # The raw day numbers too, for the front-page timeline, which has
+            # to place this window on an axis rather than print it. Kept on
+            # the circle of the year: `high` may exceed 365 after unwrapping.
+            "low": low, "high": high,
             "settled": high - low <= 62,
             "editions": len(recent),
             "first_year": min(y for y, _ in recent),
@@ -2889,6 +2893,94 @@ def search_text(site: "Site", edition: Edition) -> str:
     return " ".join(words)
 
 
+TIMELINE_HORIZON_DAYS = 182       # six months, the reader-facing promise
+TIMELINE_EMIT_DAYS = 300          # what is embedded, so the set self-corrects
+
+
+def front_timeline(site: "Site") -> dict:
+    """Every open call as a row on one axis, plus what is likely to open next.
+
+    Two kinds of row, and the difference is the whole design problem. A call
+    that exists has dates somebody published: abstract, paper, notification,
+    and the conference itself. A call that does not exist yet has only a
+    habit — the window this series has closed in over its recent editions —
+    and that is drawn as a band rather than a point, because a band is what
+    the evidence supports. Marking a guess as a date would cost more trust
+    than the guess is worth.
+
+    Dates go out as plain ISO strings and the browser does the geometry, for
+    one reason: the axis starts at *today*. Pre-rendering it would freeze the
+    origin at build time, and the front page is served from a day-old cache.
+    The browser also re-filters the set, so a call that closed or a window
+    that opened since the last deploy still lands in the right place.
+    """
+    now = site.now
+    today = now.date()
+    horizon = today + timedelta(days=TIMELINE_EMIT_DAYS)
+
+    def iso(value: date | None) -> str | None:
+        return value.isoformat() if value else None
+
+    calls = []
+    for edition in site.editions:
+        if not edition.listed:
+            continue
+        paper = edition.paper
+        if paper is None or deadline_instant(paper.effective, paper.tz) < now:
+            continue
+        if paper.effective > horizon:
+            continue
+        abstract = edition.deadline("abstract")
+        notification = edition.deadline("notification")
+        calls.append({
+            "label": f"{edition.conference.acronym} {edition.key}",
+            "url": edition.url,
+            "where": edition.city_name or ("Online" if edition.online else ""),
+            "abstract": iso(abstract.effective if abstract else None),
+            "paper": iso(paper.effective),
+            "tz": paper.tz or "AoE",
+            "notification": iso(notification.effective if notification else None),
+            "start": iso(edition.starts), "end": iso(edition.event.get("end")),
+            # Closing time, so the browser can drop a call that has expired
+            # since the deploy without having to know the time-zone rules.
+            "closes": int(deadline_instant(paper.effective, paper.tz).timestamp()),
+        })
+    calls.sort(key=lambda c: (c["paper"], sort_key(c["label"])))
+
+    predicted = []
+    for conference in site.conferences.values():
+        if conference.defunct or conference.one_off:
+            continue            # no call is coming, so none is predicted
+        season = conference.deadline_season
+        if not season or not season["settled"] or not season["nothing_announced"]:
+            continue
+        # Project the recent window onto whichever year puts it ahead of us.
+        # `high` can exceed 365 where the window wraps New Year; the offset
+        # arithmetic carries that over without a special case.
+        for year in (today.year, today.year + 1):
+            opens = date(year, 1, 1) + timedelta(days=season["low"] - 1)
+            closes = date(year, 1, 1) + timedelta(days=season["high"] - 1)
+            if closes >= today:
+                break
+        if closes < today or opens > horizon:
+            continue
+        predicted.append({
+            # The acronym alone, with no year: which edition this will be is
+            # not something a window can know, and inventing one would be the
+            # part of the guess that reads as a fact. The band says when; the
+            # conference page says what.
+            "label": conference.acronym,
+            "url": conference.url,
+            "from": iso(opens), "to": iso(closes),
+            "editions": season["editions"],
+            "first_year": season["first_year"], "last_year": season["last_year"],
+        })
+    predicted.sort(key=lambda p: (p["to"], sort_key(p["label"])))
+
+    return {"calls": calls, "predicted": predicted,
+            "horizon": TIMELINE_HORIZON_DAYS, "built": today.isoformat()}
+
+
 def front_rows(site: "Site", env: Environment) -> list[dict]:
     """Every listed edition, pre-rendered, with its expiry as a UTC timestamp."""
     template = env.get_template("_row.html.j2")
@@ -2973,7 +3065,8 @@ def render_front(site: "Site", env: Environment) -> int:
         1 for r in ordered if "latest" in r["tags"].split())
 
     shell = env.get_template("front.html.j2").render(
-        counts=counts, map_points=front_map_points(site))
+        counts=counts, map_points=front_map_points(site),
+        timeline=front_timeline(site))
     name = site.config["site"]["front_page"]
 
     payload = shell + "".join(r["html"] for r in ordered)

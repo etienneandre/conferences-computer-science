@@ -645,6 +645,92 @@ footer .disclaimer { color: var(--ink-soft); }
 .factlist small { color: var(--ink-faint); font-weight: 400; white-space: nowrap; }
 .reach { font-family: var(--font-data); }
 
+/* The front-page timeline. One row per call, three fixed zones — name, track,
+   how far off — so the month ticks above line up with the markers below. */
+.timeline-holder { padding: .2rem 0 .4rem; }
+.timeline-axis {
+  position: relative; height: 1.1em; margin: 0 5rem .3rem 8.5rem;
+  border-bottom: 1px solid var(--rule);
+  font: 400 .68rem var(--font-data); color: var(--ink-faint);
+}
+.timeline-tick { position: absolute; bottom: .15em; transform: translateX(-50%); }
+.timeline-row {
+  display: flex; align-items: center; gap: 0;
+  border-bottom: 1px solid var(--rule-soft);
+}
+.timeline-row:hover { background: var(--wash); }
+.timeline-name {
+  flex: 0 0 8.5rem; font: 600 .82rem/1.3 var(--font-ui);
+  padding: .3rem .5rem .3rem 0; overflow: hidden; text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.timeline-name a { color: var(--ink); text-decoration: none; }
+.timeline-name a:hover { color: var(--accent); text-decoration: underline; }
+.timeline-track { flex: 1 1 auto; position: relative; height: 26px; }
+.timeline-when {
+  flex: 0 0 5rem; text-align: right; padding-left: .5rem; white-space: nowrap;
+  font: 400 .76rem var(--font-data); color: var(--ink-soft);
+}
+.timeline-maybe { color: var(--ink-faint); }
+
+/* Everything on a track is absolutely placed; the percentages come from the
+   script, which is the only thing that knows what day it is. */
+.timeline-track i { position: absolute; top: 50%; }
+.timeline-wait {
+  height: 2px; transform: translateY(-50%); background: var(--rule);
+  border-radius: 1px;
+}
+.timeline-meet {
+  height: 7px; transform: translateY(-50%); background: var(--d4);
+  border-radius: 1px; opacity: .55;
+}
+/* A diamond, so a deadline never reads as a span. */
+.timeline-paper, .timeline-abstract, .timeline-guessmark {
+  width: 9px; height: 9px; margin: 0; background: var(--accent);
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+.timeline-abstract {
+  width: 6px; height: 6px; background: var(--paper);
+  border: 1.5px solid var(--ink-faint);
+}
+.timeline-notice {
+  width: 5px; height: 5px; border-radius: 50%; background: var(--rule);
+  transform: translate(-50%, -50%);
+}
+/* Predicted: hollow, and a band rather than a point, because a window is what
+   the evidence supports. Hatched so it cannot be mistaken for a measured
+   span even in a screenshot with no legend. */
+.timeline-band {
+  height: 9px; transform: translateY(-50%); border-radius: 2px;
+  border: 1px dashed var(--ink-faint);
+  background: repeating-linear-gradient(45deg, var(--wash-deep) 0 3px,
+              transparent 3px 6px);
+}
+.timeline-guessmark { background: var(--paper); border: 1.5px solid var(--accent); }
+.is-guess .timeline-name a { color: var(--ink-soft); font-weight: 500; }
+
+.timeline-legend, .timeline-note {
+  font: 400 .76rem/1.6 var(--font-ui); color: var(--ink-faint);
+  margin: .7rem 0 0;
+}
+.timeline-legend { display: flex; flex-wrap: wrap; gap: .3rem 1.1rem; }
+.timeline-legend span { display: inline-flex; align-items: center; gap: .35rem; }
+/* The legend reuses the marker classes, which are positioned on a track. */
+.timeline-legend i { position: static; flex: 0 0 auto; }
+.timeline-legend .timeline-paper, .timeline-legend .timeline-abstract,
+.timeline-legend .timeline-guessmark { transform: rotate(45deg); margin: 0 2px; }
+.timeline-legend .timeline-wait, .timeline-legend .timeline-meet,
+.timeline-legend .timeline-band { width: 18px; transform: none; }
+.timeline-legend b { color: var(--ink-soft); font-weight: 600; }
+.timeline-empty { font: 400 .9rem var(--font-ui); color: var(--ink-soft); padding: .6rem 0; }
+
+@media (max-width: 620px) {
+  .timeline-axis { margin-left: 5.6rem; margin-right: 4.2rem; }
+  .timeline-name { flex-basis: 5.6rem; font-size: .76rem; }
+  .timeline-when { flex-basis: 4.2rem; font-size: .68rem; }
+  .timeline-track { height: 22px; }
+}
+
 /* The missing-editions table. Compact on purpose: the numbers are the point,
    and the years they fall between live in each one's title, because a column
    repeating "between 2010 and 2012" would be unreadable at any width. */
