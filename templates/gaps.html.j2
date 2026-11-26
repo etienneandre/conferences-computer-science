@@ -1,0 +1,157 @@
+{% extends "base.html.j2" %}
+
+{% block title %}What is missing &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title = 'What is missing' %}
+{% set social_url = config.site.base_url ~ '/gaps/' %}
+{% set social_description %}Which editions are known to exist and are not here
+  yet, which series are one figure short of a complete chart, and how much of
+  each field the {{ coverage.total }} recorded editions actually
+  carry.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / Missing</p>
+  <h1 class="page-title">What is missing</h1>
+  <p class="page-sub">The holes in {{ coverage.total }} recorded editions across
+    {{ coverage.conferences }} series &mdash; and which of them are worth
+    filling.</p>
+</header>
+
+<section class="panel">
+  <div class="prose">
+    <p>Most fields here are blank for most editions, and that is not a backlog.
+      Most conferences never published an acceptance rate, so no amount of work
+      will produce one; a list of every edition missing every field would run to
+      thousands of rows that nobody can ever finish, which is a reproach rather
+      than a task.</p>
+    <p>This page asks two narrower questions instead. <b>Which editions are
+      known to exist and are not here</b> &mdash; which the numbering settles,
+      since an edition numbered on both sides certainly happened. And <b>which
+      single gaps are worth an evening</b>, because the series around them is
+      otherwise complete and one figure would finish a chart.</p>
+    <p>Anything on this page can be sent in at <a href="/submit/">submit</a>, by
+      email or as a pull request, in whatever form you have it.</p>
+  </div>
+</section>
+
+{% if coverage.gaps %}
+<section class="panel">
+  <h2 class="panel-title">Editions known to be missing</h2>
+  <p class="chart-caption">{{ coverage.missing_total }} editions across
+    {{ coverage.gaps | length }} series sit between two editions that are here,
+    so they certainly took place. A gap in the <i>numbering</i> is much better
+    evidence than a gap in the years: a series can skip a year without skipping
+    a number, and biennial conferences do it by design. Hover a number for the
+    years it falls between.</p>
+  <table class="editions sortable" id="gaptable">
+    <thead>
+      <tr>
+        <th data-sort="text">Conference</th>
+        <th class="num" data-sort="number" aria-sort="descending">Missing</th>
+        <th data-sort="text">Which</th>
+        <th class="num" data-sort="number">Here</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for g in coverage.gaps %}
+      <tr>
+        <td><a href="{{ g.conference.url }}">{{ g.conference.acronym }}</a></td>
+        <td class="num">{{ g.missing }}</td>
+        <td class="gapnums">
+          {%- for run in g.runs %}
+          <span class="gapnum" title="
+            {%- if run.after and run.before %}between {{ run.after }} and {{ run.before }}
+            {%- else %}year not bounded{% endif %}">#{{ run.from }}
+            {%- if run.to != run.from %}&ndash;{{ run.to }}{% endif %}</span>
+          {%- endfor %}
+        </td>
+        <td class="num">{{ g.recorded }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% endif %}
+
+{% for group in coverage.nearly %}
+<section class="panel">
+  <h2 class="panel-title">Short of a full run: {{ group.label | lower }}</h2>
+  <p class="chart-caption">Series that record this for most of their run and
+    not for the editions listed. These are the gaps worth an evening: where the
+    missing edition is a recent one the figures are usually still on the
+    conference's own site, and it is the end of the chart everybody looks at.
+    {%- if group.more %} {{ group.more }} more not shown.{% endif %}</p>
+  <ul class="nearly">
+    {% for row in group.rows %}
+    <li>
+      <a href="{{ row.conference.url }}">{{ row.conference.acronym }}</a>
+      <span class="data">{{ row.have }}/{{ row.of }}</span>
+      <span class="nearly-holes">
+        {%- for e in row.holes %}<a href="{{ e.url }}">{{ e.year }}</a>
+        {%- if not loop.last %}, {% endif %}{% endfor %}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+
+{% if coverage.claimed %}
+<section class="panel">
+  <h2 class="panel-title">Years inside a completeness claim</h2>
+  <p class="chart-caption">These series declare <code>complete_since</code>, and
+    these years inside that claim hold no file at all. Both answers are worth
+    recording: the edition if it happened, or a file saying
+    <code>status = "no-edition"</code> if it did not. Either way the year stops
+    being a question.</p>
+  <ul class="nearly">
+    {% for c in coverage.claimed %}
+    <li>
+      <a href="{{ c.conference.url }}">{{ c.conference.acronym }}</a>
+      <span class="data">complete since {{ c.since }}</span>
+      <span class="nearly-holes">{{ c.years | join(', ') }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section class="panel">
+  <h2 class="panel-title">What each field covers</h2>
+  <p class="chart-caption">Of {{ coverage.total }} recorded editions, and of the
+    {{ coverage.recent }} since {{ coverage.recent_from }}. The second column is
+    the one to read: a field that is thin overall but good recently is being
+    kept up, and a field thin in both is not being collected at all.</p>
+  <table class="editions sortable" id="covtable">
+    <thead>
+      <tr>
+        <th data-sort="text">Field</th>
+        <th class="num" data-sort="number">All</th>
+        <th class="num" data-sort="number">Since {{ coverage.recent_from }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for f in coverage.fields %}
+      <tr>
+        <td>{{ f.label }}
+          {%- if f.note %}<br><small>{{ f.note }}</small>{% endif %}</td>
+        <td class="num">{{ f.all_pct }}% <small>{{ f.all }}</small></td>
+        <td class="num">{{ f.recent_pct }}% <small>{{ f.recent }}</small></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p class="chart-caption">A blank field means nobody has checked, never that
+    the answer is no &mdash; the two are recorded differently throughout, and
+    these counts are of editions that say something either way.</p>
+</section>
+
+</article>
+{% endblock %}

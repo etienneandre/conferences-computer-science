@@ -1,0 +1,159 @@
+{% extends "base.html.j2" %}
+
+{% block title %}The field, year by year &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title = 'The field, year by year' %}
+{% set social_url = config.site.base_url ~ '/trends/' %}
+{% set social_description %}How submissions, acceptance rates, open access,
+  anonymous reviewing and artifact evaluation have moved across
+  {{ trends.editions }} recorded editions, {{ trends.first }} to
+  {{ trends.last }}.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / Trends</p>
+  <h1 class="page-title">The field, year by year</h1>
+  <p class="page-sub">What {{ trends.editions }} recorded editions, {{ trends.first }}
+    to {{ trends.last }}, can and cannot say about how things have changed.</p>
+</header>
+
+<section class="panel">
+  {# The caveat comes before the charts, not after them in small print. A
+     reader who takes one line away should take this one. #}
+  <h2 class="panel-title">What this is, and what it is not</h2>
+  <div class="prose">
+    <p><b>Every line below is a rate among the editions that record the
+      fact</b> &mdash; never a count. Coverage here varies enormously by year,
+      so a count of editions doing artifact evaluation would climb through the
+      2010s whatever the field did, purely because recent years are better
+      covered. A rate among records moves only when the records move.</p>
+    <p>That removes one bias. It does not make this a sample of the field.
+      This corpus is what one person had time to enter: it leans towards
+      formal methods, and within that towards conferences that publish their
+      numbers at all &mdash; which is not a neutral subset, since a conference
+      willing to publish its acceptance rate may differ from one that is not.
+      Each strip carries how many editions it rests on. Where fewer than
+      {{ trends.floor }} record a fact, no bar is drawn: a rate out of three
+      editions is not a rate.</p>
+    <p>A missing bar therefore means <i>too few records</i>, never <i>zero</i>.
+      The two are different claims and this page keeps them apart, as the rest
+      of the site does.</p>
+  </div>
+</section>
+
+<section class="panel">
+  <h2 class="panel-title">Coverage</h2>
+  <p class="chart-caption">How much of each year is here. This is a fact about
+    the records, not about the field &mdash; it is the denominator for
+    everything that follows, and the reason none of it is a count.</p>
+  <div class="trendstrip">
+    {% set peak = trends.rows | map(attribute='editions') | max %}
+    <ol class="trendbars">
+      {% for r in trends.rows %}
+      <li title="{{ r.year }}: {{ r.editions }} edition{{ 's' if r.editions != 1 }} of {{ r.series }} conference{{ 's' if r.series != 1 }}">
+        <i style="--h: {{ (100 * r.editions / peak) | round | int }}%"></i></li>
+      {% endfor %}
+    </ol>
+    {% include "_trendaxis.html.j2" %}
+  </div>
+</section>
+
+{% for m in trends.metrics %}
+{% set field = 'pct' if m.kind == 'pct' else 'value' %}
+<section class="panel">
+  <h2 class="panel-title">{{ m.label }}</h2>
+  <div class="trendstrip">
+    <ol class="trendbars">
+      {% for r in trends.rows %}
+      {% set cell = r[m.key] %}
+      {% set value = cell[field] %}
+      {% if value is none %}
+      <li class="is-thin" title="{{ r.year }}: {{ cell.n }} edition{{ 's' if cell.n != 1 }} record this, too few to draw"></li>
+      {% else %}
+      {# Percentages are drawn against the full scale, not against their own
+         peak: a practice that only ever reached 12% should look like a
+         practice that only ever reached 12%. #}
+      {% set height = (100 * value / (100 if m.kind == 'pct' else m.peak)) | round | int %}
+      <li title="{{ r.year }}: {{ value }}{{ m.unit }} of {{ cell.n }} edition{{ 's' if cell.n != 1 }}{% if m.key == 'women' %}, {{ cell.people }} people{% endif %}">
+        <i style="--h: {{ [height, 2] | max }}%"></i></li>
+      {% endif %}
+      {% endfor %}
+    </ol>
+    {% include "_trendaxis.html.j2" %}
+  </div>
+  {% set drawn = trends.rows | selectattr(m.key ~ '.' ~ field) | list %}
+  {% if drawn %}
+  <p class="trendends">
+    <span>{{ drawn[0].year }}: <b>{{ drawn[0][m.key][field] }}{{ m.unit }}</b></span>
+    <span aria-hidden="true">&rarr;</span>
+    <span>{{ drawn[-1].year }}: <b>{{ drawn[-1][m.key][field] }}{{ m.unit }}</b></span>
+    {% if m.kind == 'pct' %}<span class="data">peak {{ m.peak }}%</span>{% endif %}
+  </p>
+  {% endif %}
+  <p class="chart-caption">
+    {%- if m.note %}{{ m.note }} {% endif -%}
+    {% if m.thin %}{{ m.thin }} year{{ 's' if m.thin != 1 }} left blank for want
+    of records.{% endif %}</p>
+</section>
+{% endfor %}
+
+<section class="panel">
+  <h2 class="panel-title">The numbers</h2>
+  <p class="chart-caption">Every figure above, with the count of editions each
+    rests on. <code>n</code> is how many editions record that fact at all, which
+    is the number to judge a row by.</p>
+  <table class="editions sortable" id="trendtable">
+    <thead>
+      <tr>
+        <th data-sort="number" aria-sort="ascending">Year</th>
+        <th class="num" data-sort="number">Editions</th>
+        <th class="num" data-sort="number">Confs</th>
+        <th class="num" data-sort="number">Subs <small>median</small></th>
+        <th class="num" data-sort="number">Rate</th>
+        <th class="num" data-sort="number">Women</th>
+        <th class="num" data-sort="number">Free</th>
+        <th class="num" data-sort="number">Open</th>
+        <th class="num" data-sort="number">Anon.</th>
+        <th class="num" data-sort="number">Artifact</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for r in trends.rows %}
+      <tr>
+        <td><b>{{ r.year }}</b></td>
+        <td class="num">{{ r.editions }}</td>
+        <td class="num">{{ r.series }}</td>
+        <td class="num">{% if r.submitted.value is not none %}{{ r.submitted.value }}
+          <small>{{ r.submitted.n }}</small>{% else %}&ndash;{% endif %}</td>
+        <td class="num">{% if r.rate.value is not none %}{{ r.rate.value }}%
+          <small>{{ r.rate.n }}</small>{% else %}&ndash;{% endif %}</td>
+        {% for key in ('women', 'free', 'open', 'double', 'artifact') %}
+        <td class="num">{% if r[key].pct is not none %}{{ r[key].pct }}%
+          <small>{{ r[key].n }}</small>{% else %}&ndash;{% endif %}</td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section class="panel">
+  <h2 class="panel-title">Taking this further</h2>
+  <div class="prose">
+    <p>The underlying records are <a href="/data/">available as JSON and
+      CSV</a>, so none of this has to be taken on trust: the same counts can be
+      recomputed, and recomputed differently. If a figure here looks wrong, it
+      probably is &mdash; <a href="/submit/">corrections</a> are the main way
+      this stays accurate.</p>
+  </div>
+</section>
+
+</article>
+{% endblock %}

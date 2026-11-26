@@ -1,0 +1,9 @@
+{# The year axis under a trend strip. One label every five years plus the two
+   ends, because twenty-five labels do not fit on a phone and a strip whose
+   ends are unlabelled cannot be read at all. Every bar carries its own year
+   in its title, so nothing is lost. #}
+<ol class="trendaxis" aria-hidden="true">
+  {% for r in trends.rows %}
+  <li>{% if loop.first or loop.last or r.year % 5 == 0 %}<span>{{ r.year }}</span>{% endif %}</li>
+  {% endfor %}
+</ol>
