@@ -19,4 +19,4 @@ publisher = "Springer LNCS ARCoSS"
 license = "pay-profit"
 
 [extra]
-notes = "Biennial conference. Selected papers will be invited to a special issue of the \"Journal of Computer and System Sciences\", devoted to FCT 2017"
+journal = "Selected papers will be invited to a special issue of the \"Journal of Computer and System Sciences\", devoted to FCT 2017"
