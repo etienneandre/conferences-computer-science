@@ -8,52 +8,65 @@
 ["Springer LNCS"]
 default_license = "pay-profit"
 # TODO: 369 editions, mixed licences: pay-profit ×349, pay ×10, cc-by ×8, free ×2
+for_profit = true
 
 ["IEEE"]
 default_license = "pay"
 # TODO: 99 editions, mixed licences: pay ×98, free-copy ×1
+for_profit = false
 
 ["ACM"]
 default_license = "acm"
 # TODO: 97 editions, mixed licences: acm ×72, pay ×14, free-copy ×9, free ×2
+for_profit = false
 
 ["LIPIcs"]
 default_license = "cc-by"
 # TODO: 84 editions, mixed licences: cc-by ×72, cc-by-nd ×12
+for_profit = false
 
 ["EPTCS"]
 default_license = "cc-by"
 # TODO: 65 editions, mixed licences: cc-by ×60, cc-by-nd ×3, free ×2
+for_profit = false
 
 ["informal"]
 # TODO: no licence recorded for this publisher.
 # TODO: 33 editions, mixed licences: ? ×24, free ×5, free-copy ×4
+for_profit = false
 
 ["?"]
 # TODO: no licence recorded for this publisher.
 # TODO: 29 editions, mixed licences: ? ×28, pay ×1
+for_profit = false
 
 ["IEEE CPS"]
 default_license = "pay"
+for_profit = false
 
 ["PDF"]
 # TODO: no licence recorded for this publisher.
 # TODO: 22 editions, mixed licences: ? ×17, free ×5
+for_profit = false
 
 ["CEUR-WS"]
 default_license = "free"
 # TODO: 18 editions, mixed licences: free ×9, ? ×9
+for_profit = false
 
 ["ACM Digital Library"]
 default_license = "acm"
 aliases = ["ACM digital library"]
 # TODO: 16 editions, mixed licences: acm ×12, pay ×4
+for_profit = false
 
 ["ACM ICPS"]
 default_license = "acm"
+for_profit = false
 
 ["Springer LNCS/LNBI"]
 default_license = "pay-profit"
+for_profit = true
 
 ["ACM/IEEE"]
 default_license = "acm"
@@ -61,10 +74,12 @@ default_license = "acm"
 
 ["IEEE Xplore"]
 default_license = "pay"
+for_profit = false
 
 ["IEEE/ACM"]
 default_license = "acm"
 # TODO: 11 editions, mixed licences: acm ×9, pay ×1, free ×1
+for_profit = false
 
 ["PACMPL"]
 default_license = "cc-by"
@@ -72,25 +87,32 @@ default_license = "cc-by"
 
 ["IEEE Xplore Digital Library"]
 default_license = "pay"
+for_profit = false
 
 ["IEEE (?)"]
 default_license = "pay"
+for_profit = false
 
 ["OASIcs"]
 default_license = "cc-by"
+for_profit = false
 
 ["Springer LNCS IFIP"]
 default_license = "pay-profit"
 # TODO: 8 editions, mixed licences: pay-profit ×7, pay-profit-embargo ×1
+for_profit = true
 
 ["ACM SIGPLAN Proceedings"]
 default_license = "acm"
+for_profit = false
 
 ["Web page"]
 default_license = "free"
+for_profit = false
 
 ["IEEE Conference Publishing Services"]
 default_license = "pay"
+for_profit = false
 
 ["ThinkMind"]
 default_license = "free-copy"
@@ -98,44 +120,57 @@ default_license = "free-copy"
 
 ["IEEE Computer Society Press"]
 default_license = "pay"
+for_profit = false
 
 ["ACM Digital Library + conference Web site"]
 default_license = "free-copy"
+for_profit = false
 
 ["none?"]
 # TODO: no licence recorded for this publisher.
 aliases = ["None?"]
+for_profit = false
 
 ["EasyChair EPiC series"]
 default_license = "free"
+for_profit = false
 
 ["informal proceedings"]
 # TODO: no licence recorded for this publisher.
+for_profit = false
 
 ["TU Wien Academic Press / ACM/IEEE"]
 default_license = "cc-by"
+for_profit = false
 
 ["Springer CCIS"]
 default_license = "pay-profit"
+for_profit = true
 
 ["HAL"]
 default_license = "free"
+for_profit = false
 
 ["No formal proceedings?"]
 # TODO: no licence recorded for this publisher.
 # TODO: 6 editions, mixed licences: ? ×3, free ×3
+for_profit = false
 
 ["Springer LNCS LNAI"]
 default_license = "pay-profit"
+for_profit = true
 
 ["Springer LNCS ARCoSS"]
 default_license = "cc-by"
+for_profit = true
 
 ["AAAI Press"]
 default_license = "free-copy"
+for_profit = false
 
 ["arXiv"]
 default_license = "free"
+for_profit = false
 
 ["EASST"]
 default_license = "free"
@@ -144,6 +179,7 @@ default_license = "free"
 ["Special issue of ACM SIGBED Review"]
 default_license = "acm"
 # TODO: 4 editions, mixed licences: acm ×3, ? ×1
+for_profit = false
 
 ["IEEJ"]
 # TODO: no licence recorded for this publisher.
@@ -154,27 +190,35 @@ default_license = "free-copy"
 
 ["Given to participants"]
 default_license = "free"
+for_profit = false
 
 ["PDF online"]
 default_license = "free"
+for_profit = false
 
 ["IEEE-Xplore"]
 default_license = "pay"
+for_profit = false
 
 ["ACM SIGPLAN Proceedings (?)"]
 default_license = "acm"
+for_profit = false
 
 ["None (?)"]
 # TODO: no licence recorded for this publisher.
+for_profit = false
 
 ["eWiC"]
 default_license = "free"
+for_profit = false
 
 ["ScienceDirect (Elsevier)"]
 default_license = "pay-profit"
+for_profit = true
 
 ["IRIT research report"]
 default_license = "free"
+for_profit = false
 
 ["SCITEPRESS Digital Library"]
 default_license = "pay-profit"
@@ -182,6 +226,7 @@ default_license = "pay-profit"
 
 ["IEEE CS"]
 default_license = "pay"
+for_profit = false
 
 ["Web page?"]
 # TODO: no licence recorded for this publisher.
@@ -191,6 +236,7 @@ default_license = "pay"
 
 ["ACM/IEEE (+ Web page)"]
 default_license = "free"
+for_profit = false
 
 ["No formal proceedings (PDF online)"]
 default_license = "free"
@@ -198,15 +244,18 @@ default_license = "free"
 ["PACMSE"]
 default_license = "acm"
 # TODO: 2 editions, mixed licences: acm ×1, cc-by ×1
+for_profit = false
 
 ["Computer Society’s Digital Library"]
 default_license = "free-copy"
 
 ["IEEE eXplore"]
 default_license = "pay"
+for_profit = false
 
 ["Springer LNICST series"]
 default_license = "pay-profit"
+for_profit = true
 
 ["Journal of Science and Technology (Vietnam Academy of Science and Technology)"]
 # TODO: no licence recorded for this publisher.
@@ -222,6 +271,7 @@ default_license = "pay"
 
 ["FoLLI-LNCS"]
 default_license = "pay-profit"
+for_profit = true
 
 ["The Journal of Object Technology"]
 default_license = "free-copy"
@@ -246,24 +296,30 @@ default_license = "pay-profit"
 
 ["Elsevier ENTCS"]
 default_license = "pay-profit"
+for_profit = true
 
 ["ACM SigPlan"]
 default_license = "acm"
 
 ["SIGBED Review"]
 default_license = "acm"
+for_profit = false
 
 ["ACM SIGBED Review"]
 default_license = "acm"
+for_profit = false
 
 ["Science of Computer Programming, Elsevier"]
 default_license = "pay-profit"
+for_profit = true
 
 ["ACM / IEEE explore"]
 default_license = "pay"
+for_profit = false
 
 ["ACM Software Engineering"]
 # TODO: no licence recorded for this publisher.
+for_profit = false
 
 ["none"]
 # TODO: no licence recorded for this publisher.
