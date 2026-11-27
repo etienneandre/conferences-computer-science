@@ -13,7 +13,7 @@ format = "10 pages ACM (incl. references)"
 paper = [2022-01-17]
 
 [proceedings]
-publisher = "ACM Digital Library"
+publisher = "ACM"
 license = "pay"
 
 [extra]

@@ -13,7 +13,7 @@ paper = [2019-05-10, 2019-05-26]
 notification = [2019-06-12]
 
 [proceedings]
-publisher = "None (?)"
+none = true
 
 [extra]
 notes = "Co-located with CONCUR and FORMATS."

@@ -13,7 +13,7 @@ paper = [2014-02-25, 2014-03-04] # NOTE: original deadline re-computed in 2026 f
 notification = [2014-03-24]
 
 [proceedings]
-publisher = "PDF online"
+publisher = "informal"
 license = "free"
 
 [extra]

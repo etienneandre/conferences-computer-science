@@ -14,5 +14,5 @@ paper = [2017-01-20, 2017-01-27]
 notification = [2017-02-17]
 
 [proceedings]
-publisher = "IEEE/ACM"
+publisher = "ACM/IEEE"
 license = "acm"

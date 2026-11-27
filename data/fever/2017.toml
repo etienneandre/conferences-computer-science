@@ -13,7 +13,7 @@ paper = [2017-05-22, 2017-05-29]
 notification = [2017-05-30]
 
 [proceedings]
-publisher = "No proceedings"
+none = true
 
 [extra]
 notes = "Papers can be ongoing or already accepted elsewhere."

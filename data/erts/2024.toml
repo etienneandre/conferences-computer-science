@@ -15,7 +15,6 @@ paper = [2023-10-15]
 notification = [2024-02-08]
 
 [proceedings]
-publisher = "?"
 
 [[cfp]]
 file = "cfp/ERTS-2024.txt"

@@ -13,7 +13,7 @@ paper = [2025-05-08, 2025-05-15]
 notification = [2025-06-05]
 
 [proceedings]
-publisher = "none?"
+none = true
 
 [extra]
 colocated = "Co-located with ECRTS."

@@ -13,7 +13,7 @@ paper = [2019-04-23, 2019-05-14]
 notification = [2019-05-14]
 
 [proceedings]
-publisher = "No formal proceedings?"
+none = true
 license = "free"
 
 [extra]

@@ -15,7 +15,7 @@ paper = [2014-07-08]
 notification = [2014-07-23]
 
 [proceedings]
-publisher = "none"
+none = true
 
 [extra]
 notes = "Platform for PhD students and young researchers who recently completed their doctoral studies. No formal proceedings, can be submitted elsewhere."

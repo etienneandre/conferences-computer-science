@@ -13,7 +13,7 @@ paper = [2015-03-14]
 notification = [2015-03-24]
 
 [proceedings]
-publisher = "Web page?"
+publisher = "informal"
 
 [extra]
 notes = "Part of CPSWeek in Seattle. The paper with the most promising benchmark results receives a prize of 500€ sponsored by Robert Bosch GmbH, Germany. The winner is preselected by the program committee and determined by an audience voting."

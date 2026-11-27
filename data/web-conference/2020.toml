@@ -16,7 +16,7 @@ notification = [2020-01-10]
 tz = "HST"
 
 [proceedings]
-publisher = "ACM Digital Library + conference Web site"
+publisher = "ACM"
 license = "free-copy"
 
 [review]

@@ -697,6 +697,27 @@ def check_doi(edition: dict, where: str, report: Report) -> None:
         check_one_doi(doi, where, "doi", report)
 
 
+# Kept in step with build.py by hand, as the rest of check.py is: this file
+# runs without Jinja2 and without importing the generator, on purpose.
+PUBLISHER_NOT_A_NAME = (
+    ("unknown", re.compile(r"^[\s?.\u2013\u2014-]*$|^(unknown|tbd|tba|n/?a)\b", re.I),
+     "Delete the line: an absent `publisher` already means nobody has checked."),
+    ("none", re.compile(r"^\(?\s*(no|none)\b", re.I),
+     "Delete the line and write `none = true` in `[proceedings]` (\u00a7 4.7)."),
+    ("informal", re.compile(r"^(informal|pdf|web[\s-]?(page|site)|website|booklet|given to)\b", re.I),
+     "Papers on the conference\u2019s own site are a publishing arrangement, "
+     "not a missing publisher: write `publisher = \"informal\"` and declare "
+     "`informal` in `publishers.toml` (\u00a7 4.7)."),
+)
+
+
+def publisher_not_a_name(name: str) -> tuple[str, str] | None:
+    for kind, pattern, advice in PUBLISHER_NOT_A_NAME:
+        if pattern.search(name.strip()):
+            return kind, advice
+    return None
+
+
 def check_proceedings_links(edition: dict, where: str, report: Report) -> None:
     """`url` on the proceedings: a full URL, and not a DOI in disguise.
 
@@ -722,9 +743,15 @@ def check_proceedings_links(edition: dict, where: str, report: Report) -> None:
             report.warn(where, "`proceedings.url` points at doi.org; record the "
                                "bare identifier in `doi` instead, which outlives "
                                "the publisher's own links")
-    if urls and proceedings.get("none"):
-        report.warn(where, "`proceedings.none` is set, but a `url` is recorded; "
-                           "a volume nobody published has no page")
+    if proceedings.get("none"):
+        if urls:
+            report.warn(where, "`proceedings.none` is set, but a `url` is "
+                               "recorded; a volume nobody published has no page")
+        for key in ("license", "publisher", "doi"):
+            if proceedings.get(key):
+                report.warn(where, f"`proceedings.none` is set, but `{key}` is "
+                                   f"recorded; nothing was published, so there "
+                                   f"is nothing for it to describe")
 
 
 def check_proceedings_editors(edition: dict, where: str, report: Report) -> None:
@@ -990,10 +1017,24 @@ class Checker:
         publisher = edition.get("proceedings", {}).get("publisher")
         if isinstance(publisher, str):
             self.seen_publishers[publisher] += 1
-            if self.publishers and publisher not in self.publishers:
-                if not self.publisher_alias(publisher):
-                    self.report.warn(where, f"publisher {publisher!r} is not in "
-                                            f"publishers.toml")
+            # A name declared in publishers.toml is a publisher, whatever it
+            # looks like from outside. `informal` is the case that matters:
+            # it is the canonical name for a conference publishing its own
+            # papers, and the shape test below would otherwise reject the one
+            # answer this site asks for.
+            declared = (publisher in self.publishers
+                        or self.publisher_alias(publisher))
+            if declared:
+                pass
+            elif publisher_not_a_name(publisher):
+                # Not an unknown publisher: not a publisher at all. Counted
+                # rather than warned per file, because a hundred and fifty
+                # identical lines would bury everything else; the summary
+                # prints one line per spelling, with the remedy.
+                self.report.count(f"notapublisher:{publisher}")
+            elif self.publishers:
+                self.report.warn(where, f"publisher {publisher!r} is not in "
+                                        f"publishers.toml")
 
         for i, cfp in enumerate(edition.get("cfp", []) or []):
             name = cfp.get("file")
@@ -1331,6 +1372,16 @@ def render(report: Report, checker: Checker, strict: bool) -> None:
     if markers:
         detail = ", ".join(f"{v} files with {k!r}" for k, v in sorted(markers.items()))
         print(f"  cleanup backlog: {detail}", file=out)
+
+    strays = {k[14:]: v for k, v in report.counters.items()
+              if k.startswith("notapublisher:")}
+    if strays:
+        total = sum(strays.values())
+        print(f"  {len(strays)} spellings of `publisher` on {total} editions are "
+              f"not a publisher's name:", file=out)
+        for name, count in sorted(strays.items(), key=lambda kv: -kv[1]):
+            advice = (publisher_not_a_name(name) or (None, ""))[1]
+            print(f"    {count:>4}  {name!r}  \u2014 {advice}", file=out)
 
     transitional = {k[13:]: v for k, v in report.counters.items()
                     if k.startswith("transitional:")}

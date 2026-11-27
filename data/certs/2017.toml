@@ -16,7 +16,6 @@ extensions = false
 notification = [2017-10-17]
 
 [proceedings]
-publisher = "?"
 
 [extra]
 colocated = "Satellite of the IEEE Real-Time Systems Symposium"

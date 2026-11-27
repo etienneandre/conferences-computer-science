@@ -13,7 +13,7 @@ paper = [2013-05-24]
 notification = [2013-06-14]
 
 [proceedings]
-publisher = "No official proceedings"
+none = true
 
 [extra]
 notes = "Mainly for PhD students. Might be in French."

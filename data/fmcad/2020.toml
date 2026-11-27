@@ -16,7 +16,7 @@ paper = [2020-04-16]
 notification = [2020-06-02]
 
 [proceedings]
-publisher = "ACM/IEEE (+ Web page)"
+publisher = "ACM/IEEE"
 license = "free"
 
 [extra]

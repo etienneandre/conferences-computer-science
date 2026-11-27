@@ -15,7 +15,7 @@ paper = [2018-04-20]
 notification = [2018-06-01]
 
 [proceedings]
-publisher = "IEEE Xplore"
+publisher = "IEEE"
 license = "pay"
 doi = "10.1109/RTCSA43867.2018"
 

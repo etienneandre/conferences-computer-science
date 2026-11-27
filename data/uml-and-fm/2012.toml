@@ -12,7 +12,7 @@ paper = [2012-03-12]
 notification = [2012-05-07]
 
 [proceedings]
-publisher = "ACM Software Engineering"
+publisher = "PACMSE"
 
 [extra]
 notes = "Deadline extended (one week) in 2012."

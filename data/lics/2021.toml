@@ -20,7 +20,7 @@ rebuttal_end = 2021-03-14
 notification = [2021-03-31]
 
 [proceedings]
-publisher = "ACM SIGPLAN Proceedings (?)"
+publisher = "ACM SIGPLAN"  # TODO: verify
 license = "acm"
 
 [review]

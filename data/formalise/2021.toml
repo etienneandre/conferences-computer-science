@@ -16,7 +16,7 @@ paper = [2021-01-12]
 notification = [2021-02-22]
 
 [proceedings]
-publisher = "IEEE/ACM"
+publisher = "ACM/IEEE"
 license = "acm"
 
 [[cfp]]

@@ -3,7 +3,7 @@
 Reference document for the site's data format. Any discrepancy between this file
 and the generator's behaviour is a bug — in one or the other.
 
-- **Schema version**: 1.8
+- **Schema version**: 1.9
 - **Format**: [TOML 1.0](https://toml.io/) (read with `tomllib`, standard library since Python 3.11)
 - **Encoding**: UTF-8, no BOM, LF line endings
 - **Indentation**: 2 spaces inside multi-line tables
@@ -586,6 +586,29 @@ use it today.
 | `url` | string or array(string) | Where the volume sits, for proceedings that carry no DOI. An array for the same reason as `doi`. Never a `doi.org` link — see below. |
 | `editors` | array(string) | The volume's editors, one name per entry, in the order the volume prints them. See below. |
 
+**`publisher` is a publisher's name, and nothing else.** Three things turn up
+in that field that are not one, and each already has its own mechanism:
+
+| What you mean | What to write |
+|---|---|
+| Nobody has checked | Omit `publisher`. An absent key is already "unknown"; a publisher named `?` is a claim nobody meant to make. |
+| No proceedings were published | `none = true`, and no `publisher` line. |
+| The conference published them itself, on its own site | `publisher = "informal"`, an entry of its own in `publishers.toml`. Papers posted on a conference's own site are a publishing arrangement, not a missing publisher — and not a formal publication either, which is what the name says. `PDF`, `Web page`, `Booklet` and the rest all mean this. |
+
+A name you believe but have not confirmed is written plainly with a
+`# TODO: verify` comment (§ 10), not as `IEEE (?)`: the parenthesis makes a
+second publisher out of the first, and the doubt is recorded nowhere the site
+can read. `make check` lists every spelling that falls into the three rows
+above, with its count, and the publisher index shows the same list rather than
+ranking `?` against Springer.
+
+**The data holds the canonical name.** One publisher, one spelling, written
+into the edition file — not a short form resolved at build time. `aliases` in
+`publishers.toml` is the net under data that arrives from elsewhere, and it
+matches on letters and digits alone, so one alias covers `IEEE Xplore`,
+`IEEE-Xplore` and `IEEE eXplore`: spacing, case and punctuation carry no
+meaning in a publisher's name.
+
 **`doi` first, `url` second, and never the same thing twice.** A DOI still
 resolves after a publisher has reorganised its site, which is the whole reason
 it is a field of its own; a `doi.org` address written into `url` works today
@@ -985,6 +1008,9 @@ The build fails on any **error** and reports **warnings** without blocking.
 - More than **365 days** between `notification` and `event.start`. Long gaps are
   normal in this field, so this threshold targets one specific mistake: a
   mistyped year.
+- A `publisher` value that is not a publisher's name: `?`, `none`,
+  `No formal proceedings`, `informal`, `PDF`, `Web page` and their variants
+  (§ 4.7). Reported once per spelling with a count, not once per file.
 - `proceedings.url` pointing at doi.org, or recorded alongside
   `proceedings.none` (§ 4.7).
 - An `editors` entry that looks like several names in one string, a repeated
@@ -1047,6 +1073,7 @@ part of this schema.
 
 | Version | Change |
 |---|---|
+| 1.9 | `publisher` stated to be a name and nothing else, with the three non-names routed to their own mechanisms; aliases matched on letters and digits alone (§ 4.7). |
 | 1.8 | `url` on `[proceedings]`, for volumes with no DOI (§ 4.7). |
 | 1.7 | `editors` on `[proceedings]` and `[[special_issue]]` (§ 4.7). `event.hybrid` documented and made exclusive with `event.online` (§ 4.3). |
 | 1.6 | `extensions` accepts an array naming which deadlines moved from an unknown date (§ 4.4.1). |

@@ -14,7 +14,7 @@ paper = [2019-05-01, 2019-05-15, 2019-06-09]
 notification = [2019-06-01, 2019-06-30, 2019-07-04]
 
 [proceedings]
-publisher = "PDF"
+publisher = "informal"
 license = "free"
 
 [extra]

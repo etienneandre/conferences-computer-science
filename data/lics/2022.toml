@@ -21,7 +21,7 @@ rebuttal_end = 2022-03-13
 notification = [2022-04-14]
 
 [proceedings]
-publisher = "ACM SIGPLAN Proceedings"
+publisher = "ACM SIGPLAN"
 license = "acm"
 
 [review]

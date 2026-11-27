@@ -14,7 +14,7 @@ paper = [2019-03-18, 2019-03-25, 2019-04-01]
 notification = [2019-04-15, 2019-04-22, 2019-04-29]
 
 [proceedings]
-publisher = "IEEE Xplore Digital Library"
+publisher = "IEEE"
 license = "pay"
 
 [extra]

@@ -13,7 +13,7 @@ paper = [2018-05-11]
 notification = [2018-06-08]
 
 [proceedings]
-publisher = "None (?)"
+none = true
 
 [extra]
 notes = "Co-located with CONFESTA"

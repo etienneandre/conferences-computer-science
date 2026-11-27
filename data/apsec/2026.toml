@@ -16,7 +16,7 @@ paper        = [2026-07-20]
 notification = [2026-09-14]
 
 [proceedings]
-publisher = "IEEE CS"
+publisher = "IEEE Computer Society"
 license   = "pay"
 
 [review]

@@ -1865,8 +1865,16 @@ class Site:
             return {"name": None, "page": None}
         entry = dict(self.publishers.get(name, {}))
         if not entry:
+            # Matched on letters and digits alone, so one alias covers every
+            # way a name gets typed: "IEEE Xplore", "IEEE-Xplore" and
+            # "IEEE eXplore" all find the same entry without three lines in
+            # publishers.toml. Spacing, case and punctuation carry no meaning
+            # in a publisher's name, and treating them as if they did is what
+            # produced four rows for one publisher.
+            wanted = publisher_key(name)
             for canonical, value in self.publishers.items():
-                if name in (value.get("aliases") or []):
+                if wanted == publisher_key(canonical) or wanted in {
+                        publisher_key(a) for a in (value.get("aliases") or [])}:
                     entry = dict(value)
                     entry["canonical"] = canonical
                     break
@@ -2725,6 +2733,17 @@ def coverage_report(site: Site) -> dict:
         "overdue": {"rows": overdue, "back": OVERDUE_BACK_DAYS,
                     "ahead": OVERDUE_AHEAD_DAYS},
     }
+
+
+def publisher_key(name: str) -> str:
+    """A name reduced to its letters and digits, for matching aliases.
+
+    Spacing, case and punctuation carry no meaning in a publisher's name, so
+    one alias covers "IEEE Xplore", "IEEE-Xplore" and "IEEE eXplore". The data
+    itself holds the canonical name; this is the net under anything
+    contributed later.
+    """
+    return re.sub(r"[^a-z0-9]+", "", (name or "").casefold())
 
 
 def openness_band(pct: int | None) -> str | None:

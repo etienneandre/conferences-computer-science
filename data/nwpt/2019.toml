@@ -14,7 +14,7 @@ paper = [2019-09-16]
 notification = [2019-10-04]
 
 [proceedings]
-publisher = "PDF"
+publisher = "informal"
 
 [extra]
 notes = "No formal proceedings (PDF on Web page). Work in progress and concurrent submissions allowed. Selection of best papers published in the Journal of Logic and Algebraic Programming."

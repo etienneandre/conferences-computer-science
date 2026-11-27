@@ -19,7 +19,7 @@ notification = [2025-01-27]
 extensions = false
 
 [proceedings]
-publisher = "ACM Digital Library + conference Web site"
+publisher = "ACM"
 license = "free"
 doi = "10.1145/3696410"
 

@@ -16,7 +16,7 @@ paper        = [2025-07-13]
 notification = [2025-09-13]
 
 [proceedings]
-publisher = "IEEE CS"
+publisher = "IEEE Computer Society"
 license = "pay"
 doi = "10.1109/APSEC66846.2025"
 

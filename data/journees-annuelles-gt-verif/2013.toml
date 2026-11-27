@@ -14,4 +14,4 @@ paper = [2013-05-03]
 notification = [2013-05-17]
 
 [proceedings]
-publisher = "(No formal proceedings)"
+none = true

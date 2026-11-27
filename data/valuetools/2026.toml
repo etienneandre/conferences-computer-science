@@ -16,7 +16,7 @@ extensions = false
 notification = [2026-10-19]
 
 [proceedings]
-publisher = "Springer LNICST series"
+publisher = "Springer LNICST"
 license = "pay-profit"
 
 [review]

@@ -14,7 +14,7 @@ notification = [2019-03-18]
 extensions = true  # extended, earlier date unknown
 
 [proceedings]
-publisher = "IEEE Xplore"
+publisher = "IEEE"
 license = "pay"
 
 [extra]

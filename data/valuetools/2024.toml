@@ -20,7 +20,7 @@ men   = 2
 women = 1
 
 [proceedings]
-publisher = "Springer LNICST series"
+publisher = "Springer LNICST"
 license = "pay-profit"
 doi = "10.1007/978-3-032-06818-7"
 

@@ -16,7 +16,7 @@ paper = [2024-11-18, 2024-11-25]
 notification = [2025-01-13]
 
 [proceedings]
-publisher = "IEEE/ACM"
+publisher = "ACM/IEEE"
 license = "pay"
 doi = "10.1109/FormaliSE66629.2025"
 

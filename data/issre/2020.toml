@@ -16,7 +16,7 @@ paper = [2020-05-25, 2020-06-02]
 notification = [2020-07-28]
 
 [proceedings]
-publisher = "IEEE (?)"
+publisher = "IEEE"  # TODO: verify
 license = "pay"
 
 [extra]

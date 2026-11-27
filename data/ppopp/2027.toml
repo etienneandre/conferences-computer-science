@@ -20,7 +20,7 @@ notification = [2026-10-26]
 blind = "double"
 
 [proceedings]
-publisher = "ACM Digital Library"
+publisher = "ACM"
 license = "cc-by"
 
 [extra]

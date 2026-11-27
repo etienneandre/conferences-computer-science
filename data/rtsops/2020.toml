@@ -13,7 +13,7 @@ paper = [2020-04-16]
 notification = [2020-05-15]
 
 [proceedings]
-publisher = "none?"
+none = true
 
 [extra]
 notes = "Co-located with ECRTS. Cancelled due to COVID19."

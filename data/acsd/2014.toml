@@ -15,7 +15,7 @@ paper = [2014-01-22] # NOTE: extended, from…?
 notification = [2014-03-21]
 
 [proceedings]
-publisher = "IEEE Xplore Digital Library"
+publisher = "IEEE"
 license = "pay"
 
 [extra]

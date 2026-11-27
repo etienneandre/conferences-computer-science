@@ -13,7 +13,7 @@ paper = [2018-04-17, 2018-04-24]
 notification = [2018-05-15]
 
 [proceedings]
-publisher = "none?"
+none = true
 
 [extra]
 notes = "Co-located with ECRTS. The authors of the paper that will present the most interesting open problem will be rewarded with an IPad sponsored by Inria."

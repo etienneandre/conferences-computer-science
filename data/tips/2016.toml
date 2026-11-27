@@ -13,4 +13,4 @@ paper = [2016-05-17]
 notification = [2016-06-07]
 
 [proceedings]
-publisher = "None (?)"
+none = true

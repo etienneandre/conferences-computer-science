@@ -13,7 +13,7 @@ paper = [2015-04-24]
 notification = [2015-05-22]
 
 [proceedings]
-publisher = "No formal proceedings?"
+none = true
 
 [extra]
 notes = "Colocated with ECRTS. Best papers will be invited in a special issue of the Elsevier Journal of Systems Architecture."

@@ -16,7 +16,7 @@ notification = [2017-12-22]
 tz = "HST"
 
 [proceedings]
-publisher = "ACM Digital Library + conference Web site"
+publisher = "ACM"
 license = "free-copy"
 
 [review]

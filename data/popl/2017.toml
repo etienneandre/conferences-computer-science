@@ -15,7 +15,7 @@ paper = [2016-07-06]
 notification = [2016-10-03]
 
 [proceedings]
-publisher = "ACM SigPlan"
+publisher = "ACM SIGPLAN"
 license = "acm"
 
 [extra]
