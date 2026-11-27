@@ -1889,22 +1889,6 @@ lat = 47.9029
 lon = 1.9093
 continent = "EU"
 
-["Rabat, Morocco"]
-country = "MA"
-display = "Rabat"
-native = "الرباط"
-native_lang = "ar"
-continent = "AF"
-lat = 34.0209
-lon = -6.8416
-
-["Salt Lake City, Utah, USA"]
-country = "US"
-display = "Salt Lake City"
-continent = "NA"
-lat = 40.7608
-lon = -111.891
-
 ["Ōsaka, Japan"]
 country = "JP"
 display = "Ōsaka"
@@ -2163,6 +2147,15 @@ lat = 46.8139
 lon = -71.208
 continent = "NA"
 
+["Rabat, Morocco"]
+country = "MA"
+display = "Rabat"
+native = "الرباط"
+native_lang = "ar"
+continent = "AF"
+lat = 34.0209
+lon = -6.8416
+
 ["Raleigh, North Carolina, USA"]
 country = "US"
 display = "Raleigh"
@@ -2295,6 +2288,13 @@ display = "Salamanca"
 lat = 40.9701
 lon = -5.6635
 continent = "EU"
+
+["Salt Lake City, Utah, USA"]
+country = "US"
+display = "Salt Lake City"
+continent = "NA"
+lat = 40.7608
+lon = -111.891
 
 ["Salvador de Bahia, Brazil"]
 country = "BR"
