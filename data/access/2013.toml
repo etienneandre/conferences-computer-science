@@ -13,9 +13,13 @@ format = "6 pages Word (special template)"
 paper = [2013-01-31]
 notification = [2013-03-01]
 
-[proceedings]
-publisher = "Springer"
-license = "pay-profit"
+# [proceedings]
+# publisher = "Springer"
+# license = "pay-profit"
 
 [extra]
 notes = "Selected papers from the congress submissions (after peer review) will be included in a monograph. WARNING: some PC members were never contacted during reviewing process."
+
+[[cfp]]
+file = "cfp/ACCESS-2013.txt"
+# NOTE: retrieved in 2026…!
