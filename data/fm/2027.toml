@@ -1,6 +1,6 @@
 edition = 28
 title = "28th International Symposium on Formal Methods"
-# url = "https://conf.researchr.org/home/fm-2026" # TODO
+url = "https://conf.researchr.org/home/fm-2027"
 
 [event]
 start = 2027-10-18
