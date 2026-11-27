@@ -16,7 +16,7 @@ paper = [2025-02-10, 2025-03-02]
 notification = [2025-03-29]
 
 [proceedings]
-publisher = "Springer"
+publisher = "Springer LNCS"
 license = "pay-profit"
 doi = "10.1007/978-3-031-94533-5"
 

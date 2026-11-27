@@ -15,7 +15,7 @@ paper = [2020-01-23]
 notification = [2020-03-20]
 
 [proceedings]
-publisher = "Springer LNAI/LNCS"
+publisher = "Springer LNCS LNAI"
 license = "pay-profit"
 
 [extra]

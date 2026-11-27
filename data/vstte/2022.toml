@@ -15,11 +15,11 @@ paper = [2022-07-22, 2022-07-29]
 notification = [2022-09-05]
 
 [proceedings]
-publisher = "LNCS"
+publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]
-notes = "Co-located with Formal Methods in Computer-Aided Design 2022 (FMCAD 2022). Firm in 2019."
+notes = "Co-located with Formal Methods in Computer-Aided Design 2022 (FMCAD 2022)."
 
 [[cfp]]
 file = "cfp/VSTTE-2022.txt"

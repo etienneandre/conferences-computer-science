@@ -17,7 +17,7 @@ extensions = false
 notification = [2019-06-03]
 
 [proceedings]
-publisher = "LNCS"
+publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]

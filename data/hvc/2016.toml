@@ -15,8 +15,9 @@ paper = [2016-07-14, 2016-07-21]
 notification = [2016-09-05]
 
 [proceedings]
-publisher = "Springer"
+publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-319-49052-6"
 
 [extra]
-notes = "Deadline GMT. Organized by IBM Research - Haifa. Always in Haifa. Student grants available."
+notes = "Organized by IBM Research - Haifa. Always in Haifa. Student grants available."

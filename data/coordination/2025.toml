@@ -20,7 +20,7 @@ notification = [2025-03-28, 2025-04-04]
 blind = "single"
 
 [proceedings]
-publisher = "LNCS-IFIP"
+publisher = "Springer LNCS IFIP"
 license = "pay-profit-embargo"
 doi = ["10.1007/978-3-031-95589-1"]
 
@@ -30,5 +30,4 @@ accepted  = 12
 # NOTE: 10 regular papers, 2 tool papers
 
 [extra]
-colocated = "Member of DisCoTec 2025." # TODO
 notes = "The volumes will be open access from the IFIP digital library after a 3-year embargo."

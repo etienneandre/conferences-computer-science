@@ -18,7 +18,7 @@ paper = [2026-02-06, 2026-02-20]
 notification = [2026-03-27]
 
 [proceedings]
-publisher = "LNCS-IFIP"
+publisher = "Springer LNCS IFIP"
 license = "pay-profit"
 doi = "10.1007/978-3-032-28358-0"
 
@@ -41,4 +41,3 @@ accepted  = 2
 
 [extra]
 journal = "A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP)"
-colocated = "Member of DisCoTec"

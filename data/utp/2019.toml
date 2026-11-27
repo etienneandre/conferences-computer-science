@@ -6,6 +6,7 @@ url = "https://www.cs.york.ac.uk/circus/utp2019/"
 [event]
 start = 2019-10-08
 city = "Porto, Portugal"
+colocated_with = ["fm/2019"]
 
 [submission]
 format = "Springer"
@@ -13,8 +14,9 @@ abstract = [2019-10-08]
 paper = [2019-10-08]
 
 [proceedings]
-publisher = "Springer"
+publisher = "Springer LNCS"
 license = "pay-profit"
+doi = "10.1007/978-3-030-31038-7"
 
 [extra]
-notes = "Co-located with FM 2019. Every two years. Submissions in 2019 by invitation only."
+notes = "Every two years. Submissions in 2019 by invitation only."

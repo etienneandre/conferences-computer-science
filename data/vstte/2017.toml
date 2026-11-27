@@ -6,6 +6,7 @@ url = "https://vstte17.lri.fr"
 [event]
 start = 2017-09-19
 city = "Heidelberg, Germany"
+colocated_with = ["cav/2017"]
 
 [submission]
 format = "16 pages LNCS (long) / 10 pages (short)"
@@ -14,11 +15,8 @@ paper = [2017-05-01, 2017-05-08]
 notification = [2017-06-05]
 
 [proceedings]
-publisher = "LNCS"
+publisher = "Springer LNCS"
 license = "pay-profit"
-
-[extra]
-notes = "Co-located with CAV 2017."
 
 [[cfp]]
 file = "cfp/VSTTE-2017.txt"

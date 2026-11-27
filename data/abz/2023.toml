@@ -24,7 +24,7 @@ men   = 2
 women = 2
 
 [proceedings]
-publisher = "Springer"
+publisher = "Springer LNCS"
 license = "pay-profit"
 doi = "10.1007/978-3-031-33163-3"
 

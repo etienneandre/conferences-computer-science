@@ -24,7 +24,7 @@ men   = 3
 women = 0
 
 [proceedings]
-publisher = "Springer"
+publisher = "Springer LNCS"
 license = "pay-profit"
 
 [[cfp]]

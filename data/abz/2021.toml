@@ -15,7 +15,7 @@ paper = [2021-02-22, 2021-03-01]
 notification = [2021-03-29]
 
 [proceedings]
-publisher = "Springer"
+publisher = "Springer LNCS"
 license = "pay-profit"
 
 [extra]

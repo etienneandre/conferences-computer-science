@@ -14,7 +14,7 @@ paper = [2023-07-28, 2023-08-04]
 notification = [2023-09-04]
 
 [proceedings]
-publisher = "LNCS"
+publisher = "Springer LNCS"
 license = "pay-profit"
 
 [stats]
@@ -23,7 +23,7 @@ submitted = 13
 # TODO: verify — extracted from the cross-year acceptance string.
 
 [extra]
-notes = "Co-located with FMCAD 2023. Firm in 2019."
+notes = "Co-located with FMCAD 2023."
 
 [[cfp]]
 file = "cfp/VSTTE-2023.txt"

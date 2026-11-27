@@ -16,7 +16,7 @@ paper = [2020-04-20]
 notification = [2020-06-05]
 
 [proceedings]
-publisher = "LNCS"
+publisher = "Springer LNCS"
 license = "pay-profit"
 doi = "10.1007/978-3-030-63618-0"
 
