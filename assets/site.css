@@ -87,6 +87,7 @@
   --accent:     #1f4f8f;
   --accent-dim: #e8eef7;
   --open:       #1f6f5c;
+  --free:       #7fa8a0;   /* free to read, but not openly licensed */
   --closed:     #b0452f;
 
   --font-ui:    "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
@@ -102,7 +103,7 @@
     --rule:#2c3542; --rule-soft:#222a35;
     --d0:#e8705f; --d1:#e08a4a; --d2:#d0aa45; --d3:#9fb056; --d4:#4fb599;
     --past:#616b7c; --accent:#7aa8e8; --accent-dim:#1b2635;
-    --open:#4fb599; --closed:#e8705f;
+    --open:#4fb599; --closed:#e8705f; --free:#86b5ac;
   }
 }
 
@@ -236,7 +237,7 @@ a:hover { text-decoration-thickness: 2px; }
 .lic { display: inline-flex; align-items: center; gap: .3rem; font: 500 .7rem/1 var(--font-data); margin-top: .16rem; }
 .lic::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--licence-colour, var(--past)); flex: none; }
 .lic[data-open="yes"]  { color: var(--open);      --licence-colour: var(--open); }
-.lic[data-open="free"] { color: var(--ink-soft);  --licence-colour: #7fa8a0; }
+.lic[data-open="free"] { color: var(--ink-soft);  --licence-colour: var(--free); }
 .lic[data-open="no"]   { color: var(--ink-faint); --licence-colour: var(--closed); }
 
 /* Expander ---------------------------------------------------------------- */
@@ -948,6 +949,31 @@ footer .disclaimer { color: var(--ink-soft); }
 }
 .status-banner[data-profit="yes"] .lead::before { content: "\26A0\FE0E  "; }
 .page-meta .forprofit, .forprofit { color: var(--d2); font-weight: 700; }
+
+/* Publisher index: a figure and a bar in the same cell. The bar's length is
+   what makes eighty rows scannable at a glance; the figure beside it is what
+   keeps the colour from carrying the meaning alone, which is the rule
+   everywhere else on this site. */
+.pctcell { white-space: nowrap; }
+.pctnum { display: inline-block; min-width: 2.6em; text-align: right; }
+.meter {
+  display: inline-block; width: 64px; height: 8px; margin-left: .45rem;
+  background: var(--wash-deep); border-radius: 2px; overflow: hidden;
+  vertical-align: middle;
+}
+.meter i { display: block; height: 100%; width: var(--w, 0); background: var(--ink-faint); }
+/* Coloured by which axis it measures, matching the licence chips elsewhere,
+   rather than by a scale of good and bad that this page has not justified. */
+.pctcell[data-axis="open"] .meter i { background: var(--open); }
+.pctcell[data-axis="free"] .meter i { background: var(--free); }
+.pctcell small { margin-left: .35rem; color: var(--ink-faint); }
+
+.commercial { font: 500 .78rem var(--font-data); }
+.commercial[data-profit="yes"] { color: var(--closed); font-weight: 700; }
+.commercial[data-profit="no"] { color: var(--open); }
+/* Redundant on purpose: the star says nothing the two columns beside it do
+   not already say, it just says it where the eye lands first. */
+.diamond { color: var(--d2); font-size: .9em; }
 
 /* Licences a publisher actually used, with how many volumes each covers. */
 .licencelist { list-style: none; margin: .6rem 0 0; padding: 0; }

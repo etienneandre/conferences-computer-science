@@ -56,25 +56,37 @@
       {% for p in publishers %}
       <tr>
         <td><a href="{{ p.url }}">{{ p.name }}</a>
+          {%- if p.diamond %} <span class="diamond" title="Open licence and not for profit: no charge to the reader, none to the author">&#9733;</span>{% endif %}
           {%- if not p.known %} <small class="data">not in publishers.toml</small>{% endif %}</td>
         <td class="num">{{ p.editions | length }}</td>
         <td class="num">{{ p.conferences | length }}</td>
-        <td class="num">{% if p.free_pct is not none %}{{ p.free_pct }}%
-          <small>{{ p.rated }}</small>{% else %}&ndash;{% endif %}</td>
-        <td class="num">{% if p.open_pct is not none %}{{ p.open_pct }}%
-          <small>{{ p.rated }}</small>{% else %}&ndash;{% endif %}</td>
-        <td>{% if p.for_profit %}<span class="forprofit">for profit</span>
-          {%- elif p.known %}<span class="data">no</span>
+        {# A bar as well as the figure: the length is what makes a column of
+           eighty rows scannable, and the number is what keeps the colour from
+           carrying the meaning on its own. #}
+        {% for axis, value in (('free', p.free_pct), ('open', p.open_pct)) %}
+        <td class="num pctcell" data-axis="{{ axis }}">
+          {%- if value is not none %}<span class="pctnum">{{ value }}%</span>
+          <span class="meter" title="{{ p.rated }} of {{ p.editions | length }} volumes record a licence"><i
+            style="--w: {{ value }}%"></i></span>
+          {%- if p.rated != p.editions | length %}<small>of {{ p.rated }}</small>{% endif %}
+          {%- else %}<span class="pctnum">&ndash;</span>{% endif %}</td>
+        {% endfor %}
+        <td>{% if p.commercial %}<span class="commercial" data-profit="yes">for profit</span>
+          {%- elif p.commercial is false %}<span class="commercial" data-profit="no">non-profit</span>
           {%- else %}<span class="data">unknown</span>{% endif %}</td>
       </tr>
       {% endfor %}
     </tbody>
   </table>
-  <p class="chart-caption">The small figure is how many of that publisher's
-    volumes record a licence at all; a percentage of three volumes is not a
-    percentage. <code>unknown</code> means the publisher is not described in
-    <code>publishers.toml</code> yet, which is a gap in this site rather than a
-    judgement about them.</p>
+  <p class="chart-caption">
+    <span class="diamond">&#9733;</span> marks a publisher that charges neither
+    the reader nor the author: an open licence across its volumes <i>and</i> a
+    recorded answer that it is not for profit. Both halves have to be stated to
+    earn it &mdash; an unrecorded <code>for_profit</code> is not a denial, which
+    is also why a row can read <code>unknown</code> there while being perfectly
+    well known otherwise. That is a gap in this site, not a judgement about the
+    publisher. Where a publisher's figures rest on fewer volumes than it has
+    here, the shortfall is printed beside the bar.</p>
 </section>
 
 </article>

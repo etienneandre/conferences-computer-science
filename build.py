@@ -2785,9 +2785,17 @@ def publisher_report(site: Site) -> list[dict]:
             "name": bucket["name"],
             "slug": slugify(bucket["name"]),
             "url": f"/publisher/{slugify(bucket['name'])}/",
-            "for_profit": bool(entry.get("for_profit")),
-            "known": bool(entry.get("default_license") or entry.get("for_profit")
-                          is not None or entry.get("url") or entry.get("note")),
+            # Three states, not two. A publisher described in publishers.toml
+            # without a `for_profit` line has not been judged either way, and
+            # rendering that as "no" asserted something nobody wrote — which
+            # put Springer and Elsevier in the non-commercial column.
+            "commercial": (bool(entry["for_profit"])
+                           if entry.get("for_profit") is not None else None),
+            "for_profit": entry.get("for_profit") is True,
+            # The bucket's own canonical name, not `name`, which at this point
+            # is whatever the last edition of the previous loop happened to
+            # say and marked every publisher as undescribed.
+            "known": bucket["name"] in site.publishers,
             "note": entry.get("note"),
             "site": entry.get("url"),
             "default_license": entry.get("default_license"),
@@ -2801,6 +2809,12 @@ def publisher_report(site: Site) -> list[dict]:
             "first": years[0] if years else None,
             "last": years[-1] if years else None,
         })
+        # Charges neither the reader nor the author, as far as this records.
+        # Both halves have to be *stated*: an unset `for_profit` is not a
+        # denial, so it cannot earn the mark.
+        rows[-1]["diamond"] = (rows[-1]["commercial"] is False
+                               and (rows[-1]["open_pct"] or 0) >= 95
+                               and rows[-1]["rated"] >= 3)
     rows.sort(key=lambda r: (-len(r["editions"]), sort_key(r["name"])))
     # Two names that slugify alike would overwrite each other's page. Rare,
     # but a silent collision loses a whole publisher.
@@ -3035,9 +3049,7 @@ def render_places(site: Site, env: Environment) -> int:
         # Named from the data rather than from a list of mine: who charges
         # neither the reader nor the author is a fact about this corpus, and
         # it should change when the corpus does.
-        alternatives = [p for p in publishers
-                        if not p["for_profit"] and p["known"]
-                        and (p["open_pct"] or 0) >= 80 and len(p["editions"]) >= 3]
+        alternatives = [p for p in publishers if p["diamond"]]
         template = env.get_template("publisher.html.j2")
         for pub in publishers:
             write(site.out_dir / "publisher" / pub["slug"] / "index.html",
