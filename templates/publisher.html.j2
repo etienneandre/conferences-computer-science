@@ -1,0 +1,153 @@
+{% extends "base.html.j2" %}
+
+{% block title %}{{ pub.name }} &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title = pub.name %}
+{% set social_url = config.site.base_url ~ pub.url %}
+{% set social_description %}{{ pub.editions | length }} proceedings volumes from
+  {{ pub.conferences | length }} conferences{% if pub.first %},
+  {{ pub.first }} to {{ pub.last }}{% endif %}{% if pub.free_pct is not none %},
+  {{ pub.free_pct }}% of them free to read{% endif %}.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> /
+    <a href="/publisher/">Publishers</a> / {{ pub.name }}</p>
+  <h1 class="page-title">{{ pub.name }}</h1>
+  <div class="page-meta">
+    {% if pub.site %}
+    <span class="item">Website<b><a href="{{ pub.site }}">{{ pub.site
+      | replace('https://', '') | replace('http://', '') }} &#8599;</a></b></span>
+    {% endif %}
+    <span class="item">Volumes here<b>{{ pub.editions | length }}</b></span>
+    <span class="item">Conferences<b>{{ pub.conferences | length }}</b></span>
+    {% if pub.first %}
+    <span class="item">Covered<b>{{ pub.first }}&ndash;{{ pub.last }}</b></span>
+    {% endif %}
+    {% if pub.free_pct is not none %}
+    <span class="item">Free to read<b>{{ pub.free_pct }}%</b></span>
+    <span class="item">Open licence<b>{{ pub.open_pct }}%</b></span>
+    {% endif %}
+    {% if pub.for_profit %}
+    <span class="item">Publisher<b class="forprofit">for profit</b></span>
+    {% endif %}
+  </div>
+</header>
+
+{% if pub.for_profit %}
+{# The same loud treatment the gender flags use, and for the same reason: a
+   fact a reader should not have to go looking for. #}
+<div class="status-banner" data-profit="yes">
+  <span class="lead">Commercial</span>
+  <p>{% if pub.note %}{{ pub.note }}{% else %}A for-profit publisher: the
+    margin is the point of the arrangement, and the research it sells was
+    mostly paid for publicly.{% endif %}</p>
+</div>
+{% elif pub.note %}
+<section class="panel">
+  <p class="prose">{{ pub.note }}</p>
+</section>
+{% endif %}
+
+{% if pub.for_profit and pub.open %}
+<section class="panel">
+  <h2 class="panel-title">An open licence here does not mean nobody paid</h2>
+  <div class="prose">
+    <p>{{ pub.open }} of the {{ pub.rated }} volumes here whose licence is
+      recorded carry an open one. On the three things this site records, those volumes are
+      spotless: free to read, openly licensed, authors keeping their rights.
+      The fourth thing &mdash; <b>who paid, and how much</b> &mdash; is not in
+      this data and is not visible anywhere on this page.</p>
+    <p>At a commercial publisher the charge has usually moved rather than
+      disappeared. Instead of libraries paying to read, the author or their
+      funder pays to publish, through an article processing charge. The paper
+      comes out free; the margin does not.</p>
+    <p>That matters because the two arrangements shut out different people. A
+      paywall keeps out readers without a subscription. A publishing charge
+      keeps out authors without a grant &mdash; which, for the same money,
+      is the harder exclusion to see and the harder one to argue with, because
+      the resulting paper looks perfectly open.</p>
+    {% if alternatives %}
+    <p>Conferences in this corpus also publish with
+      {% for alt in alternatives %}
+      {%- if loop.last and not loop.first %} and {% elif not loop.first %}, {% endif -%}
+      <a href="{{ alt.url }}">{{ alt.name }}</a>{% endfor %}, which charge neither
+      the reader nor the author. That
+      combination is the one this page cannot fault.</p>
+    {% endif %}
+  </div>
+</section>
+{% endif %}
+
+{% if pub.licences %}
+<section class="panel">
+  <h2 class="panel-title">Licences used</h2>
+  <p class="chart-caption">As recorded on each edition, falling back to this
+    publisher's default where an edition says nothing
+    {%- if pub.default_license %} (<code>{{ pub.default_license }}</code>){% endif %}.
+    The three axes are kept apart on purpose: free to read, openly licensed and
+    authors keeping copyright are different claims, and a publisher can satisfy
+    one without the others.</p>
+  <ul class="licencelist">
+    {% for lic in pub.licences %}
+    <li>
+      <span class="lic" data-open="{{ lic.openness or 'no' }}">{{ lic.label }}</span>
+      <span class="data">{{ lic.count }} volume{{ 's' if lic.count != 1 }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section class="panel">
+  <h2 class="panel-title">Conferences published here</h2>
+  <p class="chart-caption">{{ pub.conferences | length }} series, by acronym.</p>
+  <p class="taglist">
+    {%- for c in pub.conferences %}<a href="{{ c.url }}" class="tag">{{ c.acronym }}</a>
+    {% endfor %}</p>
+</section>
+
+<section class="panel">
+  <h2 class="panel-title">Volumes</h2>
+  <table class="editions sortable" id="pubtable">
+    <thead>
+      <tr>
+        <th data-sort="text">Edition</th>
+        <th class="num" data-sort="number" aria-sort="descending">Year</th>
+        <th data-sort="text">Licence</th>
+        <th data-sort="text">Where</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for e in pub.editions %}
+      <tr>
+        <td><a href="{{ e.url }}">{{ e.acronym }}</a>
+          {%- if e.key != e.year | string %} <span class="data">{{ e.key }}</span>{% endif %}</td>
+        <td class="num">{{ e.year }}</td>
+        <td>{% set lic = site.licence(e.proceedings.get('license')) %}
+          {%- if lic.get('label') %}<span class="lic"
+            data-open="{{ lic.get('openness') or 'no' }}">{{ lic.label }}</span>
+          {%- elif e.proceedings.get('none') %}<span class="data">no proceedings</span>
+          {%- else %}<span class="data">&ndash;</span>{% endif %}</td>
+        <td class="where">{% if e.online %}Online {{ online_emoji }}
+          {%- else %}{% set p = site.city(e.city_name) %}{{ p.display or '&ndash;' | safe }}
+          {{ p | flagmark }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script src="/assets/places.js?v={{ asset_version }}" defer></script>
+{% endblock %}

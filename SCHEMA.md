@@ -870,8 +870,13 @@ note = "lobbying against open science"
 - `note` carries commentary about the publisher itself, so it displays wherever
   that publisher appears — including on volumes published under a different
   licence.
+- `for_profit` drives the publisher's own page at `/publisher/<slug>/`, which
+  states the fact plainly and, where that publisher also issues open-licensed
+  volumes, says what an article processing charge is. It is a claim about the
+  publisher, never about any one edition's licence.
 - A publisher used in `data/` but absent here produces a **warning**, not an
-  error: the name renders as plain text with no licence styling.
+  error: the name renders as plain text with no licence styling, and its page
+  says it is not described here yet rather than guessing.
 
 ---
 

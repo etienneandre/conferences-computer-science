@@ -1862,7 +1862,7 @@ class Site:
     def publisher(self, name: str | None) -> dict:
         """Always the same shape, so templates can test one key."""
         if not name:
-            return {"name": None}
+            return {"name": None, "page": None}
         entry = dict(self.publishers.get(name, {}))
         if not entry:
             for canonical, value in self.publishers.items():
@@ -1871,6 +1871,9 @@ class Site:
                     entry["canonical"] = canonical
                     break
         entry["name"] = name
+        # Where this publisher's own page lives, computed here so the edition
+        # page and the publisher page cannot disagree about the slug.
+        entry["page"] = f"/publisher/{slugify(entry.get('canonical') or name)}/"
         return entry
 
     def enum(self, group: str, key) -> dict:
@@ -2700,6 +2703,93 @@ def coverage_report(site: Site) -> dict:
     }
 
 
+def publisher_report(site: Site) -> list[dict]:
+    """Who publishes what here, and on what terms.
+
+    The corpus already answers a question no single conference page can: a
+    reader choosing where to submit is also choosing a publisher, and the
+    three axes this site keeps apart — free to read, open licence, authors
+    keep their rights — only become legible when several hundred volumes are
+    counted together.
+
+    `for_profit` has been in `publishers.toml` and in the schema since the
+    beginning and was read by nothing. This is where it earns its place.
+    """
+    buckets: dict[str, dict] = {}
+    for edition in site.editions:
+        name = edition.proceedings.get("publisher")
+        if not isinstance(name, str) or not name.strip():
+            continue
+        entry = site.publisher(name)
+        # Aliases fold into their canonical name, or one publisher would be
+        # three pages with a third of the evidence each.
+        key = entry.get("canonical") or name
+        bucket = buckets.setdefault(key, {
+            "name": key, "entry": site.publisher(key), "editions": [],
+            "conferences": {}, "licences": {},
+        })
+        bucket["editions"].append(edition)
+        bucket["conferences"].setdefault(edition.slug, edition.conference)
+        licence = edition.proceedings.get("license") or (
+            bucket["entry"].get("default_license"))
+        if isinstance(licence, str) and licence:
+            bucket["licences"][licence] = bucket["licences"].get(licence, 0) + 1
+
+    rows = []
+    for bucket in buckets.values():
+        editions = bucket["editions"]
+        years = sorted(e.year for e in editions if e.year)
+        free = openish = 0
+        rated = 0
+        for edition in editions:
+            if edition.proceedings.get("none"):
+                continue
+            key = edition.proceedings.get("license")
+            if not isinstance(key, str) or not key:
+                continue
+            rated += 1
+            openness = site.licence(key).get("openness")
+            free += openness in ("yes", "free")
+            openish += openness == "yes"
+        entry = bucket["entry"]
+        licences = sorted(
+            ({"key": key, "count": count, "label": site.licence(key).get("label") or key,
+              "openness": site.licence(key).get("openness")}
+             for key, count in bucket["licences"].items()),
+            key=lambda item: (-item["count"], item["key"]))
+        rows.append({
+            "name": bucket["name"],
+            "slug": slugify(bucket["name"]),
+            "url": f"/publisher/{slugify(bucket['name'])}/",
+            "for_profit": bool(entry.get("for_profit")),
+            "known": bool(entry.get("default_license") or entry.get("for_profit")
+                          is not None or entry.get("url") or entry.get("note")),
+            "note": entry.get("note"),
+            "site": entry.get("url"),
+            "default_license": entry.get("default_license"),
+            "editions": sorted(editions, key=lambda e: (-(e.year or 0), e.acronym)),
+            "conferences": sorted(bucket["conferences"].values(),
+                                  key=lambda c: sort_key(c.acronym)),
+            "licences": licences,
+            "rated": rated, "free": free, "open": openish,
+            "free_pct": round(100 * free / rated) if rated else None,
+            "open_pct": round(100 * openish / rated) if rated else None,
+            "first": years[0] if years else None,
+            "last": years[-1] if years else None,
+        })
+    rows.sort(key=lambda r: (-len(r["editions"]), sort_key(r["name"])))
+    # Two names that slugify alike would overwrite each other's page. Rare,
+    # but a silent collision loses a whole publisher.
+    seen: dict[str, int] = {}
+    for row in rows:
+        base = row["slug"]
+        seen[base] = seen.get(base, 0) + 1
+        if seen[base] > 1:
+            row["slug"] = f"{base}-{seen[base]}"
+            row["url"] = f"/publisher/{row['slug']}/"
+    return rows
+
+
 def series_reach(site: Site, conference: Conference) -> dict | None:
     """How far a series roams, in three numbers.
 
@@ -2911,7 +3001,31 @@ def render_places(site: Site, env: Environment) -> int:
     # Where the record stops, which is the other half of the same question.
     write(site.out_dir / "gaps" / "index.html",
           env.get_template("gaps.html.j2").render(coverage=coverage_report(site)))
-    return pages + 1
+    pages += 1
+
+    # A page per publisher. Choosing where to submit is also choosing one of
+    # these, and the terms only become legible once several hundred volumes
+    # are counted together.
+    publishers = publisher_report(site)
+    if publishers:
+        # Named from the data rather than from a list of mine: who charges
+        # neither the reader nor the author is a fact about this corpus, and
+        # it should change when the corpus does.
+        alternatives = [p for p in publishers
+                        if not p["for_profit"] and p["known"]
+                        and (p["open_pct"] or 0) >= 80 and len(p["editions"]) >= 3]
+        template = env.get_template("publisher.html.j2")
+        for pub in publishers:
+            write(site.out_dir / "publisher" / pub["slug"] / "index.html",
+                  template.render(pub=pub,
+                                  alternatives=[a for a in alternatives
+                                                if a["name"] != pub["name"]][:4]))
+        write(site.out_dir / "publisher" / "index.html",
+              env.get_template("publishers.html.j2").render(
+                  publishers=publishers,
+                  total=sum(len(p["editions"]) for p in publishers)))
+        pages += len(publishers) + 1
+    return pages
 
 
 # --------------------------------------------------------------------------

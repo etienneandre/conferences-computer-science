@@ -1,0 +1,85 @@
+{% extends "base.html.j2" %}
+
+{% block title %}Publishers &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title = 'Publishers' %}
+{% set social_url = config.site.base_url ~ '/publisher/' %}
+{% set social_description %}Who publishes the proceedings of
+  {{ publishers | sum(attribute='editions' | length) if false else total }} recorded
+  editions, how much of it a reader can obtain without paying, and how much of
+  it is openly licensed.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / Publishers</p>
+  <h1 class="page-title">Publishers</h1>
+  <p class="page-sub">Who publishes {{ total }} recorded volumes, and on what
+    terms.</p>
+</header>
+
+<section class="panel">
+  <div class="prose">
+    <p>Choosing where to submit is also choosing a publisher, and that choice
+      is usually made without seeing it stated. Three things are kept apart
+      here, because they are different claims: whether a reader can obtain the
+      paper <b>without paying</b>, whether it carries an <b>open licence</b>,
+      and whether the <b>authors keep their rights</b>. A publisher can satisfy
+      one and fail the others, and several do.</p>
+    <p>A fourth thing is not recorded anywhere on this site and is worth
+      naming: <b>who paid</b>. Where a commercial publisher issues a paper
+      under an open licence, the charge has usually moved to the author rather
+      than disappeared. Those volumes look spotless on all three axes above.
+      The publisher's own page says so in full.</p>
+  </div>
+</section>
+
+<section class="panel">
+  <table class="editions sortable" id="pubindex">
+    <thead>
+      <tr>
+        <th data-sort="text">Publisher</th>
+        <th class="num" data-sort="number" aria-sort="descending">Volumes</th>
+        <th class="num" data-sort="number">Confs</th>
+        <th class="num" data-sort="number">Free to read</th>
+        <th class="num" data-sort="number">Open licence</th>
+        <th data-sort="text">Commercial</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for p in publishers %}
+      <tr>
+        <td><a href="{{ p.url }}">{{ p.name }}</a>
+          {%- if not p.known %} <small class="data">not in publishers.toml</small>{% endif %}</td>
+        <td class="num">{{ p.editions | length }}</td>
+        <td class="num">{{ p.conferences | length }}</td>
+        <td class="num">{% if p.free_pct is not none %}{{ p.free_pct }}%
+          <small>{{ p.rated }}</small>{% else %}&ndash;{% endif %}</td>
+        <td class="num">{% if p.open_pct is not none %}{{ p.open_pct }}%
+          <small>{{ p.rated }}</small>{% else %}&ndash;{% endif %}</td>
+        <td>{% if p.for_profit %}<span class="forprofit">for profit</span>
+          {%- elif p.known %}<span class="data">no</span>
+          {%- else %}<span class="data">unknown</span>{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p class="chart-caption">The small figure is how many of that publisher's
+    volumes record a licence at all; a percentage of three volumes is not a
+    percentage. <code>unknown</code> means the publisher is not described in
+    <code>publishers.toml</code> yet, which is a gap in this site rather than a
+    judgement about them.</p>
+</section>
+
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script src="/assets/places.js?v={{ asset_version }}" defer></script>
+{% endblock %}

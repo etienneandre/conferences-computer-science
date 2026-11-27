@@ -321,7 +321,12 @@ a:hover { text-decoration-thickness: 2px; }
 
 .factlist { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: .38rem .9rem; font-size: .85rem; }
 .factlist dt { font: 500 .72rem/1.5 var(--font-data); color: var(--ink-faint); text-transform: uppercase; letter-spacing: .05em; }
-.factlist dd { margin: 0; }
+/* `min-width: 0`, because a grid item will not shrink below its min-content
+   and one nowrap child then widens the whole page. The nowrap below is right
+   for a figure like "since 2019" and wrong for the sentences that now live in
+   this column, so it is lifted inside `dd`. */
+.factlist dd { margin: 0; min-width: 0; overflow-wrap: break-word; }
+.factlist dd small { white-space: normal; }
 
 .cfp-list { list-style: none; margin: 0; padding: 0; }
 .cfp-list li { padding: .4rem 0; border-bottom: 1px solid var(--rule-soft); font-size: .85rem; }
@@ -893,6 +898,38 @@ footer .disclaimer { color: var(--ink-soft); }
 }
 .status-banner[data-band="far-below"] .lead { color: var(--d2); }
 
+/* A commercial publisher, in the same voice as the gender flags: a fact a
+   reader should meet rather than have to go looking for. The warning glyph
+   and the weight are deliberate — this site has a view, and states it where
+   it can be checked against the licence table below. */
+.status-banner[data-profit="yes"] {
+  background: color-mix(in srgb, var(--d2) 12%, transparent);
+  border-left: 5px solid var(--d2); margin: 1.1rem 0 1.4rem;
+}
+.status-banner[data-profit="yes"] .lead {
+  color: var(--d2); font-size: .92rem; text-transform: uppercase;
+  letter-spacing: .04em;
+}
+.status-banner[data-profit="yes"] .lead::before { content: "\26A0\FE0E  "; }
+.page-meta .forprofit, .forprofit { color: var(--d2); font-weight: 700; }
+
+/* Licences a publisher actually used, with how many volumes each covers. */
+.licencelist { list-style: none; margin: .6rem 0 0; padding: 0; }
+.licencelist li {
+  display: flex; gap: .6rem; align-items: baseline; padding: .3rem 0;
+  border-top: 1px solid var(--rule-soft);
+}
+.licencelist .data { font: 400 .8rem var(--font-data); color: var(--ink-soft); }
+
+/* A flow of conference acronyms: a table would be nine-tenths white space. */
+.taglist { display: flex; flex-wrap: wrap; gap: .3rem .4rem; margin: .6rem 0 0; }
+.taglist .tag {
+  font: 500 .78rem var(--font-data); padding: .15rem .45rem;
+  background: var(--wash); border-radius: 2px; color: var(--ink-soft);
+  text-decoration: none;
+}
+.taglist .tag:hover { background: var(--accent-dim); color: var(--accent); }
+
 /* The same verdict in the heading block, for a reader who never scrolls. */
 .page-meta .genderflag[data-band="below"] { color: var(--d2); }
 .page-meta .genderflag[data-band="far-below"],
@@ -1113,6 +1150,9 @@ footer .disclaimer { color: var(--ink-soft); }
 /* .factlist small is nowrap, which is right for "since 2019" and wrong for a
    sentence about who guest-edited. */
 .sissue small { white-space: normal; }
+/* Same trap: a publisher's note is a sentence, and nowrap pushed it through
+   the right edge of a phone. */
+.pubnote { display: block; white-space: normal; margin-top: .2rem; }
 .sissue i { font-style: italic; color: var(--ink-soft); }
 /* The announcement, once the record exists: kept, because an edition can
    promise two issues and publish one, and pushed below what did appear. */

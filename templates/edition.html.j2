@@ -167,10 +167,14 @@
         {% if proc.get('none') %}
         <dt>Proceedings</dt><dd>No formal proceedings.</dd>
         {% elif pub.name %}
-        <dt>Proceedings</dt><dd>{{ pub.name }}{% if lic.get('label') %} &mdash;
+        {# The publisher name links to its own page, where the terms are
+           counted across every volume rather than argued from this one. #}
+        <dt>Proceedings</dt><dd><a href="{{ pub.page }}">{{ pub.name }}</a>
+          {%- if pub.get('for_profit') %} <span class="forprofit" title="A commercial publisher">&#9888;&#65038;</span>{% endif %}
+          {%- if lic.get('label') %} &mdash;
           <span class="lic" data-open="{{ lic.openness }}">{{ lic.label }}</span>{% endif %}
           {% if edition.post_proceedings %}<br><small>Published after the event.</small>{% endif %}
-          {% if pub.get('note') %}<br><small>{{ pub.note }}</small>{% endif %}</dd>
+          {% if pub.get('note') %}<small class="pubnote">{{ pub.note }}</small>{% endif %}</dd>
         {% endif %}
         {% if edition.editors %}
         {# On the volume's cover, and how it is cited. Listed in the order the

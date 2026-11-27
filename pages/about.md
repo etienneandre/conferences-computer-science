@@ -69,6 +69,8 @@ open licence, and whether the authors keep their copyright. "Free to read" and
 "open access" are not the same thing, and a publisher hosting free PDFs it owns
 outright should not be described as if it were.
 
+[Each publisher has a page](/publisher/) counting those three axes across every volume here. Where a commercial publisher issues open-licensed papers, that page also names the fourth thing this site does not record: who paid. An article processing charge does not make the money disappear, it moves it from the reader to the author — and the two exclude different people.
+
 ## Corrections
 
 Corrections are very welcome and are the main way this stays accurate. Anything at all — a wrong date, a missing edition, a conference that should be here — is worth reporting.
