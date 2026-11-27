@@ -1,0 +1,128 @@
+{% extends "base.html.j2" %}
+
+{% block title %}Publishers &mdash; {{ config.site.title }}{% endblock %}
+
+{% block meta %}
+{% set social_title = 'Publishers' %}
+{% set social_url = config.site.base_url ~ '/publisher/' %}
+{% set social_description %}Who publishes the proceedings of
+  {{ publishers | sum(attribute='editions' | length) if false else total }} recorded
+  editions, how much of it a reader can obtain without paying, and how much of
+  it is openly licensed.{% endset %}
+<meta name="description" content="{{ social_description | oneline }}">
+<link rel="canonical" href="{{ social_url }}">
+{% include "_social.html.j2" %}
+{% endblock %}
+
+{% block content %}
+<article>
+
+<header class="page-head">
+  <p class="crumbs"><a href="/">All conferences</a> / Publishers</p>
+  <h1 class="page-title">Publishers</h1>
+  <p class="page-sub">Who publishes {{ total }} recorded volumes, and on what
+    terms.</p>
+</header>
+
+<section class="panel">
+  <div class="prose">
+    <p>Choosing where to submit is also choosing a publisher, and that choice
+      is usually made without seeing it stated. Three things are kept apart
+      here, because they are different claims: whether a reader can obtain the
+      paper <b>without paying</b>, whether it carries an <b>open licence</b>,
+      and whether the <b>authors keep their rights</b>. A publisher can satisfy
+      one and fail the others, and several do.</p>
+    <p>A fourth thing is not recorded anywhere on this site and is worth
+      naming: <b>who paid</b>. Where a commercial publisher issues a paper
+      under an open licence, the charge has usually moved to the author rather
+      than disappeared. Those volumes look spotless on all three axes above.
+      The publisher's own page says so in full.</p>
+  </div>
+</section>
+
+<section class="panel">
+  <table class="editions sortable" id="pubindex">
+    <thead>
+      <tr>
+        <th data-sort="text">Publisher</th>
+        <th class="num" data-sort="number" aria-sort="descending">Volumes</th>
+        <th class="num" data-sort="number">Confs</th>
+        <th class="num" data-sort="number">Free to read</th>
+        <th class="num" data-sort="number">Open licence</th>
+        <th data-sort="text">Commercial</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for p in publishers %}
+      <tr>
+        <td><a href="{{ p.url }}">{{ p.name }}</a>
+          {%- if p.diamond %} <span class="diamond" title="Open licence and not for profit: no charge to the reader, none to the author">&#9733;</span>{% endif %}
+          {%- if not p.known %} <small class="data">not in publishers.toml</small>{% endif %}</td>
+        <td class="num">{{ p.editions | length }}</td>
+        <td class="num">{{ p.conferences | length }}</td>
+        {# A bar as well as the figure: the length is what makes a column of
+           eighty rows scannable, and the number is what keeps the colour from
+           carrying the meaning on its own. #}
+        {# Three fixed slots — figure, bar, denominator — so a row carrying
+           "of 102" does not shunt its percentage out of line with the rest. #}
+        {% for value, band in ((p.free_pct, p.free_band), (p.open_pct, p.open_band)) %}
+        <td class="num">
+          <span class="pctcell">
+            {%- if value is not none %}<span class="pctnum">{{ value }}%</span>
+            <span class="meter" data-band="{{ band }}"><i style="--w: {{ value }}%"></i></span>
+            <span class="pctof">{% if p.rated != p.editions | length %}of {{ p.rated }}{% endif %}</span>
+            {%- else %}<span class="pctnum">&ndash;</span><span class="meter"></span>
+            <span class="pctof"></span>{% endif %}</span></td>
+        {% endfor %}
+        <td>{% if p.commercial %}<span class="commercial" data-profit="yes">for profit</span>
+          {%- elif p.commercial is false %}<span class="commercial" data-profit="no">non-profit</span>
+          {%- else %}<a class="data unanswered" href="#unanswered">not recorded</a>{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p class="chart-caption">
+    Bars run red below 10%, through orange and amber, to green at 95% and
+    above; the figure beside each one is there so the colour is never the only
+    thing saying it.
+    <span class="diamond">&#9733;</span> marks a publisher that charges neither
+    the reader nor the author: an open licence across its volumes <i>and</i> a
+    recorded answer that it is not for profit. Both halves have to be stated to
+    earn it &mdash; an unrecorded <code>for_profit</code> is not a denial, which
+    is also why a row can read <i>not recorded</i> there while being perfectly
+    well described otherwise. That is a gap in this site, not a judgement about the
+    publisher. Where a publisher's figures rest on fewer volumes than it has
+    here, the shortfall is printed beside the bar.</p>
+</section>
+
+{% if unanswered %}
+<section class="panel" id="unanswered">
+  <h2 class="panel-title">Publishers with no answer on <code>for_profit</code></h2>
+  <p class="chart-caption">The <i>Commercial</i> column is only as useful as
+    this list is short. {{ unanswered_count }} publishers here, carrying
+    {{ unanswered_volumes }} of {{ total }} volumes, have no
+    <code>for_profit</code> line in <code>publishers.toml</code> &mdash; so the
+    site cannot say either way, and does not. Most of them are otherwise
+    described; the field simply was not filled in. The twelve carrying the most
+    volumes are below, since answering those covers most of the corpus.</p>
+  <ul class="nearly">
+    {% for p in unanswered %}
+    <li>
+      <a href="{{ p.url }}">{{ p.name }}</a>
+      <span class="data">{{ p.editions | length }} volume{{ 's' if p.editions | length != 1 }}</span>
+      <span class="nearly-holes">{{ p.conferences | length }} series</span>
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="chart-caption">One line each: <code>for_profit = true</code> or
+    <code>for_profit = false</code>. It is a claim about the publisher, never
+    about any one edition's licence (&sect;&nbsp;6 of the schema).</p>
+</section>
+{% endif %}
+
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script src="/assets/places.js?v={{ asset_version }}" defer></script>
+{% endblock %}

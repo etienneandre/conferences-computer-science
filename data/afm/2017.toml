@@ -14,7 +14,7 @@ paper = [2017-03-27, 2017-04-03]
 notification = [2017-04-17, 2017-04-24]
 
 [proceedings]
-publisher = "None?"
+none = true
 
 [extra]
 notes = "Previous editions: AFM06, AFM07, AFM08, AFM09, and AFM10."

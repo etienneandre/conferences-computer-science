@@ -14,7 +14,7 @@ paper = [2017-05-05, 2017-05-15]
 notification = [2017-06-01]
 
 [proceedings]
-publisher = "None?"
+none = true
 
 [extra]
 notes = "Co-located with ICSSP 2017"

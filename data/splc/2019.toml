@@ -15,7 +15,7 @@ paper = [2019-03-19]
 notification = [2019-05-14]
 
 [proceedings]
-publisher = "ACM digital library"
+publisher = "ACM"
 license = "acm"
 
 [extra]
