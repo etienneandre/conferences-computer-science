@@ -20,7 +20,7 @@ rebuttal_start = 2025-12-08
 rebuttal_end = 2025-12-10
 
 [proceedings]
-publisher = "Springer ARCoSS LNCS"
+publisher = "Springer LNCS ARCoSS"
 license = "cc-by"
 doi = ["10.1007/978-3-032-22752-2", "10.1007/978-3-032-22749-2"]
 

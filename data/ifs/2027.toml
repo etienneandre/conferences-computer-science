@@ -17,7 +17,7 @@ notification = [2026-12-22]
 extensions = false
 
 [proceedings]
-publisher = "Springer ARCoSS LNCS"
+publisher = "Springer LNCS ARCoSS"
 license = "cc-by"
 
 [review]

@@ -19,7 +19,7 @@ rebuttal_start = 2026-12-07
 rebuttal_end = 2026-12-09
 
 [proceedings]
-publisher = "Springer ARCoSS LNCS"
+publisher = "Springer LNCS ARCoSS"
 license = "cc-by"
 
 [review]

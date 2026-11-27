@@ -33,9 +33,6 @@ default_license = "cc-by"
 # TODO: no licence recorded for this publisher.
 # TODO: 29 editions, mixed licences: ? ×28, pay ×1
 
-["Springer ARCoSS LNCS"]
-default_license = "cc-by"
-
 ["IEEE CPS"]
 default_license = "pay"
 
@@ -142,7 +139,7 @@ default_license = "free"
 default_license = "pay-profit"
 
 ["Springer LNCS ARCoSS"]
-default_license = "pay-profit"
+default_license = "cc-by"
 
 ["AAAI Press"]
 default_license = "free-copy"
@@ -246,9 +243,6 @@ default_license = "pay-profit"
 ["No proceedings"]
 # TODO: no licence recorded for this publisher.
 
-["Springer ARCoSS / LNCS"]
-default_license = "pay-profit"
-
 ["FoLLI-LNCS"]
 default_license = "pay-profit"
 
@@ -278,9 +272,6 @@ default_license = "pay-profit"
 
 ["ACM SigPlan"]
 default_license = "acm"
-
-["Springer LNCS / ARCoSS"]
-default_license = "cc-by"
 
 ["SIGBED Review"]
 default_license = "acm"

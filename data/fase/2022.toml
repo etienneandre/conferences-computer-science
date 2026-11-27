@@ -16,7 +16,7 @@ paper = [2021-10-14, 2021-10-24]
 notification = [2021-12-23]
 
 [proceedings]
-publisher = "Springer ARCoSS LNCS"
+publisher = "Springer LNCS ARCoSS"
 license = "cc-by"
 
 [extra]
