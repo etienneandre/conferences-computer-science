@@ -195,9 +195,6 @@ default_license = "free"
 ["No formal proceedings (PDF online)"]
 default_license = "free"
 
-["ACM open"]
-default_license = "free"
-
 ["PACMSE"]
 default_license = "acm"
 # TODO: 2 editions, mixed licences: acm ×1, cc-by ×1

@@ -17,6 +17,7 @@ notification = [2024-07-05]
 [proceedings]
 publisher = "ACM"
 license = "pay"
+doi = "10.1109/ICSE55347.2025"
 
 [extra]
 notes = "ICSE 2025 will follow a dual deadline structure introduced in 2024. Also a doctoral symposium, tutorials, demos, and other events. Author response period: 11-13 June 2024."

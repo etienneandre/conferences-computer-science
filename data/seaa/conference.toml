@@ -1,6 +1,6 @@
 acronym = "SEAA"
 name = "Euromicro Conference on Software Engineering and Advanced Applications"
-# url = "https://www.dsd-seaa.com/"
+homepage = "https://www.dsd-seaa.com/"
 
 [links]
 dblp = "euromicro"
