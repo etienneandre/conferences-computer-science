@@ -2727,6 +2727,22 @@ def coverage_report(site: Site) -> dict:
     }
 
 
+def openness_band(pct: int | None) -> str | None:
+    """Five steps from "almost none" to "all of it", for a bar's colour.
+
+    The thresholds are stated on the page rather than left to the eye, and
+    they reuse the deadline palette, which is already this site's scale for
+    how bad a number is. Colour is never the only signal: the figure sits
+    beside every bar.
+    """
+    if pct is None:
+        return None
+    for floor, band in ((95, "full"), (70, "most"), (40, "half"), (10, "some")):
+        if pct >= floor:
+            return band
+    return "almost-none"
+
+
 def publisher_report(site: Site) -> list[dict]:
     """Who publishes what here, and on what terms.
 
@@ -2806,6 +2822,8 @@ def publisher_report(site: Site) -> list[dict]:
             "rated": rated, "free": free, "open": openish,
             "free_pct": round(100 * free / rated) if rated else None,
             "open_pct": round(100 * openish / rated) if rated else None,
+            "free_band": openness_band(round(100 * free / rated) if rated else None),
+            "open_band": openness_band(round(100 * openish / rated) if rated else None),
             "first": years[0] if years else None,
             "last": years[-1] if years else None,
         })
@@ -3056,10 +3074,18 @@ def render_places(site: Site, env: Environment) -> int:
                   template.render(pub=pub,
                                   alternatives=[a for a in alternatives
                                                 if a["name"] != pub["name"]][:4]))
+        # Publishers carrying volumes with no `for_profit` answer, biggest
+        # first. The column is only as useful as this list is short.
+        unanswered = [p for p in publishers if p["commercial"] is None]
+        unanswered.sort(key=lambda p: -len(p["editions"]))
+        total = sum(len(p["editions"]) for p in publishers)
         write(site.out_dir / "publisher" / "index.html",
               env.get_template("publishers.html.j2").render(
-                  publishers=publishers,
-                  total=sum(len(p["editions"]) for p in publishers)))
+                  publishers=publishers, total=total,
+                  unanswered=unanswered[:12],
+                  unanswered_count=len(unanswered),
+                  unanswered_volumes=sum(len(p["editions"]) for p in unanswered),
+                  described=sum(len(p["editions"]) for p in publishers if p["known"])))
         pages += len(publishers) + 1
     return pages
 

@@ -954,19 +954,33 @@ footer .disclaimer { color: var(--ink-soft); }
    what makes eighty rows scannable at a glance; the figure beside it is what
    keeps the colour from carrying the meaning alone, which is the rule
    everywhere else on this site. */
-.pctcell { white-space: nowrap; }
-.pctnum { display: inline-block; min-width: 2.6em; text-align: right; }
+/* Three fixed slots rather than a flow: the figure, the bar and the "of 102"
+   each keep their own column, so one row carrying a denominator cannot shunt
+   its percentage out of line with the eighty rows around it. */
+/* On a span inside the cell, never on the `td` itself: `display: grid` would
+   replace `display: table-cell` and drop the cell out of the table's column
+   layout entirely, which stacks the two figures on top of each other. */
+.pctcell {
+  white-space: nowrap;
+  display: inline-grid; grid-template-columns: 2.9rem 64px 3.6rem;
+  gap: .45rem; align-items: center;
+}
+.pctnum { text-align: right; }
+.pctof { text-align: left; font-size: .76em; color: var(--ink-faint); }
 .meter {
-  display: inline-block; width: 64px; height: 8px; margin-left: .45rem;
-  background: var(--wash-deep); border-radius: 2px; overflow: hidden;
-  vertical-align: middle;
+  width: 64px; height: 8px; background: var(--wash-deep);
+  border-radius: 2px; overflow: hidden;
 }
 .meter i { display: block; height: 100%; width: var(--w, 0); background: var(--ink-faint); }
-/* Coloured by which axis it measures, matching the licence chips elsewhere,
-   rather than by a scale of good and bad that this page has not justified. */
-.pctcell[data-axis="open"] .meter i { background: var(--open); }
-.pctcell[data-axis="free"] .meter i { background: var(--free); }
-.pctcell small { margin-left: .35rem; color: var(--ink-faint); }
+/* The deadline palette, which is already this site's scale for how bad a
+   number is. Thresholds are printed under the table, and the figure sits
+   beside every bar, so colour is never carrying this alone. */
+.meter[data-band="almost-none"] i { background: var(--closed); }
+.meter[data-band="some"] i       { background: var(--d1); }
+.meter[data-band="half"] i       { background: var(--d2); }
+.meter[data-band="most"] i       { background: var(--d3); }
+.meter[data-band="full"] i       { background: var(--open); }
+.unanswered { text-decoration: underline dotted; }
 
 .commercial { font: 500 .78rem var(--font-data); }
 .commercial[data-profit="yes"] { color: var(--closed); font-weight: 700; }
