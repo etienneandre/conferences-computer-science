@@ -29,22 +29,32 @@
      reader who takes one line away should take this one. #}
   <h2 class="panel-title">What this is, and what it is not</h2>
   <div class="prose">
-    <p><b>Every line below is a rate among the editions that record the
-      fact</b> &mdash; never a count. Coverage here varies enormously by year,
-      so a count of editions doing artifact evaluation would climb through the
+    <p><b>Nothing here is a count.</b> Coverage varies enormously by year, so
+      a count of editions doing artifact evaluation would climb through the
       2010s whatever the field did, purely because recent years are better
-      covered. A rate among records moves only when the records move.</p>
-    <p>That removes one bias. It does not make this a sample of the field.
-      This corpus is what one person had time to enter: it leans towards
-      formal methods, and within that towards conferences that publish their
-      numbers at all &mdash; which is not a neutral subset, since a conference
-      willing to publish its acceptance rate may differ from one that is not.
-      Each strip carries how many editions it rests on. Where fewer than
-      {{ trends.floor }} record a fact, no bar is drawn: a rate out of three
-      editions is not a rate.</p>
-    <p>A missing bar therefore means <i>too few records</i>, never <i>zero</i>.
-      The two are different claims and this page keeps them apart, as the rest
-      of the site does.</p>
+      entered.</p>
+    <p><b>Nor is it a rate among the editions that answer.</b> That was the
+      obvious fix and it is worse, because whether a field is recorded is not
+      independent of its answer. Nobody writes down <code>artifact =
+      false</code>; the key appears when there <i>was</i> an artifact track and
+      is simply absent otherwise. A rate over the editions that answered
+      therefore came out near 100%, which said a great deal about how this
+      corpus is typed and nothing about the field.</p>
+    <p>So each bar below is <b>every edition of that year</b>, split three
+      ways: recorded as doing it, recorded as not, and nobody has checked. The
+      solid part is a <b>floor</b> &mdash; at least this many &mdash; and the
+      dotted part is what decides how much that floor is worth. A practice at
+      20% solid with half the column dotted might really be at 60%; the chart
+      says so by showing both rather than picking one.</p>
+    <p>Two charts work differently and say so under themselves: the medians
+      can only be taken over editions that publish a figure, and the gender
+      line is a rate per person over the editions that record a committee
+      &mdash; whether somebody looked up a committee does not depend on who
+      was on it.</p>
+    <p>None of this makes the corpus a sample of the field. It is what one
+      person had time to enter: it leans towards formal methods, and within
+      that towards conferences that publish their numbers at all. Where a year
+      holds fewer than {{ trends.floor }} editions, nothing is drawn.</p>
   </div>
 </section>
 
@@ -66,21 +76,30 @@
 </section>
 
 {% for m in trends.metrics %}
-{% set field = 'pct' if m.kind == 'pct' else 'value' %}
+{% set field = {'pct': 'floor', 'rate': 'pct'}.get(m.kind, 'value') %}
 <section class="panel">
   <h2 class="panel-title">{{ m.label }}</h2>
   <div class="trendstrip">
-    <ol class="trendbars">
+    <ol class="trendbars{{ ' is-stacked' if m.kind == 'pct' }}">
       {% for r in trends.rows %}
       {% set cell = r[m.key] %}
       {% set value = cell[field] %}
       {% if value is none %}
-      <li class="is-thin" title="{{ r.year }}: {{ cell.n }} edition{{ 's' if cell.n != 1 }} record this, too few to draw"></li>
+      <li class="is-thin" title="{{ r.year }}: too few editions recorded to draw"></li>
+      {% elif m.kind == 'pct' %}
+      {# Three parts of every edition that year, not a rate among the ones that
+         answered. Whether a field is recorded is not independent of its answer
+         — nobody writes `artifact = false` — so the solid part is a floor, and
+         the dotted part is what decides how much that floor is worth. #}
+      <li title="{{ r.year }}: {{ cell.yes }} of {{ cell.total }} editions recorded as doing this
+        {%- if cell.no %}, {{ cell.no }} recorded as not{% endif %}
+        {%- if cell.unknown %}, {{ cell.unknown }} say nothing{% endif %} — at least {{ value }}%">
+        <i class="seg-yes" style="--h: {{ (100 * cell.yes / cell.total) | round(1) }}%"></i>
+        <i class="seg-no" style="--h: {{ (100 * cell.no / cell.total) | round(1) }}%"></i>
+        <i class="seg-unknown" style="--h: {{ (100 * cell.unknown / cell.total) | round(1) }}%"></i>
+      </li>
       {% else %}
-      {# Percentages are drawn against the full scale, not against their own
-         peak: a practice that only ever reached 12% should look like a
-         practice that only ever reached 12%. #}
-      {% set height = (100 * value / (100 if m.kind == 'pct' else m.peak)) | round | int %}
+      {% set height = (100 * value / (100 if m.kind == 'rate' else m.peak)) | round | int %}
       <li title="{{ r.year }}: {{ value }}{{ m.unit }} of {{ cell.n }} edition{{ 's' if cell.n != 1 }}{% if m.key == 'women' %}, {{ cell.people }} people{% endif %}">
         <i style="--h: {{ [height, 2] | max }}%"></i></li>
       {% endif %}
@@ -88,27 +107,41 @@
     </ol>
     {% include "_trendaxis.html.j2" %}
   </div>
+  {% if m.kind == 'pct' %}
+  <p class="trendkey" aria-hidden="true">
+    <span><i class="seg-yes"></i> recorded as doing it</span>
+    <span><i class="seg-no"></i> recorded as not</span>
+    <span><i class="seg-unknown"></i> nobody has checked</span>
+  </p>
+  {% endif %}
   {% set drawn = trends.rows | selectattr(m.key ~ '.' ~ field) | list %}
   {% if drawn %}
   <p class="trendends">
-    <span>{{ drawn[0].year }}: <b>{{ drawn[0][m.key][field] }}{{ m.unit }}</b></span>
+    <span>{{ drawn[0].year }}: <b>{% if m.kind == 'pct' %}&ge;&#8201;{% endif %}{{ drawn[0][m.key][field] }}{{ m.unit }}</b></span>
     <span aria-hidden="true">&rarr;</span>
-    <span>{{ drawn[-1].year }}: <b>{{ drawn[-1][m.key][field] }}{{ m.unit }}</b></span>
-    {% if m.kind == 'pct' %}<span class="data">peak {{ m.peak }}%</span>{% endif %}
+    <span>{{ drawn[-1].year }}: <b>{% if m.kind == 'pct' %}&ge;&#8201;{% endif %}{{ drawn[-1][m.key][field] }}{{ m.unit }}</b></span>
+    {% if m.kind != 'value' %}<span class="data">peak {{ m.peak }}%</span>{% endif %}
   </p>
   {% endif %}
   <p class="chart-caption">
     {%- if m.note %}{{ m.note }} {% endif -%}
-    {% if m.thin %}{{ m.thin }} year{{ 's' if m.thin != 1 }} left blank for want
-    of records.{% endif %}</p>
+    {% if m.kind == 'pct' %}Each column is every edition of that year. The solid
+    part is a <b>floor</b> &mdash; at least this many did it &mdash; because an
+    edition that says nothing may have done it too and simply never been
+    checked.{% endif %}
+    {%- if m.thin %} {{ m.thin }} year{{ 's' if m.thin != 1 }} left blank for
+    want of editions.{% endif %}</p>
 </section>
 {% endfor %}
 
 <section class="panel">
   <h2 class="panel-title">The numbers</h2>
-  <p class="chart-caption">Every figure above, with the count of editions each
-    rests on. <code>n</code> is how many editions record that fact at all, which
-    is the number to judge a row by.</p>
+  <p class="chart-caption">Every figure above. The four right-hand columns are
+    floors over <i>all</i> editions of that year, with the number that record
+    the field at all beside them: <code>12/48</code> means twelve editions
+    answered out of forty-eight, so the percentage can only go up as the rest
+    are checked. Women and the two medians are taken over the editions that
+    record them, which is stated with each chart.</p>
   <table class="editions sortable" id="trendtable">
     <thead>
       <tr>
@@ -134,9 +167,12 @@
           <small>{{ r.submitted.n }}</small>{% else %}&ndash;{% endif %}</td>
         <td class="num">{% if r.rate.value is not none %}{{ r.rate.value }}%
           <small>{{ r.rate.n }}</small>{% else %}&ndash;{% endif %}</td>
-        {% for key in ('women', 'free', 'open', 'double', 'artifact') %}
-        <td class="num">{% if r[key].pct is not none %}{{ r[key].pct }}%
-          <small>{{ r[key].n }}</small>{% else %}&ndash;{% endif %}</td>
+        <td class="num">{% if r.women.pct is not none %}{{ r.women.pct }}%
+          <small>{{ r.women.n }}</small>{% else %}&ndash;{% endif %}</td>
+        {# A floor over every edition, with how many of them said anything. #}
+        {% for key in ('free', 'open', 'double', 'artifact') %}
+        <td class="num">{% if r[key].floor is not none %}&ge;&#8201;{{ r[key].floor }}%
+          <small>{{ r[key].n }}/{{ r[key].total }}</small>{% else %}&ndash;{% endif %}</td>
         {% endfor %}
       </tr>
       {% endfor %}

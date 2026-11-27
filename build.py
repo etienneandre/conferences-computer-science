@@ -2412,10 +2412,28 @@ def corpus_trends(site: Site) -> dict | None:
     if not years:
         return None
 
-    def share(pair: list[int]) -> dict:
+    def share(pair: list[int], total: int) -> dict:
+        """Yes, no and nobody-checked, as three parts of every edition.
+
+        Not a rate among the editions that record the field, which was the
+        first thing this page did and was wrong: whether a field is recorded
+        is not independent of its answer. `artifact = true` gets written down
+        because there was an artifact track; an edition without one usually
+        gets no key at all. The recorded set is therefore selected by the
+        answer, and a rate over it came out near 100% — a number that says
+        more about how the corpus is typed than about the field.
+
+        So the denominator is every edition of that year, and the solid share
+        is a **floor**: at least this many did it. The editions that say
+        nothing are kept visible as their own part rather than dropped, since
+        how much is unknown is the thing that decides how much the floor is
+        worth.
+        """
         hits, seen = pair
-        return {"n": seen,
-                "pct": round(100 * hits / seen) if seen >= CORPUS_TREND_FLOOR else None}
+        return {"yes": hits, "no": seen - hits, "unknown": total - seen,
+                "n": seen, "total": total,
+                "floor": round(100 * hits / total) if total >= CORPUS_TREND_FLOOR
+                else None}
 
     rows = []
     for year in sorted(years):
@@ -2437,9 +2455,11 @@ def corpus_trends(site: Site) -> dict | None:
                 "pct": (round(100 * b["women"] / b["people"])
                         if b["gender_editions"] >= CORPUS_TREND_FLOOR and b["people"]
                         else None)},
-            "free": share(b["free"]), "open": share(b["open"]),
-            "double": share(b["double"]), "rebuttal": share(b["rebuttal"]),
-            "artifact": share(b["artifact"]),
+            "free": share(b["free"], b["editions"]),
+            "open": share(b["open"], b["editions"]),
+            "double": share(b["double"], b["editions"]),
+            "rebuttal": share(b["rebuttal"], b["editions"]),
+            "artifact": share(b["artifact"], b["editions"]),
         })
 
     # Trim the long tail of years holding one or two editions: a chart that
@@ -2459,10 +2479,13 @@ def corpus_trends(site: Site) -> dict | None:
         {"key": "rate", "label": "Acceptance rate", "unit": "%", "kind": "value",
          "note": "Median across the editions publishing both numbers."},
         {"key": "women", "label": "Women among chairs and invited speakers",
-         "unit": "%", "kind": "pct",
+         "unit": "%", "kind": "rate",
          "note": "Counted per person, not per edition, so a large committee "
-                 "weighs more than a small one. Programme committees are "
-                 "counted separately and are not in this line."},
+                 "weighs more than a small one, and taken over the editions "
+                 "that record a committee at all \u2014 unlike the bars below, "
+                 "because whether somebody looked up a committee does not "
+                 "depend on who was on it. Programme committees are counted "
+                 "separately and are not in this line."},
         {"key": "free", "label": "Free to read", "unit": "%", "kind": "pct",
          "note": "The reader can obtain the paper without paying, whoever "
                  "owns it."},
@@ -2472,24 +2495,25 @@ def corpus_trends(site: Site) -> dict | None:
                  "is the point: free to read is not the same as open."},
         {"key": "double", "label": "Double-anonymous reviewing", "unit": "%",
          "kind": "pct",
-         "note": "Among editions whose reviewing model is recorded, counting "
-                 "the lightweight variant."},
+         "note": "Counting the lightweight variant as double."},
         {"key": "rebuttal", "label": "Rebuttal phase", "unit": "%", "kind": "pct"},
         {"key": "artifact", "label": "Artifact evaluation", "unit": "%",
          "kind": "pct"},
     ]
     for metric in metrics:
         metric.setdefault("note", "")
-        field = "pct" if metric["kind"] == "pct" else "value"
+        field = {"pct": "floor", "rate": "pct"}.get(metric["kind"], "value")
         values = [r[metric["key"]][field] for r in rows]
         drawn = [v for v in values if v is not None]
         metric["peak"] = max(drawn) if drawn else 0
         metric["thin"] = sum(1 for v in values if v is None)
-        # A metric nobody has recorded for at least three years cannot be
-        # drawn as a trend, and an almost-empty strip invites the reader to
-        # see a shape in two bars.
+        # A field nobody has ever recorded has no floor worth drawing: every
+        # column would be entirely unknown, which the coverage table already
+        # says in one line.
+        metric["ever"] = (sum(r[metric["key"]]["yes"] for r in rows)
+                          if metric["kind"] == "pct" else len(drawn))
         metric["drawn"] = len(drawn)
-    metrics = [m for m in metrics if m["drawn"] >= 3]
+    metrics = [m for m in metrics if m["drawn"] >= 3 and m["ever"]]
 
     return {"rows": rows, "metrics": metrics,
             "first": rows[0]["year"], "last": rows[-1]["year"],

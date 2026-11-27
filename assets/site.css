@@ -813,6 +813,42 @@ footer .disclaimer { color: var(--ink-soft); }
   display: block; width: 100%; height: var(--h, 0);
   background: var(--accent); border-radius: 1px 1px 0 0;
 }
+/* Stacked: yes at the bottom, then no, then what nobody has checked. The
+   column is every edition of that year, so the solid part read against the
+   whole is the floor — and the dotted part is the reason it is only a floor.
+   Three different fills, not three shades, so the parts stay apart in print
+   and for a colour-blind reader. */
+.trendbars.is-stacked li {
+  flex-direction: column; justify-content: flex-end;
+  /* A faint full-height track, so the column's extent stays legible even
+     where the unknown part is most of it. */
+  background: var(--wash);
+}
+.trendbars.is-stacked i { border-radius: 0; }
+.trendbars.is-stacked .seg-unknown {
+  order: 1; border-radius: 1px 1px 0 0;
+  /* Diagonal, like every other "nobody checked" mark on the site, and over a
+     wash rather than transparent: at four-fifths of a column a hatch on white
+     disappears and the bar looks truncated. */
+  background: repeating-linear-gradient(45deg, var(--rule-soft) 0 1px,
+              var(--wash) 1px 5px);
+}
+.trendbars.is-stacked .seg-no { order: 2; background: var(--rule); }
+.trendbars.is-stacked .seg-yes { order: 3; background: var(--accent); }
+
+.trendkey {
+  display: flex; flex-wrap: wrap; gap: .25rem 1rem; margin: .5rem 0 0;
+  font: 400 .72rem/1.5 var(--font-ui); color: var(--ink-faint);
+}
+.trendkey span { display: inline-flex; align-items: center; gap: .35rem; }
+.trendkey i { width: 14px; height: 9px; display: inline-block; }
+.trendkey .seg-yes { background: var(--accent); }
+.trendkey .seg-no { background: var(--rule); }
+.trendkey .seg-unknown {
+  background: repeating-linear-gradient(45deg, var(--rule-soft) 0 1px,
+              var(--wash) 1px 5px);
+  outline: 1px solid var(--rule-soft);
+}
 /* Too few records to draw. Deliberately not a zero-height bar, which would
    read as "none did this": the whole point is that nobody counted. */
 .trendbars li.is-thin {
