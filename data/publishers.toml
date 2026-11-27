@@ -6,9 +6,14 @@
 # a net for anything contributed later, matched on letters and digits
 # alone, so punctuation and case variants need no line of their own.
 #
+# A journal is here when its issue *is* the proceedings, which is a
+# publishing arrangement and not a special issue after the fact: PACMPL,
+# PACMSE, ACM SIGBED Review, IEEE TCAD. Extended versions published later
+# belong in `[[special_issue]]` on the edition instead.
+#
 # `for_profit` is a claim about the publisher and has three states: true,
 # false, and absent for "nobody has written it down". Absent is honest;
-# false is an answer. Five entries below are still waiting for one.
+# false is an answer. Six entries below are still waiting for one.
 #
 # Ordered by how many volumes each carries.
 
@@ -152,6 +157,15 @@ default_license = "cc-by"
 for_profit = false
 # 6 volumes
 
+# A journal that carries the proceedings themselves, not extended versions
+# afterwards: the issue *is* the volume. PACMPL and PACMSE are the same
+# arrangement, which is why they sit here and not under `special_issue`.
+["ACM SIGBED Review"]
+default_license = "acm"
+for_profit = false
+aliases = ["SIGBED Review", "Special issue of ACM SIGBED Review"]
+# 6 volumes
+
 ["EASST"]
 default_license = "free"
 # TODO: for_profit not recorded, so the site says nothing either way
@@ -184,12 +198,6 @@ default_license = "free"
 for_profit = false
 # 3 volumes
 
-["ACM SIGBED Review"]
-default_license = "acm"
-for_profit = false
-aliases = ["SIGBED Review"]
-# 2 volumes
-
 ["IRIT research report"]
 default_license = "free"
 for_profit = false
@@ -209,4 +217,32 @@ for_profit = true
 ["FoLLI-LNCS"]
 default_license = "pay-profit"
 for_profit = true
+# 1 volume
+
+# Journals whose issue is the proceedings, as above. One volume each.
+
+["IEEE TCAD"]
+default_license = "pay"
+for_profit = false
+# 1 volume
+
+["Science of Computer Programming, Elsevier"]
+default_license = "pay-profit"
+for_profit = true
+# 1 volume
+
+["The Journal of Object Technology"]
+default_license = "free"
+for_profit = false
+# 1 volume
+
+["JESA Hermès"]
+default_license = "pay-profit"
+for_profit = true
+aliases = ["JESA Hermès (?)"]
+# 1 volume
+
+["Journal of Science and Technology (Vietnam Academy of Science and Technology)"]
+# TODO: no default licence recorded
+# TODO: for_profit not recorded, so the site says nothing either way
 # 1 volume

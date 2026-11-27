@@ -15,7 +15,7 @@ paper = [2015-05-25]
 notification = [2015-07-06]
 
 [proceedings]
-publisher = "JESA Hermès (?)"
+publisher = "JESA Hermès"  # TODO: verify
 license = "pay-profit"
 
 [extra]

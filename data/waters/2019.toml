@@ -14,7 +14,7 @@ notification = [2019-05-14]
 
 [proceedings]
 none = true
-license = "free"
+# license = "free"
 
 [extra]
 notes = "Colocated with ECRTS. The challenge is proposed by Arne Hamann, Dakshina Dasari, and Falk Wurst, Corporate Research Robert Bosch GmbH and Ignacio Sañudo, Nicola Capodieci, Paolo Burgio and Marko Bertogna, University of Modena and Reggio Emilia."

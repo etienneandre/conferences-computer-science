@@ -14,7 +14,7 @@ notification = [2017-05-08]
 
 [proceedings]
 none = true
-license = "free"
+# license = "free"
 
 [extra]
 notes = "Colocated with ECRTS. This year focus: We encourage submissions proposing novel models or combining existing models for analyzing real-time and performance properties for such heterogeneous systems. Also features the WATERS industrial challenge (formerly FMTV)."

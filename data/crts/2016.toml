@@ -13,7 +13,7 @@ paper = [2016-09-16, 2016-09-25]
 notification = [2016-10-16]
 
 [proceedings]
-publisher = "Special issue of ACM SIGBED Review"
+publisher = "ACM SIGBED Review"
 license = "acm"
 
 [extra]
