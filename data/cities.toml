@@ -1889,6 +1889,22 @@ lat = 47.9029
 lon = 1.9093
 continent = "EU"
 
+["Rabat, Morocco"]
+country = "MA"
+display = "Rabat"
+native = "الرباط"
+native_lang = "ar"
+continent = "AF"
+lat = 34.0209
+lon = -6.8416
+
+["Salt Lake City, Utah, USA"]
+country = "US"
+display = "Salt Lake City"
+continent = "NA"
+lat = 40.7608
+lon = -111.891
+
 ["Ōsaka, Japan"]
 country = "JP"
 display = "Ōsaka"

@@ -1,0 +1,9 @@
+edition = 30
+title = "30th Euromicro Conference on Digital System Design"
+url = "https://dsd-seaa.com/dsd2027/"
+
+[event]
+start = 2027-09-01
+end   = 2027-09-03
+city = "Graz, Austria"
+colocated_with = ["seaa/2027"]

@@ -1,0 +1,12 @@
+acronym = "COMPSAC"
+name = "IEEE International Conference on Computers, Software, and Applications"
+
+[links]
+dblp = "compsac"
+
+[core]
+id = "871"
+
+[[core.history]]
+from = 2008
+rank = "B"

@@ -1,0 +1,8 @@
+acronym = "EuroSys"
+name = "European Conference on Computer Systems"
+
+[links]
+dblp = "eurosys"
+
+[core]
+rank = "absent"

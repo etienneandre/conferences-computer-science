@@ -1,0 +1,21 @@
+edition = 32
+title = "ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
+url = "https://www.asplos-conference.org/asplos2027/"
+
+[event]
+start = 2027-04-11
+end   = 2027-04-15
+city = "Heraklion, Crete, Greece"
+
+[submission]
+tz = "AoE"
+
+[[submission.round]]
+name = "April"
+paper = [2026-04-15]
+notification = [2026-07-27]
+
+[[submission.round]]
+name = "September"
+paper = [2026-09-09]
+notification = [2026-12-21]

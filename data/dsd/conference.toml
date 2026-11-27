@@ -1,0 +1,14 @@
+acronym = "DSD"
+name = "Euromicro Conference on Digital System Design"
+# url = "https://www.dsd-seaa.com/"
+
+[links]
+dblp = "dsd"
+
+[core]
+id = "2334"
+
+# NOTE: first ranking in 2026
+[[core.history]]
+from = 2026
+rank = "C"

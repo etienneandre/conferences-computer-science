@@ -1,0 +1,16 @@
+acronym = "PPoPP"
+name = "ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming"
+
+[links]
+dblp = "ppopp"
+
+[core]
+id = "1691"
+
+[[core.history]]
+from = 2008
+rank = "A"
+
+[[core.history]]
+from = 2023
+rank = "B"

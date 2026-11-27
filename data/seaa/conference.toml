@@ -1,0 +1,21 @@
+acronym = "SEAA"
+name = "Euromicro Conference on Software Engineering and Advanced Applications"
+# url = "https://www.dsd-seaa.com/"
+
+[links]
+dblp = "euromicro"
+
+[core]
+id = "464"
+
+[[core.history]]
+from = 2008
+rank = "absent"
+
+[[core.history]]
+from = 2010
+rank = "C"
+
+[[core.history]]
+from = 2017
+rank = "B"

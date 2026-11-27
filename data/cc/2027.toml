@@ -1,0 +1,16 @@
+edition = 36
+title = "36th ACM SIGPLAN International Conference on Compiler Construction"
+url = "https://conf.researchr.org/home/CC-2027"
+
+[event]
+colocated_with = ["ppopp/2027"]
+start = 2027-03-20
+end   = 2027-03-21
+city = "Salt Lake City, Utah, USA"
+
+[submission]
+tz = "AoE"
+format = "10 pages ACM SIGPLAN, excluding references"
+abstract = [2026-12-01]
+paper = [2026-12-03]
+notification = [2027-01-20]

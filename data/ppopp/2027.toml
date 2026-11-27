@@ -1,0 +1,27 @@
+edition = 32
+title = "32nd ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming"
+url = "https://conf.researchr.org/home/PPoPP-2027"
+
+[event]
+colocated_with = ["cc/2027"]
+start = 2027-03-20
+end   = 2027-03-24
+city = "Salt Lake City, Utah, USA"
+venue = "Salt Lake Marriott Downtown at City Creek"
+
+[submission]
+tz = "AoE"
+paper = [2026-08-03]
+rebuttal_start = 2026-10-13
+rebuttal_end = 2026-10-16
+notification = [2026-10-26]
+
+[review]
+blind = "double"
+
+[proceedings]
+publisher = "ACM Digital Library"
+license = "cc-by"
+
+[extra]
+notes = "Licence can be CC-BY or CC-BY-NC-ND"

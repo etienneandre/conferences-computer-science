@@ -1,0 +1,16 @@
+acronym = "CC"
+name = "ACM SIGPLAN International Conference on Compiler Construction"
+
+[links]
+dblp = "cc"
+
+[core]
+id = "936"
+
+[[core.history]]
+from = 2008
+rank = "A"
+
+[[core.history]]
+from = 2021
+rank = "B"

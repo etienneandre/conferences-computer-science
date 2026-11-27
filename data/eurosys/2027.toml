@@ -1,0 +1,29 @@
+title = "European Conference on Computer Systems"
+url = "https://2027.eurosys.org/"
+
+[event]
+start = 2027-04-19
+end   = 2027-04-22
+city = "Rabat, Morocco"
+
+[submission]
+tz = "AoE"
+
+[[submission.round]]
+name = "Spring"
+abstract = [2026-05-07]
+paper = [2026-05-14]
+notification = [2026-08-21]
+
+[[submission.round]]
+name = "Fall"
+abstract = [2026-09-17]
+paper = [2026-09-24]
+notification = [2027-01-29]
+
+[review]
+artifact = "EuroSys 2027 runs an optional artifact evaluation process, which is how papers earn the ACM Artifacts Available, Artifacts Evaluated: Functional and Results Reproduced badges."
+
+[review.gender.chairs]
+men   = 2
+women = 1

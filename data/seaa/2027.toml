@@ -1,0 +1,9 @@
+edition = 53
+title = "53rd Euromicro Conference on Software Engineering and Advanced Applications"
+url = "https://dsd-seaa.com/seaa2027/"
+
+[event]
+start = 2027-09-01
+end   = 2027-09-03
+city = "Graz, Austria"
+colocated_with = ["dsd/2027"]
