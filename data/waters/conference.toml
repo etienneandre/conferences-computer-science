@@ -3,10 +3,11 @@
 acronym = "WATERS"
 name = "International Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems"
 defunct = "seemingly"
+workshop = true
 
 [core]
-rank = "absent"  # TODO: verify
+rank = "absent"
 
 [legacy]
 # TODO: extract — cross-year prose kept once, verbatim.
-notes = "Deadline extension: 1 week (2014), 4 weeks (2016), 2 weeks (2017), 7 days (2018)."
+notes = "Deadline extension: 1 week (2014)"

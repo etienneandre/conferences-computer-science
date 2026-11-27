@@ -6,6 +6,7 @@ url = "https://waters2017.inria.fr/"
 [event]
 start = 2017-06-27
 city = "Dubrovnik, Croatia"
+part_of = "ecrts/2017"
 
 [submission]
 format = "6 pages IEEE"
@@ -17,4 +18,4 @@ none = true
 # license = "free"
 
 [extra]
-notes = "Colocated with ECRTS. This year focus: We encourage submissions proposing novel models or combining existing models for analyzing real-time and performance properties for such heterogeneous systems. Also features the WATERS industrial challenge (formerly FMTV)."
+notes = "This year focus: We encourage submissions proposing novel models or combining existing models for analyzing real-time and performance properties for such heterogeneous systems. Also features the WATERS industrial challenge (formerly FMTV)."

@@ -6,6 +6,7 @@ url = "https://archives.ecrts.org/fileadmin/WebsitesArchiv/ecrts2019/waters/inde
 [event]
 start = 2019-07-09
 city = "Stuttgart, Germany"
+part_of = "ecrts/2019"
 
 [submission]
 format = "6 pages IEEE"
@@ -17,7 +18,7 @@ none = true
 # license = "free"
 
 [extra]
-notes = "Colocated with ECRTS. The challenge is proposed by Arne Hamann, Dakshina Dasari, and Falk Wurst, Corporate Research Robert Bosch GmbH and Ignacio Sañudo, Nicola Capodieci, Paolo Burgio and Marko Bertogna, University of Modena and Reggio Emilia."
+notes = "The challenge is proposed by Arne Hamann, Dakshina Dasari, and Falk Wurst, Corporate Research Robert Bosch GmbH and Ignacio Sañudo, Nicola Capodieci, Paolo Burgio and Marko Bertogna, University of Modena and Reggio Emilia."
 
 [[cfp]]
 file = "cfp/WATERS-2019.txt"
